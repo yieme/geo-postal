@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59395-000"]={"code":"59395-000","region":"Rio Grande do Norte","city":"Cerro Cora","latitude":-6.04556,"longitude":-36.34583}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17302"]={"code":"17302","region":"PA","city":"Airville","latitude":39.821,"longitude":-76.4012}}(window,'GeoPostal','US');

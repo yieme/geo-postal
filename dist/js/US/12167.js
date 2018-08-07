@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12167"]={"code":"12167","region":"New York","city":"Stamford","latitude":42.4073,"longitude":-74.61432}}(window,'GeoPostal','US');

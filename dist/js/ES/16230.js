@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16230"]={"code":"16230","region":"Castilla-La Mancha","city":"Villanueva de la Jara","latitude":39.43333,"longitude":-1.93333}}(window,'GeoPostal','ES');

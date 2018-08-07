@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA34 5XP"]={"code":"PA34 5XP","region":"Scotland","city":"Lochaline","latitude":56.53608,"longitude":-5.77701}}(window,'GeoPostal','GB');

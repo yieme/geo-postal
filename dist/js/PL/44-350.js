@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-350"]={"code":"44-350","region":"Slaskie","city":"Gorzyce","latitude":49.95945,"longitude":18.39884}}(window,'GeoPostal','PL');

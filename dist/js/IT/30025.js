@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30025"]={"code":"30025","region":"Veneto","city":"Teglio Veneto","latitude":45.81583,"longitude":12.88556}}(window,'GeoPostal','IT');

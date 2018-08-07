@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68440"]={"code":"68440","region":"Nebraska","city":"Steele City","latitude":40.044631,"longitude":-96.973034}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56521"]={"code":"56521","region":"Minnesota","city":"Callaway","latitude":47.020991,"longitude":-96.00039}}(window,'GeoPostal','US');

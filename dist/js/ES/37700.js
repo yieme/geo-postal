@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37700"]={"code":"37700","region":"Castilla y Leon","city":"Bejar","latitude":40.38641,"longitude":-5.76341}}(window,'GeoPostal','ES');

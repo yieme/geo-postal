@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68416"]={"code":"68416","region":"Jawa Timur","city":"Banyuwangi","latitude":-8.2215,"longitude":114.3646}}(window,'GeoPostal','ID');

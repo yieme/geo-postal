@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49810"]={"code":"49810","region":"Castilla y Leon","city":"Morales de Toro","latitude":41.53737,"longitude":-5.30642}}(window,'GeoPostal','ES');

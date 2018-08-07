@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20170"]={"code":"20170","region":"Chon Buri","city":"Ban Talat Bueng","latitude":13.07147,"longitude":101.00314}}(window,'GeoPostal','TH');

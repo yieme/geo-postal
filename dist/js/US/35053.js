@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35053"]={"code":"35053","region":"Alabama","city":"Crane Hill","latitude":34.074579,"longitude":-87.057291}}(window,'GeoPostal','US');

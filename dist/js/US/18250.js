@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18250"]={"code":"18250","region":"PA","city":"Summit Hill","latitude":40.8255,"longitude":-75.8693}}(window,'GeoPostal','US');

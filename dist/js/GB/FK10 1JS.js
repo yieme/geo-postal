@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK10 1JS"]={"code":"FK10 1JS","region":"Scotland","city":"Alloa","latitude":56.11586,"longitude":-3.78997}}(window,'GeoPostal','GB');

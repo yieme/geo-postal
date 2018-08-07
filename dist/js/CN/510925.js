@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510925"]={"code":"510925","region":"Guangdong","city":"Jiekou","latitude":23.54371,"longitude":113.58039}}(window,'GeoPostal','CN');

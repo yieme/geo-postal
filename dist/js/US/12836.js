@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12836"]={"code":"12836","region":"NY","city":"Hague","latitude":43.7463,"longitude":-73.5282}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-420"]={"code":"19-420","region":"Warminsko-mazurskie","city":"Kowale Oleckie","latitude":54.16354,"longitude":22.41666}}(window,'GeoPostal','PL');

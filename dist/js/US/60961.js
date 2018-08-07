@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60961"]={"code":"60961","region":"IL","city":"Reddick","latitude":41.1005,"longitude":-88.2089}}(window,'GeoPostal','US');

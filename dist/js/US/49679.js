@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49679"]={"code":"49679","region":"Michigan","city":"Sears","latitude":43.86056,"longitude":-85.14972}}(window,'GeoPostal','US');

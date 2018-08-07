@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19022"]={"code":"19022","region":"Pennsylvania","city":"Eddystone","latitude":39.862914,"longitude":-75.343388}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47612"]={"code":"47612","region":"Indiana","city":"Cynthiana","latitude":38.168287,"longitude":-87.693153}}(window,'GeoPostal','US');

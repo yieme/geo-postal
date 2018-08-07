@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30517"]={"code":"30517","region":"GA","city":"Braselton","latitude":34.1389,"longitude":-83.7812}}(window,'GeoPostal','US');

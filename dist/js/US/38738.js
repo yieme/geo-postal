@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38738"]={"code":"38738","region":"MS","city":"Parchman","latitude":33.9179,"longitude":-90.4965}}(window,'GeoPostal','US');

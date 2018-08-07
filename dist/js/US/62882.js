@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62882"]={"code":"62882","region":"Illinois","city":"Sandoval","latitude":38.6156,"longitude":-89.11423}}(window,'GeoPostal','US');

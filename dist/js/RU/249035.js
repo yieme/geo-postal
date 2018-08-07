@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249035"]={"code":"249035","region":"Kaluzhskaya oblast'","city":"Obninsk","latitude":55.09681,"longitude":36.61006}}(window,'GeoPostal','RU');

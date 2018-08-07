@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78931"]={"code":"78931","region":"Texas","city":"Bleiblerville","latitude":29.939412,"longitude":-96.405181}}(window,'GeoPostal','US');

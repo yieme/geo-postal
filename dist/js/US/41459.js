@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41459"]={"code":"41459","region":"KY","city":"Ophir","latitude":37.9,"longitude":-83.01}}(window,'GeoPostal','US');

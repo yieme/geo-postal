@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170501"]={"code":"170501","region":"Pichincha","city":"Sangolqui","latitude":-0.33405,"longitude":-78.45217}}(window,'GeoPostal','EC');

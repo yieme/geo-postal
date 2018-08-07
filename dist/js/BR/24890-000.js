@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24890-000"]={"code":"24890-000","region":"Rio de Janeiro","city":"Tangua","latitude":-22.73028,"longitude":-42.71417}}(window,'GeoPostal','BR');

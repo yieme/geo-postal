@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59460"]={"code":"59460","region":"Montana","city":"Loma","latitude":48.004089,"longitude":-110.390803}}(window,'GeoPostal','US');

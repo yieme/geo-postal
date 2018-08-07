@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72650"]={"code":"72650","region":"Pays-de-la-Loire","city":"Aigne","latitude":48.06471,"longitude":0.11908}}(window,'GeoPostal','FR');

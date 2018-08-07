@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5096"]={"code":"5096","region":"South Australia","city":"Para Hills","latitude":-34.8121,"longitude":138.65802}}(window,'GeoPostal','AU');

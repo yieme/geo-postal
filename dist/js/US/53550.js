@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53550"]={"code":"53550","region":"Wisconsin","city":"Juda","latitude":42.501699,"longitude":-89.510219}}(window,'GeoPostal','US');

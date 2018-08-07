@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43030"]={"code":"43030","region":"Hallands lan","city":"Frillesas","latitude":57.31667,"longitude":12.16667}}(window,'GeoPostal','SE');

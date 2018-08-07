@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1660"]={"code":"1660","region":"Vaud","city":"Chateau-d'Oex","latitude":46.47455,"longitude":7.13155}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8K 0A1"]={"code":"V8K 0A1","region":"British Columbia","city":"Salt Spring Island","latitude":48.81726,"longitude":-123.51002}}(window,'GeoPostal','CA');

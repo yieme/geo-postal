@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20640"]={"code":"20640","region":"MD","city":"Indian Head","latitude":38.6001,"longitude":-77.1622}}(window,'GeoPostal','US');

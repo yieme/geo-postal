@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38573"]={"code":"38573","region":"TN","city":"Monroe","latitude":36.4642,"longitude":-85.2164}}(window,'GeoPostal','US');

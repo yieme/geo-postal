@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["418 01"]={"code":"418 01","region":"Ustecky kraj","city":"Bilina","latitude":50.54854,"longitude":13.77535}}(window,'GeoPostal','CZ');

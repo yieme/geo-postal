@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77963"]={"code":"77963","region":"TX","city":"Goliad","latitude":28.6993,"longitude":-97.3783}}(window,'GeoPostal','US');

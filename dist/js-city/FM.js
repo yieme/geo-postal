@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["FM"]={'96941':{r:'Pohnpei',c:'Kolonia'},'96942':{r:'Chuuk',c:'Weno Municipal Offices'},'96943':{r:'Yap',c:'Colonia'},'':{r:'Kosrae',c:'Tafunsak'}};

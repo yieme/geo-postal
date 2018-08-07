@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 0ND"]={"code":"LD3 0ND","region":"Wales","city":"Llandefalle","latitude":52.0109,"longitude":-3.30251}}(window,'GeoPostal','GB');

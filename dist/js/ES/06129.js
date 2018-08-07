@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06129"]={"code":"06129","region":"Extremadura","city":"Zahinos","latitude":38.33135,"longitude":-6.95533}}(window,'GeoPostal','ES');

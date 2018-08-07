@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491 83"]={"code":"491 83","region":"Ionia Nisia","city":"Kato Korakiana","latitude":39.68972,"longitude":19.82528}}(window,'GeoPostal','GR');

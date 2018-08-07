@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46742"]={"code":"46742","region":"Indiana","city":"Hamilton","latitude":41.53366,"longitude":-84.91274}}(window,'GeoPostal','US');

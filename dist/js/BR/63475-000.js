@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63475-000"]={"code":"63475-000","region":"Ceara","city":"Jaguaribe","latitude":-5.89056,"longitude":-38.62194}}(window,'GeoPostal','BR');

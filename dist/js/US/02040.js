@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02040"]={"code":"02040","region":"MA","city":"Greenbush","latitude":42.1793,"longitude":-70.7495}}(window,'GeoPostal','US');

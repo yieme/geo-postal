@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["584 01"]={"code":"584 01","region":"Kraj Vysocina","city":"Ledec nad Sazavou","latitude":49.69517,"longitude":15.27772}}(window,'GeoPostal','CZ');

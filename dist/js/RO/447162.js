@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447162"]={"code":"447162","region":"Satu Mare","city":"Homorodu de Jos","latitude":47.66667,"longitude":23.08333}}(window,'GeoPostal','RO');

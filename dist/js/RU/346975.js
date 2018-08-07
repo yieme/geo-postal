@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346975"]={"code":"346975","region":"Rostovskaya oblast'","city":"Pokrovskoye","latitude":47.4157,"longitude":38.89706}}(window,'GeoPostal','RU');

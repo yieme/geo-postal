@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 1V0"]={"code":"T0K 1V0","region":"Alberta","city":"Picture Butte","latitude":49.8833,"longitude":-112.78516}}(window,'GeoPostal','CA');

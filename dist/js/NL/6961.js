@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6961"]={"code":"6961","region":"Gelderland","city":"Eerbeek","latitude":52.105,"longitude":6.05833}}(window,'GeoPostal','NL');

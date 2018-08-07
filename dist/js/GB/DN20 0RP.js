@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 0RP"]={"code":"DN20 0RP","region":"England","city":"Elsham","latitude":53.59762,"longitude":-0.44151}}(window,'GeoPostal','GB');

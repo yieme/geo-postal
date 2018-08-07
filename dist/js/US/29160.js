@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29160"]={"code":"29160","region":"South Carolina","city":"Swansea","latitude":33.733614,"longitude":-81.098604}}(window,'GeoPostal','US');

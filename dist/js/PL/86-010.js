@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-010"]={"code":"86-010","region":"Kujawsko-pomorskie","city":"Koronowo","latitude":53.3137,"longitude":17.93698}}(window,'GeoPostal','PL');

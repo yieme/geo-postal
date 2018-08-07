@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17458"]={"code":"17458","region":"Catalunya","city":"Fornells de la Selva","latitude":41.93159,"longitude":2.80907}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71070"]={"code":"71070","region":"LA","city":"Saline","latitude":32.197,"longitude":-92.917}}(window,'GeoPostal','US');

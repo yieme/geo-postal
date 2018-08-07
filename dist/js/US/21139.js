@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21139"]={"code":"21139","region":"MD","city":"Riderwood","latitude":39.4093,"longitude":-76.6486}}(window,'GeoPostal','US');

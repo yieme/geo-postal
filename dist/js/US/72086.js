@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72086"]={"code":"72086","region":"AR","city":"Lonoke","latitude":34.7832,"longitude":-91.9214}}(window,'GeoPostal','US');

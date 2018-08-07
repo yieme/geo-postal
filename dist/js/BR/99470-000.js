@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99470-000"]={"code":"99470-000","region":"Rio Grande do Sul","city":"Nao Me Toque","latitude":-28.45917,"longitude":-52.82083}}(window,'GeoPostal','BR');

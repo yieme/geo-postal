@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71652"]={"code":"71652","region":"Arkansas","city":"Kingsland","latitude":33.878245,"longitude":-92.304957}}(window,'GeoPostal','US');

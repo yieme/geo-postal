@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47700"]={"code":"47700","region":"Nouvelle-Aquitaine","city":"Casteljaloux","latitude":44.31762,"longitude":0.08605}}(window,'GeoPostal','FR');

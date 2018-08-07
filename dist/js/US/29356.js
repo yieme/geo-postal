@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29356"]={"code":"29356","region":"SC","city":"Landrum","latitude":35.1565,"longitude":-82.2115}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31023"]={"code":"31023","region":"Georgia","city":"Eastman","latitude":32.197412,"longitude":-83.180532}}(window,'GeoPostal','US');

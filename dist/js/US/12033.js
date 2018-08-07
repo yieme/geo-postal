@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12033"]={"code":"12033","region":"New York","city":"Castleton-on-Hudson","latitude":42.539236,"longitude":-73.707235}}(window,'GeoPostal','US');

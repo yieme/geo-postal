@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14098"]={"code":"14098","region":"NY","city":"Lyndonville","latitude":43.3233,"longitude":-78.3811}}(window,'GeoPostal','US');

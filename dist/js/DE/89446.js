@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89446"]={"code":"89446","region":"Bayern","city":"Ziertheim","latitude":48.65,"longitude":10.38333}}(window,'GeoPostal','DE');

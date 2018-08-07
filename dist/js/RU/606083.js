@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606083"]={"code":"606083","region":"Nizhegorodskaya oblast'","city":"Mulino","latitude":56.28923,"longitude":42.92005}}(window,'GeoPostal','RU');

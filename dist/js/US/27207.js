@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27207"]={"code":"27207","region":"NC","city":"Bear Creek","latitude":35.6129,"longitude":-79.3726}}(window,'GeoPostal','US');

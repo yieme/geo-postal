@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17935"]={"code":"17935","region":"PA","city":"Girardville","latitude":40.7922,"longitude":-76.2858}}(window,'GeoPostal','US');

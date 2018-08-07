@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50280"]={"code":"50280","region":"Punjab","city":"Dinga","latitude":32.63976,"longitude":73.72202}}(window,'GeoPostal','PK');

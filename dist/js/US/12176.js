@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12176"]={"code":"12176","region":"NY","city":"Surprise","latitude":42.3851,"longitude":-73.9587}}(window,'GeoPostal','US');

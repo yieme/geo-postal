@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2410"]={"code":"2410","region":"Niederosterreich","city":"Hainburg an der Donau","latitude":48.14627,"longitude":16.94504}}(window,'GeoPostal','AT');

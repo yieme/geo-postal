@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15924"]={"code":"15924","region":"Pennsylvania","city":"Cairnbrook","latitude":40.158788,"longitude":-78.710101}}(window,'GeoPostal','US');

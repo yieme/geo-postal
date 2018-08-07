@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03139"]={"code":"03139","region":"Brandenburg","city":"Heinrichsfeld","latitude":51.56189,"longitude":14.34257}}(window,'GeoPostal','DE');

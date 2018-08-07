@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31160"]={"code":"31160","region":"Navarra, Comunidad Foral de","city":"Orkoien","latitude":42.8238,"longitude":-1.70485}}(window,'GeoPostal','ES');

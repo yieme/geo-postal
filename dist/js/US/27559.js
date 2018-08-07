@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27559"]={"code":"27559","region":"NC","city":"Moncure","latitude":35.6306,"longitude":-79.0839}}(window,'GeoPostal','US');

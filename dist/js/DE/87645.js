@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87645"]={"code":"87645","region":"Bayern","city":"Schwangau","latitude":47.58333,"longitude":10.73333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331-093"]={"code":"331-093","region":"Chungcheongnam-do","city":"Songwon","latitude":36.91556,"longitude":127.13139}}(window,'GeoPostal','KR');

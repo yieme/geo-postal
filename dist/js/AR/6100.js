@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100"]={"code":"6100","region":"Santa Fe","city":"Rufino","latitude":-34.26827,"longitude":-62.71262}}(window,'GeoPostal','AR');

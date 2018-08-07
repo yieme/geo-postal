@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06500"]={"code":"06500","region":"Provence-Alpes-Cote d'Azur","city":"Gorbio","latitude":43.78681,"longitude":7.4426}}(window,'GeoPostal','FR');

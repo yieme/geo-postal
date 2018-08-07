@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY15 6SS"]={"code":"SY15 6SS","region":"Wales","city":"Church Stoke","latitude":52.53333,"longitude":-3.08333}}(window,'GeoPostal','GB');

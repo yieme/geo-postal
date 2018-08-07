@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25071"]={"code":"25071","region":"WV","city":"Elkview","latitude":38.4429,"longitude":-81.4804}}(window,'GeoPostal','US');

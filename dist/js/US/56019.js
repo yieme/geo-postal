@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56019"]={"code":"56019","region":"Minnesota","city":"Comfrey","latitude":44.10944,"longitude":-94.90417}}(window,'GeoPostal','US');

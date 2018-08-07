@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141313"]={"code":"141313","region":"Ivanovskaya oblast'","city":"Il'inskoye-Khovanskoye","latitude":56.9718,"longitude":39.7684}}(window,'GeoPostal','RU');

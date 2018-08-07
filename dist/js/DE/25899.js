@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25899"]={"code":"25899","region":"Schleswig-Holstein","city":"Dagebull","latitude":54.72928,"longitude":8.70083}}(window,'GeoPostal','DE');

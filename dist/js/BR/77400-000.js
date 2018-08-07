@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77400-000"]={"code":"77400-000","region":"Tocantins","city":"Gurupi","latitude":-11.72917,"longitude":-49.06861}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520"]={"code":"4520","region":"Queensland","city":"Samford","latitude":-27.37271,"longitude":152.88655}}(window,'GeoPostal','AU');

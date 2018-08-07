@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48192"]={"code":"48192","region":"Michigan","city":"Wyandotte","latitude":42.21421,"longitude":-83.14992}}(window,'GeoPostal','US');

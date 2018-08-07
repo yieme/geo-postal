@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38634"]={"code":"38634","region":"MS","city":"Holly Springs","latitude":34.7676,"longitude":-89.4487}}(window,'GeoPostal','US');

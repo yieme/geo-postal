@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78009"]={"code":"78009","region":"Texas","city":"Castroville","latitude":29.347725,"longitude":-98.884965}}(window,'GeoPostal','US');

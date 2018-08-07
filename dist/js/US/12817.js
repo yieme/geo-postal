@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12817"]={"code":"12817","region":"New York","city":"Chestertown","latitude":43.6525,"longitude":-73.80083}}(window,'GeoPostal','US');

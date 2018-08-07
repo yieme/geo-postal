@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04411"]={"code":"04411","region":"ME","city":"Bradley","latitude":44.9015,"longitude":-68.6263}}(window,'GeoPostal','US');

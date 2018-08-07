@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54921"]={"code":"54921","region":"Etela-Karjala","city":"Taipalsaari","latitude":61.15,"longitude":28.05}}(window,'GeoPostal','FI');

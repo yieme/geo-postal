@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV23 2YD"]={"code":"IV23 2YD","region":"Scotland","city":"Garve","latitude":57.61599,"longitude":-4.68895}}(window,'GeoPostal','GB');

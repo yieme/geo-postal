@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04781"]={"code":"04781","region":"Maine","city":"Wallagrass","latitude":47.148249,"longitude":-68.635738}}(window,'GeoPostal','US');

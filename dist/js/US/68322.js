@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68322"]={"code":"68322","region":"Nebraska","city":"Bruning","latitude":40.33556,"longitude":-97.565}}(window,'GeoPostal','US');

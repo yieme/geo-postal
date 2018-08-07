@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-201"]={"code":"74-201","region":"Zachodniopomorskie","city":"Warnice","latitude":53.25376,"longitude":14.99402}}(window,'GeoPostal','PL');

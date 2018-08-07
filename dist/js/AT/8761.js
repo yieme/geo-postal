@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8761"]={"code":"8761","region":"Steiermark","city":"Pols","latitude":47.21667,"longitude":14.58333}}(window,'GeoPostal','AT');

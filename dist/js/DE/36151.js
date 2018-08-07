@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36151"]={"code":"36151","region":"Hessen","city":"Burghaun","latitude":50.69684,"longitude":9.72453}}(window,'GeoPostal','DE');

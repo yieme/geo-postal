@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70712"]={"code":"70712","region":"Louisiana","city":"Angola","latitude":30.995448,"longitude":-91.542794}}(window,'GeoPostal','US');

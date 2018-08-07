@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400 03"]={"code":"400 03","region":"Thessalia","city":"Melivoia","latitude":39.75,"longitude":22.8}}(window,'GeoPostal','GR');

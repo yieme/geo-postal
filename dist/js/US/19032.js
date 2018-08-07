@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19032"]={"code":"19032","region":"Pennsylvania","city":"Folcroft","latitude":39.895002,"longitude":-75.279536}}(window,'GeoPostal','US');

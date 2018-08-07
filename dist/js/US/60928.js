@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60928"]={"code":"60928","region":"IL","city":"Crescent City","latitude":40.7417,"longitude":-87.849}}(window,'GeoPostal','US');

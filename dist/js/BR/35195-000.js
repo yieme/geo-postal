@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35195-000"]={"code":"35195-000","region":"Minas Gerais","city":"Belo Oriente","latitude":-19.22,"longitude":-42.48361}}(window,'GeoPostal','BR');

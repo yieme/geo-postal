@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78477"]={"code":"78477","region":"Dalarnas lan","city":"Borlaenge","latitude":60.4858,"longitude":15.43714}}(window,'GeoPostal','SE');

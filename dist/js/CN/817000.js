@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["817000"]={"code":"817000","region":"Qinghai","city":"Haixi","latitude":37.4,"longitude":97.4}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88416"]={"code":"88416","region":"NM","city":"Conchas Dam","latitude":35.3786,"longitude":-104.2052}}(window,'GeoPostal','US');

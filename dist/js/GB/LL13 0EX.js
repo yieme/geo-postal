@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0EX"]={"code":"LL13 0EX","region":"Wales","city":"Overton","latitude":52.96667,"longitude":-2.93333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41100"]={"code":"41100","region":"Centre-Val de Loire","city":"Naveil","latitude":47.79576,"longitude":1.03222}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22938"]={"code":"22938","region":"VA","city":"Faber","latitude":37.8475,"longitude":-78.7565}}(window,'GeoPostal','US');

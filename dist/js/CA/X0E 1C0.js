@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 1C0"]={"code":"X0E 1C0","region":"Northwest Territories","city":"Tuktoyaktuk","latitude":69.45414,"longitude":-133.03741}}(window,'GeoPostal','CA');

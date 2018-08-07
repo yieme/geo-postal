@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54985"]={"code":"54985","region":"WI","city":"Winnebago","latitude":44.0706,"longitude":-88.5178}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16854"]={"code":"16854","region":"PA","city":"Millheim","latitude":40.8935,"longitude":-77.4733}}(window,'GeoPostal','US');

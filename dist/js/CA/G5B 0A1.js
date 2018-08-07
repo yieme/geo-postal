@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5B 0A1"]={"code":"G5B 0A1","region":"Quebec","city":"Port-Cartier","latitude":50.03339,"longitude":-66.86545}}(window,'GeoPostal','CA');

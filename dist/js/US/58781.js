@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58781"]={"code":"58781","region":"ND","city":"Sawyer","latitude":48.0858,"longitude":-101.0674}}(window,'GeoPostal','US');

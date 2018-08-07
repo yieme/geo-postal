@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30330"]={"code":"30330","region":"Nakhon Ratchasima","city":"Soeng Sang","latitude":14.42642,"longitude":102.46058}}(window,'GeoPostal','TH');

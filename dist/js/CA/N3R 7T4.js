@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3R 7T4"]={"code":"N3R 7T4","region":"Ontario","city":"Brantford","latitude":43.172092,"longitude":-80.229194}}(window,'GeoPostal','CA');

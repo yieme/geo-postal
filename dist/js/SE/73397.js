@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73397"]={"code":"73397","region":"Vastmanlands lan","city":"Sala","latitude":59.91993,"longitude":16.60655}}(window,'GeoPostal','SE');

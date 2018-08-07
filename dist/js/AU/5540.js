@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5540"]={"code":"5540","region":"South Australia","city":"Port Pirie","latitude":-33.19176,"longitude":138.01746}}(window,'GeoPostal','AU');

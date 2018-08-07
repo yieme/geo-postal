@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08346"]={"code":"08346","region":"NJ","city":"Newtonville","latitude":39.5645,"longitude":-74.859}}(window,'GeoPostal','US');

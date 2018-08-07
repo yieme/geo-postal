@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6AS"]={"code":"SA62 6AS","region":"Wales","city":"Newgale","latitude":51.85785,"longitude":-5.12673}}(window,'GeoPostal','GB');

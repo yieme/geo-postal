@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-210"]={"code":"23-210","region":"Lubelskie","city":"Krasnik","latitude":50.9236,"longitude":22.22706}}(window,'GeoPostal','PL');

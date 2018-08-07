@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92649"]={"code":"92649","region":"California","city":"Huntington Beach","latitude":33.719698,"longitude":-118.048631}}(window,'GeoPostal','US');

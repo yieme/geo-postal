@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO26 6GA"]={"code":"YO26 6GA","region":"England","city":"Nether Poppleton","latitude":53.98793,"longitude":-1.15062}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH3 1YA"]={"code":"PH3 1YA","region":"Scotland","city":"Auchterarder","latitude":56.29612,"longitude":-3.70692}}(window,'GeoPostal','GB');

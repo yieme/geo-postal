@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07703"]={"code":"07703","region":"NJ","city":"Fort Monmouth","latitude":40.3177,"longitude":-74.039}}(window,'GeoPostal','US');

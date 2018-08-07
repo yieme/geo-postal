@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH6 6AU"]={"code":"CH6 6AU","region":"Wales","city":"Bagillt","latitude":53.2654,"longitude":-3.16551}}(window,'GeoPostal','GB');

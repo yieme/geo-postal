@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00739"]={"code":"00739","region":"PR","city":"Cidra","latitude":18.17,"longitude":-66.15}}(window,'GeoPostal','US');

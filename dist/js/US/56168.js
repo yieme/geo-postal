@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56168"]={"code":"56168","region":"Minnesota","city":"Rushmore","latitude":43.630625,"longitude":-95.753849}}(window,'GeoPostal','US');

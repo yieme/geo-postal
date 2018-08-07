@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04057"]={"code":"04057","region":"ME","city":"North Bridgton","latitude":44.0987,"longitude":-70.6987}}(window,'GeoPostal','US');

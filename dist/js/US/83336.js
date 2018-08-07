@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83336"]={"code":"83336","region":"Idaho","city":"Heyburn","latitude":42.55852,"longitude":-113.7639}}(window,'GeoPostal','US');

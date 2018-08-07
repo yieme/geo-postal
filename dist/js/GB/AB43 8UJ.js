@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB43 8UJ"]={"code":"AB43 8UJ","region":"Scotland","city":"Cairness","latitude":57.63333,"longitude":-1.93333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15118"]={"code":"15118","region":"Banten","city":"Sumandang","latitude":-6.5068,"longitude":106.329}}(window,'GeoPostal','ID');

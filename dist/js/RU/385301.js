@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385301"]={"code":"385301","region":"Stavropol'skiy kray","city":"Krasnogvardeyskoye","latitude":45.84604,"longitude":41.51885}}(window,'GeoPostal','RU');

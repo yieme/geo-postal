@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307043"]={"code":"307043","region":"Rajasthan","city":"Sheoganj","latitude":25.15,"longitude":73.06667}}(window,'GeoPostal','IN');

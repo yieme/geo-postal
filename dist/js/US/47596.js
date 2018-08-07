@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47596"]={"code":"47596","region":"IN","city":"Westphalia","latitude":38.8628,"longitude":-87.2256}}(window,'GeoPostal','US');

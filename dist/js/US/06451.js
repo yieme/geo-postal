@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06451"]={"code":"06451","region":"Connecticut","city":"Meriden","latitude":41.536072,"longitude":-72.822869}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67480"]={"code":"67480","region":"Rheinland-Pfalz","city":"Edenkoben","latitude":49.28393,"longitude":8.12714}}(window,'GeoPostal','DE');

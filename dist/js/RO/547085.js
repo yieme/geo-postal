@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547085"]={"code":"547085","region":"Mures","city":"Batos","latitude":46.88333,"longitude":24.66667}}(window,'GeoPostal','RO');

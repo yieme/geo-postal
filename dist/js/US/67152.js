@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67152"]={"code":"67152","region":"Kansas","city":"Wellington","latitude":37.268637,"longitude":-97.39528}}(window,'GeoPostal','US');

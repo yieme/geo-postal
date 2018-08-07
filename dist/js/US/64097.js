@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64097"]={"code":"64097","region":"MO","city":"Wellington","latitude":39.1258,"longitude":-93.9855}}(window,'GeoPostal','US');

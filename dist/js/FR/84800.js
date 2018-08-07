@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84800"]={"code":"84800","region":"Provence-Alpes-Cote d'Azur","city":"Saumane-de-Vaucluse","latitude":43.9372,"longitude":5.1069}}(window,'GeoPostal','FR');

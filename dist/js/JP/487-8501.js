@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["487-8501"]={"code":"487-8501","region":"Aichi","city":"Kasugai","latitude":35.24778,"longitude":136.97222}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12492"]={"code":"12492","region":"NY","city":"West Kill","latitude":42.2046,"longitude":-74.362}}(window,'GeoPostal','US');

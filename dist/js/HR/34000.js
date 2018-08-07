@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34000"]={"code":"34000","region":"Pozesko-slavonska zupanija","city":"Pozega","latitude":45.34028,"longitude":17.68528}}(window,'GeoPostal','HR');

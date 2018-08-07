@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65171"]={"code":"65171","region":"Occitanie","city":"Saint-Lary-Soulan","latitude":42.81713,"longitude":0.32238}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44359"]={"code":"44359","region":"Pays-de-la-Loire","city":"Guerande","latitude":47.32911,"longitude":-2.42829}}(window,'GeoPostal','FR');

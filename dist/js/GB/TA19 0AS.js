@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA19 0AS"]={"code":"TA19 0AS","region":"England","city":"Ilminster","latitude":50.92684,"longitude":-2.91009}}(window,'GeoPostal','GB');

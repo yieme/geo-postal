@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN9 3HT"]={"code":"DN9 3HT","region":"England","city":"Auckley","latitude":53.50386,"longitude":-1.02174}}(window,'GeoPostal','GB');

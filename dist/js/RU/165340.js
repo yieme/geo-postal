@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165340"]={"code":"165340","region":"Arkhangel'skaya oblast'","city":"Vychegodskiy","latitude":61.24702,"longitude":46.89842}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63628"]={"code":"63628","region":"Missouri","city":"Bonne Terre","latitude":37.92311,"longitude":-90.5554}}(window,'GeoPostal','US');

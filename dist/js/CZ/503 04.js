@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 04"]={"code":"503 04","region":"Stredocesky kraj","city":"Cernozice","latitude":50.31863,"longitude":15.87403}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77452"]={"code":"77452","region":"Texas","city":"Kenney","latitude":30.04835,"longitude":-96.32186}}(window,'GeoPostal','US');

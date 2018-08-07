@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39572"]={"code":"39572","region":"Mississippi","city":"Pearlington","latitude":30.244684,"longitude":-89.605876}}(window,'GeoPostal','US');

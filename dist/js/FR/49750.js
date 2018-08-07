@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49750"]={"code":"49750","region":"Pays-de-la-Loire","city":"Beaulieu-sur-Layon","latitude":47.31096,"longitude":-0.58988}}(window,'GeoPostal','FR');

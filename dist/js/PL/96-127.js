@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-127"]={"code":"96-127","region":"Lodzkie","city":"Godzianow","latitude":51.89694,"longitude":20.03589}}(window,'GeoPostal','PL');

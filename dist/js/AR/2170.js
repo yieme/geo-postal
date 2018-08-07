@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2170"]={"code":"2170","region":"Santa Fe","city":"Casilda","latitude":-33.04417,"longitude":-61.16806}}(window,'GeoPostal','AR');

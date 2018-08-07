@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83058"]={"code":"83058","region":"Campania","city":"Trevico","latitude":41.04842,"longitude":15.23345}}(window,'GeoPostal','IT');

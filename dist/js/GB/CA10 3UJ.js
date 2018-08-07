@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 3UJ"]={"code":"CA10 3UJ","region":"England","city":"Gaisgill","latitude":54.43333,"longitude":-2.55}}(window,'GeoPostal','GB');

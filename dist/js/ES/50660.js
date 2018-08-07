@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50660"]={"code":"50660","region":"Aragon","city":"Tauste","latitude":41.91804,"longitude":-1.25343}}(window,'GeoPostal','ES');

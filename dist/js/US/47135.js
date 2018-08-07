@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47135"]={"code":"47135","region":"IN","city":"Laconia","latitude":38.0527,"longitude":-86.0844}}(window,'GeoPostal','US');

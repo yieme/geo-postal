@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2EP"]={"code":"DE6 2EP","region":"England","city":"Snelston","latitude":52.98791,"longitude":-1.77531}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17754"]={"code":"17754","region":"Pennsylvania","city":"Montoursville","latitude":41.25534,"longitude":-76.924599}}(window,'GeoPostal','US');

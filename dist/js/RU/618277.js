@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618277"]={"code":"618277","region":"Permskiy kray","city":"Gremyachinsk","latitude":58.5603,"longitude":57.851}}(window,'GeoPostal','RU');

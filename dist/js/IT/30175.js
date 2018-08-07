@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30175"]={"code":"30175","region":"Veneto","city":"Venice","latitude":45.43861,"longitude":12.32667}}(window,'GeoPostal','IT');

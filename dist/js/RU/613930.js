@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613930"]={"code":"613930","region":"Kirovskaya oblast'","city":"Podosinovets","latitude":60.27758,"longitude":47.06587}}(window,'GeoPostal','RU');

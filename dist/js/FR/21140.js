@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21140"]={"code":"21140","region":"Bourgogne-Franche-Comte","city":"Semur-en-Auxois","latitude":47.48333,"longitude":4.33333}}(window,'GeoPostal','FR');

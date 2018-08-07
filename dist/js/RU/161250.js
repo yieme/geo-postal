@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161250"]={"code":"161250","region":"Vologodskaya oblast'","city":"Lipin Bor","latitude":60.26215,"longitude":37.97628}}(window,'GeoPostal','RU');

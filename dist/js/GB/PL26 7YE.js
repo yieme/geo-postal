@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 7YE"]={"code":"PL26 7YE","region":"England","city":"Nanpean","latitude":50.36884,"longitude":-4.86935}}(window,'GeoPostal','GB');

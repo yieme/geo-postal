@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81132"]={"code":"81132","region":"Colorado","city":"Del Norte","latitude":37.67889,"longitude":-106.35337}}(window,'GeoPostal','US');

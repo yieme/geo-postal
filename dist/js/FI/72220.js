@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72220"]={"code":"72220","region":"Lappi","city":"Tervo","latitude":67.1,"longitude":27.51667}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462500"]={"code":"462500","region":"Henan","city":"Yakou","latitude":33.29649,"longitude":113.52351}}(window,'GeoPostal','CN');

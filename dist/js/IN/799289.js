@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799289"]={"code":"799289","region":"Tripura","city":"Kamalpur","latitude":24.2,"longitude":91.83333}}(window,'GeoPostal','IN');

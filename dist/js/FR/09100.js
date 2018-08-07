@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09100"]={"code":"09100","region":"Occitanie","city":"Saint-Jean-du-Falga","latitude":43.08647,"longitude":1.6278}}(window,'GeoPostal','FR');

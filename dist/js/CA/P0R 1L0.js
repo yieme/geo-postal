@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0R 1L0"]={"code":"P0R 1L0","region":"Ontario","city":"Thessalon","latitude":46.25006,"longitude":-83.5666}}(window,'GeoPostal','CA');

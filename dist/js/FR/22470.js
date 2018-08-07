@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22470"]={"code":"22470","region":"Bretagne","city":"Plouezec","latitude":48.75122,"longitude":-2.98466}}(window,'GeoPostal','FR');

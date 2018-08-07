@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99371"]={"code":"99371","region":"WA","city":"Washtucna","latitude":46.8209,"longitude":-118.2862}}(window,'GeoPostal','US');

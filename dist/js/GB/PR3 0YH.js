@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 0YH"]={"code":"PR3 0YH","region":"England","city":"Great Eccleston","latitude":53.85315,"longitude":-2.87026}}(window,'GeoPostal','GB');

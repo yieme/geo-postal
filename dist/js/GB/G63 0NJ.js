@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 0NJ"]={"code":"G63 0NJ","region":"Scotland","city":"Gartness","latitude":56.05,"longitude":-4.4}}(window,'GeoPostal','GB');

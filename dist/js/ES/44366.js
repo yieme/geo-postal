@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44366"]={"code":"44366","region":"Aragon","city":"Orihuela del Tremedal","latitude":40.55,"longitude":-1.65}}(window,'GeoPostal','ES');

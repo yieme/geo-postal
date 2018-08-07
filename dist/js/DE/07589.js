@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07589"]={"code":"07589","region":"Thuringen","city":"Grossebersdorf","latitude":50.78635,"longitude":11.95335}}(window,'GeoPostal','DE');

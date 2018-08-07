@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55415-000"]={"code":"55415-000","region":"Pernambuco","city":"Quipapa","latitude":-8.82778,"longitude":-36.01167}}(window,'GeoPostal','BR');

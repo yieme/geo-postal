@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 7EL"]={"code":"TR19 7EL","region":"England","city":"Lower Boscaswell","latitude":50.15483,"longitude":-5.67193}}(window,'GeoPostal','GB');

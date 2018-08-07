@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78360"]={"code":"78360","region":"Ile-de-France","city":"Montesson","latitude":48.90924,"longitude":2.13754}}(window,'GeoPostal','FR');

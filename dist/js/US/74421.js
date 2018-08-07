@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74421"]={"code":"74421","region":"Oklahoma","city":"Beggs","latitude":35.742074,"longitude":-96.06787}}(window,'GeoPostal','US');

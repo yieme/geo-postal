@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20776"]={"code":"20776","region":"Maryland","city":"Harwood","latitude":38.865,"longitude":-76.62}}(window,'GeoPostal','US');

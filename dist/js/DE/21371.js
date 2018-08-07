@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21371"]={"code":"21371","region":"Niedersachsen","city":"Alt Garge","latitude":53.26284,"longitude":10.79143}}(window,'GeoPostal','DE');

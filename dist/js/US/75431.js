@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75431"]={"code":"75431","region":"Texas","city":"Como","latitude":33.078663,"longitude":-95.367887}}(window,'GeoPostal','US');

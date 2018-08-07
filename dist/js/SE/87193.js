@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87193"]={"code":"87193","region":"Vasternorrlands lan","city":"Harnosand","latitude":62.63228,"longitude":17.93794}}(window,'GeoPostal','SE');

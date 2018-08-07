@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21385"]={"code":"21385","region":"Niedersachsen","city":"Amelinghausen","latitude":53.12397,"longitude":10.21274}}(window,'GeoPostal','DE');

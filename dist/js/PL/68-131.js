@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-131"]={"code":"68-131","region":"Lubuskie","city":"Wymiarki","latitude":51.51109,"longitude":15.08208}}(window,'GeoPostal','PL');

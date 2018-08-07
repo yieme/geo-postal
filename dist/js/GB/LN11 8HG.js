@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8HG"]={"code":"LN11 8HG","region":"England","city":"Manby","latitude":53.36291,"longitude":0.09653}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55413"]={"code":"55413","region":"Rheinland-Pfalz","city":"Trechtingshausen","latitude":50.01667,"longitude":7.85}}(window,'GeoPostal','DE');

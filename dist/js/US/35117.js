@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35117"]={"code":"35117","region":"AL","city":"Mount Olive","latitude":33.6768,"longitude":-86.8717}}(window,'GeoPostal','US');

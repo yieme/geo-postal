@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56387"]={"code":"56387","region":"Minnesota","city":"Waite Park","latitude":45.552533,"longitude":-94.216121}}(window,'GeoPostal','US');

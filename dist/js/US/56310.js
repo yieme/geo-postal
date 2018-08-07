@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56310"]={"code":"56310","region":"Minnesota","city":"Avon","latitude":45.626297,"longitude":-94.445348}}(window,'GeoPostal','US');

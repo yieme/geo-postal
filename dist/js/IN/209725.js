@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209725"]={"code":"209725","region":"Uttar Pradesh","city":"Kannauj","latitude":27.0546,"longitude":79.922}}(window,'GeoPostal','IN');

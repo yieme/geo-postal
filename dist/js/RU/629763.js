@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629763"]={"code":"629763","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Nadym","latitude":65.53333,"longitude":72.51667}}(window,'GeoPostal','RU');

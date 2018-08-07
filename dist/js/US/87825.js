@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87825"]={"code":"87825","region":"New Mexico","city":"Magdalena","latitude":34.1125,"longitude":-107.23778}}(window,'GeoPostal','US');

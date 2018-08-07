@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142632"]={"code":"142632","region":"Moskovskaya oblast'","city":"Demikhovo","latitude":55.79685,"longitude":38.88404}}(window,'GeoPostal','RU');

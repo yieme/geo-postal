@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300-383"]={"code":"7300-383","region":"Portalegre","city":"Urra","latitude":39.2283,"longitude":-7.39856}}(window,'GeoPostal','PT');

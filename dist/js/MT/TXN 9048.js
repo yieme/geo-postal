@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TXN 9048"]={"code":"TXN 9048","region":"Fgura","city":"Fgura","latitude":35.87028,"longitude":14.51333}}(window,'GeoPostal','MT');

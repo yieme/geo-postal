@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86437"]={"code":"86437","region":"AZ","city":"Valentine","latitude":35.3788,"longitude":-113.6141}}(window,'GeoPostal','US');

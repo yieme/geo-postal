@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66840"]={"code":"66840","region":"Kansas","city":"Burns","latitude":38.089091,"longitude":-96.886093}}(window,'GeoPostal','US');

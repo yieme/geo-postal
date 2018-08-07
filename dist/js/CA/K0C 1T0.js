@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1T0"]={"code":"K0C 1T0","region":"Ontario","city":"Maxville","latitude":45.28339,"longitude":-74.84928}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 1B0"]={"code":"A0K 1B0","region":"Newfoundland and Labrador","city":"Baie Verte","latitude":49.93325,"longitude":-56.18152}}(window,'GeoPostal','CA');

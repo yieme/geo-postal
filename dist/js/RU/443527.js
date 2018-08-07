@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443527"]={"code":"443527","region":"Samarskaya oblast'","city":"Spiridonovka","latitude":53.09248,"longitude":50.64621}}(window,'GeoPostal','RU');

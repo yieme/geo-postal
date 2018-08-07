@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["017300"]={"code":"017300","region":"Nei Mongol","city":"Galutu","latitude":38.60086,"longitude":108.84742}}(window,'GeoPostal','CN');

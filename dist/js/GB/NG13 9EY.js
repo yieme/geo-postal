@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9EY"]={"code":"NG13 9EY","region":"England","city":"Whatton","latitude":52.94605,"longitude":-0.8917}}(window,'GeoPostal','GB');

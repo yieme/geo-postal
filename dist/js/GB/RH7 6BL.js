@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH7 6BL"]={"code":"RH7 6BL","region":"England","city":"Lingfield","latitude":51.17482,"longitude":-0.01287}}(window,'GeoPostal','GB');

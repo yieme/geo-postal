@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65582"]={"code":"65582","region":"Rheinland-Pfalz","city":"Freiendiez","latitude":50.37004,"longitude":8.02754}}(window,'GeoPostal','DE');

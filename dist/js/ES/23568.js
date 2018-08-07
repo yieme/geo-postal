@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23568"]={"code":"23568","region":"Andalucia","city":"Belmez de la Moraleda","latitude":37.72382,"longitude":-3.38207}}(window,'GeoPostal','ES');

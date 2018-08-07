@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7581"]={"code":"7581","region":"Sor-Trondelag","city":"Mebonden","latitude":63.22907,"longitude":11.03128}}(window,'GeoPostal','NO');

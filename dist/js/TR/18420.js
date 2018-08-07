@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18420"]={"code":"18420","region":"Balikesir","city":"Gonen","latitude":40.1049,"longitude":27.65399}}(window,'GeoPostal','TR');

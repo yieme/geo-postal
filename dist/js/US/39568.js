@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39568"]={"code":"39568","region":"MS","city":"Pascagoula","latitude":30.4411,"longitude":-88.6345}}(window,'GeoPostal','US');

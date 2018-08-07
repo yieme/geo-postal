@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85999"]={"code":"85999","region":"Pohjois-Pohjanmaa","city":"Ylivieska","latitude":64.08333,"longitude":24.55}}(window,'GeoPostal','FI');

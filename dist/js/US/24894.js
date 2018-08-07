@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24894"]={"code":"24894","region":"WV","city":"Warriormine","latitude":37.2929,"longitude":-81.6971}}(window,'GeoPostal','US');

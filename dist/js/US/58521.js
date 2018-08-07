@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58521"]={"code":"58521","region":"ND","city":"Baldwin","latitude":46.9543,"longitude":-100.7615}}(window,'GeoPostal','US');

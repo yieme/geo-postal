@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15775"]={"code":"15775","region":"PA","city":"Spangler","latitude":40.6351,"longitude":-78.7692}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73099"]={"code":"73099","region":"Bayern","city":"Adelberg","latitude":47.6,"longitude":9.81667}}(window,'GeoPostal','DE');

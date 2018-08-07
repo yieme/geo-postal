@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57420"]={"code":"57420","region":"SD","city":"Akaska","latitude":45.3324,"longitude":-100.1186}}(window,'GeoPostal','US');

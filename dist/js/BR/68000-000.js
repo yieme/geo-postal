@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68000-000"]={"code":"68000-000","region":"Para","city":"Santarem","latitude":-2.44306,"longitude":-54.70833}}(window,'GeoPostal','BR');

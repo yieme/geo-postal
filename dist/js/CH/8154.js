@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8154"]={"code":"8154","region":"Zurich","city":"Oberglatt","latitude":47.47576,"longitude":8.51896}}(window,'GeoPostal','CH');

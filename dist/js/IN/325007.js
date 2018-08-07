@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325007"]={"code":"325007","region":"Rajasthan","city":"Kota","latitude":25.18333,"longitude":75.83333}}(window,'GeoPostal','IN');

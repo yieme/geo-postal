@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07834"]={"code":"07834","region":"New Jersey","city":"Denville","latitude":40.886077,"longitude":-74.484692}}(window,'GeoPostal','US');

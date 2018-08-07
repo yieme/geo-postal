@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13140"]={"code":"13140","region":"New York","city":"Port Byron","latitude":43.03451,"longitude":-76.62383}}(window,'GeoPostal','US');

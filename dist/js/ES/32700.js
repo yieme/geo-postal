@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32700"]={"code":"32700","region":"Galicia","city":"Maceda","latitude":42.26972,"longitude":-7.65052}}(window,'GeoPostal','ES');

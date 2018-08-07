@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98110"]={"code":"98110","region":"Washington","city":"Bainbridge Island","latitude":47.62621,"longitude":-122.52124}}(window,'GeoPostal','US');

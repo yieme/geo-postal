@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84164"]={"code":"84164","region":"Bayern","city":"Unterdietenau","latitude":48.6664,"longitude":12.47541}}(window,'GeoPostal','DE');

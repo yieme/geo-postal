@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61758"]={"code":"61758","region":"IL","city":"Merna","latitude":40.5167,"longitude":-88.8259}}(window,'GeoPostal','US');

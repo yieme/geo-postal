@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542 25"]={"code":"542 25","region":"Kralovehradecky kraj","city":"Svoboda nad Upou","latitude":50.62596,"longitude":15.81648}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["916 01"]={"code":"916 01","region":"Nitriansky kraj","city":"Stara Tura","latitude":48.77721,"longitude":17.69433}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 8GS"]={"code":"DN20 8GS","region":"England","city":"Brigg","latitude":53.55201,"longitude":-0.49214}}(window,'GeoPostal','GB');

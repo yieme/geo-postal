@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362633"]={"code":"362633","region":"Gujarat","city":"Gondal","latitude":21.96667,"longitude":70.8}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37141"]={"code":"37141","region":"TN","city":"Orlinda","latitude":36.611,"longitude":-86.699}}(window,'GeoPostal','US');

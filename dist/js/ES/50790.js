@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50790"]={"code":"50790","region":"Aragon","city":"Escatron","latitude":41.29149,"longitude":-0.32308}}(window,'GeoPostal','ES');

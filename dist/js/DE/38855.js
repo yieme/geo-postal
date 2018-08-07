@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38855"]={"code":"38855","region":"Sachsen-Anhalt","city":"Noschenrode","latitude":51.82998,"longitude":10.78901}}(window,'GeoPostal','DE');

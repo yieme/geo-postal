@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["236612"]={"code":"236612","region":"Anhui","city":"Taihe","latitude":33.16552,"longitude":115.64886}}(window,'GeoPostal','CN');

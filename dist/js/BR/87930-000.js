@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87930-000"]={"code":"87930-000","region":"Mato Grosso do Sul","city":"Porto Barra do Ivinheima","latitude":-22.96667,"longitude":-53.66667}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15352"]={"code":"15352","region":"Macvanski okrug","city":"Zminjak","latitude":44.75472,"longitude":19.47056}}(window,'GeoPostal','RS');

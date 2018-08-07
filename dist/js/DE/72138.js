@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72138"]={"code":"72138","region":"Baden-Wurttemberg","city":"Kirchentellinsfurt","latitude":48.53315,"longitude":9.14732}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81649"]={"code":"81649","region":"CO","city":"Red Cliff","latitude":39.5122,"longitude":-106.3681}}(window,'GeoPostal','US');

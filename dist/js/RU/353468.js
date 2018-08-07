@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353468"]={"code":"353468","region":"Krasnodarskiy kray","city":"Gelendzhik","latitude":44.5622,"longitude":38.0848}}(window,'GeoPostal','RU');

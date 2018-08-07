@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26600"]={"code":"26600","region":"Pahang","city":"Pekan","latitude":3.4836,"longitude":103.3996}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55670-000"]={"code":"55670-000","region":"Pernambuco","city":"Sao Joaquim do Monte","latitude":-8.4325,"longitude":-35.80444}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37367"]={"code":"37367","region":"Tennessee","city":"Pikeville","latitude":35.615103,"longitude":-85.190315}}(window,'GeoPostal','US');

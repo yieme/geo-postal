@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01039"]={"code":"01039","region":"Lazio","city":"Vignanello","latitude":42.38383,"longitude":12.27677}}(window,'GeoPostal','IT');

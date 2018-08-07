@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06450"]={"code":"06450","region":"Extremadura","city":"Quintana de la Serena","latitude":38.74595,"longitude":-5.67233}}(window,'GeoPostal','ES');

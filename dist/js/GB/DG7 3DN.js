@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 3DN"]={"code":"DG7 3DN","region":"Scotland","city":"Corsock","latitude":55.0665,"longitude":-3.94578}}(window,'GeoPostal','GB');

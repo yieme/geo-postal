@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352160"]={"code":"352160","region":"Krasnodarskiy kray","city":"Girey","latitude":45.4012,"longitude":40.6587}}(window,'GeoPostal','RU');

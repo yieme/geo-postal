@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50200"]={"code":"50200","region":"Punjab","city":"Lala Musa","latitude":32.70235,"longitude":73.96}}(window,'GeoPostal','PK');

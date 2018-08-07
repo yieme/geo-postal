@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31600"]={"code":"31600","region":"Navarra, Comunidad Foral de","city":"Burlata","latitude":42.82562,"longitude":-1.61671}}(window,'GeoPostal','ES');

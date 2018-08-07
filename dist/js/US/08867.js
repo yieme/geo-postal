@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08867"]={"code":"08867","region":"NJ","city":"Pittstown","latitude":40.5992,"longitude":-74.9576}}(window,'GeoPostal','US');

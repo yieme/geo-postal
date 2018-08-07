@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 0FL"]={"code":"NG13 0FL","region":"England","city":"Bottesford","latitude":52.95,"longitude":-0.8}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1115"]={"code":"1115","region":"Noord-Holland","city":"Duivendrecht","latitude":52.32941,"longitude":4.93964}}(window,'GeoPostal','NL');

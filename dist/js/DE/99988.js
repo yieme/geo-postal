@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99988"]={"code":"99988","region":"Thuringen","city":"Wendehausen","latitude":51.16051,"longitude":10.24944}}(window,'GeoPostal','DE');

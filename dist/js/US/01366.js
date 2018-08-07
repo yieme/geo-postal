@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01366"]={"code":"01366","region":"MA","city":"Petersham","latitude":42.4898,"longitude":-72.1893}}(window,'GeoPostal','US');

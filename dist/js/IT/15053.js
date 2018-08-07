@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15053"]={"code":"15053","region":"Piemonte","city":"Castelnuovo Scrivia","latitude":44.98046,"longitude":8.88125}}(window,'GeoPostal','IT');

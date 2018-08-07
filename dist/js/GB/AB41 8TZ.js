@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 8TZ"]={"code":"AB41 8TZ","region":"Scotland","city":"Nethermuir","latitude":57.48333,"longitude":-2.13333}}(window,'GeoPostal','GB');

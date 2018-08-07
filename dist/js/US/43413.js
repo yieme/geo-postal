@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43413"]={"code":"43413","region":"OH","city":"Cygnet","latitude":41.2401,"longitude":-83.6433}}(window,'GeoPostal','US');

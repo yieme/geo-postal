@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58039"]={"code":"58039","region":"Bourgogne-Franche-Comte","city":"Nevers","latitude":46.98956,"longitude":3.159}}(window,'GeoPostal','FR');

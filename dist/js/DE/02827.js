@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02827"]={"code":"02827","region":"Sachsen","city":"Biesnitz","latitude":51.13736,"longitude":14.95767}}(window,'GeoPostal','DE');

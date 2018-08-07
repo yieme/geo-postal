@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49707"]={"code":"49707","region":"Michigan","city":"Alpena","latitude":45.06168,"longitude":-83.43275}}(window,'GeoPostal','US');

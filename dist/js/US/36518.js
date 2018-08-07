@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36518"]={"code":"36518","region":"Alabama","city":"Chatom","latitude":31.46517,"longitude":-88.25446}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B77 2EA"]={"code":"B77 2EA","region":"England","city":"Glascote","latitude":52.62512,"longitude":-1.67463}}(window,'GeoPostal','GB');

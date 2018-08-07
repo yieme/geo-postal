@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36015"]={"code":"36015","region":"AL","city":"Chapman","latitude":31.6427,"longitude":-86.7343}}(window,'GeoPostal','US');

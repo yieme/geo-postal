@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15299"]={"code":"15299","region":"Brandenburg","city":"Mixdorf","latitude":52.2,"longitude":14.4}}(window,'GeoPostal','DE');

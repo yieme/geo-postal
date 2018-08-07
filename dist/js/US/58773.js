@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58773"]={"code":"58773","region":"North Dakota","city":"Powers Lake","latitude":48.61878,"longitude":-102.624}}(window,'GeoPostal','US');

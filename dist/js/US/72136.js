@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72136"]={"code":"72136","region":"AR","city":"Romance","latitude":35.2155,"longitude":-92.0699}}(window,'GeoPostal','US');

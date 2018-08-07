@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 2232"]={"code":"AZ 2232","region":"Goranboy","city":"Goranboy","latitude":40.61028,"longitude":46.78972}}(window,'GeoPostal','AZ');

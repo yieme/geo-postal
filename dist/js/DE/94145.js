@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94145"]={"code":"94145","region":"Bayern","city":"Bischofsreut","latitude":48.85392,"longitude":13.73327}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344113"]={"code":"344113","region":"Jiangxi","city":"Chonggang","latitude":27.91126,"longitude":116.37424}}(window,'GeoPostal','CN');

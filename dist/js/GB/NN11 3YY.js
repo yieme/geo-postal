@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 3YY"]={"code":"NN11 3YY","region":"England","city":"Charwelton","latitude":52.19958,"longitude":-1.221}}(window,'GeoPostal','GB');

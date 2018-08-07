@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 6AT"]={"code":"DG8 6AT","region":"Scotland","city":"Creebridge","latitude":54.95,"longitude":-4.48333}}(window,'GeoPostal','GB');

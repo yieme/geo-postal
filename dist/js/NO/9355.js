@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9355"]={"code":"9355","region":"Troms","city":"Sjovegan","latitude":68.87262,"longitude":17.84744}}(window,'GeoPostal','NO');

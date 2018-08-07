@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86709"]={"code":"86709","region":"Bayern","city":"Wolferstadt","latitude":48.91667,"longitude":10.78333}}(window,'GeoPostal','DE');

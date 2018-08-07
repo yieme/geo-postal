@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR25 6NP"]={"code":"NR25 6NP","region":"England","city":"Bodham","latitude":52.91602,"longitude":1.16172}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21520"]={"code":"21520","region":"Maryland","city":"Accident","latitude":39.62806,"longitude":-79.32}}(window,'GeoPostal','US');

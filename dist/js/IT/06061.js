@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06061"]={"code":"06061","region":"Umbria","city":"Castiglione del Lago","latitude":43.12714,"longitude":12.04525}}(window,'GeoPostal','IT');

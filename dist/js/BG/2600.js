@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2600"]={"code":"2600","region":"Kyustendil","city":"Dupnitsa","latitude":42.26667,"longitude":23.11667}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08900-000"]={"code":"08900-000","region":"Sao Paulo","city":"Guararema","latitude":-23.415,"longitude":-46.035}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54839"]={"code":"54839","region":"WI","city":"Grand View","latitude":46.3577,"longitude":-91.1075}}(window,'GeoPostal','US');

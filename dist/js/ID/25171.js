@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25171"]={"code":"25171","region":"Sumatera Barat","city":"Tabing","latitude":-0.87203,"longitude":100.34279}}(window,'GeoPostal','ID');

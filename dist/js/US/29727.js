@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29727"]={"code":"29727","region":"South Carolina","city":"Mount Croghan","latitude":34.747791,"longitude":-80.249716}}(window,'GeoPostal','US');

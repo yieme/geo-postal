@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8M 0A3"]={"code":"G8M 0A3","region":"Quebec","city":"Normandin","latitude":48.83328,"longitude":-72.53209}}(window,'GeoPostal','CA');

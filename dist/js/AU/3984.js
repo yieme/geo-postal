@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3984"]={"code":"3984","region":"Victoria","city":"Lang Lang","latitude":-38.26605,"longitude":145.5621}}(window,'GeoPostal','AU');

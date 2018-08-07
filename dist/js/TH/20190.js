@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20190"]={"code":"20190","region":"Chon Buri","city":"Nong Yai","latitude":13.15515,"longitude":101.37226}}(window,'GeoPostal','TH');

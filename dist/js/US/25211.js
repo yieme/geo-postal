@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25211"]={"code":"25211","region":"WV","city":"Widen","latitude":38.4662,"longitude":-80.8573}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77249"]={"code":"77249","region":"Ile-de-France","city":"Cesson","latitude":48.56204,"longitude":2.60816}}(window,'GeoPostal','FR');

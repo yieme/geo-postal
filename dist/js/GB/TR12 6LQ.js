@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 6LQ"]={"code":"TR12 6LQ","region":"England","city":"Helston","latitude":50.10319,"longitude":-5.27045}}(window,'GeoPostal','GB');

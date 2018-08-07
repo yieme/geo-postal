@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25630"]={"code":"25630","region":"Bourgogne-Franche-Comte","city":"Sainte-Suzanne","latitude":47.50017,"longitude":6.76775}}(window,'GeoPostal','FR');

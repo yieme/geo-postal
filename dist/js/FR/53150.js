@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53150"]={"code":"53150","region":"Pays-de-la-Loire","city":"Montsurs","latitude":48.13604,"longitude":-0.55413}}(window,'GeoPostal','FR');

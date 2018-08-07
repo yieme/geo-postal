@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29921"]={"code":"29921","region":"SC","city":"Furman","latitude":32.6816,"longitude":-81.1882}}(window,'GeoPostal','US');

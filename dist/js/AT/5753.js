@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5753"]={"code":"5753","region":"Salzburg","city":"Saalbach","latitude":47.39138,"longitude":12.63642}}(window,'GeoPostal','AT');

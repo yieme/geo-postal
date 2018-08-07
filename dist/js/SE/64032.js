@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64032"]={"code":"64032","region":"Sodermanlands lan","city":"Malmkoping","latitude":59.13333,"longitude":16.73333}}(window,'GeoPostal','SE');

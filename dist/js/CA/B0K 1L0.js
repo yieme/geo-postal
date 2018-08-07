@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1L0"]={"code":"B0K 1L0","region":"Nova Scotia","city":"Pugwash","latitude":45.85015,"longitude":-63.66541}}(window,'GeoPostal','CA');

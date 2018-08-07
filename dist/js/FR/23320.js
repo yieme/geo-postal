@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23320"]={"code":"23320","region":"Nouvelle-Aquitaine","city":"Bussiere-Dunoise","latitude":46.25898,"longitude":1.76216}}(window,'GeoPostal','FR');

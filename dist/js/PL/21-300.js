@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-300"]={"code":"21-300","region":"Lubelskie","city":"Radzyn Podlaski","latitude":51.78333,"longitude":22.61667}}(window,'GeoPostal','PL');

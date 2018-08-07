@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99609"]={"code":"99609","region":"Alaska","city":"Kasigluk","latitude":60.88071,"longitude":-162.04277}}(window,'GeoPostal','US');

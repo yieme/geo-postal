@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80743"]={"code":"80743","region":"Colorado","city":"Otis","latitude":40.209526,"longitude":-102.960763}}(window,'GeoPostal','US');

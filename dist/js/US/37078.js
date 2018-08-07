@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37078"]={"code":"37078","region":"Tennessee","city":"Hurricane Mills","latitude":35.97111,"longitude":-87.78194}}(window,'GeoPostal','US');

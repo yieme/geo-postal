@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88419"]={"code":"88419","region":"New Mexico","city":"Folsom","latitude":36.910248,"longitude":-103.807756}}(window,'GeoPostal','US');

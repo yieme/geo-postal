@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249087"]={"code":"249087","region":"Moskovskaya oblast'","city":"Yubileyny","latitude":55.93333,"longitude":37.83333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356632"]={"code":"356632","region":"Stavropol'skiy kray","city":"Ipatovo","latitude":45.71806,"longitude":42.90361}}(window,'GeoPostal','RU');

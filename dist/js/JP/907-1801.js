@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907-1801"]={"code":"907-1801","region":"Okinawa","city":"Yonakuni","latitude":24.46667,"longitude":123}}(window,'GeoPostal','JP');

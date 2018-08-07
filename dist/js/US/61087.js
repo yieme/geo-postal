@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61087"]={"code":"61087","region":"IL","city":"Warren","latitude":42.489,"longitude":-89.986}}(window,'GeoPostal','US');

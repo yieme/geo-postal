@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89270"]={"code":"89270","region":"Bourgogne-Franche-Comte","city":"Vermenton","latitude":47.66459,"longitude":3.73501}}(window,'GeoPostal','FR');

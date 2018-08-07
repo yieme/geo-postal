@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53059"]={"code":"53059","region":"WI","city":"Neosho","latitude":43.2978,"longitude":-88.5205}}(window,'GeoPostal','US');

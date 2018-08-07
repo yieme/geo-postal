@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48450-000"]={"code":"48450-000","region":"Bahia","city":"Cipo","latitude":-11.09972,"longitude":-38.51361}}(window,'GeoPostal','BR');

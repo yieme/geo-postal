@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457993"]={"code":"457993","region":"Madhya Pradesh","city":"Ranapur","latitude":22.65,"longitude":74.53333}}(window,'GeoPostal','IN');

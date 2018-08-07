@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50710"]={"code":"50710","region":"Aragon","city":"Maella","latitude":41.12251,"longitude":0.13926}}(window,'GeoPostal','ES');

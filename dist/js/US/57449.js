@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57449"]={"code":"57449","region":"SD","city":"Houghton","latitude":45.7967,"longitude":-98.0952}}(window,'GeoPostal','US');

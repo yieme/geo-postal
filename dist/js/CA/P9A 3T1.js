@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P9A 3T1"]={"code":"P9A 3T1","region":"Ontario","city":"Couchiching First Nations","latitude":48.67849,"longitude":-93.45074}}(window,'GeoPostal','CA');

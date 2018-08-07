@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74543"]={"code":"74543","region":"Oklahoma","city":"Finley","latitude":34.345864,"longitude":-95.551803}}(window,'GeoPostal','US');

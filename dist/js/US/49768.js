@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49768"]={"code":"49768","region":"Michigan","city":"Paradise","latitude":46.590541,"longitude":-85.127541}}(window,'GeoPostal','US');

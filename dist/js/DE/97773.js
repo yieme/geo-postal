@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97773"]={"code":"97773","region":"Bayern","city":"Aura im Sinngrund","latitude":50.17819,"longitude":9.57547}}(window,'GeoPostal','DE');

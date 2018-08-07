@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11930"]={"code":"11930","region":"New York","city":"Amagansett","latitude":40.97371,"longitude":-72.14369}}(window,'GeoPostal','US');

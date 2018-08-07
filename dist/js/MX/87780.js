@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87780"]={"code":"87780","region":"Tamaulipas","city":"Nuevo Padilla","latitude":24.01667,"longitude":-98.78333}}(window,'GeoPostal','MX');

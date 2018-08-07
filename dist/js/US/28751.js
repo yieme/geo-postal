@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28751"]={"code":"28751","region":"North Carolina","city":"Maggie Valley","latitude":35.51816,"longitude":-83.09764}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83847"]={"code":"83847","region":"Idaho","city":"Naples","latitude":48.694847,"longitude":-116.303239}}(window,'GeoPostal','US');

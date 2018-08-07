@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84157"]={"code":"84157","region":"Utah","city":"Murray","latitude":40.65851,"longitude":-111.88423}}(window,'GeoPostal','US');

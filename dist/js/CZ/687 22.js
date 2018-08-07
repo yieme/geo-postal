@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 22"]={"code":"687 22","region":"Zlinsky kraj","city":"Ostrozska Nova Ves","latitude":49.00434,"longitude":17.43632}}(window,'GeoPostal','CZ');

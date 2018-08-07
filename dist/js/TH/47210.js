@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47210"]={"code":"47210","region":"Sakon Nakhon","city":"Phon Na Kaeo","latitude":17.22122,"longitude":104.28994}}(window,'GeoPostal','TH');

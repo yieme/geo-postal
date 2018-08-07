@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39170"]={"code":"39170","region":"MS","city":"Terry","latitude":32.1147,"longitude":-90.3241}}(window,'GeoPostal','US');

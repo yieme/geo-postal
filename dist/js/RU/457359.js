@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457359"]={"code":"457359","region":"Chelyabinskaya oblast'","city":"Kartaly","latitude":53.05222,"longitude":60.64667}}(window,'GeoPostal','RU');

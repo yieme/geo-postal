@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21023"]={"code":"21023","region":"MD","city":"Butler","latitude":39.533,"longitude":-76.7432}}(window,'GeoPostal','US');

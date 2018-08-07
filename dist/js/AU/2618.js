@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2618"]={"code":"2618","region":"New South Wales","city":"Nanima","latitude":-35.01288,"longitude":149.12766}}(window,'GeoPostal','AU');

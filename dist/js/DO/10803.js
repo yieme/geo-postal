@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10803"]={"code":"10803","region":"Monsenor Nouel","city":"Bonao","latitude":18.93687,"longitude":-70.40923}}(window,'GeoPostal','DO');

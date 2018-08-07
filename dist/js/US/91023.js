@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91023"]={"code":"91023","region":"California","city":"Mount Wilson","latitude":34.22718,"longitude":-118.09152}}(window,'GeoPostal','US');

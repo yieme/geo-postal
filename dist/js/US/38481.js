@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38481"]={"code":"38481","region":"Tennessee","city":"Saint Joseph","latitude":35.04066,"longitude":-87.507046}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21754"]={"code":"21754","region":"Maryland","city":"Ijamsville","latitude":39.332359,"longitude":-77.299733}}(window,'GeoPostal','US');

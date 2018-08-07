@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98857"]={"code":"98857","region":"WA","city":"Warden","latitude":46.977,"longitude":-119.0539}}(window,'GeoPostal','US');

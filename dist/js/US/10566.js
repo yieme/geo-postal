@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10566"]={"code":"10566","region":"New York","city":"Peekskill","latitude":41.29009,"longitude":-73.92042}}(window,'GeoPostal','US');

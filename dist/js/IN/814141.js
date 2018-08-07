@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814141"]={"code":"814141","region":"Jharkhand","city":"Dumka","latitude":24.26667,"longitude":87.25}}(window,'GeoPostal','IN');

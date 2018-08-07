@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51555"]={"code":"51555","region":"IA","city":"Missouri Valley","latitude":41.5644,"longitude":-95.8913}}(window,'GeoPostal','US');

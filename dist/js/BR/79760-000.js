@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79760-000"]={"code":"79760-000","region":"Mato Grosso do Sul","city":"Bataipora","latitude":-22.29528,"longitude":-53.27111}}(window,'GeoPostal','BR');

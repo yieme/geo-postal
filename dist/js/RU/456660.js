@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456660"]={"code":"456660","region":"Chelyabinskaya oblast'","city":"Miasskoye","latitude":55.2784,"longitude":61.8905}}(window,'GeoPostal','RU');

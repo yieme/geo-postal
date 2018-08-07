@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42490"]={"code":"42490","region":"Auvergne-Rhone-Alpes","city":"Fraisses","latitude":45.38333,"longitude":4.25}}(window,'GeoPostal','FR');

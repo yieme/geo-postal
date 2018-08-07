@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74570"]={"code":"74570","region":"Auvergne-Rhone-Alpes","city":"Groisy","latitude":46.01835,"longitude":6.17083}}(window,'GeoPostal','FR');

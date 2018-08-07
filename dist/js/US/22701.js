@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22701"]={"code":"22701","region":"Virginia","city":"Culpeper","latitude":38.47318,"longitude":-77.99666}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96714"]={"code":"96714","region":"Hawaii","city":"Princeville","latitude":22.21758,"longitude":-159.47888}}(window,'GeoPostal','US');

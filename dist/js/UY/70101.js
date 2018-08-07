@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70101"]={"code":"70101","region":"Colonia","city":"Nueva Palmira","latitude":-33.88333,"longitude":-58.41667}}(window,'GeoPostal','UY');

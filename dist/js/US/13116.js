@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13116"]={"code":"13116","region":"NY","city":"Minoa","latitude":43.0772,"longitude":-76.0098}}(window,'GeoPostal','US');

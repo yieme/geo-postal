@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412041"]={"code":"412041","region":"Volgogradskaya oblast'","city":"Yelan'","latitude":50.949,"longitude":43.73781}}(window,'GeoPostal','RU');

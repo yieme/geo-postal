@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67342"]={"code":"67342","region":"Kansas","city":"Edna","latitude":37.061773,"longitude":-95.360542}}(window,'GeoPostal','US');

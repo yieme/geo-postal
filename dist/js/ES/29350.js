@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29350"]={"code":"29350","region":"Andalucia","city":"Arriate","latitude":36.80005,"longitude":-5.1408}}(window,'GeoPostal','ES');

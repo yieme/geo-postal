@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71203"]={"code":"71203","region":"Louisiana","city":"Monroe","latitude":32.54833,"longitude":-92.045238}}(window,'GeoPostal','US');

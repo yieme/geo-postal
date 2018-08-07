@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5782"]={"code":"5782","region":"Wellington","city":"Waipawa","latitude":-41.41222,"longitude":175.51528}}(window,'GeoPostal','NZ');

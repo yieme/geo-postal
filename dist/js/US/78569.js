@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78569"]={"code":"78569","region":"TX","city":"Lyford","latitude":26.4089,"longitude":-97.7817}}(window,'GeoPostal','US');

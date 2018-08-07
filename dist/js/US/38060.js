@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38060"]={"code":"38060","region":"Tennessee","city":"Oakland","latitude":35.21295,"longitude":-89.542271}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-113"]={"code":"46-113","region":"Opolskie","city":"Wilkow","latitude":51.10158,"longitude":17.66284}}(window,'GeoPostal','PL');

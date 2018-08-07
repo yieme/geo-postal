@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-304"]={"code":"22-304","region":"Lubelskie","city":"Siennica Rozana","latitude":51.00123,"longitude":23.3226}}(window,'GeoPostal','PL');

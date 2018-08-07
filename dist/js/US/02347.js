@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02347"]={"code":"02347","region":"Massachusetts","city":"Lakeville","latitude":41.832029,"longitude":-70.95372}}(window,'GeoPostal','US');

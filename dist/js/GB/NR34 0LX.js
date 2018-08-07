@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 0LX"]={"code":"NR34 0LX","region":"England","city":"Geldeston","latitude":52.47293,"longitude":1.51459}}(window,'GeoPostal','GB');

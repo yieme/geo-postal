@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43788"]={"code":"43788","region":"Ohio","city":"Summerfield","latitude":39.79722,"longitude":-81.33611}}(window,'GeoPostal','US');

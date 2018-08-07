@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["914-0266"]={"code":"914-0266","region":"Fukui","city":"Tsuruga","latitude":35.65,"longitude":136.05}}(window,'GeoPostal','JP');

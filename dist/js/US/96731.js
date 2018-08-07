@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96731"]={"code":"96731","region":"HI","city":"Kahuku","latitude":21.675,"longitude":-157.9725}}(window,'GeoPostal','US');

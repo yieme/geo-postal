@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11102"]={"code":"11102","region":"Monte Plata","city":"Sabana Grande de Boya","latitude":18.94498,"longitude":-69.79331}}(window,'GeoPostal','DO');

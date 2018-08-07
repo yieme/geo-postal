@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65498"]={"code":"65498","region":"Odeska oblast","city":"Tayirove","latitude":46.36313,"longitude":30.64891}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89831"]={"code":"89831","region":"Nevada","city":"Mountain City","latitude":41.85392,"longitude":-115.95675}}(window,'GeoPostal','US');

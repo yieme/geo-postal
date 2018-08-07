@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72200"]={"code":"72200","region":"Pays-de-la-Loire","city":"Clermont-Creans","latitude":47.71831,"longitude":-0.01459}}(window,'GeoPostal','FR');

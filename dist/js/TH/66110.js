@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66110"]={"code":"66110","region":"Phichit","city":"Thap Khlo","latitude":16.16003,"longitude":100.59656}}(window,'GeoPostal','TH');

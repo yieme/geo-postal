@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435319"]={"code":"435319","region":"Hubei","city":"Pengsi","latitude":30.27258,"longitude":115.27166}}(window,'GeoPostal','CN');

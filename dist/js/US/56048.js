@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56048"]={"code":"56048","region":"MN","city":"Janesville","latitude":44.1168,"longitude":-93.7095}}(window,'GeoPostal','US');

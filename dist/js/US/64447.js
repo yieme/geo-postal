@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64447"]={"code":"64447","region":"MO","city":"Fairport","latitude":39.98,"longitude":-94.34}}(window,'GeoPostal','US');

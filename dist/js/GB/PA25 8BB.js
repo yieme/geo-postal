@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA25 8BB"]={"code":"PA25 8BB","region":"Scotland","city":"Saint Catherines","latitude":56.22198,"longitude":-5.0326}}(window,'GeoPostal','GB');

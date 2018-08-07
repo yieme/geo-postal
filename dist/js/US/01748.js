@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01748"]={"code":"01748","region":"Massachusetts","city":"Hopkinton","latitude":42.219595,"longitude":-71.531549}}(window,'GeoPostal','US');

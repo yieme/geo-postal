@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84767"]={"code":"84767","region":"UT","city":"Springdale","latitude":37.1862,"longitude":-113.0139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61036"]={"code":"61036","region":"Illinois","city":"Galena","latitude":42.41667,"longitude":-90.42902}}(window,'GeoPostal','US');

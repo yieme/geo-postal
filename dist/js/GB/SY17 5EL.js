@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY17 5EL"]={"code":"SY17 5EL","region":"Wales","city":"Caersws","latitude":52.51634,"longitude":-3.42948}}(window,'GeoPostal','GB');

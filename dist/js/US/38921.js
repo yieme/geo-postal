@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38921"]={"code":"38921","region":"Mississippi","city":"Charleston","latitude":34.00678,"longitude":-90.05676}}(window,'GeoPostal','US');

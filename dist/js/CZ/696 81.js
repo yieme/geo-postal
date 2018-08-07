@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 81"]={"code":"696 81","region":"Jihomoravsky kraj","city":"Bzenec","latitude":48.97336,"longitude":17.26685}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321304"]={"code":"321304","region":"Zhejiang","city":"Guli","latitude":28.88333,"longitude":120.03333}}(window,'GeoPostal','CN');

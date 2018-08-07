@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64025"]={"code":"64025","region":"Abruzzo","city":"Pineto","latitude":42.60975,"longitude":14.066}}(window,'GeoPostal','IT');

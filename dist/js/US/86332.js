@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86332"]={"code":"86332","region":"AZ","city":"Kirkland","latitude":34.4541,"longitude":-112.8966}}(window,'GeoPostal','US');

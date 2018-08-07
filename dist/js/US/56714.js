@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56714"]={"code":"56714","region":"Minnesota","city":"Badger","latitude":48.85654,"longitude":-96.2062}}(window,'GeoPostal','US');

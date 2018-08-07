@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47445"]={"code":"47445","region":"Nordrhein-Westfalen","city":"Moers","latitude":51.45342,"longitude":6.6326}}(window,'GeoPostal','DE');

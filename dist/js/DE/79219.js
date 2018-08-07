@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79219"]={"code":"79219","region":"Baden-Wurttemberg","city":"Staufen im Breisgau","latitude":47.88227,"longitude":7.7282}}(window,'GeoPostal','DE');

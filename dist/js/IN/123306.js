@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["123306"]={"code":"123306","region":"Haryana","city":"Charkhi Dadri","latitude":28.6,"longitude":76.26667}}(window,'GeoPostal','IN');

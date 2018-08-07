@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44625"]={"code":"44625","region":"OH","city":"East Rochester","latitude":40.7563,"longitude":-81.0175}}(window,'GeoPostal','US');

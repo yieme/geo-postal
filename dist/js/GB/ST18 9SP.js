@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST18 9SP"]={"code":"ST18 9SP","region":"England","city":"Whitgreave","latitude":52.85111,"longitude":-2.14979}}(window,'GeoPostal','GB');

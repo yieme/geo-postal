@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08092"]={"code":"08092","region":"NJ","city":"West Creek","latitude":39.6627,"longitude":-74.2885}}(window,'GeoPostal','US');

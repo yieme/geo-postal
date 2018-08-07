@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64180"]={"code":"64180","region":"Sukhothai","city":"Si Nakhon","latitude":17.34778,"longitude":99.99106}}(window,'GeoPostal','TH');

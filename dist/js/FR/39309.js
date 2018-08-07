@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39309"]={"code":"39309","region":"Bourgogne-Franche-Comte","city":"Champagnole","latitude":46.74452,"longitude":5.91354}}(window,'GeoPostal','FR');

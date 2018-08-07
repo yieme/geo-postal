@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29960-000"]={"code":"29960-000","region":"Espirito Santo","city":"Conceicao da Barra","latitude":-18.59333,"longitude":-39.73222}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93250"]={"code":"93250","region":"CA","city":"Mc Farland","latitude":35.6758,"longitude":-119.2272}}(window,'GeoPostal','US');

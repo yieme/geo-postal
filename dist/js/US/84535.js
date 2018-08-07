@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84535"]={"code":"84535","region":"Utah","city":"Monticello","latitude":37.87138,"longitude":-109.34289}}(window,'GeoPostal','US');

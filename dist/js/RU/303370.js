@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303370"]={"code":"303370","region":"Orlovskaya oblast'","city":"Maloarkhangel'sk","latitude":52.40024,"longitude":36.50332}}(window,'GeoPostal','RU');

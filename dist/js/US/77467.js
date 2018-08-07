@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77467"]={"code":"77467","region":"TX","city":"Pierce","latitude":29.2052,"longitude":-96.1369}}(window,'GeoPostal','US');

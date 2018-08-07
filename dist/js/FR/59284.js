@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59284"]={"code":"59284","region":"Hauts-de-France","city":"Pitgam","latitude":50.9286,"longitude":2.3314}}(window,'GeoPostal','FR');

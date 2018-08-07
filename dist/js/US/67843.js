@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67843"]={"code":"67843","region":"KS","city":"Fort Dodge","latitude":37.7303,"longitude":-99.937}}(window,'GeoPostal','US');

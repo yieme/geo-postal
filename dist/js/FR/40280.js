@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40280"]={"code":"40280","region":"Nouvelle-Aquitaine","city":"Benquet","latitude":43.82992,"longitude":-0.50102}}(window,'GeoPostal','FR');

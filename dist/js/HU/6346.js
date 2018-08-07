@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6346"]={"code":"6346","region":"Bacs-Kiskun","city":"Sukosd","latitude":46.28181,"longitude":18.99524}}(window,'GeoPostal','HU');

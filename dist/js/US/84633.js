@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84633"]={"code":"84633","region":"UT","city":"Goshen","latitude":39.953,"longitude":-111.9008}}(window,'GeoPostal','US');

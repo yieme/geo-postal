@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2681-502"]={"code":"2681-502","region":"Lisboa","city":"Sacavem","latitude":38.79202,"longitude":-9.10801}}(window,'GeoPostal','PT');

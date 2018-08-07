@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66196"]={"code":"66196","region":"Nuevo Leon","city":"Santa Catarina","latitude":25.67325,"longitude":-100.45813}}(window,'GeoPostal','MX');

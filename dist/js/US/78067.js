@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78067"]={"code":"78067","region":"Texas","city":"San Ygnacio","latitude":27.037408,"longitude":-99.424031}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML1 5SB"]={"code":"ML1 5SB","region":"Scotland","city":"Motherwell","latitude":55.78924,"longitude":-3.99187}}(window,'GeoPostal','GB');

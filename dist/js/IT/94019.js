@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94019"]={"code":"94019","region":"Sicilia","city":"Valguarnera Caropepe","latitude":37.49555,"longitude":14.38877}}(window,'GeoPostal','IT');

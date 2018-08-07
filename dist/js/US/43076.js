@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43076"]={"code":"43076","region":"Ohio","city":"Thornville","latitude":39.87449,"longitude":-82.3608}}(window,'GeoPostal','US');

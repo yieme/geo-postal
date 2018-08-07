@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20740"]={"code":"20740","region":"Maryland","city":"College Park","latitude":38.98067,"longitude":-76.93692}}(window,'GeoPostal','US');

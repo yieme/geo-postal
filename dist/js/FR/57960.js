@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57960"]={"code":"57960","region":"Grand-Est","city":"Soucht","latitude":48.95888,"longitude":7.33488}}(window,'GeoPostal','FR');

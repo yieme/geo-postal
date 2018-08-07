@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50240"]={"code":"50240","region":"Normandie","city":"Saint-James","latitude":48.5218,"longitude":-1.32629}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR3 7YA"]={"code":"CR3 7YA","region":"England","city":"Woldingham","latitude":51.28527,"longitude":-0.03372}}(window,'GeoPostal','GB');

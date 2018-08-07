@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46310"]={"code":"46310","region":"IN","city":"Demotte","latitude":41.1713,"longitude":-87.2491}}(window,'GeoPostal','US');

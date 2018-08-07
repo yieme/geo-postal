@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 7LG"]={"code":"SP11 7LG","region":"England","city":"Wherwell","latitude":51.16697,"longitude":-1.44299}}(window,'GeoPostal','GB');

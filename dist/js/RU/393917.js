@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393917"]={"code":"393917","region":"Ryazanskaya oblast'","city":"Rybnoye","latitude":54.72774,"longitude":39.51731}}(window,'GeoPostal','RU');

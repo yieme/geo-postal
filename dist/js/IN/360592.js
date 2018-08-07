@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360592"]={"code":"360592","region":"Gujarat","city":"Bhanvad","latitude":21.92639,"longitude":69.77361}}(window,'GeoPostal','IN');

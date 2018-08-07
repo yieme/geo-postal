@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79325"]={"code":"79325","region":"Texas","city":"Farwell","latitude":34.38341,"longitude":-103.038}}(window,'GeoPostal','US');

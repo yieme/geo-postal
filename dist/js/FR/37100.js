@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37100"]={"code":"37100","region":"Centre-Val de Loire","city":"Tours","latitude":47.38333,"longitude":0.68333}}(window,'GeoPostal','FR');

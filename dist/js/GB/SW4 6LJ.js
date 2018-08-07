@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW4 6LJ"]={"code":"SW4 6LJ","region":"England","city":"Clapham North","latitude":51.46605,"longitude":-0.13046}}(window,'GeoPostal','GB');

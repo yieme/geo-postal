@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784168"]={"code":"784168","region":"Assam","city":"Gohpur","latitude":26.88333,"longitude":93.63333}}(window,'GeoPostal','IN');

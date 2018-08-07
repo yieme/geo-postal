@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN13 5UF"]={"code":"NN13 5UF","region":"England","city":"Helmdon","latitude":52.09034,"longitude":-1.14378}}(window,'GeoPostal','GB');

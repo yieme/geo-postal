@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35790"]={"code":"35790","region":"Erzurum","city":"Pazaryolu","latitude":40.42083,"longitude":40.77104}}(window,'GeoPostal','TR');

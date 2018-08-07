@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1T0"]={"code":"G0G 1T0","region":"Quebec","city":"Gros-Mecatina","latitude":50.83341,"longitude":-58.96495}}(window,'GeoPostal','CA');

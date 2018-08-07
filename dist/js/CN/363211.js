@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363211"]={"code":"363211","region":"Fujian","city":"Aozhong","latitude":23.93501,"longitude":117.74771}}(window,'GeoPostal','CN');

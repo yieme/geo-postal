@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49220"]={"code":"49220","region":"MI","city":"Addison","latitude":42.0036,"longitude":-84.3122}}(window,'GeoPostal','US');

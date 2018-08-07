@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10020"]={"code":"10020","region":"Piemonte","city":"Verrua Savoia","latitude":45.15675,"longitude":8.09223}}(window,'GeoPostal','IT');

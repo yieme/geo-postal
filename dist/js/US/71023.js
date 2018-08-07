@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71023"]={"code":"71023","region":"LA","city":"Doyline","latitude":32.49,"longitude":-93.3996}}(window,'GeoPostal','US');

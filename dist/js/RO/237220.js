@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237220"]={"code":"237220","region":"Olt","city":"Iancu Jianu","latitude":44.5,"longitude":24.03333}}(window,'GeoPostal','RO');

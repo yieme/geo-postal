@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71640"]={"code":"71640","region":"Arkansas","city":"Eudora","latitude":33.10957,"longitude":-91.26206}}(window,'GeoPostal','US');

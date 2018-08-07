@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72760"]={"code":"72760","region":"AR","city":"Saint Paul","latitude":35.8496,"longitude":-93.7347}}(window,'GeoPostal','US');

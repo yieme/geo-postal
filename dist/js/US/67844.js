@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67844"]={"code":"67844","region":"KS","city":"Fowler","latitude":37.3542,"longitude":-100.1981}}(window,'GeoPostal','US');

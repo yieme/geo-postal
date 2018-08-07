@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K1N 1K1"]={"code":"K1N 1K1","region":"Ontario","city":"ByWard Market","latitude":45.4271,"longitude":-75.69234}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31722"]={"code":"31722","region":"GA","city":"Berlin","latitude":31.0682,"longitude":-83.6238}}(window,'GeoPostal','US');

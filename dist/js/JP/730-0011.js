@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730-0011"]={"code":"730-0011","region":"Hiroshima","city":"Hiroshima","latitude":34.38528,"longitude":132.45528}}(window,'GeoPostal','JP');

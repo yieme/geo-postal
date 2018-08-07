@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98540"]={"code":"98540","region":"Washington","city":"East Olympia","latitude":46.961626,"longitude":-122.82538}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19004"]={"code":"19004","region":"Attiki","city":"Spata","latitude":37.96163,"longitude":23.91514}}(window,'GeoPostal','GR');

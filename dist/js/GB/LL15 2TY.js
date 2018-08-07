@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 2TY"]={"code":"LL15 2TY","region":"Wales","city":"Rhewl","latitude":53.13333,"longitude":-3.33333}}(window,'GeoPostal','GB');

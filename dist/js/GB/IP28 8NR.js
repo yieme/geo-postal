@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 8NR"]={"code":"IP28 8NR","region":"England","city":"Mildenhall","latitude":51.4256,"longitude":-1.69988}}(window,'GeoPostal','GB');

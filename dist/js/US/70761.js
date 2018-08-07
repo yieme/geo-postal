@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70761"]={"code":"70761","region":"Louisiana","city":"Norwood","latitude":30.932169,"longitude":-91.034265}}(window,'GeoPostal','US');

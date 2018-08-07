@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["648-0222"]={"code":"648-0222","region":"Wakayama","city":"Koya","latitude":34.217,"longitude":135.583}}(window,'GeoPostal','JP');

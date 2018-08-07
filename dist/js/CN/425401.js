@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425401"]={"code":"425401","region":"Hunan","city":"Xiaopu","latitude":25.28083,"longitude":111.34444}}(window,'GeoPostal','CN');

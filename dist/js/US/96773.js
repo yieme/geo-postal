@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96773"]={"code":"96773","region":"HI","city":"Ninole","latitude":19.935,"longitude":-155.1668}}(window,'GeoPostal','US');

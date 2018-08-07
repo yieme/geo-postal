@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7745"]={"code":"7745","region":"Canterbury","city":"Methven","latitude":-43.63333,"longitude":171.65}}(window,'GeoPostal','NZ');

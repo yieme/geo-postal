@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6500"]={"code":"6500","region":"Ticino","city":"Bellinzona","latitude":46.19278,"longitude":9.01703}}(window,'GeoPostal','CH');

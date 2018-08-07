@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05430"]={"code":"05430","region":"Castilla y Leon","city":"La Adrada","latitude":40.29953,"longitude":-4.63588}}(window,'GeoPostal','ES');

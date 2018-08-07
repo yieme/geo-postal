@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18001"]={"code":"18001","region":"Izabal","city":"Puerto Barrios","latitude":15.71667,"longitude":-88.6}}(window,'GeoPostal','GT');

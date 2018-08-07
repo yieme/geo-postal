@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47163"]={"code":"47163","region":"IN","city":"Otisco","latitude":38.5423,"longitude":-85.6647}}(window,'GeoPostal','US');

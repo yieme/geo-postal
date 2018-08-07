@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54669"]={"code":"54669","region":"Wisconsin","city":"West Salem","latitude":43.898936,"longitude":-91.085509}}(window,'GeoPostal','US');

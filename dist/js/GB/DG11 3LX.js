@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 3LX"]={"code":"DG11 3LX","region":"Scotland","city":"Kirtlebridge","latitude":55.04385,"longitude":-3.19248}}(window,'GeoPostal','GB');

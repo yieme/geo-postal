@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["GN"]={id:'GN',country:'Guinea', postal:{'':{code:'',region:'Conakry',city:'Conakry',latitude:9.53795,longitude:-13.67729}}};

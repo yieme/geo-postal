@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64340-000"]={"code":"64340-000","region":"Piaui","city":"Castelo do Piaui","latitude":-5.32222,"longitude":-41.5525}}(window,'GeoPostal','BR');

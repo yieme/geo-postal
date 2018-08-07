@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 6LJ"]={"code":"LE67 6LJ","region":"England","city":"Ibstock","latitude":52.68554,"longitude":-1.39965}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13862"]={"code":"13862","region":"Piemonte","city":"Brusnengo","latitude":45.59386,"longitude":8.25192}}(window,'GeoPostal','IT');

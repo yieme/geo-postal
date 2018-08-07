@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82129"]={"code":"82129","region":"Sinaloa","city":"Constancia","latitude":24.22306,"longitude":-107.18694}}(window,'GeoPostal','MX');

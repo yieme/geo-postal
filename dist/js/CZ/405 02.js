@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["405 02"]={"code":"405 02","region":"Ustecky kraj","city":"Decin","latitude":50.78215,"longitude":14.21478}}(window,'GeoPostal','CZ');

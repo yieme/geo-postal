@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44437"]={"code":"44437","region":"Ohio","city":"McDonald","latitude":41.158655,"longitude":-80.73109}}(window,'GeoPostal','US');

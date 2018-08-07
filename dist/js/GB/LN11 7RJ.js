@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 7RJ"]={"code":"LN11 7RJ","region":"England","city":"Saltfleet","latitude":53.42186,"longitude":0.18644}}(window,'GeoPostal','GB');

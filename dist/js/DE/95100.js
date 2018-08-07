@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95100"]={"code":"95100","region":"Bayern","city":"Selb","latitude":50.17058,"longitude":12.13054}}(window,'GeoPostal','DE');

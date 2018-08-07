@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3V 0A1"]={"code":"E3V 0A1","region":"New Brunswick","city":"Edmundston","latitude":47.3737,"longitude":-68.32512}}(window,'GeoPostal','CA');

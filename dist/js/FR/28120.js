@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28120"]={"code":"28120","region":"Centre-Val de Loire","city":"Bailleau-le-Pin","latitude":48.36698,"longitude":1.32948}}(window,'GeoPostal','FR');

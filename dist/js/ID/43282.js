@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43282"]={"code":"43282","region":"Jawa Barat","city":"Ciranjang-hilir","latitude":-6.82,"longitude":107.25722}}(window,'GeoPostal','ID');

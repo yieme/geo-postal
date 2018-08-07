@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68040"]={"code":"68040","region":"Sindh","city":"Shahdadpur","latitude":25.92406,"longitude":68.61999}}(window,'GeoPostal','PK');

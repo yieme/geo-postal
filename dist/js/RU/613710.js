@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613710"]={"code":"613710","region":"Kirovskaya oblast'","city":"Murashi","latitude":59.3999,"longitude":48.9615}}(window,'GeoPostal','RU');

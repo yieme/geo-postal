@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71310"]={"code":"71310","region":"Pohjois-Savo","city":"Vehmersalmi","latitude":62.76101,"longitude":28.02853}}(window,'GeoPostal','FI');

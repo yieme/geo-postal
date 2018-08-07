@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26223"]={"code":"26223","region":"Beograd","city":"Obrenovac","latitude":44.65486,"longitude":20.20017}}(window,'GeoPostal','RS');

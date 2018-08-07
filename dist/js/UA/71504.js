@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71504"]={"code":"71504","region":"Zaporizka oblast","city":"Energodar","latitude":47.49865,"longitude":34.6574}}(window,'GeoPostal','UA');

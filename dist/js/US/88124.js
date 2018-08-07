@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88124"]={"code":"88124","region":"NM","city":"Melrose","latitude":34.4479,"longitude":-103.6325}}(window,'GeoPostal','US');

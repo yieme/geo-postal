@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96123"]={"code":"96123","region":"CA","city":"Ravendale","latitude":40.7985,"longitude":-120.3652}}(window,'GeoPostal','US');

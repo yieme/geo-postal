@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26169"]={"code":"26169","region":"Niedersachsen","city":"Schwaneburgermoor","latitude":53.05265,"longitude":7.78971}}(window,'GeoPostal','DE');

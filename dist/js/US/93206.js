@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93206"]={"code":"93206","region":"CA","city":"Buttonwillow","latitude":35.4033,"longitude":-119.4659}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 1ST"]={"code":"TA5 1ST","region":"England","city":"Kilton","latitude":51.1875,"longitude":-3.19778}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186932"]={"code":"186932","region":"Kareliya, Respublika","city":"Kostomuksha","latitude":64.571,"longitude":30.57667}}(window,'GeoPostal','RU');

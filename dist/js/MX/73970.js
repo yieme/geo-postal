@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73970"]={"code":"73970","region":"Puebla","city":"San Juan Xiutetelco","latitude":19.8,"longitude":-97.33333}}(window,'GeoPostal','MX');

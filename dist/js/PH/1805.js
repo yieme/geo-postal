@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1805"]={"code":"1805","region":"National Capital Region","city":"Marikina","latitude":14.64,"longitude":121.097222}}(window,'GeoPostal','PH');

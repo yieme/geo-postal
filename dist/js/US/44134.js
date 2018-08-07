@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44134"]={"code":"44134","region":"Ohio","city":"Parma","latitude":41.393457,"longitude":-81.69806}}(window,'GeoPostal','US');

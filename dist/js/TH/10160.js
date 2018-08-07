@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10160"]={"code":"10160","region":"Krung Thep Maha Nakhon","city":"Nong Khaem","latitude":13.70528,"longitude":100.34923}}(window,'GeoPostal','TH');

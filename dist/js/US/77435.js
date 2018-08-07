@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77435"]={"code":"77435","region":"Texas","city":"East Bernard","latitude":29.529062,"longitude":-96.06227}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85000"]={"code":"85000","region":"Johor","city":"Segamat","latitude":2.5148,"longitude":102.8158}}(window,'GeoPostal','MY');

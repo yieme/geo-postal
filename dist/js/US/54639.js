@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54639"]={"code":"54639","region":"Wisconsin","city":"La Farge","latitude":43.618759,"longitude":-90.624476}}(window,'GeoPostal','US');

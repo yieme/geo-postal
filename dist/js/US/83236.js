@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83236"]={"code":"83236","region":"ID","city":"Firth","latitude":43.3021,"longitude":-112.1588}}(window,'GeoPostal','US');

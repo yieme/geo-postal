@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82727"]={"code":"82727","region":"WY","city":"Rozet","latitude":44.3058,"longitude":-105.2459}}(window,'GeoPostal','US');

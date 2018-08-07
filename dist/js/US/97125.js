@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97125"]={"code":"97125","region":"OR","city":"Manning","latitude":45.6648,"longitude":-123.1637}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12016"]={"code":"12016","region":"Tebessa","city":"Hammamet","latitude":35.44862,"longitude":7.95184}}(window,'GeoPostal','DZ');

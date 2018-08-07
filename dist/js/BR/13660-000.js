@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13660-000"]={"code":"13660-000","region":"Sao Paulo","city":"Porto Ferreira","latitude":-21.85389,"longitude":-47.47917}}(window,'GeoPostal','BR');

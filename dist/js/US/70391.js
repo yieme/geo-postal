@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70391"]={"code":"70391","region":"LA","city":"Paincourtville","latitude":29.9902,"longitude":-91.0588}}(window,'GeoPostal','US');

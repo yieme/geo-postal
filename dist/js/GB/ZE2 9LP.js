@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9LP"]={"code":"ZE2 9LP","region":"Scotland","city":"Catfirth","latitude":60.26667,"longitude":-1.23333}}(window,'GeoPostal','GB');

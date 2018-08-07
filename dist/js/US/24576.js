@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24576"]={"code":"24576","region":"VA","city":"Naruna","latitude":37.2458,"longitude":-79.1335}}(window,'GeoPostal','US');

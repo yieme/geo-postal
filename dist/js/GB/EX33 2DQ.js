@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX33 2DQ"]={"code":"EX33 2DQ","region":"England","city":"Wrafton","latitude":51.1,"longitude":-4.15}}(window,'GeoPostal','GB');

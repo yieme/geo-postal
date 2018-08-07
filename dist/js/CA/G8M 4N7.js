@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8M 4N7"]={"code":"G8M 4N7","region":"Quebec","city":"Didyme","latitude":48.90003,"longitude":-72.66563}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30085"]={"code":"30085","region":"Georgia","city":"Tucker","latitude":33.8546,"longitude":-84.223077}}(window,'GeoPostal','US');

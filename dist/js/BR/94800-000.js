@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94800-000"]={"code":"94800-000","region":"Rio Grande do Sul","city":"Viamao","latitude":-30.08111,"longitude":-51.02333}}(window,'GeoPostal','BR');

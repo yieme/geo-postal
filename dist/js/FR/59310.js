@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59310"]={"code":"59310","region":"Hauts-de-France","city":"Landas","latitude":50.47269,"longitude":3.30366}}(window,'GeoPostal','FR');

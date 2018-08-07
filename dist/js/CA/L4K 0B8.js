@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4K 0B8"]={"code":"L4K 0B8","region":"Ontario","city":"Vaughan","latitude":43.812141,"longitude":-79.504132}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5010000"]={"code":"5010000","region":"La Araucania","city":"Carahue","latitude":-38.7,"longitude":-73.16667}}(window,'GeoPostal','CL');

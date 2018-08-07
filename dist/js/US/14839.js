@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14839"]={"code":"14839","region":"NY","city":"Greenwood","latitude":42.1398,"longitude":-77.636}}(window,'GeoPostal','US');

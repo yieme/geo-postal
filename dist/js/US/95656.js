@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95656"]={"code":"95656","region":"CA","city":"Mount Aukum","latitude":38.55,"longitude":-120.7304}}(window,'GeoPostal','US');

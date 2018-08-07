@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9501"]={"code":"9501","region":"Albay","city":"Alabel","latitude":6.10179,"longitude":125.29048}}(window,'GeoPostal','PH');

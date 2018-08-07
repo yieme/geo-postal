@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 64"]={"code":"273 64","region":"Stredocesky kraj","city":"Doksy","latitude":50.119,"longitude":14.04782}}(window,'GeoPostal','CZ');

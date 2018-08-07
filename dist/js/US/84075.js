@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84075"]={"code":"84075","region":"Utah","city":"Syracuse","latitude":41.08939,"longitude":-112.06467}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80550"]={"code":"80550","region":"Hauts-de-France","city":"Le Crotoy","latitude":50.216,"longitude":1.625}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-530"]={"code":"66-530","region":"Lubuskie","city":"Drezdenko","latitude":52.83831,"longitude":15.83078}}(window,'GeoPostal','PL');

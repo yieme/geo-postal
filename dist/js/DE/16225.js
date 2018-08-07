@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16225"]={"code":"16225","region":"Brandenburg","city":"Eberswalde","latitude":52.83492,"longitude":13.81951}}(window,'GeoPostal','DE');

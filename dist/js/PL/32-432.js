@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-432"]={"code":"32-432","region":"Malopolskie","city":"Pcim","latitude":49.75166,"longitude":19.97108}}(window,'GeoPostal','PL');

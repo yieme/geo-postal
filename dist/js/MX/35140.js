@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35140"]={"code":"35140","region":"Coahuila de Zaragoza","city":"Torreon","latitude":25.55,"longitude":-103.43333}}(window,'GeoPostal','MX');

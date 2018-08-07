@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 6QF"]={"code":"IP25 6QF","region":"England","city":"Griston","latitude":52.5572,"longitude":0.86436}}(window,'GeoPostal','GB');

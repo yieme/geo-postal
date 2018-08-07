@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30642"]={"code":"30642","region":"Georgia","city":"Greensboro","latitude":33.556426,"longitude":-83.168552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29433"]={"code":"29433","region":"SC","city":"Canadys","latitude":33.0614,"longitude":-80.6312}}(window,'GeoPostal','US');

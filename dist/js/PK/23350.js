@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23350"]={"code":"23350","region":"Punjab","city":"Gujrat","latitude":32.57284,"longitude":74.07897}}(window,'GeoPostal','PK');

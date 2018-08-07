@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 5XT"]={"code":"SA62 5XT","region":"Wales","city":"Trecwn","latitude":51.95518,"longitude":-4.95977}}(window,'GeoPostal','GB');

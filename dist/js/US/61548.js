@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61548"]={"code":"61548","region":"Illinois","city":"Metamora","latitude":40.79059,"longitude":-89.36064}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24127"]={"code":"24127","region":"VA","city":"New Castle","latitude":37.4871,"longitude":-80.1704}}(window,'GeoPostal','US');

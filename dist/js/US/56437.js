@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56437"]={"code":"56437","region":"Minnesota","city":"Bertha","latitude":46.2675,"longitude":-95.06389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247555"]={"code":"247555","region":"Valcea","city":"Rosiile","latitude":44.86667,"longitude":23.93333}}(window,'GeoPostal','RO');

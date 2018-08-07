@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89833"]={"code":"89833","region":"NV","city":"Ruby Valley","latitude":40.3995,"longitude":-115.2312}}(window,'GeoPostal','US');

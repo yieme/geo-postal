@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51343"]={"code":"51343","region":"IA","city":"Greenville","latitude":43.0333,"longitude":-95.0582}}(window,'GeoPostal','US');

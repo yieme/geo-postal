@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245611"]={"code":"245611","region":"Anhui","city":"Dengta","latitude":29.8691,"longitude":117.66556}}(window,'GeoPostal','CN');

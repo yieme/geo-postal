@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22326"]={"code":"22326","region":"Sremski okrug","city":"Cortanovci","latitude":45.15444,"longitude":20.02056}}(window,'GeoPostal','RS');

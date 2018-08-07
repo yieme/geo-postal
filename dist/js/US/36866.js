@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36866"]={"code":"36866","region":"Alabama","city":"Notasulga","latitude":32.560479,"longitude":-85.663169}}(window,'GeoPostal','US');

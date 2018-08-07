@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30124"]={"code":"30124","region":"GA","city":"Cave Spring","latitude":34.1167,"longitude":-85.3379}}(window,'GeoPostal','US');

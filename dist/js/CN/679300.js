@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679300"]={"code":"679300","region":"Yunnan","city":"Pingyuan","latitude":24.73642,"longitude":97.91358}}(window,'GeoPostal','CN');

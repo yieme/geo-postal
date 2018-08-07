@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0E 1N0"]={"code":"N0E 1N0","region":"Ontario","city":"St. George","latitude":43.258521,"longitude":-80.256819}}(window,'GeoPostal','CA');

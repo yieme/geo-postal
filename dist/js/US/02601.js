@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02601"]={"code":"02601","region":"Massachusetts","city":"Hyannis","latitude":41.652265,"longitude":-70.295203}}(window,'GeoPostal','US');

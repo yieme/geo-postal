@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79545"]={"code":"79545","region":"Texas","city":"Roscoe","latitude":32.44595,"longitude":-100.53872}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84307"]={"code":"84307","region":"UT","city":"Corinne","latitude":41.545,"longitude":-112.1514}}(window,'GeoPostal','US');

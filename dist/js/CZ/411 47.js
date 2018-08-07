@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 47"]={"code":"411 47","region":"Ustecky kraj","city":"Polepy","latitude":50.50563,"longitude":14.26447}}(window,'GeoPostal','CZ');

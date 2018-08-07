@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["053 61"]={"code":"053 61","region":"Presovsky kraj","city":"Spisske Podhradie","latitude":49.00088,"longitude":20.75307}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40489"]={"code":"40489","region":"Kentucky","city":"Waynesburg","latitude":37.366259,"longitude":-84.632689}}(window,'GeoPostal','US');

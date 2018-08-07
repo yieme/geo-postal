@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98372"]={"code":"98372","region":"Washington","city":"Edgewood","latitude":47.206578,"longitude":-122.270478}}(window,'GeoPostal','US');

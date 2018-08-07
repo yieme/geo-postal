@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 1HR"]={"code":"DL8 1HR","region":"England","city":"Crakehall","latitude":54.30557,"longitude":-1.62898}}(window,'GeoPostal','GB');

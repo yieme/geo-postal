@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64367"]={"code":"64367","region":"Hessen","city":"Nieder-Ramstadt","latitude":49.82474,"longitude":8.70084}}(window,'GeoPostal','DE');

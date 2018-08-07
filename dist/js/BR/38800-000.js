@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38800-000"]={"code":"38800-000","region":"Minas Gerais","city":"Sao Gotardo","latitude":-19.31111,"longitude":-46.04889}}(window,'GeoPostal','BR');

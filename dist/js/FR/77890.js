@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77890"]={"code":"77890","region":"Ile-de-France","city":"Beaumont-du-Gatinais","latitude":48.1386,"longitude":2.47913}}(window,'GeoPostal','FR');

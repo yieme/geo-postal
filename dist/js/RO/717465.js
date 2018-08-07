@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717465"]={"code":"717465","region":"Botosani","city":"Vlasinesti","latitude":47.93333,"longitude":26.88333}}(window,'GeoPostal','RO');

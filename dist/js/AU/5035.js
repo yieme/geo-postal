@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5035"]={"code":"5035","region":"South Australia","city":"Keswick","latitude":-34.93333,"longitude":138.56667}}(window,'GeoPostal','AU');

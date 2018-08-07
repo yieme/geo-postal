@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08160"]={"code":"08160","region":"Catalunya","city":"Montmelo","latitude":41.55002,"longitude":2.2419}}(window,'GeoPostal','ES');

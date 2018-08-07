@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37110-000"]={"code":"37110-000","region":"Minas Gerais","city":"Eloi Mendes","latitude":-21.61,"longitude":-45.56528}}(window,'GeoPostal','BR');

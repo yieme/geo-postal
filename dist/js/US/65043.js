@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65043"]={"code":"65043","region":"MO","city":"Holts Summit","latitude":38.6328,"longitude":-92.1163}}(window,'GeoPostal','US');

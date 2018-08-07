@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-400"]={"code":"64-400","region":"Wielkopolskie","city":"Miedzychod","latitude":52.59882,"longitude":15.89696}}(window,'GeoPostal','PL');

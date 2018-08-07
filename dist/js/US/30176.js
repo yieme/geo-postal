@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30176"]={"code":"30176","region":"GA","city":"Tallapoosa","latitude":33.7602,"longitude":-85.3}}(window,'GeoPostal','US');

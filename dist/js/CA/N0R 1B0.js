@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0R 1B0"]={"code":"N0R 1B0","region":"Ontario","city":"Cottam","latitude":42.13339,"longitude":-82.74982}}(window,'GeoPostal','CA');

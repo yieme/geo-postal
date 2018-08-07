@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7C 4K8"]={"code":"K7C 4K8","region":"Ontario","city":"Sinclair Shore","latitude":45.06091,"longitude":-76.17298}}(window,'GeoPostal','CA');

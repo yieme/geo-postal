@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95682"]={"code":"95682","region":"Bayern","city":"Neubrand","latitude":49.96537,"longitude":11.90499}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16116"]={"code":"16116","region":"PA","city":"Edinburg","latitude":41.0276,"longitude":-80.4632}}(window,'GeoPostal','US');

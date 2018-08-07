@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175130"]={"code":"175130","region":"Novgorodskaya oblast'","city":"Parfino","latitude":57.97306,"longitude":31.64806}}(window,'GeoPostal','RU');

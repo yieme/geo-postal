@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94206"]={"code":"94206","region":"California","city":"Parkway","latitude":38.49602,"longitude":-121.45884}}(window,'GeoPostal','US');

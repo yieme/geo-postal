@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02030"]={"code":"02030","region":"Lazio","city":"Poggio Nativo","latitude":42.21543,"longitude":12.79658}}(window,'GeoPostal','IT');

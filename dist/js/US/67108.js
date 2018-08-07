@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67108"]={"code":"67108","region":"KS","city":"Mount Hope","latitude":37.8684,"longitude":-97.6591}}(window,'GeoPostal','US');

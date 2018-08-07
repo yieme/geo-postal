@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3590"]={"code":"3590","region":"Limburg","city":"Diepenbeek","latitude":50.90769,"longitude":5.41875}}(window,'GeoPostal','BE');

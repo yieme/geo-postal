@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12161"]={"code":"12161","region":"New York","city":"South Bethlehem","latitude":42.537717,"longitude":-73.893148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63850"]={"code":"63850","region":"Sanliurfa","city":"Viransehir","latitude":37.23528,"longitude":39.76306}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13390"]={"code":"13390","region":"Provence-Alpes-Cote d'Azur","city":"Auriol","latitude":43.37161,"longitude":5.6341}}(window,'GeoPostal','FR');

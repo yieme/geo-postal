@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2168"]={"code":"2168","region":"New South Wales","city":"Ashcroft","latitude":-33.91598,"longitude":150.89985}}(window,'GeoPostal','AU');

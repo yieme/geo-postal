@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56450"]={"code":"56450","region":"Minnesota","city":"Garrison","latitude":46.243488,"longitude":-93.935798}}(window,'GeoPostal','US');

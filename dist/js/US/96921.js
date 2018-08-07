@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96921"]={"code":"96921","region":"GU","city":"Barrigada","latitude":13.46,"longitude":144.79}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51559"]={"code":"51559","region":"IA","city":"Neola","latitude":41.4564,"longitude":-95.6794}}(window,'GeoPostal','US');

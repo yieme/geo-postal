@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23404"]={"code":"23404","region":"VA","city":"Locustville","latitude":37.6534,"longitude":-75.6735}}(window,'GeoPostal','US');

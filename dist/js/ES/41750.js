@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41750"]={"code":"41750","region":"Andalucia","city":"Los Molares","latitude":37.15704,"longitude":-5.71802}}(window,'GeoPostal','ES');

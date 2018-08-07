@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62660"]={"code":"62660","region":"Hauts-de-France","city":"Beuvry","latitude":50.51674,"longitude":2.68541}}(window,'GeoPostal','FR');

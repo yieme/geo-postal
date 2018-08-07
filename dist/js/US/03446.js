@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03446"]={"code":"03446","region":"New Hampshire","city":"Swanzey","latitude":42.853444,"longitude":-72.259189}}(window,'GeoPostal','US');

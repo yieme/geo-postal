@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["800820"]={"code":"800820","region":"Galati","city":"Galati","latitude":45.45,"longitude":28.05}}(window,'GeoPostal','RO');

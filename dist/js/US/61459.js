@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61459"]={"code":"61459","region":"IL","city":"Marietta","latitude":40.4978,"longitude":-90.3885}}(window,'GeoPostal','US');

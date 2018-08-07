@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2044"]={"code":"2044","region":"New South Wales","city":"Tempe","latitude":-33.92335,"longitude":151.1602}}(window,'GeoPostal','AU');

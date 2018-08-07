@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49887"]={"code":"49887","region":"Michigan","city":"Stephenson","latitude":45.41472,"longitude":-87.60889}}(window,'GeoPostal','US');

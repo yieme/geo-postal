@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 3SL"]={"code":"NN11 3SL","region":"England","city":"Moreton Pinkney","latitude":52.13918,"longitude":-1.16335}}(window,'GeoPostal','GB');

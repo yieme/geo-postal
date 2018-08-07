@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15523"]={"code":"15523","region":"Chernihivska oblast","city":"Sednev","latitude":51.64472,"longitude":31.56496}}(window,'GeoPostal','UA');

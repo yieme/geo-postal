@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68610"]={"code":"68610","region":"Grand-Est","city":"Lautenbach","latitude":47.94055,"longitude":7.15768}}(window,'GeoPostal','FR');

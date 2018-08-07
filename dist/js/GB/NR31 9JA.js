@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR31 9JA"]={"code":"NR31 9JA","region":"England","city":"Haddiscoe","latitude":52.52878,"longitude":1.62224}}(window,'GeoPostal','GB');

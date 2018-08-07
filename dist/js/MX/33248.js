@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33248"]={"code":"33248","region":"Colima","city":"Armeria","latitude":18.93333,"longitude":-103.96667}}(window,'GeoPostal','MX');

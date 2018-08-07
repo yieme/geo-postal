@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23234"]={"code":"23234","region":"Zadarska zupanija","city":"Vir","latitude":44.30306,"longitude":15.08528}}(window,'GeoPostal','HR');

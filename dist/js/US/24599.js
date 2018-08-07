@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24599"]={"code":"24599","region":"Virginia","city":"Wingina","latitude":37.64,"longitude":-78.72389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93427"]={"code":"93427","region":"CA","city":"Buellton","latitude":34.6209,"longitude":-120.1922}}(window,'GeoPostal','US');

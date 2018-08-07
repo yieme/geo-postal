@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86130"]={"code":"86130","region":"Chumphon","city":"Sawi","latitude":10.23683,"longitude":99.10958}}(window,'GeoPostal','TH');

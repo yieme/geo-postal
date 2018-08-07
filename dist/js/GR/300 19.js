@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 19"]={"code":"300 19","region":"Dytiki Ellada","city":"Kandila","latitude":38.7,"longitude":20.93333}}(window,'GeoPostal','GR');

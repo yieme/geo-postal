@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P2A 2W9"]={"code":"P2A 2W9","region":"Ontario","city":"Parry Sound","latitude":45.391343,"longitude":-80.072611}}(window,'GeoPostal','CA');

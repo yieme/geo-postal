@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9K 1W4"]={"code":"V9K 1W4","region":"British Columbia","city":"Hilliers","latitude":49.29963,"longitude":-124.48607}}(window,'GeoPostal','CA');

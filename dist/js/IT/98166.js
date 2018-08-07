@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98166"]={"code":"98166","region":"Sicilia","city":"Sant'Agata di Militello","latitude":38.06786,"longitude":14.63267}}(window,'GeoPostal','IT');

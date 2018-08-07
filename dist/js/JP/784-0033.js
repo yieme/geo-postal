@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784-0033"]={"code":"784-0033","region":"Kochi","city":"Aki","latitude":33.5,"longitude":133.9}}(window,'GeoPostal','JP');

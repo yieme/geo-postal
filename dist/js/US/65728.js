@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65728"]={"code":"65728","region":"MO","city":"Ponce De Leon","latitude":36.8759,"longitude":-93.3516}}(window,'GeoPostal','US');

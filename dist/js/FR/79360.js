@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79360"]={"code":"79360","region":"Nouvelle-Aquitaine","city":"Beauvoir-sur-Niort","latitude":46.18017,"longitude":-0.47178}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68745"]={"code":"68745","region":"Nebraska","city":"Laurel","latitude":42.438727,"longitude":-97.104169}}(window,'GeoPostal','US');

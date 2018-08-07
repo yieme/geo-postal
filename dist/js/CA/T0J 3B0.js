@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 3B0"]={"code":"T0J 3B0","region":"Alberta","city":"Schuler","latitude":50.33341,"longitude":-110.10161}}(window,'GeoPostal','CA');

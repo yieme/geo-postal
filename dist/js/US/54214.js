@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54214"]={"code":"54214","region":"WI","city":"Francis Creek","latitude":44.2,"longitude":-87.72}}(window,'GeoPostal','US');

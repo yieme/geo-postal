@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22209"]={"code":"22209","region":"Bretagne","city":"Guingamp","latitude":48.55,"longitude":-3.15}}(window,'GeoPostal','FR');

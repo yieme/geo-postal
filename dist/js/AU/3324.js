@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3324"]={"code":"3324","region":"Victoria","city":"Lismore","latitude":-37.9527,"longitude":143.33783}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85321"]={"code":"85321","region":"Arizona","city":"Ajo","latitude":32.384081,"longitude":-112.868538}}(window,'GeoPostal','US');

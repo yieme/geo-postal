@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17533"]={"code":"17533","region":"PA","city":"Hopeland","latitude":40.2339,"longitude":-76.2607}}(window,'GeoPostal','US');

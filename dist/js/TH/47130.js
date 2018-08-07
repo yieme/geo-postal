@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47130"]={"code":"47130","region":"Sakon Nakhon","city":"Phanna Nikhom","latitude":17.35245,"longitude":103.85032}}(window,'GeoPostal','TH');

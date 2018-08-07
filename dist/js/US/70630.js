@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70630"]={"code":"70630","region":"LA","city":"Bell City","latitude":30.1054,"longitude":-93.0372}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["857000"]={"code":"857000","region":"Xizang","city":"Shigatse","latitude":29.267,"longitude":88.881}}(window,'GeoPostal','CN');

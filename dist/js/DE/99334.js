@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99334"]={"code":"99334","region":"Thuringen","city":"Ichtershausen","latitude":50.87602,"longitude":10.97028}}(window,'GeoPostal','DE');

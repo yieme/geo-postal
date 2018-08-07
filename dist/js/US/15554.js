@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15554"]={"code":"15554","region":"Pennsylvania","city":"New Paris","latitude":40.117856,"longitude":-78.595243}}(window,'GeoPostal','US');

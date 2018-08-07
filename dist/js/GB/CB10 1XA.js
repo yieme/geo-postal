@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 1XA"]={"code":"CB10 1XA","region":"England","city":"Little Walden","latitude":52.05089,"longitude":0.25337}}(window,'GeoPostal','GB');

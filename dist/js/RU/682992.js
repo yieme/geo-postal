@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682992"]={"code":"682992","region":"Khabarovskiy kray","city":"Lermontovka","latitude":47.14528,"longitude":134.33833}}(window,'GeoPostal','RU');

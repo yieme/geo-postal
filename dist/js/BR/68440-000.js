@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68440-000"]={"code":"68440-000","region":"Para","city":"Abaetetuba","latitude":-1.71806,"longitude":-48.8825}}(window,'GeoPostal','BR');

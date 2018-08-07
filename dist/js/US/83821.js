@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83821"]={"code":"83821","region":"ID","city":"Coolin","latitude":48.5228,"longitude":-116.8408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17244"]={"code":"17244","region":"PA","city":"Orrstown","latitude":40.0731,"longitude":-77.6398}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537308"]={"code":"537308","region":"Guangxi","city":"Pingnan","latitude":23.5543,"longitude":110.39757}}(window,'GeoPostal','CN');

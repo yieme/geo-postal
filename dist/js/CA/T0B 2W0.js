@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2W0"]={"code":"T0B 2W0","region":"Alberta","city":"Mannville","latitude":53.33345,"longitude":-111.1684}}(window,'GeoPostal','CA');

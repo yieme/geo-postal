@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46284"]={"code":"46284","region":"Nordrhein-Westfalen","city":"Wenge","latitude":51.68266,"longitude":6.99302}}(window,'GeoPostal','DE');

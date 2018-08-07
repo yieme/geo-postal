@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0K0"]={"code":"T0K 0K0","region":"Alberta","city":"Cardston","latitude":49.19998,"longitude":-113.3019}}(window,'GeoPostal','CA');

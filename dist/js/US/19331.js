@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19331"]={"code":"19331","region":"Pennsylvania","city":"Concordville","latitude":39.881571,"longitude":-75.519856}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8HB"]={"code":"IV40 8HB","region":"Scotland","city":"Inverinate","latitude":57.2393,"longitude":-5.44555}}(window,'GeoPostal','GB');

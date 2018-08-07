@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51631"]={"code":"51631","region":"Iowa","city":"Braddyville","latitude":40.613237,"longitude":-94.972645}}(window,'GeoPostal','US');

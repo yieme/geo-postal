@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31582"]={"code":"31582","region":"Niedersachsen","city":"Nienburg","latitude":52.6461,"longitude":9.22086}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472 00"]={"code":"472 00","region":"Ipeiros","city":"Petas","latitude":39.16667,"longitude":21.03472}}(window,'GeoPostal','GR');

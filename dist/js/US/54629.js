@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54629"]={"code":"54629","region":"Wisconsin","city":"Fountain City","latitude":44.12444,"longitude":-91.70944}}(window,'GeoPostal','US');

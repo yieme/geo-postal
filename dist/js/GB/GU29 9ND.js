@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU29 9ND"]={"code":"GU29 9ND","region":"England","city":"Midhurst","latitude":50.98559,"longitude":-0.74003}}(window,'GeoPostal','GB');

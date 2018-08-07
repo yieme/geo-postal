@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75490"]={"code":"75490","region":"Texas","city":"Trenton","latitude":33.42944,"longitude":-96.34028}}(window,'GeoPostal','US');

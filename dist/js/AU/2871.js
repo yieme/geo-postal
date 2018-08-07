@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2871"]={"code":"2871","region":"New South Wales","city":"Forbes","latitude":-33.38436,"longitude":148.0076}}(window,'GeoPostal','AU');

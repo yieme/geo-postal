@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["568 02"]={"code":"568 02","region":"Pardubicky kraj","city":"Svitavy","latitude":49.75594,"longitude":16.46829}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01770"]={"code":"01770","region":"MA","city":"Sherborn","latitude":42.2331,"longitude":-71.3787}}(window,'GeoPostal','US');

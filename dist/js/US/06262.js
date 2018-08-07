@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06262"]={"code":"06262","region":"CT","city":"Quinebaug","latitude":42.0217,"longitude":-71.9391}}(window,'GeoPostal','US');

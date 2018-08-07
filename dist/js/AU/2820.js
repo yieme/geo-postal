@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2820"]={"code":"2820","region":"New South Wales","city":"Wellington","latitude":-32.55588,"longitude":148.94508}}(window,'GeoPostal','AU');

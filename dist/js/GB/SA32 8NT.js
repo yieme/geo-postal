@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 8NT"]={"code":"SA32 8NT","region":"Wales","city":"Llanddarog","latitude":51.82722,"longitude":-4.17444}}(window,'GeoPostal','GB');

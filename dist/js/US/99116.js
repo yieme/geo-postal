@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99116"]={"code":"99116","region":"Washington","city":"Coulee Dam","latitude":47.971675,"longitude":-118.970658}}(window,'GeoPostal','US');

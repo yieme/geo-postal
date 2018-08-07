@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2072"]={"code":"2072","region":"Pest","city":"Zsambek","latitude":47.54814,"longitude":18.72011}}(window,'GeoPostal','HU');

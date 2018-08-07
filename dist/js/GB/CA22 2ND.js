@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA22 2ND"]={"code":"CA22 2ND","region":"England","city":"Haile","latitude":54.4634,"longitude":-3.49434}}(window,'GeoPostal','GB');

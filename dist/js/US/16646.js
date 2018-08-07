@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16646"]={"code":"16646","region":"Pennsylvania","city":"Hastings","latitude":40.665304,"longitude":-78.713546}}(window,'GeoPostal','US');

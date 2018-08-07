@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49326"]={"code":"49326","region":"MI","city":"Gowen","latitude":43.2239,"longitude":-85.3159}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76197"]={"code":"76197","region":"Normandie","city":"Yvetot","latitude":49.61744,"longitude":0.75814}}(window,'GeoPostal','FR');

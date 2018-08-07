@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56045"]={"code":"56045","region":"MN","city":"Hollandale","latitude":43.7608,"longitude":-93.2041}}(window,'GeoPostal','US');

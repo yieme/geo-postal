@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58854"]={"code":"58854","region":"North Dakota","city":"Watford City","latitude":47.80224,"longitude":-103.28325}}(window,'GeoPostal','US');

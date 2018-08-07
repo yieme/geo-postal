@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26671"]={"code":"26671","region":"WV","city":"Gilboa","latitude":38.3184,"longitude":-80.8342}}(window,'GeoPostal','US');

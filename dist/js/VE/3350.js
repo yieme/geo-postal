@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3350"]={"code":"3350","region":"Portuguesa","city":"Guanare","latitude":9.04183,"longitude":-69.74206}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08525"]={"code":"08525","region":"NJ","city":"Hopewell","latitude":40.3902,"longitude":-74.771}}(window,'GeoPostal','US');

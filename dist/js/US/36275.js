@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36275"]={"code":"36275","region":"AL","city":"Spring Garden","latitude":33.9778,"longitude":-85.5521}}(window,'GeoPostal','US');

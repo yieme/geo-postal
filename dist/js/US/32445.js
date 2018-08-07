@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32445"]={"code":"32445","region":"Florida","city":"Malone","latitude":30.95769,"longitude":-85.16215}}(window,'GeoPostal','US');

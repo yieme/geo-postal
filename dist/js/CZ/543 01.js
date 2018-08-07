@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["543 01"]={"code":"543 01","region":"Kralovehradecky kraj","city":"Vrchlabi","latitude":50.62697,"longitude":15.60937}}(window,'GeoPostal','CZ');

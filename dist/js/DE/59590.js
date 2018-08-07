@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59590"]={"code":"59590","region":"Nordrhein-Westfalen","city":"Provenholz","latitude":51.58873,"longitude":8.51263}}(window,'GeoPostal','DE');

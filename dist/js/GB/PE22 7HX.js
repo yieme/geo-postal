@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7HX"]={"code":"PE22 7HX","region":"England","city":"Carrington","latitude":53.08333,"longitude":-0.05}}(window,'GeoPostal','GB');

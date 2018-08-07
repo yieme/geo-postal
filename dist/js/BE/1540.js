@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1540"]={"code":"1540","region":"Vlaams-Brabant","city":"Gooik","latitude":50.79443,"longitude":4.11378}}(window,'GeoPostal','BE');

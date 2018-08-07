@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7132"]={"code":"7132","region":"Gelderland","city":"Lichtenvoorde","latitude":51.98667,"longitude":6.56667}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23141"]={"code":"23141","region":"VA","city":"Quinton","latitude":37.5185,"longitude":-77.1486}}(window,'GeoPostal','US');

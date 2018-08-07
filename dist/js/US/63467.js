@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63467"]={"code":"63467","region":"MO","city":"Saverton","latitude":39.65,"longitude":-91.2705}}(window,'GeoPostal','US');

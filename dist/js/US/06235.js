@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06235"]={"code":"06235","region":"Connecticut","city":"Chaplin","latitude":41.80821,"longitude":-72.116903}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12057"]={"code":"12057","region":"NY","city":"Eagle Bridge","latitude":42.9808,"longitude":-73.3522}}(window,'GeoPostal','US');

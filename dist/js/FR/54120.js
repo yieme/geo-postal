@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54120"]={"code":"54120","region":"Grand-Est","city":"Baccarat","latitude":48.45086,"longitude":6.73935}}(window,'GeoPostal','FR');

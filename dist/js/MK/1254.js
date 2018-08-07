@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1254"]={"code":"1254","region":"Mavrovo i Rostusa","city":"Rostusha","latitude":41.61,"longitude":20.6}}(window,'GeoPostal','MK');

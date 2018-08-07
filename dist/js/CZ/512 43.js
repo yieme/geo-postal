@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 43"]={"code":"512 43","region":"Liberecky kraj","city":"Jablonec nad Jizerou","latitude":50.70347,"longitude":15.42959}}(window,'GeoPostal','CZ');

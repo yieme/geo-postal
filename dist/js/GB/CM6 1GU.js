@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 1GU"]={"code":"CM6 1GU","region":"England","city":"Barnston","latitude":51.85444,"longitude":0.38474}}(window,'GeoPostal','GB');

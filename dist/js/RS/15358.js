@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15358"]={"code":"15358","region":"Macvanski okrug","city":"Badovinci","latitude":44.78583,"longitude":19.37139}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45013"]={"code":"45013","region":"Ohio","city":"Hamilton","latitude":39.407715,"longitude":-84.616516}}(window,'GeoPostal','US');

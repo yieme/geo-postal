@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646432"]={"code":"646432","region":"Omskaya oblast'","city":"Muromtsevo","latitude":56.37238,"longitude":75.24175}}(window,'GeoPostal','RU');

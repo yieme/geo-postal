@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06059"]={"code":"06059","region":"CT","city":"North Canton","latitude":41.8997,"longitude":-72.8907}}(window,'GeoPostal','US');

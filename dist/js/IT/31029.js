@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31029"]={"code":"31029","region":"Veneto","city":"Vittorio Veneto","latitude":45.97667,"longitude":12.30333}}(window,'GeoPostal','IT');

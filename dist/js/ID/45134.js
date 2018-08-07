@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45134"]={"code":"45134","region":"Jawa Barat","city":"Cirebon","latitude":-6.7063,"longitude":108.557}}(window,'GeoPostal','ID');

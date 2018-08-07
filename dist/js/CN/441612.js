@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441612"]={"code":"441612","region":"Hubei","city":"Baokang","latitude":31.87806,"longitude":111.25639}}(window,'GeoPostal','CN');

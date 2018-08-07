@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51350"]={"code":"51350","region":"Iowa","city":"Melvin","latitude":43.278588,"longitude":-95.564951}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06932"]={"code":"06932","region":"Amasya","city":"Gumushacikoy","latitude":40.87306,"longitude":35.21472}}(window,'GeoPostal','TR');

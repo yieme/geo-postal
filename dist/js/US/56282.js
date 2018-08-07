@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56282"]={"code":"56282","region":"MN","city":"Raymond","latitude":45.0181,"longitude":-95.2208}}(window,'GeoPostal','US');

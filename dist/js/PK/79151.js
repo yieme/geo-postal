@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79151"]={"code":"79151","region":"Sindh","city":"Tangwani","latitude":28.2787,"longitude":68.99718}}(window,'GeoPostal','PK');

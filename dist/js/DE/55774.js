@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55774"]={"code":"55774","region":"Rheinland-Pfalz","city":"Ronnenberg","latitude":49.62125,"longitude":7.39697}}(window,'GeoPostal','DE');

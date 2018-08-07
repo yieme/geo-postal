@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91798"]={"code":"91798","region":"CA","city":"Ontario","latitude":34.06,"longitude":-117.61}}(window,'GeoPostal','US');

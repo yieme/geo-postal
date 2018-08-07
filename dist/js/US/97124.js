@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97124"]={"code":"97124","region":"Oregon","city":"Hillsboro","latitude":45.535156,"longitude":-122.95626}}(window,'GeoPostal','US');

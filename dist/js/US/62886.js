@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62886"]={"code":"62886","region":"IL","city":"Sims","latitude":38.3923,"longitude":-88.5306}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 0J0"]={"code":"S0K 0J0","region":"Saskatchewan","city":"Asquith","latitude":52.11679,"longitude":-107.21797}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26473"]={"code":"26473","region":"Sumatera Barat","city":"Tiku","latitude":-0.3958,"longitude":99.92307}}(window,'GeoPostal','ID');

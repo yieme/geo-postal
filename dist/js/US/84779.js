@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84779"]={"code":"84779","region":"Utah","city":"Virgin","latitude":37.188889,"longitude":-113}}(window,'GeoPostal','US');

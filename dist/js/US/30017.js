@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30017"]={"code":"30017","region":"GA","city":"Grayson","latitude":33.8901,"longitude":-83.9632}}(window,'GeoPostal','US');

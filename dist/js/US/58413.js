@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58413"]={"code":"58413","region":"ND","city":"Ashley","latitude":46.0537,"longitude":-99.3164}}(window,'GeoPostal','US');

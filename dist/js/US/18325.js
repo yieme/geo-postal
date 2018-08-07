@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18325"]={"code":"18325","region":"Pennsylvania","city":"Canadensis","latitude":41.19194,"longitude":-75.25139}}(window,'GeoPostal','US');

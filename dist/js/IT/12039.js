@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12039"]={"code":"12039","region":"Piemonte","city":"Verzuolo","latitude":44.59503,"longitude":7.48353}}(window,'GeoPostal','IT');

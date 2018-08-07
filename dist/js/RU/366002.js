@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366002"]={"code":"366002","region":"Chechenskaya Respublika","city":"Pervomayskaya","latitude":43.40333,"longitude":45.52611}}(window,'GeoPostal','RU');

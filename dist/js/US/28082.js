@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28082"]={"code":"28082","region":"North Carolina","city":"Kannapolis","latitude":35.477394,"longitude":-80.625039}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00676"]={"code":"00676","region":"Moca","city":"Moca","latitude":18.39467,"longitude":-67.11324}}(window,'GeoPostal','PR');

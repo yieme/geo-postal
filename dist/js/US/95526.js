@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95526"]={"code":"95526","region":"CA","city":"Bridgeville","latitude":40.4693,"longitude":-123.7998}}(window,'GeoPostal','US');

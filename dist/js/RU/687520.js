@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687520"]={"code":"687520","region":"Zabaykal'skiy kray","city":"Orlovskiy","latitude":51.03333,"longitude":114.83333}}(window,'GeoPostal','RU');

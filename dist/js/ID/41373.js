@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41373"]={"code":"41373","region":"Jawa Barat","city":"Cikampek","latitude":-6.41972,"longitude":107.45583}}(window,'GeoPostal','ID');

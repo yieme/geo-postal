@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32168"]={"code":"32168","region":"Florida","city":"New Smyrna Beach","latitude":29.02582,"longitude":-80.927}}(window,'GeoPostal','US');

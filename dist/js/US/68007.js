@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68007"]={"code":"68007","region":"NE","city":"Bennington","latitude":41.3623,"longitude":-96.1575}}(window,'GeoPostal','US');

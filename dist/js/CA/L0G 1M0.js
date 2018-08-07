@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0G 1M0"]={"code":"L0G 1M0","region":"Ontario","city":"Georgina","latitude":44.205725,"longitude":-79.363333}}(window,'GeoPostal','CA');

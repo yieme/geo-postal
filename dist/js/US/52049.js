@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52049"]={"code":"52049","region":"IA","city":"Garnavillo","latitude":42.8762,"longitude":-91.2156}}(window,'GeoPostal','US');

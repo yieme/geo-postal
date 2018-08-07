@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55468"]={"code":"55468","region":"MN","city":"Damark","latitude":44.98,"longitude":-93.26}}(window,'GeoPostal','US');

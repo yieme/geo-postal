@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2071"]={"code":"2071","region":"Victoria","city":"Killara","latitude":-36.13965,"longitude":146.95136}}(window,'GeoPostal','AU');

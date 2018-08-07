@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95913"]={"code":"95913","region":"CA","city":"Artois","latitude":39.6197,"longitude":-122.1927}}(window,'GeoPostal','US');

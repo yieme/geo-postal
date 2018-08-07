@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19904"]={"code":"19904","region":"Cherkaska oblast","city":"Chornobay","latitude":49.67079,"longitude":32.32387}}(window,'GeoPostal','UA');

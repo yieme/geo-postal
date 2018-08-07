@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53990-000"]={"code":"53990-000","region":"Pernambuco","city":"Fernando de Noronha (Distrito Estadual)","latitude":-3.84028,"longitude":-32.41083}}(window,'GeoPostal','BR');

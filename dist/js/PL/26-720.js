@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-720"]={"code":"26-720","region":"Mazowieckie","city":"Policzna","latitude":51.45545,"longitude":21.62684}}(window,'GeoPostal','PL');

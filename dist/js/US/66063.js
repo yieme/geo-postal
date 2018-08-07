@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66063"]={"code":"66063","region":"Kansas","city":"Olathe","latitude":38.88132,"longitude":-94.81878}}(window,'GeoPostal','US');

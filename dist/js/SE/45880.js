@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45880"]={"code":"45880","region":"Vastra Gotalands lan","city":"Faergelanda","latitude":58.56816,"longitude":11.99235}}(window,'GeoPostal','SE');

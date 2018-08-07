@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77857"]={"code":"77857","region":"TX","city":"Gause","latitude":30.7833,"longitude":-96.7237}}(window,'GeoPostal','US');

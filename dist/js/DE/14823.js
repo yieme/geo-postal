@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14823"]={"code":"14823","region":"Brandenburg","city":"Luhnsdorf","latitude":52.08155,"longitude":12.6427}}(window,'GeoPostal','DE');

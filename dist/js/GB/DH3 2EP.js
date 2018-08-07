@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH3 2EP"]={"code":"DH3 2EP","region":"England","city":"Birtley","latitude":54.88333,"longitude":-1.56667}}(window,'GeoPostal','GB');

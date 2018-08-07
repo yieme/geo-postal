@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92090"]={"code":"92090","region":"Veracruz de Ignacio de la Llave","city":"Cerro Azul","latitude":21.2,"longitude":-97.73333}}(window,'GeoPostal','MX');

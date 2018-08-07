@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19475"]={"code":"19475","region":"PA","city":"Spring City","latitude":40.1765,"longitude":-75.5697}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70397"]={"code":"70397","region":"LA","city":"Theriot","latitude":29.4516,"longitude":-90.7651}}(window,'GeoPostal','US');

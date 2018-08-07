@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78112"]={"code":"78112","region":"Texas","city":"Elmendorf","latitude":29.22456,"longitude":-98.36718}}(window,'GeoPostal','US');

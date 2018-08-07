@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9428"]={"code":"9428","region":"Appenzell Ausserrhoden","city":"Walzenhausen","latitude":47.45007,"longitude":9.60495}}(window,'GeoPostal','CH');

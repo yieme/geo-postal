@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93017"]={"code":"93017","region":"Klaipedos apskritis","city":"Nida","latitude":55.30806,"longitude":21.00667}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331 41"]={"code":"331 41","region":"Plzensky kraj","city":"Kralovice","latitude":49.98192,"longitude":13.48747}}(window,'GeoPostal','CZ');

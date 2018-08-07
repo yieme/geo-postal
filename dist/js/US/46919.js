@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46919"]={"code":"46919","region":"IN","city":"Converse","latitude":40.577,"longitude":-85.8763}}(window,'GeoPostal','US');

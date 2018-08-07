@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 3DT"]={"code":"BA5 3DT","region":"England","city":"East Horrington","latitude":51.21831,"longitude":-2.60088}}(window,'GeoPostal','GB');

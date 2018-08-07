@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44152"]={"code":"44152","region":"Marrakech-Tensift-Al Haouz","city":"Talmest","latitude":31.81,"longitude":-9.33}}(window,'GeoPostal','MA');

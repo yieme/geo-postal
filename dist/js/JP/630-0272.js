@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630-0272"]={"code":"630-0272","region":"Osaka","city":"Higashiosaka","latitude":34.67944,"longitude":135.60083}}(window,'GeoPostal','JP');

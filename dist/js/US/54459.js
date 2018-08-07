@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54459"]={"code":"54459","region":"WI","city":"Ogema","latitude":45.4392,"longitude":-90.2565}}(window,'GeoPostal','US');

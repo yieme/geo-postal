@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-200"]={"code":"66-200","region":"Lubuskie","city":"Swiebodzin","latitude":52.24751,"longitude":15.53355}}(window,'GeoPostal','PL');

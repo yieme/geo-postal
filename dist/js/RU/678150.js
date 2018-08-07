@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678150"]={"code":"678150","region":"Saha, Respublika","city":"Vitim","latitude":59.45111,"longitude":112.55778}}(window,'GeoPostal','RU');

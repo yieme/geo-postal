@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77106"]={"code":"77106","region":"Federacija Bosne i Hercegovine","city":"Bihac","latitude":44.81694,"longitude":15.87083}}(window,'GeoPostal','BA');

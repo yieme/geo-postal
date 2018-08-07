@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2709"]={"code":"2709","region":"Ilocos Sur","city":"Salcedo","latitude":17.15472,"longitude":120.53944}}(window,'GeoPostal','PH');

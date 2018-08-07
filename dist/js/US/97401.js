@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97401"]={"code":"97401","region":"Oregon","city":"Eugene","latitude":44.05207,"longitude":-123.08675}}(window,'GeoPostal','US');

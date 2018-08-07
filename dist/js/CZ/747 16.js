@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 16"]={"code":"747 16","region":"Moravskoslezsky kraj","city":"Hat'","latitude":49.94644,"longitude":18.23931}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17217"]={"code":"17217","region":"PA","city":"Concord","latitude":40.2252,"longitude":-77.725}}(window,'GeoPostal','US');

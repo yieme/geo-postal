@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15642"]={"code":"15642","region":"Pennsylvania","city":"Irwin","latitude":40.329557,"longitude":-79.718024}}(window,'GeoPostal','US');

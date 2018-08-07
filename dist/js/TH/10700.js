@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10700"]={"code":"10700","region":"Krung Thep Maha Nakhon","city":"Bangkok Noi","latitude":13.76266,"longitude":100.47798}}(window,'GeoPostal','TH');

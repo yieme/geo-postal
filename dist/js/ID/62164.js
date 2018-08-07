@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62164"]={"code":"62164","region":"Jawa Timur","city":"Ngrowo","latitude":-7.0774,"longitude":111.6269}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51022"]={"code":"51022","region":"Iowa","city":"Granville","latitude":42.9833,"longitude":-95.904559}}(window,'GeoPostal','US');

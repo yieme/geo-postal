@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94100"]={"code":"94100","region":"Sicilia","city":"Enna","latitude":37.55885,"longitude":14.28917}}(window,'GeoPostal','IT');

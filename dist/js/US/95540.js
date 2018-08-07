@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95540"]={"code":"95540","region":"CA","city":"Fortuna","latitude":40.5835,"longitude":-124.1473}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14480"]={"code":"14480","region":"NY","city":"Lakeville","latitude":42.8296,"longitude":-77.7149}}(window,'GeoPostal','US');

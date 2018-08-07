@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95028"]={"code":"95028","region":"Bayern","city":"Leimitz","latitude":50.32277,"longitude":11.95187}}(window,'GeoPostal','DE');

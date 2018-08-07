@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54426"]={"code":"54426","region":"Rheinland-Pfalz","city":"Heidenburg","latitude":49.8,"longitude":6.91667}}(window,'GeoPostal','DE');

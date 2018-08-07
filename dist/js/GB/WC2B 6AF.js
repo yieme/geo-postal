@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WC2B 6AF"]={"code":"WC2B 6AF","region":"England","city":"Holborn","latitude":51.51753,"longitude":-0.12045}}(window,'GeoPostal','GB');

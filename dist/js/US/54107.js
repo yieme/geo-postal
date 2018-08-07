@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54107"]={"code":"54107","region":"WI","city":"Bonduel","latitude":44.6992,"longitude":-88.4543}}(window,'GeoPostal','US');

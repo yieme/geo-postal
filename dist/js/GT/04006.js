@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04006"]={"code":"04006","region":"Chimaltenango","city":"Tecpan Guatemala","latitude":14.76694,"longitude":-90.99417}}(window,'GeoPostal','GT');

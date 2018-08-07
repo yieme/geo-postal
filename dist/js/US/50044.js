@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50044"]={"code":"50044","region":"IA","city":"Bussey","latitude":41.2094,"longitude":-92.8963}}(window,'GeoPostal','US');

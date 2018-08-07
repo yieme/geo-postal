@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72023"]={"code":"72023","region":"Arkansas","city":"Cabot","latitude":34.97453,"longitude":-92.01653}}(window,'GeoPostal','US');

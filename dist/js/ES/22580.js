@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22580"]={"code":"22580","region":"Aragon","city":"Benavarri / Benabarre","latitude":42.10586,"longitude":0.48211}}(window,'GeoPostal','ES');

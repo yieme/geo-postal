@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235600"]={"code":"235600","region":"Olt","city":"Scornicesti","latitude":44.56667,"longitude":24.55}}(window,'GeoPostal','RO');

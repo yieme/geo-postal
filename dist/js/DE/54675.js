@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54675"]={"code":"54675","region":"Rheinland-Pfalz","city":"Biesdorf","latitude":49.88333,"longitude":6.3}}(window,'GeoPostal','DE');

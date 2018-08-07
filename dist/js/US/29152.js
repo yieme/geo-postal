@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29152"]={"code":"29152","region":"SC","city":"Shaw A F B","latitude":33.9204,"longitude":-80.3415}}(window,'GeoPostal','US');

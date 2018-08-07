@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 9LD"]={"code":"LN13 9LD","region":"England","city":"Cumberworth","latitude":53.23904,"longitude":0.25601}}(window,'GeoPostal','GB');

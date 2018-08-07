@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97180"]={"code":"97180","region":"Guadeloupe","city":"Sainte-Anne","latitude":16.22636,"longitude":-61.37919}}(window,'GeoPostal','GP');

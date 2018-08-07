@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22485"]={"code":"22485","region":"Virginia","city":"King George","latitude":38.299944,"longitude":-77.147624}}(window,'GeoPostal','US');

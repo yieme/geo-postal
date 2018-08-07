@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63824"]={"code":"63824","region":"Marche","city":"Altidona","latitude":43.10846,"longitude":13.79729}}(window,'GeoPostal','IT');

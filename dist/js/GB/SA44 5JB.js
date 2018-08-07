@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 5JB"]={"code":"SA44 5JB","region":"Wales","city":"Cwm-pengraig","latitude":52,"longitude":-4.4}}(window,'GeoPostal','GB');

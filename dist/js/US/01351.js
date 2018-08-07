@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01351"]={"code":"01351","region":"MA","city":"Montague","latitude":42.5429,"longitude":-72.5328}}(window,'GeoPostal','US');

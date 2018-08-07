@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437300"]={"code":"437300","region":"Maramures","city":"Salsig","latitude":47.53333,"longitude":23.3}}(window,'GeoPostal','RO');

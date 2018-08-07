@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74933"]={"code":"74933","region":"Baden-Wurttemberg","city":"Neidenstein","latitude":49.31667,"longitude":8.88472}}(window,'GeoPostal','DE');

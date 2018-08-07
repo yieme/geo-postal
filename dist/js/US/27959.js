@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27959"]={"code":"27959","region":"North Carolina","city":"Nags Head","latitude":35.95739,"longitude":-75.62406}}(window,'GeoPostal','US');

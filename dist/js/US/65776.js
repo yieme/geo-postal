@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65776"]={"code":"65776","region":"Missouri","city":"South Fork","latitude":36.62778,"longitude":-91.96278}}(window,'GeoPostal','US');

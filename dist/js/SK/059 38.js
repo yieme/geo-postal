@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059 38"]={"code":"059 38","region":"Presovsky kraj","city":"Strba","latitude":49.05913,"longitude":20.07975}}(window,'GeoPostal','SK');

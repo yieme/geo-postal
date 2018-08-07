@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8316"]={"code":"8316","region":"Overijssel","city":"Marknesse","latitude":52.708889,"longitude":5.862222}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95670"]={"code":"95670","region":"California","city":"Gold River","latitude":38.60352,"longitude":-121.24806}}(window,'GeoPostal','US');

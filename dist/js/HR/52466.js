@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52466"]={"code":"52466","region":"Istarska zupanija","city":"Novigrad","latitude":45.315,"longitude":13.55806}}(window,'GeoPostal','HR');

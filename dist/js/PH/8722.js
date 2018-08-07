@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8722"]={"code":"8722","region":"Bukidnon","city":"Malaybalay","latitude":8.15,"longitude":125.08333}}(window,'GeoPostal','PH');

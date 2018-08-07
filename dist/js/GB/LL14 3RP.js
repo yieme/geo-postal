@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL14 3RP"]={"code":"LL14 3RP","region":"Wales","city":"Acrefair","latitude":52.98041,"longitude":-3.07612}}(window,'GeoPostal','GB');

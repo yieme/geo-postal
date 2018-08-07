@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20714"]={"code":"20714","region":"MD","city":"North Beach","latitude":38.7119,"longitude":-76.5367}}(window,'GeoPostal','US');

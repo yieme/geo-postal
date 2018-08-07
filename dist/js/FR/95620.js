@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95620"]={"code":"95620","region":"Ile-de-France","city":"Parmain","latitude":49.11247,"longitude":2.21487}}(window,'GeoPostal','FR');

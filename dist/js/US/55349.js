@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55349"]={"code":"55349","region":"Minnesota","city":"Howard Lake","latitude":45.0608,"longitude":-94.07331}}(window,'GeoPostal','US');

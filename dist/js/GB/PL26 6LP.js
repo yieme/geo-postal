@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 6LP"]={"code":"PL26 6LP","region":"England","city":"Saint Goran","latitude":50.25083,"longitude":-4.82197}}(window,'GeoPostal','GB');

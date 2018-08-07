@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20854"]={"code":"20854","region":"Lombardia","city":"Vedano al Lambro","latitude":45.60878,"longitude":9.26785}}(window,'GeoPostal','IT');

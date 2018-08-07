@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57015"]={"code":"57015","region":"SD","city":"Chancellor","latitude":43.408,"longitude":-96.9827}}(window,'GeoPostal','US');

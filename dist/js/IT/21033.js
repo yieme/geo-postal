@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21033"]={"code":"21033","region":"Lombardia","city":"Cittiglio","latitude":45.89698,"longitude":8.66013}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02836"]={"code":"02836","region":"RI","city":"Kenyon","latitude":41.4474,"longitude":-71.6204}}(window,'GeoPostal','US');

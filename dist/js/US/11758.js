@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11758"]={"code":"11758","region":"New York","city":"Massapequa","latitude":40.7118,"longitude":-73.47942}}(window,'GeoPostal','US');

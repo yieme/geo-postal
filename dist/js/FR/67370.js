@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67370"]={"code":"67370","region":"Grand-Est","city":"Willgottheim","latitude":48.6717,"longitude":7.5108}}(window,'GeoPostal','FR');

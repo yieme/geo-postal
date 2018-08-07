@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52310"]={"code":"52310","region":"Grand-Est","city":"Bologne","latitude":48.20004,"longitude":5.14209}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1930"]={"code":"1930","region":"Akershus","city":"Aurskog","latitude":59.91667,"longitude":11.43333}}(window,'GeoPostal','NO');

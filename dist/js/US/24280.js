@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24280"]={"code":"24280","region":"Virginia","city":"Rosedale","latitude":36.964998,"longitude":-81.897301}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8340"]={"code":"8340","region":"Neuquen","city":"Zapala","latitude":-38.89916,"longitude":-70.05442}}(window,'GeoPostal','AR');

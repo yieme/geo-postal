@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60599"]={"code":"60599","region":"IL","city":"Fox Valley","latitude":41.8397,"longitude":-88.0887}}(window,'GeoPostal','US');

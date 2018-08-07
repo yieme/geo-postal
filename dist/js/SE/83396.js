@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83396"]={"code":"83396","region":"Jamtlands lan","city":"Stroemsund","latitude":63.85206,"longitude":15.55583}}(window,'GeoPostal','SE');

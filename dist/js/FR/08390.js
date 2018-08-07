@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08390"]={"code":"08390","region":"Grand-Est","city":"Le Chesne","latitude":49.5144,"longitude":4.765}}(window,'GeoPostal','FR');

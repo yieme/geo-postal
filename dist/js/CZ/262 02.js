@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 02"]={"code":"262 02","region":"Stredocesky kraj","city":"Stara Hut'","latitude":49.78225,"longitude":14.19735}}(window,'GeoPostal','CZ');

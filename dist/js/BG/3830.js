@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3830"]={"code":"3830","region":"Vidin","city":"Gramada","latitude":43.83444,"longitude":22.65861}}(window,'GeoPostal','BG');

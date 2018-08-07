@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127695"]={"code":"127695","region":"Buzau","city":"Vintila Voda","latitude":45.46667,"longitude":26.71667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57424"]={"code":"57424","region":"SD","city":"Ashton","latitude":45.0465,"longitude":-98.3973}}(window,'GeoPostal','US');

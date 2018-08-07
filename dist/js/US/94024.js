@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94024"]={"code":"94024","region":"California","city":"Los Altos","latitude":37.352816,"longitude":-122.087848}}(window,'GeoPostal','US');

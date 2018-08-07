@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56031"]={"code":"56031","region":"Minnesota","city":"Fairmont","latitude":43.65218,"longitude":-94.46108}}(window,'GeoPostal','US');

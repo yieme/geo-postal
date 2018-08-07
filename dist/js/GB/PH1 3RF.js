@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 3RF"]={"code":"PH1 3RF","region":"Scotland","city":"Keilour","latitude":56.4,"longitude":-3.66667}}(window,'GeoPostal','GB');

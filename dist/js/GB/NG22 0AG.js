@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 0AG"]={"code":"NG22 0AG","region":"England","city":"Kneesall","latitude":53.17037,"longitude":-0.949}}(window,'GeoPostal','GB');

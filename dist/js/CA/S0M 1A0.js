@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1A0"]={"code":"S0M 1A0","region":"Saskatchewan","city":"Peerless","latitude":54.35019,"longitude":-109.23486}}(window,'GeoPostal','CA');

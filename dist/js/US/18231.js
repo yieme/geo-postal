@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18231"]={"code":"18231","region":"PA","city":"Kelayres","latitude":40.9002,"longitude":-76.0054}}(window,'GeoPostal','US');

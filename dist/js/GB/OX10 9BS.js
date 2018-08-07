@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX10 9BS"]={"code":"OX10 9BS","region":"England","city":"Wallingford","latitude":51.59982,"longitude":-1.1248}}(window,'GeoPostal','GB');

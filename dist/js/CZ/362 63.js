@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362 63"]={"code":"362 63","region":"Karlovarsky kraj","city":"Dalovice","latitude":50.24779,"longitude":12.89581}}(window,'GeoPostal','CZ');

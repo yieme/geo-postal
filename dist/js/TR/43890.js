@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43890"]={"code":"43890","region":"Kutahya","city":"Domanic Kozluca","latitude":39.8,"longitude":29.61667}}(window,'GeoPostal','TR');

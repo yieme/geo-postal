@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624208"]={"code":"624208","region":"Sichuan","city":"Meixing","latitude":31.00107,"longitude":102.36435}}(window,'GeoPostal','CN');

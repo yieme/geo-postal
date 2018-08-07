@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61140"]={"code":"61140","region":"Normandie","city":"Juvigny-sous-Andaine","latitude":48.55194,"longitude":-0.50878}}(window,'GeoPostal','FR');

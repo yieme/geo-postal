@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16775"]={"code":"16775","region":"Brandenburg","city":"Bredereiche","latitude":53.13661,"longitude":13.24255}}(window,'GeoPostal','DE');

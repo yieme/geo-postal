@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397855"]={"code":"397855","region":"Voronezhskaya oblast'","city":"Ostrogozhsk","latitude":50.8664,"longitude":39.07562}}(window,'GeoPostal','RU');

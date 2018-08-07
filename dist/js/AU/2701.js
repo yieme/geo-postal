@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2701"]={"code":"2701","region":"New South Wales","city":"Coolamon","latitude":-34.8179,"longitude":147.20084}}(window,'GeoPostal','AU');

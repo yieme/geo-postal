@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63633"]={"code":"63633","region":"Hessen","city":"Unterreichenbach","latitude":50.36913,"longitude":9.32439}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21233"]={"code":"21233","region":"Splitsko-dalmatinska zupanija","city":"Hrvace","latitude":43.76333,"longitude":16.615}}(window,'GeoPostal','HR');

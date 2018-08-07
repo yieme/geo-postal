@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT6 6TA"]={"code":"CT6 6TA","region":"England","city":"Reculver","latitude":51.37826,"longitude":1.19764}}(window,'GeoPostal','GB');

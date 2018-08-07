@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT36 7LQ"]={"code":"BT36 7LQ","region":"Northern Ireland","city":"Newtownabbey","latitude":54.65983,"longitude":-5.90858}}(window,'GeoPostal','GB');

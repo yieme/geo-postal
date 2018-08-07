@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93011"]={"code":"93011","region":"Sicilia","city":"Butera","latitude":37.19104,"longitude":14.18367}}(window,'GeoPostal','IT');

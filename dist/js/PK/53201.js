@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53201"]={"code":"53201","region":"Punjab","city":"Okara","latitude":30.80806,"longitude":73.44583}}(window,'GeoPostal','PK');

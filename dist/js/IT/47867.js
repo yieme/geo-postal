@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47867"]={"code":"47867","region":"Emilia-Romagna","city":"Talamello","latitude":43.90566,"longitude":12.28484}}(window,'GeoPostal','IT');

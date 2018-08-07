@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641 00"]={"code":"641 00","region":"Anatoliki Makedonia kai Thraki","city":"Eleftheroupolis","latitude":40.91389,"longitude":24.25139}}(window,'GeoPostal','GR');

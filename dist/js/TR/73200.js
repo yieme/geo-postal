@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73200"]={"code":"73200","region":"Erzurum","city":"Uzundere","latitude":40.53014,"longitude":41.55844}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97118"]={"code":"97118","region":"Oregon","city":"Garibaldi","latitude":45.56028,"longitude":-123.91139}}(window,'GeoPostal','US');

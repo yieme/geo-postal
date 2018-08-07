@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9020"]={"code":"9020","region":"Misamis Oriental","city":"Gitagum","latitude":8.59667,"longitude":124.40639}}(window,'GeoPostal','PH');

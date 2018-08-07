@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0C 1B0"]={"code":"N0C 1B0","region":"Ontario","city":"Dundalk","latitude":44.16792,"longitude":-80.39357}}(window,'GeoPostal','CA');

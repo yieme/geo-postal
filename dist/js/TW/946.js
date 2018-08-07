@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["946"]={"code":"946","region":"Pingtung","city":"Hengchun","latitude":22.00417,"longitude":120.74389}}(window,'GeoPostal','TW');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47946"]={"code":"47946","region":"Indiana","city":"Francesville","latitude":40.985302,"longitude":-86.882431}}(window,'GeoPostal','US');

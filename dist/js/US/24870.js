@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24870"]={"code":"24870","region":"WV","city":"Oceana","latitude":37.7407,"longitude":-81.5831}}(window,'GeoPostal','US');

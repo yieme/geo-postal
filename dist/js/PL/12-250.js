@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-250"]={"code":"12-250","region":"Warminsko-mazurskie","city":"Orzysz","latitude":53.80967,"longitude":21.94811}}(window,'GeoPostal','PL');

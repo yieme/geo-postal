@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65661"]={"code":"65661","region":"Missouri","city":"Greenfield","latitude":37.41532,"longitude":-93.84104}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4852"]={"code":"4852","region":"Queensland","city":"Carmoo","latitude":-17.94729,"longitude":146.04575}}(window,'GeoPostal','AU');

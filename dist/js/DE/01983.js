@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01983"]={"code":"01983","region":"Brandenburg","city":"Anhalterkolonie","latitude":51.5882,"longitude":13.9993}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02453"]={"code":"02453","region":"Massachusetts","city":"Wales","latitude":42.36962,"longitude":-71.23535}}(window,'GeoPostal','US');

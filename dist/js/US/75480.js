@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75480"]={"code":"75480","region":"Texas","city":"Scroggins","latitude":32.97361,"longitude":-95.18472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54429"]={"code":"54429","region":"WI","city":"Elderon","latitude":44.7802,"longitude":-89.2478}}(window,'GeoPostal','US');

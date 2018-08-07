@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55012"]={"code":"55012","region":"MN","city":"Center City","latitude":45.4482,"longitude":-92.7894}}(window,'GeoPostal','US');

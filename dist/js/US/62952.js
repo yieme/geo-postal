@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62952"]={"code":"62952","region":"IL","city":"Jonesboro","latitude":37.4461,"longitude":-89.2915}}(window,'GeoPostal','US');

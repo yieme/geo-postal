@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29082"]={"code":"29082","region":"South Carolina","city":"Lodge","latitude":33.06881,"longitude":-80.95292}}(window,'GeoPostal','US');

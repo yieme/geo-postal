@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA78 6SZ"]={"code":"PA78 6SZ","region":"Scotland","city":"Arinagour","latitude":56.62475,"longitude":-6.52742}}(window,'GeoPostal','GB');

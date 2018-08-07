@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57076"]={"code":"57076","region":"SD","city":"Winfred","latitude":43.9972,"longitude":-97.3623}}(window,'GeoPostal','US');

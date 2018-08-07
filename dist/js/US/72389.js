@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72389"]={"code":"72389","region":"AR","city":"Wabash","latitude":34.3466,"longitude":-90.8869}}(window,'GeoPostal','US');

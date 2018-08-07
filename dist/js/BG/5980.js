@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5980"]={"code":"5980","region":"Pleven","city":"Cherven Bryag","latitude":43.26667,"longitude":24.1}}(window,'GeoPostal','BG');

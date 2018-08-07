@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628101"]={"code":"628101","region":"Sichuan","city":"Shazhou","latitude":32.66963,"longitude":105.48328}}(window,'GeoPostal','CN');

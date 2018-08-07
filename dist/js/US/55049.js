@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55049"]={"code":"55049","region":"MN","city":"Medford","latitude":44.1741,"longitude":-93.2437}}(window,'GeoPostal','US');

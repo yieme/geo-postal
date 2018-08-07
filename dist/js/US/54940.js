@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54940"]={"code":"54940","region":"WI","city":"Fremont","latitude":44.2379,"longitude":-88.8449}}(window,'GeoPostal','US');

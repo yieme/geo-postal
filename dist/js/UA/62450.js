@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62450"]={"code":"62450","region":"Kharkivska oblast","city":"Manchenky","latitude":49.97982,"longitude":35.85835}}(window,'GeoPostal','UA');

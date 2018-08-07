@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31692"]={"code":"31692","region":"Navarra, Comunidad Foral de","city":"Garaioa","latitude":42.929783,"longitude":-1.244887}}(window,'GeoPostal','ES');

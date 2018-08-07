@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57255"]={"code":"57255","region":"South Dakota","city":"New Effington","latitude":45.877857,"longitude":-96.916327}}(window,'GeoPostal','US');

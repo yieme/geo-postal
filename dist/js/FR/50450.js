@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50450"]={"code":"50450","region":"Normandie","city":"Gavray","latitude":48.91108,"longitude":-1.3506}}(window,'GeoPostal','FR');

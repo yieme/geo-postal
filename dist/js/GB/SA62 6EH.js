@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6EH"]={"code":"SA62 6EH","region":"Wales","city":"Keeston","latitude":51.83392,"longitude":-5.04834}}(window,'GeoPostal','GB');

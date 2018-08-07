@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79591"]={"code":"79591","region":"Baden-Wurttemberg","city":"Eimeldingen","latitude":47.63333,"longitude":7.6}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L36 9XP"]={"code":"L36 9XP","region":"England","city":"Huyton","latitude":53.4115,"longitude":-2.83935}}(window,'GeoPostal','GB');

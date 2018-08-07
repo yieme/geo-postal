@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54154"]={"code":"54154","region":"Wisconsin","city":"Oconto Falls","latitude":44.872793,"longitude":-88.163702}}(window,'GeoPostal','US');

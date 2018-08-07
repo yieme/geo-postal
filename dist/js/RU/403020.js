@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403020"]={"code":"403020","region":"Volgogradskaya oblast'","city":"Novyy Rogachik","latitude":48.67685,"longitude":44.0608}}(window,'GeoPostal','RU');

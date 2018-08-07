@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43506"]={"code":"43506","region":"Bjelovarsko-bilogorska zupanija","city":"Dezanovac","latitude":45.57056,"longitude":17.08667}}(window,'GeoPostal','HR');

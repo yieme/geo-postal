@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42221"]={"code":"42221","region":"KY","city":"Fairview","latitude":36.8434,"longitude":-87.3039}}(window,'GeoPostal','US');

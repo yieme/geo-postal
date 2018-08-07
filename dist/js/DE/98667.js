@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98667"]={"code":"98667","region":"Thuringen","city":"Langenbach","latitude":50.514,"longitude":10.84842}}(window,'GeoPostal','DE');

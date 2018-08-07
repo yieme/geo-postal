@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96732"]={"code":"96732","region":"Hawaii","city":"Kahului","latitude":20.89472,"longitude":-156.47}}(window,'GeoPostal','US');

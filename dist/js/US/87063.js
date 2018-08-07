@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87063"]={"code":"87063","region":"NM","city":"Willard","latitude":34.5754,"longitude":-106.0307}}(window,'GeoPostal','US');

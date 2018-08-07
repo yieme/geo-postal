@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67056"]={"code":"67056","region":"KS","city":"Halstead","latitude":38.0064,"longitude":-97.5118}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58755"]={"code":"58755","region":"ND","city":"Mcgregor","latitude":48.595,"longitude":-102.9288}}(window,'GeoPostal','US');

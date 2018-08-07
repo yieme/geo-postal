@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14058"]={"code":"14058","region":"New York","city":"Elba","latitude":43.086899,"longitude":-78.157503}}(window,'GeoPostal','US');

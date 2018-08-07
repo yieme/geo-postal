@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["067200"]={"code":"067200","region":"Hebei","city":"Yingshouyingzi","latitude":40.55147,"longitude":117.66155}}(window,'GeoPostal','CN');

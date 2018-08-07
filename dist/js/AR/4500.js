@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4500"]={"code":"4500","region":"Jujuy","city":"San Pedro","latitude":-24.23127,"longitude":-64.86614}}(window,'GeoPostal','AR');

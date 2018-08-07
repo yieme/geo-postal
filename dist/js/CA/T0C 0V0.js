@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 0V0"]={"code":"T0C 0V0","region":"Alberta","city":"Calmar","latitude":53.26683,"longitude":-113.81874}}(window,'GeoPostal','CA');

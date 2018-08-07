@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5530"]={"code":"5530","region":"Bekes","city":"Veszto","latitude":46.91667,"longitude":21.26667}}(window,'GeoPostal','HU');

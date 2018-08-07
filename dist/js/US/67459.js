@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67459"]={"code":"67459","region":"Kansas","city":"Lorraine","latitude":38.569589,"longitude":-98.316854}}(window,'GeoPostal','US');

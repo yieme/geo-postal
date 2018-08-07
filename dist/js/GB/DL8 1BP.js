@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 1BP"]={"code":"DL8 1BP","region":"England","city":"Aiskew","latitude":54.29319,"longitude":-1.58152}}(window,'GeoPostal','GB');

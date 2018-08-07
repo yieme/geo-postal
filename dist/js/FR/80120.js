@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80120"]={"code":"80120","region":"Hauts-de-France","city":"Quend","latitude":50.31584,"longitude":1.63609}}(window,'GeoPostal','FR');

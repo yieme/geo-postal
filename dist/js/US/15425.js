@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15425"]={"code":"15425","region":"Pennsylvania","city":"Connellsville","latitude":40.01785,"longitude":-79.58948}}(window,'GeoPostal','US');

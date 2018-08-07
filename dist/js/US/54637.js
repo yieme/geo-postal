@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54637"]={"code":"54637","region":"WI","city":"Hustler","latitude":43.8801,"longitude":-90.2729}}(window,'GeoPostal','US');

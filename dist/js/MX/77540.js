@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77540"]={"code":"77540","region":"Quintana Roo","city":"Leona Vicario","latitude":20.96667,"longitude":-87.19167}}(window,'GeoPostal','MX');

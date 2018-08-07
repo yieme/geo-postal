@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-5577"]={"code":"L-5577","region":"Grevenmacher","city":"Remich","latitude":49.545,"longitude":6.36694}}(window,'GeoPostal','LU');

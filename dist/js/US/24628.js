@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24628"]={"code":"24628","region":"Virginia","city":"Maxie","latitude":37.30203,"longitude":-82.17459}}(window,'GeoPostal','US');

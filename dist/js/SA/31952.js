@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31952"]={"code":"31952","region":"Ash Sharqiyah","city":"Al Khubar","latitude":26.27944,"longitude":50.20833}}(window,'GeoPostal','SA');

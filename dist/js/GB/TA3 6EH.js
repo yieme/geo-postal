@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 6EH"]={"code":"TA3 6EH","region":"England","city":"Stoke Saint Gregory","latitude":51.04028,"longitude":-2.93111}}(window,'GeoPostal','GB');

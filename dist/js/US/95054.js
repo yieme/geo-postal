@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95054"]={"code":"95054","region":"California","city":"Santa Clara","latitude":37.3521,"longitude":-121.9582}}(window,'GeoPostal','US');

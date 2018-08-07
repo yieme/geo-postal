@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82290"]={"code":"82290","region":"Occitanie","city":"La Ville-Dieu-du-Temple","latitude":44.0358,"longitude":1.2181}}(window,'GeoPostal','FR');

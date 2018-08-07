@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04265"]={"code":"04265","region":"ME","city":"North Monmouth","latitude":44.2753,"longitude":-70.0367}}(window,'GeoPostal','US');

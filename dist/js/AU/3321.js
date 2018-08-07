@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3321"]={"code":"3321","region":"Victoria","city":"Doroq","latitude":-38.1,"longitude":143.96667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01220"]={"code":"01220","region":"MA","city":"Adams","latitude":42.6223,"longitude":-73.1172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04027"]={"code":"04027","region":"Lazio","city":"Ponza","latitude":40.8938,"longitude":12.9625}}(window,'GeoPostal','IT');

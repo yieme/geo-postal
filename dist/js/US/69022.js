@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69022"]={"code":"69022","region":"Nebraska","city":"Cambridge","latitude":40.283105,"longitude":-100.170354}}(window,'GeoPostal','US');

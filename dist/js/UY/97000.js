@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97000"]={"code":"97000","region":"Durazno","city":"Durazno","latitude":-33.41306,"longitude":-56.50056}}(window,'GeoPostal','UY');

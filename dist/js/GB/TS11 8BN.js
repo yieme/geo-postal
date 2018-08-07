@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS11 8BN"]={"code":"TS11 8BN","region":"England","city":"New Marske","latitude":54.57848,"longitude":-1.04224}}(window,'GeoPostal','GB');

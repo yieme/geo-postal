@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05468"]={"code":"05468","region":"VT","city":"Milton","latitude":44.6483,"longitude":-73.1317}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50647"]={"code":"50647","region":"IA","city":"Janesville","latitude":42.6465,"longitude":-92.4791}}(window,'GeoPostal','US');

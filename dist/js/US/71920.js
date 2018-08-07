@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71920"]={"code":"71920","region":"Arkansas","city":"Amity","latitude":34.26611,"longitude":-93.46417}}(window,'GeoPostal','US');

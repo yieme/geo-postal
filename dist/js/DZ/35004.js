@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35004"]={"code":"35004","region":"Boumerdes","city":"Dellys","latitude":36.91716,"longitude":3.91311}}(window,'GeoPostal','DZ');

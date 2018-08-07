@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-470"]={"code":"66-470","region":"Lubuskie","city":"Kostrzyn nad Odra","latitude":52.58713,"longitude":14.64953}}(window,'GeoPostal','PL');

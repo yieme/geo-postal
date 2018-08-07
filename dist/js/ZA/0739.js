@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0739"]={"code":"0739","region":"Limpopo","city":"Lebowakgomo","latitude":-24.2,"longitude":29.5}}(window,'GeoPostal','ZA');

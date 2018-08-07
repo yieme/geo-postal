@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76350-000"]={"code":"76350-000","region":"Goias","city":"Rubiataba","latitude":-15.16444,"longitude":-49.80333}}(window,'GeoPostal','BR');

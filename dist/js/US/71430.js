@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71430"]={"code":"71430","region":"LA","city":"Forest Hill","latitude":31.0243,"longitude":-92.5108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80032"]={"code":"80032","region":"Campania","city":"Casamarciano","latitude":40.93191,"longitude":14.55324}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80028"]={"code":"80028","region":"CO","city":"Louisville","latitude":39.95,"longitude":-105.14}}(window,'GeoPostal','US');

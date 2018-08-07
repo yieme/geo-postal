@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20107"]={"code":"20107","region":"VA","city":"Arcola","latitude":38.96,"longitude":-77.52}}(window,'GeoPostal','US');

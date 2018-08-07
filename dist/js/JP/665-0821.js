@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665-0821"]={"code":"665-0821","region":"Hyogo","city":"Takarazuka","latitude":34.8,"longitude":135.367}}(window,'GeoPostal','JP');

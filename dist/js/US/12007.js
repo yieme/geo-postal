@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12007"]={"code":"12007","region":"NY","city":"Alcove","latitude":42.4561,"longitude":-73.9277}}(window,'GeoPostal','US');

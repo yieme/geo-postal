@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7BQ"]={"code":"IP13 7BQ","region":"England","city":"Cretingham","latitude":52.19569,"longitude":1.25823}}(window,'GeoPostal','GB');

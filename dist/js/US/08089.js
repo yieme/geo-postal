@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08089"]={"code":"08089","region":"NJ","city":"Waterford Works","latitude":39.7215,"longitude":-74.8609}}(window,'GeoPostal','US');

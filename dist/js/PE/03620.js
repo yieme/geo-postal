@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03620"]={"code":"03620","region":"Apurimac","city":"Andahuaylas","latitude":-13.65556,"longitude":-73.38722}}(window,'GeoPostal','PE');

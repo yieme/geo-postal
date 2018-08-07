@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46830"]={"code":"46830","region":"Kahramanmaras","city":"Sekeroba","latitude":37.256743,"longitude":36.772343}}(window,'GeoPostal','TR');

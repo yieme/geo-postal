@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["842002"]={"code":"842002","region":"Xinjiang","city":"Kuqa","latitude":41.72778,"longitude":82.93639}}(window,'GeoPostal','CN');

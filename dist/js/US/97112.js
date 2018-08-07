@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97112"]={"code":"97112","region":"Oregon","city":"Cloverdale","latitude":45.20583,"longitude":-123.89194}}(window,'GeoPostal','US');

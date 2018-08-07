@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN12 2PR"]={"code":"LN12 2PR","region":"England","city":"Trusthorpe","latitude":53.32489,"longitude":0.2706}}(window,'GeoPostal','GB');

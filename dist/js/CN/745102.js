@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745102"]={"code":"745102","region":"Gansu","city":"Nanzhuang","latitude":36.06851,"longitude":107.98171}}(window,'GeoPostal','CN');

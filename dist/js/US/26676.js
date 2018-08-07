@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26676"]={"code":"26676","region":"WV","city":"Leivasy","latitude":38.1558,"longitude":-80.6827}}(window,'GeoPostal','US');

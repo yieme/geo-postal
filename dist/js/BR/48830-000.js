@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48830-000"]={"code":"48830-000","region":"Bahia","city":"Quijingue","latitude":-10.7525,"longitude":-39.20917}}(window,'GeoPostal','BR');

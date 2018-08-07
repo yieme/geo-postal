@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3760"]={"code":"3760","region":"Santiago del Estero","city":"Anatuya","latitude":-28.46064,"longitude":-62.83472}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2006"]={"code":"2006","region":"Durres","city":"Durres","latitude":41.32306,"longitude":19.44139}}(window,'GeoPostal','AL');

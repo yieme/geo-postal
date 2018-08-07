@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76821"]={"code":"76821","region":"Centre-Val de Loire","city":"Saint-Aignan","latitude":47.26892,"longitude":1.37614}}(window,'GeoPostal','FR');

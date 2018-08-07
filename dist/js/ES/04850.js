@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04850"]={"code":"04850","region":"Andalucia","city":"Arboleas","latitude":37.35024,"longitude":-2.07384}}(window,'GeoPostal','ES');

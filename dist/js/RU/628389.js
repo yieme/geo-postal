@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628389"]={"code":"628389","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Pyt-Yakh","latitude":60.74985,"longitude":72.85824}}(window,'GeoPostal','RU');

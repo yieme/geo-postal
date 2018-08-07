@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663490"]={"code":"663490","region":"Krasnoyarskiy kray","city":"Kodinsk","latitude":58.68806,"longitude":99.18444}}(window,'GeoPostal','RU');

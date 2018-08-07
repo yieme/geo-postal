@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200011"]={"code":"200011","region":"Shanghai","city":"Huangpu","latitude":31.2331,"longitude":121.485}}(window,'GeoPostal','CN');

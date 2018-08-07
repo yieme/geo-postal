@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53024"]={"code":"53024","region":"Toscana","city":"Montalcino","latitude":43.05824,"longitude":11.48964}}(window,'GeoPostal','IT');

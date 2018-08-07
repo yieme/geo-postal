@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16365"]={"code":"16365","region":"Pennsylvania","city":"North Warren","latitude":41.853528,"longitude":-79.15831}}(window,'GeoPostal','US');

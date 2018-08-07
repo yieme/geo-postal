@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4724"]={"code":"4724","region":"Aust-Agder","city":"Birketveit","latitude":58.45909,"longitude":7.91692}}(window,'GeoPostal','NO');

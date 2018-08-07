@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69518"]={"code":"69518","region":"Hessen","city":"Ober-Abtsteinach","latitude":49.54399,"longitude":8.78561}}(window,'GeoPostal','DE');

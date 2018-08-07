@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336318"]={"code":"336318","region":"Jiangxi","city":"Tianbao","latitude":28.53008,"longitude":114.76113}}(window,'GeoPostal','CN');

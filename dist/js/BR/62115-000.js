@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62115-000"]={"code":"62115-000","region":"Ceara","city":"Forquilha","latitude":-3.79833,"longitude":-40.26056}}(window,'GeoPostal','BR');

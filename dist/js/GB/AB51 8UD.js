@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 8UD"]={"code":"AB51 8UD","region":"Scotland","city":"Rothienorman","latitude":57.41145,"longitude":-2.46455}}(window,'GeoPostal','GB');

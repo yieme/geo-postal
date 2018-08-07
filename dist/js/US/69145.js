@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69145"]={"code":"69145","region":"Nebraska","city":"Kimball","latitude":41.23581,"longitude":-103.663}}(window,'GeoPostal','US');

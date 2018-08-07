@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY12 0NB"]={"code":"SY12 0NB","region":"England","city":"Ellesmere","latitude":52.91667,"longitude":-2.88333}}(window,'GeoPostal','GB');

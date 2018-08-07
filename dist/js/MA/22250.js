@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22250"]={"code":"22250","region":"Tadla-Azilal","city":"Bzou","latitude":32.09171,"longitude":-7.04786}}(window,'GeoPostal','MA');

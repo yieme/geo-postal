@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17488"]={"code":"17488","region":"Catalunya","city":"Cadaques","latitude":42.28856,"longitude":3.27706}}(window,'GeoPostal','ES');

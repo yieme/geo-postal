@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72638"]={"code":"72638","region":"Arkansas","city":"Green Forest","latitude":36.33535,"longitude":-93.43602}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04829"]={"code":"04829","region":"Andalucia","city":"Velez Rubio","latitude":37.64844,"longitude":-2.07686}}(window,'GeoPostal','ES');

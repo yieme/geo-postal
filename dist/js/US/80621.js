@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80621"]={"code":"80621","region":"Colorado","city":"Fort Lupton","latitude":40.099371,"longitude":-104.807855}}(window,'GeoPostal','US');

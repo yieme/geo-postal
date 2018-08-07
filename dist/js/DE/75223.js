@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75223"]={"code":"75223","region":"Baden-Wurttemberg","city":"Niefern","latitude":48.91667,"longitude":8.78333}}(window,'GeoPostal','DE');

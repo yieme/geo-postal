@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5807"]={"code":"5807","region":"Cordoba","city":"Carnerillo","latitude":-32.9137,"longitude":-64.02175}}(window,'GeoPostal','AR');

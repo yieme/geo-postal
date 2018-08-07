@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04455"]={"code":"04455","region":"Maine","city":"Lee","latitude":45.371916,"longitude":-68.291119}}(window,'GeoPostal','US');

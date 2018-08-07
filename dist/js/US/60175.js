@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60175"]={"code":"60175","region":"Illinois","city":"Saint Charles","latitude":41.951678,"longitude":-88.344788}}(window,'GeoPostal','US');

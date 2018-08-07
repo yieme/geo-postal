@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97453"]={"code":"97453","region":"Oregon","city":"Mapleton","latitude":44.035461,"longitude":-123.862784}}(window,'GeoPostal','US');

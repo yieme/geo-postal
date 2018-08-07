@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06260"]={"code":"06260","region":"Connecticut","city":"Putnam","latitude":41.90676,"longitude":-71.86698}}(window,'GeoPostal','US');

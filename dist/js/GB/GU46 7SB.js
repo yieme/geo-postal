@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU46 7SB"]={"code":"GU46 7SB","region":"England","city":"Yateley","latitude":51.34305,"longitude":-0.82985}}(window,'GeoPostal','GB');

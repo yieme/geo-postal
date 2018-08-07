@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48830"]={"code":"48830","region":"MI","city":"Elm Hall","latitude":43.3639,"longitude":-84.8362}}(window,'GeoPostal','US');

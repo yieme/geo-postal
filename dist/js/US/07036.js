@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07036"]={"code":"07036","region":"New Jersey","city":"Linden","latitude":40.62205,"longitude":-74.24459}}(window,'GeoPostal','US');

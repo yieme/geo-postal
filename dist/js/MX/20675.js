@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20675"]={"code":"20675","region":"Aguascalientes","city":"Palo Alto","latitude":21.91667,"longitude":-101.96667}}(window,'GeoPostal','MX');

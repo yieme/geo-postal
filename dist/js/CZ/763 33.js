@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 33"]={"code":"763 33","region":"Zlinsky kraj","city":"Stitna nad Vlari","latitude":49.06881,"longitude":17.98274}}(window,'GeoPostal','CZ');

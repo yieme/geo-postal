@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82935"]={"code":"82935","region":"Wyoming","city":"Green River","latitude":41.513578,"longitude":-109.468898}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354392"]={"code":"354392","region":"Krasnodarskiy kray","city":"Krasnaya Polyana","latitude":43.67952,"longitude":40.20403}}(window,'GeoPostal','RU');

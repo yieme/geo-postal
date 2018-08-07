@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-550"]={"code":"62-550","region":"Wielkopolskie","city":"Wilczogora","latitude":52.47348,"longitude":18.16744}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68858"]={"code":"68858","region":"NE","city":"Miller","latitude":40.9422,"longitude":-99.374}}(window,'GeoPostal','US');

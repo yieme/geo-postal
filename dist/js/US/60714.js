@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60714"]={"code":"60714","region":"Illinois","city":"Niles","latitude":42.029646,"longitude":-87.812639}}(window,'GeoPostal','US');

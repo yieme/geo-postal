@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56410"]={"code":"56410","region":"Rheinland-Pfalz","city":"Montabaur","latitude":50.43588,"longitude":7.8232}}(window,'GeoPostal','DE');

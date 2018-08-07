@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA9 7QQ"]={"code":"LA9 7QQ","region":"England","city":"Natland","latitude":54.29651,"longitude":-2.73901}}(window,'GeoPostal','GB');

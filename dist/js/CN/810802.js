@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["810802"]={"code":"810802","region":"Qinghai","city":"Wangjia","latitude":36.00836,"longitude":102.81179}}(window,'GeoPostal','CN');

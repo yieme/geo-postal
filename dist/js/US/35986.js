@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35986"]={"code":"35986","region":"Alabama","city":"Rainsville","latitude":34.499236,"longitude":-85.845974}}(window,'GeoPostal','US');

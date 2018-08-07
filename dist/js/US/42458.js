@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42458"]={"code":"42458","region":"KY","city":"Spottsville","latitude":37.8399,"longitude":-87.4247}}(window,'GeoPostal','US');

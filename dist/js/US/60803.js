@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60803"]={"code":"60803","region":"Illinois","city":"Alsip","latitude":41.66916,"longitude":-87.73688}}(window,'GeoPostal','US');

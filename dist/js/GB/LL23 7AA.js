@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL23 7AA"]={"code":"LL23 7AA","region":"Wales","city":"Bala","latitude":52.91111,"longitude":-3.59722}}(window,'GeoPostal','GB');

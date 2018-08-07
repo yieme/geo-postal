@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16345"]={"code":"16345","region":"Pennsylvania","city":"Russell","latitude":41.94145,"longitude":-79.13505}}(window,'GeoPostal','US');

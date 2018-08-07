@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72736"]={"code":"72736","region":"AR","city":"Gravette","latitude":36.4155,"longitude":-94.4779}}(window,'GeoPostal','US');

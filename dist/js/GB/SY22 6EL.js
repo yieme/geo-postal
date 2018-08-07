@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 6EL"]={"code":"SY22 6EL","region":"Wales","city":"Llanymynech","latitude":52.78086,"longitude":-3.08875}}(window,'GeoPostal','GB');

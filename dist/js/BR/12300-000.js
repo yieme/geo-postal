@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12300-000"]={"code":"12300-000","region":"Sao Paulo","city":"Jacarei","latitude":-23.30528,"longitude":-45.96583}}(window,'GeoPostal','BR');

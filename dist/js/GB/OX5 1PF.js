@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX5 1PF"]={"code":"OX5 1PF","region":"England","city":"Yarnton","latitude":51.80986,"longitude":-1.30694}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 7LW"]={"code":"CO10 7LW","region":"England","city":"Middleton","latitude":52.02253,"longitude":0.72677}}(window,'GeoPostal','GB');

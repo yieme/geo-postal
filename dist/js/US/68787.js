@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68787"]={"code":"68787","region":"Nebraska","city":"Wayne","latitude":42.235587,"longitude":-97.013693}}(window,'GeoPostal','US');

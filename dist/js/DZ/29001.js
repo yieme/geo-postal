@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29001"]={"code":"29001","region":"Mascara","city":"Sig","latitude":35.52832,"longitude":-0.19369}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99658"]={"code":"99658","region":"AK","city":"Saint Marys","latitude":62.1172,"longitude":-163.2376}}(window,'GeoPostal','US');

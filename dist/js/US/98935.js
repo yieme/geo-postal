@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98935"]={"code":"98935","region":"WA","city":"Mabton","latitude":46.2121,"longitude":-120.0151}}(window,'GeoPostal','US');

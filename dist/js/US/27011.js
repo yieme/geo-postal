@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27011"]={"code":"27011","region":"NC","city":"Boonville","latitude":36.234,"longitude":-80.6357}}(window,'GeoPostal','US');

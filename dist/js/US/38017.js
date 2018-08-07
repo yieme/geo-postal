@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38017"]={"code":"38017","region":"Tennessee","city":"Collierville","latitude":35.04204,"longitude":-89.66453}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 1RR"]={"code":"IP31 1RR","region":"England","city":"Sapiston","latitude":52.33956,"longitude":0.81187}}(window,'GeoPostal','GB');

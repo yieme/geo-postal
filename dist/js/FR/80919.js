@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80919"]={"code":"80919","region":"Hauts-de-France","city":"Amiens","latitude":49.9,"longitude":2.3}}(window,'GeoPostal','FR');

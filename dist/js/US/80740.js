@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80740"]={"code":"80740","region":"CO","city":"Lindon","latitude":39.7909,"longitude":-103.4142}}(window,'GeoPostal','US');

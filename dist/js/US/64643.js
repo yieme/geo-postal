@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64643"]={"code":"64643","region":"Missouri","city":"Hale","latitude":39.572285,"longitude":-93.346604}}(window,'GeoPostal','US');

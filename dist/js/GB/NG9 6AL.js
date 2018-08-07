@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG9 6AL"]={"code":"NG9 6AL","region":"England","city":"Attenborough","latitude":52.90626,"longitude":-1.23162}}(window,'GeoPostal','GB');

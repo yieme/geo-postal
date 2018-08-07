@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 4PE"]={"code":"LN4 4PE","region":"England","city":"Tattershall Thorpe","latitude":53.11907,"longitude":-0.17987}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21662"]={"code":"21662","region":"MD","city":"Royal Oak","latitude":38.714,"longitude":-76.2097}}(window,'GeoPostal','US');

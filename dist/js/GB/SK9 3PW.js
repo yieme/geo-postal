@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK9 3PW"]={"code":"SK9 3PW","region":"England","city":"Wilmslow","latitude":53.32803,"longitude":-2.23148}}(window,'GeoPostal','GB');

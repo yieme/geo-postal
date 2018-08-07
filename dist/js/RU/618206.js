@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618206"]={"code":"618206","region":"Permskiy kray","city":"Chusovoy","latitude":58.3013,"longitude":57.8131}}(window,'GeoPostal','RU');

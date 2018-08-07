@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3262"]={"code":"3262","region":"Entre Rios","city":"Caseros","latitude":-32.46325,"longitude":-58.47872}}(window,'GeoPostal','AR');

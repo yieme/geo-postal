@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19322"]={"code":"19322","region":"Brandenburg","city":"Wittenberge","latitude":53.00543,"longitude":11.75032}}(window,'GeoPostal','DE');

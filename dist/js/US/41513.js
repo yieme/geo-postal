@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41513"]={"code":"41513","region":"KY","city":"Belcher","latitude":37.3478,"longitude":-82.3406}}(window,'GeoPostal','US');

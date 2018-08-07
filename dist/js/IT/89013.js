@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89013"]={"code":"89013","region":"Calabria","city":"Gioia Tauro","latitude":38.42397,"longitude":15.899}}(window,'GeoPostal','IT');

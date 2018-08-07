@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13757"]={"code":"13757","region":"New York","city":"East Meredith","latitude":42.41682,"longitude":-74.88858}}(window,'GeoPostal','US');

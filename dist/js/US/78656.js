@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78656"]={"code":"78656","region":"TX","city":"Maxwell","latitude":29.8953,"longitude":-97.8144}}(window,'GeoPostal','US');

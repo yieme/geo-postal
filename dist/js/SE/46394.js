@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46394"]={"code":"46394","region":"Vastra Gotalands lan","city":"Lilla Edet","latitude":58.13333,"longitude":12.13333}}(window,'GeoPostal','SE');

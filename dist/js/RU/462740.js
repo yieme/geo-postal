@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462740"]={"code":"462740","region":"Orenburgskaya oblast'","city":"Svetlyy","latitude":50.81833,"longitude":60.85194}}(window,'GeoPostal','RU');

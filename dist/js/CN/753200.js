@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753200"]={"code":"753200","region":"Ningxia","city":"Shizuishan","latitude":39.23333,"longitude":106.76944}}(window,'GeoPostal','CN');

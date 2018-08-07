@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353000"]={"code":"353000","region":"Krasnodarskiy kray","city":"Kalnibolotskaya","latitude":46.00582,"longitude":40.45682}}(window,'GeoPostal','RU');

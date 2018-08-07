@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62448"]={"code":"62448","region":"Illinois","city":"Newton","latitude":38.99088,"longitude":-88.16254}}(window,'GeoPostal','US');

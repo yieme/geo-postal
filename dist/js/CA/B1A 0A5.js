@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1A 0A5"]={"code":"B1A 0A5","region":"Nova Scotia","city":"Havelock","latitude":44.30561,"longitude":-65.92046}}(window,'GeoPostal','CA');

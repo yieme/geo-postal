@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71477"]={"code":"71477","region":"LA","city":"Tioga","latitude":31.3999,"longitude":-92.6042}}(window,'GeoPostal','US');

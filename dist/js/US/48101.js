@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48101"]={"code":"48101","region":"Michigan","city":"Allen Park","latitude":42.25435,"longitude":-83.210097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547506"]={"code":"547506","region":"Mures","city":"Rusii Munti","latitude":46.91667,"longitude":24.85}}(window,'GeoPostal','RO');

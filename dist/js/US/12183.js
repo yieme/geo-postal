@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12183"]={"code":"12183","region":"NY","city":"Troy","latitude":42.746,"longitude":-73.6943}}(window,'GeoPostal','US');

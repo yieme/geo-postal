@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70545"]={"code":"70545","region":"Zaporizka oblast","city":"Orikhiv","latitude":47.56731,"longitude":35.78575}}(window,'GeoPostal','UA');

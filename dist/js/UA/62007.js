@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62007"]={"code":"62007","region":"Kharkivska oblast","city":"Krasnokutsk","latitude":50.06602,"longitude":35.16275}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141309"]={"code":"141309","region":"Moskovskaya oblast'","city":"Semkhoz","latitude":56.28333,"longitude":38.06667}}(window,'GeoPostal','RU');

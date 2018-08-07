@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26187"]={"code":"26187","region":"WV","city":"Williamstown","latitude":39.3824,"longitude":-81.4566}}(window,'GeoPostal','US');

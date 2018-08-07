@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 5LJ"]={"code":"AB42 5LJ","region":"Scotland","city":"Old Deer","latitude":57.51929,"longitude":-2.03771}}(window,'GeoPostal','GB');

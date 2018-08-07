@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226001"]={"code":"226001","region":"Uttar Pradesh","city":"Lucknow","latitude":26.85,"longitude":80.91667}}(window,'GeoPostal','IN');

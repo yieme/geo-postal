@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31036"]={"code":"31036","region":"Georgia","city":"Hawkinsville","latitude":32.281487,"longitude":-83.474477}}(window,'GeoPostal','US');

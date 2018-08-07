@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32764"]={"code":"32764","region":"Galicia","city":"Quiroga","latitude":42.47678,"longitude":-7.27463}}(window,'GeoPostal','ES');

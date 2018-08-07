@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4702"]={"code":"4702","region":"Szabolcs-Szatmar-Bereg","city":"Mateszalka","latitude":47.95528,"longitude":22.32348}}(window,'GeoPostal','HU');

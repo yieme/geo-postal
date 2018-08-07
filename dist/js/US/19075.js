@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19075"]={"code":"19075","region":"PA","city":"Oreland","latitude":40.1132,"longitude":-75.1869}}(window,'GeoPostal','US');

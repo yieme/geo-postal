@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96789"]={"code":"96789","region":"Hawaii","city":"Mililani","latitude":21.447619,"longitude":-158.022149}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32900"]={"code":"32900","region":"Mayabeque","city":"Santa Cruz del Norte","latitude":23.15389,"longitude":-81.92361}}(window,'GeoPostal','CU');

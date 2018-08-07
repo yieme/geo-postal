@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01069"]={"code":"01069","region":"Massachusetts","city":"Palmer","latitude":42.167373,"longitude":-72.317874}}(window,'GeoPostal','US');

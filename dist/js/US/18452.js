@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18452"]={"code":"18452","region":"PA","city":"Peckville","latitude":41.4821,"longitude":-75.5899}}(window,'GeoPostal','US');

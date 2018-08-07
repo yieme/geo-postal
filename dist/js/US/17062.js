@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17062"]={"code":"17062","region":"PA","city":"Millerstown","latitude":40.5505,"longitude":-77.1298}}(window,'GeoPostal','US');

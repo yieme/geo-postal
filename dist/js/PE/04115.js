@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04115"]={"code":"04115","region":"Arequipa","city":"Lluta","latitude":-16.01472,"longitude":-72.01417}}(window,'GeoPostal','PE');

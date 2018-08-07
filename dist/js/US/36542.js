@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36542"]={"code":"36542","region":"Alabama","city":"Gulf Shores","latitude":30.272303,"longitude":-87.717259}}(window,'GeoPostal','US');

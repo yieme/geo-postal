@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7670"]={"code":"7670","region":"Nord-Trondelag","city":"Straumen","latitude":63.87086,"longitude":11.29989}}(window,'GeoPostal','NO');

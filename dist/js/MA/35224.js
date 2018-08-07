@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35224"]={"code":"35224","region":"Tadla-Azilal","city":"Oulad Ayad","latitude":32.2,"longitude":-6.8}}(window,'GeoPostal','MA');

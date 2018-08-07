@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63826"]={"code":"63826","region":"Missouri","city":"Braggadocio","latitude":36.178053,"longitude":-89.671566}}(window,'GeoPostal','US');

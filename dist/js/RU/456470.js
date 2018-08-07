@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456470"]={"code":"456470","region":"Chelyabinskaya oblast'","city":"Uyskoye","latitude":54.3775,"longitude":60.00472}}(window,'GeoPostal','RU');

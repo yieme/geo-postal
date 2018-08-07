@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14718"]={"code":"14718","region":"NY","city":"Cassadaga","latitude":42.3504,"longitude":-79.2993}}(window,'GeoPostal','US');

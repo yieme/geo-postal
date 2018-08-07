@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577547"]={"code":"577547","region":"Karnataka","city":"Hosdurga","latitude":13.79806,"longitude":76.28611}}(window,'GeoPostal','IN');

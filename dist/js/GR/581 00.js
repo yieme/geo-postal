@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581 00"]={"code":"581 00","region":"Kentriki Makedonia","city":"Giannitsa","latitude":40.79194,"longitude":22.4075}}(window,'GeoPostal','GR');

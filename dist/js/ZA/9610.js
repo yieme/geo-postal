@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9610"]={"code":"9610","region":"Free State","city":"Marquard","latitude":-28.66449,"longitude":27.43048}}(window,'GeoPostal','ZA');

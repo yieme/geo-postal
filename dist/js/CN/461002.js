@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461002"]={"code":"461002","region":"Henan","city":"Pingdingshan","latitude":33.73847,"longitude":113.30119}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8044"]={"code":"8044","region":"Nabeul","city":"El Mida","latitude":36.72556,"longitude":10.85528}}(window,'GeoPostal','TN');

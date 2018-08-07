@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["290 90"]={"code":"290 90","region":"Ionia Nisia","city":"Katastarion","latitude":37.83333,"longitude":20.76667}}(window,'GeoPostal','GR');

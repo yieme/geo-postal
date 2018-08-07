@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80757"]={"code":"80757","region":"Colorado","city":"Woodrow","latitude":39.98806,"longitude":-103.59167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28844"]={"code":"28844","region":"Niedersachsen","city":"Auf den Bulten","latitude":52.95203,"longitude":8.84524}}(window,'GeoPostal','DE');

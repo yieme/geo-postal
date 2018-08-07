@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18624"]={"code":"18624","region":"PA","city":"Lake Harmony","latitude":41.0542,"longitude":-75.6331}}(window,'GeoPostal','US');

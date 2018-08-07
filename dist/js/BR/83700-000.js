@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83700-000"]={"code":"83700-000","region":"Parana","city":"Araucaria","latitude":-25.59306,"longitude":-49.41028}}(window,'GeoPostal','BR');

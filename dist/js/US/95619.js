@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95619"]={"code":"95619","region":"CA","city":"Diamond Springs","latitude":38.6865,"longitude":-120.8145}}(window,'GeoPostal','US');

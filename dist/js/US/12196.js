@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12196"]={"code":"12196","region":"New York","city":"West Sand Lake","latitude":42.628062,"longitude":-73.632379}}(window,'GeoPostal','US');

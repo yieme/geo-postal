@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 2C0"]={"code":"R0M 2C0","region":"Manitoba","city":"Virden","latitude":49.861382,"longitude":-100.93558}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83340"]={"code":"83340","region":"Idaho","city":"Ketchum","latitude":43.68074,"longitude":-114.36366}}(window,'GeoPostal','US');

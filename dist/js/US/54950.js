@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54950"]={"code":"54950","region":"Wisconsin","city":"Marion","latitude":44.67081,"longitude":-88.88927}}(window,'GeoPostal','US');

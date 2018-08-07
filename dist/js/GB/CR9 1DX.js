@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR9 1DX"]={"code":"CR9 1DX","region":"England","city":"Croydon","latitude":51.38333,"longitude":-0.1}}(window,'GeoPostal','GB');

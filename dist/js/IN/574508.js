@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574508"]={"code":"574508","region":"Karnataka","city":"Holalkere","latitude":14.03333,"longitude":76.18333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246177"]={"code":"246177","region":"Uttarakhand","city":"Devaprayag","latitude":30.15,"longitude":78.61667}}(window,'GeoPostal','IN');

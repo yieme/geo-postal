@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3634"]={"code":"3634","region":"Formosa","city":"Laguna Yema","latitude":-24.25391,"longitude":-61.24466}}(window,'GeoPostal','AR');

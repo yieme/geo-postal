@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL7 0EP"]={"code":"DL7 0EP","region":"England","city":"North Cowton","latitude":54.43045,"longitude":-1.56311}}(window,'GeoPostal','GB');

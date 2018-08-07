@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58757"]={"code":"58757","region":"North Dakota","city":"Mandaree","latitude":47.844149,"longitude":-102.709687}}(window,'GeoPostal','US');

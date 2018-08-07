@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3216"]={"code":"3216","region":"Victoria","city":"Highton","latitude":-38.17058,"longitude":144.3114}}(window,'GeoPostal','AU');

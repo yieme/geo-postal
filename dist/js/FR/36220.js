@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36220"]={"code":"36220","region":"Centre-Val de Loire","city":"Tournon-Saint-Martin","latitude":46.73423,"longitude":0.95514}}(window,'GeoPostal','FR');

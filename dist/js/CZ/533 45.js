@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533 45"]={"code":"533 45","region":"Pardubicky kraj","city":"Opatovice nad Labem","latitude":50.14541,"longitude":15.79045}}(window,'GeoPostal','CZ');

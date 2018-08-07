@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27367"]={"code":"27367","region":"Sumatera Barat","city":"Gunung Talang","latitude":-0.90566,"longitude":100.62709}}(window,'GeoPostal','ID');

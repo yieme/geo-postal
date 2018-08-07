@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76570"]={"code":"76570","region":"TX","city":"Rosebud","latitude":31.0922,"longitude":-96.9755}}(window,'GeoPostal','US');

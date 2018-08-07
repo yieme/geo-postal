@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17929"]={"code":"17929","region":"Pennsylvania","city":"Cressona","latitude":40.630634,"longitude":-76.193754}}(window,'GeoPostal','US');

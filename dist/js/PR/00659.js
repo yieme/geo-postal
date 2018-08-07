@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00659"]={"code":"00659","region":"Hatillo","city":"Hatillo","latitude":18.48633,"longitude":-66.82545}}(window,'GeoPostal','PR');

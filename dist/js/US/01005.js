@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01005"]={"code":"01005","region":"Massachusetts","city":"Barre","latitude":42.433445,"longitude":-72.114991}}(window,'GeoPostal','US');

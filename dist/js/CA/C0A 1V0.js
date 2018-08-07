@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1V0"]={"code":"C0A 1V0","region":"Prince Edward Island","city":"Murray Harbour","latitude":46.00012,"longitude":-62.51534}}(window,'GeoPostal','CA');

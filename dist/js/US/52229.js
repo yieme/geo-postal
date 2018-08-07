@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52229"]={"code":"52229","region":"IA","city":"Garrison","latitude":42.1588,"longitude":-92.1644}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1934"]={"code":"1934","region":"Valais","city":"Bagnes","latitude":46.08333,"longitude":7.21667}}(window,'GeoPostal','CH');

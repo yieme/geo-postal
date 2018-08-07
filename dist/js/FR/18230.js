@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18230"]={"code":"18230","region":"Centre-Val de Loire","city":"Saint-Doulchard","latitude":47.10371,"longitude":2.352}}(window,'GeoPostal','FR');

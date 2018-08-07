@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47367"]={"code":"47367","region":"IN","city":"Oakville","latitude":40.0792,"longitude":-85.39}}(window,'GeoPostal','US');

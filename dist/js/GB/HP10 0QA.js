@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP10 0QA"]={"code":"HP10 0QA","region":"England","city":"Wooburn","latitude":51.57888,"longitude":-0.693}}(window,'GeoPostal','GB');

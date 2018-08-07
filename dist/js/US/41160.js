@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41160"]={"code":"41160","region":"KY","city":"Mazie","latitude":38.027,"longitude":-82.9724}}(window,'GeoPostal','US');

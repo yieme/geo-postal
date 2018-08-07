@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71577"]={"code":"71577","region":"Baden-Wurttemberg","city":"Trauzenbach","latitude":49.0253,"longitude":9.56961}}(window,'GeoPostal','DE');

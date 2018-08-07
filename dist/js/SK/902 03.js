@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["902 03"]={"code":"902 03","region":"Bratislavsky kraj","city":"Pezinok","latitude":48.28986,"longitude":17.26664}}(window,'GeoPostal','SK');

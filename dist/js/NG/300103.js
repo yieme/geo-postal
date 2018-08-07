@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300103"]={"code":"300103","region":"Edo","city":"Benin City","latitude":6.33504,"longitude":5.62749}}(window,'GeoPostal','NG');

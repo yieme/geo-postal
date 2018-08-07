@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51638"]={"code":"51638","region":"Iowa","city":"Essex","latitude":40.832262,"longitude":-95.301521}}(window,'GeoPostal','US');

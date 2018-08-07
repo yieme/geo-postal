@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7223"]={"code":"7223","region":"Gelderland","city":"Baak","latitude":52.0775,"longitude":6.22778}}(window,'GeoPostal','NL');

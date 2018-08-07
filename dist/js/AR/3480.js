@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3480"]={"code":"3480","region":"Corrientes","city":"Ita Ibate","latitude":-27.42573,"longitude":-57.33758}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93100"]={"code":"93100","region":"Sicilia","city":"Caltanissetta","latitude":37.48774,"longitude":14.04497}}(window,'GeoPostal','IT');

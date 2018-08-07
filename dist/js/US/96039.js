@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96039"]={"code":"96039","region":"California","city":"Happy Camp","latitude":41.79318,"longitude":-123.3795}}(window,'GeoPostal','US');

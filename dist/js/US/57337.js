@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57337"]={"code":"57337","region":"SD","city":"Fedora","latitude":43.9841,"longitude":-97.789}}(window,'GeoPostal','US');

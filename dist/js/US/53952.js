@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53952"]={"code":"53952","region":"Wisconsin","city":"Oxford","latitude":43.800408,"longitude":-89.640879}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00660"]={"code":"00660","region":"PR","city":"Hormigueros","latitude":18.14,"longitude":-67.12}}(window,'GeoPostal','US');

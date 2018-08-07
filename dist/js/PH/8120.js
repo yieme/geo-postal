@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8120"]={"code":"8120","region":"Davao del Sur","city":"Kaputian","latitude":6.96583,"longitude":125.72611}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480669"]={"code":"480669","region":"Madhya Pradesh","city":"Seoni","latitude":22.08333,"longitude":79.53333}}(window,'GeoPostal','IN');

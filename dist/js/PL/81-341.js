@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81-341"]={"code":"81-341","region":"Podkarpackie","city":"Mielec","latitude":50.28709,"longitude":21.4239}}(window,'GeoPostal','PL');

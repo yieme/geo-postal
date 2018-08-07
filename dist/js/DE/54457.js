@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54457"]={"code":"54457","region":"Rheinland-Pfalz","city":"Wincheringen","latitude":49.61667,"longitude":6.43333}}(window,'GeoPostal','DE');

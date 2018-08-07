@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38511"]={"code":"38511","region":"Pirkanmaa","city":"Suodenniemi","latitude":61.5581,"longitude":22.78526}}(window,'GeoPostal','FI');

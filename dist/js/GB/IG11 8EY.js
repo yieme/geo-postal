@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG11 8EY"]={"code":"IG11 8EY","region":"England","city":"Dagenham","latitude":51.55,"longitude":0.16667}}(window,'GeoPostal','GB');

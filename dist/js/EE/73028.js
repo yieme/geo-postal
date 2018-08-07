@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73028"]={"code":"73028","region":"Jarvamaa","city":"Koeru","latitude":58.96306,"longitude":26.03083}}(window,'GeoPostal','EE');

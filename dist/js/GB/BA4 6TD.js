@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA4 6TD"]={"code":"BA4 6TD","region":"England","city":"Pylle","latitude":51.14315,"longitude":-2.56174}}(window,'GeoPostal','GB');

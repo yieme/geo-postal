@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38951"]={"code":"38951","region":"Satakunta","city":"Honkajoki","latitude":61.98333,"longitude":22.26667}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97779"]={"code":"97779","region":"Bayern","city":"Platz","latitude":50.27592,"longitude":9.91031}}(window,'GeoPostal','DE');

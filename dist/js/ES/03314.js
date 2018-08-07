@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03314"]={"code":"03314","region":"Valenciana, Comunidad","city":"Rafal","latitude":38.10458,"longitude":-0.84904}}(window,'GeoPostal','ES');

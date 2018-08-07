@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9914"]={"code":"9914","region":"Finnmark","city":"Bjornevatn","latitude":69.66722,"longitude":29.98472}}(window,'GeoPostal','NO');

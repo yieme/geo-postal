@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35211"]={"code":"35211","region":"Brodsko-posavska zupanija","city":"Korenica","latitude":45.22472,"longitude":18.16556}}(window,'GeoPostal','HR');

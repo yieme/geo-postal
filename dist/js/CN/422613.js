@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422613"]={"code":"422613","region":"Hunan","city":"Zhuzhoujiang Miaozuxiang","latitude":26.67528,"longitude":110.07194}}(window,'GeoPostal','CN');

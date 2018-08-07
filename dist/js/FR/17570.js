@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17570"]={"code":"17570","region":"Nouvelle-Aquitaine","city":"Les Mathes","latitude":45.7139,"longitude":-1.15497}}(window,'GeoPostal','FR');

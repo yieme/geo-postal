@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56280-000"]={"code":"56280-000","region":"Pernambuco","city":"Araripina","latitude":-7.57611,"longitude":-40.49833}}(window,'GeoPostal','BR');

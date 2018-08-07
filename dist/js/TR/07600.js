@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07600"]={"code":"07600","region":"Kahramanmaras","city":"Afsin","latitude":38.24769,"longitude":36.91399}}(window,'GeoPostal','TR');

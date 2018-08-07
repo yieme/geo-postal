@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391240"]={"code":"391240","region":"Ryazanskaya oblast'","city":"Aleksandro-Nevskiy","latitude":53.4751,"longitude":40.2095}}(window,'GeoPostal','RU');

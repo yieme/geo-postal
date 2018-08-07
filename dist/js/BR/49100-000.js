@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49100-000"]={"code":"49100-000","region":"Sergipe","city":"Sao Cristovao","latitude":-11.01472,"longitude":-37.20639}}(window,'GeoPostal','BR');

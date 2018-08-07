@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335700"]={"code":"335700","region":"Hunedoara","city":"Orastie","latitude":45.83333,"longitude":23.2}}(window,'GeoPostal','RO');

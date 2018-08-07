@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60674"]={"code":"60674","region":"Hauts-de-France","city":"Le Plessis-Belleville","latitude":49.09501,"longitude":2.75614}}(window,'GeoPostal','FR');

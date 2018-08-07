@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99011"]={"code":"99011","region":"WA","city":"Fairchild Air Force Base","latitude":47.6332,"longitude":-117.6546}}(window,'GeoPostal','US');

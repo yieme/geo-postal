@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7503"]={"code":"7503","region":"Graubunden","city":"Samaden","latitude":46.53417,"longitude":9.87122}}(window,'GeoPostal','CH');

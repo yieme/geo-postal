@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99136"]={"code":"99136","region":"Washington","city":"Hay","latitude":46.72665,"longitude":-117.836557}}(window,'GeoPostal','US');

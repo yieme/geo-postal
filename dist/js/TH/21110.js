@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21110"]={"code":"21110","region":"Rayong","city":"Klaeng","latitude":12.77972,"longitude":101.64831}}(window,'GeoPostal','TH');

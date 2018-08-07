@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["583223"]={"code":"583223","region":"Karnataka","city":"Hospet","latitude":15.26667,"longitude":76.4}}(window,'GeoPostal','IN');

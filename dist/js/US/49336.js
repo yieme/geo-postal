@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49336"]={"code":"49336","region":"Michigan","city":"Morley","latitude":43.49083,"longitude":-85.44389}}(window,'GeoPostal','US');

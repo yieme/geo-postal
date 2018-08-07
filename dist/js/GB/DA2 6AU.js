@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA2 6AU"]={"code":"DA2 6AU","region":"England","city":"Swanley","latitude":51.39717,"longitude":0.17321}}(window,'GeoPostal','GB');

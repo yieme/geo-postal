@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98817"]={"code":"98817","region":"Province Nord","city":"Kaala-Gomen","latitude":-20.66667,"longitude":164.4}}(window,'GeoPostal','NC');

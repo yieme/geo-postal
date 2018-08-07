@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0C 1B0"]={"code":"A0C 1B0","region":"Newfoundland and Labrador","city":"Bonavista","latitude":48.64989,"longitude":-53.11474}}(window,'GeoPostal','CA');

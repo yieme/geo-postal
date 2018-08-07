@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32862"]={"code":"32862","region":"FL","city":"Orlando","latitude":28.5383,"longitude":-81.3792}}(window,'GeoPostal','US');

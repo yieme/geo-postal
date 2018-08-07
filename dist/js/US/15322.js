@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15322"]={"code":"15322","region":"PA","city":"Clarksville","latitude":39.9667,"longitude":-80.0452}}(window,'GeoPostal','US');

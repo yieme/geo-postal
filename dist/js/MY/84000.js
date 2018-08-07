@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84000"]={"code":"84000","region":"Johor","city":"Muar","latitude":2.0442,"longitude":102.5689}}(window,'GeoPostal','MY');

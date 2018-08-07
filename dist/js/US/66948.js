@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66948"]={"code":"66948","region":"KS","city":"Jamestown","latitude":39.6021,"longitude":-97.8631}}(window,'GeoPostal','US');

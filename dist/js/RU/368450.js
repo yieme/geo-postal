@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368450"]={"code":"368450","region":"Dagestan, Respublika","city":"Tsurib","latitude":42.2368,"longitude":46.83073}}(window,'GeoPostal','RU');

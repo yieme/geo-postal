@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13200-000"]={"code":"13200-000","region":"Sao Paulo","city":"Jundiai","latitude":-23.18639,"longitude":-46.88417}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37010"]={"code":"37010","region":"Blekinge lan","city":"Brakne-Hoby","latitude":56.23333,"longitude":15.11667}}(window,'GeoPostal','SE');

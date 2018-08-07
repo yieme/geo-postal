@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX38 8JH"]={"code":"EX38 8JH","region":"England","city":"Frithelstock","latitude":50.95443,"longitude":-4.18698}}(window,'GeoPostal','GB');

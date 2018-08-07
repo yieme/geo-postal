@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98284"]={"code":"98284","region":"Washington","city":"Sedro-Woolley","latitude":48.523498,"longitude":-122.181668}}(window,'GeoPostal','US');

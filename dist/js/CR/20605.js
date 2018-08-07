@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20605"]={"code":"20605","region":"Alajuela","city":"San Juan","latitude":10.10248,"longitude":-84.31694}}(window,'GeoPostal','CR');

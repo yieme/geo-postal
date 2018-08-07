@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207595"]={"code":"207595","region":"Bistrita-Nasaud","city":"Bistrita","latitude":47.13316,"longitude":24.50011}}(window,'GeoPostal','RO');

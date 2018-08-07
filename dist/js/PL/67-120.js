@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67-120"]={"code":"67-120","region":"Lubuskie","city":"Kozuchow","latitude":51.74558,"longitude":15.59492}}(window,'GeoPostal','PL');

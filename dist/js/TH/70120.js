@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70120"]={"code":"70120","region":"Ratchaburi","city":"Photharam","latitude":13.69234,"longitude":99.84969}}(window,'GeoPostal','TH');

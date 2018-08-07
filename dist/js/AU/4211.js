@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4211"]={"code":"4211","region":"Queensland","city":"Helensvale","latitude":-27.91828,"longitude":153.33275}}(window,'GeoPostal','AU');

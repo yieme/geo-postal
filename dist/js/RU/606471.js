@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606471"]={"code":"606471","region":"Moskovskaya oblast'","city":"Zheleznodorozhnyy","latitude":55.744,"longitude":38.01684}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26581"]={"code":"26581","region":"WV","city":"Littleton","latitude":39.6592,"longitude":-80.5695}}(window,'GeoPostal','US');

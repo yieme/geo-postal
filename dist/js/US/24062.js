@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24062"]={"code":"24062","region":"VA","city":"Blacksburg","latitude":37.2296,"longitude":-80.4139}}(window,'GeoPostal','US');

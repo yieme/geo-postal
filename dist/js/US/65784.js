@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65784"]={"code":"65784","region":"MO","city":"Zanoni","latitude":36.6862,"longitude":-92.3318}}(window,'GeoPostal','US');

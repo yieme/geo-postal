@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 4RZ"]={"code":"CO9 4RZ","region":"England","city":"Ridgewell","latitude":52.03929,"longitude":0.53181}}(window,'GeoPostal','GB');

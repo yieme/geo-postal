@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 5RS"]={"code":"TR8 5RS","region":"England","city":"Crantock","latitude":50.40031,"longitude":-5.11061}}(window,'GeoPostal','GB');

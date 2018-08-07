@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07600"]={"code":"07600","region":"Illes Balears","city":"s'Arenal","latitude":39.5,"longitude":2.75}}(window,'GeoPostal','ES');

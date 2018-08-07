@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 2X0"]={"code":"B0W 2X0","region":"Nova Scotia","city":"Argyle","latitude":43.80016,"longitude":-65.84885}}(window,'GeoPostal','CA');

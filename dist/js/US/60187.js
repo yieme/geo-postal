@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60187"]={"code":"60187","region":"Illinois","city":"Wheaton","latitude":41.860801,"longitude":-88.112784}}(window,'GeoPostal','US');

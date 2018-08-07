@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56329"]={"code":"56329","region":"MN","city":"Foley","latitude":45.6919,"longitude":-93.9148}}(window,'GeoPostal','US');

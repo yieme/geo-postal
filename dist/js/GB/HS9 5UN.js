@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS9 5UN"]={"code":"HS9 5UN","region":"Scotland","city":"Ersary","latitude":56.96667,"longitude":-7.45}}(window,'GeoPostal','GB');

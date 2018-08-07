@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE35 6EH"]={"code":"PE35 6EH","region":"England","city":"Sandringham","latitude":52.83094,"longitude":0.507}}(window,'GeoPostal','GB');

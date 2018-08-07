@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36000"]={"code":"36000","region":"Poltavska oblast","city":"Poltava","latitude":49.59373,"longitude":34.54073}}(window,'GeoPostal','UA');

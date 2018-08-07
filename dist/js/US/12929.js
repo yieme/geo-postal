@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12929"]={"code":"12929","region":"NY","city":"Dannemora","latitude":44.72,"longitude":-73.7192}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04666"]={"code":"04666","region":"ME","city":"Pembroke","latitude":44.9654,"longitude":-67.2002}}(window,'GeoPostal','US');

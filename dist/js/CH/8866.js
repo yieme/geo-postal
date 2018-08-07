@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8866"]={"code":"8866","region":"Glarus","city":"Niederurnen","latitude":47.12598,"longitude":9.05428}}(window,'GeoPostal','CH');

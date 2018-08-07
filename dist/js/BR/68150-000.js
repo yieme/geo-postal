@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68150-000"]={"code":"68150-000","region":"Para","city":"Itaituba","latitude":-4.27611,"longitude":-55.98361}}(window,'GeoPostal','BR');

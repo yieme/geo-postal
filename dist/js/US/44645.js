@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44645"]={"code":"44645","region":"OH","city":"Marshallville","latitude":40.9067,"longitude":-81.7225}}(window,'GeoPostal','US');

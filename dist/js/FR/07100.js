@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07100"]={"code":"07100","region":"Auvergne-Rhone-Alpes","city":"Boulieu-les-Annonay","latitude":45.27084,"longitude":4.66718}}(window,'GeoPostal','FR');

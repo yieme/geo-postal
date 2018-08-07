@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60109"]={"code":"60109","region":"Illinois","city":"Burlington","latitude":42.064637,"longitude":-88.510769}}(window,'GeoPostal','US');

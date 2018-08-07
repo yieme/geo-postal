@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33170"]={"code":"33170","region":"Friuli-Venezia Giulia","city":"Pordenone","latitude":45.96389,"longitude":12.6575}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17100"]={"code":"17100","region":"Liguria","city":"Savona","latitude":44.30905,"longitude":8.47715}}(window,'GeoPostal','IT');

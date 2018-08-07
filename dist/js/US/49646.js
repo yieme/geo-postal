@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49646"]={"code":"49646","region":"Michigan","city":"Kalkaska","latitude":44.739101,"longitude":-85.080832}}(window,'GeoPostal','US');

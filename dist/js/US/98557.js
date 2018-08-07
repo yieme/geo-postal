@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98557"]={"code":"98557","region":"Washington","city":"McCleary","latitude":47.05314,"longitude":-123.28644}}(window,'GeoPostal','US');

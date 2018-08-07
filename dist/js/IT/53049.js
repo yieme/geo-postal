@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53049"]={"code":"53049","region":"Toscana","city":"Torrita di Siena","latitude":43.17024,"longitude":11.77944}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5550"]={"code":"5550","region":"South Australia","city":"Saints","latitude":-34.15,"longitude":138.31667}}(window,'GeoPostal','AU');

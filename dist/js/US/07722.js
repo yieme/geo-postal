@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07722"]={"code":"07722","region":"New Jersey","city":"Colts Neck","latitude":40.310652,"longitude":-74.181466}}(window,'GeoPostal','US');

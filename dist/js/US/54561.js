@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54561"]={"code":"54561","region":"Wisconsin","city":"Star Lake","latitude":46.054379,"longitude":-89.460126}}(window,'GeoPostal','US');

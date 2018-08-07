@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03858"]={"code":"03858","region":"NH","city":"Newton","latitude":42.8678,"longitude":-71.042}}(window,'GeoPostal','US');

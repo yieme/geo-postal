@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59831"]={"code":"59831","region":"Montana","city":"Dixon","latitude":47.306619,"longitude":-114.369716}}(window,'GeoPostal','US');

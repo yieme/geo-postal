@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54026"]={"code":"54026","region":"Wisconsin","city":"Star Prairie","latitude":45.1675,"longitude":-92.58694}}(window,'GeoPostal','US');

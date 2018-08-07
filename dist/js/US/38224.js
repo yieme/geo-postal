@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38224"]={"code":"38224","region":"TN","city":"Cottage Grove","latitude":36.3479,"longitude":-88.4614}}(window,'GeoPostal','US');

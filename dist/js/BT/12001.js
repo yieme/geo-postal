@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12001"]={"code":"12001","region":"Paro","city":"Paro","latitude":27.43333,"longitude":89.41667}}(window,'GeoPostal','BT');

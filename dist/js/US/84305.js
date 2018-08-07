@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84305"]={"code":"84305","region":"UT","city":"Clarkston","latitude":41.9188,"longitude":-112.0486}}(window,'GeoPostal','US');

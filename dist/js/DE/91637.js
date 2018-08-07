@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91637"]={"code":"91637","region":"Bayern","city":"Morrieden","latitude":49.25,"longitude":10.23333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452930"]={"code":"452930","region":"Bashkortostan, Respublika","city":"Nikolo-Berezovka","latitude":56.12422,"longitude":54.15573}}(window,'GeoPostal','RU');

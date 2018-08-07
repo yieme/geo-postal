@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01440"]={"code":"01440","region":"Massachusetts","city":"Gardner","latitude":42.57509,"longitude":-71.99813}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47100"]={"code":"47100","region":"Selangor","city":"Puchong","latitude":3.013086,"longitude":101.613804}}(window,'GeoPostal','MY');

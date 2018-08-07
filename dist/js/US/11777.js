@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11777"]={"code":"11777","region":"New York","city":"Port Jefferson","latitude":40.94649,"longitude":-73.06927}}(window,'GeoPostal','US');

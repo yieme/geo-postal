@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3BX"]={"code":"PE9 3BX","region":"England","city":"Southorpe","latitude":52.61055,"longitude":-0.40512}}(window,'GeoPostal','GB');

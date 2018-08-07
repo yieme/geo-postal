@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57180"]={"code":"57180","region":"Chiang Rai","city":"Mae Suai","latitude":19.65633,"longitude":99.54367}}(window,'GeoPostal','TH');

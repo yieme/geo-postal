@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76277"]={"code":"76277","region":"Republika Srpska","city":"Ostra Luka","latitude":45,"longitude":18.58833}}(window,'GeoPostal','BA');

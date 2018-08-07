@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71021"]={"code":"71021","region":"Puglia","city":"Accadia","latitude":41.15882,"longitude":15.33145}}(window,'GeoPostal','IT');

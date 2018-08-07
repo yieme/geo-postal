@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42732"]={"code":"42732","region":"KY","city":"Eastview","latitude":37.6061,"longitude":-86.0906}}(window,'GeoPostal','US');

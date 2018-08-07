@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58620"]={"code":"58620","region":"ND","city":"Amidon","latitude":46.456,"longitude":-103.2647}}(window,'GeoPostal','US');

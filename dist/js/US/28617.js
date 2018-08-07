@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28617"]={"code":"28617","region":"North Carolina","city":"Crumpler","latitude":36.50389,"longitude":-81.39417}}(window,'GeoPostal','US');

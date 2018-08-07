@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68844"]={"code":"68844","region":"NE","city":"Hazard","latitude":41.0934,"longitude":-99.0719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA19 0JD"]={"code":"TA19 0JD","region":"England","city":"Barrington","latitude":50.9596,"longitude":-2.87125}}(window,'GeoPostal','GB');

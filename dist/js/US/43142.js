@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43142"]={"code":"43142","region":"OH","city":"Milledgeville","latitude":39.5937,"longitude":-83.5873}}(window,'GeoPostal','US');

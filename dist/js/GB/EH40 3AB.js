@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH40 3AB"]={"code":"EH40 3AB","region":"Scotland","city":"East Linton","latitude":55.98737,"longitude":-2.65682}}(window,'GeoPostal','GB');

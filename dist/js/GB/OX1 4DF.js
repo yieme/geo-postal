@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX1 4DF"]={"code":"OX1 4DF","region":"England","city":"Oxford","latitude":51.75222,"longitude":-1.25596}}(window,'GeoPostal','GB');

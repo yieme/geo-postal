@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 6HF"]={"code":"EX39 6HF","region":"England","city":"Welcombe","latitude":50.93784,"longitude":-4.52327}}(window,'GeoPostal','GB');

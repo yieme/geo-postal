@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49429"]={"code":"49429","region":"Nordrhein-Westfalen","city":"Visbeck","latitude":51.33206,"longitude":8.13082}}(window,'GeoPostal','DE');

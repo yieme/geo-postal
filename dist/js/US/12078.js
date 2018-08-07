@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12078"]={"code":"12078","region":"New York","city":"Gloversville","latitude":43.05285,"longitude":-74.34375}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31855"]={"code":"31855","region":"Niedersachsen","city":"Aerzen","latitude":52.04953,"longitude":9.25856}}(window,'GeoPostal','DE');

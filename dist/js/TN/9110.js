@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9110"]={"code":"9110","region":"Sidi Bouzid","city":"Jilma","latitude":35.27311,"longitude":9.42385}}(window,'GeoPostal','TN');

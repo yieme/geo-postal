@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 2A2"]={"code":"T0G 2A2","region":"Alberta","city":"Overlea","latitude":55.26685,"longitude":-114.48553}}(window,'GeoPostal','CA');

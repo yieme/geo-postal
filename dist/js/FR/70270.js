@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70270"]={"code":"70270","region":"Bourgogne-Franche-Comte","city":"Melisey","latitude":47.75228,"longitude":6.58014}}(window,'GeoPostal','FR');

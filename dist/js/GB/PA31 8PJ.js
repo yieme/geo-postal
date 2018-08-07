@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA31 8PJ"]={"code":"PA31 8PJ","region":"Scotland","city":"Tayvallich","latitude":56.02508,"longitude":-5.62727}}(window,'GeoPostal','GB');

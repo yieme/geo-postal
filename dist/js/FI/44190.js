@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44190"]={"code":"44190","region":"Keski-Suomi","city":"Aanekoski","latitude":62.6,"longitude":25.73333}}(window,'GeoPostal','FI');

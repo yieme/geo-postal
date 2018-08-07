@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 9NH"]={"code":"DT2 9NH","region":"England","city":"Frampton","latitude":50.75,"longitude":-2.53333}}(window,'GeoPostal','GB');

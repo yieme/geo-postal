@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3058"]={"code":"3058","region":"Victoria","city":"Coburg","latitude":-37.75,"longitude":144.96667}}(window,'GeoPostal','AU');

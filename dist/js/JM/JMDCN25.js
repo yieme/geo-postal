@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDCN25"]={"code":"JMDCN25","region":"Clarendon","city":"Limit","latitude":18.15287,"longitude":-77.47121}}(window,'GeoPostal','JM');

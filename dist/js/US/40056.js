@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40056"]={"code":"40056","region":"KY","city":"Pewee Valley","latitude":38.3039,"longitude":-85.4834}}(window,'GeoPostal','US');

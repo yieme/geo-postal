@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19013"]={"code":"19013","region":"Liguria","city":"Deiva Marina","latitude":44.21931,"longitude":9.52064}}(window,'GeoPostal','IT');

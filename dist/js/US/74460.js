@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74460"]={"code":"74460","region":"OK","city":"Schulter","latitude":35.5145,"longitude":-95.9567}}(window,'GeoPostal','US');

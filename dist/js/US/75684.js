@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75684"]={"code":"75684","region":"TX","city":"Overton","latitude":32.269,"longitude":-94.9529}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63566"]={"code":"63566","region":"MO","city":"Winigan","latitude":40.0371,"longitude":-92.9301}}(window,'GeoPostal','US');

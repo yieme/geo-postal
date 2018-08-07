@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62517"]={"code":"62517","region":"IL","city":"Bulpitt","latitude":39.5917,"longitude":-89.424}}(window,'GeoPostal','US');

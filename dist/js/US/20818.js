@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20818"]={"code":"20818","region":"Maryland","city":"Cabin John","latitude":38.975229,"longitude":-77.161337}}(window,'GeoPostal','US');

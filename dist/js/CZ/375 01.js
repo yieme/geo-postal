@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["375 01"]={"code":"375 01","region":"Jihocesky kraj","city":"Tyn nad Vltavou","latitude":49.2234,"longitude":14.42057}}(window,'GeoPostal','CZ');

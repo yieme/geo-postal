@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1L0"]={"code":"K0K 1L0","region":"Ontario","city":"Albury","latitude":44.08342,"longitude":-77.51618}}(window,'GeoPostal','CA');

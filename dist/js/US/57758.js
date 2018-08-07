@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57758"]={"code":"57758","region":"South Dakota","city":"Mud Butte","latitude":45.00472,"longitude":-102.87778}}(window,'GeoPostal','US');

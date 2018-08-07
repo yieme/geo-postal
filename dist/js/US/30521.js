@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30521"]={"code":"30521","region":"GA","city":"Carnesville","latitude":34.3631,"longitude":-83.2547}}(window,'GeoPostal','US');

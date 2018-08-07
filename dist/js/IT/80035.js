@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80035"]={"code":"80035","region":"Campania","city":"Nola","latitude":40.92201,"longitude":14.53294}}(window,'GeoPostal','IT');

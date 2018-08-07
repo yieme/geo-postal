@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH11 8QN"]={"code":"PH11 8QN","region":"Scotland","city":"Forter","latitude":56.76667,"longitude":-3.33333}}(window,'GeoPostal','GB');

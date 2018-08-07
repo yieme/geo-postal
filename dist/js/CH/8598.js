@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8598"]={"code":"8598","region":"Thurgau","city":"Bottighofen","latitude":47.63641,"longitude":9.20884}}(window,'GeoPostal','CH');

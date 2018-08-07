@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79073"]={"code":"79073","region":"TX","city":"Plainview","latitude":34.0689,"longitude":-101.827}}(window,'GeoPostal','US');

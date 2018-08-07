@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3911"]={"code":"3911","region":"Victoria","city":"Somerville","latitude":-38.21667,"longitude":145.16667}}(window,'GeoPostal','AU');

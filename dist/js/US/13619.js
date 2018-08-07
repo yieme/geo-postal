@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13619"]={"code":"13619","region":"New York","city":"Carthage","latitude":43.97812,"longitude":-75.60936}}(window,'GeoPostal','US');

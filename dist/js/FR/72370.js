@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72370"]={"code":"72370","region":"Pays-de-la-Loire","city":"Le Breil-sur-Merize","latitude":48.00755,"longitude":0.47808}}(window,'GeoPostal','FR');

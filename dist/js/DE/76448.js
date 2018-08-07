@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76448"]={"code":"76448","region":"Baden-Wurttemberg","city":"Durmersheim","latitude":48.93333,"longitude":8.26667}}(window,'GeoPostal','DE');

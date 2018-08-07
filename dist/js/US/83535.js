@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83535"]={"code":"83535","region":"Idaho","city":"Juliaetta","latitude":46.572739,"longitude":-116.749901}}(window,'GeoPostal','US');

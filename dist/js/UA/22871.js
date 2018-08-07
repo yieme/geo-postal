@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22871"]={"code":"22871","region":"Vinnytska oblast","city":"Bratslav","latitude":48.82257,"longitude":28.9407}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26909"]={"code":"26909","region":"Niedersachsen","city":"Neuborger","latitude":52.95815,"longitude":7.44839}}(window,'GeoPostal','DE');

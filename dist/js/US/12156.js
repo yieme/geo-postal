@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12156"]={"code":"12156","region":"NY","city":"Schodack Landing","latitude":42.4816,"longitude":-73.748}}(window,'GeoPostal','US');

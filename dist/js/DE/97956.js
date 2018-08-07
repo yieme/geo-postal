@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97956"]={"code":"97956","region":"Baden-Wurttemberg","city":"Gamburg","latitude":49.69465,"longitude":9.60014}}(window,'GeoPostal','DE');

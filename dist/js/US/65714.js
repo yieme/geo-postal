@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65714"]={"code":"65714","region":"Missouri","city":"Nixa","latitude":37.04339,"longitude":-93.29435}}(window,'GeoPostal','US');

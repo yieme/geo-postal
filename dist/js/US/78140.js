@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78140"]={"code":"78140","region":"TX","city":"Nixon","latitude":29.3016,"longitude":-97.7529}}(window,'GeoPostal','US');

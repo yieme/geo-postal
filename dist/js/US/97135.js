@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97135"]={"code":"97135","region":"Oregon","city":"Pacific City","latitude":45.20233,"longitude":-123.96289}}(window,'GeoPostal','US');

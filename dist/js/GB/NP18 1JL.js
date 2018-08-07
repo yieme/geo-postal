@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP18 1JL"]={"code":"NP18 1JL","region":"Wales","city":"Christchurch","latitude":51.6,"longitude":-2.95}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30275"]={"code":"30275","region":"GA","city":"Sargent","latitude":33.4299,"longitude":-84.8744}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49176"]={"code":"49176","region":"Niedersachsen","city":"Eppendorf","latitude":52.16615,"longitude":8.17878}}(window,'GeoPostal','DE');

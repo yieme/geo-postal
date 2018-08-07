@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54662"]={"code":"54662","region":"Wisconsin","city":"Tunnel City","latitude":44.002353,"longitude":-90.560209}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44882"]={"code":"44882","region":"Ohio","city":"Sycamore","latitude":40.95028,"longitude":-83.17083}}(window,'GeoPostal','US');

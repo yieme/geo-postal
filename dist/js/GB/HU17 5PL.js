@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU17 5PL"]={"code":"HU17 5PL","region":"England","city":"Catwick","latitude":53.89215,"longitude":-0.27821}}(window,'GeoPostal','GB');

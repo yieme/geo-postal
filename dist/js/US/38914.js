@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38914"]={"code":"38914","region":"MS","city":"Big Creek","latitude":33.8514,"longitude":-89.4378}}(window,'GeoPostal','US');

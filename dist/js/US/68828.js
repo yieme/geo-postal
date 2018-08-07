@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68828"]={"code":"68828","region":"Nebraska","city":"Comstock","latitude":41.539004,"longitude":-99.307577}}(window,'GeoPostal','US');

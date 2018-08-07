@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78566"]={"code":"78566","region":"Texas","city":"Los Fresnos","latitude":26.085,"longitude":-97.4616}}(window,'GeoPostal','US');

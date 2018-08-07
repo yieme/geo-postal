@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5130"]={"code":"5130","region":"Mahdia","city":"Shurban","latitude":35.28581,"longitude":10.3858}}(window,'GeoPostal','TN');

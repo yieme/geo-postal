@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72856"]={"code":"72856","region":"AR","city":"Pelsor","latitude":35.7854,"longitude":-93.0812}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["562261"]={"code":"562261","region":"Cross River","city":"Ikom","latitude":5.96669,"longitude":8.70632}}(window,'GeoPostal','NG');

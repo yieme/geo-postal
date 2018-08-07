@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL26 0YS"]={"code":"LL26 0YS","region":"Wales","city":"Llanddoget","latitude":53.15,"longitude":-3.8}}(window,'GeoPostal','GB');

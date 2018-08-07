@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49280-000"]={"code":"49280-000","region":"Sergipe","city":"Tomar do Geru","latitude":-11.37333,"longitude":-37.84056}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080150"]={"code":"080150","region":"Esmeraldas","city":"Propicia","latitude":0.93333,"longitude":-79.68333}}(window,'GeoPostal','EC');

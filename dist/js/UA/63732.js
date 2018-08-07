@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63732"]={"code":"63732","region":"Kharkivska oblast","city":"Kivsharivka","latitude":49.62125,"longitude":37.70357}}(window,'GeoPostal','UA');

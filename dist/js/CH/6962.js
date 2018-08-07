@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6962"]={"code":"6962","region":"Ticino","city":"Viganello","latitude":46.01342,"longitude":8.96879}}(window,'GeoPostal','CH');

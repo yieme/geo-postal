@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14883"]={"code":"14883","region":"New York","city":"Spencer","latitude":42.25146,"longitude":-76.4808}}(window,'GeoPostal','US');

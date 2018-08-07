@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63801"]={"code":"63801","region":"Etela-Pohjanmaa","city":"Soini","latitude":62.86667,"longitude":24.21667}}(window,'GeoPostal','FI');

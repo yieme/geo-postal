@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5056"]={"code":"5056","region":"Hordaland","city":"Bergen","latitude":60.39299,"longitude":5.32415}}(window,'GeoPostal','NO');

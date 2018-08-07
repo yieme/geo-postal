@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35781"]={"code":"35781","region":"Hessen","city":"Weilburg","latitude":50.48438,"longitude":8.26249}}(window,'GeoPostal','DE');

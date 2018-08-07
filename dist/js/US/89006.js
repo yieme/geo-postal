@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89006"]={"code":"89006","region":"NV","city":"Boulder City","latitude":35.9279,"longitude":-114.9721}}(window,'GeoPostal','US');

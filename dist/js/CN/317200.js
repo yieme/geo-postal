@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317200"]={"code":"317200","region":"Zhejiang","city":"Tiantai","latitude":29.13633,"longitude":121.02958}}(window,'GeoPostal','CN');

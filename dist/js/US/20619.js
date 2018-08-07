@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20619"]={"code":"20619","region":"Maryland","city":"California","latitude":38.3004,"longitude":-76.50745}}(window,'GeoPostal','US');

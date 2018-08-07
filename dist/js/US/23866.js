@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23866"]={"code":"23866","region":"VA","city":"Ivor","latitude":36.9071,"longitude":-76.8861}}(window,'GeoPostal','US');

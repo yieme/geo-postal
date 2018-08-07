@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35396"]={"code":"35396","region":"Hessen","city":"Wieseck","latitude":50.60528,"longitude":8.70238}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8474"]={"code":"8474","region":"Zurich","city":"Sulz","latitude":47.53954,"longitude":8.78887}}(window,'GeoPostal','CH');

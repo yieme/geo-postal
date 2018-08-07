@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4461"]={"code":"4461","region":"Bern","city":"Bern","latitude":46.94809,"longitude":7.44744}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83051"]={"code":"83051","region":"Jamtlands lan","city":"Valla","latitude":63.55,"longitude":13.8}}(window,'GeoPostal','SE');

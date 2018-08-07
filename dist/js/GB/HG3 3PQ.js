@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 3PQ"]={"code":"HG3 3PQ","region":"England","city":"Ingerthorpe","latitude":54.08693,"longitude":-1.55419}}(window,'GeoPostal','GB');

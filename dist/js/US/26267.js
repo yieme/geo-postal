@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26267"]={"code":"26267","region":"WV","city":"Ellamore","latitude":38.9243,"longitude":-80.0904}}(window,'GeoPostal','US');

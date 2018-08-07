@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 3UQ"]={"code":"PR4 3UQ","region":"England","city":"Elswick","latitude":53.83333,"longitude":-2.88333}}(window,'GeoPostal','GB');

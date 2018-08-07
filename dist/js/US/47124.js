@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47124"]={"code":"47124","region":"IN","city":"Greenville","latitude":38.3535,"longitude":-86.0083}}(window,'GeoPostal','US');

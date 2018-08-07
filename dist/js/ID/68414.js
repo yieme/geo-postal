@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68414"]={"code":"68414","region":"Jawa Timur","city":"Wirodayan","latitude":-8.2133,"longitude":114.3701}}(window,'GeoPostal','ID');

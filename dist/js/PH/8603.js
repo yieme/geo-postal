@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8603"]={"code":"8603","region":"Tarlac","city":"Salcedo","latitude":15.85722,"longitude":120.6}}(window,'GeoPostal','PH');

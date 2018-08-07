@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95314"]={"code":"95314","region":"CA","city":"Dardanelle","latitude":38.34,"longitude":-119.83}}(window,'GeoPostal','US');

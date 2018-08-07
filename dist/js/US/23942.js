@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23942"]={"code":"23942","region":"Virginia","city":"Green Bay","latitude":37.13192,"longitude":-78.305304}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4422"]={"code":"4422","region":"Camarines Sur","city":"Goa","latitude":13.6978,"longitude":123.4892}}(window,'GeoPostal','PH');

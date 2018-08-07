@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["392240"]={"code":"392240","region":"Gujarat","city":"Amod","latitude":21.98333,"longitude":72.9}}(window,'GeoPostal','IN');

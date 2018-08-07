@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82441"]={"code":"82441","region":"Bayern","city":"Weichs","latitude":47.64529,"longitude":11.21808}}(window,'GeoPostal','DE');

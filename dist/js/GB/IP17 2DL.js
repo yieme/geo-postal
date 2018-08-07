@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 2DL"]={"code":"IP17 2DL","region":"England","city":"Great Glemham","latitude":52.20445,"longitude":1.42453}}(window,'GeoPostal','GB');

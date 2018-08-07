@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05840"]={"code":"05840","region":"VT","city":"Granby","latitude":44.6808,"longitude":-71.7194}}(window,'GeoPostal','US');

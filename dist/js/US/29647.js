@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29647"]={"code":"29647","region":"SC","city":"Greenwood","latitude":34.1788,"longitude":-82.1631}}(window,'GeoPostal','US');

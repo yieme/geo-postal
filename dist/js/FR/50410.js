@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50410"]={"code":"50410","region":"Normandie","city":"Percy","latitude":48.91714,"longitude":-1.18916}}(window,'GeoPostal','FR');

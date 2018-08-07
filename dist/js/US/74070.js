@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74070"]={"code":"74070","region":"Oklahoma","city":"Skiatook","latitude":36.361326,"longitude":-95.982324}}(window,'GeoPostal','US');

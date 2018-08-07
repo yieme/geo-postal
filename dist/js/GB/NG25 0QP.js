@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG25 0QP"]={"code":"NG25 0QP","region":"England","city":"Halloughton","latitude":53.05758,"longitude":-0.97343}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86719"]={"code":"86719","region":"Donetska oblast","city":"Khartsyzsk","latitude":48.04243,"longitude":38.14728}}(window,'GeoPostal','UA');

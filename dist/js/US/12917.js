@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12917"]={"code":"12917","region":"New York","city":"Burke","latitude":44.926111,"longitude":-74.179382}}(window,'GeoPostal','US');

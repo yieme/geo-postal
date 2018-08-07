@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86035"]={"code":"86035","region":"Arizona","city":"Leupp","latitude":35.286129,"longitude":-111.037908}}(window,'GeoPostal','US');

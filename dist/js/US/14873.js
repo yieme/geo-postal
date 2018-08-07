@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14873"]={"code":"14873","region":"New York","city":"Prattsburgh","latitude":42.533,"longitude":-77.333}}(window,'GeoPostal','US');

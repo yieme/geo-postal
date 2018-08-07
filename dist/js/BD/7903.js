@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7903"]={"code":"7903","region":"Sylhet","city":"Habiganj","latitude":24.38333,"longitude":91.41667}}(window,'GeoPostal','BD');

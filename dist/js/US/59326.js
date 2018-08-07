@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59326"]={"code":"59326","region":"MT","city":"Fallon","latitude":46.7866,"longitude":-105.1161}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60933"]={"code":"60933","region":"IL","city":"Elliott","latitude":40.4648,"longitude":-88.2712}}(window,'GeoPostal','US');

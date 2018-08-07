@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72007"]={"code":"72007","region":"Zaporizka oblast","city":"Mykhaylivka","latitude":47.27235,"longitude":35.22235}}(window,'GeoPostal','UA');

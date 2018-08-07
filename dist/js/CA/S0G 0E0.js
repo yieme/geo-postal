@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 0E0"]={"code":"S0G 0E0","region":"Saskatchewan","city":"St. Joseph's","latitude":50.50008,"longitude":-104.18437}}(window,'GeoPostal','CA');

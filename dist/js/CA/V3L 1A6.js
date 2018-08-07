@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3L 1A6"]={"code":"V3L 1A6","region":"British Columbia","city":"New Westminster","latitude":49.205205,"longitude":-122.903903}}(window,'GeoPostal','CA');

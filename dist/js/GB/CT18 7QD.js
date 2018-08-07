@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT18 7QD"]={"code":"CT18 7QD","region":"England","city":"Hawkinge","latitude":51.11276,"longitude":1.16176}}(window,'GeoPostal','GB');

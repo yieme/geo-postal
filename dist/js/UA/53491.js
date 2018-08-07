@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53491"]={"code":"53491","region":"Dnipropetrovska oblast","city":"Marhanets'","latitude":47.63543,"longitude":34.62769}}(window,'GeoPostal','UA');

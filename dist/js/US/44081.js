@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44081"]={"code":"44081","region":"Ohio","city":"Perry","latitude":41.767159,"longitude":-81.146648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3042"]={"code":"3042","region":"Nograd","city":"Palotas","latitude":47.79528,"longitude":19.59618}}(window,'GeoPostal','HU');

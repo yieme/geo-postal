@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27568"]={"code":"27568","region":"Galicia","city":"Monterroso","latitude":42.7925,"longitude":-7.83425}}(window,'GeoPostal','ES');

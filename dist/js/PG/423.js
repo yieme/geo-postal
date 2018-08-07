@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423"]={"code":"423","region":"Morobe","city":"Bulolo","latitude":-7.2,"longitude":146.65}}(window,'GeoPostal','PG');

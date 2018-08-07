@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67138"]={"code":"67138","region":"Grand-Est","city":"Schirmeck","latitude":48.47942,"longitude":7.2151}}(window,'GeoPostal','FR');

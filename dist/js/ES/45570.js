@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45570"]={"code":"45570","region":"Castilla-La Mancha","city":"El Puente del Arzobispo","latitude":39.80174,"longitude":-5.17178}}(window,'GeoPostal','ES');

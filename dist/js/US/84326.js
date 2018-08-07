@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84326"]={"code":"84326","region":"UT","city":"Millville","latitude":41.6759,"longitude":-111.8185}}(window,'GeoPostal','US');

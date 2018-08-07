@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34200"]={"code":"34200","region":"Perak","city":"Parit Buntar","latitude":5.12671,"longitude":100.49316}}(window,'GeoPostal','MY');

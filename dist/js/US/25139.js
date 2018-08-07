@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25139"]={"code":"25139","region":"WV","city":"Mount Carbon","latitude":38.1399,"longitude":-81.2931}}(window,'GeoPostal','US');

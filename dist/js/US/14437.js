@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14437"]={"code":"14437","region":"New York","city":"Dansville","latitude":42.5609,"longitude":-77.69611}}(window,'GeoPostal','US');

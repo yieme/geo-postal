@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27705"]={"code":"27705","region":"Normandie","city":"Les Andelys","latitude":49.25,"longitude":1.41667}}(window,'GeoPostal','FR');

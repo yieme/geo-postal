@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 51"]={"code":"281 51","region":"Stredocesky kraj","city":"Velky Osek","latitude":50.09867,"longitude":15.18629}}(window,'GeoPostal','CZ');

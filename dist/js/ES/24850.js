@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24850"]={"code":"24850","region":"Castilla y Leon","city":"Bonar","latitude":42.8668,"longitude":-5.32386}}(window,'GeoPostal','ES');

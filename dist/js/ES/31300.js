@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31300"]={"code":"31300","region":"Navarra, Comunidad Foral de","city":"Tafalla","latitude":42.52686,"longitude":-1.67446}}(window,'GeoPostal','ES');

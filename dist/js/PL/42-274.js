@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-274"]={"code":"42-274","region":"Slaskie","city":"Konopiska","latitude":50.72695,"longitude":19.00781}}(window,'GeoPostal','PL');

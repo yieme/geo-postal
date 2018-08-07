@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11741"]={"code":"11741","region":"New York","city":"Holbrook","latitude":40.79866,"longitude":-73.075613}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15354"]={"code":"15354","region":"Macvanski okrug","city":"Stitar","latitude":44.79139,"longitude":19.59278}}(window,'GeoPostal','RS');

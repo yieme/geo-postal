@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-520"]={"code":"74-520","region":"Zachodniopomorskie","city":"Cedynia","latitude":52.87931,"longitude":14.20249}}(window,'GeoPostal','PL');

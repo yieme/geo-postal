@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249200"]={"code":"249200","region":"Kaluzhskaya oblast'","city":"Vorotynsk","latitude":54.42828,"longitude":36.04646}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61000"]={"code":"61000","region":"Normandie","city":"Saint-Germain-du-Corbeis","latitude":48.42215,"longitude":0.06192}}(window,'GeoPostal','FR');

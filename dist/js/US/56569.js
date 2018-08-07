@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56569"]={"code":"56569","region":"Minnesota","city":"Ogema","latitude":47.10389,"longitude":-95.92667}}(window,'GeoPostal','US');

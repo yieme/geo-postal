@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397400"]={"code":"397400","region":"Voronezhskaya oblast'","city":"Novokhopersk","latitude":51.0969,"longitude":41.6252}}(window,'GeoPostal','RU');

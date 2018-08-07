@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0T 1G0"]={"code":"B0T 1G0","region":"Nova Scotia","city":"Summerville Centre","latitude":43.95016,"longitude":-64.81549}}(window,'GeoPostal','CA');

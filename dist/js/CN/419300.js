@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["419300"]={"code":"419300","region":"Hunan","city":"Lufeng","latitude":27.90944,"longitude":110.58583}}(window,'GeoPostal','CN');

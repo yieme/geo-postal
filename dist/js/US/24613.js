@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24613"]={"code":"24613","region":"Virginia","city":"Falls Mills","latitude":37.46556,"longitude":-81.52056}}(window,'GeoPostal','US');

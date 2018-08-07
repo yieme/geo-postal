@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10968"]={"code":"10968","region":"NY","city":"Piermont","latitude":41.0395,"longitude":-73.9192}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23883"]={"code":"23883","region":"VA","city":"Surry","latitude":37.126,"longitude":-76.7651}}(window,'GeoPostal','US');

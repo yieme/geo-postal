@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98355"]={"code":"98355","region":"WA","city":"Mineral","latitude":46.7096,"longitude":-122.1861}}(window,'GeoPostal','US');

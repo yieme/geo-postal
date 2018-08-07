@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445000"]={"code":"445000","region":"Hubei","city":"Enshi","latitude":30.3,"longitude":109.48333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03380"]={"code":"03380","region":"Valenciana, Comunidad","city":"Bigastro","latitude":38.06237,"longitude":-0.89841}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79080"]={"code":"79080","region":"TX","city":"Skellytown","latitude":35.5685,"longitude":-101.1721}}(window,'GeoPostal','US');

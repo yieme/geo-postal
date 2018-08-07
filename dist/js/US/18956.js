@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18956"]={"code":"18956","region":"PA","city":"Rushland","latitude":40.2628,"longitude":-75.0157}}(window,'GeoPostal','US');

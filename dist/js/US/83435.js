@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83435"]={"code":"83435","region":"ID","city":"Monteview","latitude":43.9862,"longitude":-112.5783}}(window,'GeoPostal','US');

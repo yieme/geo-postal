@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58463"]={"code":"58463","region":"ND","city":"Mcclusky","latitude":47.4896,"longitude":-100.452}}(window,'GeoPostal','US');

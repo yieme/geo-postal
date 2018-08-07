@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628019"]={"code":"628019","region":"Sichuan","city":"Maliu","latitude":32.52593,"longitude":106.04673}}(window,'GeoPostal','CN');

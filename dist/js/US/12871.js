@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12871"]={"code":"12871","region":"NY","city":"Schuylerville","latitude":43.0878,"longitude":-73.6007}}(window,'GeoPostal','US');

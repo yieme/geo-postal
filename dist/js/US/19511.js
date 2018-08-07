@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19511"]={"code":"19511","region":"PA","city":"Bowers","latitude":40.4821,"longitude":-75.7435}}(window,'GeoPostal','US');

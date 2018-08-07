@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12020"]={"code":"12020","region":"Piemonte","city":"Villafalletto","latitude":44.54373,"longitude":7.54013}}(window,'GeoPostal','IT');

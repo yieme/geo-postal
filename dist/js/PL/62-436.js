@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-436"]={"code":"62-436","region":"Wielkopolskie","city":"Orchowo","latitude":52.50938,"longitude":18.01578}}(window,'GeoPostal','PL');

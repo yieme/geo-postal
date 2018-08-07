@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1618"]={"code":"1618","region":"Fribourg","city":"Chatel-Saint-Denis","latitude":46.52691,"longitude":6.90083}}(window,'GeoPostal','CH');

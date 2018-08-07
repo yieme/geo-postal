@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29392"]={"code":"29392","region":"Blekinge lan","city":"Jamshog","latitude":56.23333,"longitude":14.51667}}(window,'GeoPostal','SE');

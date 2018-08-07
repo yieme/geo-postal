@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72560"]={"code":"72560","region":"Pays-de-la-Loire","city":"Change","latitude":47.98499,"longitude":0.28328}}(window,'GeoPostal','FR');

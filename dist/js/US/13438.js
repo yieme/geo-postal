@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13438"]={"code":"13438","region":"NY","city":"Remsen","latitude":43.3385,"longitude":-75.1616}}(window,'GeoPostal','US');

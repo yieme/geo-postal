@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 52"]={"code":"798 52","region":"Olomoucky kraj","city":"Konice","latitude":49.5903,"longitude":16.88911}}(window,'GeoPostal','CZ');

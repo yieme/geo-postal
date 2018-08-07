@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64705"]={"code":"64705","region":"Nouvelle-Aquitaine","city":"Hendaye","latitude":43.37172,"longitude":-1.77382}}(window,'GeoPostal','FR');

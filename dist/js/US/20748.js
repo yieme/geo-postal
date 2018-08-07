@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20748"]={"code":"20748","region":"Maryland","city":"Temple Hills","latitude":38.81682,"longitude":-76.9368}}(window,'GeoPostal','US');

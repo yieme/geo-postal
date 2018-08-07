@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2444"]={"code":"2444","region":"Niederosterreich","city":"Seibersdorf","latitude":47.96667,"longitude":16.51667}}(window,'GeoPostal','AT');

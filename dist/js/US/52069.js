@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52069"]={"code":"52069","region":"Iowa","city":"Preston","latitude":42.050523,"longitude":-90.394646}}(window,'GeoPostal','US');

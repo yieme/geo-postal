@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["615400"]={"code":"615400","region":"Sichuan","city":"Pisha","latitude":27.07057,"longitude":102.75771}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71025"]={"code":"71025","region":"Puglia","city":"Castelluccio dei Sauri","latitude":41.30603,"longitude":15.47975}}(window,'GeoPostal','IT');

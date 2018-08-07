@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17360"]={"code":"17360","region":"Nouvelle-Aquitaine","city":"Saint-Aigulin","latitude":45.15,"longitude":-0.01667}}(window,'GeoPostal','FR');

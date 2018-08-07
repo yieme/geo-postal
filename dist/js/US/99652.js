@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99652"]={"code":"99652","region":"AK","city":"Big Lake","latitude":61.5214,"longitude":-149.9544}}(window,'GeoPostal','US');

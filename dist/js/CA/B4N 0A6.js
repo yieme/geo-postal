@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4N 0A6"]={"code":"B4N 0A6","region":"Nova Scotia","city":"Casey Corner","latitude":45.01685,"longitude":-64.54877}}(window,'GeoPostal','CA');

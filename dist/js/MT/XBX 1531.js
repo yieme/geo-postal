@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["XBX 1531"]={"code":"XBX 1531","region":"Ta' Xbiex","city":"Ta' Xbiex","latitude":35.89917,"longitude":14.49444}}(window,'GeoPostal','MT');

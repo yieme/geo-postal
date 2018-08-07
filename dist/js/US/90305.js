@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90305"]={"code":"90305","region":"California","city":"Inglewood","latitude":33.960044,"longitude":-118.33015}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44883"]={"code":"44883","region":"Ohio","city":"Tiffin","latitude":41.1145,"longitude":-83.17797}}(window,'GeoPostal','US');

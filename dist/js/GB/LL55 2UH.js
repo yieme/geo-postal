@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 2UH"]={"code":"LL55 2UH","region":"Wales","city":"Bontnewydd","latitude":53.11623,"longitude":-4.26827}}(window,'GeoPostal','GB');

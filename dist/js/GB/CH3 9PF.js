@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH3 9PF"]={"code":"CH3 9PF","region":"England","city":"Higher Burwardsley","latitude":53.105,"longitude":-2.71667}}(window,'GeoPostal','GB');

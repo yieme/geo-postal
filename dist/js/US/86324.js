@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86324"]={"code":"86324","region":"Arizona","city":"Clarkdale","latitude":34.756326,"longitude":-112.116187}}(window,'GeoPostal','US');

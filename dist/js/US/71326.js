@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71326"]={"code":"71326","region":"Louisiana","city":"Clayton","latitude":31.74648,"longitude":-91.49532}}(window,'GeoPostal','US');

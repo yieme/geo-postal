@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51565"]={"code":"51565","region":"IA","city":"Portsmouth","latitude":41.6484,"longitude":-95.5108}}(window,'GeoPostal','US');

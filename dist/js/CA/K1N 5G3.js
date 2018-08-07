@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K1N 5G3"]={"code":"K1N 5G3","region":"Ontario","city":"Ottawa","latitude":45.432715,"longitude":-75.692834}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15936"]={"code":"15936","region":"Brandenburg","city":"Damsdorf","latitude":51.96492,"longitude":13.43635}}(window,'GeoPostal','DE');

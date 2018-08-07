@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24790"]={"code":"24790","region":"Schleswig-Holstein","city":"Ostenfeld","latitude":54.31607,"longitude":9.78104}}(window,'GeoPostal','DE');

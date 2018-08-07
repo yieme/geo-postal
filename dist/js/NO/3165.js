@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3165"]={"code":"3165","region":"Vestfold","city":"Tjome","latitude":59.1109,"longitude":10.3933}}(window,'GeoPostal','NO');

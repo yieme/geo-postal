@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38587"]={"code":"38587","region":"TN","city":"Walling","latitude":35.8695,"longitude":-85.6185}}(window,'GeoPostal','US');

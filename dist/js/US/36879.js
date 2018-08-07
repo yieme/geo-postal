@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36879"]={"code":"36879","region":"AL","city":"Waverly","latitude":32.7632,"longitude":-85.5144}}(window,'GeoPostal','US');

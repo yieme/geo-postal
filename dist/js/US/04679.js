@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04679"]={"code":"04679","region":"Maine","city":"Southwest Harbor","latitude":44.27833,"longitude":-68.32194}}(window,'GeoPostal','US');

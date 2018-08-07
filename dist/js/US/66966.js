@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66966"]={"code":"66966","region":"KS","city":"Scandia","latitude":39.7939,"longitude":-97.7786}}(window,'GeoPostal','US');

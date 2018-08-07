@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100"]={"code":"7100","region":"Syddanmark","city":"Vejle","latitude":55.70927,"longitude":9.5357}}(window,'GeoPostal','DK');

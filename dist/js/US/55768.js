@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55768"]={"code":"55768","region":"Minnesota","city":"Parkville","latitude":47.53104,"longitude":-92.57907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19400"]={"code":"19400","region":"Pasco","city":"Cerro de Pasco","latitude":-10.68333,"longitude":-76.26667}}(window,'GeoPostal','PE');

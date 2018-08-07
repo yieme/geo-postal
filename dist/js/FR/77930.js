@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77930"]={"code":"77930","region":"Ile-de-France","city":"Cely","latitude":48.45959,"longitude":2.53245}}(window,'GeoPostal','FR');

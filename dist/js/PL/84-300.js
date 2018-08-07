@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-300"]={"code":"84-300","region":"Pomorskie","city":"Lebork","latitude":54.53921,"longitude":17.75012}}(window,'GeoPostal','PL');

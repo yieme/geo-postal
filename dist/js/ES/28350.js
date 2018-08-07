@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28350"]={"code":"28350","region":"Madrid, Comunidad de","city":"Ciempozuelos","latitude":40.15913,"longitude":-3.62103}}(window,'GeoPostal','ES');

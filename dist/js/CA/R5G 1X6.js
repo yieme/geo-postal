@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R5G 1X6"]={"code":"R5G 1X6","region":"Manitoba","city":"Friedensfeld","latitude":49.47328,"longitude":-96.66951}}(window,'GeoPostal','CA');

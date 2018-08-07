@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21240"]={"code":"21240","region":"Splitsko-dalmatinska zupanija","city":"Trilj","latitude":43.61833,"longitude":16.72417}}(window,'GeoPostal','HR');

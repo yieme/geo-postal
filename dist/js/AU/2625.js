@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2625"]={"code":"2625","region":"New South Wales","city":"Thredbo Village","latitude":-36.50517,"longitude":148.30759}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12414"]={"code":"12414","region":"New York","city":"Catskill","latitude":42.220612,"longitude":-73.874429}}(window,'GeoPostal','US');

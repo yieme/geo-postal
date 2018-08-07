@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38563"]={"code":"38563","region":"TN","city":"Gordonsville","latitude":36.1843,"longitude":-86.0008}}(window,'GeoPostal','US');

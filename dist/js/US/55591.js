@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55591"]={"code":"55591","region":"MN","city":"Monticello","latitude":45.3,"longitude":-93.8}}(window,'GeoPostal','US');

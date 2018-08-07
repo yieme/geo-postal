@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50470"]={"code":"50470","region":"Normandie","city":"La Glacerie","latitude":49.60517,"longitude":-1.58185}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3060"]={"code":"3060","region":"Vratsa","city":"Krivodol","latitude":43.37444,"longitude":23.48444}}(window,'GeoPostal','BG');

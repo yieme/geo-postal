@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2867"]={"code":"2867","region":"Oppland","city":"Hov","latitude":60.6987,"longitude":10.35193}}(window,'GeoPostal','NO');

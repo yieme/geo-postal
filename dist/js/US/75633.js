@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75633"]={"code":"75633","region":"Texas","city":"Carthage","latitude":32.156913,"longitude":-94.342673}}(window,'GeoPostal','US');

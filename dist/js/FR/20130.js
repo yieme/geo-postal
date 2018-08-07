@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20130"]={"code":"20130","region":"Corse","city":"Cargese","latitude":42.13629,"longitude":8.59586}}(window,'GeoPostal','FR');

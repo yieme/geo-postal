@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB35 5QD"]={"code":"AB35 5QD","region":"Scotland","city":"Ballater","latitude":57.0493,"longitude":-3.04023}}(window,'GeoPostal','GB');

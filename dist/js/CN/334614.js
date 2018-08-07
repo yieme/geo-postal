@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334614"]={"code":"334614","region":"Jiangxi","city":"Songfeng","latitude":28.35991,"longitude":118.39384}}(window,'GeoPostal','CN');

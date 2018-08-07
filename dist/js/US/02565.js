@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02565"]={"code":"02565","region":"MA","city":"Silver Beach","latitude":41.63,"longitude":-70.64}}(window,'GeoPostal','US');

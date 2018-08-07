@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66120"]={"code":"66120","region":"Occitanie","city":"Font-Romeu-Odeillo-Via","latitude":42.4983,"longitude":2.0347}}(window,'GeoPostal','FR');

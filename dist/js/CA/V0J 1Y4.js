@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1Y4"]={"code":"V0J 1Y4","region":"British Columbia","city":"Kispiox","latitude":55.34945,"longitude":-127.68843}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44290"]={"code":"44290","region":"Pays-de-la-Loire","city":"Guemene-Penfao","latitude":47.63333,"longitude":-1.83333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0P 1A0"]={"code":"G0P 1A0","region":"Quebec","city":"Ham-Nord","latitude":45.90007,"longitude":-71.64909}}(window,'GeoPostal','CA');

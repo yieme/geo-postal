@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62823-000"]={"code":"62823-000","region":"Ceara","city":"Jaguaruana","latitude":-4.83389,"longitude":-37.78111}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99347"]={"code":"99347","region":"Washington","city":"Pomeroy","latitude":46.473887,"longitude":-117.601417}}(window,'GeoPostal','US');

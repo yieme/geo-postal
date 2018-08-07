@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01702"]={"code":"01702","region":"Massachusetts","city":"Framingham","latitude":42.27098,"longitude":-71.42177}}(window,'GeoPostal','US');

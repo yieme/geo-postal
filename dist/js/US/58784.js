@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58784"]={"code":"58784","region":"North Dakota","city":"Stanley","latitude":48.31724,"longitude":-102.39045}}(window,'GeoPostal','US');

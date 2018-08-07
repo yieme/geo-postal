@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17857"]={"code":"17857","region":"Catalunya","city":"Sant Joan les Fonts","latitude":42.21186,"longitude":2.51291}}(window,'GeoPostal','ES');

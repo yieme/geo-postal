@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08628"]={"code":"08628","region":"New Jersey","city":"Ewing","latitude":40.27362,"longitude":-74.81748}}(window,'GeoPostal','US');

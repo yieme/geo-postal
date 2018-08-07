@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12139"]={"code":"12139","region":"New York","city":"Piseco","latitude":43.246111,"longitude":-74.518056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29378"]={"code":"29378","region":"SC","city":"Una","latitude":34.969,"longitude":-81.9704}}(window,'GeoPostal','US');

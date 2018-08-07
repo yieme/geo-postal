@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-425"]={"code":"34-425","region":"Malopolskie","city":"Poronin","latitude":49.33781,"longitude":20.00291}}(window,'GeoPostal','PL');

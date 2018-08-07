@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95601"]={"code":"95601","region":"CA","city":"Amador City","latitude":38.4194,"longitude":-120.823}}(window,'GeoPostal','US');

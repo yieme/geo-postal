@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17738"]={"code":"17738","region":"PA","city":"Hyner","latitude":41.33,"longitude":-77.64}}(window,'GeoPostal','US');

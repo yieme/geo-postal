@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75966"]={"code":"75966","region":"Texas","city":"Newton","latitude":30.84853,"longitude":-93.7574}}(window,'GeoPostal','US');

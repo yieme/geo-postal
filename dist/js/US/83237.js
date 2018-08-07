@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83237"]={"code":"83237","region":"Idaho","city":"Franklin","latitude":42.026826,"longitude":-111.794927}}(window,'GeoPostal','US');

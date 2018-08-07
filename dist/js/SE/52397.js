@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52397"]={"code":"52397","region":"Vastra Gotalands lan","city":"Ulricehamn","latitude":57.79159,"longitude":13.41422}}(window,'GeoPostal','SE');

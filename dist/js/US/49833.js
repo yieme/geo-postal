@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49833"]={"code":"49833","region":"MI","city":"Little Lake","latitude":46.2888,"longitude":-87.3418}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403730"]={"code":"403730","region":"Goa","city":"Davorlim","latitude":15.25,"longitude":73.98333}}(window,'GeoPostal','IN');

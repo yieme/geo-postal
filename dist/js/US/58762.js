@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58762"]={"code":"58762","region":"ND","city":"Newburg","latitude":48.6982,"longitude":-100.9681}}(window,'GeoPostal','US');

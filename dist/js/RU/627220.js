@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627220"]={"code":"627220","region":"Tyumenskaya oblast'","city":"Armizonskoye","latitude":55.94611,"longitude":67.67361}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94945"]={"code":"94945","region":"California","city":"Novato","latitude":38.10742,"longitude":-122.5697}}(window,'GeoPostal','US');

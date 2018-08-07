@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61370"]={"code":"61370","region":"Normandie","city":"Sainte-Gauburge-Sainte-Colombe","latitude":48.71722,"longitude":0.43126}}(window,'GeoPostal','FR');

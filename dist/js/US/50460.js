@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50460"]={"code":"50460","region":"Iowa","city":"Orchard","latitude":43.236199,"longitude":-92.682155}}(window,'GeoPostal','US');

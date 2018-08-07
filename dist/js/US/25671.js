@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25671"]={"code":"25671","region":"WV","city":"Dingess","latitude":37.8703,"longitude":-82.1951}}(window,'GeoPostal','US');

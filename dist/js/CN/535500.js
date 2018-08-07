@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535500"]={"code":"535500","region":"Guangxi","city":"Siyang","latitude":22.16841,"longitude":107.94309}}(window,'GeoPostal','CN');

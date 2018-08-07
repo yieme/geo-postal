@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30230"]={"code":"30230","region":"Georgia","city":"Hogansville","latitude":33.162856,"longitude":-84.941615}}(window,'GeoPostal','US');

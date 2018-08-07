@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585315"]={"code":"585315","region":"Karnataka","city":"Madhugiri","latitude":13.66056,"longitude":77.20917}}(window,'GeoPostal','IN');

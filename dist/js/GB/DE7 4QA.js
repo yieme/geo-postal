@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE7 4QA"]={"code":"DE7 4QA","region":"England","city":"Stanton by Dale","latitude":52.93732,"longitude":-1.30931}}(window,'GeoPostal','GB');

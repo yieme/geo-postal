@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46590"]={"code":"46590","region":"Malatya","city":"Hekimhan","latitude":38.81796,"longitude":37.93117}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 04"]={"code":"538 04","region":"Pardubicky kraj","city":"Prachovice","latitude":49.89379,"longitude":15.62872}}(window,'GeoPostal','CZ');

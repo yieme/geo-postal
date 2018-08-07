@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2L0"]={"code":"J0T 2L0","region":"Quebec","city":"Amherst","latitude":46.05009,"longitude":-74.76596}}(window,'GeoPostal','CA');

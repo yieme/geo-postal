@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54135"]={"code":"54135","region":"Wisconsin","city":"Keshena","latitude":44.88387,"longitude":-88.63372}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81310"]={"code":"81310","region":"Occitanie","city":"Lisle-sur-Tarn","latitude":43.8525,"longitude":1.81098}}(window,'GeoPostal','FR');

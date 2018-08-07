@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 7R8"]={"code":"B4V 7R8","region":"Nova Scotia","city":"East Clifford","latitude":44.43345,"longitude":-64.73208}}(window,'GeoPostal','CA');

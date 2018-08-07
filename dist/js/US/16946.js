@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16946"]={"code":"16946","region":"Pennsylvania","city":"Tioga","latitude":41.911762,"longitude":-77.14592}}(window,'GeoPostal','US');

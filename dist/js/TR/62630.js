@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62630"]={"code":"62630","region":"Balikesir","city":"Ivrindi","latitude":39.58389,"longitude":27.48639}}(window,'GeoPostal','TR');

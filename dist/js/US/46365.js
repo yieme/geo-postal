@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46365"]={"code":"46365","region":"IN","city":"Mill Creek","latitude":41.6091,"longitude":-86.544}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["631"]={"code":"631","region":"New Ireland","city":"Kavieng","latitude":-2.57444,"longitude":150.79669}}(window,'GeoPostal','PG');

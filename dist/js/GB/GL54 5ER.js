@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL54 5ER"]={"code":"GL54 5ER","region":"England","city":"Gretton","latitude":51.96667,"longitude":-1.98333}}(window,'GeoPostal','GB');

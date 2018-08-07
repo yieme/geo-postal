@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43832"]={"code":"43832","region":"OH","city":"Newcomerstown","latitude":40.2739,"longitude":-81.594}}(window,'GeoPostal','US');

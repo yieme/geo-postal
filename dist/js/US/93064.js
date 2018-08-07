@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93064"]={"code":"93064","region":"CA","city":"Brandeis","latitude":34.2582,"longitude":-118.7107}}(window,'GeoPostal','US');

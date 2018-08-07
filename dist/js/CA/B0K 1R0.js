@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1R0"]={"code":"B0K 1R0","region":"Nova Scotia","city":"Scotsburn","latitude":45.65015,"longitude":-62.84865}}(window,'GeoPostal','CA');

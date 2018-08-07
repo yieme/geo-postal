@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23160"]={"code":"23160","region":"VA","city":"State Farm","latitude":37.6454,"longitude":-77.8283}}(window,'GeoPostal','US');

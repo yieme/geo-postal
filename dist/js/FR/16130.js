@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16130"]={"code":"16130","region":"Nouvelle-Aquitaine","city":"Gensac-la-Pallue","latitude":45.65,"longitude":-0.25}}(window,'GeoPostal','FR');

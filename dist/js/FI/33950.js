@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33950"]={"code":"33950","region":"Pirkanmaa","city":"Pirkkala","latitude":61.46125,"longitude":23.63228}}(window,'GeoPostal','FI');

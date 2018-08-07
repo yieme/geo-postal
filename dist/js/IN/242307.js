@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242307"]={"code":"242307","region":"Uttar Pradesh","city":"Tilhar","latitude":27.98333,"longitude":79.73333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8217"]={"code":"8217","region":"Schaffhausen","city":"Wilchingen","latitude":47.66746,"longitude":8.46774}}(window,'GeoPostal','CH');

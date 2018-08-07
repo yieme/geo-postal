@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46166"]={"code":"46166","region":"IN","city":"Paragon","latitude":39.4042,"longitude":-86.5779}}(window,'GeoPostal','US');

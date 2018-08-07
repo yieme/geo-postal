@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87100"]={"code":"87100","region":"Calabria","city":"Cosenza","latitude":39.30999,"longitude":16.25019}}(window,'GeoPostal','IT');

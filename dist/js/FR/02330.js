@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02330"]={"code":"02330","region":"Hauts-de-France","city":"Conde-en-Brie","latitude":49.0056,"longitude":3.557}}(window,'GeoPostal','FR');

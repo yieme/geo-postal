@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7173"]={"code":"7173","region":"Tolna","city":"Zomba","latitude":46.41084,"longitude":18.56577}}(window,'GeoPostal','HU');

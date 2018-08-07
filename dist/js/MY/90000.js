@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90000"]={"code":"90000","region":"Sabah","city":"Sandakan","latitude":5.8402,"longitude":118.1179}}(window,'GeoPostal','MY');

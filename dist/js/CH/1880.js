@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1880"]={"code":"1880","region":"Vaud","city":"Bex","latitude":46.25214,"longitude":7.01141}}(window,'GeoPostal','CH');

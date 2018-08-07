@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14756"]={"code":"14756","region":"NY","city":"Maple Springs","latitude":42.1967,"longitude":-79.4239}}(window,'GeoPostal','US');

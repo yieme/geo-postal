@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48754"]={"code":"48754","region":"Michigan","city":"Owendale","latitude":43.730449,"longitude":-83.244913}}(window,'GeoPostal','US');

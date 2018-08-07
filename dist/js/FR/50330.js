@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50330"]={"code":"50330","region":"Normandie","city":"Agon-Coutainville","latitude":49.04,"longitude":-1.58}}(window,'GeoPostal','FR');

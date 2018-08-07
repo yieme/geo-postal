@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27344"]={"code":"27344","region":"NC","city":"Siler City","latitude":35.7354,"longitude":-79.4566}}(window,'GeoPostal','US');

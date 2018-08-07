@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57005"]={"code":"57005","region":"Kauno apskritis","city":"Kedainiai","latitude":55.28833,"longitude":23.97472}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25880"]={"code":"25880","region":"West Virginia","city":"Mount Hope","latitude":37.89461,"longitude":-81.167792}}(window,'GeoPostal','US');

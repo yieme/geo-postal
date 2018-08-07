@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48734"]={"code":"48734","region":"Nordrhein-Westfalen","city":"Bahnhof Reken","latitude":51.8039,"longitude":7.04434}}(window,'GeoPostal','DE');

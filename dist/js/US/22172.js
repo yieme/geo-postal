@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22172"]={"code":"22172","region":"Virginia","city":"Triangle","latitude":38.54679,"longitude":-77.33665}}(window,'GeoPostal','US');

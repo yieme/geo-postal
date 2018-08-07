@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-320"]={"code":"24-320","region":"Lubelskie","city":"Poniatowa","latitude":51.17983,"longitude":22.13093}}(window,'GeoPostal','PL');

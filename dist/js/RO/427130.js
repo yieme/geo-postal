@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427130"]={"code":"427130","region":"Bistrita-Nasaud","city":"Maieru","latitude":47.4,"longitude":24.75}}(window,'GeoPostal','RO');

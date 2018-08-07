@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73550"]={"code":"73550","region":"Auvergne-Rhone-Alpes","city":"Meribel","latitude":45.41497,"longitude":6.565}}(window,'GeoPostal','FR');

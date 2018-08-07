@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2470"]={"code":"2470","region":"New South Wales","city":"Casino","latitude":-28.85819,"longitude":153.04748}}(window,'GeoPostal','AU');

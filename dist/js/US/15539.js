@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15539"]={"code":"15539","region":"Pennsylvania","city":"Fishertown","latitude":40.121667,"longitude":-78.585833}}(window,'GeoPostal','US');

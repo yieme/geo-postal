@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15750"]={"code":"15750","region":"PA","city":"Josephine","latitude":40.4828,"longitude":-79.185}}(window,'GeoPostal','US');

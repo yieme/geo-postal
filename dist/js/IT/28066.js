@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28066"]={"code":"28066","region":"Piemonte","city":"Galliate","latitude":45.48157,"longitude":8.69674}}(window,'GeoPostal','IT');

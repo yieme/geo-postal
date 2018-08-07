@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53029"]={"code":"53029","region":"Wisconsin","city":"Hartland","latitude":43.109613,"longitude":-88.350102}}(window,'GeoPostal','US');

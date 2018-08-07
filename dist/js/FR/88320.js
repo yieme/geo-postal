@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88320"]={"code":"88320","region":"Grand-Est","city":"Lamarche","latitude":48.06967,"longitude":5.78141}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74934"]={"code":"74934","region":"Baden-Wurttemberg","city":"Reichartshausen","latitude":49.355,"longitude":8.94528}}(window,'GeoPostal','DE');

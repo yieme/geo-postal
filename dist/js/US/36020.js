@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36020"]={"code":"36020","region":"AL","city":"Coosada","latitude":32.5056,"longitude":-86.3322}}(window,'GeoPostal','US');

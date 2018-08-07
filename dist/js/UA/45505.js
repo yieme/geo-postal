@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45505"]={"code":"45505","region":"Volynska oblast","city":"Lokachi","latitude":50.737,"longitude":24.64944}}(window,'GeoPostal','UA');

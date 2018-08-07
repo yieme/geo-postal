@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL5 0ER"]={"code":"SL5 0ER","region":"England","city":"Sunningdale","latitude":51.39878,"longitude":-0.62944}}(window,'GeoPostal','GB');

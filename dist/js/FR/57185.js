@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57185"]={"code":"57185","region":"Grand-Est","city":"Vitry-sur-Orne","latitude":49.26554,"longitude":6.11113}}(window,'GeoPostal','FR');

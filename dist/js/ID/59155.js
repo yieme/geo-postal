@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59155"]={"code":"59155","region":"Jawa Tengah","city":"Ketapang","latitude":-6.5589,"longitude":111.0379}}(window,'GeoPostal','ID');

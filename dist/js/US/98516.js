@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98516"]={"code":"98516","region":"Washington","city":"Lacey","latitude":47.06509,"longitude":-122.793039}}(window,'GeoPostal','US');

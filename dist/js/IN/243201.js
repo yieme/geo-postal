@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243201"]={"code":"243201","region":"Uttarakhand","city":"Kichha","latitude":28.91667,"longitude":79.5}}(window,'GeoPostal','IN');

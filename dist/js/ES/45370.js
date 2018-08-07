@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45370"]={"code":"45370","region":"Castilla-La Mancha","city":"Santa Cruz de la Zarza","latitude":39.98104,"longitude":-3.18787}}(window,'GeoPostal','ES');

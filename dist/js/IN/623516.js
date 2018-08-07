@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623516"]={"code":"623516","region":"Tamil Nadu","city":"Kilakarai","latitude":9.23333,"longitude":78.78333}}(window,'GeoPostal','IN');

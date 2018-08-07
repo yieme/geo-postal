@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45844"]={"code":"45844","region":"Ohio","city":"Fort Jennings","latitude":40.91427,"longitude":-84.292647}}(window,'GeoPostal','US');

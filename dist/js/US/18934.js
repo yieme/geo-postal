@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18934"]={"code":"18934","region":"Pennsylvania","city":"Mechanicsville","latitude":40.96648,"longitude":-76.58662}}(window,'GeoPostal','US');

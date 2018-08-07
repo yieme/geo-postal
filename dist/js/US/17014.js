@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17014"]={"code":"17014","region":"PA","city":"Cocolamus","latitude":40.6479,"longitude":-77.2125}}(window,'GeoPostal','US');

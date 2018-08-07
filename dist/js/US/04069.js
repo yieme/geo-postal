@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04069"]={"code":"04069","region":"ME","city":"Pownal","latitude":43.89,"longitude":-70.1955}}(window,'GeoPostal','US');

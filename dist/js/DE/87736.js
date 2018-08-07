@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87736"]={"code":"87736","region":"Bayern","city":"Bohen","latitude":47.88333,"longitude":10.3}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62894"]={"code":"62894","region":"IL","city":"Waltonville","latitude":38.2089,"longitude":-89.039}}(window,'GeoPostal','US');

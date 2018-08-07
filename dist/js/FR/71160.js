@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71160"]={"code":"71160","region":"Bourgogne-Franche-Comte","city":"Digoin","latitude":46.48124,"longitude":3.97946}}(window,'GeoPostal','FR');

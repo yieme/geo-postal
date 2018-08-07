@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407291"]={"code":"407291","region":"Cluj","city":"Frata","latitude":46.7,"longitude":24.05}}(window,'GeoPostal','RO');

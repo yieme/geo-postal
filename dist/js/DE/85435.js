@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85435"]={"code":"85435","region":"Bayern","city":"Erding","latitude":48.30603,"longitude":11.90686}}(window,'GeoPostal','DE');

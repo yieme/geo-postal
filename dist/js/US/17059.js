@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17059"]={"code":"17059","region":"Pennsylvania","city":"Mifflintown","latitude":40.5708,"longitude":-77.38578}}(window,'GeoPostal','US');

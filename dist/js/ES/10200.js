@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10200"]={"code":"10200","region":"Extremadura","city":"Trujillo","latitude":39.45786,"longitude":-5.88203}}(window,'GeoPostal','ES');

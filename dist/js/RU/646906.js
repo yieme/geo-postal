@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646906"]={"code":"646906","region":"Omskaya oblast'","city":"Kalachinsk","latitude":55.05286,"longitude":74.57511}}(window,'GeoPostal','RU');

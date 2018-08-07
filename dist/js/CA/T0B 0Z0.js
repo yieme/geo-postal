@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0Z0"]={"code":"T0B 0Z0","region":"Alberta","city":"Czar","latitude":52.45013,"longitude":-110.83494}}(window,'GeoPostal','CA');

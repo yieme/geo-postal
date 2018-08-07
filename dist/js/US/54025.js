@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54025"]={"code":"54025","region":"Wisconsin","city":"Somerset","latitude":45.12441,"longitude":-92.67354}}(window,'GeoPostal','US');

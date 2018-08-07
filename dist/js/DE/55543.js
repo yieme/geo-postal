@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55543"]={"code":"55543","region":"Rheinland-Pfalz","city":"Bad Kreuznach","latitude":49.8414,"longitude":7.86713}}(window,'GeoPostal','DE');

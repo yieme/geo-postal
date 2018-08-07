@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97701"]={"code":"97701","region":"Oregon","city":"Bend","latitude":44.05817,"longitude":-121.31531}}(window,'GeoPostal','US');

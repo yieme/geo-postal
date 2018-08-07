@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71330"]={"code":"71330","region":"Bourgogne-Franche-Comte","city":"Saint-Germain-du-Bois","latitude":46.75287,"longitude":5.2453}}(window,'GeoPostal','FR');

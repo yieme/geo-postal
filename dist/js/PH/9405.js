@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9405"]={"code":"9405","region":"Cotabato","city":"Linao","latitude":7.16778,"longitude":124.9675}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95044"]={"code":"95044","region":"Sicilia","city":"Mineo","latitude":37.26535,"longitude":14.69008}}(window,'GeoPostal','IT');

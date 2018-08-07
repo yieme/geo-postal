@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737390"]={"code":"737390","region":"Vaslui","city":"Osesti","latitude":46.76667,"longitude":27.46667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58332"]={"code":"58332","region":"North Dakota","city":"Esmond","latitude":48.09948,"longitude":-99.7056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55704"]={"code":"55704","region":"Minnesota","city":"Askov","latitude":46.18778,"longitude":-92.78083}}(window,'GeoPostal','US');

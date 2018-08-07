@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42519"]={"code":"42519","region":"Kentucky","city":"Burnside","latitude":36.99,"longitude":-84.60361}}(window,'GeoPostal','US');

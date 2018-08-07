@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84404"]={"code":"84404","region":"Utah","city":"North Ogden","latitude":41.30716,"longitude":-111.96022}}(window,'GeoPostal','US');

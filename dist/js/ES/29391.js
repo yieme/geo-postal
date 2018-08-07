@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29391"]={"code":"29391","region":"Andalucia","city":"Cortes de la Frontera","latitude":36.6171,"longitude":-5.34266}}(window,'GeoPostal','ES');

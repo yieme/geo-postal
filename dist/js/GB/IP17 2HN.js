@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 2HN"]={"code":"IP17 2HN","region":"England","city":"Peasenhall","latitude":52.27136,"longitude":1.45114}}(window,'GeoPostal','GB');

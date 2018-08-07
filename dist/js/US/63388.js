@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63388"]={"code":"63388","region":"Missouri","city":"Wentzville","latitude":38.836284,"longitude":-92.003806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76882"]={"code":"76882","region":"TX","city":"Talpa","latitude":31.8034,"longitude":-99.6747}}(window,'GeoPostal','US');

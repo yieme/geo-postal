@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2419"]={"code":"2419","region":"Pangasinan","city":"Santa Barbara","latitude":16.0009,"longitude":120.4023}}(window,'GeoPostal','PH');

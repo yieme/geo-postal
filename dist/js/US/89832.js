@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89832"]={"code":"89832","region":"NV","city":"Owyhee","latitude":41.9477,"longitude":-116.0987}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6361"]={"code":"6361","region":"Limburg","city":"Nuth","latitude":50.9175,"longitude":5.88611}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41097"]={"code":"41097","region":"Kentucky","city":"Williamstown","latitude":38.6099,"longitude":-84.5773}}(window,'GeoPostal','US');

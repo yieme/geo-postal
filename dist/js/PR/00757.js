@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00757"]={"code":"00757","region":"Coamo","city":"Los Llanos","latitude":18.05524,"longitude":-66.40573}}(window,'GeoPostal','PR');

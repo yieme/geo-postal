@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["908 51"]={"code":"908 51","region":"Trnavsky kraj","city":"Holic","latitude":48.81105,"longitude":17.16238}}(window,'GeoPostal','SK');

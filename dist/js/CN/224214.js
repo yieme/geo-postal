@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224214"]={"code":"224214","region":"Jiangsu","city":"Tainan","latitude":32.76205,"longitude":120.26944}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03601"]={"code":"03601","region":"NH","city":"Acworth","latitude":43.196,"longitude":-72.3001}}(window,'GeoPostal','US');

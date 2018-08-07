@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03874"]={"code":"03874","region":"NH","city":"Seabrook","latitude":42.8854,"longitude":-70.8646}}(window,'GeoPostal','US');

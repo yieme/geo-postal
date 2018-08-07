@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38315"]={"code":"38315","region":"TN","city":"Bethel Springs","latitude":35.2289,"longitude":-88.644}}(window,'GeoPostal','US');

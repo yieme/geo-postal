@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3050"]={"code":"3050","region":"Santa Fe","city":"Calchaqui","latitude":-29.88767,"longitude":-60.28696}}(window,'GeoPostal','AR');

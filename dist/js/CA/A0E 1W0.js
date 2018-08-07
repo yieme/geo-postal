@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 1W0"]={"code":"A0E 1W0","region":"Newfoundland and Labrador","city":"Grand Bank","latitude":47.09995,"longitude":-55.76504}}(window,'GeoPostal','CA');

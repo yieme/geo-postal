@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0T 1K0"]={"code":"B0T 1K0","region":"Nova Scotia","city":"Liverpool","latitude":44.03346,"longitude":-64.71548}}(window,'GeoPostal','CA');

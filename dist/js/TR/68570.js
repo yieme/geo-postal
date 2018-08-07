@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68570"]={"code":"68570","region":"Yozgat","city":"Sarikaya","latitude":39.49361,"longitude":35.37694}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3749"]={"code":"3749","region":"Victoria","city":"Yackandandah","latitude":-36.31371,"longitude":146.83958}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA71 5HS"]={"code":"SA71 5HS","region":"Wales","city":"Warren","latitude":51.63778,"longitude":-4.98944}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62044"]={"code":"62044","region":"IL","city":"Greenfield","latitude":39.3491,"longitude":-90.2089}}(window,'GeoPostal','US');

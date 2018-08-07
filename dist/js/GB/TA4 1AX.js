@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 1AX"]={"code":"TA4 1AX","region":"England","city":"Oake","latitude":51.02345,"longitude":-3.2074}}(window,'GeoPostal','GB');

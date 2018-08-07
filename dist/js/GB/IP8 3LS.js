@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 3LS"]={"code":"IP8 3LS","region":"England","city":"Belstead","latitude":52.02662,"longitude":1.10533}}(window,'GeoPostal','GB');

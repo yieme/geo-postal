@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06073"]={"code":"06073","region":"Umbria","city":"Corciano","latitude":43.12904,"longitude":12.28736}}(window,'GeoPostal','IT');

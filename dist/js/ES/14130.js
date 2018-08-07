@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14130"]={"code":"14130","region":"Andalucia","city":"Guadalcazar","latitude":37.75738,"longitude":-4.94387}}(window,'GeoPostal','ES');

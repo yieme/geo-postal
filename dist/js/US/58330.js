@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58330"]={"code":"58330","region":"ND","city":"Edmore","latitude":48.4308,"longitude":-98.4458}}(window,'GeoPostal','US');

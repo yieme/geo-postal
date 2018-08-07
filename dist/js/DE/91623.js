@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91623"]={"code":"91623","region":"Bayern","city":"Sachsen","latitude":49.28999,"longitude":10.65971}}(window,'GeoPostal','DE');

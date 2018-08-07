@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-405"]={"code":"98-405","region":"Lodzkie","city":"Galewice","latitude":51.34471,"longitude":18.25756}}(window,'GeoPostal','PL');

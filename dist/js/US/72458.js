@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72458"]={"code":"72458","region":"AR","city":"Powhatan","latitude":36.08,"longitude":-91.1482}}(window,'GeoPostal','US');

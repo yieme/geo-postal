@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72475"]={"code":"72475","region":"AR","city":"Waldenburg","latitude":35.5631,"longitude":-90.9207}}(window,'GeoPostal','US');

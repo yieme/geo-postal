@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31712"]={"code":"31712","region":"GA","city":"Arabi","latitude":31.8496,"longitude":-83.7277}}(window,'GeoPostal','US');

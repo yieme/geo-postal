@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37262-000"]={"code":"37262-000","region":"Minas Gerais","city":"Santo Antonio do Amparo","latitude":-20.94639,"longitude":-44.91889}}(window,'GeoPostal','BR');

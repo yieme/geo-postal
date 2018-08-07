@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04464"]={"code":"04464","region":"ME","city":"Monson","latitude":45.2981,"longitude":-69.488}}(window,'GeoPostal','US');

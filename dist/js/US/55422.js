@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55422"]={"code":"55422","region":"Minnesota","city":"Crystal","latitude":45.03274,"longitude":-93.36023}}(window,'GeoPostal','US');

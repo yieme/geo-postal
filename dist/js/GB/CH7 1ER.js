@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 1ER"]={"code":"CH7 1ER","region":"Wales","city":"Mold","latitude":53.16674,"longitude":-3.14143}}(window,'GeoPostal','GB');

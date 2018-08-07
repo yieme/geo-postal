@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33587"]={"code":"33587","region":"Florida","city":"Sydney","latitude":27.978131,"longitude":-82.19978}}(window,'GeoPostal','US');

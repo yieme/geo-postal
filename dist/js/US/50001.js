@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50001"]={"code":"50001","region":"IA","city":"Ackworth","latitude":41.3737,"longitude":-93.3767}}(window,'GeoPostal','US');

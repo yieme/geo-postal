@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1E 2X5"]={"code":"V1E 2X5","region":"British Columbia","city":"Deep Creek","latitude":50.6165,"longitude":-119.21906}}(window,'GeoPostal','CA');

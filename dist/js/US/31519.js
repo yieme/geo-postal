@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31519"]={"code":"31519","region":"Georgia","city":"Broxton","latitude":31.62519,"longitude":-82.88681}}(window,'GeoPostal','US');

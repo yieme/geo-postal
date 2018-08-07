@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1N0"]={"code":"B0K 1N0","region":"Nova Scotia","city":"River John","latitude":45.75015,"longitude":-63.04866}}(window,'GeoPostal','CA');

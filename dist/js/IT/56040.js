@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56040"]={"code":"56040","region":"Toscana","city":"Montescudaio","latitude":43.32603,"longitude":10.62602}}(window,'GeoPostal','IT');

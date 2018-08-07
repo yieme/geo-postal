@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8439"]={"code":"8439","region":"Gyor-Moson-Sopron","city":"Bakonyszentlaszlo","latitude":47.38901,"longitude":17.80321}}(window,'GeoPostal','HU');

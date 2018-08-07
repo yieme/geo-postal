@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 4GE"]={"code":"DN21 4GE","region":"England","city":"Grayingham","latitude":53.45517,"longitude":-0.59394}}(window,'GeoPostal','GB');

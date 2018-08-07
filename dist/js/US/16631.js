@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16631"]={"code":"16631","region":"PA","city":"Curryville","latitude":40.2759,"longitude":-78.3383}}(window,'GeoPostal','US');

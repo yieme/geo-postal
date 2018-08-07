@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451451"]={"code":"451451","region":"Madhya Pradesh","city":"Sausar","latitude":21.65,"longitude":78.78333}}(window,'GeoPostal','IN');

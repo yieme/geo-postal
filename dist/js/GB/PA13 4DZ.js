@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA13 4DZ"]={"code":"PA13 4DZ","region":"Scotland","city":"Kilmacolm","latitude":55.8947,"longitude":-4.62643}}(window,'GeoPostal','GB');

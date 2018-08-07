@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34184"]={"code":"34184","region":"Lampung","city":"Jabung","latitude":-5.46314,"longitude":105.66752}}(window,'GeoPostal','ID');

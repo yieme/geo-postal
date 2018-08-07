@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71363"]={"code":"71363","region":"LA","city":"Rhinehart","latitude":31.6377,"longitude":-92.0068}}(window,'GeoPostal','US');

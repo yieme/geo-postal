@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-310"]={"code":"44-310","region":"Slaskie","city":"Radlin","latitude":50.0502,"longitude":18.47626}}(window,'GeoPostal','PL');

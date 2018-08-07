@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["584 00"]={"code":"584 00","region":"Kentriki Makedonia","city":"Aridaia","latitude":40.97306,"longitude":22.05639}}(window,'GeoPostal','GR');

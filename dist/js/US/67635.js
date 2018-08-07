@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67635"]={"code":"67635","region":"Kansas","city":"Dresden","latitude":39.611011,"longitude":-100.376056}}(window,'GeoPostal','US');

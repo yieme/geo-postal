@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1V 6K7"]={"code":"L1V 6K7","region":"Ontario","city":"Pickering","latitude":43.837719,"longitude":-79.082393}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353720"]={"code":"353720","region":"Krasnodarskiy kray","city":"Staroderevyankovskaya","latitude":46.1276,"longitude":38.9674}}(window,'GeoPostal','RU');

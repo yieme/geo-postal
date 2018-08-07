@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69032"]={"code":"69032","region":"Nebraska","city":"Hayes Center","latitude":40.51084,"longitude":-101.0196}}(window,'GeoPostal','US');

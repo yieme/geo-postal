@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26342"]={"code":"26342","region":"Chiapas","city":"Arriaga","latitude":16.23333,"longitude":-93.9}}(window,'GeoPostal','MX');

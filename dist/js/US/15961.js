@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15961"]={"code":"15961","region":"PA","city":"Vintondale","latitude":40.4939,"longitude":-78.9427}}(window,'GeoPostal','US');

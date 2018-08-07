@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13795"]={"code":"13795","region":"NY","city":"Kirkwood","latitude":42.0695,"longitude":-75.7967}}(window,'GeoPostal','US');

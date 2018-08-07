@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-330"]={"code":"62-330","region":"Wielkopolskie","city":"Nekla","latitude":52.36496,"longitude":17.41329}}(window,'GeoPostal','PL');

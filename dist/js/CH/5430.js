@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5430"]={"code":"5430","region":"Aargau","city":"Wettingen","latitude":47.4705,"longitude":8.31636}}(window,'GeoPostal','CH');

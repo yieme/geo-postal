@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9270"]={"code":"9270","region":"Nordjylland","city":"Klarup","latitude":57.01194,"longitude":10.05617}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05070"]={"code":"05070","region":"Vermont","city":"South Strafford","latitude":43.832516,"longitude":-72.377027}}(window,'GeoPostal','US');

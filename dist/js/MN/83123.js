@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83123"]={"code":"83123","region":"Bayan-Olgiy","city":"OElgiy","latitude":48.96833,"longitude":89.9625}}(window,'GeoPostal','MN');

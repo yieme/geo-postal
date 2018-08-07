@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65017"]={"code":"65017","region":"MO","city":"Brumley","latitude":38.0709,"longitude":-92.4747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67525"]={"code":"67525","region":"Kansas","city":"Claflin","latitude":38.525,"longitude":-98.53722}}(window,'GeoPostal','US');

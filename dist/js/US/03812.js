@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03812"]={"code":"03812","region":"New Hampshire","city":"Bartlett","latitude":44.07778,"longitude":-71.28278}}(window,'GeoPostal','US');

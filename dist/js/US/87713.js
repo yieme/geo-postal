@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87713"]={"code":"87713","region":"NM","city":"Chacon","latitude":36.1388,"longitude":-105.3854}}(window,'GeoPostal','US');

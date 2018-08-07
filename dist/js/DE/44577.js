@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44577"]={"code":"44577","region":"Nordrhein-Westfalen","city":"Rauxel","latitude":51.55593,"longitude":7.32094}}(window,'GeoPostal','DE');

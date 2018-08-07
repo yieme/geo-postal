@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 01"]={"code":"675 01","region":"Kraj Vysocina","city":"Vladislav","latitude":49.21017,"longitude":15.9883}}(window,'GeoPostal','CZ');

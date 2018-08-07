@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1E0"]={"code":"V0H 1E0","region":"British Columbia","city":"Christina Lake","latitude":49.03967,"longitude":-118.20847}}(window,'GeoPostal','CA');

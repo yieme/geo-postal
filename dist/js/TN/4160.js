@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4160"]={"code":"4160","region":"Medenine","city":"Bin Qirdan","latitude":33.13783,"longitude":11.21965}}(window,'GeoPostal','TN');

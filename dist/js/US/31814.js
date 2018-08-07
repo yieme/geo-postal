@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31814"]={"code":"31814","region":"GA","city":"Louvale","latitude":32.1752,"longitude":-84.8252}}(window,'GeoPostal','US');

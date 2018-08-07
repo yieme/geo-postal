@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71859"]={"code":"71859","region":"Arkansas","city":"Saratoga","latitude":33.77113,"longitude":-93.883869}}(window,'GeoPostal','US');

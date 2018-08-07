@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54770"]={"code":"54770","region":"Wisconsin","city":"Strum","latitude":44.5505,"longitude":-91.391176}}(window,'GeoPostal','US');

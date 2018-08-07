@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 8BN"]={"code":"YO17 8BN","region":"England","city":"Duggleby","latitude":54.09224,"longitude":-0.65908}}(window,'GeoPostal','GB');

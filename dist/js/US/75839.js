@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75839"]={"code":"75839","region":"TX","city":"Elkhart","latitude":31.648,"longitude":-95.5551}}(window,'GeoPostal','US');

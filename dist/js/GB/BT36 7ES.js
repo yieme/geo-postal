@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT36 7ES"]={"code":"BT36 7ES","region":"England","city":"Hazelwood","latitude":53.01055,"longitude":-1.51114}}(window,'GeoPostal','GB');

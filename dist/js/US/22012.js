@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22012"]={"code":"22012","region":"Virginia","city":"McLean","latitude":39.096,"longitude":-77.8338}}(window,'GeoPostal','US');

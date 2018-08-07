@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21258"]={"code":"21258","region":"Niedersachsen","city":"Heidenau","latitude":53.31667,"longitude":9.66667}}(window,'GeoPostal','DE');

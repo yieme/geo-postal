@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79540"]={"code":"79540","region":"TX","city":"Old Glory","latitude":33.1298,"longitude":-100.0559}}(window,'GeoPostal','US');

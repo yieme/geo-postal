@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187400"]={"code":"187400","region":"Leningradskaya oblast'","city":"Volkhov","latitude":59.9258,"longitude":32.33819}}(window,'GeoPostal','RU');

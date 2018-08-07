@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2007"]={"code":"2007","region":"Gauteng","city":"Bedfordview","latitude":-26.179444,"longitude":28.136111}}(window,'GeoPostal','ZA');

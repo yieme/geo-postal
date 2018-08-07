@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04550"]={"code":"04550","region":"Arequipa","city":"Acari","latitude":-15.43111,"longitude":-74.61583}}(window,'GeoPostal','PE');

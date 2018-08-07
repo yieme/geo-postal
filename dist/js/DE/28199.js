@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28199"]={"code":"28199","region":"Bremen","city":"Alte Neustadt","latitude":53.07296,"longitude":8.79885}}(window,'GeoPostal','DE');

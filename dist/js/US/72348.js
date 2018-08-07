@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72348"]={"code":"72348","region":"AR","city":"Hughes","latitude":34.9454,"longitude":-90.4741}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140712"]={"code":"140712","region":"Moskovskaya oblast'","city":"Shaturtorf","latitude":55.56711,"longitude":39.42129}}(window,'GeoPostal','RU');

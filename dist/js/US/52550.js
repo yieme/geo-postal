@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52550"]={"code":"52550","region":"IA","city":"Delta","latitude":41.3167,"longitude":-92.3359}}(window,'GeoPostal','US');

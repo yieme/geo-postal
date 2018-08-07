@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54440"]={"code":"54440","region":"WI","city":"Hatley","latitude":44.8256,"longitude":-89.3777}}(window,'GeoPostal','US');

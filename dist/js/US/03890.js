@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03890"]={"code":"03890","region":"NH","city":"West Ossipee","latitude":43.8118,"longitude":-71.1946}}(window,'GeoPostal','US');

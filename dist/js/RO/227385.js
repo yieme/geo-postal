@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227385"]={"code":"227385","region":"Mehedinti","city":"Pristol","latitude":44.22472,"longitude":22.70917}}(window,'GeoPostal','RO');

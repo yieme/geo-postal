@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445036"]={"code":"445036","region":"Hubei","city":"Shengjiaba","latitude":29.98482,"longitude":109.21926}}(window,'GeoPostal','CN');

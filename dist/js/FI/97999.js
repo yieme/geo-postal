@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97999"]={"code":"97999","region":"Lappi","city":"Posio","latitude":66.10856,"longitude":28.17186}}(window,'GeoPostal','FI');

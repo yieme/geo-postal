@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61938"]={"code":"61938","region":"Illinois","city":"Mattoon","latitude":39.48309,"longitude":-88.37283}}(window,'GeoPostal','US');

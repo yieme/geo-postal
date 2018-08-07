@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403440"]={"code":"403440","region":"Volgogradskaya oblast'","city":"Serafimovich","latitude":49.5786,"longitude":42.736}}(window,'GeoPostal','RU');

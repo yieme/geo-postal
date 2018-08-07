@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["405-865"]={"code":"405-865","region":"Incheon-gwangyeoksi","city":"Tsche-mul-p-ho","latitude":37.45361,"longitude":126.73167}}(window,'GeoPostal','KR');

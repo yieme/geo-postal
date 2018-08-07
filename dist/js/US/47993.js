@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47993"]={"code":"47993","region":"Indiana","city":"Williamsport","latitude":40.3002,"longitude":-87.31752}}(window,'GeoPostal','US');

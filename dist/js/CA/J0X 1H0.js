@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1H0"]={"code":"J0X 1H0","region":"Quebec","city":"Bryson","latitude":45.68341,"longitude":-76.61611}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01023"]={"code":"01023","region":"Lazio","city":"Bolsena","latitude":42.64383,"longitude":11.98506}}(window,'GeoPostal','IT');

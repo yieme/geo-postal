@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75567"]={"code":"75567","region":"TX","city":"Maud","latitude":33.3409,"longitude":-94.3175}}(window,'GeoPostal','US');

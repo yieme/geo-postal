@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60963"]={"code":"60963","region":"IL","city":"Rossville","latitude":40.3625,"longitude":-87.6692}}(window,'GeoPostal','US');

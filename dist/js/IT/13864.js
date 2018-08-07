@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13864"]={"code":"13864","region":"Piemonte","city":"Crevacuore","latitude":45.68687,"longitude":8.24672}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7341"]={"code":"7341","region":"Burgenland","city":"Markt Sankt Martin","latitude":47.56667,"longitude":16.43333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79392"]={"code":"79392","region":"San Luis Potosi","city":"Cardenas","latitude":22,"longitude":-99.66667}}(window,'GeoPostal','MX');

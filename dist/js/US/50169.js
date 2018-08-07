@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50169"]={"code":"50169","region":"IA","city":"Mitchellville","latitude":41.6609,"longitude":-93.37}}(window,'GeoPostal','US');

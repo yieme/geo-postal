@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581101"]={"code":"581101","region":"Karnataka","city":"Haveri","latitude":14.8,"longitude":75.4}}(window,'GeoPostal','IN');

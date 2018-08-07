@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7800-861"]={"code":"7800-861","region":"Beja","city":"Ferreira do Alentejo","latitude":38.05,"longitude":-8.03333}}(window,'GeoPostal','PT');

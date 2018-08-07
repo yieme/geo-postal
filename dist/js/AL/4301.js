@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4301"]={"code":"4301","region":"Shkoder","city":"Koplik","latitude":42.21361,"longitude":19.43639}}(window,'GeoPostal','AL');

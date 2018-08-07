@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4463"]={"code":"4463","region":"Pazardzhik","city":"Lesichevo","latitude":42.35,"longitude":24.11667}}(window,'GeoPostal','BG');

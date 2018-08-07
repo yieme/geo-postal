@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5112"]={"code":"5112","region":"South Australia","city":"Elizabeth","latitude":-34.73333,"longitude":138.65}}(window,'GeoPostal','AU');

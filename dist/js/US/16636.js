@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16636"]={"code":"16636","region":"PA","city":"Dysart","latitude":40.6088,"longitude":-78.5271}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76311"]={"code":"76311","region":"Republika Srpska","city":"Dvorovi","latitude":44.80667,"longitude":19.26056}}(window,'GeoPostal','BA');

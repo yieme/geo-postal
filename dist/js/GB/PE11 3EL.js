@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE11 3EL"]={"code":"PE11 3EL","region":"England","city":"Deeping Saint Nicholas","latitude":52.72371,"longitude":-0.20737}}(window,'GeoPostal','GB');

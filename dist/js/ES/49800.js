@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49800"]={"code":"49800","region":"Castilla y Leon","city":"Toro","latitude":41.52418,"longitude":-5.39534}}(window,'GeoPostal','ES');

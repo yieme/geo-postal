@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404000"]={"code":"404000","region":"Volgogradskaya oblast'","city":"Dubovka","latitude":49.05825,"longitude":44.829}}(window,'GeoPostal','RU');

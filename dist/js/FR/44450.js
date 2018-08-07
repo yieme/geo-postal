@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44450"]={"code":"44450","region":"Pays-de-la-Loire","city":"Saint-Julien-de-Concelles","latitude":47.25286,"longitude":-1.38428}}(window,'GeoPostal','FR');

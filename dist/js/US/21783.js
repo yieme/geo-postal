@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21783"]={"code":"21783","region":"Maryland","city":"Adelphi","latitude":39.610049,"longitude":-77.527577}}(window,'GeoPostal','US');

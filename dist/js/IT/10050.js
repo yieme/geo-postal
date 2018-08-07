@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10050"]={"code":"10050","region":"Piemonte","city":"Chiomonte","latitude":45.11954,"longitude":6.98531}}(window,'GeoPostal','IT');

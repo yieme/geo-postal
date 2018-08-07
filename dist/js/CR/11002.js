@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11002"]={"code":"11002","region":"Heredia","city":"San Francisco","latitude":9.99299,"longitude":-84.12934}}(window,'GeoPostal','CR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58801"]={"code":"58801","region":"North Dakota","city":"Williston","latitude":48.14697,"longitude":-103.61797}}(window,'GeoPostal','US');

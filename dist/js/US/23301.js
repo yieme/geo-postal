@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23301"]={"code":"23301","region":"Virginia","city":"Accomac","latitude":37.71957,"longitude":-75.66548}}(window,'GeoPostal','US');

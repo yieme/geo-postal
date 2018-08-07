@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS9 0BG"]={"code":"WS9 0BG","region":"England","city":"Aldridge","latitude":52.60549,"longitude":-1.91715}}(window,'GeoPostal','GB');

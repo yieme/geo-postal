@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-620"]={"code":"59-620","region":"Dolnoslaskie","city":"Gryfow Slaski","latitude":51.03081,"longitude":15.42017}}(window,'GeoPostal','PL');

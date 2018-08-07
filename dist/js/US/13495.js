@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13495"]={"code":"13495","region":"NY","city":"Yorkville","latitude":43.1116,"longitude":-75.2756}}(window,'GeoPostal','US');

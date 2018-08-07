@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4645"]={"code":"4645","region":"Taranaki","city":"Opunake","latitude":-39.45556,"longitude":173.85833}}(window,'GeoPostal','NZ');

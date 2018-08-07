@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0936"]={"code":"0936","region":"Armavir","city":"Nalbandyan","latitude":40.06236,"longitude":43.9869}}(window,'GeoPostal','AM');

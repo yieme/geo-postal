@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 2B0"]={"code":"S0H 2B0","region":"Saskatchewan","city":"Hodgeville","latitude":50.11676,"longitude":-106.96797}}(window,'GeoPostal','CA');

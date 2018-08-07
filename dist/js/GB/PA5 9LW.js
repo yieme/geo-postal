@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA5 9LW"]={"code":"PA5 9LW","region":"Scotland","city":"Elderslie","latitude":55.83327,"longitude":-4.48598}}(window,'GeoPostal','GB');

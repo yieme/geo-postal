@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1E0"]={"code":"K0J 1E0","region":"Ontario","city":"Bissett Creek","latitude":46.21682,"longitude":-78.06623}}(window,'GeoPostal','CA');

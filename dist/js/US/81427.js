@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81427"]={"code":"81427","region":"Colorado","city":"Ouray","latitude":38.02277,"longitude":-107.67145}}(window,'GeoPostal','US');

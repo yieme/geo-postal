@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2126"]={"code":"2126","region":"Aragua","city":"Villa de Cura","latitude":10.03863,"longitude":-67.48938}}(window,'GeoPostal','VE');

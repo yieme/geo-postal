@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD24 0LA"]={"code":"BD24 0LA","region":"England","city":"Rathmell","latitude":54.03516,"longitude":-2.30029}}(window,'GeoPostal','GB');

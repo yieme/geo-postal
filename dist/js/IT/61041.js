@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61041"]={"code":"61041","region":"Marche","city":"Acqualagna","latitude":43.62606,"longitude":12.67596}}(window,'GeoPostal','IT');

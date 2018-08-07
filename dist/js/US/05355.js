@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05355"]={"code":"05355","region":"VT","city":"Wardsboro","latitude":43.0326,"longitude":-72.8077}}(window,'GeoPostal','US');

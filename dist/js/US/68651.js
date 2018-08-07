@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68651"]={"code":"68651","region":"NE","city":"Osceola","latitude":41.1966,"longitude":-97.5571}}(window,'GeoPostal','US');

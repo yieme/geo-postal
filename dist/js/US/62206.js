@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62206"]={"code":"62206","region":"Illinois","city":"Cahokia","latitude":38.56638,"longitude":-90.15672}}(window,'GeoPostal','US');

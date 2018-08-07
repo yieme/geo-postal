@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16620"]={"code":"16620","region":"Castilla-La Mancha","city":"La Alberca de Zancara","latitude":39.51458,"longitude":-2.49272}}(window,'GeoPostal','ES');

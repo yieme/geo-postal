@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07350"]={"code":"07350","region":"Auvergne-Rhone-Alpes","city":"Cruas","latitude":44.65544,"longitude":4.76144}}(window,'GeoPostal','FR');

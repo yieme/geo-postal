@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09300-000"]={"code":"09300-000","region":"Sao Paulo","city":"Maua","latitude":-23.66778,"longitude":-46.46139}}(window,'GeoPostal','BR');

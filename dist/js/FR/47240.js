@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47240"]={"code":"47240","region":"Nouvelle-Aquitaine","city":"Castelculier","latitude":44.17486,"longitude":0.69142}}(window,'GeoPostal','FR');

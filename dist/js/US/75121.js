@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75121"]={"code":"75121","region":"TX","city":"Copeville","latitude":33.0875,"longitude":-96.4186}}(window,'GeoPostal','US');

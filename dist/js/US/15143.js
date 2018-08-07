@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15143"]={"code":"15143","region":"Pennsylvania","city":"Sewickley","latitude":40.552229,"longitude":-80.153098}}(window,'GeoPostal','US');

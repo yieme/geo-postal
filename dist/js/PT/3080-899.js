@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3080-899"]={"code":"3080-899","region":"Coimbra","city":"Figueira da Foz","latitude":40.15085,"longitude":-8.86179}}(window,'GeoPostal','PT');

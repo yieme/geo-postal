@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50521"]={"code":"50521","region":"Punjab","city":"Zahir Pir","latitude":28.81239,"longitude":70.52405}}(window,'GeoPostal','PK');

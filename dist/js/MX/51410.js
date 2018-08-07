@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51410"]={"code":"51410","region":"Mexico","city":"Almoloya","latitude":18.95,"longitude":-100.11667}}(window,'GeoPostal','MX');

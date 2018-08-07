@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27358"]={"code":"27358","region":"North Carolina","city":"Summerfield","latitude":35.56822,"longitude":-77.40274}}(window,'GeoPostal','US');

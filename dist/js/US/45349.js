@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45349"]={"code":"45349","region":"OH","city":"North Hampton","latitude":39.9893,"longitude":-83.9389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48712"]={"code":"48712","region":"Nordrhein-Westfalen","city":"Gescher","latitude":51.954,"longitude":7.00481}}(window,'GeoPostal','DE');

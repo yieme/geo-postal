@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08103"]={"code":"08103","region":"New Jersey","city":"Camden","latitude":39.935772,"longitude":-75.111522}}(window,'GeoPostal','US');

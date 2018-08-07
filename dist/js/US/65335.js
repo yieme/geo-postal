@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65335"]={"code":"65335","region":"MO","city":"Ionia","latitude":38.5019,"longitude":-93.3224}}(window,'GeoPostal','US');

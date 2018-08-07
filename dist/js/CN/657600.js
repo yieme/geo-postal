@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["657600"]={"code":"657600","region":"Yunnan","city":"Jiaokui","latitude":27.59414,"longitude":104.00478}}(window,'GeoPostal','CN');

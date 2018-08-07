@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83636"]={"code":"83636","region":"ID","city":"Letha","latitude":43.8963,"longitude":-116.6462}}(window,'GeoPostal','US');

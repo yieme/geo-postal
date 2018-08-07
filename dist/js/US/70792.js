@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70792"]={"code":"70792","region":"LA","city":"Uncle Sam","latitude":30.0279,"longitude":-90.8028}}(window,'GeoPostal','US');

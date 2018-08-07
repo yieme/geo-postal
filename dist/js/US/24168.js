@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24168"]={"code":"24168","region":"Virginia","city":"Stanleytown","latitude":36.7443,"longitude":-79.96282}}(window,'GeoPostal','US');

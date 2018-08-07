@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36067"]={"code":"36067","region":"Alabama","city":"Prattville","latitude":32.486051,"longitude":-86.508546}}(window,'GeoPostal','US');

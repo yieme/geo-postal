@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E6E 1N9"]={"code":"E6E 1N9","region":"New Brunswick","city":"Millville","latitude":46.13072,"longitude":-67.19616}}(window,'GeoPostal','CA');

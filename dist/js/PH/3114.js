@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3114"]={"code":"3114","region":"Nueva Ecija","city":"Talavera","latitude":15.5883,"longitude":120.9192}}(window,'GeoPostal','PH');

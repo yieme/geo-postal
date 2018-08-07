@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2224"]={"code":"2224","region":"New South Wales","city":"Sylvania","latitude":-34.01667,"longitude":151.1}}(window,'GeoPostal','AU');

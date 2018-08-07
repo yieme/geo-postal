@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39352"]={"code":"39352","region":"MS","city":"Porterville","latitude":32.6368,"longitude":-88.4984}}(window,'GeoPostal','US');

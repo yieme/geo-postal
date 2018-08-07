@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49590"]={"code":"49590","region":"Pays-de-la-Loire","city":"Fontevraud-l'Abbaye","latitude":47.18333,"longitude":0.05}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19258"]={"code":"19258","region":"Mecklenburg-Vorpommern","city":"Schwartow","latitude":53.39792,"longitude":10.74806}}(window,'GeoPostal','DE');

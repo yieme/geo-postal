@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43984"]={"code":"43984","region":"OH","city":"New Rumley","latitude":40.4017,"longitude":-81.0309}}(window,'GeoPostal','US');

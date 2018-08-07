@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3N 2H9"]={"code":"E3N 2H9","region":"New Brunswick","city":"Listuguj","latitude":48.01175,"longitude":-66.7028}}(window,'GeoPostal','CA');

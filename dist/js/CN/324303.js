@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["324303"]={"code":"324303","region":"Zhejiang","city":"Fengjia","latitude":29.01582,"longitude":118.41465}}(window,'GeoPostal','CN');

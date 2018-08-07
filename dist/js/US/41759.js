@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41759"]={"code":"41759","region":"Kentucky","city":"Sassafras","latitude":37.2393,"longitude":-83.0274}}(window,'GeoPostal','US');

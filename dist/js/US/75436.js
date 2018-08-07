@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75436"]={"code":"75436","region":"TX","city":"Detroit","latitude":33.6627,"longitude":-95.2385}}(window,'GeoPostal','US');

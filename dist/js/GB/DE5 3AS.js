@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE5 3AS"]={"code":"DE5 3AS","region":"England","city":"Ripley","latitude":50.78333,"longitude":-1.76667}}(window,'GeoPostal','GB');

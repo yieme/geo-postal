@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 23"]={"code":"756 23","region":"Zlinsky kraj","city":"Jablunka","latitude":49.38355,"longitude":17.95021}}(window,'GeoPostal','CZ');

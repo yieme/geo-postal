@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84437"]={"code":"84437","region":"Bayern","city":"Oberornau","latitude":48.21549,"longitude":12.24412}}(window,'GeoPostal','DE');

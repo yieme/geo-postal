@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47009"]={"code":"47009","region":"Ternopilska oblast","city":"Kremenets'","latitude":50.09693,"longitude":25.72459}}(window,'GeoPostal','UA');

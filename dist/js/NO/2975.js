@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2975"]={"code":"2975","region":"Oppland","city":"Vang","latitude":61.12529,"longitude":8.5729}}(window,'GeoPostal','NO');

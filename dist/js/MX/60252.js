@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60252"]={"code":"60252","region":"Michoacan de Ocampo","city":"Paracho de Verduzco","latitude":19.65,"longitude":-102.06667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["710200"]={"code":"710200","region":"Shaanxi","city":"Luyuan","latitude":34.53596,"longitude":109.08508}}(window,'GeoPostal','CN');

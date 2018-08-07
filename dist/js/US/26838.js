@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26838"]={"code":"26838","region":"WV","city":"Milam","latitude":38.8125,"longitude":-79.0729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78410"]={"code":"78410","region":"Ile-de-France","city":"Bouafle","latitude":48.96463,"longitude":1.9012}}(window,'GeoPostal','FR');

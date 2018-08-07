@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66019"]={"code":"66019","region":"KS","city":"Clearview City","latitude":38.94,"longitude":-94.95}}(window,'GeoPostal','US');

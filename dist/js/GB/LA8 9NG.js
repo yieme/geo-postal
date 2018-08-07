@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 9NG"]={"code":"LA8 9NG","region":"England","city":"Nether Staveley","latitude":54.37186,"longitude":-2.81877}}(window,'GeoPostal','GB');

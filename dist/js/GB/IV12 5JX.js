@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV12 5JX"]={"code":"IV12 5JX","region":"Scotland","city":"Auldearn","latitude":57.57485,"longitude":-3.80416}}(window,'GeoPostal','GB');

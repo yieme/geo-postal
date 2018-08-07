@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9835"]={"code":"9835","region":"Free State","city":"Vrede","latitude":-27.42573,"longitude":29.16585}}(window,'GeoPostal','ZA');

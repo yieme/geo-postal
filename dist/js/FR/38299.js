@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38299"]={"code":"38299","region":"Auvergne-Rhone-Alpes","city":"Saint-Quentin-Fallavier","latitude":45.6305,"longitude":5.10924}}(window,'GeoPostal','FR');

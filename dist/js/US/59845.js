@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59845"]={"code":"59845","region":"Montana","city":"Hot Springs","latitude":47.597489,"longitude":-114.676563}}(window,'GeoPostal','US');

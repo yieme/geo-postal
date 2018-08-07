@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67354"]={"code":"67354","region":"Rheinland-Pfalz","city":"Heiligenstein","latitude":49.28084,"longitude":8.41693}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2256"]={"code":"2256","region":"New South Wales","city":"Woy Woy","latitude":-33.48433,"longitude":151.32471}}(window,'GeoPostal','AU');

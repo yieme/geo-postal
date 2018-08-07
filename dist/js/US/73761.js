@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73761"]={"code":"73761","region":"OK","city":"Nash","latitude":36.6961,"longitude":-98.0258}}(window,'GeoPostal','US');

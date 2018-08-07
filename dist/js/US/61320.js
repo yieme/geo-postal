@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61320"]={"code":"61320","region":"IL","city":"Dalzell","latitude":41.3547,"longitude":-89.1705}}(window,'GeoPostal','US');

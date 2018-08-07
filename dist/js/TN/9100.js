@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9100"]={"code":"9100","region":"Sidi Bouzid","city":"Sidi Bouzid","latitude":35.03823,"longitude":9.48494}}(window,'GeoPostal','TN');

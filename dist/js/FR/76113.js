@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76113"]={"code":"76113","region":"Normandie","city":"Sahurs","latitude":49.35863,"longitude":0.94256}}(window,'GeoPostal','FR');

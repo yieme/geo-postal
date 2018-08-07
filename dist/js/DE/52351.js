@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52351"]={"code":"52351","region":"Nordrhein-Westfalen","city":"Rommelsheim","latitude":50.78302,"longitude":6.55291}}(window,'GeoPostal','DE');

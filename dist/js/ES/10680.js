@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10680"]={"code":"10680","region":"Extremadura","city":"Malpartida de Plasencia","latitude":39.97962,"longitude":-6.04609}}(window,'GeoPostal','ES');

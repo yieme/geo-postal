@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7010"]={"code":"7010","region":"Tasmania","city":"Glenorchy","latitude":-42.83343,"longitude":147.27593}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8061"]={"code":"8061","region":"Overijssel","city":"Hasselt","latitude":52.59267,"longitude":6.09527}}(window,'GeoPostal','NL');

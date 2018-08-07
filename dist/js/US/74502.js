@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74502"]={"code":"74502","region":"OK","city":"Mcalester","latitude":34.9334,"longitude":-95.7697}}(window,'GeoPostal','US');

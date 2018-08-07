@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00623"]={"code":"00623","region":"Cabo Rojo","city":"Cabo Rojo","latitude":18.08663,"longitude":-67.14573}}(window,'GeoPostal','PR');

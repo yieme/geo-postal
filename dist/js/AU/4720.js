@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4720"]={"code":"4720","region":"Queensland","city":"Emerald","latitude":-23.52296,"longitude":148.15784}}(window,'GeoPostal','AU');

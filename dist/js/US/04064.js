@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04064"]={"code":"04064","region":"ME","city":"Old Orchard Beach","latitude":43.5254,"longitude":-70.3883}}(window,'GeoPostal','US');

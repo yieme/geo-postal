@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA13 0UW"]={"code":"CA13 0UW","region":"England","city":"Bridgefoot","latitude":54.63333,"longitude":-3.45}}(window,'GeoPostal','GB');

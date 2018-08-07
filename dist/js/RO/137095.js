@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137095"]={"code":"137095","region":"Dambovita","city":"Gaesti","latitude":44.71667,"longitude":25.31667}}(window,'GeoPostal','RO');

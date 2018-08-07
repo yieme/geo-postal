@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["590 34"]={"code":"590 34","region":"Kentriki Makedonia","city":"Angelochorion","latitude":40.67833,"longitude":22.19917}}(window,'GeoPostal','GR');

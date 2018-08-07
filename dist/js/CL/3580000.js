@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3580000"]={"code":"3580000","region":"Maule","city":"Linares","latitude":-35.85,"longitude":-71.6}}(window,'GeoPostal','CL');

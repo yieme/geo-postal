@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87310"]={"code":"87310","region":"Nouvelle-Aquitaine","city":"Saint-Laurent-sur-Gorre","latitude":45.77052,"longitude":0.95859}}(window,'GeoPostal','FR');

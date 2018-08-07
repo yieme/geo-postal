@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75669"]={"code":"75669","region":"Texas","city":"Long Branch","latitude":32.072778,"longitude":-94.567778}}(window,'GeoPostal','US');

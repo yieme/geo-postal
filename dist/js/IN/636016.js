@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636016"]={"code":"636016","region":"Tamil Nadu","city":"Jayamkondacholapuram","latitude":11.21667,"longitude":79.36667}}(window,'GeoPostal','IN');

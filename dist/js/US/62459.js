@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62459"]={"code":"62459","region":"Illinois","city":"Sainte Marie","latitude":38.9322,"longitude":-88.0233}}(window,'GeoPostal','US');

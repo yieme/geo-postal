@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721007"]={"code":"721007","region":"Shaanxi","city":"Baoji","latitude":34.353611,"longitude":107.375278}}(window,'GeoPostal','CN');

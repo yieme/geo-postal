@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17978"]={"code":"17978","region":"PA","city":"Spring Glen","latitude":40.6258,"longitude":-76.6218}}(window,'GeoPostal','US');

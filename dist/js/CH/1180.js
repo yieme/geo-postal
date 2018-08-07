@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1180"]={"code":"1180","region":"Vaud","city":"Rolle","latitude":46.4582,"longitude":6.33499}}(window,'GeoPostal','CH');

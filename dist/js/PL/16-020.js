@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-020"]={"code":"16-020","region":"Podlaskie","city":"Czarna Bialostocka","latitude":53.30509,"longitude":23.28146}}(window,'GeoPostal','PL');

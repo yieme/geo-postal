@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57462"]={"code":"57462","region":"Mykolaivska oblast","city":"Rybakivka","latitude":46.61712,"longitude":31.34995}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL29 9PA"]={"code":"LL29 9PA","region":"Wales","city":"Old Colwyn","latitude":53.28826,"longitude":-3.69299}}(window,'GeoPostal','GB');

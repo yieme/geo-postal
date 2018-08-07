@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50605"]={"code":"50605","region":"IA","city":"Aredale","latitude":42.8318,"longitude":-93.021}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57652"]={"code":"57652","region":"SD","city":"Ridgeview","latitude":45.2024,"longitude":-100.605}}(window,'GeoPostal','US');

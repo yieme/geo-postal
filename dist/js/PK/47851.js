@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47851"]={"code":"47851","region":"Punjab","city":"Gujar Khan","latitude":33.25579,"longitude":73.30255}}(window,'GeoPostal','PK');

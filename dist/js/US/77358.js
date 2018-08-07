@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77358"]={"code":"77358","region":"TX","city":"New Waverly","latitude":30.5354,"longitude":-95.4532}}(window,'GeoPostal','US');

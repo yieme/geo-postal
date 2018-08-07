@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98550"]={"code":"98550","region":"Washington","city":"Hoquiam","latitude":46.982912,"longitude":-123.892353}}(window,'GeoPostal','US');

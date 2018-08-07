@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0R 1B8"]={"code":"L0R 1B8","region":"Ontario","city":"Lincoln","latitude":43.16681,"longitude":-79.48291}}(window,'GeoPostal','CA');

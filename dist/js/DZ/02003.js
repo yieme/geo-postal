@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02003"]={"code":"02003","region":"Chlef","city":"Oued Fodda","latitude":36.18503,"longitude":1.53299}}(window,'GeoPostal','DZ');

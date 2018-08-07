@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN40 1NY"]={"code":"DN40 1NY","region":"England","city":"Immingham","latitude":53.61239,"longitude":-0.22219}}(window,'GeoPostal','GB');

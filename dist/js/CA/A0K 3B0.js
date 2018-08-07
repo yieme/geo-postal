@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 3B0"]={"code":"A0K 3B0","region":"Newfoundland and Labrador","city":"Hawke's Bay","latitude":50.60007,"longitude":-57.16491}}(window,'GeoPostal','CA');

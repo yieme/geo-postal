@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80102"]={"code":"80102","region":"Lvivska oblast","city":"Chervonograd","latitude":50.39105,"longitude":24.23514}}(window,'GeoPostal','UA');

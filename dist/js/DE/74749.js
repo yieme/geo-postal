@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74749"]={"code":"74749","region":"Baden-Wurttemberg","city":"Bronnacker","latitude":49.44413,"longitude":9.48316}}(window,'GeoPostal','DE');

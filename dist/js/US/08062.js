@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08062"]={"code":"08062","region":"New Jersey","city":"Mullica Hill","latitude":39.7217,"longitude":-75.2246}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917030"]={"code":"917030","region":"Calarasi","city":"Chiselet","latitude":44.18333,"longitude":26.85}}(window,'GeoPostal','RO');

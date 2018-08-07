@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0T 1Z0"]={"code":"V0T 1Z0","region":"British Columbia","city":"Bella Bella","latitude":52.164325,"longitude":-128.155931}}(window,'GeoPostal','CA');

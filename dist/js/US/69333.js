@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69333"]={"code":"69333","region":"NE","city":"Ashby","latitude":41.9776,"longitude":-101.9636}}(window,'GeoPostal','US');

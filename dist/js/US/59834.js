@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59834"]={"code":"59834","region":"MT","city":"Frenchtown","latitude":47.0471,"longitude":-114.2683}}(window,'GeoPostal','US');

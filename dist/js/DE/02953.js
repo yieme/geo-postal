@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02953"]={"code":"02953","region":"Sachsen","city":"Berg","latitude":51.54355,"longitude":14.71244}}(window,'GeoPostal','DE');

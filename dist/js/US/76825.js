@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76825"]={"code":"76825","region":"Texas","city":"Brady","latitude":31.13517,"longitude":-99.33506}}(window,'GeoPostal','US');

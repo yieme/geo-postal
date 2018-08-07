@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 2QT"]={"code":"AB45 2QT","region":"Scotland","city":"Portsoy","latitude":57.68144,"longitude":-2.68956}}(window,'GeoPostal','GB');

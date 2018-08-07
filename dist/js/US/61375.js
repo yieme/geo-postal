@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61375"]={"code":"61375","region":"Illinois","city":"Varna","latitude":41.03667,"longitude":-89.22472}}(window,'GeoPostal','US');

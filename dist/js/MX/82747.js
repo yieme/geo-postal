@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82747"]={"code":"82747","region":"Sinaloa","city":"El Carrizo","latitude":24.02611,"longitude":-106.88139}}(window,'GeoPostal','MX');

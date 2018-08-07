@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49776"]={"code":"49776","region":"Michigan","city":"Posen","latitude":45.259567,"longitude":-83.687101}}(window,'GeoPostal','US');

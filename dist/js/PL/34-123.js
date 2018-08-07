@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-123"]={"code":"34-123","region":"Malopolskie","city":"Chocznia","latitude":49.87417,"longitude":19.45438}}(window,'GeoPostal','PL');

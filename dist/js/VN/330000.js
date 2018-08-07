@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330000"]={"code":"330000","region":"Lao Cai","city":"Lao Cai","latitude":22.48333,"longitude":103.95}}(window,'GeoPostal','VN');

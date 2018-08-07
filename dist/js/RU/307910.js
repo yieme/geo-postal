@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307910"]={"code":"307910","region":"Kurskaya oblast'","city":"Belaya","latitude":51.05444,"longitude":35.71611}}(window,'GeoPostal','RU');

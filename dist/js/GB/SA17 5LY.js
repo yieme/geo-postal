@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA17 5LY"]={"code":"SA17 5LY","region":"Wales","city":"Meinciau","latitude":51.77306,"longitude":-4.23167}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG12 5LR"]={"code":"DG12 5LR","region":"Scotland","city":"Brydekirk","latitude":55.02233,"longitude":-3.2763}}(window,'GeoPostal','GB');

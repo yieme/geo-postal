@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68360"]={"code":"68360","region":"Grand-Est","city":"Soultz-Haut-Rhin","latitude":47.8874,"longitude":7.23042}}(window,'GeoPostal','FR');

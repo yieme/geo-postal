@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2932"]={"code":"2932","region":"Komarom-Esztergom","city":"Almasfuzito","latitude":47.72752,"longitude":18.26538}}(window,'GeoPostal','HU');

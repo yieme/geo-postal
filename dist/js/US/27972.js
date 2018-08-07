@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27972"]={"code":"27972","region":"North Carolina","city":"Salvo","latitude":35.54028,"longitude":-75.47306}}(window,'GeoPostal','US');

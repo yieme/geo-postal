@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077165"]={"code":"077165","region":"Ilfov","city":"Snagov","latitude":44.7,"longitude":26.18333}}(window,'GeoPostal','RO');

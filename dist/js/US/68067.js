@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68067"]={"code":"68067","region":"Nebraska","city":"Walthill","latitude":42.149634,"longitude":-96.489759}}(window,'GeoPostal','US');

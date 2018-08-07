@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67422"]={"code":"67422","region":"KS","city":"Bennington","latitude":39.0224,"longitude":-97.6031}}(window,'GeoPostal','US');

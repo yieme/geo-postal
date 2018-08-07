@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43759"]={"code":"43759","region":"Ohio","city":"Morristown","latitude":40.062802,"longitude":-81.071457}}(window,'GeoPostal','US');

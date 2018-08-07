@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96119"]={"code":"96119","region":"CA","city":"Madeline","latitude":40.9766,"longitude":-120.5548}}(window,'GeoPostal','US');

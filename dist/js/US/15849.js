@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15849"]={"code":"15849","region":"Pennsylvania","city":"Penfield","latitude":41,"longitude":-78.47}}(window,'GeoPostal','US');

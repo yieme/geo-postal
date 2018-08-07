@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612380"]={"code":"612380","region":"Penzenskaya oblast'","city":"Gorodishche","latitude":53.2775,"longitude":45.7017}}(window,'GeoPostal','RU');

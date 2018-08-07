@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24816"]={"code":"24816","region":"West Virginia","city":"Big Sandy","latitude":37.464167,"longitude":-81.698333}}(window,'GeoPostal','US');

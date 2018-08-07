@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9790"]={"code":"9790","region":"Free State","city":"Thaba Nchu","latitude":-29.20932,"longitude":26.83898}}(window,'GeoPostal','ZA');

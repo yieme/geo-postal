@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH9 1SH"]={"code":"EH9 1SH","region":"Scotland","city":"Newington","latitude":55.93738,"longitude":-3.17848}}(window,'GeoPostal','GB');

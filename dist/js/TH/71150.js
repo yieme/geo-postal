@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71150"]={"code":"71150","region":"Kanchanaburi","city":"Sai Yok","latitude":14.1194,"longitude":99.14206}}(window,'GeoPostal','TH');

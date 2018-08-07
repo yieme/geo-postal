@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["551 31"]={"code":"551 31","region":"Kentriki Makedonia","city":"Kalamaria","latitude":40.5825,"longitude":22.95028}}(window,'GeoPostal','GR');

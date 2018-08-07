@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69622"]={"code":"69622","region":"Auvergne-Rhone-Alpes","city":"Villeurbanne","latitude":45.76667,"longitude":4.88333}}(window,'GeoPostal','FR');

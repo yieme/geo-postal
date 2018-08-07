@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59261"]={"code":"59261","region":"Montana","city":"Saco","latitude":48.457419,"longitude":-107.341315}}(window,'GeoPostal','US');

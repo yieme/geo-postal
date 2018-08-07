@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202414"]={"code":"202414","region":"Uttar Pradesh","city":"Bilari","latitude":28.63333,"longitude":78.8}}(window,'GeoPostal','IN');

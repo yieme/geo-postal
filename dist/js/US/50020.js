@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50020"]={"code":"50020","region":"Iowa","city":"Anita","latitude":41.445962,"longitude":-94.766265}}(window,'GeoPostal','US');

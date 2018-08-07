@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09350"]={"code":"09350","region":"Aydin","city":"Nazilli","latitude":37.91631,"longitude":28.32225}}(window,'GeoPostal','TR');

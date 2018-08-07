@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59542"]={"code":"59542","region":"MT","city":"Turner","latitude":48.8328,"longitude":-108.3961}}(window,'GeoPostal','US');

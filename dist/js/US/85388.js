@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85388"]={"code":"85388","region":"AZ","city":"Surprise","latitude":33.6134,"longitude":-112.4512}}(window,'GeoPostal','US');

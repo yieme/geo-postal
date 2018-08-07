@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9846"]={"code":"9846","region":"Finnmark","city":"Tana bru","latitude":70.19909,"longitude":28.19039}}(window,'GeoPostal','NO');

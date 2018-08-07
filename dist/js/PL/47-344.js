@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-344"]={"code":"47-344","region":"Opolskie","city":"Walce","latitude":50.37322,"longitude":18.00427}}(window,'GeoPostal','PL');

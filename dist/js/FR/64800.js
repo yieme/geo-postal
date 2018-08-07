@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64800"]={"code":"64800","region":"Nouvelle-Aquitaine","city":"Mirepeix","latitude":43.18333,"longitude":-0.25}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08836"]={"code":"08836","region":"New Jersey","city":"Martinsville","latitude":40.597454,"longitude":-74.555975}}(window,'GeoPostal','US');

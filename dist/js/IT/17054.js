@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17054"]={"code":"17054","region":"Liguria","city":"Boissano","latitude":44.13583,"longitude":8.22155}}(window,'GeoPostal','IT');

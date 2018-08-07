@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 3TR"]={"code":"NE66 3TR","region":"England","city":"Craster","latitude":55.47207,"longitude":-1.5928}}(window,'GeoPostal','GB');

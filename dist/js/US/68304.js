@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68304"]={"code":"68304","region":"NE","city":"Alvo","latitude":40.8992,"longitude":-96.4036}}(window,'GeoPostal','US');

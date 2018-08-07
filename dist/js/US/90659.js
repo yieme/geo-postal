@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90659"]={"code":"90659","region":"CA","city":"Norwalk","latitude":33.9,"longitude":-118.07}}(window,'GeoPostal','US');

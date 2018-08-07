@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59847"]={"code":"59847","region":"MT","city":"Lolo","latitude":46.7585,"longitude":-114.1097}}(window,'GeoPostal','US');

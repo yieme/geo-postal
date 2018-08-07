@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04961"]={"code":"04961","region":"Maine","city":"New Portland","latitude":45.012925,"longitude":-70.084101}}(window,'GeoPostal','US');

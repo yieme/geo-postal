@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452260"]={"code":"452260","region":"Bashkortostan, Respublika","city":"Verkhneyarkeyevo","latitude":55.45046,"longitude":54.31455}}(window,'GeoPostal','RU');

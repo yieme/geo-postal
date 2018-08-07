@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75700"]={"code":"75700","region":"Ardahan","city":"Gole","latitude":40.793352,"longitude":42.609533}}(window,'GeoPostal','TR');

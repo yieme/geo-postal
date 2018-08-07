@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N1M 0A1"]={"code":"N1M 0A1","region":"Ontario","city":"Nicholson","latitude":43.70613,"longitude":-80.36295}}(window,'GeoPostal','CA');

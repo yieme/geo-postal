@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05012"]={"code":"05012","region":"Escuintla","city":"San Vicente Pacaya","latitude":14.41611,"longitude":-90.63917}}(window,'GeoPostal','GT');

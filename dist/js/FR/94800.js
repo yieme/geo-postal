@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94800"]={"code":"94800","region":"Ile-de-France","city":"Villejuif","latitude":48.7939,"longitude":2.35992}}(window,'GeoPostal','FR');

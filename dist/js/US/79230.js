@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79230"]={"code":"79230","region":"TX","city":"Dodson","latitude":34.7644,"longitude":-100.0286}}(window,'GeoPostal','US');

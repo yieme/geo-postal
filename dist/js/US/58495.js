@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58495"]={"code":"58495","region":"North Dakota","city":"Wishek","latitude":46.25692,"longitude":-99.55706}}(window,'GeoPostal','US');

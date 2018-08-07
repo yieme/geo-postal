@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP24 3TQ"]={"code":"IP24 3TQ","region":"England","city":"Elveden","latitude":52.3871,"longitude":0.67609}}(window,'GeoPostal','GB');

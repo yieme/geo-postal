@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59721"]={"code":"59721","region":"Montana","city":"Cardwell","latitude":45.862754,"longitude":-111.977608}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 6UH"]={"code":"IV2 6UH","region":"Scotland","city":"Errogie","latitude":57.26867,"longitude":-4.39535}}(window,'GeoPostal','GB');

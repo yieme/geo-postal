@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96728"]={"code":"96728","region":"HI","city":"Honomu","latitude":19.8728,"longitude":-155.1177}}(window,'GeoPostal','US');

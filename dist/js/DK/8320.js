@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8320"]={"code":"8320","region":"Midtjylland","city":"Marslet","latitude":56.0636,"longitude":10.1623}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73626"]={"code":"73626","region":"Oklahoma","city":"Canute","latitude":35.418475,"longitude":-99.280989}}(window,'GeoPostal','US');

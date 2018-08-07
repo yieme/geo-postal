@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4421"]={"code":"4421","region":"Queensland","city":"Tara","latitude":-27.27613,"longitude":150.45676}}(window,'GeoPostal','AU');

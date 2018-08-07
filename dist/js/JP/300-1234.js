@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300-1234"]={"code":"300-1234","region":"Ibaraki","city":"Ushiku","latitude":35.983,"longitude":140.15}}(window,'GeoPostal','JP');

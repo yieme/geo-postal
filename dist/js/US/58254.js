@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58254"]={"code":"58254","region":"North Dakota","city":"McVille","latitude":47.77668,"longitude":-98.1648}}(window,'GeoPostal','US');

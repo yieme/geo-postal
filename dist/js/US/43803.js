@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43803"]={"code":"43803","region":"OH","city":"Bakersville","latitude":40.3572,"longitude":-81.6436}}(window,'GeoPostal','US');

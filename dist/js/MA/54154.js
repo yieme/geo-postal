@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54154"]={"code":"54154","region":"Meknes-Tafilalet","city":"Boumia","latitude":32.7236,"longitude":-5.1025}}(window,'GeoPostal','MA');

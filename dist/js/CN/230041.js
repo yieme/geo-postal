@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230041"]={"code":"230041","region":"Anhui","city":"Hefei","latitude":31.86389,"longitude":117.28083}}(window,'GeoPostal','CN');

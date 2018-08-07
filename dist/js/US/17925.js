@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17925"]={"code":"17925","region":"PA","city":"Brockton","latitude":40.7508,"longitude":-76.0629}}(window,'GeoPostal','US');

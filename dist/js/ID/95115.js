@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95115"]={"code":"95115","region":"Sulawesi Utara","city":"Manado","latitude":1.487,"longitude":124.8455}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77484"]={"code":"77484","region":"Texas","city":"Waller","latitude":30.074498,"longitude":-95.891314}}(window,'GeoPostal','US');

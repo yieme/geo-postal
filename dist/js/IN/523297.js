@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["523297"]={"code":"523297","region":"Andhra Pradesh","city":"Addanki","latitude":15.81667,"longitude":79.98333}}(window,'GeoPostal','IN');

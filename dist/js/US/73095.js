@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73095"]={"code":"73095","region":"OK","city":"Wayne","latitude":34.9154,"longitude":-97.329}}(window,'GeoPostal','US');

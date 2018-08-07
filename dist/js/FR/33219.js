@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33219"]={"code":"33219","region":"Nouvelle-Aquitaine","city":"Langon","latitude":44.55,"longitude":-0.25}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-200"]={"code":"09-200","region":"Mazowieckie","city":"Sierpc","latitude":52.8568,"longitude":19.66913}}(window,'GeoPostal','PL');

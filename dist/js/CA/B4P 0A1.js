@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4P 0A1"]={"code":"B4P 0A1","region":"Nova Scotia","city":"Wolfville","latitude":45.08345,"longitude":-64.36546}}(window,'GeoPostal','CA');

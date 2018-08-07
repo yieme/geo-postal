@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68577"]={"code":"68577","region":"Oaxaca","city":"San Bartolome Ayautla","latitude":18.03333,"longitude":-96.66667}}(window,'GeoPostal','MX');

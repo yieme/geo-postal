@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47150"]={"code":"47150","region":"Sakon Nakhon","city":"Warichaphum","latitude":17.29409,"longitude":103.63816}}(window,'GeoPostal','TH');

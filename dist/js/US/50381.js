@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50381"]={"code":"50381","region":"IA","city":"Des Moines","latitude":41.6727,"longitude":-93.5722}}(window,'GeoPostal','US');

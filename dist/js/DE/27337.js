@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27337"]={"code":"27337","region":"Niedersachsen","city":"Neu Wulmstorf","latitude":52.92209,"longitude":9.06955}}(window,'GeoPostal','DE');

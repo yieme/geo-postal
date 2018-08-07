@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679 06"]={"code":"679 06","region":"Jihomoravsky kraj","city":"Jedovnice","latitude":49.34453,"longitude":16.75595}}(window,'GeoPostal','CZ');

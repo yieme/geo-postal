@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96729"]={"code":"96729","region":"HI","city":"Hoolehua","latitude":21.173,"longitude":-157.0791}}(window,'GeoPostal','US');

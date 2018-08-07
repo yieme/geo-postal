@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU29 0JY"]={"code":"GU29 0JY","region":"England","city":"Elsted","latitude":50.96999,"longitude":-0.83899}}(window,'GeoPostal','GB');

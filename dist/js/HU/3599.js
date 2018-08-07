@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3599"]={"code":"3599","region":"Borsod-Abauj-Zemplen","city":"Sajoszoged","latitude":47.95,"longitude":21}}(window,'GeoPostal','HU');

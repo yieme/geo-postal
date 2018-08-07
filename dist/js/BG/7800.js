@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7800"]={"code":"7800","region":"Targovishte","city":"Popovo","latitude":43.35,"longitude":26.23333}}(window,'GeoPostal','BG');

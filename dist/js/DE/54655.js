@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54655"]={"code":"54655","region":"Rheinland-Pfalz","city":"Malberg","latitude":50.05,"longitude":6.58333}}(window,'GeoPostal','DE');

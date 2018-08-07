@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG24 2SS"]={"code":"NG24 2SS","region":"England","city":"Balderton","latitude":53.06667,"longitude":-0.78333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22713"]={"code":"22713","region":"Virginia","city":"Boston","latitude":37.609167,"longitude":-75.842778}}(window,'GeoPostal','US');

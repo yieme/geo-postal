@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62924"]={"code":"62924","region":"IL","city":"De Soto","latitude":37.8147,"longitude":-89.2218}}(window,'GeoPostal','US');

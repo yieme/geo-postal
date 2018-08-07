@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97523"]={"code":"97523","region":"Oregon","city":"Cave Junction","latitude":42.13961,"longitude":-123.624728}}(window,'GeoPostal','US');

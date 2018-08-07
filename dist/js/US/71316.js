@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71316"]={"code":"71316","region":"Louisiana","city":"Acme","latitude":31.259519,"longitude":-91.767267}}(window,'GeoPostal','US');

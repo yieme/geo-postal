@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84118"]={"code":"84118","region":"Utah","city":"West Valley City","latitude":40.653,"longitude":-111.99066}}(window,'GeoPostal','US');

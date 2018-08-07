@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38581"]={"code":"38581","region":"Tennessee","city":"Rock Island","latitude":35.73084,"longitude":-85.65018}}(window,'GeoPostal','US');

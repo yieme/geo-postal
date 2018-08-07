@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58016"]={"code":"58016","region":"ND","city":"Clifford","latitude":47.3569,"longitude":-97.41}}(window,'GeoPostal','US');

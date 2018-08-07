@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2Y0"]={"code":"T0H 2Y0","region":"Alberta","city":"Rainbow Lake","latitude":58.50011,"longitude":-119.38624}}(window,'GeoPostal','CA');

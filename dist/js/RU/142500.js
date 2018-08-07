@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142500"]={"code":"142500","region":"Moskovskaya oblast'","city":"Pavlovskiy Posad","latitude":55.78071,"longitude":38.65448}}(window,'GeoPostal','RU');

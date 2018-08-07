@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02537"]={"code":"02537","region":"MA","city":"East Sandwich","latitude":41.7283,"longitude":-70.44}}(window,'GeoPostal','US');

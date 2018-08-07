@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38073"]={"code":"38073","region":"Trentino-Alto Adige","city":"Vigo di Fassa","latitude":46.41862,"longitude":11.67338}}(window,'GeoPostal','IT');

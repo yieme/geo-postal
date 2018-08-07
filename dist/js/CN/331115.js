@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331115"]={"code":"331115","region":"Jiangxi","city":"Licun","latitude":27.99504,"longitude":115.69898}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46300"]={"code":"46300","region":"Occitanie","city":"Gourdon","latitude":44.73333,"longitude":1.38333}}(window,'GeoPostal','FR');

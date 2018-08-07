@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57471"]={"code":"57471","region":"South Dakota","city":"Roscoe","latitude":45.42912,"longitude":-99.33678}}(window,'GeoPostal','US');

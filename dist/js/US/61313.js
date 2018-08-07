@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61313"]={"code":"61313","region":"IL","city":"Blackstone","latitude":41.0719,"longitude":-88.6498}}(window,'GeoPostal','US');

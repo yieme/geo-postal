@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08205"]={"code":"08205","region":"New Jersey","city":"Absecon","latitude":39.42009,"longitude":-74.49984}}(window,'GeoPostal','US');

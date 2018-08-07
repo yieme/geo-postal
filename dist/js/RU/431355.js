@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431355"]={"code":"431355","region":"Mordoviya, Respublika","city":"Kovylkino","latitude":54.03876,"longitude":43.91386}}(window,'GeoPostal','RU');

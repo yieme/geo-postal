@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84020"]={"code":"84020","region":"Utah","city":"Draper","latitude":40.52467,"longitude":-111.86382}}(window,'GeoPostal','US');

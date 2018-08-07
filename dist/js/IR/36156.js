@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36156"]={"code":"36156","region":"Semnan","city":"Semnan","latitude":35.57291,"longitude":53.39714}}(window,'GeoPostal','IR');

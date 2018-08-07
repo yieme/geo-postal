@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21101"]={"code":"21101","region":"Chhukha","city":"Phuntsholing","latitude":26.85164,"longitude":89.38837}}(window,'GeoPostal','BT');

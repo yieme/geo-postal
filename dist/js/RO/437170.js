@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437170"]={"code":"437170","region":"Maramures","city":"Bogdan Voda","latitude":47.69197,"longitude":24.26605}}(window,'GeoPostal','RO');

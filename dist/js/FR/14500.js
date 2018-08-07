@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14500"]={"code":"14500","region":"Normandie","city":"Vaudry","latitude":48.8413,"longitude":-0.85309}}(window,'GeoPostal','FR');

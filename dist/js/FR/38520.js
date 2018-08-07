@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38520"]={"code":"38520","region":"Auvergne-Rhone-Alpes","city":"Le Bourg-d'Oisans","latitude":45.0558,"longitude":6.0303}}(window,'GeoPostal','FR');

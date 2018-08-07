@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88113"]={"code":"88113","region":"New Mexico","city":"Causey","latitude":33.860751,"longitude":-103.138788}}(window,'GeoPostal','US');

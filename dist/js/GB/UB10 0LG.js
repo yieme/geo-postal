@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB10 0LG"]={"code":"UB10 0LG","region":"England","city":"Hillingdon","latitude":51.53291,"longitude":-0.45293}}(window,'GeoPostal','GB');

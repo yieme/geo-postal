@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-300"]={"code":"46-300","region":"Opolskie","city":"Olesno","latitude":50.87698,"longitude":18.42094}}(window,'GeoPostal','PL');

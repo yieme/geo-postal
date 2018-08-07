@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["101"]={"code":"101","region":"Antsiranana","city":"Antsiranana","latitude":-12.2787,"longitude":49.29171}}(window,'GeoPostal','MG');

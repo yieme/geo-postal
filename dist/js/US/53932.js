@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53932"]={"code":"53932","region":"WI","city":"Fall River","latitude":43.4008,"longitude":-89.0625}}(window,'GeoPostal','US');

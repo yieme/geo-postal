@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3010"]={"code":"3010","region":"Bulacan","city":"Diliman","latitude":15.025,"longitude":120.9502}}(window,'GeoPostal','PH');

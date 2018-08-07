@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12032"]={"code":"12032","region":"Occitanie","city":"Rodez","latitude":44.35258,"longitude":2.57338}}(window,'GeoPostal','FR');

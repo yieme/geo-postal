@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11378"]={"code":"11378","region":"New York","city":"Maspeth","latitude":40.72306,"longitude":-73.9125}}(window,'GeoPostal','US');

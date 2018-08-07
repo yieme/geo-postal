@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330"]={"code":"7330","region":"Midtjylland","city":"Brande","latitude":55.93814,"longitude":9.12178}}(window,'GeoPostal','DK');

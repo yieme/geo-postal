@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624475"]={"code":"624475","region":"Sverdlovskaya oblast'","city":"Cheremukhovo","latitude":60.34842,"longitude":59.98507}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71429"]={"code":"71429","region":"LA","city":"Florien","latitude":31.4275,"longitude":-93.5179}}(window,'GeoPostal','US');

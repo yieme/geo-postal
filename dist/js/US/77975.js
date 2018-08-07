@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77975"]={"code":"77975","region":"Texas","city":"Moulton","latitude":29.57389,"longitude":-97.14639}}(window,'GeoPostal','US');

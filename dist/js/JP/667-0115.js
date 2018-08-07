@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["667-0115"]={"code":"667-0115","region":"Hyogo","city":"Yabu","latitude":35.4,"longitude":134.767}}(window,'GeoPostal','JP');

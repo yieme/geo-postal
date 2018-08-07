@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27138"]={"code":"27138","region":"Normandie","city":"Verneuil-sur-Avre","latitude":48.73949,"longitude":0.92731}}(window,'GeoPostal','FR');

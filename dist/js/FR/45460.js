@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45460"]={"code":"45460","region":"Centre-Val de Loire","city":"Bray-en-Val","latitude":47.82856,"longitude":2.36644}}(window,'GeoPostal','FR');

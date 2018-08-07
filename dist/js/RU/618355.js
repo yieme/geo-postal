@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618355"]={"code":"618355","region":"Permskiy kray","city":"Kizel","latitude":59.04709,"longitude":57.64767}}(window,'GeoPostal','RU');

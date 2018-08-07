@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57480-000"]={"code":"57480-000","region":"Alagoas","city":"Delmiro Gouveia","latitude":-9.38861,"longitude":-37.99917}}(window,'GeoPostal','BR');

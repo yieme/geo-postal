@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1H2"]={"code":"V0H 1H2","region":"British Columbia","city":"Grand Forks","latitude":49.032851,"longitude":-118.467536}}(window,'GeoPostal','CA');

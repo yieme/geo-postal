@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2230"]={"code":"2230","region":"Sofia","city":"Kostinbrod","latitude":42.81667,"longitude":23.21667}}(window,'GeoPostal','BG');

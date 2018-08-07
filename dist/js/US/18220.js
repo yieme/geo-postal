@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18220"]={"code":"18220","region":"PA","city":"Delano","latitude":40.8389,"longitude":-76.0694}}(window,'GeoPostal','US');

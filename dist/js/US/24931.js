@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24931"]={"code":"24931","region":"West Virginia","city":"Crawley","latitude":37.93472,"longitude":-80.65194}}(window,'GeoPostal','US');

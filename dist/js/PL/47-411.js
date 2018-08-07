@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-411"]={"code":"47-411","region":"Slaskie","city":"Rudnik","latitude":50.12729,"longitude":18.18598}}(window,'GeoPostal','PL');

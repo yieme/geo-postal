@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23222"]={"code":"23222","region":"Zadarska zupanija","city":"Galovac","latitude":44.07139,"longitude":15.39333}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-330"]={"code":"96-330","region":"Mazowieckie","city":"Mrozy","latitude":52.01975,"longitude":20.36702}}(window,'GeoPostal','PL');

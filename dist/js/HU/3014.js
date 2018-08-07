@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3014"]={"code":"3014","region":"Heves","city":"Hort","latitude":47.69081,"longitude":19.7893}}(window,'GeoPostal','HU');

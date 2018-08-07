@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75410"]={"code":"75410","region":"Texas","city":"Alba","latitude":32.792667,"longitude":-95.63532}}(window,'GeoPostal','US');

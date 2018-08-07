@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95567"]={"code":"95567","region":"California","city":"Smith River","latitude":41.92806,"longitude":-124.14694}}(window,'GeoPostal','US');

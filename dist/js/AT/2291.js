@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2291"]={"code":"2291","region":"Niederosterreich","city":"Lassee","latitude":48.22479,"longitude":16.8223}}(window,'GeoPostal','AT');

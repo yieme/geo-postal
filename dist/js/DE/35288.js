@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35288"]={"code":"35288","region":"Hessen","city":"Wohra","latitude":50.93337,"longitude":8.94748}}(window,'GeoPostal','DE');

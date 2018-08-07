@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH61 0HL"]={"code":"CH61 0HL","region":"England","city":"Thurstaston","latitude":53.34913,"longitude":-3.13255}}(window,'GeoPostal','GB');

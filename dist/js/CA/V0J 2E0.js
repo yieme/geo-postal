@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 2E0"]={"code":"V0J 2E0","region":"British Columbia","city":"McBride","latitude":53.29995,"longitude":-120.16932}}(window,'GeoPostal','CA');

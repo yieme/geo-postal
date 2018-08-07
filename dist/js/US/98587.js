@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98587"]={"code":"98587","region":"Washington","city":"Taholah","latitude":47.38836,"longitude":-124.20937}}(window,'GeoPostal','US');

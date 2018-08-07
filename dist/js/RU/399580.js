@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399580"]={"code":"399580","region":"Lipetskaya oblast'","city":"Volovo","latitude":52.02659,"longitude":37.8854}}(window,'GeoPostal','RU');

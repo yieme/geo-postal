@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331123"]={"code":"331123","region":"Jiangxi","city":"Quangang","latitude":28.15594,"longitude":115.59658}}(window,'GeoPostal','CN');

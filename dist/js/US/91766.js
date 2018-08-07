@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91766"]={"code":"91766","region":"California","city":"Pomona","latitude":34.041742,"longitude":-117.761853}}(window,'GeoPostal','US');

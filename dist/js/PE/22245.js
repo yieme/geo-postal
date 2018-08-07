@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22245"]={"code":"22245","region":"San Martin","city":"Uchiza","latitude":-8.45917,"longitude":-76.46333}}(window,'GeoPostal','PE');

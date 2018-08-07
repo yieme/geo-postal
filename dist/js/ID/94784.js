@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94784"]={"code":"94784","region":"Sulawesi Tengah","city":"Luwuk","latitude":-0.9516,"longitude":122.7875}}(window,'GeoPostal','ID');

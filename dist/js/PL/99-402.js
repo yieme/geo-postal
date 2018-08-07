@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-402"]={"code":"99-402","region":"Lodzkie","city":"Lowicz","latitude":52.10714,"longitude":19.94525}}(window,'GeoPostal','PL');

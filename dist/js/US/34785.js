@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34785"]={"code":"34785","region":"Florida","city":"Wildwood","latitude":28.86526,"longitude":-82.03897}}(window,'GeoPostal','US');

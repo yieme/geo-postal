@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 4LU"]={"code":"DG1 4LU","region":"Scotland","city":"Mouswald","latitude":55.03998,"longitude":-3.46466}}(window,'GeoPostal','GB');

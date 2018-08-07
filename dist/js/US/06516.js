@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06516"]={"code":"06516","region":"Connecticut","city":"West Haven","latitude":41.27136,"longitude":-72.96264}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65638"]={"code":"65638","region":"MO","city":"Drury","latitude":36.9319,"longitude":-92.3664}}(window,'GeoPostal','US');

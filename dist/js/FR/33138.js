@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33138"]={"code":"33138","region":"Nouvelle-Aquitaine","city":"Lanton","latitude":44.70478,"longitude":-1.03562}}(window,'GeoPostal','FR');

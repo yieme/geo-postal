@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3779"]={"code":"3779","region":"Victoria","city":"Marysville","latitude":-37.50976,"longitude":145.74809}}(window,'GeoPostal','AU');

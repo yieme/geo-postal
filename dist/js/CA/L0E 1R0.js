@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0E 1R0"]={"code":"L0E 1R0","region":"Ontario","city":"Sutton West","latitude":44.277452,"longitude":-79.308379}}(window,'GeoPostal','CA');

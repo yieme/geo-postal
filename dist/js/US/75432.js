@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75432"]={"code":"75432","region":"Texas","city":"Cooper","latitude":31.24324,"longitude":-95.58217}}(window,'GeoPostal','US');

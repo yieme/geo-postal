@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2AS"]={"code":"SY13 2AS","region":"England","city":"Fauls","latitude":52.89037,"longitude":-2.61286}}(window,'GeoPostal','GB');

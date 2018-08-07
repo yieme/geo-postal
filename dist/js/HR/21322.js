@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21322"]={"code":"21322","region":"Splitsko-dalmatinska zupanija","city":"Donja Brela","latitude":43.36889,"longitude":16.93417}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78390"]={"code":"78390","region":"Dalarnas lan","city":"Saeter","latitude":60.34778,"longitude":15.75051}}(window,'GeoPostal','SE');

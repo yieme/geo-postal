@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2330"]={"code":"2330","region":"Berovo","city":"Berovo","latitude":41.70306,"longitude":22.85778}}(window,'GeoPostal','MK');

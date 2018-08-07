@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1HW"]={"code":"SA3 1HW","region":"Wales","city":"Llangennith","latitude":51.60056,"longitude":-4.27083}}(window,'GeoPostal','GB');

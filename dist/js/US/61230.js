@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61230"]={"code":"61230","region":"IL","city":"Albany","latitude":41.7659,"longitude":-90.2081}}(window,'GeoPostal','US');

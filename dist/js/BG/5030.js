@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5030"]={"code":"5030","region":"Sofia (stolitsa)","city":"Sofia","latitude":42.69751,"longitude":23.32415}}(window,'GeoPostal','BG');

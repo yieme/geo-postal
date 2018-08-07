@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13410"]={"code":"13410","region":"NY","city":"Nelliston","latitude":42.9379,"longitude":-74.6117}}(window,'GeoPostal','US');

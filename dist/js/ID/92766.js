@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92766"]={"code":"92766","region":"Sulawesi Selatan","city":"Kadai","latitude":-4.8083,"longitude":120.3423}}(window,'GeoPostal','ID');

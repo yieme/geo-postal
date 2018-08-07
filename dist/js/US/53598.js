@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53598"]={"code":"53598","region":"WI","city":"Windsor","latitude":43.2078,"longitude":-89.3418}}(window,'GeoPostal','US');

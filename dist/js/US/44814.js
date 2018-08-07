@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44814"]={"code":"44814","region":"OH","city":"Berlin Heights","latitude":41.3205,"longitude":-82.4777}}(window,'GeoPostal','US');

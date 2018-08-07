@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 66"]={"code":"747 66","region":"Zlinsky kraj","city":"Dolni Lhota","latitude":49.84236,"longitude":18.09241}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52339"]={"code":"52339","region":"IA","city":"Tama","latitude":41.9616,"longitude":-92.58}}(window,'GeoPostal','US');

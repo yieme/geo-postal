@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28037"]={"code":"28037","region":"North Carolina","city":"Denver","latitude":35.512754,"longitude":-81.017079}}(window,'GeoPostal','US');

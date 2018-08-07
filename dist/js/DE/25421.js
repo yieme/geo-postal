@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25421"]={"code":"25421","region":"Schleswig-Holstein","city":"Pinneberg","latitude":53.66732,"longitude":9.78936}}(window,'GeoPostal','DE');

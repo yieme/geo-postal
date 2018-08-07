@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26802"]={"code":"26802","region":"West Virginia","city":"Brandywine","latitude":38.62472,"longitude":-79.24472}}(window,'GeoPostal','US');

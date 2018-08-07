@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-520"]={"code":"66-520","region":"Lubuskie","city":"Dobiegniew","latitude":52.96947,"longitude":15.75362}}(window,'GeoPostal','PL');

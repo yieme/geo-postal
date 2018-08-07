@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9487"]={"code":"9487","region":"Ruggell","city":"Ruggell","latitude":47.23333,"longitude":9.51667}}(window,'GeoPostal','LI');

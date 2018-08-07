@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55049"]={"code":"55049","region":"Toscana","city":"Viareggio","latitude":43.87354,"longitude":10.2558}}(window,'GeoPostal','IT');

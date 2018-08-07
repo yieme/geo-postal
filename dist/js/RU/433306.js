@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433306"]={"code":"433306","region":"Ul'yanovskaya oblast'","city":"Isheyevka","latitude":54.41667,"longitude":48.26667}}(window,'GeoPostal','RU');

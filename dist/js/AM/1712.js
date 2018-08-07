@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1712"]={"code":"1712","region":"Lori","city":"Dsegh","latitude":40.9617,"longitude":44.65003}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26061"]={"code":"26061","region":"Skane lan","city":"Hyllinge","latitude":56.1,"longitude":12.85}}(window,'GeoPostal','SE');

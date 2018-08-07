@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57714"]={"code":"57714","region":"SD","city":"Allen","latitude":43.2908,"longitude":-101.9329}}(window,'GeoPostal','US');

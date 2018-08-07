@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46502"]={"code":"46502","region":"IN","city":"Atwood","latitude":41.254,"longitude":-85.9697}}(window,'GeoPostal','US');

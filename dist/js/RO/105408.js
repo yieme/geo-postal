@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["105408"]={"code":"105408","region":"Prahova","city":"Poiana Campina","latitude":45.13333,"longitude":25.68333}}(window,'GeoPostal','RO');

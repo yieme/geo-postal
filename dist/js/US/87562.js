@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87562"]={"code":"87562","region":"NM","city":"Rowe","latitude":35.4917,"longitude":-105.6753}}(window,'GeoPostal','US');

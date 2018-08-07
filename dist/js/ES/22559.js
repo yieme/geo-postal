@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22559"]={"code":"22559","region":"Aragon","city":"el Torrico / Altorricon","latitude":41.8028,"longitude":0.4139}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56319"]={"code":"56319","region":"Jawa Tengah","city":"Wonosobo","latitude":-7.36,"longitude":109.9025}}(window,'GeoPostal','ID');

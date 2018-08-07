@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25582"]={"code":"25582","region":"Sumatera Barat","city":"Sungaisarik","latitude":-0.57358,"longitude":100.22464}}(window,'GeoPostal','ID');

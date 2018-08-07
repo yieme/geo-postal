@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88820-000"]={"code":"88820-000","region":"Santa Catarina","city":"Icara","latitude":-28.71333,"longitude":-49.3}}(window,'GeoPostal','BR');

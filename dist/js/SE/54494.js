@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54494"]={"code":"54494","region":"Vastra Gotalands lan","city":"Hjo","latitude":58.30133,"longitude":14.28784}}(window,'GeoPostal','SE');

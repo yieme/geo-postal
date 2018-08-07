@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386102"]={"code":"386102","region":"Ingushetiya, Respublika","city":"Nazran'","latitude":43.22611,"longitude":44.765}}(window,'GeoPostal','RU');

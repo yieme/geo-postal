@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673630"]={"code":"673630","region":"Zabaykal'skiy kray","city":"Gazimurskiy Zavod","latitude":51.5461,"longitude":118.3266}}(window,'GeoPostal','RU');

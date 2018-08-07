@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54161"]={"code":"54161","region":"Wisconsin","city":"Pound","latitude":45.06889,"longitude":-88.04778}}(window,'GeoPostal','US');

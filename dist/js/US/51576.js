@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51576"]={"code":"51576","region":"IA","city":"Underwood","latitude":41.3603,"longitude":-95.627}}(window,'GeoPostal','US');

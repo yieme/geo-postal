@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169570"]={"code":"169570","region":"Komi, Respublika","city":"Vuktyl","latitude":63.85667,"longitude":57.30944}}(window,'GeoPostal','RU');

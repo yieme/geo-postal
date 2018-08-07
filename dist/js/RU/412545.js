@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412545"]={"code":"412545","region":"Saratovskaya oblast'","city":"Petrovsk","latitude":52.30639,"longitude":45.39167}}(window,'GeoPostal','RU');

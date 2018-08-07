@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["634506"]={"code":"634506","region":"Tomskaya oblast'","city":"Svetlyy","latitude":56.91667,"longitude":85.96667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67737"]={"code":"67737","region":"Rheinland-Pfalz","city":"Olsbrucken","latitude":49.53333,"longitude":7.65}}(window,'GeoPostal','DE');

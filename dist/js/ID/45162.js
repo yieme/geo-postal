@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45162"]={"code":"45162","region":"Jawa Barat","city":"Arjawinangun","latitude":-6.64528,"longitude":108.41028}}(window,'GeoPostal','ID');

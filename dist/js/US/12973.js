@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12973"]={"code":"12973","region":"New York","city":"Piercefield","latitude":44.230905,"longitude":-74.568786}}(window,'GeoPostal','US');

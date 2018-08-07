@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3189"]={"code":"3189","region":"Victoria","city":"Moorabbin","latitude":-37.93667,"longitude":145.03417}}(window,'GeoPostal','AU');

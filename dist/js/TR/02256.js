@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02256"]={"code":"02256","region":"Kayseri","city":"Bunyan","latitude":38.8463,"longitude":35.86032}}(window,'GeoPostal','TR');

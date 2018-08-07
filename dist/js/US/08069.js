@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08069"]={"code":"08069","region":"New Jersey","city":"Carneys Point","latitude":39.70704,"longitude":-75.4467}}(window,'GeoPostal','US');

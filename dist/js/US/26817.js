@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26817"]={"code":"26817","region":"WV","city":"Bloomery","latitude":39.3604,"longitude":-78.3917}}(window,'GeoPostal','US');

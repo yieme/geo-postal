@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79650"]={"code":"79650","region":"Baden-Wurttemberg","city":"Schopfheim","latitude":47.65105,"longitude":7.82089}}(window,'GeoPostal','DE');

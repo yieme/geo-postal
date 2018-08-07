@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44287"]={"code":"44287","region":"OH","city":"West Salem","latitude":40.9485,"longitude":-82.1066}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134525"]={"code":"134525","region":"Jilin","city":"Choushui","latitude":42.39463,"longitude":127.07627}}(window,'GeoPostal','CN');

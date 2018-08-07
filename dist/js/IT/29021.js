@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29021"]={"code":"29021","region":"Emilia-Romagna","city":"Bettola","latitude":44.77826,"longitude":9.60857}}(window,'GeoPostal','IT');

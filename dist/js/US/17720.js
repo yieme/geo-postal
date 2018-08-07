@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17720"]={"code":"17720","region":"PA","city":"Antes Fort","latitude":41.1865,"longitude":-77.2184}}(window,'GeoPostal','US');

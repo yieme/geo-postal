@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06096"]={"code":"06096","region":"Connecticut","city":"Windsor Locks","latitude":41.927049,"longitude":-72.645366}}(window,'GeoPostal','US');

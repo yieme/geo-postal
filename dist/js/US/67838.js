@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67838"]={"code":"67838","region":"Kansas","city":"Deerfield","latitude":37.982023,"longitude":-101.134029}}(window,'GeoPostal','US');

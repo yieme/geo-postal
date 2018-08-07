@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93447"]={"code":"93447","region":"CA","city":"Paso Robles","latitude":35.7562,"longitude":-120.6935}}(window,'GeoPostal','US');

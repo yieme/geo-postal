@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88352"]={"code":"88352","region":"NM","city":"Tularosa","latitude":33.065,"longitude":-106.0108}}(window,'GeoPostal','US');

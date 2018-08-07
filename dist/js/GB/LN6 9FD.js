@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN6 9FD"]={"code":"LN6 9FD","region":"England","city":"North Scarle","latitude":53.19305,"longitude":-0.72869}}(window,'GeoPostal','GB');

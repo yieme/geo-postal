@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31180"]={"code":"31180","region":"Buri Ram","city":"Buriram","latitude":14.99433,"longitude":103.10392}}(window,'GeoPostal','TH');

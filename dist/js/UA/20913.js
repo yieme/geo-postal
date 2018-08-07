@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20913"]={"code":"20913","region":"Cherkaska oblast","city":"Chyhyryn","latitude":49.08376,"longitude":32.65549}}(window,'GeoPostal','UA');

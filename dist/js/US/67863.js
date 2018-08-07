@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67863"]={"code":"67863","region":"Kansas","city":"Marienthal","latitude":38.4858,"longitude":-101.0367}}(window,'GeoPostal','US');

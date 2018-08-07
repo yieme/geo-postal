@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49323"]={"code":"49323","region":"MI","city":"Dorr","latitude":42.7231,"longitude":-85.7628}}(window,'GeoPostal','US');

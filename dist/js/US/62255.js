@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62255"]={"code":"62255","region":"IL","city":"Lenzburg","latitude":38.295,"longitude":-89.7922}}(window,'GeoPostal','US');

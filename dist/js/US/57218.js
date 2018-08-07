@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57218"]={"code":"57218","region":"SD","city":"Brandt","latitude":44.6738,"longitude":-96.6435}}(window,'GeoPostal','US');

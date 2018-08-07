@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03816"]={"code":"03816","region":"NH","city":"Center Tuftonboro","latitude":43.6849,"longitude":-71.2551}}(window,'GeoPostal','US');

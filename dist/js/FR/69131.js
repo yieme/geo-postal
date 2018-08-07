@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69131"]={"code":"69131","region":"Auvergne-Rhone-Alpes","city":"Ecully","latitude":45.77726,"longitude":4.77481}}(window,'GeoPostal','FR');

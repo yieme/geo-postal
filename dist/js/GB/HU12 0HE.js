@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 0HE"]={"code":"HU12 0HE","region":"England","city":"Roos","latitude":53.75292,"longitude":-0.04463}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77836"]={"code":"77836","region":"Texas","city":"Caldwell","latitude":30.56606,"longitude":-96.74967}}(window,'GeoPostal','US');

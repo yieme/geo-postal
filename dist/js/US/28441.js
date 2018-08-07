@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28441"]={"code":"28441","region":"North Carolina","city":"Garland","latitude":34.822299,"longitude":-78.330512}}(window,'GeoPostal','US');

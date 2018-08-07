@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85660-000"]={"code":"85660-000","region":"Parana","city":"Dois Vizinhos","latitude":-25.73361,"longitude":-53.05722}}(window,'GeoPostal','BR');

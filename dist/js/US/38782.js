@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38782"]={"code":"38782","region":"MS","city":"Winterville","latitude":33.5018,"longitude":-91.0584}}(window,'GeoPostal','US');

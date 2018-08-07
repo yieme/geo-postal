@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76679"]={"code":"76679","region":"TX","city":"Purdon","latitude":31.9483,"longitude":-96.5856}}(window,'GeoPostal','US');

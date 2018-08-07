@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39348"]={"code":"39348","region":"MS","city":"Paulding","latitude":32.0167,"longitude":-89.0584}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3771"]={"code":"3771","region":"Gelderland","city":"Barneveld","latitude":52.14,"longitude":5.58472}}(window,'GeoPostal','NL');

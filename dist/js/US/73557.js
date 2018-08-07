@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73557"]={"code":"73557","region":"OK","city":"Medicine Park","latitude":34.7292,"longitude":-98.5026}}(window,'GeoPostal','US');

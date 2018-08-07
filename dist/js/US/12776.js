@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12776"]={"code":"12776","region":"New York","city":"Roscoe","latitude":41.93611,"longitude":-74.91611}}(window,'GeoPostal','US');

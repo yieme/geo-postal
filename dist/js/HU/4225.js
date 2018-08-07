@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4225"]={"code":"4225","region":"Hajdu-Bihar","city":"Hajduboszormeny","latitude":47.66667,"longitude":21.51667}}(window,'GeoPostal','HU');

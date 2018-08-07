@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31046"]={"code":"31046","region":"GA","city":"Juliette","latitude":33.1194,"longitude":-83.8235}}(window,'GeoPostal','US');

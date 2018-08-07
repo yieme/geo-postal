@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41170"]={"code":"41170","region":"Centre-Val de Loire","city":"Sarge-sur-Braye","latitude":47.92352,"longitude":0.8534}}(window,'GeoPostal','FR');

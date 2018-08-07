@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9Y 9B6"]={"code":"V9Y 9B6","region":"British Columbia","city":"Sproat Lake","latitude":49.28292,"longitude":-124.91951}}(window,'GeoPostal','CA');

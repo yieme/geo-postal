@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33055"]={"code":"33055","region":"Friuli-Venezia Giulia","city":"Muzzana del Turgnano","latitude":45.81833,"longitude":13.12639}}(window,'GeoPostal','IT');

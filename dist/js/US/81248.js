@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81248"]={"code":"81248","region":"Colorado","city":"Sargents","latitude":38.541249,"longitude":-106.395733}}(window,'GeoPostal','US');

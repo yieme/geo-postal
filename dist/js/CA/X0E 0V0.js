@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0V0"]={"code":"X0E 0V0","region":"Northwest Territories","city":"Norman Wells","latitude":65.28201,"longitude":-126.8329}}(window,'GeoPostal','CA');

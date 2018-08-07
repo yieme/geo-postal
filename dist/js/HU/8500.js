@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8500"]={"code":"8500","region":"Veszprem","city":"Papa","latitude":47.33004,"longitude":17.4674}}(window,'GeoPostal','HU');

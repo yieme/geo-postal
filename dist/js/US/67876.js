@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67876"]={"code":"67876","region":"KS","city":"Spearville","latitude":37.8235,"longitude":-99.737}}(window,'GeoPostal','US');

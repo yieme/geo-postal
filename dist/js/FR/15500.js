@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15500"]={"code":"15500","region":"Auvergne-Rhone-Alpes","city":"Massiac","latitude":45.25551,"longitude":3.19759}}(window,'GeoPostal','FR');

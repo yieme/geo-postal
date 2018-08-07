@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145100"]={"code":"145100","region":"Teleorman","city":"Rosiori de Vede","latitude":44.11667,"longitude":24.98333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50271"]={"code":"50271","region":"Iowa","city":"Williams","latitude":42.486772,"longitude":-93.542497}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413410"]={"code":"413410","region":"Saratovskaya oblast'","city":"Mokrous","latitude":51.2373,"longitude":47.5137}}(window,'GeoPostal','RU');

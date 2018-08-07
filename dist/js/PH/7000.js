@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Zamboanga del Sur","city":"Zamboanga","latitude":6.91028,"longitude":122.07389}}(window,'GeoPostal','PH');

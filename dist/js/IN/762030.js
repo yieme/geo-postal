@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["762030"]={"code":"762030","region":"Odisha","city":"Phulabani","latitude":20.46667,"longitude":84.23333}}(window,'GeoPostal','IN');

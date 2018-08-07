@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55446"]={"code":"55446","region":"Minnesota","city":"Plymouth","latitude":45.0427,"longitude":-93.48822}}(window,'GeoPostal','US');

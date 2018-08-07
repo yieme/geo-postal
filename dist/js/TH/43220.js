@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43220"]={"code":"43220","region":"Nakhon Phanom","city":"Na Thom","latitude":17.78491,"longitude":104.09082}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9218"]={"code":"9218","region":"Lanao del Norte","city":"Pantar","latitude":8.06611,"longitude":124.25833}}(window,'GeoPostal','PH');

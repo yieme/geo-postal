@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3855"]={"code":"3855","region":"Bern","city":"Brienz","latitude":46.7545,"longitude":8.03847}}(window,'GeoPostal','CH');

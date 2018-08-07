@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27873"]={"code":"27873","region":"NC","city":"Saratoga","latitude":35.6538,"longitude":-77.7755}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68827"]={"code":"68827","region":"NE","city":"Chapman","latitude":40.9856,"longitude":-98.2217}}(window,'GeoPostal','US');

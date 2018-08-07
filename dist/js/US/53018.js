@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53018"]={"code":"53018","region":"Wisconsin","city":"Delafield","latitude":43.061886,"longitude":-88.401686}}(window,'GeoPostal','US');

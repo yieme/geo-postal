@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-716"]={"code":"37-716","region":"Podkarpackie","city":"Orly","latitude":49.87107,"longitude":22.80298}}(window,'GeoPostal','PL');

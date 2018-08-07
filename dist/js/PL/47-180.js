@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-180"]={"code":"47-180","region":"Opolskie","city":"Izbicko","latitude":50.57163,"longitude":18.15585}}(window,'GeoPostal','PL');

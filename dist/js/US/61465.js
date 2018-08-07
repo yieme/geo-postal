@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61465"]={"code":"61465","region":"IL","city":"New Windsor","latitude":41.1987,"longitude":-90.4598}}(window,'GeoPostal','US');

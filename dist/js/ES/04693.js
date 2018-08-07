@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04693"]={"code":"04693","region":"Andalucia","city":"Huercal-Overa","latitude":37.38897,"longitude":-1.94536}}(window,'GeoPostal','ES');

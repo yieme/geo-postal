@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17535"]={"code":"17535","region":"Catalunya","city":"les Planes d'Hostoles","latitude":42.05669,"longitude":2.54093}}(window,'GeoPostal','ES');

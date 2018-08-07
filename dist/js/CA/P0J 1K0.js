@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1K0"]={"code":"P0J 1K0","region":"Ontario","city":"Haileybury","latitude":47.44904,"longitude":-79.63732}}(window,'GeoPostal','CA');

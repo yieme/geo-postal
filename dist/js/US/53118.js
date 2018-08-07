@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53118"]={"code":"53118","region":"WI","city":"Dousman","latitude":43.0142,"longitude":-88.4726}}(window,'GeoPostal','US');

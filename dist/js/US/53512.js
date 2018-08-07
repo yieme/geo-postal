@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53512"]={"code":"53512","region":"WI","city":"Beloit","latitude":42.5083,"longitude":-89.0318}}(window,'GeoPostal','US');

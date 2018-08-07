@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36680"]={"code":"36680","region":"Eskisehir","city":"Sivrihisar","latitude":39.45037,"longitude":31.53409}}(window,'GeoPostal','TR');

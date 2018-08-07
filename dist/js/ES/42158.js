@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42158"]={"code":"42158","region":"Castilla y Leon","city":"Duruelo de la Sierra","latitude":41.95448,"longitude":-2.93086}}(window,'GeoPostal','ES');

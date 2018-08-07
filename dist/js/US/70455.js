@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70455"]={"code":"70455","region":"LA","city":"Robert","latitude":30.5063,"longitude":-90.3352}}(window,'GeoPostal','US');

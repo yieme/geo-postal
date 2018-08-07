@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17054"]={"code":"17054","region":"PA","city":"Mattawana","latitude":40.496,"longitude":-77.7237}}(window,'GeoPostal','US');

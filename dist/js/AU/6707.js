@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6707"]={"code":"6707","region":"Western Australia","city":"Exmouth","latitude":-21.9402,"longitude":114.12501}}(window,'GeoPostal','AU');

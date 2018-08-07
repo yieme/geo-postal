@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29839"]={"code":"29839","region":"Bretagne","city":"Carhaix-Plouguer","latitude":48.27594,"longitude":-3.57326}}(window,'GeoPostal','FR');

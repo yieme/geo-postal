@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19033"]={"code":"19033","region":"Liguria","city":"Castelnuovo di Magra","latitude":44.10035,"longitude":10.01639}}(window,'GeoPostal','IT');

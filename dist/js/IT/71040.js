@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71040"]={"code":"71040","region":"Puglia","city":"Ordona","latitude":41.31553,"longitude":15.62736}}(window,'GeoPostal','IT');

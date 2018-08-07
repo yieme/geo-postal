@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA11 6LT"]={"code":"LA11 6LT","region":"England","city":"Lindale","latitude":54.21716,"longitude":-2.89601}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL41 4HN"]={"code":"LL41 4HN","region":"Wales","city":"Maentwrog","latitude":52.946,"longitude":-3.98787}}(window,'GeoPostal','GB');

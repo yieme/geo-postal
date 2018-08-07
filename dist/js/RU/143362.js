@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143362"]={"code":"143362","region":"Moskovskaya oblast'","city":"Naro-Fominsk","latitude":55.38752,"longitude":36.73307}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0C 1E0"]={"code":"N0C 1E0","region":"Ontario","city":"Flesherton","latitude":44.2612,"longitude":-80.5497}}(window,'GeoPostal','CA');

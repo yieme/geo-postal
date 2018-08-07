@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20354"]={"code":"20354","region":"Hamburg","city":"Hamburg","latitude":53.57532,"longitude":10.01534}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74720"]={"code":"74720","region":"OK","city":"Achille","latitude":33.8396,"longitude":-96.3648}}(window,'GeoPostal','US');

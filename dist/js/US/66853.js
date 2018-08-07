@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66853"]={"code":"66853","region":"KS","city":"Hamilton","latitude":37.9791,"longitude":-96.1691}}(window,'GeoPostal','US');

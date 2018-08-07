@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96741"]={"code":"96741","region":"Hawaii","city":"Kalaheo","latitude":21.92416,"longitude":-159.52686}}(window,'GeoPostal','US');

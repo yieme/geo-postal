@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["275207"]={"code":"275207","region":"Uttar Pradesh","city":"Gursahaiganj","latitude":27.11667,"longitude":79.71667}}(window,'GeoPostal','IN');

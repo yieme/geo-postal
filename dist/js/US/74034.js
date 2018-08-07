@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74034"]={"code":"74034","region":"OK","city":"Hallett","latitude":36.2319,"longitude":-96.562}}(window,'GeoPostal','US');

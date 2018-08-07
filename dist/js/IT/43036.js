@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43036"]={"code":"43036","region":"Emilia-Romagna","city":"Fidenza","latitude":44.86396,"longitude":10.06668}}(window,'GeoPostal','IT');

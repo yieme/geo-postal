@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8801"]={"code":"8801","region":"Zurich","city":"Thalwil","latitude":47.29748,"longitude":8.55634}}(window,'GeoPostal','CH');

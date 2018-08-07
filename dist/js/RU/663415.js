@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663415"]={"code":"663415","region":"Krasnoyarskiy kray","city":"Razdolinsk","latitude":58.42111,"longitude":94.66583}}(window,'GeoPostal','RU');

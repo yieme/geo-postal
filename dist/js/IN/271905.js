@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271905"]={"code":"271905","region":"Uttar Pradesh","city":"Khargupur","latitude":27.38333,"longitude":81.98333}}(window,'GeoPostal','IN');

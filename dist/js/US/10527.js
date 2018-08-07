@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10527"]={"code":"10527","region":"NY","city":"Granite Springs","latitude":41.3098,"longitude":-73.753}}(window,'GeoPostal','US');

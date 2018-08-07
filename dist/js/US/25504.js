@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25504"]={"code":"25504","region":"West Virginia","city":"Huntington","latitude":38.394565,"longitude":-82.284206}}(window,'GeoPostal','US');

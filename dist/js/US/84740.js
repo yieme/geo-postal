@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84740"]={"code":"84740","region":"Utah","city":"Junction","latitude":38.23748,"longitude":-112.21993}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83340"]={"code":"83340","region":"Provence-Alpes-Cote d'Azur","city":"Le Luc","latitude":43.39318,"longitude":6.31474}}(window,'GeoPostal','FR');

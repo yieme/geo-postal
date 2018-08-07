@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99729"]={"code":"99729","region":"Alaska","city":"Cantwell","latitude":63.38806,"longitude":-148.90028}}(window,'GeoPostal','US');

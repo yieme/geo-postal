@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 9DB"]={"code":"HS2 9DB","region":"Scotland","city":"Arnol","latitude":58.33333,"longitude":-6.58333}}(window,'GeoPostal','GB');

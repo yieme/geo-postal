@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49320"]={"code":"49320","region":"Pays-de-la-Loire","city":"Blaison-Gohier","latitude":47.39951,"longitude":-0.37723}}(window,'GeoPostal','FR');

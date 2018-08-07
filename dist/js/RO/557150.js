@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557150"]={"code":"557150","region":"Sibiu","city":"Miercurea Sibiului","latitude":45.88333,"longitude":23.8}}(window,'GeoPostal','RO');

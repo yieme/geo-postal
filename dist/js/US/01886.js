@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01886"]={"code":"01886","region":"Massachusetts","city":"Westford","latitude":42.589712,"longitude":-71.436815}}(window,'GeoPostal','US');

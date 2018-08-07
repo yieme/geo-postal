@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49777"]={"code":"49777","region":"Michigan","city":"Presque Isle","latitude":45.325041,"longitude":-83.490526}}(window,'GeoPostal','US');

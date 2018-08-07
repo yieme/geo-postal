@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98400"]={"code":"98400","region":"Zacatecas","city":"Rio Grande","latitude":23.83333,"longitude":-103.03333}}(window,'GeoPostal','MX');

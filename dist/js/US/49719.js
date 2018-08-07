@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49719"]={"code":"49719","region":"Michigan","city":"Cedarville","latitude":45.922176,"longitude":-84.400239}}(window,'GeoPostal','US');

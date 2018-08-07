@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 9SN"]={"code":"SG8 9SN","region":"England","city":"Kelshall","latitude":52.01003,"longitude":-0.06472}}(window,'GeoPostal','GB');

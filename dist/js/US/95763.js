@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95763"]={"code":"95763","region":"California","city":"Folsom","latitude":38.67798,"longitude":-121.17498}}(window,'GeoPostal','US');

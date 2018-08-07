@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56381"]={"code":"56381","region":"Minnesota","city":"Starbuck","latitude":45.6144,"longitude":-95.53115}}(window,'GeoPostal','US');

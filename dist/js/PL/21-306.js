@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-306"]={"code":"21-306","region":"Lubelskie","city":"Borki","latitude":51.72161,"longitude":22.52129}}(window,'GeoPostal','PL');

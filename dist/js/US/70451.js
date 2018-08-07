@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70451"]={"code":"70451","region":"LA","city":"Natalbany","latitude":30.5519,"longitude":-90.4859}}(window,'GeoPostal','US');

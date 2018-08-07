@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51301"]={"code":"51301","region":"Iowa","city":"Spencer","latitude":43.14136,"longitude":-95.14444}}(window,'GeoPostal','US');

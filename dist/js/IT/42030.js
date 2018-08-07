@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42030"]={"code":"42030","region":"Emilia-Romagna","city":"Villa Minozzo","latitude":44.36506,"longitude":10.466}}(window,'GeoPostal','IT');

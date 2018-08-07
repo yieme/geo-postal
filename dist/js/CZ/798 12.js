@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 12"]={"code":"798 12","region":"Olomoucky kraj","city":"Kralice na Hane","latitude":49.46296,"longitude":17.18048}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08300"]={"code":"08300","region":"Kedah","city":"Gurun","latitude":5.81717,"longitude":100.47381}}(window,'GeoPostal','MY');

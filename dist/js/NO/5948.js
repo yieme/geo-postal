@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5948"]={"code":"5948","region":"Hordaland","city":"Fedje","latitude":60.7789,"longitude":4.71485}}(window,'GeoPostal','NO');

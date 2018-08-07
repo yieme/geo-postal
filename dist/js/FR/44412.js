@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44412"]={"code":"44412","region":"Pays-de-la-Loire","city":"Reze","latitude":47.18144,"longitude":-1.54965}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97423"]={"code":"97423","region":"Oregon","city":"Coquille","latitude":43.17705,"longitude":-124.18761}}(window,'GeoPostal','US');

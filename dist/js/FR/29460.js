@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29460"]={"code":"29460","region":"Bretagne","city":"Daoulas","latitude":48.36089,"longitude":-4.25977}}(window,'GeoPostal','FR');

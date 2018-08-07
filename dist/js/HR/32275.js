@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32275"]={"code":"32275","region":"Vukovarsko-srijemska zupanija","city":"Bosnjaci","latitude":45.05028,"longitude":18.75556}}(window,'GeoPostal','HR');

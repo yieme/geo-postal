@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77185"]={"code":"77185","region":"Ile-de-France","city":"Lognes","latitude":48.83541,"longitude":2.62998}}(window,'GeoPostal','FR');

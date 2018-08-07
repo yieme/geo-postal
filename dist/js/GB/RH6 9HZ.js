@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH6 9HZ"]={"code":"RH6 9HZ","region":"England","city":"Horley","latitude":51.17423,"longitude":-0.15919}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533448"]={"code":"533448","region":"Andhra Pradesh","city":"Pithapuram","latitude":17.11667,"longitude":82.26667}}(window,'GeoPostal','IN');

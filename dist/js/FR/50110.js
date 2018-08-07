@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50110"]={"code":"50110","region":"Normandie","city":"Tourlaville","latitude":49.63828,"longitude":-1.56639}}(window,'GeoPostal','FR');

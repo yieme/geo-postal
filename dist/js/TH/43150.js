@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43150"]={"code":"43150","region":"Nong Khai","city":"Seka","latitude":17.92851,"longitude":103.95519}}(window,'GeoPostal','TH');

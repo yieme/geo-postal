@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30512"]={"code":"30512","region":"Georgia","city":"Blairsville","latitude":34.8762,"longitude":-83.95824}}(window,'GeoPostal','US');

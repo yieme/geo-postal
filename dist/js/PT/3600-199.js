@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3600-199"]={"code":"3600-199","region":"Viseu","city":"Castro Daire","latitude":40.8984,"longitude":-7.9338}}(window,'GeoPostal','PT');

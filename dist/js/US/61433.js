@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61433"]={"code":"61433","region":"IL","city":"Fiatt","latitude":40.5603,"longitude":-90.1798}}(window,'GeoPostal','US');

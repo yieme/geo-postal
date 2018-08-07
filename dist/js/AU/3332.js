@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3332"]={"code":"3332","region":"Victoria","city":"Lethbridge","latitude":-37.96571,"longitude":144.13574}}(window,'GeoPostal','AU');

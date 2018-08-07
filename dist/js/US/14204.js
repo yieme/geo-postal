@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14204"]={"code":"14204","region":"New York","city":"Buffalo","latitude":42.882661,"longitude":-78.862377}}(window,'GeoPostal','US');

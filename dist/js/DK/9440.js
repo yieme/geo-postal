@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9440"]={"code":"9440","region":"Nordjylland","city":"Abybro","latitude":57.15836,"longitude":9.73672}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6503"]={"code":"6503","region":"Koper","city":"Koper","latitude":45.54694,"longitude":13.72944}}(window,'GeoPostal','SI');

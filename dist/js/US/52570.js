@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52570"]={"code":"52570","region":"IA","city":"Milton","latitude":40.6721,"longitude":-92.1438}}(window,'GeoPostal','US');

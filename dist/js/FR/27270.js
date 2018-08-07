@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27270"]={"code":"27270","region":"Normandie","city":"Broglie","latitude":49.00911,"longitude":0.52915}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14712"]={"code":"14712","region":"NY","city":"Bemus Point","latitude":42.1513,"longitude":-79.3581}}(window,'GeoPostal','US');

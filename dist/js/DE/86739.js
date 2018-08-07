@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86739"]={"code":"86739","region":"Bayern","city":"Kleinerdlingen","latitude":48.83666,"longitude":10.47584}}(window,'GeoPostal','DE');

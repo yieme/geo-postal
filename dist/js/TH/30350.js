@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30350"]={"code":"30350","region":"Chaiyaphum","city":"Noen Sa-nga","latitude":15.56428,"longitude":102.00128}}(window,'GeoPostal','TH');

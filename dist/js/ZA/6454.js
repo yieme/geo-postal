@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6454"]={"code":"6454","region":"Eastern Cape","city":"Willowmore","latitude":-33.29265,"longitude":23.48954}}(window,'GeoPostal','ZA');

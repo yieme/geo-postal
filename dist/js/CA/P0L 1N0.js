@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 1N0"]={"code":"P0L 1N0","region":"Ontario","city":"Hearst","latitude":49.687758,"longitude":-83.664672}}(window,'GeoPostal','CA');

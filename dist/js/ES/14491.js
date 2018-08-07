@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14491"]={"code":"14491","region":"Andalucia","city":"Santa Eufemia","latitude":38.6,"longitude":-4.9}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38567"]={"code":"38567","region":"TN","city":"Hickman","latitude":36.1197,"longitude":-85.9023}}(window,'GeoPostal','US');

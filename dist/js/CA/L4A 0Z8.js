@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4A 0Z8"]={"code":"L4A 0Z8","region":"Ontario","city":"Whitchurch-Stouffville","latitude":44.12587,"longitude":-79.57274}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61941"]={"code":"61941","region":"IL","city":"Murdock","latitude":39.8009,"longitude":-88.0784}}(window,'GeoPostal','US');

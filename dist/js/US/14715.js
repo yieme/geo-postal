@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14715"]={"code":"14715","region":"New York","city":"Bolivar","latitude":43.07118,"longitude":-75.8888}}(window,'GeoPostal','US');

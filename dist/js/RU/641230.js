@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641230"]={"code":"641230","region":"Kurganskaya oblast'","city":"Vargashi","latitude":55.35556,"longitude":65.84667}}(window,'GeoPostal','RU');

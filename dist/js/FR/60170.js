@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60170"]={"code":"60170","region":"Hauts-de-France","city":"Tracy-le-Mont","latitude":49.47225,"longitude":3.00939}}(window,'GeoPostal','FR');

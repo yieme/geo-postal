@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85618"]={"code":"85618","region":"Arizona","city":"Mammoth","latitude":32.72257,"longitude":-110.64065}}(window,'GeoPostal','US');

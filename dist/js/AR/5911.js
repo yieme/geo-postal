@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5911"]={"code":"5911","region":"Cordoba","city":"La Playosa","latitude":-32.10002,"longitude":-63.03088}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13321"]={"code":"13321","region":"NY","city":"Clark Mills","latitude":43.0923,"longitude":-75.3796}}(window,'GeoPostal','US');

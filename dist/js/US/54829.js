@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54829"]={"code":"54829","region":"Wisconsin","city":"Cumberland","latitude":45.53218,"longitude":-92.01935}}(window,'GeoPostal','US');

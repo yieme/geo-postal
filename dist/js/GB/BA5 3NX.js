@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 3NX"]={"code":"BA5 3NX","region":"England","city":"Dulcote","latitude":51.19992,"longitude":-2.62612}}(window,'GeoPostal','GB');

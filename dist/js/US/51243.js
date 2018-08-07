@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51243"]={"code":"51243","region":"Iowa","city":"Little Rock","latitude":43.466378,"longitude":-95.919398}}(window,'GeoPostal','US');

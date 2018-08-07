@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98344"]={"code":"98344","region":"WA","city":"Kapowsin","latitude":46.9899,"longitude":-122.2226}}(window,'GeoPostal','US');

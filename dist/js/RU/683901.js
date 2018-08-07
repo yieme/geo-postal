@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["683901"]={"code":"683901","region":"Kamchatskiy kray","city":"Vilyuchinsk","latitude":52.93056,"longitude":158.40278}}(window,'GeoPostal','RU');

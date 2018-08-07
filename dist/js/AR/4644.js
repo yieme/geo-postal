@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4644"]={"code":"4644","region":"Jujuy","city":"La Quiaca","latitude":-22.10236,"longitude":-65.59299}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43412"]={"code":"43412","region":"OH","city":"Curtice","latitude":41.6477,"longitude":-83.2858}}(window,'GeoPostal','US');

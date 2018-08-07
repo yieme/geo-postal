@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44440"]={"code":"44440","region":"OH","city":"Mineral Ridge","latitude":41.1318,"longitude":-80.7553}}(window,'GeoPostal','US');

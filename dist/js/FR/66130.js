@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66130"]={"code":"66130","region":"Occitanie","city":"Ille-sur-Tet","latitude":42.67069,"longitude":2.62162}}(window,'GeoPostal','FR');

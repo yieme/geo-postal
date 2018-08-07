@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54280"]={"code":"54280","region":"Mexico","city":"Soyaniquilpan","latitude":19.98333,"longitude":-99.5}}(window,'GeoPostal','MX');

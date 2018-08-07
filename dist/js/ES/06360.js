@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06360"]={"code":"06360","region":"Extremadura","city":"Fuente del Maestre","latitude":38.52656,"longitude":-6.44782}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31150"]={"code":"31150","region":"Buri Ram","city":"Satuek","latitude":15.29703,"longitude":103.29192}}(window,'GeoPostal','TH');

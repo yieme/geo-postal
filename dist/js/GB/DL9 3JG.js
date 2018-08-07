@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL9 3JG"]={"code":"DL9 3JG","region":"England","city":"Catterick Garrison","latitude":54.37748,"longitude":-1.72232}}(window,'GeoPostal','GB');

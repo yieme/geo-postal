@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53474"]={"code":"53474","region":"Rheinland-Pfalz","city":"Bad Neuenahr-Ahrweiler","latitude":50.54322,"longitude":7.1113}}(window,'GeoPostal','DE');

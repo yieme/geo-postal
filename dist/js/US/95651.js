@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95651"]={"code":"95651","region":"CA","city":"Lotus","latitude":38.8278,"longitude":-120.9238}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["919 43"]={"code":"919 43","region":"Trnavsky kraj","city":"Trnava","latitude":48.3774,"longitude":17.58723}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02666"]={"code":"02666","region":"MA","city":"Truro","latitude":41.9988,"longitude":-70.0564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52501"]={"code":"52501","region":"Iowa","city":"Ottumwa","latitude":41.01609,"longitude":-92.414475}}(window,'GeoPostal','US');

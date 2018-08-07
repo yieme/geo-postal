@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27597"]={"code":"27597","region":"North Carolina","city":"Zebulon","latitude":35.82432,"longitude":-78.31472}}(window,'GeoPostal','US');

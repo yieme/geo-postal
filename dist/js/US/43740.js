@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43740"]={"code":"43740","region":"OH","city":"Gratiot","latitude":39.9522,"longitude":-82.2128}}(window,'GeoPostal','US');

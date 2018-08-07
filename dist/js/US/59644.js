@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59644"]={"code":"59644","region":"Montana","city":"Townsend","latitude":46.3191,"longitude":-111.5208}}(window,'GeoPostal','US');

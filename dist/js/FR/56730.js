@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56730"]={"code":"56730","region":"Bretagne","city":"Saint-Gildas-de-Rhuys","latitude":47.5006,"longitude":-2.83825}}(window,'GeoPostal','FR');

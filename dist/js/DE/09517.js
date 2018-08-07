@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09517"]={"code":"09517","region":"Sachsen","city":"Gasse","latitude":50.5979,"longitude":13.29117}}(window,'GeoPostal','DE');

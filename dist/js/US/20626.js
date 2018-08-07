@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20626"]={"code":"20626","region":"MD","city":"Coltons Point","latitude":38.237,"longitude":-76.7646}}(window,'GeoPostal','US');

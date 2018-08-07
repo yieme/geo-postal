@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE20 2HH"]={"code":"PE20 2HH","region":"England","city":"Algarkirk","latitude":52.89922,"longitude":-0.08128}}(window,'GeoPostal','GB');

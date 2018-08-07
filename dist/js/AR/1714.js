@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1714"]={"code":"1714","region":"Buenos Aires","city":"Castelar","latitude":-34.666667,"longitude":-58.666667}}(window,'GeoPostal','AR');

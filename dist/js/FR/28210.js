@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28210"]={"code":"28210","region":"Centre-Val de Loire","city":"Nogent-le-Roi","latitude":48.64785,"longitude":1.52933}}(window,'GeoPostal','FR');

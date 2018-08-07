@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58244"]={"code":"58244","region":"North Dakota","city":"Inkster","latitude":48.15194,"longitude":-97.64472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02857"]={"code":"02857","region":"Rhode Island","city":"North Scituate","latitude":41.83368,"longitude":-71.64162}}(window,'GeoPostal','US');

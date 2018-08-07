@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35650"]={"code":"35650","region":"Canarias","city":"El Cotillo","latitude":28.68272,"longitude":-14.00993}}(window,'GeoPostal','ES');

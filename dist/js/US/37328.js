@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37328"]={"code":"37328","region":"Tennessee","city":"Elora","latitude":35.034721,"longitude":-86.422802}}(window,'GeoPostal','US');

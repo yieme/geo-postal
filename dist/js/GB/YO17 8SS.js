@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 8SS"]={"code":"YO17 8SS","region":"England","city":"Yedingham","latitude":54.2,"longitude":-0.61667}}(window,'GeoPostal','GB');

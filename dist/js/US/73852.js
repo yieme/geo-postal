@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73852"]={"code":"73852","region":"Oklahoma","city":"Mooreland","latitude":36.4392,"longitude":-99.20482}}(window,'GeoPostal','US');

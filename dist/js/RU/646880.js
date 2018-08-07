@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646880"]={"code":"646880","region":"Omskaya oblast'","city":"Azovo","latitude":54.69972,"longitude":73.02367}}(window,'GeoPostal','RU');

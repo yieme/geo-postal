@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67129"]={"code":"67129","region":"Grand-Est","city":"Molsheim","latitude":48.54042,"longitude":7.49199}}(window,'GeoPostal','FR');

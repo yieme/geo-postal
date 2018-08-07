@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 1N0"]={"code":"B0E 1N0","region":"Nova Scotia","city":"Inverness","latitude":46.23344,"longitude":-61.29852}}(window,'GeoPostal','CA');

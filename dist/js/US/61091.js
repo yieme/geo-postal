@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61091"]={"code":"61091","region":"IL","city":"Woosung","latitude":41.9034,"longitude":-89.5409}}(window,'GeoPostal','US');

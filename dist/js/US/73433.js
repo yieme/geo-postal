@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73433"]={"code":"73433","region":"Oklahoma","city":"Elmore City","latitude":34.6141,"longitude":-97.40464}}(window,'GeoPostal','US');

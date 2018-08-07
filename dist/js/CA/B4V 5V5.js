@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 5V5"]={"code":"B4V 5V5","region":"Nova Scotia","city":"Laconia","latitude":44.33345,"longitude":-64.64877}}(window,'GeoPostal','CA');

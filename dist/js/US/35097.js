@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35097"]={"code":"35097","region":"AL","city":"Locust Fork","latitude":33.905,"longitude":-86.6261}}(window,'GeoPostal','US');

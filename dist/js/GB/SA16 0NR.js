@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA16 0NR"]={"code":"SA16 0NR","region":"Wales","city":"Burry Port","latitude":51.68435,"longitude":-4.24687}}(window,'GeoPostal','GB');

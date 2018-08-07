@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3707"]={"code":"3707","region":"Bern","city":"Darligen","latitude":46.66175,"longitude":7.80808}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92699"]={"code":"92699","region":"Bayern","city":"Troglersricht","latitude":49.67404,"longitude":12.2074}}(window,'GeoPostal','DE');

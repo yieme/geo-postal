@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08248"]={"code":"08248","region":"NJ","city":"Strathmere","latitude":39.1992,"longitude":-74.6554}}(window,'GeoPostal','US');

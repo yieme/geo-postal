@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-200"]={"code":"82-200","region":"Pomorskie","city":"Malbork","latitude":54.03591,"longitude":19.0266}}(window,'GeoPostal','PL');

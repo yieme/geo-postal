@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33230"]={"code":"33230","region":"Nouvelle-Aquitaine","city":"Abzac","latitude":45.01667,"longitude":-0.13333}}(window,'GeoPostal','FR');

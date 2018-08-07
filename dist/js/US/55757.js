@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55757"]={"code":"55757","region":"Minnesota","city":"Kettle River","latitude":46.513121,"longitude":-92.919178}}(window,'GeoPostal','US');

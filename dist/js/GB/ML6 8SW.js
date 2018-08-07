@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML6 8SW"]={"code":"ML6 8SW","region":"Scotland","city":"Chapelhall","latitude":55.84349,"longitude":-3.94881}}(window,'GeoPostal','GB');

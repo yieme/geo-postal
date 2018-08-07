@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71270"]={"code":"71270","region":"Bourgogne-Franche-Comte","city":"Pierre-de-Bresse","latitude":46.88333,"longitude":5.25}}(window,'GeoPostal','FR');

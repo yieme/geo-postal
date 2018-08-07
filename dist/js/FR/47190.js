@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47190"]={"code":"47190","region":"Nouvelle-Aquitaine","city":"Aiguillon","latitude":44.29893,"longitude":0.3402}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60275"]={"code":"60275","region":"Jawa Timur","city":"Genteng","latitude":-8.36667,"longitude":114.15}}(window,'GeoPostal','ID');

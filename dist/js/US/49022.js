@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49022"]={"code":"49022","region":"Michigan","city":"Benton Harbor","latitude":42.111553,"longitude":-86.40571}}(window,'GeoPostal','US');

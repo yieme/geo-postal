@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08213"]={"code":"08213","region":"NJ","city":"Cologne","latitude":39.5092,"longitude":-74.6086}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2500"]={"code":"2500","region":"Hedmark","city":"Tynset","latitude":62.27594,"longitude":10.78241}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4626"]={"code":"4626","region":"Queensland","city":"Mundubbera","latitude":-25.59266,"longitude":151.30225}}(window,'GeoPostal','AU');

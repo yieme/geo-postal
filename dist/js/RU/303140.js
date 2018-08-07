@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303140"]={"code":"303140","region":"Orlovskaya oblast'","city":"Bolkhov","latitude":53.44333,"longitude":36.00444}}(window,'GeoPostal','RU');

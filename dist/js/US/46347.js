@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46347"]={"code":"46347","region":"IN","city":"Kouts","latitude":41.3091,"longitude":-87.024}}(window,'GeoPostal','US');

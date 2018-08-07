@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42079"]={"code":"42079","region":"KY","city":"Sedalia","latitude":36.5748,"longitude":-88.5815}}(window,'GeoPostal','US');

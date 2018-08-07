@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83330"]={"code":"83330","region":"Idaho","city":"Gooding","latitude":42.93879,"longitude":-114.71311}}(window,'GeoPostal','US');

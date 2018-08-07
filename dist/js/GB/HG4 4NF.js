@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 4NF"]={"code":"HG4 4NF","region":"England","city":"Fearby","latitude":54.2248,"longitude":-1.70485}}(window,'GeoPostal','GB');

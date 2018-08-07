@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56150"]={"code":"56150","region":"Phayao","city":"Chun","latitude":19.33694,"longitude":100.13478}}(window,'GeoPostal','TH');

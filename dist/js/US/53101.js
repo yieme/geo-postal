@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53101"]={"code":"53101","region":"WI","city":"Bassett","latitude":42.5406,"longitude":-88.2279}}(window,'GeoPostal','US');

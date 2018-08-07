@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57385"]={"code":"57385","region":"South Dakota","city":"Woonsocket","latitude":44.067353,"longitude":-98.211032}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57790"]={"code":"57790","region":"Grand-Est","city":"Lorquin","latitude":48.66972,"longitude":6.99579}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676554"]={"code":"676554","region":"Kerala","city":"Tirur","latitude":10.9,"longitude":75.91667}}(window,'GeoPostal','IN');

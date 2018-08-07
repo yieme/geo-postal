@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3120"]={"code":"3120","region":"Zuid-Holland","city":"Schiedam","latitude":51.91917,"longitude":4.38889}}(window,'GeoPostal','NL');

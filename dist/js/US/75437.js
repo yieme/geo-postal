@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75437"]={"code":"75437","region":"Texas","city":"Dike","latitude":33.192712,"longitude":-95.465635}}(window,'GeoPostal','US');

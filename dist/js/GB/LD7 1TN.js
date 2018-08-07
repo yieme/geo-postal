@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD7 1TN"]={"code":"LD7 1TN","region":"Wales","city":"Knighton","latitude":52.35,"longitude":-3.05}}(window,'GeoPostal','GB');

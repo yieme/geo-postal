@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07700"]={"code":"07700","region":"Illes Balears","city":"Es Castell","latitude":39.8776,"longitude":4.2899}}(window,'GeoPostal','ES');

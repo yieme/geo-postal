@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56657"]={"code":"56657","region":"Minnesota","city":"Marcell","latitude":47.639366,"longitude":-93.666855}}(window,'GeoPostal','US');

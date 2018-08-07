@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36373"]={"code":"36373","region":"Alabama","city":"Shorterville","latitude":31.614572,"longitude":-85.146625}}(window,'GeoPostal','US');

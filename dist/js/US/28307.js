@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28307"]={"code":"28307","region":"North Carolina","city":"Fort Bragg","latitude":35.14074,"longitude":-78.99804}}(window,'GeoPostal','US');

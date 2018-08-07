@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21648"]={"code":"21648","region":"Maryland","city":"Madison","latitude":38.51139,"longitude":-76.22028}}(window,'GeoPostal','US');

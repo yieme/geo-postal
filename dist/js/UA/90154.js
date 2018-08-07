@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90154"]={"code":"90154","region":"Zakarpatska oblast","city":"Dovhe","latitude":48.36527,"longitude":23.27904}}(window,'GeoPostal','UA');

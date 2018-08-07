@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23261"]={"code":"23261","region":"Srednjebanatski okrug","city":"Lukicevo","latitude":45.33861,"longitude":20.49889}}(window,'GeoPostal','RS');

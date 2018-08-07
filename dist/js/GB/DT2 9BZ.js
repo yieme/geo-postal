@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 9BZ"]={"code":"DT2 9BZ","region":"England","city":"Swyre","latitude":50.69153,"longitude":-2.66947}}(window,'GeoPostal','GB');

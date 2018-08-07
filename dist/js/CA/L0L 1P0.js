@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 1P0"]={"code":"L0L 1P0","region":"Ontario","city":"Elmvale","latitude":44.5834,"longitude":-79.86636}}(window,'GeoPostal','CA');

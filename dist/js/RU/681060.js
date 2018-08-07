@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["681060"]={"code":"681060","region":"Khabarovskiy kray","city":"Khurba","latitude":50.40722,"longitude":136.88194}}(window,'GeoPostal','RU');

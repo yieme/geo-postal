@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15775-000"]={"code":"15775-000","region":"Sao Paulo","city":"Santa Fe do Sul","latitude":-20.21111,"longitude":-50.92583}}(window,'GeoPostal','BR');

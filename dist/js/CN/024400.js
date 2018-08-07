@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["024400"]={"code":"024400","region":"Nei Mongol","city":"Jinshan","latitude":41.91667,"longitude":118.66667}}(window,'GeoPostal','CN');

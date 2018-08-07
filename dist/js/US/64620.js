@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64620"]={"code":"64620","region":"MO","city":"Altamont","latitude":39.896,"longitude":-94.0897}}(window,'GeoPostal','US');

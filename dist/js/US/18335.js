@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18335"]={"code":"18335","region":"PA","city":"Marshalls Creek","latitude":41.0508,"longitude":-75.2083}}(window,'GeoPostal','US');

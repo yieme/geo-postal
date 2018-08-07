@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25430"]={"code":"25430","region":"Catalunya","city":"Juneda","latitude":41.54847,"longitude":0.82451}}(window,'GeoPostal','ES');

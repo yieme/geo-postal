@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23140"]={"code":"23140","region":"VA","city":"Providence Forge","latitude":37.4418,"longitude":-77.0436}}(window,'GeoPostal','US');

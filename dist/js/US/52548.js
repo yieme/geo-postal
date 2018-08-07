@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52548"]={"code":"52548","region":"IA","city":"Chillicothe","latitude":41.086,"longitude":-92.5303}}(window,'GeoPostal','US');

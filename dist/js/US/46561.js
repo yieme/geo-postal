@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46561"]={"code":"46561","region":"Indiana","city":"Osceola","latitude":41.669796,"longitude":-86.07763}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45865"]={"code":"45865","region":"OH","city":"Minster","latitude":40.391,"longitude":-84.3729}}(window,'GeoPostal','US');

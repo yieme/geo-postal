@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53518"]={"code":"53518","region":"Rheinland-Pfalz","city":"Adenau","latitude":50.38238,"longitude":6.93291}}(window,'GeoPostal','DE');

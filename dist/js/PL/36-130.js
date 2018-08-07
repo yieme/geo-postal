@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-130"]={"code":"36-130","region":"Podkarpackie","city":"Ranizow","latitude":50.25873,"longitude":21.97137}}(window,'GeoPostal','PL');

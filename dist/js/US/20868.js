@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20868"]={"code":"20868","region":"MD","city":"Spencerville","latitude":39.1223,"longitude":-76.9722}}(window,'GeoPostal','US');

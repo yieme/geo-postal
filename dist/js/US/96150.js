@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96150"]={"code":"96150","region":"California","city":"South Lake Tahoe","latitude":38.93324,"longitude":-119.98435}}(window,'GeoPostal','US');

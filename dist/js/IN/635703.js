@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635703"]={"code":"635703","region":"Tamil Nadu","city":"Ambur","latitude":12.78333,"longitude":78.7}}(window,'GeoPostal','IN');

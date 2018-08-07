@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26529"]={"code":"26529","region":"Niedersachsen","city":"Schottjer Dreesche","latitude":53.51023,"longitude":7.26084}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22833"]={"code":"22833","region":"VA","city":"Lacey Spring","latitude":38.5284,"longitude":-78.8552}}(window,'GeoPostal','US');

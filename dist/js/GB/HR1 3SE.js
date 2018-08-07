@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR1 3SE"]={"code":"HR1 3SE","region":"England","city":"Hereford","latitude":52.05684,"longitude":-2.71482}}(window,'GeoPostal','GB');

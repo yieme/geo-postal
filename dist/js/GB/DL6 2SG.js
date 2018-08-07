@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 2SG"]={"code":"DL6 2SG","region":"England","city":"Welbury","latitude":54.41568,"longitude":-1.38853}}(window,'GeoPostal','GB');

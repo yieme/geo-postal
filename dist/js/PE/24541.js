@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24541"]={"code":"24541","region":"Tumbes","city":"Zorritos","latitude":-3.68046,"longitude":-80.67819}}(window,'GeoPostal','PE');

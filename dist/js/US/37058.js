@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37058"]={"code":"37058","region":"Tennessee","city":"Dover","latitude":36.48783,"longitude":-87.83836}}(window,'GeoPostal','US');

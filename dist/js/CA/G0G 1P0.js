@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1P0"]={"code":"G0G 1P0","region":"Quebec","city":"Havre-Saint-Pierre","latitude":50.23344,"longitude":-63.59862}}(window,'GeoPostal','CA');

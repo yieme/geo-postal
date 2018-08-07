@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37564-000"]={"code":"37564-000","region":"Minas Gerais","city":"Borda da Mata","latitude":-22.27417,"longitude":-46.16528}}(window,'GeoPostal','BR');

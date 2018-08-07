@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21683"]={"code":"21683","region":"MD","city":"Ridgely","latitude":38.94,"longitude":-75.88}}(window,'GeoPostal','US');

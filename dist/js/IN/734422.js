@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["734422"]={"code":"734422","region":"West Bengal","city":"Baghdogra","latitude":26.7,"longitude":88.31667}}(window,'GeoPostal','IN');

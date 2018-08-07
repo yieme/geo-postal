@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92802"]={"code":"92802","region":"Luhanska oblast","city":"Bilovods'k","latitude":49.20846,"longitude":39.58975}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1G0"]={"code":"C0A 1G0","region":"Prince Edward Island","city":"Pooles Corner","latitude":46.21681,"longitude":-62.64865}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633343"]={"code":"633343","region":"Novosibirskaya oblast'","city":"Bolotnoye","latitude":55.67167,"longitude":84.39806}}(window,'GeoPostal','RU');

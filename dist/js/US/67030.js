@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67030"]={"code":"67030","region":"Kansas","city":"Colwich","latitude":37.758554,"longitude":-97.535178}}(window,'GeoPostal','US');

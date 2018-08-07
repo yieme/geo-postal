@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39478"]={"code":"39478","region":"Mississippi","city":"Sandy Hook","latitude":31.046181,"longitude":-89.807307}}(window,'GeoPostal','US');

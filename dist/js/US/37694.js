@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37694"]={"code":"37694","region":"TN","city":"Watauga","latitude":36.3702,"longitude":-82.2683}}(window,'GeoPostal','US');

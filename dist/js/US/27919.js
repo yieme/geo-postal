@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27919"]={"code":"27919","region":"NC","city":"Belvidere","latitude":36.3096,"longitude":-76.5436}}(window,'GeoPostal','US');

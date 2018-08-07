@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52210"]={"code":"52210","region":"Istarska zupanija","city":"Rovinj","latitude":45.08,"longitude":13.64}}(window,'GeoPostal','HR');

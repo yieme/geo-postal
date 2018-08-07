@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84405"]={"code":"84405","region":"Provence-Alpes-Cote d'Azur","city":"Apt","latitude":43.88333,"longitude":5.4}}(window,'GeoPostal','FR');

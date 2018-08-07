@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57445"]={"code":"57445","region":"SD","city":"Groton","latitude":45.4503,"longitude":-98.1058}}(window,'GeoPostal','US');

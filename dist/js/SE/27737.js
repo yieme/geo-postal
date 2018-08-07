@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27737"]={"code":"27737","region":"Skane lan","city":"Kivik","latitude":55.68333,"longitude":14.25}}(window,'GeoPostal','SE');

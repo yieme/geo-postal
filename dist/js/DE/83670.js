@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83670"]={"code":"83670","region":"Bayern","city":"Spiegel","latitude":47.76667,"longitude":11.5}}(window,'GeoPostal','DE');

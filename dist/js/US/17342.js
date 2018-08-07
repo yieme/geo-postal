@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17342"]={"code":"17342","region":"PA","city":"Loganville","latitude":39.8536,"longitude":-76.708}}(window,'GeoPostal','US');

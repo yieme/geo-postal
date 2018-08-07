@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17056"]={"code":"17056","region":"Liguria","city":"Cengio","latitude":44.3894,"longitude":8.2116}}(window,'GeoPostal','IT');

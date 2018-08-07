@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53063"]={"code":"53063","region":"WI","city":"Newton","latitude":43.9836,"longitude":-87.7848}}(window,'GeoPostal','US');

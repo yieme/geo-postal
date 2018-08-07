@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21078"]={"code":"21078","region":"Grand-Est","city":"Bourgogne","latitude":49.34962,"longitude":4.07111}}(window,'GeoPostal','FR');

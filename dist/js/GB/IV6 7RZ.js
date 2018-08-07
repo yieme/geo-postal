@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV6 7RZ"]={"code":"IV6 7RZ","region":"Scotland","city":"Tore","latitude":57.54104,"longitude":-4.33216}}(window,'GeoPostal','GB');

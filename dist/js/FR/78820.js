@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78820"]={"code":"78820","region":"Ile-de-France","city":"Juziers","latitude":48.99137,"longitude":1.8476}}(window,'GeoPostal','FR');

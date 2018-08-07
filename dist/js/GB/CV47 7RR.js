@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 7RR"]={"code":"CV47 7RR","region":"England","city":"Priors Marston","latitude":52.21374,"longitude":-1.28586}}(window,'GeoPostal','GB');

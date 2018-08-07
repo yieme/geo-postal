@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2490"]={"code":"2490","region":"Fejer","city":"Pusztaszabolcs","latitude":47.13718,"longitude":18.76704}}(window,'GeoPostal','HU');

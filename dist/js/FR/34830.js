@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34830"]={"code":"34830","region":"Occitanie","city":"Jacou","latitude":43.66139,"longitude":3.91222}}(window,'GeoPostal','FR');

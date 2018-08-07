@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA17 4JW"]={"code":"CA17 4JW","region":"England","city":"Nateby","latitude":54.45687,"longitude":-2.34867}}(window,'GeoPostal','GB');

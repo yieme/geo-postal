@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["040301"]={"code":"040301","region":"Carchi","city":"El Angel","latitude":0.61667,"longitude":-77.93333}}(window,'GeoPostal','EC');

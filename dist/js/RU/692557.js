@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692557"]={"code":"692557","region":"Primorskiy kray","city":"Vozdvizhenka","latitude":43.9,"longitude":131.95}}(window,'GeoPostal','RU');

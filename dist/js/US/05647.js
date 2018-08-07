@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05647"]={"code":"05647","region":"Vermont","city":"Cabot","latitude":44.39889,"longitude":-72.30139}}(window,'GeoPostal','US');

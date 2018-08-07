@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27104"]={"code":"27104","region":"Kirovohradska oblast","city":"Novoukrayinka","latitude":48.32635,"longitude":31.52852}}(window,'GeoPostal','UA');

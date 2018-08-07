@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23530"]={"code":"23530","region":"Andalucia","city":"Jimena","latitude":37.84156,"longitude":-3.4771}}(window,'GeoPostal','ES');

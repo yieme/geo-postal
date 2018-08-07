@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-501"]={"code":"89-501","region":"Kujawsko-pomorskie","city":"Tuchola","latitude":53.58792,"longitude":17.85905}}(window,'GeoPostal','PL');

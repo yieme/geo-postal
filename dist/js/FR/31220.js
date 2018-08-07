@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31220"]={"code":"31220","region":"Occitanie","city":"Cazeres","latitude":43.2071,"longitude":1.08633}}(window,'GeoPostal','FR');

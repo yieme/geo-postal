@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27985"]={"code":"27985","region":"NC","city":"Winfall","latitude":36.2193,"longitude":-76.4667}}(window,'GeoPostal','US');

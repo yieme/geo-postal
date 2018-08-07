@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW3 6BD"]={"code":"KW3 6BD","region":"Scotland","city":"Upper Camster","latitude":58.35,"longitude":-3.25}}(window,'GeoPostal','GB');

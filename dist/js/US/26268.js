@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26268"]={"code":"26268","region":"West Virginia","city":"Glady","latitude":38.81893,"longitude":-79.704741}}(window,'GeoPostal','US');

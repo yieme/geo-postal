@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["106100"]={"code":"106100","region":"Prahova","city":"Sinaia","latitude":45.35,"longitude":25.55}}(window,'GeoPostal','RO');

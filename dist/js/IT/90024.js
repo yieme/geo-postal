@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90024"]={"code":"90024","region":"Sicilia","city":"Gangi","latitude":37.79565,"longitude":14.20437}}(window,'GeoPostal','IT');

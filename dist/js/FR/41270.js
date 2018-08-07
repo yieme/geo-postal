@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41270"]={"code":"41270","region":"Centre-Val de Loire","city":"Droue","latitude":48.04023,"longitude":1.07534}}(window,'GeoPostal','FR');

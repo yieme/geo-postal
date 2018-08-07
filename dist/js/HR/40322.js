@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40322"]={"code":"40322","region":"Medimurska zupanija","city":"Orehovica","latitude":46.33167,"longitude":16.50694}}(window,'GeoPostal','HR');

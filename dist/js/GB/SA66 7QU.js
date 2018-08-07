@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA66 7QU"]={"code":"SA66 7QU","region":"Wales","city":"Rosebush","latitude":51.93066,"longitude":-4.80016}}(window,'GeoPostal','GB');

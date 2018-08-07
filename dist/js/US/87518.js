@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87518"]={"code":"87518","region":"NM","city":"Cebolla","latitude":36.4654,"longitude":-106.5785}}(window,'GeoPostal','US');

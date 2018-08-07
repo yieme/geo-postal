@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5231"]={"code":"5231","region":"South Australia","city":"Kersbrook","latitude":-34.78305,"longitude":138.85091}}(window,'GeoPostal','AU');

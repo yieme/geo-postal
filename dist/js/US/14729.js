@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14729"]={"code":"14729","region":"NY","city":"East Otto","latitude":42.3971,"longitude":-78.7432}}(window,'GeoPostal','US');

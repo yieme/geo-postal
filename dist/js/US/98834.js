@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98834"]={"code":"98834","region":"Washington","city":"Methow","latitude":48.071798,"longitude":-120.038358}}(window,'GeoPostal','US');

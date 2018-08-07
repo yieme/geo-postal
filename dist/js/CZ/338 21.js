@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 21"]={"code":"338 21","region":"Plzensky kraj","city":"Osek","latitude":49.77594,"longitude":13.5906}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 1K0"]={"code":"G0C 1K0","region":"Quebec","city":"Chandler","latitude":48.34935,"longitude":-64.67926}}(window,'GeoPostal','CA');

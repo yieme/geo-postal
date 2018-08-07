@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49300-000"]={"code":"49300-000","region":"Sergipe","city":"Tobias Barreto","latitude":-11.18389,"longitude":-37.99833}}(window,'GeoPostal','BR');

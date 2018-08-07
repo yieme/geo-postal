@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52371"]={"code":"52371","region":"Punjab","city":"Naushahra Virkan","latitude":31.96284,"longitude":73.97225}}(window,'GeoPostal','PK');

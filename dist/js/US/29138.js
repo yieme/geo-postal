@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29138"]={"code":"29138","region":"South Carolina","city":"Saluda","latitude":34.00401,"longitude":-81.772312}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01032"]={"code":"01032","region":"Lazio","city":"Caprarola","latitude":42.32662,"longitude":12.23577}}(window,'GeoPostal','IT');

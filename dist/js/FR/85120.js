@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85120"]={"code":"85120","region":"Pays-de-la-Loire","city":"La Tardiere","latitude":46.66096,"longitude":-0.73143}}(window,'GeoPostal','FR');

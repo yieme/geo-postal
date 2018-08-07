@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1252"]={"code":"1252","region":"Noord-Holland","city":"Laren","latitude":52.25667,"longitude":5.22778}}(window,'GeoPostal','NL');

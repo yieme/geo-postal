@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3931"]={"code":"3931","region":"Australian Capital Territory","city":"Braddon","latitude":-35.27078,"longitude":149.13569}}(window,'GeoPostal','AU');

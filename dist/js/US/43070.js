@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43070"]={"code":"43070","region":"OH","city":"Rosewood","latitude":40.2158,"longitude":-83.9579}}(window,'GeoPostal','US');

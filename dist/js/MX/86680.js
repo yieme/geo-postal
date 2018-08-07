@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86680"]={"code":"86680","region":"Tabasco","city":"El Tular","latitude":18.15833,"longitude":-93.35}}(window,'GeoPostal','MX');

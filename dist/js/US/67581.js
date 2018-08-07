@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67581"]={"code":"67581","region":"Kansas","city":"Sylvia","latitude":37.958691,"longitude":-98.407992}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98052"]={"code":"98052","region":"Washington","city":"Redmond","latitude":47.6829,"longitude":-122.1209}}(window,'GeoPostal','US');

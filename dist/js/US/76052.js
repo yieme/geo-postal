@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76052"]={"code":"76052","region":"TX","city":"Haslet","latitude":32.9557,"longitude":-97.3372}}(window,'GeoPostal','US');

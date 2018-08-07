@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23960"]={"code":"23960","region":"Virginia","city":"Prospect","latitude":37.31555,"longitude":-78.55159}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237358"]={"code":"237358","region":"Olt","city":"Potcoava","latitude":44.48333,"longitude":24.65}}(window,'GeoPostal','RO');

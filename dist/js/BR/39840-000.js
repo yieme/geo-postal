@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39840-000"]={"code":"39840-000","region":"Minas Gerais","city":"Itambacuri","latitude":-18.03111,"longitude":-41.685}}(window,'GeoPostal','BR');

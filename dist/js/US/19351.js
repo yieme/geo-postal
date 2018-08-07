@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19351"]={"code":"19351","region":"PA","city":"Lewisville","latitude":39.7226,"longitude":-75.8749}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92887"]={"code":"92887","region":"California","city":"Yorba Linda","latitude":33.88318,"longitude":-117.73035}}(window,'GeoPostal','US');

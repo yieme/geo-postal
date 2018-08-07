@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99672"]={"code":"99672","region":"Alaska","city":"Sterling","latitude":60.53722,"longitude":-150.76472}}(window,'GeoPostal','US');

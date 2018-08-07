@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87455"]={"code":"87455","region":"New Mexico","city":"Newcomb","latitude":36.283287,"longitude":-108.706832}}(window,'GeoPostal','US');

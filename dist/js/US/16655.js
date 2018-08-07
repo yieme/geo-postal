@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16655"]={"code":"16655","region":"PA","city":"Imler","latitude":40.2067,"longitude":-78.5228}}(window,'GeoPostal','US');

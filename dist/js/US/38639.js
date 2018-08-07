@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38639"]={"code":"38639","region":"MS","city":"Jonestown","latitude":34.3037,"longitude":-90.4294}}(window,'GeoPostal','US');

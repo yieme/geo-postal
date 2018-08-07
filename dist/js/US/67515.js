@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67515"]={"code":"67515","region":"KS","city":"Arnold","latitude":38.6403,"longitude":-100.0462}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2440"]={"code":"2440","region":"New South Wales","city":"Willawarrin","latitude":-30.93333,"longitude":152.61667}}(window,'GeoPostal','AU');

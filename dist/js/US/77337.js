@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77337"]={"code":"77337","region":"TX","city":"Hufsmith","latitude":30.1222,"longitude":-95.5966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 6HY"]={"code":"NR13 6HY","region":"England","city":"Ranworth","latitude":52.67731,"longitude":1.48905}}(window,'GeoPostal','GB');

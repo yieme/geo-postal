@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55702"]={"code":"55702","region":"Minnesota","city":"Alborn","latitude":46.976861,"longitude":-92.602966}}(window,'GeoPostal','US');

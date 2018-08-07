@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2640"]={"code":"2640","region":"Niederosterreich","city":"Buchbach","latitude":47.69648,"longitude":15.98425}}(window,'GeoPostal','AT');

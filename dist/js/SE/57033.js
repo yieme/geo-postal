@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57033"]={"code":"57033","region":"Jonkopings lan","city":"Mariannelund","latitude":57.61667,"longitude":15.56667}}(window,'GeoPostal','SE');

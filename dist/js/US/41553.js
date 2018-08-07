@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41553"]={"code":"41553","region":"Kentucky","city":"Phelps","latitude":37.491836,"longitude":-82.165588}}(window,'GeoPostal','US');

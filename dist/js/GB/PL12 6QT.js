@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL12 6QT"]={"code":"PL12 6QT","region":"England","city":"Pillaton","latitude":50.45,"longitude":-4.3}}(window,'GeoPostal','GB');

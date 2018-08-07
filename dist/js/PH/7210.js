@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7210"]={"code":"7210","region":"Laguna","city":"Calamba","latitude":14.21167,"longitude":121.16528}}(window,'GeoPostal','PH');

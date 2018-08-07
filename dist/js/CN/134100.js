@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134100"]={"code":"134100","region":"Jilin","city":"Kuaidamao","latitude":41.65532,"longitude":125.74225}}(window,'GeoPostal','CN');

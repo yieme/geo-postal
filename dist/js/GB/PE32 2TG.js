@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2TG"]={"code":"PE32 2TG","region":"England","city":"Weasenham","latitude":52.76667,"longitude":0.75}}(window,'GeoPostal','GB');

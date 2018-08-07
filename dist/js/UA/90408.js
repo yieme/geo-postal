@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90408"]={"code":"90408","region":"Zakarpatska oblast","city":"Khust","latitude":48.1793,"longitude":23.29909}}(window,'GeoPostal','UA');

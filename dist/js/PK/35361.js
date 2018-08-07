@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35361"]={"code":"35361","region":"Punjab","city":"Minchinabad","latitude":30.163,"longitude":73.56854}}(window,'GeoPostal','PK');

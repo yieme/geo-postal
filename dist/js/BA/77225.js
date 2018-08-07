@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77225"]={"code":"77225","region":"Federacija Bosne i Hercegovine","city":"Pjanici","latitude":44.98361,"longitude":15.82278}}(window,'GeoPostal','BA');

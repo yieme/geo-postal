@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1610"]={"code":"1610","region":"Bukidnon","city":"Quezon","latitude":7.73028,"longitude":125.09889}}(window,'GeoPostal','PH');

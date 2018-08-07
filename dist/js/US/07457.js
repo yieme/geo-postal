@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07457"]={"code":"07457","region":"New Jersey","city":"Riverdale","latitude":40.9911,"longitude":-74.3117}}(window,'GeoPostal','US');

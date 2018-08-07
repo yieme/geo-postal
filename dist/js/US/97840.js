@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97840"]={"code":"97840","region":"Oregon","city":"Oxbow","latitude":44.95625,"longitude":-116.920915}}(window,'GeoPostal','US');

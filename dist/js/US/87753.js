@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87753"]={"code":"87753","region":"NM","city":"Watrous","latitude":35.7906,"longitude":-104.9817}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01009"]={"code":"01009","region":"Uusimaa","city":"Kilo","latitude":60.21746,"longitude":24.78151}}(window,'GeoPostal','FI');

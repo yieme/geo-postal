@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76802"]={"code":"76802","region":"TX","city":"Early","latitude":31.7874,"longitude":-98.9229}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56288"]={"code":"56288","region":"Minnesota","city":"International Falls","latitude":45.245153,"longitude":-94.950403}}(window,'GeoPostal','US');

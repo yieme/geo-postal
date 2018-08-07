@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55758"]={"code":"55758","region":"Minnesota","city":"Kinney","latitude":47.514241,"longitude":-92.730303}}(window,'GeoPostal','US');

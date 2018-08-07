@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6114"]={"code":"6114","region":"Tirol","city":"Kolsass","latitude":47.28333,"longitude":11.63333}}(window,'GeoPostal','AT');

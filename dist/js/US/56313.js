@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56313"]={"code":"56313","region":"Minnesota","city":"Bock","latitude":45.78552,"longitude":-93.55272}}(window,'GeoPostal','US');

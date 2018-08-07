@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35700-292"]={"code":"35700-292","region":"Minas Gerais","city":"Sete Lagoas","latitude":-19.46583,"longitude":-44.24667}}(window,'GeoPostal','BR');

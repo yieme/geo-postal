@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66032"]={"code":"66032","region":"Kansas","city":"Garnett","latitude":38.28058,"longitude":-95.24192}}(window,'GeoPostal','US');

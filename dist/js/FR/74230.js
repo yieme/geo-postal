@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74230"]={"code":"74230","region":"Auvergne-Rhone-Alpes","city":"Thones","latitude":45.88123,"longitude":6.32572}}(window,'GeoPostal','FR');

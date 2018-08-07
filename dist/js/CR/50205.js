@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50205"]={"code":"50205","region":"Guanacaste","city":"Samara","latitude":9.8824,"longitude":-85.52665}}(window,'GeoPostal','CR');

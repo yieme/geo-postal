@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 5TQ"]={"code":"AB53 5TQ","region":"Scotland","city":"Garmond","latitude":57.55849,"longitude":-2.3247}}(window,'GeoPostal','GB');

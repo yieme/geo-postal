@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08258"]={"code":"08258","region":"Sachsen","city":"Markneukirchen","latitude":50.31144,"longitude":12.32951}}(window,'GeoPostal','DE');

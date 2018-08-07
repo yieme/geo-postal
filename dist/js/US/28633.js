@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28633"]={"code":"28633","region":"North Carolina","city":"Lenoir","latitude":35.91402,"longitude":-81.53898}}(window,'GeoPostal','US');

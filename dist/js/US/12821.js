@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12821"]={"code":"12821","region":"NY","city":"Comstock","latitude":43.4614,"longitude":-73.4033}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58265"]={"code":"58265","region":"North Dakota","city":"Neche","latitude":48.98361,"longitude":-97.55083}}(window,'GeoPostal','US');

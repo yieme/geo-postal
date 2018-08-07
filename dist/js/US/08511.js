@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08511"]={"code":"08511","region":"NJ","city":"Cookstown","latitude":40.0481,"longitude":-74.5595}}(window,'GeoPostal','US');

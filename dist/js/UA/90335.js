@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90335"]={"code":"90335","region":"Zakarpatska oblast","city":"Korolevo","latitude":48.15247,"longitude":23.13659}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49648"]={"code":"49648","region":"Michigan","city":"Kewadin","latitude":44.91028,"longitude":-85.34111}}(window,'GeoPostal','US');

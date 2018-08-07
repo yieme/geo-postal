@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R5G 1H8"]={"code":"R5G 1H8","region":"Manitoba","city":"Bristol","latitude":49.47279,"longitude":-96.73891}}(window,'GeoPostal','CA');

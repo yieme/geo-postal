@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60123"]={"code":"60123","region":"Illinois","city":"Elgin","latitude":42.041675,"longitude":-88.311931}}(window,'GeoPostal','US');

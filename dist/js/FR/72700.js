@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72700"]={"code":"72700","region":"Pays-de-la-Loire","city":"Spay","latitude":47.92384,"longitude":0.15258}}(window,'GeoPostal','FR');

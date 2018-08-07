@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86018"]={"code":"86018","region":"AZ","city":"Parks","latitude":35.2563,"longitude":-111.95}}(window,'GeoPostal','US');

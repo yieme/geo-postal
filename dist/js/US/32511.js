@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32511"]={"code":"32511","region":"FL","city":"Pensacola","latitude":30.4061,"longitude":-87.2917}}(window,'GeoPostal','US');

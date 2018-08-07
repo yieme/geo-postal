@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83900"]={"code":"83900","region":"Sonora","city":"Benjamin Hill","latitude":30.16667,"longitude":-111.1}}(window,'GeoPostal','MX');

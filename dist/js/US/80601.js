@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80601"]={"code":"80601","region":"Colorado","city":"Brighton","latitude":39.96078,"longitude":-104.819452}}(window,'GeoPostal','US');

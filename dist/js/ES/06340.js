@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06340"]={"code":"06340","region":"Extremadura","city":"Fregenal de la Sierra","latitude":38.16922,"longitude":-6.6537}}(window,'GeoPostal','ES');

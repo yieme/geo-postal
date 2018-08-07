@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10120"]={"code":"10120","region":"Western Province","city":"Pita Kotte","latitude":6.8905,"longitude":79.9015}}(window,'GeoPostal','LK');

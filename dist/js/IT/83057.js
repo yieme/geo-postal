@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83057"]={"code":"83057","region":"Campania","city":"Torella de' Lombardi","latitude":40.93972,"longitude":15.11505}}(window,'GeoPostal','IT');

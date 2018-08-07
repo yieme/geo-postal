@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74044"]={"code":"74044","region":"Oklahoma","city":"Mannford","latitude":36.119213,"longitude":-96.347716}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97424"]={"code":"97424","region":"Thuringen","city":"Rohrigshof","latitude":50.01667,"longitude":10.21667}}(window,'GeoPostal','DE');

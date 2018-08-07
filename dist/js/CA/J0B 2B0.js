@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2B0"]={"code":"J0B 2B0","region":"Quebec","city":"Richmond","latitude":45.66677,"longitude":-72.1491}}(window,'GeoPostal','CA');

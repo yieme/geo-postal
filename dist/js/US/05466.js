@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05466"]={"code":"05466","region":"VT","city":"Jonesville","latitude":44.3839,"longitude":-72.9376}}(window,'GeoPostal','US');

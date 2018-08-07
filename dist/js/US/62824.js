@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62824"]={"code":"62824","region":"Illinois","city":"Clay City","latitude":38.68694,"longitude":-88.35306}}(window,'GeoPostal','US');

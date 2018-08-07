@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9X 0A6"]={"code":"H9X 0A6","region":"Quebec","city":"Sainte-Anne-de-Bellevue","latitude":45.423561,"longitude":-73.931906}}(window,'GeoPostal','CA');

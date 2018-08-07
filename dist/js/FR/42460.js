@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42460"]={"code":"42460","region":"Auvergne-Rhone-Alpes","city":"Coutouvre","latitude":46.07298,"longitude":4.21243}}(window,'GeoPostal','FR');

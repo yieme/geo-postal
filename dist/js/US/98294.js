@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98294"]={"code":"98294","region":"WA","city":"Sultan","latitude":47.8589,"longitude":-121.7369}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 5AS"]={"code":"PL14 5AS","region":"England","city":"Upton","latitude":50.53333,"longitude":-4.43333}}(window,'GeoPostal','GB');

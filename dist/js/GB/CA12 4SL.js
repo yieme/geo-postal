@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA12 4SL"]={"code":"CA12 4SL","region":"England","city":"Threlkeld","latitude":54.61965,"longitude":-3.04991}}(window,'GeoPostal','GB');

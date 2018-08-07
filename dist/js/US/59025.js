@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59025"]={"code":"59025","region":"MT","city":"Decker","latitude":45.1797,"longitude":-106.8721}}(window,'GeoPostal','US');

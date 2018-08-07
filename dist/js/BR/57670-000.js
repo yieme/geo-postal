@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57670-000"]={"code":"57670-000","region":"Alagoas","city":"Maribondo","latitude":-9.57722,"longitude":-36.30528}}(window,'GeoPostal','BR');

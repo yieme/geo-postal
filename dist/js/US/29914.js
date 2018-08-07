@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29914"]={"code":"29914","region":"SC","city":"Dale","latitude":32.5527,"longitude":-80.677}}(window,'GeoPostal','US');

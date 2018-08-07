@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46740"]={"code":"46740","region":"Indiana","city":"Geneva","latitude":40.59199,"longitude":-84.95719}}(window,'GeoPostal','US');

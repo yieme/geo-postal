@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72156"]={"code":"72156","region":"AR","city":"Solgohachia","latitude":35.2701,"longitude":-92.6754}}(window,'GeoPostal','US');

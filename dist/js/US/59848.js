@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59848"]={"code":"59848","region":"MT","city":"Lonepine","latitude":47.7251,"longitude":-114.657}}(window,'GeoPostal','US');

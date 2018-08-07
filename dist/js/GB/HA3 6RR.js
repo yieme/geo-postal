@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA3 6RR"]={"code":"HA3 6RR","region":"England","city":"Weald","latitude":51.24784,"longitude":0.1878}}(window,'GeoPostal','GB');

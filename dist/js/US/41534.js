@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41534"]={"code":"41534","region":"Kentucky","city":"Hellier","latitude":37.2875,"longitude":-82.471389}}(window,'GeoPostal','US');

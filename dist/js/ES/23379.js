@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23379"]={"code":"23379","region":"Andalucia","city":"Segura de la Sierra","latitude":38.29777,"longitude":-2.65229}}(window,'GeoPostal','ES');

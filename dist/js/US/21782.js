@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21782"]={"code":"21782","region":"MD","city":"Sharpsburg","latitude":39.4424,"longitude":-77.7511}}(window,'GeoPostal','US');

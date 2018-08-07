@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44480"]={"code":"44480","region":"Aragon","city":"San Agustin","latitude":40.05,"longitude":-0.68333}}(window,'GeoPostal','ES');

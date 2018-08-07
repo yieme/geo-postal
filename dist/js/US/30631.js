@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30631"]={"code":"30631","region":"Georgia","city":"Crawfordville","latitude":33.55402,"longitude":-82.89598}}(window,'GeoPostal','US');

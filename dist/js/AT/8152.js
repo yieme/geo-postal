@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8152"]={"code":"8152","region":"Steiermark","city":"Stallhofen","latitude":47.05,"longitude":15.21667}}(window,'GeoPostal','AT');

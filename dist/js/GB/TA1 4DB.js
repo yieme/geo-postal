@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA1 4DB"]={"code":"TA1 4DB","region":"England","city":"Taunton","latitude":51.01494,"longitude":-3.10293}}(window,'GeoPostal','GB');

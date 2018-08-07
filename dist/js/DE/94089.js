@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94089"]={"code":"94089","region":"Bayern","city":"Neureichenau","latitude":48.74861,"longitude":13.74699}}(window,'GeoPostal','DE');

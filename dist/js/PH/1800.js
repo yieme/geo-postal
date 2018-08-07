@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1800"]={"code":"1800","region":"National Capital Region","city":"Quezon City","latitude":14.6627,"longitude":121.0328}}(window,'GeoPostal','PH');

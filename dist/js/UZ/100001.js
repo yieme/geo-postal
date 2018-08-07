@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100001"]={"code":"100001","region":"Toshkent","city":"Tashkent","latitude":41.26465,"longitude":69.21627}}(window,'GeoPostal','UZ');

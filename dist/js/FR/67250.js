@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67250"]={"code":"67250","region":"Grand-Est","city":"Merkwiller-Pechelbronn","latitude":48.94,"longitude":7.83}}(window,'GeoPostal','FR');

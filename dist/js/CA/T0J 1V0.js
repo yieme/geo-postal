@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 1V0"]={"code":"T0J 1V0","region":"Alberta","city":"Irvine","latitude":49.95009,"longitude":-110.26831}}(window,'GeoPostal','CA');

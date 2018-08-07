@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61412"]={"code":"61412","region":"IL","city":"Alexis","latitude":41.0521,"longitude":-90.5436}}(window,'GeoPostal','US');

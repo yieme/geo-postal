@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2BA"]={"code":"NR16 2BA","region":"England","city":"New Buckenham","latitude":52.47238,"longitude":1.07275}}(window,'GeoPostal','GB');

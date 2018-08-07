@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80622"]={"code":"80622","region":"CO","city":"Galeton","latitude":40.5378,"longitude":-104.4585}}(window,'GeoPostal','US');

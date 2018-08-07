@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO16 4XN"]={"code":"YO16 4XN","region":"England","city":"Boynton","latitude":54.09746,"longitude":-0.26479}}(window,'GeoPostal','GB');

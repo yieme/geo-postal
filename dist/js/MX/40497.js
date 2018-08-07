@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40497"]={"code":"40497","region":"Guerrero","city":"Teloloapan","latitude":18.35,"longitude":-99.85}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80420"]={"code":"80420","region":"CO","city":"Alma","latitude":39.2839,"longitude":-106.0628}}(window,'GeoPostal','US');

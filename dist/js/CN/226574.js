@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226574"]={"code":"226574","region":"Jiangsu","city":"Dong'an","latitude":32.44617,"longitude":120.50479}}(window,'GeoPostal','CN');

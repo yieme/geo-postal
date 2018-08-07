@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75100"]={"code":"75100","region":"Basilicata","city":"Matera","latitude":40.66852,"longitude":16.60158}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51245"]={"code":"51245","region":"Iowa","city":"Primghar","latitude":43.08692,"longitude":-95.62723}}(window,'GeoPostal','US');

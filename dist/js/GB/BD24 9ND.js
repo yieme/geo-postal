@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD24 9ND"]={"code":"BD24 9ND","region":"England","city":"Langcliffe","latitude":54.0807,"longitude":-2.27402}}(window,'GeoPostal','GB');

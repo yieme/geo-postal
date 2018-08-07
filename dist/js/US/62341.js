@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62341"]={"code":"62341","region":"Illinois","city":"Hamilton","latitude":40.39643,"longitude":-91.33904}}(window,'GeoPostal','US');

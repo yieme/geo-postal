@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01808"]={"code":"01808","region":"MA","city":"Woburn","latitude":42.5,"longitude":-71.12}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92259"]={"code":"92259","region":"CA","city":"Ocotillo","latitude":32.7387,"longitude":-115.9942}}(window,'GeoPostal','US');

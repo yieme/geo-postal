@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24926"]={"code":"24926","region":"Nouvelle-Aquitaine","city":"Perigueux","latitude":45.18333,"longitude":0.71667}}(window,'GeoPostal','FR');

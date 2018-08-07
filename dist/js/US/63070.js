@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63070"]={"code":"63070","region":"MO","city":"Pevely","latitude":38.2799,"longitude":-90.4111}}(window,'GeoPostal','US');

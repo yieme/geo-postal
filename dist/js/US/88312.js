@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88312"]={"code":"88312","region":"New Mexico","city":"Alto","latitude":33.39861,"longitude":-105.68083}}(window,'GeoPostal','US');

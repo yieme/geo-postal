@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50480"]={"code":"50480","region":"Iowa","city":"Titonka","latitude":43.236572,"longitude":-94.040981}}(window,'GeoPostal','US');

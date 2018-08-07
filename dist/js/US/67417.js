@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67417"]={"code":"67417","region":"KS","city":"Aurora","latitude":39.4472,"longitude":-97.5304}}(window,'GeoPostal','US');

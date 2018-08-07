@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17590"]={"code":"17590","region":"Nouvelle-Aquitaine","city":"Ars-en-Re","latitude":46.20554,"longitude":-1.5272}}(window,'GeoPostal','FR');

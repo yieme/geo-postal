@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99981"]={"code":"99981","region":"Lappi","city":"Utsjoki","latitude":69.90864,"longitude":27.02843}}(window,'GeoPostal','FI');

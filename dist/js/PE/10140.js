@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10140"]={"code":"10140","region":"Huanuco","city":"Tingo Maria","latitude":-9.28951,"longitude":-76.00876}}(window,'GeoPostal','PE');

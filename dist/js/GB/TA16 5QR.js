@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA16 5QR"]={"code":"TA16 5QR","region":"England","city":"Merriott","latitude":50.91275,"longitude":-2.79538}}(window,'GeoPostal','GB');

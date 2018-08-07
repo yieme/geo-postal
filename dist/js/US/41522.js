@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41522"]={"code":"41522","region":"Kentucky","city":"Elkhorn City","latitude":37.30306,"longitude":-82.34778}}(window,'GeoPostal','US');

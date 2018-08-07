@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35281"]={"code":"35281","region":"AL","city":"Decorative Craft Ideas","latitude":33.51,"longitude":-86.8}}(window,'GeoPostal','US');

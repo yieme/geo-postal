@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78048"]={"code":"78048","region":"Bayern","city":"Schwenningen","latitude":48.65,"longitude":10.65}}(window,'GeoPostal','DE');

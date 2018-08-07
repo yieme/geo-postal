@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78340"]={"code":"78340","region":"TX","city":"Bayside","latitude":28.0968,"longitude":-97.2106}}(window,'GeoPostal','US');

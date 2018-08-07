@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85932"]={"code":"85932","region":"AZ","city":"Nutrioso","latitude":33.9531,"longitude":-109.2092}}(window,'GeoPostal','US');

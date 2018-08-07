@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74374"]={"code":"74374","region":"Auvergne-Rhone-Alpes","city":"Pringy","latitude":45.94622,"longitude":6.12608}}(window,'GeoPostal','FR');

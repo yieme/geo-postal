@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72617"]={"code":"72617","region":"Arkansas","city":"Harriet","latitude":35.99333,"longitude":-92.52056}}(window,'GeoPostal','US');

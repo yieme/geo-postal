@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12089"]={"code":"12089","region":"New York","city":"Hoosick","latitude":42.8625,"longitude":-73.328611}}(window,'GeoPostal','US');

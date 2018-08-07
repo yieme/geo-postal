@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78607"]={"code":"78607","region":"TX","city":"Bluffton","latitude":30.8256,"longitude":-98.515}}(window,'GeoPostal','US');

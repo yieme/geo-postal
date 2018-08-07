@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6337"]={"code":"6337","region":"Western Australia","city":"Jerramungup","latitude":-33.94216,"longitude":118.91732}}(window,'GeoPostal','AU');

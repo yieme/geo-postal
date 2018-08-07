@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307215"]={"code":"307215","region":"Timis","city":"Giera","latitude":45.40722,"longitude":20.99222}}(window,'GeoPostal','RO');

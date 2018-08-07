@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42166"]={"code":"42166","region":"Kentucky","city":"Summer Shade","latitude":36.89124,"longitude":-85.71546}}(window,'GeoPostal','US');

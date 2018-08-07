@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86874"]={"code":"86874","region":"Bayern","city":"Mattsies","latitude":48.08782,"longitude":10.54668}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24300"]={"code":"24300","region":"Nouvelle-Aquitaine","city":"Nontron","latitude":45.53333,"longitude":0.66667}}(window,'GeoPostal','FR');

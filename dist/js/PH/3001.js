@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3001"]={"code":"3001","region":"Bulacan","city":"Malolos","latitude":14.84194,"longitude":120.81167}}(window,'GeoPostal','PH');

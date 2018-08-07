@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68383-000"]={"code":"68383-000","region":"Para","city":"Altamira","latitude":-3.20333,"longitude":-52.20639}}(window,'GeoPostal','BR');

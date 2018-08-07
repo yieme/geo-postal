@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["136201"]={"code":"136201","region":"Jilin","city":"Liaoyuan","latitude":42.90361,"longitude":125.13583}}(window,'GeoPostal','CN');

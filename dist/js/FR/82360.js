@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82360"]={"code":"82360","region":"Occitanie","city":"Lamagistere","latitude":44.12488,"longitude":0.82486}}(window,'GeoPostal','FR');

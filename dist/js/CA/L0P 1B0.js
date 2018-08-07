@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0P 1B0"]={"code":"L0P 1B0","region":"Ontario","city":"Darbyville","latitude":43.54434,"longitude":-80.063891}}(window,'GeoPostal','CA');

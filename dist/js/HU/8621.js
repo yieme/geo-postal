@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8621"]={"code":"8621","region":"Somogy","city":"Zamardi","latitude":46.88488,"longitude":17.95366}}(window,'GeoPostal','HU');

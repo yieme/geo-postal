@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87439"]={"code":"87439","region":"Bayern","city":"Steufzgen","latitude":47.71336,"longitude":10.30555}}(window,'GeoPostal','DE');

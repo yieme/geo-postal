@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49317"]={"code":"49317","region":"MI","city":"Cannonsburg","latitude":43.0712,"longitude":-85.4809}}(window,'GeoPostal','US');

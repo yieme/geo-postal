@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397677"]={"code":"397677","region":"Moskovskaya oblast'","city":"Uzunovo","latitude":54.53858,"longitude":38.61734}}(window,'GeoPostal','RU');

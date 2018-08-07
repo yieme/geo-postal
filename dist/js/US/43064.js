@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43064"]={"code":"43064","region":"Ohio","city":"Plain City","latitude":40.09854,"longitude":-83.298}}(window,'GeoPostal','US');

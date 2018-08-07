@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 2QT"]={"code":"SA43 2QT","region":"Wales","city":"Llandygwydd","latitude":52.06349,"longitude":-4.56772}}(window,'GeoPostal','GB');

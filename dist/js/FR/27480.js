@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27480"]={"code":"27480","region":"Normandie","city":"Lyons-la-Foret","latitude":49.4003,"longitude":1.4769}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52031"]={"code":"52031","region":"IA","city":"Bellevue","latitude":42.2582,"longitude":-90.4356}}(window,'GeoPostal','US');

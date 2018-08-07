@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 9QT"]={"code":"LA12 9QT","region":"England","city":"Bardsea","latitude":54.16242,"longitude":-3.07264}}(window,'GeoPostal','GB');

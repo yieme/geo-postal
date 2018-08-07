@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249950"]={"code":"249950","region":"Kaluzhskaya oblast'","city":"Medyn'","latitude":54.96917,"longitude":35.85861}}(window,'GeoPostal','RU');

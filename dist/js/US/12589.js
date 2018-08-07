@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12589"]={"code":"12589","region":"NY","city":"Wallkill","latitude":41.616,"longitude":-74.1439}}(window,'GeoPostal','US');

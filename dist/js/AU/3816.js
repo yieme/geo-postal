@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3816"]={"code":"3816","region":"Victoria","city":"Longwarry","latitude":-38.11279,"longitude":145.76849}}(window,'GeoPostal','AU');

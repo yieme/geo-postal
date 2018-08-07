@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35603"]={"code":"35603","region":"Bretagne","city":"Redon","latitude":47.65,"longitude":-2.08333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57049"]={"code":"57049","region":"South Dakota","city":"Dakota Dunes","latitude":42.48749,"longitude":-96.48642}}(window,'GeoPostal','US');

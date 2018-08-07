@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65623"]={"code":"65623","region":"Rheinland-Pfalz","city":"Hahnstatten","latitude":50.3,"longitude":8.06667}}(window,'GeoPostal','DE');

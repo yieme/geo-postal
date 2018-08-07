@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2117"]={"code":"2117","region":"New South Wales","city":"Oatlands","latitude":-33.79595,"longitude":151.02712}}(window,'GeoPostal','AU');

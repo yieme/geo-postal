@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20746"]={"code":"20746","region":"Maryland","city":"Suitland","latitude":38.839052,"longitude":-76.917455}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15366"]={"code":"15366","region":"Brandenburg","city":"Honow-Sud","latitude":52.5346,"longitude":13.64116}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1940"]={"code":"1940","region":"Dhaka","city":"Mirzapur","latitude":24.1,"longitude":90.1}}(window,'GeoPostal','BD');

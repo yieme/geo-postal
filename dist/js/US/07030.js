@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07030"]={"code":"07030","region":"New Jersey","city":"Hoboken","latitude":40.74399,"longitude":-74.03236}}(window,'GeoPostal','US');

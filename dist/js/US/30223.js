@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30223"]={"code":"30223","region":"Georgia","city":"Griffin","latitude":33.24678,"longitude":-84.26409}}(window,'GeoPostal','US');

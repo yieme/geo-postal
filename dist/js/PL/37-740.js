@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-740"]={"code":"37-740","region":"Podkarpackie","city":"Bircza","latitude":49.69173,"longitude":22.47854}}(window,'GeoPostal','PL');

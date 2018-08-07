@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53842"]={"code":"53842","region":"Nordrhein-Westfalen","city":"Troisdorf","latitude":50.80901,"longitude":7.14968}}(window,'GeoPostal','DE');

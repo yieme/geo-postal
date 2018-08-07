@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57780-000"]={"code":"57780-000","region":"Alagoas","city":"Capela","latitude":-9.4075,"longitude":-36.07361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25140"]={"code":"25140","region":"WV","city":"Naoma","latitude":37.8676,"longitude":-81.4873}}(window,'GeoPostal','US');

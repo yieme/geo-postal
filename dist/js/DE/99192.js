@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99192"]={"code":"99192","region":"Thuringen","city":"Apfelstadt","latitude":50.90157,"longitude":10.88977}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-2000"]={"code":"MD-2000","region":"Chisinau","city":"Chisinau","latitude":47.00556,"longitude":28.8575}}(window,'GeoPostal','MD');

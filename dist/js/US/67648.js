@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67648"]={"code":"67648","region":"Kansas","city":"Lucas","latitude":39.05889,"longitude":-98.5375}}(window,'GeoPostal','US');

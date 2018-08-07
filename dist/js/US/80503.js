@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80503"]={"code":"80503","region":"Colorado","city":"Longmont","latitude":40.152134,"longitude":-105.169195}}(window,'GeoPostal','US');

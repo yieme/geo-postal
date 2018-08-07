@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28644"]={"code":"28644","region":"North Carolina","city":"Laurel Springs","latitude":36.444649,"longitude":-81.252706}}(window,'GeoPostal','US');

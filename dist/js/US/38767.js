@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38767"]={"code":"38767","region":"MS","city":"Rena Lara","latitude":34.1412,"longitude":-90.7865}}(window,'GeoPostal','US');

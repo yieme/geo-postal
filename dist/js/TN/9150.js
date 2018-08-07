@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9150"]={"code":"9150","region":"Sidi Bouzid","city":"Al Mazzunah","latitude":34.57758,"longitude":9.84193}}(window,'GeoPostal','TN');

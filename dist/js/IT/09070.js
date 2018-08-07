@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09070"]={"code":"09070","region":"Sardegna","city":"Norbello","latitude":40.13475,"longitude":8.83203}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 1C0"]={"code":"K0H 1C0","region":"Ontario","city":"Kirk Cove","latitude":44.80012,"longitude":-76.98273}}(window,'GeoPostal','CA');

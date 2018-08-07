@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6306"]={"code":"6306","region":"Bukidnon","city":"Valencia","latitude":7.90639,"longitude":125.09417}}(window,'GeoPostal','PH');

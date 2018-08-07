@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6014"]={"code":"6014","region":"Luzern","city":"Littau","latitude":47.05,"longitude":8.26274}}(window,'GeoPostal','CH');

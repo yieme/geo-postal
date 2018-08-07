@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96863"]={"code":"96863","region":"HI","city":"M C B H Kaneohe Bay","latitude":21.4505,"longitude":-157.768}}(window,'GeoPostal','US');

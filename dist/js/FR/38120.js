@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38120"]={"code":"38120","region":"Auvergne-Rhone-Alpes","city":"Fontanil-Cornillon","latitude":45.24808,"longitude":5.66434}}(window,'GeoPostal','FR');

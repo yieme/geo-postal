@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["546-905"]={"code":"546-905","region":"Jeollanam-do","city":"Beolgyo","latitude":34.84494,"longitude":127.34293}}(window,'GeoPostal','KR');

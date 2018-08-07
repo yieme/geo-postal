@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78431"]={"code":"78431","region":"Ivano-Frankivska oblast","city":"Nadvirna","latitude":48.6348,"longitude":24.56936}}(window,'GeoPostal','UA');

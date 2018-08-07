@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["657300"]={"code":"657300","region":"Yunnan","city":"Xiluodu","latitude":28.20063,"longitude":103.58226}}(window,'GeoPostal','CN');

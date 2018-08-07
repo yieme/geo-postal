@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17960"]={"code":"17960","region":"PA","city":"New Ringgold","latitude":40.7149,"longitude":-75.9484}}(window,'GeoPostal','US');

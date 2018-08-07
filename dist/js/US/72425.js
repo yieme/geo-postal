@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72425"]={"code":"72425","region":"AR","city":"Delaplaine","latitude":36.1995,"longitude":-90.7345}}(window,'GeoPostal','US');

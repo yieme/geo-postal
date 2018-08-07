@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO15 3TD"]={"code":"SO15 3TD","region":"England","city":"Southampton","latitude":50.90395,"longitude":-1.40428}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57200"]={"code":"57200","region":"Holguin","city":"Holguin","latitude":20.88722,"longitude":-76.26306}}(window,'GeoPostal','CU');

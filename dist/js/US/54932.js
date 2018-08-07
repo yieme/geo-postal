@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54932"]={"code":"54932","region":"WI","city":"Eldorado","latitude":43.8415,"longitude":-88.6388}}(window,'GeoPostal','US');

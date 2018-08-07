@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07160"]={"code":"07160","region":"Istanbul","city":"merter keresteciler","latitude":41.01295,"longitude":28.88593}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1Z0"]={"code":"B0M 1Z0","region":"Nova Scotia","city":"Wentworth Centre","latitude":45.66685,"longitude":-63.5487}}(window,'GeoPostal','CA');

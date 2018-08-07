@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224631"]={"code":"224631","region":"Jiangsu","city":"Chenjiagang","latitude":34.37861,"longitude":119.80306}}(window,'GeoPostal','CN');

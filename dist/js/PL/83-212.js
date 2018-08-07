@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-212"]={"code":"83-212","region":"Pomorskie","city":"Bobowo","latitude":53.88378,"longitude":18.55681}}(window,'GeoPostal','PL');

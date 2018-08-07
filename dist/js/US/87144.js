@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87144"]={"code":"87144","region":"NM","city":"Rio Rancho","latitude":35.324,"longitude":-106.7099}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5500"]={"code":"5500","region":"Syddanmark","city":"Middelfart","latitude":55.50591,"longitude":9.73054}}(window,'GeoPostal','DK');

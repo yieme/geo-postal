@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84022"]={"code":"84022","region":"Utah","city":"Dugway","latitude":40.23111,"longitude":-112.75139}}(window,'GeoPostal','US');

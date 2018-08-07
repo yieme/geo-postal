@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4550"]={"code":"4550","region":"Salta","city":"Embarcacion","latitude":-23.20898,"longitude":-64.09605}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70601"]={"code":"70601","region":"Louisiana","city":"Lake Charles","latitude":30.21309,"longitude":-93.2044}}(window,'GeoPostal','US');

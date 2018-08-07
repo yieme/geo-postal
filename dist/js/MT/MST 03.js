@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MST 03"]={"code":"MST 03","region":"Valletta","city":"Valletta","latitude":35.89972,"longitude":14.51472}}(window,'GeoPostal','MT');

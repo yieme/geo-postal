@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46160"]={"code":"46160","region":"Kalasin","city":"Na Khu","latitude":16.76384,"longitude":104.02626}}(window,'GeoPostal','TH');

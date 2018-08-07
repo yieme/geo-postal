@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82020"]={"code":"82020","region":"Campania","city":"San Giorgio la Molara","latitude":41.27302,"longitude":14.93034}}(window,'GeoPostal','IT');

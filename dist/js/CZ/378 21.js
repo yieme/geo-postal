@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["378 21"]={"code":"378 21","region":"Jihocesky kraj","city":"Kardasova Recice","latitude":49.18478,"longitude":14.85315}}(window,'GeoPostal','CZ');

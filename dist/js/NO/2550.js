@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2550"]={"code":"2550","region":"Hedmark","city":"Os","latitude":62.49647,"longitude":11.22326}}(window,'GeoPostal','NO');

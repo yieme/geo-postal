@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-110"]={"code":"36-110","region":"Podkarpackie","city":"Majdan Krolewski","latitude":50.37935,"longitude":21.74615}}(window,'GeoPostal','PL');

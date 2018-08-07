@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67756"]={"code":"67756","region":"Kansas","city":"Saint Francis","latitude":39.77222,"longitude":-101.7999}}(window,'GeoPostal','US');

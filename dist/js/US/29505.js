@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29505"]={"code":"29505","region":"South Carolina","city":"Florence","latitude":34.128209,"longitude":-79.749503}}(window,'GeoPostal','US');

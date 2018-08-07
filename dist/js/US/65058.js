@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65058"]={"code":"65058","region":"MO","city":"Meta","latitude":38.25,"longitude":-92.1358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61089"]={"code":"61089","region":"IL","city":"Winslow","latitude":42.4838,"longitude":-89.806}}(window,'GeoPostal','US');

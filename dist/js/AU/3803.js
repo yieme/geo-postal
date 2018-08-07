@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3803"]={"code":"3803","region":"Victoria","city":"Hallam","latitude":-38.01667,"longitude":145.26667}}(window,'GeoPostal','AU');

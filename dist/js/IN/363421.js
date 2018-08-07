@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363421"]={"code":"363421","region":"Gujarat","city":"Limbdi","latitude":22.56667,"longitude":71.8}}(window,'GeoPostal','IN');

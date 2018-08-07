@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70736"]={"code":"70736","region":"Baden-Wurttemberg","city":"Fellbach","latitude":48.80912,"longitude":9.27697}}(window,'GeoPostal','DE');

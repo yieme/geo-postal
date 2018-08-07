@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08047"]={"code":"08047","region":"Sardegna","city":"Tertenia","latitude":39.69806,"longitude":9.57278}}(window,'GeoPostal','IT');

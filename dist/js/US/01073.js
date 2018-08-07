@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01073"]={"code":"01073","region":"MA","city":"Southampton","latitude":42.2247,"longitude":-72.7194}}(window,'GeoPostal','US');

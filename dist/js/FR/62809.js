@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62809"]={"code":"62809","region":"Hauts-de-France","city":"Lievin","latitude":50.4198,"longitude":2.78068}}(window,'GeoPostal','FR');

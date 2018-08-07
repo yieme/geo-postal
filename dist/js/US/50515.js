@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50515"]={"code":"50515","region":"IA","city":"Ayrshire","latitude":43.037,"longitude":-94.8478}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63826"]={"code":"63826","region":"Bayern","city":"Geiselbach","latitude":50.11667,"longitude":9.2}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6751"]={"code":"6751","region":"Vorarlberg","city":"Bludenz","latitude":47.14972,"longitude":9.81667}}(window,'GeoPostal','AT');

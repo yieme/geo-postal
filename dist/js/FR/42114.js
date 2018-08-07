@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42114"]={"code":"42114","region":"Auvergne-Rhone-Alpes","city":"Chirassimont","latitude":45.9144,"longitude":4.2861}}(window,'GeoPostal','FR');

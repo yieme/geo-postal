@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20895"]={"code":"20895","region":"Maryland","city":"Kensington","latitude":39.029188,"longitude":-77.07946}}(window,'GeoPostal','US');

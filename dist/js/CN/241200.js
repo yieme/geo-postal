@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241200"]={"code":"241200","region":"Anhui","city":"Fanyang","latitude":31.08471,"longitude":118.19425}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4863"]={"code":"4863","region":"Manawatu-Wanganui","city":"Bulls","latitude":-40.16667,"longitude":175.38333}}(window,'GeoPostal','NZ');

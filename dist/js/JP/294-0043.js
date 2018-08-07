@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294-0043"]={"code":"294-0043","region":"Chiba","city":"Tateyama","latitude":35,"longitude":139.867}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78585"]={"code":"78585","region":"TX","city":"Salineno","latitude":26.5164,"longitude":-99.1123}}(window,'GeoPostal','US');

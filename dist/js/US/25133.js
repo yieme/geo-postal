@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25133"]={"code":"25133","region":"West Virginia","city":"Maysel","latitude":38.484904,"longitude":-81.123683}}(window,'GeoPostal','US');

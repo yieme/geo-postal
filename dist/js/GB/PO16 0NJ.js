@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO16 0NJ"]={"code":"PO16 0NJ","region":"England","city":"Fareham","latitude":50.85162,"longitude":-1.17929}}(window,'GeoPostal','GB');

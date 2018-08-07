@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 4WA"]={"code":"LE7 4WA","region":"England","city":"Gaddesby","latitude":52.71397,"longitude":-0.98137}}(window,'GeoPostal','GB');

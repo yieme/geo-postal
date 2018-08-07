@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73043"]={"code":"73043","region":"Oklahoma","city":"Greenfield","latitude":35.74455,"longitude":-98.38725}}(window,'GeoPostal','US');

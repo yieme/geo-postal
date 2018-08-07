@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69210"]={"code":"69210","region":"Nebraska","city":"Ainsworth","latitude":42.55,"longitude":-99.86262}}(window,'GeoPostal','US');

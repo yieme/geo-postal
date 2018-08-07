@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529200"]={"code":"529200","region":"Guangdong","city":"Taishan","latitude":22.25,"longitude":112.783333}}(window,'GeoPostal','CN');

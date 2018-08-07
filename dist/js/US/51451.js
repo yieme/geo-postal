@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51451"]={"code":"51451","region":"IA","city":"Lanesboro","latitude":42.1845,"longitude":-94.6917}}(window,'GeoPostal','US');

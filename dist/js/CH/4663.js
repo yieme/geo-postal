@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4663"]={"code":"4663","region":"Aargau","city":"Aarburg","latitude":47.32067,"longitude":7.89986}}(window,'GeoPostal','CH');

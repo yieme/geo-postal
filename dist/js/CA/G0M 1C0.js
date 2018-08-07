@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1C0"]={"code":"G0M 1C0","region":"Quebec","city":"Courcelles","latitude":45.86677,"longitude":-70.98235}}(window,'GeoPostal','CA');

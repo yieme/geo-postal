@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41950"]={"code":"41950","region":"Castilla y Leon","city":"La Cuesta","latitude":41.0828,"longitude":-3.96017}}(window,'GeoPostal','ES');

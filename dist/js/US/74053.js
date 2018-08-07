@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74053"]={"code":"74053","region":"OK","city":"Oologah","latitude":36.4482,"longitude":-95.7047}}(window,'GeoPostal','US');

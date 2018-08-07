@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80230"]={"code":"80230","region":"Nakhon Si Thammarat","city":"Lan Saka","latitude":8.37097,"longitude":99.80564}}(window,'GeoPostal','TH');

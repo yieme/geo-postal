@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87231"]={"code":"87231","region":"Donetska oblast","city":"Novyy Svit","latitude":47.80591,"longitude":38.02112}}(window,'GeoPostal','UA');

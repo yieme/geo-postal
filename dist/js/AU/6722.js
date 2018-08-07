@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6722"]={"code":"6722","region":"Western Australia","city":"South Hedland","latitude":-20.40655,"longitude":118.60069}}(window,'GeoPostal','AU');

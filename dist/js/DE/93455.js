@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93455"]={"code":"93455","region":"Bayern","city":"Sattelpeilnstein","latitude":49.1268,"longitude":12.6694}}(window,'GeoPostal','DE');

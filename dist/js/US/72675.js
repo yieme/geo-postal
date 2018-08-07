@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72675"]={"code":"72675","region":"AR","city":"Saint Joe","latitude":35.9877,"longitude":-92.7928}}(window,'GeoPostal','US');

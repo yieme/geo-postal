@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05681"]={"code":"05681","region":"VT","city":"Woodbury","latitude":44.4548,"longitude":-72.4036}}(window,'GeoPostal','US');

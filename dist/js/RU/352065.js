@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352065"]={"code":"352065","region":"Krasnodarskiy kray","city":"Atamanskaya","latitude":46.1773,"longitude":39.6358}}(window,'GeoPostal','RU');

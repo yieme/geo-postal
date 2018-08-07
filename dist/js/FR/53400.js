@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53400"]={"code":"53400","region":"Pays-de-la-Loire","city":"Craon","latitude":47.84688,"longitude":-0.94929}}(window,'GeoPostal','FR');

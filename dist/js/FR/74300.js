@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74300"]={"code":"74300","region":"Auvergne-Rhone-Alpes","city":"Chatillon-sur-Cluses","latitude":46.09108,"longitude":6.58689}}(window,'GeoPostal','FR');

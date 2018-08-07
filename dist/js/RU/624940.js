@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624940"]={"code":"624940","region":"Sverdlovskaya oblast'","city":"Volchansk","latitude":59.9378,"longitude":60.081}}(window,'GeoPostal','RU');

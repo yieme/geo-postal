@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37760"]={"code":"37760","region":"Tennessee","city":"Jefferson City","latitude":36.120723,"longitude":-83.492021}}(window,'GeoPostal','US');

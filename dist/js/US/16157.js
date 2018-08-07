@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16157"]={"code":"16157","region":"PA","city":"Wampum","latitude":40.8819,"longitude":-80.3392}}(window,'GeoPostal','US');

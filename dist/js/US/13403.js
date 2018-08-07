@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13403"]={"code":"13403","region":"New York","city":"Marcy","latitude":43.167,"longitude":-75.283}}(window,'GeoPostal','US');

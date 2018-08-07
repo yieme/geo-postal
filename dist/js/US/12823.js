@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12823"]={"code":"12823","region":"NY","city":"Cossayuna","latitude":43.1837,"longitude":-73.4268}}(window,'GeoPostal','US');

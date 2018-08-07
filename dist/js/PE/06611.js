@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06611"]={"code":"06611","region":"Cajamarca","city":"Jaen","latitude":-5.70806,"longitude":-78.80472}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39657"]={"code":"39657","region":"Mississippi","city":"Osyka","latitude":31.00722,"longitude":-90.47111}}(window,'GeoPostal','US');

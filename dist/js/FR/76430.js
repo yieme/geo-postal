@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76430"]={"code":"76430","region":"Normandie","city":"Saint-Aubin-Routot","latitude":49.52341,"longitude":0.32602}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15311"]={"code":"15311","region":"Macvanski okrug","city":"Durici","latitude":43.82472,"longitude":19.41139}}(window,'GeoPostal','RS');

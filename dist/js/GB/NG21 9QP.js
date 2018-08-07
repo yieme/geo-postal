@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG21 9QP"]={"code":"NG21 9QP","region":"England","city":"Edwinstowe","latitude":53.19454,"longitude":-1.06439}}(window,'GeoPostal','GB');

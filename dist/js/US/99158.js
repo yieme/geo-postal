@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99158"]={"code":"99158","region":"WA","city":"Oakesdale","latitude":47.1282,"longitude":-117.2427}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03023"]={"code":"03023","region":"Lazio","city":"Ceccano","latitude":41.56772,"longitude":13.3333}}(window,'GeoPostal','IT');

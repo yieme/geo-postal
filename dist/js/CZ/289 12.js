@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 12"]={"code":"289 12","region":"Stredocesky kraj","city":"Sadska","latitude":50.13596,"longitude":14.98633}}(window,'GeoPostal','CZ');

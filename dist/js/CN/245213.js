@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245213"]={"code":"245213","region":"Anhui","city":"Zhupu","latitude":30.03753,"longitude":118.83217}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-133"]={"code":"42-133","region":"Slaskie","city":"Truskolasy","latitude":50.86692,"longitude":18.82705}}(window,'GeoPostal','PL');

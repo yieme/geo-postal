@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06481"]={"code":"06481","region":"Connecticut","city":"Shelton","latitude":41.533587,"longitude":-72.698924}}(window,'GeoPostal','US');

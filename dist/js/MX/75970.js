@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75970"]={"code":"75970","region":"Puebla","city":"San Jose Miahuatlan","latitude":18.28333,"longitude":-97.28333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69350"]={"code":"69350","region":"NE","city":"Hyannis","latitude":42.007,"longitude":-101.7483}}(window,'GeoPostal','US');

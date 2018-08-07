@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W1J 5LW"]={"code":"W1J 5LW","region":"England","city":"Fitzrovia","latitude":51.51859,"longitude":-0.13478}}(window,'GeoPostal','GB');

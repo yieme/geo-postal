@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96337"]={"code":"96337","region":"Bayern","city":"Ludwigsstadt","latitude":50.48605,"longitude":11.38734}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19010"]={"code":"19010","region":"Pennsylvania","city":"Bryn Mawr","latitude":40.02636,"longitude":-75.33438}}(window,'GeoPostal','US');

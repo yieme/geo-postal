@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19374"]={"code":"19374","region":"PA","city":"Toughkenamon","latitude":39.8315,"longitude":-75.7574}}(window,'GeoPostal','US');

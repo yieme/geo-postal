@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692995"]={"code":"692995","region":"Primorskiy kray","city":"Preobrazheniye","latitude":42.90194,"longitude":133.90639}}(window,'GeoPostal','RU');

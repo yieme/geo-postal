@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19348"]={"code":"19348","region":"Pennsylvania","city":"Kennett Square","latitude":39.860174,"longitude":-75.703047}}(window,'GeoPostal','US');

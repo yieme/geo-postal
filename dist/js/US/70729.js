@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70729"]={"code":"70729","region":"LA","city":"Erwinville","latitude":30.548,"longitude":-91.4187}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31727"]={"code":"31727","region":"GA","city":"Brookfield","latitude":31.4417,"longitude":-83.5037}}(window,'GeoPostal','US');

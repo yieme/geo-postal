@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16743"]={"code":"16743","region":"Pennsylvania","city":"Port Allegany","latitude":41.8109,"longitude":-78.27974}}(window,'GeoPostal','US');

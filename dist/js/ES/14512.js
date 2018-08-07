@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14512"]={"code":"14512","region":"Andalucia","city":"Puente-Genil","latitude":37.38943,"longitude":-4.76686}}(window,'GeoPostal','ES');

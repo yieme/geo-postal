@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32456"]={"code":"32456","region":"Galicia","city":"San Amaro","latitude":42.37385,"longitude":-8.07347}}(window,'GeoPostal','ES');

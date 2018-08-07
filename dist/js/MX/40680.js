@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40680"]={"code":"40680","region":"Guerrero","city":"Tlalchapa","latitude":18.4,"longitude":-100.46667}}(window,'GeoPostal','MX');

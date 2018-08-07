@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91275"]={"code":"91275","region":"Bayern","city":"Welluck","latitude":49.68194,"longitude":11.63928}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-440"]={"code":"22-440","region":"Lubelskie","city":"Krasnobrod","latitude":50.54551,"longitude":23.21308}}(window,'GeoPostal','PL');

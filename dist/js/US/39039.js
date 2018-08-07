@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39039"]={"code":"39039","region":"Mississippi","city":"Benton","latitude":32.871188,"longitude":-90.468064}}(window,'GeoPostal','US');

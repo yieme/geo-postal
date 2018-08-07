@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399 01"]={"code":"399 01","region":"Jihocesky kraj","city":"Milevsko","latitude":49.45089,"longitude":14.36}}(window,'GeoPostal','CZ');

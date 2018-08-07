@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98028"]={"code":"98028","region":"Sicilia","city":"Santa Teresa di Riva","latitude":37.94696,"longitude":15.36769}}(window,'GeoPostal','IT');

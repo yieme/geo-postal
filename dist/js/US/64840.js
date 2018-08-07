@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64840"]={"code":"64840","region":"MO","city":"Diamond","latitude":37.006,"longitude":-94.3204}}(window,'GeoPostal','US');

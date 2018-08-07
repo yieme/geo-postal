@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12987"]={"code":"12987","region":"NY","city":"Upper Jay","latitude":44.3364,"longitude":-73.7757}}(window,'GeoPostal','US');

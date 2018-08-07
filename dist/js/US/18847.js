@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18847"]={"code":"18847","region":"Pennsylvania","city":"Susquehanna","latitude":41.94341,"longitude":-75.59963}}(window,'GeoPostal','US');

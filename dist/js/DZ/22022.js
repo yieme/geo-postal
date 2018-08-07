@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22022"]={"code":"22022","region":"Sidi Bel Abbes","city":"'Ain el Berd","latitude":35.36395,"longitude":-0.51278}}(window,'GeoPostal','DZ');

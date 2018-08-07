@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07606"]={"code":"07606","region":"New Jersey","city":"South Hackensack","latitude":40.865832,"longitude":-74.048795}}(window,'GeoPostal','US');

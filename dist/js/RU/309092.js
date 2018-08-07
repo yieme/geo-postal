@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309092"]={"code":"309092","region":"Pskovskaya oblast'","city":"Loknya","latitude":56.82998,"longitude":30.14665}}(window,'GeoPostal','RU');

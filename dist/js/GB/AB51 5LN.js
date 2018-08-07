@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 5LN"]={"code":"AB51 5LN","region":"Scotland","city":"Craigearn","latitude":57.21762,"longitude":-2.46095}}(window,'GeoPostal','GB');

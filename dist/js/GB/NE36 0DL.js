@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE36 0DL"]={"code":"NE36 0DL","region":"England","city":"East Boldon","latitude":54.94452,"longitude":-1.42815}}(window,'GeoPostal','GB');

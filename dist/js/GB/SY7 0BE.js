@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 0BE"]={"code":"SY7 0BE","region":"England","city":"Bedstone","latitude":52.37479,"longitude":-2.92727}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22509"]={"code":"22509","region":"VA","city":"Loretto","latitude":38.0789,"longitude":-77.0485}}(window,'GeoPostal','US');

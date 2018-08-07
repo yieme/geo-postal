@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18976"]={"code":"18976","region":"Pennsylvania","city":"Warrington","latitude":40.240986,"longitude":-75.131459}}(window,'GeoPostal','US');

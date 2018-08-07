@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54952"]={"code":"54952","region":"Wisconsin","city":"Menasha","latitude":44.214571,"longitude":-88.432315}}(window,'GeoPostal','US');

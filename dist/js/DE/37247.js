@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37247"]={"code":"37247","region":"Hessen","city":"Ringenkuhl","latitude":51.2566,"longitude":9.74202}}(window,'GeoPostal','DE');

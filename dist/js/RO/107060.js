@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107060"]={"code":"107060","region":"Prahova","city":"Berceni","latitude":44.31417,"longitude":26.18556}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63874"]={"code":"63874","region":"MO","city":"Risco","latitude":36.5534,"longitude":-89.8179}}(window,'GeoPostal','US');

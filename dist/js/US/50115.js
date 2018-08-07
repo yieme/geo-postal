@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50115"]={"code":"50115","region":"Iowa","city":"Guthrie Center","latitude":41.67721,"longitude":-94.5033}}(window,'GeoPostal','US');

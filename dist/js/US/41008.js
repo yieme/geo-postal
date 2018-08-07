@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41008"]={"code":"41008","region":"Kentucky","city":"Carrollton","latitude":38.6809,"longitude":-85.1794}}(window,'GeoPostal','US');

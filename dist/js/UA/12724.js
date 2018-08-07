@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12724"]={"code":"12724","region":"Zhytomyrska oblast","city":"Dovbysh","latitude":50.37332,"longitude":27.98742}}(window,'GeoPostal','UA');

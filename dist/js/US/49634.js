@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49634"]={"code":"49634","region":"MI","city":"Filer City","latitude":44.2153,"longitude":-86.2873}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06239"]={"code":"06239","region":"Connecticut","city":"Brooklyn","latitude":41.79048,"longitude":-71.85588}}(window,'GeoPostal','US');

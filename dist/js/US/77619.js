@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77619"]={"code":"77619","region":"TX","city":"Groves","latitude":29.9448,"longitude":-93.9152}}(window,'GeoPostal','US');

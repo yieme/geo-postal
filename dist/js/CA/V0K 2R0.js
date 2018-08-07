@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 2R0"]={"code":"V0K 2R0","region":"British Columbia","city":"Wells","latitude":53.10552,"longitude":-121.57359}}(window,'GeoPostal','CA');

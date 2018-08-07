@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3170"]={"code":"3170","region":"Niederosterreich","city":"Hainfeld","latitude":48.0339,"longitude":15.77414}}(window,'GeoPostal','AT');

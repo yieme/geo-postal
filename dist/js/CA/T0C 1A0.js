@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1A0"]={"code":"T0C 1A0","region":"Alberta","city":"Compeer","latitude":51.86683,"longitude":-110.00158}}(window,'GeoPostal','CA');

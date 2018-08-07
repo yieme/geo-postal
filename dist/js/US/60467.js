@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60467"]={"code":"60467","region":"Illinois","city":"Orland Park","latitude":41.5894,"longitude":-87.884}}(window,'GeoPostal','US');

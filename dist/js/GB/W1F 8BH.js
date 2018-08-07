@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W1F 8BH"]={"code":"W1F 8BH","region":"England","city":"Fitzrovia","latitude":51.51859,"longitude":-0.13478}}(window,'GeoPostal','GB');

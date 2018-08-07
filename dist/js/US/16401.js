@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16401"]={"code":"16401","region":"Pennsylvania","city":"Albion","latitude":40.95895,"longitude":-78.94698}}(window,'GeoPostal','US');

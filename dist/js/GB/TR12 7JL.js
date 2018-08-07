@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 7JL"]={"code":"TR12 7JL","region":"England","city":"Ruan Minor","latitude":49.99337,"longitude":-5.18216}}(window,'GeoPostal','GB');

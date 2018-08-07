@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27539"]={"code":"27539","region":"North Carolina","city":"Apex","latitude":35.6775,"longitude":-78.7763}}(window,'GeoPostal','US');

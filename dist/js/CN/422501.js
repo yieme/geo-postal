@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422501"]={"code":"422501","region":"Hunan","city":"Maoping","latitude":26.51972,"longitude":110.41194}}(window,'GeoPostal','CN');

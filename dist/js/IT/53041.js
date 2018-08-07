@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53041"]={"code":"53041","region":"Toscana","city":"Asciano","latitude":43.23514,"longitude":11.57634}}(window,'GeoPostal','IT');

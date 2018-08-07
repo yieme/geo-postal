@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45693"]={"code":"45693","region":"Ohio","city":"West Union","latitude":38.79452,"longitude":-83.54519}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55580-000"]={"code":"55580-000","region":"Pernambuco","city":"Rio Formoso","latitude":-8.66361,"longitude":-35.15861}}(window,'GeoPostal','BR');

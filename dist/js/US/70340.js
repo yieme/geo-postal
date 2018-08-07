@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70340"]={"code":"70340","region":"LA","city":"Amelia","latitude":29.6663,"longitude":-91.102}}(window,'GeoPostal','US');

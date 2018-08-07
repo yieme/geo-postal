@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45400"]={"code":"45400","region":"Janakpur","city":"Ramechhap","latitude":27.3256,"longitude":86.08768}}(window,'GeoPostal','NP');

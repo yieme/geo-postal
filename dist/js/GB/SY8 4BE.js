@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 4BE"]={"code":"SY8 4BE","region":"England","city":"Middleton on the Hill","latitude":52.27461,"longitude":-2.67075}}(window,'GeoPostal','GB');

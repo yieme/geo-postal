@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80543"]={"code":"80543","region":"CO","city":"Milliken","latitude":40.3294,"longitude":-104.8552}}(window,'GeoPostal','US');

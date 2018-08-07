@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20480"]={"code":"20480","region":"Piura","city":"Huancabamba","latitude":-5.23861,"longitude":-79.45056}}(window,'GeoPostal','PE');

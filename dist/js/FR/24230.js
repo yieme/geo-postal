@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24230"]={"code":"24230","region":"Nouvelle-Aquitaine","city":"Velines","latitude":44.85,"longitude":0.11667}}(window,'GeoPostal','FR');

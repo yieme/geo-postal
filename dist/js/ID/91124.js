@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91124"]={"code":"91124","region":"Sulawesi Selatan","city":"Harapankarya","latitude":-3.9893,"longitude":119.6438}}(window,'GeoPostal','ID');

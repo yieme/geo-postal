@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26348"]={"code":"26348","region":"WV","city":"Folsom","latitude":39.4693,"longitude":-80.5258}}(window,'GeoPostal','US');

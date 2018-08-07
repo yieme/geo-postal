@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65011"]={"code":"65011","region":"Sindh","city":"Tando Mittha Khan","latitude":25.99444,"longitude":69.20247}}(window,'GeoPostal','PK');

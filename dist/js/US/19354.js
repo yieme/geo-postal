@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19354"]={"code":"19354","region":"PA","city":"Lyndell","latitude":40.0582,"longitude":-75.7433}}(window,'GeoPostal','US');

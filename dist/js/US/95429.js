@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95429"]={"code":"95429","region":"California","city":"Dos Rios","latitude":39.70638,"longitude":-123.32424}}(window,'GeoPostal','US');

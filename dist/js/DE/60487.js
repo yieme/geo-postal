@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60487"]={"code":"60487","region":"Hessen","city":"Industriehof","latitude":50.1268,"longitude":8.6262}}(window,'GeoPostal','DE');

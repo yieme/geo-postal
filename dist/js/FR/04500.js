@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04500"]={"code":"04500","region":"Provence-Alpes-Cote d'Azur","city":"Riez","latitude":43.81793,"longitude":6.09295}}(window,'GeoPostal','FR');

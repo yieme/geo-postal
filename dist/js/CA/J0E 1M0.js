@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1M0"]={"code":"J0E 1M0","region":"Quebec","city":"Dunham","latitude":45.13338,"longitude":-72.79913}}(window,'GeoPostal','CA');

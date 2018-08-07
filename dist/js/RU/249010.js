@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249010"]={"code":"249010","region":"Kaluzhskaya oblast'","city":"Borovsk","latitude":55.20639,"longitude":36.48611}}(window,'GeoPostal','RU');

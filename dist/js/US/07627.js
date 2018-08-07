@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07627"]={"code":"07627","region":"New Jersey","city":"Demarest","latitude":40.954994,"longitude":-73.960066}}(window,'GeoPostal','US');

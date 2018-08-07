@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54004"]={"code":"54004","region":"Wisconsin","city":"Clayton","latitude":45.329634,"longitude":-92.169275}}(window,'GeoPostal','US');

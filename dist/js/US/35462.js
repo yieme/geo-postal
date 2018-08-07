@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35462"]={"code":"35462","region":"Alabama","city":"Eutaw","latitude":32.84068,"longitude":-87.88751}}(window,'GeoPostal','US');

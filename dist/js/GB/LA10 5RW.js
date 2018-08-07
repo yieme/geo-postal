@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA10 5RW"]={"code":"LA10 5RW","region":"England","city":"Newby Head","latitude":54.25,"longitude":-2.31667}}(window,'GeoPostal','GB');

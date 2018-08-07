@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26753"]={"code":"26753","region":"West Virginia","city":"Ridgeley","latitude":39.64306,"longitude":-78.76917}}(window,'GeoPostal','US');

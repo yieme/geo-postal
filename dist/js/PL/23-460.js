@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-460"]={"code":"23-460","region":"Mazowieckie","city":"Jozefow","latitude":52.13707,"longitude":21.23589}}(window,'GeoPostal','PL');

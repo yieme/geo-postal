@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92700"]={"code":"92700","region":"Bayern","city":"Schickenhof","latitude":49.64162,"longitude":11.94214}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57741"]={"code":"57741","region":"SD","city":"Fort Meade","latitude":44.4093,"longitude":-103.4554}}(window,'GeoPostal','US');

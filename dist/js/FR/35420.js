@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35420"]={"code":"35420","region":"Bretagne","city":"Louvigne-du-Desert","latitude":48.48047,"longitude":-1.12537}}(window,'GeoPostal','FR');

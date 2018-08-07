@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78024"]={"code":"78024","region":"TX","city":"Hunt","latitude":30.0027,"longitude":-99.4823}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["283110"]={"code":"283110","region":"Uttar Pradesh","city":"Fatehpur Sikri","latitude":27.0937,"longitude":77.66003}}(window,'GeoPostal','IN');

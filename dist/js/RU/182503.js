@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182503"]={"code":"182503","region":"Pskovskaya oblast'","city":"Nevel'","latitude":56.02094,"longitude":29.92844}}(window,'GeoPostal','RU');

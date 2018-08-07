@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01011"]={"code":"01011","region":"Lazio","city":"Canino","latitude":42.46402,"longitude":11.75115}}(window,'GeoPostal','IT');

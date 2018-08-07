@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53225"]={"code":"53225","region":"Nordrhein-Westfalen","city":"Bonn","latitude":50.73438,"longitude":7.09548}}(window,'GeoPostal','DE');

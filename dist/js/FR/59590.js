@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59590"]={"code":"59590","region":"Hauts-de-France","city":"Raismes","latitude":50.38333,"longitude":3.48333}}(window,'GeoPostal','FR');

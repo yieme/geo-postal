@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4830"]={"code":"4830","region":"Misiones","city":"Ayolas","latitude":-27.4,"longitude":-56.9}}(window,'GeoPostal','PY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-527"]={"code":"21-527","region":"Lubelskie","city":"Biala Podlaska","latitude":52.03238,"longitude":23.11652}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 4JE"]={"code":"PO30 4JE","region":"England","city":"Calbourne","latitude":50.6777,"longitude":-1.40024}}(window,'GeoPostal','GB');

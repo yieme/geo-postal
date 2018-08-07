@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77867"]={"code":"77867","region":"TX","city":"Mumford","latitude":30.7344,"longitude":-96.565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29704"]={"code":"29704","region":"SC","city":"Catawba","latitude":34.8507,"longitude":-80.9342}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79778"]={"code":"79778","region":"Texas","city":"Rankin","latitude":31.224621,"longitude":-101.943153}}(window,'GeoPostal','US');

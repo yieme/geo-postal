@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB55 5NU"]={"code":"AB55 5NU","region":"Scotland","city":"Fife Keith","latitude":57.53333,"longitude":-2.96667}}(window,'GeoPostal','GB');

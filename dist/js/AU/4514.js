@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4514"]={"code":"4514","region":"Queensland","city":"D'Aguilar","latitude":-26.98333,"longitude":152.8}}(window,'GeoPostal','AU');

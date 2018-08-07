@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59675-000"]={"code":"59675-000","region":"Rio Grande do Norte","city":"Areia Branca","latitude":-4.95611,"longitude":-37.13694}}(window,'GeoPostal','BR');

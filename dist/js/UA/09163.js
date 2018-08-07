@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09163"]={"code":"09163","region":"Kyivska oblast","city":"Uzyn","latitude":49.82619,"longitude":30.41487}}(window,'GeoPostal','UA');

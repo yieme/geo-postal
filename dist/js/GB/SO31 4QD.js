@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO31 4QD"]={"code":"SO31 4QD","region":"Wales","city":"Nash","latitude":51.54889,"longitude":-2.94611}}(window,'GeoPostal','GB');

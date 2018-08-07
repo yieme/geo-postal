@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43443"]={"code":"43443","region":"Ohio","city":"Luckey","latitude":41.457384,"longitude":-83.478615}}(window,'GeoPostal','US');

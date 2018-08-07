@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31140"]={"code":"31140","region":"Navarra, Comunidad Foral de","city":"Artajona","latitude":42.58867,"longitude":-1.76504}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4401"]={"code":"MD-4401","region":"Calarasi","city":"Calarasi","latitude":47.25444,"longitude":28.30806}}(window,'GeoPostal','MD');

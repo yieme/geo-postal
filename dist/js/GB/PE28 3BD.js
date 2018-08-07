@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 3BD"]={"code":"PE28 3BD","region":"England","city":"Old Hurst","latitude":52.37649,"longitude":-0.09205}}(window,'GeoPostal','GB');

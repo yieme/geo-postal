@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR3 4BX"]={"code":"NR3 4BX","region":"England","city":"Blyth","latitude":53.37862,"longitude":-1.0625}}(window,'GeoPostal','GB');

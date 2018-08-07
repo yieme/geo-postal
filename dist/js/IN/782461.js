@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["782461"]={"code":"782461","region":"Assam","city":"Diphu","latitude":25.83333,"longitude":93.43333}}(window,'GeoPostal','IN');

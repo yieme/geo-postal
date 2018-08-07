@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16210"]={"code":"16210","region":"Castilla-La Mancha","city":"Campillo de Altobuey","latitude":39.6,"longitude":-1.8}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48049"]={"code":"48049","region":"MI","city":"North Street","latitude":43.0349,"longitude":-82.5748}}(window,'GeoPostal','US');

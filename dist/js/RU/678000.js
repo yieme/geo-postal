@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678000"]={"code":"678000","region":"Saha, Respublika","city":"Pokrovsk","latitude":61.47806,"longitude":129.12722}}(window,'GeoPostal','RU');

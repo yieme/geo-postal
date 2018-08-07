@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626001"]={"code":"626001","region":"Sichuan","city":"Kangding","latitude":30.05127,"longitude":101.96033}}(window,'GeoPostal','CN');

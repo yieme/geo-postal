@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48724"]={"code":"48724","region":"MI","city":"Carrollton","latitude":43.4586,"longitude":-83.9303}}(window,'GeoPostal','US');

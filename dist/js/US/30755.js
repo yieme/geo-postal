@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30755"]={"code":"30755","region":"GA","city":"Tunnel Hill","latitude":34.8541,"longitude":-85.0468}}(window,'GeoPostal','US');

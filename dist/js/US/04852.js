@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04852"]={"code":"04852","region":"Maine","city":"Monhegan","latitude":43.765658,"longitude":-69.312829}}(window,'GeoPostal','US');

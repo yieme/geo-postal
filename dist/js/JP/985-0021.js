@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["985-0021"]={"code":"985-0021","region":"Miyagi","city":"Shiogama","latitude":38.31472,"longitude":141.02222}}(window,'GeoPostal','JP');

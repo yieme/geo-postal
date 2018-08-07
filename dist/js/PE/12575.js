@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12575"]={"code":"12575","region":"Junin","city":"La Oroya","latitude":-11.51893,"longitude":-75.89935}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32337"]={"code":"32337","region":"FL","city":"Lloyd","latitude":30.4778,"longitude":-84.0228}}(window,'GeoPostal','US');

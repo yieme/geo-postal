@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9371"]={"code":"9371","region":"Karnten","city":"Bruckl","latitude":46.75167,"longitude":14.53667}}(window,'GeoPostal','AT');

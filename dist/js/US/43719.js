@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43719"]={"code":"43719","region":"OH","city":"Bethesda","latitude":40.0192,"longitude":-81.0767}}(window,'GeoPostal','US');

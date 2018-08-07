@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574278"]={"code":"574278","region":"Karnataka","city":"Karkal","latitude":13.2,"longitude":74.98333}}(window,'GeoPostal','IN');

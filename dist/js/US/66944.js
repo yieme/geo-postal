@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66944"]={"code":"66944","region":"KS","city":"Haddam","latitude":39.852,"longitude":-97.3081}}(window,'GeoPostal','US');

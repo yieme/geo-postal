@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15834"]={"code":"15834","region":"Pennsylvania","city":"Emporium","latitude":41.51145,"longitude":-78.23529}}(window,'GeoPostal','US');

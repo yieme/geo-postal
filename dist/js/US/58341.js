@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58341"]={"code":"58341","region":"North Dakota","city":"Harvey","latitude":47.76972,"longitude":-99.9354}}(window,'GeoPostal','US');

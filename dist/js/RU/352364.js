@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352364"]={"code":"352364","region":"Krasnodarskiy kray","city":"Tbilisskaya","latitude":45.36333,"longitude":40.19}}(window,'GeoPostal','RU');

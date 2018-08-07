@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7261"]={"code":"7261","region":"Sor-Trondelag","city":"Sistranda","latitude":63.72555,"longitude":8.83402}}(window,'GeoPostal','NO');

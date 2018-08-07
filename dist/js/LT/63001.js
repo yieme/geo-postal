@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63001"]={"code":"63001","region":"Alytaus apskritis","city":"Alytus","latitude":54.4,"longitude":24.05}}(window,'GeoPostal','LT');

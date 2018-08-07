@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56721"]={"code":"56721","region":"Minnesota","city":"East Grand Forks","latitude":47.92998,"longitude":-97.02452}}(window,'GeoPostal','US');

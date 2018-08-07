@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0AL"]={"code":"NR21 0AL","region":"England","city":"Binham","latitude":52.9172,"longitude":0.94816}}(window,'GeoPostal','GB');

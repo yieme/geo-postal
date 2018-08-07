@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42339"]={"code":"42339","region":"Kentucky","city":"Dunmor","latitude":37.080815,"longitude":-86.981656}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09969"]={"code":"09969","region":"Ciudad de Mexico","city":"Tlahuac","latitude":19.28167,"longitude":-99.00333}}(window,'GeoPostal','MX');

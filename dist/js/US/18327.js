@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18327"]={"code":"18327","region":"PA","city":"Delaware Water Gap","latitude":40.9793,"longitude":-75.143}}(window,'GeoPostal','US');

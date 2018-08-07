@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0V 1H0"]={"code":"V0V 1H0","region":"British Columbia","city":"Georgetown Mills","latitude":54.46613,"longitude":-130.40344}}(window,'GeoPostal','CA');

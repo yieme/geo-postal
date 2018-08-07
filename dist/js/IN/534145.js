@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["534145"]={"code":"534145","region":"Karnataka","city":"Raichur","latitude":16.2,"longitude":77.36667}}(window,'GeoPostal','IN');

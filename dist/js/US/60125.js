@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60125"]={"code":"60125","region":"Illinois","city":"Schaumburg","latitude":41.8397,"longitude":-88.0887}}(window,'GeoPostal','US');

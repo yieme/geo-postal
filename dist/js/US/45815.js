@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45815"]={"code":"45815","region":"OH","city":"Belmore","latitude":41.1539,"longitude":-83.9413}}(window,'GeoPostal','US');

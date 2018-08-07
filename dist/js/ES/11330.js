@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11330"]={"code":"11330","region":"Andalucia","city":"Jimena de la Frontera","latitude":36.43517,"longitude":-5.45387}}(window,'GeoPostal','ES');

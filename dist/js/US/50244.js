@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50244"]={"code":"50244","region":"Iowa","city":"Slater","latitude":41.879491,"longitude":-93.681543}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02661"]={"code":"02661","region":"MA","city":"South Harwich","latitude":41.6862,"longitude":-70.0329}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42190"]={"code":"42190","region":"Hidalgo","city":"Zapotlan de Juarez","latitude":19.96667,"longitude":-98.85}}(window,'GeoPostal','MX');

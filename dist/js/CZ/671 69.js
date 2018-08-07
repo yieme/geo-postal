@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 69"]={"code":"671 69","region":"Jihomoravsky kraj","city":"Hevlin","latitude":48.75209,"longitude":16.38131}}(window,'GeoPostal','CZ');

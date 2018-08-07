@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31328"]={"code":"31328","region":"GA","city":"Tybee Island","latitude":32.0068,"longitude":-80.8509}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99302"]={"code":"99302","region":"Washington","city":"Pasco","latitude":46.256584,"longitude":-119.08042}}(window,'GeoPostal','US');

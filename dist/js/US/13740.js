@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13740"]={"code":"13740","region":"New York","city":"Bovina Center","latitude":42.261944,"longitude":-74.785}}(window,'GeoPostal','US');

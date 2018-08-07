@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51640"]={"code":"51640","region":"Iowa","city":"Hamburg","latitude":40.60445,"longitude":-95.65777}}(window,'GeoPostal','US');

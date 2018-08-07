@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37000"]={"code":"37000","region":"Amnat Charoen","city":"Amnat Charoen","latitude":15.85833,"longitude":104.6292}}(window,'GeoPostal','TH');

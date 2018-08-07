@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0310"]={"code":"0310","region":"Aragacotn","city":"Aragats","latitude":40.48887,"longitude":44.35279}}(window,'GeoPostal','AM');

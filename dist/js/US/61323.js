@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61323"]={"code":"61323","region":"IL","city":"Dover","latitude":41.4362,"longitude":-89.396}}(window,'GeoPostal','US');

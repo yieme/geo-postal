@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39690-000"]={"code":"39690-000","region":"Minas Gerais","city":"Malacacheta","latitude":-17.84222,"longitude":-42.07667}}(window,'GeoPostal','BR');

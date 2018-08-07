@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44650"]={"code":"44650","region":"Pays-de-la-Loire","city":"Lege","latitude":46.88484,"longitude":-1.60127}}(window,'GeoPostal','FR');

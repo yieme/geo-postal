@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04870"]={"code":"04870","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Michel-l'Observatoire","latitude":43.9106,"longitude":5.7167}}(window,'GeoPostal','FR');

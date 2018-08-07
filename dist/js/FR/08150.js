@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08150"]={"code":"08150","region":"Grand-Est","city":"Rimogne","latitude":49.84075,"longitude":4.53941}}(window,'GeoPostal','FR');

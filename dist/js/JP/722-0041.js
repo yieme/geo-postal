@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722-0041"]={"code":"722-0041","region":"Hiroshima","city":"Onomichi","latitude":34.417,"longitude":133.2}}(window,'GeoPostal','JP');

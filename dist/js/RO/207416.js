@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207416"]={"code":"207416","region":"Alba","city":"Unirea","latitude":44.15,"longitude":23.18333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98070"]={"code":"98070","region":"Washington","city":"Vashon","latitude":47.41818,"longitude":-122.45178}}(window,'GeoPostal','US');

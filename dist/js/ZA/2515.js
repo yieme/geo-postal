@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2515"]={"code":"2515","region":"North-West","city":"Fochville","latitude":-26.48862,"longitude":27.49387}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65637"]={"code":"65637","region":"MO","city":"Dora","latitude":36.756,"longitude":-92.2378}}(window,'GeoPostal','US');

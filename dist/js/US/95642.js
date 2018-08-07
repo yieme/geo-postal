@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95642"]={"code":"95642","region":"California","city":"Jackson","latitude":38.361793,"longitude":-120.741241}}(window,'GeoPostal','US');

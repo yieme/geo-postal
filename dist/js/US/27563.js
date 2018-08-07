@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27563"]={"code":"27563","region":"North Carolina","city":"Norlina","latitude":36.4457,"longitude":-78.19833}}(window,'GeoPostal','US');

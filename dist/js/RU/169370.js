@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169370"]={"code":"169370","region":"Komi, Respublika","city":"Borovoy","latitude":63.23005,"longitude":52.89031}}(window,'GeoPostal','RU');

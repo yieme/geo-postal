@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62954"]={"code":"62954","region":"IL","city":"Junction","latitude":37.6952,"longitude":-88.2491}}(window,'GeoPostal','US');

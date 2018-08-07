@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92245"]={"code":"92245","region":"Bayern","city":"Haselmuhl","latitude":49.41661,"longitude":11.87364}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79052"]={"code":"79052","region":"TX","city":"Kress","latitude":34.3737,"longitude":-101.737}}(window,'GeoPostal','US');

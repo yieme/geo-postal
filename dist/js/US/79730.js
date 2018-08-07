@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79730"]={"code":"79730","region":"Texas","city":"Coyanosa","latitude":31.24056,"longitude":-103.06611}}(window,'GeoPostal','US');

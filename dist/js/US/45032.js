@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45032"]={"code":"45032","region":"OH","city":"Harveysburg","latitude":39.5013,"longitude":-84.0067}}(window,'GeoPostal','US');

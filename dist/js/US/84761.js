@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84761"]={"code":"84761","region":"UT","city":"Parowan","latitude":37.8449,"longitude":-112.8323}}(window,'GeoPostal','US');

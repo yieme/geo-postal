@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7840"]={"code":"7840","region":"West Coast","city":"Greymouth","latitude":-42.46667,"longitude":171.2}}(window,'GeoPostal','NZ');

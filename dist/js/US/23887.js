@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23887"]={"code":"23887","region":"Virginia","city":"Valentines","latitude":36.562451,"longitude":-77.82715}}(window,'GeoPostal','US');

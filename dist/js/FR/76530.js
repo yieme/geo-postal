@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76530"]={"code":"76530","region":"Normandie","city":"Grand-Couronne","latitude":49.35563,"longitude":1.00647}}(window,'GeoPostal','FR');

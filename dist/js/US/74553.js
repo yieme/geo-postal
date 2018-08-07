@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74553"]={"code":"74553","region":"Oklahoma","city":"Kiowa","latitude":34.725355,"longitude":-95.905294}}(window,'GeoPostal','US');

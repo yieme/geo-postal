@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N7 8RH"]={"code":"N7 8RH","region":"England","city":"Islington","latitude":51.53622,"longitude":-0.10304}}(window,'GeoPostal','GB');

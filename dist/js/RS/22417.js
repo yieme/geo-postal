@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22417"]={"code":"22417","region":"Macvanski okrug","city":"Lipnicki Sor","latitude":44.58028,"longitude":19.26667}}(window,'GeoPostal','RS');

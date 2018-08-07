@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83320-000"]={"code":"83320-000","region":"Parana","city":"Pinhais","latitude":-25.44472,"longitude":-49.1925}}(window,'GeoPostal','BR');

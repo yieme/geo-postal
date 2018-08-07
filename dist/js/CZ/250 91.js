@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 91"]={"code":"250 91","region":"Stredocesky kraj","city":"Zelenec","latitude":50.13362,"longitude":14.6607}}(window,'GeoPostal','CZ');

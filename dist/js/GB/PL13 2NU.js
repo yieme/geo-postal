@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL13 2NU"]={"code":"PL13 2NU","region":"England","city":"Lanreath","latitude":50.38414,"longitude":-4.56037}}(window,'GeoPostal','GB');

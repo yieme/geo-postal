@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40351"]={"code":"40351","region":"Kentucky","city":"Morehead","latitude":37.27115,"longitude":-87.17638}}(window,'GeoPostal','US');

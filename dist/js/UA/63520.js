@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63520"]={"code":"63520","region":"Kharkivska oblast","city":"Vvedenka","latitude":49.82441,"longitude":36.50747}}(window,'GeoPostal','UA');

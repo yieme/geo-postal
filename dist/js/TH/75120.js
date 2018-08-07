@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75120"]={"code":"75120","region":"Samut Songkhram","city":"Bang Khon Thi","latitude":13.46906,"longitude":99.94021}}(window,'GeoPostal','TH');

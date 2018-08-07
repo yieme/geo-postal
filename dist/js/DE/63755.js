@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63755"]={"code":"63755","region":"Bayern","city":"Alzenau in Unterfranken","latitude":50.0888,"longitude":9.06455}}(window,'GeoPostal','DE');

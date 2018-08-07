@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45128"]={"code":"45128","region":"Castilla-La Mancha","city":"Menasalbas","latitude":39.63954,"longitude":-4.28418}}(window,'GeoPostal','ES');

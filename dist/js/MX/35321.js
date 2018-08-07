@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35321"]={"code":"35321","region":"Durango","city":"Santa Maria del Oro","latitude":25.93333,"longitude":-105.36667}}(window,'GeoPostal','MX');

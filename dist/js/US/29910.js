@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29910"]={"code":"29910","region":"South Carolina","city":"Bluffton","latitude":32.2133,"longitude":-80.9033}}(window,'GeoPostal','US');

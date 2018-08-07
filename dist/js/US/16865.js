@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16865"]={"code":"16865","region":"Pennsylvania","city":"Pennsylvania Furnace","latitude":40.726077,"longitude":-77.94528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63122"]={"code":"63122","region":"Missouri","city":"Kirkwood","latitude":38.58339,"longitude":-90.40678}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["508 01"]={"code":"508 01","region":"Kralovehradecky kraj","city":"Horice","latitude":50.36609,"longitude":15.63183}}(window,'GeoPostal','CZ');

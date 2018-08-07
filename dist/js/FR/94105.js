@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94105"]={"code":"94105","region":"Ile-de-France","city":"Saint-Maur-des-Fosses","latitude":48.79394,"longitude":2.49323}}(window,'GeoPostal','FR');

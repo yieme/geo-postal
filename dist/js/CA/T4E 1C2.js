@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4E 1C2"]={"code":"T4E 1C2","region":"Alberta","city":"Joffre","latitude":52.33342,"longitude":-113.53528}}(window,'GeoPostal','CA');

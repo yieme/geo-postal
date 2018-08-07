@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79021"]={"code":"79021","region":"Dalarnas lan","city":"Bjursas","latitude":60.73333,"longitude":15.43333}}(window,'GeoPostal','SE');

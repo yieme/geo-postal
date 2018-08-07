@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26110"]={"code":"26110","region":"Eskisehir","city":"Eskisehir","latitude":39.77667,"longitude":30.52056}}(window,'GeoPostal','TR');

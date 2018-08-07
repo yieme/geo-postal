@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83119"]={"code":"83119","region":"Bayern","city":"Rabenden","latitude":48.00327,"longitude":12.47049}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76875"]={"code":"76875","region":"Texas","city":"Rowena","latitude":31.6367,"longitude":-99.966744}}(window,'GeoPostal','US');

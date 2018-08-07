@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15018"]={"code":"15018","region":"PA","city":"Buena Vista","latitude":40.2773,"longitude":-79.7992}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63910"]={"code":"63910","region":"Auvergne-Rhone-Alpes","city":"Vertaizon","latitude":45.77136,"longitude":3.28884}}(window,'GeoPostal','FR');

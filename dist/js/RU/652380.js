@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652380"]={"code":"652380","region":"Kemerovskaya oblast'","city":"Promyshlennaya","latitude":54.9159,"longitude":85.6385}}(window,'GeoPostal','RU');

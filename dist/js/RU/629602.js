@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629602"]={"code":"629602","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Muravlenko","latitude":63.78977,"longitude":74.52301}}(window,'GeoPostal','RU');

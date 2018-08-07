@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61876"]={"code":"61876","region":"IL","city":"Sidell","latitude":39.911,"longitude":-87.8248}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 85"]={"code":"783 85","region":"Olomoucky kraj","city":"Strazna","latitude":49.83104,"longitude":17.13275}}(window,'GeoPostal','CZ');

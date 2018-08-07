@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43008"]={"code":"43008","region":"Mila","city":"Telerghma","latitude":36.11653,"longitude":6.35434}}(window,'GeoPostal','DZ');

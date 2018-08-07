@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80481"]={"code":"80481","region":"CO","city":"Ward","latitude":40.0726,"longitude":-105.508}}(window,'GeoPostal','US');

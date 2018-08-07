@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59520"]={"code":"59520","region":"Pohjois-Pohjanmaa","city":"Saari","latitude":65.33333,"longitude":25.75}}(window,'GeoPostal','FI');

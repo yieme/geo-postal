@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Vlaams-Brabant","city":"Aarschot","latitude":50.98715,"longitude":4.83695}}(window,'GeoPostal','BE');

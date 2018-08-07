@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["051-0004"]={"code":"051-0004","region":"Hokkaido","city":"Muroran","latitude":42.317,"longitude":140.967}}(window,'GeoPostal','JP');

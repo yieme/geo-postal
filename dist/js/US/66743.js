@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66743"]={"code":"66743","region":"Kansas","city":"Girard","latitude":37.50696,"longitude":-94.86396}}(window,'GeoPostal','US');

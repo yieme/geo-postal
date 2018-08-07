@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 2QH"]={"code":"SO21 2QH","region":"England","city":"Sparsholt","latitude":51.07786,"longitude":-1.37913}}(window,'GeoPostal','GB');

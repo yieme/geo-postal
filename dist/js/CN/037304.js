@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037304"]={"code":"037304","region":"Shanxi","city":"Fengyu","latitude":39.9251,"longitude":113.60535}}(window,'GeoPostal','CN');

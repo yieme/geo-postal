@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX37 9LN"]={"code":"EX37 9LN","region":"England","city":"Burrington","latitude":50.93333,"longitude":-3.95}}(window,'GeoPostal','GB');

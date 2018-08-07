@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1K 2R1"]={"code":"J1K 2R1","region":"Quebec","city":"Sherbrooke","latitude":45.382525,"longitude":-71.927257}}(window,'GeoPostal','CA');

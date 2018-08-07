@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742204"]={"code":"742204","region":"Gansu","city":"Suhe","latitude":34.0625,"longitude":105.2221}}(window,'GeoPostal','CN');

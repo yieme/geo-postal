@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M201"]={"code":"M201","region":"Manzini","city":"Kwaluseni","latitude":-26.48333,"longitude":31.33333}}(window,'GeoPostal','SZ');

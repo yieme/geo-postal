@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05872"]={"code":"05872","region":"VT","city":"West Charleston","latitude":44.8729,"longitude":-72.0521}}(window,'GeoPostal','US');

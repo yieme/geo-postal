@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557055"]={"code":"557055","region":"Sibiu","city":"Brateiu","latitude":46.16667,"longitude":24.41667}}(window,'GeoPostal','RO');

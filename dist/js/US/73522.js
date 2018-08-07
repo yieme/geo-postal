@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73522"]={"code":"73522","region":"Oklahoma","city":"Altus","latitude":34.647268,"longitude":-99.336723}}(window,'GeoPostal','US');

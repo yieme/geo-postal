@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545600"]={"code":"545600","region":"Mures","city":"Ganesti","latitude":46.33333,"longitude":24.35}}(window,'GeoPostal','RO');

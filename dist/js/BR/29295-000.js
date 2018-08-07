@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29295-000"]={"code":"29295-000","region":"Espirito Santo","city":"Vargem Alta","latitude":-20.67139,"longitude":-41.00694}}(window,'GeoPostal','BR');

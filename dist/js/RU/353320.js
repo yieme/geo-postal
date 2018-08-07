@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353320"]={"code":"353320","region":"Krasnodarskiy kray","city":"Abinsk","latitude":44.87258,"longitude":38.16111}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60566"]={"code":"60566","region":"Illinois","city":"Naperville","latitude":41.742271,"longitude":-88.125829}}(window,'GeoPostal','US');

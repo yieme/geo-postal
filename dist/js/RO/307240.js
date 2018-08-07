@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307240"]={"code":"307240","region":"Timis","city":"Lenauheim","latitude":45.87194,"longitude":20.79944}}(window,'GeoPostal','RO');

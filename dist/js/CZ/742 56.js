@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 56"]={"code":"742 56","region":"Moravskoslezsky kraj","city":"Sedlnice","latitude":49.6577,"longitude":18.0869}}(window,'GeoPostal','CZ');

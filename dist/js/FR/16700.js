@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16700"]={"code":"16700","region":"Nouvelle-Aquitaine","city":"Ruffec","latitude":46.02877,"longitude":0.19821}}(window,'GeoPostal','FR');

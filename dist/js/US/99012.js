@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99012"]={"code":"99012","region":"WA","city":"Fairfield","latitude":47.3987,"longitude":-117.1921}}(window,'GeoPostal','US');

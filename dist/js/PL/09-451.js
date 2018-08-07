@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-451"]={"code":"09-451","region":"Mazowieckie","city":"Radzanowo","latitude":52.57306,"longitude":19.89109}}(window,'GeoPostal','PL');

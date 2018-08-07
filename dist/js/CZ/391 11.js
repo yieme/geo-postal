@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 11"]={"code":"391 11","region":"Jihocesky kraj","city":"Plana nad Luznici","latitude":49.35444,"longitude":14.70147}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72364"]={"code":"72364","region":"Arkansas","city":"Marion","latitude":35.21233,"longitude":-90.200737}}(window,'GeoPostal','US');

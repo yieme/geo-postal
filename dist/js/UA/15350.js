@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15350"]={"code":"15350","region":"Chernihivska oblast","city":"Koryukivka","latitude":51.76877,"longitude":32.24813}}(window,'GeoPostal','UA');

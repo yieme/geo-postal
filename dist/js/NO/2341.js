@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2341"]={"code":"2341","region":"Hedmark","city":"Loten","latitude":60.81712,"longitude":11.33756}}(window,'GeoPostal','NO');

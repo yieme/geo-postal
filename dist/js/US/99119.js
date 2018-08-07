@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99119"]={"code":"99119","region":"WA","city":"Cusick","latitude":48.3915,"longitude":-117.3295}}(window,'GeoPostal','US');

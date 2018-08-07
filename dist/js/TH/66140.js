@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66140"]={"code":"66140","region":"Phichit","city":"Sam Ngam","latitude":16.50653,"longitude":100.20497}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68413"]={"code":"68413","region":"Bali","city":"Gilimanuk","latitude":-8.1716,"longitude":114.4344}}(window,'GeoPostal','ID');

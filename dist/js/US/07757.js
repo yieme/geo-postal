@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07757"]={"code":"07757","region":"New Jersey","city":"Oceanport","latitude":40.315457,"longitude":-74.017344}}(window,'GeoPostal','US');

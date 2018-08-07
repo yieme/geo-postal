@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38122"]={"code":"38122","region":"Auvergne-Rhone-Alpes","city":"Cour-et-Buis","latitude":45.4411,"longitude":5.0058}}(window,'GeoPostal','FR');

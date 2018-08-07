@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18823"]={"code":"18823","region":"PA","city":"Harford","latitude":41.7761,"longitude":-75.6935}}(window,'GeoPostal','US');

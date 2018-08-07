@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00678"]={"code":"00678","region":"PR","city":"Quebradillas","latitude":18.47,"longitude":-66.93}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32550"]={"code":"32550","region":"Florida","city":"Miramar Beach","latitude":30.393333,"longitude":-86.495833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51007"]={"code":"51007","region":"IA","city":"Bronson","latitude":42.4292,"longitude":-96.1986}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77340"]={"code":"77340","region":"Texas","city":"Huntsville","latitude":30.6885,"longitude":-95.57238}}(window,'GeoPostal','US');

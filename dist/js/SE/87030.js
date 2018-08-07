@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87030"]={"code":"87030","region":"Vasternorrlands lan","city":"Nordingra","latitude":62.93333,"longitude":18.31667}}(window,'GeoPostal','SE');

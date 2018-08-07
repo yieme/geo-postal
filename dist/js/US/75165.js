@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75165"]={"code":"75165","region":"Texas","city":"Waxahachie","latitude":32.38653,"longitude":-96.84833}}(window,'GeoPostal','US');

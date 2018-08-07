@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13642"]={"code":"13642","region":"New York","city":"Gouverneur","latitude":44.33673,"longitude":-75.46299}}(window,'GeoPostal','US');

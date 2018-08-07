@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215650"]={"code":"215650","region":"Smolenskaya oblast'","city":"Kholm-Zhirkovskiy","latitude":55.51889,"longitude":33.47306}}(window,'GeoPostal','RU');

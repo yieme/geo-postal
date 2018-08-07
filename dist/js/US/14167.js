@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14167"]={"code":"14167","region":"New York","city":"Varysburg","latitude":42.736619,"longitude":-78.315479}}(window,'GeoPostal','US');

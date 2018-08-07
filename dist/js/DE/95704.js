@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95704"]={"code":"95704","region":"Bayern","city":"Mengersreuth","latitude":49.93012,"longitude":11.9878}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22140"]={"code":"22140","region":"Bretagne","city":"Prat","latitude":48.67677,"longitude":-3.29707}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84546"]={"code":"84546","region":"Bayern","city":"Rieberseck","latitude":48.39735,"longitude":12.45774}}(window,'GeoPostal','DE');

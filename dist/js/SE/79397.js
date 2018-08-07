@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79397"]={"code":"79397","region":"Dalarnas lan","city":"Siljansnas","latitude":60.78333,"longitude":14.85}}(window,'GeoPostal','SE');

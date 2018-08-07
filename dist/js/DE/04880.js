@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04880"]={"code":"04880","region":"Sachsen","city":"Dahlenberg","latitude":51.63903,"longitude":12.78611}}(window,'GeoPostal','DE');

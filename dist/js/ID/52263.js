@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52263"]={"code":"52263","region":"Jawa Tengah","city":"Ketanggungan","latitude":-6.9383,"longitude":108.891}}(window,'GeoPostal','ID');

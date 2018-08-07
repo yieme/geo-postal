@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76133"]={"code":"76133","region":"Normandie","city":"Epouville","latitude":49.56349,"longitude":0.22372}}(window,'GeoPostal','FR');

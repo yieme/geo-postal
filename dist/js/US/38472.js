@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38472"]={"code":"38472","region":"TN","city":"Lynnville","latitude":35.3792,"longitude":-87.0629}}(window,'GeoPostal','US');

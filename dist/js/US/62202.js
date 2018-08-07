@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62202"]={"code":"62202","region":"IL","city":"East Saint Louis","latitude":38.6163,"longitude":-90.1591}}(window,'GeoPostal','US');

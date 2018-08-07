@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36436"]={"code":"36436","region":"AL","city":"Dickinson","latitude":31.7635,"longitude":-87.7106}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH19 1UA"]={"code":"RH19 1UA","region":"England","city":"East Grinstead","latitude":51.12382,"longitude":-0.0061}}(window,'GeoPostal','GB');

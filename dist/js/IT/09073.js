@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09073"]={"code":"09073","region":"Sardegna","city":"Cuglieri","latitude":40.18795,"longitude":8.56642}}(window,'GeoPostal','IT');

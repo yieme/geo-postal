@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607105"]={"code":"607105","region":"Bacau","city":"Cleja","latitude":46.41667,"longitude":26.9}}(window,'GeoPostal','RO');

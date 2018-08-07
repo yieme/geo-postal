@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU17 7NF"]={"code":"HU17 7NF","region":"England","city":"Leconfield","latitude":53.8773,"longitude":-0.45729}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31521"]={"code":"31521","region":"Navarra, Comunidad Foral de","city":"Murchante","latitude":42.03185,"longitude":-1.65582}}(window,'GeoPostal','ES');

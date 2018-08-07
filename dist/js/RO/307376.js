@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307376"]={"code":"307376","region":"Timis","city":"Sanandrei","latitude":45.85306,"longitude":21.16806}}(window,'GeoPostal','RO');

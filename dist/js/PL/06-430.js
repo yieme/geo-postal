@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-430"]={"code":"06-430","region":"Mazowieckie","city":"Sonsk","latitude":52.78164,"longitude":20.69901}}(window,'GeoPostal','PL');

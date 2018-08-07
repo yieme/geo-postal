@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72687"]={"code":"72687","region":"Arkansas","city":"Yellville","latitude":36.22618,"longitude":-92.68489}}(window,'GeoPostal','US');

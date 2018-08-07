@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO13 0AH"]={"code":"CO13 0AH","region":"England","city":"Frinton-on-Sea","latitude":51.83877,"longitude":1.24625}}(window,'GeoPostal','GB');

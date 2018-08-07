@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143515"]={"code":"143515","region":"Punjab","city":"Dhariwal","latitude":31.95417,"longitude":75.31917}}(window,'GeoPostal','IN');

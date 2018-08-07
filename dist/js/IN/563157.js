@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["563157"]={"code":"563157","region":"Karnataka","city":"Kolar","latitude":13.13333,"longitude":78.13333}}(window,'GeoPostal','IN');

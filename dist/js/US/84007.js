@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84007"]={"code":"84007","region":"Utah","city":"Bluebell","latitude":40.334269,"longitude":-110.331815}}(window,'GeoPostal','US');

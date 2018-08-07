@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33350"]={"code":"33350","region":"Nouvelle-Aquitaine","city":"Castillon-la-Bataille","latitude":44.854,"longitude":-0.043}}(window,'GeoPostal','FR');

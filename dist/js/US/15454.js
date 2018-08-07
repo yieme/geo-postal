@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15454"]={"code":"15454","region":"PA","city":"Leckrone","latitude":39.8615,"longitude":-79.8701}}(window,'GeoPostal','US');

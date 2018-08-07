@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3179"]={"code":"3179","region":"Victoria","city":"Scoresby","latitude":-37.9,"longitude":145.23333}}(window,'GeoPostal','AU');

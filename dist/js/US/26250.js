@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26250"]={"code":"26250","region":"West Virginia","city":"Belington","latitude":39.0251,"longitude":-79.93563}}(window,'GeoPostal','US');

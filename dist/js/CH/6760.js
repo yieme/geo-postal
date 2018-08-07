@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6760"]={"code":"6760","region":"Ticino","city":"Faido","latitude":46.477,"longitude":8.80125}}(window,'GeoPostal','CH');

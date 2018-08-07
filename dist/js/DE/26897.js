@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26897"]={"code":"26897","region":"Niedersachsen","city":"Hinternberg","latitude":52.99753,"longitude":7.61573}}(window,'GeoPostal','DE');

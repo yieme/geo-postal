@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44683"]={"code":"44683","region":"OH","city":"Uhrichsville","latitude":40.3905,"longitude":-81.3374}}(window,'GeoPostal','US');

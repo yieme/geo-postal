@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45808"]={"code":"45808","region":"OH","city":"Beaverdam","latitude":40.8314,"longitude":-83.9758}}(window,'GeoPostal','US');

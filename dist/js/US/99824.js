@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99824"]={"code":"99824","region":"AK","city":"Douglas","latitude":58.2756,"longitude":-134.395}}(window,'GeoPostal','US');

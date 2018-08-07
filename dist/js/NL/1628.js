@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1628"]={"code":"1628","region":"Noord-Holland","city":"Hoorn","latitude":52.6425,"longitude":5.05972}}(window,'GeoPostal','NL');

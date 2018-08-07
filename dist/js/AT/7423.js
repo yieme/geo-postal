@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7423"]={"code":"7423","region":"Burgenland","city":"Grafenschachen","latitude":47.36667,"longitude":16.06667}}(window,'GeoPostal','AT');

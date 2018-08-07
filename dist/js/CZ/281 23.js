@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 23"]={"code":"281 23","region":"Stredocesky kraj","city":"Stary Kolin","latitude":50.00977,"longitude":15.29388}}(window,'GeoPostal','CZ');

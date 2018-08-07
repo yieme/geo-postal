@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636500"]={"code":"636500","region":"Tomskaya oblast'","city":"Belyy Yar","latitude":58.44472,"longitude":85.0425}}(window,'GeoPostal','RU');

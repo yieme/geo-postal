@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5106"]={"code":"MD-5106","region":"Donduseni","city":"Donduseni","latitude":48.24268,"longitude":27.6101}}(window,'GeoPostal','MD');

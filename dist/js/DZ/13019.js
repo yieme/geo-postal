@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13019"]={"code":"13019","region":"Tlemcen","city":"Sidi Abdelli","latitude":35.06937,"longitude":-1.13706}}(window,'GeoPostal','DZ');

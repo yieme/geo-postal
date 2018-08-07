@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31390"]={"code":"31390","region":"Navarra, Comunidad Foral de","city":"Olite","latitude":42.47971,"longitude":-1.65196}}(window,'GeoPostal','ES');

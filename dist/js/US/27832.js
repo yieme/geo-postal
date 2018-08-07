@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27832"]={"code":"27832","region":"NC","city":"Gaston","latitude":36.5004,"longitude":-77.645}}(window,'GeoPostal','US');

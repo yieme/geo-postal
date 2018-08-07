@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX4 2PG"]={"code":"OX4 2PG","region":"England","city":"Cowley","latitude":51.5312,"longitude":-0.48237}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6UZ"]={"code":"PA29 6UZ","region":"Scotland","city":"Arnicle","latitude":55.58333,"longitude":-5.63333}}(window,'GeoPostal','GB');

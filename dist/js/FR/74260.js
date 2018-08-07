@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74260"]={"code":"74260","region":"Auvergne-Rhone-Alpes","city":"Les Gets","latitude":46.15522,"longitude":6.66492}}(window,'GeoPostal','FR');

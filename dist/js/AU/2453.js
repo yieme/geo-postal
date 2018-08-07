@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2453"]={"code":"2453","region":"New South Wales","city":"Tyringham","latitude":-30.21667,"longitude":152.53333}}(window,'GeoPostal','AU');

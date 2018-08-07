@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44092"]={"code":"44092","region":"Ohio","city":"Wickliffe","latitude":41.59782,"longitude":-81.46416}}(window,'GeoPostal','US');

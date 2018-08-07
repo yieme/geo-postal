@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3195"]={"code":"3195","region":"Victoria","city":"Aspendale","latitude":-38.02913,"longitude":145.10266}}(window,'GeoPostal','AU');

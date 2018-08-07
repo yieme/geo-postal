@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58302"]={"code":"58302","region":"Bourgogne-Franche-Comte","city":"Decize","latitude":46.82852,"longitude":3.46192}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31102"]={"code":"31102","region":"Fes-Boulemane","city":"Bhalil","latitude":33.85194,"longitude":-4.87228}}(window,'GeoPostal','MA');

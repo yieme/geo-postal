@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45126"]={"code":"45126","region":"Castilla-La Mancha","city":"Cuerva","latitude":39.66374,"longitude":-4.21085}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25725"]={"code":"25725","region":"Schleswig-Holstein","city":"Nordholz","latitude":54.1,"longitude":9.28333}}(window,'GeoPostal','DE');

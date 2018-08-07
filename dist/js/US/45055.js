@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45055"]={"code":"45055","region":"OH","city":"Overpeck","latitude":39.4518,"longitude":-84.5152}}(window,'GeoPostal','US');

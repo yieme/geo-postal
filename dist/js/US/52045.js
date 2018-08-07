@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52045"]={"code":"52045","region":"Iowa","city":"Epworth","latitude":42.44082,"longitude":-90.92868}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674408"]={"code":"674408","region":"Yunnan","city":"Gezan","latitude":28.20389,"longitude":99.80944}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08502"]={"code":"08502","region":"New Jersey","city":"Belle Mead","latitude":40.467254,"longitude":-74.633574}}(window,'GeoPostal','US');

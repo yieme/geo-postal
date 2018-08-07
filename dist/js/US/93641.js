@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93641"]={"code":"93641","region":"CA","city":"Miramonte","latitude":36.6894,"longitude":-119.0477}}(window,'GeoPostal','US');

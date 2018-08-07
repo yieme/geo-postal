@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19319"]={"code":"19319","region":"PA","city":"Cheyney","latitude":39.9209,"longitude":-75.5222}}(window,'GeoPostal','US');

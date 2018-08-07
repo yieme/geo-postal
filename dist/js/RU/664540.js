@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664540"]={"code":"664540","region":"Irkutskaya oblast'","city":"Khomutovo","latitude":52.46583,"longitude":104.4025}}(window,'GeoPostal','RU');

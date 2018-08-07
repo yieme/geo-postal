@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27851"]={"code":"27851","region":"NC","city":"Lucama","latitude":35.6415,"longitude":-78.0197}}(window,'GeoPostal','US');

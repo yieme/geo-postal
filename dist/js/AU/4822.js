@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4822"]={"code":"4822","region":"Queensland","city":"Richmond","latitude":-20.73243,"longitude":143.14356}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41616"]={"code":"41616","region":"Kentucky","city":"David","latitude":37.609539,"longitude":-82.895166}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5377"]={"code":"5377","region":"Namur","city":"Somme-Leuze","latitude":50.33699,"longitude":5.36705}}(window,'GeoPostal','BE');

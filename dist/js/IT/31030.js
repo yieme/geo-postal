@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31030"]={"code":"31030","region":"Veneto","city":"Casier","latitude":45.64389,"longitude":12.29444}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29687"]={"code":"29687","region":"South Carolina","city":"Taylors","latitude":34.933855,"longitude":-82.321055}}(window,'GeoPostal','US');

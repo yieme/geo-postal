@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59046"]={"code":"59046","region":"Montana","city":"Lavina","latitude":46.225541,"longitude":-108.713884}}(window,'GeoPostal','US');

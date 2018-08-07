@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45817"]={"code":"45817","region":"OH","city":"Bluffton","latitude":40.879,"longitude":-83.8914}}(window,'GeoPostal','US');

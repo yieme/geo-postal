@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15331"]={"code":"15331","region":"Pennsylvania","city":"Ellsworth","latitude":40.107311,"longitude":-80.020222}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10820"]={"code":"10820","region":"Extremadura","city":"Canaveral","latitude":39.79198,"longitude":-6.3913}}(window,'GeoPostal','ES');

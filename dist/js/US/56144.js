@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56144"]={"code":"56144","region":"Minnesota","city":"Jasper","latitude":43.856682,"longitude":-96.394448}}(window,'GeoPostal','US');

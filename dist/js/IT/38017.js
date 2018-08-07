@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38017"]={"code":"38017","region":"Trentino-Alto Adige","city":"Mezzolombardo","latitude":46.20901,"longitude":11.09678}}(window,'GeoPostal','IT');

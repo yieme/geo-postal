@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38359"]={"code":"38359","region":"TN","city":"Milledgeville","latitude":35.3729,"longitude":-88.3675}}(window,'GeoPostal','US');

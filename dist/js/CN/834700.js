@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["834700"]={"code":"834700","region":"Xinjiang","city":"Tacheng","latitude":46.75,"longitude":82.983333}}(window,'GeoPostal','CN');

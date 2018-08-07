@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05091"]={"code":"05091","region":"Vermont","city":"Woodstock","latitude":43.62424,"longitude":-72.51843}}(window,'GeoPostal','US');

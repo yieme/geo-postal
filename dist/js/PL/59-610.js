@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-610"]={"code":"59-610","region":"Dolnoslaskie","city":"Wlen","latitude":51.01635,"longitude":15.67474}}(window,'GeoPostal','PL');

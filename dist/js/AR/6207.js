@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6207"]={"code":"6207","region":"La Pampa","city":"Alta Italia","latitude":-35.3335,"longitude":-64.11496}}(window,'GeoPostal','AR');

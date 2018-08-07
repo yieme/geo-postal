@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 75"]={"code":"675 75","region":"Kraj Vysocina","city":"Mohelno","latitude":49.11412,"longitude":16.19022}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63303"]={"code":"63303","region":"L'Oriental","city":"Madagh","latitude":35.01032,"longitude":-2.33701}}(window,'GeoPostal','MA');

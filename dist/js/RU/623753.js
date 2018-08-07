@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623753"]={"code":"623753","region":"Sverdlovskaya oblast'","city":"Rezh","latitude":57.37005,"longitude":61.40428}}(window,'GeoPostal','RU');

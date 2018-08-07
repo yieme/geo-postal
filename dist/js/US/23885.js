@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23885"]={"code":"23885","region":"VA","city":"Sutherland","latitude":37.1901,"longitude":-77.5655}}(window,'GeoPostal','US');

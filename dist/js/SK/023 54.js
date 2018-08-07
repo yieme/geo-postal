@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["023 54"]={"code":"023 54","region":"Zilinsky kraj","city":"Turzovka","latitude":49.40429,"longitude":18.62258}}(window,'GeoPostal','SK');

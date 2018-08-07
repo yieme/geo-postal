@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582 81"]={"code":"582 81","region":"Kraj Vysocina","city":"Habry","latitude":49.75603,"longitude":15.48486}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46181"]={"code":"46181","region":"Indiana","city":"Trafalgar","latitude":39.364449,"longitude":-86.181482}}(window,'GeoPostal','US');

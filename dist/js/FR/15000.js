@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15000"]={"code":"15000","region":"Auvergne-Rhone-Alpes","city":"Aurillac","latitude":44.91667,"longitude":2.45}}(window,'GeoPostal','FR');

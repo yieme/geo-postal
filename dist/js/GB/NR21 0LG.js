@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0LG"]={"code":"NR21 0LG","region":"England","city":"East Barsham","latitude":52.86909,"longitude":0.84792}}(window,'GeoPostal','GB');

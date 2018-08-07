@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6271"]={"code":"6271","region":"Cordoba","city":"Mattaldi","latitude":-34.48194,"longitude":-64.17255}}(window,'GeoPostal','AR');

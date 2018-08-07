@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["661106"]={"code":"661106","region":"Yunnan","city":"Wenlan","latitude":23.36002,"longitude":103.43684}}(window,'GeoPostal','CN');

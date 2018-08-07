@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62510"]={"code":"62510","region":"Hauts-de-France","city":"Arques","latitude":50.73375,"longitude":2.30237}}(window,'GeoPostal','FR');

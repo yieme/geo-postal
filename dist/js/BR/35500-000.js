@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35500-000"]={"code":"35500-000","region":"Minas Gerais","city":"Divinopolis","latitude":-20.13889,"longitude":-44.88389}}(window,'GeoPostal','BR');

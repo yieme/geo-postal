@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19701"]={"code":"19701","region":"Delaware","city":"Bear","latitude":39.610314,"longitude":-75.68957}}(window,'GeoPostal','US');

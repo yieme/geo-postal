@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237337"]={"code":"237337","region":"Olt","city":"Plesoiu","latitude":44.46667,"longitude":24.26667}}(window,'GeoPostal','RO');

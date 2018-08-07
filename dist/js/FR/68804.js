@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68804"]={"code":"68804","region":"Grand-Est","city":"Thann","latitude":47.81667,"longitude":7.08333}}(window,'GeoPostal','FR');

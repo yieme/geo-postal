@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107343"]={"code":"107343","region":"Prahova","city":"Plopeni","latitude":45.06667,"longitude":25.98333}}(window,'GeoPostal','RO');

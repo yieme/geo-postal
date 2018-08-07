@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M23 9FZ"]={"code":"M23 9FZ","region":"England","city":"Wythenshawe","latitude":53.38027,"longitude":-2.2654}}(window,'GeoPostal','GB');

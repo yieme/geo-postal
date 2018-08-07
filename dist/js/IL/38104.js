@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38104"]={"code":"38104","region":"Hefa","city":"Hadera","latitude":32.43528,"longitude":34.9175}}(window,'GeoPostal','IL');

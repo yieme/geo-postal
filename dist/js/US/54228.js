@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54228"]={"code":"54228","region":"WI","city":"Mishicot","latitude":44.2609,"longitude":-87.6447}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2193"]={"code":"2193","region":"Niederosterreich","city":"Wilfersdorf","latitude":48.58333,"longitude":16.63333}}(window,'GeoPostal','AT');

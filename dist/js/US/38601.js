@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38601"]={"code":"38601","region":"MS","city":"Abbeville","latitude":34.4719,"longitude":-89.4475}}(window,'GeoPostal','US');

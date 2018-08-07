@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241205"]={"code":"241205","region":"Anhui","city":"Eqiao","latitude":31.17593,"longitude":118.28349}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30575"]={"code":"30575","region":"GA","city":"Talmo","latitude":34.1951,"longitude":-83.7187}}(window,'GeoPostal','US');

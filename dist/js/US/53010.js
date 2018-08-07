@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53010"]={"code":"53010","region":"WI","city":"Campbellsport","latitude":43.6042,"longitude":-88.2729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68423"]={"code":"68423","region":"NE","city":"Pleasant Dale","latitude":40.8133,"longitude":-96.9513}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-521"]={"code":"58-521","region":"Dolnoslaskie","city":"Jezow Sudecki","latitude":50.93507,"longitude":15.74306}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133614"]={"code":"133614","region":"Jilin","city":"Sandao","latitude":42.52778,"longitude":128.44944}}(window,'GeoPostal','CN');

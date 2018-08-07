@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43515"]={"code":"43515","region":"Ohio","city":"Delta","latitude":41.579311,"longitude":-84.005849}}(window,'GeoPostal','US');

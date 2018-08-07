@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26534"]={"code":"26534","region":"West Virginia","city":"Granville","latitude":39.64329,"longitude":-79.9847}}(window,'GeoPostal','US');

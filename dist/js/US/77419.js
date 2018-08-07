@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77419"]={"code":"77419","region":"TX","city":"Blessing","latitude":28.8649,"longitude":-96.218}}(window,'GeoPostal','US');

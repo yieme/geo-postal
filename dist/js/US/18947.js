@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18947"]={"code":"18947","region":"Pennsylvania","city":"Warminster","latitude":40.4166,"longitude":-75.1175}}(window,'GeoPostal','US');

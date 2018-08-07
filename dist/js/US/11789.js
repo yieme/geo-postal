@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11789"]={"code":"11789","region":"New York","city":"Sound Beach","latitude":40.95621,"longitude":-72.96788}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99752"]={"code":"99752","region":"Thuringen","city":"Kleinbodungen","latitude":51.46667,"longitude":10.53333}}(window,'GeoPostal','DE');

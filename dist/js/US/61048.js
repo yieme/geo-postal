@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61048"]={"code":"61048","region":"Illinois","city":"Lena","latitude":42.37946,"longitude":-89.82234}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78270"]={"code":"78270","region":"Ile-de-France","city":"Lommoye","latitude":48.9947,"longitude":1.5144}}(window,'GeoPostal','FR');

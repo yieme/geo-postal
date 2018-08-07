@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72829"]={"code":"72829","region":"AR","city":"Centerville","latitude":35.1018,"longitude":-93.1773}}(window,'GeoPostal','US');

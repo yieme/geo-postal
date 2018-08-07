@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323804"]={"code":"323804","region":"Zhejiang","city":"Jushui","latitude":27.49729,"longitude":119.1761}}(window,'GeoPostal','CN');

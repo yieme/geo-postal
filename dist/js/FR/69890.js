@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69890"]={"code":"69890","region":"Auvergne-Rhone-Alpes","city":"La Tour-de-Salvagny","latitude":45.81233,"longitude":4.71626}}(window,'GeoPostal','FR');

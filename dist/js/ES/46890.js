@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46890"]={"code":"46890","region":"Valenciana, Comunidad","city":"Agullent","latitude":38.82273,"longitude":-0.54833}}(window,'GeoPostal','ES');

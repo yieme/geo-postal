@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25839"]={"code":"25839","region":"WV","city":"Fairdale","latitude":37.7815,"longitude":-81.3632}}(window,'GeoPostal','US');

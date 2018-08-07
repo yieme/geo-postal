@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-100"]={"code":"07-100","region":"Mazowieckie","city":"Wegrow","latitude":52.39954,"longitude":22.01634}}(window,'GeoPostal','PL');

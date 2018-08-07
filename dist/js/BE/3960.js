@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3960"]={"code":"3960","region":"Limburg","city":"Bree","latitude":51.14152,"longitude":5.5969}}(window,'GeoPostal','BE');

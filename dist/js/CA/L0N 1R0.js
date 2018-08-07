@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0N 1R0"]={"code":"L0N 1R0","region":"Ontario","city":"Mulmur","latitude":44.11828,"longitude":-80.01068}}(window,'GeoPostal','CA');

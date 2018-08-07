@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37305"]={"code":"37305","region":"Poltavska oblast","city":"Hadyach","latitude":50.37112,"longitude":33.99099}}(window,'GeoPostal','UA');

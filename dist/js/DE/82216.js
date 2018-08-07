@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82216"]={"code":"82216","region":"Bayern","city":"Maisach","latitude":48.21667,"longitude":11.26667}}(window,'GeoPostal','DE');

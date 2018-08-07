@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19352"]={"code":"19352","region":"Pennsylvania","city":"Lincoln University","latitude":39.7718,"longitude":-75.8926}}(window,'GeoPostal','US');

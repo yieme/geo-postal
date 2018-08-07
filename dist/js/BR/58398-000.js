@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58398-000"]={"code":"58398-000","region":"Paraiba","city":"Remigio","latitude":-6.93333,"longitude":-35.78333}}(window,'GeoPostal','BR');

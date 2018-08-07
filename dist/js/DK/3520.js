@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3520"]={"code":"3520","region":"Hovedstaden","city":"Farum","latitude":55.80858,"longitude":12.36066}}(window,'GeoPostal','DK');

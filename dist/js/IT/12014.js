@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12014"]={"code":"12014","region":"Piemonte","city":"Demonte","latitude":44.31553,"longitude":7.29873}}(window,'GeoPostal','IT');

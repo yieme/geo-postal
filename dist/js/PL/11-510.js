@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-510"]={"code":"11-510","region":"Warminsko-mazurskie","city":"Wydminy","latitude":53.98194,"longitude":22.03239}}(window,'GeoPostal','PL');

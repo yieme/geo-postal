@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 3K0"]={"code":"J0K 3K0","region":"Quebec","city":"Chertsey","latitude":46.07109,"longitude":-73.89095}}(window,'GeoPostal','CA');

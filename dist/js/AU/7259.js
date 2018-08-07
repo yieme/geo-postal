@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7259"]={"code":"7259","region":"Tasmania","city":"Nunamara","latitude":-41.38333,"longitude":147.3}}(window,'GeoPostal','AU');

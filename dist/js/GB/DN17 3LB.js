@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 3LB"]={"code":"DN17 3LB","region":"England","city":"West Butterwick","latitude":53.54232,"longitude":-0.74247}}(window,'GeoPostal','GB');

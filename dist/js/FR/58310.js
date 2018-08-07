@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58310"]={"code":"58310","region":"Bourgogne-Franche-Comte","city":"Saint-Amand-en-Puisaye","latitude":47.52914,"longitude":3.074}}(window,'GeoPostal','FR');

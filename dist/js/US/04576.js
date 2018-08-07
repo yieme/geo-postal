@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04576"]={"code":"04576","region":"Maine","city":"Southport","latitude":43.82306,"longitude":-69.666667}}(window,'GeoPostal','US');

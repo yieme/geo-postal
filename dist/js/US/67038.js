@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67038"]={"code":"67038","region":"Kansas","city":"Dexter","latitude":37.178705,"longitude":-96.71603}}(window,'GeoPostal','US');

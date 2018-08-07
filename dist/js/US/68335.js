@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68335"]={"code":"68335","region":"Nebraska","city":"Davenport","latitude":40.280231,"longitude":-97.793766}}(window,'GeoPostal','US');

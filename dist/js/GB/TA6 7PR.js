@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA6 7PR"]={"code":"TA6 7PR","region":"England","city":"Wembdon","latitude":51.13219,"longitude":-3.02423}}(window,'GeoPostal','GB');

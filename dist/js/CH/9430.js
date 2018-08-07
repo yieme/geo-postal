@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9430"]={"code":"9430","region":"Sankt Gallen","city":"Sankt Margrethen","latitude":47.45253,"longitude":9.63741}}(window,'GeoPostal','CH');

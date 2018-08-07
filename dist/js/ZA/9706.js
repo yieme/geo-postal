@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9706"]={"code":"9706","region":"Free State","city":"Bethlehem","latitude":-28.23078,"longitude":28.30707}}(window,'GeoPostal','ZA');

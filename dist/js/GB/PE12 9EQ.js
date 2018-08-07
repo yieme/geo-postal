@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 9EQ"]={"code":"PE12 9EQ","region":"England","city":"Spalding","latitude":52.78709,"longitude":-0.15141}}(window,'GeoPostal','GB');

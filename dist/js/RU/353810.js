@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353810"]={"code":"353810","region":"Krasnodarskiy kray","city":"Trudobelikovskiy","latitude":45.26853,"longitude":38.15376}}(window,'GeoPostal','RU');

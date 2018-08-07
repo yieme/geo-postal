@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44099"]={"code":"44099","region":"Ohio","city":"Windsor","latitude":41.5593,"longitude":-80.9661}}(window,'GeoPostal','US');

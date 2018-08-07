@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76664"]={"code":"76664","region":"TX","city":"Mart","latitude":31.5458,"longitude":-96.8381}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08255"]={"code":"08255","region":"Cusco","city":"Sicuani","latitude":-14.26944,"longitude":-71.22611}}(window,'GeoPostal','PE');

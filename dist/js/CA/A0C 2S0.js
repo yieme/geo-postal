@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0C 2S0"]={"code":"A0C 2S0","region":"Newfoundland and Labrador","city":"Trinity","latitude":48.36659,"longitude":-53.36477}}(window,'GeoPostal','CA');

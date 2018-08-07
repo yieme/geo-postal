@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6560"]={"code":"6560","region":"Hainaut","city":"Erquelinnes","latitude":50.30688,"longitude":4.11129}}(window,'GeoPostal','BE');

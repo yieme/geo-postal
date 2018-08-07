@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08012"]={"code":"08012","region":"Sardegna","city":"Bortigali","latitude":40.28286,"longitude":8.83622}}(window,'GeoPostal','IT');

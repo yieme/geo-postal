@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94025"]={"code":"94025","region":"California","city":"Menlo Park","latitude":37.436934,"longitude":-122.193602}}(window,'GeoPostal','US');

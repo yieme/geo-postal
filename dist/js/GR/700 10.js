@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700 10"]={"code":"700 10","region":"Kriti","city":"Asimion","latitude":35.05,"longitude":25.1}}(window,'GeoPostal','GR');

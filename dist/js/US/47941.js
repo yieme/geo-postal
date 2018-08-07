@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47941"]={"code":"47941","region":"IN","city":"Dayton","latitude":40.3761,"longitude":-86.774}}(window,'GeoPostal','US');

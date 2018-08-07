@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79518"]={"code":"79518","region":"TX","city":"Girard","latitude":33.3632,"longitude":-100.6937}}(window,'GeoPostal','US');

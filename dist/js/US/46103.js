@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46103"]={"code":"46103","region":"IN","city":"Amo","latitude":39.6886,"longitude":-86.6136}}(window,'GeoPostal','US');

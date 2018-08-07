@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66292"]={"code":"66292","region":"Jawa Timur","city":"Pulosari","latitude":-8.0928,"longitude":111.989}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95064"]={"code":"95064","region":"California","city":"Santa Cruz","latitude":36.989459,"longitude":-122.060109}}(window,'GeoPostal','US');

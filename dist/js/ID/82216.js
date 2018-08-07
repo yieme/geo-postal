@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82216"]={"code":"82216","region":"Bali","city":"Loloan Timur","latitude":-8.3665,"longitude":114.6258}}(window,'GeoPostal','ID');

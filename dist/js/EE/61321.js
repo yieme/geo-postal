@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61321"]={"code":"61321","region":"Tartumaa","city":"Puhja","latitude":58.34194,"longitude":26.31472}}(window,'GeoPostal','EE');

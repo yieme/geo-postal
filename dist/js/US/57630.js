@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57630"]={"code":"57630","region":"SD","city":"Glencross","latitude":45.4483,"longitude":-100.9213}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431210"]={"code":"431210","region":"Mordoviya, Respublika","city":"Ten'gushevo","latitude":54.76861,"longitude":42.71889}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78537"]={"code":"78537","region":"Texas","city":"Donna","latitude":26.17035,"longitude":-98.05195}}(window,'GeoPostal','US');

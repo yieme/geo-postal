@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["854400"]={"code":"854400","region":"Xizang","city":"Baima","latitude":30.05,"longitude":96.9}}(window,'GeoPostal','CN');

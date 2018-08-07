@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13671"]={"code":"13671","region":"NY","city":"Oxbow","latitude":44.2873,"longitude":-75.623}}(window,'GeoPostal','US');

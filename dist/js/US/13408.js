@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13408"]={"code":"13408","region":"New York","city":"Morrisville","latitude":42.907698,"longitude":-75.674975}}(window,'GeoPostal','US');

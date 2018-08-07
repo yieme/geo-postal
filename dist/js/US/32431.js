@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32431"]={"code":"32431","region":"Florida","city":"Cottondale","latitude":30.796007,"longitude":-85.3721}}(window,'GeoPostal','US');

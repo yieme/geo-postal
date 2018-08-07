@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65688"]={"code":"65688","region":"MO","city":"Brandsville","latitude":36.6488,"longitude":-91.6976}}(window,'GeoPostal','US');

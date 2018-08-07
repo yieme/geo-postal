@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56568"]={"code":"56568","region":"Minnesota","city":"Nielsville","latitude":47.52833,"longitude":-96.816667}}(window,'GeoPostal','US');

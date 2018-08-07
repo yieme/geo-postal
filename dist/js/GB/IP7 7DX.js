@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 7DX"]={"code":"IP7 7DX","region":"England","city":"Great Bricett","latitude":52.11584,"longitude":0.97817}}(window,'GeoPostal','GB');

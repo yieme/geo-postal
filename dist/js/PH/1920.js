@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1920"]={"code":"1920","region":"Nueva Ecija","city":"Rizal","latitude":8.92917,"longitude":125.39861}}(window,'GeoPostal','PH');

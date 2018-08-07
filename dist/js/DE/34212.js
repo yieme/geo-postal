@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34212"]={"code":"34212","region":"Hessen","city":"Melsungen","latitude":51.13029,"longitude":9.55236}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["460221"]={"code":"460221","region":"Imo","city":"Owerri","latitude":5.48333,"longitude":7.03041}}(window,'GeoPostal','NG');

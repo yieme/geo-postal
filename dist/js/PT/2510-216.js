@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2510-216"]={"code":"2510-216","region":"Leiria","city":"Obidos","latitude":39.36055,"longitude":-9.1567}}(window,'GeoPostal','PT');

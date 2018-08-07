@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23020"]={"code":"23020","region":"Lombardia","city":"Gordona","latitude":46.29229,"longitude":9.36534}}(window,'GeoPostal','IT');

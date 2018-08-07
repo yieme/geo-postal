@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78050"]={"code":"78050","region":"TX","city":"Leming","latitude":29.073,"longitude":-98.4842}}(window,'GeoPostal','US');

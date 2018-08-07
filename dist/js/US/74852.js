@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74852"]={"code":"74852","region":"OK","city":"Macomb","latitude":35.1205,"longitude":-97.034}}(window,'GeoPostal','US');

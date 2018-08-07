@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88101"]={"code":"88101","region":"New Mexico","city":"Clovis","latitude":34.4048,"longitude":-103.20523}}(window,'GeoPostal','US');

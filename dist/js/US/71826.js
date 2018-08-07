@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71826"]={"code":"71826","region":"Arkansas","city":"Bradley","latitude":33.112955,"longitude":-93.649062}}(window,'GeoPostal','US');

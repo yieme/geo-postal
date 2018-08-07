@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44068"]={"code":"44068","region":"Ohio","city":"North Kingsville","latitude":41.905833,"longitude":-80.690556}}(window,'GeoPostal','US');

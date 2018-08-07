@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-310"]={"code":"39-310","region":"Podkarpackie","city":"Radomysl Wielki","latitude":50.19693,"longitude":21.27693}}(window,'GeoPostal','PL');

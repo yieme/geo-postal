@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["326519"]={"code":"326519","region":"Madhya Pradesh","city":"Bhawaniganj","latitude":24.41667,"longitude":75.83333}}(window,'GeoPostal','IN');

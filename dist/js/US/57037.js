@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57037"]={"code":"57037","region":"South Dakota","city":"Irene","latitude":43.08361,"longitude":-97.15667}}(window,'GeoPostal','US');

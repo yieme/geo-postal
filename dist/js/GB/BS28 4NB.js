@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS28 4NB"]={"code":"BS28 4NB","region":"England","city":"Blackford","latitude":51.22611,"longitude":-2.84778}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04685"]={"code":"04685","region":"ME","city":"Swans Island","latitude":44.1451,"longitude":-68.4517}}(window,'GeoPostal','US');

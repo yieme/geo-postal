@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94582"]={"code":"94582","region":"California","city":"San Ramon","latitude":37.77993,"longitude":-121.97802}}(window,'GeoPostal','US');

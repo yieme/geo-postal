@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-440"]={"code":"34-440","region":"Malopolskie","city":"Krosnica","latitude":49.44787,"longitude":20.33956}}(window,'GeoPostal','PL');

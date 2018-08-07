@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23047"]={"code":"23047","region":"Virginia","city":"Doswell","latitude":37.847216,"longitude":-77.506474}}(window,'GeoPostal','US');

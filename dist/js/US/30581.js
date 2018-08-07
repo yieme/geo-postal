@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30581"]={"code":"30581","region":"GA","city":"Wiley","latitude":34.8045,"longitude":-83.4191}}(window,'GeoPostal','US');

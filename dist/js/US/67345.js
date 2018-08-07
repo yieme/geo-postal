@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67345"]={"code":"67345","region":"Kansas","city":"Elk Falls","latitude":37.383191,"longitude":-96.271875}}(window,'GeoPostal','US');

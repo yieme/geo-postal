@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88325"]={"code":"88325","region":"Federacija Bosne i Hercegovine","city":"Ljubuski","latitude":43.19694,"longitude":17.545}}(window,'GeoPostal','BA');

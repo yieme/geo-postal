@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08075"]={"code":"08075","region":"New Jersey","city":"Riverside","latitude":40.021944,"longitude":-74.932778}}(window,'GeoPostal','US');

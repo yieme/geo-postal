@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94950"]={"code":"94950","region":"CA","city":"Olema","latitude":38.0467,"longitude":-122.7699}}(window,'GeoPostal','US');

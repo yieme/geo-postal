@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50161"]={"code":"50161","region":"IA","city":"Maxwell","latitude":41.8967,"longitude":-93.4001}}(window,'GeoPostal','US');

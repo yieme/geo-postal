@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142904"]={"code":"142904","region":"Moskovskaya oblast'","city":"Kashira","latitude":54.84444,"longitude":38.16694}}(window,'GeoPostal','RU');

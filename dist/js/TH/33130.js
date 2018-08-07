@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33130"]={"code":"33130","region":"Ubon Ratchathani","city":"Ubon Ratchathani","latitude":15.22483,"longitude":104.85289}}(window,'GeoPostal','TH');

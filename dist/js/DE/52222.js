@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52222"]={"code":"52222","region":"Sachsen-Anhalt","city":"Stolberg","latitude":51.57426,"longitude":10.95582}}(window,'GeoPostal','DE');

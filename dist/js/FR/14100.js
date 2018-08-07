@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14100"]={"code":"14100","region":"Normandie","city":"Saint-Desir","latitude":49.14056,"longitude":0.21398}}(window,'GeoPostal','FR');

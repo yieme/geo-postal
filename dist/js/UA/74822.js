@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74822"]={"code":"74822","region":"Khersonska oblast","city":"Lyubymivka","latitude":46.81063,"longitude":33.56862}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70661"]={"code":"70661","region":"LA","city":"Starks","latitude":30.3085,"longitude":-93.6615}}(window,'GeoPostal','US');

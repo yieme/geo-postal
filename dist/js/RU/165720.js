@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165720"]={"code":"165720","region":"Arkhangel'skaya oblast'","city":"Urdoma","latitude":61.75335,"longitude":48.5442}}(window,'GeoPostal','RU');

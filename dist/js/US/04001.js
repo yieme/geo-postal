@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04001"]={"code":"04001","region":"Maine","city":"Acton","latitude":43.53425,"longitude":-70.90978}}(window,'GeoPostal','US');

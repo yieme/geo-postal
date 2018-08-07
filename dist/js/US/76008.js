@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76008"]={"code":"76008","region":"Texas","city":"Aledo","latitude":32.69596,"longitude":-97.60225}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78652"]={"code":"78652","region":"TX","city":"Manchaca","latitude":30.1238,"longitude":-97.8393}}(window,'GeoPostal','US');

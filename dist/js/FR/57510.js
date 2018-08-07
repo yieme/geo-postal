@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57510"]={"code":"57510","region":"Grand-Est","city":"Holving","latitude":49.00965,"longitude":6.96529}}(window,'GeoPostal','FR');

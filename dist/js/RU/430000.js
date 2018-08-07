@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430000"]={"code":"430000","region":"Mordoviya, Respublika","city":"Saransk","latitude":54.1838,"longitude":45.1749}}(window,'GeoPostal','RU');

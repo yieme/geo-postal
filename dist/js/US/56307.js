@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56307"]={"code":"56307","region":"Minnesota","city":"Albany","latitude":45.637309,"longitude":-94.578072}}(window,'GeoPostal','US');

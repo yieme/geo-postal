@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7018"]={"code":"7018","region":"Tasmania","city":"Bellerive","latitude":-42.86667,"longitude":147.36667}}(window,'GeoPostal','AU');

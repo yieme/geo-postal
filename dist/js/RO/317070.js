@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317070"]={"code":"317070","region":"Arad","city":"Carand","latitude":46.45,"longitude":22.08333}}(window,'GeoPostal','RO');

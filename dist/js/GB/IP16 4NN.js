@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP16 4NN"]={"code":"IP16 4NN","region":"England","city":"Thorpeness","latitude":52.18012,"longitude":1.61327}}(window,'GeoPostal','GB');

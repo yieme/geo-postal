@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441321"]={"code":"441321","region":"Hubei","city":"Changgang","latitude":31.55109,"longitude":112.97433}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27151"]={"code":"27151","region":"NC","city":"Wachovia Master Chrg","latitude":36.11,"longitude":-80.24}}(window,'GeoPostal','US');

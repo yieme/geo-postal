@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 2EQ"]={"code":"TA5 2EQ","region":"England","city":"Broomfield","latitude":51.0825,"longitude":-3.11028}}(window,'GeoPostal','GB');

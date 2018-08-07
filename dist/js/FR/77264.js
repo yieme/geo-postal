@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77264"]={"code":"77264","region":"Ile-de-France","city":"La Ferte-sous-Jouarre","latitude":48.9514,"longitude":3.12724}}(window,'GeoPostal','FR');

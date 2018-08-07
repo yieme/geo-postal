@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62280"]={"code":"62280","region":"IL","city":"Rockwood","latitude":37.8322,"longitude":-89.6214}}(window,'GeoPostal','US');

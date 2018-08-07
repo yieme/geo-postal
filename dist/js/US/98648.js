@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98648"]={"code":"98648","region":"Washington","city":"Stevenson","latitude":45.69567,"longitude":-121.88452}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["850000"]={"code":"850000","region":"Xizang","city":"Lhasa","latitude":29.65,"longitude":91.1}}(window,'GeoPostal','CN');

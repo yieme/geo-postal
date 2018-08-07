@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH13 8HA"]={"code":"RH13 8HA","region":"England","city":"Shermanbury","latitude":50.96005,"longitude":-0.28599}}(window,'GeoPostal','GB');

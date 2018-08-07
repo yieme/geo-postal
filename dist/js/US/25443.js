@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25443"]={"code":"25443","region":"West Virginia","city":"Shepherdstown","latitude":39.4301,"longitude":-77.80416}}(window,'GeoPostal','US');

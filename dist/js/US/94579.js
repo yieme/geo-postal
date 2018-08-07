@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94579"]={"code":"94579","region":"CA","city":"San Leandro","latitude":37.6892,"longitude":-122.1507}}(window,'GeoPostal','US');

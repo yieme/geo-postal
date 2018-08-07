@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 6LT"]={"code":"PL27 6LT","region":"England","city":"Rock","latitude":50.54978,"longitude":-4.90462}}(window,'GeoPostal','GB');

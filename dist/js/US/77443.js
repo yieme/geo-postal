@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77443"]={"code":"77443","region":"TX","city":"Glen Flora","latitude":29.3475,"longitude":-96.1933}}(window,'GeoPostal','US');

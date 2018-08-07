@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56113"]={"code":"56113","region":"MN","city":"Arco","latitude":44.4091,"longitude":-96.1999}}(window,'GeoPostal','US');

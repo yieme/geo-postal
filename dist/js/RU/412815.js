@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412815"]={"code":"412815","region":"Saratovskaya oblast'","city":"Kamenskiy","latitude":50.88547,"longitude":45.48801}}(window,'GeoPostal','RU');

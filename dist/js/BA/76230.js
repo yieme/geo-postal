@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76230"]={"code":"76230","region":"Republika Srpska","city":"Bosanski Samac","latitude":45.05917,"longitude":18.46694}}(window,'GeoPostal','BA');

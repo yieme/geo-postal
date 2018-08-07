@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL27 0UJ"]={"code":"LL27 0UJ","region":"Wales","city":"Trefriw","latitude":53.15138,"longitude":-3.82573}}(window,'GeoPostal','GB');

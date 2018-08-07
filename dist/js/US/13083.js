@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13083"]={"code":"13083","region":"NY","city":"Lacona","latitude":43.6429,"longitude":-76.0503}}(window,'GeoPostal','US');

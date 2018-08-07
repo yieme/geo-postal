@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95037"]={"code":"95037","region":"California","city":"Morgan Hill","latitude":37.1305,"longitude":-121.65439}}(window,'GeoPostal','US');

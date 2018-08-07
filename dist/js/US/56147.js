@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56147"]={"code":"56147","region":"MN","city":"Kenneth","latitude":43.7637,"longitude":-96.1089}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49343"]={"code":"49343","region":"Michigan","city":"Sand Lake","latitude":44.31918,"longitude":-83.6847}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03580"]={"code":"03580","region":"New Hampshire","city":"Franconia","latitude":44.22722,"longitude":-71.74833}}(window,'GeoPostal','US');

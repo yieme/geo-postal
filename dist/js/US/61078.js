@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61078"]={"code":"61078","region":"IL","city":"Shannon","latitude":42.161,"longitude":-89.7481}}(window,'GeoPostal','US');

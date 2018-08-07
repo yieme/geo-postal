@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66749"]={"code":"66749","region":"Kansas","city":"Iola","latitude":37.92448,"longitude":-95.39998}}(window,'GeoPostal','US');

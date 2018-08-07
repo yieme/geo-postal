@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2008"]={"code":"2008","region":"Akershus","city":"Fjerdingby","latitude":59.92626,"longitude":11.06527}}(window,'GeoPostal','NO');

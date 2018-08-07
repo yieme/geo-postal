@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11402"]={"code":"11402","region":"Baoruco","city":"Neiba","latitude":18.48138,"longitude":-71.41965}}(window,'GeoPostal','DO');

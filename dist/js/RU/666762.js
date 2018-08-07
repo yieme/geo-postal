@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666762"]={"code":"666762","region":"Irkutskaya oblast'","city":"Zvezdnyy","latitude":56.7492,"longitude":106.4799}}(window,'GeoPostal','RU');

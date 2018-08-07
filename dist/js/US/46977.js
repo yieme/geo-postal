@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46977"]={"code":"46977","region":"IN","city":"Rockfield","latitude":40.6411,"longitude":-86.5739}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35456"]={"code":"35456","region":"AL","city":"Duncanville","latitude":33.0618,"longitude":-87.4422}}(window,'GeoPostal','US');

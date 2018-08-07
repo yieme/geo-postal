@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68488"]={"code":"68488","region":"Oaxaca","city":"San Juan Bautista Valle Nacional","latitude":17.78333,"longitude":-96.31667}}(window,'GeoPostal','MX');

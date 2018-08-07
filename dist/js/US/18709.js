@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18709"]={"code":"18709","region":"PA","city":"Luzerne","latitude":41.2843,"longitude":-75.8935}}(window,'GeoPostal','US');

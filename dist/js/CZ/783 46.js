@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 46"]={"code":"783 46","region":"Olomoucky kraj","city":"Tesetice","latitude":49.59317,"longitude":17.12607}}(window,'GeoPostal','CZ');

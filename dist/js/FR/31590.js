@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31590"]={"code":"31590","region":"Occitanie","city":"Verfeil","latitude":43.65781,"longitude":1.6634}}(window,'GeoPostal','FR');

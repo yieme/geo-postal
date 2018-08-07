@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99701"]={"code":"99701","region":"Alaska","city":"Fairbanks","latitude":64.83778,"longitude":-147.71639}}(window,'GeoPostal','US');

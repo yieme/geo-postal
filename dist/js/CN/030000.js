@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["030000"]={"code":"030000","region":"Shanxi","city":"Yingze","latitude":37.894722,"longitude":112.5675}}(window,'GeoPostal','CN');

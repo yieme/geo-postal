@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76340"]={"code":"76340","region":"Normandie","city":"Foucarmont","latitude":49.84682,"longitude":1.56899}}(window,'GeoPostal','FR');

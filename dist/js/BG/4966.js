@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4966"]={"code":"4966","region":"Smolyan","city":"Rudozem","latitude":41.48333,"longitude":24.85}}(window,'GeoPostal','BG');

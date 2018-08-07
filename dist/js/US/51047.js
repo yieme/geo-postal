@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51047"]={"code":"51047","region":"IA","city":"Peterson","latitude":42.9328,"longitude":-95.3377}}(window,'GeoPostal','US');

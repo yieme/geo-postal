@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629757"]={"code":"629757","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Pangody","latitude":65.85002,"longitude":74.48593}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28870"]={"code":"28870","region":"Niedersachsen","city":"Ottersberg","latitude":53.1099,"longitude":9.14408}}(window,'GeoPostal','DE');

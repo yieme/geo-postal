@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7331"]={"code":"7331","region":"Burgenland","city":"Weppersdorf","latitude":47.58333,"longitude":16.43333}}(window,'GeoPostal','AT');

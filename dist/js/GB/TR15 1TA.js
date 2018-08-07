@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR15 1TA"]={"code":"TR15 1TA","region":"England","city":"Redruth","latitude":50.23315,"longitude":-5.22434}}(window,'GeoPostal','GB');

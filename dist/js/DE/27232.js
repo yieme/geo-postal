@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27232"]={"code":"27232","region":"Niedersachsen","city":"Sulingen","latitude":52.68373,"longitude":8.80949}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94880"]={"code":"94880","region":"Ile-de-France","city":"Noiseau","latitude":48.77589,"longitude":2.54892}}(window,'GeoPostal','FR');

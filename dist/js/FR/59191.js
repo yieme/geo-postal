@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59191"]={"code":"59191","region":"Hauts-de-France","city":"Selvigny","latitude":50.07971,"longitude":3.34899}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5340"]={"code":"5340","region":"Namur","city":"Gesves","latitude":50.40146,"longitude":5.07457}}(window,'GeoPostal','BE');

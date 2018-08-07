@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33057"]={"code":"33057","region":"Friuli-Venezia Giulia","city":"Palmanova","latitude":45.90639,"longitude":13.31194}}(window,'GeoPostal','IT');

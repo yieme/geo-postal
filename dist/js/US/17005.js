@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17005"]={"code":"17005","region":"PA","city":"Berrysburg","latitude":40.601,"longitude":-76.8117}}(window,'GeoPostal','US');

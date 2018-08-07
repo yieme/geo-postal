@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14008"]={"code":"14008","region":"NY","city":"Appleton","latitude":43.3105,"longitude":-78.6372}}(window,'GeoPostal','US');

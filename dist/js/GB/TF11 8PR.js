@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF11 8PR"]={"code":"TF11 8PR","region":"England","city":"Tong","latitude":52.66667,"longitude":-2.3}}(window,'GeoPostal','GB');

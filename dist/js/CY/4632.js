@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4632"]={"code":"4632","region":"Lemesos","city":"Kolossi","latitude":34.67083,"longitude":32.92917}}(window,'GeoPostal','CY');

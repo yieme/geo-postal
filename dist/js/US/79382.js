@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79382"]={"code":"79382","region":"TX","city":"Wolfforth","latitude":33.5059,"longitude":-102.0091}}(window,'GeoPostal','US');

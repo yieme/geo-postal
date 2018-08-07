@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23226"]={"code":"23226","region":"Zadarska zupanija","city":"Pridraga","latitude":44.16667,"longitude":15.56667}}(window,'GeoPostal','HR');

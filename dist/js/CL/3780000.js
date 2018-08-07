@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3780000"]={"code":"3780000","region":"Biobio","city":"Chillan","latitude":-36.60664,"longitude":-72.10344}}(window,'GeoPostal','CL');

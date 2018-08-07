@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81623"]={"code":"81623","region":"Colorado","city":"Carbondale","latitude":39.40221,"longitude":-107.21116}}(window,'GeoPostal','US');

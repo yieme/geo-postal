@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77130"]={"code":"77130","region":"Ile-de-France","city":"Ville-Saint-Jacques","latitude":48.3439,"longitude":2.8992}}(window,'GeoPostal','FR');

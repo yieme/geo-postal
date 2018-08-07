@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29041"]={"code":"29041","region":"SC","city":"Davis Station","latitude":33.6027,"longitude":-80.2645}}(window,'GeoPostal','US');

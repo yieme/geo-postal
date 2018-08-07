@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48900-000"]={"code":"48900-000","region":"Pernambuco","city":"Petrolina","latitude":-9.39861,"longitude":-40.50083}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97389"]={"code":"97389","region":"OR","city":"Tangent","latitude":44.5497,"longitude":-123.1108}}(window,'GeoPostal','US');

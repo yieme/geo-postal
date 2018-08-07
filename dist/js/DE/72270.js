@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72270"]={"code":"72270","region":"Baden-Wurttemberg","city":"Kniebis","latitude":48.46702,"longitude":8.30343}}(window,'GeoPostal','DE');

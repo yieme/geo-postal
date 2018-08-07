@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58800-000"]={"code":"58800-000","region":"Paraiba","city":"Sousa","latitude":-6.75917,"longitude":-38.22806}}(window,'GeoPostal','BR');

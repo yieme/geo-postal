@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336015"]={"code":"336015","region":"Jiangxi","city":"Tiantai","latitude":27.82976,"longitude":114.01948}}(window,'GeoPostal','CN');

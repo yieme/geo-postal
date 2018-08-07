@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85339"]={"code":"85339","region":"Arizona","city":"Laveen","latitude":33.377539,"longitude":-112.168281}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17271"]={"code":"17271","region":"Pennsylvania","city":"Willow Hill","latitude":40.109832,"longitude":-77.795294}}(window,'GeoPostal','US');

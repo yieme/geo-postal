@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20100"]={"code":"20100","region":"Corse","city":"Sartene","latitude":41.61667,"longitude":8.98333}}(window,'GeoPostal','FR');

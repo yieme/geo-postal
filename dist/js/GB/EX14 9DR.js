@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX14 9DR"]={"code":"EX14 9DR","region":"England","city":"Stockland","latitude":50.8368,"longitude":-3.07342}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52213"]={"code":"52213","region":"Iowa","city":"Center Point","latitude":42.192129,"longitude":-91.760179}}(window,'GeoPostal','US');

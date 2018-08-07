@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06293"]={"code":"06293","region":"Extremadura","city":"Cabeza la Vaca","latitude":38.08333,"longitude":-6.41667}}(window,'GeoPostal','ES');

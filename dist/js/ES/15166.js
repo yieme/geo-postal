@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15166"]={"code":"15166","region":"Galicia","city":"Bergondo","latitude":43.31667,"longitude":-8.23333}}(window,'GeoPostal','ES');

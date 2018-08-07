@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26892"]={"code":"26892","region":"Niedersachsen","city":"Lehe","latitude":53,"longitude":7.33333}}(window,'GeoPostal','DE');

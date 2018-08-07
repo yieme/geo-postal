@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX34 9SE"]={"code":"EX34 9SE","region":"England","city":"Berrynarbor","latitude":51.20106,"longitude":-4.06151}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86520"]={"code":"86520","region":"AZ","city":"Blue Gap","latitude":36.1708,"longitude":-109.9465}}(window,'GeoPostal','US');

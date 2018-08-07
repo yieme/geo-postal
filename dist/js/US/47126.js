@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47126"]={"code":"47126","region":"IN","city":"Henryville","latitude":38.5398,"longitude":-85.7734}}(window,'GeoPostal','US');

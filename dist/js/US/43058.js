@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43058"]={"code":"43058","region":"OH","city":"Newark","latitude":40.0581,"longitude":-82.4013}}(window,'GeoPostal','US');

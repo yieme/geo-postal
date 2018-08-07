@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-448"]={"code":"22-448","region":"Lubelskie","city":"Sulow","latitude":50.77099,"longitude":22.95593}}(window,'GeoPostal','PL');

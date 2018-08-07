@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91802"]={"code":"91802","region":"Bayern","city":"Meinheim","latitude":49.03333,"longitude":10.81667}}(window,'GeoPostal','DE');

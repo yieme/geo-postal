@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40822"]={"code":"40822","region":"Nordrhein-Westfalen","city":"Mettmann","latitude":51.2504,"longitude":6.97536}}(window,'GeoPostal','DE');

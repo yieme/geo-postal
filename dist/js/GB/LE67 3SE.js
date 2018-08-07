@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 3SE"]={"code":"LE67 3SE","region":"England","city":"Coalville","latitude":52.71667,"longitude":-1.36667}}(window,'GeoPostal','GB');

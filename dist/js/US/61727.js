@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61727"]={"code":"61727","region":"Illinois","city":"Clinton","latitude":40.14942,"longitude":-88.95816}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62613"]={"code":"62613","region":"IL","city":"Athens","latitude":39.9917,"longitude":-89.6684}}(window,'GeoPostal','US');

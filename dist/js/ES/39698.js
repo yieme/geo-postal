@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39698"]={"code":"39698","region":"Cantabria","city":"Santiurde de Toranzo","latitude":43.23819,"longitude":-3.93948}}(window,'GeoPostal','ES');

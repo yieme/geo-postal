@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63645"]={"code":"63645","region":"Missouri","city":"Fredericktown","latitude":37.55978,"longitude":-90.29401}}(window,'GeoPostal','US');

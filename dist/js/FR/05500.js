@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05500"]={"code":"05500","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Bonnet-en-Champsaur","latitude":44.68333,"longitude":6.08333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90542"]={"code":"90542","region":"Bayern","city":"Mausgesees","latitude":49.59008,"longitude":11.23981}}(window,'GeoPostal','DE');

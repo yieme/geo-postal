@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52115"]={"code":"52115","region":"Grand-Est","city":"Saint-Dizier","latitude":48.63333,"longitude":4.95}}(window,'GeoPostal','FR');

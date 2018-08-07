@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15676"]={"code":"15676","region":"PA","city":"Pleasant Unity","latitude":40.2424,"longitude":-79.4542}}(window,'GeoPostal','US');

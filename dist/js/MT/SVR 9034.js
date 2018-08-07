@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SVR 9034"]={"code":"SVR 9034","region":"Santa Venera","city":"Santa Venera","latitude":35.89083,"longitude":14.47417}}(window,'GeoPostal','MT');

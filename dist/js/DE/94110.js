@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94110"]={"code":"94110","region":"Bayern","city":"Wegscheid","latitude":47.66607,"longitude":11.58438}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01921"]={"code":"01921","region":"Auvergne-Rhone-Alpes","city":"Montluel","latitude":45.8519,"longitude":5.0578}}(window,'GeoPostal','FR');

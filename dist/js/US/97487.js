@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97487"]={"code":"97487","region":"OR","city":"Veneta","latitude":44.0382,"longitude":-123.3516}}(window,'GeoPostal','US');

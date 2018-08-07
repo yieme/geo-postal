@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11178"]={"code":"11178","region":"Andalucia","city":"Paterna de Rivera","latitude":36.52246,"longitude":-5.86578}}(window,'GeoPostal','ES');

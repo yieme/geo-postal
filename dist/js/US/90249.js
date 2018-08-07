@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90249"]={"code":"90249","region":"California","city":"Gardena","latitude":33.89944,"longitude":-118.31857}}(window,'GeoPostal','US');

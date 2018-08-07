@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607914"]={"code":"607914","region":"Ul'yanovskaya oblast'","city":"Novospasskoye","latitude":53.14683,"longitude":47.75138}}(window,'GeoPostal','RU');

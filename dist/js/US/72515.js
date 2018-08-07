@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72515"]={"code":"72515","region":"AR","city":"Bexar","latitude":36.2901,"longitude":-92.055}}(window,'GeoPostal','US');

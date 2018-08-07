@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29584"]={"code":"29584","region":"South Carolina","city":"Patrick","latitude":34.56271,"longitude":-80.073995}}(window,'GeoPostal','US');

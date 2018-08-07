@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80644"]={"code":"80644","region":"Johor","city":"Johor Bahru","latitude":1.4655,"longitude":103.7578}}(window,'GeoPostal','MY');

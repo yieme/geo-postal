@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01742"]={"code":"01742","region":"Massachusetts","city":"Concord","latitude":42.46037,"longitude":-71.34895}}(window,'GeoPostal','US');

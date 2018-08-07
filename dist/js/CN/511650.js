@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511650"]={"code":"511650","region":"Guangdong","city":"Shuitou","latitude":23.88094,"longitude":113.64145}}(window,'GeoPostal','CN');

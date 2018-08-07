@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31324"]={"code":"31324","region":"Georgia","city":"Richmond Hill","latitude":31.87436,"longitude":-81.285399}}(window,'GeoPostal','US');

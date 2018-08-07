@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13665"]={"code":"13665","region":"NY","city":"Natural Bridge","latitude":44.063,"longitude":-75.5039}}(window,'GeoPostal','US');

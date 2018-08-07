@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80834"]={"code":"80834","region":"Colorado","city":"Seibert","latitude":39.285371,"longitude":-102.887377}}(window,'GeoPostal','US');

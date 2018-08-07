@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46111"]={"code":"46111","region":"IN","city":"Brooklyn","latitude":39.5396,"longitude":-86.3701}}(window,'GeoPostal','US');

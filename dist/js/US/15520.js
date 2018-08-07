@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15520"]={"code":"15520","region":"PA","city":"Acosta","latitude":40.1104,"longitude":-79.0689}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62030"]={"code":"62030","region":"L'Oriental","city":"Nador","latitude":35.17404,"longitude":-2.92866}}(window,'GeoPostal','MA');

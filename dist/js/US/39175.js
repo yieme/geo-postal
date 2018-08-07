@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39175"]={"code":"39175","region":"MS","city":"Utica","latitude":32.1229,"longitude":-90.6047}}(window,'GeoPostal','US');

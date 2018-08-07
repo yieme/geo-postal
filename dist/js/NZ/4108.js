@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4108"]={"code":"4108","region":"Hawke's Bay","city":"Wairoa","latitude":-39.03333,"longitude":177.36667}}(window,'GeoPostal','NZ');

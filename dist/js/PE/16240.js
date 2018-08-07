@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16240"]={"code":"16240","region":"Loreto","city":"Ramon Castilla","latitude":-4.25694,"longitude":-69.95944}}(window,'GeoPostal','PE');

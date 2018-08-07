@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49865"]={"code":"49865","region":"MI","city":"National Mine","latitude":46.6041,"longitude":-87.6148}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG5 8PZ"]={"code":"HG5 8PZ","region":"England","city":"Knaresborough","latitude":54.0091,"longitude":-1.46851}}(window,'GeoPostal','GB');

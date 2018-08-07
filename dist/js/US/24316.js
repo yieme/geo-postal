@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24316"]={"code":"24316","region":"Virginia","city":"Broadford","latitude":36.939601,"longitude":-81.649228}}(window,'GeoPostal','US');

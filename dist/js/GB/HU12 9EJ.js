@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 9EJ"]={"code":"HU12 9EJ","region":"England","city":"Burstwick","latitude":53.73211,"longitude":-0.13956}}(window,'GeoPostal','GB');

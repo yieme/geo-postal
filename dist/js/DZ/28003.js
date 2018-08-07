@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28003"]={"code":"28003","region":"M'sila","city":"'Ain el Hadjel","latitude":35.67003,"longitude":3.88153}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6714"]={"code":"6714","region":"Vorarlberg","city":"Nuziders","latitude":47.16667,"longitude":9.8}}(window,'GeoPostal','AT');

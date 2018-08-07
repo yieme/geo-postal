@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4823"]={"code":"4823","region":"Queensland","city":"McKinlay","latitude":-21.26667,"longitude":141.3}}(window,'GeoPostal','AU');

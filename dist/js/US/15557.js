@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15557"]={"code":"15557","region":"Pennsylvania","city":"Rockwood","latitude":39.91611,"longitude":-79.15583}}(window,'GeoPostal','US');

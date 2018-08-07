@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6B 0A1"]={"code":"G6B 0A1","region":"Quebec","city":"Lac-Megantic","latitude":45.58338,"longitude":-70.88234}}(window,'GeoPostal','CA');

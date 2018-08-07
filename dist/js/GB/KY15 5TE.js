@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY15 5TE"]={"code":"KY15 5TE","region":"Scotland","city":"Pitscottie","latitude":56.30672,"longitude":-2.94351}}(window,'GeoPostal','GB');

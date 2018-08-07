@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36120"]={"code":"36120","region":"Centre-Val de Loire","city":"Ardentes","latitude":46.74191,"longitude":1.83428}}(window,'GeoPostal','FR');

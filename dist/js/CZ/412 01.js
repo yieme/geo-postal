@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412 01"]={"code":"412 01","region":"Ustecky kraj","city":"Litomerice","latitude":50.53348,"longitude":14.1318}}(window,'GeoPostal','CZ');

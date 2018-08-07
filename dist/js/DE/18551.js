@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18551"]={"code":"18551","region":"Mecklenburg-Vorpommern","city":"Lohme","latitude":54.58333,"longitude":13.61667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67123"]={"code":"67123","region":"KS","city":"Potwin","latitude":37.9389,"longitude":-97.0198}}(window,'GeoPostal','US');

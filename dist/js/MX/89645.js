@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89645"]={"code":"89645","region":"Tamaulipas","city":"Manuel","latitude":22.73333,"longitude":-98.3}}(window,'GeoPostal','MX');

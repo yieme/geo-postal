@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38119"]={"code":"38119","region":"Auvergne-Rhone-Alpes","city":"Pierre-Chatel","latitude":44.95654,"longitude":5.77729}}(window,'GeoPostal','FR');

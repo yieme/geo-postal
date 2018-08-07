@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79324"]={"code":"79324","region":"TX","city":"Enochs","latitude":33.8731,"longitude":-102.7599}}(window,'GeoPostal','US');

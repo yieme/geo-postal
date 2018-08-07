@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171055"]={"code":"171055","region":"Tverskaya oblast'","city":"Kuzhenkino","latitude":57.76111,"longitude":33.95083}}(window,'GeoPostal','RU');

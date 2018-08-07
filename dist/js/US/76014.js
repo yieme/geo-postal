@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76014"]={"code":"76014","region":"Texas","city":"Arlington","latitude":32.696002,"longitude":-97.087778}}(window,'GeoPostal','US');

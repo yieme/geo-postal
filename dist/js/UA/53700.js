@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53700"]={"code":"53700","region":"Dnipropetrovska oblast","city":"Shyroke","latitude":47.69173,"longitude":33.25714}}(window,'GeoPostal','UA');

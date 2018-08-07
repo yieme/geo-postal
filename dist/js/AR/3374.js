@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3374"]={"code":"3374","region":"Misiones","city":"Puerto Libertad","latitude":-25.91641,"longitude":-54.62089}}(window,'GeoPostal','AR');

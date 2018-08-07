@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8001"]={"code":"8001","region":"Western Cape","city":"Cape Town","latitude":-33.92584,"longitude":18.42322}}(window,'GeoPostal','ZA');

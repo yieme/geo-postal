@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76012"]={"code":"76012","region":"Puglia","city":"Canosa di Puglia","latitude":41.21963,"longitude":16.06747}}(window,'GeoPostal','IT');

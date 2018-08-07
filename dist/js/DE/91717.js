@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91717"]={"code":"91717","region":"Bayern","city":"Schobdach","latitude":49.03684,"longitude":10.61307}}(window,'GeoPostal','DE');

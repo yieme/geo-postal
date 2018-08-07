@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54501"]={"code":"54501","region":"Wisconsin","city":"Rhinelander","latitude":45.63662,"longitude":-89.41208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45211"]={"code":"45211","region":"Castilla-La Mancha","city":"Recas","latitude":40.05286,"longitude":-3.9909}}(window,'GeoPostal','ES');

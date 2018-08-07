@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46555"]={"code":"46555","region":"IN","city":"North Webster","latitude":41.3326,"longitude":-85.7103}}(window,'GeoPostal','US');

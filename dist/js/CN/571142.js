@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571142"]={"code":"571142","region":"Hainan","city":"Dapo","latitude":19.61609,"longitude":110.57158}}(window,'GeoPostal','CN');

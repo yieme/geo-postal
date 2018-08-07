@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6022"]={"code":"6022","region":"Western Australia","city":"Hamersley","latitude":-31.84898,"longitude":115.80757}}(window,'GeoPostal','AU');

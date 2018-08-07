@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["668040"]={"code":"668040","region":"Tyva, Respublika","city":"Kyzyl-Mazhalyk","latitude":51.13333,"longitude":90.6}}(window,'GeoPostal','RU');

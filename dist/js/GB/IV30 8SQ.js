@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV30 8SQ"]={"code":"IV30 8SQ","region":"Scotland","city":"Longmorn","latitude":57.60786,"longitude":-3.29092}}(window,'GeoPostal','GB');

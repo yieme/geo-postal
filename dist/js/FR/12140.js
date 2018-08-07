@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12140"]={"code":"12140","region":"Occitanie","city":"Entraygues-sur-Truyere","latitude":44.64606,"longitude":2.56745}}(window,'GeoPostal','FR');

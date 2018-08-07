@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39601"]={"code":"39601","region":"Poltavska oblast","city":"Kremenchuk","latitude":49.09725,"longitude":33.41972}}(window,'GeoPostal','UA');

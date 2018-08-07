@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51025"]={"code":"51025","region":"Iowa","city":"Holstein","latitude":42.48915,"longitude":-95.545}}(window,'GeoPostal','US');

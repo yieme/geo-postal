@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67530"]={"code":"67530","region":"Kansas","city":"Great Bend","latitude":38.36446,"longitude":-98.76481}}(window,'GeoPostal','US');

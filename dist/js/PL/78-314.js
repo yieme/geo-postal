@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-314"]={"code":"78-314","region":"Zachodniopomorskie","city":"Slawoborze","latitude":53.88992,"longitude":15.70667}}(window,'GeoPostal','PL');

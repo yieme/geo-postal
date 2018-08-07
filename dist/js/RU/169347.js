@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169347"]={"code":"169347","region":"Komi, Respublika","city":"Yarega","latitude":63.43543,"longitude":53.5765}}(window,'GeoPostal','RU');

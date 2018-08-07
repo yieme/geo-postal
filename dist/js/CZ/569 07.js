@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["569 07"]={"code":"569 07","region":"Pardubicky kraj","city":"Radimer","latitude":49.6985,"longitude":16.4407}}(window,'GeoPostal','CZ');

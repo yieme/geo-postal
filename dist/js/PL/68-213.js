@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-213"]={"code":"68-213","region":"Lubuskie","city":"Sieniawa Zarska","latitude":51.64007,"longitude":15.06045}}(window,'GeoPostal','PL');

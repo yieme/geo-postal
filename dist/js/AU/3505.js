@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3505"]={"code":"3505","region":"Victoria","city":"Merbein","latitude":-34.16802,"longitude":142.06599}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95460"]={"code":"95460","region":"Ile-de-France","city":"Ezanville","latitude":49.02794,"longitude":2.36786}}(window,'GeoPostal','FR');

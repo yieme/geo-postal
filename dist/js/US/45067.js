@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45067"]={"code":"45067","region":"Ohio","city":"Trenton","latitude":39.47098,"longitude":-84.45758}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92060"]={"code":"92060","region":"California","city":"Palomar Mountain","latitude":33.336604,"longitude":-116.798987}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 2RG"]={"code":"DL2 2RG","region":"England","city":"Manfield","latitude":54.51627,"longitude":-1.66117}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48559"]={"code":"48559","region":"MI","city":"Fisher Body Boc","latitude":43.02,"longitude":-83.68}}(window,'GeoPostal','US');

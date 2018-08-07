@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24520"]={"code":"24520","region":"Nouvelle-Aquitaine","city":"Cours-de-Pile","latitude":44.83608,"longitude":0.54656}}(window,'GeoPostal','FR');

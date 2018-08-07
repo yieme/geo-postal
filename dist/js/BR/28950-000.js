@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28950-000"]={"code":"28950-000","region":"Rio de Janeiro","city":"Armacao de Buzios","latitude":-22.74694,"longitude":-41.88167}}(window,'GeoPostal','BR');

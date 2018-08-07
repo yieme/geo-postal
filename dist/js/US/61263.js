@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61263"]={"code":"61263","region":"IL","city":"Matherville","latitude":41.2599,"longitude":-90.6128}}(window,'GeoPostal','US');

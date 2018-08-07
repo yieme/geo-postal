@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA5 6LU"]={"code":"CA5 6LU","region":"England","city":"Great Orton","latitude":54.87646,"longitude":-3.04819}}(window,'GeoPostal','GB');

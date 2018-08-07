@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31094"]={"code":"31094","region":"GA","city":"Warthen","latitude":33.1255,"longitude":-82.8039}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-170"]={"code":"22-170","region":"Lubelskie","city":"Rejowiec Fabryczny","latitude":51.11414,"longitude":23.24724}}(window,'GeoPostal','PL');

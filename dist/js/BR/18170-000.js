@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18170-000"]={"code":"18170-000","region":"Sao Paulo","city":"Piedade","latitude":-23.71194,"longitude":-47.42778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 2P0"]={"code":"V0B 2P0","region":"British Columbia","city":"Yahk","latitude":49.0832,"longitude":-116.08539}}(window,'GeoPostal','CA');

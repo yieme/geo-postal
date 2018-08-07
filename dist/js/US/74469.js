@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74469"]={"code":"74469","region":"OK","city":"Warner","latitude":35.4945,"longitude":-95.3064}}(window,'GeoPostal','US');

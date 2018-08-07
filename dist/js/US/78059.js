@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78059"]={"code":"78059","region":"Texas","city":"Natalia","latitude":29.18968,"longitude":-98.86253}}(window,'GeoPostal','US');

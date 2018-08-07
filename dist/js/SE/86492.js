@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86492"]={"code":"86492","region":"Vasternorrlands lan","city":"Matfors","latitude":62.35,"longitude":17.03333}}(window,'GeoPostal','SE');

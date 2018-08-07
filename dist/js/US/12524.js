@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12524"]={"code":"12524","region":"New York","city":"Fishkill","latitude":41.539614,"longitude":-73.901858}}(window,'GeoPostal','US');

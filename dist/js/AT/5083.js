@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5083"]={"code":"5083","region":"Salzburg","city":"Grodig","latitude":47.73333,"longitude":13.03333}}(window,'GeoPostal','AT');

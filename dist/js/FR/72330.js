@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72330"]={"code":"72330","region":"Pays-de-la-Loire","city":"Cerans-Foulletourte","latitude":47.82651,"longitude":0.07724}}(window,'GeoPostal','FR');

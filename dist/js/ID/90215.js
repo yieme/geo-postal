@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90215"]={"code":"90215","region":"Sulawesi Selatan","city":"Makassar","latitude":-5.14,"longitude":119.4221}}(window,'GeoPostal','ID');

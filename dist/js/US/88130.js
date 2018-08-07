@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88130"]={"code":"88130","region":"New Mexico","city":"Portales","latitude":34.15494,"longitude":-103.33572}}(window,'GeoPostal','US');

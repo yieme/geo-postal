@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72210"]={"code":"72210","region":"Pays-de-la-Loire","city":"Louplande","latitude":47.95,"longitude":-0.05}}(window,'GeoPostal','FR');

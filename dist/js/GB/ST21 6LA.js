@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST21 6LA"]={"code":"ST21 6LA","region":"England","city":"Eccleshall","latitude":52.85789,"longitude":-2.24971}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 1S0"]={"code":"K0M 1S0","region":"Ontario","city":"Haliburton","latitude":45.04587,"longitude":-78.50761}}(window,'GeoPostal','CA');

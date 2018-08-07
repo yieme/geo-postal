@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59960"]={"code":"59960","region":"Hauts-de-France","city":"Neuville-en-Ferrain","latitude":50.74839,"longitude":3.15676}}(window,'GeoPostal','FR');

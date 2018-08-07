@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47147"]={"code":"47147","region":"IN","city":"Nabb","latitude":38.6128,"longitude":-85.5217}}(window,'GeoPostal','US');

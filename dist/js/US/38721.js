@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38721"]={"code":"38721","region":"Mississippi","city":"Anguilla","latitude":32.973087,"longitude":-90.830087}}(window,'GeoPostal','US');

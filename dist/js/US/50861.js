@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50861"]={"code":"50861","region":"Iowa","city":"Shannon City","latitude":40.941199,"longitude":-94.242608}}(window,'GeoPostal','US');

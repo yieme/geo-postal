@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9060"]={"code":"9060","region":"Oost-Vlaanderen","city":"Zelzate","latitude":51.18963,"longitude":3.80777}}(window,'GeoPostal','BE');

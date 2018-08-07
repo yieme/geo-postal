@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO43 4UB"]={"code":"YO43 4UB","region":"England","city":"Hotham","latitude":53.79583,"longitude":-0.64253}}(window,'GeoPostal','GB');

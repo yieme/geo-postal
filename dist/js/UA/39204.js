@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39204"]={"code":"39204","region":"Poltavska oblast","city":"Kobelyaky","latitude":49.14892,"longitude":34.19653}}(window,'GeoPostal','UA');

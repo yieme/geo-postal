@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL44 2BF"]={"code":"LL44 2BF","region":"Wales","city":"Llanenddwyn","latitude":52.78888,"longitude":-4.10301}}(window,'GeoPostal','GB');

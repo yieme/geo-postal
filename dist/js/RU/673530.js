@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673530"]={"code":"673530","region":"Zabaykal'skiy kray","city":"Kokuy","latitude":52.2037,"longitude":117.5529}}(window,'GeoPostal','RU');

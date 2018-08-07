@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74477"]={"code":"74477","region":"OK","city":"Wagoner","latitude":35.9636,"longitude":-95.5139}}(window,'GeoPostal','US');

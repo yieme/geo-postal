@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72952"]={"code":"72952","region":"AR","city":"Rudy","latitude":35.5468,"longitude":-94.2913}}(window,'GeoPostal','US');

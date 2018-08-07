@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76263"]={"code":"76263","region":"TX","city":"Rosston","latitude":33.4674,"longitude":-97.4534}}(window,'GeoPostal','US');

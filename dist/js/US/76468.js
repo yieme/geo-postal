@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76468"]={"code":"76468","region":"TX","city":"Proctor","latitude":31.9874,"longitude":-98.4298}}(window,'GeoPostal','US');

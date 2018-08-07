@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59028"]={"code":"59028","region":"MT","city":"Fishtail","latitude":45.4002,"longitude":-109.5821}}(window,'GeoPostal','US');

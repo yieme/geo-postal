@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE19 5GE"]={"code":"PE19 5GE","region":"England","city":"Offord D'Arcy","latitude":52.28181,"longitude":-0.21449}}(window,'GeoPostal','GB');

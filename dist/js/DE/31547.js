@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31547"]={"code":"31547","region":"Niedersachsen","city":"Rehburg-Loccum","latitude":52.46952,"longitude":9.19957}}(window,'GeoPostal','DE');

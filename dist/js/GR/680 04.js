@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 04"]={"code":"680 04","region":"Anatoliki Makedonia kai Thraki","city":"Lavara","latitude":41.26667,"longitude":26.38333}}(window,'GeoPostal','GR');

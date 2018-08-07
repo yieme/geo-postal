@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107207"]={"code":"107207","region":"Bashkortostan, Respublika","city":"Mesyagutovo","latitude":55.53028,"longitude":58.25278}}(window,'GeoPostal','RU');

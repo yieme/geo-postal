@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38153"]={"code":"38153","region":"Guanajuato","city":"Comonfort","latitude":20.71667,"longitude":-100.76667}}(window,'GeoPostal','MX');

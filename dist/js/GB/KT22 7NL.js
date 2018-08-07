@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT22 7NL"]={"code":"KT22 7NL","region":"England","city":"Leatherhead","latitude":51.29593,"longitude":-0.3259}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54864"]={"code":"54864","region":"WI","city":"Poplar","latitude":46.5771,"longitude":-91.8253}}(window,'GeoPostal','US');

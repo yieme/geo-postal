@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3744"]={"code":"3744","region":"Niederosterreich","city":"Sigmundsherberg","latitude":48.68333,"longitude":15.75}}(window,'GeoPostal','AT');

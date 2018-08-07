@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61030"]={"code":"61030","region":"Illinois","city":"Forreston","latitude":42.116692,"longitude":-89.584516}}(window,'GeoPostal','US');

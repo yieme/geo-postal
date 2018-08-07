@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92023"]={"code":"92023","region":"Sicilia","city":"Campobello di Licata","latitude":37.25844,"longitude":13.91827}}(window,'GeoPostal','IT');

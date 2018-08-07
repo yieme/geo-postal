@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22576"]={"code":"22576","region":"Tadla-Azilal","city":"Tabia","latitude":32.03009,"longitude":-6.79985}}(window,'GeoPostal','MA');

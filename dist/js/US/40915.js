@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40915"]={"code":"40915","region":"Kentucky","city":"Bimble","latitude":36.890468,"longitude":-83.826303}}(window,'GeoPostal','US');

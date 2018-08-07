@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 1A0"]={"code":"G0C 1A0","region":"Quebec","city":"Perce","latitude":48.48794,"longitude":-64.29852}}(window,'GeoPostal','CA');

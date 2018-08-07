@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3472"]={"code":"3472","region":"Victoria","city":"Bet Bet","latitude":-36.91667,"longitude":143.75}}(window,'GeoPostal','AU');

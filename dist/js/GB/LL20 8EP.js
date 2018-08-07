@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL20 8EP"]={"code":"LL20 8EP","region":"Wales","city":"Llangollen","latitude":52.96829,"longitude":-3.17127}}(window,'GeoPostal','GB');

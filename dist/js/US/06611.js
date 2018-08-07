@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06611"]={"code":"06611","region":"Connecticut","city":"Trumbull","latitude":41.25024,"longitude":-73.20858}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144305"]={"code":"144305","region":"Punjab","city":"Adampur","latitude":31.43278,"longitude":75.7175}}(window,'GeoPostal','IN');

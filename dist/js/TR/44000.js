@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000"]={"code":"44000","region":"Erzurum","city":"Karayazi","latitude":39.7028,"longitude":42.14561}}(window,'GeoPostal','TR');

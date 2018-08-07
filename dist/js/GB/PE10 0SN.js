@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0SN"]={"code":"PE10 0SN","region":"England","city":"Rippingale","latitude":52.83865,"longitude":-0.37027}}(window,'GeoPostal','GB');

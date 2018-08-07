@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142651"]={"code":"142651","region":"Moskovskaya oblast'","city":"Il'inskiy Pogost","latitude":55.47785,"longitude":38.90906}}(window,'GeoPostal','RU');

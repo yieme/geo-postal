@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2V0"]={"code":"J0T 2V0","region":"Quebec","city":"Montcalm","latitude":45.967,"longitude":-74.5}}(window,'GeoPostal','CA');

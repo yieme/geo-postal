@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24412"]={"code":"24412","region":"Virginia","city":"Bacova","latitude":38.053889,"longitude":-79.843889}}(window,'GeoPostal','US');

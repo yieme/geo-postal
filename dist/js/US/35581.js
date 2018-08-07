@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35581"]={"code":"35581","region":"AL","city":"Phil Campbell","latitude":34.347,"longitude":-87.7154}}(window,'GeoPostal','US');

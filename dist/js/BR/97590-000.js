@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97590-000"]={"code":"97590-000","region":"Rio Grande do Sul","city":"Rosario do Sul","latitude":-30.25833,"longitude":-54.91417}}(window,'GeoPostal','BR');

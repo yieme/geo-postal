@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59215"]={"code":"59215","region":"Montana","city":"Circle","latitude":47.42757,"longitude":-105.619432}}(window,'GeoPostal','US');

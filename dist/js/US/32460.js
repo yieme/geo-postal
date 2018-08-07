@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32460"]={"code":"32460","region":"Florida","city":"Sneads","latitude":30.70769,"longitude":-84.92437}}(window,'GeoPostal','US');

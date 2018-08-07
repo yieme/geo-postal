@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91788"]={"code":"91788","region":"Bayern","city":"Pappenheim","latitude":48.93383,"longitude":10.97431}}(window,'GeoPostal','DE');

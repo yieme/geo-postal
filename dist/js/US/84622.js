@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84622"]={"code":"84622","region":"UT","city":"Centerfield","latitude":39.1251,"longitude":-111.8185}}(window,'GeoPostal','US');

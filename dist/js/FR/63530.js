@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63530"]={"code":"63530","region":"Auvergne-Rhone-Alpes","city":"Enval","latitude":45.89883,"longitude":3.0497}}(window,'GeoPostal','FR');

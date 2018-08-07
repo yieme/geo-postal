@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA6 3LS"]={"code":"TA6 3LS","region":"England","city":"Bridgwater","latitude":51.12837,"longitude":-3.00356}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53047"]={"code":"53047","region":"WI","city":"Lebanon","latitude":43.2568,"longitude":-88.6281}}(window,'GeoPostal','US');

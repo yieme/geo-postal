@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS29 0LN"]={"code":"LS29 0LN","region":"England","city":"Ilkley","latitude":53.92449,"longitude":-1.82326}}(window,'GeoPostal','GB');

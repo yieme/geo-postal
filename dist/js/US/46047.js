@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46047"]={"code":"46047","region":"IN","city":"Hobbs","latitude":40.2836,"longitude":-85.9475}}(window,'GeoPostal','US');

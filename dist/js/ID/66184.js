@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66184"]={"code":"66184","region":"Jawa Timur","city":"Duren","latitude":-8.1213,"longitude":112.2828}}(window,'GeoPostal','ID');

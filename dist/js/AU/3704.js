@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3704"]={"code":"3704","region":"Victoria","city":"Koetong","latitude":-36.15,"longitude":147.5}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907300"]={"code":"907300","region":"Constanta","city":"Valu lui Traian","latitude":44.16667,"longitude":28.46667}}(window,'GeoPostal','RO');

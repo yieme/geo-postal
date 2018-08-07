@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD16 1EE"]={"code":"BD16 1EE","region":"England","city":"Beckfoot","latitude":54.38333,"longitude":-3.28333}}(window,'GeoPostal','GB');

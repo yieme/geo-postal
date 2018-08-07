@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA8 7DY"]={"code":"HA8 7DY","region":"England","city":"Edgware","latitude":51.6128,"longitude":-0.27539}}(window,'GeoPostal','GB');

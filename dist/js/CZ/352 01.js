@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352 01"]={"code":"352 01","region":"Karlovarsky kraj","city":"As","latitude":50.22387,"longitude":12.19499}}(window,'GeoPostal','CZ');

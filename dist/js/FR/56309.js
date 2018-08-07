@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56309"]={"code":"56309","region":"Bretagne","city":"Pontivy","latitude":48.06667,"longitude":-2.98333}}(window,'GeoPostal','FR');

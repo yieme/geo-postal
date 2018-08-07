@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612269"]={"code":"612269","region":"Kirovskaya oblast'","city":"Yaransk","latitude":57.30331,"longitude":47.88611}}(window,'GeoPostal','RU');

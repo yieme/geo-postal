@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628169"]={"code":"628169","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Beloyarskiy","latitude":63.71194,"longitude":66.67222}}(window,'GeoPostal','RU');

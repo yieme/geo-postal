@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75642"]={"code":"75642","region":"TX","city":"Elysian Fields","latitude":32.3685,"longitude":-94.183}}(window,'GeoPostal','US');

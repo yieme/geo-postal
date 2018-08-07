@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4214"]={"code":"4214","region":"Queensland","city":"Arundel","latitude":-27.93768,"longitude":153.36302}}(window,'GeoPostal','AU');

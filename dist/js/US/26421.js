@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26421"]={"code":"26421","region":"WV","city":"Pullman","latitude":39.19,"longitude":-80.9347}}(window,'GeoPostal','US');

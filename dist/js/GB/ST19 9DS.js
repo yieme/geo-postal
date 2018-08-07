@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST19 9DS"]={"code":"ST19 9DS","region":"England","city":"Aston","latitude":51.55122,"longitude":-0.87028}}(window,'GeoPostal','GB');

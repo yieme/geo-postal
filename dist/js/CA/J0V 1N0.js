@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1N0"]={"code":"J0V 1N0","region":"Quebec","city":"Namur","latitude":45.9001,"longitude":-74.93258}}(window,'GeoPostal','CA');

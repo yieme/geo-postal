@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 3BG"]={"code":"AB42 3BG","region":"Scotland","city":"Boddam","latitude":57.46667,"longitude":-1.78333}}(window,'GeoPostal','GB');

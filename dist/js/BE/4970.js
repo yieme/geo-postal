@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4970"]={"code":"4970","region":"Liege","city":"Stavelot","latitude":50.395,"longitude":5.93124}}(window,'GeoPostal','BE');

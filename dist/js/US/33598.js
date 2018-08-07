@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33598"]={"code":"33598","region":"Florida","city":"Wimauma","latitude":27.71253,"longitude":-82.29898}}(window,'GeoPostal','US');

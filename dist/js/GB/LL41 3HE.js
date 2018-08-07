@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL41 3HE"]={"code":"LL41 3HE","region":"Wales","city":"Blaenau-Ffestiniog","latitude":52.99464,"longitude":-3.93697}}(window,'GeoPostal','GB');

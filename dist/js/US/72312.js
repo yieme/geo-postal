@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72312"]={"code":"72312","region":"AR","city":"Barton","latitude":34.5467,"longitude":-90.7679}}(window,'GeoPostal','US');

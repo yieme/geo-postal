@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659107"]={"code":"659107","region":"Altayskiy kray","city":"Zarinsk","latitude":53.7074,"longitude":84.9493}}(window,'GeoPostal','RU');

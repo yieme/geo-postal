@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34749"]={"code":"34749","region":"Occitanie","city":"Vendargues","latitude":43.65833,"longitude":3.97}}(window,'GeoPostal','FR');

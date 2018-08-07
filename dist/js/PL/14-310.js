@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-310"]={"code":"14-310","region":"Warminsko-mazurskie","city":"Milakowo","latitude":54.00923,"longitude":20.07125}}(window,'GeoPostal','PL');

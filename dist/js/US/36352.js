@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36352"]={"code":"36352","region":"Alabama","city":"Newton","latitude":31.33517,"longitude":-85.60521}}(window,'GeoPostal','US');

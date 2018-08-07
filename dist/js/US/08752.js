@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08752"]={"code":"08752","region":"NJ","city":"Seaside Park","latitude":39.9222,"longitude":-74.0795}}(window,'GeoPostal','US');

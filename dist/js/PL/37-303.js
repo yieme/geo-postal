@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-303"]={"code":"37-303","region":"Podkarpackie","city":"Kurylowka","latitude":50.29976,"longitude":22.46601}}(window,'GeoPostal','PL');

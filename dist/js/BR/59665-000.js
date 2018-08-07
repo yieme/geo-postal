@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59665-000"]={"code":"59665-000","region":"Rio Grande do Norte","city":"Pendencias","latitude":-5.26,"longitude":-36.72222}}(window,'GeoPostal','BR');

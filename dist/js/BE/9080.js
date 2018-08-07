@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9080"]={"code":"9080","region":"Oost-Vlaanderen","city":"Lochristi","latitude":51.09644,"longitude":3.83194}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227310"]={"code":"227310","region":"Dambovita","city":"Livezile","latitude":44.51222,"longitude":22.86333}}(window,'GeoPostal','RO');

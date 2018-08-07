@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44820"]={"code":"44820","region":"Ohio","city":"Bucyrus","latitude":40.81758,"longitude":-82.97088}}(window,'GeoPostal','US');

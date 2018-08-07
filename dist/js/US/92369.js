@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92369"]={"code":"92369","region":"CA","city":"Patton","latitude":34.1358,"longitude":-117.2239}}(window,'GeoPostal','US');

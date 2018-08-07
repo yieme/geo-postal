@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27890"]={"code":"27890","region":"NC","city":"Weldon","latitude":36.4206,"longitude":-77.6035}}(window,'GeoPostal','US');

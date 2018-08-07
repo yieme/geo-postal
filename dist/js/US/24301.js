@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24301"]={"code":"24301","region":"Virginia","city":"Pulaski","latitude":37.053035,"longitude":-80.769181}}(window,'GeoPostal','US');

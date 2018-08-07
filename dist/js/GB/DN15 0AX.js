@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 0AX"]={"code":"DN15 0AX","region":"England","city":"Appleby","latitude":53.61667,"longitude":-0.56667}}(window,'GeoPostal','GB');

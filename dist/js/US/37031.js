@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37031"]={"code":"37031","region":"TN","city":"Castalian Springs","latitude":36.3806,"longitude":-86.3107}}(window,'GeoPostal','US');

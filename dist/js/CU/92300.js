@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92300"]={"code":"92300","region":"Santiago de Cuba","city":"Santiago de Cuba","latitude":20.02472,"longitude":-75.82194}}(window,'GeoPostal','CU');

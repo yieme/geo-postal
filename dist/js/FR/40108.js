@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40108"]={"code":"40108","region":"Nouvelle-Aquitaine","city":"Dax","latitude":43.71032,"longitude":-1.05366}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4930"]={"code":"4930","region":"Sjelland","city":"Maribo","latitude":54.77662,"longitude":11.50017}}(window,'GeoPostal','DK');

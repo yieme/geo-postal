@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263 01"]={"code":"263 01","region":"Stredocesky kraj","city":"Dobris","latitude":49.78113,"longitude":14.16717}}(window,'GeoPostal','CZ');

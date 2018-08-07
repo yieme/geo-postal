@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472300"]={"code":"472300","region":"Henan","city":"Yima","latitude":34.73806,"longitude":111.88389}}(window,'GeoPostal','CN');

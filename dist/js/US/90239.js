@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90239"]={"code":"90239","region":"California","city":"Downey","latitude":33.94001,"longitude":-118.13257}}(window,'GeoPostal','US');

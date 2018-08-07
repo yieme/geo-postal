@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF43 4LF"]={"code":"CF43 4LF","region":"Wales","city":"Rhondda","latitude":51.65896,"longitude":-3.44885}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1832"]={"code":"1832","region":"Ostfold","city":"Askim","latitude":59.58326,"longitude":11.16286}}(window,'GeoPostal','NO');

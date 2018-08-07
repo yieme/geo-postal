@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23822"]={"code":"23822","region":"VA","city":"Ammon","latitude":37.0724,"longitude":-77.6475}}(window,'GeoPostal','US');

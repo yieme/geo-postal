@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2551"]={"code":"2551","region":"New South Wales","city":"Eden","latitude":-37.06322,"longitude":149.90401}}(window,'GeoPostal','AU');

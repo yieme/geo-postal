@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4800"]={"code":"4800","region":"Plovdiv","city":"Devin","latitude":41.74327,"longitude":24.40003}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56083"]={"code":"56083","region":"Minnesota","city":"Sanborn","latitude":44.20917,"longitude":-95.12889}}(window,'GeoPostal','US');

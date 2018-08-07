@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33881"]={"code":"33881","region":"Florida","city":"Winter Haven","latitude":28.044671,"longitude":-81.724458}}(window,'GeoPostal','US');

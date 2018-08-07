@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08322"]={"code":"08322","region":"New Jersey","city":"Franklinville","latitude":39.63068,"longitude":-75.046683}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75204"]={"code":"75204","region":"Soriano","city":"Cardona","latitude":-33.88333,"longitude":-57.38333}}(window,'GeoPostal','UY');

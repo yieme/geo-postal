@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49241"]={"code":"49241","region":"Michigan","city":"Hanover","latitude":42.108611,"longitude":-84.527222}}(window,'GeoPostal','US');

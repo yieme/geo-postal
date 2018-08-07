@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3593"]={"code":"3593","region":"Borsod-Abauj-Zemplen","city":"Hejobaba","latitude":47.9,"longitude":20.95}}(window,'GeoPostal','HU');

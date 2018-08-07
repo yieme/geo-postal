@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85560-000"]={"code":"85560-000","region":"Parana","city":"Chopinzinho","latitude":-25.85583,"longitude":-52.52333}}(window,'GeoPostal','BR');

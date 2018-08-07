@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36721"]={"code":"36721","region":"Alabama","city":"Annemanie","latitude":32.073097,"longitude":-87.562035}}(window,'GeoPostal','US');

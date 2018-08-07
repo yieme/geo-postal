@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353360"]={"code":"353360","region":"Krasnodarskiy kray","city":"Troitskaya","latitude":45.13493,"longitude":38.12544}}(window,'GeoPostal','RU');

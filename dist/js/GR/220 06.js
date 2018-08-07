@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220 06"]={"code":"220 06","region":"Ionia Nisia","city":"Kassiopi","latitude":39.78861,"longitude":19.91861}}(window,'GeoPostal','GR');

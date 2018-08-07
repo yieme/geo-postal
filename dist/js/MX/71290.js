@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71290"]={"code":"71290","region":"Oaxaca","city":"Santa Maria Ayoquezco de Aldama","latitude":16.68333,"longitude":-96.83333}}(window,'GeoPostal','MX');

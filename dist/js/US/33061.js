@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33061"]={"code":"33061","region":"FL","city":"Pompano Beach","latitude":26.2539,"longitude":-80.1342}}(window,'GeoPostal','US');

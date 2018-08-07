@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12270"]={"code":"12270","region":"Occitanie","city":"La Fouillade","latitude":44.23072,"longitude":2.03989}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26003"]={"code":"26003","region":"Medea","city":"Ksar el Boukhari","latitude":35.88889,"longitude":2.74905}}(window,'GeoPostal','DZ');

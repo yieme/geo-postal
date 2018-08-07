@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82212"]={"code":"82212","region":"Wyoming","city":"Fort Laramie","latitude":42.21333,"longitude":-104.51722}}(window,'GeoPostal','US');

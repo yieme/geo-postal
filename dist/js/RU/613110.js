@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613110"]={"code":"613110","region":"Kirovskaya oblast'","city":"Vakhrushi","latitude":58.68472,"longitude":50.02611}}(window,'GeoPostal','RU');

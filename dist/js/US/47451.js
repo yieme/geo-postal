@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47451"]={"code":"47451","region":"IN","city":"Oolitic","latitude":38.8938,"longitude":-86.5246}}(window,'GeoPostal','US');

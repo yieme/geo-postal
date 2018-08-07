@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99022"]={"code":"99022","region":"Washington","city":"Medical Lake","latitude":47.61822,"longitude":-117.7134}}(window,'GeoPostal','US');

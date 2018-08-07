@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37691"]={"code":"37691","region":"Tennessee","city":"Trade","latitude":36.367343,"longitude":-81.754391}}(window,'GeoPostal','US');

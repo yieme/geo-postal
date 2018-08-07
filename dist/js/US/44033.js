@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44033"]={"code":"44033","region":"OH","city":"East Claridon","latitude":41.5333,"longitude":-81.1112}}(window,'GeoPostal','US');

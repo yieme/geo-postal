@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71844"]={"code":"71844","region":"AR","city":"Laneburg","latitude":33.68,"longitude":-93.34}}(window,'GeoPostal','US');

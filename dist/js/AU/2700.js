@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2700"]={"code":"2700","region":"New South Wales","city":"Narrandera","latitude":-34.74752,"longitude":146.55096}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37590"]={"code":"37590","region":"Castilla y Leon","city":"Ciudad Rodrigo","latitude":40.6,"longitude":-6.53333}}(window,'GeoPostal','ES');

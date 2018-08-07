@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8475"]={"code":"8475","region":"Nordland","city":"Straume","latitude":68.6888,"longitude":14.47205}}(window,'GeoPostal','NO');

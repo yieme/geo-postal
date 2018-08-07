@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4800"]={"code":"4800","region":"Catanduanes","city":"Calatagan","latitude":13.5885,"longitude":124.2065}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47213"]={"code":"47213","region":"Nouvelle-Aquitaine","city":"Marmande","latitude":44.5,"longitude":0.16667}}(window,'GeoPostal','FR');

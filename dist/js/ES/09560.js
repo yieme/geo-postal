@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09560"]={"code":"09560","region":"Castilla y Leon","city":"Espinosa de los Monteros","latitude":43.07754,"longitude":-3.55365}}(window,'GeoPostal','ES');

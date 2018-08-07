@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09240"]={"code":"09240","region":"Castilla y Leon","city":"Briviesca","latitude":42.54993,"longitude":-3.32315}}(window,'GeoPostal','ES');

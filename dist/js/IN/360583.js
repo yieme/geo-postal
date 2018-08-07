@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360583"]={"code":"360583","region":"Gujarat","city":"Porbandar","latitude":21.64219,"longitude":69.60929}}(window,'GeoPostal','IN');

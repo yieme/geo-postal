@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62920"]={"code":"62920","region":"IL","city":"Cobden","latitude":37.5424,"longitude":-89.2457}}(window,'GeoPostal','US');

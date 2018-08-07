@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81601"]={"code":"81601","region":"Colorado","city":"Glenwood Springs","latitude":39.527105,"longitude":-107.34074}}(window,'GeoPostal','US');

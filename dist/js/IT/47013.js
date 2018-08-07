@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47013"]={"code":"47013","region":"Emilia-Romagna","city":"Dovadola","latitude":44.12266,"longitude":11.88873}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91934"]={"code":"91934","region":"California","city":"Jacumba","latitude":32.6179,"longitude":-116.1868}}(window,'GeoPostal','US');

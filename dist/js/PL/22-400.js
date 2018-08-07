@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-400"]={"code":"22-400","region":"Lubelskie","city":"Zamosc","latitude":50.72314,"longitude":23.25196}}(window,'GeoPostal','PL');

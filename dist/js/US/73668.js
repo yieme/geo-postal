@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73668"]={"code":"73668","region":"OK","city":"Texola","latitude":35.2161,"longitude":-99.9915}}(window,'GeoPostal','US');

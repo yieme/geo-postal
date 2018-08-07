@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28651"]={"code":"28651","region":"NC","city":"Millers Creek","latitude":36.2119,"longitude":-81.2485}}(window,'GeoPostal','US');

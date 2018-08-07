@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58300"]={"code":"58300","region":"Sivas","city":"Divrigi","latitude":39.371,"longitude":38.1137}}(window,'GeoPostal','TR');

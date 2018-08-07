@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27256"]={"code":"27256","region":"NC","city":"Gulf","latitude":35.5604,"longitude":-79.2817}}(window,'GeoPostal','US');

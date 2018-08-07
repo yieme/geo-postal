@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54101"]={"code":"54101","region":"WI","city":"Abrams","latitude":44.7869,"longitude":-88.0571}}(window,'GeoPostal','US');

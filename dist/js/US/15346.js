@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15346"]={"code":"15346","region":"PA","city":"Mather","latitude":39.9354,"longitude":-80.0753}}(window,'GeoPostal','US');

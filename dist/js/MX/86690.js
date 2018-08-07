@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86690"]={"code":"86690","region":"Tabasco","city":"Chontalpa","latitude":17.7,"longitude":-93.51667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57651"]={"code":"57651","region":"South Dakota","city":"Reva","latitude":45.520491,"longitude":-103.061376}}(window,'GeoPostal','US');

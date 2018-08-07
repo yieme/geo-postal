@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29665"]={"code":"29665","region":"SC","city":"Newry","latitude":34.7247,"longitude":-82.9106}}(window,'GeoPostal','US');

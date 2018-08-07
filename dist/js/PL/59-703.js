@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-703"]={"code":"59-703","region":"Dolnoslaskie","city":"Boleslawiec","latitude":51.26418,"longitude":15.5697}}(window,'GeoPostal','PL');

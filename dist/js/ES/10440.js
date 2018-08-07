@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10440"]={"code":"10440","region":"Extremadura","city":"Aldeanueva de la Vera","latitude":40.1271,"longitude":-5.7015}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72454"]={"code":"72454","region":"AR","city":"Piggott","latitude":36.387,"longitude":-90.1926}}(window,'GeoPostal','US');

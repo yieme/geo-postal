@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95573"]={"code":"95573","region":"California","city":"Willow Creek","latitude":40.93958,"longitude":-123.63144}}(window,'GeoPostal','US');

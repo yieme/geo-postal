@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97358"]={"code":"97358","region":"OR","city":"Lyons","latitude":44.7499,"longitude":-122.595}}(window,'GeoPostal','US');

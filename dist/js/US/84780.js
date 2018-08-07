@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84780"]={"code":"84780","region":"Utah","city":"Washington","latitude":37.13054,"longitude":-113.50829}}(window,'GeoPostal','US');

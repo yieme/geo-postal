@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151509"]={"code":"151509","region":"Punjab","city":"Maur","latitude":30.08333,"longitude":75.25}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42748"]={"code":"42748","region":"KY","city":"Hodgenville","latitude":37.5746,"longitude":-85.7232}}(window,'GeoPostal','US');

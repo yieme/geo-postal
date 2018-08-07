@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41132"]={"code":"41132","region":"KY","city":"Denton","latitude":38.2597,"longitude":-82.8562}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-430"]={"code":"98-430","region":"Lodzkie","city":"Boleslawiec","latitude":51.19866,"longitude":18.19147}}(window,'GeoPostal','PL');

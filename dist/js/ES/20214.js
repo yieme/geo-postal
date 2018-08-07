@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20214"]={"code":"20214","region":"Pais Vasco","city":"Segura","latitude":43.00753,"longitude":-2.254}}(window,'GeoPostal','ES');

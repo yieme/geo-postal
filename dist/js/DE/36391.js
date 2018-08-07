@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36391"]={"code":"36391","region":"Hessen","city":"Sannerz","latitude":50.32267,"longitude":9.5933}}(window,'GeoPostal','DE');

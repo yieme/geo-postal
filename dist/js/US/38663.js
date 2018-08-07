@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38663"]={"code":"38663","region":"Mississippi","city":"Ripley","latitude":34.72982,"longitude":-88.95062}}(window,'GeoPostal','US');

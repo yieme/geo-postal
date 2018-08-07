@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28448"]={"code":"28448","region":"NC","city":"Kelly","latitude":34.4591,"longitude":-78.2942}}(window,'GeoPostal','US');

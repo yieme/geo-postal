@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516860"]={"code":"516860","region":"Guangdong","city":"Mazha","latitude":23.46204,"longitude":114.00575}}(window,'GeoPostal','CN');

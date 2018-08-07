@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16440"]={"code":"16440","region":"PA","city":"Venango","latitude":41.764,"longitude":-80.0982}}(window,'GeoPostal','US');

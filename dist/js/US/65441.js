@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65441"]={"code":"65441","region":"Missouri","city":"Bourbon","latitude":38.15477,"longitude":-91.24403}}(window,'GeoPostal','US');

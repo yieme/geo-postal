@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59650-000"]={"code":"59650-000","region":"Rio Grande do Norte","city":"Acu","latitude":-5.57667,"longitude":-36.90861}}(window,'GeoPostal','BR');

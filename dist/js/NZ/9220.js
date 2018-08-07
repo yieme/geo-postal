@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9220"]={"code":"9220","region":"Otago","city":"Milton","latitude":-46.12083,"longitude":169.96944}}(window,'GeoPostal','NZ');

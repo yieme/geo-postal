@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07074"]={"code":"07074","region":"New Jersey","city":"Moonachie","latitude":40.839165,"longitude":-74.057554}}(window,'GeoPostal','US');

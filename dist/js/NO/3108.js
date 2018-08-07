@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3108"]={"code":"3108","region":"Vestfold","city":"Tonsberg","latitude":59.26754,"longitude":10.40762}}(window,'GeoPostal','NO');

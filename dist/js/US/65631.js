@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65631"]={"code":"65631","region":"MO","city":"Clever","latitude":37.0447,"longitude":-93.4383}}(window,'GeoPostal','US');

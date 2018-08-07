@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68653"]={"code":"68653","region":"NE","city":"Platte Center","latitude":41.5375,"longitude":-97.4884}}(window,'GeoPostal','US');

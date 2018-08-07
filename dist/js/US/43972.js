@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43972"]={"code":"43972","region":"Ohio","city":"Bannock","latitude":40.098388,"longitude":-80.976349}}(window,'GeoPostal','US');

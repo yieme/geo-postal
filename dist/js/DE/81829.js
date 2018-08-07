@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81829"]={"code":"81829","region":"Bayern","city":"Kirchtrudering","latitude":48.13333,"longitude":11.66667}}(window,'GeoPostal','DE');

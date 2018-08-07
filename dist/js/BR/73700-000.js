@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73700-000"]={"code":"73700-000","region":"Goias","city":"Padre Bernardo","latitude":-15.35,"longitude":-48.5}}(window,'GeoPostal','BR');

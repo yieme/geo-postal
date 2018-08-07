@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35930-000"]={"code":"35930-000","region":"Minas Gerais","city":"Joao Monlevade","latitude":-19.81,"longitude":-43.17361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64480"]={"code":"64480","region":"Nouvelle-Aquitaine","city":"Ustaritz","latitude":43.3965,"longitude":-1.45604}}(window,'GeoPostal','FR');

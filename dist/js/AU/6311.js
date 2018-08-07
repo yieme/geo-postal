@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6311"]={"code":"6311","region":"Western Australia","city":"Cuballing","latitude":-32.81964,"longitude":117.17583}}(window,'GeoPostal','AU');

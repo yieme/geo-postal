@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89427"]={"code":"89427","region":"NV","city":"Schurz","latitude":38.9575,"longitude":-118.7756}}(window,'GeoPostal','US');

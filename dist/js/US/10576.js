@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10576"]={"code":"10576","region":"NY","city":"Pound Ridge","latitude":41.2042,"longitude":-73.5732}}(window,'GeoPostal','US');

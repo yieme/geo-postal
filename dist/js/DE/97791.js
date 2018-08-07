@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97791"]={"code":"97791","region":"Bayern","city":"Obersinn","latitude":50.20875,"longitude":9.61545}}(window,'GeoPostal','DE');

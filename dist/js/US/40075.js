@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40075"]={"code":"40075","region":"KY","city":"Turners Station","latitude":38.5521,"longitude":-85.1019}}(window,'GeoPostal','US');

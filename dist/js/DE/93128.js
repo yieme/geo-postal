@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93128"]={"code":"93128","region":"Bayern","city":"Regenstauf","latitude":49.12014,"longitude":12.13027}}(window,'GeoPostal','DE');

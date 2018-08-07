@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54432"]={"code":"54432","region":"WI","city":"Galloway","latitude":44.7128,"longitude":-89.2643}}(window,'GeoPostal','US');

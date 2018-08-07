@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77970"]={"code":"77970","region":"Ile-de-France","city":"Jouy-le-Chatel","latitude":48.66651,"longitude":3.13036}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56736"]={"code":"56736","region":"Minnesota","city":"Mentor","latitude":47.673235,"longitude":-96.209129}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08535"]={"code":"08535","region":"New Jersey","city":"Millstone","latitude":40.221588,"longitude":-74.439198}}(window,'GeoPostal','US');

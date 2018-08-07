@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6316"]={"code":"6316","region":"Western Australia","city":"Cartmeticup","latitude":-33.46667,"longitude":117.53333}}(window,'GeoPostal','AU');

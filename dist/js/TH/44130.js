@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44130"]={"code":"44130","region":"Maha Sarakham","city":"Kut Rang","latitude":16.09398,"longitude":103.00998}}(window,'GeoPostal','TH');

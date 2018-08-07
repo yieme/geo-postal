@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2365"]={"code":"2365","region":"New South Wales","city":"Black Mountain","latitude":-30.31667,"longitude":151.65}}(window,'GeoPostal','AU');

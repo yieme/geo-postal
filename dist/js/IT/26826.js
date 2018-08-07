@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26826"]={"code":"26826","region":"Lombardia","city":"Secugnago","latitude":45.23287,"longitude":9.59346}}(window,'GeoPostal','IT');

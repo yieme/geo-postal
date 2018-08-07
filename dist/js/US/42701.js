@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42701"]={"code":"42701","region":"Kentucky","city":"Elizabethtown","latitude":37.705882,"longitude":-85.862765}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62815"]={"code":"62815","region":"IL","city":"Bone Gap","latitude":38.449,"longitude":-88.0025}}(window,'GeoPostal','US');

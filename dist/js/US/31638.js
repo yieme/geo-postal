@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31638"]={"code":"31638","region":"GA","city":"Morven","latitude":30.9416,"longitude":-83.4993}}(window,'GeoPostal','US');

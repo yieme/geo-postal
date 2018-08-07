@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78110-000"]={"code":"78110-000","region":"Mato Grosso","city":"Cuiaba","latitude":-15.59611,"longitude":-56.09667}}(window,'GeoPostal','BR');

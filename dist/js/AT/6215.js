@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6215"]={"code":"6215","region":"Tirol","city":"Achenkirch","latitude":47.52659,"longitude":11.70559}}(window,'GeoPostal','AT');

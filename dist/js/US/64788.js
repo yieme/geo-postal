@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64788"]={"code":"64788","region":"MO","city":"Urich","latitude":38.4449,"longitude":-93.9785}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22480"]={"code":"22480","region":"San Martin","city":"Bellavista","latitude":-7.05614,"longitude":-76.5911}}(window,'GeoPostal','PE');

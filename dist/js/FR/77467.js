@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77467"]={"code":"77467","region":"Ile-de-France","city":"Lagny-sur-Marne","latitude":48.86667,"longitude":2.71667}}(window,'GeoPostal','FR');

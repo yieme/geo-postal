@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["514331"]={"code":"514331","region":"Guangdong","city":"Tangkeng","latitude":23.75912,"longitude":116.17092}}(window,'GeoPostal','CN');

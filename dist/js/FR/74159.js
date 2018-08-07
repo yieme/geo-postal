@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74159"]={"code":"74159","region":"Auvergne-Rhone-Alpes","city":"Rumilly","latitude":45.86873,"longitude":5.93652}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19535"]={"code":"19535","region":"PA","city":"Limekiln","latitude":40.3356,"longitude":-75.801}}(window,'GeoPostal','US');

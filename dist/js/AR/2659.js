@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2659"]={"code":"2659","region":"Cordoba","city":"Monte Maiz","latitude":-33.20462,"longitude":-62.60085}}(window,'GeoPostal','AR');

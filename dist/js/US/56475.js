@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56475"]={"code":"56475","region":"Minnesota","city":"Randall","latitude":46.08833,"longitude":-94.49944}}(window,'GeoPostal','US');

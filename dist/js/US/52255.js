@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52255"]={"code":"52255","region":"IA","city":"Lowden","latitude":41.8594,"longitude":-90.9382}}(window,'GeoPostal','US');

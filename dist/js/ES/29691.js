@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29691"]={"code":"29691","region":"Andalucia","city":"Manilva","latitude":36.37645,"longitude":-5.25026}}(window,'GeoPostal','ES');

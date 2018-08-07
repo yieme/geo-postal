@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743 01"]={"code":"743 01","region":"Moravskoslezsky kraj","city":"Bilovec","latitude":49.75639,"longitude":18.01581}}(window,'GeoPostal','CZ');

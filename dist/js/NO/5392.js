@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5392"]={"code":"5392","region":"Hordaland","city":"Storebo","latitude":60.09485,"longitude":5.22705}}(window,'GeoPostal','NO');

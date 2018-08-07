@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65560"]={"code":"65560","region":"MO","city":"Salem","latitude":37.617,"longitude":-91.5258}}(window,'GeoPostal','US');

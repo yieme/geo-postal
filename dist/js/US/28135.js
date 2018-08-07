@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28135"]={"code":"28135","region":"North Carolina","city":"Polkton","latitude":35.007113,"longitude":-80.203763}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 1JY"]={"code":"CA14 1JY","region":"England","city":"Siddick","latitude":54.66477,"longitude":-3.55097}}(window,'GeoPostal','GB');

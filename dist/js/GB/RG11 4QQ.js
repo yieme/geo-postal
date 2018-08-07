@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG11 4QQ"]={"code":"RG11 4QQ","region":"England","city":"Finchampstead","latitude":51.36149,"longitude":-0.85728}}(window,'GeoPostal','GB');

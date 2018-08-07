@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 4TG"]={"code":"BA3 4TG","region":"England","city":"Binegar","latitude":51.2425,"longitude":-2.53944}}(window,'GeoPostal','GB');

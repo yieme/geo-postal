@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63390"]={"code":"63390","region":"Auvergne-Rhone-Alpes","city":"Saint-Gervais-d'Auvergne","latitude":46.0287,"longitude":2.8194}}(window,'GeoPostal','FR');

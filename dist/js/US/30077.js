@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30077"]={"code":"30077","region":"GA","city":"Roswell","latitude":34.0232,"longitude":-84.3616}}(window,'GeoPostal','US');

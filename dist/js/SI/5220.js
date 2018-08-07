@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5220"]={"code":"5220","region":"Tolmin","city":"Tolmin","latitude":46.18304,"longitude":13.73321}}(window,'GeoPostal','SI');

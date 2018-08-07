@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6YQ"]={"code":"PA29 6YQ","region":"Scotland","city":"Oragaig","latitude":55.73333,"longitude":-5.41667}}(window,'GeoPostal','GB');

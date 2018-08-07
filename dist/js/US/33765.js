@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33765"]={"code":"33765","region":"Florida","city":"Clearwater","latitude":27.97413,"longitude":-82.74608}}(window,'GeoPostal','US');

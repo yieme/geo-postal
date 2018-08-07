@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68130-000"]={"code":"68130-000","region":"Para","city":"Prainha","latitude":-1.8,"longitude":-53.48}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8M 0A2"]={"code":"E8M 0A2","region":"New Brunswick","city":"Saint-Isidore","latitude":47.57653,"longitude":-65.13794}}(window,'GeoPostal','CA');

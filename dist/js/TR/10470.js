@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10470"]={"code":"10470","region":"Usak","city":"Usak","latitude":38.67351,"longitude":29.4058}}(window,'GeoPostal','TR');

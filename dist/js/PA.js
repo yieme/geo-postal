@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["PA"]={id:'PA',country:'Panama', postal:{'':{code:'',region:'Panama',city:'Panama',latitude:8.9936,longitude:-79.51973}}};

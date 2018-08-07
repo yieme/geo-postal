@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5706"]={"code":"MD-5706","region":"Stinga Nistrului, unitatea teritoriala din","city":"Crasnoe","latitude":46.65139,"longitude":29.80472}}(window,'GeoPostal','MD');

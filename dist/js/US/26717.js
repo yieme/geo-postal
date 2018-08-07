@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26717"]={"code":"26717","region":"WV","city":"Elk Garden","latitude":39.3631,"longitude":-79.1539}}(window,'GeoPostal','US');

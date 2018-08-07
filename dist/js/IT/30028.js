@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30028"]={"code":"30028","region":"Veneto","city":"San Michele al Tagliamento","latitude":45.76435,"longitude":12.99494}}(window,'GeoPostal','IT');

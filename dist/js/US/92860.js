@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92860"]={"code":"92860","region":"California","city":"Norco","latitude":33.93113,"longitude":-117.54866}}(window,'GeoPostal','US');

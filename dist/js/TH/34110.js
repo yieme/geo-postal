@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34110"]={"code":"34110","region":"Ubon Ratchathani","city":"Sirindhorn","latitude":15.20084,"longitude":105.39222}}(window,'GeoPostal','TH');

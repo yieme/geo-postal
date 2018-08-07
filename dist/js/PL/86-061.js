@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-061"]={"code":"86-061","region":"Kujawsko-pomorskie","city":"Bydgoszcz","latitude":53.1235,"longitude":18.00762}}(window,'GeoPostal','PL');

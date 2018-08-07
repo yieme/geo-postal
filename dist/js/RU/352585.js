@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352585"]={"code":"352585","region":"Krasnodarskiy kray","city":"Psebay","latitude":44.1234,"longitude":40.8107}}(window,'GeoPostal','RU');

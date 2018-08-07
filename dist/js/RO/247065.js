@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247065"]={"code":"247065","region":"Valcea","city":"Bujoreni","latitude":45.13333,"longitude":24.35}}(window,'GeoPostal','RO');

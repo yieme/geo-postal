@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87787"]={"code":"87787","region":"Nordrhein-Westfalen","city":"Sepp","latitude":52.07761,"longitude":8.68452}}(window,'GeoPostal','DE');

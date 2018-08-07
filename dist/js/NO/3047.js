@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3047"]={"code":"3047","region":"Buskerud","city":"Drammen","latitude":59.74389,"longitude":10.20449}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19947"]={"code":"19947","region":"Delaware","city":"Georgetown","latitude":38.69011,"longitude":-75.38547}}(window,'GeoPostal','US');

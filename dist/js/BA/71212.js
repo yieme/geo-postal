@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71212"]={"code":"71212","region":"Federacija Bosne i Hercegovine","city":"Gracanica","latitude":43.73333,"longitude":18.28333}}(window,'GeoPostal','BA');

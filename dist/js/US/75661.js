@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75661"]={"code":"75661","region":"TX","city":"Karnack","latitude":32.6205,"longitude":-94.2001}}(window,'GeoPostal','US');

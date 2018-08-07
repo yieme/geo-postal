@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55449"]={"code":"55449","region":"Minnesota","city":"Blaine","latitude":45.1668,"longitude":-93.18966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79500-000"]={"code":"79500-000","region":"Mato Grosso do Sul","city":"Paranaiba","latitude":-19.67722,"longitude":-51.19083}}(window,'GeoPostal','BR');

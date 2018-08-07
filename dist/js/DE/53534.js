@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53534"]={"code":"53534","region":"Rheinland-Pfalz","city":"Wiesemscheid","latitude":50.33333,"longitude":6.88333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427880"]={"code":"427880","region":"Udmurtskaya Respublika","city":"Alnashi","latitude":56.18738,"longitude":52.47918}}(window,'GeoPostal','RU');

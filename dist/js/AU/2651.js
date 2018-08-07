@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2651"]={"code":"2651","region":"New South Wales","city":"Oura","latitude":-35.11667,"longitude":147.53333}}(window,'GeoPostal','AU');

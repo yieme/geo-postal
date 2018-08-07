@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20217"]={"code":"20217","region":"Corse","city":"Saint-Florent","latitude":42.6815,"longitude":9.30396}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8B 1C7"]={"code":"G8B 1C7","region":"Quebec","city":"Thetford-Mines","latitude":48.542135,"longitude":-71.639357}}(window,'GeoPostal','CA');

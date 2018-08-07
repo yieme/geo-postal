@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13211"]={"code":"13211","region":"New York","city":"Mattydale","latitude":43.10046,"longitude":-76.12506}}(window,'GeoPostal','US');

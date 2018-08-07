@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14466"]={"code":"14466","region":"NY","city":"Hemlock","latitude":42.78,"longitude":-77.582}}(window,'GeoPostal','US');

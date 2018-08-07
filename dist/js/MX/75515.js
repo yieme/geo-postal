@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75515"]={"code":"75515","region":"Puebla","city":"Cuacnopalan","latitude":18.81667,"longitude":-97.5}}(window,'GeoPostal','MX');

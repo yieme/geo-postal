@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34790"]={"code":"34790","region":"Durango","city":"Panuco de Coronado","latitude":24.53333,"longitude":-104.33333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04627"]={"code":"04627","region":"Maine","city":"Deer Isle","latitude":44.22397,"longitude":-68.67753}}(window,'GeoPostal','US');

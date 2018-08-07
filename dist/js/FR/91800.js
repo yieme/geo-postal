@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91800"]={"code":"91800","region":"Ile-de-France","city":"Brunoy","latitude":48.6942,"longitude":2.49223}}(window,'GeoPostal','FR');

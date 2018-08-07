@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49964"]={"code":"49964","region":"Michigan","city":"Stambaugh","latitude":46.08107,"longitude":-88.62708}}(window,'GeoPostal','US');

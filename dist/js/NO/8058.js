@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8058"]={"code":"8058","region":"Nordland","city":"Loding","latitude":67.3,"longitude":14.75}}(window,'GeoPostal','NO');

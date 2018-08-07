@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA17 6JA"]={"code":"DA17 6JA","region":"England","city":"Bromley","latitude":51.40606,"longitude":0.01519}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60537"]={"code":"60537","region":"IL","city":"Millington","latitude":41.5614,"longitude":-88.5975}}(window,'GeoPostal','US');

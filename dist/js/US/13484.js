@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13484"]={"code":"13484","region":"NY","city":"West Eaton","latitude":42.8545,"longitude":-75.656}}(window,'GeoPostal','US');

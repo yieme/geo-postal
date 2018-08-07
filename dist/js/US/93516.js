@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93516"]={"code":"93516","region":"California","city":"Boron","latitude":34.99942,"longitude":-117.64978}}(window,'GeoPostal','US');

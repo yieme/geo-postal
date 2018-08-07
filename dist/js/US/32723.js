@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32723"]={"code":"32723","region":"FL","city":"Deland","latitude":29.0275,"longitude":-81.3068}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22020"]={"code":"22020","region":"Lombardia","city":"Nesso","latitude":45.91238,"longitude":9.15674}}(window,'GeoPostal','IT');

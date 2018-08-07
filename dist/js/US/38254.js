@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38254"]={"code":"38254","region":"TN","city":"Samburg","latitude":36.3791,"longitude":-89.3538}}(window,'GeoPostal','US');

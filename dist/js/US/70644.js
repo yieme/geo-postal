@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70644"]={"code":"70644","region":"LA","city":"Grant","latitude":30.7962,"longitude":-92.9517}}(window,'GeoPostal','US');

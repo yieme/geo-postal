@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19347"]={"code":"19347","region":"PA","city":"Kemblesville","latitude":39.749,"longitude":-75.8241}}(window,'GeoPostal','US');

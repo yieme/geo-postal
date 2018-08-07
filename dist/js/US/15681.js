@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15681"]={"code":"15681","region":"Pennsylvania","city":"Saltsburg","latitude":40.489096,"longitude":-79.448202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78113"]={"code":"78113","region":"Texas","city":"Falls City","latitude":28.933148,"longitude":-98.063397}}(window,'GeoPostal','US');

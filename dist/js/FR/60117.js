@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60117"]={"code":"60117","region":"Hauts-de-France","city":"Vaumoise","latitude":49.23525,"longitude":2.98077}}(window,'GeoPostal','FR');

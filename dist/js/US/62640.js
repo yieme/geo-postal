@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62640"]={"code":"62640","region":"Illinois","city":"Girard","latitude":39.444682,"longitude":-89.796351}}(window,'GeoPostal','US');

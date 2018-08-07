@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89518"]={"code":"89518","region":"Bayern","city":"Heidenheim","latitude":49.01719,"longitude":10.74347}}(window,'GeoPostal','DE');

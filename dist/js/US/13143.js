@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13143"]={"code":"13143","region":"NY","city":"Red Creek","latitude":43.2291,"longitude":-76.7146}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24834"]={"code":"24834","region":"West Virginia","city":"Fanrock","latitude":37.56642,"longitude":-81.61878}}(window,'GeoPostal','US');

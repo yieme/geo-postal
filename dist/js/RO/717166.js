@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717166"]={"code":"717166","region":"Botosani","city":"Frumusica","latitude":47.53333,"longitude":26.9}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658044"]={"code":"658044","region":"Altayskiy kray","city":"Borovikha","latitude":53.5072,"longitude":83.8379}}(window,'GeoPostal','RU');

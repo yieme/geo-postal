@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62245"]={"code":"62245","region":"IL","city":"Germantown","latitude":38.5487,"longitude":-89.5413}}(window,'GeoPostal','US');

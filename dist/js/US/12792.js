@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12792"]={"code":"12792","region":"New York","city":"Yulan","latitude":41.523363,"longitude":-74.928525}}(window,'GeoPostal','US');

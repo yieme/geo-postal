@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78132"]={"code":"78132","region":"Baden-Wurttemberg","city":"Hohweg","latitude":48.22386,"longitude":8.22412}}(window,'GeoPostal','DE');

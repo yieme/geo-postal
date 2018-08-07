@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8805"]={"code":"8805","region":"Zurich","city":"Richterswil","latitude":47.20622,"longitude":8.69686}}(window,'GeoPostal','CH');

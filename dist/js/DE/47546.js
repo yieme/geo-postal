@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47546"]={"code":"47546","region":"Nordrhein-Westfalen","city":"Todtenhugel","latitude":51.69737,"longitude":6.29136}}(window,'GeoPostal','DE');

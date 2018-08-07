@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79350"]={"code":"79350","region":"TX","city":"New Deal","latitude":33.7296,"longitude":-101.8355}}(window,'GeoPostal','US');

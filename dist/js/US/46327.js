@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46327"]={"code":"46327","region":"Indiana","city":"Hammond","latitude":41.632531,"longitude":-87.508244}}(window,'GeoPostal','US');

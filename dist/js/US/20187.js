@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20187"]={"code":"20187","region":"VA","city":"Warrenton","latitude":38.7153,"longitude":-77.7417}}(window,'GeoPostal','US');

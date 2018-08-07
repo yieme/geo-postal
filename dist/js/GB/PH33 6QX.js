@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 6QX"]={"code":"PH33 6QX","region":"Scotland","city":"Fort William","latitude":56.81648,"longitude":-5.11208}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41815"]={"code":"41815","region":"Kentucky","city":"Ermine","latitude":37.174313,"longitude":-82.822008}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92328"]={"code":"92328","region":"California","city":"Death Valley","latitude":36.24194,"longitude":-116.82583}}(window,'GeoPostal','US');

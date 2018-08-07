@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68920"]={"code":"68920","region":"Nebraska","city":"Alma","latitude":40.09751,"longitude":-99.36204}}(window,'GeoPostal','US');

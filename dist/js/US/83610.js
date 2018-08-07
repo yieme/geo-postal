@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83610"]={"code":"83610","region":"Idaho","city":"Cambridge","latitude":44.582244,"longitude":-116.658198}}(window,'GeoPostal','US');

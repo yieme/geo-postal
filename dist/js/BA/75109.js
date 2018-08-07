@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75109"]={"code":"75109","region":"Federacija Bosne i Hercegovine","city":"Solina","latitude":44.56028,"longitude":18.69472}}(window,'GeoPostal','BA');

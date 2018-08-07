@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48264"]={"code":"48264","region":"Ternopilska oblast","city":"Kopychyntsi","latitude":49.10441,"longitude":25.91026}}(window,'GeoPostal','UA');

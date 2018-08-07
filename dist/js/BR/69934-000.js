@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69934-000"]={"code":"69934-000","region":"Acre","city":"Brasileia","latitude":-11.01611,"longitude":-68.74806}}(window,'GeoPostal','BR');

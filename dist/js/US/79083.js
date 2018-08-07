@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79083"]={"code":"79083","region":"Texas","city":"Stinnett","latitude":35.82698,"longitude":-101.44294}}(window,'GeoPostal','US');

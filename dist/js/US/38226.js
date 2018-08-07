@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38226"]={"code":"38226","region":"Tennessee","city":"Dukedom","latitude":36.474151,"longitude":-88.666048}}(window,'GeoPostal','US');

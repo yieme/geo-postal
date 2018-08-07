@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 43"]={"code":"756 43","region":"Zlinsky kraj","city":"Kelc","latitude":49.47844,"longitude":17.81533}}(window,'GeoPostal','CZ');

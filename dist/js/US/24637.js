@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24637"]={"code":"24637","region":"Virginia","city":"Claypool Hill","latitude":37.06261,"longitude":-81.75178}}(window,'GeoPostal','US');

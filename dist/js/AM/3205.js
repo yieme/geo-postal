@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3205"]={"code":"3205","region":"Syunik'","city":"Goris","latitude":39.51288,"longitude":46.33816}}(window,'GeoPostal','AM');

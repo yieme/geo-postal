@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16423"]={"code":"16423","region":"PA","city":"Lake City","latitude":42.0204,"longitude":-80.3388}}(window,'GeoPostal','US');

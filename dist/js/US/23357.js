@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23357"]={"code":"23357","region":"VA","city":"Greenbush","latitude":37.7681,"longitude":-75.6664}}(window,'GeoPostal','US');

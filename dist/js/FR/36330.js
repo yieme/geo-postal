@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36330"]={"code":"36330","region":"Centre-Val de Loire","city":"Le Poinconnet","latitude":46.7641,"longitude":1.7179}}(window,'GeoPostal','FR');

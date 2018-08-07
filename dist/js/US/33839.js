@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33839"]={"code":"33839","region":"FL","city":"Eagle Lake","latitude":27.9787,"longitude":-81.7564}}(window,'GeoPostal','US');

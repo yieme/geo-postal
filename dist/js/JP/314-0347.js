@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314-0347"]={"code":"314-0347","region":"Ibaraki","city":"Kamisu","latitude":35.883,"longitude":140.667}}(window,'GeoPostal','JP');

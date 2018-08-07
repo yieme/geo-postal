@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17842"]={"code":"17842","region":"Pennsylvania","city":"Middleburg","latitude":40.78592,"longitude":-77.0472}}(window,'GeoPostal','US');

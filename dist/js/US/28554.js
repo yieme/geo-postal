@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28554"]={"code":"28554","region":"NC","city":"Maury","latitude":35.4821,"longitude":-77.5861}}(window,'GeoPostal','US');

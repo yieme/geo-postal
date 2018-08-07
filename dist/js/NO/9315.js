@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9315"]={"code":"9315","region":"Troms","city":"Sorreisa","latitude":69.14527,"longitude":18.15292}}(window,'GeoPostal','NO');

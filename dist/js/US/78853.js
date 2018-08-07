@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78853"]={"code":"78853","region":"Texas","city":"Eagle Pass","latitude":28.684846,"longitude":-100.483974}}(window,'GeoPostal','US');

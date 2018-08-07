@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50449"]={"code":"50449","region":"IA","city":"Klemme","latitude":43.0136,"longitude":-93.5879}}(window,'GeoPostal','US');

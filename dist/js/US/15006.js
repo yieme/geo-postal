@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15006"]={"code":"15006","region":"Pennsylvania","city":"West Deer","latitude":40.628333,"longitude":-79.866944}}(window,'GeoPostal','US');

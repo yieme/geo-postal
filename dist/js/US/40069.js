@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40069"]={"code":"40069","region":"Kentucky","city":"Springfield","latitude":37.68534,"longitude":-85.22218}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24517"]={"code":"24517","region":"Virginia","city":"Altavista","latitude":37.11991,"longitude":-79.29226}}(window,'GeoPostal','US');

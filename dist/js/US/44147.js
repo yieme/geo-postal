@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44147"]={"code":"44147","region":"Ohio","city":"Broadview Heights","latitude":41.31394,"longitude":-81.68513}}(window,'GeoPostal','US');

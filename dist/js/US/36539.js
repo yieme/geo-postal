@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36539"]={"code":"36539","region":"Alabama","city":"Fruitdale","latitude":31.324635,"longitude":-88.314528}}(window,'GeoPostal','US');

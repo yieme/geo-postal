@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39150"]={"code":"39150","region":"Mississippi","city":"Port Gibson","latitude":31.956176,"longitude":-90.983842}}(window,'GeoPostal','US');

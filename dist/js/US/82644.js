@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82644"]={"code":"82644","region":"WY","city":"Mills","latitude":42.8405,"longitude":-106.3659}}(window,'GeoPostal','US');

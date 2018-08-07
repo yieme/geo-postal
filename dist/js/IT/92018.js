@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92018"]={"code":"92018","region":"Sicilia","city":"Santa Margherita di Belice","latitude":37.69184,"longitude":13.02014}}(window,'GeoPostal','IT');

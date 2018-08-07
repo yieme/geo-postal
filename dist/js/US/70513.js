@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70513"]={"code":"70513","region":"LA","city":"Avery Island","latitude":29.8981,"longitude":-91.9062}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85900-000"]={"code":"85900-000","region":"Parana","city":"Toledo","latitude":-24.71361,"longitude":-53.74306}}(window,'GeoPostal','BR');

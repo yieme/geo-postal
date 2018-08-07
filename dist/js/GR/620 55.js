@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 55"]={"code":"620 55","region":"Kentriki Makedonia","city":"Rodopolis","latitude":41.25778,"longitude":22.99833}}(window,'GeoPostal','GR');

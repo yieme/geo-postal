@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407354"]={"code":"407354","region":"Cluj","city":"Jucu Herghelia","latitude":46.85,"longitude":23.8}}(window,'GeoPostal','RO');

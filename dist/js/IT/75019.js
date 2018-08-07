@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75019"]={"code":"75019","region":"Basilicata","city":"Tricarico","latitude":40.61762,"longitude":16.14648}}(window,'GeoPostal','IT');

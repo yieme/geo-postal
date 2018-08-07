@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67844"]={"code":"67844","region":"Odeska oblast","city":"Karolino-Buhaz","latitude":46.14492,"longitude":30.52609}}(window,'GeoPostal','UA');

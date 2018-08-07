@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62221"]={"code":"62221","region":"Illinois","city":"Shiloh","latitude":38.550823,"longitude":-89.984437}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43962"]={"code":"43962","region":"OH","city":"Summitville","latitude":40.6781,"longitude":-80.8862}}(window,'GeoPostal','US');

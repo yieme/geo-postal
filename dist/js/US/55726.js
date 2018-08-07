@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55726"]={"code":"55726","region":"Minnesota","city":"Cromwell","latitude":46.67972,"longitude":-92.87694}}(window,'GeoPostal','US');

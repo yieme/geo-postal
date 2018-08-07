@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75428"]={"code":"75428","region":"TX","city":"Commerce","latitude":33.2493,"longitude":-95.9097}}(window,'GeoPostal','US');

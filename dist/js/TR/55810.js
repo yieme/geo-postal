@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55810"]={"code":"55810","region":"Artvin","city":"Yusufeli","latitude":40.82035,"longitude":41.5443}}(window,'GeoPostal','TR');

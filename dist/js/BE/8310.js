@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8310"]={"code":"8310","region":"West-Vlaanderen","city":"Brugge","latitude":51.20892,"longitude":3.22424}}(window,'GeoPostal','BE');

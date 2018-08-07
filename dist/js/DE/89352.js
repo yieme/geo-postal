@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89352"]={"code":"89352","region":"Bayern","city":"Ellzee","latitude":48.33971,"longitude":10.31891}}(window,'GeoPostal','DE');

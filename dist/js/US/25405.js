@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25405"]={"code":"25405","region":"West Virginia","city":"Martinsburg","latitude":39.4619,"longitude":-77.9692}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04170"]={"code":"04170","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Andre-les-Alpes","latitude":43.9689,"longitude":6.5083}}(window,'GeoPostal','FR');

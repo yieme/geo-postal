@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1G0"]={"code":"G0W 1G0","region":"Quebec","city":"Chambord","latitude":48.43339,"longitude":-72.06583}}(window,'GeoPostal','CA');

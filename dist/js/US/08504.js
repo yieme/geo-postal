@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08504"]={"code":"08504","region":"NJ","city":"Blawenburg","latitude":40.4076,"longitude":-74.7027}}(window,'GeoPostal','US');

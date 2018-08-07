@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10094"]={"code":"10094","region":"NY","city":"Marden Kane Inc","latitude":40.71,"longitude":-74}}(window,'GeoPostal','US');

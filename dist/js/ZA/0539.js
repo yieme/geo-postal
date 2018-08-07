@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0539"]={"code":"0539","region":"Limpopo","city":"Modimolle","latitude":-24.7,"longitude":28.4}}(window,'GeoPostal','ZA');

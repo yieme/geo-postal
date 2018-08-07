@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2127"]={"code":"2127","region":"Victoria","city":"Homebush","latitude":-37.05,"longitude":143.53333}}(window,'GeoPostal','AU');

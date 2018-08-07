@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69404"]={"code":"69404","region":"Viljandimaa","city":"Abja-Paluoja","latitude":58.12528,"longitude":25.34972}}(window,'GeoPostal','EE');

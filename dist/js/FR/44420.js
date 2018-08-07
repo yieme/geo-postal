@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44420"]={"code":"44420","region":"Pays-de-la-Loire","city":"Piriac-sur-Mer","latitude":47.37938,"longitude":-2.54616}}(window,'GeoPostal','FR');

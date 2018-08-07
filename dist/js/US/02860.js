@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02860"]={"code":"02860","region":"Rhode Island","city":"Pawtucket","latitude":41.87233,"longitude":-71.392198}}(window,'GeoPostal','US');

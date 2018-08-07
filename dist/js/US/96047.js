@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96047"]={"code":"96047","region":"CA","city":"Igo","latitude":40.4318,"longitude":-122.654}}(window,'GeoPostal','US');

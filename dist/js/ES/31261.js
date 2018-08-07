@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31261"]={"code":"31261","region":"Navarra, Comunidad Foral de","city":"Andosilla","latitude":42.38333,"longitude":-1.66667}}(window,'GeoPostal','ES');

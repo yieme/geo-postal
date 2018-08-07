@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79355"]={"code":"79355","region":"Texas","city":"Plains","latitude":33.18871,"longitude":-102.82799}}(window,'GeoPostal','US');

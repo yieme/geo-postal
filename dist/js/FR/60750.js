@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60750"]={"code":"60750","region":"Hauts-de-France","city":"Choisy-au-Bac","latitude":49.43777,"longitude":2.87739}}(window,'GeoPostal','FR');

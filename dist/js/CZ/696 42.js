@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 42"]={"code":"696 42","region":"Jihomoravsky kraj","city":"Vracov","latitude":48.97523,"longitude":17.211}}(window,'GeoPostal','CZ');

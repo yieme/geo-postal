@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 3HZ"]={"code":"PO30 3HZ","region":"England","city":"Bowcombe","latitude":50.67933,"longitude":-1.33801}}(window,'GeoPostal','GB');

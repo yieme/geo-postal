@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2S0"]={"code":"N0G 2S0","region":"Ontario","city":"Teeswater","latitude":43.99589,"longitude":-81.28645}}(window,'GeoPostal','CA');

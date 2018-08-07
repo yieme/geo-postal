@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17021"]={"code":"17021","region":"PA","city":"East Waterford","latitude":40.3542,"longitude":-77.6528}}(window,'GeoPostal','US');

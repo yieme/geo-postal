@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 07"]={"code":"357 07","region":"Karlovarsky kraj","city":"Olovi","latitude":50.25113,"longitude":12.55877}}(window,'GeoPostal','CZ');

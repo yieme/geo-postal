@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7111"]={"code":"7111","region":"Burgenland","city":"Parndorf","latitude":47.99963,"longitude":16.86049}}(window,'GeoPostal','AT');

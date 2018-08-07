@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27010"]={"code":"27010","region":"Lombardia","city":"Siziano","latitude":45.31437,"longitude":9.20315}}(window,'GeoPostal','IT');

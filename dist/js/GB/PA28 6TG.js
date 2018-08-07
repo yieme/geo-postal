@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6TG"]={"code":"PA28 6TG","region":"Scotland","city":"Southend","latitude":55.31667,"longitude":-5.63333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B15 3TS"]={"code":"B15 3TS","region":"England","city":"Edgbaston","latitude":52.4623,"longitude":-1.92115}}(window,'GeoPostal','GB');

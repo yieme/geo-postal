@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171270"]={"code":"171270","region":"Tverskaya oblast'","city":"Novozavidovskiy","latitude":56.55,"longitude":36.43333}}(window,'GeoPostal','RU');

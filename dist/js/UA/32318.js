@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32318"]={"code":"32318","region":"Khmelnytska oblast","city":"Kamieniec Podolski","latitude":48.6845,"longitude":26.58559}}(window,'GeoPostal','UA');

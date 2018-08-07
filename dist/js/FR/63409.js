@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63409"]={"code":"63409","region":"Auvergne-Rhone-Alpes","city":"Chamalieres","latitude":45.77559,"longitude":3.0631}}(window,'GeoPostal','FR');

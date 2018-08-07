@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75411"]={"code":"75411","region":"TX","city":"Arthur City","latitude":33.8643,"longitude":-95.6111}}(window,'GeoPostal','US');

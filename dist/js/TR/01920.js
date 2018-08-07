@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01920"]={"code":"01920","region":"Adana","city":"Ceyhan","latitude":37.02472,"longitude":35.8175}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43830"]={"code":"43830","region":"OH","city":"Nashport","latitude":40.0386,"longitude":-82.0998}}(window,'GeoPostal','US');

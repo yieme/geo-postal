@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-446"]={"code":"66-446","region":"Zachodniopomorskie","city":"Brojce","latitude":53.95705,"longitude":15.35975}}(window,'GeoPostal','PL');

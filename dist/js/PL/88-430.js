@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-430"]={"code":"88-430","region":"Kujawsko-pomorskie","city":"Janowiec Wielkopolski","latitude":52.75583,"longitude":17.48981}}(window,'GeoPostal','PL');

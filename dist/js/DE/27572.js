@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27572"]={"code":"27572","region":"Niedersachsen","city":"Wulsdorf","latitude":53.5049,"longitude":8.60297}}(window,'GeoPostal','DE');

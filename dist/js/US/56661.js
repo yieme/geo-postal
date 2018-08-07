@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56661"]={"code":"56661","region":"Minnesota","city":"Northome","latitude":47.830063,"longitude":-94.14495}}(window,'GeoPostal','US');

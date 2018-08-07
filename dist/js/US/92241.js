@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92241"]={"code":"92241","region":"CA","city":"Desert Hot Springs","latitude":33.8763,"longitude":-116.354}}(window,'GeoPostal','US');

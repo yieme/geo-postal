@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1381"]={"code":"1381","region":"Batangas","city":"Bulacanin","latitude":13.98583,"longitude":121.14111}}(window,'GeoPostal','PH');

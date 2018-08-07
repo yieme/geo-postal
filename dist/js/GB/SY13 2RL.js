@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2RL"]={"code":"SY13 2RL","region":"England","city":"Whixall","latitude":52.9054,"longitude":-2.72097}}(window,'GeoPostal','GB');

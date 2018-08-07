@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59189"]={"code":"59189","region":"Hauts-de-France","city":"Steenbecque","latitude":50.67421,"longitude":2.48442}}(window,'GeoPostal','FR');

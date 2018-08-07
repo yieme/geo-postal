@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15051"]={"code":"15051","region":"Tizi Ouzou","city":"Tizi Rached","latitude":36.67176,"longitude":4.19176}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83647"]={"code":"83647","region":"Idaho","city":"Mountain Home","latitude":43.13295,"longitude":-115.6912}}(window,'GeoPostal','US');

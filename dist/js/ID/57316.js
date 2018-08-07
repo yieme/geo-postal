@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57316"]={"code":"57316","region":"Jawa Tengah","city":"Boyolali","latitude":-7.53306,"longitude":110.59583}}(window,'GeoPostal','ID');

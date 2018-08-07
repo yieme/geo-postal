@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81428"]={"code":"81428","region":"Colorado","city":"Paonia","latitude":38.8953,"longitude":-107.58798}}(window,'GeoPostal','US');

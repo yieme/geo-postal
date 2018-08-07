@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-821"]={"code":"87-821","region":"Kujawsko-pomorskie","city":"Baruchowo","latitude":52.49412,"longitude":19.26496}}(window,'GeoPostal','PL');

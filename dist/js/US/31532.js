@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31532"]={"code":"31532","region":"Georgia","city":"Denton","latitude":31.78381,"longitude":-82.658035}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14887"]={"code":"14887","region":"NY","city":"Tyrone","latitude":42.3994,"longitude":-77.0268}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10562"]={"code":"10562","region":"New York","city":"Ossining","latitude":41.16287,"longitude":-73.86152}}(window,'GeoPostal','US');

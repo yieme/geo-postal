@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36728"]={"code":"36728","region":"Alabama","city":"Catherine","latitude":32.185,"longitude":-87.469}}(window,'GeoPostal','US');

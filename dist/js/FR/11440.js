@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11440"]={"code":"11440","region":"Occitanie","city":"Peyriac-de-Mer","latitude":43.0872,"longitude":2.95832}}(window,'GeoPostal','FR');

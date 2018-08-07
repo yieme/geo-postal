@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6838"]={"code":"6838","region":"Luxembourg","city":"Bouillon","latitude":49.79324,"longitude":5.06704}}(window,'GeoPostal','BE');

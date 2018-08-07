@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG5 3EG"]={"code":"SG5 3EG","region":"England","city":"Great Offley","latitude":51.92752,"longitude":-0.33568}}(window,'GeoPostal','GB');

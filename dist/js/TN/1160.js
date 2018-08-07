@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1160"]={"code":"1160","region":"Zaghouan","city":"Zaghouan","latitude":36.40291,"longitude":10.14292}}(window,'GeoPostal','TN');

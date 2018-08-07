@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49347"]={"code":"49347","region":"Michigan","city":"Trufant","latitude":43.316146,"longitude":-85.346552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68766"]={"code":"68766","region":"NE","city":"Page","latitude":42.4119,"longitude":-98.3964}}(window,'GeoPostal','US');

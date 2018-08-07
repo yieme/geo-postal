@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65181"]={"code":"65181","region":"Jawa Timur","city":"Dampit","latitude":-8.21162,"longitude":112.74934}}(window,'GeoPostal','ID');

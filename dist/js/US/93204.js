@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93204"]={"code":"93204","region":"California","city":"Avenal","latitude":36.00412,"longitude":-120.12903}}(window,'GeoPostal','US');

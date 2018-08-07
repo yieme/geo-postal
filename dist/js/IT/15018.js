@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15018"]={"code":"15018","region":"Piemonte","city":"Spigno Monferrato","latitude":44.54314,"longitude":8.33395}}(window,'GeoPostal','IT');

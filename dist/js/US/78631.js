@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78631"]={"code":"78631","region":"TX","city":"Harper","latitude":30.2816,"longitude":-99.241}}(window,'GeoPostal','US');

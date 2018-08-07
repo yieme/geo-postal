@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47270"]={"code":"47270","region":"Nouvelle-Aquitaine","city":"Puymirol","latitude":44.1878,"longitude":0.7983}}(window,'GeoPostal','FR');

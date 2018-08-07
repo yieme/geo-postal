@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93142"]={"code":"93142","region":"Mecklenburg-Vorpommern","city":"Haidhof","latitude":54.44772,"longitude":13.26317}}(window,'GeoPostal','DE');

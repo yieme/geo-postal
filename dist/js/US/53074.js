@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53074"]={"code":"53074","region":"Wisconsin","city":"Port Washington","latitude":43.4231,"longitude":-87.8781}}(window,'GeoPostal','US');

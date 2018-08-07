@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84130"]={"code":"84130","region":"Surat Thani","city":"Phunphin","latitude":9.11072,"longitude":99.23208}}(window,'GeoPostal','TH');

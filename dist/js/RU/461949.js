@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461949"]={"code":"461949","region":"Orenburgskaya oblast'","city":"Sorochinsk","latitude":52.4338,"longitude":53.1583}}(window,'GeoPostal','RU');

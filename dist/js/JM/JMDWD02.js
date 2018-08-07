@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDWD02"]={"code":"JMDWD02","region":"Westmoreland","city":"Bethel Town","latitude":18.29504,"longitude":-77.95112}}(window,'GeoPostal','JM');

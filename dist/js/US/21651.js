@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21651"]={"code":"21651","region":"Maryland","city":"Millington","latitude":39.258707,"longitude":-75.839311}}(window,'GeoPostal','US');

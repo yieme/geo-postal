@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63680-000"]={"code":"63680-000","region":"Ceara","city":"Parambu","latitude":-6.21111,"longitude":-40.69444}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12854"]={"code":"12854","region":"NY","city":"North Granville","latitude":43.4525,"longitude":-73.341}}(window,'GeoPostal','US');

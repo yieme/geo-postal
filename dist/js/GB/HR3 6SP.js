@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR3 6SP"]={"code":"HR3 6SP","region":"England","city":"Winforton","latitude":52.11724,"longitude":-3.02602}}(window,'GeoPostal','GB');

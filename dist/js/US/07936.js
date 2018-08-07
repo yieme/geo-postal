@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07936"]={"code":"07936","region":"New Jersey","city":"East Hanover","latitude":40.8201,"longitude":-74.36487}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28709"]={"code":"28709","region":"Centre-Val de Loire","city":"Auneau","latitude":48.46361,"longitude":1.77264}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30102"]={"code":"30102","region":"Georgia","city":"Acworth","latitude":34.098709,"longitude":-84.613807}}(window,'GeoPostal','US');

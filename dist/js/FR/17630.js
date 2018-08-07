@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17630"]={"code":"17630","region":"Nouvelle-Aquitaine","city":"La Flotte","latitude":46.1877,"longitude":-1.32815}}(window,'GeoPostal','FR');

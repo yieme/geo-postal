@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01150"]={"code":"01150","region":"Uusimaa","city":"Sibbo","latitude":60.37752,"longitude":25.26906}}(window,'GeoPostal','FI');

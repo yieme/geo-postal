@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83531"]={"code":"83531","region":"Idaho","city":"Fenn","latitude":45.92646,"longitude":-116.12271}}(window,'GeoPostal','US');

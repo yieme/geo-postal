@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8363"]={"code":"8363","region":"Rio Negro","city":"Lamarque","latitude":-39.42304,"longitude":-65.70208}}(window,'GeoPostal','AR');

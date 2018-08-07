@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15140"]={"code":"15140","region":"Pennsylvania","city":"Monroeville","latitude":40.42118,"longitude":-79.7881}}(window,'GeoPostal','US');

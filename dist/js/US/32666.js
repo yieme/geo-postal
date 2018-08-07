@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32666"]={"code":"32666","region":"FL","city":"Melrose","latitude":29.7325,"longitude":-82.0279}}(window,'GeoPostal','US');

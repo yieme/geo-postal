@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["820101"]={"code":"820101","region":"Katsina","city":"Katsina","latitude":12.98943,"longitude":7.60063}}(window,'GeoPostal','NG');

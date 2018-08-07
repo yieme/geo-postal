@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54550"]={"code":"54550","region":"Wisconsin","city":"Montreal","latitude":46.42917,"longitude":-90.23889}}(window,'GeoPostal','US');

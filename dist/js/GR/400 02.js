@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400 02"]={"code":"400 02","region":"Thessalia","city":"Livadion","latitude":40.125,"longitude":22.15167}}(window,'GeoPostal','GR');

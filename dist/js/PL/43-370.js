@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-370"]={"code":"43-370","region":"Slaskie","city":"Szczyrk","latitude":49.71724,"longitude":19.03183}}(window,'GeoPostal','PL');

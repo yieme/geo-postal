@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78390"]={"code":"78390","region":"TX","city":"Taft","latitude":27.9765,"longitude":-97.3966}}(window,'GeoPostal','US');

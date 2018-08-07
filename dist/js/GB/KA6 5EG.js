@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 5EG"]={"code":"KA6 5EG","region":"Scotland","city":"Annbank","latitude":55.47564,"longitude":-4.52208}}(window,'GeoPostal','GB');

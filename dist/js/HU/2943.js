@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2943"]={"code":"2943","region":"Komarom-Esztergom","city":"Babolna","latitude":47.64361,"longitude":17.97798}}(window,'GeoPostal','HU');

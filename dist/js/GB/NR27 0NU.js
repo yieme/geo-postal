@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR27 0NU"]={"code":"NR27 0NU","region":"England","city":"Overstrand","latitude":52.91623,"longitude":1.339}}(window,'GeoPostal','GB');

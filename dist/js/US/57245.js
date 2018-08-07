@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57245"]={"code":"57245","region":"SD","city":"Kranzburg","latitude":44.8923,"longitude":-96.9174}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA36 0ED"]={"code":"SA36 0ED","region":"Wales","city":"Glogue","latitude":51.96775,"longitude":-4.59829}}(window,'GeoPostal','GB');

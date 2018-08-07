@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 6QL"]={"code":"SA44 6QL","region":"Wales","city":"Penbryn","latitude":52.13996,"longitude":-4.49042}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05491"]={"code":"05491","region":"Vermont","city":"Vergennes","latitude":44.14854,"longitude":-73.27536}}(window,'GeoPostal','US');

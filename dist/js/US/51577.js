@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51577"]={"code":"51577","region":"Iowa","city":"Walnut","latitude":41.48111,"longitude":-95.22111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29290-000"]={"code":"29290-000","region":"Espirito Santo","city":"Rio Novo do Sul","latitude":-20.8625,"longitude":-40.93639}}(window,'GeoPostal','BR');

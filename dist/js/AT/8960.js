@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8960"]={"code":"8960","region":"Steiermark","city":"Oblarn","latitude":47.45938,"longitude":13.99023}}(window,'GeoPostal','AT');

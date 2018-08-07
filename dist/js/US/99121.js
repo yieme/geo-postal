@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99121"]={"code":"99121","region":"Washington","city":"Danville","latitude":48.98126,"longitude":-118.518167}}(window,'GeoPostal','US');

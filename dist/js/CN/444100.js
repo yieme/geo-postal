@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444100"]={"code":"444100","region":"Hubei","city":"Baling","latitude":30.84298,"longitude":111.79253}}(window,'GeoPostal','CN');

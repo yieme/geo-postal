@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82284"]={"code":"82284","region":"Nordrhein-Westfalen","city":"Grafrath","latitude":51.21667,"longitude":7.06667}}(window,'GeoPostal','DE');

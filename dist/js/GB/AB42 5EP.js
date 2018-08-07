@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 5EP"]={"code":"AB42 5EP","region":"Scotland","city":"Stuartfield","latitude":57.50303,"longitude":-2.04637}}(window,'GeoPostal','GB');

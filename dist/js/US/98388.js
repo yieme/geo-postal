@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98388"]={"code":"98388","region":"WA","city":"Steilacoom","latitude":47.1704,"longitude":-122.5888}}(window,'GeoPostal','US');

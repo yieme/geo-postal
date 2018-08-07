@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60284"]={"code":"60284","region":"Jawa Timur","city":"Surabaya","latitude":-7.24917,"longitude":112.75083}}(window,'GeoPostal','ID');

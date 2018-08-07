@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47210"]={"code":"47210","region":"Nouvelle-Aquitaine","city":"Villereal","latitude":44.63631,"longitude":0.74326}}(window,'GeoPostal','FR');

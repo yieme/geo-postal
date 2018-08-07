@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N9 7AQ"]={"code":"N9 7AQ","region":"England","city":"Edmonton","latitude":51.62561,"longitude":-0.05798}}(window,'GeoPostal','GB');

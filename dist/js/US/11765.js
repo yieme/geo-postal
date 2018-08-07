@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11765"]={"code":"11765","region":"NY","city":"Mill Neck","latitude":40.8857,"longitude":-73.5526}}(window,'GeoPostal','US');

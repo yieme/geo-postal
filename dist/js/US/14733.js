@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14733"]={"code":"14733","region":"NY","city":"Falconer","latitude":42.1239,"longitude":-79.1895}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["536000"]={"code":"536000","region":"Guangxi","city":"Beihai","latitude":21.48333,"longitude":109.1}}(window,'GeoPostal','CN');

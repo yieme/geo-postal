@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26700"]={"code":"26700","region":"Eskisehir","city":"Cifteler","latitude":39.38306,"longitude":31.03917}}(window,'GeoPostal','TR');

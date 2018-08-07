@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["272-0143"]={"code":"272-0143","region":"Chiba","city":"Ichikawa","latitude":35.717,"longitude":139.933}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83311"]={"code":"83311","region":"Idaho","city":"Albion","latitude":42.393507,"longitude":-113.551419}}(window,'GeoPostal','US');

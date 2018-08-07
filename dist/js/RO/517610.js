@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517610"]={"code":"517610","region":"Alba","city":"Rimetea","latitude":46.45,"longitude":23.56667}}(window,'GeoPostal','RO');

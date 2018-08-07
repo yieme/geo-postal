@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49945"]={"code":"49945","region":"Michigan","city":"Lake Linden","latitude":47.19409,"longitude":-88.40734}}(window,'GeoPostal','US');

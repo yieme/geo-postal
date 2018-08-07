@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["576150"]={"code":"576150","region":"Karnataka","city":"Udipi","latitude":13.35,"longitude":74.75}}(window,'GeoPostal','IN');

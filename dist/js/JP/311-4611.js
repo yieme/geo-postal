@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311-4611"]={"code":"311-4611","region":"Ibaraki","city":"Hitachiomiya","latitude":36.55,"longitude":140.417}}(window,'GeoPostal','JP');

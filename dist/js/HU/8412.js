@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8412"]={"code":"8412","region":"Veszprem","city":"Urkut","latitude":47.08505,"longitude":17.64393}}(window,'GeoPostal','HU');

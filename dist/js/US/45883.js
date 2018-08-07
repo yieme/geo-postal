@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45883"]={"code":"45883","region":"Ohio","city":"Saint Henry","latitude":40.41755,"longitude":-84.63968}}(window,'GeoPostal','US');

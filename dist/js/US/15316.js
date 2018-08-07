@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15316"]={"code":"15316","region":"Pennsylvania","city":"Brave","latitude":39.72468,"longitude":-80.2602}}(window,'GeoPostal','US');

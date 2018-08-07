@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP33 1SD"]={"code":"IP33 1SD","region":"England","city":"Bury St Edmunds","latitude":52.2463,"longitude":0.71111}}(window,'GeoPostal','GB');

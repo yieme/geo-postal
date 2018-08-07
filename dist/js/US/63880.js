@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63880"]={"code":"63880","region":"Missouri","city":"Whiteoak","latitude":36.129675,"longitude":-90.157451}}(window,'GeoPostal','US');

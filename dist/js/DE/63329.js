@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63329"]={"code":"63329","region":"Hessen","city":"Egelsbach","latitude":49.97111,"longitude":8.67028}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4145"]={"code":"4145","region":"Hajdu-Bihar","city":"Csokmo","latitude":47.03333,"longitude":21.3}}(window,'GeoPostal','HU');

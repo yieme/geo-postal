@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17241"]={"code":"17241","region":"PA","city":"Newville","latitude":40.1855,"longitude":-77.4114}}(window,'GeoPostal','US');

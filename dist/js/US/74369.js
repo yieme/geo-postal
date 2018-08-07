@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74369"]={"code":"74369","region":"Oklahoma","city":"Welch","latitude":36.87472,"longitude":-95.09389}}(window,'GeoPostal','US');

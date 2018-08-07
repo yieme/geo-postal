@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27750"]={"code":"27750","region":"Normandie","city":"La Couture-Boussey","latitude":48.89581,"longitude":1.40491}}(window,'GeoPostal','FR');

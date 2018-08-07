@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2015"]={"code":"2015","region":"Pampanga","city":"Talang","latitude":15.0228,"longitude":120.8375}}(window,'GeoPostal','PH');

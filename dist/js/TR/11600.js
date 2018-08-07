@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11600"]={"code":"11600","region":"Bilecik","city":"Sogut","latitude":40.015099,"longitude":30.1834}}(window,'GeoPostal','TR');

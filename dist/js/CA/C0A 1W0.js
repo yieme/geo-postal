@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1W0"]={"code":"C0A 1W0","region":"Prince Edward Island","city":"Wilmot","latitude":46.01682,"longitude":-62.56535}}(window,'GeoPostal','CA');

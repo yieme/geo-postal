@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48203"]={"code":"48203","region":"Michigan","city":"Highland Park","latitude":42.41802,"longitude":-83.10678}}(window,'GeoPostal','US');

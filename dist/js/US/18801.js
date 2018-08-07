@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18801"]={"code":"18801","region":"Pennsylvania","city":"Montrose","latitude":41.83397,"longitude":-75.87714}}(window,'GeoPostal','US');

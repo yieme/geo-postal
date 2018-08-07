@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32328"]={"code":"32328","region":"Florida","city":"Eastpoint","latitude":29.7366,"longitude":-84.87852}}(window,'GeoPostal','US');

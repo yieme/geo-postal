@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29839"]={"code":"29839","region":"SC","city":"Montmorenci","latitude":33.5073,"longitude":-81.5992}}(window,'GeoPostal','US');

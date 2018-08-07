@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4565"]={"code":"4565","region":"Queensland","city":"Tewantin","latitude":-26.39104,"longitude":153.03432}}(window,'GeoPostal','AU');

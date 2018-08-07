@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58067"]={"code":"58067","region":"ND","city":"Rutland","latitude":46.0738,"longitude":-97.5483}}(window,'GeoPostal','US');

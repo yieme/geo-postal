@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58430-000"]={"code":"58430-000","region":"Paraiba","city":"Fagundes","latitude":-7.355,"longitude":-35.775}}(window,'GeoPostal','BR');

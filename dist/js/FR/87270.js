@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87270"]={"code":"87270","region":"Nouvelle-Aquitaine","city":"Couzeix","latitude":45.87047,"longitude":1.23828}}(window,'GeoPostal','FR');

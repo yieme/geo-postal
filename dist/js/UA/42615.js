@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42615"]={"code":"42615","region":"Sumska oblast","city":"Trostyanets'","latitude":50.47843,"longitude":34.96298}}(window,'GeoPostal','UA');

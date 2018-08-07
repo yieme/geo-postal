@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78949"]={"code":"78949","region":"TX","city":"Muldoon","latitude":29.7993,"longitude":-97.1006}}(window,'GeoPostal','US');

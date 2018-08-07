@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79106"]={"code":"79106","region":"Texas","city":"Amarillo","latitude":35.211323,"longitude":-101.900456}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83250"]={"code":"83250","region":"Bayern","city":"Piesenhausen","latitude":47.76313,"longitude":12.45021}}(window,'GeoPostal','DE');

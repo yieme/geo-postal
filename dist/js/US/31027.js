@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31027"]={"code":"31027","region":"GA","city":"East Dublin","latitude":32.5482,"longitude":-82.8718}}(window,'GeoPostal','US');

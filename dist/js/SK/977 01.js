@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["977 01"]={"code":"977 01","region":"Banskobystricky kraj","city":"Brezno","latitude":48.80431,"longitude":19.63631}}(window,'GeoPostal','SK');

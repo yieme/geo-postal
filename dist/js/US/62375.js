@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62375"]={"code":"62375","region":"IL","city":"Timewell","latitude":40.0117,"longitude":-90.8661}}(window,'GeoPostal','US');

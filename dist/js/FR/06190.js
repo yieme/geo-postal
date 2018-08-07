@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06190"]={"code":"06190","region":"Provence-Alpes-Cote d'Azur","city":"Roquebrune-Cap-Martin","latitude":43.76408,"longitude":7.48206}}(window,'GeoPostal','FR');

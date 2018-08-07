@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53037"]={"code":"53037","region":"WI","city":"Jackson","latitude":43.3252,"longitude":-88.1626}}(window,'GeoPostal','US');

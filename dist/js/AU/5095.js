@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5095"]={"code":"5095","region":"South Australia","city":"Mawson Lakes","latitude":-34.81589,"longitude":138.60809}}(window,'GeoPostal','AU');

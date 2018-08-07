@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32699"]={"code":"32699","region":"Nordrhein-Westfalen","city":"Asmissen","latitude":52.0583,"longitude":9.09728}}(window,'GeoPostal','DE');

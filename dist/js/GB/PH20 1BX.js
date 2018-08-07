@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH20 1BX"]={"code":"PH20 1BX","region":"Scotland","city":"Melgarve","latitude":57.01667,"longitude":-4.53333}}(window,'GeoPostal','GB');

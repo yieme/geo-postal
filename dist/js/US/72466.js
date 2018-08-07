@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72466"]={"code":"72466","region":"AR","city":"Smithville","latitude":36.0908,"longitude":-91.2745}}(window,'GeoPostal','US');

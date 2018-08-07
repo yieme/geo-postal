@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62630"]={"code":"62630","region":"Hauts-de-France","city":"Etaples","latitude":50.52194,"longitude":1.63319}}(window,'GeoPostal','FR');

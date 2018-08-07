@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ9 6EJ"]={"code":"TQ9 6EJ","region":"England","city":"Falmouth","latitude":50.15441,"longitude":-5.07113}}(window,'GeoPostal','GB');

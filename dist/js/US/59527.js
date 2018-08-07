@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59527"]={"code":"59527","region":"MT","city":"Hays","latitude":47.9892,"longitude":-108.6943}}(window,'GeoPostal','US');

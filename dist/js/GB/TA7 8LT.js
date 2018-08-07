@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 8LT"]={"code":"TA7 8LT","region":"England","city":"Cossington","latitude":51.15889,"longitude":-2.92028}}(window,'GeoPostal','GB');

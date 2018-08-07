@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 8LP"]={"code":"CA7 8LP","region":"England","city":"Red Dial","latitude":54.80316,"longitude":-3.16372}}(window,'GeoPostal','GB');

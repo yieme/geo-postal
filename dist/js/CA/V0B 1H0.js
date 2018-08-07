@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1H0"]={"code":"V0B 1H0","region":"British Columbia","city":"Elkford","latitude":50.05007,"longitude":-114.8854}}(window,'GeoPostal','CA');

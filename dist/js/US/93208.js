@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93208"]={"code":"93208","region":"CA","city":"Camp Nelson","latitude":36.1427,"longitude":-118.6093}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97426"]={"code":"97426","region":"Oregon","city":"Creswell","latitude":43.906763,"longitude":-123.033887}}(window,'GeoPostal','US');

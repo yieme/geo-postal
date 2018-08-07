@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 4BB"]={"code":"HG4 4BB","region":"England","city":"Thornton Steward","latitude":54.27917,"longitude":-1.72805}}(window,'GeoPostal','GB');

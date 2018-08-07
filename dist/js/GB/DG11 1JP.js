@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 1JP"]={"code":"DG11 1JP","region":"Scotland","city":"Hightae","latitude":55.09624,"longitude":-3.4197}}(window,'GeoPostal','GB');

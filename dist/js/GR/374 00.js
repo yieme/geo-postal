@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["374 00"]={"code":"374 00","region":"Thessalia","city":"Nea Ankhialos","latitude":39.28333,"longitude":22.81667}}(window,'GeoPostal','GR');

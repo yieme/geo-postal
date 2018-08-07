@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6327"]={"code":"6327","region":"Bohol","city":"Loon","latitude":9.7998,"longitude":123.7929}}(window,'GeoPostal','PH');

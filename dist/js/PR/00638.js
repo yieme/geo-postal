@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00638"]={"code":"00638","region":"Ciales","city":"Ciales","latitude":18.33606,"longitude":-66.46878}}(window,'GeoPostal','PR');

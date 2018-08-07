@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56470-000"]={"code":"56470-000","region":"Pernambuco","city":"Jatoba","latitude":-9.18306,"longitude":-38.26889}}(window,'GeoPostal','BR');

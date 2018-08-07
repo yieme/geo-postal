@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-407"]={"code":"23-407","region":"Lubelskie","city":"Tereszpol","latitude":50.56667,"longitude":22.93333}}(window,'GeoPostal','PL');

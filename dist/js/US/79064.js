@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79064"]={"code":"79064","region":"TX","city":"Olton","latitude":34.1844,"longitude":-102.1414}}(window,'GeoPostal','US');

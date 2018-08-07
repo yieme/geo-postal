@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04033"]={"code":"04033","region":"Maine","city":"Freeport","latitude":43.856863,"longitude":-70.100249}}(window,'GeoPostal','US');

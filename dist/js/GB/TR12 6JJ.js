@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 6JJ"]={"code":"TR12 6JJ","region":"England","city":"Manaccan","latitude":50.08429,"longitude":-5.12728}}(window,'GeoPostal','GB');

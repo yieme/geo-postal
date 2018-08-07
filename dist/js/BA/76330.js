@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76330"]={"code":"76330","region":"Republika Srpska","city":"Ugljevik","latitude":44.66361,"longitude":19.02028}}(window,'GeoPostal','BA');

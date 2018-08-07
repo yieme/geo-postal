@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89003"]={"code":"89003","region":"Nevada","city":"Beatty","latitude":36.90856,"longitude":-116.75923}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1G0"]={"code":"B0M 1G0","region":"Nova Scotia","city":"Debert","latitude":45.43345,"longitude":-63.46539}}(window,'GeoPostal','CA');

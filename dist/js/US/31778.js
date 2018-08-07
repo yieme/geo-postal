@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31778"]={"code":"31778","region":"GA","city":"Pavo","latitude":30.9401,"longitude":-83.7409}}(window,'GeoPostal','US');

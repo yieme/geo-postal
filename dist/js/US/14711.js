@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14711"]={"code":"14711","region":"New York","city":"Belfast","latitude":42.339769,"longitude":-78.119212}}(window,'GeoPostal','US');

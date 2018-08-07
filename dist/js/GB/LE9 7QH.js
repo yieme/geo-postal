@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE9 7QH"]={"code":"LE9 7QH","region":"England","city":"Kirkby Mallory","latitude":52.60172,"longitude":-1.3269}}(window,'GeoPostal','GB');

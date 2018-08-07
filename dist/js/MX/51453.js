@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51453"]={"code":"51453","region":"Mexico","city":"Luvianos","latitude":18.91667,"longitude":-100.4}}(window,'GeoPostal','MX');

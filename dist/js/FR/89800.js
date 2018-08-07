@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89800"]={"code":"89800","region":"Bourgogne-Franche-Comte","city":"Chablis","latitude":47.81386,"longitude":3.79835}}(window,'GeoPostal','FR');

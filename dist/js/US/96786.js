@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96786"]={"code":"96786","region":"Hawaii","city":"Wahiawa","latitude":21.50278,"longitude":-158.02361}}(window,'GeoPostal','US');

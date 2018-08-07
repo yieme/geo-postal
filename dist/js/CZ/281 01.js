@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 01"]={"code":"281 01","region":"Stredocesky kraj","city":"Caslav","latitude":49.91099,"longitude":15.38972}}(window,'GeoPostal','CZ');

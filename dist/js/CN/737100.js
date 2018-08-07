@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737100"]={"code":"737100","region":"Gansu","city":"Jinchang","latitude":33.61681,"longitude":104.89633}}(window,'GeoPostal','CN');

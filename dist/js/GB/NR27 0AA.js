@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR27 0AA"]={"code":"NR27 0AA","region":"England","city":"Northrepps","latitude":52.90423,"longitude":1.33724}}(window,'GeoPostal','GB');

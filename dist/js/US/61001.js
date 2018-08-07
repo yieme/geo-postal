@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61001"]={"code":"61001","region":"Illinois","city":"Apple River","latitude":42.476854,"longitude":-90.108145}}(window,'GeoPostal','US');

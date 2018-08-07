@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50841"]={"code":"50841","region":"Iowa","city":"Corning","latitude":40.98999,"longitude":-94.74081}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH6 0AL"]={"code":"RH6 0AL","region":"England","city":"Gatwick","latitude":51.16667,"longitude":-0.18333}}(window,'GeoPostal','GB');

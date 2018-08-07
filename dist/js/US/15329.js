@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15329"]={"code":"15329","region":"PA","city":"Prosperity","latitude":40.0224,"longitude":-80.2613}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753 01"]={"code":"753 01","region":"Olomoucky kraj","city":"Hranice","latitude":49.54796,"longitude":17.73469}}(window,'GeoPostal','CZ');

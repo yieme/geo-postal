@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31110"]={"code":"31110","region":"Occitanie","city":"Bagneres-de-Luchon","latitude":42.79079,"longitude":0.59315}}(window,'GeoPostal','FR');

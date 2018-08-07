@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["367904"]={"code":"367904","region":"Dagestan, Respublika","city":"Tarki","latitude":42.94423,"longitude":47.49527}}(window,'GeoPostal','RU');

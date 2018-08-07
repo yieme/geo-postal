@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3L 5G8"]={"code":"J3L 5G8","region":"Quebec","city":"Chambly","latitude":45.416074,"longitude":-73.280292}}(window,'GeoPostal','CA');

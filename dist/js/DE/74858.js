@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74858"]={"code":"74858","region":"Baden-Wurttemberg","city":"Aglasterhausen","latitude":49.35694,"longitude":8.98694}}(window,'GeoPostal','DE');

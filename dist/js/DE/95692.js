@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95692"]={"code":"95692","region":"Bayern","city":"Fockenfeld","latitude":49.99913,"longitude":12.23714}}(window,'GeoPostal','DE');

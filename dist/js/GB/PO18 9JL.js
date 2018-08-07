@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9JL"]={"code":"PO18 9JL","region":"England","city":"Stoughton","latitude":50.89605,"longitude":-0.86114}}(window,'GeoPostal','GB');

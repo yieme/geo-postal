@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15060"]={"code":"15060","region":"PA","city":"Midway","latitude":40.368,"longitude":-80.2921}}(window,'GeoPostal','US');

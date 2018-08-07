@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40452"]={"code":"40452","region":"KY","city":"Mitchellsburg","latitude":37.6033,"longitude":-84.9492}}(window,'GeoPostal','US');

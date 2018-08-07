@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85452"]={"code":"85452","region":"Bayern","city":"Moosinning","latitude":48.27708,"longitude":11.84446}}(window,'GeoPostal','DE');

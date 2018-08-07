@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06889"]={"code":"06889","region":"Sachsen-Anhalt","city":"Piesteritz","latitude":51.86956,"longitude":12.59835}}(window,'GeoPostal','DE');

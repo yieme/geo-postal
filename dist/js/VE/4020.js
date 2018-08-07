@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4020"]={"code":"4020","region":"Zulia","city":"Santa Rita","latitude":10.53806,"longitude":-71.51694}}(window,'GeoPostal','VE');

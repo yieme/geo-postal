@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60543"]={"code":"60543","region":"Illinois","city":"Oswego","latitude":41.6662,"longitude":-88.3187}}(window,'GeoPostal','US');

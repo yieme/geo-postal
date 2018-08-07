@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6014"]={"code":"6014","region":"Western Australia","city":"Jolimont","latitude":-31.94564,"longitude":115.80947}}(window,'GeoPostal','AU');

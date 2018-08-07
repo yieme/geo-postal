@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140209"]={"code":"140209","region":"Moskovskaya oblast'","city":"Voskresensk","latitude":55.3125,"longitude":38.66361}}(window,'GeoPostal','RU');

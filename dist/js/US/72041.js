@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72041"]={"code":"72041","region":"Arkansas","city":"De Valls Bluff","latitude":34.714512,"longitude":-91.542927}}(window,'GeoPostal','US');

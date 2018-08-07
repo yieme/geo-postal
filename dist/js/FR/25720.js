@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25720"]={"code":"25720","region":"Bourgogne-Franche-Comte","city":"Beure","latitude":47.2069,"longitude":6.00548}}(window,'GeoPostal','FR');

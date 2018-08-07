@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK46 4BY"]={"code":"MK46 4BY","region":"England","city":"Olney","latitude":52.15345,"longitude":-0.70201}}(window,'GeoPostal','GB');

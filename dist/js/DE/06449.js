@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06449"]={"code":"06449","region":"Sachsen-Anhalt","city":"Aschersleben","latitude":51.75742,"longitude":11.46084}}(window,'GeoPostal','DE');

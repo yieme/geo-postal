@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9XG"]={"code":"NE65 9XG","region":"England","city":"Acklington","latitude":55.3,"longitude":-1.63333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68055"]={"code":"68055","region":"Nebraska","city":"Rosalie","latitude":42.06019,"longitude":-96.469784}}(window,'GeoPostal','US');

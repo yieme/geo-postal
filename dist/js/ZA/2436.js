@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2436"]={"code":"2436","region":"Mpumalanga","city":"Standerton","latitude":-26.93366,"longitude":29.24152}}(window,'GeoPostal','ZA');

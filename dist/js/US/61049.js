@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61049"]={"code":"61049","region":"IL","city":"Lindenwood","latitude":42.0507,"longitude":-89.034}}(window,'GeoPostal','US');

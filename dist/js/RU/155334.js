@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155334"]={"code":"155334","region":"Ivanovskaya oblast'","city":"Vichuga","latitude":57.21276,"longitude":41.93012}}(window,'GeoPostal','RU');

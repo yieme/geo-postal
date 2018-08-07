@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1R0"]={"code":"T0M 1R0","region":"Alberta","city":"Penhold","latitude":52.13342,"longitude":-113.8687}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH1 5DY"]={"code":"RH1 5DY","region":"England","city":"Salfords","latitude":51.20434,"longitude":-0.16744}}(window,'GeoPostal','GB');

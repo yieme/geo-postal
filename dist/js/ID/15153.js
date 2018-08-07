@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15153"]={"code":"15153","region":"Jawa Barat","city":"Ciputat","latitude":-6.2375,"longitude":106.69556}}(window,'GeoPostal','ID');

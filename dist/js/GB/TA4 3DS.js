@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 3DS"]={"code":"TA4 3DS","region":"England","city":"Cothelstone","latitude":51.07861,"longitude":-3.16861}}(window,'GeoPostal','GB');

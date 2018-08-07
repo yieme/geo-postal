@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57392"]={"code":"57392","region":"Nordrhein-Westfalen","city":"Niedersorpe","latitude":51.16965,"longitude":8.35948}}(window,'GeoPostal','DE');

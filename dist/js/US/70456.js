@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70456"]={"code":"70456","region":"LA","city":"Roseland","latitude":30.7717,"longitude":-90.5243}}(window,'GeoPostal','US');

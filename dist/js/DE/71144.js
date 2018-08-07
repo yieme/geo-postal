@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71144"]={"code":"71144","region":"Baden-Wurttemberg","city":"Steinenbronn","latitude":48.66667,"longitude":9.11667}}(window,'GeoPostal','DE');

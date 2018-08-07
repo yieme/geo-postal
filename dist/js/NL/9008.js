@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9008"]={"code":"9008","region":"Fryslan","city":"Reduzum","latitude":53.11775,"longitude":5.78765}}(window,'GeoPostal','NL');

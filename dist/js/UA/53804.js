@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53804"]={"code":"53804","region":"Dnipropetrovska oblast","city":"Apostolove","latitude":47.66003,"longitude":33.71369}}(window,'GeoPostal','UA');

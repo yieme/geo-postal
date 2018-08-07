@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21702"]={"code":"21702","region":"Niedersachsen","city":"Ahlerstedt","latitude":53.4,"longitude":9.45}}(window,'GeoPostal','DE');

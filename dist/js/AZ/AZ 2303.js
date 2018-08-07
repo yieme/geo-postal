@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 2303"]={"code":"AZ 2303","region":"Goycay","city":"Geoktschai","latitude":40.65306,"longitude":47.74056}}(window,'GeoPostal','AZ');

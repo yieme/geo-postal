@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 0R0"]={"code":"T0L 0R0","region":"Alberta","city":"Champion","latitude":50.23335,"longitude":-113.15188}}(window,'GeoPostal','CA');

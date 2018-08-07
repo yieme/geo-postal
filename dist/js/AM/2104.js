@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2104"]={"code":"2104","region":"Aragacotn","city":"Arteni","latitude":40.29848,"longitude":43.7622}}(window,'GeoPostal','AM');

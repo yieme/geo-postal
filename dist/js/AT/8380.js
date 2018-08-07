@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8380"]={"code":"8380","region":"Burgenland","city":"Jennersdorf","latitude":46.93848,"longitude":16.14158}}(window,'GeoPostal','AT');

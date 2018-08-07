@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4400"]={"code":"4400","region":"Vest-Agder","city":"Flekkefjord","latitude":58.29705,"longitude":6.66069}}(window,'GeoPostal','NO');

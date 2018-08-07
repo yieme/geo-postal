@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49701"]={"code":"49701","region":"Kymenlaakso","city":"Miehikkala","latitude":60.66667,"longitude":27.7}}(window,'GeoPostal','FI');

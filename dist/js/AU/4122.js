@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4122"]={"code":"4122","region":"Victoria","city":"Logan","latitude":-36.61667,"longitude":143.46667}}(window,'GeoPostal','AU');

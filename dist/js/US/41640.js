@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41640"]={"code":"41640","region":"Kentucky","city":"Hueysville","latitude":37.50678,"longitude":-82.8345}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41189"]={"code":"41189","region":"Kentucky","city":"Tollesboro","latitude":38.559444,"longitude":-83.576111}}(window,'GeoPostal','US');

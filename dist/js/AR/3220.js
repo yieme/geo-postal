@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3220"]={"code":"3220","region":"Corrientes","city":"Monte Caseros","latitude":-30.25359,"longitude":-57.63626}}(window,'GeoPostal','AR');

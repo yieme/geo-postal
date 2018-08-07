@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41571"]={"code":"41571","region":"Kentucky","city":"Varney","latitude":37.610212,"longitude":-82.42055}}(window,'GeoPostal','US');

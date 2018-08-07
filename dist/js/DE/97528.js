@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97528"]={"code":"97528","region":"Bayern","city":"Sternberg im Grabfeld","latitude":50.26584,"longitude":10.57742}}(window,'GeoPostal','DE');

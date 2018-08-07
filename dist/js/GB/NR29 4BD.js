@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 4BD"]={"code":"NR29 4BD","region":"England","city":"Winterton-on-Sea","latitude":52.71547,"longitude":1.69099}}(window,'GeoPostal','GB');

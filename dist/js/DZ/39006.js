@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39006"]={"code":"39006","region":"El Oued","city":"El Oued","latitude":33.35608,"longitude":6.86319}}(window,'GeoPostal','DZ');

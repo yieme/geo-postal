@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71082"]={"code":"71082","region":"Louisiana","city":"Vivian","latitude":32.863005,"longitude":-93.985906}}(window,'GeoPostal','US');

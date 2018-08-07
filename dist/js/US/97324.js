@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97324"]={"code":"97324","region":"OR","city":"Alsea","latitude":44.3691,"longitude":-123.6089}}(window,'GeoPostal','US');

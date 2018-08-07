@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03053"]={"code":"03053","region":"New Hampshire","city":"Londonderry","latitude":42.866934,"longitude":-71.377663}}(window,'GeoPostal','US');

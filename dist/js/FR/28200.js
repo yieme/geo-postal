@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28200"]={"code":"28200","region":"Centre-Val de Loire","city":"Marboue","latitude":48.11376,"longitude":1.3321}}(window,'GeoPostal','FR');

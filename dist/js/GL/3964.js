@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3964"]={"code":"3964","region":"Avannaata Kommunia","city":"Uummannaq","latitude":70.67472,"longitude":-52.12639}}(window,'GeoPostal','GL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60541"]={"code":"60541","region":"Illinois","city":"Newark","latitude":41.51772,"longitude":-88.51872}}(window,'GeoPostal','US');

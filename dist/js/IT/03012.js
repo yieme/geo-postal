@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03012"]={"code":"03012","region":"Lazio","city":"Anagni","latitude":41.74472,"longitude":13.15269}}(window,'GeoPostal','IT');

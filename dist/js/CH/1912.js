@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1912"]={"code":"1912","region":"Valais","city":"Leytron","latitude":46.1866,"longitude":7.2078}}(window,'GeoPostal','CH');

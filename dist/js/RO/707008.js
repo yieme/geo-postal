@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707008"]={"code":"707008","region":"Iasi","city":"Alexandru Ioan Cuza","latitude":47.13333,"longitude":26.85}}(window,'GeoPostal','RO');

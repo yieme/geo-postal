@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6223"]={"code":"6223","region":"Cordoba","city":"Buchardo","latitude":-34.72263,"longitude":-63.5092}}(window,'GeoPostal','AR');

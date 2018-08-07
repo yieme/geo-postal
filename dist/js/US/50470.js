@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50470"]={"code":"50470","region":"Iowa","city":"Rowan","latitude":42.74028,"longitude":-93.55111}}(window,'GeoPostal','US');

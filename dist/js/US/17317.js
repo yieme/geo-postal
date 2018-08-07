@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17317"]={"code":"17317","region":"PA","city":"East Prospect","latitude":39.9701,"longitude":-76.5217}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 2N0"]={"code":"N0M 2N0","region":"Ontario","city":"Thedford","latitude":43.15008,"longitude":-81.84979}}(window,'GeoPostal','CA');

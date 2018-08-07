@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["359300"]={"code":"359300","region":"Kalmykiya, Respublika","city":"Tsagan Aman","latitude":47.5639,"longitude":46.7218}}(window,'GeoPostal','RU');

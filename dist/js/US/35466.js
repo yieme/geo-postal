@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35466"]={"code":"35466","region":"Alabama","city":"Gordo","latitude":33.398087,"longitude":-87.892759}}(window,'GeoPostal','US');

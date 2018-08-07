@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22183"]={"code":"22183","region":"VA","city":"Vienna","latitude":38.8318,"longitude":-77.2888}}(window,'GeoPostal','US');

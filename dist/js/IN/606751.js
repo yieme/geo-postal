@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606751"]={"code":"606751","region":"Tamil Nadu","city":"Polur","latitude":12.5,"longitude":79.13333}}(window,'GeoPostal','IN');

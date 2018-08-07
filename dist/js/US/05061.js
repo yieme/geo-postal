@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05061"]={"code":"05061","region":"Vermont","city":"Randolph Center","latitude":43.930763,"longitude":-72.589504}}(window,'GeoPostal','US');

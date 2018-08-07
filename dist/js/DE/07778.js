@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07778"]={"code":"07778","region":"Thuringen","city":"Tautenburg","latitude":51,"longitude":11.71667}}(window,'GeoPostal','DE');

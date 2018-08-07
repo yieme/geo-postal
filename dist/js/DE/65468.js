@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65468"]={"code":"65468","region":"Hessen","city":"Trebur","latitude":49.93111,"longitude":8.41611}}(window,'GeoPostal','DE');

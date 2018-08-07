@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH21 1LU"]={"code":"PH21 1LU","region":"Scotland","city":"Balavil","latitude":57.1,"longitude":-4}}(window,'GeoPostal','GB');

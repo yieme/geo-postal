@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52312"]={"code":"52312","region":"IA","city":"Morley","latitude":42.006,"longitude":-91.2459}}(window,'GeoPostal','US');

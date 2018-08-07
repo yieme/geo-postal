@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00677"]={"code":"00677","region":"Rincon","city":"Rincon","latitude":18.34023,"longitude":-67.2499}}(window,'GeoPostal','PR');

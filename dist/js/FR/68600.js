@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68600"]={"code":"68600","region":"Grand-Est","city":"Volgelsheim","latitude":48.0161,"longitude":7.5483}}(window,'GeoPostal','FR');

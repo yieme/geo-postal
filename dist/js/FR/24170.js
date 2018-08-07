@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24170"]={"code":"24170","region":"Nouvelle-Aquitaine","city":"Belves","latitude":44.77632,"longitude":1.00588}}(window,'GeoPostal','FR');

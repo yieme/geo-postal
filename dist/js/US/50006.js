@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50006"]={"code":"50006","region":"Iowa","city":"Alden","latitude":42.51694,"longitude":-93.37583}}(window,'GeoPostal','US');

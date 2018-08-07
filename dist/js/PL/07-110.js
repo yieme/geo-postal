@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-110"]={"code":"07-110","region":"Mazowieckie","city":"Grebkow","latitude":52.26931,"longitude":21.90974}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75720"]={"code":"75720","region":"Khersonska oblast","city":"Krasne","latitude":46.13088,"longitude":32.7691}}(window,'GeoPostal','UA');

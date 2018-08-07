@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-171"]={"code":"59-171","region":"Dolnoslaskie","city":"Przemkow","latitude":51.5253,"longitude":15.79441}}(window,'GeoPostal','PL');

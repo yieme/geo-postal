@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70356"]={"code":"70356","region":"LA","city":"Gibson","latitude":29.6625,"longitude":-90.9776}}(window,'GeoPostal','US');

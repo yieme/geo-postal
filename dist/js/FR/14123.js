@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14123"]={"code":"14123","region":"Normandie","city":"Ifs","latitude":49.14,"longitude":-0.34899}}(window,'GeoPostal','FR');

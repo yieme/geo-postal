@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04889"]={"code":"04889","region":"Sachsen","city":"Schildau","latitude":51.45721,"longitude":12.93024}}(window,'GeoPostal','DE');

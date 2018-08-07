@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64693"]={"code":"64693","region":"Sodermanlands lan","city":"Gnesta","latitude":59.04751,"longitude":17.31191}}(window,'GeoPostal','SE');

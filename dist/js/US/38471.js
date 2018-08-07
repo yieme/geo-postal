@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38471"]={"code":"38471","region":"Tennessee","city":"Lutts","latitude":35.119888,"longitude":-87.905388}}(window,'GeoPostal','US');

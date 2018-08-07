@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 8EG"]={"code":"DH8 8EG","region":"England","city":"Moorside","latitude":53.56667,"longitude":-2.06667}}(window,'GeoPostal','GB');

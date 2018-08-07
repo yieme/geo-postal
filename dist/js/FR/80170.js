@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80170"]={"code":"80170","region":"Hauts-de-France","city":"Rosieres-en-Santerre","latitude":49.81434,"longitude":2.70095}}(window,'GeoPostal','FR');

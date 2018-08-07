@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG3 4BA"]={"code":"DG3 4BA","region":"Scotland","city":"Penpont","latitude":55.23333,"longitude":-3.81667}}(window,'GeoPostal','GB');

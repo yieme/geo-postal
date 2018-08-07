@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62908"]={"code":"62908","region":"Hauts-de-France","city":"Calais","latitude":50.9581,"longitude":1.85205}}(window,'GeoPostal','FR');

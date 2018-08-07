@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94595"]={"code":"94595","region":"California","city":"Walnut Creek","latitude":37.90631,"longitude":-122.06496}}(window,'GeoPostal','US');

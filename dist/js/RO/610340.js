@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["610340"]={"code":"610340","region":"Neamt","city":"Piatra Neamt","latitude":46.91667,"longitude":26.33333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19047"]={"code":"19047","region":"Pennsylvania","city":"Middletown","latitude":40.16429,"longitude":-74.942288}}(window,'GeoPostal','US');

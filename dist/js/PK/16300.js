@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16300"]={"code":"16300","region":"Gilgit-Baltistan","city":"Skardu","latitude":35.28851,"longitude":75.63334}}(window,'GeoPostal','PK');

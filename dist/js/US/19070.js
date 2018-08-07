@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19070"]={"code":"19070","region":"Pennsylvania","city":"Morton","latitude":39.90822,"longitude":-75.32364}}(window,'GeoPostal','US');

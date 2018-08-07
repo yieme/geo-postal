@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11692"]={"code":"11692","region":"NY","city":"Arverne","latitude":40.5923,"longitude":-73.7933}}(window,'GeoPostal','US');

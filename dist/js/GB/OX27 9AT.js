@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX27 9AT"]={"code":"OX27 9AT","region":"England","city":"Stratton Audley","latitude":51.93059,"longitude":-1.11722}}(window,'GeoPostal','GB');

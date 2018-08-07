@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5614"]={"code":"5614","region":"Batangas","city":"Kinalaglagan","latitude":14,"longitude":121.1}}(window,'GeoPostal','PH');

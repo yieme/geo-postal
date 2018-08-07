@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["736 01"]={"code":"736 01","region":"Moravskoslezsky kraj","city":"Havirov","latitude":49.77984,"longitude":18.43688}}(window,'GeoPostal','CZ');

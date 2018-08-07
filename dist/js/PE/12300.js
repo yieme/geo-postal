@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12300"]={"code":"12300","region":"Junin","city":"Mazamari","latitude":-11.32583,"longitude":-74.53083}}(window,'GeoPostal','PE');

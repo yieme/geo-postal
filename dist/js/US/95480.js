@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95480"]={"code":"95480","region":"CA","city":"Stewarts Point","latitude":38.7082,"longitude":-123.3478}}(window,'GeoPostal','US');

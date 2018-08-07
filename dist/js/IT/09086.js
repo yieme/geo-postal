@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09086"]={"code":"09086","region":"Sardegna","city":"Samugheo","latitude":39.94889,"longitude":8.94111}}(window,'GeoPostal','IT');

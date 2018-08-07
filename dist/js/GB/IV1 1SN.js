@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV1 1SN"]={"code":"IV1 1SN","region":"Scotland","city":"Inverness","latitude":57.47908,"longitude":-4.22398}}(window,'GeoPostal','GB');

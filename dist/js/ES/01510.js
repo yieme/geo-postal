@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01510"]={"code":"01510","region":"Pais Vasco","city":"Vitoria-Gasteiz","latitude":42.85,"longitude":-2.66667}}(window,'GeoPostal','ES');

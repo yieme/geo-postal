@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435300"]={"code":"435300","region":"Maramures","city":"Cavnic","latitude":47.66667,"longitude":23.86667}}(window,'GeoPostal','RO');

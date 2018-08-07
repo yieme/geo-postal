@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07423"]={"code":"07423","region":"New Jersey","city":"Ho-Ho-Kus","latitude":40.999619,"longitude":-74.101687}}(window,'GeoPostal','US');

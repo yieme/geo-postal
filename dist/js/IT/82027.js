@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82027"]={"code":"82027","region":"Campania","city":"Casalduni","latitude":41.26142,"longitude":14.69504}}(window,'GeoPostal','IT');

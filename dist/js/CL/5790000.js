@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5790000"]={"code":"5790000","region":"Los Lagos","city":"Puerto Quellon","latitude":-43.11667,"longitude":-73.61667}}(window,'GeoPostal','CL');

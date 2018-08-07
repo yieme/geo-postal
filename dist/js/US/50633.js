@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50633"]={"code":"50633","region":"Iowa","city":"Geneva","latitude":42.676573,"longitude":-93.131334}}(window,'GeoPostal','US');

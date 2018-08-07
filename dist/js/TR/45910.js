@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45910"]={"code":"45910","region":"Diyarbakir","city":"Bismil","latitude":37.84861,"longitude":40.66583}}(window,'GeoPostal','TR');

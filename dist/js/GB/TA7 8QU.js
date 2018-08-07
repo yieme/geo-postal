@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 8QU"]={"code":"TA7 8QU","region":"England","city":"Chedzoy","latitude":51.13306,"longitude":-2.94556}}(window,'GeoPostal','GB');

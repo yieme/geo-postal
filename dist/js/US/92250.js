@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92250"]={"code":"92250","region":"CA","city":"Holtville","latitude":32.8104,"longitude":-115.3775}}(window,'GeoPostal','US');

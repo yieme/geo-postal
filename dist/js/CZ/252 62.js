@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 62"]={"code":"252 62","region":"Stredocesky kraj","city":"Horomerice","latitude":50.13173,"longitude":14.33879}}(window,'GeoPostal','CZ');

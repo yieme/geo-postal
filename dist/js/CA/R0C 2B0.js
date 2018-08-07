@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 2B0"]={"code":"R0C 2B0","region":"Manitoba","city":"Sans Souci","latitude":50.42722,"longitude":-96.94874}}(window,'GeoPostal','CA');

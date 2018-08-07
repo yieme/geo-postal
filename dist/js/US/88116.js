@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88116"]={"code":"88116","region":"NM","city":"Elida","latitude":33.9405,"longitude":-103.6323}}(window,'GeoPostal','US');

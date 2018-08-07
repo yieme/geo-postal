@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76049"]={"code":"76049","region":"Texas","city":"Afton","latitude":32.449537,"longitude":-97.735751}}(window,'GeoPostal','US');

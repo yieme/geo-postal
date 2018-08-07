@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08006"]={"code":"08006","region":"NJ","city":"Barnegat Light","latitude":39.7512,"longitude":-74.1146}}(window,'GeoPostal','US');

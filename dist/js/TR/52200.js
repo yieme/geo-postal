@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52200"]={"code":"52200","region":"Konya","city":"Eregli","latitude":37.51333,"longitude":34.04672}}(window,'GeoPostal','TR');

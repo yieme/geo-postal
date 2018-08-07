@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4205"]={"code":"4205","region":"Batangas","city":"Mulauin","latitude":13.86667,"longitude":121.01667}}(window,'GeoPostal','PH');

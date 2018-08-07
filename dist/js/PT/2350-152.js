@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2350-152"]={"code":"2350-152","region":"Santarem","city":"Entroncamento","latitude":39.46667,"longitude":-8.46667}}(window,'GeoPostal','PT');

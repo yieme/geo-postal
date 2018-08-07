@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12596"]={"code":"12596","region":"Valenciana, Comunidad","city":"Torreblanca","latitude":40.22033,"longitude":0.1965}}(window,'GeoPostal','ES');

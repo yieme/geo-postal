@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357303"]={"code":"357303","region":"Stavropol'skiy kray","city":"Novopavlovsk","latitude":43.96222,"longitude":43.63417}}(window,'GeoPostal','RU');

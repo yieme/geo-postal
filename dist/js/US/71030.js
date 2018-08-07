@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71030"]={"code":"71030","region":"LA","city":"Gloster","latitude":32.1858,"longitude":-93.801}}(window,'GeoPostal','US');

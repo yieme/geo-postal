@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15293"]={"code":"15293","region":"Galicia","city":"Carnota","latitude":42.8233,"longitude":-9.08913}}(window,'GeoPostal','ES');

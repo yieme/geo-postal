@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29080"]={"code":"29080","region":"SC","city":"Lynchburg","latitude":34.0526,"longitude":-80.0988}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48324"]={"code":"48324","region":"Nordrhein-Westfalen","city":"Sendenhorst","latitude":51.84303,"longitude":7.82996}}(window,'GeoPostal','DE');

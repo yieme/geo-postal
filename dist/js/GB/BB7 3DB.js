@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 3DB"]={"code":"BB7 3DB","region":"England","city":"Bashall Eaves","latitude":53.88544,"longitude":-2.46382}}(window,'GeoPostal','GB');

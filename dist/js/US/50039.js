@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50039"]={"code":"50039","region":"IA","city":"Bouton","latitude":41.8284,"longitude":-93.9963}}(window,'GeoPostal','US');

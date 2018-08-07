@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["229419"]={"code":"229419","region":"Uttar Pradesh","city":"Bharwari","latitude":25.55,"longitude":81.5}}(window,'GeoPostal','IN');

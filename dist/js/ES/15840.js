@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15840"]={"code":"15840","region":"Galicia","city":"Santa Comba","latitude":43.03306,"longitude":-8.80925}}(window,'GeoPostal','ES');

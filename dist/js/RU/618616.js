@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618616"]={"code":"618616","region":"Permskiy kray","city":"Kerchevskiy","latitude":59.94596,"longitude":56.28837}}(window,'GeoPostal','RU');

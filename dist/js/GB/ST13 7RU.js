@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST13 7RU"]={"code":"ST13 7RU","region":"England","city":"Onecote","latitude":53.09318,"longitude":-1.92733}}(window,'GeoPostal','GB');

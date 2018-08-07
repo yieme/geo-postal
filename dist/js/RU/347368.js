@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347368"]={"code":"347368","region":"Rostovskaya oblast'","city":"Volgodonsk","latitude":47.51361,"longitude":42.15139}}(window,'GeoPostal','RU');

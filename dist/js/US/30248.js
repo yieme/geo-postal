@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30248"]={"code":"30248","region":"Georgia","city":"Locust Grove","latitude":33.357524,"longitude":-84.10557}}(window,'GeoPostal','US');

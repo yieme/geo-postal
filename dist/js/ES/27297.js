@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27297"]={"code":"27297","region":"Galicia","city":"Lugo","latitude":43,"longitude":-7.56667}}(window,'GeoPostal','ES');

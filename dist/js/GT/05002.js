@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05002"]={"code":"05002","region":"Escuintla","city":"Santa Lucia Cotzumalguapa","latitude":14.33333,"longitude":-91.01667}}(window,'GeoPostal','GT');

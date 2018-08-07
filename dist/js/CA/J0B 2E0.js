@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2E0"]={"code":"J0B 2E0","region":"Quebec","city":"Notre-Dame-des-Bois","latitude":45.40009,"longitude":-71.06574}}(window,'GeoPostal','CA');

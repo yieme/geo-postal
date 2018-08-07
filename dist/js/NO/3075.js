@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3075"]={"code":"3075","region":"Vestfold","city":"Berger","latitude":59.545,"longitude":10.37139}}(window,'GeoPostal','NO');

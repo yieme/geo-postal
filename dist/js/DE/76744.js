@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76744"]={"code":"76744","region":"Rheinland-Pfalz","city":"Maximiliansau","latitude":49.03374,"longitude":8.28908}}(window,'GeoPostal','DE');

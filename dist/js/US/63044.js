@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63044"]={"code":"63044","region":"Missouri","city":"Bridgeton","latitude":38.767,"longitude":-90.41151}}(window,'GeoPostal','US');

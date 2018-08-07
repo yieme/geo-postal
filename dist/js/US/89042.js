@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89042"]={"code":"89042","region":"Nevada","city":"Panaca","latitude":37.79111,"longitude":-114.38889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4710"]={"code":"4710","region":"Kwazulu-Natal","city":"Kokstad","latitude":-30.54723,"longitude":29.42412}}(window,'GeoPostal','ZA');

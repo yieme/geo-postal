@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX16 4TJ"]={"code":"OX16 4TJ","region":"England","city":"Banbury","latitude":52.0602,"longitude":-1.34029}}(window,'GeoPostal','GB');

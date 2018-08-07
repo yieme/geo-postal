@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26374"]={"code":"26374","region":"WV","city":"Independence","latitude":39.4464,"longitude":-79.8822}}(window,'GeoPostal','US');

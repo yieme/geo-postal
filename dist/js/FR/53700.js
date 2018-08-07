@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53700"]={"code":"53700","region":"Pays-de-la-Loire","city":"Villaines-la-Juhel","latitude":48.34416,"longitude":-0.27734}}(window,'GeoPostal','FR');

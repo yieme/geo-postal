@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28538"]={"code":"28538","region":"North Carolina","city":"Hookerton","latitude":35.42758,"longitude":-77.54883}}(window,'GeoPostal','US');

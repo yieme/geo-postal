@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84108"]={"code":"84108","region":"Utah","city":"Salt Lake City","latitude":40.741156,"longitude":-111.811003}}(window,'GeoPostal','US');

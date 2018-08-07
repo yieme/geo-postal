@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14546"]={"code":"14546","region":"Andalucia","city":"Santaella","latitude":37.56294,"longitude":-4.84362}}(window,'GeoPostal','ES');

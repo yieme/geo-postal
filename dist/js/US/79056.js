@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79056"]={"code":"79056","region":"TX","city":"Lipscomb","latitude":36.223,"longitude":-100.2702}}(window,'GeoPostal','US');

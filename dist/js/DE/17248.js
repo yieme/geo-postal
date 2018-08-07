@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17248"]={"code":"17248","region":"Mecklenburg-Vorpommern","city":"Rechlin","latitude":53.33549,"longitude":12.72543}}(window,'GeoPostal','DE');

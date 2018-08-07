@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141707"]={"code":"141707","region":"Moskovskaya oblast'","city":"Dolgoprudnyy","latitude":55.90411,"longitude":37.56064}}(window,'GeoPostal','RU');

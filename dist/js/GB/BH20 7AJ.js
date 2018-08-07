@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 7AJ"]={"code":"BH20 7AJ","region":"England","city":"Sandford","latitude":50.70847,"longitude":-2.09702}}(window,'GeoPostal','GB');

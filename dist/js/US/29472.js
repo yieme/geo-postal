@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29472"]={"code":"29472","region":"SC","city":"Ridgeville","latitude":33.108,"longitude":-80.3086}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82350"]={"code":"82350","region":"Occitanie","city":"Albias","latitude":44.09049,"longitude":1.44821}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0X0"]={"code":"T0M 0X0","region":"Alberta","city":"Eckville","latitude":52.35011,"longitude":-114.36872}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39061"]={"code":"39061","region":"MS","city":"Delta City","latitude":33.074,"longitude":-90.7951}}(window,'GeoPostal','US');

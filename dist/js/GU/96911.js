@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96911"]={"code":"96911","region":"Mangilao Municipality","city":"Mangilao Village","latitude":13.44761,"longitude":144.80109}}(window,'GeoPostal','GU');

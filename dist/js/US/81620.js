@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81620"]={"code":"81620","region":"Colorado","city":"Avon","latitude":39.63137,"longitude":-106.52225}}(window,'GeoPostal','US');

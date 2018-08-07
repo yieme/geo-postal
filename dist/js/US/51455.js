@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51455"]={"code":"51455","region":"Iowa","city":"Manning","latitude":41.90915,"longitude":-95.06499}}(window,'GeoPostal','US');

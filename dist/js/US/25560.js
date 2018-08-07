@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25560"]={"code":"25560","region":"West Virginia","city":"Scott Depot","latitude":38.45116,"longitude":-81.902934}}(window,'GeoPostal','US');

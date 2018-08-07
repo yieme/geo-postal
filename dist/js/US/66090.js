@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66090"]={"code":"66090","region":"Kansas","city":"Wathena","latitude":39.763658,"longitude":-94.949298}}(window,'GeoPostal','US');

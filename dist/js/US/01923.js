@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01923"]={"code":"01923","region":"Massachusetts","city":"Danvers","latitude":42.569397,"longitude":-70.945475}}(window,'GeoPostal','US');

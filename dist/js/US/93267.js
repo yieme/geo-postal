@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93267"]={"code":"93267","region":"CA","city":"Strathmore","latitude":36.1472,"longitude":-119.0792}}(window,'GeoPostal','US');

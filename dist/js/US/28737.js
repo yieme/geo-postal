@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28737"]={"code":"28737","region":"North Carolina","city":"Marion","latitude":35.68401,"longitude":-82.00927}}(window,'GeoPostal','US');

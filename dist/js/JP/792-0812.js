@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["792-0812"]={"code":"792-0812","region":"Ehime","city":"Niihama","latitude":33.967,"longitude":133.283}}(window,'GeoPostal','JP');

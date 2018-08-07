@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17312"]={"code":"17312","region":"PA","city":"Craley","latitude":39.9467,"longitude":-76.5066}}(window,'GeoPostal','US');

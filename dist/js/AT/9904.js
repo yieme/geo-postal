@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9904"]={"code":"9904","region":"Tirol","city":"Thurn","latitude":46.85056,"longitude":12.76861}}(window,'GeoPostal','AT');

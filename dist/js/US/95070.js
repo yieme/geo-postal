@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95070"]={"code":"95070","region":"California","city":"Saratoga","latitude":37.26383,"longitude":-122.02301}}(window,'GeoPostal','US');

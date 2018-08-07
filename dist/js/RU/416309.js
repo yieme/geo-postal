@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416309"]={"code":"416309","region":"Astrakhanskaya oblast'","city":"Volgo-Kaspiyskiy","latitude":46.20306,"longitude":47.91869}}(window,'GeoPostal','RU');

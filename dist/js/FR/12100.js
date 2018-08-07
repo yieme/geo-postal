@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12100"]={"code":"12100","region":"Occitanie","city":"Creissels","latitude":44.08588,"longitude":3.06071}}(window,'GeoPostal','FR');

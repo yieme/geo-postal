@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86165-000"]={"code":"86165-000","region":"Parana","city":"Florestopolis","latitude":-22.86333,"longitude":-51.38722}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78016"]={"code":"78016","region":"Texas","city":"Devine","latitude":29.145469,"longitude":-98.908095}}(window,'GeoPostal','US');

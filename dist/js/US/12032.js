@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12032"]={"code":"12032","region":"NY","city":"Caroga Lake","latitude":43.1922,"longitude":-74.5169}}(window,'GeoPostal','US');

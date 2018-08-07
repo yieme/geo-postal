@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 0L0"]={"code":"S0L 0L0","region":"Saskatchewan","city":"Conquest","latitude":51.53338,"longitude":-107.23459}}(window,'GeoPostal','CA');

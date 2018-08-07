@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95380-000"]={"code":"95380-000","region":"Rio Grande do Sul","city":"Estrela","latitude":-28.06111,"longitude":-50.93833}}(window,'GeoPostal','BR');

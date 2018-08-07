@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65066"]={"code":"65066","region":"Missouri","city":"Owensville","latitude":38.3456,"longitude":-91.50155}}(window,'GeoPostal','US');

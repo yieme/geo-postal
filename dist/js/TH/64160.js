@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64160"]={"code":"64160","region":"Sukhothai","city":"Khiri Mat","latitude":16.83333,"longitude":99.8}}(window,'GeoPostal','TH');

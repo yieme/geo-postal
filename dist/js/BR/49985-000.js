@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49985-000"]={"code":"49985-000","region":"Alagoas","city":"Penedo","latitude":-10.29028,"longitude":-36.58639}}(window,'GeoPostal','BR');

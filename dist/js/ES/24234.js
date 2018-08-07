@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24234"]={"code":"24234","region":"Castilla y Leon","city":"Laguna de Negrillos","latitude":42.23889,"longitude":-5.66066}}(window,'GeoPostal','ES');

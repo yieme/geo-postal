@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457230"]={"code":"457230","region":"Salaj","city":"Marca","latitude":47.21667,"longitude":22.56667}}(window,'GeoPostal','RO');

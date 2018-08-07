@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["485773"]={"code":"485773","region":"Madhya Pradesh","city":"Murwara","latitude":23.85,"longitude":80.4}}(window,'GeoPostal','IN');

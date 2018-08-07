@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38632"]={"code":"38632","region":"Mississippi","city":"Hernando","latitude":34.812048,"longitude":-90.026959}}(window,'GeoPostal','US');

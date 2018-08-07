@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1A 3Z9"]={"code":"L1A 3Z9","region":"Ontario","city":"Port Hope","latitude":43.948834,"longitude":-78.293003}}(window,'GeoPostal','CA');

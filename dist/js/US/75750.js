@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75750"]={"code":"75750","region":"TX","city":"Arp","latitude":32.2418,"longitude":-95.0639}}(window,'GeoPostal','US');

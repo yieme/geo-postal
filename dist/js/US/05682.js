@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05682"]={"code":"05682","region":"Vermont","city":"Worcester","latitude":44.412396,"longitude":-72.573576}}(window,'GeoPostal','US');

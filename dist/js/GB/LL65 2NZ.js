@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 2NZ"]={"code":"LL65 2NZ","region":"Wales","city":"Rhoscolyn","latitude":53.25014,"longitude":-4.59793}}(window,'GeoPostal','GB');

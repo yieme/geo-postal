@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45510"]={"code":"45510","region":"Castilla-La Mancha","city":"Fuensalida","latitude":40.05288,"longitude":-4.20718}}(window,'GeoPostal','ES');

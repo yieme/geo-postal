@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 2L0"]={"code":"A0G 2L0","region":"Newfoundland and Labrador","city":"Glovertown","latitude":48.68321,"longitude":-54.03141}}(window,'GeoPostal','CA');

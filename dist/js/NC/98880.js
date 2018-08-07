@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98880"]={"code":"98880","region":"Province Sud","city":"La Foa","latitude":-21.71079,"longitude":165.82764}}(window,'GeoPostal','NC');

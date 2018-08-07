@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54805"]={"code":"54805","region":"Wisconsin","city":"Almena","latitude":45.417706,"longitude":-92.03127}}(window,'GeoPostal','US');

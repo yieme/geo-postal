@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB7 4UN"]={"code":"CB7 4UN","region":"England","city":"Prickwillow","latitude":52.41686,"longitude":0.34596}}(window,'GeoPostal','GB');

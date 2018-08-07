@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34715"]={"code":"34715","region":"FL","city":"Clermont","latitude":28.6259,"longitude":-81.7306}}(window,'GeoPostal','US');

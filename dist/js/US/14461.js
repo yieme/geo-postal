@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14461"]={"code":"14461","region":"NY","city":"Gorham","latitude":42.799,"longitude":-77.1316}}(window,'GeoPostal','US');

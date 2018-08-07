@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK2 8PE"]={"code":"FK2 8PE","region":"Scotland","city":"Skinflats","latitude":56.03184,"longitude":-3.75881}}(window,'GeoPostal','GB');

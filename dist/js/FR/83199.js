@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83199"]={"code":"83199","region":"Provence-Alpes-Cote d'Azur","city":"Ollioules","latitude":43.13517,"longitude":5.848}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95728"]={"code":"95728","region":"CA","city":"Soda Springs","latitude":39.317,"longitude":-120.4259}}(window,'GeoPostal','US');

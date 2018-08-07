@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665 01"]={"code":"665 01","region":"Pardubicky kraj","city":"Rosice","latitude":49.92226,"longitude":15.95127}}(window,'GeoPostal','CZ');

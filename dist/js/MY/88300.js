@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88300"]={"code":"88300","region":"Sabah","city":"Kota Kinabalu","latitude":5.9749,"longitude":116.0724}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74552"]={"code":"74552","region":"Oklahoma","city":"Kinta","latitude":35.177383,"longitude":-95.297673}}(window,'GeoPostal','US');

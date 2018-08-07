@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4571"]={"code":"4571","region":"Queensland","city":"Kin Kin","latitude":-26.26667,"longitude":152.88333}}(window,'GeoPostal','AU');

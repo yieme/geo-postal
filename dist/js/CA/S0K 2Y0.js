@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 2Y0"]={"code":"S0K 2Y0","region":"Saskatchewan","city":"Muenster","latitude":52.20005,"longitude":-105.00109}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-800"]={"code":"26-800","region":"Mazowieckie","city":"Bialobrzegi","latitude":51.64695,"longitude":20.95041}}(window,'GeoPostal','PL');

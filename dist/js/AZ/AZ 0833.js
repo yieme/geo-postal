@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0833"]={"code":"AZ 0833","region":"Balakan","city":"Belokany","latitude":41.72583,"longitude":46.40833}}(window,'GeoPostal','AZ');

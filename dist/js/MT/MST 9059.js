@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MST 9059"]={"code":"MST 9059","region":"Mosta","city":"Mosta","latitude":35.90917,"longitude":14.42556}}(window,'GeoPostal','MT');

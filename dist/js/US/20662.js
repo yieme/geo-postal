@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20662"]={"code":"20662","region":"Maryland","city":"Nanjemoy","latitude":38.454722,"longitude":-77.216944}}(window,'GeoPostal','US');

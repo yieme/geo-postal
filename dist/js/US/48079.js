@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48079"]={"code":"48079","region":"Michigan","city":"Saint Clair","latitude":42.82087,"longitude":-82.48602}}(window,'GeoPostal','US');

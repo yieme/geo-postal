@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96255-000"]={"code":"96255-000","region":"Rio Grande do Sul","city":"Chui","latitude":-33.69111,"longitude":-53.45667}}(window,'GeoPostal','BR');

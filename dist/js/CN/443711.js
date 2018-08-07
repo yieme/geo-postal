@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443711"]={"code":"443711","region":"Hubei","city":"Gufu","latitude":31.36208,"longitude":110.72918}}(window,'GeoPostal','CN');

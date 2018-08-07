@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49740"]={"code":"49740","region":"Pays-de-la-Loire","city":"La Romagne","latitude":47.06119,"longitude":-1.02}}(window,'GeoPostal','FR');

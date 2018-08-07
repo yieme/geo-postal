@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA6 2JB"]={"code":"LA6 2JB","region":"England","city":"Leck","latitude":54.1863,"longitude":-2.54711}}(window,'GeoPostal','GB');

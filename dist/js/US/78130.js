@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78130"]={"code":"78130","region":"Texas","city":"New Braunfels","latitude":29.703,"longitude":-98.12445}}(window,'GeoPostal','US');

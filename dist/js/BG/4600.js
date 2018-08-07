@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4600"]={"code":"4600","region":"Pazardzhik","city":"Velingrad","latitude":42.02724,"longitude":23.99569}}(window,'GeoPostal','BG');

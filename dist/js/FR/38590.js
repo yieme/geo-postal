@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38590"]={"code":"38590","region":"Auvergne-Rhone-Alpes","city":"Sillans","latitude":45.34068,"longitude":5.38859}}(window,'GeoPostal','FR');

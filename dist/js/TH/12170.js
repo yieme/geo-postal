@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12170"]={"code":"12170","region":"Pathum Thani","city":"Nong Suea","latitude":14.13478,"longitude":100.82503}}(window,'GeoPostal','TH');

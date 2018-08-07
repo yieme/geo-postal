@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28444"]={"code":"28444","region":"North Carolina","city":"Harrells","latitude":34.72917,"longitude":-78.19917}}(window,'GeoPostal','US');

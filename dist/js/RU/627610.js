@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627610"]={"code":"627610","region":"Tyumenskaya oblast'","city":"Sladkovo","latitude":55.52835,"longitude":70.33854}}(window,'GeoPostal','RU');

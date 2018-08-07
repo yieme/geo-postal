@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4822"]={"code":"4822","region":"Oberosterreich","city":"Bad Goisern","latitude":47.64252,"longitude":13.61609}}(window,'GeoPostal','AT');

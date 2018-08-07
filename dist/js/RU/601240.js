@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601240"]={"code":"601240","region":"Vladimirskaya oblast'","city":"Lakinsk","latitude":56.01931,"longitude":39.94848}}(window,'GeoPostal','RU');

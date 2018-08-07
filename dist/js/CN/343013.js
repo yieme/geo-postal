@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["343013"]={"code":"343013","region":"Jiangxi","city":"Tianyu","latitude":27.1408,"longitude":115.05337}}(window,'GeoPostal','CN');

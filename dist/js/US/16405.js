@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16405"]={"code":"16405","region":"PA","city":"Columbus","latitude":41.9382,"longitude":-79.5731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7444"]={"code":"7444","region":"Burgenland","city":"Mannersdorf an der Rabnitz","latitude":47.41667,"longitude":16.51667}}(window,'GeoPostal','AT');

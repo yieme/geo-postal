@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38362"]={"code":"38362","region":"TN","city":"Oakfield","latitude":35.7242,"longitude":-88.7801}}(window,'GeoPostal','US');

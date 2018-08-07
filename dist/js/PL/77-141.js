@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-141"]={"code":"77-141","region":"Pomorskie","city":"Borzytuchom","latitude":54.20021,"longitude":17.36801}}(window,'GeoPostal','PL');

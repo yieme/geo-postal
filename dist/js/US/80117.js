@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80117"]={"code":"80117","region":"CO","city":"Kiowa","latitude":39.324,"longitude":-104.4523}}(window,'GeoPostal','US');

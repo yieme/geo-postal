@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4JT"]={"code":"DL8 4JT","region":"England","city":"West Burton","latitude":54.28333,"longitude":-1.96667}}(window,'GeoPostal','GB');

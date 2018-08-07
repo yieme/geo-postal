@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74743"]={"code":"74743","region":"Baden-Wurttemberg","city":"Bodigheim","latitude":49.47802,"longitude":9.3137}}(window,'GeoPostal','DE');

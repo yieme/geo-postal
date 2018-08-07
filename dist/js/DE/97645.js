@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97645"]={"code":"97645","region":"Bayern","city":"Ostheim vor der Rhon","latitude":50.45996,"longitude":10.23057}}(window,'GeoPostal','DE');

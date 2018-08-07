@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13041"]={"code":"13041","region":"New York","city":"Clay","latitude":43.150556,"longitude":-76.194167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656-610"]={"code":"656-610","region":"Gyeongsangnam-do","city":"Sinhyeon","latitude":34.8825,"longitude":128.62667}}(window,'GeoPostal','KR');

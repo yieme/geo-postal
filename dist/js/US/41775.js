@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41775"]={"code":"41775","region":"KY","city":"Wendover","latitude":37.1079,"longitude":-83.3563}}(window,'GeoPostal','US');

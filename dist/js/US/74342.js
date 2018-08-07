@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74342"]={"code":"74342","region":"Oklahoma","city":"Eucha","latitude":36.373916,"longitude":-94.914528}}(window,'GeoPostal','US');

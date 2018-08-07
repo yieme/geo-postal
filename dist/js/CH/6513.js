@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6513"]={"code":"6513","region":"Ticino","city":"Monte Carasso","latitude":46.18649,"longitude":8.99892}}(window,'GeoPostal','CH');

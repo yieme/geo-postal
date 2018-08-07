@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76671"]={"code":"76671","region":"TX","city":"Morgan","latitude":32.0195,"longitude":-97.5608}}(window,'GeoPostal','US');

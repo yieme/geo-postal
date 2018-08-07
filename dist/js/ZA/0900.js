@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0900"]={"code":"0900","region":"Limpopo","city":"Messina","latitude":-22.35131,"longitude":30.0396}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66291"]={"code":"66291","region":"Jawa Timur","city":"Setonokalong","latitude":-8.0934,"longitude":111.9629}}(window,'GeoPostal','ID');

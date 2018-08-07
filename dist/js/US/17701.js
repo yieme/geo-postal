@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17701"]={"code":"17701","region":"Pennsylvania","city":"Williamsport","latitude":41.24119,"longitude":-77.00108}}(window,'GeoPostal','US');

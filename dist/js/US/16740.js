@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16740"]={"code":"16740","region":"Pennsylvania","city":"Mount Jewett","latitude":41.724477,"longitude":-78.638873}}(window,'GeoPostal','US');

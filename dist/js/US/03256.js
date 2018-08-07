@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03256"]={"code":"03256","region":"NH","city":"New Hampton","latitude":43.6184,"longitude":-71.6435}}(window,'GeoPostal','US');

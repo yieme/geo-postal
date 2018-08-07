@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416352"]={"code":"416352","region":"Astrakhanskaya oblast'","city":"Oranzherei","latitude":45.84756,"longitude":47.56635}}(window,'GeoPostal','RU');

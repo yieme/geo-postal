@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06032"]={"code":"06032","region":"Connecticut","city":"Farmington","latitude":41.727718,"longitude":-72.837377}}(window,'GeoPostal','US');

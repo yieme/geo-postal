@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06039"]={"code":"06039","region":"Connecticut","city":"Lakeville","latitude":41.954207,"longitude":-73.43654}}(window,'GeoPostal','US');

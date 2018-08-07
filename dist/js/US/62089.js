@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62089"]={"code":"62089","region":"IL","city":"Taylor Springs","latitude":39.1309,"longitude":-89.492}}(window,'GeoPostal','US');

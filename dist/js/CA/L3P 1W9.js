@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3P 1W9"]={"code":"L3P 1W9","region":"Ontario","city":"Unionville","latitude":43.869,"longitude":-79.3091}}(window,'GeoPostal','CA');

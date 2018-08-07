@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN3 9SE"]={"code":"TN3 9SE","region":"England","city":"Groombridge","latitude":51.11122,"longitude":0.18576}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 1AP"]={"code":"PR3 1AP","region":"England","city":"Scorton","latitude":53.93333,"longitude":-2.76667}}(window,'GeoPostal','GB');

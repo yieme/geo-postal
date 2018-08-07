@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14427"]={"code":"14427","region":"New York","city":"Castile","latitude":42.62895,"longitude":-78.05445}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5825"]={"code":"MD-5825","region":"Telenesti","city":"Mindresti","latitude":47.50722,"longitude":28.27694}}(window,'GeoPostal','MD');

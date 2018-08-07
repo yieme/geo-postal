@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2417"]={"code":"2417","region":"Cordoba","city":"Altos de Chipion","latitude":-30.9559,"longitude":-62.33727}}(window,'GeoPostal','AR');

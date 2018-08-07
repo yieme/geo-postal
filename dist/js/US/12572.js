@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12572"]={"code":"12572","region":"New York","city":"Rhinebeck","latitude":41.92676,"longitude":-73.91264}}(window,'GeoPostal','US');

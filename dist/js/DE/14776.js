@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14776"]={"code":"14776","region":"Brandenburg","city":"Brandenburg an der Havel","latitude":52.41667,"longitude":12.55}}(window,'GeoPostal','DE');

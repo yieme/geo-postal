@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62313"]={"code":"62313","region":"IL","city":"Basco","latitude":40.3283,"longitude":-91.197}}(window,'GeoPostal','US');

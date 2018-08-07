@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8310"]={"code":"8310","region":"Nordland","city":"Kabelvag","latitude":68.21139,"longitude":14.48167}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13494"]={"code":"13494","region":"NY","city":"Woodgate","latitude":43.5249,"longitude":-75.1428}}(window,'GeoPostal','US');

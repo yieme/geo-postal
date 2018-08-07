@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76116"]={"code":"76116","region":"Normandie","city":"Blainville-Crevon","latitude":49.50395,"longitude":1.29952}}(window,'GeoPostal','FR');

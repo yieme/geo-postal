@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7302"]={"code":"7302","region":"Graubunden","city":"Landquart","latitude":46.95,"longitude":9.56667}}(window,'GeoPostal','CH');

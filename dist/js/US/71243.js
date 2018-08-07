@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71243"]={"code":"71243","region":"Louisiana","city":"Fort Necessity","latitude":32.04492,"longitude":-91.82028}}(window,'GeoPostal','US');

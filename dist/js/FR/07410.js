@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07410"]={"code":"07410","region":"Auvergne-Rhone-Alpes","city":"Saint-Felicien","latitude":45.08458,"longitude":4.62718}}(window,'GeoPostal','FR');

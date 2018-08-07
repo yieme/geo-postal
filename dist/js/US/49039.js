@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49039"]={"code":"49039","region":"MI","city":"Hagar Shores","latitude":42.2248,"longitude":-86.3723}}(window,'GeoPostal','US');

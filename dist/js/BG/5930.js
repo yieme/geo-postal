@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5930"]={"code":"5930","region":"Pleven","city":"Belene","latitude":43.65,"longitude":25.11667}}(window,'GeoPostal','BG');

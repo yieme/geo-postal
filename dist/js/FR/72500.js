@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72500"]={"code":"72500","region":"Pays-de-la-Loire","city":"Chateau-du-Loir","latitude":47.69492,"longitude":0.41851}}(window,'GeoPostal','FR');

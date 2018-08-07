@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242227"]={"code":"242227","region":"Uttar Pradesh","city":"Kaimganj","latitude":27.56667,"longitude":79.35}}(window,'GeoPostal','IN');

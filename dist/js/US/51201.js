@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51201"]={"code":"51201","region":"Iowa","city":"Sheldon","latitude":43.18109,"longitude":-95.85613}}(window,'GeoPostal','US');

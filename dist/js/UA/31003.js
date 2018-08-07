@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31003"]={"code":"31003","region":"Khmelnytska oblast","city":"Krasyliv","latitude":49.65186,"longitude":26.97252}}(window,'GeoPostal','UA');

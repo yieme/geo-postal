@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85716"]={"code":"85716","region":"Bayern","city":"Unterschleissheim","latitude":48.28038,"longitude":11.57684}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27374"]={"code":"27374","region":"Niedersachsen","city":"Jeddingen","latitude":52.97071,"longitude":9.51423}}(window,'GeoPostal','DE');

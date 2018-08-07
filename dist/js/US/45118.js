@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45118"]={"code":"45118","region":"OH","city":"Fayetteville","latitude":39.1862,"longitude":-83.9501}}(window,'GeoPostal','US');

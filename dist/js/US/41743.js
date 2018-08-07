@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41743"]={"code":"41743","region":"KY","city":"Fisty","latitude":37.3064,"longitude":-83.0904}}(window,'GeoPostal','US');

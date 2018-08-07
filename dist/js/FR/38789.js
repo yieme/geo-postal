@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38789"]={"code":"38789","region":"Auvergne-Rhone-Alpes","city":"Pont-Eveque","latitude":45.52691,"longitude":4.91432}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247450"]={"code":"247450","region":"Valcea","city":"Orlesti","latitude":44.8,"longitude":24.21667}}(window,'GeoPostal','RO');

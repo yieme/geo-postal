@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-440"]={"code":"66-440","region":"Lubuskie","city":"Skwierzyna","latitude":52.59914,"longitude":15.50652}}(window,'GeoPostal','PL');

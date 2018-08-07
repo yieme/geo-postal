@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78576"]={"code":"78576","region":"TX","city":"Penitas","latitude":26.278,"longitude":-98.4469}}(window,'GeoPostal','US');

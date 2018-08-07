@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12465"]={"code":"12465","region":"NY","city":"Pine Hill","latitude":42.1331,"longitude":-74.4802}}(window,'GeoPostal','US');

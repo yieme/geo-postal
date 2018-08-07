@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98552"]={"code":"98552","region":"Washington","city":"Humptulips","latitude":47.197577,"longitude":-123.941282}}(window,'GeoPostal','US');

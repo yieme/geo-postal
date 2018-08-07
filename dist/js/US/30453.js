@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30453"]={"code":"30453","region":"Georgia","city":"Reidsville","latitude":32.08686,"longitude":-82.1179}}(window,'GeoPostal','US');

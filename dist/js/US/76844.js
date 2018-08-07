@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76844"]={"code":"76844","region":"Texas","city":"Goldthwaite","latitude":31.44989,"longitude":-98.57088}}(window,'GeoPostal','US');

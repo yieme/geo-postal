@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97129"]={"code":"97129","region":"Guadeloupe","city":"Lamentin","latitude":16.27105,"longitude":-61.63124}}(window,'GeoPostal','GP');

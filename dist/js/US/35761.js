@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35761"]={"code":"35761","region":"AL","city":"New Market","latitude":34.9,"longitude":-86.4487}}(window,'GeoPostal','US');

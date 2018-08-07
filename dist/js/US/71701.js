@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71701"]={"code":"71701","region":"Arkansas","city":"Camden","latitude":33.5814,"longitude":-92.81934}}(window,'GeoPostal','US');

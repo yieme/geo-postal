@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03013"]={"code":"03013","region":"Sacatepequez","city":"San Miguel Duenas","latitude":14.52389,"longitude":-90.79833}}(window,'GeoPostal','GT');

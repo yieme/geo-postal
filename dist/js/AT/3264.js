@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3264"]={"code":"3264","region":"Niederosterreich","city":"Gaming","latitude":47.929,"longitude":15.08818}}(window,'GeoPostal','AT');

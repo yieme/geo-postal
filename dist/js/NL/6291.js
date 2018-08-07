@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6291"]={"code":"6291","region":"Limburg","city":"Vaals","latitude":50.77083,"longitude":6.01806}}(window,'GeoPostal','NL');

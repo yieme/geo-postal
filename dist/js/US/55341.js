@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55341"]={"code":"55341","region":"MN","city":"Hanover","latitude":45.1602,"longitude":-93.6734}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 8BP"]={"code":"DG2 8BP","region":"Scotland","city":"Lochfoot","latitude":55.04554,"longitude":-3.72625}}(window,'GeoPostal','GB');

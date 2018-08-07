@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12240"]={"code":"12240","region":"Occitanie","city":"Rieupeyroux","latitude":44.30799,"longitude":2.23819}}(window,'GeoPostal','FR');

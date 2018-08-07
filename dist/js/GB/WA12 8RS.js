@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA12 8RS"]={"code":"WA12 8RS","region":"England","city":"Wargrave","latitude":51.50068,"longitude":-0.86577}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65052"]={"code":"65052","region":"Missouri","city":"Linn Creek","latitude":38.04778,"longitude":-92.69861}}(window,'GeoPostal','US');

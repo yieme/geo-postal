@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416810"]={"code":"416810","region":"Maharashtra","city":"Kodoli","latitude":16.88333,"longitude":74.2}}(window,'GeoPostal','IN');

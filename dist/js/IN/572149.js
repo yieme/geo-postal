@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572149"]={"code":"572149","region":"Karnataka","city":"Gubbi","latitude":13.31056,"longitude":76.94444}}(window,'GeoPostal','IN');

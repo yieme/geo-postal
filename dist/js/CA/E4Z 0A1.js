@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4Z 0A1"]={"code":"E4Z 0A1","region":"New Brunswick","city":"Havelock","latitude":46.00015,"longitude":-65.31551}}(window,'GeoPostal','CA');

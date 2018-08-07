@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00742"]={"code":"00742","region":"Ceiba","city":"Ceiba","latitude":18.26412,"longitude":-65.6485}}(window,'GeoPostal','PR');

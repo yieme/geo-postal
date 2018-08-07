@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7201"]={"code":"7201","region":"Burgenland","city":"Neudorfl","latitude":47.78333,"longitude":16.28333}}(window,'GeoPostal','AT');

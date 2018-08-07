@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0B 0E0"]={"code":"X0B 0E0","region":"Nunavut","city":"Kugluktuk","latitude":67.82743,"longitude":-115.09649}}(window,'GeoPostal','CA');

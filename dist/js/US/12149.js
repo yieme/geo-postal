@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12149"]={"code":"12149","region":"NY","city":"Richmondville","latitude":42.6424,"longitude":-74.571}}(window,'GeoPostal','US');

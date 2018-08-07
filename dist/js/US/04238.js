@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04238"]={"code":"04238","region":"ME","city":"Hebron","latitude":44.2021,"longitude":-70.3754}}(window,'GeoPostal','US');

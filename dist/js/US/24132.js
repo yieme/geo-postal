@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24132"]={"code":"24132","region":"VA","city":"Parrott","latitude":37.2048,"longitude":-80.6205}}(window,'GeoPostal','US');

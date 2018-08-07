@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23923"]={"code":"23923","region":"Virginia","city":"Charlotte Court House","latitude":37.05654,"longitude":-78.63833}}(window,'GeoPostal','US');

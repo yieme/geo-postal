@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65401"]={"code":"65401","region":"Missouri","city":"Rolla","latitude":37.95143,"longitude":-91.77127}}(window,'GeoPostal','US');

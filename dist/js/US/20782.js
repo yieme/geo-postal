@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20782"]={"code":"20782","region":"Maryland","city":"Hyattsville","latitude":38.964515,"longitude":-76.963687}}(window,'GeoPostal','US');

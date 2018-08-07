@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"South Australia","city":"Whyalla","latitude":-33.03268,"longitude":137.56484}}(window,'GeoPostal','AU');

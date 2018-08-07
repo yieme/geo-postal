@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO6 4BS"]={"code":"CO6 4BS","region":"England","city":"Great Horkesley","latitude":51.93821,"longitude":0.87551}}(window,'GeoPostal','GB');

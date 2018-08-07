@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["018-0413"]={"code":"018-0413","region":"Akita","city":"Nikaho","latitude":39.383,"longitude":140.083}}(window,'GeoPostal','JP');

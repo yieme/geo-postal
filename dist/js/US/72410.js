@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72410"]={"code":"72410","region":"AR","city":"Alicia","latitude":35.9423,"longitude":-91.081}}(window,'GeoPostal','US');

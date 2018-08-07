@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12330"]={"code":"12330","region":"Occitanie","city":"Marcillac-Vallon","latitude":44.47464,"longitude":2.46454}}(window,'GeoPostal','FR');

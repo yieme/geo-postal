@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57233"]={"code":"57233","region":"South Dakota","city":"Lake Preston","latitude":44.361833,"longitude":-97.363471}}(window,'GeoPostal','US');

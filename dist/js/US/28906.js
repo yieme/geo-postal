@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28906"]={"code":"28906","region":"North Carolina","city":"Murphy","latitude":35.08758,"longitude":-84.03463}}(window,'GeoPostal','US');

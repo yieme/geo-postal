@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3344"]={"code":"3344","region":"Zuid-Holland","city":"Hendrik-Ido-Ambacht","latitude":51.84417,"longitude":4.63889}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673508"]={"code":"673508","region":"Kerala","city":"Nadapuram","latitude":11.7,"longitude":75.66667}}(window,'GeoPostal','IN');

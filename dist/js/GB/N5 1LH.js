@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N5 1LH"]={"code":"N5 1LH","region":"Scotland","city":"Gillespie","latitude":54.83333,"longitude":-4.73333}}(window,'GeoPostal','GB');

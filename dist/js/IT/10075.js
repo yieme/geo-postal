@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10075"]={"code":"10075","region":"Piemonte","city":"Rivarolo Canavese","latitude":45.33115,"longitude":7.71702}}(window,'GeoPostal','IT');

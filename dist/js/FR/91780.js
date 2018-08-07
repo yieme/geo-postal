@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91780"]={"code":"91780","region":"Ile-de-France","city":"Chalo-Saint-Mars","latitude":48.42328,"longitude":2.06491}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62359"]={"code":"62359","region":"IL","city":"Paloma","latitude":40.0366,"longitude":-91.2053}}(window,'GeoPostal','US');

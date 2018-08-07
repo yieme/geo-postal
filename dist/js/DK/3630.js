@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3630"]={"code":"3630","region":"Hovedstaden","city":"Jaegerspris","latitude":55.85544,"longitude":11.96786}}(window,'GeoPostal','DK');

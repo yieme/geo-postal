@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46970"]={"code":"46970","region":"Valenciana, Comunidad","city":"Alaquas","latitude":39.45568,"longitude":-0.461}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93661"]={"code":"93661","region":"CA","city":"Santa Rita Park","latitude":37.1869,"longitude":-120.6504}}(window,'GeoPostal','US');

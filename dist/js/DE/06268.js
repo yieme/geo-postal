@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06268"]={"code":"06268","region":"Sachsen-Anhalt","city":"Ziegelroda","latitude":51.33293,"longitude":11.46629}}(window,'GeoPostal','DE');

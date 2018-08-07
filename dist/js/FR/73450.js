@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73450"]={"code":"73450","region":"Auvergne-Rhone-Alpes","city":"Valloire","latitude":45.16565,"longitude":6.42994}}(window,'GeoPostal','FR');

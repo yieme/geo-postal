@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45858"]={"code":"45858","region":"Ohio","city":"McComb","latitude":41.10755,"longitude":-83.79271}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 4A0"]={"code":"G0A 4A0","region":"Quebec","city":"Saint-Leonard-de-Portneuf","latitude":46.88335,"longitude":-71.91579}}(window,'GeoPostal','CA');

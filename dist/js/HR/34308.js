@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34308"]={"code":"34308","region":"Pozesko-slavonska zupanija","city":"Jaksic","latitude":45.35806,"longitude":17.76389}}(window,'GeoPostal','HR');

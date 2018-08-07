@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24141"]={"code":"24141","region":"Virginia","city":"Radford","latitude":37.13179,"longitude":-80.57645}}(window,'GeoPostal','US');

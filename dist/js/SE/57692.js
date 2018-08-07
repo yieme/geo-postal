@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57692"]={"code":"57692","region":"Jonkopings lan","city":"Saevsjoe","latitude":57.40327,"longitude":14.66244}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7524"]={"code":"7524","region":"Graubunden","city":"Zuoz","latitude":46.60209,"longitude":9.95885}}(window,'GeoPostal','CH');

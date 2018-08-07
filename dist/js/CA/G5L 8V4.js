@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5L 8V4"]={"code":"G5L 8V4","region":"Quebec","city":"Rimouski","latitude":48.439397,"longitude":-68.518542}}(window,'GeoPostal','CA');

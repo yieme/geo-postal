@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71270"]={"code":"71270","region":"Louisiana","city":"Ruston","latitude":32.52321,"longitude":-92.63793}}(window,'GeoPostal','US');

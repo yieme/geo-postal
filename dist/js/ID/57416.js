@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57416"]={"code":"57416","region":"Jawa Tengah","city":"Klaten","latitude":-7.70583,"longitude":110.60639}}(window,'GeoPostal','ID');

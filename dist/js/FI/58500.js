@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58500"]={"code":"58500","region":"Etela-Savo","city":"Punkaharju","latitude":61.75883,"longitude":29.38843}}(window,'GeoPostal','FI');

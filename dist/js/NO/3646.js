@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3646"]={"code":"3646","region":"Buskerud","city":"Hvittingfoss","latitude":59.48333,"longitude":10.01667}}(window,'GeoPostal','NO');

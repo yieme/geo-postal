@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81153"]={"code":"81153","region":"Bali","city":"Dajanrurung","latitude":-8.2015,"longitude":114.8899}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26500-000"]={"code":"26500-000","region":"Rio de Janeiro","city":"Nilopolis","latitude":-22.8075,"longitude":-43.41389}}(window,'GeoPostal','BR');

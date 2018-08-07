@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST5 0QY"]={"code":"ST5 0QY","region":"England","city":"Newcastle under Lyme","latitude":53,"longitude":-2.23333}}(window,'GeoPostal','GB');

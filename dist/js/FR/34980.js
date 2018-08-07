@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34980"]={"code":"34980","region":"Occitanie","city":"Montferrier-sur-Lez","latitude":43.66742,"longitude":3.85439}}(window,'GeoPostal','FR');

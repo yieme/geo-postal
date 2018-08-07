@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO12 3JB"]={"code":"CO12 3JB","region":"England","city":"Harwich","latitude":51.94194,"longitude":1.28437}}(window,'GeoPostal','GB');

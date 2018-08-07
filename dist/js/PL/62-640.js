@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-640"]={"code":"62-640","region":"Wielkopolskie","city":"Grzegorzew","latitude":52.20177,"longitude":18.73409}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01542"]={"code":"01542","region":"MA","city":"Rochdale","latitude":42.1997,"longitude":-71.9069}}(window,'GeoPostal','US');

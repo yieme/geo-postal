@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9200"]={"code":"9200","region":"Lanao del Norte","city":"Iligan City","latitude":8.25,"longitude":124.4}}(window,'GeoPostal','PH');

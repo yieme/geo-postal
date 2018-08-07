@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133309"]={"code":"133309","region":"Jilin","city":"Zhongxin","latitude":42.93,"longitude":130.48639}}(window,'GeoPostal','CN');

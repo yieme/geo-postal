@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2090-999"]={"code":"2090-999","region":"Santarem","city":"Alpiarca","latitude":39.25712,"longitude":-8.58187}}(window,'GeoPostal','PT');

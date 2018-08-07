@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67653"]={"code":"67653","region":"KS","city":"Norcatur","latitude":39.8447,"longitude":-100.2007}}(window,'GeoPostal','US');

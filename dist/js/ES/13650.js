@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13650"]={"code":"13650","region":"Castilla-La Mancha","city":"Puerto Lapice","latitude":39.3236,"longitude":-3.48148}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33938"]={"code":"33938","region":"FL","city":"Murdock","latitude":26.902,"longitude":-82}}(window,'GeoPostal','US');

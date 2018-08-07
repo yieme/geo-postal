@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4113"]={"code":"4113","region":"Queensland","city":"Eight Mile Plains","latitude":-27.58333,"longitude":153.1}}(window,'GeoPostal','AU');

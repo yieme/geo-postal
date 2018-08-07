@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51100"]={"code":"51100","region":"Toscana","city":"Pistoia","latitude":43.92125,"longitude":10.92361}}(window,'GeoPostal','IT');

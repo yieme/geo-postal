@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1001"]={"code":"1001","region":"Huila","city":"Colombia","latitude":3.37606,"longitude":-74.8015}}(window,'GeoPostal','CO');

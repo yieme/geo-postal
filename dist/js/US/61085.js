@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61085"]={"code":"61085","region":"Illinois","city":"Stockton","latitude":42.33054,"longitude":-90.04974}}(window,'GeoPostal','US');

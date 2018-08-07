@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87538"]={"code":"87538","region":"NM","city":"Ilfeld","latitude":35.4212,"longitude":-105.5589}}(window,'GeoPostal','US');

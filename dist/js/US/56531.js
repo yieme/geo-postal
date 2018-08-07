@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56531"]={"code":"56531","region":"Minnesota","city":"Elbow Lake","latitude":45.99413,"longitude":-95.97672}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55220"]={"code":"55220","region":"Punjab","city":"Chunian","latitude":30.96397,"longitude":73.98029}}(window,'GeoPostal','PK');

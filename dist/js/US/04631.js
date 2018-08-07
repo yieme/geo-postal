@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04631"]={"code":"04631","region":"Maine","city":"Eastport","latitude":44.90619,"longitude":-66.98998}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655791"]={"code":"655791","region":"Khakasiya, Respublika","city":"Sayanogorsk","latitude":53.0875,"longitude":91.39972}}(window,'GeoPostal','RU');

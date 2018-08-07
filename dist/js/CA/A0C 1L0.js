@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0C 1L0"]={"code":"A0C 1L0","region":"Newfoundland and Labrador","city":"Charlottetown","latitude":48.4332,"longitude":-54.01481}}(window,'GeoPostal','CA');

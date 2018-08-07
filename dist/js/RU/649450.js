@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649450"]={"code":"649450","region":"Altay, Respublika","city":"Ust'-Kan","latitude":50.9276,"longitude":84.761}}(window,'GeoPostal','RU');

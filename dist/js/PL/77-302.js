@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-302"]={"code":"77-302","region":"Pomorskie","city":"Czluchow","latitude":53.66722,"longitude":17.35883}}(window,'GeoPostal','PL');

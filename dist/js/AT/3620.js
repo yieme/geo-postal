@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3620"]={"code":"3620","region":"Niederosterreich","city":"Spitz","latitude":48.3656,"longitude":15.41416}}(window,'GeoPostal','AT');

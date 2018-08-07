@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7800"]={"code":"7800","region":"Midtjylland","city":"Skive","latitude":56.56667,"longitude":9.03333}}(window,'GeoPostal','DK');

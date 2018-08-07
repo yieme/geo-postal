@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13033"]={"code":"13033","region":"New York","city":"Ira","latitude":43.208333,"longitude":-76.530556}}(window,'GeoPostal','US');

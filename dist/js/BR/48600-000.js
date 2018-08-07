@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48600-000"]={"code":"48600-000","region":"Bahia","city":"Paulo Afonso","latitude":-9.40611,"longitude":-38.21472}}(window,'GeoPostal','BR');

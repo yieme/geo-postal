@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08320"]={"code":"08320","region":"Grand-Est","city":"Vireux-Molhain","latitude":50.07874,"longitude":4.72426}}(window,'GeoPostal','FR');

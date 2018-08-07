@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["460520"]={"code":"460520","region":"Orenburgskaya oblast'","city":"Nezhinka","latitude":51.7676,"longitude":55.3694}}(window,'GeoPostal','RU');

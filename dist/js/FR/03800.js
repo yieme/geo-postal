@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03800"]={"code":"03800","region":"Auvergne-Rhone-Alpes","city":"Gannat","latitude":46.10015,"longitude":3.19886}}(window,'GeoPostal','FR');

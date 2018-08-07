@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 82"]={"code":"691 82","region":"Jihomoravsky kraj","city":"Novosedly","latitude":48.83704,"longitude":16.49273}}(window,'GeoPostal','CZ');

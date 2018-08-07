@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6088"]={"code":"6088","region":"Cebu","city":"Bonbon","latitude":10.2245,"longitude":123.5573}}(window,'GeoPostal','PH');

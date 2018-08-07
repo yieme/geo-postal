@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77282"]={"code":"77282","region":"Ile-de-France","city":"Avon","latitude":48.4022,"longitude":2.72022}}(window,'GeoPostal','FR');

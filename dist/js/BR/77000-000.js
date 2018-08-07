@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77000-000"]={"code":"77000-000","region":"Tocantins","city":"Palmas","latitude":-10.21278,"longitude":-48.36028}}(window,'GeoPostal','BR');

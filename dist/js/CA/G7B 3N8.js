@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G7B 3N8"]={"code":"G7B 3N8","region":"Quebec","city":"Chicoutimi","latitude":48.41963,"longitude":-71.06369}}(window,'GeoPostal','CA');

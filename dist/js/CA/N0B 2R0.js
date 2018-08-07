@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0B 2R0"]={"code":"N0B 2R0","region":"Ontario","city":"Tavistock","latitude":43.252151,"longitude":-80.858293}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93541"]={"code":"93541","region":"California","city":"Lee Vining","latitude":37.9575,"longitude":-119.12194}}(window,'GeoPostal','US');

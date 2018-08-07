@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78645"]={"code":"78645","region":"Texas","city":"Lago Vista","latitude":30.4602,"longitude":-97.98835}}(window,'GeoPostal','US');

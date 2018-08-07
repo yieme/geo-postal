@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24471"]={"code":"24471","region":"VA","city":"Port Republic","latitude":38.3226,"longitude":-78.7886}}(window,'GeoPostal','US');

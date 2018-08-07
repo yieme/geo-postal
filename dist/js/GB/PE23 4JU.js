@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 4JU"]={"code":"PE23 4JU","region":"England","city":"Aswardby","latitude":53.21459,"longitude":0.05756}}(window,'GeoPostal','GB');

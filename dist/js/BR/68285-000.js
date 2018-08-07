@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68285-000"]={"code":"68285-000","region":"Para","city":"Terra Santa","latitude":-2.10417,"longitude":-56.48694}}(window,'GeoPostal','BR');

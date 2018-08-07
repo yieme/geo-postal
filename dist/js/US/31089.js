@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31089"]={"code":"31089","region":"GA","city":"Tennille","latitude":32.9063,"longitude":-82.84}}(window,'GeoPostal','US');

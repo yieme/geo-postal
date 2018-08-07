@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23613"]={"code":"23613","region":"Aceh","city":"Meulaboh","latitude":4.1363,"longitude":96.1285}}(window,'GeoPostal','ID');

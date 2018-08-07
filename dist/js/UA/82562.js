@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82562"]={"code":"82562","region":"Lvivska oblast","city":"Krasnoye","latitude":49.91447,"longitude":24.6134}}(window,'GeoPostal','UA');

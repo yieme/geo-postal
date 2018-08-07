@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 3530"]={"code":"AZ 3530","region":"Qazax","city":"Qazax","latitude":41.09333,"longitude":45.36611}}(window,'GeoPostal','AZ');

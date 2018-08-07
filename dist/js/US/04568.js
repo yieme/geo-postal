@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04568"]={"code":"04568","region":"ME","city":"South Bristol","latitude":43.8677,"longitude":-69.5614}}(window,'GeoPostal','US');

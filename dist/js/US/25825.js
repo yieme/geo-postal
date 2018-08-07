@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25825"]={"code":"25825","region":"WV","city":"Cool Ridge","latitude":37.6655,"longitude":-81.0933}}(window,'GeoPostal','US');

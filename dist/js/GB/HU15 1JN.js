@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU15 1JN"]={"code":"HU15 1JN","region":"England","city":"Elloughton","latitude":53.73777,"longitude":-0.56987}}(window,'GeoPostal','GB');

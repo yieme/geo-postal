@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65462"]={"code":"65462","region":"MO","city":"Edgar Springs","latitude":37.7365,"longitude":-91.8906}}(window,'GeoPostal','US');

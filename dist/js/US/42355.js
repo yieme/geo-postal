@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42355"]={"code":"42355","region":"KY","city":"Maceo","latitude":37.8436,"longitude":-86.9999}}(window,'GeoPostal','US');

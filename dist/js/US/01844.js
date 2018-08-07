@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01844"]={"code":"01844","region":"Massachusetts","city":"Methuen","latitude":42.7262,"longitude":-71.19089}}(window,'GeoPostal','US');

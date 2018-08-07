@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077152"]={"code":"077152","region":"Prahova","city":"Poenari-Burchi","latitude":44.75,"longitude":26.01667}}(window,'GeoPostal','RO');

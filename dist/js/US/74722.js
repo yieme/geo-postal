@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74722"]={"code":"74722","region":"Oklahoma","city":"Battiest","latitude":34.39332,"longitude":-94.92468}}(window,'GeoPostal','US');

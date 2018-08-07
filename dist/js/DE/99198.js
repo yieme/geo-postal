@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99198"]={"code":"99198","region":"Thuringen","city":"Vieselbach","latitude":50.99886,"longitude":11.14523}}(window,'GeoPostal','DE');

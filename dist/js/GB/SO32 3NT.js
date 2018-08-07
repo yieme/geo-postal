@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 3NT"]={"code":"SO32 3NT","region":"England","city":"Exton","latitude":50.98507,"longitude":-1.12756}}(window,'GeoPostal','GB');

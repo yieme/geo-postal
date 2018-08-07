@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83200"]={"code":"83200","region":"Souss-Massa-Draa","city":"Arazane","latitude":30.50346,"longitude":-8.60637}}(window,'GeoPostal','MA');

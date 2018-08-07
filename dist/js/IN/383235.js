@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["383235"]={"code":"383235","region":"Gujarat","city":"Rajkot","latitude":22.3,"longitude":70.78333}}(window,'GeoPostal','IN');

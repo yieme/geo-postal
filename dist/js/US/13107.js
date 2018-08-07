@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13107"]={"code":"13107","region":"New York","city":"Parish","latitude":43.405556,"longitude":-76.126111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97707"]={"code":"97707","region":"Oregon","city":"Sunriver","latitude":43.84458,"longitude":-121.50891}}(window,'GeoPostal','US');

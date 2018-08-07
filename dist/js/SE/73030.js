@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73030"]={"code":"73030","region":"Vastmanlands lan","city":"Kolsva","latitude":59.6,"longitude":15.83333}}(window,'GeoPostal','SE');

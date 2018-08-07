@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32805"]={"code":"32805","region":"Nordrhein-Westfalen","city":"Moorlage","latitude":51.87835,"longitude":8.96364}}(window,'GeoPostal','DE');

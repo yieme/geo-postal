@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81013"]={"code":"81013","region":"Occitanie","city":"Carmaux","latitude":44.05099,"longitude":2.15795}}(window,'GeoPostal','FR');

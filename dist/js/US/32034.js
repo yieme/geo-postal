@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32034"]={"code":"32034","region":"Florida","city":"Fernandina Beach","latitude":30.637768,"longitude":-81.461155}}(window,'GeoPostal','US');

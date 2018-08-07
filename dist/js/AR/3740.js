@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3740"]={"code":"3740","region":"Santiago del Estero","city":"Quimili","latitude":-27.63333,"longitude":-62.41667}}(window,'GeoPostal','AR');

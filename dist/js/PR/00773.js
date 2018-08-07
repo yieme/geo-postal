@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00773"]={"code":"00773","region":"Luquillo","city":"Luquillo","latitude":18.37245,"longitude":-65.71655}}(window,'GeoPostal','PR');

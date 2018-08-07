@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07046"]={"code":"07046","region":"New Jersey","city":"Mountain Lakes","latitude":40.88886,"longitude":-74.44428}}(window,'GeoPostal','US');

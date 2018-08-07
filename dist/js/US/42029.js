@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42029"]={"code":"42029","region":"Kentucky","city":"Calvert City","latitude":37.019366,"longitude":-88.346129}}(window,'GeoPostal','US');

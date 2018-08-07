@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44550"]={"code":"44550","region":"Aragon","city":"Alcorisa","latitude":40.8921,"longitude":-0.38143}}(window,'GeoPostal','ES');

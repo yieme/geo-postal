@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93009"]={"code":"93009","region":"California","city":"Ventura","latitude":34.267833,"longitude":-119.211966}}(window,'GeoPostal','US');

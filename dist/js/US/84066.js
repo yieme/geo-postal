@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84066"]={"code":"84066","region":"Utah","city":"Roosevelt","latitude":40.2994,"longitude":-109.98876}}(window,'GeoPostal','US');

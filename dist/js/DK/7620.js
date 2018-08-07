@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7620"]={"code":"7620","region":"Midtjylland","city":"Lemvig","latitude":56.54856,"longitude":8.31019}}(window,'GeoPostal','DK');

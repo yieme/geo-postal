@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18830"]={"code":"18830","region":"Andalucia","city":"Huescar","latitude":37.81104,"longitude":-2.54116}}(window,'GeoPostal','ES');

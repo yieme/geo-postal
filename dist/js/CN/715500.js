@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715500"]={"code":"715500","region":"Shaanxi","city":"Pucheng","latitude":34.95611,"longitude":109.58406}}(window,'GeoPostal','CN');

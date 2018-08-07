@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679100"]={"code":"679100","region":"Yunnan","city":"Tengyue","latitude":24.99492,"longitude":98.51276}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98320"]={"code":"98320","region":"Washington","city":"Brinnon","latitude":47.69199,"longitude":-122.921066}}(window,'GeoPostal','US');

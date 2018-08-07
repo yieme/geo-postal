@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49111"]={"code":"49111","region":"Sindh","city":"Shahdadkot","latitude":27.84771,"longitude":67.9055}}(window,'GeoPostal','PK');

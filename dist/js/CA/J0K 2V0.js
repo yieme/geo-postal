@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2V0"]={"code":"J0K 2V0","region":"Quebec","city":"Saint-Justin","latitude":46.25006,"longitude":-73.08244}}(window,'GeoPostal','CA');

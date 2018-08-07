@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58722"]={"code":"58722","region":"ND","city":"Burlington","latitude":48.2735,"longitude":-101.4282}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851 07"]={"code":"851 07","region":"Notio Aigaio","city":"Lardos","latitude":36.09419,"longitude":28.01565}}(window,'GeoPostal','GR');

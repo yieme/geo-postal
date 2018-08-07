@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["816104"]={"code":"816104","region":"West Bengal","city":"Pakaur","latitude":24.63333,"longitude":87.85}}(window,'GeoPostal','IN');

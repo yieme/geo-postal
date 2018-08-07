@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 7NF"]={"code":"AB21 7NF","region":"Scotland","city":"Dyce","latitude":57.20522,"longitude":-2.17676}}(window,'GeoPostal','GB');

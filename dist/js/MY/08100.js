@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08100"]={"code":"08100","region":"Kedah","city":"Bedong","latitude":5.72744,"longitude":100.50876}}(window,'GeoPostal','MY');

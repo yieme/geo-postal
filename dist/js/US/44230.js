@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44230"]={"code":"44230","region":"Ohio","city":"Doylestown","latitude":40.97005,"longitude":-81.69652}}(window,'GeoPostal','US');

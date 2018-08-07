@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9370"]={"code":"9370","region":"Boqueron","city":"Colonia Menno","latitude":-22.36667,"longitude":-59.81667}}(window,'GeoPostal','PY');

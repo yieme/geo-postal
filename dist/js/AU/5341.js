@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5341"]={"code":"5341","region":"South Australia","city":"Renmark","latitude":-34.17702,"longitude":140.74697}}(window,'GeoPostal','AU');

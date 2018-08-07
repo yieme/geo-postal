@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42430"]={"code":"42430","region":"Auvergne-Rhone-Alpes","city":"Saint-Just-en-Chevalet","latitude":45.91396,"longitude":3.8446}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 3AB"]={"code":"PO30 3AB","region":"England","city":"Arreton","latitude":50.67688,"longitude":-1.24712}}(window,'GeoPostal','GB');

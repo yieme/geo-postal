@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-603"]={"code":"87-603","region":"Kujawsko-pomorskie","city":"Wielgie","latitude":52.74076,"longitude":19.2635}}(window,'GeoPostal','PL');

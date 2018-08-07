@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02999"]={"code":"02999","region":"Sachsen","city":"Wessel","latitude":51.31495,"longitude":14.45501}}(window,'GeoPostal','DE');

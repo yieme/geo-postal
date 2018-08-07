@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31540"]={"code":"31540","region":"Occitanie","city":"Saint-Felix-Lauragais","latitude":43.44863,"longitude":1.88814}}(window,'GeoPostal','FR');

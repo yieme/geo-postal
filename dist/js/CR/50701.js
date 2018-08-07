@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50701"]={"code":"50701","region":"Guanacaste","city":"Juntas","latitude":10.2809,"longitude":-84.95951}}(window,'GeoPostal','CR');

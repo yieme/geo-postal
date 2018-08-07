@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44670"]={"code":"44670","region":"OH","city":"Robertsville","latitude":40.7647,"longitude":-81.1879}}(window,'GeoPostal','US');

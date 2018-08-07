@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56979"]={"code":"56979","region":"Bretagne","city":"Vannes","latitude":47.66667,"longitude":-2.75}}(window,'GeoPostal','FR');

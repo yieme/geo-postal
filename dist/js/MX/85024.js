@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85024"]={"code":"85024","region":"Sonora","city":"Altar","latitude":30.7,"longitude":-111.81667}}(window,'GeoPostal','MX');

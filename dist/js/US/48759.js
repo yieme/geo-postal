@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48759"]={"code":"48759","region":"Michigan","city":"Sebewaing","latitude":43.73224,"longitude":-83.45107}}(window,'GeoPostal','US');

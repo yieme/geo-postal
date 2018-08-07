@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15266"]={"code":"15266","region":"PA","city":"Duguesne Light Co","latitude":40.44,"longitude":-79.99}}(window,'GeoPostal','US');

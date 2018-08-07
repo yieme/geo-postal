@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91022"]={"code":"91022","region":"Sicilia","city":"Castelvetrano","latitude":37.68264,"longitude":12.79164}}(window,'GeoPostal','IT');

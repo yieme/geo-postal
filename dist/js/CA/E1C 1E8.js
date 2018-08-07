@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1C 1E8"]={"code":"E1C 1E8","region":"New Brunswick","city":"Moncton","latitude":46.089171,"longitude":-64.775183}}(window,'GeoPostal','CA');

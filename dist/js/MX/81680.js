@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81680"]={"code":"81680","region":"Sinaloa","city":"La Reforma","latitude":25.08333,"longitude":-108.05}}(window,'GeoPostal','MX');

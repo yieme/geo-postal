@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17966"]={"code":"17966","region":"PA","city":"Ravine","latitude":40.5745,"longitude":-76.4038}}(window,'GeoPostal','US');

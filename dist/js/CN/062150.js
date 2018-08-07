@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["062150"]={"code":"062150","region":"Hebei","city":"Botou","latitude":38.06667,"longitude":116.56667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35769"]={"code":"35769","region":"AL","city":"Scottsboro","latitude":34.618,"longitude":-86.0562}}(window,'GeoPostal','US');

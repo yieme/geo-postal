@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75076"]={"code":"75076","region":"Texas","city":"Pottsboro","latitude":33.773839,"longitude":-96.669046}}(window,'GeoPostal','US');

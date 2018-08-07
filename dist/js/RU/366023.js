@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366023"]={"code":"366023","region":"Chechenskaya Respublika","city":"Staryye Atagi","latitude":43.12028,"longitude":45.74056}}(window,'GeoPostal','RU');

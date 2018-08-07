@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74240"]={"code":"74240","region":"Auvergne-Rhone-Alpes","city":"Gaillard","latitude":46.1853,"longitude":6.20693}}(window,'GeoPostal','FR');

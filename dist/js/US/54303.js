@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54303"]={"code":"54303","region":"Wisconsin","city":"Howard","latitude":44.5436,"longitude":-88.08816}}(window,'GeoPostal','US');

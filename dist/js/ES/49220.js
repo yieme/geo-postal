@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49220"]={"code":"49220","region":"Castilla y Leon","city":"Fermoselle","latitude":41.31738,"longitude":-6.39584}}(window,'GeoPostal','ES');

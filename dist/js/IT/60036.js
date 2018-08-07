@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60036"]={"code":"60036","region":"Marche","city":"Montecarotto","latitude":43.52796,"longitude":13.06287}}(window,'GeoPostal','IT');

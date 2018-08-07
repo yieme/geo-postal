@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606055"]={"code":"606055","region":"Nizhegorodskaya oblast'","city":"Pyra","latitude":56.29527,"longitude":43.35274}}(window,'GeoPostal','RU');

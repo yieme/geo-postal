@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31100"]={"code":"31100","region":"Punjab","city":"Karor","latitude":31.22741,"longitude":70.94923}}(window,'GeoPostal','PK');

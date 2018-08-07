@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0TN"]={"code":"IP30 0TN","region":"England","city":"Great Welnetham","latitude":52.2074,"longitude":0.75007}}(window,'GeoPostal','GB');

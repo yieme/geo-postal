@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21720"]={"code":"21720","region":"MD","city":"Cavetown","latitude":39.6473,"longitude":-77.5842}}(window,'GeoPostal','US');

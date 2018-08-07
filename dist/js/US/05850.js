@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05850"]={"code":"05850","region":"Vermont","city":"Lyndon Center","latitude":44.536484,"longitude":-72.012032}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63448"]={"code":"63448","region":"MO","city":"La Grange","latitude":40.0391,"longitude":-91.5182}}(window,'GeoPostal','US');

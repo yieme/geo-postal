@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59758"]={"code":"59758","region":"Montana","city":"West Yellowstone","latitude":44.66215,"longitude":-111.10411}}(window,'GeoPostal','US');

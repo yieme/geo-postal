@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63776"]={"code":"63776","region":"Missouri","city":"McBride","latitude":37.71336,"longitude":-89.8913}}(window,'GeoPostal','US');

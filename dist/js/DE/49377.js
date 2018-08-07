@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49377"]={"code":"49377","region":"Niedersachsen","city":"Vechta","latitude":52.72632,"longitude":8.28598}}(window,'GeoPostal','DE');

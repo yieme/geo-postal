@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67031"]={"code":"67031","region":"Abruzzo","city":"Castel di Sangro","latitude":41.77373,"longitude":14.10352}}(window,'GeoPostal','IT');

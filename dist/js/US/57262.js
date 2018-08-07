@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57262"]={"code":"57262","region":"South Dakota","city":"Sisseton","latitude":45.66468,"longitude":-97.0498}}(window,'GeoPostal','US');

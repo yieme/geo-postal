@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62634"]={"code":"62634","region":"IL","city":"Elkhart","latitude":40.0132,"longitude":-89.452}}(window,'GeoPostal','US');

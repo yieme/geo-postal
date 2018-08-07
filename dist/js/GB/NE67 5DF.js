@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE67 5DF"]={"code":"NE67 5DF","region":"England","city":"Newham","latitude":55.53333,"longitude":-1.71667}}(window,'GeoPostal','GB');

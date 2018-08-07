@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682846"]={"code":"682846","region":"Khabarovskiy kray","city":"Mayskiy","latitude":48.99753,"longitude":140.20528}}(window,'GeoPostal','RU');

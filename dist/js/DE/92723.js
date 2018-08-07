@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92723"]={"code":"92723","region":"Bayern","city":"Tannesberg","latitude":49.53182,"longitude":12.32765}}(window,'GeoPostal','DE');

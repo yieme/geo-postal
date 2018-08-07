@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188472"]={"code":"188472","region":"Leningradskaya oblast'","city":"Ust'-Luga","latitude":59.66755,"longitude":28.28713}}(window,'GeoPostal','RU');

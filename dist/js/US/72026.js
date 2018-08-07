@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72026"]={"code":"72026","region":"Arkansas","city":"Casscoe","latitude":34.453847,"longitude":-91.328917}}(window,'GeoPostal','US');

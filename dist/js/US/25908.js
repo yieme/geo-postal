@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25908"]={"code":"25908","region":"WV","city":"Princewick","latitude":37.6724,"longitude":-81.2561}}(window,'GeoPostal','US');

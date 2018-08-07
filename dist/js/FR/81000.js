@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81000"]={"code":"81000","region":"Occitanie","city":"Albi","latitude":43.9298,"longitude":2.148}}(window,'GeoPostal','FR');

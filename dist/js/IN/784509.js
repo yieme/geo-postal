@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784509"]={"code":"784509","region":"Assam","city":"Udalguri","latitude":26.76667,"longitude":92.13333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68173"]={"code":"68173","region":"Jawa Timur","city":"Sidodadi","latitude":-8.3645,"longitude":113.6558}}(window,'GeoPostal','ID');

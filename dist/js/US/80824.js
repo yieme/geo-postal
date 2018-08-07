@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80824"]={"code":"80824","region":"Colorado","city":"Kirk","latitude":39.667774,"longitude":-102.418045}}(window,'GeoPostal','US');

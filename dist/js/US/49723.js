@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49723"]={"code":"49723","region":"Michigan","city":"Cross Village","latitude":45.629243,"longitude":-85.026198}}(window,'GeoPostal','US');

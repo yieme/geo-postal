@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97882"]={"code":"97882","region":"Oregon","city":"Umatilla","latitude":45.91735,"longitude":-119.34252}}(window,'GeoPostal','US');

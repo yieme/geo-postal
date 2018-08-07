@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54470"]={"code":"54470","region":"Wisconsin","city":"Rib Lake","latitude":45.32694,"longitude":-90.15583}}(window,'GeoPostal','US');

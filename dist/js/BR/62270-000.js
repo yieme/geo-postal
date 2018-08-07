@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62270-000"]={"code":"62270-000","region":"Ceara","city":"Hidrolandia","latitude":-4.40806,"longitude":-40.43778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84192"]={"code":"84192","region":"Vasternorrlands lan","city":"Ange","latitude":62.52495,"longitude":15.65904}}(window,'GeoPostal','SE');

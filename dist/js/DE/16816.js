@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16816"]={"code":"16816","region":"Brandenburg","city":"Bechlin","latitude":52.9163,"longitude":12.76508}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99113"]={"code":"99113","region":"WA","city":"Colton","latitude":46.5901,"longitude":-117.1692}}(window,'GeoPostal','US');

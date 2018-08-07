@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29370"]={"code":"29370","region":"SC","city":"Mountville","latitude":34.3408,"longitude":-81.9584}}(window,'GeoPostal','US');

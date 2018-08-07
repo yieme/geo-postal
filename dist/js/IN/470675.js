@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470675"]={"code":"470675","region":"Madhya Pradesh","city":"Damoh","latitude":23.83333,"longitude":79.45}}(window,'GeoPostal','IN');

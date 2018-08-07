@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74059"]={"code":"74059","region":"Oklahoma","city":"Perkins","latitude":35.980318,"longitude":-97.025469}}(window,'GeoPostal','US');

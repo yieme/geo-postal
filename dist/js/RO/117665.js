@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117665"]={"code":"117665","region":"Arges","city":"Stilpeni","latitude":45.05,"longitude":24.96667}}(window,'GeoPostal','RO');

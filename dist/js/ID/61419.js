@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61419"]={"code":"61419","region":"Jawa Timur","city":"Ngunut","latitude":-8.1058,"longitude":112.01591}}(window,'GeoPostal','ID');

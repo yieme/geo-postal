@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85320"]={"code":"85320","region":"Tivat","city":"Tivat","latitude":42.43639,"longitude":18.69611}}(window,'GeoPostal','ME');

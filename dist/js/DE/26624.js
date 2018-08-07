@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26624"]={"code":"26624","region":"Niedersachsen","city":"Uthwerdum","latitude":53.48084,"longitude":7.3352}}(window,'GeoPostal','DE');

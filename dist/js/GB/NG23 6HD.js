@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6HD"]={"code":"NG23 6HD","region":"England","city":"North Muskham","latitude":53.11988,"longitude":-0.81091}}(window,'GeoPostal','GB');

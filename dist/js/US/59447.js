@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59447"]={"code":"59447","region":"MT","city":"Geyser","latitude":47.2598,"longitude":-110.4839}}(window,'GeoPostal','US');

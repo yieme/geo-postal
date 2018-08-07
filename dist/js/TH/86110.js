@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86110"]={"code":"86110","region":"Chumphon","city":"Lang Suan","latitude":9.94561,"longitude":99.07847}}(window,'GeoPostal','TH');

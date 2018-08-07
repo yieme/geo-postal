@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493445"]={"code":"493445","region":"Chhattisgarh","city":"Mahasamund","latitude":21.1,"longitude":82.1}}(window,'GeoPostal','IN');

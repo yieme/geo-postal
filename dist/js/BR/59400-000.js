@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59400-000"]={"code":"59400-000","region":"Rio Grande do Norte","city":"Sao Tome","latitude":-5.9725,"longitude":-36.07528}}(window,'GeoPostal','BR');

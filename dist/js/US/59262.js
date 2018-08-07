@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59262"]={"code":"59262","region":"Montana","city":"Savage","latitude":47.45274,"longitude":-104.341893}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71323"]={"code":"71323","region":"LA","city":"Center Point","latitude":31.2482,"longitude":-92.2099}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO43 4RN"]={"code":"YO43 4RN","region":"England","city":"Arras","latitude":53.86667,"longitude":-0.6}}(window,'GeoPostal','GB');

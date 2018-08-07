@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29475"]={"code":"29475","region":"South Carolina","city":"Ruffin","latitude":33.010483,"longitude":-80.821458}}(window,'GeoPostal','US');

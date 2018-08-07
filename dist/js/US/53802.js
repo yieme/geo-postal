@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53802"]={"code":"53802","region":"Wisconsin","city":"Beetown","latitude":42.8075,"longitude":-90.86611}}(window,'GeoPostal','US');

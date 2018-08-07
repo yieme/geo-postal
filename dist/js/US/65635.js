@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65635"]={"code":"65635","region":"Missouri","city":"Dadeville","latitude":37.528429,"longitude":-93.709749}}(window,'GeoPostal','US');

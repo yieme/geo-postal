@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21388"]={"code":"21388","region":"Niedersachsen","city":"Thansen","latitude":53.13214,"longitude":10.14229}}(window,'GeoPostal','DE');

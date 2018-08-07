@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3300"]={"code":"MD-3300","region":"Stinga Nistrului, unitatea teritoriala din","city":"Tiraspol","latitude":46.84028,"longitude":29.64333}}(window,'GeoPostal','MD');

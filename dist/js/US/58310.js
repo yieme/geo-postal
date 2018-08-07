@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58310"]={"code":"58310","region":"ND","city":"Agate","latitude":48.6228,"longitude":-99.4932}}(window,'GeoPostal','US');

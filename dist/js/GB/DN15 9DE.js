@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 9DE"]={"code":"DN15 9DE","region":"England","city":"Burton upon Stather","latitude":53.64911,"longitude":-0.68453}}(window,'GeoPostal','GB');

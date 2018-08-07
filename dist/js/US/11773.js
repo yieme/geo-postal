@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11773"]={"code":"11773","region":"NY","city":"Syosset","latitude":40.8262,"longitude":-73.5021}}(window,'GeoPostal','US');

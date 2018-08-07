@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907015"]={"code":"907015","region":"Constanta","city":"Cumpana","latitude":44.11667,"longitude":28.56667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-120"]={"code":"09-120","region":"Mazowieckie","city":"Nowe Miasto","latitude":52.65691,"longitude":20.62838}}(window,'GeoPostal','PL');

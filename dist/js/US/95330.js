@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95330"]={"code":"95330","region":"California","city":"Lathrop","latitude":37.8227,"longitude":-121.27661}}(window,'GeoPostal','US');

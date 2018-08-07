@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47937"]={"code":"47937","region":"IN","city":"Crawfordsville","latitude":40.04,"longitude":-86.89}}(window,'GeoPostal','US');

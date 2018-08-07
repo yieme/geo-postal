@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54140"]={"code":"54140","region":"Phrae","city":"Rong Kwang","latitude":18.33903,"longitude":100.31736}}(window,'GeoPostal','TH');

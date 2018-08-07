@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["746407"]={"code":"746407","region":"Gansu","city":"Shifang","latitude":33.00275,"longitude":104.57145}}(window,'GeoPostal','CN');

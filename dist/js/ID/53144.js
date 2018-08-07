@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53144"]={"code":"53144","region":"Jawa Tengah","city":"Purwokerto","latitude":-7.42139,"longitude":109.23444}}(window,'GeoPostal','ID');

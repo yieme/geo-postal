@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577221"]={"code":"577221","region":"Karnataka","city":"Channagiri","latitude":14.03333,"longitude":75.93333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3930"]={"code":"3930","region":"Limburg","city":"Hamont-Achel","latitude":51.269766,"longitude":5.515422}}(window,'GeoPostal','BE');

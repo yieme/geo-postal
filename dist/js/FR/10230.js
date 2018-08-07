@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10230"]={"code":"10230","region":"Grand-Est","city":"Mailly-le-Camp","latitude":48.66526,"longitude":4.21303}}(window,'GeoPostal','FR');

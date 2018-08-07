@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62421"]={"code":"62421","region":"Etela-Pohjanmaa","city":"Kortesjarvi","latitude":63.3,"longitude":23.16667}}(window,'GeoPostal','FI');

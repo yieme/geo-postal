@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3105"]={"code":"3105","region":"Victoria","city":"Bulleen","latitude":-37.76667,"longitude":145.08333}}(window,'GeoPostal','AU');

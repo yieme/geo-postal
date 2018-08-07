@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800-156"]={"code":"8800-156","region":"Faro","city":"Laranjeiro","latitude":37.06831,"longitude":-7.7937}}(window,'GeoPostal','PT');

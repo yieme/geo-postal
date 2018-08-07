@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72930"]={"code":"72930","region":"AR","city":"Cecil","latitude":35.4252,"longitude":-94.0409}}(window,'GeoPostal','US');

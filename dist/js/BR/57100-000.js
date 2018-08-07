@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57100-000"]={"code":"57100-000","region":"Alagoas","city":"Pilar","latitude":-9.59722,"longitude":-35.95667}}(window,'GeoPostal','BR');

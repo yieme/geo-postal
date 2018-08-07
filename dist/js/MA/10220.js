@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10220"]={"code":"10220","region":"Rabat-Sale-Zemmour-Zaer","city":"Rabat","latitude":34.01325,"longitude":-6.83255}}(window,'GeoPostal','MA');

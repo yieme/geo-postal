@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51410"]={"code":"51410","region":"Primorsko-goranska zupanija","city":"Opatija","latitude":45.33917,"longitude":14.30833}}(window,'GeoPostal','HR');

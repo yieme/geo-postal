@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47578"]={"code":"47578","region":"IN","city":"Sandborn","latitude":38.8817,"longitude":-87.2025}}(window,'GeoPostal','US');

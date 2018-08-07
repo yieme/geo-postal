@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91599"]={"code":"91599","region":"Bayern","city":"Thurnhofen","latitude":49.16646,"longitude":10.39736}}(window,'GeoPostal','DE');

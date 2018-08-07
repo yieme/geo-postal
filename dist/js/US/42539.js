@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42539"]={"code":"42539","region":"Kentucky","city":"Liberty","latitude":37.31841,"longitude":-84.9394}}(window,'GeoPostal','US');

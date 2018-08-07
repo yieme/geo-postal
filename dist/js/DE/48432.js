@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48432"]={"code":"48432","region":"Nordrhein-Westfalen","city":"Rheine","latitude":52.28509,"longitude":7.44055}}(window,'GeoPostal','DE');

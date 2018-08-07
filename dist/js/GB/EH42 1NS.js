@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH42 1NS"]={"code":"EH42 1NS","region":"Scotland","city":"Belhaven","latitude":55.99899,"longitude":-2.53821}}(window,'GeoPostal','GB');

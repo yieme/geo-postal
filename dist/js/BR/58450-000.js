@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58450-000"]={"code":"58450-000","region":"Paraiba","city":"Boqueirao","latitude":-7.5,"longitude":-36.13333}}(window,'GeoPostal','BR');

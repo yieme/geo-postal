@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67722"]={"code":"67722","region":"Rheinland-Pfalz","city":"Winnweiler","latitude":49.56667,"longitude":7.85}}(window,'GeoPostal','DE');

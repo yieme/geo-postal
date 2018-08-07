@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20722"]={"code":"20722","region":"MD","city":"Brentwood","latitude":38.9407,"longitude":-76.9531}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27928"]={"code":"27928","region":"NC","city":"Creswell","latitude":35.8653,"longitude":-76.4196}}(window,'GeoPostal','US');

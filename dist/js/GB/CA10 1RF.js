@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 1RF"]={"code":"CA10 1RF","region":"England","city":"Skirwith","latitude":54.68505,"longitude":-2.59398}}(window,'GeoPostal','GB');

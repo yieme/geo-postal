@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36622"]={"code":"36622","region":"AL","city":"Merchants National Bank","latitude":30.69,"longitude":-88.04}}(window,'GeoPostal','US');

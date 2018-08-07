@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K9J 7H2"]={"code":"K9J 7H2","region":"Ontario","city":"Peterborough","latitude":44.278249,"longitude":-78.336307}}(window,'GeoPostal','CA');

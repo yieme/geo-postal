@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-215"]={"code":"27-215","region":"Swietokrzyskie","city":"Wachock","latitude":51.07391,"longitude":21.01243}}(window,'GeoPostal','PL');

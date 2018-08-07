@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188340"]={"code":"188340","region":"Leningradskaya oblast'","city":"Taytsy","latitude":59.66444,"longitude":30.11472}}(window,'GeoPostal','RU');

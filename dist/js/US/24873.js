@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24873"]={"code":"24873","region":"West Virginia","city":"Paynesville","latitude":37.360254,"longitude":-81.665857}}(window,'GeoPostal','US');

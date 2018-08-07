@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27281"]={"code":"27281","region":"North Carolina","city":"Jackson Springs","latitude":35.2203,"longitude":-79.61082}}(window,'GeoPostal','US');

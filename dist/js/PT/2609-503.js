@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2609-503"]={"code":"2609-503","region":"Lisboa","city":"Queluz","latitude":38.75657,"longitude":-9.25451}}(window,'GeoPostal','PT');

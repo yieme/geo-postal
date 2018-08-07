@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06418"]={"code":"06418","region":"Connecticut","city":"Derby","latitude":41.32065,"longitude":-73.089}}(window,'GeoPostal','US');

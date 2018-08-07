@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188520"]={"code":"188520","region":"Leningradskaya oblast'","city":"Gostilitsy","latitude":59.74832,"longitude":29.62205}}(window,'GeoPostal','RU');

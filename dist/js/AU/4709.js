@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4709"]={"code":"4709","region":"Queensland","city":"Tieri","latitude":-23.03829,"longitude":148.34463}}(window,'GeoPostal','AU');

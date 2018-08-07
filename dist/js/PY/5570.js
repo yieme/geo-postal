@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5570"]={"code":"5570","region":"Guaira","city":"Mbocayaty","latitude":-25.7,"longitude":-56.4}}(window,'GeoPostal','PY');

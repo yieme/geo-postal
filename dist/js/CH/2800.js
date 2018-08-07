@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"Jura","city":"Delemont","latitude":47.36493,"longitude":7.34453}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84010"]={"code":"84010","region":"Campania","city":"Scala","latitude":40.65665,"longitude":14.60761}}(window,'GeoPostal','IT');

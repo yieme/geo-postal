@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5550"]={"code":"5550","region":"Syddanmark","city":"Langeskov","latitude":55.35655,"longitude":10.58447}}(window,'GeoPostal','DK');

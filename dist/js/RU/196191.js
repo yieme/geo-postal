@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196191"]={"code":"196191","region":"Tul'skaya oblast'","city":"Leninskiy","latitude":54.27806,"longitude":37.45583}}(window,'GeoPostal','RU');

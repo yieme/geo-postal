@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75666"]={"code":"75666","region":"TX","city":"Laird Hill","latitude":32.3532,"longitude":-94.9055}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92401"]={"code":"92401","region":"Pohjois-Pohjanmaa","city":"Ruukki","latitude":64.66667,"longitude":25.1}}(window,'GeoPostal','FI');

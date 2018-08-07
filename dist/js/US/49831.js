@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49831"]={"code":"49831","region":"Michigan","city":"Felch","latitude":45.9972,"longitude":-87.82548}}(window,'GeoPostal','US');

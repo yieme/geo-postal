@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02640"]={"code":"02640","region":"Castilla-La Mancha","city":"Almansa","latitude":38.86917,"longitude":-1.09713}}(window,'GeoPostal','ES');

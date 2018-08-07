@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46460-000"]={"code":"46460-000","region":"Bahia","city":"Palmas de Monte Alto","latitude":-14.26722,"longitude":-43.16194}}(window,'GeoPostal','BR');

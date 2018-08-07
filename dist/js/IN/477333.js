@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["477333"]={"code":"477333","region":"Madhya Pradesh","city":"Guna","latitude":24.65,"longitude":77.31667}}(window,'GeoPostal','IN');

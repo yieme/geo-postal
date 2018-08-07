@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 1Y0"]={"code":"T0E 1Y0","region":"Alberta","city":"Roydale","latitude":53.98345,"longitude":-114.96887}}(window,'GeoPostal','CA');

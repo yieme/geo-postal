@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["282 00"]={"code":"282 00","region":"Ionia Nisia","city":"Argostolion","latitude":38.18109,"longitude":20.48903}}(window,'GeoPostal','GR');

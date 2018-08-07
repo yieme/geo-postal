@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2619"]={"code":"2619","region":"New South Wales","city":"Jerrabomberra","latitude":-35.38441,"longitude":149.20248}}(window,'GeoPostal','AU');

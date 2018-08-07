@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811 06"]={"code":"811 06","region":"Voreio Aigaio","city":"Pappados","latitude":39.03944,"longitude":26.45472}}(window,'GeoPostal','GR');

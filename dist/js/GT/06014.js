@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06014"]={"code":"06014","region":"Santa Rosa","city":"Nueva Santa Rosa","latitude":14.38111,"longitude":-90.27611}}(window,'GeoPostal','GT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9EF"]={"code":"DD10 9EF","region":"Scotland","city":"Dubton","latitude":56.73628,"longitude":-2.48675}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13861"]={"code":"13861","region":"NY","city":"West Oneonta","latitude":42.5011,"longitude":-75.1409}}(window,'GeoPostal','US');

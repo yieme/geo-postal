@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60160"]={"code":"60160","region":"Hauts-de-France","city":"Montataire","latitude":49.259,"longitude":2.43777}}(window,'GeoPostal','FR');

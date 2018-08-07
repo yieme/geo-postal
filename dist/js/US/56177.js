@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56177"]={"code":"56177","region":"MN","city":"Trosky","latitude":43.88,"longitude":-96.25}}(window,'GeoPostal','US');

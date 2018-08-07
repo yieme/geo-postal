@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8B 0A1"]={"code":"G8B 0A1","region":"Quebec","city":"Alma","latitude":48.55009,"longitude":-71.6491}}(window,'GeoPostal','CA');

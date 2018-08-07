@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD10 6XY"]={"code":"TD10 6XY","region":"Scotland","city":"Greenlaw","latitude":55.7068,"longitude":-2.46241}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49270"]={"code":"49270","region":"Michigan","city":"Petersburg","latitude":41.872373,"longitude":-83.683664}}(window,'GeoPostal','US');

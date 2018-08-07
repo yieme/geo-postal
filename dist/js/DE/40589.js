@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40589"]={"code":"40589","region":"Nordrhein-Westfalen","city":"Itter","latitude":51.16842,"longitude":6.81922}}(window,'GeoPostal','DE');

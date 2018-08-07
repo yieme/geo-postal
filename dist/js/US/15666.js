@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15666"]={"code":"15666","region":"Pennsylvania","city":"Mount Pleasant","latitude":40.14896,"longitude":-79.54115}}(window,'GeoPostal','US');

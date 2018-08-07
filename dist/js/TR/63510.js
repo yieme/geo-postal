@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63510"]={"code":"63510","region":"Sanliurfa","city":"Yamacalti","latitude":36.97139,"longitude":38.94222}}(window,'GeoPostal','TR');

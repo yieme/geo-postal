@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50640"]={"code":"50640","region":"Normandie","city":"Le Teilleul","latitude":48.53758,"longitude":-0.87304}}(window,'GeoPostal','FR');

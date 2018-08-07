@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98870-000"]={"code":"98870-000","region":"Rio Grande do Sul","city":"Girua","latitude":-28.02833,"longitude":-54.34972}}(window,'GeoPostal','BR');

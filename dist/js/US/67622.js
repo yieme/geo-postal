@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67622"]={"code":"67622","region":"Kansas","city":"Almena","latitude":39.892114,"longitude":-99.710536}}(window,'GeoPostal','US');

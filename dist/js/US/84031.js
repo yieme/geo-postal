@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84031"]={"code":"84031","region":"UT","city":"Hanna","latitude":40.4501,"longitude":-110.8097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42310"]={"code":"42310","region":"Nevsehir","city":"Goereme","latitude":38.6437,"longitude":34.83529}}(window,'GeoPostal','TR');

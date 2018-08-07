@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50117"]={"code":"50117","region":"IA","city":"Hamlin","latitude":41.6506,"longitude":-94.9157}}(window,'GeoPostal','US');

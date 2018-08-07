@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 7PB"]={"code":"DG9 7PB","region":"Scotland","city":"Stranraer","latitude":54.90234,"longitude":-5.02731}}(window,'GeoPostal','GB');

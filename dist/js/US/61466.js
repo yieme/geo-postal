@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61466"]={"code":"61466","region":"IL","city":"North Henderson","latitude":41.1006,"longitude":-90.4736}}(window,'GeoPostal','US');

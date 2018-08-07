@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73450"]={"code":"73450","region":"OK","city":"Milburn","latitude":34.1952,"longitude":-96.5429}}(window,'GeoPostal','US');

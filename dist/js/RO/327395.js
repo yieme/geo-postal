@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327395"]={"code":"327395","region":"Caras-Severin","city":"Ticvaniu Mare","latitude":45.13528,"longitude":21.63806}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83112"]={"code":"83112","region":"Wyoming","city":"Bedford","latitude":42.9,"longitude":-110.933333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3250"]={"code":"3250","region":"Niederosterreich","city":"Wieselburg","latitude":48.13333,"longitude":15.13333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 1B0"]={"code":"P0H 1B0","region":"Ontario","city":"Astorville","latitude":46.1834,"longitude":-79.28291}}(window,'GeoPostal','CA');

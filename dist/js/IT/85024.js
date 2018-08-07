@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85024"]={"code":"85024","region":"Basilicata","city":"Lavello","latitude":41.04562,"longitude":15.79076}}(window,'GeoPostal','IT');

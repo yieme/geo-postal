@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81043"]={"code":"81043","region":"CO","city":"Hartman","latitude":38.1195,"longitude":-102.2168}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78557"]={"code":"78557","region":"Texas","city":"Hidalgo","latitude":26.103684,"longitude":-98.247295}}(window,'GeoPostal','US');

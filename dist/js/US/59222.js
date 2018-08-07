@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59222"]={"code":"59222","region":"MT","city":"Flaxville","latitude":48.7472,"longitude":-105.1637}}(window,'GeoPostal','US');

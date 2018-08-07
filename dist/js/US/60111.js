@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60111"]={"code":"60111","region":"IL","city":"Clare","latitude":42.0086,"longitude":-88.8306}}(window,'GeoPostal','US');

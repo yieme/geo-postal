@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368563"]={"code":"368563","region":"Dagestan, Respublika","city":"Gerga","latitude":42.34645,"longitude":47.96333}}(window,'GeoPostal','RU');

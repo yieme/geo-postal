@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15742"]={"code":"15742","region":"Pennsylvania","city":"Glen Campbell","latitude":40.86006,"longitude":-78.854689}}(window,'GeoPostal','US');

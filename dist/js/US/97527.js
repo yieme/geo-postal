@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97527"]={"code":"97527","region":"Oregon","city":"Grants Pass","latitude":42.401001,"longitude":-123.355201}}(window,'GeoPostal','US');

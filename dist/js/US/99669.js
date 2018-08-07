@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99669"]={"code":"99669","region":"Alaska","city":"Soldotna","latitude":60.48778,"longitude":-151.05833}}(window,'GeoPostal','US');

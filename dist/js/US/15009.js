@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15009"]={"code":"15009","region":"Pennsylvania","city":"Beaver","latitude":40.7028,"longitude":-80.35566}}(window,'GeoPostal','US');

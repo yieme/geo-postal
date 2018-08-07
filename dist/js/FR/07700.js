@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07700"]={"code":"07700","region":"Auvergne-Rhone-Alpes","city":"Bourg-Saint-Andeol","latitude":44.37566,"longitude":4.64273}}(window,'GeoPostal','FR');

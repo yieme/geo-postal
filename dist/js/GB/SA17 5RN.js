@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA17 5RN"]={"code":"SA17 5RN","region":"Wales","city":"Ferryside","latitude":51.76784,"longitude":-4.369}}(window,'GeoPostal','GB');

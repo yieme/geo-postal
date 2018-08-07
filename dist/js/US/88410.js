@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88410"]={"code":"88410","region":"New Mexico","city":"Amistad","latitude":35.91889,"longitude":-103.15389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96034"]={"code":"96034","region":"Veracruz de Ignacio de la Llave","city":"Acayucan","latitude":17.95,"longitude":-94.91667}}(window,'GeoPostal','MX');

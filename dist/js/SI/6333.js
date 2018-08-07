@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6333"]={"code":"6333","region":"Piran","city":"Lucija","latitude":45.50526,"longitude":13.6024}}(window,'GeoPostal','SI');

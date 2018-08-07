@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511102"]={"code":"511102","region":"Rivers","city":"Elele","latitude":5.1009,"longitude":6.81411}}(window,'GeoPostal','NG');

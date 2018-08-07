@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64521"]={"code":"64521","region":"Bayern","city":"Gerau","latitude":48.41141,"longitude":13.24862}}(window,'GeoPostal','DE');

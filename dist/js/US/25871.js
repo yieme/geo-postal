@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25871"]={"code":"25871","region":"WV","city":"Mabscott","latitude":37.77,"longitude":-81.2103}}(window,'GeoPostal','US');

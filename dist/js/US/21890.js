@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21890"]={"code":"21890","region":"MD","city":"Westover","latitude":38.0927,"longitude":-75.8882}}(window,'GeoPostal','US');

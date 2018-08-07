@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42171"]={"code":"42171","region":"Kentucky","city":"Smiths Grove","latitude":37.024415,"longitude":-86.184722}}(window,'GeoPostal','US');

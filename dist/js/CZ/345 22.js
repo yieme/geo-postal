@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 22"]={"code":"345 22","region":"Plzensky kraj","city":"Pobezovice","latitude":49.51029,"longitude":12.80261}}(window,'GeoPostal','CZ');

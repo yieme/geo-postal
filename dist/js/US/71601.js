@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71601"]={"code":"71601","region":"Arkansas","city":"Pine Bluff","latitude":34.22843,"longitude":-92.0032}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62860"]={"code":"62860","region":"IL","city":"Macedonia","latitude":38.013,"longitude":-88.6961}}(window,'GeoPostal','US');

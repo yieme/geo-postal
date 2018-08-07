@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40024"]={"code":"40024","region":"Emilia-Romagna","city":"Castel San Pietro Terme","latitude":44.39857,"longitude":11.58482}}(window,'GeoPostal','IT');

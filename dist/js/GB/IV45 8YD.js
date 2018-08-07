@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV45 8YD"]={"code":"IV45 8YD","region":"Scotland","city":"Isleornsay","latitude":57.14588,"longitude":-5.80816}}(window,'GeoPostal','GB');

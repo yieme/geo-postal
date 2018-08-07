@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02885"]={"code":"02885","region":"Rhode Island","city":"Warren","latitude":41.724797,"longitude":-71.26569}}(window,'GeoPostal','US');

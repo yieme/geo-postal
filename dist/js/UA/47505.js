@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47505"]={"code":"47505","region":"Ternopilska oblast","city":"Berezhani","latitude":49.45,"longitude":24.93333}}(window,'GeoPostal','UA');

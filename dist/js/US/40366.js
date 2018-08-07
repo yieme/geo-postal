@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40366"]={"code":"40366","region":"KY","city":"Preston","latitude":38.0867,"longitude":-83.7571}}(window,'GeoPostal','US');

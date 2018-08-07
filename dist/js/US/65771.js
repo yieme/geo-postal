@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65771"]={"code":"65771","region":"MO","city":"Walnut Shade","latitude":36.7704,"longitude":-93.2148}}(window,'GeoPostal','US');

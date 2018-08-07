@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06010"]={"code":"06010","region":"Connecticut","city":"Bristol","latitude":41.68098,"longitude":-72.93876}}(window,'GeoPostal','US');

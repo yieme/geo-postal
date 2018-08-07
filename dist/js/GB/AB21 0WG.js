@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 0WG"]={"code":"AB21 0WG","region":"Scotland","city":"Newmacher","latitude":57.26667,"longitude":-2.18333}}(window,'GeoPostal','GB');

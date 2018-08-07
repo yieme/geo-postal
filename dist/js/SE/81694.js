@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81694"]={"code":"81694","region":"Gavleborgs lan","city":"Ockelbo","latitude":60.8912,"longitude":16.71846}}(window,'GeoPostal','SE');

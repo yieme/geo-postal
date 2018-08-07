@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 4EU"]={"code":"DT6 4EU","region":"England","city":"West Bay","latitude":50.71084,"longitude":-2.76107}}(window,'GeoPostal','GB');

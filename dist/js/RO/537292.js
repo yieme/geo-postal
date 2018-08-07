@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537292"]={"code":"537292","region":"Maramures","city":"Sacel","latitude":46.3,"longitude":24.93333}}(window,'GeoPostal','RO');

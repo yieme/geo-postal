@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28641"]={"code":"28641","region":"NC","city":"Jonas Ridge","latitude":35.9726,"longitude":-81.8948}}(window,'GeoPostal','US');

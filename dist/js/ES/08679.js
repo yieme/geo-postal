@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08679"]={"code":"08679","region":"Catalunya","city":"Navas","latitude":41.89998,"longitude":1.87763}}(window,'GeoPostal','ES');

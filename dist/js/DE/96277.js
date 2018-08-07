@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96277"]={"code":"96277","region":"Bayern","city":"Schneckenlohe","latitude":50.21184,"longitude":11.19395}}(window,'GeoPostal','DE');

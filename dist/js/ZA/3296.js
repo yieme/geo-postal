@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3296"]={"code":"3296","region":"Kwazulu-Natal","city":"Pietermaritzburg","latitude":-29.61678,"longitude":30.39278}}(window,'GeoPostal','ZA');

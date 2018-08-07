@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61854"]={"code":"61854","region":"IL","city":"Mansfield","latitude":40.2147,"longitude":-88.5179}}(window,'GeoPostal','US');

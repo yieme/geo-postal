@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88054"]={"code":"88054","region":"NM","city":"Radium Springs","latitude":32.4888,"longitude":-106.9146}}(window,'GeoPostal','US');

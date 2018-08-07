@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1906"]={"code":"1906","region":"Valais","city":"Charrat-les-Chenes","latitude":46.12202,"longitude":7.13456}}(window,'GeoPostal','CH');

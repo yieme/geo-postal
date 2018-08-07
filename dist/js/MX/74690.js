@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74690"]={"code":"74690","region":"Puebla","city":"Tepexi de Rodriguez","latitude":18.58333,"longitude":-97.93333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE47 6LL"]={"code":"NE47 6LL","region":"England","city":"Haydon Bridge","latitude":54.97486,"longitude":-2.2468}}(window,'GeoPostal','GB');

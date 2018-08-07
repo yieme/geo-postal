@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4541"]={"code":"4541","region":"Zeeland","city":"Sluiskil","latitude":51.27833,"longitude":3.83611}}(window,'GeoPostal','NL');

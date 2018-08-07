@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15638"]={"code":"15638","region":"PA","city":"Hostetter","latitude":40.2662,"longitude":-79.3984}}(window,'GeoPostal','US');

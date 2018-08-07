@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58324"]={"code":"58324","region":"North Dakota","city":"Cando","latitude":48.48667,"longitude":-99.20986}}(window,'GeoPostal','US');

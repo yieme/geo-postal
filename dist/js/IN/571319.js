@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571319"]={"code":"571319","region":"Karnataka","city":"Nanjangud","latitude":12.11972,"longitude":76.68278}}(window,'GeoPostal','IN');

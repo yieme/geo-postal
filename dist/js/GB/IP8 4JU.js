@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 4JU"]={"code":"IP8 4JU","region":"England","city":"Bramford","latitude":52.07631,"longitude":1.09687}}(window,'GeoPostal','GB');

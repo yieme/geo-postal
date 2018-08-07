@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9155"]={"code":"9155","region":"Gyor-Moson-Sopron","city":"Lebeny","latitude":47.73574,"longitude":17.39076}}(window,'GeoPostal','HU');

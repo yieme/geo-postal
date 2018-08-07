@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8376"]={"code":"8376","region":"Nordland","city":"Leknes","latitude":68.14746,"longitude":13.61151}}(window,'GeoPostal','NO');

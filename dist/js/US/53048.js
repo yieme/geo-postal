@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53048"]={"code":"53048","region":"Wisconsin","city":"Lomira","latitude":43.58778,"longitude":-88.44492}}(window,'GeoPostal','US');

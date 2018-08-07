@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82221"]={"code":"82221","region":"Wyoming","city":"La Grange","latitude":41.63612,"longitude":-104.35279}}(window,'GeoPostal','US');

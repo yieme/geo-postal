@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65287"]={"code":"65287","region":"MO","city":"Wooldridge","latitude":38.8983,"longitude":-92.5667}}(window,'GeoPostal','US');

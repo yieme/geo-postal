@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31033"]={"code":"31033","region":"GA","city":"Haddock","latitude":33.0519,"longitude":-83.4312}}(window,'GeoPostal','US');

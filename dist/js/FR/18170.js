@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18170"]={"code":"18170","region":"Centre-Val de Loire","city":"Le Chatelet","latitude":46.64247,"longitude":2.28229}}(window,'GeoPostal','FR');

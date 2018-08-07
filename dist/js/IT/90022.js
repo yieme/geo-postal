@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90022"]={"code":"90022","region":"Sicilia","city":"Caltavuturo","latitude":37.82095,"longitude":13.89016}}(window,'GeoPostal','IT');

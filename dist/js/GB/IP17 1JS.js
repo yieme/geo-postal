@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 1JS"]={"code":"IP17 1JS","region":"England","city":"Saxmundham","latitude":52.21497,"longitude":1.48805}}(window,'GeoPostal','GB');

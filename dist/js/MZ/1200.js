@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1200"]={"code":"1200","region":"Gaza","city":"Xai-Xai","latitude":-25.05194,"longitude":33.64417}}(window,'GeoPostal','MZ');

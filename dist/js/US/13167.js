@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13167"]={"code":"13167","region":"NY","city":"West Monroe","latitude":43.2882,"longitude":-76.0797}}(window,'GeoPostal','US');

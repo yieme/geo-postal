@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38100"]={"code":"38100","region":"Trentino-Alto Adige","city":"Trento","latitude":46.06787,"longitude":11.12108}}(window,'GeoPostal','IT');

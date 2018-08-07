@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89409"]={"code":"89409","region":"NV","city":"Gabbs","latitude":38.8688,"longitude":-117.9221}}(window,'GeoPostal','US');

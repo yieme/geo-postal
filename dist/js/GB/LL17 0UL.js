@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL17 0UL"]={"code":"LL17 0UL","region":"Wales","city":"Tremeirchion","latitude":53.24487,"longitude":-3.37835}}(window,'GeoPostal','GB');

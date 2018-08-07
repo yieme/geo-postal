@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4481"]={"code":"4481","region":"Oberosterreich","city":"Asten","latitude":48.21941,"longitude":14.41784}}(window,'GeoPostal','AT');

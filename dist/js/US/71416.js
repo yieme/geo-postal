@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71416"]={"code":"71416","region":"LA","city":"Cloutierville","latitude":31.5432,"longitude":-92.9182}}(window,'GeoPostal','US');

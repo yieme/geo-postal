@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46800-000"]={"code":"46800-000","region":"Bahia","city":"Ruy Barbosa","latitude":-12.28389,"longitude":-40.49389}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54028"]={"code":"54028","region":"Toscana","city":"Villafranca in Lunigiana","latitude":44.29485,"longitude":9.94898}}(window,'GeoPostal','IT');

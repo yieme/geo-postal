@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-311"]={"code":"05-311","region":"Mazowieckie","city":"Debe Wielkie","latitude":52.19961,"longitude":21.44334}}(window,'GeoPostal','PL');

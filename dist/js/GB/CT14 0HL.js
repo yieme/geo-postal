@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT14 0HL"]={"code":"CT14 0HL","region":"England","city":"Great Mongeham","latitude":51.21336,"longitude":1.35771}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75304"]={"code":"75304","region":"Federacija Bosne i Hercegovine","city":"Barice","latitude":44.54056,"longitude":18.48111}}(window,'GeoPostal','BA');

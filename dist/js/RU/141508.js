@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141508"]={"code":"141508","region":"Moskovskaya oblast'","city":"Solnechnogorsk","latitude":56.18333,"longitude":36.98333}}(window,'GeoPostal','RU');

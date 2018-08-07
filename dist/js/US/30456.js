@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30456"]={"code":"30456","region":"Georgia","city":"Sardis","latitude":32.79652,"longitude":-84.63881}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82500"]={"code":"82500","region":"Occitanie","city":"Larrazet","latitude":43.9319,"longitude":1.0833}}(window,'GeoPostal','FR');

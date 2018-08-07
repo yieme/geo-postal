@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76230"]={"code":"76230","region":"Texas","city":"Bowie","latitude":33.559,"longitude":-97.84865}}(window,'GeoPostal','US');

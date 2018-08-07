@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77864"]={"code":"77864","region":"Texas","city":"Madisonville","latitude":30.97554,"longitude":-95.9007}}(window,'GeoPostal','US');

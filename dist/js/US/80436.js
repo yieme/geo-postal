@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80436"]={"code":"80436","region":"CO","city":"Dumont","latitude":39.7647,"longitude":-105.6003}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3953"]={"code":"3953","region":"Valais","city":"Varen","latitude":46.3186,"longitude":7.60743}}(window,'GeoPostal','CH');

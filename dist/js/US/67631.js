@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67631"]={"code":"67631","region":"Kansas","city":"Collyer","latitude":38.914518,"longitude":-100.057987}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39111"]={"code":"39111","region":"Guerrero","city":"Chilpancingo de los Bravos","latitude":17.55,"longitude":-99.5}}(window,'GeoPostal','MX');

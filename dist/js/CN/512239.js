@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512239"]={"code":"512239","region":"Guangdong","city":"Jiufeng","latitude":25.34454,"longitude":113.37375}}(window,'GeoPostal','CN');

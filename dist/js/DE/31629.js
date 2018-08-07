@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31629"]={"code":"31629","region":"Niedersachsen","city":"Estorf","latitude":52.58333,"longitude":9.15}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60180"]={"code":"60180","region":"IL","city":"Union","latitude":42.2103,"longitude":-88.5283}}(window,'GeoPostal','US');

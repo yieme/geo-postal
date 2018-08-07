@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84200-000"]={"code":"84200-000","region":"Parana","city":"Jaguariaiva","latitude":-24.25111,"longitude":-49.70583}}(window,'GeoPostal','BR');

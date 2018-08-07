@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95456"]={"code":"95456","region":"California","city":"Little River","latitude":39.27083,"longitude":-123.78833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 0K7"]={"code":"B4V 0K7","region":"Nova Scotia","city":"Italy Cross","latitude":44.26686,"longitude":-64.54877}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82242"]={"code":"82242","region":"WY","city":"Van Tassell","latitude":42.7033,"longitude":-104.1408}}(window,'GeoPostal','US');

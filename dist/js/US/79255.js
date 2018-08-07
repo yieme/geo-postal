@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79255"]={"code":"79255","region":"Texas","city":"Quitaque","latitude":34.365465,"longitude":-101.053314}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4443"]={"code":"4443","region":"Oberosterreich","city":"Maria Neustift","latitude":47.93333,"longitude":14.6}}(window,'GeoPostal','AT');

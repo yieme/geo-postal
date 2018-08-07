@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11740"]={"code":"11740","region":"New York","city":"Greenlawn","latitude":40.85864,"longitude":-73.362766}}(window,'GeoPostal','US');

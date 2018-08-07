@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92242"]={"code":"92242","region":"Bayern","city":"Scharhof","latitude":49.53934,"longitude":11.97565}}(window,'GeoPostal','DE');

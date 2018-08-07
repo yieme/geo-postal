@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14728"]={"code":"14728","region":"NY","city":"Dewittville","latitude":42.2394,"longitude":-79.4193}}(window,'GeoPostal','US');

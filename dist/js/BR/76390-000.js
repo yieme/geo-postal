@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76390-000"]={"code":"76390-000","region":"Goias","city":"Barro Alto","latitude":-14.97083,"longitude":-48.91583}}(window,'GeoPostal','BR');

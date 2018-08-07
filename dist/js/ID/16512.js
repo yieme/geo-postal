@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16512"]={"code":"16512","region":"Jawa Barat","city":"Depok","latitude":-6.4,"longitude":106.81861}}(window,'GeoPostal','ID');

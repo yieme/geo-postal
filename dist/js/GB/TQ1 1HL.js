@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ1 1HL"]={"code":"TQ1 1HL","region":"England","city":"Torquay","latitude":50.46384,"longitude":-3.51434}}(window,'GeoPostal','GB');

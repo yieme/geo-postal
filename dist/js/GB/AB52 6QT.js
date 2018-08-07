@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB52 6QT"]={"code":"AB52 6QT","region":"Scotland","city":"Oyne","latitude":57.3213,"longitude":-2.54544}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15954"]={"code":"15954","region":"PA","city":"Seward","latitude":40.4099,"longitude":-79.0232}}(window,'GeoPostal','US');

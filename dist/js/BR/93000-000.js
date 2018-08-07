@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93000-000"]={"code":"93000-000","region":"Rio Grande do Sul","city":"Sao Leopoldo","latitude":-29.76028,"longitude":-51.14722}}(window,'GeoPostal','BR');

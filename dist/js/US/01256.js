@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01256"]={"code":"01256","region":"MA","city":"Savoy","latitude":42.577,"longitude":-73.0233}}(window,'GeoPostal','US');

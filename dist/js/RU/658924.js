@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658924"]={"code":"658924","region":"Altayskiy kray","city":"Kulunda","latitude":52.566,"longitude":78.9385}}(window,'GeoPostal','RU');

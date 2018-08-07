@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17337"]={"code":"17337","region":"Mecklenburg-Vorpommern","city":"Gross Luckow","latitude":53.53333,"longitude":13.83333}}(window,'GeoPostal','DE');

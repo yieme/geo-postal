@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663770"]={"code":"663770","region":"Krasnoyarskiy kray","city":"Taseyevo","latitude":57.21694,"longitude":94.89778}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28086"]={"code":"28086","region":"North Carolina","city":"Kings Mountain","latitude":35.246681,"longitude":-81.36364}}(window,'GeoPostal','US');

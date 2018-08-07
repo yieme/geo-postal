@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-580"]={"code":"58-580","region":"Dolnoslaskie","city":"Szklarska Poreba","latitude":50.82567,"longitude":15.52274}}(window,'GeoPostal','PL');

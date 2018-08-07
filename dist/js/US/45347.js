@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45347"]={"code":"45347","region":"OH","city":"New Paris","latitude":39.8617,"longitude":-84.7793}}(window,'GeoPostal','US');

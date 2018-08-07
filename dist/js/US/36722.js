@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36722"]={"code":"36722","region":"Alabama","city":"Arlington","latitude":32.044109,"longitude":-87.587376}}(window,'GeoPostal','US');

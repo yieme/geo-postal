@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64440"]={"code":"64440","region":"MO","city":"De Kalb","latitude":39.5834,"longitude":-94.927}}(window,'GeoPostal','US');

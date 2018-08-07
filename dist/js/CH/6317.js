@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6317"]={"code":"6317","region":"Zug","city":"Walchwil","latitude":47.10169,"longitude":8.51693}}(window,'GeoPostal','CH');

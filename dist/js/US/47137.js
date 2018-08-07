@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47137"]={"code":"47137","region":"Indiana","city":"Leavenworth","latitude":38.210869,"longitude":-86.365337}}(window,'GeoPostal','US');

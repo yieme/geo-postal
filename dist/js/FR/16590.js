@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16590"]={"code":"16590","region":"Nouvelle-Aquitaine","city":"Brie","latitude":45.73804,"longitude":0.24106}}(window,'GeoPostal','FR');

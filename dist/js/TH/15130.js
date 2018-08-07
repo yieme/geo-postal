@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15130"]={"code":"15130","region":"Lop Buri","city":"Phatthana Nikhom","latitude":14.85646,"longitude":100.98459}}(window,'GeoPostal','TH');

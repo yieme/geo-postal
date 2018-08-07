@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4806"]={"code":"4806","region":"Luzern","city":"Wikon","latitude":47.26339,"longitude":7.96801}}(window,'GeoPostal','CH');

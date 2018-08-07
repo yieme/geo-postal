@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76170"]={"code":"76170","region":"Normandie","city":"Lillebonne","latitude":49.5203,"longitude":0.53617}}(window,'GeoPostal','FR');

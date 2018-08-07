@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90624"]={"code":"90624","region":"CA","city":"Buena Park","latitude":33.8584,"longitude":-118.0033}}(window,'GeoPostal','US');

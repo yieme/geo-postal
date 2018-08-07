@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76949"]={"code":"76949","region":"TX","city":"Silver","latitude":32.0484,"longitude":-100.6922}}(window,'GeoPostal','US');

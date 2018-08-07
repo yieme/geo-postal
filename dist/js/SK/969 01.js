@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["969 01"]={"code":"969 01","region":"Banskobystricky kraj","city":"Banska Stiavnica","latitude":48.44858,"longitude":18.91003}}(window,'GeoPostal','SK');

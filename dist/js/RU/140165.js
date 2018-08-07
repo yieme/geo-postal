@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140165"]={"code":"140165","region":"Moskovskaya oblast'","city":"Gzhel'","latitude":55.61008,"longitude":38.39399}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62356"]={"code":"62356","region":"IL","city":"New Canton","latitude":39.6342,"longitude":-91.0886}}(window,'GeoPostal','US');

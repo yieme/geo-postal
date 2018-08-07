@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14547"]={"code":"14547","region":"NY","city":"Seneca Castle","latitude":42.887,"longitude":-77.0961}}(window,'GeoPostal','US');

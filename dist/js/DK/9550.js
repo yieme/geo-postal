@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9550"]={"code":"9550","region":"Nordjylland","city":"Mariager","latitude":56.64985,"longitude":9.97515}}(window,'GeoPostal','DK');

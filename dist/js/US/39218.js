@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39218"]={"code":"39218","region":"Mississippi","city":"Richland","latitude":32.2377,"longitude":-90.1548}}(window,'GeoPostal','US');

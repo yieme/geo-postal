@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9531"]={"code":"9531","region":"Drenthe","city":"Borger","latitude":52.92333,"longitude":6.79306}}(window,'GeoPostal','NL');

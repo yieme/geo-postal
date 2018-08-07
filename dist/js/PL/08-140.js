@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-140"]={"code":"08-140","region":"Mazowieckie","city":"Mordy","latitude":52.2116,"longitude":22.51725}}(window,'GeoPostal','PL');

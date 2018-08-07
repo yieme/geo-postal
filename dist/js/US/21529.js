@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21529"]={"code":"21529","region":"MD","city":"Ellerslie","latitude":39.7083,"longitude":-78.7774}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48940"]={"code":"48940","region":"Pais Vasco","city":"Leioa","latitude":43.33333,"longitude":-2.98333}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42609"]={"code":"42609","region":"Auvergne-Rhone-Alpes","city":"Montbrison","latitude":45.6,"longitude":4.05}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66058"]={"code":"66058","region":"Kansas","city":"Muscotah","latitude":39.55333,"longitude":-95.52083}}(window,'GeoPostal','US');

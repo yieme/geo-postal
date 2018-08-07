@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH42 1TF"]={"code":"EH42 1TF","region":"Scotland","city":"Stenton","latitude":55.95,"longitude":-2.6}}(window,'GeoPostal','GB');

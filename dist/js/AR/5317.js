@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5317"]={"code":"5317","region":"Catamarca","city":"Mutquin","latitude":-28.32104,"longitude":-66.14253}}(window,'GeoPostal','AR');

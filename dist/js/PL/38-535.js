@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-535"]={"code":"38-535","region":"Podkarpackie","city":"Tyrawa Woloska","latitude":49.57744,"longitude":22.36988}}(window,'GeoPostal','PL');

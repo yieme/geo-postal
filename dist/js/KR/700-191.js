@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700-191"]={"code":"700-191","region":"Daegu-gwangyeoksi","city":"Taegu","latitude":35.87028,"longitude":128.59111}}(window,'GeoPostal','KR');

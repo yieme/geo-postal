@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2143"]={"code":"2143","region":"Niederosterreich","city":"Grosskrut","latitude":48.64389,"longitude":16.72361}}(window,'GeoPostal','AT');

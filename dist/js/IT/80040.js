@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80040"]={"code":"80040","region":"Campania","city":"Poggiomarino","latitude":40.80311,"longitude":14.53904}}(window,'GeoPostal','IT');

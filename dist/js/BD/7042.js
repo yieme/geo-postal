@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7042"]={"code":"7042","region":"Khulna","city":"Bheramara","latitude":24.0232,"longitude":88.9925}}(window,'GeoPostal','BD');

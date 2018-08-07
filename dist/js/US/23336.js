@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23336"]={"code":"23336","region":"Virginia","city":"Chincoteague","latitude":37.93318,"longitude":-75.37881}}(window,'GeoPostal','US');

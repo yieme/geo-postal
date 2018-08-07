@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34966"]={"code":"34966","region":"Durango","city":"El Salto","latitude":23.38333,"longitude":-105.38333}}(window,'GeoPostal','MX');

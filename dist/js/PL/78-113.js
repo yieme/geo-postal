@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-113"]={"code":"78-113","region":"Zachodniopomorskie","city":"Dygowo","latitude":54.13031,"longitude":15.71993}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 3YP"]={"code":"AB45 3YP","region":"Scotland","city":"Gardenstown","latitude":57.67199,"longitude":-2.33762}}(window,'GeoPostal','GB');

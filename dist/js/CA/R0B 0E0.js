@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0E0"]={"code":"R0B 0E0","region":"Manitoba","city":"Nunalla","latitude":59.92445,"longitude":-94.82801}}(window,'GeoPostal','CA');

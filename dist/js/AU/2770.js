@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2770"]={"code":"2770","region":"New South Wales","city":"Minchinbury","latitude":-33.78724,"longitude":150.82956}}(window,'GeoPostal','AU');

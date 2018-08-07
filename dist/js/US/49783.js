@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49783"]={"code":"49783","region":"Michigan","city":"Sault Sainte Marie","latitude":46.479853,"longitude":-84.358797}}(window,'GeoPostal','US');

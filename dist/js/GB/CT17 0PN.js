@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT17 0PN"]={"code":"CT17 0PN","region":"England","city":"River","latitude":51.14217,"longitude":1.2745}}(window,'GeoPostal','GB');

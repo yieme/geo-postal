@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07060"]={"code":"07060","region":"Van","city":"Ozalp","latitude":38.65477,"longitude":43.99301}}(window,'GeoPostal','TR');

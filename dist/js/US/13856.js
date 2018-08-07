@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13856"]={"code":"13856","region":"New York","city":"Walton","latitude":42.16953,"longitude":-75.12934}}(window,'GeoPostal','US');

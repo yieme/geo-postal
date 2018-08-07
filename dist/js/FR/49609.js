@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49609"]={"code":"49609","region":"Pays-de-la-Loire","city":"Beaupreau","latitude":47.20464,"longitude":-0.98703}}(window,'GeoPostal','FR');

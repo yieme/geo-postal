@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11970"]={"code":"11970","region":"NY","city":"South Jamesport","latitude":40.9365,"longitude":-72.5773}}(window,'GeoPostal','US');

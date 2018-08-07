@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45560-000"]={"code":"45560-000","region":"Bahia","city":"Ibirataia","latitude":-14.06694,"longitude":-39.64056}}(window,'GeoPostal','BR');

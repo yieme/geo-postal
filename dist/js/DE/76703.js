@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76703"]={"code":"76703","region":"Baden-Wurttemberg","city":"Elsenz","latitude":49.17833,"longitude":8.83227}}(window,'GeoPostal','DE');

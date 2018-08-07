@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85100"]={"code":"85100","region":"Pohjois-Pohjanmaa","city":"Kalajoki","latitude":64.25,"longitude":23.95}}(window,'GeoPostal','FI');

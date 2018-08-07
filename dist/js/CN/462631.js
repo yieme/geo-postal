@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462631"]={"code":"462631","region":"Henan","city":"Daguo","latitude":33.79077,"longitude":113.7958}}(window,'GeoPostal','CN');

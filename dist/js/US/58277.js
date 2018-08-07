@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58277"]={"code":"58277","region":"North Dakota","city":"Sharon","latitude":47.629383,"longitude":-97.920487}}(window,'GeoPostal','US');

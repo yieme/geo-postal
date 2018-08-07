@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97335"]={"code":"97335","region":"OR","city":"Crabtree","latitude":44.6344,"longitude":-122.8933}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78460"]={"code":"78460","region":"TX","city":"Corpus Christi","latitude":27.8006,"longitude":-97.3964}}(window,'GeoPostal','US');

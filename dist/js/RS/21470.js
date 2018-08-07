@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21470"]={"code":"21470","region":"Juznobacki okrug","city":"Backi Petrovac","latitude":45.36056,"longitude":19.59167}}(window,'GeoPostal','RS');

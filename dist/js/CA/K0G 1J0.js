@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1J0"]={"code":"K0G 1J0","region":"Ontario","city":"Kemptville","latitude":45.029761,"longitude":-75.636696}}(window,'GeoPostal','CA');

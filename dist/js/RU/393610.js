@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393610"]={"code":"393610","region":"Tambovskaya oblast'","city":"Novopokrovka","latitude":52.1331,"longitude":40.8783}}(window,'GeoPostal','RU');

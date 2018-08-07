@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TZ"]={id:'TZ',country:'Tanzania, United Republic of', postal:{'':{code:'',region:'Pwani',city:'Kilindoni',latitude:-7.9139,longitude:39.66684}}};

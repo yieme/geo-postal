@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65284"]={"code":"65284","region":"MO","city":"Sturgeon","latitude":39.2057,"longitude":-92.2953}}(window,'GeoPostal','US');

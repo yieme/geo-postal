@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660 32"]={"code":"660 32","region":"Anatoliki Makedonia kai Thraki","city":"Kiria","latitude":41.1,"longitude":24.28333}}(window,'GeoPostal','GR');

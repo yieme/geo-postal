@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 58"]={"code":"270 58","region":"Dytiki Ellada","city":"Alfiousa","latitude":37.65,"longitude":21.53333}}(window,'GeoPostal','GR');

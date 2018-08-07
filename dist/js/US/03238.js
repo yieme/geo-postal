@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03238"]={"code":"03238","region":"NH","city":"Glencliff","latitude":43.9828,"longitude":-71.8934}}(window,'GeoPostal','US');

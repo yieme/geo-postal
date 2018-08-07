@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16731"]={"code":"16731","region":"Pennsylvania","city":"Eldred","latitude":41.95667,"longitude":-78.38361}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50277"]={"code":"50277","region":"Iowa","city":"Yale","latitude":41.77438,"longitude":-94.355756}}(window,'GeoPostal','US');

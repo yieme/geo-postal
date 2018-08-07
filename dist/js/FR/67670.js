@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67670"]={"code":"67670","region":"Grand-Est","city":"Mommenheim","latitude":48.75758,"longitude":7.6429}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67561"]={"code":"67561","region":"KS","city":"Nickerson","latitude":38.1412,"longitude":-98.0674}}(window,'GeoPostal','US');

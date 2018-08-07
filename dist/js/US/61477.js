@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61477"]={"code":"61477","region":"Illinois","city":"Smithfield","latitude":40.4946,"longitude":-90.29065}}(window,'GeoPostal','US');

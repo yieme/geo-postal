@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49883"]={"code":"49883","region":"Michigan","city":"Seney","latitude":46.41743,"longitude":-86.05268}}(window,'GeoPostal','US');

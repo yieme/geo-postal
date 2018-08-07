@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23426"]={"code":"23426","region":"VA","city":"Sanford","latitude":37.9229,"longitude":-75.6781}}(window,'GeoPostal','US');

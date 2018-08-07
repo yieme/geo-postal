@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97495"]={"code":"97495","region":"OR","city":"Winchester","latitude":43.2878,"longitude":-123.3055}}(window,'GeoPostal','US');

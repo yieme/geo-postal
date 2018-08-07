@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59540"]={"code":"59540","region":"Montana","city":"Rudyard","latitude":48.651065,"longitude":-110.556598}}(window,'GeoPostal','US');

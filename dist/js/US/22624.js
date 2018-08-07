@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22624"]={"code":"22624","region":"VA","city":"Clear Brook","latitude":39.2655,"longitude":-78.0988}}(window,'GeoPostal','US');

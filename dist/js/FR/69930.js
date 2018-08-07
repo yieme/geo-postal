@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69930"]={"code":"69930","region":"Auvergne-Rhone-Alpes","city":"Saint-Laurent-de-Chamousset","latitude":45.73932,"longitude":4.4634}}(window,'GeoPostal','FR');

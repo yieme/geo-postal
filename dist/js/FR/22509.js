@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22509"]={"code":"22509","region":"Bretagne","city":"Paimpol","latitude":48.77841,"longitude":-3.04375}}(window,'GeoPostal','FR');

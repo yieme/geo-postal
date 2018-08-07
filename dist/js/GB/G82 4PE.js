@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G82 4PE"]={"code":"G82 4PE","region":"Scotland","city":"Renton","latitude":55.972,"longitude":-4.58399}}(window,'GeoPostal','GB');

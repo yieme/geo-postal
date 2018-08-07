@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 6UL"]={"code":"SA33 6UL","region":"Wales","city":"Esgair","latitude":51.93375,"longitude":-4.36434}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89820"]={"code":"89820","region":"Nevada","city":"Battle Mountain","latitude":40.619443,"longitude":-116.937793}}(window,'GeoPostal','US');

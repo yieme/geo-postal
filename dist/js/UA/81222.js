@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81222"]={"code":"81222","region":"Lvivska oblast","city":"Bobrka","latitude":49.64093,"longitude":24.28874}}(window,'GeoPostal','UA');

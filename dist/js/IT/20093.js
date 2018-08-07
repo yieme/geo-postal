@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20093"]={"code":"20093","region":"Lombardia","city":"Cologno Monzese","latitude":45.53004,"longitude":9.27795}}(window,'GeoPostal','IT');

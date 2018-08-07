@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74306"]={"code":"74306","region":"Khersonska oblast","city":"Beryslav","latitude":46.84152,"longitude":33.42838}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93109"]={"code":"93109","region":"Bayern","city":"Wiesent","latitude":49.01667,"longitude":12.38333}}(window,'GeoPostal','DE');

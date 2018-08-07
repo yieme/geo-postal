@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7532"]={"code":"7532","region":"Burgenland","city":"Litzelsdorf","latitude":47.2,"longitude":16.15}}(window,'GeoPostal','AT');

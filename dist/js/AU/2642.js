@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2642"]={"code":"2642","region":"New South Wales","city":"Gerogery","latitude":-35.83333,"longitude":147}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21904"]={"code":"21904","region":"Maryland","city":"Port Deposit","latitude":39.63594,"longitude":-76.0794}}(window,'GeoPostal','US');

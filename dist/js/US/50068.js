@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50068"]={"code":"50068","region":"Iowa","city":"Derby","latitude":40.941785,"longitude":-93.499294}}(window,'GeoPostal','US');

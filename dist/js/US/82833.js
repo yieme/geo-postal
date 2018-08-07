@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82833"]={"code":"82833","region":"WY","city":"Big Horn","latitude":44.6531,"longitude":-107.0247}}(window,'GeoPostal','US');

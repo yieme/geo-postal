@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 1QS"]={"code":"DG7 1QS","region":"Scotland","city":"Auchencairn","latitude":54.84177,"longitude":-3.87296}}(window,'GeoPostal','GB');

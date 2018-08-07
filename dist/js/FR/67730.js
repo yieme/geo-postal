@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67730"]={"code":"67730","region":"Grand-Est","city":"Chatenois","latitude":48.27188,"longitude":7.39927}}(window,'GeoPostal','FR');

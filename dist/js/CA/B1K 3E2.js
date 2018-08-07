@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1K 3E2"]={"code":"B1K 3E2","region":"Nova Scotia","city":"Hills Road","latitude":46.03344,"longitude":-60.09844}}(window,'GeoPostal','CA');

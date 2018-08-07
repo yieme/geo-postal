@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38778"]={"code":"38778","region":"Mississippi","city":"Sunflower","latitude":33.552042,"longitude":-90.529411}}(window,'GeoPostal','US');

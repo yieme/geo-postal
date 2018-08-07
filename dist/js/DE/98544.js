@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98544"]={"code":"98544","region":"Thuringen","city":"Zella-Mehlis","latitude":50.65642,"longitude":10.66046}}(window,'GeoPostal','DE');

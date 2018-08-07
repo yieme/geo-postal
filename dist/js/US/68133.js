@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68133"]={"code":"68133","region":"NE","city":"Papillion","latitude":41.1416,"longitude":-96.0131}}(window,'GeoPostal','US');

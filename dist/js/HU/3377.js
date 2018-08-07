@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3377"]={"code":"3377","region":"Heves","city":"Szihalom","latitude":47.76667,"longitude":20.48333}}(window,'GeoPostal','HU');

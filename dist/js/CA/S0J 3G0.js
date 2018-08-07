@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 3G0"]={"code":"S0J 3G0","region":"Saskatchewan","city":"Air Ronge","latitude":55.08343,"longitude":-105.31763}}(window,'GeoPostal','CA');

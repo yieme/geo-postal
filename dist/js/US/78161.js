@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78161"]={"code":"78161","region":"TX","city":"Sutherland Springs","latitude":29.2888,"longitude":-98.0509}}(window,'GeoPostal','US');

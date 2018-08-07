@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 8TP"]={"code":"PL15 8TP","region":"England","city":"Werrington","latitude":50.66667,"longitude":-4.36667}}(window,'GeoPostal','GB');

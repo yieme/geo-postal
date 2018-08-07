@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33439"]={"code":"33439","region":"FL","city":"Bryant","latitude":26.84,"longitude":-80.61}}(window,'GeoPostal','US');

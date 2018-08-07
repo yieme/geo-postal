@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28821"]={"code":"28821","region":"Piemonte","city":"Cannero Riviera","latitude":46.022,"longitude":8.67933}}(window,'GeoPostal','IT');

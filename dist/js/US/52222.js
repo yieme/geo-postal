@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52222"]={"code":"52222","region":"Iowa","city":"Deep River","latitude":41.59837,"longitude":-92.31874}}(window,'GeoPostal','US');

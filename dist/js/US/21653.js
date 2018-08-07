@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21653"]={"code":"21653","region":"MD","city":"Newcomb","latitude":38.7518,"longitude":-76.178}}(window,'GeoPostal','US');

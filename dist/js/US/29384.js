@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29384"]={"code":"29384","region":"SC","city":"Waterloo","latitude":34.3367,"longitude":-82.088}}(window,'GeoPostal','US');

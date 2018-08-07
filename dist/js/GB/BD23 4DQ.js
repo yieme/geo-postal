@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 4DQ"]={"code":"BD23 4DQ","region":"England","city":"Malham","latitude":54.06191,"longitude":-2.15259}}(window,'GeoPostal','GB');

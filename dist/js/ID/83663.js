@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83663"]={"code":"83663","region":"Nusa Tenggara Barat","city":"Bongkemalik","latitude":-8.6306,"longitude":116.5275}}(window,'GeoPostal','ID');

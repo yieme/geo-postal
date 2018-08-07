@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70160"]={"code":"70160","region":"Ratchaburi","city":"Bang Phae","latitude":13.69157,"longitude":99.92982}}(window,'GeoPostal','TH');

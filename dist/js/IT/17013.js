@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17013"]={"code":"17013","region":"Liguria","city":"Cairo Montenotte","latitude":44.40314,"longitude":8.27455}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57626"]={"code":"57626","region":"South Dakota","city":"Faith","latitude":44.947869,"longitude":-102.026617}}(window,'GeoPostal','US');

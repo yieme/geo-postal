@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25126"]={"code":"25126","region":"Catalunya","city":"Almenar","latitude":41.79604,"longitude":0.56834}}(window,'GeoPostal','ES');

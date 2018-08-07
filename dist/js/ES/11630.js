@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11630"]={"code":"11630","region":"Andalucia","city":"Arcos de la Frontera","latitude":36.75075,"longitude":-5.81056}}(window,'GeoPostal','ES');

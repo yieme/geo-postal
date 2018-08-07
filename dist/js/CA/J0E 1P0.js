@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1P0"]={"code":"J0E 1P0","region":"Quebec","city":"Eastman","latitude":45.30008,"longitude":-72.3158}}(window,'GeoPostal','CA');

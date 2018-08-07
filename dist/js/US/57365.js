@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57365"]={"code":"57365","region":"South Dakota","city":"Oacoma","latitude":43.797491,"longitude":-99.395025}}(window,'GeoPostal','US');

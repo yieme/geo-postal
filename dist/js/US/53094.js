@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53094"]={"code":"53094","region":"Wisconsin","city":"Watertown","latitude":43.19472,"longitude":-88.72899}}(window,'GeoPostal','US');

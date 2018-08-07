@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51024"]={"code":"51024","region":"Iowa","city":"Hinton","latitude":42.622826,"longitude":-96.295793}}(window,'GeoPostal','US');

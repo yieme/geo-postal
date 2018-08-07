@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5750"]={"code":"5750","region":"San Luis","city":"La Toma","latitude":-33.05258,"longitude":-65.62385}}(window,'GeoPostal','AR');

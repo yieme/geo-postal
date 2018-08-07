@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0N 1H0"]={"code":"J0N 1H0","region":"Quebec","city":"Terrebonne","latitude":45.70004,"longitude":-73.64732}}(window,'GeoPostal','CA');

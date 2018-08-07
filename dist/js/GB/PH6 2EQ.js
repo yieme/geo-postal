@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH6 2EQ"]={"code":"PH6 2EQ","region":"Scotland","city":"Dalginross","latitude":56.37055,"longitude":-3.98276}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36853"]={"code":"36853","region":"AL","city":"Dadeville","latitude":32.8224,"longitude":-85.7704}}(window,'GeoPostal','US');

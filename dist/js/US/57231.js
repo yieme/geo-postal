@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57231"]={"code":"57231","region":"South Dakota","city":"De Smet","latitude":44.38747,"longitude":-97.55035}}(window,'GeoPostal','US');

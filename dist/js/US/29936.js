@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29936"]={"code":"29936","region":"SC","city":"Ridgeland","latitude":32.4807,"longitude":-80.9804}}(window,'GeoPostal','US');

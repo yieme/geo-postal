@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66016"]={"code":"66016","region":"Abruzzo","city":"Guardiagrele","latitude":42.19544,"longitude":14.21981}}(window,'GeoPostal','IT');

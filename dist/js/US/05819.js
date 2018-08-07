@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05819"]={"code":"05819","region":"Vermont","city":"Saint Johnsbury","latitude":44.434562,"longitude":-72.039896}}(window,'GeoPostal','US');

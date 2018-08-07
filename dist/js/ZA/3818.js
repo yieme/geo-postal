@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3818"]={"code":"3818","region":"Kwazulu-Natal","city":"Sundumbili","latitude":-29.13371,"longitude":31.39752}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247274"]={"code":"247274","region":"Suceava","city":"Dragoesti","latitude":44.81667,"longitude":24.3}}(window,'GeoPostal','RO');

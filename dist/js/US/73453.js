@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73453"]={"code":"73453","region":"OK","city":"Overbrook","latitude":34.0539,"longitude":-97.1324}}(window,'GeoPostal','US');

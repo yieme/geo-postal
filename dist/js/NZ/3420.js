@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3420"]={"code":"3420","region":"Waikato","city":"Tokoroa","latitude":-38.23333,"longitude":175.86667}}(window,'GeoPostal','NZ');

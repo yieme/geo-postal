@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27012"]={"code":"27012","region":"North Carolina","city":"Clemmons","latitude":36.02153,"longitude":-80.382}}(window,'GeoPostal','US');

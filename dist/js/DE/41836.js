@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41836"]={"code":"41836","region":"Nordrhein-Westfalen","city":"Huckelhoven","latitude":51.0555,"longitude":6.22658}}(window,'GeoPostal','DE');

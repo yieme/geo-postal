@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29013"]={"code":"29013","region":"Emilia-Romagna","city":"Carpaneto Piacentino","latitude":44.91526,"longitude":9.78927}}(window,'GeoPostal','IT');

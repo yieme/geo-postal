@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446377"]={"code":"446377","region":"Ul'yanovskaya oblast'","city":"Mirnyy","latitude":54.36607,"longitude":48.72939}}(window,'GeoPostal','RU');

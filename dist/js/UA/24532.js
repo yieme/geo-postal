@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24532"]={"code":"24532","region":"Vinnytska oblast","city":"Klembivka","latitude":48.39037,"longitude":28.41092}}(window,'GeoPostal','UA');

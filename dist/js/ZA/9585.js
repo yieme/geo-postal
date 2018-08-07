@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9585"]={"code":"9585","region":"Free State","city":"Parys","latitude":-26.9033,"longitude":27.45727}}(window,'GeoPostal','ZA');

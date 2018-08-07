@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8253"]={"code":"8253","region":"Veszprem","city":"Revfueloep","latitude":46.82573,"longitude":17.61967}}(window,'GeoPostal','HU');

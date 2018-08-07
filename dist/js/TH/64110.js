@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64110"]={"code":"64110","region":"Sukhothai","city":"Sawankhalok","latitude":17.31597,"longitude":99.83186}}(window,'GeoPostal','TH');

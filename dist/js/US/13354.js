@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13354"]={"code":"13354","region":"New York","city":"Holland Patent","latitude":43.25364,"longitude":-75.28452}}(window,'GeoPostal','US');

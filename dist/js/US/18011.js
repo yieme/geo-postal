@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18011"]={"code":"18011","region":"PA","city":"Alburtis","latitude":40.5145,"longitude":-75.6029}}(window,'GeoPostal','US');

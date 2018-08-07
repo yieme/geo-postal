@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51645"]={"code":"51645","region":"Nordrhein-Westfalen","city":"Fahrenberg","latitude":50.99371,"longitude":7.63307}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42003"]={"code":"42003","region":"Kentucky","city":"Paducah","latitude":37.030602,"longitude":-88.589245}}(window,'GeoPostal','US');

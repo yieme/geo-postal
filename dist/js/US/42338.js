@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42338"]={"code":"42338","region":"KY","city":"Dundee","latitude":37.552,"longitude":-86.7776}}(window,'GeoPostal','US');

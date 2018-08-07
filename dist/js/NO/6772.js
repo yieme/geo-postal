@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6772"]={"code":"6772","region":"Sogn og Fjordane","city":"Nordfjordeid","latitude":61.90626,"longitude":5.99154}}(window,'GeoPostal','NO');

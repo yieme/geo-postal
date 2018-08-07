@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06610"]={"code":"06610","region":"Extremadura","city":"Penalsordo","latitude":38.82019,"longitude":-5.11405}}(window,'GeoPostal','ES');

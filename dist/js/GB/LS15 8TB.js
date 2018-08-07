@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS15 8TB"]={"code":"LS15 8TB","region":"England","city":"Seacroft","latitude":53.81819,"longitude":-1.45655}}(window,'GeoPostal','GB');

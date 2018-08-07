@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28260"]={"code":"28260","region":"Centre-Val de Loire","city":"Oulins","latitude":48.86451,"longitude":1.47038}}(window,'GeoPostal','FR');

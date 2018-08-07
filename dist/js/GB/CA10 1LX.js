@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 1LX"]={"code":"CA10 1LX","region":"England","city":"Langwathby","latitude":54.69631,"longitude":-2.66882}}(window,'GeoPostal','GB');

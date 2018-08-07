@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6971"]={"code":"6971","region":"Vorarlberg","city":"Dornbirn","latitude":47.41667,"longitude":9.73306}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45505"]={"code":"45505","region":"Ohio","city":"Springfield","latitude":39.909607,"longitude":-83.778323}}(window,'GeoPostal','US');

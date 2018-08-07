@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57402"]={"code":"57402","region":"SD","city":"Aberdeen","latitude":45.5896,"longitude":-98.352}}(window,'GeoPostal','US');

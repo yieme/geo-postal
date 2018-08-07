@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75152"]={"code":"75152","region":"Texas","city":"Palmer","latitude":32.4274,"longitude":-96.6659}}(window,'GeoPostal','US');

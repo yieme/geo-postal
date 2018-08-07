@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90140"]={"code":"90140","region":"Songkhla","city":"Ranot","latitude":7.77768,"longitude":100.32134}}(window,'GeoPostal','TH');

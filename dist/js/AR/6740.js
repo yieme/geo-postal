@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6740"]={"code":"6740","region":"Buenos Aires","city":"Chacabuco","latitude":-34.64167,"longitude":-60.47389}}(window,'GeoPostal','AR');

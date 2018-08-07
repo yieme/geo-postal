@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17178"]={"code":"17178","region":"Catalunya","city":"Bas","latitude":42.11809,"longitude":2.45682}}(window,'GeoPostal','ES');

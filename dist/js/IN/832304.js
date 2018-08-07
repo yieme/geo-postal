@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["832304"]={"code":"832304","region":"Jharkhand","city":"Kalikapur","latitude":22.61667,"longitude":86.28333}}(window,'GeoPostal','IN');

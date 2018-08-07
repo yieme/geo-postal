@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80720"]={"code":"80720","region":"Colorado","city":"Akron","latitude":40.16054,"longitude":-103.21438}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 9NL"]={"code":"DH8 9NL","region":"England","city":"Edmondbyers","latitude":54.84508,"longitude":-1.97568}}(window,'GeoPostal','GB');

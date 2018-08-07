@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76307"]={"code":"76307","region":"Baden-Wurttemberg","city":"Langensteinbach","latitude":48.91675,"longitude":8.50591}}(window,'GeoPostal','DE');

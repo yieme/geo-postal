@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9QP"]={"code":"IP6 9QP","region":"England","city":"Otley","latitude":52.15134,"longitude":1.22}}(window,'GeoPostal','GB');

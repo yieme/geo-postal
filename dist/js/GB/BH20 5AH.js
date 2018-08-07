@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 5AH"]={"code":"BH20 5AH","region":"England","city":"Stoborough","latitude":50.67514,"longitude":-2.11069}}(window,'GeoPostal','GB');

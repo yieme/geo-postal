@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95714"]={"code":"95714","region":"CA","city":"Dutch Flat","latitude":39.1978,"longitude":-120.8262}}(window,'GeoPostal','US');

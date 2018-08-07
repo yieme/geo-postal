@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["921-8046"]={"code":"921-8046","region":"Ishikawa","city":"Kanazawa","latitude":36.567,"longitude":136.65}}(window,'GeoPostal','JP');

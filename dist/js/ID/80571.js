@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80571"]={"code":"80571","region":"Bali","city":"Ubud","latitude":-8.5098,"longitude":115.2654}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141171"]={"code":"141171","region":"Moskovskaya oblast'","city":"Monino","latitude":55.84244,"longitude":38.19362}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-521"]={"code":"14-521","region":"Warminsko-mazurskie","city":"Lelkowo","latitude":54.32458,"longitude":20.2248}}(window,'GeoPostal','PL');

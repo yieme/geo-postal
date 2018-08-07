@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33525"]={"code":"33525","region":"Florida","city":"Dade City North","latitude":28.38334,"longitude":-82.1939}}(window,'GeoPostal','US');

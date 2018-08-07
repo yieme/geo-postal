@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87829"]={"code":"87829","region":"New Mexico","city":"Quemado","latitude":34.31142,"longitude":-108.80988}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01966"]={"code":"01966","region":"Massachusetts","city":"Rockport","latitude":42.658988,"longitude":-70.617729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16693"]={"code":"16693","region":"PA","city":"Williamsburg","latitude":40.4025,"longitude":-78.2558}}(window,'GeoPostal','US');

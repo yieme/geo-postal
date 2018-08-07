@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-515"]={"code":"21-515","region":"Lubelskie","city":"Slawatycze","latitude":51.76338,"longitude":23.5546}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807241"]={"code":"807241","region":"Galati","city":"Slobozia-Conache","latitude":45.58333,"longitude":27.78333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80058"]={"code":"80058","region":"Campania","city":"Torre Annunziata","latitude":40.74971,"longitude":14.46464}}(window,'GeoPostal','IT');

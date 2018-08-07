@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7RE"]={"code":"KW14 7RE","region":"Scotland","city":"Reay","latitude":58.55953,"longitude":-3.77323}}(window,'GeoPostal','GB');

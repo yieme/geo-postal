@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 7UT"]={"code":"DD9 7UT","region":"Scotland","city":"Gannachy","latitude":56.81667,"longitude":-2.65}}(window,'GeoPostal','GB');

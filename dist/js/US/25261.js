@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25261"]={"code":"25261","region":"WV","city":"Millstone","latitude":38.8015,"longitude":-81.0962}}(window,'GeoPostal','US');

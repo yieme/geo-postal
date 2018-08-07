@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652704"]={"code":"652704","region":"Yunnan","city":"Ningzhou","latitude":24.19608,"longitude":102.92705}}(window,'GeoPostal','CN');

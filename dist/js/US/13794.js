@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13794"]={"code":"13794","region":"NY","city":"Killawog","latitude":42.4006,"longitude":-76.0208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42069"]={"code":"42069","region":"KY","city":"Melber","latitude":36.9197,"longitude":-88.752}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462600"]={"code":"462600","region":"Henan","city":"Taichen","latitude":33.76926,"longitude":113.9219}}(window,'GeoPostal','CN');

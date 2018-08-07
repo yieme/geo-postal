@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Zuid-Holland","city":"Spijkenisse","latitude":51.845,"longitude":4.32917}}(window,'GeoPostal','NL');

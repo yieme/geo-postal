@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46695"]={"code":"46695","region":"Vastra Gotalands lan","city":"Sollebrunn","latitude":58.11667,"longitude":12.53333}}(window,'GeoPostal','SE');

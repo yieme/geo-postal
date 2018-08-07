@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545100"]={"code":"545100","region":"Mures","city":"Iernut","latitude":46.45,"longitude":24.25}}(window,'GeoPostal','RO');

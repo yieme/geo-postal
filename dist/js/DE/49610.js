@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49610"]={"code":"49610","region":"Niedersachsen","city":"Hengelage","latitude":52.68453,"longitude":7.95223}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638153"]={"code":"638153","region":"Tamil Nadu","city":"Nangilickondan","latitude":12.25539,"longitude":79.47508}}(window,'GeoPostal','IN');

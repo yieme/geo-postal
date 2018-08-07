@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30593"]={"code":"30593","region":"Murcia, Region de","city":"Cartagena","latitude":37.60512,"longitude":-0.98623}}(window,'GeoPostal','ES');

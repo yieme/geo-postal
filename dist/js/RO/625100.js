@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625100"]={"code":"625100","region":"Vrancea","city":"Adjud","latitude":46.1,"longitude":27.16667}}(window,'GeoPostal','RO');

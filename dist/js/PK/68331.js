@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68331"]={"code":"68331","region":"Sindh","city":"Khipro","latitude":25.82847,"longitude":69.37719}}(window,'GeoPostal','PK');

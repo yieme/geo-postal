@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 4BA"]={"code":"CT15 4BA","region":"England","city":"Eythorne","latitude":51.1971,"longitude":1.2662}}(window,'GeoPostal','GB');

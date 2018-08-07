@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21781"]={"code":"21781","region":"Schleswig-Holstein","city":"Westercadewisch","latitude":53.76982,"longitude":9.036}}(window,'GeoPostal','DE');

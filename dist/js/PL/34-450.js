@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-450"]={"code":"34-450","region":"Malopolskie","city":"Kroscienko nad Dunajcem","latitude":49.44081,"longitude":20.42624}}(window,'GeoPostal','PL');

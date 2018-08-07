@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6270-196"]={"code":"6270-196","region":"Guarda","city":"Seia","latitude":40.4151,"longitude":-7.70859}}(window,'GeoPostal','PT');

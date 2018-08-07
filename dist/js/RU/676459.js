@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676459"]={"code":"676459","region":"Amurskaya oblast'","city":"Svobodnyy","latitude":51.4,"longitude":128.13333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2DH"]={"code":"KW17 2DH","region":"Scotland","city":"Pierowall","latitude":59.31944,"longitude":-2.99051}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE70 7HY"]={"code":"NE70 7HY","region":"England","city":"Warenford","latitude":55.54983,"longitude":-1.78442}}(window,'GeoPostal','GB');

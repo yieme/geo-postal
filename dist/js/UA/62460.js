@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62460"]={"code":"62460","region":"Kharkivska oblast","city":"Vysokyy","latitude":49.8892,"longitude":36.1321}}(window,'GeoPostal','UA');

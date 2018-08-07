@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0G 1J0"]={"code":"J0G 1J0","region":"Quebec","city":"Pierreville","latitude":46.07034,"longitude":-72.81125}}(window,'GeoPostal','CA');

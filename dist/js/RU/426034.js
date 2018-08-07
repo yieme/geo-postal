@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["426034"]={"code":"426034","region":"Novgorodskaya oblast'","city":"Velikiy Novgorod","latitude":58.51667,"longitude":31.28333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57241"]={"code":"57241","region":"SD","city":"Hayti","latitude":44.6647,"longitude":-97.2305}}(window,'GeoPostal','US');

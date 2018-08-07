@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40868"]={"code":"40868","region":"KY","city":"Stinnett","latitude":37.0883,"longitude":-83.3907}}(window,'GeoPostal','US');

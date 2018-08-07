@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140225"]={"code":"140225","region":"Moskovskaya oblast'","city":"Lopatinskiy","latitude":55.34101,"longitude":38.72366}}(window,'GeoPostal','RU');

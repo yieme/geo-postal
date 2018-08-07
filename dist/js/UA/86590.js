@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86590"]={"code":"86590","region":"Donetska oblast","city":"Snizhne","latitude":48.02612,"longitude":38.77225}}(window,'GeoPostal','UA');

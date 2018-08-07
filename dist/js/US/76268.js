@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76268"]={"code":"76268","region":"TX","city":"Southmayd","latitude":33.6304,"longitude":-96.7692}}(window,'GeoPostal','US');

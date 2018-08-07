@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2406"]={"code":"2406","region":"New South Wales","city":"Weemelah","latitude":-29.01667,"longitude":149.26667}}(window,'GeoPostal','AU');

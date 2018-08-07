@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3690"]={"code":"3690","region":"Victoria","city":"Wodonga","latitude":-36.12179,"longitude":146.88809}}(window,'GeoPostal','AU');

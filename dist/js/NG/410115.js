@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["410115"]={"code":"410115","region":"Enugu","city":"Nsukka","latitude":6.8561,"longitude":7.3927}}(window,'GeoPostal','NG');

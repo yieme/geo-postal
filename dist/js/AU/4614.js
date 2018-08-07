@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4614"]={"code":"4614","region":"Queensland","city":"Yarraman","latitude":-26.84167,"longitude":151.98138}}(window,'GeoPostal','AU');

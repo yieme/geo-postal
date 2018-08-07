@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433742"]={"code":"433742","region":"Ul'yanovskaya oblast'","city":"Starotimoshkino","latitude":53.71908,"longitude":47.53116}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27480"]={"code":"27480","region":"NC","city":"Sears Roebuck","latitude":36.07,"longitude":-79.79}}(window,'GeoPostal','US');

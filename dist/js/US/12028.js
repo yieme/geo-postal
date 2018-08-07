@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12028"]={"code":"12028","region":"NY","city":"Buskirk","latitude":42.9601,"longitude":-73.4497}}(window,'GeoPostal','US');

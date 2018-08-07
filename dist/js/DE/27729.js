@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27729"]={"code":"27729","region":"Niedersachsen","city":"Wallhofen","latitude":53.3228,"longitude":8.88583}}(window,'GeoPostal','DE');

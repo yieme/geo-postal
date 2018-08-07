@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93633"]={"code":"93633","region":"CA","city":"Kings Canyon National Pk","latitude":36.7341,"longitude":-118.9588}}(window,'GeoPostal','US');

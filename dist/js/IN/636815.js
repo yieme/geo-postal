@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636815"]={"code":"636815","region":"Tamil Nadu","city":"Mallapuram","latitude":11.96667,"longitude":78.25}}(window,'GeoPostal','IN');

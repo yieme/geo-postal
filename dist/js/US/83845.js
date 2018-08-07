@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83845"]={"code":"83845","region":"Idaho","city":"Moyie Springs","latitude":48.696053,"longitude":-116.304365}}(window,'GeoPostal','US');

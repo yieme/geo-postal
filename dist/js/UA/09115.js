@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09115"]={"code":"09115","region":"Kyivska oblast","city":"Bila Tserkva","latitude":49.80939,"longitude":30.11209}}(window,'GeoPostal','UA');

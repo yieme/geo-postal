@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16110"]={"code":"16110","region":"Bolu","city":"Goynuk","latitude":40.40028,"longitude":30.78833}}(window,'GeoPostal','TR');

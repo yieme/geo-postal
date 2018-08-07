@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43164"]={"code":"43164","region":"Ohio","city":"Williamsport","latitude":39.597817,"longitude":-83.119544}}(window,'GeoPostal','US');

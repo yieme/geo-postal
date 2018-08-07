@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19610"]={"code":"19610","region":"Pennsylvania","city":"Wyomissing","latitude":40.338971,"longitude":-75.981605}}(window,'GeoPostal','US');

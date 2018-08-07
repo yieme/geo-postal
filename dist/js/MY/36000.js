@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36000"]={"code":"36000","region":"Perak","city":"Teluk Intan","latitude":4.0259,"longitude":101.0213}}(window,'GeoPostal','MY');

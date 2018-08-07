@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20658"]={"code":"20658","region":"MD","city":"Marbury","latitude":38.5633,"longitude":-77.1596}}(window,'GeoPostal','US');

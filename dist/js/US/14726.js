@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14726"]={"code":"14726","region":"NY","city":"Conewango Valley","latitude":42.2625,"longitude":-79.022}}(window,'GeoPostal','US');

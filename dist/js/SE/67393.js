@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67393"]={"code":"67393","region":"Varmlands lan","city":"Charlottenberg","latitude":59.88422,"longitude":12.30398}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100-057"]={"code":"2100-057","region":"Santarem","city":"Coruche","latitude":38.95955,"longitude":-8.52524}}(window,'GeoPostal','PT');

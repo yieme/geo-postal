@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4556"]={"code":"4556","region":"Queensland","city":"Sippy Downs","latitude":-26.71793,"longitude":153.05475}}(window,'GeoPostal','AU');

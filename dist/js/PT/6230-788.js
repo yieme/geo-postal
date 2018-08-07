@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6230-788"]={"code":"6230-788","region":"Castelo Branco","city":"Castelo Branco","latitude":39.82219,"longitude":-7.49087}}(window,'GeoPostal','PT');

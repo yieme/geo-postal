@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46128"]={"code":"46128","region":"IN","city":"Fillmore","latitude":39.6475,"longitude":-86.7469}}(window,'GeoPostal','US');

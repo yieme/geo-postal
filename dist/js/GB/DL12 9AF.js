@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 9AF"]={"code":"DL12 9AF","region":"England","city":"Startforth","latitude":54.53851,"longitude":-1.93016}}(window,'GeoPostal','GB');

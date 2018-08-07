@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6900"]={"code":"6900","region":"Kardzhali","city":"Krumovgrad","latitude":41.46667,"longitude":25.65}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18046"]={"code":"18046","region":"Pennsylvania","city":"East Texas","latitude":40.54654,"longitude":-75.56164}}(window,'GeoPostal','US');

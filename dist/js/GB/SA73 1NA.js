@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1NA"]={"code":"SA73 1NA","region":"Wales","city":"Hill Mountain","latitude":51.73667,"longitude":-4.93139}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4633"]={"code":"4633","region":"Lemesos","city":"Sotira","latitude":34.72917,"longitude":32.8625}}(window,'GeoPostal','CY');

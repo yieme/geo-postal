@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO9 6BW"]={"code":"PO9 6BW","region":"England","city":"Rowlands Castle","latitude":50.89101,"longitude":-0.95809}}(window,'GeoPostal','GB');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SS"]={id:'SS',country:'South Sudan', postal:{'85521':{code:'85521',region:'Central Equatoria',city:'Juba',latitude:4.85165,longitude:31.58247},'':{code:'',region:'Central Equatoria',city:'Juba',latitude:4.85165,longitude:31.58247}}};

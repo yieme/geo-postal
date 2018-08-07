@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3100"]={"code":"3100","region":"Entre Rios","city":"Parana","latitude":-31.73197,"longitude":-60.5238}}(window,'GeoPostal','AR');

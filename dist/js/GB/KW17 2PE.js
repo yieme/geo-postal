@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2PE"]={"code":"KW17 2PE","region":"Scotland","city":"Georth","latitude":59.1,"longitude":-3.08333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322036"]={"code":"322036","region":"Rajasthan","city":"Sawai Madhopur","latitude":25.98333,"longitude":76.36667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86200-000"]={"code":"86200-000","region":"Parana","city":"Londrina","latitude":-23.31028,"longitude":-51.16278}}(window,'GeoPostal','BR');

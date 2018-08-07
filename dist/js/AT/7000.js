@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Burgenland","city":"Eisenstadt","latitude":47.85,"longitude":16.51667}}(window,'GeoPostal','AT');

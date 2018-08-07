@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72409"]={"code":"72409","region":"Pays-de-la-Loire","city":"La Ferte-Bernard","latitude":48.18633,"longitude":0.65357}}(window,'GeoPostal','FR');

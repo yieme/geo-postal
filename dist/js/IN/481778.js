@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["481778"]={"code":"481778","region":"Madhya Pradesh","city":"Balaghat","latitude":21.8,"longitude":80.18333}}(window,'GeoPostal','IN');

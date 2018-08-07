@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 67"]={"code":"250 67","region":"Stredocesky kraj","city":"Klecany","latitude":50.17599,"longitude":14.41148}}(window,'GeoPostal','CZ');

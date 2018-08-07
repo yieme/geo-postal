@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74730"]={"code":"74730","region":"Puebla","city":"Chiautla de Tapia","latitude":18.28333,"longitude":-98.6}}(window,'GeoPostal','MX');

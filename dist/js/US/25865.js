@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25865"]={"code":"25865","region":"WV","city":"Lester","latitude":37.7265,"longitude":-81.3095}}(window,'GeoPostal','US');

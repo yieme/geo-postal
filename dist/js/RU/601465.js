@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601465"]={"code":"601465","region":"Moskovskaya oblast'","city":"Proletarskiy","latitude":55.02219,"longitude":37.39019}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51365"]={"code":"51365","region":"IA","city":"Wallingford","latitude":43.3189,"longitude":-94.7964}}(window,'GeoPostal','US');

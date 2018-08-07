@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62316"]={"code":"62316","region":"IL","city":"Bowen","latitude":40.2341,"longitude":-91.0705}}(window,'GeoPostal','US');

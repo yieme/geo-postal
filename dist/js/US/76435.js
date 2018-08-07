@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76435"]={"code":"76435","region":"TX","city":"Carbon","latitude":32.2701,"longitude":-98.8348}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312-806"]={"code":"312-806","region":"Chungcheongnam-do","city":"Kinzan","latitude":36.10306,"longitude":127.48889}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["920140"]={"code":"920140","region":"Ialomita","city":"Amara","latitude":44.61667,"longitude":27.31667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA71 5RG"]={"code":"SA71 5RG","region":"Wales","city":"Hundleton","latitude":51.66694,"longitude":-4.94917}}(window,'GeoPostal','GB');

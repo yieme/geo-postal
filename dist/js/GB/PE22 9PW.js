@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 9PW"]={"code":"PE22 9PW","region":"England","city":"Boston","latitude":52.97633,"longitude":-0.02664}}(window,'GeoPostal','GB');

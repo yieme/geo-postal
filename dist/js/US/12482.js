@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12482"]={"code":"12482","region":"NY","city":"South Cairo","latitude":42.2681,"longitude":-73.9554}}(window,'GeoPostal','US');

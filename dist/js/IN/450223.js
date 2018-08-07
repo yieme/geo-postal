@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450223"]={"code":"450223","region":"Madhya Pradesh","city":"Nepa Nagar","latitude":21.46667,"longitude":76.4}}(window,'GeoPostal','IN');

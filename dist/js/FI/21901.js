@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21901"]={"code":"21901","region":"Varsinais-Suomi","city":"Ylane","latitude":60.88333,"longitude":22.41667}}(window,'GeoPostal','FI');

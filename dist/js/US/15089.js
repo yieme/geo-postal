@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15089"]={"code":"15089","region":"PA","city":"West Newton","latitude":40.2075,"longitude":-79.758}}(window,'GeoPostal','US');

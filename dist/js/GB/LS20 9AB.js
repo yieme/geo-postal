@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS20 9AB"]={"code":"LS20 9AB","region":"England","city":"Guiseley","latitude":53.87561,"longitude":-1.71232}}(window,'GeoPostal','GB');

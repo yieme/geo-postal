@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49342"]={"code":"49342","region":"Michigan","city":"Rodney","latitude":43.700626,"longitude":-85.311056}}(window,'GeoPostal','US');

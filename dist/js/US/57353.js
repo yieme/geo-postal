@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57353"]={"code":"57353","region":"South Dakota","city":"Iroquois","latitude":44.36639,"longitude":-97.85}}(window,'GeoPostal','US');

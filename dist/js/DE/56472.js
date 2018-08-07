@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56472"]={"code":"56472","region":"Rheinland-Pfalz","city":"Hof","latitude":50.66667,"longitude":8.01667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57195"]={"code":"57195","region":"Jonkopings lan","city":"Nassjo","latitude":57.65307,"longitude":14.69676}}(window,'GeoPostal','SE');

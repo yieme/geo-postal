@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28074"]={"code":"28074","region":"NC","city":"Harris","latitude":35.2247,"longitude":-81.8851}}(window,'GeoPostal','US');

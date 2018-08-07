@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63656"]={"code":"63656","region":"Missouri","city":"Middle Brook","latitude":37.694358,"longitude":-90.684065}}(window,'GeoPostal','US');

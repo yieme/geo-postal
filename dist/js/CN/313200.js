@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313200"]={"code":"313200","region":"Zhejiang","city":"Deqing","latitude":30.54485,"longitude":119.9599}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18190"]={"code":"18190","region":"Mecklenburg-Vorpommern","city":"Sanitz","latitude":54.07757,"longitude":12.37558}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37345"]={"code":"37345","region":"Thuringen","city":"Silkerode","latitude":51.56667,"longitude":10.4}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69129"]={"code":"69129","region":"Nebraska","city":"Chappell","latitude":41.09277,"longitude":-102.47074}}(window,'GeoPostal','US');

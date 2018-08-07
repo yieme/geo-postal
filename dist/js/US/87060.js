@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87060"]={"code":"87060","region":"NM","city":"Tome","latitude":34.7426,"longitude":-106.7328}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629197"]={"code":"629197","region":"Tamil Nadu","city":"Nilakkottai","latitude":10.16667,"longitude":77.86667}}(window,'GeoPostal','IN');

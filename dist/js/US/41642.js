@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41642"]={"code":"41642","region":"Kentucky","city":"Ivel","latitude":37.598604,"longitude":-82.660383}}(window,'GeoPostal','US');

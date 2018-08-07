@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66020"]={"code":"66020","region":"KS","city":"Easton","latitude":39.3391,"longitude":-95.0999}}(window,'GeoPostal','US');

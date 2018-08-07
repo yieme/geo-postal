@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 01"]={"code":"680 01","region":"Jihomoravsky kraj","city":"Boskovice","latitude":49.48751,"longitude":16.65997}}(window,'GeoPostal','CZ');

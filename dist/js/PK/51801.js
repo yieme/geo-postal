@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51801"]={"code":"51801","region":"Punjab","city":"Shakargarr","latitude":32.26232,"longitude":75.16682}}(window,'GeoPostal','PK');

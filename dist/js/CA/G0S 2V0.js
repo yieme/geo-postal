@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0S 2V0"]={"code":"G0S 2V0","region":"Quebec","city":"Saint-Joseph-de-Beauce","latitude":46.3,"longitude":-70.86667}}(window,'GeoPostal','CA');

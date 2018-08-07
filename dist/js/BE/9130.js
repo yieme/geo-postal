@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9130"]={"code":"9130","region":"Oost-Vlaanderen","city":"Beveren","latitude":51.21187,"longitude":4.25633}}(window,'GeoPostal','BE');

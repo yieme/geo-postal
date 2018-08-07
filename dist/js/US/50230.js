@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50230"]={"code":"50230","region":"Iowa","city":"Radcliffe","latitude":42.315134,"longitude":-93.43131}}(window,'GeoPostal','US');

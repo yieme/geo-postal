@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15339"]={"code":"15339","region":"Galicia","city":"Santa Marta de Ortigueira","latitude":43.68333,"longitude":-7.85}}(window,'GeoPostal','ES');

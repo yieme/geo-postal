@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1270300"]={"code":"1270300","region":"Antofagasta","city":"Antofagasta","latitude":-23.65,"longitude":-70.4}}(window,'GeoPostal','CL');

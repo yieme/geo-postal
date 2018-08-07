@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4P 0A2"]={"code":"E4P 0A2","region":"New Brunswick","city":"Pointe-du-Chene","latitude":46.23344,"longitude":-64.53205}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40351"]={"code":"40351","region":"Punjab","city":"Jhawarian","latitude":32.36139,"longitude":72.62278}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6511"]={"code":"6511","region":"Western Australia","city":"Cervantes","latitude":-30.49611,"longitude":115.06716}}(window,'GeoPostal','AU');

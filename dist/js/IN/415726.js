@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415726"]={"code":"415726","region":"Maharashtra","city":"Chiplun","latitude":17.53333,"longitude":73.51667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04107"]={"code":"04107","region":"Sachsen","city":"Leipzig","latitude":51.33962,"longitude":12.37129}}(window,'GeoPostal','DE');

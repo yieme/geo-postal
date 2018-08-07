@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23941"]={"code":"23941","region":"VA","city":"Fort Mitchell","latitude":36.9182,"longitude":-78.4861}}(window,'GeoPostal','US');

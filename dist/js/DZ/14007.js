@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14007"]={"code":"14007","region":"Tiaret","city":"'Ain Deheb","latitude":34.84218,"longitude":1.54698}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S9H 4H4"]={"code":"S9H 4H4","region":"Saskatchewan","city":"Dunelm","latitude":50.18337,"longitude":-107.81805}}(window,'GeoPostal','CA');

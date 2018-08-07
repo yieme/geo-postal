@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53036"]={"code":"53036","region":"Toscana","city":"Poggibonsi","latitude":43.47244,"longitude":11.14562}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 04"]={"code":"340 04","region":"Plzensky kraj","city":"Zelezna Ruda","latitude":49.13743,"longitude":13.2352}}(window,'GeoPostal','CZ');

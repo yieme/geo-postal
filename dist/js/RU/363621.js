@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363621"]={"code":"363621","region":"Severnaya Osetiya, Respublika","city":"Zmeyskaya","latitude":43.33617,"longitude":44.15733}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2610"]={"code":"2610","region":"Bern","city":"Saint-Imier","latitude":47.15284,"longitude":6.99692}}(window,'GeoPostal','CH');

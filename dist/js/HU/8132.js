@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8132"]={"code":"8132","region":"Fejer","city":"Lepseny","latitude":46.99036,"longitude":18.24358}}(window,'GeoPostal','HU');

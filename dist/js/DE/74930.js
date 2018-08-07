@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74930"]={"code":"74930","region":"Baden-Wurttemberg","city":"Ittlingen","latitude":49.19083,"longitude":8.93083}}(window,'GeoPostal','DE');

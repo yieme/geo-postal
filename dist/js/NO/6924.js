@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6924"]={"code":"6924","region":"Sogn og Fjordane","city":"Hardbakke","latitude":61.07111,"longitude":4.83716}}(window,'GeoPostal','NO');

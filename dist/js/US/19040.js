@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19040"]={"code":"19040","region":"Pennsylvania","city":"Hatboro","latitude":40.176351,"longitude":-75.107537}}(window,'GeoPostal','US');

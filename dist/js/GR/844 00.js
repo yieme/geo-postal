@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["844 00"]={"code":"844 00","region":"Notio Aigaio","city":"Paros","latitude":37.08333,"longitude":25.15}}(window,'GeoPostal','GR');

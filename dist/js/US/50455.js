@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50455"]={"code":"50455","region":"IA","city":"Mc Intire","latitude":43.45,"longitude":-92.6048}}(window,'GeoPostal','US');

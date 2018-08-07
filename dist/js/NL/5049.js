@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5049"]={"code":"5049","region":"Noord-Brabant","city":"Tilburg","latitude":51.55551,"longitude":5.0913}}(window,'GeoPostal','NL');

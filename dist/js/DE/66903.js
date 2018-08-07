@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66903"]={"code":"66903","region":"Rheinland-Pfalz","city":"Frohnhofen","latitude":49.45384,"longitude":7.29939}}(window,'GeoPostal','DE');

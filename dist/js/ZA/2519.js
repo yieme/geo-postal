@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2519"]={"code":"2519","region":"Gauteng","city":"Carletonville","latitude":-26.36094,"longitude":27.39767}}(window,'GeoPostal','ZA');

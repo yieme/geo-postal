@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95320-000"]={"code":"95320-000","region":"Rio Grande do Sul","city":"Nova Prata","latitude":-28.78389,"longitude":-51.61}}(window,'GeoPostal','BR');

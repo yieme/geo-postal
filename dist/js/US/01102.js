@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01102"]={"code":"01102","region":"Massachusetts","city":"Springfield","latitude":42.115033,"longitude":-72.539045}}(window,'GeoPostal','US');

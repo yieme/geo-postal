@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70515"]={"code":"70515","region":"Louisiana","city":"Basile","latitude":30.4852,"longitude":-92.59597}}(window,'GeoPostal','US');

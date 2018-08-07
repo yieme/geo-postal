@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18054"]={"code":"18054","region":"PA","city":"Green Lane","latitude":40.3534,"longitude":-75.4351}}(window,'GeoPostal','US');

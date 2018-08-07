@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676701"]={"code":"676701","region":"Amurskaya oblast'","city":"Bureya","latitude":49.8133,"longitude":129.8131}}(window,'GeoPostal','RU');

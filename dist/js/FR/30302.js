@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30302"]={"code":"30302","region":"Occitanie","city":"Beaucaire","latitude":43.80806,"longitude":4.64417}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19901"]={"code":"19901","region":"Delaware","city":"Dover","latitude":39.15817,"longitude":-75.52437}}(window,'GeoPostal','US');

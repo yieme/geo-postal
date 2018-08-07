@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82491"]={"code":"82491","region":"Bayern","city":"Grainau","latitude":47.47614,"longitude":11.02405}}(window,'GeoPostal','DE');

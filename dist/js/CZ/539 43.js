@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["539 43"]={"code":"539 43","region":"Pardubicky kraj","city":"Krouna","latitude":49.7724,"longitude":16.02674}}(window,'GeoPostal','CZ');

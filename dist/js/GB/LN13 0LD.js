@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 0LD"]={"code":"LN13 0LD","region":"England","city":"Withern","latitude":53.31999,"longitude":0.15283}}(window,'GeoPostal','GB');

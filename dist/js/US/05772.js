@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05772"]={"code":"05772","region":"VT","city":"Stockbridge","latitude":43.7738,"longitude":-72.7814}}(window,'GeoPostal','US');

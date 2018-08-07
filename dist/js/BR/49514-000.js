@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49514-000"]={"code":"49514-000","region":"Sergipe","city":"Frei Paulo","latitude":-10.54944,"longitude":-37.53444}}(window,'GeoPostal','BR');

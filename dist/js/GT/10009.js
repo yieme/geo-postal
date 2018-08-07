@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10009"]={"code":"10009","region":"Quetzaltenango","city":"Samayac","latitude":14.58084,"longitude":-91.46135}}(window,'GeoPostal','GT');

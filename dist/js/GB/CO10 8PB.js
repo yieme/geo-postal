@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 8PB"]={"code":"CO10 8PB","region":"England","city":"Clare","latitude":52.07861,"longitude":0.58167}}(window,'GeoPostal','GB');

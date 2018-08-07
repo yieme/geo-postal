@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99559"]={"code":"99559","region":"Alaska","city":"Bethel","latitude":60.79222,"longitude":-161.75583}}(window,'GeoPostal','US');

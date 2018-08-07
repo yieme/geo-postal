@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49248"]={"code":"49248","region":"MI","city":"Jasper","latitude":41.7704,"longitude":-84.0011}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652605"]={"code":"652605","region":"Yunnan","city":"Jiangcheng","latitude":24.42417,"longitude":102.805}}(window,'GeoPostal','CN');

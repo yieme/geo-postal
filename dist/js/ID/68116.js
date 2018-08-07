@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68116"]={"code":"68116","region":"Jawa Timur","city":"Kebonwaru Satu","latitude":-8.1532,"longitude":113.6721}}(window,'GeoPostal','ID');

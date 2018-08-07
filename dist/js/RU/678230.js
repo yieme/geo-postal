@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678230"]={"code":"678230","region":"Saha, Respublika","city":"Verkhnevilyuysk","latitude":63.44528,"longitude":120.31667}}(window,'GeoPostal','RU');

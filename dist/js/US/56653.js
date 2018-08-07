@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56653"]={"code":"56653","region":"Minnesota","city":"Littlefork","latitude":48.39778,"longitude":-93.55694}}(window,'GeoPostal','US');

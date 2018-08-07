@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12747"]={"code":"12747","region":"NY","city":"Hurleyville","latitude":41.7356,"longitude":-74.6743}}(window,'GeoPostal','US');

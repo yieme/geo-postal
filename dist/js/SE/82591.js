@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82591"]={"code":"82591","region":"Gavleborgs lan","city":"Iggesund","latitude":61.64444,"longitude":17.08306}}(window,'GeoPostal','SE');

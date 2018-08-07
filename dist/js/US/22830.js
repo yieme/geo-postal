@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22830"]={"code":"22830","region":"VA","city":"Fulks Run","latitude":38.6339,"longitude":-78.9358}}(window,'GeoPostal','US');

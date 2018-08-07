@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4W 3T8"]={"code":"E4W 3T8","region":"New Brunswick","city":"Richibucto","latitude":46.68073,"longitude":-64.88044}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97571"]={"code":"97571","region":"Avtonomna Respublika Krym","city":"Dobre","latitude":44.86632,"longitude":34.22661}}(window,'GeoPostal','UA');

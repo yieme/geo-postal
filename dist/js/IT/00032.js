@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00032"]={"code":"00032","region":"Lazio","city":"Carpineto Romano","latitude":41.60442,"longitude":13.0851}}(window,'GeoPostal','IT');

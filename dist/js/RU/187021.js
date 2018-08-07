@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187021"]={"code":"187021","region":"Leningradskaya oblast'","city":"Fedorovskoye","latitude":59.66306,"longitude":30.53222}}(window,'GeoPostal','RU');

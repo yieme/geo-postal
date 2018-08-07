@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85312"]={"code":"85312","region":"AZ","city":"Glendale","latitude":33.5387,"longitude":-112.186}}(window,'GeoPostal','US');

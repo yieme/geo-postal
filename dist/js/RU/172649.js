@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172649"]={"code":"172649","region":"Tverskaya oblast'","city":"Zapadnaya Dvina","latitude":56.25901,"longitude":32.07454}}(window,'GeoPostal','RU');

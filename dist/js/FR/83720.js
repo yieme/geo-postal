@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83720"]={"code":"83720","region":"Provence-Alpes-Cote d'Azur","city":"Trans-en-Provence","latitude":43.505,"longitude":6.48571}}(window,'GeoPostal','FR');

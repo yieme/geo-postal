@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6488"]={"code":"6488","region":"Western Australia","city":"Trayning","latitude":-31.11667,"longitude":117.8}}(window,'GeoPostal','AU');

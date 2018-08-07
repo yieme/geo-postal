@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23399"]={"code":"23399","region":"VA","city":"Jenkins Bridge","latitude":37.9162,"longitude":-75.6168}}(window,'GeoPostal','US');

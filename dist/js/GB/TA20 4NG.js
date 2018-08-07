@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA20 4NG"]={"code":"TA20 4NG","region":"England","city":"Thorncombe","latitude":50.82586,"longitude":-2.88788}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2203"]={"code":"2203","region":"Manica","city":"Chimoio","latitude":-19.11639,"longitude":33.48333}}(window,'GeoPostal','MZ');

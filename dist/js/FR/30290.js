@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30290"]={"code":"30290","region":"Occitanie","city":"Laudun-l'Ardoise","latitude":44.1,"longitude":4.66667}}(window,'GeoPostal','FR');

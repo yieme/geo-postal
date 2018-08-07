@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66014"]={"code":"66014","region":"Abruzzo","city":"Crecchio","latitude":42.28914,"longitude":14.32291}}(window,'GeoPostal','IT');

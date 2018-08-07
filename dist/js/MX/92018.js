@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92018"]={"code":"92018","region":"Veracruz de Ignacio de la Llave","city":"Moralillo","latitude":22.21667,"longitude":-97.9}}(window,'GeoPostal','MX');

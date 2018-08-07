@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV6 7XA"]={"code":"IV6 7XA","region":"Scotland","city":"Redcastle","latitude":57.51667,"longitude":-4.53333}}(window,'GeoPostal','GB');

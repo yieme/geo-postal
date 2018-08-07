@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15081"]={"code":"15081","region":"PA","city":"South Heights","latitude":40.5763,"longitude":-80.2383}}(window,'GeoPostal','US');

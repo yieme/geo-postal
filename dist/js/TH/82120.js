@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82120"]={"code":"82120","region":"Phangnga","city":"Thai Mueang","latitude":8.39914,"longitude":98.26061}}(window,'GeoPostal','TH');

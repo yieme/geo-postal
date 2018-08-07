@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26140"]={"code":"26140","region":"Auvergne-Rhone-Alpes","city":"Albon","latitude":45.2464,"longitude":4.8494}}(window,'GeoPostal','FR');

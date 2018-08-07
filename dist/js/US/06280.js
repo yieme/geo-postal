@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06280"]={"code":"06280","region":"CT","city":"Windham","latitude":41.7027,"longitude":-72.1526}}(window,'GeoPostal','US');

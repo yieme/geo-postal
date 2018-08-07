@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3984"]={"code":"3984","region":"Valais","city":"Fiesch","latitude":46.40039,"longitude":8.1311}}(window,'GeoPostal','CH');

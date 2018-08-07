@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70002"]={"code":"70002","region":"Colonia","city":"Tarariras","latitude":-34.28333,"longitude":-57.61667}}(window,'GeoPostal','UY');

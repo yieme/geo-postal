@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60220"]={"code":"60220","region":"Nakhon Sawan","city":"Phai Sali","latitude":15.59764,"longitude":100.65853}}(window,'GeoPostal','TH');

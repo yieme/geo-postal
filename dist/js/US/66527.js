@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66527"]={"code":"66527","region":"KS","city":"Powhattan","latitude":39.7177,"longitude":-95.6751}}(window,'GeoPostal','US');

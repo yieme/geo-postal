@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02771"]={"code":"02771","region":"Massachusetts","city":"Seekonk","latitude":41.840794,"longitude":-71.324268}}(window,'GeoPostal','US');

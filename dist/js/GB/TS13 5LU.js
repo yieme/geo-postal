@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 5LU"]={"code":"TS13 5LU","region":"England","city":"Mickleby","latitude":54.50589,"longitude":-0.76295}}(window,'GeoPostal','GB');

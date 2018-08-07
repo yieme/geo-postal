@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 7AB"]={"code":"SA14 7AB","region":"Wales","city":"Drefach","latitude":51.79639,"longitude":-4.13417}}(window,'GeoPostal','GB');

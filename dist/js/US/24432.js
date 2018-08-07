@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24432"]={"code":"24432","region":"VA","city":"Deerfield","latitude":38.1842,"longitude":-79.4152}}(window,'GeoPostal','US');

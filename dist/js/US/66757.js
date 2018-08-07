@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66757"]={"code":"66757","region":"Kansas","city":"Neodesha","latitude":37.41839,"longitude":-95.68026}}(window,'GeoPostal','US');

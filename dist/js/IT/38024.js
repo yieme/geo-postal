@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38024"]={"code":"38024","region":"Trentino-Alto Adige","city":"Peio","latitude":46.36291,"longitude":10.67296}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 2M0"]={"code":"S0C 2M0","region":"Saskatchewan","city":"Tribune","latitude":49.25006,"longitude":-103.81772}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44540"]={"code":"44540","region":"Aragon","city":"Albalate del Arzobispo","latitude":41.12173,"longitude":-0.51142}}(window,'GeoPostal','ES');

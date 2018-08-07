@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21830"]={"code":"21830","region":"MD","city":"Hebron","latitude":38.4026,"longitude":-75.6963}}(window,'GeoPostal','US');

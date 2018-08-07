@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1040"]={"code":"1040","region":"Skopje","city":"Skopje","latitude":42,"longitude":21.43333}}(window,'GeoPostal','MK');

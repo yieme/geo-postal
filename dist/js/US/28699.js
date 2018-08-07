@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28699"]={"code":"28699","region":"NC","city":"Scotts","latitude":35.831,"longitude":-81.0076}}(window,'GeoPostal','US');

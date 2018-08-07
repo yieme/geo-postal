@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46033"]={"code":"46033","region":"Lombardia","city":"Castel d'Ario","latitude":45.18798,"longitude":10.97449}}(window,'GeoPostal','IT');

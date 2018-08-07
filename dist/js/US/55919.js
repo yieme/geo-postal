@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55919"]={"code":"55919","region":"Minnesota","city":"Brownsville","latitude":43.68905,"longitude":-91.296454}}(window,'GeoPostal','US');

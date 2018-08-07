@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84030"]={"code":"84030","region":"Bayern","city":"Ergolding","latitude":48.57654,"longitude":12.17102}}(window,'GeoPostal','DE');

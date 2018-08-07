@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23602"]={"code":"23602","region":"Tadla-Azilal","city":"Sidi Jaber","latitude":32.38952,"longitude":-6.42095}}(window,'GeoPostal','MA');

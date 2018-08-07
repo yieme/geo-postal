@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["027-0202"]={"code":"027-0202","region":"Iwate","city":"Miyako","latitude":39.633,"longitude":141.95}}(window,'GeoPostal','JP');

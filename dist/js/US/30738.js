@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30738"]={"code":"30738","region":"Georgia","city":"Rising Fawn","latitude":34.76,"longitude":-85.53111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42634"]={"code":"42634","region":"Bartin","city":"Ulus","latitude":41.58417,"longitude":32.64139}}(window,'GeoPostal','TR');

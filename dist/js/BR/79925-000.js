@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79925-000"]={"code":"79925-000","region":"Mato Grosso do Sul","city":"Paranhos","latitude":-23.89278,"longitude":-55.43111}}(window,'GeoPostal','BR');

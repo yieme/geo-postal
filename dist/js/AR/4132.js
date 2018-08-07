@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4132"]={"code":"4132","region":"Tucuman","city":"Famailla","latitude":-27.05413,"longitude":-65.40329}}(window,'GeoPostal','AR');

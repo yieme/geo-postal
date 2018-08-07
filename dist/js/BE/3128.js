@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3128"]={"code":"3128","region":"Vlaams-Brabant","city":"Tremelo","latitude":50.99231,"longitude":4.70807}}(window,'GeoPostal','BE');

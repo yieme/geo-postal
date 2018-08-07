@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39826"]={"code":"39826","region":"GA","city":"Bronwood","latitude":31.8308,"longitude":-84.364}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07481"]={"code":"07481","region":"New Jersey","city":"Wyckoff","latitude":40.99845,"longitude":-74.166567}}(window,'GeoPostal','US');

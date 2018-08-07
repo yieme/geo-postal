@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48311"]={"code":"48311","region":"Michigan","city":"Sterling Heights","latitude":42.5802,"longitude":-83.03022}}(window,'GeoPostal','US');

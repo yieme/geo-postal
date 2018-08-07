@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6041"]={"code":"6041","region":"Bacs-Kiskun","city":"Kerekegyhaza","latitude":46.93722,"longitude":19.47806}}(window,'GeoPostal','HU');

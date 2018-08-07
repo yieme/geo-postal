@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97490"]={"code":"97490","region":"Oregon","city":"Walton","latitude":44.030998,"longitude":-123.594461}}(window,'GeoPostal','US');

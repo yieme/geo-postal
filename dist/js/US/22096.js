@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22096"]={"code":"22096","region":"Virginia","city":"Reston","latitude":38.952067,"longitude":-77.345174}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16105"]={"code":"16105","region":"Pennsylvania","city":"New Castle","latitude":41.032521,"longitude":-80.34315}}(window,'GeoPostal','US');

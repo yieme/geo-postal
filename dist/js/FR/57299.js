@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57299"]={"code":"57299","region":"Grand-Est","city":"Fameck","latitude":49.30335,"longitude":6.1086}}(window,'GeoPostal','FR');

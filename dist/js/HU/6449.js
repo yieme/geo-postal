@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6449"]={"code":"6449","region":"Bacs-Kiskun","city":"Melykut","latitude":46.21509,"longitude":19.38102}}(window,'GeoPostal','HU');

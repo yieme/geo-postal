@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98061"]={"code":"98061","region":"Sicilia","city":"Brolo","latitude":38.15536,"longitude":14.82958}}(window,'GeoPostal','IT');

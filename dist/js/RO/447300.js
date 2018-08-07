@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447300"]={"code":"447300","region":"Satu Mare","city":"Supuru de Jos","latitude":47.46667,"longitude":22.8}}(window,'GeoPostal','RO');

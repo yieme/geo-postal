@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["191203"]={"code":"191203","region":"Jammu and Kashmir","city":"Bandipura","latitude":34.41667,"longitude":74.65}}(window,'GeoPostal','IN');

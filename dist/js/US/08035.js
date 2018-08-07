@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08035"]={"code":"08035","region":"New Jersey","city":"Haddon Heights","latitude":39.878702,"longitude":-75.065121}}(window,'GeoPostal','US');

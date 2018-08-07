@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN14 7EX"]={"code":"TN14 7EX","region":"England","city":"Halstead","latitude":51.32796,"longitude":0.13269}}(window,'GeoPostal','GB');

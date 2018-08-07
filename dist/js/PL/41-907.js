@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-907"]={"code":"41-907","region":"Slaskie","city":"Bytom","latitude":50.34802,"longitude":18.93282}}(window,'GeoPostal','PL');

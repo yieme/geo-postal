@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26683"]={"code":"26683","region":"Niedersachsen","city":"Ramsloh","latitude":53.10263,"longitude":7.67876}}(window,'GeoPostal','DE');

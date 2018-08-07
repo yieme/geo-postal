@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71064"]={"code":"71064","region":"LA","city":"Plain Dealing","latitude":32.9074,"longitude":-93.6905}}(window,'GeoPostal','US');

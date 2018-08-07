@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA23 3BZ"]={"code":"CA23 3BZ","region":"England","city":"Cleator","latitude":54.50424,"longitude":-3.52335}}(window,'GeoPostal','GB');

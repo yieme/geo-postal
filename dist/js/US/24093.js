@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24093"]={"code":"24093","region":"VA","city":"Glen Lyn","latitude":37.3669,"longitude":-80.8634}}(window,'GeoPostal','US');

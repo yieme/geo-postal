@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7302"]={"code":"7302","region":"Sor-Trondelag","city":"Orkanger","latitude":63.31223,"longitude":9.85352}}(window,'GeoPostal','NO');

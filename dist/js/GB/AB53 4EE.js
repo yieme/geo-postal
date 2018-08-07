@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 4EE"]={"code":"AB53 4EE","region":"Scotland","city":"Turriff","latitude":57.5384,"longitude":-2.45932}}(window,'GeoPostal','GB');

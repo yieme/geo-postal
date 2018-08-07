@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59474"]={"code":"59474","region":"Montana","city":"Shelby","latitude":48.50526,"longitude":-111.85697}}(window,'GeoPostal','US');

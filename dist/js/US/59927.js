@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59927"]={"code":"59927","region":"MT","city":"Olney","latitude":48.5455,"longitude":-114.592}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39023"]={"code":"39023","region":"Trentino-Alto Adige","city":"Lasa","latitude":46.61661,"longitude":10.70016}}(window,'GeoPostal','IT');

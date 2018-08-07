@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT12 4RP"]={"code":"KT12 4RP","region":"England","city":"Hersham","latitude":51.36667,"longitude":-0.4}}(window,'GeoPostal','GB');

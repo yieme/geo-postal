@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12077"]={"code":"12077","region":"New York","city":"Glenmont","latitude":42.59568,"longitude":-73.78848}}(window,'GeoPostal','US');

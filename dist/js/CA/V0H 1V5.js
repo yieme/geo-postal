@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1V5"]={"code":"V0H 1V5","region":"British Columbia","city":"Osoyoos","latitude":49.028324,"longitude":-119.473439}}(window,'GeoPostal','CA');

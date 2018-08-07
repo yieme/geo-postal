@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43932"]={"code":"43932","region":"OH","city":"Irondale","latitude":40.5111,"longitude":-80.7915}}(window,'GeoPostal','US');

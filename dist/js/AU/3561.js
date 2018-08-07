@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3561"]={"code":"3561","region":"Victoria","city":"Ballendella","latitude":-36.3,"longitude":144.65}}(window,'GeoPostal','AU');

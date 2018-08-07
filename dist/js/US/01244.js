@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01244"]={"code":"01244","region":"MA","city":"Mill River","latitude":42.1228,"longitude":-73.254}}(window,'GeoPostal','US');

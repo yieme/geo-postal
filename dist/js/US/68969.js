@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68969"]={"code":"68969","region":"NE","city":"Ragan","latitude":40.3103,"longitude":-99.2898}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87448"]={"code":"87448","region":"Bayern","city":"Waltenhofen","latitude":47.5869,"longitude":10.73147}}(window,'GeoPostal','DE');

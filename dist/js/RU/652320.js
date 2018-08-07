@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652320"]={"code":"652320","region":"Kemerovskaya oblast'","city":"Topki","latitude":55.2769,"longitude":85.6163}}(window,'GeoPostal','RU');

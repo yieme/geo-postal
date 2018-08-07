@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82837"]={"code":"82837","region":"WY","city":"Leiter","latitude":44.718,"longitude":-106.2692}}(window,'GeoPostal','US');

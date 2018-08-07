@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3P 1J9"]={"code":"J3P 1J9","region":"Quebec","city":"Sainte-Anne-de-Sorel","latitude":46.04714,"longitude":-73.07736}}(window,'GeoPostal','CA');

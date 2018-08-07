@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR3 8SB"]={"code":"WR3 8SB","region":"England","city":"Fernhill Heath","latitude":52.23002,"longitude":-2.19659}}(window,'GeoPostal','GB');

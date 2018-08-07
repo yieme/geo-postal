@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5JD"]={"code":"TR2 5JD","region":"England","city":"Saint Just in Roseland","latitude":50.18333,"longitude":-5.01667}}(window,'GeoPostal','GB');

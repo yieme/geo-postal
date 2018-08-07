@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27831"]={"code":"27831","region":"NC","city":"Garysburg","latitude":36.4761,"longitude":-77.5719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96772"]={"code":"96772","region":"Hawaii","city":"Naalehu","latitude":19.06583,"longitude":-155.5875}}(window,'GeoPostal','US');

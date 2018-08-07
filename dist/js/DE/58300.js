@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58300"]={"code":"58300","region":"Nordrhein-Westfalen","city":"Volmarstein","latitude":51.36667,"longitude":7.38333}}(window,'GeoPostal','DE');

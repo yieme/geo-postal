@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19300"]={"code":"19300","region":"Borski okrug","city":"Negotin","latitude":44.22639,"longitude":22.53083}}(window,'GeoPostal','RS');

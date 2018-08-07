@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47528"]={"code":"47528","region":"IN","city":"Edwardsport","latitude":38.8106,"longitude":-87.2519}}(window,'GeoPostal','US');

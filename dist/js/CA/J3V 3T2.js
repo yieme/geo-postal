@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3V 3T2"]={"code":"J3V 3T2","region":"Quebec","city":"Saint-Bruno-de-Montarville","latitude":45.53341,"longitude":-73.34916}}(window,'GeoPostal','CA');

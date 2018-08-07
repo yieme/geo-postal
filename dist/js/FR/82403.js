@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82403"]={"code":"82403","region":"Occitanie","city":"Valence","latitude":44.10823,"longitude":0.89101}}(window,'GeoPostal','FR');

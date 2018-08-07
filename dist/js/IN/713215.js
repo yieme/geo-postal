@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713215"]={"code":"713215","region":"West Bengal","city":"Guskhara","latitude":23.5,"longitude":87.75}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21020"]={"code":"21020","region":"MD","city":"Boring","latitude":39.5213,"longitude":-76.8047}}(window,'GeoPostal','US');

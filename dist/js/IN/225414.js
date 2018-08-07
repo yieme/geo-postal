@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225414"]={"code":"225414","region":"Uttar Pradesh","city":"Satrikh","latitude":26.86667,"longitude":81.2}}(window,'GeoPostal','IN');

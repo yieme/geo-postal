@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31240"]={"code":"31240","region":"Buri Ram","city":"Chamni","latitude":14.78629,"longitude":102.82277}}(window,'GeoPostal','TH');

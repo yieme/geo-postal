@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["477-805"]={"code":"477-805","region":"Gyeonggi-do","city":"Gapyeong","latitude":37.83101,"longitude":127.51059}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49258"]={"code":"49258","region":"MI","city":"Mosherville","latitude":42.0603,"longitude":-84.6594}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73454"]={"code":"73454","region":"OK","city":"Ardmore","latitude":34.17,"longitude":-97.14}}(window,'GeoPostal','US');

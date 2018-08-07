@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35748"]={"code":"35748","region":"AL","city":"Gurley","latitude":34.714,"longitude":-86.394}}(window,'GeoPostal','US');

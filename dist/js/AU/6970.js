@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6970"]={"code":"6970","region":"Western Australia","city":"Canning Vale","latitude":-32.05798,"longitude":115.91814}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84643"]={"code":"84643","region":"Utah","city":"Mayfield","latitude":39.113188,"longitude":-111.702392}}(window,'GeoPostal','US');

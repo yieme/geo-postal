@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71822"]={"code":"71822","region":"Arkansas","city":"Ashdown","latitude":33.673103,"longitude":-94.125613}}(window,'GeoPostal','US');

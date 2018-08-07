@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581325"]={"code":"581325","region":"Karnataka","city":"Dandeli","latitude":15.26667,"longitude":74.61667}}(window,'GeoPostal','IN');

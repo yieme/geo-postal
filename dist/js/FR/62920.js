@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62920"]={"code":"62920","region":"Hauts-de-France","city":"Chocques","latitude":50.54084,"longitude":2.57194}}(window,'GeoPostal','FR');

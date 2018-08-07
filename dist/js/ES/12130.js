@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12130"]={"code":"12130","region":"Valenciana, Comunidad","city":"l'Alcora","latitude":40.06667,"longitude":-0.2}}(window,'GeoPostal','ES');

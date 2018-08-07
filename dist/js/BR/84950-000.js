@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84950-000"]={"code":"84950-000","region":"Parana","city":"Wenceslau Braz","latitude":-23.87389,"longitude":-49.80278}}(window,'GeoPostal','BR');

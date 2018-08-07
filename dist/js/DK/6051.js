@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6051"]={"code":"6051","region":"Syddanmark","city":"Taulov","latitude":55.54582,"longitude":9.61553}}(window,'GeoPostal','DK');

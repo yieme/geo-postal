@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 4LA"]={"code":"HG4 4LA","region":"England","city":"Healey","latitude":54.21667,"longitude":-1.73333}}(window,'GeoPostal','GB');

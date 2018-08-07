@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2525-999"]={"code":"2525-999","region":"Leiria","city":"Atouguia da Baleia","latitude":39.33814,"longitude":-9.3263}}(window,'GeoPostal','PT');

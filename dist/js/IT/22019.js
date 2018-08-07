@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22019"]={"code":"22019","region":"Lombardia","city":"Tremezzo","latitude":45.98348,"longitude":9.21854}}(window,'GeoPostal','IT');

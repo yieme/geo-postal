@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57047"]={"code":"57047","region":"South Dakota","city":"Monroe","latitude":43.4802,"longitude":-97.2192}}(window,'GeoPostal','US');

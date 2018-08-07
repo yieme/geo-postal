@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98579"]={"code":"98579","region":"Washington","city":"Rochester","latitude":46.824478,"longitude":-123.053089}}(window,'GeoPostal','US');

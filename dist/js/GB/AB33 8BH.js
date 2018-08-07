@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB33 8BH"]={"code":"AB33 8BH","region":"Scotland","city":"Keig","latitude":57.2592,"longitude":-2.6463}}(window,'GeoPostal','GB');

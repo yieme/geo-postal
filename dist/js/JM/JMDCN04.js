@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDCN04"]={"code":"JMDCN04","region":"Clarendon","city":"Chapelton","latitude":18.08333,"longitude":-77.26667}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35510"]={"code":"35510","region":"Hessen","city":"Butzbach","latitude":50.43395,"longitude":8.67122}}(window,'GeoPostal','DE');

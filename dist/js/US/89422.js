@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89422"]={"code":"89422","region":"NV","city":"Mina","latitude":38.387,"longitude":-118.1096}}(window,'GeoPostal','US');

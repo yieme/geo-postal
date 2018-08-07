@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133204"]={"code":"133204","region":"Jilin","city":"Tianqiaoling","latitude":43.59007,"longitude":129.62974}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15004"]={"code":"15004","region":"Chernihivska oblast","city":"Ripky","latitude":51.80105,"longitude":31.08383}}(window,'GeoPostal','UA');

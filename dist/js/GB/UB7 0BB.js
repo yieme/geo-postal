@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB7 0BB"]={"code":"UB7 0BB","region":"England","city":"Harmondsworth","latitude":51.48836,"longitude":-0.47757}}(window,'GeoPostal','GB');

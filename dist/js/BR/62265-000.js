@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62265-000"]={"code":"62265-000","region":"Ceara","city":"Varjota","latitude":-4.19444,"longitude":-40.47667}}(window,'GeoPostal','BR');

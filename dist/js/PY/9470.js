@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9470"]={"code":"9470","region":"Boqueron","city":"Colonia Neuland","latitude":-22.66667,"longitude":-60.11667}}(window,'GeoPostal','PY');

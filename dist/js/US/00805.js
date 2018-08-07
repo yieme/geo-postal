@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00805"]={"code":"00805","region":"VI","city":"St Thomas","latitude":18.34,"longitude":-64.93}}(window,'GeoPostal','US');

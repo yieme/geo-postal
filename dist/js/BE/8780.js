@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8780"]={"code":"8780","region":"West-Vlaanderen","city":"Oostrozebeke","latitude":50.92093,"longitude":3.33799}}(window,'GeoPostal','BE');

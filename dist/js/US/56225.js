@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56225"]={"code":"56225","region":"MN","city":"Clinton","latitude":45.4577,"longitude":-96.4182}}(window,'GeoPostal','US');

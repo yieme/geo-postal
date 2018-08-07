@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152238"]={"code":"152238","region":"Heilongjiang","city":"Suileng","latitude":47.25,"longitude":127.08333}}(window,'GeoPostal','CN');

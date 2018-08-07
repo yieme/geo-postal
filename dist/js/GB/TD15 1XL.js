@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 1XL"]={"code":"TD15 1XL","region":"Scotland","city":"Ladykirk","latitude":55.72169,"longitude":-2.17986}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67135"]={"code":"67135","region":"KS","city":"Sedgwick","latitude":37.9167,"longitude":-97.4225}}(window,'GeoPostal','US');

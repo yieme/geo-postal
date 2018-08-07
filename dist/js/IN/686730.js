@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686730"]={"code":"686730","region":"Kerala","city":"Kottayam","latitude":9.58333,"longitude":76.51667}}(window,'GeoPostal','IN');

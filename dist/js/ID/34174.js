@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34174"]={"code":"34174","region":"Lampung","city":"Kalirejo","latitude":-5.22582,"longitude":104.96131}}(window,'GeoPostal','ID');

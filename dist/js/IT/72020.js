@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72020"]={"code":"72020","region":"Puglia","city":"Cellino San Marco","latitude":40.47223,"longitude":17.96632}}(window,'GeoPostal','IT');

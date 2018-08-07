@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67732"]={"code":"67732","region":"KS","city":"Brewster","latitude":39.3655,"longitude":-101.373}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1291"]={"code":"1291","region":"Skofljica","city":"Skofljica","latitude":45.98333,"longitude":14.57667}}(window,'GeoPostal','SI');

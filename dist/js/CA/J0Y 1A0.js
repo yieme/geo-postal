@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 1A0"]={"code":"J0Y 1A0","region":"Quebec","city":"Barraute","latitude":48.43349,"longitude":-77.63279}}(window,'GeoPostal','CA');

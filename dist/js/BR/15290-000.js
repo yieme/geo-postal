@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15290-000"]={"code":"15290-000","region":"Sao Paulo","city":"Buritama","latitude":-21.06611,"longitude":-50.14722}}(window,'GeoPostal','BR');

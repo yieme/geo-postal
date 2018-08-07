@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55268"]={"code":"55268","region":"Rheinland-Pfalz","city":"Nieder-Olm","latitude":49.91166,"longitude":8.20533}}(window,'GeoPostal','DE');

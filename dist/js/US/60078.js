@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60078"]={"code":"60078","region":"Illinois","city":"Park Ridge","latitude":42.139374,"longitude":-87.923324}}(window,'GeoPostal','US');

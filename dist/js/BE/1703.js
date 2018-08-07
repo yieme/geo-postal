@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1703"]={"code":"1703","region":"Vlaams-Brabant","city":"Dilbeek","latitude":50.84799,"longitude":4.25972}}(window,'GeoPostal','BE');

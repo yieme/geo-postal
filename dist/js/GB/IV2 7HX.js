@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 7HX"]={"code":"IV2 7HX","region":"Scotland","city":"Allanfearn","latitude":57.5,"longitude":-4.15}}(window,'GeoPostal','GB');

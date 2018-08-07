@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["191-8506"]={"code":"191-8506","region":"Tokyo","city":"Hino","latitude":35.667,"longitude":139.4}}(window,'GeoPostal','JP');

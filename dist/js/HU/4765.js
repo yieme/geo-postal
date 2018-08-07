@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4765"]={"code":"4765","region":"Szabolcs-Szatmar-Bereg","city":"Csenger","latitude":47.83582,"longitude":22.68096}}(window,'GeoPostal','HU');

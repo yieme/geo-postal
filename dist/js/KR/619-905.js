@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["619-905"]={"code":"619-905","region":"Busan-gwangyeoksi","city":"Kijang","latitude":35.24417,"longitude":129.21389}}(window,'GeoPostal','KR');

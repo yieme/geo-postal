@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2970"]={"code":"2970","region":"Hovedstaden","city":"Horsholm","latitude":55.88333,"longitude":12.5}}(window,'GeoPostal','DK');

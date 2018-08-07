@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99817"]={"code":"99817","region":"Thuringen","city":"Trenkelhof","latitude":50.97588,"longitude":10.37268}}(window,'GeoPostal','DE');

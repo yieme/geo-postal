@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427292"]={"code":"427292","region":"Bistrita-Nasaud","city":"Sieu","latitude":47.01667,"longitude":24.6}}(window,'GeoPostal','RO');

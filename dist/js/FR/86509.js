@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86509"]={"code":"86509","region":"Nouvelle-Aquitaine","city":"Montmorillon","latitude":46.43333,"longitude":0.86667}}(window,'GeoPostal','FR');

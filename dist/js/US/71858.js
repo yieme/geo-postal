@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71858"]={"code":"71858","region":"Arkansas","city":"Rosston","latitude":33.569882,"longitude":-93.290532}}(window,'GeoPostal','US');

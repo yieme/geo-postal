@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59727"]={"code":"59727","region":"Hauts-de-France","city":"Wormhout","latitude":50.88129,"longitude":2.46901}}(window,'GeoPostal','FR');

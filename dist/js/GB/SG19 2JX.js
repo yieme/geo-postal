@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 2JX"]={"code":"SG19 2JX","region":"England","city":"Everton","latitude":52.14581,"longitude":-0.24616}}(window,'GeoPostal','GB');

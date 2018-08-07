@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33520"]={"code":"33520","region":"Viroviticko-podravska zupanija","city":"Slatina","latitude":45.70333,"longitude":17.70278}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26311"]={"code":"26311","region":"La Rioja","city":"Arenzana de Abajo","latitude":42.384981,"longitude":-2.722002}}(window,'GeoPostal','ES');

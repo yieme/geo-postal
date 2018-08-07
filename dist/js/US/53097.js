@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53097"]={"code":"53097","region":"Wisconsin","city":"Mequon","latitude":43.23648,"longitude":-87.9846}}(window,'GeoPostal','US');

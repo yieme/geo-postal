@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83390"]={"code":"83390","region":"Provence-Alpes-Cote d'Azur","city":"Cuers","latitude":43.23731,"longitude":6.07107}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41039"]={"code":"41039","region":"Kentucky","city":"Ewing","latitude":38.43306,"longitude":-83.85174}}(window,'GeoPostal','US');

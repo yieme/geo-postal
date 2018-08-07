@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14720"]={"code":"14720","region":"NY","city":"Celoron","latitude":42.1095,"longitude":-79.2831}}(window,'GeoPostal','US');

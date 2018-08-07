@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25162"]={"code":"25162","region":"WV","city":"Pratt","latitude":38.2101,"longitude":-81.3851}}(window,'GeoPostal','US');

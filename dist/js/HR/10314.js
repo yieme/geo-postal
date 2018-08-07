@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10314"]={"code":"10314","region":"Zagrebacka zupanija","city":"Kriz","latitude":45.665,"longitude":16.52333}}(window,'GeoPostal','HR');

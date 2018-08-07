@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 2LU"]={"code":"TF9 2LU","region":"England","city":"Lockleywood","latitude":52.85149,"longitude":-2.46}}(window,'GeoPostal','GB');

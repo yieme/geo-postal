@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH17 0RU"]={"code":"BH17 0RU","region":"England","city":"Canford Heath","latitude":50.751,"longitude":-1.96862}}(window,'GeoPostal','GB');

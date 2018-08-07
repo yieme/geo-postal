@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54737"]={"code":"54737","region":"WI","city":"Eau Galle","latitude":44.7152,"longitude":-91.9822}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59446"]={"code":"59446","region":"MT","city":"Geraldine","latitude":47.6024,"longitude":-110.2765}}(window,'GeoPostal','US');

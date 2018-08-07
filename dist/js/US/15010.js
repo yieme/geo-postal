@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15010"]={"code":"15010","region":"Pennsylvania","city":"Beaver Falls","latitude":40.75201,"longitude":-80.31923}}(window,'GeoPostal','US');

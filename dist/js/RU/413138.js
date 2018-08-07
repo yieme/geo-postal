@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413138"]={"code":"413138","region":"Saratovskaya oblast'","city":"Privolzhskiy","latitude":51.4,"longitude":46.03333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95625-000"]={"code":"95625-000","region":"Rio Grande do Sul","city":"Tramandai","latitude":-29.98472,"longitude":-50.13361}}(window,'GeoPostal','BR');

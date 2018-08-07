@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47177"]={"code":"47177","region":"IN","city":"Underwood","latitude":38.6037,"longitude":-85.7744}}(window,'GeoPostal','US');

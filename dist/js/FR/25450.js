@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25450"]={"code":"25450","region":"Bourgogne-Franche-Comte","city":"Damprichard","latitude":47.24413,"longitude":6.88121}}(window,'GeoPostal','FR');

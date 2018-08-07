@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L2M 0A1"]={"code":"L2M 0A1","region":"Ontario","city":"St. Catharines","latitude":43.16681,"longitude":-79.24958}}(window,'GeoPostal','CA');

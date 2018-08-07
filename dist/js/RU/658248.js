@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658248"]={"code":"658248","region":"Altayskiy kray","city":"Veseloyarsk","latitude":51.28361,"longitude":81.10556}}(window,'GeoPostal','RU');

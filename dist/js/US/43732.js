@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43732"]={"code":"43732","region":"OH","city":"Cumberland","latitude":39.852,"longitude":-81.6576}}(window,'GeoPostal','US');

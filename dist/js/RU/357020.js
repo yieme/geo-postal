@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357020"]={"code":"357020","region":"Stavropol'skiy kray","city":"Ivanovskoye","latitude":44.5795,"longitude":41.8764}}(window,'GeoPostal','RU');

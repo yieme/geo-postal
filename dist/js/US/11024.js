@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11024"]={"code":"11024","region":"New York","city":"Kings Point","latitude":40.80408,"longitude":-73.74012}}(window,'GeoPostal','US');

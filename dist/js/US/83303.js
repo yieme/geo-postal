@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83303"]={"code":"83303","region":"Idaho","city":"Twin Falls","latitude":42.561509,"longitude":-114.462844}}(window,'GeoPostal','US');

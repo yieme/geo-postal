@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96759"]={"code":"96759","region":"HI","city":"Kunia","latitude":21.463,"longitude":-158.0639}}(window,'GeoPostal','US');

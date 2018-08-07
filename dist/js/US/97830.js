@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97830"]={"code":"97830","region":"Oregon","city":"Fossil","latitude":44.99819,"longitude":-120.21614}}(window,'GeoPostal','US');

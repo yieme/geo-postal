@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60452"]={"code":"60452","region":"Illinois","city":"Oak Forest","latitude":41.60281,"longitude":-87.74394}}(window,'GeoPostal','US');

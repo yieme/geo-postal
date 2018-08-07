@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 1UP"]={"code":"SA18 1UP","region":"Wales","city":"Brynamman","latitude":51.8,"longitude":-3.86667}}(window,'GeoPostal','GB');

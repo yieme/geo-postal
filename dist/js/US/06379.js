@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06379"]={"code":"06379","region":"CT","city":"Pawcatuck","latitude":41.3735,"longitude":-71.8478}}(window,'GeoPostal','US');

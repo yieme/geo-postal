@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 9PH"]={"code":"LN13 9PH","region":"England","city":"Farlesthorpe","latitude":53.24433,"longitude":0.20764}}(window,'GeoPostal','GB');

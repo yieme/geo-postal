@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN6 0DH"]={"code":"DN6 0DH","region":"England","city":"Moss","latitude":53.61667,"longitude":-1.1}}(window,'GeoPostal','GB');

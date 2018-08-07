@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215430"]={"code":"215430","region":"Smolenskaya oblast'","city":"Ugra","latitude":54.77775,"longitude":34.32674}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65760"]={"code":"65760","region":"Hessen","city":"Eschborn","latitude":50.14328,"longitude":8.57111}}(window,'GeoPostal','DE');

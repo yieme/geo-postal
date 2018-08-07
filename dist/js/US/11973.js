@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11973"]={"code":"11973","region":"New York","city":"Upton","latitude":40.86944,"longitude":-72.88667}}(window,'GeoPostal','US');

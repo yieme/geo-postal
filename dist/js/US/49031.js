@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49031"]={"code":"49031","region":"Michigan","city":"Cassopolis","latitude":41.91171,"longitude":-86.01001}}(window,'GeoPostal','US');

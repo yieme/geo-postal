@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50539"]={"code":"50539","region":"Iowa","city":"Fenton","latitude":43.216915,"longitude":-94.408829}}(window,'GeoPostal','US');

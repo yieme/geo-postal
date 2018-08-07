@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-040"]={"code":"16-040","region":"Podlaskie","city":"Grudki","latitude":53.09488,"longitude":23.66848}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02346"]={"code":"02346","region":"Massachusetts","city":"Middleboro","latitude":41.883943,"longitude":-70.886656}}(window,'GeoPostal','US');

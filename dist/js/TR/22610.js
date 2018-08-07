@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22610"]={"code":"22610","region":"Balikesir","city":"Bandirma","latitude":40.35222,"longitude":27.97667}}(window,'GeoPostal','TR');

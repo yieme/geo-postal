@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62931"]={"code":"62931","region":"Illinois","city":"Elizabethtown","latitude":37.44588,"longitude":-88.30504}}(window,'GeoPostal','US');

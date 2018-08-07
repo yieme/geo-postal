@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28478"]={"code":"28478","region":"North Carolina","city":"Willard","latitude":34.66745,"longitude":-78.0671}}(window,'GeoPostal','US');

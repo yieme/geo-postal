@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14509"]={"code":"14509","region":"Normandie","city":"Vire","latitude":48.83333,"longitude":-0.88333}}(window,'GeoPostal','FR');

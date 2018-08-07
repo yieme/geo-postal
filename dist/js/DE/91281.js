@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91281"]={"code":"91281","region":"Bayern","city":"Burggrub","latitude":49.75643,"longitude":11.71658}}(window,'GeoPostal','DE');

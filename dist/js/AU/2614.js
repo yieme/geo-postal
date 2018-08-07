@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2614"]={"code":"2614","region":"Australian Capital Territory","city":"Macquarie","latitude":-35.25126,"longitude":149.06362}}(window,'GeoPostal','AU');

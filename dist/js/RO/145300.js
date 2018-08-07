@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145300"]={"code":"145300","region":"Teleorman","city":"Videle","latitude":44.27806,"longitude":25.52444}}(window,'GeoPostal','RO');

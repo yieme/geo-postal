@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17265"]={"code":"17265","region":"PA","city":"Upperstrasburg","latitude":40.058,"longitude":-77.7368}}(window,'GeoPostal','US');

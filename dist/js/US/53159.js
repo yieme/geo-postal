@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53159"]={"code":"53159","region":"WI","city":"Powers Lake","latitude":42.5557,"longitude":-88.2969}}(window,'GeoPostal','US');

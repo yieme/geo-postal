@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61848"]={"code":"61848","region":"IL","city":"Henning","latitude":40.304,"longitude":-87.7007}}(window,'GeoPostal','US');

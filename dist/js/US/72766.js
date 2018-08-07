@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72766"]={"code":"72766","region":"AR","city":"Springdale","latitude":36.1867,"longitude":-94.1288}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13135"]={"code":"13135","region":"NY","city":"Phoenix","latitude":43.2468,"longitude":-76.3064}}(window,'GeoPostal','US');

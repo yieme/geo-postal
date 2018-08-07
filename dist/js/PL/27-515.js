@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-515"]={"code":"27-515","region":"Swietokrzyskie","city":"Tarlow","latitude":51.0016,"longitude":21.71474}}(window,'GeoPostal','PL');

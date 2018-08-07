@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99928"]={"code":"99928","region":"Alaska","city":"Ward Cove","latitude":55.41194,"longitude":-131.72278}}(window,'GeoPostal','US');

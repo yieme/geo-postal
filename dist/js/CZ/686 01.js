@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686 01"]={"code":"686 01","region":"Zlinsky kraj","city":"Uherske Hradiste","latitude":49.06975,"longitude":17.45969}}(window,'GeoPostal','CZ');

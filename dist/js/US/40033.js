@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40033"]={"code":"40033","region":"Kentucky","city":"Lebanon","latitude":37.56979,"longitude":-85.25274}}(window,'GeoPostal','US');

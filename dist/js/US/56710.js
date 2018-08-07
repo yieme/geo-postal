@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56710"]={"code":"56710","region":"MN","city":"Alvarado","latitude":48.202,"longitude":-96.9915}}(window,'GeoPostal','US');

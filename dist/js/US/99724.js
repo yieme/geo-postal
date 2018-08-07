@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99724"]={"code":"99724","region":"AK","city":"Beaver","latitude":66.3594,"longitude":-147.3964}}(window,'GeoPostal','US');

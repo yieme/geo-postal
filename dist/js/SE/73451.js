@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73451"]={"code":"73451","region":"Vastmanlands lan","city":"Kolback","latitude":59.56667,"longitude":16.25}}(window,'GeoPostal','SE');

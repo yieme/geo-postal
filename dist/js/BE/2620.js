@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2620"]={"code":"2620","region":"Antwerpen","city":"Hemiksem","latitude":51.14484,"longitude":4.33874}}(window,'GeoPostal','BE');

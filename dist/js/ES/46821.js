@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46821"]={"code":"46821","region":"Valenciana, Comunidad","city":"Chella","latitude":39.04203,"longitude":-0.65916}}(window,'GeoPostal','ES');

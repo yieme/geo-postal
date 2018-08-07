@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 5XW"]={"code":"EX13 5XW","region":"England","city":"Hawkchurch","latitude":50.8,"longitude":-2.93333}}(window,'GeoPostal','GB');

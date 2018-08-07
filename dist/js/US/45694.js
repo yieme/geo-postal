@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45694"]={"code":"45694","region":"OH","city":"Wheelersburg","latitude":38.7418,"longitude":-82.8204}}(window,'GeoPostal','US');

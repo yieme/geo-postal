@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68780-000"]={"code":"68780-000","region":"Para","city":"Vigia","latitude":-0.85833,"longitude":-48.14167}}(window,'GeoPostal','BR');

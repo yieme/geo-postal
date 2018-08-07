@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-240"]={"code":"84-240","region":"Pomorskie","city":"Reda","latitude":54.60528,"longitude":18.34717}}(window,'GeoPostal','PL');

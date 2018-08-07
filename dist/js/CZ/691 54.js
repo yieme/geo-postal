@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 54"]={"code":"691 54","region":"Jihomoravsky kraj","city":"Tynec","latitude":48.77943,"longitude":17.01322}}(window,'GeoPostal','CZ');

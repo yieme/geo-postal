@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76239"]={"code":"76239","region":"Texas","city":"Forestburg","latitude":33.545264,"longitude":-97.599647}}(window,'GeoPostal','US');

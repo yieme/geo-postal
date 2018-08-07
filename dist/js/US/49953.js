@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49953"]={"code":"49953","region":"Michigan","city":"Ontonagon","latitude":46.87105,"longitude":-89.31403}}(window,'GeoPostal','US');

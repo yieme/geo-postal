@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86338"]={"code":"86338","region":"AZ","city":"Skull Valley","latitude":34.5053,"longitude":-112.6855}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62012"]={"code":"62012","region":"IL","city":"Brighton","latitude":39.0361,"longitude":-90.1443}}(window,'GeoPostal','US');

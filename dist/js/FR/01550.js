@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01550"]={"code":"01550","region":"Auvergne-Rhone-Alpes","city":"Collonges","latitude":46.13894,"longitude":5.90334}}(window,'GeoPostal','FR');

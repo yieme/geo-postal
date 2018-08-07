@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238345"]={"code":"238345","region":"Kaliningradskaya oblast'","city":"Volochaevskoe","latitude":54.69606,"longitude":20.23613}}(window,'GeoPostal','RU');

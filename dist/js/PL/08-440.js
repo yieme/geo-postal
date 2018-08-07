@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-440"]={"code":"08-440","region":"Mazowieckie","city":"Pilawa","latitude":51.95945,"longitude":21.53089}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3521"]={"code":"3521","region":"Oppland","city":"Jevnaker","latitude":60.24143,"longitude":10.38503}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446254"]={"code":"446254","region":"Samarskaya oblast'","city":"Bezenchuk","latitude":52.982,"longitude":49.4333}}(window,'GeoPostal','RU');

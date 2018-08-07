@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2762"]={"code":"2762","region":"North-West","city":"Lichtenburg","latitude":-26.152,"longitude":26.15968}}(window,'GeoPostal','ZA');

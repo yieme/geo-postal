@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84533"]={"code":"84533","region":"Bayern","city":"Kollberg","latitude":48.24552,"longitude":12.8969}}(window,'GeoPostal','DE');

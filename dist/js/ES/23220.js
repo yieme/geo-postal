@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23220"]={"code":"23220","region":"Andalucia","city":"Vilches","latitude":38.20695,"longitude":-3.51025}}(window,'GeoPostal','ES');

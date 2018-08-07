@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0XA"]={"code":"HS2 0XA","region":"Scotland","city":"Port of Ness","latitude":58.49188,"longitude":-6.22893}}(window,'GeoPostal','GB');

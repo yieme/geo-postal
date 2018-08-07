@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-620"]={"code":"37-620","region":"Podkarpackie","city":"Horyniec-Zdroj","latitude":50.19152,"longitude":23.36277}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353541"]={"code":"353541","region":"Krasnodarskiy kray","city":"Vyshestebliyevskaya","latitude":45.19611,"longitude":37.01806}}(window,'GeoPostal','RU');

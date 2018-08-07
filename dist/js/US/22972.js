@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22972"]={"code":"22972","region":"VA","city":"Somerset","latitude":38.1997,"longitude":-78.2394}}(window,'GeoPostal','US');

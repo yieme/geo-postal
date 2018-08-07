@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636105"]={"code":"636105","region":"Tamil Nadu","city":"Gangavalli","latitude":11.48333,"longitude":78.65}}(window,'GeoPostal','IN');

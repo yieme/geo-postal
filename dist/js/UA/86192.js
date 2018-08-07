@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86192"]={"code":"86192","region":"Donetska oblast","city":"Kostyantynivka","latitude":48.5277,"longitude":37.7069}}(window,'GeoPostal','UA');

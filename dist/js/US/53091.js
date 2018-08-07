@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53091"]={"code":"53091","region":"WI","city":"Theresa","latitude":43.5045,"longitude":-88.4478}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 3B0"]={"code":"R0C 3B0","region":"Manitoba","city":"Teulon","latitude":50.38581,"longitude":-97.26176}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3717"]={"code":"3717","region":"Victoria","city":"Yea","latitude":-37.21067,"longitude":145.42755}}(window,'GeoPostal','AU');

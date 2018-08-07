@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6344"]={"code":"6344","region":"Tirol","city":"Walchsee","latitude":47.65163,"longitude":12.31868}}(window,'GeoPostal','AT');

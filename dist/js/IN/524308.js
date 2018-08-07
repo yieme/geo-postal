@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524308"]={"code":"524308","region":"Andhra Pradesh","city":"Nellore","latitude":14.43333,"longitude":79.96667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54827"]={"code":"54827","region":"WI","city":"Cornucopia","latitude":46.8372,"longitude":-91.0974}}(window,'GeoPostal','US');

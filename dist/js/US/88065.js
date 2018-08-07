@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88065"]={"code":"88065","region":"New Mexico","city":"Tyrone","latitude":32.641806,"longitude":-108.325417}}(window,'GeoPostal','US');

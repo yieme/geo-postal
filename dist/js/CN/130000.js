@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130000"]={"code":"130000","region":"Hebei","city":"Shijiazhuang","latitude":38.04139,"longitude":114.47861}}(window,'GeoPostal','CN');

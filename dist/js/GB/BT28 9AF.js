@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT28 9AF"]={"code":"BT28 9AF","region":"Northern Ireland","city":"Lisburn","latitude":54.52337,"longitude":-6.03527}}(window,'GeoPostal','GB');

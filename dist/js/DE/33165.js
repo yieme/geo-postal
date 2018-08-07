@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33165"]={"code":"33165","region":"Nordrhein-Westfalen","city":"Lichtenau","latitude":51.61707,"longitude":8.89665}}(window,'GeoPostal','DE');

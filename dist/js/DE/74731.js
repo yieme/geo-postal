@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74731"]={"code":"74731","region":"Baden-Wurttemberg","city":"Walldurn","latitude":49.58358,"longitude":9.36642}}(window,'GeoPostal','DE');

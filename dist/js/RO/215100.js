@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215100"]={"code":"215100","region":"Gorj","city":"Bumbesti-Jiu","latitude":45.16667,"longitude":23.4}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27800"]={"code":"27800","region":"Normandie","city":"Brionne","latitude":49.19553,"longitude":0.7151}}(window,'GeoPostal','FR');

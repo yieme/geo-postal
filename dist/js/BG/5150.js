@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5150"]={"code":"5150","region":"Veliko Tarnovo","city":"Strazhitsa","latitude":43.23333,"longitude":25.96667}}(window,'GeoPostal','BG');

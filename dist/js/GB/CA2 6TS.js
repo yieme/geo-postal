@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA2 6TS"]={"code":"CA2 6TS","region":"England","city":"Belle Vue","latitude":54.88333,"longitude":-2.98333}}(window,'GeoPostal','GB');

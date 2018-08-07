@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23111"]={"code":"23111","region":"Virginia","city":"Mechanicsville","latitude":37.632851,"longitude":-77.35739}}(window,'GeoPostal','US');

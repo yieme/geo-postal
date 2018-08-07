@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 7DW"]={"code":"LA2 7DW","region":"England","city":"Lower Bentham","latitude":54.1,"longitude":-2.53333}}(window,'GeoPostal','GB');

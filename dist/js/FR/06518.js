@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06518"]={"code":"06518","region":"Provence-Alpes-Cote d'Azur","city":"Carros","latitude":43.78941,"longitude":7.18395}}(window,'GeoPostal','FR');

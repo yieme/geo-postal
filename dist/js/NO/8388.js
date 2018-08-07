@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8388"]={"code":"8388","region":"Nordland","city":"Ramberg","latitude":68.08902,"longitude":13.23177}}(window,'GeoPostal','NO');

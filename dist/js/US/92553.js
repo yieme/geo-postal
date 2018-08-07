@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92553"]={"code":"92553","region":"California","city":"Moreno Valley","latitude":33.908611,"longitude":-117.238598}}(window,'GeoPostal','US');

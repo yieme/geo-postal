@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14072"]={"code":"14072","region":"New York","city":"Grand Island","latitude":43.01194,"longitude":-78.95917}}(window,'GeoPostal','US');

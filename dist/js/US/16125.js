@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16125"]={"code":"16125","region":"Pennsylvania","city":"Greenville","latitude":41.40486,"longitude":-80.36958}}(window,'GeoPostal','US');

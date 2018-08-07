@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79363"]={"code":"79363","region":"TX","city":"Shallowater","latitude":33.6919,"longitude":-101.9836}}(window,'GeoPostal','US');

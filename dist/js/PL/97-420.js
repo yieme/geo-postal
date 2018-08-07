@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-420"]={"code":"97-420","region":"Lodzkie","city":"Szczercow","latitude":51.33319,"longitude":19.10977}}(window,'GeoPostal','PL');

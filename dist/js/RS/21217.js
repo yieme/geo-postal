@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21217"]={"code":"21217","region":"Juznobacki okrug","city":"Curug","latitude":45.47306,"longitude":20.07139}}(window,'GeoPostal','RS');

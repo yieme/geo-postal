@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40048"]={"code":"40048","region":"KY","city":"Nazareth","latitude":37.8472,"longitude":-85.4694}}(window,'GeoPostal','US');

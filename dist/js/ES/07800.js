@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07800"]={"code":"07800","region":"Illes Balears","city":"Ibiza","latitude":38.90883,"longitude":1.43296}}(window,'GeoPostal','ES');

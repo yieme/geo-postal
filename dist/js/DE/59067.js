@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59067"]={"code":"59067","region":"Nordrhein-Westfalen","city":"Hamm","latitude":50.76667,"longitude":6.21667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14855"]={"code":"14855","region":"NY","city":"Jasper","latitude":42.129,"longitude":-77.4999}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78618"]={"code":"78618","region":"TX","city":"Doss","latitude":30.4613,"longitude":-99.1707}}(window,'GeoPostal','US');

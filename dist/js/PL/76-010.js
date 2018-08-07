@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-010"]={"code":"76-010","region":"Zachodniopomorskie","city":"Polanow","latitude":54.1193,"longitude":16.68512}}(window,'GeoPostal','PL');

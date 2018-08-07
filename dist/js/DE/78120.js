@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78120"]={"code":"78120","region":"Baden-Wurttemberg","city":"Furtwangen im Schwarzwald","latitude":48.05156,"longitude":8.20714}}(window,'GeoPostal','DE');

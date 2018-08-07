@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP16 4PY"]={"code":"IP16 4PY","region":"England","city":"Aldringham","latitude":52.19319,"longitude":1.57757}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28458"]={"code":"28458","region":"North Carolina","city":"Rose Hill","latitude":34.82822,"longitude":-78.02304}}(window,'GeoPostal','US');

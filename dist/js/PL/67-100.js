@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67-100"]={"code":"67-100","region":"Lubuskie","city":"Nowa Sol","latitude":51.80333,"longitude":15.71702}}(window,'GeoPostal','PL');

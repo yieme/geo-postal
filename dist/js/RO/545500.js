@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545500"]={"code":"545500","region":"Mures","city":"Sovata","latitude":46.58333,"longitude":25.06667}}(window,'GeoPostal','RO');

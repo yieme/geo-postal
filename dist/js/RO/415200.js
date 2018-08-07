@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415200"]={"code":"415200","region":"Bihor","city":"Beius","latitude":46.66667,"longitude":22.35}}(window,'GeoPostal','RO');

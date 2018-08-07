@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16840"]={"code":"16840","region":"PA","city":"Hawk Run","latitude":40.923,"longitude":-78.2037}}(window,'GeoPostal','US');

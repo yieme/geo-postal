@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9990"]={"code":"9990","region":"Nordjylland","city":"Skagen","latitude":57.72093,"longitude":10.58394}}(window,'GeoPostal','DK');

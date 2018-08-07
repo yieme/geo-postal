@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81600"]={"code":"81600","region":"Occitanie","city":"Montans","latitude":43.867,"longitude":1.88568}}(window,'GeoPostal','FR');

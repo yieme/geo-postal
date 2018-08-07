@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E6K 0B2"]={"code":"E6K 0B2","region":"New Brunswick","city":"SwansShore","latitude":45.63342,"longitude":-67.01558}}(window,'GeoPostal','CA');

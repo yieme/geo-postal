@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX3 0BP"]={"code":"OX3 0BP","region":"England","city":"Headington","latitude":51.75737,"longitude":-1.21974}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97255"]={"code":"97255","region":"Bayern","city":"Sachsenheim","latitude":49.59313,"longitude":9.96423}}(window,'GeoPostal','DE');

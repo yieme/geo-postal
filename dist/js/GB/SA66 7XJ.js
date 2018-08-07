@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA66 7XJ"]={"code":"SA66 7XJ","region":"Wales","city":"Llangolman","latitude":51.91169,"longitude":-4.72715}}(window,'GeoPostal','GB');

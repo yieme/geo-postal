@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52766"]={"code":"52766","region":"IA","city":"Nichols","latitude":41.4766,"longitude":-91.2931}}(window,'GeoPostal','US');

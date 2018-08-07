@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2Y0"]={"code":"K0L 2Y0","region":"Ontario","city":"Gooderham","latitude":44.972806,"longitude":-78.2747}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08212"]={"code":"08212","region":"NJ","city":"Cape May Point","latitude":38.9372,"longitude":-74.9654}}(window,'GeoPostal','US');

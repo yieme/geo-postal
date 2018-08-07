@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCTY07"]={"code":"JMCTY07","region":"Trelawny","city":"Falmouth","latitude":18.49358,"longitude":-77.65587}}(window,'GeoPostal','JM');

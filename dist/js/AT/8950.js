@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8950"]={"code":"8950","region":"Steiermark","city":"Stainach","latitude":47.53343,"longitude":14.10872}}(window,'GeoPostal','AT');

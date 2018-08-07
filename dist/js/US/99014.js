@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99014"]={"code":"99014","region":"WA","city":"Four Lakes","latitude":47.5599,"longitude":-117.5958}}(window,'GeoPostal','US');

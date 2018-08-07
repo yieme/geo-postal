@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140500"]={"code":"140500","region":"Moskovskaya oblast'","city":"Lukhovitsy","latitude":54.97661,"longitude":39.0444}}(window,'GeoPostal','RU');

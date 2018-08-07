@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 44"]={"code":"277 44","region":"Stredocesky kraj","city":"Luzec nad Vltavou","latitude":50.32138,"longitude":14.40022}}(window,'GeoPostal','CZ');

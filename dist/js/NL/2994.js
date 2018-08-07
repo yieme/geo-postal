@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2994"]={"code":"2994","region":"Zuid-Holland","city":"Barendrecht","latitude":51.85667,"longitude":4.53472}}(window,'GeoPostal','NL');

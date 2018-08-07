@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06009"]={"code":"06009","region":"Bejaia","city":"Barbacha","latitude":36.56667,"longitude":4.96667}}(window,'GeoPostal','DZ');

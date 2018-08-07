@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46050"]={"code":"46050","region":"Doukhala-Abda","city":"Safi","latitude":32.29939,"longitude":-9.23718}}(window,'GeoPostal','MA');

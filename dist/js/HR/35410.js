@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35410"]={"code":"35410","region":"Brodsko-posavska zupanija","city":"Batrina","latitude":45.18944,"longitude":17.66639}}(window,'GeoPostal','HR');

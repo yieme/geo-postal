@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66423"]={"code":"66423","region":"Kansas","city":"Eskridge","latitude":38.85861,"longitude":-96.1075}}(window,'GeoPostal','US');

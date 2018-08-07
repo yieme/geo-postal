@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45066"]={"code":"45066","region":"Ohio","city":"Springboro","latitude":39.559292,"longitude":-84.223797}}(window,'GeoPostal','US');

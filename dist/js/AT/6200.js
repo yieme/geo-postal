@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6200"]={"code":"6200","region":"Tirol","city":"Jenbach","latitude":47.39173,"longitude":11.77245}}(window,'GeoPostal','AT');

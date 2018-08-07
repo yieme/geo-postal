@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04853"]={"code":"04853","region":"ME","city":"North Haven","latitude":44.1436,"longitude":-68.8667}}(window,'GeoPostal','US');

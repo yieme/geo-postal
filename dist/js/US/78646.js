@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78646"]={"code":"78646","region":"Texas","city":"Leander","latitude":30.57858,"longitude":-97.85268}}(window,'GeoPostal','US');

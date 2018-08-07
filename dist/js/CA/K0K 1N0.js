@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1N0"]={"code":"K0K 1N0","region":"Ontario","city":"Centreville","latitude":44.95008,"longitude":-81.26644}}(window,'GeoPostal','CA');

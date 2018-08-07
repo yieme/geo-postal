@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86316"]={"code":"86316","region":"Nusa Tenggara Timur","city":"Ende","latitude":-8.8432,"longitude":121.6623}}(window,'GeoPostal','ID');

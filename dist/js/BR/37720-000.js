@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37720-000"]={"code":"37720-000","region":"Minas Gerais","city":"Botelhos","latitude":-21.63333,"longitude":-46.395}}(window,'GeoPostal','BR');

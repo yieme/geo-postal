@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58320"]={"code":"58320","region":"Bourgogne-Franche-Comte","city":"Pougues-les-Eaux","latitude":47.07518,"longitude":3.1015}}(window,'GeoPostal','FR');

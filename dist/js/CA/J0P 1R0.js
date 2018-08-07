@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1R0"]={"code":"J0P 1R0","region":"Quebec","city":"Riviere-Beaudette","latitude":45.23339,"longitude":-74.33255}}(window,'GeoPostal','CA');

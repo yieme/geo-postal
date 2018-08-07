@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83733"]={"code":"83733","region":"ID","city":"West One Bank","latitude":43.61,"longitude":-116.2}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA66 7NG"]={"code":"SA66 7NG","region":"Wales","city":"Clunderwen","latitude":51.84056,"longitude":-4.73167}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Bizerte","city":"Bizerte","latitude":37.27442,"longitude":9.87391}}(window,'GeoPostal','TN');

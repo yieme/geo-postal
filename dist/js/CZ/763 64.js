@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 64"]={"code":"763 64","region":"Zlinsky kraj","city":"Spytihnev","latitude":49.14115,"longitude":17.49808}}(window,'GeoPostal','CZ');

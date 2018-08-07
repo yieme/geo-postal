@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134216"]={"code":"134216","region":"Jilin","city":"Caiyuan","latitude":41.33751,"longitude":125.71297}}(window,'GeoPostal','CN');

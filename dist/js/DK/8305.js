@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8305"]={"code":"8305","region":"Midtjylland","city":"Odder","latitude":55.97313,"longitude":10.153}}(window,'GeoPostal','DK');

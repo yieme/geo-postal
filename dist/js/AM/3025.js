@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3025"]={"code":"3025","region":"Sirak","city":"Maralik","latitude":40.57453,"longitude":43.86862}}(window,'GeoPostal','AM');

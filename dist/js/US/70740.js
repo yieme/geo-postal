@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70740"]={"code":"70740","region":"LA","city":"Grosse Tete","latitude":30.3879,"longitude":-91.4383}}(window,'GeoPostal','US');

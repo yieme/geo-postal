@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"New South Wales","city":"Orange","latitude":-33.28397,"longitude":149.10018}}(window,'GeoPostal','AU');

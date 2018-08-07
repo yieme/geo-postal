@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238181"]={"code":"238181","region":"Anhui","city":"Xianzong","latitude":31.8013,"longitude":118.0078}}(window,'GeoPostal','CN');

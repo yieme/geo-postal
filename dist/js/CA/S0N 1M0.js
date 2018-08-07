@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 1M0"]={"code":"S0N 1M0","region":"Saskatchewan","city":"Rosenhof","latitude":50.21676,"longitude":-107.56803}}(window,'GeoPostal','CA');

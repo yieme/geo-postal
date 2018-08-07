@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 3EJ"]={"code":"CM8 3EJ","region":"England","city":"Great Braxted","latitude":51.79529,"longitude":0.69901}}(window,'GeoPostal','GB');

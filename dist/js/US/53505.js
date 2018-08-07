@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53505"]={"code":"53505","region":"WI","city":"Avalon","latitude":42.6593,"longitude":-88.8307}}(window,'GeoPostal','US');

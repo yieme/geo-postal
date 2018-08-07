@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42749"]={"code":"42749","region":"Kentucky","city":"Horse Cave","latitude":37.1795,"longitude":-85.90692}}(window,'GeoPostal','US');

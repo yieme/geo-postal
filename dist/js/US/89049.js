@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89049"]={"code":"89049","region":"Nevada","city":"Tonopah","latitude":38.06716,"longitude":-117.23008}}(window,'GeoPostal','US');

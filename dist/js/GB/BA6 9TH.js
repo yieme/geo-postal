@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA6 9TH"]={"code":"BA6 9TH","region":"England","city":"Meare","latitude":51.17167,"longitude":-2.78389}}(window,'GeoPostal','GB');

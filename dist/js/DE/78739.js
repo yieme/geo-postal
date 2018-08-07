@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78739"]={"code":"78739","region":"Baden-Wurttemberg","city":"Buchenberg","latitude":48.16071,"longitude":8.37891}}(window,'GeoPostal','DE');

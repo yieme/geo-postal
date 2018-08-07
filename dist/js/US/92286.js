@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92286"]={"code":"92286","region":"CA","city":"Yucca Valley","latitude":34.1803,"longitude":-116.35}}(window,'GeoPostal','US');

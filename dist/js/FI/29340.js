@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29340"]={"code":"29340","region":"Satakunta","city":"Kullaa","latitude":61.46998,"longitude":22.16145}}(window,'GeoPostal','FI');

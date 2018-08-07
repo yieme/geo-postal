@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624970"]={"code":"624970","region":"Sverdlovskaya oblast'","city":"Serov","latitude":59.60334,"longitude":60.5787}}(window,'GeoPostal','RU');

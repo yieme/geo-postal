@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7301"]={"code":"7301","region":"Hainaut","city":"Boussu","latitude":50.43417,"longitude":3.7944}}(window,'GeoPostal','BE');

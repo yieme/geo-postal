@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22544"]={"code":"22544","region":"VA","city":"Rollins Fork","latitude":38.1849,"longitude":-77.0622}}(window,'GeoPostal','US');

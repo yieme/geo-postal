@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72927"]={"code":"72927","region":"Arkansas","city":"Booneville","latitude":35.14009,"longitude":-93.92159}}(window,'GeoPostal','US');

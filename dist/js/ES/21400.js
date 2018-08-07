@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21400"]={"code":"21400","region":"Andalucia","city":"Ayamonte","latitude":37.20994,"longitude":-7.40266}}(window,'GeoPostal','ES');

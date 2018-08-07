@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["282 01"]={"code":"282 01","region":"Stredocesky kraj","city":"Cesky Brod","latitude":50.0742,"longitude":14.86081}}(window,'GeoPostal','CZ');

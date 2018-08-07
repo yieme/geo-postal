@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04538"]={"code":"04538","region":"Maine","city":"Boothbay Harbor","latitude":43.8523,"longitude":-69.6281}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8QX"]={"code":"DN22 8QX","region":"England","city":"Barnby Moor","latitude":53.35204,"longitude":-1.00218}}(window,'GeoPostal','GB');

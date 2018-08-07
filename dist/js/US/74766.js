@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74766"]={"code":"74766","region":"Oklahoma","city":"Wright City","latitude":34.06389,"longitude":-95.00361}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64390-000"]={"code":"64390-000","region":"Piaui","city":"Demerval Lobao","latitude":-5.35833,"longitude":-42.67639}}(window,'GeoPostal','BR');

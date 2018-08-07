@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54719"]={"code":"54719","region":"Grand-Est","city":"Ludres","latitude":48.62181,"longitude":6.16183}}(window,'GeoPostal','FR');

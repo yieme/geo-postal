@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45072"]={"code":"45072","region":"Volynska oblast","city":"Goloby","latitude":51.08651,"longitude":25.00767}}(window,'GeoPostal','UA');

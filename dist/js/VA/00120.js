@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00120"]={"code":"00120","region":"Vatican City","city":"Vatican City","latitude":41.90236,"longitude":12.45332}}(window,'GeoPostal','VA');

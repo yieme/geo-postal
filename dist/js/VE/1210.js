@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1210"]={"code":"1210","region":"Miranda","city":"Charallave","latitude":10.24247,"longitude":-66.85723}}(window,'GeoPostal','VE');

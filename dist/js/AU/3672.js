@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3672"]={"code":"3672","region":"Victoria","city":"Benalla","latitude":-36.55113,"longitude":145.98425}}(window,'GeoPostal','AU');

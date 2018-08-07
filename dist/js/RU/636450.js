@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636450"]={"code":"636450","region":"Tomskaya oblast'","city":"Togur","latitude":58.3631,"longitude":82.8265}}(window,'GeoPostal','RU');

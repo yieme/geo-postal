@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL51 9LX"]={"code":"LL51 9LX","region":"Wales","city":"Bryncir","latitude":52.97768,"longitude":-4.26541}}(window,'GeoPostal','GB');

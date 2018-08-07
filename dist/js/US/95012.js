@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95012"]={"code":"95012","region":"California","city":"Castroville","latitude":36.778119,"longitude":-121.73694}}(window,'GeoPostal','US');

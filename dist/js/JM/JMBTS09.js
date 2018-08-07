@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBTS09"]={"code":"JMBTS09","region":"Saint Thomas","city":"Dalvey","latitude":17.91184,"longitude":-76.24864}}(window,'GeoPostal','JM');

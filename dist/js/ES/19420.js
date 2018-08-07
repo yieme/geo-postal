@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19420"]={"code":"19420","region":"Castilla-La Mancha","city":"Cifuentes","latitude":40.78622,"longitude":-2.62245}}(window,'GeoPostal','ES');

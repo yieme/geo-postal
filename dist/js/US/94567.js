@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94567"]={"code":"94567","region":"California","city":"Pope Valley","latitude":38.677573,"longitude":-122.407993}}(window,'GeoPostal','US');

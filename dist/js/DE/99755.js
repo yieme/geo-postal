@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99755"]={"code":"99755","region":"Thuringen","city":"Ellrich","latitude":51.58656,"longitude":10.66326}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62176"]={"code":"62176","region":"Hauts-de-France","city":"Camiers","latitude":50.57153,"longitude":1.61325}}(window,'GeoPostal','FR');

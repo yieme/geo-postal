@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5540"]={"code":"5540","region":"Syddanmark","city":"Ullerslev","latitude":55.36172,"longitude":10.6519}}(window,'GeoPostal','DK');

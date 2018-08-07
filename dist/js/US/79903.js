@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79903"]={"code":"79903","region":"Texas","city":"El Paso","latitude":31.786094,"longitude":-106.444994}}(window,'GeoPostal','US');

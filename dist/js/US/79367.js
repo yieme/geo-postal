@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79367"]={"code":"79367","region":"TX","city":"Smyer","latitude":33.5918,"longitude":-102.1692}}(window,'GeoPostal','US');

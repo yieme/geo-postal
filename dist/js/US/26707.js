@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26707"]={"code":"26707","region":"West Virginia","city":"Bayard","latitude":39.254167,"longitude":-79.398056}}(window,'GeoPostal','US');

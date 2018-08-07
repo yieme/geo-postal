@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3732"]={"code":"3732","region":"Utrecht","city":"De Bilt","latitude":52.11,"longitude":5.18056}}(window,'GeoPostal','NL');

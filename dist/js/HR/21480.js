@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21480"]={"code":"21480","region":"Splitsko-dalmatinska zupanija","city":"Vis","latitude":43.06194,"longitude":16.18306}}(window,'GeoPostal','HR');

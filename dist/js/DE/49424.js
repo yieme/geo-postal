@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49424"]={"code":"49424","region":"Niedersachsen","city":"Goldenstedt","latitude":52.78833,"longitude":8.43201}}(window,'GeoPostal','DE');

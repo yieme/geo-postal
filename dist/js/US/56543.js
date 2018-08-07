@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56543"]={"code":"56543","region":"MN","city":"Foxhome","latitude":46.2584,"longitude":-96.3176}}(window,'GeoPostal','US');

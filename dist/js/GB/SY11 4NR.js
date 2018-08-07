@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 4NR"]={"code":"SY11 4NR","region":"England","city":"Hindford","latitude":52.89039,"longitude":-2.99126}}(window,'GeoPostal','GB');

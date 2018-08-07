@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59400"]={"code":"59400","region":"Kirklareli","city":"Luleburgaz","latitude":41.40385,"longitude":27.35918}}(window,'GeoPostal','TR');

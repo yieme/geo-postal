@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26334"]={"code":"26334","region":"Juznobanatski okrug","city":"Veliko Srediste","latitude":45.17778,"longitude":21.40583}}(window,'GeoPostal','RS');

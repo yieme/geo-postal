@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3801"]={"code":"3801","region":"Vayoc Jor","city":"Vayk'","latitude":39.691,"longitude":45.46653}}(window,'GeoPostal','AM');

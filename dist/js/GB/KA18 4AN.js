@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 4AN"]={"code":"KA18 4AN","region":"Scotland","city":"New Cumnock","latitude":55.39563,"longitude":-4.18458}}(window,'GeoPostal','GB');

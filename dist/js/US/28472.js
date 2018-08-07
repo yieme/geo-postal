@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28472"]={"code":"28472","region":"North Carolina","city":"Whiteville","latitude":34.33878,"longitude":-78.70307}}(window,'GeoPostal','US');

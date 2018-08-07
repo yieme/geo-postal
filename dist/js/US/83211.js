@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83211"]={"code":"83211","region":"Idaho","city":"American Falls","latitude":42.75204,"longitude":-112.96464}}(window,'GeoPostal','US');

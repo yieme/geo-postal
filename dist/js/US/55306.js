@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55306"]={"code":"55306","region":"Minnesota","city":"Burnsville","latitude":44.76774,"longitude":-93.27772}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72469"]={"code":"72469","region":"Baden-Wurttemberg","city":"Messstetten","latitude":48.18317,"longitude":8.96565}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188679"]={"code":"188679","region":"Leningradskaya oblast'","city":"Imeni Morozova","latitude":59.97572,"longitude":31.03762}}(window,'GeoPostal','RU');

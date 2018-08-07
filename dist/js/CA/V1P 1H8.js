@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1P 1H8"]={"code":"V1P 1H8","region":"British Columbia","city":"McCulloch","latitude":49.79978,"longitude":-119.18565}}(window,'GeoPostal','CA');

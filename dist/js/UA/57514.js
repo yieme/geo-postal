@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57514"]={"code":"57514","region":"Mykolaivska oblast","city":"Ochakiv","latitude":46.61283,"longitude":31.54982}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS16 1QD"]={"code":"BS16 1QD","region":"England","city":"Stoke Gifford","latitude":51.51686,"longitude":-2.54053}}(window,'GeoPostal','GB');

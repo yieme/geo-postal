@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77735"]={"code":"77735","region":"Quintana Roo","city":"San Miguel de Cozumel","latitude":20.50833,"longitude":-86.94583}}(window,'GeoPostal','MX');

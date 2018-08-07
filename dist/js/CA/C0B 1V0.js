@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1V0"]={"code":"C0B 1V0","region":"Prince Edward Island","city":"O'Leary","latitude":46.71685,"longitude":-64.23204}}(window,'GeoPostal','CA');

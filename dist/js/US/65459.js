@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65459"]={"code":"65459","region":"MO","city":"Dixon","latitude":37.9848,"longitude":-92.0897}}(window,'GeoPostal','US');

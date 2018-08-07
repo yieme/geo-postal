@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52170"]={"code":"52170","region":"Lampang","city":"Sop Prap","latitude":17.88053,"longitude":99.337}}(window,'GeoPostal','TH');

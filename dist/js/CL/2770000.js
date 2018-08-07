@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2770000"]={"code":"2770000","region":"Valparaiso","city":"Hanga Roa","latitude":-27.15,"longitude":-109.43333}}(window,'GeoPostal','CL');

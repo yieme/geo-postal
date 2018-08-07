@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547045"]={"code":"547045","region":"Mures","city":"Atintis","latitude":46.43333,"longitude":24.1}}(window,'GeoPostal','RO');

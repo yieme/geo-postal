@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56131"]={"code":"56131","region":"Minnesota","city":"Fulda","latitude":43.870308,"longitude":-95.59964}}(window,'GeoPostal','US');

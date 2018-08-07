@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99700"]={"code":"99700","region":"Zacatecas","city":"Villanueva","latitude":22.35,"longitude":-102.88333}}(window,'GeoPostal','MX');

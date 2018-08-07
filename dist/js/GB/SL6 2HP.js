@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL6 2HP"]={"code":"SL6 2HP","region":"England","city":"Bray","latitude":51.5034,"longitude":-0.68768}}(window,'GeoPostal','GB');

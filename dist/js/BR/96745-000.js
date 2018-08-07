@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96745-000"]={"code":"96745-000","region":"Rio Grande do Sul","city":"Triunfo","latitude":-29.94333,"longitude":-51.71806}}(window,'GeoPostal','BR');

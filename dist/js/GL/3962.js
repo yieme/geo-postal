@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3962"]={"code":"3962","region":"Avannaata Kommunia","city":"Upernavik","latitude":72.78684,"longitude":-56.15485}}(window,'GeoPostal','GL');

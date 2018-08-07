@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02826"]={"code":"02826","region":"Sachsen","city":"Gorlitz","latitude":51.15518,"longitude":14.98853}}(window,'GeoPostal','DE');

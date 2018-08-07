@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188838"]={"code":"188838","region":"Leningradskaya oblast'","city":"Il'ichevo","latitude":60.26808,"longitude":29.7523}}(window,'GeoPostal','RU');

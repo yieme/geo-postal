@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30137"]={"code":"30137","region":"Sumatera Selatan","city":"Palembang","latitude":-2.91673,"longitude":104.7458}}(window,'GeoPostal','ID');

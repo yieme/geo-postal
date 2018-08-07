@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38333"]={"code":"38333","region":"Tennessee","city":"Eva","latitude":36.113618,"longitude":-87.994173}}(window,'GeoPostal','US');

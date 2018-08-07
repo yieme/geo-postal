@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WC2H 8AD"]={"code":"WC2H 8AD","region":"England","city":"Shaftesbury","latitude":51.00528,"longitude":-2.19333}}(window,'GeoPostal','GB');

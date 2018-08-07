@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4720000"]={"code":"4720000","region":"La Araucania","city":"Victoria","latitude":-38.21667,"longitude":-72.33333}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL57 4HU"]={"code":"LL57 4HU","region":"Wales","city":"Llandegai","latitude":53.21667,"longitude":-4.1}}(window,'GeoPostal','GB');

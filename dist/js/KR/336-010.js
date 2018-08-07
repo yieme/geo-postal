@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336-010"]={"code":"336-010","region":"Chungcheongnam-do","city":"Asan","latitude":36.78361,"longitude":127.00417}}(window,'GeoPostal','KR');

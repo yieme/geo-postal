@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95360"]={"code":"95360","region":"California","city":"Newman","latitude":37.34614,"longitude":-121.078637}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88139"]={"code":"88139","region":"Grand-Est","city":"Charmes","latitude":48.3722,"longitude":6.29117}}(window,'GeoPostal','FR');

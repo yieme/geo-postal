@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5341"]={"code":"5341","region":"Rajshahi","city":"Panchagarh","latitude":26.33129,"longitude":88.562}}(window,'GeoPostal','BD');

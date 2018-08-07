@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85500-000"]={"code":"85500-000","region":"Parana","city":"Pato Branco","latitude":-26.22861,"longitude":-52.67056}}(window,'GeoPostal','BR');

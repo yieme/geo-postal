@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4227"]={"code":"4227","region":"Queensland","city":"Varsity Lakes","latitude":-28.0894,"longitude":153.4122}}(window,'GeoPostal','AU');

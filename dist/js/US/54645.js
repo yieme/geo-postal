@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54645"]={"code":"54645","region":"WI","city":"Mount Sterling","latitude":43.3153,"longitude":-90.9287}}(window,'GeoPostal','US');

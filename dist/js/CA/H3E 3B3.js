@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H3E 3B3"]={"code":"H3E 3B3","region":"Quebec","city":"Verdun","latitude":45.461523,"longitude":-73.546376}}(window,'GeoPostal','CA');

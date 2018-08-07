@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15759"]={"code":"15759","region":"Pennsylvania","city":"Marion Center","latitude":40.785234,"longitude":-79.030506}}(window,'GeoPostal','US');

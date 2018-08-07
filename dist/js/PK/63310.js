@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63310"]={"code":"63310","region":"Punjab","city":"Ahmadpur East","latitude":29.14309,"longitude":71.25976}}(window,'GeoPostal','PK');

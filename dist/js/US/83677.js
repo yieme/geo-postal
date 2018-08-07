@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83677"]={"code":"83677","region":"Idaho","city":"Yellow Pine","latitude":44.965,"longitude":-115.49361}}(window,'GeoPostal','US');

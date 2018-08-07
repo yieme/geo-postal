@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6001"]={"code":"6001","region":"Bacs-Kiskun","city":"Kecskemet","latitude":46.90618,"longitude":19.69128}}(window,'GeoPostal','HU');

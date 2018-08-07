@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10820"]={"code":"10820","region":"Uusimaa","city":"Ekenas","latitude":59.97359,"longitude":23.43389}}(window,'GeoPostal','FI');

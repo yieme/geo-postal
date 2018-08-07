@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31562"]={"code":"31562","region":"Georgia","city":"Saint George","latitude":30.52243,"longitude":-82.03761}}(window,'GeoPostal','US');

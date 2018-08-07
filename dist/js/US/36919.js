@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36919"]={"code":"36919","region":"Alabama","city":"Silas","latitude":31.7652,"longitude":-88.30722}}(window,'GeoPostal','US');

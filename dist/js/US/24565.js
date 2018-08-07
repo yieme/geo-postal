@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24565"]={"code":"24565","region":"VA","city":"Java","latitude":36.8586,"longitude":-79.187}}(window,'GeoPostal','US');

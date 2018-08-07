@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67059"]={"code":"67059","region":"Abruzzo","city":"Trasacco","latitude":41.95693,"longitude":13.5345}}(window,'GeoPostal','IT');

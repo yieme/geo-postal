@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01901"]={"code":"01901","region":"Pohjois-Karjala","city":"Nurmijarvi","latitude":63.52666,"longitude":29.99031}}(window,'GeoPostal','FI');

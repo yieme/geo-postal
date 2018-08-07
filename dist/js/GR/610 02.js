@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["610 02"]={"code":"610 02","region":"Kentriki Makedonia","city":"Drosaton","latitude":41.16278,"longitude":22.79889}}(window,'GeoPostal','GR');

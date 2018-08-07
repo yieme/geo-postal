@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03900"]={"code":"03900","region":"Afyonkarahisar","city":"Sandikli","latitude":38.46472,"longitude":30.26946}}(window,'GeoPostal','TR');

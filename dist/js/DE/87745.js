@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87745"]={"code":"87745","region":"Bayern","city":"Diepenhofen","latitude":48.16667,"longitude":10.48333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27283"]={"code":"27283","region":"NC","city":"Julian","latitude":35.9543,"longitude":-79.6386}}(window,'GeoPostal','US');

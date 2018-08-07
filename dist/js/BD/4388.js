@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4388"]={"code":"4388","region":"Chittagong","city":"Satkania","latitude":22.0796,"longitude":92.0572}}(window,'GeoPostal','BD');

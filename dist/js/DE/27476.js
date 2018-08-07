@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27476"]={"code":"27476","region":"Niedersachsen","city":"Sahlenburg","latitude":53.86186,"longitude":8.62669}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53563"]={"code":"53563","region":"WI","city":"Milton","latitude":42.7791,"longitude":-88.9531}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HX5 0DF"]={"code":"HX5 0DF","region":"England","city":"Elland","latitude":53.6851,"longitude":-1.83878}}(window,'GeoPostal','GB');

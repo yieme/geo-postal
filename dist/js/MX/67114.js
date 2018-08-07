@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67114"]={"code":"67114","region":"Nuevo Leon","city":"General Teran","latitude":25.26667,"longitude":-99.68333}}(window,'GeoPostal','MX');

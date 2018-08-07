@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52215"]={"code":"52215","region":"Istarska zupanija","city":"Vodnjan","latitude":44.95944,"longitude":13.85167}}(window,'GeoPostal','HR');

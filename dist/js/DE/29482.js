@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29482"]={"code":"29482","region":"Niedersachsen","city":"Belitz","latitude":52.99446,"longitude":11.07298}}(window,'GeoPostal','DE');

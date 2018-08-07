@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828128"]={"code":"828128","region":"Jharkhand","city":"Dugda","latitude":23.75,"longitude":86.16667}}(window,'GeoPostal','IN');

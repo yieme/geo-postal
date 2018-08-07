@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12069"]={"code":"12069","region":"NY","city":"Fort Hunter","latitude":42.9423,"longitude":-74.2851}}(window,'GeoPostal','US');

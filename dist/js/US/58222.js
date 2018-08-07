@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58222"]={"code":"58222","region":"North Dakota","city":"Crystal","latitude":48.586643,"longitude":-97.6658}}(window,'GeoPostal','US');

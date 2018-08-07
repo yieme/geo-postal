@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB43 7BS"]={"code":"AB43 7BS","region":"Scotland","city":"Tyrie Mains","latitude":57.65,"longitude":-2.1}}(window,'GeoPostal','GB');

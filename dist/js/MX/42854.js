@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42854"]={"code":"42854","region":"Hidalgo","city":"Tepeji de Ocampo","latitude":19.90528,"longitude":-99.34389}}(window,'GeoPostal','MX');

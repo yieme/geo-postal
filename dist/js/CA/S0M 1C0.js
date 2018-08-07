@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1C0"]={"code":"S0M 1C0","region":"Saskatchewan","city":"Ile-a-la-Crosse","latitude":55.45017,"longitude":-107.88469}}(window,'GeoPostal','CA');

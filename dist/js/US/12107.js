@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12107"]={"code":"12107","region":"NY","city":"Knox","latitude":42.66,"longitude":-74.1168}}(window,'GeoPostal','US');

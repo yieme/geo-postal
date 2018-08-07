@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8LD"]={"code":"SA48 8LD","region":"Wales","city":"Llanfair Clydogau","latitude":52.14238,"longitude":-4.01088}}(window,'GeoPostal','GB');

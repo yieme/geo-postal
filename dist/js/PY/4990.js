@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4990"]={"code":"4990","region":"Misiones","city":"Villa Florida","latitude":-26.38333,"longitude":-57.15}}(window,'GeoPostal','PY');

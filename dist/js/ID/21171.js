@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21171"]={"code":"21171","region":"Sumatera Utara","city":"Sarimatondang","latitude":2.8641,"longitude":98.9155}}(window,'GeoPostal','ID');

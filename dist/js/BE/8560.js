@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8560"]={"code":"8560","region":"West-Vlaanderen","city":"Wevelgem","latitude":50.8,"longitude":3.16667}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64482"]={"code":"64482","region":"Missouri","city":"Rock Port","latitude":40.41156,"longitude":-95.516759}}(window,'GeoPostal','US');

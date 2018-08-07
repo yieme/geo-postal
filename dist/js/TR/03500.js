@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03500"]={"code":"03500","region":"Manisa","city":"Sarigol","latitude":38.23953,"longitude":28.69663}}(window,'GeoPostal','TR');

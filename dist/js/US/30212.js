@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30212"]={"code":"30212","region":"GA","city":"Experiment","latitude":33.2782,"longitude":-84.2888}}(window,'GeoPostal','US');

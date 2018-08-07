@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48301"]={"code":"48301","region":"Nordrhein-Westfalen","city":"Heller","latitude":51.91263,"longitude":7.41541}}(window,'GeoPostal','DE');

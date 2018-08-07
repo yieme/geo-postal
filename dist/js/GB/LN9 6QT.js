@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN9 6QT"]={"code":"LN9 6QT","region":"England","city":"Salmonby","latitude":53.24137,"longitude":-0.01625}}(window,'GeoPostal','GB');

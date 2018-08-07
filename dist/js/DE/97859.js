@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97859"]={"code":"97859","region":"Bayern","city":"Habichsthal","latitude":50.05944,"longitude":9.40261}}(window,'GeoPostal','DE');

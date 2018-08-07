@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0RH"]={"code":"NG34 0RH","region":"England","city":"Helpringham","latitude":52.95128,"longitude":-0.30616}}(window,'GeoPostal','GB');

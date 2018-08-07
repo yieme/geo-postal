@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06526"]={"code":"06526","region":"Sachsen-Anhalt","city":"Sangerhausen","latitude":51.47221,"longitude":11.29533}}(window,'GeoPostal','DE');

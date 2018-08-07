@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707380"]={"code":"707380","region":"Iasi","city":"Popricani","latitude":47.3,"longitude":27.51667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2453"]={"code":"2453","region":"Fejer","city":"Ercsi","latitude":47.25194,"longitude":18.89623}}(window,'GeoPostal','HU');

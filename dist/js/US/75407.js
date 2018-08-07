@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75407"]={"code":"75407","region":"Texas","city":"Princeton","latitude":33.1717,"longitude":-96.4932}}(window,'GeoPostal','US');

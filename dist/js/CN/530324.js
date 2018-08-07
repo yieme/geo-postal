@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530324"]={"code":"530324","region":"Guangxi","city":"Lingcheng","latitude":22.44421,"longitude":109.29463}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2H0"]={"code":"T0B 2H0","region":"Alberta","city":"Hawkins","latitude":52.86684,"longitude":-111.10166}}(window,'GeoPostal','CA');

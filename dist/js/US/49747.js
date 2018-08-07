@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49747"]={"code":"49747","region":"MI","city":"Hubbard Lake","latitude":44.8947,"longitude":-83.6059}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26362"]={"code":"26362","region":"West Virginia","city":"Harrisville","latitude":39.20952,"longitude":-81.05178}}(window,'GeoPostal','US');

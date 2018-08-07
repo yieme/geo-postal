@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27239"]={"code":"27239","region":"Niedersachsen","city":"Twistringen","latitude":52.79926,"longitude":8.64163}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48301"]={"code":"48301","region":"Michigan","city":"Bloomfield Hills","latitude":42.5445,"longitude":-83.28018}}(window,'GeoPostal','US');

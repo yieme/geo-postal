@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56602"]={"code":"56602","region":"Kosi","city":"Biratnagar","latitude":26.4831,"longitude":87.28337}}(window,'GeoPostal','NP');

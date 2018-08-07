@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64465"]={"code":"64465","region":"MO","city":"Lathrop","latitude":39.5177,"longitude":-94.3093}}(window,'GeoPostal','US');

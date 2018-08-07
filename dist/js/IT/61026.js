@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61026"]={"code":"61026","region":"Marche","city":"Lunano","latitude":43.73116,"longitude":12.44355}}(window,'GeoPostal','IT');

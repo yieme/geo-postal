@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07866"]={"code":"07866","region":"New Jersey","city":"Rockaway","latitude":40.9438,"longitude":-74.4801}}(window,'GeoPostal','US');

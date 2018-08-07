@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87633"]={"code":"87633","region":"Donetska oblast","city":"Siedove","latitude":47.07678,"longitude":38.15602}}(window,'GeoPostal','UA');

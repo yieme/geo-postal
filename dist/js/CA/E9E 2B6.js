@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E9E 2B6"]={"code":"E9E 2B6","region":"New Brunswick","city":"Renous","latitude":46.8168,"longitude":-65.79876}}(window,'GeoPostal','CA');

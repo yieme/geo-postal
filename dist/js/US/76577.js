@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76577"]={"code":"76577","region":"Texas","city":"Thorndale","latitude":30.60744,"longitude":-97.17672}}(window,'GeoPostal','US');

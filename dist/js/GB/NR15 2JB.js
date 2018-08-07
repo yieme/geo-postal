@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR15 2JB"]={"code":"NR15 2JB","region":"England","city":"Moulton Saint Michael","latitude":52.46667,"longitude":1.18333}}(window,'GeoPostal','GB');

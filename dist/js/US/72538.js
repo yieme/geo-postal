@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72538"]={"code":"72538","region":"AR","city":"Gepp","latitude":36.4364,"longitude":-92.0995}}(window,'GeoPostal','US');

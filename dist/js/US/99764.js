@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99764"]={"code":"99764","region":"AK","city":"Northway","latitude":62.9617,"longitude":-141.9372}}(window,'GeoPostal','US');

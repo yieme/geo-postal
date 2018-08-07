@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307100"]={"code":"307100","region":"Kurskaya oblast'","city":"Fatezh","latitude":52.0891,"longitude":35.8632}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26400-000"]={"code":"26400-000","region":"Rio de Janeiro","city":"Japeri","latitude":-22.64306,"longitude":-43.65333}}(window,'GeoPostal','BR');

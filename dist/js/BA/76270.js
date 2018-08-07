@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76270"]={"code":"76270","region":"Federacija Bosne i Hercegovine","city":"Orasje","latitude":45.03556,"longitude":18.69333}}(window,'GeoPostal','BA');

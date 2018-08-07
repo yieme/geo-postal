@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2711"]={"code":"2711","region":"Pest","city":"Tapioszentmarton","latitude":47.3399,"longitude":19.74648}}(window,'GeoPostal','HU');

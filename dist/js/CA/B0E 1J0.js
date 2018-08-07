@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0E 1J0"]={"code":"B0E 1J0","region":"Nova Scotia","city":"Kempt Road","latitude":45.65014,"longitude":-61.16522}}(window,'GeoPostal','CA');

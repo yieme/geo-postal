@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67871"]={"code":"67871","region":"Kansas","city":"Scott City","latitude":38.48252,"longitude":-100.90709}}(window,'GeoPostal','US');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["QA"]={id:'QA',country:'Qatar', postal:{'':{code:'',region:'Ad Dawhah',city:'Doha',latitude:25.27932,longitude:51.52245}}};

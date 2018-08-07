@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79377"]={"code":"79377","region":"TX","city":"Welch","latitude":32.9298,"longitude":-102.1278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63939"]={"code":"63939","region":"Bayern","city":"Worth am Main","latitude":49.7972,"longitude":9.15389}}(window,'GeoPostal','DE');

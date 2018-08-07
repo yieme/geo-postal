@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3119"]={"code":"3119","region":"Tarlac","city":"Tarlac","latitude":15.48889,"longitude":120.59861}}(window,'GeoPostal','PH');

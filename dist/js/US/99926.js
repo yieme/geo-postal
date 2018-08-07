@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99926"]={"code":"99926","region":"Alaska","city":"Metlakatla","latitude":55.12917,"longitude":-131.57222}}(window,'GeoPostal','US');

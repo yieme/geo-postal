@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18465"]={"code":"18465","region":"Mecklenburg-Vorpommern","city":"Krakow","latitude":54.12372,"longitude":12.78276}}(window,'GeoPostal','DE');

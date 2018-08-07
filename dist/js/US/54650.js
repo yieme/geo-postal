@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54650"]={"code":"54650","region":"Wisconsin","city":"Onalaska","latitude":43.88441,"longitude":-91.23514}}(window,'GeoPostal','US');

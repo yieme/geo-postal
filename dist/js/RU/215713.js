@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215713"]={"code":"215713","region":"Smolenskaya oblast'","city":"Safonovo","latitude":55.15,"longitude":33.21667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5065"]={"code":"5065","region":"South Australia","city":"Dulwich","latitude":-34.93682,"longitude":138.62898}}(window,'GeoPostal','AU');

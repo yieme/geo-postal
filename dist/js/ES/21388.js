@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21388"]={"code":"21388","region":"Andalucia","city":"Hinojales","latitude":38,"longitude":-6.58333}}(window,'GeoPostal','ES');

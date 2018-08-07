@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59494"]={"code":"59494","region":"Nordrhein-Westfalen","city":"Jakobi","latitude":51.5578,"longitude":8.09845}}(window,'GeoPostal','DE');

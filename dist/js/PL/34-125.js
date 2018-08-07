@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-125"]={"code":"34-125","region":"Malopolskie","city":"Sulkowice","latitude":49.81932,"longitude":19.35988}}(window,'GeoPostal','PL');

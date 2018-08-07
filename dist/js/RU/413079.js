@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413079"]={"code":"413079","region":"Saratovskaya oblast'","city":"Krasnyy Yar","latitude":51.62917,"longitude":46.42167}}(window,'GeoPostal','RU');

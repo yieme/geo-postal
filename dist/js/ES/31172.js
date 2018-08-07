@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31172"]={"code":"31172","region":"Navarra, Comunidad Foral de","city":"Ollo","latitude":42.867333,"longitude":-1.858356}}(window,'GeoPostal','ES');

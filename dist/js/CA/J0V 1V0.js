@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1V0"]={"code":"J0V 1V0","region":"Quebec","city":"Ripon","latitude":45.7834,"longitude":-75.09929}}(window,'GeoPostal','CA');

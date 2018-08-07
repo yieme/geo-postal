@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48236"]={"code":"48236","region":"Michigan","city":"Auburn Hills","latitude":42.41916,"longitude":-82.90098}}(window,'GeoPostal','US');

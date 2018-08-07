@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77446"]={"code":"77446","region":"Ile-de-France","city":"Noisiel","latitude":48.84868,"longitude":2.62435}}(window,'GeoPostal','FR');

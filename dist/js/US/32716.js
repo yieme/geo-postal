@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32716"]={"code":"32716","region":"Florida","city":"Altamonte Springs","latitude":28.66602,"longitude":-81.40278}}(window,'GeoPostal','US');

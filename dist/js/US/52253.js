@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52253"]={"code":"52253","region":"IA","city":"Lisbon","latitude":41.9212,"longitude":-91.3861}}(window,'GeoPostal','US');

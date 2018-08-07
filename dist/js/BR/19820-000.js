@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19820-000"]={"code":"19820-000","region":"Sao Paulo","city":"Taruma","latitude":-22.74667,"longitude":-50.57722}}(window,'GeoPostal','BR');

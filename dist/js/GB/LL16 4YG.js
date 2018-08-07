@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 4YG"]={"code":"LL16 4YG","region":"Wales","city":"Llandyrnog","latitude":53.17505,"longitude":-3.33646}}(window,'GeoPostal','GB');

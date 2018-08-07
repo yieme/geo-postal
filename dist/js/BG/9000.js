@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9000"]={"code":"9000","region":"Varna","city":"Varna","latitude":43.21667,"longitude":27.91667}}(window,'GeoPostal','BG');

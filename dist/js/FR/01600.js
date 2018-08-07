@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01600"]={"code":"01600","region":"Auvergne-Rhone-Alpes","city":"Reyrieux","latitude":45.93306,"longitude":4.82394}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90133"]={"code":"90133","region":"Zakarpatska oblast","city":"Belki","latitude":48.31503,"longitude":23.13248}}(window,'GeoPostal','UA');

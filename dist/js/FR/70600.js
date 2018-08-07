@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70600"]={"code":"70600","region":"Bourgogne-Franche-Comte","city":"Champlitte-la-Ville","latitude":47.61333,"longitude":5.53191}}(window,'GeoPostal','FR');

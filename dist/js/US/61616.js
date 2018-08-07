@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61616"]={"code":"61616","region":"Illinois","city":"Peoria Heights","latitude":40.754171,"longitude":-89.6012}}(window,'GeoPostal','US');

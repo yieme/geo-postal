@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-266"]={"code":"44-266","region":"Slaskie","city":"Swierklany Gorne","latitude":50.02765,"longitude":18.5905}}(window,'GeoPostal','PL');

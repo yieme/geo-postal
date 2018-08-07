@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353885"]={"code":"353885","region":"Krasnodarskiy kray","city":"Ol'ginskaya","latitude":45.9461,"longitude":38.54864}}(window,'GeoPostal','RU');

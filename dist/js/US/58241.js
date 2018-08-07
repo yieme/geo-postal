@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58241"]={"code":"58241","region":"ND","city":"Hensel","latitude":48.7203,"longitude":-97.6993}}(window,'GeoPostal','US');

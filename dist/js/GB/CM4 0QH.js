@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM4 0QH"]={"code":"CM4 0QH","region":"England","city":"Blackmore","latitude":51.69256,"longitude":0.31865}}(window,'GeoPostal','GB');

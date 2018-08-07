@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81636"]={"code":"81636","region":"CO","city":"Battlement Mesa","latitude":39.4305,"longitude":-108.0239}}(window,'GeoPostal','US');

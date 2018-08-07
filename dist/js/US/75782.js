@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75782"]={"code":"75782","region":"TX","city":"Poynor","latitude":32.0797,"longitude":-95.5938}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR9 4AH"]={"code":"NR9 4AH","region":"England","city":"Woodrising","latitude":52.59072,"longitude":0.93363}}(window,'GeoPostal','GB');

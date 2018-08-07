@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641700"]={"code":"641700","region":"Kurganskaya oblast'","city":"Kataysk","latitude":56.289,"longitude":62.5841}}(window,'GeoPostal','RU');

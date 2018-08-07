@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66265"]={"code":"66265","region":"Bayern","city":"Prem","latitude":47.68333,"longitude":10.8}}(window,'GeoPostal','DE');

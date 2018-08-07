@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96950"]={"code":"96950","region":"MP","city":"Saipan","latitude":15.17,"longitude":145.75}}(window,'GeoPostal','US');

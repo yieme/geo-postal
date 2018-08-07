@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42060"]={"code":"42060","region":"KY","city":"Lovelaceville","latitude":36.9687,"longitude":-88.8309}}(window,'GeoPostal','US');

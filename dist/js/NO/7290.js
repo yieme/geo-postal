@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7290"]={"code":"7290","region":"Sor-Trondelag","city":"Storen","latitude":63.0391,"longitude":10.28501}}(window,'GeoPostal','NO');

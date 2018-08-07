@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632513"]={"code":"632513","region":"Tamil Nadu","city":"Arcot","latitude":12.9,"longitude":79.33333}}(window,'GeoPostal','IN');

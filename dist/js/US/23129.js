@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23129"]={"code":"23129","region":"Virginia","city":"Oilville","latitude":37.72,"longitude":-77.93}}(window,'GeoPostal','US');

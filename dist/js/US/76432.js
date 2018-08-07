@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76432"]={"code":"76432","region":"TX","city":"Blanket","latitude":31.7882,"longitude":-98.8311}}(window,'GeoPostal','US');

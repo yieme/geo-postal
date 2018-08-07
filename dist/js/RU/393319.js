@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393319"]={"code":"393319","region":"Tambovskaya oblast'","city":"Inzhavino","latitude":52.31847,"longitude":42.49369}}(window,'GeoPostal','RU');

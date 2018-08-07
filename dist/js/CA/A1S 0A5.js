@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1S 0A5"]={"code":"A1S 0A5","region":"Newfoundland and Labrador","city":"Big Pond","latitude":47.41659,"longitude":-52.76475}}(window,'GeoPostal','CA');

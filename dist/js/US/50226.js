@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50226"]={"code":"50226","region":"IA","city":"Polk City","latitude":41.7549,"longitude":-93.6893}}(window,'GeoPostal','US');

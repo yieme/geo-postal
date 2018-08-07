@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25559"]={"code":"25559","region":"WV","city":"Salt Rock","latitude":38.3265,"longitude":-82.247}}(window,'GeoPostal','US');

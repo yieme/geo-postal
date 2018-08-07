@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79381"]={"code":"79381","region":"TX","city":"Wilson","latitude":33.3299,"longitude":-101.7122}}(window,'GeoPostal','US');

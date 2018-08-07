@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19053"]={"code":"19053","region":"Mecklenburg-Vorpommern","city":"Schwerin","latitude":53.62937,"longitude":11.41171}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["011200"]={"code":"011200","region":"Nei Mongol","city":"Saihan Tal","latitude":42.73583,"longitude":112.65139}}(window,'GeoPostal','CN');

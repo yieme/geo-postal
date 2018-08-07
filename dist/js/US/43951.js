@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43951"]={"code":"43951","region":"Ohio","city":"Lafferty","latitude":40.111667,"longitude":-81.019444}}(window,'GeoPostal','US');

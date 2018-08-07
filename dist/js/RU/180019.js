@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180019"]={"code":"180019","region":"Pskovskaya oblast'","city":"Pskov","latitude":57.8136,"longitude":28.3496}}(window,'GeoPostal','RU');

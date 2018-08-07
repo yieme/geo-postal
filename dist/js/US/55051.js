@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55051"]={"code":"55051","region":"Minnesota","city":"Mora","latitude":45.8769,"longitude":-93.29384}}(window,'GeoPostal','US');

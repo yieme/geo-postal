@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 8SD"]={"code":"PE31 8SD","region":"England","city":"Syderstone","latitude":52.85987,"longitude":0.7187}}(window,'GeoPostal','GB');

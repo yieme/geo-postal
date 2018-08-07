@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24806"]={"code":"24806","region":"Schleswig-Holstein","city":"Julianenebene","latitude":54.31633,"longitude":9.50136}}(window,'GeoPostal','DE');

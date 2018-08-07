@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76648"]={"code":"76648","region":"TX","city":"Hubbard","latitude":31.8436,"longitude":-96.8}}(window,'GeoPostal','US');

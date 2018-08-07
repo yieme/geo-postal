@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93226"]={"code":"93226","region":"CA","city":"Glennville","latitude":35.7377,"longitude":-118.7169}}(window,'GeoPostal','US');

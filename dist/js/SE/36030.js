@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36030"]={"code":"36030","region":"Kronobergs lan","city":"Lammhult","latitude":57.16667,"longitude":14.58333}}(window,'GeoPostal','SE');

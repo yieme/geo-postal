@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43410"]={"code":"43410","region":"OH","city":"Clyde","latitude":41.3024,"longitude":-82.9918}}(window,'GeoPostal','US');

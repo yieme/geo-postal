@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79535"]={"code":"79535","region":"Texas","city":"Maryneal","latitude":32.165736,"longitude":-100.549995}}(window,'GeoPostal','US');

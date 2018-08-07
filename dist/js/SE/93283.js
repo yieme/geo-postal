@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93283"]={"code":"93283","region":"Vasterbottens lan","city":"Ursviken","latitude":64.71261,"longitude":21.1658}}(window,'GeoPostal','SE');

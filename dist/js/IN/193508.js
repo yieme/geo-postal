@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["193508"]={"code":"193508","region":"Jammu and Kashmir","city":"Sumbal","latitude":34.23333,"longitude":74.63333}}(window,'GeoPostal','IN');

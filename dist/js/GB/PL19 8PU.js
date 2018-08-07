@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 8PU"]={"code":"PL19 8PU","region":"England","city":"Sydenham Damerel","latitude":50.56203,"longitude":-4.24811}}(window,'GeoPostal','GB');

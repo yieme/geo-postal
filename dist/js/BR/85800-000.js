@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85800-000"]={"code":"85800-000","region":"Parana","city":"Cascavel","latitude":-24.95583,"longitude":-53.45528}}(window,'GeoPostal','BR');

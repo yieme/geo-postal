@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57120"]={"code":"57120","region":"Grand-Est","city":"Rombas","latitude":49.24911,"longitude":6.09405}}(window,'GeoPostal','FR');

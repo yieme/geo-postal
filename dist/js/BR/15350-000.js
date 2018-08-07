@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15350-000"]={"code":"15350-000","region":"Sao Paulo","city":"Auriflama","latitude":-20.68556,"longitude":-50.55472}}(window,'GeoPostal','BR');

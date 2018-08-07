@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12405"]={"code":"12405","region":"NY","city":"Acra","latitude":42.3304,"longitude":-74.0857}}(window,'GeoPostal','US');

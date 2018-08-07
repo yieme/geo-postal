@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20136"]={"code":"20136","region":"Virginia","city":"Bristow","latitude":38.72278,"longitude":-77.53611}}(window,'GeoPostal','US');

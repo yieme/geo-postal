@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441534"]={"code":"441534","region":"Hubei","city":"Nanzhang","latitude":31.78394,"longitude":111.82752}}(window,'GeoPostal','CN');

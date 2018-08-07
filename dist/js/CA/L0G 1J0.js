@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0G 1J0"]={"code":"L0G 1J0","region":"Ontario","city":"Kettleby","latitude":44.027906,"longitude":-79.55405}}(window,'GeoPostal','CA');

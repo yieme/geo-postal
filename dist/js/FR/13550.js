@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13550"]={"code":"13550","region":"Provence-Alpes-Cote d'Azur","city":"Noves","latitude":43.87736,"longitude":4.90248}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25310"]={"code":"25310","region":"Bourgogne-Franche-Comte","city":"Herimoncourt","latitude":47.44284,"longitude":6.88242}}(window,'GeoPostal','FR');

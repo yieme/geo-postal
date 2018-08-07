@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188662"]={"code":"188662","region":"Leningradskaya oblast'","city":"Murino","latitude":60.04944,"longitude":30.44587}}(window,'GeoPostal','RU');

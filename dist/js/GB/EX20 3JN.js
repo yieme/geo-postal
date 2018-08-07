@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 3JN"]={"code":"EX20 3JN","region":"England","city":"Hatherleigh","latitude":50.82144,"longitude":-4.07228}}(window,'GeoPostal','GB');

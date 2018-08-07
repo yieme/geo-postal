@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14712"]={"code":"14712","region":"Brandenburg","city":"Rathenow","latitude":52.60659,"longitude":12.33696}}(window,'GeoPostal','DE');

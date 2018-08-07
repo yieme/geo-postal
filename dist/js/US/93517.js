@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93517"]={"code":"93517","region":"CA","city":"Bridgeport","latitude":38.2566,"longitude":-119.208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"Agusan del Norte","city":"Butuan","latitude":8.94917,"longitude":125.54361}}(window,'GeoPostal','PH');

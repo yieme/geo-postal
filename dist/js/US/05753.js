@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05753"]={"code":"05753","region":"Vermont","city":"Middlebury","latitude":44.012329,"longitude":-73.164907}}(window,'GeoPostal','US');

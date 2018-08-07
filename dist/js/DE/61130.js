@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61130"]={"code":"61130","region":"Hessen","city":"Eichen","latitude":50.25853,"longitude":8.90702}}(window,'GeoPostal','DE');

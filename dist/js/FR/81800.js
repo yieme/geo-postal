@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81800"]={"code":"81800","region":"Occitanie","city":"Rabastens","latitude":43.82512,"longitude":1.72382}}(window,'GeoPostal','FR');

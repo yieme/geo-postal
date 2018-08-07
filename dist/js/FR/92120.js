@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92120"]={"code":"92120","region":"Ile-de-France","city":"Montrouge","latitude":48.8162,"longitude":2.31394}}(window,'GeoPostal','FR');

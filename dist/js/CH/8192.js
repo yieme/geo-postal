@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8192"]={"code":"8192","region":"Zurich","city":"Glattfelden","latitude":47.55871,"longitude":8.50167}}(window,'GeoPostal','CH');

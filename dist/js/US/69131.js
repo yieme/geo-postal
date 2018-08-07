@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69131"]={"code":"69131","region":"Nebraska","city":"Dalton","latitude":41.408259,"longitude":-102.969877}}(window,'GeoPostal','US');

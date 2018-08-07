@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93893"]={"code":"93893","region":"Luhanska oblast","city":"Kirovsk","latitude":48.63751,"longitude":38.6428}}(window,'GeoPostal','UA');

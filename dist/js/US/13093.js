@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13093"]={"code":"13093","region":"NY","city":"Lycoming","latitude":43.4987,"longitude":-76.3858}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49688"]={"code":"49688","region":"Michigan","city":"Tustin","latitude":44.10222,"longitude":-85.45778}}(window,'GeoPostal','US');

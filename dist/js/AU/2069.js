@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2069"]={"code":"2069","region":"New South Wales","city":"Roseville","latitude":-33.78333,"longitude":151.18333}}(window,'GeoPostal','AU');

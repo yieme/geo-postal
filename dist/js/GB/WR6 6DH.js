@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6DH"]={"code":"WR6 6DH","region":"England","city":"Clifton upon Teme","latitude":52.25218,"longitude":-2.42154}}(window,'GeoPostal','GB');

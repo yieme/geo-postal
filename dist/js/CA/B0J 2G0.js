@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2G0"]={"code":"B0J 2G0","region":"Nova Scotia","city":"Liscomb Mills","latitude":45.0136,"longitude":-62.09996}}(window,'GeoPostal','CA');

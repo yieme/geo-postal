@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9RL"]={"code":"YO25 9RL","region":"England","city":"Cranswick","latitude":53.95,"longitude":-0.43333}}(window,'GeoPostal','GB');

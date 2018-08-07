@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33000"]={"code":"33000","region":"Mayabeque","city":"Madruga","latitude":22.91139,"longitude":-81.85611}}(window,'GeoPostal','CU');

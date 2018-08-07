@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98743"]={"code":"98743","region":"Thuringen","city":"Buchbach","latitude":50.50692,"longitude":11.28744}}(window,'GeoPostal','DE');

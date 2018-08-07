@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3800"]={"code":"3800","region":"Borsod-Abauj-Zemplen","city":"Szikszo","latitude":48.2,"longitude":20.93333}}(window,'GeoPostal','HU');

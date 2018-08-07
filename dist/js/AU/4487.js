@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4487"]={"code":"4487","region":"Queensland","city":"Saint George","latitude":-27.94763,"longitude":148.60986}}(window,'GeoPostal','AU');

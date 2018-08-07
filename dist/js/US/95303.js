@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95303"]={"code":"95303","region":"CA","city":"Ballico","latitude":37.4548,"longitude":-120.6931}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2767"]={"code":"2767","region":"New South Wales","city":"Doonside","latitude":-33.76667,"longitude":150.86667}}(window,'GeoPostal','AU');

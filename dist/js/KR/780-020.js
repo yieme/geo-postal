@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["780-020"]={"code":"780-020","region":"Gyeongsangbuk-do","city":"Kyonju","latitude":35.84278,"longitude":129.21167}}(window,'GeoPostal','KR');

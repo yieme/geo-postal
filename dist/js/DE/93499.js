@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93499"]={"code":"93499","region":"Bayern","city":"Birnbrunn","latitude":49.1145,"longitude":12.70172}}(window,'GeoPostal','DE');

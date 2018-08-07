@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM0 7TP"]={"code":"CM0 7TP","region":"England","city":"Tillingham","latitude":51.69682,"longitude":0.882}}(window,'GeoPostal','GB');

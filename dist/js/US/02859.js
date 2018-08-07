@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02859"]={"code":"02859","region":"RI","city":"Pascoag","latitude":41.9627,"longitude":-71.7099}}(window,'GeoPostal','US');

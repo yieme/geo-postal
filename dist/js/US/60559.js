@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60559"]={"code":"60559","region":"Illinois","city":"Westmont","latitude":41.79586,"longitude":-87.97562}}(window,'GeoPostal','US');

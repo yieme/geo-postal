@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2357"]={"code":"2357","region":"New South Wales","city":"Coonabarabran","latitude":-31.27734,"longitude":149.27904}}(window,'GeoPostal','AU');

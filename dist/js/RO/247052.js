@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247052"]={"code":"247052","region":"Giurgiu","city":"Gaujani","latitude":43.73333,"longitude":25.7}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51004"]={"code":"51004","region":"Dnipropetrovska oblast","city":"Tsarychanka","latitude":48.93697,"longitude":34.4786}}(window,'GeoPostal','UA');

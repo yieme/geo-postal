@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4730000"]={"code":"4730000","region":"La Araucania","city":"Traiguen","latitude":-38.25,"longitude":-72.68333}}(window,'GeoPostal','CL');

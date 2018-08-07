@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV11 1SS"]={"code":"WV11 1SS","region":"England","city":"Wednesfield","latitude":52.6,"longitude":-2.08333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 6DA"]={"code":"TR27 6DA","region":"England","city":"Leedstown","latitude":50.16055,"longitude":-5.35503}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46786"]={"code":"46786","region":"IN","city":"South Milford","latitude":41.5326,"longitude":-85.2722}}(window,'GeoPostal','US');

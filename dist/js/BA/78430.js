@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78430"]={"code":"78430","region":"Republika Srpska","city":"Prnjavor","latitude":44.87028,"longitude":17.66278}}(window,'GeoPostal','BA');

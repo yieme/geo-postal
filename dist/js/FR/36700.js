@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36700"]={"code":"36700","region":"Centre-Val de Loire","city":"Clion","latitude":46.94085,"longitude":1.23214}}(window,'GeoPostal','FR');

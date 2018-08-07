@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97226"]={"code":"97226","region":"Avtonomna Respublika Krym","city":"Mykolayivka","latitude":44.96714,"longitude":33.61443}}(window,'GeoPostal','UA');

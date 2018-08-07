@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23150"]={"code":"23150","region":"Nouvelle-Aquitaine","city":"Ahun","latitude":46.08594,"longitude":2.04479}}(window,'GeoPostal','FR');

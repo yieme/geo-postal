@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-920"]={"code":"63-920","region":"Wielkopolskie","city":"Konary","latitude":51.6569,"longitude":17.04185}}(window,'GeoPostal','PL');

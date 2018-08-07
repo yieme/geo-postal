@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR9 8LU"]={"code":"PR9 8LU","region":"England","city":"Crossens","latitude":53.67011,"longitude":-2.949}}(window,'GeoPostal','GB');

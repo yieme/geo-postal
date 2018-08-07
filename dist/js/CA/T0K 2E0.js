@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 2E0"]={"code":"T0K 2E0","region":"Alberta","city":"Stirling","latitude":49.49999,"longitude":-112.51854}}(window,'GeoPostal','CA');

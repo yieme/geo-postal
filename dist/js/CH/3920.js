@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3920"]={"code":"3920","region":"Valais","city":"Zermatt","latitude":46.02126,"longitude":7.74912}}(window,'GeoPostal','CH');

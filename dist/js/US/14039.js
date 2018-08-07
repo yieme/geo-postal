@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14039"]={"code":"14039","region":"NY","city":"Dale","latitude":42.8263,"longitude":-78.1749}}(window,'GeoPostal','US');

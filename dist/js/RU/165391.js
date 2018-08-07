@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165391"]={"code":"165391","region":"Arkhangel'skaya oblast'","city":"Privodino","latitude":61.07599,"longitude":46.50238}}(window,'GeoPostal','RU');

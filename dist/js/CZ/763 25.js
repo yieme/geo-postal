@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 25"]={"code":"763 25","region":"Zlinsky kraj","city":"Ujezd","latitude":49.16809,"longitude":17.9061}}(window,'GeoPostal','CZ');

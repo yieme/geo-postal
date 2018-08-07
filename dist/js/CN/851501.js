@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851501"]={"code":"851501","region":"Xizang","city":"Deqen","latitude":29.96178,"longitude":90.71875}}(window,'GeoPostal','CN');

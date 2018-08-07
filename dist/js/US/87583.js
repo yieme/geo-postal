@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87583"]={"code":"87583","region":"New Mexico","city":"Villanueva","latitude":35.266667,"longitude":-105.36083}}(window,'GeoPostal','US');

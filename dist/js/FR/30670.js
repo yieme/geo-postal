@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30670"]={"code":"30670","region":"Occitanie","city":"Aigues-Vives","latitude":43.7379,"longitude":4.18066}}(window,'GeoPostal','FR');

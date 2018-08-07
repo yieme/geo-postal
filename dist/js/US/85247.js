@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85247"]={"code":"85247","region":"AZ","city":"Sacaton","latitude":33.1,"longitude":-111.75}}(window,'GeoPostal','US');

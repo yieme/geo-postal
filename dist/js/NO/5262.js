@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5262"]={"code":"5262","region":"Hordaland","city":"Indre Arna","latitude":60.42472,"longitude":5.47639}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37120"]={"code":"37120","region":"Centre-Val de Loire","city":"Richelieu","latitude":47.01389,"longitude":0.32406}}(window,'GeoPostal','FR');

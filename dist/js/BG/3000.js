@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3000"]={"code":"3000","region":"Vratsa","city":"Vratsa","latitude":43.21,"longitude":23.5625}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50611"]={"code":"50611","region":"Jawa Tengah","city":"Ambarawa","latitude":-7.26333,"longitude":110.3975}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41083"]={"code":"41083","region":"KY","city":"Sanders","latitude":38.661,"longitude":-84.9732}}(window,'GeoPostal','US');

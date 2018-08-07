@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17316"]={"code":"17316","region":"PA","city":"East Berlin","latitude":39.9645,"longitude":-77.0073}}(window,'GeoPostal','US');

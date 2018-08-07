@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309300"]={"code":"309300","region":"Belgorodskaya oblast'","city":"Proletarskiy","latitude":50.79139,"longitude":35.77306}}(window,'GeoPostal','RU');

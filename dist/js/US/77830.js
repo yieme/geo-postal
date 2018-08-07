@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77830"]={"code":"77830","region":"TX","city":"Anderson","latitude":30.5443,"longitude":-96.0018}}(window,'GeoPostal','US');

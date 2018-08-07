@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9E 0A1"]={"code":"T9E 0A1","region":"Alberta","city":"Leduc","latitude":53.26682,"longitude":-113.55201}}(window,'GeoPostal','CA');

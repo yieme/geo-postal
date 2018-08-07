@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN14 6XH"]={"code":"DN14 6XH","region":"England","city":"Goole","latitude":53.71667,"longitude":-0.86667}}(window,'GeoPostal','GB');

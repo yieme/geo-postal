@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65120"]={"code":"65120","region":"Phitsanulok","city":"Nakhon Thai","latitude":17.10056,"longitude":100.83739}}(window,'GeoPostal','TH');

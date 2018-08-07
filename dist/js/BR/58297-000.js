@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58297-000"]={"code":"58297-000","region":"Paraiba","city":"Rio Tinto","latitude":-6.80306,"longitude":-35.08056}}(window,'GeoPostal','BR');

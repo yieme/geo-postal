@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78065"]={"code":"78065","region":"TX","city":"Poteet","latitude":29.0994,"longitude":-98.6241}}(window,'GeoPostal','US');

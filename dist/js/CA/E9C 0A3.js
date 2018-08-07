@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E9C 0A3"]={"code":"E9C 0A3","region":"New Brunswick","city":"Doaktown","latitude":46.55697,"longitude":-66.12568}}(window,'GeoPostal','CA');

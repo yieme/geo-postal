@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32112"]={"code":"32112","region":"FL","city":"Crescent City","latitude":29.4272,"longitude":-81.5579}}(window,'GeoPostal','US');

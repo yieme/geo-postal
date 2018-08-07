@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55471"]={"code":"55471","region":"Rheinland-Pfalz","city":"Simmern","latitude":49.98198,"longitude":7.52351}}(window,'GeoPostal','DE');

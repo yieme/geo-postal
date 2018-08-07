@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18924"]={"code":"18924","region":"Pennsylvania","city":"Franconia","latitude":40.307778,"longitude":-75.358056}}(window,'GeoPostal','US');

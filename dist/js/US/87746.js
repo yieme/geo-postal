@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87746"]={"code":"87746","region":"NM","city":"Solano","latitude":35.8484,"longitude":-104.0675}}(window,'GeoPostal','US');

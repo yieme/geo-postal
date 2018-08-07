@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4V 1A1"]={"code":"V4V 1A1","region":"British Columbia","city":"Winfield","latitude":50.02208,"longitude":-119.40542}}(window,'GeoPostal','CA');

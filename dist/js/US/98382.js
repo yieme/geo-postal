@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98382"]={"code":"98382","region":"Washington","city":"Sequim","latitude":48.06858,"longitude":-123.05856}}(window,'GeoPostal','US');

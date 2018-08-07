@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62651"]={"code":"62651","region":"IL","city":"Jacksonville","latitude":39.6983,"longitude":-90.2615}}(window,'GeoPostal','US');

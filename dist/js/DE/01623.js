@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01623"]={"code":"01623","region":"Sachsen","city":"Russeina","latitude":51.11003,"longitude":13.26128}}(window,'GeoPostal','DE');

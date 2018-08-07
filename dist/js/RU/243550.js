@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243550"]={"code":"243550","region":"Bryanskaya oblast'","city":"Pogar","latitude":52.55399,"longitude":33.25907}}(window,'GeoPostal','RU');

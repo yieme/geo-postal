@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09533"]={"code":"09533","region":"Kyivska oblast","city":"Chapayevka","latitude":49.38179,"longitude":30.45137}}(window,'GeoPostal','UA');

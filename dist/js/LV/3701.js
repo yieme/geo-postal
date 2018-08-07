@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3701"]={"code":"3701","region":"Dobeles novads","city":"Dobele","latitude":56.625,"longitude":23.27861}}(window,'GeoPostal','LV');

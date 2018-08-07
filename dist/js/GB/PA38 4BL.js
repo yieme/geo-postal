@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA38 4BL"]={"code":"PA38 4BL","region":"Scotland","city":"Portnacroish","latitude":56.57214,"longitude":-5.37864}}(window,'GeoPostal','GB');

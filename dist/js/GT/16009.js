@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16009"]={"code":"16009","region":"Alta Verapaz","city":"San Pedro Carcha","latitude":15.48333,"longitude":-90.26667}}(window,'GeoPostal','GT');

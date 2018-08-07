@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93675"]={"code":"93675","region":"CA","city":"Squaw Valley","latitude":36.7071,"longitude":-119.1814}}(window,'GeoPostal','US');

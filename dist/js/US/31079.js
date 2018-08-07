@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31079"]={"code":"31079","region":"Georgia","city":"Rochelle","latitude":31.95101,"longitude":-83.45627}}(window,'GeoPostal','US');

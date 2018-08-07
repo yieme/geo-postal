@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["650000"]={"code":"650000","region":"Khanh Hoa","city":"Nha Trang","latitude":12.25,"longitude":109.18333}}(window,'GeoPostal','VN');

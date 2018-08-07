@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA16 6XF"]={"code":"CA16 6XF","region":"England","city":"Appleby-in-Westmorland","latitude":54.57704,"longitude":-2.48978}}(window,'GeoPostal','GB');

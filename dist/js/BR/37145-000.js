@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37145-000"]={"code":"37145-000","region":"Minas Gerais","city":"Alterosa","latitude":-21.24917,"longitude":-46.14306}}(window,'GeoPostal','BR');

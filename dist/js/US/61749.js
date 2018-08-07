@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61749"]={"code":"61749","region":"IL","city":"Kenney","latitude":40.0967,"longitude":-89.0859}}(window,'GeoPostal','US');

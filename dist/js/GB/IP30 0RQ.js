@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 0RQ"]={"code":"IP30 0RQ","region":"England","city":"Rattlesden","latitude":52.19359,"longitude":0.89358}}(window,'GeoPostal','GB');

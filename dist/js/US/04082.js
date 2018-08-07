@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04082"]={"code":"04082","region":"ME","city":"South Windham","latitude":43.7362,"longitude":-70.4237}}(window,'GeoPostal','US');

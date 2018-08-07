@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92322"]={"code":"92322","region":"CA","city":"Cedarpines Park","latitude":34.2544,"longitude":-117.3265}}(window,'GeoPostal','US');

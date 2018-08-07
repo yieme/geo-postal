@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19240"]={"code":"19240","region":"Nouvelle-Aquitaine","city":"Varetz","latitude":45.1939,"longitude":1.45121}}(window,'GeoPostal','FR');

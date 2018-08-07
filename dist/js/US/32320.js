@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32320"]={"code":"32320","region":"Florida","city":"Apalachicola","latitude":29.72577,"longitude":-84.98324}}(window,'GeoPostal','US');

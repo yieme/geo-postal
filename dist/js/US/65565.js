@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65565"]={"code":"65565","region":"Missouri","city":"Steelville","latitude":37.969407,"longitude":-91.355831}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56260"]={"code":"56260","region":"Bretagne","city":"Larmor-Plage","latitude":47.70646,"longitude":-3.38339}}(window,'GeoPostal','FR');

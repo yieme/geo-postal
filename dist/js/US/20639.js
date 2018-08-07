@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20639"]={"code":"20639","region":"Maryland","city":"Huntingtown","latitude":38.608628,"longitude":-76.600951}}(window,'GeoPostal','US');

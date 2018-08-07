@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61057"]={"code":"61057","region":"IL","city":"Nachusa","latitude":41.8316,"longitude":-89.3896}}(window,'GeoPostal','US');

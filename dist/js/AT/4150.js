@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4150"]={"code":"4150","region":"Oberosterreich","city":"Atzesberg","latitude":48.49849,"longitude":13.9241}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4180"]={"code":"4180","region":"Plovdiv","city":"Khisarya","latitude":42.5,"longitude":24.7}}(window,'GeoPostal','BG');

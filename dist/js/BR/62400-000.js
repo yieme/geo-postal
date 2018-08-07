@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62400-000"]={"code":"62400-000","region":"Ceara","city":"Granja","latitude":-3.12028,"longitude":-40.82611}}(window,'GeoPostal','BR');

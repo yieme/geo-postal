@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67110"]={"code":"67110","region":"Grand-Est","city":"Reichshoffen","latitude":48.93287,"longitude":7.66561}}(window,'GeoPostal','FR');

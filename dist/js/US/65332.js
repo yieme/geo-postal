@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65332"]={"code":"65332","region":"MO","city":"Green Ridge","latitude":38.619,"longitude":-93.4374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07902"]={"code":"07902","region":"New Jersey","city":"Summit","latitude":40.714933,"longitude":-74.365405}}(window,'GeoPostal','US');

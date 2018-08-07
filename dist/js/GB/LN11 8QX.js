@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8QX"]={"code":"LN11 8QX","region":"England","city":"Brinkhill","latitude":53.24181,"longitude":0.05492}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61012"]={"code":"61012","region":"IL","city":"Capron","latitude":42.4087,"longitude":-88.7465}}(window,'GeoPostal','US');

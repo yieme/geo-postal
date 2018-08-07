@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72376"]={"code":"72376","region":"AR","city":"Proctor","latitude":35.0834,"longitude":-90.255}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1Z 3T9"]={"code":"V1Z 3T9","region":"British Columbia","city":"Fintry","latitude":50.13308,"longitude":-119.50238}}(window,'GeoPostal','CA');

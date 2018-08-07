@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 2P0"]={"code":"S0J 2P0","region":"Saskatchewan","city":"Stanley Mission","latitude":55.41684,"longitude":-104.55087}}(window,'GeoPostal','CA');

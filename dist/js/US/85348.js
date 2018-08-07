@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85348"]={"code":"85348","region":"Arizona","city":"Salome","latitude":33.78114,"longitude":-113.61465}}(window,'GeoPostal','US');

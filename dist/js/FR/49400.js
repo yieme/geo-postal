@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49400"]={"code":"49400","region":"Pays-de-la-Loire","city":"Chace","latitude":47.21435,"longitude":-0.07179}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97907"]={"code":"97907","region":"Bayern","city":"Hasloch","latitude":49.79194,"longitude":9.49361}}(window,'GeoPostal','DE');

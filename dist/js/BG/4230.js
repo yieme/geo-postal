@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4230"]={"code":"4230","region":"Plovdiv","city":"Asenovgrad","latitude":42.01667,"longitude":24.86667}}(window,'GeoPostal','BG');

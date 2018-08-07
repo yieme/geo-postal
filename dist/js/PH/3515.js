@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3515"]={"code":"3515","region":"Cagayan","city":"Aparri","latitude":18.3566,"longitude":121.6406}}(window,'GeoPostal','PH');

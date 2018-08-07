@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64746"]={"code":"64746","region":"MO","city":"Freeman","latitude":38.6245,"longitude":-94.4956}}(window,'GeoPostal','US');

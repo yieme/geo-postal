@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44490"]={"code":"44490","region":"OH","city":"Washingtonville","latitude":40.8973,"longitude":-80.7631}}(window,'GeoPostal','US');

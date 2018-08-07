@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15359"]={"code":"15359","region":"Pennsylvania","city":"Rogersville","latitude":39.90553,"longitude":-80.288111}}(window,'GeoPostal','US');

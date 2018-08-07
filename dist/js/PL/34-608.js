@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-608"]={"code":"34-608","region":"Malopolskie","city":"Kamienica","latitude":49.57533,"longitude":20.34505}}(window,'GeoPostal','PL');

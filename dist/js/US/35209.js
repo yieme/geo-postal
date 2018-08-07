@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35209"]={"code":"35209","region":"Alabama","city":"Homewood","latitude":33.4602,"longitude":-86.8092}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05733"]={"code":"05733","region":"VT","city":"Brandon","latitude":43.8065,"longitude":-73.0882}}(window,'GeoPostal','US');

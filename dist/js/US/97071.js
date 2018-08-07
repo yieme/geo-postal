@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97071"]={"code":"97071","region":"Oregon","city":"Woodburn","latitude":45.14373,"longitude":-122.85537}}(window,'GeoPostal','US');

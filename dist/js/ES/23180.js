@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23180"]={"code":"23180","region":"Andalucia","city":"Fuerte del Rey","latitude":37.87492,"longitude":-3.88389}}(window,'GeoPostal','ES');

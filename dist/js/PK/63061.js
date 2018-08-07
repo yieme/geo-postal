@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63061"]={"code":"63061","region":"Punjab","city":"Khairpur","latitude":29.58111,"longitude":72.23639}}(window,'GeoPostal','PK');

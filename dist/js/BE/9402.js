@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9402"]={"code":"9402","region":"Oost-Vlaanderen","city":"Ninove","latitude":50.82776,"longitude":4.02657}}(window,'GeoPostal','BE');

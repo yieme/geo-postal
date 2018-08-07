@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78450"]={"code":"78450","region":"San Luis Potosi","city":"Ahualulco","latitude":22.4,"longitude":-101.16667}}(window,'GeoPostal','MX');

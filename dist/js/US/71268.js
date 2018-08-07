@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71268"]={"code":"71268","region":"LA","city":"Quitman","latitude":32.3564,"longitude":-92.7085}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5G 0A1"]={"code":"E5G 0A1","region":"New Brunswick","city":"Grand Manan","latitude":44.69824,"longitude":-66.82109}}(window,'GeoPostal','CA');

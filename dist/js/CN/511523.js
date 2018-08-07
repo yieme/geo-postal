@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511523"]={"code":"511523","region":"Sichuan","city":"Jiang'an","latitude":28.73335,"longitude":105.0683}}(window,'GeoPostal','CN');

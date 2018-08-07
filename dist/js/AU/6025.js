@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6025"]={"code":"6025","region":"Western Australia","city":"Hillarys","latitude":-31.80698,"longitude":115.74045}}(window,'GeoPostal','AU');

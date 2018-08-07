@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59282"]={"code":"59282","region":"Hauts-de-France","city":"Douchy-les-Mines","latitude":50.3008,"longitude":3.3927}}(window,'GeoPostal','FR');

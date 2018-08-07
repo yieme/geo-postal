@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72530"]={"code":"72530","region":"AR","city":"Drasco","latitude":35.6616,"longitude":-91.9398}}(window,'GeoPostal','US');

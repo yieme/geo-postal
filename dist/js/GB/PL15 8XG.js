@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 8XG"]={"code":"PL15 8XG","region":"England","city":"North Petherwin","latitude":50.67695,"longitude":-4.43354}}(window,'GeoPostal','GB');

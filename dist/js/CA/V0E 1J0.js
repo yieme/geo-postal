@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1J0"]={"code":"V0E 1J0","region":"British Columbia","city":"Blue River","latitude":52.11009,"longitude":-119.31049}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["847 00"]={"code":"847 00","region":"Notio Aigaio","city":"Thira","latitude":36.42171,"longitude":25.42824}}(window,'GeoPostal','GR');

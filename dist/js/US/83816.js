@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83816"]={"code":"83816","region":"ID","city":"Coeur D Alene","latitude":47.6777,"longitude":-116.7805}}(window,'GeoPostal','US');

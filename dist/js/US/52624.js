@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52624"]={"code":"52624","region":"IA","city":"Denmark","latitude":40.7417,"longitude":-91.3374}}(window,'GeoPostal','US');

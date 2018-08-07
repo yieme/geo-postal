@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61047"]={"code":"61047","region":"Illinois","city":"Leaf River","latitude":42.16524,"longitude":-89.40126}}(window,'GeoPostal','US');

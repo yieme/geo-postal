@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN7 6HZ"]={"code":"LN7 6HZ","region":"England","city":"Moortown","latitude":53.48333,"longitude":-0.38333}}(window,'GeoPostal','GB');

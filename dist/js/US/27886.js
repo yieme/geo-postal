@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27886"]={"code":"27886","region":"North Carolina","city":"Tarboro","latitude":35.89866,"longitude":-77.55822}}(window,'GeoPostal','US');

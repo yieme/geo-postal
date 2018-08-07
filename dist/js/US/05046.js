@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05046"]={"code":"05046","region":"VT","city":"Groton","latitude":44.2204,"longitude":-72.2175}}(window,'GeoPostal','US');

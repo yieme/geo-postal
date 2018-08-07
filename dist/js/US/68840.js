@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68840"]={"code":"68840","region":"Nebraska","city":"Gibbon","latitude":40.747019,"longitude":-98.843004}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99679"]={"code":"99679","region":"AK","city":"Tuluksak","latitude":61.1088,"longitude":-160.9389}}(window,'GeoPostal','US');

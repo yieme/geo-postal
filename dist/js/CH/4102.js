@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4102"]={"code":"4102","region":"Basel-Landschaft","city":"Binningen","latitude":47.54021,"longitude":7.56932}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440 03"]={"code":"440 03","region":"Ipeiros","city":"Rodotopion","latitude":39.70833,"longitude":20.72583}}(window,'GeoPostal','GR');

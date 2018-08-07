@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9840"]={"code":"9840","region":"Finnmark","city":"Varangerbotn","latitude":70.17278,"longitude":28.55598}}(window,'GeoPostal','NO');

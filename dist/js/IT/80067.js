@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80067"]={"code":"80067","region":"Campania","city":"Sorrento","latitude":40.62601,"longitude":14.37441}}(window,'GeoPostal','IT');

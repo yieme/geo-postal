@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48848"]={"code":"48848","region":"MI","city":"Laingsburg","latitude":42.8627,"longitude":-84.353}}(window,'GeoPostal','US');

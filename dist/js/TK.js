@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TK"]={id:'TK',country:'Tokelau', postal:{'':{code:'',region:'Tokelau',city:'Fale old settlement',latitude:-9.38516,longitude:-171.24675}}};

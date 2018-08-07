@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68665"]={"code":"68665","region":"Nebraska","city":"Spalding","latitude":41.698274,"longitude":-98.395141}}(window,'GeoPostal','US');

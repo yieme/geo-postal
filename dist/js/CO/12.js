@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12"]={"code":"12","region":"Antioquia","city":"Antioquia","latitude":6.55687,"longitude":-75.82806}}(window,'GeoPostal','CO');

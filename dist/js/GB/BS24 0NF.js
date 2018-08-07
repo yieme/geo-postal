@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS24 0NF"]={"code":"BS24 0NF","region":"England","city":"Bleadon","latitude":51.30861,"longitude":-2.9475}}(window,'GeoPostal','GB');

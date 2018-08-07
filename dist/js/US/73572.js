@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73572"]={"code":"73572","region":"OK","city":"Walters","latitude":34.3605,"longitude":-98.314}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81236"]={"code":"81236","region":"Colorado","city":"Nathrop","latitude":38.74722,"longitude":-106.07556}}(window,'GeoPostal','US');

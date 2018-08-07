@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67663"]={"code":"67663","region":"KS","city":"Plainville","latitude":39.2308,"longitude":-99.3008}}(window,'GeoPostal','US');

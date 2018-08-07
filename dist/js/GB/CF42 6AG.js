@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF42 6AG"]={"code":"CF42 6AG","region":"Wales","city":"Treorchy","latitude":51.65958,"longitude":-3.50587}}(window,'GeoPostal','GB');

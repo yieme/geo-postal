@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59158"]={"code":"59158","region":"Jawa Tengah","city":"Banyutowo","latitude":-6.4583,"longitude":111.0461}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13616"]={"code":"13616","region":"NY","city":"Calcium","latitude":44.0265,"longitude":-75.8499}}(window,'GeoPostal','US');

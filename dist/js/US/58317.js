@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58317"]={"code":"58317","region":"ND","city":"Bisbee","latitude":48.6258,"longitude":-99.3779}}(window,'GeoPostal','US');

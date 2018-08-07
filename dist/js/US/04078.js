@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04078"]={"code":"04078","region":"ME","city":"South Freeport","latitude":43.8208,"longitude":-70.1208}}(window,'GeoPostal','US');

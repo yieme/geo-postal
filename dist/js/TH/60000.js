@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60000"]={"code":"60000","region":"Nakhon Sawan","city":"Nakhon Sawan","latitude":15.70472,"longitude":100.13717}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G60 5AH"]={"code":"G60 5AH","region":"Scotland","city":"Bowling","latitude":55.93097,"longitude":-4.48599}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 2G0"]={"code":"V0R 2G0","region":"British Columbia","city":"Lake Cowichan","latitude":48.824377,"longitude":-124.039452}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607700"]={"code":"607700","region":"Nizhegorodskaya oblast'","city":"Shatki","latitude":55.18874,"longitude":44.12486}}(window,'GeoPostal','RU');

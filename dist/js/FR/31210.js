@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31210"]={"code":"31210","region":"Occitanie","city":"Montrejeau","latitude":43.08555,"longitude":0.5647}}(window,'GeoPostal','FR');

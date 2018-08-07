@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 6QS"]={"code":"CA15 6QS","region":"England","city":"Mawbray","latitude":54.80878,"longitude":-3.42793}}(window,'GeoPostal','GB');

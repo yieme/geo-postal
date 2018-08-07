@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19000"]={"code":"19000","region":"Zajecarski okrug","city":"Zajecar","latitude":43.90358,"longitude":22.26405}}(window,'GeoPostal','RS');

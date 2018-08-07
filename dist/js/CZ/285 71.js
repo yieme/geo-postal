@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 71"]={"code":"285 71","region":"Stredocesky kraj","city":"Vrdy","latitude":49.92153,"longitude":15.47243}}(window,'GeoPostal','CZ');

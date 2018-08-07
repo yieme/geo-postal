@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25154"]={"code":"25154","region":"WV","city":"Peytona","latitude":38.125,"longitude":-81.7018}}(window,'GeoPostal','US');

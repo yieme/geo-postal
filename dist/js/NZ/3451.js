@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3451"]={"code":"3451","region":"Waikato","city":"Cambridge","latitude":-37.87822,"longitude":175.4402}}(window,'GeoPostal','NZ');

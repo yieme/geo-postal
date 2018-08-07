@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08009"]={"code":"08009","region":"New Jersey","city":"Berlin","latitude":39.75942,"longitude":-74.92734}}(window,'GeoPostal','US');

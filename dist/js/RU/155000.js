@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155000"]={"code":"155000","region":"Ivanovskaya oblast'","city":"Gavrilov Posad","latitude":56.5593,"longitude":40.121}}(window,'GeoPostal','RU');

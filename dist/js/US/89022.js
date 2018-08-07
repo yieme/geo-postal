@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89022"]={"code":"89022","region":"NV","city":"Manhattan","latitude":38.5388,"longitude":-117.0734}}(window,'GeoPostal','US');

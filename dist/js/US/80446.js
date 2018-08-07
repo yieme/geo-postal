@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80446"]={"code":"80446","region":"Colorado","city":"Granby","latitude":40.0861,"longitude":-105.93946}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63100"]={"code":"63100","region":"Marche","city":"Ascoli Piceno","latitude":42.85483,"longitude":13.5749}}(window,'GeoPostal','IT');

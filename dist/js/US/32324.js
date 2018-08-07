@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32324"]={"code":"32324","region":"Florida","city":"Chattahoochee","latitude":30.70519,"longitude":-84.84298}}(window,'GeoPostal','US');

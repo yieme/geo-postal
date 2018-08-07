@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346 01"]={"code":"346 01","region":"Plzensky kraj","city":"Horsovsky Tyn","latitude":49.52965,"longitude":12.94405}}(window,'GeoPostal','CZ');

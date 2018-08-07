@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62501"]={"code":"62501","region":"Pohjois-Pohjanmaa","city":"Evijarvi","latitude":63.91667,"longitude":24.56667}}(window,'GeoPostal','FI');

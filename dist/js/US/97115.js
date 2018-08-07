@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97115"]={"code":"97115","region":"OR","city":"Dundee","latitude":45.2776,"longitude":-123.0152}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660000"]={"code":"660000","region":"Ninh Thuan","city":"Phan Rang-Thap Cham","latitude":11.56667,"longitude":108.98333}}(window,'GeoPostal','VN');

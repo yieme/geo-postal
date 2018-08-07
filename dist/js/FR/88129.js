@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88129"]={"code":"88129","region":"Grand-Est","city":"Vagney","latitude":48.00629,"longitude":6.7174}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78143"]={"code":"78143","region":"TX","city":"Pandora","latitude":29.2484,"longitude":-97.8287}}(window,'GeoPostal','US');

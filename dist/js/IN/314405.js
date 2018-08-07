@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314405"]={"code":"314405","region":"Rajasthan","city":"Dungarpur","latitude":23.83333,"longitude":73.71667}}(window,'GeoPostal','IN');

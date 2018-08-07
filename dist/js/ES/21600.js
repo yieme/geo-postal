@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21600"]={"code":"21600","region":"Andalucia","city":"Valverde del Camino","latitude":37.57511,"longitude":-6.75432}}(window,'GeoPostal','ES');

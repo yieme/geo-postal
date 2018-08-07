@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68367"]={"code":"68367","region":"NE","city":"Gresham","latitude":41.021,"longitude":-97.4079}}(window,'GeoPostal','US');

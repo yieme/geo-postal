@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320290"]={"code":"320290","region":"Caras-Severin","city":"Resita","latitude":45.30083,"longitude":21.88917}}(window,'GeoPostal','RO');

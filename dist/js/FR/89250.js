@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89250"]={"code":"89250","region":"Bourgogne-Franche-Comte","city":"Gurgy","latitude":47.86712,"longitude":3.56341}}(window,'GeoPostal','FR');

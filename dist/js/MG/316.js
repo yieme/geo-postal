@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["316"]={"code":"316","region":"Fianarantsoa","city":"Manakara","latitude":-22.13333,"longitude":48.01667}}(window,'GeoPostal','MG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-203"]={"code":"46-203","region":"Opolskie","city":"Kluczbork","latitude":50.97281,"longitude":18.21816}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48418"]={"code":"48418","region":"MI","city":"Byron","latitude":42.8059,"longitude":-83.973}}(window,'GeoPostal','US');

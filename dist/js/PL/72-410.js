@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-410"]={"code":"72-410","region":"Zachodniopomorskie","city":"Golczewo","latitude":53.82426,"longitude":14.97847}}(window,'GeoPostal','PL');

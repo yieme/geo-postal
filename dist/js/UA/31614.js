@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31614"]={"code":"31614","region":"Khmelnytska oblast","city":"Zakupne","latitude":49.11944,"longitude":26.33756}}(window,'GeoPostal','UA');

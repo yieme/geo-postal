@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE13 1DR"]={"code":"LE13 1DR","region":"England","city":"Melton Mowbray","latitude":52.76588,"longitude":-0.88693}}(window,'GeoPostal','GB');

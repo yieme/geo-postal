@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43542"]={"code":"43542","region":"OH","city":"Monclova","latitude":41.5684,"longitude":-83.7757}}(window,'GeoPostal','US');

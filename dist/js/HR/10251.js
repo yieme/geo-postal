@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10251"]={"code":"10251","region":"Grad Zagreb","city":"Zadvorsko","latitude":45.73333,"longitude":15.91667}}(window,'GeoPostal','HR');

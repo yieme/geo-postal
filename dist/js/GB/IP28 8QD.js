@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 8QD"]={"code":"IP28 8QD","region":"England","city":"West Row","latitude":52.35117,"longitude":0.46121}}(window,'GeoPostal','GB');

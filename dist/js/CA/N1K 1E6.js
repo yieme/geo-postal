@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N1K 1E6"]={"code":"N1K 1E6","region":"Ontario","city":"Guelph","latitude":43.535649,"longitude":-80.299812}}(window,'GeoPostal','CA');

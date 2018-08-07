@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2061"]={"code":"2061","region":"Akershus","city":"Gardermoen","latitude":60.216667,"longitude":11.1}}(window,'GeoPostal','NO');

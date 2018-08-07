@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58120"]={"code":"58120","region":"Mae Hong Son","city":"Mae La Noi","latitude":18.39399,"longitude":97.90504}}(window,'GeoPostal','TH');

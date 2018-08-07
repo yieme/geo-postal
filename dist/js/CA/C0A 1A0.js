@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1A0"]={"code":"C0A 1A0","region":"Prince Edward Island","city":"Surrey","latitude":46.06681,"longitude":-62.81537}}(window,'GeoPostal','CA');

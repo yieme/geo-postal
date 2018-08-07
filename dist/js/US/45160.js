@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45160"]={"code":"45160","region":"OH","city":"Owensville","latitude":39.1232,"longitude":-84.135}}(window,'GeoPostal','US');

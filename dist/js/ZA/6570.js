@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6570"]={"code":"6570","region":"Western Cape","city":"Knysna","latitude":-34.03627,"longitude":23.04713}}(window,'GeoPostal','ZA');

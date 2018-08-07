@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73099"]={"code":"73099","region":"Oklahoma","city":"Yukon","latitude":35.497479,"longitude":-97.732941}}(window,'GeoPostal','US');

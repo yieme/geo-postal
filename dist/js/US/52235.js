@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52235"]={"code":"52235","region":"Iowa","city":"Hills","latitude":41.555003,"longitude":-91.532285}}(window,'GeoPostal','US');

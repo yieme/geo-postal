@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57321"]={"code":"57321","region":"SD","city":"Canova","latitude":43.8855,"longitude":-97.5342}}(window,'GeoPostal','US');

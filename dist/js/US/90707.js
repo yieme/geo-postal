@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90707"]={"code":"90707","region":"CA","city":"Bellflower","latitude":33.8817,"longitude":-118.117}}(window,'GeoPostal','US');

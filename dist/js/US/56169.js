@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56169"]={"code":"56169","region":"Minnesota","city":"Russell","latitude":44.321574,"longitude":-95.950094}}(window,'GeoPostal','US');

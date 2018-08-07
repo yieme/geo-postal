@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98030"]={"code":"98030","region":"Avtonomna Respublika Krym","city":"Sudak","latitude":44.84924,"longitude":34.97471}}(window,'GeoPostal','UA');

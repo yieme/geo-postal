@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53505"]={"code":"53505","region":"Rheinland-Pfalz","city":"Altenahr","latitude":50.51694,"longitude":6.99206}}(window,'GeoPostal','DE');

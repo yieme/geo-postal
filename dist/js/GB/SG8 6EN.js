@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 6EN"]={"code":"SG8 6EN","region":"England","city":"Melbourn","latitude":52.08128,"longitude":0.01514}}(window,'GeoPostal','GB');

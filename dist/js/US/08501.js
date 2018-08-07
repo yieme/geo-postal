@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08501"]={"code":"08501","region":"NJ","city":"Allentown","latitude":40.1589,"longitude":-74.5909}}(window,'GeoPostal','US');

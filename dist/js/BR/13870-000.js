@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13870-000"]={"code":"13870-000","region":"Sao Paulo","city":"Sao Joao da Boa Vista","latitude":-21.96917,"longitude":-46.79806}}(window,'GeoPostal','BR');

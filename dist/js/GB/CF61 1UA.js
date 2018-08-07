@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF61 1UA"]={"code":"CF61 1UA","region":"Wales","city":"Boverton","latitude":51.40528,"longitude":-3.46444}}(window,'GeoPostal','GB');

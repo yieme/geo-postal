@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV13 0EJ"]={"code":"CV13 0EJ","region":"England","city":"Barlestone","latitude":52.64718,"longitude":-1.37013}}(window,'GeoPostal','GB');

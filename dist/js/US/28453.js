@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28453"]={"code":"28453","region":"North Carolina","city":"Magnolia","latitude":34.894208,"longitude":-78.041109}}(window,'GeoPostal','US');

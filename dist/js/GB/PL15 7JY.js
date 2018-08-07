@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 7JY"]={"code":"PL15 7JY","region":"England","city":"South Petherwin","latitude":50.61137,"longitude":-4.39012}}(window,'GeoPostal','GB');

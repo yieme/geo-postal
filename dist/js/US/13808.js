@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13808"]={"code":"13808","region":"New York","city":"Morris","latitude":42.548405,"longitude":-75.24477}}(window,'GeoPostal','US');

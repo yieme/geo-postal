@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22835"]={"code":"22835","region":"Virginia","city":"Luray","latitude":38.6654,"longitude":-78.45945}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74110"]={"code":"74110","region":"Samut Sakhon","city":"Krathum Baen","latitude":13.6533,"longitude":100.25972}}(window,'GeoPostal','TH');

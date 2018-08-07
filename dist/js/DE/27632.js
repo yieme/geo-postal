@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27632"]={"code":"27632","region":"Niedersachsen","city":"Cappel","latitude":53.73333,"longitude":8.58333}}(window,'GeoPostal','DE');

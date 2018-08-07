@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75143"]={"code":"75143","region":"Khersonska oblast","city":"Brylivka","latitude":46.42476,"longitude":33.14721}}(window,'GeoPostal','UA');

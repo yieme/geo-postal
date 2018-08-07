@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26202"]={"code":"26202","region":"WV","city":"Fenwick","latitude":38.2447,"longitude":-80.635}}(window,'GeoPostal','US');

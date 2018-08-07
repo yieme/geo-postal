@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["374-0053"]={"code":"374-0053","region":"Gunma","city":"Tatebayashi","latitude":36.25,"longitude":139.53333}}(window,'GeoPostal','JP');

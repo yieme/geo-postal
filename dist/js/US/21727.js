@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21727"]={"code":"21727","region":"Maryland","city":"Emmitsburg","latitude":39.693439,"longitude":-77.327493}}(window,'GeoPostal','US');

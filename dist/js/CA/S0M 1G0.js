@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1G0"]={"code":"S0M 1G0","region":"Saskatchewan","city":"La Loche","latitude":56.48351,"longitude":-109.43488}}(window,'GeoPostal','CA');

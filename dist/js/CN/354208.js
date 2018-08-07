@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354208"]={"code":"354208","region":"Fujian","city":"Huilong","latitude":27.48073,"longitude":118.40753}}(window,'GeoPostal','CN');

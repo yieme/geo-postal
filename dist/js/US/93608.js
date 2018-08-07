@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93608"]={"code":"93608","region":"CA","city":"Cantua Creek","latitude":36.4921,"longitude":-120.3353}}(window,'GeoPostal','US');

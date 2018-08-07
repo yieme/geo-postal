@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 5RY"]={"code":"LN8 5RY","region":"England","city":"East Barkwith","latitude":53.31667,"longitude":-0.25}}(window,'GeoPostal','GB');

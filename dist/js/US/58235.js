@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58235"]={"code":"58235","region":"North Dakota","city":"Gilby","latitude":48.107839,"longitude":-97.448911}}(window,'GeoPostal','US');

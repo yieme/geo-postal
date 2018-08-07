@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60020"]={"code":"60020","region":"Illinois","city":"Fox Lake","latitude":42.392,"longitude":-88.1746}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78564"]={"code":"78564","region":"Texas","city":"Lopeno","latitude":26.899566,"longitude":-99.140371}}(window,'GeoPostal','US');

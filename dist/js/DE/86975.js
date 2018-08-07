@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86975"]={"code":"86975","region":"Bayern","city":"Bernbeuren","latitude":47.73696,"longitude":10.77707}}(window,'GeoPostal','DE');

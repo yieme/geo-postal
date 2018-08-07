@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03245"]={"code":"03245","region":"NH","city":"Holderness","latitude":43.7378,"longitude":-71.6044}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16500-000"]={"code":"16500-000","region":"Sao Paulo","city":"Cafelandia","latitude":-21.8025,"longitude":-49.61}}(window,'GeoPostal','BR');

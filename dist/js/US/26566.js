@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26566"]={"code":"26566","region":"WV","city":"Colfax","latitude":39.4348,"longitude":-80.1317}}(window,'GeoPostal','US');

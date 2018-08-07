@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL22 8HH"]={"code":"LL22 8HH","region":"Wales","city":"Llanddulas","latitude":53.28989,"longitude":-3.64219}}(window,'GeoPostal','GB');

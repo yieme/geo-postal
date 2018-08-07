@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46965"]={"code":"46965","region":"IN","city":"Oakford","latitude":40.4127,"longitude":-86.1015}}(window,'GeoPostal','US');

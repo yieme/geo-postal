@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17761"]={"code":"17761","region":"Catalunya","city":"Peralada","latitude":42.30823,"longitude":3.0091}}(window,'GeoPostal','ES');

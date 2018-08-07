@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529030"]={"code":"529030","region":"Guangdong","city":"Jiangmen","latitude":22.58333,"longitude":113.08333}}(window,'GeoPostal','CN');

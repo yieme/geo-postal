@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 1JY"]={"code":"SY11 1JY","region":"England","city":"Oswestry","latitude":52.86195,"longitude":-3.05497}}(window,'GeoPostal','GB');

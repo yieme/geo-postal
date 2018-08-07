@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06840"]={"code":"06840","region":"Extremadura","city":"Zarza de Alange","latitude":38.81814,"longitude":-6.21756}}(window,'GeoPostal','ES');

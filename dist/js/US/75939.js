@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75939"]={"code":"75939","region":"TX","city":"Corrigan","latitude":31.0408,"longitude":-94.8124}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58486"]={"code":"58486","region":"ND","city":"Sykeston","latitude":47.4369,"longitude":-99.3975}}(window,'GeoPostal','US');

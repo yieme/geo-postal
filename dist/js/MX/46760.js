@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46760"]={"code":"46760","region":"Jalisco","city":"Teuchitlan","latitude":20.68333,"longitude":-103.86667}}(window,'GeoPostal','MX');

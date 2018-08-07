@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26050"]={"code":"26050","region":"WV","city":"Newell","latitude":40.614,"longitude":-80.6011}}(window,'GeoPostal','US');

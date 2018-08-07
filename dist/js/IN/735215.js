@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735215"]={"code":"735215","region":"West Bengal","city":"Jaigaon","latitude":26.84766,"longitude":89.37558}}(window,'GeoPostal','IN');

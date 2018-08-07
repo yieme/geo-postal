@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27670"]={"code":"27670","region":"Normandie","city":"Saint-Ouen-du-Tilleul","latitude":49.29723,"longitude":0.9476}}(window,'GeoPostal','FR');

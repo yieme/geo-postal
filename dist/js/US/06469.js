@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06469"]={"code":"06469","region":"CT","city":"Moodus","latitude":41.5078,"longitude":-72.4419}}(window,'GeoPostal','US');

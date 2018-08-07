@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44082"]={"code":"44082","region":"Ohio","city":"Twinsburg","latitude":41.764438,"longitude":-80.562559}}(window,'GeoPostal','US');

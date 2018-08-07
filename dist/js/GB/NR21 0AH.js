@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0AH"]={"code":"NR21 0AH","region":"England","city":"Great Snoring","latitude":52.87286,"longitude":0.89238}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64497"]={"code":"64497","region":"MO","city":"Weatherby","latitude":39.9277,"longitude":-94.2429}}(window,'GeoPostal','US');

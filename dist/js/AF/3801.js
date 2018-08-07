@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3801"]={"code":"3801","region":"Kandahar","city":"Kandahar","latitude":31.61332,"longitude":65.71013}}(window,'GeoPostal','AF');

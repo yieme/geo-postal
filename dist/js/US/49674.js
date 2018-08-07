@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49674"]={"code":"49674","region":"MI","city":"Omena","latitude":45.0556,"longitude":-85.589}}(window,'GeoPostal','US');

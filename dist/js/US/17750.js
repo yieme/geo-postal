@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17750"]={"code":"17750","region":"PA","city":"Mackeyville","latitude":41.0545,"longitude":-77.4614}}(window,'GeoPostal','US');

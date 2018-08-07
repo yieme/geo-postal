@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58027"]={"code":"58027","region":"North Dakota","city":"Enderlin","latitude":46.622802,"longitude":-97.60101}}(window,'GeoPostal','US');

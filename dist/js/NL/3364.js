@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3364"]={"code":"3364","region":"Zuid-Holland","city":"Sliedrecht","latitude":51.82083,"longitude":4.77639}}(window,'GeoPostal','NL');

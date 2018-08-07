@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 79"]={"code":"630 79","region":"Kentriki Makedonia","city":"Nea Triglia","latitude":40.3,"longitude":23.2}}(window,'GeoPostal','GR');

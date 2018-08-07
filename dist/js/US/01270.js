@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01270"]={"code":"01270","region":"MA","city":"Windsor","latitude":42.515,"longitude":-73.0412}}(window,'GeoPostal','US');

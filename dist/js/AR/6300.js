@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6300"]={"code":"6300","region":"La Pampa","city":"Santa Rosa","latitude":-36.61667,"longitude":-64.28333}}(window,'GeoPostal','AR');

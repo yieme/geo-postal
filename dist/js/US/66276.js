@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66276"]={"code":"66276","region":"KS","city":"Shawnee Mission","latitude":38.8999,"longitude":-94.832}}(window,'GeoPostal','US');

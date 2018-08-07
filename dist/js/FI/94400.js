@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94400"]={"code":"94400","region":"Lappi","city":"Keminmaa","latitude":65.80158,"longitude":24.54483}}(window,'GeoPostal','FI');

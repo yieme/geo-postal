@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141802"]={"code":"141802","region":"Moskovskaya oblast'","city":"Dmitrov","latitude":56.35,"longitude":37.51667}}(window,'GeoPostal','RU');

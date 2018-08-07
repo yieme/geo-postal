@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84173"]={"code":"84173","region":"Hovd","city":"Hovd","latitude":48.00556,"longitude":91.64194}}(window,'GeoPostal','MN');

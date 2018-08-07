@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301840"]={"code":"301840","region":"Tul'skaya oblast'","city":"Tula","latitude":54.20444,"longitude":37.61111}}(window,'GeoPostal','RU');

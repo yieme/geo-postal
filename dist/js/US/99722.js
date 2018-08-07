@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99722"]={"code":"99722","region":"Alaska","city":"Arctic Village","latitude":68.139078,"longitude":-145.550302}}(window,'GeoPostal','US');

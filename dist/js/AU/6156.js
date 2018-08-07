@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6156"]={"code":"6156","region":"Western Australia","city":"O'Connor","latitude":-32.05814,"longitude":115.79727}}(window,'GeoPostal','AU');

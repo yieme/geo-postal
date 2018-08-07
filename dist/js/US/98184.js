@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98184"]={"code":"98184","region":"WA","city":"Bank Of America","latitude":47.6,"longitude":-122.33}}(window,'GeoPostal','US');

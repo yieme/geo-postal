@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8382"]={"code":"8382","region":"Midtjylland","city":"Hinnerup","latitude":56.26608,"longitude":10.06299}}(window,'GeoPostal','DK');

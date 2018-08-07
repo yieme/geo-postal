@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83813"]={"code":"83813","region":"Idaho","city":"Cocolalla","latitude":48.11365,"longitude":-116.650188}}(window,'GeoPostal','US');

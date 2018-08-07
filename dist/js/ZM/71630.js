@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71630"]={"code":"71630","region":"Copperbelt","city":"Ndola","latitude":-12.95867,"longitude":28.63659}}(window,'GeoPostal','ZM');

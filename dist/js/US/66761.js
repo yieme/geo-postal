@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66761"]={"code":"66761","region":"KS","city":"Piqua","latitude":37.9228,"longitude":-95.5353}}(window,'GeoPostal','US');

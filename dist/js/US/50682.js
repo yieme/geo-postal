@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50682"]={"code":"50682","region":"Iowa","city":"Winthrop","latitude":42.4725,"longitude":-91.73583}}(window,'GeoPostal','US');

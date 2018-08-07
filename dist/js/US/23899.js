@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23899"]={"code":"23899","region":"VA","city":"Claremont","latitude":37.2279,"longitude":-76.9641}}(window,'GeoPostal','US');

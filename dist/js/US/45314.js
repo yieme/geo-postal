@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45314"]={"code":"45314","region":"Ohio","city":"Cedarville","latitude":39.747319,"longitude":-83.787791}}(window,'GeoPostal','US');

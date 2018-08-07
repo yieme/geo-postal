@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV35 0AN"]={"code":"CV35 0AN","region":"England","city":"Lighthorne","latitude":52.19982,"longitude":-1.50444}}(window,'GeoPostal','GB');

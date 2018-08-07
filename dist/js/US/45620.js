@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45620"]={"code":"45620","region":"OH","city":"Cheshire","latitude":38.9587,"longitude":-82.1235}}(window,'GeoPostal','US');

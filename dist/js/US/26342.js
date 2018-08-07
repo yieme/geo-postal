@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26342"]={"code":"26342","region":"West Virginia","city":"Coxs Mills","latitude":39.007674,"longitude":-80.867495}}(window,'GeoPostal','US');

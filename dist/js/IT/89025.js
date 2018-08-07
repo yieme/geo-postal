@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89025"]={"code":"89025","region":"Calabria","city":"Rosarno","latitude":38.48408,"longitude":15.979}}(window,'GeoPostal','IT');

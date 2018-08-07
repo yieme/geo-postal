@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["611220"]={"code":"611220","region":"Neamt","city":"Roman","latitude":46.91667,"longitude":26.91667}}(window,'GeoPostal','RO');

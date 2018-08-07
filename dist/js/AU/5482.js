@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5482"]={"code":"5482","region":"South Australia","city":"Booleroo Centre","latitude":-32.87988,"longitude":138.35074}}(window,'GeoPostal','AU');

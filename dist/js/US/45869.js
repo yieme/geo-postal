@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45869"]={"code":"45869","region":"Ohio","city":"New Bremen","latitude":40.444099,"longitude":-84.380473}}(window,'GeoPostal','US');

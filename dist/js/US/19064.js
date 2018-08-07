@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19064"]={"code":"19064","region":"Pennsylvania","city":"Springfield","latitude":39.95454,"longitude":-75.29796}}(window,'GeoPostal','US');

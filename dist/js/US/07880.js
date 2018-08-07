@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07880"]={"code":"07880","region":"NJ","city":"Vienna","latitude":40.8648,"longitude":-74.897}}(window,'GeoPostal','US');

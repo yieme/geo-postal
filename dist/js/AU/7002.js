@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7002"]={"code":"7002","region":"Tasmania","city":"Hobart","latitude":-42.87936,"longitude":147.32941}}(window,'GeoPostal','AU');

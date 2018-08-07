@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5280"]={"code":"5280","region":"South Australia","city":"Glencoe","latitude":-37.7,"longitude":140.61667}}(window,'GeoPostal','AU');

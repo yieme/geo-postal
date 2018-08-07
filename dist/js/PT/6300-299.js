@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6300-299"]={"code":"6300-299","region":"Guarda","city":"Sequeira","latitude":40.55364,"longitude":-7.22594}}(window,'GeoPostal','PT');

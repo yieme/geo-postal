@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-371"]={"code":"97-371","region":"Lodzkie","city":"Wola Krzysztoporska","latitude":51.34418,"longitude":19.5809}}(window,'GeoPostal','PL');

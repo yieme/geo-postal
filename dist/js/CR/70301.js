@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70301"]={"code":"70301","region":"Limon","city":"Siquirres","latitude":10.09748,"longitude":-83.50659}}(window,'GeoPostal','CR');

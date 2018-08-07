@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2225"]={"code":"2225","region":"Pest","city":"Ullo","latitude":47.38771,"longitude":19.35533}}(window,'GeoPostal','HU');

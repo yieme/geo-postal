@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31402"]={"code":"31402","region":"Khmelnytska oblast","city":"Stara Synyava","latitude":49.60318,"longitude":27.61909}}(window,'GeoPostal','UA');

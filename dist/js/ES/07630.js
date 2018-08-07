@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07630"]={"code":"07630","region":"Illes Balears","city":"Campos","latitude":39.43099,"longitude":3.01935}}(window,'GeoPostal','ES');

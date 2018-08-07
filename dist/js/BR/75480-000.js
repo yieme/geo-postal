@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75480-000"]={"code":"75480-000","region":"Goias","city":"Petrolina de Goias","latitude":-16.095,"longitude":-49.33806}}(window,'GeoPostal','BR');

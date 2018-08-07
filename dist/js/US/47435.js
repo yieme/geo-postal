@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47435"]={"code":"47435","region":"IN","city":"Helmsburg","latitude":39.1963,"longitude":-86.2302}}(window,'GeoPostal','US');

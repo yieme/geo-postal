@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80059"]={"code":"80059","region":"Campania","city":"Torre del Greco","latitude":40.78392,"longitude":14.3708}}(window,'GeoPostal','IT');

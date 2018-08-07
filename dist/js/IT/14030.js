@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14030"]={"code":"14030","region":"Piemonte","city":"Viarigi","latitude":44.98055,"longitude":8.35714}}(window,'GeoPostal','IT');

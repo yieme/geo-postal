@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8782"]={"code":"8782","region":"Glarus","city":"Linthal","latitude":46.92127,"longitude":8.99799}}(window,'GeoPostal','CH');

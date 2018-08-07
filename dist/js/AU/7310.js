@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7310"]={"code":"7310","region":"Tasmania","city":"Devonport","latitude":-41.17695,"longitude":146.35152}}(window,'GeoPostal','AU');

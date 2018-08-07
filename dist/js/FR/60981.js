@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60981"]={"code":"60981","region":"Hauts-de-France","city":"Creil","latitude":49.25672,"longitude":2.48477}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15291"]={"code":"15291","region":"Galicia","city":"Muros","latitude":42.77617,"longitude":-9.06032}}(window,'GeoPostal','ES');

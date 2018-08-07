@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25009"]={"code":"25009","region":"WV","city":"Ashford","latitude":38.1823,"longitude":-81.7113}}(window,'GeoPostal','US');

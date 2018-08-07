@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 0JF"]={"code":"SG8 0JF","region":"England","city":"Guilden Morden","latitude":52.0808,"longitude":-0.13304}}(window,'GeoPostal','GB');

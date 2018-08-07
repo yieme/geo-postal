@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814145"]={"code":"814145","region":"Jharkhand","city":"Godda","latitude":24.83333,"longitude":87.21667}}(window,'GeoPostal','IN');

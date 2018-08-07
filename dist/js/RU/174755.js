@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174755"]={"code":"174755","region":"Novgorodskaya oblast'","city":"Nebolchi","latitude":59.12393,"longitude":33.34537}}(window,'GeoPostal','RU');

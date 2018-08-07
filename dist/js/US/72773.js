@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72773"]={"code":"72773","region":"AR","city":"Wesley","latitude":36.0114,"longitude":-93.8526}}(window,'GeoPostal','US');

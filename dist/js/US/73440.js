@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73440"]={"code":"73440","region":"OK","city":"Lebanon","latitude":33.9687,"longitude":-96.9064}}(window,'GeoPostal','US');

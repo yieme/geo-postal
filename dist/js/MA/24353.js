@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24353"]={"code":"24353","region":"Doukhala-Abda","city":"Sidi Bennour","latitude":32.65236,"longitude":-8.42769}}(window,'GeoPostal','MA');

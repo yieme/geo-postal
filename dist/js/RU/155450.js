@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155450"]={"code":"155450","region":"Ivanovskaya oblast'","city":"Yur'yevets","latitude":57.32007,"longitude":43.1041}}(window,'GeoPostal','RU');

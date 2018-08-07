@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31315"]={"code":"31315","region":"Osjecko-baranjska zupanija","city":"Karanac","latitude":45.76056,"longitude":18.68444}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73252"]={"code":"73252","region":"Brandenburg","city":"Papierfabrik","latitude":52.7969,"longitude":13.98019}}(window,'GeoPostal','DE');

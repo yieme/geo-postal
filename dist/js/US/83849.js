@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83849"]={"code":"83849","region":"Idaho","city":"Osburn","latitude":47.50604,"longitude":-115.99933}}(window,'GeoPostal','US');

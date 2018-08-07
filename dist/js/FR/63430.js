@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63430"]={"code":"63430","region":"Auvergne-Rhone-Alpes","city":"Pont-du-Chateau","latitude":45.80078,"longitude":3.25008}}(window,'GeoPostal','FR');

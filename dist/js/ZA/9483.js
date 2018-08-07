@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9483"]={"code":"9483","region":"Free State","city":"Kutloanong","latitude":-27.83333,"longitude":26.75}}(window,'GeoPostal','ZA');

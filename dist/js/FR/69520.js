@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69520"]={"code":"69520","region":"Auvergne-Rhone-Alpes","city":"Grigny","latitude":45.61128,"longitude":4.79589}}(window,'GeoPostal','FR');

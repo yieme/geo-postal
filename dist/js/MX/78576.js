@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78576"]={"code":"78576","region":"San Luis Potosi","city":"Charcas","latitude":23.13333,"longitude":-101.11667}}(window,'GeoPostal','MX');

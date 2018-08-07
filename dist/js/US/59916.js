@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59916"]={"code":"59916","region":"MT","city":"Essex","latitude":48.278,"longitude":-113.6126}}(window,'GeoPostal','US');

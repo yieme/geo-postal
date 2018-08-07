@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37339"]={"code":"37339","region":"TN","city":"Gruetli Laager","latitude":35.3723,"longitude":-85.618}}(window,'GeoPostal','US');

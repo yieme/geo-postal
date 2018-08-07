@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74644"]={"code":"74644","region":"OK","city":"Marland","latitude":36.5609,"longitude":-97.1512}}(window,'GeoPostal','US');

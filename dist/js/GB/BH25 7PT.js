@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH25 7PT"]={"code":"BH25 7PT","region":"England","city":"Barton on Sea","latitude":50.73977,"longitude":-1.67507}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9358"]={"code":"9358","region":"Troms","city":"Tennevoll","latitude":68.7471,"longitude":17.80621}}(window,'GeoPostal','NO');

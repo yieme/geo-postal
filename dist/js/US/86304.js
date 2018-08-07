@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86304"]={"code":"86304","region":"Arizona","city":"Prescott","latitude":34.576007,"longitude":-112.449076}}(window,'GeoPostal','US');

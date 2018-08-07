@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["672400"]={"code":"672400","region":"Yunnan","city":"Nanzhao","latitude":25.22222,"longitude":100.30344}}(window,'GeoPostal','CN');

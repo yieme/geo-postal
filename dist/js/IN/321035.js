@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321035"]={"code":"321035","region":"Rajasthan","city":"Kaman","latitude":27.65,"longitude":77.26667}}(window,'GeoPostal','IN');

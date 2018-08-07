@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49290"]={"code":"49290","region":"Pays-de-la-Loire","city":"Chalonnes-sur-Loire","latitude":47.3516,"longitude":-0.7631}}(window,'GeoPostal','FR');

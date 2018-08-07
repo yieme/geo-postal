@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97101"]={"code":"97101","region":"OR","city":"Amity","latitude":45.1157,"longitude":-123.1744}}(window,'GeoPostal','US');

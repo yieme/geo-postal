@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP4 3EJ"]={"code":"IP4 3EJ","region":"England","city":"Rushmere","latitude":52.43333,"longitude":1.7}}(window,'GeoPostal','GB');

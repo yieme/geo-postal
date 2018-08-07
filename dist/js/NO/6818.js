@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6818"]={"code":"6818","region":"Sogn og Fjordane","city":"Skei","latitude":61.57194,"longitude":6.48164}}(window,'GeoPostal','NO');

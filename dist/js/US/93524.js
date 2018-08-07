@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93524"]={"code":"93524","region":"CA","city":"Edwards","latitude":34.932,"longitude":-117.9071}}(window,'GeoPostal','US');

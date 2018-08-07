@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632080"]={"code":"632080","region":"Novosibirskaya oblast'","city":"Severnoye","latitude":56.34912,"longitude":78.36189}}(window,'GeoPostal','RU');

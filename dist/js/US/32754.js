@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32754"]={"code":"32754","region":"FL","city":"Mims","latitude":28.6974,"longitude":-80.8663}}(window,'GeoPostal','US');

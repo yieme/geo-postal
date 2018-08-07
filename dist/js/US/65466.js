@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65466"]={"code":"65466","region":"Missouri","city":"Eminence","latitude":37.1506,"longitude":-91.35764}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1X0"]={"code":"R0A 1X0","region":"Manitoba","city":"Trentham","latitude":49.38888,"longitude":-96.66811}}(window,'GeoPostal','CA');

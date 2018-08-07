@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07857"]={"code":"07857","region":"NJ","city":"Netcong","latitude":40.8985,"longitude":-74.6985}}(window,'GeoPostal','US');

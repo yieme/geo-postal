@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32650"]={"code":"32650","region":"Isparta","city":"Keciborlu","latitude":37.9425,"longitude":30.30222}}(window,'GeoPostal','TR');

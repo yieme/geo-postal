@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61104"]={"code":"61104","region":"Illinois","city":"Rockford","latitude":42.255293,"longitude":-89.08117}}(window,'GeoPostal','US');

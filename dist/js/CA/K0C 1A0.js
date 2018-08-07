@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1A0"]={"code":"K0C 1A0","region":"Ontario","city":"Alexandria","latitude":45.31679,"longitude":-74.63257}}(window,'GeoPostal','CA');

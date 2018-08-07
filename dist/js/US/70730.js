@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70730"]={"code":"70730","region":"LA","city":"Ethel","latitude":30.8131,"longitude":-91.11}}(window,'GeoPostal','US');

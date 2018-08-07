@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34688"]={"code":"34688","region":"Florida","city":"Tarpon Springs","latitude":28.14612,"longitude":-82.75677}}(window,'GeoPostal','US');

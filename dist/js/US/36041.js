@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36041"]={"code":"36041","region":"AL","city":"Highland Home","latitude":31.9283,"longitude":-86.2971}}(window,'GeoPostal','US');

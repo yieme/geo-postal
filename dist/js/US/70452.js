@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70452"]={"code":"70452","region":"Louisiana","city":"Pearl River","latitude":30.401438,"longitude":-89.777211}}(window,'GeoPostal','US');

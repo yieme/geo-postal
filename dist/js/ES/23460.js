@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23460"]={"code":"23460","region":"Andalucia","city":"Peal de Becerro","latitude":37.91338,"longitude":-3.12148}}(window,'GeoPostal','ES');

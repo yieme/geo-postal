@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95534"]={"code":"95534","region":"CA","city":"Cutten","latitude":40.7965,"longitude":-124.1737}}(window,'GeoPostal','US');

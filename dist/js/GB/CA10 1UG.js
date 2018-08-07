@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 1UG"]={"code":"CA10 1UG","region":"England","city":"Kirkby Thore","latitude":54.62536,"longitude":-2.56205}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317206"]={"code":"317206","region":"Satu Mare","city":"Livada","latitude":46.22284,"longitude":21.38403}}(window,'GeoPostal','RO');

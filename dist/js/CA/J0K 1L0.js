@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1L0"]={"code":"J0K 1L0","region":"Quebec","city":"Mandeville","latitude":46.447247,"longitude":-73.40383}}(window,'GeoPostal','CA');

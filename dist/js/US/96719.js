@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96719"]={"code":"96719","region":"HI","city":"Hawi","latitude":20.238,"longitude":-155.838}}(window,'GeoPostal','US');

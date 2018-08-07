@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62642"]={"code":"62642","region":"IL","city":"Greenview","latitude":40.1017,"longitude":-89.7469}}(window,'GeoPostal','US');

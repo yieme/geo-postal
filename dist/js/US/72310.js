@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72310"]={"code":"72310","region":"Arkansas","city":"Armorel","latitude":35.92,"longitude":-89.79806}}(window,'GeoPostal','US');

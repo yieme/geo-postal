@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50108"]={"code":"50108","region":"Iowa","city":"Grand River","latitude":40.810679,"longitude":-93.957658}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67143"]={"code":"67143","region":"KS","city":"Sun City","latitude":37.3786,"longitude":-98.9159}}(window,'GeoPostal','US');

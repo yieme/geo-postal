@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75434"]={"code":"75434","region":"TX","city":"Cunningham","latitude":33.409,"longitude":-95.3711}}(window,'GeoPostal','US');

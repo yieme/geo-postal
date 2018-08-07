@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30890"]={"code":"30890","region":"Murcia, Region de","city":"Puerto Lumbreras","latitude":37.56329,"longitude":-1.80974}}(window,'GeoPostal','ES');

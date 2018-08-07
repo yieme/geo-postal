@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5610"]={"code":"5610","region":"Syddanmark","city":"Assens","latitude":55.27023,"longitude":9.90081}}(window,'GeoPostal','DK');

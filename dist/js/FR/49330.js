@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49330"]={"code":"49330","region":"Pays-de-la-Loire","city":"Mire","latitude":47.75759,"longitude":-0.49158}}(window,'GeoPostal','FR');

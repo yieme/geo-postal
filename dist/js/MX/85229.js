@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85229"]={"code":"85229","region":"Sonora","city":"Navojoa","latitude":27.0813,"longitude":-109.4461}}(window,'GeoPostal','MX');

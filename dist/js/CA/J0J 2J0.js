@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 2J0"]={"code":"J0J 2J0","region":"Quebec","city":"Stanbridge Station","latitude":45.138237,"longitude":-73.029187}}(window,'GeoPostal','CA');

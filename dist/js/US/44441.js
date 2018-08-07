@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44441"]={"code":"44441","region":"OH","city":"Negley","latitude":40.7579,"longitude":-80.553}}(window,'GeoPostal','US');

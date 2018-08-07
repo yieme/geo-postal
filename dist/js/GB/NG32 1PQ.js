@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 1PQ"]={"code":"NG32 1PQ","region":"England","city":"Belvoir","latitude":52.88333,"longitude":-0.78333}}(window,'GeoPostal','GB');

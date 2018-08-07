@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98220"]={"code":"98220","region":"WA","city":"Acme","latitude":48.6752,"longitude":-122.1914}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78073"]={"code":"78073","region":"TX","city":"Von Ormy","latitude":29.275,"longitude":-98.6677}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8820000"]={"code":"8820000","region":"Region Metropolitana de Santiago","city":"La Pintana","latitude":-33.58331,"longitude":-70.63419}}(window,'GeoPostal','CL');

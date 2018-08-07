@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 0QE"]={"code":"AB21 0QE","region":"Scotland","city":"Woodend","latitude":57.27709,"longitude":-2.21306}}(window,'GeoPostal','GB');

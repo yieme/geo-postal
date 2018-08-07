@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2340"]={"code":"2340","region":"Pernik","city":"Batanovtsi","latitude":42.59972,"longitude":22.95056}}(window,'GeoPostal','BG');

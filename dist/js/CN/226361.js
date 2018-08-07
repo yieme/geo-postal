@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226361"]={"code":"226361","region":"Jiangsu","city":"Wujie","latitude":32.09306,"longitude":120.68889}}(window,'GeoPostal','CN');

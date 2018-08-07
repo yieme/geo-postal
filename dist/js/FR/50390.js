@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50390"]={"code":"50390","region":"Normandie","city":"Saint-Sauveur-le-Vicomte","latitude":49.38547,"longitude":-1.5331}}(window,'GeoPostal','FR');

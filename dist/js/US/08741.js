@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08741"]={"code":"08741","region":"NJ","city":"Pine Beach","latitude":39.9347,"longitude":-74.168}}(window,'GeoPostal','US');

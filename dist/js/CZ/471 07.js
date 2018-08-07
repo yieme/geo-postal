@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 07"]={"code":"471 07","region":"Liberecky kraj","city":"Zandov","latitude":50.71394,"longitude":14.39623}}(window,'GeoPostal','CZ');

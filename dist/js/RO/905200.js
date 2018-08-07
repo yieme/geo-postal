@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905200"]={"code":"905200","region":"Constanta","city":"Cernavoda","latitude":44.36667,"longitude":28.01667}}(window,'GeoPostal','RO');

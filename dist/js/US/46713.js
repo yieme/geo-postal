@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46713"]={"code":"46713","region":"IN","city":"Bippus","latitude":40.9442,"longitude":-85.6239}}(window,'GeoPostal','US');

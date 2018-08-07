@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59230"]={"code":"59230","region":"Montana","city":"Glasgow","latitude":48.19696,"longitude":-106.63671}}(window,'GeoPostal','US');

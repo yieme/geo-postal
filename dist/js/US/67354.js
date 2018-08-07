@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67354"]={"code":"67354","region":"KS","city":"Mound Valley","latitude":37.2091,"longitude":-95.4247}}(window,'GeoPostal','US');

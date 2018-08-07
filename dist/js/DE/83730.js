@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83730"]={"code":"83730","region":"Bayern","city":"Fischbachau","latitude":47.71952,"longitude":11.95081}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15003"]={"code":"15003","region":"Pennsylvania","city":"Ambridge","latitude":40.582123,"longitude":-80.214863}}(window,'GeoPostal','US');

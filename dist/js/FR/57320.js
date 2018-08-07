@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57320"]={"code":"57320","region":"Grand-Est","city":"Bouzonville","latitude":49.29188,"longitude":6.53386}}(window,'GeoPostal','FR');

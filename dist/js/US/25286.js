@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25286"]={"code":"25286","region":"WV","city":"Walton","latitude":38.6023,"longitude":-81.3958}}(window,'GeoPostal','US');

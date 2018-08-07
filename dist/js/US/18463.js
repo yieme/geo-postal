@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18463"]={"code":"18463","region":"PA","city":"Sterling","latitude":41.3412,"longitude":-75.3899}}(window,'GeoPostal','US');

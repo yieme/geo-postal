@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08830"]={"code":"08830","region":"New Jersey","city":"Iselin","latitude":40.571755,"longitude":-74.317366}}(window,'GeoPostal','US');

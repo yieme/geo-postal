@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10170"]={"code":"10170","region":"Grand-Est","city":"Mery-sur-Seine","latitude":48.50937,"longitude":3.89129}}(window,'GeoPostal','FR');

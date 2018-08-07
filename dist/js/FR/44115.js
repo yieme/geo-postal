@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44115"]={"code":"44115","region":"Pays-de-la-Loire","city":"Haute-Goulaine","latitude":47.19905,"longitude":-1.42941}}(window,'GeoPostal','FR');

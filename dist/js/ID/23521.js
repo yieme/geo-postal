@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23521"]={"code":"23521","region":"Aceh","city":"Sabang","latitude":5.89333,"longitude":95.32139}}(window,'GeoPostal','ID');

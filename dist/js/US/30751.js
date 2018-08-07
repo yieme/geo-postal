@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30751"]={"code":"30751","region":"GA","city":"Tennga","latitude":34.9814,"longitude":-84.7352}}(window,'GeoPostal','US');

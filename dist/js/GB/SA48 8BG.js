@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8BG"]={"code":"SA48 8BG","region":"Wales","city":"Temple Bar","latitude":52.16667,"longitude":-4.15}}(window,'GeoPostal','GB');

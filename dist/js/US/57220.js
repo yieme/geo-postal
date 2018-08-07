@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57220"]={"code":"57220","region":"SD","city":"Bruce","latitude":44.4675,"longitude":-96.911}}(window,'GeoPostal','US');

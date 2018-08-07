@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93812"]={"code":"93812","region":"Saaremaa","city":"Kuressaare","latitude":58.24806,"longitude":22.50389}}(window,'GeoPostal','EE');

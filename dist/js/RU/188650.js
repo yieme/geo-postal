@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188650"]={"code":"188650","region":"Leningradskaya oblast'","city":"Sertolovo","latitude":60.1444,"longitude":30.20165}}(window,'GeoPostal','RU');

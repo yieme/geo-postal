@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8117"]={"code":"8117","region":"Davao Oriental","city":"Tombongon","latitude":7.0792,"longitude":125.9486}}(window,'GeoPostal','PH');

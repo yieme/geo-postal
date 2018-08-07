@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74569"]={"code":"74569","region":"Oklahoma","city":"Stringtown","latitude":34.467302,"longitude":-96.050437}}(window,'GeoPostal','US');

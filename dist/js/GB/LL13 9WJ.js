@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 9WJ"]={"code":"LL13 9WJ","region":"Wales","city":"Holt","latitude":53.06667,"longitude":-2.88333}}(window,'GeoPostal','GB');

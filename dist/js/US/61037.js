@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61037"]={"code":"61037","region":"Illinois","city":"Galt","latitude":41.788935,"longitude":-89.760872}}(window,'GeoPostal','US');

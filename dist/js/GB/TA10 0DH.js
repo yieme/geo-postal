@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA10 0DH"]={"code":"TA10 0DH","region":"England","city":"Muchelney","latitude":51.01861,"longitude":-2.81361}}(window,'GeoPostal','GB');

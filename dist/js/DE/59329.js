@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59329"]={"code":"59329","region":"Nordrhein-Westfalen","city":"Hentrup","latitude":51.69448,"longitude":8.23751}}(window,'GeoPostal','DE');

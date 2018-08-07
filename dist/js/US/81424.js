@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81424"]={"code":"81424","region":"Colorado","city":"Nucla","latitude":38.266667,"longitude":-108.54722}}(window,'GeoPostal','US');

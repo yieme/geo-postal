@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38961"]={"code":"38961","region":"Guanajuato","city":"Cerano","latitude":20.11667,"longitude":-101.38333}}(window,'GeoPostal','MX');

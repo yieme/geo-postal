@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23307"]={"code":"23307","region":"Virginia","city":"Birdsnest","latitude":37.435992,"longitude":-75.897795}}(window,'GeoPostal','US');

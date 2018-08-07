@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84240-000"]={"code":"84240-000","region":"Parana","city":"Pirai do Sul","latitude":-24.52611,"longitude":-49.94861}}(window,'GeoPostal','BR');

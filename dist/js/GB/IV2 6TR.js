@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 6TR"]={"code":"IV2 6TR","region":"Scotland","city":"Dores","latitude":57.38136,"longitude":-4.33282}}(window,'GeoPostal','GB');

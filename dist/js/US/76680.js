@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76680"]={"code":"76680","region":"TX","city":"Reagan","latitude":31.1871,"longitude":-96.7998}}(window,'GeoPostal','US');

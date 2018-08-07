@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B66 3BU"]={"code":"B66 3BU","region":"England","city":"Sandwell","latitude":52.5,"longitude":-1.96667}}(window,'GeoPostal','GB');

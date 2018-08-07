@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34138"]={"code":"34138","region":"Florida","city":"Chokoloskee","latitude":25.81441,"longitude":-81.35971}}(window,'GeoPostal','US');

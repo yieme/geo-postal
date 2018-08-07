@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 4HB"]={"code":"CA6 4HB","region":"England","city":"Todhills","latitude":54.9552,"longitude":-2.98279}}(window,'GeoPostal','GB');

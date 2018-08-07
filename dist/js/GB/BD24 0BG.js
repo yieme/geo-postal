@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD24 0BG"]={"code":"BD24 0BG","region":"England","city":"Giggleswick","latitude":54.07195,"longitude":-2.28848}}(window,'GeoPostal','GB');

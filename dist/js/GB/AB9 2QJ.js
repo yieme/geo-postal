@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB9 2QJ"]={"code":"AB9 2QJ","region":"England","city":"Hutton","latitude":51.32417,"longitude":-2.93028}}(window,'GeoPostal','GB');

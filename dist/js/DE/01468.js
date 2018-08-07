@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01468"]={"code":"01468","region":"Sachsen","city":"Auer","latitude":51.1618,"longitude":13.63026}}(window,'GeoPostal','DE');

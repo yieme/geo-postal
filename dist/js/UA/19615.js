@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19615"]={"code":"19615","region":"Cherkaska oblast","city":"Moshny","latitude":49.51473,"longitude":31.74757}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68405"]={"code":"68405","region":"Nebraska","city":"Milford","latitude":40.7728,"longitude":-97.052997}}(window,'GeoPostal','US');

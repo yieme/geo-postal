@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17504"]={"code":"17504","region":"PA","city":"Bausman","latitude":40.024,"longitude":-76.3281}}(window,'GeoPostal','US');

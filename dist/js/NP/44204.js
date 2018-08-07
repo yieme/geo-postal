@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44204"]={"code":"44204","region":"Narayani","city":"Bharatpur","latitude":27.68333,"longitude":84.43333}}(window,'GeoPostal','NP');

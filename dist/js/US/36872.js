@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36872"]={"code":"36872","region":"Alabama","city":"Valley","latitude":32.81741,"longitude":-85.17337}}(window,'GeoPostal','US');

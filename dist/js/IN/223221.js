@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223221"]={"code":"223221","region":"Uttar Pradesh","city":"Nizamabad","latitude":26.05056,"longitude":83.05889}}(window,'GeoPostal','IN');

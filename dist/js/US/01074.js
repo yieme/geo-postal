@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01074"]={"code":"01074","region":"MA","city":"South Barre","latitude":42.3854,"longitude":-72.0954}}(window,'GeoPostal','US');

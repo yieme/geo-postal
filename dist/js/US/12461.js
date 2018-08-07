@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12461"]={"code":"12461","region":"NY","city":"Olivebridge","latitude":41.875,"longitude":-74.2734}}(window,'GeoPostal','US');

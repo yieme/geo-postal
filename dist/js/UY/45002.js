@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45002"]={"code":"45002","region":"Tacuarembo","city":"Curtina","latitude":-32.15,"longitude":-56.11667}}(window,'GeoPostal','UY');

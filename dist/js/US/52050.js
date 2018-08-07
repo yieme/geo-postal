@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52050"]={"code":"52050","region":"IA","city":"Greeley","latitude":42.5939,"longitude":-91.3233}}(window,'GeoPostal','US');

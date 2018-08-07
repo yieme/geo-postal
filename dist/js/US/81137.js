@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81137"]={"code":"81137","region":"Colorado","city":"Ignacio","latitude":37.103484,"longitude":-107.595285}}(window,'GeoPostal','US');

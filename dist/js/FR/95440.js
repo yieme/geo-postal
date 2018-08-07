@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95440"]={"code":"95440","region":"Ile-de-France","city":"Ecouen","latitude":49.02062,"longitude":2.38309}}(window,'GeoPostal','FR');

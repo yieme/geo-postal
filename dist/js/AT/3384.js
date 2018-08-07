@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3384"]={"code":"3384","region":"Niederosterreich","city":"Haunoldstein","latitude":48.2,"longitude":15.45}}(window,'GeoPostal','AT');

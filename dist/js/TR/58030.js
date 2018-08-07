@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58030"]={"code":"58030","region":"Sivas","city":"Sivas","latitude":39.74833,"longitude":37.01611}}(window,'GeoPostal','TR');

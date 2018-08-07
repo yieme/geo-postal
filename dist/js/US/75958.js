@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75958"]={"code":"75958","region":"TX","city":"Martinsville","latitude":31.6427,"longitude":-94.4141}}(window,'GeoPostal','US');

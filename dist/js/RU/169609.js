@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169609"]={"code":"169609","region":"Komi, Respublika","city":"Pechora","latitude":65.14716,"longitude":57.22439}}(window,'GeoPostal','RU');

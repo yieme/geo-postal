@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47715"]={"code":"47715","region":"Indiana","city":"Evansville","latitude":37.970109,"longitude":-87.481268}}(window,'GeoPostal','US');

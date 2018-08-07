@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14114"]={"code":"14114","region":"Fars","city":"Shiraz","latitude":29.6036,"longitude":52.5388}}(window,'GeoPostal','IR');

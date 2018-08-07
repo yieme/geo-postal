@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08345"]={"code":"08345","region":"NJ","city":"Newport","latitude":39.2832,"longitude":-75.1716}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42054"]={"code":"42054","region":"KY","city":"Kirksey","latitude":36.6731,"longitude":-88.4238}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1T0"]={"code":"C0A 1T0","region":"Prince Edward Island","city":"Mount Stewart","latitude":46.36681,"longitude":-62.86536}}(window,'GeoPostal','CA');

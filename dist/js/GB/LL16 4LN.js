@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 4LN"]={"code":"LL16 4LN","region":"Wales","city":"Llangynhafal","latitude":53.16201,"longitude":-3.30394}}(window,'GeoPostal','GB');

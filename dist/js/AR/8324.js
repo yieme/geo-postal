@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8324"]={"code":"8324","region":"Rio Negro","city":"Cipolletti","latitude":-38.93392,"longitude":-67.99032}}(window,'GeoPostal','AR');

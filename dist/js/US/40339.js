@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40339"]={"code":"40339","region":"KY","city":"Keene","latitude":37.9434,"longitude":-84.6419}}(window,'GeoPostal','US');

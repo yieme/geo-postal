@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92267"]={"code":"92267","region":"California","city":"Parker Dam","latitude":34.2959,"longitude":-114.1875}}(window,'GeoPostal','US');

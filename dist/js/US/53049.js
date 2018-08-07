@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53049"]={"code":"53049","region":"WI","city":"Malone","latitude":43.8753,"longitude":-88.2871}}(window,'GeoPostal','US');

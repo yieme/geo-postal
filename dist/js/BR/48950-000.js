@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48950-000"]={"code":"48950-000","region":"Bahia","city":"Uaua","latitude":-9.84139,"longitude":-39.48167}}(window,'GeoPostal','BR');

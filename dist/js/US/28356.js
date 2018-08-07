@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28356"]={"code":"28356","region":"NC","city":"Linden","latitude":35.2276,"longitude":-78.8004}}(window,'GeoPostal','US');

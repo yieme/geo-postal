@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17620"]={"code":"17620","region":"Nouvelle-Aquitaine","city":"Echillais","latitude":45.90072,"longitude":-0.95211}}(window,'GeoPostal','FR');

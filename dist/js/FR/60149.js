@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60149"]={"code":"60149","region":"Hauts-de-France","city":"Saint-Crepin-Ibouvillers","latitude":49.26283,"longitude":2.07793}}(window,'GeoPostal','FR');

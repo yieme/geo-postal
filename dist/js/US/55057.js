@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55057"]={"code":"55057","region":"Minnesota","city":"Northfield","latitude":44.4583,"longitude":-93.1616}}(window,'GeoPostal','US');

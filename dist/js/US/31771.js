@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31771"]={"code":"31771","region":"GA","city":"Norman Park","latitude":31.2462,"longitude":-83.6549}}(window,'GeoPostal','US');

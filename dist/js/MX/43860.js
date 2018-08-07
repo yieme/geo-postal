@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43860"]={"code":"43860","region":"Hidalgo","city":"Tolcayuca","latitude":19.95,"longitude":-98.91667}}(window,'GeoPostal','MX');

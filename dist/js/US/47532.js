@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47532"]={"code":"47532","region":"Indiana","city":"Ferdinand","latitude":38.22394,"longitude":-86.86222}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86744"]={"code":"86744","region":"Bayern","city":"Hainsfarth","latitude":48.96667,"longitude":10.61667}}(window,'GeoPostal','DE');

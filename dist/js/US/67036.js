@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67036"]={"code":"67036","region":"Kansas","city":"Danville","latitude":37.255239,"longitude":-97.866593}}(window,'GeoPostal','US');

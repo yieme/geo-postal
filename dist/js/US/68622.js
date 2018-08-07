@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68622"]={"code":"68622","region":"Nebraska","city":"Bartlett","latitude":41.88529,"longitude":-98.5523}}(window,'GeoPostal','US');

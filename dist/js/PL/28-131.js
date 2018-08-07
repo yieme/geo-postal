@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-131"]={"code":"28-131","region":"Swietokrzyskie","city":"Solec-Zdroj","latitude":50.36594,"longitude":20.88956}}(window,'GeoPostal','PL');

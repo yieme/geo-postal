@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85170-000"]={"code":"85170-000","region":"Parana","city":"Pinhao","latitude":-25.69556,"longitude":-51.65972}}(window,'GeoPostal','BR');

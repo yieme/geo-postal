@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49644"]={"code":"49644","region":"Michigan","city":"Irons","latitude":44.12083,"longitude":-85.85861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8620"]={"code":"8620","region":"Midtjylland","city":"Kjellerup","latitude":56.28581,"longitude":9.43528}}(window,'GeoPostal','DK');

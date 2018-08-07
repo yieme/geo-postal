@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB21 6BY"]={"code":"CB21 6BY","region":"England","city":"Hildersham","latitude":52.11257,"longitude":0.25311}}(window,'GeoPostal','GB');

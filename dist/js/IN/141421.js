@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141421"]={"code":"141421","region":"Punjab","city":"Doraha","latitude":30.81667,"longitude":76.01667}}(window,'GeoPostal','IN');

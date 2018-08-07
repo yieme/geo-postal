@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P3P 1R3"]={"code":"P3P 1R3","region":"Ontario","city":"Milnet","latitude":46.83338,"longitude":-80.94974}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46702"]={"code":"46702","region":"Valenciana, Comunidad","city":"Benirredra","latitude":38.96667,"longitude":-0.18333}}(window,'GeoPostal','ES');

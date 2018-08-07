@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-545"]={"code":"97-545","region":"Lodzkie","city":"Gomunice","latitude":51.1689,"longitude":19.49335}}(window,'GeoPostal','PL');

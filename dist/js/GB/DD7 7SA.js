@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD7 7SA"]={"code":"DD7 7SA","region":"Scotland","city":"Lucknow","latitude":56.49103,"longitude":-2.7804}}(window,'GeoPostal','GB');

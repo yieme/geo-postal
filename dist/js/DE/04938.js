@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04938"]={"code":"04938","region":"Brandenburg","city":"Winkel","latitude":51.54765,"longitude":13.38406}}(window,'GeoPostal','DE');

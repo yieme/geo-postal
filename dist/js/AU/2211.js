@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2211"]={"code":"2211","region":"New South Wales","city":"Padstow","latitude":-33.95,"longitude":151.03333}}(window,'GeoPostal','AU');

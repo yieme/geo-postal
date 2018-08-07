@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20863"]={"code":"20863","region":"Piemonte","city":"Torino","latitude":45.07049,"longitude":7.68682}}(window,'GeoPostal','IT');

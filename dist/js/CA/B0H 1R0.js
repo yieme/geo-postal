@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0H 1R0"]={"code":"B0H 1R0","region":"Nova Scotia","city":"Pomquet","latitude":45.62712,"longitude":-61.84444}}(window,'GeoPostal','CA');

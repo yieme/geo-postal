@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-312"]={"code":"97-312","region":"Lodzkie","city":"Piotrkow Trybunalski","latitude":51.40547,"longitude":19.70321}}(window,'GeoPostal','PL');

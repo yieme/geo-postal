@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14542"]={"code":"14542","region":"NY","city":"Rose","latitude":43.1448,"longitude":-76.8608}}(window,'GeoPostal','US');

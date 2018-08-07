@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54415"]={"code":"54415","region":"WI","city":"Blenker","latitude":44.6191,"longitude":-89.9186}}(window,'GeoPostal','US');

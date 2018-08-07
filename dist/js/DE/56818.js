@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56818"]={"code":"56818","region":"Rheinland-Pfalz","city":"Klotten","latitude":50.16667,"longitude":7.2}}(window,'GeoPostal','DE');

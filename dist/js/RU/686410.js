@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686410"]={"code":"686410","region":"Magadanskaya oblast'","city":"Omsukchan","latitude":62.53333,"longitude":155.8}}(window,'GeoPostal','RU');

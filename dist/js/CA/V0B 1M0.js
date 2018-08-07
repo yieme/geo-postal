@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1M0"]={"code":"V0B 1M0","region":"British Columbia","city":"Fernie","latitude":49.49996,"longitude":-115.06871}}(window,'GeoPostal','CA');

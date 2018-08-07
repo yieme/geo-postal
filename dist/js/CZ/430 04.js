@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430 04"]={"code":"430 04","region":"Ustecky kraj","city":"Chomutov","latitude":50.46048,"longitude":13.41779}}(window,'GeoPostal','CZ');

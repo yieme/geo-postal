@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47280"]={"code":"47280","region":"Karlovacka zupanija","city":"Ozalj","latitude":45.60667,"longitude":15.46194}}(window,'GeoPostal','HR');

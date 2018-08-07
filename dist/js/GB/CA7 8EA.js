@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 8EA"]={"code":"CA7 8EA","region":"England","city":"Caldbeck","latitude":54.7486,"longitude":-3.05111}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10330"]={"code":"10330","region":"Balikesir","city":"Sindirgi","latitude":39.24128,"longitude":28.17842}}(window,'GeoPostal','TR');

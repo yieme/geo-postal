@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79314"]={"code":"79314","region":"Texas","city":"Bledsoe","latitude":33.640004,"longitude":-102.87305}}(window,'GeoPostal','US');

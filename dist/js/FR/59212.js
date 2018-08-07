@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59212"]={"code":"59212","region":"Hauts-de-France","city":"Wignehies","latitude":50.0155,"longitude":4.00914}}(window,'GeoPostal','FR');

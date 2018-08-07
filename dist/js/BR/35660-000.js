@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35660-000"]={"code":"35660-000","region":"Minas Gerais","city":"Para de Minas","latitude":-19.86028,"longitude":-44.60833}}(window,'GeoPostal','BR');

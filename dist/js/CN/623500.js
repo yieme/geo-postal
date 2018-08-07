@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623500"]={"code":"623500","region":"Sichuan","city":"Luhua","latitude":32.06708,"longitude":102.98786}}(window,'GeoPostal','CN');

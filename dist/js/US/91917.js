@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91917"]={"code":"91917","region":"CA","city":"Dulzura","latitude":32.6152,"longitude":-116.7285}}(window,'GeoPostal','US');

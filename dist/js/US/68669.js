@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68669"]={"code":"68669","region":"NE","city":"Ulysses","latitude":41.0791,"longitude":-97.1984}}(window,'GeoPostal','US');

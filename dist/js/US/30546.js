@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30546"]={"code":"30546","region":"Georgia","city":"Hiawassee","latitude":34.94926,"longitude":-83.75739}}(window,'GeoPostal','US');

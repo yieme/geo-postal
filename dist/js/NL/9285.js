@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9285"]={"code":"9285","region":"Fryslan","city":"Buitenpost","latitude":53.25166,"longitude":6.14483}}(window,'GeoPostal','NL');

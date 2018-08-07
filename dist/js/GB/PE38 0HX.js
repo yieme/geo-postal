@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE38 0HX"]={"code":"PE38 0HX","region":"England","city":"Hilgay","latitude":52.55971,"longitude":0.38959}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95547"]={"code":"95547","region":"CA","city":"Hydesville","latitude":40.5485,"longitude":-124.0847}}(window,'GeoPostal','US');

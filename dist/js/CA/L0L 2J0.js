@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 2J0"]={"code":"L0L 2J0","region":"Ontario","city":"Ardmore Beach","latitude":44.7012,"longitude":-80.00577}}(window,'GeoPostal','CA');

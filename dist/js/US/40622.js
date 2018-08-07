@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40622"]={"code":"40622","region":"Kentucky","city":"Frankfort","latitude":38.19813,"longitude":-84.87484}}(window,'GeoPostal','US');

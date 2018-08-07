@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24266"]={"code":"24266","region":"Virginia","city":"Lebanon","latitude":36.90094,"longitude":-82.08013}}(window,'GeoPostal','US');

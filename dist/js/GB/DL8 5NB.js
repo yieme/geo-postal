@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 5NB"]={"code":"DL8 5NB","region":"England","city":"Finghall","latitude":54.30261,"longitude":-1.72146}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6846"]={"code":"6846","region":"Gelderland","city":"Arnhem","latitude":51.98,"longitude":5.91111}}(window,'GeoPostal','NL');

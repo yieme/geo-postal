@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77588"]={"code":"77588","region":"TX","city":"Pearland","latitude":29.5127,"longitude":-95.2542}}(window,'GeoPostal','US');

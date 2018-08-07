@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0E0"]={"code":"T0K 0E0","region":"Alberta","city":"Blairmore","latitude":49.60002,"longitude":-114.4353}}(window,'GeoPostal','CA');

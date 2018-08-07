@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27809"]={"code":"27809","region":"North Carolina","city":"Battleboro","latitude":36.036352,"longitude":-77.735217}}(window,'GeoPostal','US');

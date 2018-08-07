@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61523"]={"code":"61523","region":"Illinois","city":"Chillicothe","latitude":40.905282,"longitude":-89.513948}}(window,'GeoPostal','US');

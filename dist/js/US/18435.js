@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18435"]={"code":"18435","region":"Pennsylvania","city":"Lackawaxen","latitude":41.509932,"longitude":-75.075794}}(window,'GeoPostal','US');

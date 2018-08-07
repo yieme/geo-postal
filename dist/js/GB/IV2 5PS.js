@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 5PS"]={"code":"IV2 5PS","region":"Scotland","city":"Croy","latitude":57.51667,"longitude":-4.03333}}(window,'GeoPostal','GB');

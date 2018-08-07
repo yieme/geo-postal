@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19400"]={"code":"19400","region":"Castilla-La Mancha","city":"Brihuega","latitude":40.76049,"longitude":-2.86966}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70130"]={"code":"70130","region":"Ratchaburi","city":"Damnoen Saduak","latitude":13.51824,"longitude":99.95469}}(window,'GeoPostal','TH');

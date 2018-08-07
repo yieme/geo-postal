@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["820000"]={"code":"820000","region":"Binh Duong","city":"Thu Dau Mot","latitude":10.96667,"longitude":106.65}}(window,'GeoPostal','VN');

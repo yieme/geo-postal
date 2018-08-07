@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612720"]={"code":"612720","region":"Nizhegorodskaya oblast'","city":"Tonkino","latitude":57.37257,"longitude":46.46294}}(window,'GeoPostal','RU');

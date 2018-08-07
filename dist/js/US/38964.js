@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38964"]={"code":"38964","region":"MS","city":"Vance","latitude":34.0936,"longitude":-90.3752}}(window,'GeoPostal','US');

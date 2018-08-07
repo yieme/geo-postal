@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48075"]={"code":"48075","region":"Michigan","city":"Southfield","latitude":42.461234,"longitude":-83.227531}}(window,'GeoPostal','US');

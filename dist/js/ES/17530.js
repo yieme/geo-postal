@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17530"]={"code":"17530","region":"Catalunya","city":"Campdevanol","latitude":42.22445,"longitude":2.1686}}(window,'GeoPostal','ES');

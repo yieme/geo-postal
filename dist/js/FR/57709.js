@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57709"]={"code":"57709","region":"Grand-Est","city":"Hayange","latitude":49.33428,"longitude":6.05268}}(window,'GeoPostal','FR');

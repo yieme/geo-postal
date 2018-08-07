@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD1 5DL"]={"code":"LD1 5DL","region":"Wales","city":"Llandrindod Wells","latitude":52.24164,"longitude":-3.37868}}(window,'GeoPostal','GB');

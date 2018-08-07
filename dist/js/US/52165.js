@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52165"]={"code":"52165","region":"Iowa","city":"Ridgeway","latitude":43.293924,"longitude":-91.988299}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48022"]={"code":"48022","region":"MI","city":"Emmett","latitude":42.9872,"longitude":-82.7854}}(window,'GeoPostal','US');

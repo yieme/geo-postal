@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06842"]={"code":"06842","region":"CT","city":"New Canaan","latitude":41.14,"longitude":-73.49}}(window,'GeoPostal','US');

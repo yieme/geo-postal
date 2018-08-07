@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087205"]={"code":"087205","region":"Giurgiu","city":"Singureni","latitude":44.23361,"longitude":25.94333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98038"]={"code":"98038","region":"Sicilia","city":"Savoca","latitude":37.95326,"longitude":15.34009}}(window,'GeoPostal','IT');

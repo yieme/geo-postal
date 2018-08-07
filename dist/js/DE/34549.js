@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34549"]={"code":"34549","region":"Hessen","city":"Gellershausen","latitude":51.12879,"longitude":9.01574}}(window,'GeoPostal','DE');

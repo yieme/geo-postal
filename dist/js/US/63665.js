@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63665"]={"code":"63665","region":"MO","city":"Redford","latitude":37.32,"longitude":-90.8985}}(window,'GeoPostal','US');

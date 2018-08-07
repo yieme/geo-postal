@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50070"]={"code":"50070","region":"Iowa","city":"Dexter","latitude":41.516956,"longitude":-94.22386}}(window,'GeoPostal','US');

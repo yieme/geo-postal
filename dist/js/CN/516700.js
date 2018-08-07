@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516700"]={"code":"516700","region":"Guangdong","city":"Hetian","latitude":23.30577,"longitude":115.65029}}(window,'GeoPostal','CN');

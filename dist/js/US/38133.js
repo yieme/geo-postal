@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38133"]={"code":"38133","region":"Tennessee","city":"Bartlett","latitude":35.20453,"longitude":-89.87398}}(window,'GeoPostal','US');

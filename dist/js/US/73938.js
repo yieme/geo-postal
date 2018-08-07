@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73938"]={"code":"73938","region":"Oklahoma","city":"Forgan","latitude":36.90896,"longitude":-100.535582}}(window,'GeoPostal','US');

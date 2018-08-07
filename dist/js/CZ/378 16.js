@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["378 16"]={"code":"378 16","region":"Jihocesky kraj","city":"Lomnice nad Luznici","latitude":49.08468,"longitude":14.71727}}(window,'GeoPostal','CZ');

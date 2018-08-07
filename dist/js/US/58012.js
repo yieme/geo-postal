@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58012"]={"code":"58012","region":"North Dakota","city":"Casselton","latitude":46.901058,"longitude":-97.212231}}(window,'GeoPostal','US');

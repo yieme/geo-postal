@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62890"]={"code":"62890","region":"Hauts-de-France","city":"Zouafques","latitude":50.8169,"longitude":2.0567}}(window,'GeoPostal','FR');

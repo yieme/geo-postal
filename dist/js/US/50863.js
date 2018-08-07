@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50863"]={"code":"50863","region":"IA","city":"Tingley","latitude":40.8516,"longitude":-94.1908}}(window,'GeoPostal','US');

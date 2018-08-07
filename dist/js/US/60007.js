@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60007"]={"code":"60007","region":"Illinois","city":"Elk Grove Village","latitude":42.006681,"longitude":-88.004754}}(window,'GeoPostal','US');

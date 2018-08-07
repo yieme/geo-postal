@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04042"]={"code":"04042","region":"ME","city":"Hollis Center","latitude":43.5946,"longitude":-70.6051}}(window,'GeoPostal','US');

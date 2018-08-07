@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5J 2V3"]={"code":"J5J 2V3","region":"Quebec","city":"Sainte-Sophie","latitude":45.810997,"longitude":-73.918746}}(window,'GeoPostal','CA');

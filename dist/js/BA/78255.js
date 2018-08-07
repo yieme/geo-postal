@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78255"]={"code":"78255","region":"Republika Srpska","city":"Maglajani","latitude":44.94861,"longitude":17.34944}}(window,'GeoPostal','BA');

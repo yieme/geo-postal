@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 0S0"]={"code":"T0J 0S0","region":"Alberta","city":"Cluny","latitude":50.83952,"longitude":-112.87048}}(window,'GeoPostal','CA');

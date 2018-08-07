@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65400"]={"code":"65400","region":"Siirt","city":"Siirt","latitude":37.93262,"longitude":41.94025}}(window,'GeoPostal','TR');

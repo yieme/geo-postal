@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8506"]={"code":"8506","region":"Agusan del Norte","city":"Libertad","latitude":8.1075,"longitude":126.02639}}(window,'GeoPostal','PH');

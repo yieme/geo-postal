@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72584"]={"code":"72584","region":"AR","city":"Violet Hill","latitude":36.163,"longitude":-91.8471}}(window,'GeoPostal','US');

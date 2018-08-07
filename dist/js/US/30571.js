@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30571"]={"code":"30571","region":"Georgia","city":"Sautee Nacoochee","latitude":34.743532,"longitude":-83.715998}}(window,'GeoPostal','US');

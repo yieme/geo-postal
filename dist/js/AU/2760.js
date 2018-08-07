@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2760"]={"code":"2760","region":"New South Wales","city":"Saint Marys","latitude":-33.78333,"longitude":150.78333}}(window,'GeoPostal','AU');

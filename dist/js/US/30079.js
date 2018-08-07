@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30079"]={"code":"30079","region":"GA","city":"Scottdale","latitude":33.7934,"longitude":-84.2585}}(window,'GeoPostal','US');

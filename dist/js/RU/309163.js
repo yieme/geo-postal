@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309163"]={"code":"309163","region":"Belgorodskaya oblast'","city":"Skorodnoye","latitude":51.07101,"longitude":37.22756}}(window,'GeoPostal','RU');

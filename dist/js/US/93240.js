@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93240"]={"code":"93240","region":"California","city":"Lake Isabella","latitude":35.61801,"longitude":-118.47314}}(window,'GeoPostal','US');

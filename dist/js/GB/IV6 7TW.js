@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV6 7TW"]={"code":"IV6 7TW","region":"Scotland","city":"Ardnagrask","latitude":57.50872,"longitude":-4.47779}}(window,'GeoPostal','GB');

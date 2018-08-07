@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04575"]={"code":"04575","region":"ME","city":"West Boothbay Harbor","latitude":43.849,"longitude":-69.6434}}(window,'GeoPostal','US');

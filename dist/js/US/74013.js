@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74013"]={"code":"74013","region":"Oklahoma","city":"Broken Arrow","latitude":36.043425,"longitude":-95.791033}}(window,'GeoPostal','US');

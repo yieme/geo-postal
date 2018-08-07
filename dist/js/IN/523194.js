@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["523194"]={"code":"523194","region":"Andhra Pradesh","city":"Markapur","latitude":15.73333,"longitude":79.28333}}(window,'GeoPostal','IN');

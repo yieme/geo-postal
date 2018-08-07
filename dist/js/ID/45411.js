@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45411"]={"code":"45411","region":"Jawa Barat","city":"Majalengka","latitude":-6.83611,"longitude":108.22778}}(window,'GeoPostal','ID');

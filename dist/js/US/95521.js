@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95521"]={"code":"95521","region":"California","city":"Arcata","latitude":40.92876,"longitude":-124.06008}}(window,'GeoPostal','US');

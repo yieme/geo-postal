@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-132"]={"code":"17-132","region":"Podlaskie","city":"Wyszki","latitude":52.84129,"longitude":22.98119}}(window,'GeoPostal','PL');

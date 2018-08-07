@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["IO"]={id:'IO',country:'British Indian Ocean Territory', postal:{'':{code:'',region:'British Indian Ocean Territory',city:'Diego Garcia',latitude:-7.313333,longitude:72.411111}}};

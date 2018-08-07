@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW9 7LY"]={"code":"CW9 7LY","region":"England","city":"Cromwell","latitude":53.14631,"longitude":-0.80764}}(window,'GeoPostal','GB');

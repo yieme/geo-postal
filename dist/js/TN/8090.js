@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8090"]={"code":"8090","region":"Nabeul","city":"Qulaybiyah","latitude":36.84757,"longitude":11.09386}}(window,'GeoPostal','TN');

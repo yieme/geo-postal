@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE11 4QH"]={"code":"PE11 4QH","region":"England","city":"Quadring","latitude":52.88239,"longitude":-0.18316}}(window,'GeoPostal','GB');

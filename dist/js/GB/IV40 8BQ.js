@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8BQ"]={"code":"IV40 8BQ","region":"Scotland","city":"Kyle of Lochalsh","latitude":57.28387,"longitude":-5.71117}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 4LB"]={"code":"BA3 4LB","region":"England","city":"Chilcompton","latitude":51.26391,"longitude":-2.50502}}(window,'GeoPostal','GB');

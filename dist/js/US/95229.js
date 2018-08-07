@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95229"]={"code":"95229","region":"California","city":"Murphys","latitude":38.13742,"longitude":-120.45964}}(window,'GeoPostal','US');

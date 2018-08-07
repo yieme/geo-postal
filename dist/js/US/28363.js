@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28363"]={"code":"28363","region":"North Carolina","city":"Marston","latitude":34.992923,"longitude":-79.620368}}(window,'GeoPostal','US');

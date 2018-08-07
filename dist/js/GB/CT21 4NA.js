@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT21 4NA"]={"code":"CT21 4NA","region":"England","city":"West Hythe","latitude":51.06589,"longitude":1.02877}}(window,'GeoPostal','GB');

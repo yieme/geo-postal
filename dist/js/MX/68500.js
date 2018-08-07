@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68500"]={"code":"68500","region":"Puebla","city":"Huautla de Jimenez","latitude":18.1315,"longitude":-96.84088}}(window,'GeoPostal','MX');

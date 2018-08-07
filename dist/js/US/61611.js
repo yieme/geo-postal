@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61611"]={"code":"61611","region":"Illinois","city":"East Peoria","latitude":40.6616,"longitude":-89.553742}}(window,'GeoPostal','US');

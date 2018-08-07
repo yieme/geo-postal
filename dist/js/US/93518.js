@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93518"]={"code":"93518","region":"CA","city":"Caliente","latitude":35.3701,"longitude":-118.4612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45675"]={"code":"45675","region":"Ohio","city":"Rock Camp","latitude":38.521092,"longitude":-82.564147}}(window,'GeoPostal','US');

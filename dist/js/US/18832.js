@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18832"]={"code":"18832","region":"Pennsylvania","city":"Monroeton","latitude":41.71278,"longitude":-76.47528}}(window,'GeoPostal','US');

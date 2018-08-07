@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73250"]={"code":"73250","region":"Auvergne-Rhone-Alpes","city":"Saint-Pierre-d'Albigny","latitude":45.5706,"longitude":6.1561}}(window,'GeoPostal','FR');

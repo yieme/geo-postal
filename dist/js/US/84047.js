@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84047"]={"code":"84047","region":"Utah","city":"Midvale","latitude":40.61106,"longitude":-111.89994}}(window,'GeoPostal','US');

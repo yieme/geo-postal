@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8010"]={"code":"8010","region":"Nabeul","city":"Manzil Bu Zalafah","latitude":36.68312,"longitude":10.58431}}(window,'GeoPostal','TN');

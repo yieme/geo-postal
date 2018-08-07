@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4878"]={"code":"4878","region":"Lemesos","city":"Pelendria","latitude":34.9,"longitude":32.96667}}(window,'GeoPostal','CY');

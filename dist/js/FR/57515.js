@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57515"]={"code":"57515","region":"Grand-Est","city":"Alsting","latitude":49.18152,"longitude":6.99397}}(window,'GeoPostal','FR');

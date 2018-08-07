@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18800"]={"code":"18800","region":"Centre-Val de Loire","city":"Baugy","latitude":47.08181,"longitude":2.72848}}(window,'GeoPostal','FR');

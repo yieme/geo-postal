@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15330"]={"code":"15330","region":"PA","city":"Eighty Four","latitude":40.1868,"longitude":-80.0627}}(window,'GeoPostal','US');

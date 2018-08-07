@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64728"]={"code":"64728","region":"Missouri","city":"Bronaugh","latitude":37.692498,"longitude":-94.465884}}(window,'GeoPostal','US');

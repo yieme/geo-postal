@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34560"]={"code":"34560","region":"Hessen","city":"Fritzlar","latitude":51.13181,"longitude":9.27557}}(window,'GeoPostal','DE');

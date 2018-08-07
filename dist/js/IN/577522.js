@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577522"]={"code":"577522","region":"Karnataka","city":"Challakere","latitude":14.31667,"longitude":76.65}}(window,'GeoPostal','IN');

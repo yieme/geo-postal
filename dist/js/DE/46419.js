@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46419"]={"code":"46419","region":"Nordrhein-Westfalen","city":"Anholt","latitude":51.85111,"longitude":6.42488}}(window,'GeoPostal','DE');

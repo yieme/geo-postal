@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95478"]={"code":"95478","region":"Bayern","city":"Fortschau","latitude":49.86447,"longitude":11.89374}}(window,'GeoPostal','DE');

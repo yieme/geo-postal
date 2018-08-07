@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54469"]={"code":"54469","region":"Wisconsin","city":"Port Edwards","latitude":44.349012,"longitude":-89.865316}}(window,'GeoPostal','US');

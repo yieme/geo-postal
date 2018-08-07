@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8406"]={"code":"8406","region":"Zurich","city":"Winterthur","latitude":47.5,"longitude":8.75}}(window,'GeoPostal','CH');

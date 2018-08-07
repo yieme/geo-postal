@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184030"]={"code":"184030","region":"Murmanskaya oblast'","city":"Kandalaksha","latitude":67.162,"longitude":32.41229}}(window,'GeoPostal','RU');

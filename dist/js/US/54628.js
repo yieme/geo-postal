@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54628"]={"code":"54628","region":"Wisconsin","city":"Ferryville","latitude":43.34167,"longitude":-91.08389}}(window,'GeoPostal','US');

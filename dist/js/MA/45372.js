@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45372"]={"code":"45372","region":"Souss-Massa-Draa","city":"Skoura","latitude":31.06262,"longitude":-6.5525}}(window,'GeoPostal','MA');

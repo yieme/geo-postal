@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40120"]={"code":"40120","region":"Khon Kaen","city":"Phon","latitude":15.816,"longitude":102.59981}}(window,'GeoPostal','TH');

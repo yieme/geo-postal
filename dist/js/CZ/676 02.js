@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676 02"]={"code":"676 02","region":"Kraj Vysocina","city":"Moravske Budejovice","latitude":49.05209,"longitude":15.80864}}(window,'GeoPostal','CZ');

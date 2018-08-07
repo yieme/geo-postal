@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97130"]={"code":"97130","region":"Guadeloupe","city":"Capesterre-Belle-Eau","latitude":16.04322,"longitude":-61.56596}}(window,'GeoPostal','GP');

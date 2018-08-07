@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56001"]={"code":"56001","region":"Mykolaivska oblast","city":"Kazanka","latitude":47.84625,"longitude":32.82177}}(window,'GeoPostal','UA');

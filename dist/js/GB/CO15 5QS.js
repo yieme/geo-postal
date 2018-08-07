@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO15 5QS"]={"code":"CO15 5QS","region":"England","city":"Little Holland","latitude":51.80628,"longitude":1.19382}}(window,'GeoPostal','GB');

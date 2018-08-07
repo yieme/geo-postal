@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21853"]={"code":"21853","region":"Maryland","city":"Princess Anne","latitude":38.19024,"longitude":-75.6948}}(window,'GeoPostal','US');

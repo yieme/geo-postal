@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19260"]={"code":"19260","region":"Mecklenburg-Vorpommern","city":"Banzin","latitude":53.40922,"longitude":10.91303}}(window,'GeoPostal','DE');

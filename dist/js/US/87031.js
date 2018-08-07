@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87031"]={"code":"87031","region":"New Mexico","city":"Los Lunas","latitude":34.783426,"longitude":-106.696536}}(window,'GeoPostal','US');

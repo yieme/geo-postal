@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3664"]={"code":"3664","region":"Niederosterreich","city":"Kirchschlag","latitude":48.38333,"longitude":15.21667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49699"]={"code":"49699","region":"Niedersachsen","city":"Marren","latitude":52.82226,"longitude":7.78176}}(window,'GeoPostal','DE');

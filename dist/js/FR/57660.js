@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57660"]={"code":"57660","region":"Grand-Est","city":"Lixing-les-Saint-Avold","latitude":49.0378,"longitude":6.7531}}(window,'GeoPostal','FR');

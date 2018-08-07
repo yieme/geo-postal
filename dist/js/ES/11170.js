@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11170"]={"code":"11170","region":"Andalucia","city":"Medina Sidonia","latitude":36.45695,"longitude":-5.92717}}(window,'GeoPostal','ES');

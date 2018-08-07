@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89011"]={"code":"89011","region":"Calabria","city":"Bagnara Calabra","latitude":38.28847,"longitude":15.8078}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 45"]={"code":"620 45","region":"Kentriki Makedonia","city":"Alistrati","latitude":41.06667,"longitude":23.95}}(window,'GeoPostal','GR');

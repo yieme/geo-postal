@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833201"]={"code":"833201","region":"Jharkhand","city":"Chaibasa","latitude":22.56667,"longitude":85.81667}}(window,'GeoPostal','IN');

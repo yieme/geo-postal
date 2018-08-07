@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21220"]={"code":"21220","region":"Maryland","city":"Middle River","latitude":39.34002,"longitude":-76.40748}}(window,'GeoPostal','US');

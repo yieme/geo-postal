@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39849"]={"code":"39849","region":"Cantabria","city":"Ampuero","latitude":43.34268,"longitude":-3.41667}}(window,'GeoPostal','ES');

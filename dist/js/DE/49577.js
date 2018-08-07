@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49577"]={"code":"49577","region":"Niedersachsen","city":"Bockraden","latitude":52.57874,"longitude":7.8033}}(window,'GeoPostal','DE');

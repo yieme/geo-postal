@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47439"]={"code":"47439","region":"IN","city":"Koleen","latitude":39.0371,"longitude":-86.9616}}(window,'GeoPostal','US');

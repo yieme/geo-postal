@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28220"]={"code":"28220","region":"Centre-Val de Loire","city":"Douy","latitude":48.0367,"longitude":1.2711}}(window,'GeoPostal','FR');

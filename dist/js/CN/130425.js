@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130425"]={"code":"130425","region":"Heilongjiang","city":"Wuchang","latitude":44.91428,"longitude":127.15001}}(window,'GeoPostal','CN');

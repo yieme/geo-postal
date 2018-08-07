@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8700"]={"code":"8700","region":"Yambol","city":"Elkhovo","latitude":42.16667,"longitude":26.56667}}(window,'GeoPostal','BG');

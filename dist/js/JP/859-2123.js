@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["859-2123"]={"code":"859-2123","region":"Nagasaki","city":"Minamishimabara","latitude":32.667,"longitude":130.3}}(window,'GeoPostal','JP');

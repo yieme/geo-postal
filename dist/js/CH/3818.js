@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3818"]={"code":"3818","region":"Bern","city":"Grindelwald","latitude":46.62396,"longitude":8.03601}}(window,'GeoPostal','CH');

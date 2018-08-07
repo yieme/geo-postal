@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3750"]={"code":"3750","region":"Vidin","city":"Dimovo","latitude":43.74167,"longitude":22.72694}}(window,'GeoPostal','BG');

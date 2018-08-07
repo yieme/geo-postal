@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["711102"]={"code":"711102","region":"West Bengal","city":"Jamuria","latitude":23.7,"longitude":87.08333}}(window,'GeoPostal','IN');

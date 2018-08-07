@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-455"]={"code":"08-455","region":"Mazowieckie","city":"Trojanow","latitude":51.69225,"longitude":21.81112}}(window,'GeoPostal','PL');

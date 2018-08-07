@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87939"]={"code":"87939","region":"NM","city":"Monticello","latitude":33.397,"longitude":-107.4509}}(window,'GeoPostal','US');

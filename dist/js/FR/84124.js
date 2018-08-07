@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84124"]={"code":"84124","region":"Provence-Alpes-Cote d'Azur","city":"Pertuis","latitude":43.69252,"longitude":5.50285}}(window,'GeoPostal','FR');

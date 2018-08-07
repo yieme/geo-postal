@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92355"]={"code":"92355","region":"Bayern","city":"Deusmauer","latitude":49.25369,"longitude":11.62233}}(window,'GeoPostal','DE');

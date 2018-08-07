@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20138"]={"code":"20138","region":"VA","city":"Calverton","latitude":38.6338,"longitude":-77.6869}}(window,'GeoPostal','US');

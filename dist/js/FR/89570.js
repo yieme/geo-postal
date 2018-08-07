@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89570"]={"code":"89570","region":"Bourgogne-Franche-Comte","city":"Neuvy-Sautour","latitude":48.0419,"longitude":3.79472}}(window,'GeoPostal','FR');

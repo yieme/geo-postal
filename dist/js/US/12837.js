@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12837"]={"code":"12837","region":"NY","city":"Hampton","latitude":43.5248,"longitude":-73.2518}}(window,'GeoPostal','US');

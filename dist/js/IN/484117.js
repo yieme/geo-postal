@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["484117"]={"code":"484117","region":"Madhya Pradesh","city":"Kotma","latitude":23.2,"longitude":81.96667}}(window,'GeoPostal','IN');

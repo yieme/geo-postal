@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140109"]={"code":"140109","region":"Moskovskaya oblast'","city":"Ramenskoye","latitude":55.56694,"longitude":38.23028}}(window,'GeoPostal','RU');

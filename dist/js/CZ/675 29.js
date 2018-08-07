@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 29"]={"code":"675 29","region":"Kraj Vysocina","city":"Knezice","latitude":49.27078,"longitude":15.67216}}(window,'GeoPostal','CZ');

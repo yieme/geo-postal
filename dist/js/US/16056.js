@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16056"]={"code":"16056","region":"Pennsylvania","city":"Saxonburg","latitude":40.75395,"longitude":-79.81005}}(window,'GeoPostal','US');

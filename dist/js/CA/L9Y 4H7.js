@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9Y 4H7"]={"code":"L9Y 4H7","region":"Ontario","city":"Collingwood","latitude":44.504892,"longitude":-80.235199}}(window,'GeoPostal','CA');

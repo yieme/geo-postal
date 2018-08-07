@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2230"]={"code":"2230","region":"Hedmark","city":"Skotterud","latitude":59.98281,"longitude":12.12825}}(window,'GeoPostal','NO');

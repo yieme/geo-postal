@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8Y 3E5"]={"code":"V8Y 3E5","region":"British Columbia","city":"Alta Lake","latitude":48.527108,"longitude":-123.382219}}(window,'GeoPostal','CA');

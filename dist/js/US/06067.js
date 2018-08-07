@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06067"]={"code":"06067","region":"Connecticut","city":"Rocky Hill","latitude":41.662287,"longitude":-72.668605}}(window,'GeoPostal','US');

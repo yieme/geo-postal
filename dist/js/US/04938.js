@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04938"]={"code":"04938","region":"Maine","city":"Farmington","latitude":44.67062,"longitude":-70.15117}}(window,'GeoPostal','US');

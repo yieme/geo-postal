@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02151"]={"code":"02151","region":"Hauts-de-France","city":"Sissonne","latitude":49.57107,"longitude":3.89369}}(window,'GeoPostal','FR');

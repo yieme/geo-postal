@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["767 01"]={"code":"767 01","region":"Zlinsky kraj","city":"Kromeriz","latitude":49.29785,"longitude":17.39312}}(window,'GeoPostal','CZ');

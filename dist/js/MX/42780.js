@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42780"]={"code":"42780","region":"Hidalgo","city":"Tlahuelilpan","latitude":20.13333,"longitude":-99.23333}}(window,'GeoPostal','MX');

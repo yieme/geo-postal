@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08006"]={"code":"08006","region":"Totonicapan","city":"Santa Maria Chiquimula","latitude":15.03028,"longitude":-91.32917}}(window,'GeoPostal','GT');

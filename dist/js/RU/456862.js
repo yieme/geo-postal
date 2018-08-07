@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456862"]={"code":"456862","region":"Chelyabinskaya oblast'","city":"Tayginka","latitude":55.6244,"longitude":60.5076}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2512"]={"code":"2512","region":"Komarom-Esztergom","city":"Dorog","latitude":47.72095,"longitude":18.7364}}(window,'GeoPostal','HU');

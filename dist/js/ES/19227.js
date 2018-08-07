@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19227"]={"code":"19227","region":"Castilla-La Mancha","city":"Humanes","latitude":40.82598,"longitude":-3.15257}}(window,'GeoPostal','ES');

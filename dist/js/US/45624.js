@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45624"]={"code":"45624","region":"OH","city":"Cynthiana","latitude":39.1737,"longitude":-83.3485}}(window,'GeoPostal','US');

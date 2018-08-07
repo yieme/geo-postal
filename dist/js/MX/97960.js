@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97960"]={"code":"97960","region":"Yucatan","city":"Tzucacab","latitude":20.06667,"longitude":-89.05}}(window,'GeoPostal','MX');

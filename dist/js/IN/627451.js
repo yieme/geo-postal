@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627451"]={"code":"627451","region":"Tamil Nadu","city":"Alangulam","latitude":8.86667,"longitude":77.5}}(window,'GeoPostal','IN');

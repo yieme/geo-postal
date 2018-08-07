@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58011"]={"code":"58011","region":"North Dakota","city":"Buffalo","latitude":46.934407,"longitude":-97.492561}}(window,'GeoPostal','US');

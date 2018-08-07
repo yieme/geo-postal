@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 20"]={"code":"570 20","region":"Kentriki Makedonia","city":"Gerakarou","latitude":40.62666,"longitude":23.21566}}(window,'GeoPostal','GR');

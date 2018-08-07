@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60939"]={"code":"60939","region":"Illinois","city":"Goodwine","latitude":40.56883,"longitude":-87.78489}}(window,'GeoPostal','US');

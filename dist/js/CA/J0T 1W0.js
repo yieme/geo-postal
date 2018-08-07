@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1W0"]={"code":"J0T 1W0","region":"Quebec","city":"L'Ascension","latitude":46.55,"longitude":-74.833}}(window,'GeoPostal','CA');

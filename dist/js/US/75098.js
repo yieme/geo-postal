@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75098"]={"code":"75098","region":"Texas","city":"Wylie","latitude":33.01512,"longitude":-96.53888}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30645"]={"code":"30645","region":"GA","city":"High Shoals","latitude":33.8013,"longitude":-83.5164}}(window,'GeoPostal','US');

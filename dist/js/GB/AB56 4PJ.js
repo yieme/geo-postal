@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 4PJ"]={"code":"AB56 4PJ","region":"Scotland","city":"Findochty","latitude":57.69735,"longitude":-2.90104}}(window,'GeoPostal','GB');

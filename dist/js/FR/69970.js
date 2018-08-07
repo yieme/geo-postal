@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69970"]={"code":"69970","region":"Auvergne-Rhone-Alpes","city":"Marennes","latitude":45.62054,"longitude":4.91551}}(window,'GeoPostal','FR');

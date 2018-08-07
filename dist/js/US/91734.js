@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91734"]={"code":"91734","region":"California","city":"El Monte","latitude":34.07352,"longitude":-118.03188}}(window,'GeoPostal','US');

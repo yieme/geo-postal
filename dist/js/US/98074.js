@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98074"]={"code":"98074","region":"Washington","city":"Sammamish","latitude":47.64177,"longitude":-122.0804}}(window,'GeoPostal','US');

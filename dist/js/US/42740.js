@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42740"]={"code":"42740","region":"KY","city":"Glendale","latitude":37.6034,"longitude":-85.8921}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37023"]={"code":"37023","region":"TN","city":"Big Rock","latitude":36.5716,"longitude":-87.7378}}(window,'GeoPostal','US');

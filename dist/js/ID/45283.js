@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45283"]={"code":"45283","region":"Jawa Barat","city":"Karangampel","latitude":-6.46222,"longitude":108.45194}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9405"]={"code":"9405","region":"Santa Cruz","city":"El Calafate","latitude":-50.34075,"longitude":-72.27682}}(window,'GeoPostal','AR');

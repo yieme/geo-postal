@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 8LD"]={"code":"NR12 8LD","region":"England","city":"Horning","latitude":52.70715,"longitude":1.46491}}(window,'GeoPostal','GB');

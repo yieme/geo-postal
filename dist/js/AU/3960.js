@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3960"]={"code":"3960","region":"Victoria","city":"Foster","latitude":-38.65275,"longitude":146.20073}}(window,'GeoPostal','AU');

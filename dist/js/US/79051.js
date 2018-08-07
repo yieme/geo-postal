@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79051"]={"code":"79051","region":"TX","city":"Kerrick","latitude":36.4956,"longitude":-102.2427}}(window,'GeoPostal','US');

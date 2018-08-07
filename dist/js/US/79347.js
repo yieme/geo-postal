@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79347"]={"code":"79347","region":"Texas","city":"Muleshoe","latitude":34.22647,"longitude":-102.72383}}(window,'GeoPostal','US');

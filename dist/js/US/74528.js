@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74528"]={"code":"74528","region":"OK","city":"Blanco","latitude":34.7276,"longitude":-95.7283}}(window,'GeoPostal','US');

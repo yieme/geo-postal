@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01022"]={"code":"01022","region":"Lazio","city":"Bagnoregio","latitude":42.62903,"longitude":12.08836}}(window,'GeoPostal','IT');

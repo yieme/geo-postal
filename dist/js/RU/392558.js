@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["392558"]={"code":"392558","region":"Tambovskaya oblast'","city":"Komsomolets","latitude":52.7686,"longitude":41.28682}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24014"]={"code":"24014","region":"Lombardia","city":"Piazza Brembana","latitude":45.94669,"longitude":9.67405}}(window,'GeoPostal','IT');

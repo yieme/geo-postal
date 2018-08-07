@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67880"]={"code":"67880","region":"Kansas","city":"Ulysses","latitude":37.582124,"longitude":-101.35844}}(window,'GeoPostal','US');

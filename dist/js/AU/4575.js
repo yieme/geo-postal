@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4575"]={"code":"4575","region":"Queensland","city":"Birtinya","latitude":-26.74322,"longitude":153.11913}}(window,'GeoPostal','AU');

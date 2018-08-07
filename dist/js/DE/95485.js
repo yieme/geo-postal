@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95485"]={"code":"95485","region":"Bayern","city":"Grenzhammer","latitude":50.00134,"longitude":11.79086}}(window,'GeoPostal','DE');

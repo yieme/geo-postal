@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["821 01"]={"code":"821 01","region":"Kriti","city":"Skalanion","latitude":35.28333,"longitude":25.18333}}(window,'GeoPostal','GR');

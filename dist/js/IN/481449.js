@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["481449"]={"code":"481449","region":"Maharashtra","city":"Tumsar","latitude":21.38333,"longitude":79.73333}}(window,'GeoPostal','IN');

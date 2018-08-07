@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46072"]={"code":"46072","region":"Indiana","city":"Tipton","latitude":40.28832,"longitude":-86.045492}}(window,'GeoPostal','US');

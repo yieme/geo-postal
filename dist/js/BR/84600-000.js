@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84600-000"]={"code":"84600-000","region":"Parana","city":"Uniao da Vitoria","latitude":-26.23,"longitude":-51.08639}}(window,'GeoPostal','BR');

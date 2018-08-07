@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86038"]={"code":"86038","region":"AZ","city":"Mormon Lake","latitude":34.9083,"longitude":-111.463}}(window,'GeoPostal','US');

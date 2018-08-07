@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34251"]={"code":"34251","region":"Florida","city":"Myakka City","latitude":27.336318,"longitude":-82.195885}}(window,'GeoPostal','US');

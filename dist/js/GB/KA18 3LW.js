@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 3LW"]={"code":"KA18 3LW","region":"Scotland","city":"Cronberry","latitude":55.47667,"longitude":-4.21169}}(window,'GeoPostal','GB');

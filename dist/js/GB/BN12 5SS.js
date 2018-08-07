@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN12 5SS"]={"code":"BN12 5SS","region":"England","city":"Ferring","latitude":50.80333,"longitude":-0.43817}}(window,'GeoPostal','GB');

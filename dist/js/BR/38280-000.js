@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38280-000"]={"code":"38280-000","region":"Minas Gerais","city":"Iturama","latitude":-19.72806,"longitude":-50.19556}}(window,'GeoPostal','BR');

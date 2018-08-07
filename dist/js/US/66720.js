@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66720"]={"code":"66720","region":"Kansas","city":"Chanute","latitude":37.67921,"longitude":-95.4572}}(window,'GeoPostal','US');

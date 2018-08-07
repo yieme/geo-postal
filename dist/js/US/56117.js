@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56117"]={"code":"56117","region":"MN","city":"Bigelow","latitude":43.5336,"longitude":-95.6515}}(window,'GeoPostal','US');

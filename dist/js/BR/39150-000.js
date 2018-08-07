@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39150-000"]={"code":"39150-000","region":"Minas Gerais","city":"Serro","latitude":-18.60472,"longitude":-43.37944}}(window,'GeoPostal','BR');

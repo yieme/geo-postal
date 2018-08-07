@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2TG"]={"code":"KW17 2TG","region":"Scotland","city":"Saint Margarets Hope","latitude":58.81667,"longitude":-2.95}}(window,'GeoPostal','GB');

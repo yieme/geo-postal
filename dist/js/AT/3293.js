@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3293"]={"code":"3293","region":"Niederosterreich","city":"Lunz am See","latitude":47.8612,"longitude":15.02998}}(window,'GeoPostal','AT');

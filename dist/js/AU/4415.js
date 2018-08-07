@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4415"]={"code":"4415","region":"Queensland","city":"Miles","latitude":-26.65836,"longitude":150.18822}}(window,'GeoPostal','AU');

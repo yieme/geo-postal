@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75123"]={"code":"75123","region":"Texas","city":"DeSoto","latitude":32.58678,"longitude":-96.85662}}(window,'GeoPostal','US');

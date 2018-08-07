@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22130"]={"code":"22130","region":"San Martin","city":"Lamas","latitude":-6.41667,"longitude":-76.53333}}(window,'GeoPostal','PE');

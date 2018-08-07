@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74676"]={"code":"74676","region":"Baden-Wurttemberg","city":"Niedernhall","latitude":49.29516,"longitude":9.61604}}(window,'GeoPostal','DE');

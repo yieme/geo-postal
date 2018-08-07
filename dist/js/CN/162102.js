@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162102"]={"code":"162102","region":"Nei Mongol","city":"Naji","latitude":48.1,"longitude":123.48333}}(window,'GeoPostal','CN');

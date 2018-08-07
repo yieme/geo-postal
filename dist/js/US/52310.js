@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52310"]={"code":"52310","region":"Iowa","city":"Monticello","latitude":42.23834,"longitude":-91.18709}}(window,'GeoPostal','US');

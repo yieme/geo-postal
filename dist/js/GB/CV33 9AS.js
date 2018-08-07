@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV33 9AS"]={"code":"CV33 9AS","region":"England","city":"Offchurch","latitude":52.28748,"longitude":-1.47603}}(window,'GeoPostal','GB');

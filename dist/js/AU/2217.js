@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2217"]={"code":"2217","region":"New South Wales","city":"Ramsgate","latitude":-33.98333,"longitude":151.15}}(window,'GeoPostal','AU');

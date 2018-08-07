@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16800-000"]={"code":"16800-000","region":"Sao Paulo","city":"Mirandopolis","latitude":-21.13361,"longitude":-51.10167}}(window,'GeoPostal','BR');

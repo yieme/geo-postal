@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06130"]={"code":"06130","region":"Extremadura","city":"Valverde de Leganes","latitude":38.67059,"longitude":-6.98036}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16055"]={"code":"16055","region":"Pennsylvania","city":"Sarver","latitude":40.73139,"longitude":-79.74583}}(window,'GeoPostal','US');

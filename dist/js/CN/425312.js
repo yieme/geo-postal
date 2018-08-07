@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425312"]={"code":"425312","region":"Hunan","city":"Lefutang","latitude":25.64833,"longitude":111.50333}}(window,'GeoPostal','CN');

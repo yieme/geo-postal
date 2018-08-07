@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68721-000"]={"code":"68721-000","region":"Para","city":"Salinopolis","latitude":-0.61361,"longitude":-47.35611}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["795 01"]={"code":"795 01","region":"Moravskoslezsky kraj","city":"Rymarov","latitude":49.93183,"longitude":17.27177}}(window,'GeoPostal','CZ');

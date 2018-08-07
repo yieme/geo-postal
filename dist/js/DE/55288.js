@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55288"]={"code":"55288","region":"Rheinland-Pfalz","city":"Schornsheim","latitude":49.84583,"longitude":8.175}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58853"]={"code":"58853","region":"North Dakota","city":"Trenton","latitude":48.04608,"longitude":-103.9008}}(window,'GeoPostal','US');

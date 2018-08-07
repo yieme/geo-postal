@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-314"]={"code":"83-314","region":"Pomorskie","city":"Somonino","latitude":54.27555,"longitude":18.19885}}(window,'GeoPostal','PL');

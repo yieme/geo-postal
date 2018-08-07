@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03253"]={"code":"03253","region":"NH","city":"Meredith","latitude":43.6311,"longitude":-71.4997}}(window,'GeoPostal','US');

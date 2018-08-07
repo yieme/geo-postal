@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72005"]={"code":"72005","region":"Arkansas","city":"Amagon","latitude":35.553276,"longitude":-91.079498}}(window,'GeoPostal','US');

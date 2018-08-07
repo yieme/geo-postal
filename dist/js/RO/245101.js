@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245101"]={"code":"245101","region":"Valcea","city":"Babeni","latitude":44.96667,"longitude":24.23333}}(window,'GeoPostal','RO');

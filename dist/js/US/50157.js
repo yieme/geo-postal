@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50157"]={"code":"50157","region":"IA","city":"Malcom","latitude":41.7695,"longitude":-92.5354}}(window,'GeoPostal','US');

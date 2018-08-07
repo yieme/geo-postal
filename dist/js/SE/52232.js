@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52232"]={"code":"52232","region":"Vastra Gotalands lan","city":"Tidaholm","latitude":58.18035,"longitude":13.95824}}(window,'GeoPostal','SE');

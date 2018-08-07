@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4063"]={"code":"4063","region":"Hajdu-Bihar","city":"Balmazujvaros","latitude":47.61667,"longitude":21.35}}(window,'GeoPostal','HU');

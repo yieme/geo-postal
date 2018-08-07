@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-143"]={"code":"77-143","region":"Pomorskie","city":"Studzienice","latitude":54.09262,"longitude":17.57581}}(window,'GeoPostal','PL');

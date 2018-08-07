@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1000"]={"code":"1000","region":"Brussels Hoofdstedelijk Gewest","city":"Brussels","latitude":50.85045,"longitude":4.34878}}(window,'GeoPostal','BE');

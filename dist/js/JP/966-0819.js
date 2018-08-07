@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["966-0819"]={"code":"966-0819","region":"Fukushima","city":"Kitakata","latitude":37.65,"longitude":139.867}}(window,'GeoPostal','JP');

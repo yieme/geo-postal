@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53945"]={"code":"53945","region":"Nordrhein-Westfalen","city":"Reetz","latitude":50.42562,"longitude":6.69367}}(window,'GeoPostal','DE');

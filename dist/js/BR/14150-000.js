@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14150-000"]={"code":"14150-000","region":"Sao Paulo","city":"Serrana","latitude":-21.21139,"longitude":-47.59556}}(window,'GeoPostal','BR');

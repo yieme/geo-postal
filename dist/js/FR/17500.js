@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17500"]={"code":"17500","region":"Nouvelle-Aquitaine","city":"Saint-Germain-de-Lusignan","latitude":45.45011,"longitude":-0.46147}}(window,'GeoPostal','FR');

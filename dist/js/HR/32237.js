@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32237"]={"code":"32237","region":"Vukovarsko-srijemska zupanija","city":"Lovas","latitude":45.22639,"longitude":19.17111}}(window,'GeoPostal','HR');

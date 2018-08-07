@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63117"]={"code":"63117","region":"Auvergne-Rhone-Alpes","city":"Chauriat","latitude":45.75152,"longitude":3.27946}}(window,'GeoPostal','FR');

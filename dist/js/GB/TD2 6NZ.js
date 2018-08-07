@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD2 6NZ"]={"code":"TD2 6NZ","region":"Scotland","city":"Oxton","latitude":55.76667,"longitude":-2.8}}(window,'GeoPostal','GB');

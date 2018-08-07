@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140413"]={"code":"140413","region":"Punjab","city":"Basi","latitude":30.5888,"longitude":76.8456}}(window,'GeoPostal','IN');

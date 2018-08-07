@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78190-000"]={"code":"78190-000","region":"Mato Grosso","city":"Lucas","latitude":-16.33333,"longitude":-55.93333}}(window,'GeoPostal','BR');

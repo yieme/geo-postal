@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32444"]={"code":"32444","region":"FL","city":"Lynn Haven","latitude":30.2362,"longitude":-85.6467}}(window,'GeoPostal','US');

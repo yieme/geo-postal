@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22422"]={"code":"22422","region":"Aragon","city":"Fonz","latitude":42.01015,"longitude":0.25878}}(window,'GeoPostal','ES');

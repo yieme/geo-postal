@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42031"]={"code":"42031","region":"Kentucky","city":"Clinton","latitude":36.66728,"longitude":-88.9934}}(window,'GeoPostal','US');

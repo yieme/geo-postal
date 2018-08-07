@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93110"]={"code":"93110","region":"Phatthalung","city":"Khuan Khanun","latitude":7.7347,"longitude":100.00931}}(window,'GeoPostal','TH');

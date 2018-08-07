@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52658"]={"code":"52658","region":"IA","city":"Wever","latitude":40.7067,"longitude":-91.2268}}(window,'GeoPostal','US');

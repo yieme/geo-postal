@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-160"]={"code":"33-160","region":"Malopolskie","city":"Ryglice","latitude":49.87887,"longitude":21.13748}}(window,'GeoPostal','PL');

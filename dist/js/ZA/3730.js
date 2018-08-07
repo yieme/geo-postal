@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3730"]={"code":"3730","region":"Kwazulu-Natal","city":"Mpumalanga","latitude":-29.81292,"longitude":30.63646}}(window,'GeoPostal','ZA');

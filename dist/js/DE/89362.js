@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89362"]={"code":"89362","region":"Bayern","city":"Schnuttenbach","latitude":48.48089,"longitude":10.38963}}(window,'GeoPostal','DE');

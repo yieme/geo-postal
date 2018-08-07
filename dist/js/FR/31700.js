@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31700"]={"code":"31700","region":"Occitanie","city":"Daux","latitude":43.69506,"longitude":1.26892}}(window,'GeoPostal','FR');

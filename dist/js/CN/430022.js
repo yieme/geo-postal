@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430022"]={"code":"430022","region":"Hubei","city":"Wuhan","latitude":30.58333,"longitude":114.26667}}(window,'GeoPostal','CN');

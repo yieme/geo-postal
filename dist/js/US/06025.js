@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06025"]={"code":"06025","region":"CT","city":"East Glastonbury","latitude":41.6889,"longitude":-72.5345}}(window,'GeoPostal','US');

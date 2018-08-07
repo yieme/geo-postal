@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43152"]={"code":"43152","region":"OH","city":"South Bloomingville","latitude":39.4174,"longitude":-82.5923}}(window,'GeoPostal','US');

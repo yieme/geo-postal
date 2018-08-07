@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87300-000"]={"code":"87300-000","region":"Parana","city":"Campo Mourao","latitude":-24.04556,"longitude":-52.38306}}(window,'GeoPostal','BR');

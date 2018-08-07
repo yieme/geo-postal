@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71449"]={"code":"71449","region":"Louisiana","city":"Many","latitude":31.565734,"longitude":-93.480613}}(window,'GeoPostal','US');

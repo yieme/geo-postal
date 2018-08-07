@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4303"]={"code":"4303","region":"Zeeland","city":"Zierikzee","latitude":51.649722,"longitude":3.916389}}(window,'GeoPostal','NL');

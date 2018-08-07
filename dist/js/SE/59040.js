@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59040"]={"code":"59040","region":"Ostergotlands lan","city":"Kisa","latitude":57.98781,"longitude":15.63303}}(window,'GeoPostal','SE');

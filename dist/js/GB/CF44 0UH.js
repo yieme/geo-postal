@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 0UH"]={"code":"CF44 0UH","region":"Wales","city":"Llwydcoed","latitude":51.73139,"longitude":-3.46011}}(window,'GeoPostal','GB');

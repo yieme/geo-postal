@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15839"]={"code":"15839","region":"Galicia","city":"Negreira","latitude":42.90402,"longitude":-8.74273}}(window,'GeoPostal','ES');

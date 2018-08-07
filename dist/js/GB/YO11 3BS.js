@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO11 3BS"]={"code":"YO11 3BS","region":"England","city":"Scarborough","latitude":54.27966,"longitude":-0.40443}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22326"]={"code":"22326","region":"Souss-Massa-Draa","city":"Sidi Ifni","latitude":29.37975,"longitude":-10.17299}}(window,'GeoPostal','MA');

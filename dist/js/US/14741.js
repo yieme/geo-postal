@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14741"]={"code":"14741","region":"New York","city":"Great Valley","latitude":42.21258,"longitude":-78.5907}}(window,'GeoPostal','US');

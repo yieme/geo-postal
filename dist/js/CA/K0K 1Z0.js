@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1Z0"]={"code":"K0K 1Z0","region":"Ontario","city":"Enterprise","latitude":44.46682,"longitude":-76.86613}}(window,'GeoPostal','CA');

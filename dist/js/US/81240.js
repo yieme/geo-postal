@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81240"]={"code":"81240","region":"Colorado","city":"Penrose","latitude":38.432612,"longitude":-105.006953}}(window,'GeoPostal','US');

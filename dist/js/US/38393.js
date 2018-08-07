@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38393"]={"code":"38393","region":"TN","city":"Chewalla","latitude":34.9969,"longitude":-88.6456}}(window,'GeoPostal','US');

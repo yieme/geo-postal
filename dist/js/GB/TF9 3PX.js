@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 3PX"]={"code":"TF9 3PX","region":"England","city":"Ternhill","latitude":52.88571,"longitude":-2.54308}}(window,'GeoPostal','GB');

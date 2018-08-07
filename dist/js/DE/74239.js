@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74239"]={"code":"74239","region":"Baden-Wurttemberg","city":"Kochersteinsfeld","latitude":49.24317,"longitude":9.40422}}(window,'GeoPostal','DE');

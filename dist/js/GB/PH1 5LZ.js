@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 5LZ"]={"code":"PH1 5LZ","region":"Scotland","city":"Kinross","latitude":56.20466,"longitude":-3.42138}}(window,'GeoPostal','GB');

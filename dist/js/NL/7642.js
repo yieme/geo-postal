@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7642"]={"code":"7642","region":"Overijssel","city":"Wierden","latitude":52.35917,"longitude":6.59306}}(window,'GeoPostal','NL');

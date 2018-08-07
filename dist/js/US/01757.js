@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01757"]={"code":"01757","region":"Massachusetts","city":"Milford","latitude":42.13982,"longitude":-71.51617}}(window,'GeoPostal','US');

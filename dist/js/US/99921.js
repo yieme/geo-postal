@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99921"]={"code":"99921","region":"Alaska","city":"Craig","latitude":55.47639,"longitude":-133.14833}}(window,'GeoPostal','US');

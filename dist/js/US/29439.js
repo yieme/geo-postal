@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29439"]={"code":"29439","region":"SC","city":"Folly Beach","latitude":32.663,"longitude":-79.927}}(window,'GeoPostal','US');

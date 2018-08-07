@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58053"]={"code":"58053","region":"ND","city":"Lidgerwood","latitude":46.0641,"longitude":-97.1799}}(window,'GeoPostal','US');

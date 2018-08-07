@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5340"]={"code":"5340","region":"South Australia","city":"Paringa","latitude":-34.17644,"longitude":140.78579}}(window,'GeoPostal','AU');

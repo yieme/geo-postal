@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52776"]={"code":"52776","region":"Iowa","city":"West Liberty","latitude":41.572697,"longitude":-91.26132}}(window,'GeoPostal','US');

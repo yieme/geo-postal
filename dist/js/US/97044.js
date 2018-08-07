@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97044"]={"code":"97044","region":"Oregon","city":"Odell","latitude":45.625257,"longitude":-121.540314}}(window,'GeoPostal','US');

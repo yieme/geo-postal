@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58746"]={"code":"58746","region":"North Dakota","city":"Kenmare","latitude":48.67475,"longitude":-102.08266}}(window,'GeoPostal','US');

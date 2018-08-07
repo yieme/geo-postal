@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157900"]={"code":"157900","region":"Kostromskaya oblast'","city":"Ostrovskoye","latitude":57.80574,"longitude":42.24332}}(window,'GeoPostal','RU');

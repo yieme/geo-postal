@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96035"]={"code":"96035","region":"California","city":"Gerber","latitude":40.05627,"longitude":-122.15027}}(window,'GeoPostal','US');

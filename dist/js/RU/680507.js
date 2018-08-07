@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680507"]={"code":"680507","region":"Moskva","city":"Nekrasovka","latitude":55.69328,"longitude":37.91148}}(window,'GeoPostal','RU');

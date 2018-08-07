@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70260"]={"code":"70260","region":"Republika Srpska","city":"Podbrdo","latitude":44.44083,"longitude":17.01389}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72651"]={"code":"72651","region":"Arkansas","city":"Midway","latitude":36.38534,"longitude":-92.46183}}(window,'GeoPostal','US');

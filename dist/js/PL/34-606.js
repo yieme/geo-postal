@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-606"]={"code":"34-606","region":"Malopolskie","city":"Lukowica","latitude":49.6111,"longitude":20.48289}}(window,'GeoPostal','PL');

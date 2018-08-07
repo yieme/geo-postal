@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45888"]={"code":"45888","region":"OH","city":"Uniopolis","latitude":40.6023,"longitude":-84.086}}(window,'GeoPostal','US');

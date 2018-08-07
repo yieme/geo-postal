@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30213"]={"code":"30213","region":"Georgia","city":"Fairburn","latitude":33.576291,"longitude":-84.594593}}(window,'GeoPostal','US');

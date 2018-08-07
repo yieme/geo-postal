@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5881"]={"code":"5881","region":"San Luis","city":"Merlo","latitude":-32.34288,"longitude":-65.01396}}(window,'GeoPostal','AR');

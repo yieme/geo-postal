@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56731"]={"code":"56731","region":"MN","city":"Humboldt","latitude":48.9211,"longitude":-97.0934}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6479"]={"code":"6479","region":"Western Australia","city":"Mukinbudin","latitude":-30.91414,"longitude":118.20785}}(window,'GeoPostal','AU');

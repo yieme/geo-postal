@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0V 2B0"]={"code":"P0V 2B0","region":"Ontario","city":"McKenzie Island","latitude":51.08336,"longitude":-93.83374}}(window,'GeoPostal','CA');

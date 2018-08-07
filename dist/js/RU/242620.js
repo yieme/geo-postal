@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242620"]={"code":"242620","region":"Bryanskaya oblast'","city":"Lyubokhna","latitude":53.50332,"longitude":34.38847}}(window,'GeoPostal','RU');

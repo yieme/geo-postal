@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCAN18"]={"code":"JMCAN18","region":"Saint Ann","city":"Moneague","latitude":18.27556,"longitude":-77.11177}}(window,'GeoPostal','JM');

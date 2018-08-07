@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28960-000"]={"code":"28960-000","region":"Rio de Janeiro","city":"Araruama","latitude":-22.87278,"longitude":-42.34306}}(window,'GeoPostal','BR');

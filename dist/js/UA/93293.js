@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93293"]={"code":"93293","region":"Luhanska oblast","city":"Gorskoye","latitude":48.73468,"longitude":38.49541}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-130"]={"code":"11-130","region":"Warminsko-mazurskie","city":"Orneta","latitude":54.11483,"longitude":20.13328}}(window,'GeoPostal','PL');

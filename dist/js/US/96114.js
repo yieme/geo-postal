@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96114"]={"code":"96114","region":"CA","city":"Janesville","latitude":40.2963,"longitude":-120.5098}}(window,'GeoPostal','US');

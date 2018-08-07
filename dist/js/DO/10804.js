@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10804"]={"code":"10804","region":"La Vega","city":"Jarabacoa","latitude":19.12178,"longitude":-70.64218}}(window,'GeoPostal','DO');

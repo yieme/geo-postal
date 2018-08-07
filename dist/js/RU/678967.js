@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678967"]={"code":"678967","region":"Saha, Respublika","city":"Neryungri","latitude":56.6709,"longitude":124.6491}}(window,'GeoPostal','RU');

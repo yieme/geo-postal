@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73470"]={"code":"73470","region":"Auvergne-Rhone-Alpes","city":"Novalaise","latitude":45.59693,"longitude":5.76591}}(window,'GeoPostal','FR');

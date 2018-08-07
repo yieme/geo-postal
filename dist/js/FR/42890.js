@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42890"]={"code":"42890","region":"Auvergne-Rhone-Alpes","city":"Sail-sous-Couzan","latitude":45.73482,"longitude":3.96898}}(window,'GeoPostal','FR');

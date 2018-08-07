@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05848"]={"code":"05848","region":"VT","city":"Lower Waterford","latitude":44.3821,"longitude":-71.9195}}(window,'GeoPostal','US');

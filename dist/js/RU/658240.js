@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658240"]={"code":"658240","region":"Altayskiy kray","city":"Rubtsovsk","latitude":51.5,"longitude":81.25}}(window,'GeoPostal','RU');

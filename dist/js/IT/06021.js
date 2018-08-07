@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06021"]={"code":"06021","region":"Umbria","city":"Costacciaro","latitude":43.36075,"longitude":12.71216}}(window,'GeoPostal','IT');

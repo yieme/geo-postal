@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH52 6NH"]={"code":"EH52 6NH","region":"Scotland","city":"Broxburn","latitude":55.93415,"longitude":-3.47133}}(window,'GeoPostal','GB');

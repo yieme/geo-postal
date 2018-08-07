@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68165"]={"code":"68165","region":"Oaxaca","city":"Salina Cruz","latitude":16.16667,"longitude":-95.2}}(window,'GeoPostal','MX');

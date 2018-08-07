@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88400"]={"code":"88400","region":"Kainuu","city":"Ristijarvi","latitude":64.5,"longitude":28.21667}}(window,'GeoPostal','FI');

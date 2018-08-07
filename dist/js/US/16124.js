@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16124"]={"code":"16124","region":"PA","city":"Fredonia","latitude":41.3241,"longitude":-80.2699}}(window,'GeoPostal','US');

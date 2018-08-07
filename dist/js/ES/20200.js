@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20200"]={"code":"20200","region":"Pais Vasco","city":"Beasain","latitude":43.05017,"longitude":-2.20087}}(window,'GeoPostal','ES');

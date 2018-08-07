@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS26 2PQ"]={"code":"BS26 2PQ","region":"England","city":"Chapel Allerton","latitude":51.24861,"longitude":-2.84806}}(window,'GeoPostal','GB');

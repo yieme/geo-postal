@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG27 8BT"]={"code":"RG27 8BT","region":"England","city":"Winchfield","latitude":51.28592,"longitude":-0.91023}}(window,'GeoPostal','GB');

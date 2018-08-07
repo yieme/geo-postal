@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88422"]={"code":"88422","region":"NM","city":"Gladstone","latitude":36.3048,"longitude":-103.973}}(window,'GeoPostal','US');

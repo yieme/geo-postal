@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK13 5EY"]={"code":"SK13 5EY","region":"England","city":"Charlesworth","latitude":53.43289,"longitude":-1.99302}}(window,'GeoPostal','GB');

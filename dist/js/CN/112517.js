@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["112517"]={"code":"112517","region":"Liaoning","city":"Fujia","latitude":43.28374,"longitude":123.81126}}(window,'GeoPostal','CN');

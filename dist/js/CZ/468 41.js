@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 41"]={"code":"468 41","region":"Liberecky kraj","city":"Tanvald","latitude":50.73735,"longitude":15.30585}}(window,'GeoPostal','CZ');

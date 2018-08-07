@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47637"]={"code":"47637","region":"IN","city":"Tennyson","latitude":38.1232,"longitude":-87.1388}}(window,'GeoPostal','US');

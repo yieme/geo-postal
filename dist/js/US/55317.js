@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55317"]={"code":"55317","region":"Minnesota","city":"Chanhassen","latitude":44.86219,"longitude":-93.53079}}(window,'GeoPostal','US');

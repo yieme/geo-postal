@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54527"]={"code":"54527","region":"Wisconsin","city":"Glidden","latitude":46.134573,"longitude":-90.577337}}(window,'GeoPostal','US');

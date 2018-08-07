@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362000"]={"code":"362000","region":"Fujian","city":"Quanzhou","latitude":24.91389,"longitude":118.58583}}(window,'GeoPostal','CN');

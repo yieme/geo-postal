@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8490"]={"code":"8490","region":"Steiermark","city":"Bad Radkersburg","latitude":46.68806,"longitude":15.98806}}(window,'GeoPostal','AT');

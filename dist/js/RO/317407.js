@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317407"]={"code":"317407","region":"Calarasi","city":"Salcioara","latitude":44.53333,"longitude":26.88333}}(window,'GeoPostal','RO');

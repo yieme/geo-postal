@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02663"]={"code":"02663","region":"MA","city":"South Wellfleet","latitude":41.9182,"longitude":-69.9953}}(window,'GeoPostal','US');

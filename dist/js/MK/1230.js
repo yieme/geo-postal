@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1230"]={"code":"1230","region":"Gostivar","city":"Gostivar","latitude":41.79722,"longitude":20.90833}}(window,'GeoPostal','MK');

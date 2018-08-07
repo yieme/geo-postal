@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30610"]={"code":"30610","region":"Occitanie","city":"Sauve","latitude":43.9415,"longitude":3.94903}}(window,'GeoPostal','FR');

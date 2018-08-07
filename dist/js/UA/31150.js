@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31150"]={"code":"31150","region":"Khmelnytska oblast","city":"Starokostyantyniv","latitude":49.75764,"longitude":27.20342}}(window,'GeoPostal','UA');

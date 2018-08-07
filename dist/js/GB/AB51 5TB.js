@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 5TB"]={"code":"AB51 5TB","region":"Scotland","city":"Thainstone","latitude":57.25862,"longitude":-2.38163}}(window,'GeoPostal','GB');

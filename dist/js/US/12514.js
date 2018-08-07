@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12514"]={"code":"12514","region":"NY","city":"Clinton Corners","latitude":41.8693,"longitude":-73.7659}}(window,'GeoPostal','US');

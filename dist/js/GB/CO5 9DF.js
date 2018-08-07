@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO5 9DF"]={"code":"CO5 9DF","region":"England","city":"Kelvedon","latitude":51.84007,"longitude":0.7057}}(window,'GeoPostal','GB');

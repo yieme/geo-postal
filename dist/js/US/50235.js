@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50235"]={"code":"50235","region":"Iowa","city":"Rippey","latitude":41.933035,"longitude":-94.200599}}(window,'GeoPostal','US');

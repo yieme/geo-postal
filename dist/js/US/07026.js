@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07026"]={"code":"07026","region":"New Jersey","city":"Garfield","latitude":40.88149,"longitude":-74.1132}}(window,'GeoPostal','US');

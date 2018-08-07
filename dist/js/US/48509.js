@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48509"]={"code":"48509","region":"Michigan","city":"Burton","latitude":42.99947,"longitude":-83.61634}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93442"]={"code":"93442","region":"California","city":"Morro Bay","latitude":35.384011,"longitude":-120.84717}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60553"]={"code":"60553","region":"Illinois","city":"Steward","latitude":41.84861,"longitude":-89.02056}}(window,'GeoPostal','US');

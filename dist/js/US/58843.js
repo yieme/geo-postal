@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58843"]={"code":"58843","region":"North Dakota","city":"Epping","latitude":48.241378,"longitude":-103.345158}}(window,'GeoPostal','US');

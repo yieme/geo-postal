@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07078"]={"code":"07078","region":"New Jersey","city":"Short Hills","latitude":40.737159,"longitude":-74.328701}}(window,'GeoPostal','US');

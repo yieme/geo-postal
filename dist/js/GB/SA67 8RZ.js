@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA67 8RZ"]={"code":"SA67 8RZ","region":"Wales","city":"Templeton","latitude":51.77194,"longitude":-4.73778}}(window,'GeoPostal','GB');

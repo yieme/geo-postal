@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2740"]={"code":"2740","region":"Pest","city":"Abony","latitude":47.1899,"longitude":20.00476}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57450"]={"code":"57450","region":"Grand-Est","city":"Farebersviller","latitude":49.11996,"longitude":6.87201}}(window,'GeoPostal','FR');

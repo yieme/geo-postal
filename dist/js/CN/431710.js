@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431710"]={"code":"431710","region":"Hubei","city":"Tuoshi","latitude":30.72788,"longitude":112.82697}}(window,'GeoPostal','CN');

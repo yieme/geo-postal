@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45709"]={"code":"45709","region":"Centre-Val de Loire","city":"Villemandeur","latitude":47.98701,"longitude":2.71802}}(window,'GeoPostal','FR');

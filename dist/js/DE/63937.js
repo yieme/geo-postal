@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63937"]={"code":"63937","region":"Bayern","city":"Weckbach","latitude":49.67438,"longitude":9.17706}}(window,'GeoPostal','DE');

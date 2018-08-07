@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6987"]={"code":"6987","region":"Ticino","city":"Caslano","latitude":45.97153,"longitude":8.88261}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76456"]={"code":"76456","region":"Baden-Wurttemberg","city":"Kuppenheim","latitude":48.82794,"longitude":8.25417}}(window,'GeoPostal','DE');

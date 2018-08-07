@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735209"]={"code":"735209","region":"West Bengal","city":"Odlabari","latitude":26.83333,"longitude":88.61667}}(window,'GeoPostal','IN');

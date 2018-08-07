@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81220"]={"code":"81220","region":"Occitanie","city":"Saint-Paul-Cap-de-Joux","latitude":43.6479,"longitude":1.97559}}(window,'GeoPostal','FR');

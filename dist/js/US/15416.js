@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15416"]={"code":"15416","region":"Pennsylvania","city":"Brownfield","latitude":39.85727,"longitude":-79.71218}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61568"]={"code":"61568","region":"IL","city":"Tremont","latitude":40.5053,"longitude":-89.4833}}(window,'GeoPostal','US');

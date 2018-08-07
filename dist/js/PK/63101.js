@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63101"]={"code":"63101","region":"Punjab","city":"Bahawalpur","latitude":29.4,"longitude":71.68333}}(window,'GeoPostal','PK');

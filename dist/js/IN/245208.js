@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245208"]={"code":"245208","region":"Uttar Pradesh","city":"Khanpur","latitude":28.53333,"longitude":78.05}}(window,'GeoPostal','IN');

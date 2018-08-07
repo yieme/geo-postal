@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL6 9OH"]={"code":"SL6 9OH","region":"England","city":"Maidenhead","latitude":51.52279,"longitude":-0.71986}}(window,'GeoPostal','GB');

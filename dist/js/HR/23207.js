@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23207"]={"code":"23207","region":"Zadarska zupanija","city":"Turanj","latitude":43.97111,"longitude":15.41139}}(window,'GeoPostal','HR');

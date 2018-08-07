@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14430"]={"code":"14430","region":"NY","city":"Clarkson","latitude":43.2331,"longitude":-77.9275}}(window,'GeoPostal','US');

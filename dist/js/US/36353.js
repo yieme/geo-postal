@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36353"]={"code":"36353","region":"AL","city":"Newville","latitude":31.4403,"longitude":-85.3287}}(window,'GeoPostal','US');

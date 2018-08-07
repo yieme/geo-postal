@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4551"]={"code":"4551","region":"Queensland","city":"Kings Beach","latitude":-26.80166,"longitude":153.14261}}(window,'GeoPostal','AU');

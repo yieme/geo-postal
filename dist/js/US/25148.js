@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25148"]={"code":"25148","region":"WV","city":"Orgas","latitude":38.0492,"longitude":-81.5688}}(window,'GeoPostal','US');

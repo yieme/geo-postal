@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12090"]={"code":"12090","region":"NY","city":"Hoosick Falls","latitude":42.8937,"longitude":-73.3581}}(window,'GeoPostal','US');

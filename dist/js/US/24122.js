@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24122"]={"code":"24122","region":"VA","city":"Montvale","latitude":37.407,"longitude":-79.7175}}(window,'GeoPostal','US');

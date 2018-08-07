@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL9 9AZ"]={"code":"PL9 9AZ","region":"England","city":"Plymstock","latitude":50.35999,"longitude":-4.09049}}(window,'GeoPostal','GB');

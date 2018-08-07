@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78996-000"]={"code":"78996-000","region":"Rondonia","city":"Vilhena","latitude":-12.74056,"longitude":-60.14583}}(window,'GeoPostal','BR');

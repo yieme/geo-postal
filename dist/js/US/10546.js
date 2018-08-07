@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10546"]={"code":"10546","region":"New York","city":"Millwood","latitude":41.1983,"longitude":-73.8006}}(window,'GeoPostal','US');

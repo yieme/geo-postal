@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54180"]={"code":"54180","region":"WI","city":"Wrightstown","latitude":44.3264,"longitude":-88.1749}}(window,'GeoPostal','US');

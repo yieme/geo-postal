@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83537"]={"code":"83537","region":"Idaho","city":"Kendrick","latitude":46.61444,"longitude":-116.65028}}(window,'GeoPostal','US');

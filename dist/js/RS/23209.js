@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23209"]={"code":"23209","region":"Srednjebanatski okrug","city":"Taras","latitude":45.46806,"longitude":20.19806}}(window,'GeoPostal','RS');

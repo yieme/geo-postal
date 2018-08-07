@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73456"]={"code":"73456","region":"OK","city":"Ringling","latitude":34.1679,"longitude":-97.6029}}(window,'GeoPostal','US');

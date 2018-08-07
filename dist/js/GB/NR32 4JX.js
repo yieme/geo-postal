@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR32 4JX"]={"code":"NR32 4JX","region":"England","city":"Gunton","latitude":52.5,"longitude":1.75}}(window,'GeoPostal','GB');

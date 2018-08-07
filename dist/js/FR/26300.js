@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26300"]={"code":"26300","region":"Auvergne-Rhone-Alpes","city":"Charpey","latitude":44.9392,"longitude":5.0936}}(window,'GeoPostal','FR');

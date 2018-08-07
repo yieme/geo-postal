@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 4RH"]={"code":"KW1 4RH","region":"Scotland","city":"Ackergill","latitude":58.45988,"longitude":-3.11311}}(window,'GeoPostal','GB');

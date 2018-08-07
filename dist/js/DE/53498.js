@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53498"]={"code":"53498","region":"Rheinland-Pfalz","city":"Franken","latitude":50.50124,"longitude":7.2346}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1304"]={"code":"1304","region":"Batangas","city":"Ilijan","latitude":13.62556,"longitude":121.07528}}(window,'GeoPostal','PH');

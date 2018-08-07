@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72800"]={"code":"72800","region":"Pays-de-la-Loire","city":"Luche-Pringe","latitude":47.70326,"longitude":0.07549}}(window,'GeoPostal','FR');

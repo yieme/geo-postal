@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17354"]={"code":"17354","region":"PA","city":"Porters Sideling","latitude":39.8246,"longitude":-76.8993}}(window,'GeoPostal','US');

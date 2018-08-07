@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47579"]={"code":"47579","region":"Indiana","city":"Santa Claus","latitude":38.12005,"longitude":-86.91416}}(window,'GeoPostal','US');

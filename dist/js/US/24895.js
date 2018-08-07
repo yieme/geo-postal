@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24895"]={"code":"24895","region":"West Virginia","city":"Wilcoe","latitude":37.3811,"longitude":-81.5645}}(window,'GeoPostal','US');

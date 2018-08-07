@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07506"]={"code":"07506","region":"New Jersey","city":"Hawthorne","latitude":40.956945,"longitude":-74.156561}}(window,'GeoPostal','US');

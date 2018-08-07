@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15488"]={"code":"15488","region":"PA","city":"Waltersburg","latitude":39.9763,"longitude":-79.7689}}(window,'GeoPostal','US');

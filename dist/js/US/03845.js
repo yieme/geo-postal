@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03845"]={"code":"03845","region":"NH","city":"Intervale","latitude":44.0955,"longitude":-71.1194}}(window,'GeoPostal','US');

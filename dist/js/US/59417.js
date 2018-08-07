@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59417"]={"code":"59417","region":"Montana","city":"Browning","latitude":48.55692,"longitude":-113.01342}}(window,'GeoPostal','US');

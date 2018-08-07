@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 5HE"]={"code":"AB51 5HE","region":"Scotland","city":"Chapel of Garioch","latitude":57.3071,"longitude":-2.47064}}(window,'GeoPostal','GB');

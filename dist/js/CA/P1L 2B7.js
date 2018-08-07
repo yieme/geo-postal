@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P1L 2B7"]={"code":"P1L 2B7","region":"Ontario","city":"Bracebridge","latitude":45.043245,"longitude":-79.314382}}(window,'GeoPostal','CA');

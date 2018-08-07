@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86250"]={"code":"86250","region":"Tabasco","city":"Macultepec","latitude":18.16667,"longitude":-92.83333}}(window,'GeoPostal','MX');

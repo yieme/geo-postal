@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37030"]={"code":"37030","region":"TN","city":"Carthage","latitude":36.2763,"longitude":-85.9517}}(window,'GeoPostal','US');

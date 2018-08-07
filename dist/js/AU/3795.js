@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3795"]={"code":"3795","region":"Victoria","city":"Burleigh","latitude":-37.83333,"longitude":145.43333}}(window,'GeoPostal','AU');

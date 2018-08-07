@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8275"]={"code":"8275","region":"Skocjan","city":"Skocjan","latitude":45.9067,"longitude":15.2914}}(window,'GeoPostal','SI');

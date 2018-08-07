@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39162"]={"code":"39162","region":"MS","city":"Satartia","latitude":32.6125,"longitude":-90.5965}}(window,'GeoPostal','US');

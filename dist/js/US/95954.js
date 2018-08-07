@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95954"]={"code":"95954","region":"CA","city":"Magalia","latitude":39.8912,"longitude":-121.58}}(window,'GeoPostal','US');

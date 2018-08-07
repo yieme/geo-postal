@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY19 7DQ"]={"code":"SY19 7DQ","region":"Wales","city":"Llanbrynmair","latitude":52.61151,"longitude":-3.62761}}(window,'GeoPostal','GB');

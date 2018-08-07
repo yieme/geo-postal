@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50709"]={"code":"50709","region":"Aragon","city":"Caspe","latitude":41.23402,"longitude":-0.03945}}(window,'GeoPostal','ES');

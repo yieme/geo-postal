@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16912"]={"code":"16912","region":"PA","city":"Blossburg","latitude":41.6698,"longitude":-77.0797}}(window,'GeoPostal','US');

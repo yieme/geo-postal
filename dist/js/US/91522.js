@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91522"]={"code":"91522","region":"California","city":"Burbank","latitude":34.14778,"longitude":-118.33818}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72427"]={"code":"72427","region":"AR","city":"Egypt","latitude":35.864,"longitude":-90.9428}}(window,'GeoPostal','US');

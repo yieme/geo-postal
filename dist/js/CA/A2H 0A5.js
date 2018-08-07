@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A2H 0A5"]={"code":"A2H 0A5","region":"Newfoundland and Labrador","city":"Corner Brook","latitude":48.96671,"longitude":-57.9484}}(window,'GeoPostal','CA');

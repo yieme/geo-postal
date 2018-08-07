@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184621"]={"code":"184621","region":"Murmanskaya oblast'","city":"Severomorsk","latitude":69.06889,"longitude":33.41622}}(window,'GeoPostal','RU');

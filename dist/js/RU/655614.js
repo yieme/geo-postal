@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655614"]={"code":"655614","region":"Khakasiya, Respublika","city":"Mayna","latitude":53.00639,"longitude":91.48361}}(window,'GeoPostal','RU');

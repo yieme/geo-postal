@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40220"]={"code":"40220","region":"Khon Kaen","city":"Nong Na Kham","latitude":16.8043,"longitude":102.33647}}(window,'GeoPostal','TH');

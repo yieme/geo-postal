@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST13 8DN"]={"code":"ST13 8DN","region":"England","city":"Westwood","latitude":51.33111,"longitude":-2.27389}}(window,'GeoPostal','GB');

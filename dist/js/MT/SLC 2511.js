@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SLC 2511"]={"code":"SLC 2511","region":"Saint Lucia's","city":"Santa Lucija","latitude":35.86278,"longitude":14.5075}}(window,'GeoPostal','MT');

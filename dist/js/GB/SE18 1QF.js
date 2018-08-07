@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE18 1QF"]={"code":"SE18 1QF","region":"England","city":"Plumstead","latitude":51.48333,"longitude":0.08333}}(window,'GeoPostal','GB');

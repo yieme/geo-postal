@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60912"]={"code":"60912","region":"IL","city":"Beaverville","latitude":40.9672,"longitude":-87.6217}}(window,'GeoPostal','US');

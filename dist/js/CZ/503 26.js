@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 26"]={"code":"503 26","region":"Kralovehradecky kraj","city":"Hradec Kralove","latitude":50.20923,"longitude":15.83277}}(window,'GeoPostal','CZ');

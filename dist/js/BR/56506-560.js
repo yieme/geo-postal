@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56506-560"]={"code":"56506-560","region":"Pernambuco","city":"Caruaru","latitude":-8.28333,"longitude":-35.97611}}(window,'GeoPostal','BR');

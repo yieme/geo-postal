@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74410"]={"code":"74410","region":"Auvergne-Rhone-Alpes","city":"Saint-Jorioz","latitude":45.83296,"longitude":6.16503}}(window,'GeoPostal','FR');

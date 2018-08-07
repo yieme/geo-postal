@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81432"]={"code":"81432","region":"CO","city":"Ridgway","latitude":38.1381,"longitude":-107.7533}}(window,'GeoPostal','US');

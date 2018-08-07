@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE37 7DQ"]={"code":"PE37 7DQ","region":"England","city":"Swaffham","latitude":52.64692,"longitude":0.68871}}(window,'GeoPostal','GB');

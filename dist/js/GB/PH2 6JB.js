@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 6JB"]={"code":"PH2 6JB","region":"Scotland","city":"Collace","latitude":56.47696,"longitude":-3.29387}}(window,'GeoPostal','GB');

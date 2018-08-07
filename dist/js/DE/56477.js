@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56477"]={"code":"56477","region":"Rheinland-Pfalz","city":"Emmerichenhain","latitude":50.63034,"longitude":8.06826}}(window,'GeoPostal','DE');

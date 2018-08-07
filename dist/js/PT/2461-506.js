@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2461-506"]={"code":"2461-506","region":"Leiria","city":"Alcobaca","latitude":39.55223,"longitude":-8.9775}}(window,'GeoPostal','PT');

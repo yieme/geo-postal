@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32747"]={"code":"32747","region":"FL","city":"Lake Monroe","latitude":28.8272,"longitude":-81.3329}}(window,'GeoPostal','US');

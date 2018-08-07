@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79342"]={"code":"79342","region":"Texas","city":"Loop","latitude":32.91528,"longitude":-102.41611}}(window,'GeoPostal','US');

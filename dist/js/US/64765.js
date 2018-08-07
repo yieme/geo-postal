@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64765"]={"code":"64765","region":"Missouri","city":"Metz","latitude":37.99752,"longitude":-94.443}}(window,'GeoPostal','US');

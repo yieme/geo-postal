@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87510"]={"code":"87510","region":"Granma","city":"Manzanillo","latitude":20.34333,"longitude":-77.11667}}(window,'GeoPostal','CU');

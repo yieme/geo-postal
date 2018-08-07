@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59336"]={"code":"59336","region":"Montana","city":"Ismay","latitude":46.49824,"longitude":-104.789462}}(window,'GeoPostal','US');

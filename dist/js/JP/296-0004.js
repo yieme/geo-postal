@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["296-0004"]={"code":"296-0004","region":"Chiba","city":"Kawaguchi","latitude":35.1,"longitude":140.1}}(window,'GeoPostal','JP');

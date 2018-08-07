@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 6SN"]={"code":"SA44 6SN","region":"Wales","city":"Llangranog","latitude":52.15964,"longitude":-4.47074}}(window,'GeoPostal','GB');

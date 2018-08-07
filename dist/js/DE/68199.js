@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68199"]={"code":"68199","region":"Baden-Wurttemberg","city":"Neckarau","latitude":49.45792,"longitude":8.48362}}(window,'GeoPostal','DE');

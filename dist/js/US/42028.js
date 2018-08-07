@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42028"]={"code":"42028","region":"KY","city":"Burna","latitude":37.2392,"longitude":-88.3379}}(window,'GeoPostal','US');

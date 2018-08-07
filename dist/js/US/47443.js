@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47443"]={"code":"47443","region":"Indiana","city":"Lyons","latitude":38.99068,"longitude":-87.08222}}(window,'GeoPostal','US');

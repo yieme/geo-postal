@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141008"]={"code":"141008","region":"Punjab","city":"Ludhiana","latitude":30.9,"longitude":75.85}}(window,'GeoPostal','IN');

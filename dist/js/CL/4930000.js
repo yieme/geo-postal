@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4930000"]={"code":"4930000","region":"La Araucania","city":"Villarrica","latitude":-39.28569,"longitude":-72.2279}}(window,'GeoPostal','CL');

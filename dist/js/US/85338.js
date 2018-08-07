@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85338"]={"code":"85338","region":"Arizona","city":"Goodyear","latitude":33.43532,"longitude":-112.35821}}(window,'GeoPostal','US');

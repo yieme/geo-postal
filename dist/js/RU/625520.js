@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625520"]={"code":"625520","region":"Tyumenskaya oblast'","city":"Bogandinskiy","latitude":56.89375,"longitude":65.89378}}(window,'GeoPostal','RU');

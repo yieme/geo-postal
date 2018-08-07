@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["619430"]={"code":"619430","region":"Permskiy kray","city":"Kosa","latitude":59.94453,"longitude":54.9977}}(window,'GeoPostal','RU');

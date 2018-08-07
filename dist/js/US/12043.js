@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12043"]={"code":"12043","region":"New York","city":"Cobleskill","latitude":42.67785,"longitude":-74.48542}}(window,'GeoPostal','US');

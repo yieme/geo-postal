@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18290-000"]={"code":"18290-000","region":"Sao Paulo","city":"Buri","latitude":-23.7975,"longitude":-48.59278}}(window,'GeoPostal','BR');

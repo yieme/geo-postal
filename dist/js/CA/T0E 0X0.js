@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0X0"]={"code":"T0E 0X0","region":"Alberta","city":"Lake Majeau","latitude":53.86684,"longitude":-114.43541}}(window,'GeoPostal','CA');

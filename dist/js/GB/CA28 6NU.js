@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA28 6NU"]={"code":"CA28 6NU","region":"England","city":"Parton","latitude":54.56667,"longitude":-3.58333}}(window,'GeoPostal','GB');

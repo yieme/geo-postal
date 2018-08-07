@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21450"]={"code":"21450","region":"Varsinais-Suomi","city":"Tarvasjoki","latitude":60.58333,"longitude":22.73333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY8 5DR"]={"code":"FY8 5DR","region":"England","city":"Lytham","latitude":53.73695,"longitude":-2.96293}}(window,'GeoPostal','GB');

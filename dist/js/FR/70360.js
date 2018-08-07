@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70360"]={"code":"70360","region":"Bourgogne-Franche-Comte","city":"Scey-sur-Saone-et-Saint-Albin","latitude":47.66398,"longitude":5.97451}}(window,'GeoPostal','FR');

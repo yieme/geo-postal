@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413750"]={"code":"413750","region":"Saratovskaya oblast'","city":"Perelyub","latitude":51.86667,"longitude":50.36667}}(window,'GeoPostal','RU');

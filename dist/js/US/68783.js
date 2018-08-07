@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68783"]={"code":"68783","region":"Nebraska","city":"Verdigre","latitude":42.59761,"longitude":-98.039037}}(window,'GeoPostal','US');

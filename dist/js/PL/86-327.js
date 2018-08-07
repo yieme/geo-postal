@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-327"]={"code":"86-327","region":"Kujawsko-pomorskie","city":"Gruta","latitude":53.45315,"longitude":18.957}}(window,'GeoPostal','PL');

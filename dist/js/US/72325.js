@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72325"]={"code":"72325","region":"AR","city":"Clarkedale","latitude":35.3093,"longitude":-90.2362}}(window,'GeoPostal','US');

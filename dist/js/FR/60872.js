@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60872"]={"code":"60872","region":"Hauts-de-France","city":"Rieux","latitude":49.3,"longitude":2.51667}}(window,'GeoPostal','FR');

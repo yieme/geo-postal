@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55934"]={"code":"55934","region":"MN","city":"Eyota","latitude":44.0099,"longitude":-92.2648}}(window,'GeoPostal','US');

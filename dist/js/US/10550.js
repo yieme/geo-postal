@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10550"]={"code":"10550","region":"New York","city":"Mount Vernon","latitude":40.9126,"longitude":-73.83708}}(window,'GeoPostal','US');

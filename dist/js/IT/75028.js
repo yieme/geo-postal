@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75028"]={"code":"75028","region":"Basilicata","city":"Tursi","latitude":40.24521,"longitude":16.46969}}(window,'GeoPostal','IT');

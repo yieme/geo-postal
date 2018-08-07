@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26002"]={"code":"26002","region":"Medea","city":"Berrouaghia","latitude":36.13516,"longitude":2.91085}}(window,'GeoPostal','DZ');

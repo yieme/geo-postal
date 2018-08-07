@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25064"]={"code":"25064","region":"WV","city":"Dunbar","latitude":38.3683,"longitude":-81.7425}}(window,'GeoPostal','US');

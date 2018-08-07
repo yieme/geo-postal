@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81563"]={"code":"81563","region":"Lvivska oblast","city":"Komarno","latitude":49.62739,"longitude":23.69952}}(window,'GeoPostal','UA');

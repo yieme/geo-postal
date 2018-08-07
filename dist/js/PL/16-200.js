@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-200"]={"code":"16-200","region":"Podlaskie","city":"Dabrowa Bialostocka","latitude":53.65364,"longitude":23.34792}}(window,'GeoPostal','PL');

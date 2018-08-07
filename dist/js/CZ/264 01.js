@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["264 01"]={"code":"264 01","region":"Stredocesky kraj","city":"Sedlcany","latitude":49.66057,"longitude":14.42664}}(window,'GeoPostal','CZ');

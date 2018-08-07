@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG24 2PU"]={"code":"NG24 2PU","region":"England","city":"Coddington","latitude":53.08333,"longitude":-0.75}}(window,'GeoPostal','GB');

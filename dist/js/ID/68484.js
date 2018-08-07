@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68484"]={"code":"68484","region":"Jawa Timur","city":"Wringinanom Satu","latitude":-8.4889,"longitude":114.288}}(window,'GeoPostal','ID');

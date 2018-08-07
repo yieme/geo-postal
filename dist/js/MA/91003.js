@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91003"]={"code":"91003","region":"Tanger-Tetouan","city":"Tizgane","latitude":35.41211,"longitude":-5.06836}}(window,'GeoPostal','MA');

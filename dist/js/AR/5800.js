@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5800"]={"code":"5800","region":"Cordoba","city":"Rio Cuarto","latitude":-33.13067,"longitude":-64.34992}}(window,'GeoPostal','AR');

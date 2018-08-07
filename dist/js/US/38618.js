@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38618"]={"code":"38618","region":"MS","city":"Coldwater","latitude":34.6924,"longitude":-89.9869}}(window,'GeoPostal','US');

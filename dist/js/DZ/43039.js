@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43039"]={"code":"43039","region":"Mila","city":"Mila","latitude":36.45028,"longitude":6.26444}}(window,'GeoPostal','DZ');

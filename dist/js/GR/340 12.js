@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 12"]={"code":"340 12","region":"Sterea Ellada","city":"Oreoi","latitude":38.95,"longitude":23.1}}(window,'GeoPostal','GR');

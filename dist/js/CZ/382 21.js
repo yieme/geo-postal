@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 21"]={"code":"382 21","region":"Jihocesky kraj","city":"Kajov","latitude":48.81082,"longitude":14.25859}}(window,'GeoPostal','CZ');

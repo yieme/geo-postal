@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46731"]={"code":"46731","region":"Indiana","city":"Craigville","latitude":40.778388,"longitude":-85.097817}}(window,'GeoPostal','US');

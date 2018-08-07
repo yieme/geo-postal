@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60424"]={"code":"60424","region":"Illinois","city":"Gardner","latitude":41.1691,"longitude":-88.3203}}(window,'GeoPostal','US');

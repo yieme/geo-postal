@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2481"]={"code":"2481","region":"Hedmark","city":"Koppang","latitude":61.57065,"longitude":11.05548}}(window,'GeoPostal','NO');

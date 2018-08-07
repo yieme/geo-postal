@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82649"]={"code":"82649","region":"Wyoming","city":"Shoshoni","latitude":43.24028,"longitude":-108.11444}}(window,'GeoPostal','US');

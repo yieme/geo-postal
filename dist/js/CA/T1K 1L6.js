@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1K 1L6"]={"code":"T1K 1L6","region":"Alberta","city":"Vermilion","latitude":49.6653,"longitude":-112.808937}}(window,'GeoPostal','CA');

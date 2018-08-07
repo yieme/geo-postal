@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38679"]={"code":"38679","region":"MS","city":"Victoria","latitude":34.8708,"longitude":-89.6408}}(window,'GeoPostal','US');

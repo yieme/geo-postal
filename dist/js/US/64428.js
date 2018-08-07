@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64428"]={"code":"64428","region":"MO","city":"Burlington Junction","latitude":40.4475,"longitude":-95.063}}(window,'GeoPostal','US');

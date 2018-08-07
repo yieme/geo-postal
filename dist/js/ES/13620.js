@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13620"]={"code":"13620","region":"Castilla-La Mancha","city":"Pedro Munoz","latitude":39.40285,"longitude":-2.94664}}(window,'GeoPostal','ES');

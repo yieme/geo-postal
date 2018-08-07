@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["151210"]={"code":"151210","region":"Punjab","city":"Faridkot","latitude":30.66667,"longitude":74.75}}(window,'GeoPostal','IN');

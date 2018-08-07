@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08511"]={"code":"08511","region":"Catalunya","city":"Santa Maria de Corco","latitude":42.03333,"longitude":2.36667}}(window,'GeoPostal','ES');

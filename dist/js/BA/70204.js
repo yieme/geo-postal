@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70204"]={"code":"70204","region":"Federacija Bosne i Hercegovine","city":"Divicani","latitude":44.36667,"longitude":17.32611}}(window,'GeoPostal','BA');

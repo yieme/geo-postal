@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88260"]={"code":"88260","region":"Grand-Est","city":"Provencheres-les-Darney","latitude":48.1293,"longitude":5.9575}}(window,'GeoPostal','FR');

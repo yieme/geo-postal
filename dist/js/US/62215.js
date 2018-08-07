@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62215"]={"code":"62215","region":"IL","city":"Albers","latitude":38.532,"longitude":-89.6202}}(window,'GeoPostal','US');

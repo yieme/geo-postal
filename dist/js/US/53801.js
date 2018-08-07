@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53801"]={"code":"53801","region":"Wisconsin","city":"Bagley","latitude":42.90278,"longitude":-91.10083}}(window,'GeoPostal','US');

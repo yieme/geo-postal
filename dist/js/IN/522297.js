@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["522297"]={"code":"522297","region":"Andhra Pradesh","city":"Ponnur","latitude":16.07114,"longitude":80.54944}}(window,'GeoPostal','IN');

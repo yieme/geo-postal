@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42088"]={"code":"42088","region":"KY","city":"Wingo","latitude":36.6253,"longitude":-88.7394}}(window,'GeoPostal','US');

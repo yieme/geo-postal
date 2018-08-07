@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06265"]={"code":"06265","region":"CT","city":"South Willington","latitude":41.8554,"longitude":-72.3015}}(window,'GeoPostal','US');

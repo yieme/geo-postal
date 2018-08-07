@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02151"]={"code":"02151","region":"Massachusetts","city":"Revere","latitude":42.40843,"longitude":-71.01199}}(window,'GeoPostal','US');

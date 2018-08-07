@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200"]={"code":"8200","region":"Schaffhausen","city":"Schaffhausen","latitude":47.69732,"longitude":8.63493}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW14 7UZ"]={"code":"KW14 7UZ","region":"Scotland","city":"Crosskirk","latitude":58.61667,"longitude":-3.66667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 3YN"]={"code":"SA13 3YN","region":"Wales","city":"Abergwynfi","latitude":51.65355,"longitude":-3.6026}}(window,'GeoPostal','GB');

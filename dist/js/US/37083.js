@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37083"]={"code":"37083","region":"Tennessee","city":"Lafayette","latitude":36.524111,"longitude":-86.025485}}(window,'GeoPostal','US');

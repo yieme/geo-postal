@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16390"]={"code":"16390","region":"Nouvelle-Aquitaine","city":"Saint-Severin","latitude":45.3139,"longitude":0.2544}}(window,'GeoPostal','FR');

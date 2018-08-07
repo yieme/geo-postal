@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2C0"]={"code":"B0J 2C0","region":"Nova Scotia","city":"Lunenburg","latitude":44.38345,"longitude":-64.31545}}(window,'GeoPostal','CA');

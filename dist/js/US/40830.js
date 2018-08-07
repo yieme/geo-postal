@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40830"]={"code":"40830","region":"KY","city":"Gulston","latitude":36.7656,"longitude":-83.3262}}(window,'GeoPostal','US');

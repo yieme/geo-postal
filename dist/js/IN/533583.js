@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533583"]={"code":"533583","region":"Andhra Pradesh","city":"Ramanayyapeta","latitude":16.94516,"longitude":82.2385}}(window,'GeoPostal','IN');

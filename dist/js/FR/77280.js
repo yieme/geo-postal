@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77280"]={"code":"77280","region":"Ile-de-France","city":"Othis","latitude":49.07387,"longitude":2.67502}}(window,'GeoPostal','FR');

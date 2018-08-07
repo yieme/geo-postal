@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72460"]={"code":"72460","region":"Arkansas","city":"Ravenden Springs","latitude":36.36163,"longitude":-91.243023}}(window,'GeoPostal','US');

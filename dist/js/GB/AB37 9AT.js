@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB37 9AT"]={"code":"AB37 9AT","region":"Scotland","city":"Ballindalloch","latitude":57.41143,"longitude":-3.35864}}(window,'GeoPostal','GB');

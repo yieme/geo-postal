@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97347"]={"code":"97347","region":"OR","city":"Grand Ronde","latitude":45.075,"longitude":-123.6335}}(window,'GeoPostal','US');

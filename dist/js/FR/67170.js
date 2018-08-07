@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67170"]={"code":"67170","region":"Grand-Est","city":"Wingersheim","latitude":48.72149,"longitude":7.63464}}(window,'GeoPostal','FR');

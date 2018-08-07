@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67559"]={"code":"67559","region":"KS","city":"Nekoma","latitude":38.4372,"longitude":-99.4234}}(window,'GeoPostal','US');

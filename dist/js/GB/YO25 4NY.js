@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 4NY"]={"code":"YO25 4NY","region":"England","city":"Burton Agnes","latitude":54.05142,"longitude":-0.31562}}(window,'GeoPostal','GB');

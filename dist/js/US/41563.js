@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41563"]={"code":"41563","region":"Kentucky","city":"Shelby Gap","latitude":37.232828,"longitude":-82.570962}}(window,'GeoPostal','US');

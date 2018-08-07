@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18443"]={"code":"18443","region":"Pennsylvania","city":"Milanville","latitude":41.67139,"longitude":-75.06528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357-8555"]={"code":"357-8555","region":"Saitama","city":"Hanno","latitude":35.85,"longitude":139.317}}(window,'GeoPostal','JP');

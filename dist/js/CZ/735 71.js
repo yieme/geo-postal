@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735 71"]={"code":"735 71","region":"Moravskoslezsky kraj","city":"Detmarovice","latitude":49.89412,"longitude":18.46079}}(window,'GeoPostal','CZ');

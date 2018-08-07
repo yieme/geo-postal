@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74363"]={"code":"74363","region":"OK","city":"Quapaw","latitude":36.9282,"longitude":-94.743}}(window,'GeoPostal','US');

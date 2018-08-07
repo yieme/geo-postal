@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21840"]={"code":"21840","region":"Varsinais-Suomi","city":"Karinainen","latitude":60.66667,"longitude":22.76667}}(window,'GeoPostal','FI');

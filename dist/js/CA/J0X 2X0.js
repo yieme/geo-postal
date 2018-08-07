@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 2X0"]={"code":"J0X 2X0","region":"Quebec","city":"Sainte-Therese-de-la-Gatineau","latitude":46.30011,"longitude":-75.86604}}(window,'GeoPostal','CA');

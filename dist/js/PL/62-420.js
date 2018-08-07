@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-420"]={"code":"62-420","region":"Wielkopolskie","city":"Strzalkowo","latitude":52.30701,"longitude":17.81811}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60639"]={"code":"60639","region":"Illinois","city":"Chicago","latitude":41.919993,"longitude":-87.756355}}(window,'GeoPostal','US');

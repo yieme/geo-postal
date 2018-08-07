@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01806"]={"code":"01806","region":"MA","city":"At&t","latitude":42.47,"longitude":-71.15}}(window,'GeoPostal','US');

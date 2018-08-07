@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N9C 2L8"]={"code":"N9C 2L8","region":"Ontario","city":"Windsor","latitude":42.276305,"longitude":-83.051359}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66031"]={"code":"66031","region":"Kansas","city":"New Century","latitude":38.8122,"longitude":-94.9258}}(window,'GeoPostal','US');

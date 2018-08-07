@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87110"]={"code":"87110","region":"Nouvelle-Aquitaine","city":"Bosmie-l'Aiguille","latitude":45.75,"longitude":1.2}}(window,'GeoPostal','FR');

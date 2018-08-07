@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12949"]={"code":"12949","region":"NY","city":"Lawrenceville","latitude":44.7469,"longitude":-74.6604}}(window,'GeoPostal','US');

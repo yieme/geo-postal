@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73742"]={"code":"73742","region":"OK","city":"Hennessey","latitude":36.0868,"longitude":-97.8926}}(window,'GeoPostal','US');

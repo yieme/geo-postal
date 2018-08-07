@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81110"]={"code":"81110","region":"Krabi","city":"Ao Luek","latitude":8.37803,"longitude":98.72117}}(window,'GeoPostal','TH');

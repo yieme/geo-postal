@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145002"]={"code":"145002","region":"Punjab","city":"Pathankot","latitude":32.28333,"longitude":75.65}}(window,'GeoPostal','IN');

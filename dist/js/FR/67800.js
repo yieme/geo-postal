@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67800"]={"code":"67800","region":"Grand-Est","city":"Hoenheim","latitude":48.62224,"longitude":7.75549}}(window,'GeoPostal','FR');

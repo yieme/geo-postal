@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50514"]={"code":"50514","region":"Jawa Tengah","city":"Klopoduwur","latitude":-7.0273,"longitude":111.409}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1827"]={"code":"1827","region":"Noord-Holland","city":"Alkmaar","latitude":52.63167,"longitude":4.74861}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3J 1W9"]={"code":"V3J 1W9","region":"British Columbia","city":"Coquitlam","latitude":49.250639,"longitude":-122.891916}}(window,'GeoPostal','CA');

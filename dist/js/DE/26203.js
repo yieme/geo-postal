@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26203"]={"code":"26203","region":"Niedersachsen","city":"Charlottendorf West","latitude":53.00408,"longitude":8.15678}}(window,'GeoPostal','DE');

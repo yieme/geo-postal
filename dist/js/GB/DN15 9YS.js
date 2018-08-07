@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 9YS"]={"code":"DN15 9YS","region":"England","city":"West Halton","latitude":53.67752,"longitude":-0.63006}}(window,'GeoPostal','GB');

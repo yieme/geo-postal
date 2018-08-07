@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83443"]={"code":"83443","region":"ID","city":"Ririe","latitude":43.5197,"longitude":-111.5266}}(window,'GeoPostal','US');

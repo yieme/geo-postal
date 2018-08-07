@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL40 2EA"]={"code":"LL40 2EA","region":"Wales","city":"Llanfachreth","latitude":52.7852,"longitude":-3.84866}}(window,'GeoPostal','GB');

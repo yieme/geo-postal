@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["950000"]={"code":"950000","region":"Soc Trang","city":"Soc Trang","latitude":9.60333,"longitude":105.98}}(window,'GeoPostal','VN');

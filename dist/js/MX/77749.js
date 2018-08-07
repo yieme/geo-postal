@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77749"]={"code":"77749","region":"Quintana Roo","city":"Coba","latitude":20.48298,"longitude":-87.73888}}(window,'GeoPostal','MX');

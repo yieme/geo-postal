@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH24 3BA"]={"code":"PH24 3BA","region":"Scotland","city":"Boat of Garten","latitude":57.25027,"longitude":-3.75561}}(window,'GeoPostal','GB');

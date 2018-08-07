@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG5 4PZ"]={"code":"DG5 4PZ","region":"Scotland","city":"East Barcloy","latitude":54.86667,"longitude":-3.75}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12172"]={"code":"12172","region":"NY","city":"Stottville","latitude":42.2857,"longitude":-73.7335}}(window,'GeoPostal','US');

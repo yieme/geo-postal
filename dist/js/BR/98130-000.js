@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98130-000"]={"code":"98130-000","region":"Rio Grande do Sul","city":"Julio de Castilhos","latitude":-29.22694,"longitude":-53.68167}}(window,'GeoPostal','BR');

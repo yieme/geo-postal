@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115218"]={"code":"115218","region":"Liaoning","city":"Yangshufang","latitude":40.24254,"longitude":122.4328}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["502291"]={"code":"502291","region":"Andhra Pradesh","city":"Nandigama","latitude":16.78333,"longitude":80.3}}(window,'GeoPostal','IN');

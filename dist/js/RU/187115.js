@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187115"]={"code":"187115","region":"Leningradskaya oblast'","city":"Kirishi","latitude":59.44712,"longitude":32.02049}}(window,'GeoPostal','RU');

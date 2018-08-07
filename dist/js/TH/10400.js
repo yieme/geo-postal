@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10400"]={"code":"10400","region":"Krung Thep Maha Nakhon","city":"Ratchathewi","latitude":13.759,"longitude":100.53358}}(window,'GeoPostal','TH');

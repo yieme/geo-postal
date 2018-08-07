@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62690-000"]={"code":"62690-000","region":"Ceara","city":"Trairi","latitude":-3.27778,"longitude":-39.26889}}(window,'GeoPostal','BR');

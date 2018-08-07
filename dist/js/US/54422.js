@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54422"]={"code":"54422","region":"WI","city":"Curtiss","latitude":44.9602,"longitude":-90.4592}}(window,'GeoPostal','US');

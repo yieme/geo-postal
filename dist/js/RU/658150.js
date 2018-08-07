@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658150"]={"code":"658150","region":"Altayskiy kray","city":"Ust'-Kalmanka","latitude":52.1207,"longitude":83.305}}(window,'GeoPostal','RU');

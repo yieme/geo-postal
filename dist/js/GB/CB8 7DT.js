@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 7DT"]={"code":"CB8 7DT","region":"England","city":"Newmarket","latitude":52.24467,"longitude":0.40418}}(window,'GeoPostal','GB');

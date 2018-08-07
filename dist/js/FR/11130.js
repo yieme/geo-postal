@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11130"]={"code":"11130","region":"Occitanie","city":"Sigean","latitude":43.02776,"longitude":2.97916}}(window,'GeoPostal','FR');

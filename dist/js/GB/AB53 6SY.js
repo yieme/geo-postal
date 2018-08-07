@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 6SY"]={"code":"AB53 6SY","region":"Scotland","city":"New Deer","latitude":57.51411,"longitude":-2.19495}}(window,'GeoPostal','GB');

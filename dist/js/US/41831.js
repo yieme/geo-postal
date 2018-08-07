@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41831"]={"code":"41831","region":"Kentucky","city":"Leburn","latitude":37.402222,"longitude":-82.942222}}(window,'GeoPostal','US');

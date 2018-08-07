@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48743"]={"code":"48743","region":"MI","city":"Long Lake","latitude":44.4197,"longitude":-83.8719}}(window,'GeoPostal','US');

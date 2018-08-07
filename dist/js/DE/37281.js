@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37281"]={"code":"37281","region":"Hessen","city":"Altenburschla","latitude":51.14997,"longitude":10.17805}}(window,'GeoPostal','DE');

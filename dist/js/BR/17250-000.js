@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17250-000"]={"code":"17250-000","region":"Sao Paulo","city":"Bariri","latitude":-22.07444,"longitude":-48.74028}}(window,'GeoPostal','BR');

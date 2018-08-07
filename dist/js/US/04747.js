@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04747"]={"code":"04747","region":"Maine","city":"Island Falls","latitude":46.011346,"longitude":-68.273711}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 5UW"]={"code":"TA24 5UW","region":"England","city":"Minehead","latitude":51.20565,"longitude":-3.47875}}(window,'GeoPostal','GB');

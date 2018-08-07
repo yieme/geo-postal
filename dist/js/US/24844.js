@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24844"]={"code":"24844","region":"West Virginia","city":"Iaeger","latitude":37.46694,"longitude":-81.80861}}(window,'GeoPostal','US');

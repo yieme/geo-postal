@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85360"]={"code":"85360","region":"Ulcinj","city":"Ulcinj","latitude":41.92936,"longitude":19.22436}}(window,'GeoPostal','ME');

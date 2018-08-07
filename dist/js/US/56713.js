@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56713"]={"code":"56713","region":"Minnesota","city":"Argyle","latitude":48.332968,"longitude":-96.822392}}(window,'GeoPostal','US');

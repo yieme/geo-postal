@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51026"]={"code":"51026","region":"IA","city":"Hornick","latitude":42.2897,"longitude":-96.0796}}(window,'GeoPostal','US');

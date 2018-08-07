@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22976"]={"code":"22976","region":"VA","city":"Tyro","latitude":37.8391,"longitude":-79.0693}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05859"]={"code":"05859","region":"Vermont","city":"North Troy","latitude":45,"longitude":-72.4}}(window,'GeoPostal','US');

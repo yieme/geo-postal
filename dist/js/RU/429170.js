@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429170"]={"code":"429170","region":"Chuvashskaya Respublika","city":"Shemursha","latitude":54.88663,"longitude":47.51893}}(window,'GeoPostal','RU');

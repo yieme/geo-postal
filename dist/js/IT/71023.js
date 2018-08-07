@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71023"]={"code":"71023","region":"Puglia","city":"Bovino","latitude":41.24993,"longitude":15.34125}}(window,'GeoPostal','IT');

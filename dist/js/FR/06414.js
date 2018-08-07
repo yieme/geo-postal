@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06414"]={"code":"06414","region":"Provence-Alpes-Cote d'Azur","city":"Cannes","latitude":43.55135,"longitude":7.01275}}(window,'GeoPostal','FR');

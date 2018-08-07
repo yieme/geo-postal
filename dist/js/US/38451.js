@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38451"]={"code":"38451","region":"TN","city":"Culleoka","latitude":35.4749,"longitude":-87.0005}}(window,'GeoPostal','US');

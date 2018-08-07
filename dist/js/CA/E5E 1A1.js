@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5E 1A1"]={"code":"E5E 1A1","region":"New Brunswick","city":"Welshpool","latitude":44.88344,"longitude":-66.94889}}(window,'GeoPostal','CA');

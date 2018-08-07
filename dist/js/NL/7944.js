@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7944"]={"code":"7944","region":"Drenthe","city":"Meppel","latitude":52.69583,"longitude":6.19444}}(window,'GeoPostal','NL');

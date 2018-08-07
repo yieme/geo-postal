@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6360"]={"code":"6360","region":"Syddanmark","city":"Tinglev","latitude":54.93099,"longitude":9.25243}}(window,'GeoPostal','DK');

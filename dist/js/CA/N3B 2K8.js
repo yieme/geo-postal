@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3B 2K8"]={"code":"N3B 2K8","region":"Ontario","city":"Elmira","latitude":43.599926,"longitude":-80.555826}}(window,'GeoPostal','CA');

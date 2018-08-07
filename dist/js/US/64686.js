@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64686"]={"code":"64686","region":"MO","city":"Utica","latitude":39.7417,"longitude":-93.6289}}(window,'GeoPostal','US');

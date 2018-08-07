@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46932"]={"code":"46932","region":"IN","city":"Galveston","latitude":40.5862,"longitude":-86.1972}}(window,'GeoPostal','US');

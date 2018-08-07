@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97531"]={"code":"97531","region":"Bayern","city":"Wagenhausen","latitude":50.03056,"longitude":10.40968}}(window,'GeoPostal','DE');

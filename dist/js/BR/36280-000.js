@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36280-000"]={"code":"36280-000","region":"Minas Gerais","city":"Carandai","latitude":-20.95361,"longitude":-43.80639}}(window,'GeoPostal','BR');

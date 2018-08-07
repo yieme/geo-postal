@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97150"]={"code":"97150","region":"Saint Martin","city":"Marigot","latitude":18.06667,"longitude":-63.08333}}(window,'GeoPostal','MF');

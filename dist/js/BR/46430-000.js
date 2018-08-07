@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46430-000"]={"code":"46430-000","region":"Bahia","city":"Guanambi","latitude":-14.22333,"longitude":-42.78139}}(window,'GeoPostal','BR');

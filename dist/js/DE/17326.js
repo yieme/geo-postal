@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17326"]={"code":"17326","region":"Brandenburg","city":"Brussow","latitude":53.39971,"longitude":14.12533}}(window,'GeoPostal','DE');

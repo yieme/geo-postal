@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13320"]={"code":"13320","region":"New York","city":"Cherry Valley","latitude":42.79734,"longitude":-74.753568}}(window,'GeoPostal','US');

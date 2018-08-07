@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75470"]={"code":"75470","region":"TX","city":"Petty","latitude":33.6098,"longitude":-95.7891}}(window,'GeoPostal','US');

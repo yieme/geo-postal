@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77773"]={"code":"77773","region":"Baden-Wurttemberg","city":"Rotenberg","latitude":48.30534,"longitude":8.42246}}(window,'GeoPostal','DE');

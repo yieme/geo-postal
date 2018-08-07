@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85055"]={"code":"85055","region":"Basilicata","city":"Picerno","latitude":40.64032,"longitude":15.64326}}(window,'GeoPostal','IT');

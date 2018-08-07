@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87533"]={"code":"87533","region":"NM","city":"Espanola","latitude":35.9866,"longitude":-106.0654}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 3HS"]={"code":"DN17 3HS","region":"England","city":"Althorpe","latitude":53.57744,"longitude":-0.74082}}(window,'GeoPostal','GB');

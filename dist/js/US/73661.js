@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73661"]={"code":"73661","region":"Oklahoma","city":"Rocky","latitude":35.156326,"longitude":-99.058244}}(window,'GeoPostal','US');

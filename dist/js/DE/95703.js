@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95703"]={"code":"95703","region":"Bayern","city":"Plossberg","latitude":49.78404,"longitude":12.31001}}(window,'GeoPostal','DE');

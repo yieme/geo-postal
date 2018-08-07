@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02657"]={"code":"02657","region":"MA","city":"Provincetown","latitude":42.0534,"longitude":-70.1865}}(window,'GeoPostal','US');

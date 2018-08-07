@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45105"]={"code":"45105","region":"Ohio","city":"Bentonville","latitude":38.750338,"longitude":-83.612115}}(window,'GeoPostal','US');

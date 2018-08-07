@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98725"]={"code":"98725","region":"Iles du Vent","city":"Vairao","latitude":-17.78333,"longitude":-149.28333}}(window,'GeoPostal','PF');

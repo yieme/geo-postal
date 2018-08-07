@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20635"]={"code":"20635","region":"MD","city":"Helen","latitude":38.3121,"longitude":-76.6077}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27243"]={"code":"27243","region":"North Carolina","city":"Efland","latitude":36.08111,"longitude":-79.17139}}(window,'GeoPostal','US');

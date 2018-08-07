@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 2JG"]={"code":"CA10 2JG","region":"England","city":"Tirril","latitude":54.63311,"longitude":-2.77405}}(window,'GeoPostal','GB');

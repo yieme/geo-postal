@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18000"]={"code":"18000","region":"Saraburi","city":"Chaloem Phra Kiat","latitude":14.6115,"longitude":100.90825}}(window,'GeoPostal','TH');

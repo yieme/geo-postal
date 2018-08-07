@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56364"]={"code":"56364","region":"MN","city":"Pierz","latitude":46.0081,"longitude":-94.0853}}(window,'GeoPostal','US');

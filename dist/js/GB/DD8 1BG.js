@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 1BG"]={"code":"DD8 1BG","region":"Scotland","city":"Forfar","latitude":56.64313,"longitude":-2.89026}}(window,'GeoPostal','GB');

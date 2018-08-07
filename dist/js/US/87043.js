@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87043"]={"code":"87043","region":"New Mexico","city":"Placitas","latitude":35.312545,"longitude":-106.44178}}(window,'GeoPostal','US');

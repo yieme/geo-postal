@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6428"]={"code":"6428","region":"Western Australia","city":"Southern Cross","latitude":-31.22677,"longitude":119.32376}}(window,'GeoPostal','AU');

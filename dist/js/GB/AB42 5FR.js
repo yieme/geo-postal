@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 5FR"]={"code":"AB42 5FR","region":"Scotland","city":"Mintlaw","latitude":57.52414,"longitude":-2.00099}}(window,'GeoPostal','GB');

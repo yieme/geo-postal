@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42085"]={"code":"42085","region":"KY","city":"Water Valley","latitude":36.5694,"longitude":-88.8084}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36344"]={"code":"36344","region":"AL","city":"Hartford","latitude":31.086,"longitude":-85.7192}}(window,'GeoPostal','US');

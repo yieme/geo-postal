@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55358"]={"code":"55358","region":"MN","city":"Maple Lake","latitude":45.2202,"longitude":-93.9638}}(window,'GeoPostal','US');

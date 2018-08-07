@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD4 8LZ"]={"code":"WD4 8LZ","region":"England","city":"Langley","latitude":50.80941,"longitude":-1.36917}}(window,'GeoPostal','GB');

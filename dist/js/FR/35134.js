@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35134"]={"code":"35134","region":"Bretagne","city":"Coesmes","latitude":47.88325,"longitude":-1.44074}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85324"]={"code":"85324","region":"Arizona","city":"Black Canyon City","latitude":34.07087,"longitude":-112.15071}}(window,'GeoPostal','US');

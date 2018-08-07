@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5016"]={"code":"5016","region":"South Australia","city":"Largs Bay","latitude":-34.8,"longitude":138.46667}}(window,'GeoPostal','AU');

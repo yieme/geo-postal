@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59620"]={"code":"59620","region":"Hauts-de-France","city":"Leval","latitude":50.18106,"longitude":3.83093}}(window,'GeoPostal','FR');

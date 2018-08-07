@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907215"]={"code":"907215","region":"Constanta","city":"Oltina","latitude":44.16667,"longitude":27.66667}}(window,'GeoPostal','RO');

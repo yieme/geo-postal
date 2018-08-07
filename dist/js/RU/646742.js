@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646742"]={"code":"646742","region":"Omskaya oblast'","city":"Poltavka","latitude":54.36629,"longitude":71.76319}}(window,'GeoPostal','RU');

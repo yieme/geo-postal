@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92021"]={"code":"92021","region":"Sicilia","city":"Aragona","latitude":37.40084,"longitude":13.61756}}(window,'GeoPostal','IT');

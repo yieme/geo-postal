@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55339"]={"code":"55339","region":"MN","city":"Hamburg","latitude":44.7315,"longitude":-93.9643}}(window,'GeoPostal','US');

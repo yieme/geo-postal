@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53530"]={"code":"53530","region":"Wisconsin","city":"Darlington","latitude":42.68306,"longitude":-90.11763}}(window,'GeoPostal','US');

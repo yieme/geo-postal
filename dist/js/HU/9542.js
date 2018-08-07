@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9542"]={"code":"9542","region":"Vas","city":"Celldomolk","latitude":47.25712,"longitude":17.15027}}(window,'GeoPostal','HU');

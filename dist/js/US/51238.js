@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51238"]={"code":"51238","region":"Iowa","city":"Hospers","latitude":43.071346,"longitude":-95.903935}}(window,'GeoPostal','US');

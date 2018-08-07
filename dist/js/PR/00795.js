@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00795"]={"code":"00795","region":"Juana Diaz","city":"Rio Canas Abajo","latitude":18.0383,"longitude":-66.46767}}(window,'GeoPostal','PR');

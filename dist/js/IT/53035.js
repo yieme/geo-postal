@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53035"]={"code":"53035","region":"Toscana","city":"Monteriggioni","latitude":43.38994,"longitude":11.22323}}(window,'GeoPostal','IT');

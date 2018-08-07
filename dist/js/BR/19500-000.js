@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19500-000"]={"code":"19500-000","region":"Sao Paulo","city":"Martinopolis","latitude":-22.14583,"longitude":-51.17083}}(window,'GeoPostal','BR');

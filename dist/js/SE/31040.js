@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31040"]={"code":"31040","region":"Hallands lan","city":"Harplinge","latitude":56.75,"longitude":12.71667}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["615202"]={"code":"615202","region":"Neamt","city":"Tirgu Neamt","latitude":47.2,"longitude":26.36667}}(window,'GeoPostal','RO');

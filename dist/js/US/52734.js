@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52734"]={"code":"52734","region":"IA","city":"Clinton","latitude":41.8444,"longitude":-90.1885}}(window,'GeoPostal','US');

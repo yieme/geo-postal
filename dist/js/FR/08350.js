@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08350"]={"code":"08350","region":"Grand-Est","city":"Donchery","latitude":49.69584,"longitude":4.87417}}(window,'GeoPostal','FR');

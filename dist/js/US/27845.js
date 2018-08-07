@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27845"]={"code":"27845","region":"NC","city":"Jackson","latitude":36.3896,"longitude":-77.4214}}(window,'GeoPostal','US');

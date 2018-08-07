@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY12 7LJ"]={"code":"KY12 7LJ","region":"Scotland","city":"Dunfermline","latitude":56.07156,"longitude":-3.45887}}(window,'GeoPostal','GB');

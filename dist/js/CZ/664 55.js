@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 55"]={"code":"664 55","region":"Jihomoravsky kraj","city":"Moutnice","latitude":49.04924,"longitude":16.73741}}(window,'GeoPostal','CZ');

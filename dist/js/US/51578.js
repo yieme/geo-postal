@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51578"]={"code":"51578","region":"IA","city":"Westphalia","latitude":41.7199,"longitude":-95.3952}}(window,'GeoPostal','US');

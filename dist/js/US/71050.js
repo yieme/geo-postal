@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71050"]={"code":"71050","region":"LA","city":"Longstreet","latitude":32.0977,"longitude":-93.9521}}(window,'GeoPostal','US');

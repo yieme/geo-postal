@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84739"]={"code":"84739","region":"Utah","city":"Joseph","latitude":38.619914,"longitude":-112.21794}}(window,'GeoPostal','US');

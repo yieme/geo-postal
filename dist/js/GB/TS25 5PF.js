@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS25 5PF"]={"code":"TS25 5PF","region":"England","city":"Sunderland","latitude":54.7,"longitude":-3.26667}}(window,'GeoPostal','GB');

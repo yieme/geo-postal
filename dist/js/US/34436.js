@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34436"]={"code":"34436","region":"FL","city":"Floral City","latitude":28.7304,"longitude":-82.3077}}(window,'GeoPostal','US');

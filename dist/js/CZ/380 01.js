@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["380 01"]={"code":"380 01","region":"Jihocesky kraj","city":"Dacice","latitude":49.08154,"longitude":15.43727}}(window,'GeoPostal','CZ');

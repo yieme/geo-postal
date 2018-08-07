@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73066"]={"code":"73066","region":"OK","city":"Nicoma Park","latitude":35.4928,"longitude":-97.3276}}(window,'GeoPostal','US');

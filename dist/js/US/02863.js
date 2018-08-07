@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02863"]={"code":"02863","region":"Rhode Island","city":"Central Falls","latitude":41.89066,"longitude":-71.39228}}(window,'GeoPostal','US');

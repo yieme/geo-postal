@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35737"]={"code":"35737","region":"Sakarya","city":"Tarakli","latitude":40.39694,"longitude":30.49278}}(window,'GeoPostal','TR');

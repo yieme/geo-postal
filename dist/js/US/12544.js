@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12544"]={"code":"12544","region":"NY","city":"Mellenville","latitude":42.2596,"longitude":-73.668}}(window,'GeoPostal','US');

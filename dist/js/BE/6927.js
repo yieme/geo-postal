@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6927"]={"code":"6927","region":"Luxembourg","city":"Tellin","latitude":50.08038,"longitude":5.21638}}(window,'GeoPostal','BE');

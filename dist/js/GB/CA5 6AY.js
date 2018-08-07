@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA5 6AY"]={"code":"CA5 6AY","region":"England","city":"Burgh by Sands","latitude":54.92181,"longitude":-3.05671}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61528"]={"code":"61528","region":"IL","city":"Edwards","latitude":40.779,"longitude":-89.723}}(window,'GeoPostal','US');

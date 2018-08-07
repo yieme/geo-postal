@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84130-000"]={"code":"84130-000","region":"Parana","city":"Palmeira","latitude":-25.42944,"longitude":-50.00639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7901"]={"code":"7901","region":"Nord-Trondelag","city":"Rorvik","latitude":64.86208,"longitude":11.23734}}(window,'GeoPostal','NO');

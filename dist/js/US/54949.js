@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54949"]={"code":"54949","region":"Wisconsin","city":"Manawa","latitude":44.46443,"longitude":-88.91983}}(window,'GeoPostal','US');

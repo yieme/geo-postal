@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7540"]={"code":"7540","region":"Burgenland","city":"Kleinmurbisch","latitude":47.03333,"longitude":16.33333}}(window,'GeoPostal','AT');

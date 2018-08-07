@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36786"]={"code":"36786","region":"Alabama","city":"Uniontown","latitude":32.44958,"longitude":-87.51417}}(window,'GeoPostal','US');

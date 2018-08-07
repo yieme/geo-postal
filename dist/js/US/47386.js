@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47386"]={"code":"47386","region":"IN","city":"Springport","latitude":40.0527,"longitude":-85.3833}}(window,'GeoPostal','US');

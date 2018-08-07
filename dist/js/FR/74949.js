@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74949"]={"code":"74949","region":"Auvergne-Rhone-Alpes","city":"Annecy-le-Vieux","latitude":45.91972,"longitude":6.14393}}(window,'GeoPostal','FR');

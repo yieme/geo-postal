@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["979 01"]={"code":"979 01","region":"Banskobystricky kraj","city":"Rimavska Sobota","latitude":48.38284,"longitude":20.0224}}(window,'GeoPostal','SK');

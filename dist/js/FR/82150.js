@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82150"]={"code":"82150","region":"Occitanie","city":"Montaigu-de-Quercy","latitude":44.33964,"longitude":1.0169}}(window,'GeoPostal','FR');

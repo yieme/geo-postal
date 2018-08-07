@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682732"]={"code":"682732","region":"Khabarovskiy kray","city":"Gorin","latitude":51.19833,"longitude":136.66694}}(window,'GeoPostal','RU');

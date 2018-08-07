@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA14 6XJ"]={"code":"PA14 6XJ","region":"Scotland","city":"Langbank","latitude":55.92364,"longitude":-4.59261}}(window,'GeoPostal','GB');

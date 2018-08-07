@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45240"]={"code":"45240","region":"Ohio","city":"Forest Park","latitude":39.29034,"longitude":-84.50411}}(window,'GeoPostal','US');

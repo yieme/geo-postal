@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81110"]={"code":"81110","region":"Lvivska oblast","city":"Rudne","latitude":49.83333,"longitude":23.9}}(window,'GeoPostal','UA');

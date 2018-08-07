@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11351"]={"code":"11351","region":"Andalucia","city":"Castellar de la Frontera","latitude":36.31736,"longitude":-5.45407}}(window,'GeoPostal','ES');

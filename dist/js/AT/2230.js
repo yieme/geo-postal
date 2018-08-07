@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2230"]={"code":"2230","region":"Niederosterreich","city":"Ganserndorf","latitude":48.33925,"longitude":16.72016}}(window,'GeoPostal','AT');

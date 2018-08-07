@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352389"]={"code":"352389","region":"Krasnodarskiy kray","city":"Kropotkin","latitude":45.4375,"longitude":40.57556}}(window,'GeoPostal','RU');

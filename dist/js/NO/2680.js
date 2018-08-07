@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2680"]={"code":"2680","region":"Oppland","city":"Vagamo","latitude":61.87505,"longitude":9.09671}}(window,'GeoPostal','NO');

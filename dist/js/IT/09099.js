@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09099"]={"code":"09099","region":"Sardegna","city":"Uras","latitude":39.70064,"longitude":8.70003}}(window,'GeoPostal','IT');

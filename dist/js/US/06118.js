@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06118"]={"code":"06118","region":"CT","city":"East Hartford","latitude":41.7472,"longitude":-72.6103}}(window,'GeoPostal','US');

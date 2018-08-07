@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5301"]={"code":"5301","region":"Aargau","city":"Untersiggenthal","latitude":47.50213,"longitude":8.25554}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2305"]={"code":"2305","region":"New South Wales","city":"Lambton","latitude":-32.91667,"longitude":151.7}}(window,'GeoPostal','AU');

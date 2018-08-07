@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97638"]={"code":"97638","region":"Oregon","city":"Silver Lake","latitude":43.13205,"longitude":-121.04312}}(window,'GeoPostal','US');

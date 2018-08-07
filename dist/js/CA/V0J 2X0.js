@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 2X0"]={"code":"V0J 2X0","region":"British Columbia","city":"Telkwa","latitude":54.69696,"longitude":-127.05346}}(window,'GeoPostal','CA');

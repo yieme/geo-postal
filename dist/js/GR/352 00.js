@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352 00"]={"code":"352 00","region":"Sterea Ellada","city":"Atalanti","latitude":38.65111,"longitude":22.99917}}(window,'GeoPostal','GR');

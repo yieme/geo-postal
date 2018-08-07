@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9520"]={"code":"9520","region":"Finnmark","city":"Kautokeino","latitude":69.01247,"longitude":23.04116}}(window,'GeoPostal','NO');

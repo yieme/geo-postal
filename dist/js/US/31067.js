@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31067"]={"code":"31067","region":"GA","city":"Oconee","latitude":32.8554,"longitude":-82.9499}}(window,'GeoPostal','US');

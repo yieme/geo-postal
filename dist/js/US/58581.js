@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58581"]={"code":"58581","region":"North Dakota","city":"Zeeland","latitude":46.026356,"longitude":-99.724573}}(window,'GeoPostal','US');

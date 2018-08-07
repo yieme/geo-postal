@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV8 1PG"]={"code":"WV8 1PG","region":"England","city":"Codsall","latitude":52.62989,"longitude":-2.20148}}(window,'GeoPostal','GB');

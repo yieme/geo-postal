@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 9LL"]={"code":"DN22 9LL","region":"England","city":"Hayton","latitude":53.35,"longitude":-0.9}}(window,'GeoPostal','GB');

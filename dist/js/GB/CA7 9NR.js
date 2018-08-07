@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 9NR"]={"code":"CA7 9NR","region":"England","city":"Wigton","latitude":54.82482,"longitude":-3.16114}}(window,'GeoPostal','GB');

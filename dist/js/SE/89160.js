@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89160"]={"code":"89160","region":"Vasternorrlands lan","city":"Ornskoldsvik","latitude":63.29091,"longitude":18.71525}}(window,'GeoPostal','SE');

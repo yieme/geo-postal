@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46789"]={"code":"46789","region":"Indiana","city":"Stroh","latitude":41.58132,"longitude":-85.1994}}(window,'GeoPostal','US');

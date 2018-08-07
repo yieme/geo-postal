@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK17 0LU"]={"code":"SK17 0LU","region":"England","city":"Buxton","latitude":52.75255,"longitude":1.29982}}(window,'GeoPostal','GB');

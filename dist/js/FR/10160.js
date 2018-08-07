@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10160"]={"code":"10160","region":"Grand-Est","city":"Aix-en-Othe","latitude":48.22391,"longitude":3.73425}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24398"]={"code":"24398","region":"Castilla y Leon","city":"Congosto","latitude":42.61755,"longitude":-6.52048}}(window,'GeoPostal','ES');

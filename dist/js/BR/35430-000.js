@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35430-000"]={"code":"35430-000","region":"Minas Gerais","city":"Ponte Nova","latitude":-20.41639,"longitude":-42.90861}}(window,'GeoPostal','BR');

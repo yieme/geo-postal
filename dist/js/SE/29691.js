@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29691"]={"code":"29691","region":"Skane lan","city":"Ahus","latitude":55.91667,"longitude":14.28333}}(window,'GeoPostal','SE');

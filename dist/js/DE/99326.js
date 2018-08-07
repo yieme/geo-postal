@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99326"]={"code":"99326","region":"Thuringen","city":"Griesheim","latitude":50.75337,"longitude":11.04122}}(window,'GeoPostal','DE');

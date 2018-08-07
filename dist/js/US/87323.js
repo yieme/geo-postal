@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87323"]={"code":"87323","region":"NM","city":"Thoreau","latitude":35.3976,"longitude":-108.1604}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327315"]={"code":"327315","region":"Caras-Severin","city":"Racasdia","latitude":44.99306,"longitude":21.61806}}(window,'GeoPostal','RO');

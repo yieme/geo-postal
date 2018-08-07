@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56633"]={"code":"56633","region":"Minnesota","city":"Cass Lake","latitude":47.37861,"longitude":-94.60389}}(window,'GeoPostal','US');

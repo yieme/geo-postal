@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25500"]={"code":"25500","region":"Ucayali","city":"Campoverde","latitude":-8.47528,"longitude":-74.80583}}(window,'GeoPostal','PE');

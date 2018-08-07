@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56676"]={"code":"56676","region":"Minnesota","city":"Shevlin","latitude":47.52944,"longitude":-95.26083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140306"]={"code":"140306","region":"Moskovskaya oblast'","city":"Yegor'yevsk","latitude":55.38283,"longitude":39.03233}}(window,'GeoPostal','RU');

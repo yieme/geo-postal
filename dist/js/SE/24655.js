@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24655"]={"code":"24655","region":"Skane lan","city":"Loddekopinge","latitude":55.76667,"longitude":13.01667}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200"]={"code":"8200","region":"Burgas","city":"Pomorie","latitude":42.55882,"longitude":27.64393}}(window,'GeoPostal','BG');

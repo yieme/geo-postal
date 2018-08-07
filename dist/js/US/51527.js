@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51527"]={"code":"51527","region":"IA","city":"Defiance","latitude":41.8053,"longitude":-95.3537}}(window,'GeoPostal','US');

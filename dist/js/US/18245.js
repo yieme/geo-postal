@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18245"]={"code":"18245","region":"PA","city":"Quakake","latitude":40.8518,"longitude":-76.036}}(window,'GeoPostal','US');

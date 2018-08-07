@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320 11"]={"code":"320 11","region":"Sterea Ellada","city":"Oinofita","latitude":38.31667,"longitude":23.63333}}(window,'GeoPostal','GR');

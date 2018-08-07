@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46902"]={"code":"46902","region":"Indiana","city":"Kokomo","latitude":40.453838,"longitude":-86.13416}}(window,'GeoPostal','US');

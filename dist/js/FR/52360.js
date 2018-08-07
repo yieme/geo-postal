@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52360"]={"code":"52360","region":"Grand-Est","city":"Neuilly-l'Eveque","latitude":47.9175,"longitude":5.4414}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43700"]={"code":"43700","region":"Catalunya","city":"El Vendrell","latitude":41.21667,"longitude":1.53333}}(window,'GeoPostal','ES');

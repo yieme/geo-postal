@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58229"]={"code":"58229","region":"ND","city":"Fairdale","latitude":48.4819,"longitude":-98.2066}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94946"]={"code":"94946","region":"Veracruz de Ignacio de la Llave","city":"Paraje Nuevo","latitude":18.87083,"longitude":-96.86667}}(window,'GeoPostal','MX');

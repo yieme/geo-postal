@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62351"]={"code":"62351","region":"Kharkivska oblast","city":"Pivdenne","latitude":49.88551,"longitude":36.06675}}(window,'GeoPostal','UA');

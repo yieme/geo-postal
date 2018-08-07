@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97570-000"]={"code":"97570-000","region":"Rio Grande do Sul","city":"Santana do Livramento","latitude":-30.89083,"longitude":-55.53278}}(window,'GeoPostal','BR');

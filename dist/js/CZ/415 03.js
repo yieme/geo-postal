@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415 03"]={"code":"415 03","region":"Ustecky kraj","city":"Teplice","latitude":50.6404,"longitude":13.82451}}(window,'GeoPostal','CZ');

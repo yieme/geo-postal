@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8232"]={"code":"8232","region":"Nordland","city":"Straumen","latitude":67.34769,"longitude":15.60493}}(window,'GeoPostal','NO');

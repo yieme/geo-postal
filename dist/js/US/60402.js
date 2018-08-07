@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60402"]={"code":"60402","region":"Illinois","city":"Berwyn","latitude":41.85059,"longitude":-87.79367}}(window,'GeoPostal','US');

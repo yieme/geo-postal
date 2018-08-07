@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE44 6AZ"]={"code":"NE44 6AZ","region":"England","city":"Ridingmill","latitude":54.93333,"longitude":-1.96667}}(window,'GeoPostal','GB');

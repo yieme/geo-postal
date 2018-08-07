@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7696"]={"code":"7696","region":"Baranya","city":"Hidas","latitude":46.2568,"longitude":18.4954}}(window,'GeoPostal','HU');

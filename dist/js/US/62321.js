@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62321"]={"code":"62321","region":"Illinois","city":"Carthage","latitude":40.344444,"longitude":-91.111667}}(window,'GeoPostal','US');

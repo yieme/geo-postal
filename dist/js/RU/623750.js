@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623750"]={"code":"623750","region":"Sverdlovskaya oblast'","city":"Artemovskiy","latitude":57.3555,"longitude":61.86865}}(window,'GeoPostal','RU');

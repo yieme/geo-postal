@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81014"]={"code":"81014","region":"Campania","city":"Capriati al Volturno","latitude":41.46862,"longitude":14.14542}}(window,'GeoPostal','IT');

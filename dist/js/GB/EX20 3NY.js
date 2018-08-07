@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 3NY"]={"code":"EX20 3NY","region":"England","city":"Northlew","latitude":50.77234,"longitude":-4.12286}}(window,'GeoPostal','GB');

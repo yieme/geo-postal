@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40040"]={"code":"40040","region":"KY","city":"Mackville","latitude":37.7568,"longitude":-85.059}}(window,'GeoPostal','US');

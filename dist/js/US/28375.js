@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28375"]={"code":"28375","region":"NC","city":"Proctorville","latitude":34.4713,"longitude":-79.0414}}(window,'GeoPostal','US');

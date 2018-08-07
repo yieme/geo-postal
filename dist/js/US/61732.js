@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61732"]={"code":"61732","region":"IL","city":"Danvers","latitude":40.5364,"longitude":-89.1885}}(window,'GeoPostal','US');

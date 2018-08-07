@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29695"]={"code":"29695","region":"SC","city":"Hodges","latitude":34.2876,"longitude":-82.2443}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06264"]={"code":"06264","region":"CT","city":"Scotland","latitude":41.6958,"longitude":-72.087}}(window,'GeoPostal','US');

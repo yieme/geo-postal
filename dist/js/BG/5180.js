@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5180"]={"code":"5180","region":"Veliko Tarnovo","city":"Polski Trumbesh","latitude":43.38361,"longitude":25.64972}}(window,'GeoPostal','BG');

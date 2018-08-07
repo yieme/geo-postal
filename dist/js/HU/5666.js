@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5666"]={"code":"5666","region":"Bekes","city":"Medgyesegyhaza","latitude":46.5,"longitude":21.03333}}(window,'GeoPostal','HU');

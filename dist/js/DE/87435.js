@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87435"]={"code":"87435","region":"Bayern","city":"Kempten (Allgaeu)","latitude":47.72674,"longitude":10.31389}}(window,'GeoPostal','DE');

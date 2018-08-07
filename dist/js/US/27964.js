@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27964"]={"code":"27964","region":"North Carolina","city":"Point Harbor","latitude":36.07889,"longitude":-75.79472}}(window,'GeoPostal','US');

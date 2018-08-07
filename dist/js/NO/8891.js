@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8891"]={"code":"8891","region":"Nordland","city":"Leland","latitude":66.06381,"longitude":12.94584}}(window,'GeoPostal','NO');

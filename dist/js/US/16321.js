@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16321"]={"code":"16321","region":"Pennsylvania","city":"Endeavor","latitude":41.560842,"longitude":-79.375645}}(window,'GeoPostal','US');

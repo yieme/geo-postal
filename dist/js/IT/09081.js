@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09081"]={"code":"09081","region":"Sardegna","city":"Ardauli","latitude":40.08465,"longitude":8.91153}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 1N0"]={"code":"A0K 1N0","region":"Newfoundland and Labrador","city":"Batteau","latitude":53.41678,"longitude":-55.78125}}(window,'GeoPostal','CA');

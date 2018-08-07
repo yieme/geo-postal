@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-604"]={"code":"78-604","region":"Zachodniopomorskie","city":"Walcz","latitude":53.27787,"longitude":16.47122}}(window,'GeoPostal','PL');

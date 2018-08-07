@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99564"]={"code":"99564","region":"AK","city":"Chignik","latitude":56.3016,"longitude":-158.4157}}(window,'GeoPostal','US');

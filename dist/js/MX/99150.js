@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99150"]={"code":"99150","region":"Zacatecas","city":"Fresnillo de Gonzalez Echeverria","latitude":23.16667,"longitude":-102.88333}}(window,'GeoPostal','MX');

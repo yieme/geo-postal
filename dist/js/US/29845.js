@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29845"]={"code":"29845","region":"SC","city":"Plum Branch","latitude":33.8329,"longitude":-82.248}}(window,'GeoPostal','US');

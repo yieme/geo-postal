@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67390"]={"code":"67390","region":"Sindh","city":"Darya Khan Marri","latitude":26.67748,"longitude":68.2859}}(window,'GeoPostal','PK');

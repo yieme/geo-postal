@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4W 3Y5"]={"code":"V4W 3Y5","region":"British Columbia","city":"Gloucester","latitude":49.09804,"longitude":-122.47361}}(window,'GeoPostal','CA');

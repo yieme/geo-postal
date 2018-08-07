@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13803"]={"code":"13803","region":"NY","city":"Marathon","latitude":42.4527,"longitude":-76.0395}}(window,'GeoPostal','US');

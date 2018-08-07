@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612969"]={"code":"612969","region":"Kirovskaya oblast'","city":"Vyatskiye Polyany","latitude":56.22602,"longitude":51.06557}}(window,'GeoPostal','RU');

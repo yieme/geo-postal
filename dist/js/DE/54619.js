@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54619"]={"code":"54619","region":"Rheinland-Pfalz","city":"Reiff","latitude":50.1,"longitude":6.2}}(window,'GeoPostal','DE');

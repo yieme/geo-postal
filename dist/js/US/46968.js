@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46968"]={"code":"46968","region":"Indiana","city":"Ora","latitude":41.175578,"longitude":-86.553055}}(window,'GeoPostal','US');

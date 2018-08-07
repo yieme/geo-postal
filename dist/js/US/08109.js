@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08109"]={"code":"08109","region":"New Jersey","city":"Pennsauken","latitude":39.95622,"longitude":-75.05795}}(window,'GeoPostal','US');

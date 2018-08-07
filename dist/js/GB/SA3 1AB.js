@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1AB"]={"code":"SA3 1AB","region":"Wales","city":"Reynoldston","latitude":51.58932,"longitude":-4.19367}}(window,'GeoPostal','GB');

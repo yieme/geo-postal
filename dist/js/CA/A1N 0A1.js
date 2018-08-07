@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1N 0A1"]={"code":"A1N 0A1","region":"Newfoundland and Labrador","city":"Mount Pearl","latitude":47.51659,"longitude":-52.78135}}(window,'GeoPostal','CA');

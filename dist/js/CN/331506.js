@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331506"]={"code":"331506","region":"Jiangxi","city":"Qidu","latitude":27.2756,"longitude":115.55632}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49077"]={"code":"49077","region":"Michigan","city":"Oshtemo","latitude":42.258889,"longitude":-85.6775}}(window,'GeoPostal','US');

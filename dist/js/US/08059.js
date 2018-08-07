@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08059"]={"code":"08059","region":"NJ","city":"Mount Ephraim","latitude":39.8827,"longitude":-75.0929}}(window,'GeoPostal','US');

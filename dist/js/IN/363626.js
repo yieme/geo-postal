@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363626"]={"code":"363626","region":"Gujarat","city":"Wankaner","latitude":22.61667,"longitude":70.93333}}(window,'GeoPostal','IN');

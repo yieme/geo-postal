@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65130"]={"code":"65130","region":"Occitanie","city":"Capvern","latitude":43.10357,"longitude":0.31604}}(window,'GeoPostal','FR');

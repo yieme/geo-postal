@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01379"]={"code":"01379","region":"MA","city":"Wendell","latitude":42.5656,"longitude":-72.4009}}(window,'GeoPostal','US');

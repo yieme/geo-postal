@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33980"]={"code":"33980","region":"Mersin","city":"Atayurt","latitude":36.381233,"longitude":34.029651}}(window,'GeoPostal','TR');

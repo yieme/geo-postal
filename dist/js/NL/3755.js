@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3755"]={"code":"3755","region":"Utrecht","city":"Eemnes","latitude":52.253746,"longitude":5.261275}}(window,'GeoPostal','NL');

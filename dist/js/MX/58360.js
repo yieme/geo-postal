@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58360"]={"code":"58360","region":"Michoacan de Ocampo","city":"Zamora de Hidalgo","latitude":19.98333,"longitude":-102.26667}}(window,'GeoPostal','MX');

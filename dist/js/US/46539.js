@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46539"]={"code":"46539","region":"Indiana","city":"Mentone","latitude":41.17338,"longitude":-86.03472}}(window,'GeoPostal','US');

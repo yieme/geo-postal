@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79842"]={"code":"79842","region":"Texas","city":"Marathon","latitude":30.123639,"longitude":-103.139303}}(window,'GeoPostal','US');

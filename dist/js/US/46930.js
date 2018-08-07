@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46930"]={"code":"46930","region":"IN","city":"Fowlerton","latitude":40.4099,"longitude":-85.571}}(window,'GeoPostal','US');

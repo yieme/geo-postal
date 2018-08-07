@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10573"]={"code":"10573","region":"New York","city":"Port Chester","latitude":41.00176,"longitude":-73.66568}}(window,'GeoPostal','US');

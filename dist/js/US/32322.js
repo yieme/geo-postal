@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32322"]={"code":"32322","region":"Florida","city":"Carrabelle","latitude":29.85326,"longitude":-84.66435}}(window,'GeoPostal','US');

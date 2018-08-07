@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235400"]={"code":"235400","region":"Olt","city":"Draganesti-Olt","latitude":44.16667,"longitude":24.53333}}(window,'GeoPostal','RO');

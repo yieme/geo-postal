@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3287"]={"code":"3287","region":"Entre Rios","city":"Ubajay","latitude":-31.79358,"longitude":-58.3135}}(window,'GeoPostal','AR');

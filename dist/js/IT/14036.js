@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14036"]={"code":"14036","region":"Piemonte","city":"Moncalvo","latitude":45.05025,"longitude":8.26524}}(window,'GeoPostal','IT');

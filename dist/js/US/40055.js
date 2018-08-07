@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40055"]={"code":"40055","region":"KY","city":"Pendleton","latitude":38.4809,"longitude":-85.317}}(window,'GeoPostal','US');

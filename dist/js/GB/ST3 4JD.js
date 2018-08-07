@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST3 4JD"]={"code":"ST3 4JD","region":"England","city":"Longton","latitude":52.98333,"longitude":-2.13333}}(window,'GeoPostal','GB');

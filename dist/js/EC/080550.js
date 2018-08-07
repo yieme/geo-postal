@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080550"]={"code":"080550","region":"Esmeraldas","city":"San Lorenzo de Esmeraldas","latitude":1.28833,"longitude":-78.83694}}(window,'GeoPostal','EC');

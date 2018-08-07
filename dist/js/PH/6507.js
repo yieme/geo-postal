@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6507"]={"code":"6507","region":"Leyte","city":"Mayorga","latitude":10.9,"longitude":125}}(window,'GeoPostal','PH');

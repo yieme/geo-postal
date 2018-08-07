@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37019"]={"code":"37019","region":"TN","city":"Belfast","latitude":35.4069,"longitude":-86.7095}}(window,'GeoPostal','US');

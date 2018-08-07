@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61055"]={"code":"61055","region":"Sodermanlands lan","city":"Stigtomta","latitude":58.8,"longitude":16.78333}}(window,'GeoPostal','SE');

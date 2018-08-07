@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04016"]={"code":"04016","region":"Maine","city":"Center Lovell","latitude":44.173464,"longitude":-70.873207}}(window,'GeoPostal','US');

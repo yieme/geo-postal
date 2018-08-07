@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673370"]={"code":"673370","region":"Zabaykal'skiy kray","city":"Shilka","latitude":51.85,"longitude":116.03333}}(window,'GeoPostal','RU');

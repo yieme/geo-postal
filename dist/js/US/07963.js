@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07963"]={"code":"07963","region":"NJ","city":"Morristown","latitude":40.7968,"longitude":-74.4815}}(window,'GeoPostal','US');

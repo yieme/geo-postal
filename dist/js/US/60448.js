@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60448"]={"code":"60448","region":"Illinois","city":"Mokena","latitude":41.535857,"longitude":-87.887753}}(window,'GeoPostal','US');

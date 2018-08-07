@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 2Y0"]={"code":"A0K 2Y0","region":"Newfoundland and Labrador","city":"Hampden","latitude":49.55,"longitude":-56.84826}}(window,'GeoPostal','CA');

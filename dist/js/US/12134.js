@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12134"]={"code":"12134","region":"New York","city":"Northville","latitude":40.9701,"longitude":-72.61898}}(window,'GeoPostal','US');

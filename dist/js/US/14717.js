@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14717"]={"code":"14717","region":"New York","city":"Caneadea","latitude":42.40028,"longitude":-78.16}}(window,'GeoPostal','US');

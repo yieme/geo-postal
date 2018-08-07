@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22539"]={"code":"22539","region":"Virginia","city":"Reedville","latitude":37.84194,"longitude":-76.27583}}(window,'GeoPostal','US');

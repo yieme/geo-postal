@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655200"]={"code":"655200","region":"Yunnan","city":"Rende","latitude":25.5582,"longitude":103.27604}}(window,'GeoPostal','CN');

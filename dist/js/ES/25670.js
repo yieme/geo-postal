@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25670"]={"code":"25670","region":"Catalunya","city":"Termens","latitude":41.71667,"longitude":0.76667}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 51"]={"code":"468 51","region":"Liberecky kraj","city":"Smrzovka","latitude":50.7382,"longitude":15.24639}}(window,'GeoPostal','CZ');

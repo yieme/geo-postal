@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356407"]={"code":"356407","region":"Stavropol'skiy kray","city":"Aleksandriya","latitude":45.09472,"longitude":43.24556}}(window,'GeoPostal','RU');

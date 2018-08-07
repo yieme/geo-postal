@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493889"]={"code":"493889","region":"Chhattisgarh","city":"Gariaband","latitude":20.635,"longitude":82.06139}}(window,'GeoPostal','IN');

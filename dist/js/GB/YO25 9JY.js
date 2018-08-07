@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9JY"]={"code":"YO25 9JY","region":"England","city":"Kilnwick","latitude":53.93256,"longitude":-0.48095}}(window,'GeoPostal','GB');

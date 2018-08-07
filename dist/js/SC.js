@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SC"]={id:'SC',country:'Seychelles', postal:{'':{code:'',region:'English River',city:'Victoria',latitude:-4.61667,longitude:55.45}}};

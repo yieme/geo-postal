@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61532"]={"code":"61532","region":"IL","city":"Forest City","latitude":40.3594,"longitude":-89.8334}}(window,'GeoPostal','US');

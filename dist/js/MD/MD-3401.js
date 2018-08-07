@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3401"]={"code":"MD-3401","region":"Hincesti","city":"Hincesti","latitude":46.82583,"longitude":28.59361}}(window,'GeoPostal','MD');

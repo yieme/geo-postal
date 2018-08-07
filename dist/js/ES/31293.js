@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31293"]={"code":"31293","region":"Navarra, Comunidad Foral de","city":"Sesma","latitude":42.47748,"longitude":-2.08353}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4DY"]={"code":"IP21 4DY","region":"England","city":"Scole","latitude":52.36706,"longitude":1.15674}}(window,'GeoPostal','GB');

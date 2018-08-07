@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58040"]={"code":"58040","region":"ND","city":"Gwinner","latitude":46.2258,"longitude":-97.6626}}(window,'GeoPostal','US');

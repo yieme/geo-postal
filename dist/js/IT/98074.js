@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98074"]={"code":"98074","region":"Sicilia","city":"Naso","latitude":38.12306,"longitude":14.78688}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["942-0072"]={"code":"942-0072","region":"Niigata","city":"Joetsu","latitude":37.15,"longitude":138.233}}(window,'GeoPostal','JP');

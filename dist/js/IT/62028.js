@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62028"]={"code":"62028","region":"Marche","city":"Sarnano","latitude":43.03475,"longitude":13.29818}}(window,'GeoPostal','IT');

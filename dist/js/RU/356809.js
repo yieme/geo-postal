@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356809"]={"code":"356809","region":"Stavropol'skiy kray","city":"Budennovsk","latitude":44.78389,"longitude":44.16583}}(window,'GeoPostal','RU');

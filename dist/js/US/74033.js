@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74033"]={"code":"74033","region":"OK","city":"Glenpool","latitude":35.9591,"longitude":-95.9997}}(window,'GeoPostal','US');

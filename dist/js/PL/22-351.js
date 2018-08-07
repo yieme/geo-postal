@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-351"]={"code":"22-351","region":"Lubelskie","city":"Lopiennik Gorny","latitude":51.0408,"longitude":23.01833}}(window,'GeoPostal','PL');

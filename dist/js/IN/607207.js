@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607207"]={"code":"607207","region":"Tamil Nadu","city":"Vriddhachalam","latitude":11.5,"longitude":79.33333}}(window,'GeoPostal','IN');

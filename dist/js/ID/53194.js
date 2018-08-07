@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53194"]={"code":"53194","region":"Jawa Tengah","city":"Gununglaban","latitude":-7.58944,"longitude":109.23111}}(window,'GeoPostal','ID');

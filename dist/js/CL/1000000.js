@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1000000"]={"code":"1000000","region":"Arica y Parinacota","city":"Arica","latitude":-18.475,"longitude":-70.30417}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97558"]={"code":"97558","region":"Maluku","city":"Amahai","latitude":-3.33333,"longitude":128.91667}}(window,'GeoPostal','ID');

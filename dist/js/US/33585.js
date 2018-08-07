@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33585"]={"code":"33585","region":"Florida","city":"Sumterville","latitude":28.696406,"longitude":-82.003385}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547266"]={"code":"547266","region":"Mures","city":"Ghindari","latitude":46.5,"longitude":24.91667}}(window,'GeoPostal','RO');

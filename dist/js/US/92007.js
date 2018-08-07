@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92007"]={"code":"92007","region":"CA","city":"Cardiff By The Sea","latitude":33.023,"longitude":-117.2745}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60020"]={"code":"60020","region":"Marche","city":"Camerata Picena","latitude":43.57816,"longitude":13.35097}}(window,'GeoPostal','IT');

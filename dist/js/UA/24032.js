@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24032"]={"code":"24032","region":"Vinnytska oblast","city":"Vendychany","latitude":48.61176,"longitude":27.79324}}(window,'GeoPostal','UA');

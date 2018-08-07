@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 9AX"]={"code":"HU12 9AX","region":"England","city":"Burton Pidsea","latitude":53.76327,"longitude":-0.10703}}(window,'GeoPostal','GB');

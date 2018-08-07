@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40046"]={"code":"40046","region":"Emilia-Romagna","city":"Porretta Terme","latitude":44.15916,"longitude":10.97231}}(window,'GeoPostal','IT');

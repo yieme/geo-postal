@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67650"]={"code":"67650","region":"Kansas","city":"Morland","latitude":39.337308,"longitude":-100.074873}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8304"]={"code":"8304","region":"Zurich","city":"Wallisellen","latitude":47.41499,"longitude":8.59672}}(window,'GeoPostal','CH');

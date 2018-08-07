@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36120-000"]={"code":"36120-000","region":"Minas Gerais","city":"Matias Barbosa","latitude":-21.86917,"longitude":-43.31944}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79736"]={"code":"79736","region":"Bayern","city":"Rickenbach","latitude":47.5553,"longitude":9.72813}}(window,'GeoPostal','DE');

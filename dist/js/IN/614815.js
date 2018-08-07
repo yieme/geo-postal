@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614815"]={"code":"614815","region":"Tamil Nadu","city":"Muttupet","latitude":10.4,"longitude":79.48333}}(window,'GeoPostal','IN');

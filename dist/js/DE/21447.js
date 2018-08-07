@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21447"]={"code":"21447","region":"Niedersachsen","city":"Mover","latitude":53.36677,"longitude":10.28906}}(window,'GeoPostal','DE');

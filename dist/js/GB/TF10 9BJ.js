@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF10 9BJ"]={"code":"TF10 9BJ","region":"England","city":"Great Chatwell","latitude":52.72703,"longitude":-2.30756}}(window,'GeoPostal','GB');

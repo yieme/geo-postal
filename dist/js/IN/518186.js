@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518186"]={"code":"518186","region":"Andhra Pradesh","city":"Banganapalle","latitude":15.31667,"longitude":78.23333}}(window,'GeoPostal','IN');

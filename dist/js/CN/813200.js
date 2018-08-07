@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["813200"]={"code":"813200","region":"Qinghai","city":"Jiangqun","latitude":35.05538,"longitude":100.33283}}(window,'GeoPostal','CN');

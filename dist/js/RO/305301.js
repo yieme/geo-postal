@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305301"]={"code":"305301","region":"Timis","city":"Faget","latitude":45.85,"longitude":22.18333}}(window,'GeoPostal','RO');

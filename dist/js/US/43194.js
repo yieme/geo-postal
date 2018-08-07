@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43194"]={"code":"43194","region":"OH","city":"Lockbourne","latitude":39.8092,"longitude":-82.9725}}(window,'GeoPostal','US');

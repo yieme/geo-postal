@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22203"]={"code":"22203","region":"Sibensko-kninska zupanija","city":"Rogoznica","latitude":43.52472,"longitude":15.97}}(window,'GeoPostal','HR');

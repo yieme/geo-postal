@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91744"]={"code":"91744","region":"California","city":"City Of Industry","latitude":34.031085,"longitude":-117.93634}}(window,'GeoPostal','US');

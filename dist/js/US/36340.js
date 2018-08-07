@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36340"]={"code":"36340","region":"Alabama","city":"Geneva","latitude":31.036112,"longitude":-85.879726}}(window,'GeoPostal','US');

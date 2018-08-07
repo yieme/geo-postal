@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH14 0LT"]={"code":"RH14 0LT","region":"England","city":"Kirdford","latitude":51.02987,"longitude":-0.5497}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2761"]={"code":"2761","region":"Pest","city":"Nagykata","latitude":47.41514,"longitude":19.7441}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761-0130"]={"code":"761-0130","region":"Kagawa","city":"Takamatsu","latitude":34.35,"longitude":134.05}}(window,'GeoPostal','JP');

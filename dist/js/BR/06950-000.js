@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06950-000"]={"code":"06950-000","region":"Sao Paulo","city":"Juquitiba","latitude":-23.93167,"longitude":-47.06833}}(window,'GeoPostal','BR');

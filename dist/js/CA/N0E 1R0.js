@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0E 1R0"]={"code":"N0E 1R0","region":"Ontario","city":"Scotland","latitude":43.0168,"longitude":-80.36637}}(window,'GeoPostal','CA');

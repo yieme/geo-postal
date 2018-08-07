@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52353"]={"code":"52353","region":"Nordrhein-Westfalen","city":"Birkesdorf","latitude":50.8219,"longitude":6.46691}}(window,'GeoPostal','DE');

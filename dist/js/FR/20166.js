@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20166"]={"code":"20166","region":"Corse","city":"Albitreccia","latitude":41.86248,"longitude":8.94182}}(window,'GeoPostal','FR');

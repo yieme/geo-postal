@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79510"]={"code":"79510","region":"Texas","city":"Clyde","latitude":32.40596,"longitude":-99.49369}}(window,'GeoPostal','US');

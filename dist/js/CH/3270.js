@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3270"]={"code":"3270","region":"Bern","city":"Aarberg","latitude":47.04439,"longitude":7.27578}}(window,'GeoPostal','CH');

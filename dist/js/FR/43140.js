@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43140"]={"code":"43140","region":"Auvergne-Rhone-Alpes","city":"Saint-Didier-en-Velay","latitude":45.30234,"longitude":4.27561}}(window,'GeoPostal','FR');

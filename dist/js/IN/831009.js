@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831009"]={"code":"831009","region":"Jharkhand","city":"Jugsalai","latitude":22.76667,"longitude":86.18333}}(window,'GeoPostal','IN');

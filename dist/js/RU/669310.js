@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["669310"]={"code":"669310","region":"Irkutskaya oblast'","city":"Bokhan","latitude":53.153,"longitude":103.7714}}(window,'GeoPostal','RU');

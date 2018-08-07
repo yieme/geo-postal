@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-515"]={"code":"96-515","region":"Mazowieckie","city":"Teresin","latitude":52.19887,"longitude":20.41672}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666037"]={"code":"666037","region":"Irkutskaya oblast'","city":"Shelekhov","latitude":52.21389,"longitude":104.1}}(window,'GeoPostal','RU');

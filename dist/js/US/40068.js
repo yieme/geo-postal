@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40068"]={"code":"40068","region":"KY","city":"Smithfield","latitude":38.3933,"longitude":-85.2656}}(window,'GeoPostal','US');

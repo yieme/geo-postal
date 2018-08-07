@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94522"]={"code":"94522","region":"Bayern","city":"Wallersdorf","latitude":48.73767,"longitude":12.74744}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49600"]={"code":"49600","region":"Pays-de-la-Loire","city":"Geste","latitude":47.18179,"longitude":-1.10917}}(window,'GeoPostal','FR');

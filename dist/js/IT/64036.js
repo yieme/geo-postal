@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64036"]={"code":"64036","region":"Abruzzo","city":"Cellino Attanasio","latitude":42.58574,"longitude":13.8605}}(window,'GeoPostal','IT');

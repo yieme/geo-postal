@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137020"]={"code":"137020","region":"Dambovita","city":"Barbuletu","latitude":45.13333,"longitude":25.3}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["464337"]={"code":"464337","region":"Madhya Pradesh","city":"Basoda","latitude":23.85,"longitude":77.93333}}(window,'GeoPostal','IN');

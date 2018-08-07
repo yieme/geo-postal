@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72740"]={"code":"72740","region":"Arkansas","city":"Huntsville","latitude":36.085478,"longitude":-93.733946}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91765"]={"code":"91765","region":"California","city":"Diamond Bar","latitude":34.02862,"longitude":-117.81034}}(window,'GeoPostal','US');

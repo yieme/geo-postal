@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85353"]={"code":"85353","region":"Arizona","city":"Tolleson","latitude":33.4128,"longitude":-112.2753}}(window,'GeoPostal','US');

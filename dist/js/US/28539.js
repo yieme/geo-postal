@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28539"]={"code":"28539","region":"NC","city":"Hubert","latitude":34.6993,"longitude":-77.2079}}(window,'GeoPostal','US');

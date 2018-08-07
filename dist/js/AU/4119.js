@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4119"]={"code":"4119","region":"Tasmania","city":"Underwood","latitude":-41.3,"longitude":147.2}}(window,'GeoPostal','AU');

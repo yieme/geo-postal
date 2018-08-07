@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17333"]={"code":"17333","region":"PA","city":"Hanover","latitude":39.8007,"longitude":-76.983}}(window,'GeoPostal','US');

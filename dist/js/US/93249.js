@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93249"]={"code":"93249","region":"CA","city":"Lost Hills","latitude":35.6163,"longitude":-119.6943}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA20 4LE"]={"code":"TA20 4LE","region":"England","city":"Winsham","latitude":50.85,"longitude":-2.9}}(window,'GeoPostal','GB');

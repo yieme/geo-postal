@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48161"]={"code":"48161","region":"Nordrhein-Westfalen","city":"Altenroxel","latitude":51.93971,"longitude":7.56538}}(window,'GeoPostal','DE');

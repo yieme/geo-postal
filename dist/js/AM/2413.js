@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2413"]={"code":"2413","region":"Kotayk'","city":"Prroshyan","latitude":40.24853,"longitude":44.41631}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07240"]={"code":"07240","region":"Auvergne-Rhone-Alpes","city":"Vernoux-en-Vivarais","latitude":44.89563,"longitude":4.64643}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84047"]={"code":"84047","region":"Campania","city":"Capaccio","latitude":40.42441,"longitude":15.08085}}(window,'GeoPostal','IT');

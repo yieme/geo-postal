@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3709"]={"code":"3709","region":"Utrecht","city":"Zeist","latitude":52.09,"longitude":5.23333}}(window,'GeoPostal','NL');

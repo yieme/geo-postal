@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37082"]={"code":"37082","region":"TN","city":"Kingston Springs","latitude":36.0953,"longitude":-87.1156}}(window,'GeoPostal','US');

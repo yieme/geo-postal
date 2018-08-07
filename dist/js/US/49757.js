@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49757"]={"code":"49757","region":"Michigan","city":"Mackinac Island","latitude":45.857623,"longitude":-84.618577}}(window,'GeoPostal','US');

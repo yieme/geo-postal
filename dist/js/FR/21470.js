@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21470"]={"code":"21470","region":"Bourgogne-Franche-Comte","city":"Brazey-en-Plaine","latitude":47.13784,"longitude":5.21538}}(window,'GeoPostal','FR');

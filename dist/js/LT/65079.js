@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65079"]={"code":"65079","region":"Alytaus apskritis","city":"Varena","latitude":54.21667,"longitude":24.56667}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 1R0"]={"code":"R0G 1R0","region":"Manitoba","city":"Plum Coulee","latitude":49.19109,"longitude":-97.76133}}(window,'GeoPostal','CA');

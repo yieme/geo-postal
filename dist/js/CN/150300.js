@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150300"]={"code":"150300","region":"Nei Mongol","city":"Wuhai","latitude":39.66472,"longitude":106.81222}}(window,'GeoPostal','CN');

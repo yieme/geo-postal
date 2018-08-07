@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4420"]={"code":"4420","region":"Camarines Sur","city":"Tigaon","latitude":13.6331,"longitude":123.4968}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8857"]={"code":"8857","region":"Schwyz","city":"Vorderthal","latitude":47.12092,"longitude":8.90185}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8001"]={"code":"8001","region":"Diber","city":"Burrel","latitude":41.61028,"longitude":20.00889}}(window,'GeoPostal','AL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28748"]={"code":"28748","region":"NC","city":"Leicester","latitude":35.6498,"longitude":-82.7106}}(window,'GeoPostal','US');

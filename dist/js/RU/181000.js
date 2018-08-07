@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181000"]={"code":"181000","region":"Pskovskaya oblast'","city":"Plyussa","latitude":58.43078,"longitude":29.36537}}(window,'GeoPostal','RU');

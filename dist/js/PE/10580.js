@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10580"]={"code":"10580","region":"Huanuco","city":"Llata","latitude":-9.41667,"longitude":-76.78333}}(window,'GeoPostal','PE');

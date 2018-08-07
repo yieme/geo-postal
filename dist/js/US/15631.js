@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15631"]={"code":"15631","region":"PA","city":"Everson","latitude":40.0911,"longitude":-79.5873}}(window,'GeoPostal','US');

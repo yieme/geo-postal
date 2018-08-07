@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47807"]={"code":"47807","region":"Indiana","city":"Terre Haute","latitude":39.471874,"longitude":-87.39707}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL53 7JT"]={"code":"GL53 7JT","region":"England","city":"Cheltenham","latitude":51.9,"longitude":-2.08333}}(window,'GeoPostal','GB');

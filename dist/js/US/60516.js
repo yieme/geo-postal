@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60516"]={"code":"60516","region":"Illinois","city":"Downers Grove","latitude":41.760634,"longitude":-88.0145}}(window,'GeoPostal','US');

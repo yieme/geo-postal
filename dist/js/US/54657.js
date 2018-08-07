@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54657"]={"code":"54657","region":"Wisconsin","city":"Steuben","latitude":43.201807,"longitude":-90.854217}}(window,'GeoPostal','US');

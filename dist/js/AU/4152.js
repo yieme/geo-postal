@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4152"]={"code":"4152","region":"Queensland","city":"Carindale","latitude":-27.50578,"longitude":153.10236}}(window,'GeoPostal','AU');

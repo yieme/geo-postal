@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13345"]={"code":"13345","region":"NY","city":"Greig","latitude":43.6886,"longitude":-75.3302}}(window,'GeoPostal','US');

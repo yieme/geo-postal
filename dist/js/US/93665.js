@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93665"]={"code":"93665","region":"CA","city":"South Dos Palos","latitude":36.9644,"longitude":-120.6532}}(window,'GeoPostal','US');

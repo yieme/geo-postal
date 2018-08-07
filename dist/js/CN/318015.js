@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["318015"]={"code":"318015","region":"Zhejiang","city":"Luqiao","latitude":28.58084,"longitude":121.37715}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92959"]={"code":"92959","region":"Ile-de-France","city":"La Garenne-Colombes","latitude":48.90472,"longitude":2.2469}}(window,'GeoPostal','FR');

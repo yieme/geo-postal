@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72631"]={"code":"72631","region":"Baden-Wurttemberg","city":"Neckartailfingen","latitude":48.61172,"longitude":9.26371}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18949"]={"code":"18949","region":"PA","city":"Plumsteadville","latitude":40.388,"longitude":-75.1425}}(window,'GeoPostal','US');

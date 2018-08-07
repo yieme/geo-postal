@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206248"]={"code":"206248","region":"Uttar Pradesh","city":"Govardhan","latitude":27.5,"longitude":77.46667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98035"]={"code":"98035","region":"WA","city":"Kent","latitude":47.3809,"longitude":-122.2348}}(window,'GeoPostal','US');

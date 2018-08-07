@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21874"]={"code":"21874","region":"MD","city":"Willards","latitude":38.3939,"longitude":-75.3552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17379"]={"code":"17379","region":"Mecklenburg-Vorpommern","city":"Ferdinandshof","latitude":53.66667,"longitude":13.88333}}(window,'GeoPostal','DE');

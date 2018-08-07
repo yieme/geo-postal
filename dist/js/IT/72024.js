@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72024"]={"code":"72024","region":"Puglia","city":"Oria","latitude":40.49733,"longitude":17.64131}}(window,'GeoPostal','IT');

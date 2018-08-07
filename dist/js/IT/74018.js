@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74018"]={"code":"74018","region":"Puglia","city":"Palagianello","latitude":40.60982,"longitude":16.97599}}(window,'GeoPostal','IT');

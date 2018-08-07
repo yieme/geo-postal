@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94736"]={"code":"94736","region":"Ile-de-France","city":"Nogent-sur-Marne","latitude":48.83333,"longitude":2.48333}}(window,'GeoPostal','FR');

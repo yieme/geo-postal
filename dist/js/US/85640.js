@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85640"]={"code":"85640","region":"AZ","city":"Tumacacori","latitude":31.5696,"longitude":-111.0534}}(window,'GeoPostal','US');

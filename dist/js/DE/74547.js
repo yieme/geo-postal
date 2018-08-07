@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74547"]={"code":"74547","region":"Baden-Wurttemberg","city":"Enslingen","latitude":49.16111,"longitude":9.75583}}(window,'GeoPostal','DE');

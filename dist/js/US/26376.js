@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26376"]={"code":"26376","region":"WV","city":"Ireland","latitude":38.7763,"longitude":-80.4567}}(window,'GeoPostal','US');

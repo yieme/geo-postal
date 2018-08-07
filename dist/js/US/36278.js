@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36278"]={"code":"36278","region":"Alabama","city":"Wedowee","latitude":33.309,"longitude":-85.48468}}(window,'GeoPostal','US');

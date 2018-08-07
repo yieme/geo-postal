@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39049"]={"code":"39049","region":"Trentino-Alto Adige","city":"Brennero","latitude":47,"longitude":11.5}}(window,'GeoPostal','IT');

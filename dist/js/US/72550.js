@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72550"]={"code":"72550","region":"AR","city":"Locust Grove","latitude":35.7177,"longitude":-91.7414}}(window,'GeoPostal','US');

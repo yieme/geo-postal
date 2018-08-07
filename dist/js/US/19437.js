@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19437"]={"code":"19437","region":"Pennsylvania","city":"Gwynedd Valley","latitude":40.182908,"longitude":-75.259229}}(window,'GeoPostal','US');

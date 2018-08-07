@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51529"]={"code":"51529","region":"Iowa","city":"Dunlap","latitude":41.85443,"longitude":-95.60056}}(window,'GeoPostal','US');

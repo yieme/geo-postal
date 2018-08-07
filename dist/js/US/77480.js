@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77480"]={"code":"77480","region":"TX","city":"Sweeny","latitude":29.0415,"longitude":-95.7004}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50740"]={"code":"50740","region":"Normandie","city":"Jullouville","latitude":48.77576,"longitude":-1.56366}}(window,'GeoPostal','FR');

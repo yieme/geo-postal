@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26711"]={"code":"26711","region":"West Virginia","city":"Capon Bridge","latitude":39.29833,"longitude":-78.43667}}(window,'GeoPostal','US');

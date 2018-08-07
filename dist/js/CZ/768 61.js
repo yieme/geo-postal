@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 61"]={"code":"768 61","region":"Zlinsky kraj","city":"Bystrice pod Hostynem","latitude":49.39924,"longitude":17.67401}}(window,'GeoPostal','CZ');

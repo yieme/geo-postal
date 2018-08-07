@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47740"]={"code":"47740","region":"Ternopilska oblast","city":"Velikiye Borki","latitude":49.52364,"longitude":25.75753}}(window,'GeoPostal','UA');

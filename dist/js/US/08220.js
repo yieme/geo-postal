@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08220"]={"code":"08220","region":"NJ","city":"Leeds Point","latitude":39.4921,"longitude":-74.429}}(window,'GeoPostal','US');

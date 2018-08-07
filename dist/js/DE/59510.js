@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59510"]={"code":"59510","region":"Nordrhein-Westfalen","city":"Gottingen","latitude":51.66768,"longitude":8.23088}}(window,'GeoPostal','DE');

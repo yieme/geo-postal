@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48071"]={"code":"48071","region":"Michigan","city":"Madison Heights","latitude":42.502345,"longitude":-83.105396}}(window,'GeoPostal','US');

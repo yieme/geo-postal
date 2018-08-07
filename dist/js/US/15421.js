@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15421"]={"code":"15421","region":"PA","city":"Chalk Hill","latitude":39.8451,"longitude":-79.5991}}(window,'GeoPostal','US');

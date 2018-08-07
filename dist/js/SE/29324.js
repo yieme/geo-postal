@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29324"]={"code":"29324","region":"Blekinge lan","city":"Olofstroem","latitude":56.2773,"longitude":14.53402}}(window,'GeoPostal','SE');

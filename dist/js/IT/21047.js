@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21047"]={"code":"21047","region":"Lombardia","city":"Saronno","latitude":45.62787,"longitude":9.03464}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237460"]={"code":"237460","region":"Buzau","city":"Padina","latitude":44.83333,"longitude":27.11667}}(window,'GeoPostal','RO');

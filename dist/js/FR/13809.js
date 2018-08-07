@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13809"]={"code":"13809","region":"Provence-Alpes-Cote d'Azur","city":"Istres","latitude":43.51667,"longitude":4.98333}}(window,'GeoPostal','FR');

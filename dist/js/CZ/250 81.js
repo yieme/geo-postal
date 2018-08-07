@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 81"]={"code":"250 81","region":"Stredocesky kraj","city":"Nehvizdy","latitude":50.13056,"longitude":14.72993}}(window,'GeoPostal','CZ');

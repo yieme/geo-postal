@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91471"]={"code":"91471","region":"Bayern","city":"Urfersheim","latitude":49.47121,"longitude":10.39519}}(window,'GeoPostal','DE');

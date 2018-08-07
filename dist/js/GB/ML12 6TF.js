@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6TF"]={"code":"ML12 6TF","region":"Scotland","city":"Elvanfoot","latitude":55.43725,"longitude":-3.65795}}(window,'GeoPostal','GB');

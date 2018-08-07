@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44275"]={"code":"44275","region":"Vastra Gotalands lan","city":"Kungalv","latitude":57.87096,"longitude":11.98054}}(window,'GeoPostal','SE');

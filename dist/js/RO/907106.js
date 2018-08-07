@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907106"]={"code":"907106","region":"Suceava","city":"Straja","latitude":47.91667,"longitude":25.55}}(window,'GeoPostal','RO');

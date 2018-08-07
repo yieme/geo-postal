@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02014"]={"code":"02014","region":"Lazio","city":"Cantalice","latitude":42.46573,"longitude":12.90478}}(window,'GeoPostal','IT');

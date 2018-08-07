@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96022"]={"code":"96022","region":"CA","city":"Cottonwood","latitude":40.3691,"longitude":-122.3375}}(window,'GeoPostal','US');

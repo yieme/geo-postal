@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632902"]={"code":"632902","region":"Novosibirskaya oblast'","city":"Krasnozerskoye","latitude":53.98277,"longitude":79.23735}}(window,'GeoPostal','RU');

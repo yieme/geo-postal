@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39200"]={"code":"39200","region":"Cantabria","city":"Reinosa","latitude":42.99958,"longitude":-4.13801}}(window,'GeoPostal','ES');

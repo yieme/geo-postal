@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84175"]={"code":"84175","region":"Bayern","city":"Kresham","latitude":48.4444,"longitude":12.43325}}(window,'GeoPostal','DE');

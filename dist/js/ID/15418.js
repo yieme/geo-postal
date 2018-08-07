@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15418"]={"code":"15418","region":"Jawa Barat","city":"Pamulang","latitude":-6.34278,"longitude":106.73833}}(window,'GeoPostal','ID');

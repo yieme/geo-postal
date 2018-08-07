@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99128"]={"code":"99128","region":"WA","city":"Farmington","latitude":47.0847,"longitude":-117.0763}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62250"]={"code":"62250","region":"Hauts-de-France","city":"Marquise","latitude":50.81294,"longitude":1.70786}}(window,'GeoPostal','FR');

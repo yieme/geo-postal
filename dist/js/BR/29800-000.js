@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29800-000"]={"code":"29800-000","region":"Espirito Santo","city":"Barra de Sao Francisco","latitude":-18.755,"longitude":-40.89083}}(window,'GeoPostal','BR');

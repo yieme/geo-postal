@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12110"]={"code":"12110","region":"Occitanie","city":"Aubin","latitude":44.52809,"longitude":2.24439}}(window,'GeoPostal','FR');

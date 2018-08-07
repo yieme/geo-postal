@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2747"]={"code":"2747","region":"New South Wales","city":"Kingswood","latitude":-33.75,"longitude":150.75}}(window,'GeoPostal','AU');

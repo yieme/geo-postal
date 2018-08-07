@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53070"]={"code":"53070","region":"WI","city":"Oostburg","latitude":43.6229,"longitude":-87.797}}(window,'GeoPostal','US');

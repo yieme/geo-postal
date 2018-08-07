@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 5DN"]={"code":"BA11 5DN","region":"England","city":"Trudoxhill","latitude":51.19222,"longitude":-2.36139}}(window,'GeoPostal','GB');

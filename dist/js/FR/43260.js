@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43260"]={"code":"43260","region":"Auvergne-Rhone-Alpes","city":"Lantriac","latitude":45.0005,"longitude":4.00444}}(window,'GeoPostal','FR');

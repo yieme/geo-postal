@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28492"]={"code":"28492","region":"Skane lan","city":"Perstorp","latitude":56.13829,"longitude":13.39476}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41400"]={"code":"41400","region":"Andalucia","city":"Ecija","latitude":37.5422,"longitude":-5.0826}}(window,'GeoPostal','ES');

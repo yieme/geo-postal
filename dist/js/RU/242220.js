@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242220"]={"code":"242220","region":"Bryanskaya oblast'","city":"Trubchevsk","latitude":52.5798,"longitude":33.7644}}(window,'GeoPostal','RU');

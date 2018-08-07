@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34194"]={"code":"34194","region":"Lampung","city":"Jepara","latitude":-5.16948,"longitude":105.70441}}(window,'GeoPostal','ID');

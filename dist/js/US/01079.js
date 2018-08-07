@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01079"]={"code":"01079","region":"MA","city":"Thorndike","latitude":42.1929,"longitude":-72.3296}}(window,'GeoPostal','US');

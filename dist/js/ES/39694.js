@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39694"]={"code":"39694","region":"Cantabria","city":"Santa Maria de Cayon","latitude":43.30849,"longitude":-3.8368}}(window,'GeoPostal','ES');

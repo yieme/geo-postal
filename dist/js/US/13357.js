@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13357"]={"code":"13357","region":"NY","city":"Ilion","latitude":43.0064,"longitude":-75.0484}}(window,'GeoPostal','US');

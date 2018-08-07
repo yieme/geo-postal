@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38179"]={"code":"38179","region":"Auvergne-Rhone-Alpes","city":"Seyssinet-Pariset","latitude":45.17676,"longitude":5.69387}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25446"]={"code":"25446","region":"WV","city":"Summit Point","latitude":39.2338,"longitude":-77.9586}}(window,'GeoPostal','US');

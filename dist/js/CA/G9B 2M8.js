@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G9B 2M8"]={"code":"G9B 2M8","region":"Quebec","city":"Trois-Rivieres","latitude":46.342725,"longitude":-72.62354}}(window,'GeoPostal','CA');

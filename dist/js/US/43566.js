@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43566"]={"code":"43566","region":"Ohio","city":"Waterville","latitude":41.50089,"longitude":-83.71827}}(window,'GeoPostal','US');

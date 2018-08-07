@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91300"]={"code":"91300","region":"Canelones","city":"San Jacinto","latitude":-34.55,"longitude":-55.88333}}(window,'GeoPostal','UY');

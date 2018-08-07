@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN18 5JR"]={"code":"DN18 5JR","region":"England","city":"Humber","latitude":50.56667,"longitude":-3.55}}(window,'GeoPostal','GB');

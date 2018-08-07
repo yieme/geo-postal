@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22741"]={"code":"22741","region":"Virginia","city":"Stevensburg","latitude":38.44139,"longitude":-77.89972}}(window,'GeoPostal','US');

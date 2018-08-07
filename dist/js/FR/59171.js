@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59171"]={"code":"59171","region":"Hauts-de-France","city":"Erre","latitude":50.36252,"longitude":3.31561}}(window,'GeoPostal','FR');

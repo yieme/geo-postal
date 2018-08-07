@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51654"]={"code":"51654","region":"Iowa","city":"Thurman","latitude":40.819672,"longitude":-95.753258}}(window,'GeoPostal','US');

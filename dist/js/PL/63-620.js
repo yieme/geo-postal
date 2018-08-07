@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-620"]={"code":"63-620","region":"Wielkopolskie","city":"Trzcinica","latitude":51.16707,"longitude":18.00453}}(window,'GeoPostal','PL');

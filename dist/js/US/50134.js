@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50134"]={"code":"50134","region":"IA","city":"Kelley","latitude":41.9488,"longitude":-93.6644}}(window,'GeoPostal','US');

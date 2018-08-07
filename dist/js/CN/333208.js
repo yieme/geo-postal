@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333208"]={"code":"333208","region":"Jiangxi","city":"Zhongyun","latitude":29.22126,"longitude":117.68594}}(window,'GeoPostal','CN');

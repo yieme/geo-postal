@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1M0"]={"code":"J0B 1M0","region":"Quebec","city":"Cookshire-Eaton","latitude":45.41675,"longitude":-71.6324}}(window,'GeoPostal','CA');

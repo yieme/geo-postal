@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["118125"]={"code":"118125","region":"Liaoning","city":"Hongqi","latitude":40.14132,"longitude":123.87567}}(window,'GeoPostal','CN');

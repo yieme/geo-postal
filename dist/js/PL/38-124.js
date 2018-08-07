@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-124"]={"code":"38-124","region":"Podkarpackie","city":"Wisniowa","latitude":49.86897,"longitude":21.65508}}(window,'GeoPostal','PL');

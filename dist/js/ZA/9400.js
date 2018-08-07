@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9400"]={"code":"9400","region":"Free State","city":"Brandfort","latitude":-28.70008,"longitude":26.45968}}(window,'GeoPostal','ZA');

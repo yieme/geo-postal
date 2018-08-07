@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17985"]={"code":"17985","region":"PA","city":"Zion Grove","latitude":40.9141,"longitude":-76.1931}}(window,'GeoPostal','US');

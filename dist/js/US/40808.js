@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40808"]={"code":"40808","region":"KY","city":"Big Laurel","latitude":36.9798,"longitude":-83.2171}}(window,'GeoPostal','US');

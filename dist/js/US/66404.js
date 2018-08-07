@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66404"]={"code":"66404","region":"KS","city":"Baileyville","latitude":39.8816,"longitude":-96.1801}}(window,'GeoPostal','US');

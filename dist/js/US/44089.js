@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44089"]={"code":"44089","region":"Ohio","city":"Vermilion","latitude":41.405912,"longitude":-82.386324}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327250"]={"code":"327250","region":"Tulcea","city":"Luncavita","latitude":45.08333,"longitude":22.26667}}(window,'GeoPostal','RO');

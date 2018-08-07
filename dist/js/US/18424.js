@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18424"]={"code":"18424","region":"Pennsylvania","city":"Gouldsboro","latitude":41.247423,"longitude":-75.570718}}(window,'GeoPostal','US');

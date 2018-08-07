@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56220"]={"code":"56220","region":"Minnesota","city":"Canby","latitude":44.70885,"longitude":-96.27643}}(window,'GeoPostal','US');

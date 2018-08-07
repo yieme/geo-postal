@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662200"]={"code":"662200","region":"Yunnan","city":"Yilong","latitude":23.69137,"longitude":102.48701}}(window,'GeoPostal','CN');

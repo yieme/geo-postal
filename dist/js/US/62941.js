@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62941"]={"code":"62941","region":"Illinois","city":"Grand Chain","latitude":37.25361,"longitude":-89.02028}}(window,'GeoPostal','US');

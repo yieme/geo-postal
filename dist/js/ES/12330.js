@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12330"]={"code":"12330","region":"Valenciana, Comunidad","city":"Traiguera","latitude":40.52511,"longitude":0.29023}}(window,'GeoPostal','ES');

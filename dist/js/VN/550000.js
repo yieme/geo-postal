@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["550000"]={"code":"550000","region":"Da Nang","city":"Da Nang","latitude":16.06778,"longitude":108.22083}}(window,'GeoPostal','VN');

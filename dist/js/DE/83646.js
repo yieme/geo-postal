@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83646"]={"code":"83646","region":"Bayern","city":"Bocksleiten","latitude":47.75,"longitude":11.56667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 1P0"]={"code":"N0G 1P0","region":"Ontario","city":"Ayton","latitude":43.747846,"longitude":-80.674005}}(window,'GeoPostal','CA');

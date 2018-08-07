@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34430"]={"code":"34430","region":"Florida","city":"Dunnellon","latitude":29.04914,"longitude":-82.46093}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27336"]={"code":"27336","region":"Niedersachsen","city":"Klein Hauslingen","latitude":52.81511,"longitude":9.35984}}(window,'GeoPostal','DE');

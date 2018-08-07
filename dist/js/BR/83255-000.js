@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83255-000"]={"code":"83255-000","region":"Parana","city":"Pontal do Parana","latitude":-25.67361,"longitude":-48.51111}}(window,'GeoPostal','BR');

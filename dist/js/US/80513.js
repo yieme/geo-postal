@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80513"]={"code":"80513","region":"Colorado","city":"Berthoud","latitude":40.295085,"longitude":-105.12288}}(window,'GeoPostal','US');

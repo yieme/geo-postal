@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29630"]={"code":"29630","region":"Bretagne","city":"Plougasnou","latitude":48.7,"longitude":-3.8}}(window,'GeoPostal','FR');

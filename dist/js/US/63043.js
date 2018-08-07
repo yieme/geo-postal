@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63043"]={"code":"63043","region":"Missouri","city":"Maryland Heights","latitude":38.71311,"longitude":-90.42984}}(window,'GeoPostal','US');

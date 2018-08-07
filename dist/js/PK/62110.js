@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62110"]={"code":"62110","region":"Punjab","city":"Dunga Bunga","latitude":29.74931,"longitude":73.24324}}(window,'GeoPostal','PK');

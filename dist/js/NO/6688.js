@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6688"]={"code":"6688","region":"More og Romsdal","city":"Liaboen","latitude":63.12249,"longitude":8.31587}}(window,'GeoPostal','NO');

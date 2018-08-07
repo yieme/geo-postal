@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5773"]={"code":"5773","region":"San Luis","city":"Tilisarao","latitude":-32.73292,"longitude":-65.29109}}(window,'GeoPostal','AR');

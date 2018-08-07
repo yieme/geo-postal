@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-332"]={"code":"32-332","region":"Malopolskie","city":"Bukowno","latitude":50.26474,"longitude":19.45962}}(window,'GeoPostal','PL');

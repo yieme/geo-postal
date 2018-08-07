@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16660"]={"code":"16660","region":"PA","city":"Mc Connellstown","latitude":40.4025,"longitude":-77.967}}(window,'GeoPostal','US');

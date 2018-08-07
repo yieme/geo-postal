@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 3LT"]={"code":"NE61 3LT","region":"England","city":"Longhirst","latitude":55.19719,"longitude":-1.64855}}(window,'GeoPostal','GB');

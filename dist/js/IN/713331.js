@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713331"]={"code":"713331","region":"West Bengal","city":"Chittaranjan","latitude":23.86667,"longitude":86.86667}}(window,'GeoPostal','IN');

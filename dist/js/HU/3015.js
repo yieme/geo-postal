@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3015"]={"code":"3015","region":"Heves","city":"Csany","latitude":47.64829,"longitude":19.82972}}(window,'GeoPostal','HU');

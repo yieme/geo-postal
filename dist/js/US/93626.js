@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93626"]={"code":"93626","region":"CA","city":"Friant","latitude":37.0422,"longitude":-119.6807}}(window,'GeoPostal','US');

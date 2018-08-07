@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 0UX"]={"code":"NG22 0UX","region":"England","city":"Fledborough","latitude":53.23909,"longitude":-0.80093}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3950"]={"code":"3950","region":"Borsod-Abauj-Zemplen","city":"Sarospatak","latitude":48.31667,"longitude":21.58333}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14460"]={"code":"14460","region":"Andalucia","city":"Dos Torres","latitude":38.45,"longitude":-4.9}}(window,'GeoPostal','ES');

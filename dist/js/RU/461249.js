@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461249"]={"code":"461249","region":"Orenburgskaya oblast'","city":"Novosergiyevka","latitude":52.0934,"longitude":53.6528}}(window,'GeoPostal','RU');

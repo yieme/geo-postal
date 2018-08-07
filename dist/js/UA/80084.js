@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80084"]={"code":"80084","region":"Lvivska oblast","city":"Pustomyty","latitude":49.71532,"longitude":23.91295}}(window,'GeoPostal','UA');

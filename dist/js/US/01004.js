@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01004"]={"code":"01004","region":"Massachusetts","city":"Amherst","latitude":42.384405,"longitude":-72.513652}}(window,'GeoPostal','US');

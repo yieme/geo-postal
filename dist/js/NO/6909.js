@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6909"]={"code":"6909","region":"Sogn og Fjordane","city":"Floro","latitude":61.59957,"longitude":5.0328}}(window,'GeoPostal','NO');

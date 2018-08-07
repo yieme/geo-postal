@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39120"]={"code":"39120","region":"Bourgogne-Franche-Comte","city":"Chaussin","latitude":46.96612,"longitude":5.4079}}(window,'GeoPostal','FR');

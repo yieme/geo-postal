@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24124"]={"code":"24124","region":"VA","city":"Narrows","latitude":37.3198,"longitude":-80.8548}}(window,'GeoPostal','US');

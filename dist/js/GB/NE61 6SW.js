@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 6SW"]={"code":"NE61 6SW","region":"England","city":"Bothal","latitude":55.1734,"longitude":-1.62552}}(window,'GeoPostal','GB');

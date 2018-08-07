@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28671"]={"code":"28671","region":"NC","city":"Rutherford College","latitude":35.7485,"longitude":-81.5226}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127271"]={"code":"127271","region":"Buzau","city":"Greabanu","latitude":45.38333,"longitude":26.96667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62027"]={"code":"62027","region":"Marche","city":"San Severino Marche","latitude":43.22815,"longitude":13.18017}}(window,'GeoPostal','IT');

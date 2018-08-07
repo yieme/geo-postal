@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["099-0871"]={"code":"099-0871","region":"Hokkaido","city":"Kitami","latitude":43.8,"longitude":143.9}}(window,'GeoPostal','JP');

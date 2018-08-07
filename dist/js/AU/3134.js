@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3134"]={"code":"3134","region":"Victoria","city":"Ringwood","latitude":-37.81667,"longitude":145.23333}}(window,'GeoPostal','AU');

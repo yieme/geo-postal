@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340-0816"]={"code":"340-0816","region":"Saitama","city":"Yashio","latitude":35.81972,"longitude":139.84222}}(window,'GeoPostal','JP');

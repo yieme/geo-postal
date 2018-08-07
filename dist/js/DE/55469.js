@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55469"]={"code":"55469","region":"Rheinland-Pfalz","city":"Mutterschied","latitude":49.98333,"longitude":7.56667}}(window,'GeoPostal','DE');

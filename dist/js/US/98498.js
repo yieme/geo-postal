@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98498"]={"code":"98498","region":"Washington","city":"Lakewood","latitude":47.163577,"longitude":-122.557801}}(window,'GeoPostal','US');

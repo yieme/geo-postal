@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65520-000"]={"code":"65520-000","region":"Maranhao","city":"Brejo","latitude":-3.68444,"longitude":-42.75028}}(window,'GeoPostal','BR');

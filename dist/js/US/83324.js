@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83324"]={"code":"83324","region":"ID","city":"Dietrich","latitude":42.9125,"longitude":-114.2664}}(window,'GeoPostal','US');

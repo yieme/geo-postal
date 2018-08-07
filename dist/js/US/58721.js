@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58721"]={"code":"58721","region":"North Dakota","city":"Bowbells","latitude":48.80308,"longitude":-102.246}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["105800"]={"code":"105800","region":"Prahova","city":"Mizil","latitude":45.01667,"longitude":26.45}}(window,'GeoPostal','RO');

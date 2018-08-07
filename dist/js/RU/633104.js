@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633104"]={"code":"633104","region":"Novosibirskaya oblast'","city":"Tolmachevo","latitude":54.9824,"longitude":82.7363}}(window,'GeoPostal','RU');

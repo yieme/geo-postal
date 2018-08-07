@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617382"]={"code":"617382","region":"Neamt","city":"Borlesti","latitude":46.76667,"longitude":26.48333}}(window,'GeoPostal','RO');

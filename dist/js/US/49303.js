@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49303"]={"code":"49303","region":"MI","city":"Bailey","latitude":43.2768,"longitude":-85.8313}}(window,'GeoPostal','US');

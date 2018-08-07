@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50380"]={"code":"50380","region":"Normandie","city":"Saint-Pair-sur-Mer","latitude":48.81455,"longitude":-1.56761}}(window,'GeoPostal','FR');

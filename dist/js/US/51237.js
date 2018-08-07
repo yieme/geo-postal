@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51237"]={"code":"51237","region":"Iowa","city":"George","latitude":43.34684,"longitude":-96.005152}}(window,'GeoPostal','US');

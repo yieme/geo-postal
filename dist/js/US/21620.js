@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21620"]={"code":"21620","region":"Maryland","city":"Chestertown","latitude":39.2072,"longitude":-76.1321}}(window,'GeoPostal','US');

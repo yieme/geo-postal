@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94548"]={"code":"94548","region":"Bayern","city":"Hilgenreit","latitude":48.84989,"longitude":13.25943}}(window,'GeoPostal','DE');

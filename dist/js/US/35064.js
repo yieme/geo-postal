@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35064"]={"code":"35064","region":"Alabama","city":"Fairfield","latitude":33.4763,"longitude":-86.919717}}(window,'GeoPostal','US');

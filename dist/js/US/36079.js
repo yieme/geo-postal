@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36079"]={"code":"36079","region":"Alabama","city":"Troy","latitude":31.80877,"longitude":-85.96995}}(window,'GeoPostal','US');

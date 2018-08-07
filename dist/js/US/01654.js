@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01654"]={"code":"01654","region":"MA","city":"Worcester","latitude":42.26,"longitude":-71.8}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627419"]={"code":"627419","region":"Ilfov","city":"Vidra","latitude":45.91667,"longitude":26.9}}(window,'GeoPostal','RO');

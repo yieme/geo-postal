@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34359"]={"code":"34359","region":"Hessen","city":"Veckerhagen","latitude":51.49827,"longitude":9.60068}}(window,'GeoPostal','DE');

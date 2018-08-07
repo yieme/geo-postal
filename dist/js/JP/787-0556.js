@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["787-0556"]={"code":"787-0556","region":"Kochi","city":"Tosashimizu","latitude":32.783,"longitude":132.95}}(window,'GeoPostal','JP');

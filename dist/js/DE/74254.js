@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74254"]={"code":"74254","region":"Baden-Wurttemberg","city":"Heinsheim","latitude":49.26044,"longitude":9.15065}}(window,'GeoPostal','DE');

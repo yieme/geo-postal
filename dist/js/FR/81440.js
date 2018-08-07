@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81440"]={"code":"81440","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Julien","latitude":43.69478,"longitude":5.91582}}(window,'GeoPostal','FR');

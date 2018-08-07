@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44720"]={"code":"44720","region":"Ohio","city":"North Canton","latitude":40.89732,"longitude":-81.43344}}(window,'GeoPostal','US');

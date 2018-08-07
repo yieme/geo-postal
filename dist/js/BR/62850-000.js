@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62850-000"]={"code":"62850-000","region":"Ceara","city":"Beberibe","latitude":-4.17972,"longitude":-38.13056}}(window,'GeoPostal','BR');

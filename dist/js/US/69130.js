@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69130"]={"code":"69130","region":"Nebraska","city":"Cozad","latitude":40.85973,"longitude":-99.98734}}(window,'GeoPostal','US');

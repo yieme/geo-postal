@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67528"]={"code":"67528","region":"Nuevo Leon","city":"Montemorelos","latitude":25.2,"longitude":-99.81667}}(window,'GeoPostal','MX');

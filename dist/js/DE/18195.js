@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18195"]={"code":"18195","region":"Mecklenburg-Vorpommern","city":"Thelkow","latitude":54.03616,"longitude":12.55978}}(window,'GeoPostal','DE');

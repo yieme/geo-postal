@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL17 7EF"]={"code":"PL17 7EF","region":"England","city":"Callington","latitude":50.50147,"longitude":-4.31314}}(window,'GeoPostal','GB');

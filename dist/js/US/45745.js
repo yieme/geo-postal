@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45745"]={"code":"45745","region":"Ohio","city":"Lower Salem","latitude":39.5625,"longitude":-81.395}}(window,'GeoPostal','US');

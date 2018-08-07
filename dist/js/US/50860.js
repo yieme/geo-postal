@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50860"]={"code":"50860","region":"IA","city":"Redding","latitude":40.6053,"longitude":-94.3595}}(window,'GeoPostal','US');

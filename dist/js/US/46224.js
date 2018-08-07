@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46224"]={"code":"46224","region":"Indiana","city":"Speedway","latitude":39.80227,"longitude":-86.26721}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626159"]={"code":"626159","region":"Tyumenskaya oblast'","city":"Tobol'sk","latitude":58.2,"longitude":68.26667}}(window,'GeoPostal','RU');

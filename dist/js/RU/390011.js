@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390011"]={"code":"390011","region":"Ryazanskaya oblast'","city":"Ryazan'","latitude":54.6269,"longitude":39.6916}}(window,'GeoPostal','RU');

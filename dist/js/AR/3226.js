@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3226"]={"code":"3226","region":"Corrientes","city":"Mocoreta","latitude":-30.61891,"longitude":-57.96344}}(window,'GeoPostal','AR');

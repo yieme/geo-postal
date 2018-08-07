@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99131"]={"code":"99131","region":"WA","city":"Gifford","latitude":48.2685,"longitude":-118.1136}}(window,'GeoPostal','US');

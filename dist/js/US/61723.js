@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61723"]={"code":"61723","region":"IL","city":"Atlanta","latitude":40.2586,"longitude":-89.23}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80107"]={"code":"80107","region":"Colorado","city":"Elizabeth","latitude":39.36027,"longitude":-104.59692}}(window,'GeoPostal','US');

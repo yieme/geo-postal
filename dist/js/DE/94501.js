@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94501"]={"code":"94501","region":"Bayern","city":"Maierholz","latitude":48.57639,"longitude":13.13723}}(window,'GeoPostal','DE');

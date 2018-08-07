@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07739"]={"code":"07739","region":"New Jersey","city":"Little Silver","latitude":40.33555,"longitude":-74.041955}}(window,'GeoPostal','US');

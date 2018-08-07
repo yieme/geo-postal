@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94939"]={"code":"94939","region":"California","city":"Larkspur","latitude":37.9378,"longitude":-122.5365}}(window,'GeoPostal','US');

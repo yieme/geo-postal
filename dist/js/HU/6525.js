@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6525"]={"code":"6525","region":"Bacs-Kiskun","city":"Hercegszanto","latitude":45.95,"longitude":18.93917}}(window,'GeoPostal','HU');

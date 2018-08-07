@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-230"]={"code":"77-230","region":"Pomorskie","city":"Kepice","latitude":54.24111,"longitude":16.88968}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV15 6QH"]={"code":"WV15 6QH","region":"England","city":"Quatford","latitude":52.51643,"longitude":-2.38752}}(window,'GeoPostal','GB');

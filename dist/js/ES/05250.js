@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05250"]={"code":"05250","region":"Castilla y Leon","city":"El Hoyo de Pinares","latitude":40.50084,"longitude":-4.42357}}(window,'GeoPostal','ES');

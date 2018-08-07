@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23115"]={"code":"23115","region":"VA","city":"Millers Tavern","latitude":37.8282,"longitude":-76.945}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 91"]={"code":"783 91","region":"Olomoucky kraj","city":"Medlov","latitude":49.78754,"longitude":17.06261}}(window,'GeoPostal','CZ');

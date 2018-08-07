@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24925"]={"code":"24925","region":"West Virginia","city":"Caldwell","latitude":37.756165,"longitude":-80.347443}}(window,'GeoPostal','US');

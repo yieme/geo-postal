@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59343-000"]={"code":"59343-000","region":"Rio Grande do Norte","city":"Jardim do Serido","latitude":-6.58444,"longitude":-36.77444}}(window,'GeoPostal','BR');

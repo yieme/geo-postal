@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02600"]={"code":"02600","region":"Castilla-La Mancha","city":"Villarrobledo","latitude":39.26992,"longitude":-2.60118}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431524"]={"code":"431524","region":"Mordoviya, Respublika","city":"Atemar","latitude":54.18097,"longitude":45.40909}}(window,'GeoPostal','RU');

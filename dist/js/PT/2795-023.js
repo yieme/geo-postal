@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2795-023"]={"code":"2795-023","region":"Lisboa","city":"Linda-a-Velha","latitude":38.71446,"longitude":-9.2422}}(window,'GeoPostal','PT');

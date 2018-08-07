@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71110"]={"code":"71110","region":"Bourgogne-Franche-Comte","city":"Marcigny","latitude":46.27627,"longitude":4.03957}}(window,'GeoPostal','FR');

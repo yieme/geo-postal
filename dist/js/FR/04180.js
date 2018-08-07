@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04180"]={"code":"04180","region":"Provence-Alpes-Cote d'Azur","city":"Villeneuve","latitude":43.89431,"longitude":5.86184}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31167"]={"code":"31167","region":"Niedersachsen","city":"Bockenem","latitude":52.00993,"longitude":10.13197}}(window,'GeoPostal','DE');

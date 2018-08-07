@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59820"]={"code":"59820","region":"MT","city":"Alberton","latitude":46.9806,"longitude":-114.4921}}(window,'GeoPostal','US');

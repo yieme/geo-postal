@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54427"]={"code":"54427","region":"WI","city":"Eland","latitude":44.8309,"longitude":-89.2461}}(window,'GeoPostal','US');

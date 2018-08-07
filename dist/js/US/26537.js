@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26537"]={"code":"26537","region":"WV","city":"Kingwood","latitude":39.4819,"longitude":-79.7063}}(window,'GeoPostal','US');

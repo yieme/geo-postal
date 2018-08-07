@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40972"]={"code":"40972","region":"Kentucky","city":"Oneida","latitude":37.276117,"longitude":-83.655641}}(window,'GeoPostal','US');

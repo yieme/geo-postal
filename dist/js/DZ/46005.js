@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46005"]={"code":"46005","region":"Ain Temouchent","city":"Hammam Bou Hadjar","latitude":35.37889,"longitude":-0.96778}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11980"]={"code":"11980","region":"New York","city":"Yaphank","latitude":40.83677,"longitude":-72.91705}}(window,'GeoPostal','US');

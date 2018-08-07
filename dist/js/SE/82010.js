@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82010"]={"code":"82010","region":"Gavleborgs lan","city":"Arbra","latitude":61.46667,"longitude":16.38333}}(window,'GeoPostal','SE');

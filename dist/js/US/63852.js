@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63852"]={"code":"63852","region":"Missouri","city":"Holcomb","latitude":36.40278,"longitude":-90.02306}}(window,'GeoPostal','US');

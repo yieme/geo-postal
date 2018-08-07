@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68070"]={"code":"68070","region":"NE","city":"Weston","latitude":41.1811,"longitude":-96.7691}}(window,'GeoPostal','US');

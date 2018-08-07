@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6275"]={"code":"6275","region":"Western Australia","city":"Nannup","latitude":-33.97874,"longitude":115.7646}}(window,'GeoPostal','AU');

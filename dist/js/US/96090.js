@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96090"]={"code":"96090","region":"CA","city":"Tehama","latitude":40.0271,"longitude":-122.1233}}(window,'GeoPostal','US');

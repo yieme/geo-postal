@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33082"]={"code":"33082","region":"FL","city":"Pembroke Pines","latitude":26.0031,"longitude":-80.2239}}(window,'GeoPostal','US');

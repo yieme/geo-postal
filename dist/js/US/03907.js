@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03907"]={"code":"03907","region":"ME","city":"Ogunquit","latitude":43.2541,"longitude":-70.6094}}(window,'GeoPostal','US');

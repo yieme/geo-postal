@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37240"]={"code":"37240","region":"Rasinski okrug","city":"Trstenik","latitude":43.61694,"longitude":21.0025}}(window,'GeoPostal','RS');

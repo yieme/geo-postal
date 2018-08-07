@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37190-000"]={"code":"37190-000","region":"Minas Gerais","city":"Tres Pontas","latitude":-21.36667,"longitude":-45.5125}}(window,'GeoPostal','BR');

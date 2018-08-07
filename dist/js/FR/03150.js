@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03150"]={"code":"03150","region":"Auvergne-Rhone-Alpes","city":"Varennes-sur-Allier","latitude":46.31472,"longitude":3.39846}}(window,'GeoPostal','FR');

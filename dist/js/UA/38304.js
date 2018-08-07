@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38304"]={"code":"38304","region":"Poltavska oblast","city":"Velyka Bahachka","latitude":49.79116,"longitude":33.72258}}(window,'GeoPostal','UA');

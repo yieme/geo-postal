@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1B0"]={"code":"G0M 1B0","region":"Quebec","city":"Saint-Martin","latitude":45.967,"longitude":-70.65}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04869"]={"code":"04869","region":"Andalucia","city":"Fines","latitude":37.36074,"longitude":-2.2581}}(window,'GeoPostal','ES');

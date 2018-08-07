@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24526"]={"code":"24526","region":"VA","city":"Big Island","latitude":37.5306,"longitude":-79.3827}}(window,'GeoPostal','US');

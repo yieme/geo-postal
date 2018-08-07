@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40130"]={"code":"40130","region":"Nouvelle-Aquitaine","city":"Capbreton","latitude":43.64216,"longitude":-1.42816}}(window,'GeoPostal','FR');

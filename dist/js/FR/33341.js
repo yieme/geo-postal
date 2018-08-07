@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33341"]={"code":"33341","region":"Nouvelle-Aquitaine","city":"Lesparre-Medoc","latitude":45.3,"longitude":-0.93333}}(window,'GeoPostal','FR');

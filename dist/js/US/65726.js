@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65726"]={"code":"65726","region":"Missouri","city":"Point Lookout","latitude":36.58925,"longitude":-93.23894}}(window,'GeoPostal','US');

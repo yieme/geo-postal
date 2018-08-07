@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36630-000"]={"code":"36630-000","region":"Rio de Janeiro","city":"Sapucaia","latitude":-21.995,"longitude":-42.91444}}(window,'GeoPostal','BR');

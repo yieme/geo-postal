@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65484"]={"code":"65484","region":"MO","city":"Huggins","latitude":37.3538,"longitude":-92.2153}}(window,'GeoPostal','US');

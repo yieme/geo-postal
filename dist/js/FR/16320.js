@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16320"]={"code":"16320","region":"Nouvelle-Aquitaine","city":"Villebois-Lavalette","latitude":45.4836,"longitude":0.2806}}(window,'GeoPostal','FR');

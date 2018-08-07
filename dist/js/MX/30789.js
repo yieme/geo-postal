@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30789"]={"code":"30789","region":"Coahuila de Zaragoza","city":"Venustiano Carranza","latitude":25.35,"longitude":-102.95}}(window,'GeoPostal','MX');

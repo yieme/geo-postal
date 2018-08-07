@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80902"]={"code":"80902","region":"Colorado","city":"Fort Carson","latitude":38.73749,"longitude":-104.78886}}(window,'GeoPostal','US');

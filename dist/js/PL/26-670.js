@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-670"]={"code":"26-670","region":"Mazowieckie","city":"Pionki","latitude":51.47604,"longitude":21.44995}}(window,'GeoPostal','PL');

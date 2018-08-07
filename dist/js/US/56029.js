@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56029"]={"code":"56029","region":"MN","city":"Emmons","latitude":43.5089,"longitude":-93.4824}}(window,'GeoPostal','US');

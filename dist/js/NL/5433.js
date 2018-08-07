@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5433"]={"code":"5433","region":"Zuid-Holland","city":"Katwijk aan Zee","latitude":52.20333,"longitude":4.39861}}(window,'GeoPostal','NL');

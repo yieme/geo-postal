@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07863"]={"code":"07863","region":"NJ","city":"Oxford","latitude":40.8105,"longitude":-75.0019}}(window,'GeoPostal','US');

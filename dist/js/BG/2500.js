@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2500"]={"code":"2500","region":"Kyustendil","city":"Kyustendil","latitude":42.28389,"longitude":22.69111}}(window,'GeoPostal','BG');

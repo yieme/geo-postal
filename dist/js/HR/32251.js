@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32251"]={"code":"32251","region":"Vukovarsko-srijemska zupanija","city":"Privlaka","latitude":45.19472,"longitude":18.8375}}(window,'GeoPostal','HR');

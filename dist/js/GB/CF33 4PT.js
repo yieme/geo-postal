@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF33 4PT"]={"code":"CF33 4PT","region":"Wales","city":"Kenfig","latitude":51.51726,"longitude":-3.72724}}(window,'GeoPostal','GB');

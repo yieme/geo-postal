@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 12"]={"code":"503 12","region":"Stredocesky kraj","city":"Vsestary","latitude":50.2566,"longitude":15.75983}}(window,'GeoPostal','CZ');

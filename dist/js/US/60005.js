@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60005"]={"code":"60005","region":"Illinois","city":"Arlington Heights","latitude":42.066292,"longitude":-87.982572}}(window,'GeoPostal','US');

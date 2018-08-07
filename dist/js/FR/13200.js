@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13200"]={"code":"13200","region":"Occitanie","city":"Arles","latitude":42.45654,"longitude":2.63457}}(window,'GeoPostal','FR');

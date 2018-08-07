@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-220"]={"code":"62-220","region":"Wielkopolskie","city":"Niechanowo","latitude":52.46527,"longitude":17.67812}}(window,'GeoPostal','PL');

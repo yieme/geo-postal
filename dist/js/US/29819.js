@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29819"]={"code":"29819","region":"SC","city":"Bradley","latitude":34.0326,"longitude":-82.2027}}(window,'GeoPostal','US');

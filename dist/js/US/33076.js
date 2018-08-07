@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33076"]={"code":"33076","region":"Florida","city":"Coral Springs","latitude":26.26688,"longitude":-80.28456}}(window,'GeoPostal','US');

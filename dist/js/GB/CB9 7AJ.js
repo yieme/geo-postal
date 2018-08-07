@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB9 7AJ"]={"code":"CB9 7AJ","region":"England","city":"Helion Bumpstead","latitude":52.04824,"longitude":0.40512}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4780000"]={"code":"4780000","region":"La Araucania","city":"Temuco","latitude":-38.73333,"longitude":-72.6}}(window,'GeoPostal','CL');

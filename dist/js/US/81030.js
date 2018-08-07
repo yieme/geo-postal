@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81030"]={"code":"81030","region":"CO","city":"Cheraw","latitude":38.107,"longitude":-103.5102}}(window,'GeoPostal','US');

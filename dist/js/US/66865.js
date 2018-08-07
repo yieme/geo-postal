@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66865"]={"code":"66865","region":"KS","city":"Olpe","latitude":38.2578,"longitude":-96.1891}}(window,'GeoPostal','US');

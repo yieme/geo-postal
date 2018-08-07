@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4173"]={"code":"4173","region":"Plovdiv","city":"Kaloyanovo","latitude":42.35,"longitude":24.73333}}(window,'GeoPostal','BG');

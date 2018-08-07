@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80461"]={"code":"80461","region":"Colorado","city":"Leadville North","latitude":39.2576,"longitude":-106.30138}}(window,'GeoPostal','US');

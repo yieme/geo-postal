@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68659"]={"code":"68659","region":"NE","city":"Rogers","latitude":41.4653,"longitude":-96.915}}(window,'GeoPostal','US');

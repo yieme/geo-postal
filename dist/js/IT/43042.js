@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43042"]={"code":"43042","region":"Emilia-Romagna","city":"Berceto","latitude":44.50899,"longitude":9.99104}}(window,'GeoPostal','IT');

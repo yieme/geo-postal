@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DA14 6LT"]={"code":"DA14 6LT","region":"England","city":"Kent","latitude":51.25,"longitude":0.75}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64638"]={"code":"64638","region":"MO","city":"Dawn","latitude":39.6665,"longitude":-93.5964}}(window,'GeoPostal','US');

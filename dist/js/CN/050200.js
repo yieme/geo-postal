@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["050200"]={"code":"050200","region":"Hebei","city":"Luquan","latitude":38.083333,"longitude":114.316667}}(window,'GeoPostal','CN');

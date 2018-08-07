@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43518"]={"code":"43518","region":"Ohio","city":"Edon","latitude":41.57183,"longitude":-84.767997}}(window,'GeoPostal','US');

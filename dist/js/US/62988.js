@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62988"]={"code":"62988","region":"Illinois","city":"Tamms","latitude":37.234844,"longitude":-89.26702}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84755"]={"code":"84755","region":"UT","city":"Mount Carmel","latitude":37.2472,"longitude":-112.6644}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47872"]={"code":"47872","region":"IN","city":"Rockville","latitude":39.7682,"longitude":-87.1978}}(window,'GeoPostal','US');

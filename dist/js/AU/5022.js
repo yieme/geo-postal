@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5022"]={"code":"5022","region":"South Australia","city":"Tennyson","latitude":-34.88601,"longitude":138.48588}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2017"]={"code":"2017","region":"Akershus","city":"Frogner","latitude":60.01667,"longitude":11.1}}(window,'GeoPostal','NO');

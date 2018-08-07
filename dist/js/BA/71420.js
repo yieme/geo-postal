@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71420"]={"code":"71420","region":"Republika Srpska","city":"Pale","latitude":43.81611,"longitude":18.56944}}(window,'GeoPostal','BA');

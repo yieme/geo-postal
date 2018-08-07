@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 8AU"]={"code":"TA7 8AU","region":"England","city":"Puriton","latitude":51.16933,"longitude":-2.97198}}(window,'GeoPostal','GB');

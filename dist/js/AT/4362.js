@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4362"]={"code":"4362","region":"Oberosterreich","city":"Bad Kreuzen","latitude":48.26737,"longitude":14.80648}}(window,'GeoPostal','AT');

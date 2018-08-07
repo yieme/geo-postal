@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24215"]={"code":"24215","region":"Virginia","city":"Andover","latitude":36.995026,"longitude":-82.533965}}(window,'GeoPostal','US');

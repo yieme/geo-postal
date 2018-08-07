@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23181"]={"code":"23181","region":"Virginia","city":"West Point","latitude":37.53153,"longitude":-76.79635}}(window,'GeoPostal','US');

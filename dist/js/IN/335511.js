@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335511"]={"code":"335511","region":"Rajasthan","city":"Bhadra","latitude":29.11667,"longitude":75.16667}}(window,'GeoPostal','IN');

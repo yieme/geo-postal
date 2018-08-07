@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP5 2UG"]={"code":"HP5 2UG","region":"England","city":"Hawridge","latitude":51.74635,"longitude":-0.62818}}(window,'GeoPostal','GB');

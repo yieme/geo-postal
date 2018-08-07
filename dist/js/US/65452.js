@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65452"]={"code":"65452","region":"Missouri","city":"Crocker","latitude":37.94893,"longitude":-92.26378}}(window,'GeoPostal','US');

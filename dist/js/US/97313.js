@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97313"]={"code":"97313","region":"OR","city":"State Farm Ins","latitude":44.9849,"longitude":-122.9988}}(window,'GeoPostal','US');

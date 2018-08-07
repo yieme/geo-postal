@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61472"]={"code":"61472","region":"IL","city":"Rio","latitude":41.1103,"longitude":-90.39}}(window,'GeoPostal','US');

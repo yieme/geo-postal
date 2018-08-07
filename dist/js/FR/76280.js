@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76280"]={"code":"76280","region":"Normandie","city":"Gonneville-la-Mallet","latitude":49.6395,"longitude":0.22245}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37128"]={"code":"37128","region":"TN","city":"Murfreesboro","latitude":35.8454,"longitude":-86.4867}}(window,'GeoPostal','US');

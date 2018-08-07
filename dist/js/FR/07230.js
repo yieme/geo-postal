@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07230"]={"code":"07230","region":"Auvergne-Rhone-Alpes","city":"Chandolas","latitude":44.4044,"longitude":4.2533}}(window,'GeoPostal','FR');

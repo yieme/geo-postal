@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29520"]={"code":"29520","region":"Andalucia","city":"Fuente de Piedra","latitude":37.13526,"longitude":-4.73}}(window,'GeoPostal','ES');

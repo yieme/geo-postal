@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66222"]={"code":"66222","region":"Jawa Timur","city":"Kepatihan","latitude":-8.0629,"longitude":111.9133}}(window,'GeoPostal','ID');

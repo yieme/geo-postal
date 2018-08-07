@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85511"]={"code":"85511","region":"Nusa Tenggara Timur","city":"Soe","latitude":-9.86071,"longitude":124.28395}}(window,'GeoPostal','ID');

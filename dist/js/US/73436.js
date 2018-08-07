@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73436"]={"code":"73436","region":"OK","city":"Gene Autry","latitude":34.2939,"longitude":-97.0339}}(window,'GeoPostal','US');

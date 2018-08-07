@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66521"]={"code":"66521","region":"Kansas","city":"Onaga","latitude":39.48944,"longitude":-96.16889}}(window,'GeoPostal','US');

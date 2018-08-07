@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37600-000"]={"code":"37600-000","region":"Minas Gerais","city":"Cambui","latitude":-22.61222,"longitude":-46.0575}}(window,'GeoPostal','BR');

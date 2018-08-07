@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85220"]={"code":"85220","region":"AZ","city":"Apache Junction","latitude":33.41,"longitude":-111.57}}(window,'GeoPostal','US');

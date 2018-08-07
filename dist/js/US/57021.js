@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57021"]={"code":"57021","region":"SD","city":"Davis","latitude":43.2864,"longitude":-96.9792}}(window,'GeoPostal','US');

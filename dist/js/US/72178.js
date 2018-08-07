@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72178"]={"code":"72178","region":"AR","city":"West Point","latitude":35.2032,"longitude":-91.6064}}(window,'GeoPostal','US');

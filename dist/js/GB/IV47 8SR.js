@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV47 8SR"]={"code":"IV47 8SR","region":"Scotland","city":"Carbost","latitude":57.3007,"longitude":-6.35196}}(window,'GeoPostal','GB');

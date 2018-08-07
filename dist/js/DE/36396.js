@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36396"]={"code":"36396","region":"Hessen","city":"Steinau an der Strasse","latitude":50.31401,"longitude":9.46335}}(window,'GeoPostal','DE');

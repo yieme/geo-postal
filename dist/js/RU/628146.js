@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628146"]={"code":"628146","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Igrim","latitude":63.1906,"longitude":64.4162}}(window,'GeoPostal','RU');

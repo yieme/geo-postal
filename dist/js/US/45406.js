@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45406"]={"code":"45406","region":"Ohio","city":"Trotwood","latitude":39.79728,"longitude":-84.31133}}(window,'GeoPostal','US');

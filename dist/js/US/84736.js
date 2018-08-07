@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84736"]={"code":"84736","region":"Utah","city":"Henrieville","latitude":37.564631,"longitude":-111.994561}}(window,'GeoPostal','US');

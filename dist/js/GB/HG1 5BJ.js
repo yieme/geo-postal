@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG1 5BJ"]={"code":"HG1 5BJ","region":"England","city":"Harrogate","latitude":53.99078,"longitude":-1.5373}}(window,'GeoPostal','GB');

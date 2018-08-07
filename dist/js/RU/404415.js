@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404415"]={"code":"404415","region":"Volgogradskaya oblast'","city":"Surovikino","latitude":48.60734,"longitude":42.84621}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89431"]={"code":"89431","region":"Bayern","city":"Bachingen an der Brenz","latitude":48.54627,"longitude":10.31281}}(window,'GeoPostal','DE');

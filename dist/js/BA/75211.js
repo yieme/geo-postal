@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75211"]={"code":"75211","region":"Federacija Bosne i Hercegovine","city":"Serici","latitude":44.46528,"longitude":18.55806}}(window,'GeoPostal','BA');

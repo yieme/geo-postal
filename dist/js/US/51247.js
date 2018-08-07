@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51247"]={"code":"51247","region":"Iowa","city":"Rock Valley","latitude":43.20526,"longitude":-96.29503}}(window,'GeoPostal','US');

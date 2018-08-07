@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72002"]={"code":"72002","region":"AR","city":"Alexander","latitude":34.6313,"longitude":-92.4727}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 77"]={"code":"407 77","region":"Ustecky kraj","city":"Sluknov","latitude":51.00369,"longitude":14.45258}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47980"]={"code":"47980","region":"Jalisco","city":"Degollado","latitude":20.46702,"longitude":-102.14976}}(window,'GeoPostal','MX');

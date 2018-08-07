@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54560"]={"code":"54560","region":"Wisconsin","city":"Sayner","latitude":45.995714,"longitude":-89.518906}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26352"]={"code":"26352","region":"Chaouia-Ouardigha","city":"Guisser","latitude":32.76645,"longitude":-7.49818}}(window,'GeoPostal','MA');

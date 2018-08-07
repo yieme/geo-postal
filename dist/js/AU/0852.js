@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0852"]={"code":"0852","region":"Northern Territory","city":"Pigeon Hole","latitude":-16.78724,"longitude":131.21437}}(window,'GeoPostal','AU');

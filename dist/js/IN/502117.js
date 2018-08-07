@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["502117"]={"code":"502117","region":"Andhra Pradesh","city":"Machilipatnam","latitude":16.16667,"longitude":81.13333}}(window,'GeoPostal','IN');

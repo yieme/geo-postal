@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13100"]={"code":"13100","region":"Castilla-La Mancha","city":"Piedrabuena","latitude":39.03536,"longitude":-4.17512}}(window,'GeoPostal','ES');

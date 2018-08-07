@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 3T0"]={"code":"S0K 3T0","region":"Saskatchewan","city":"St. Benedict","latitude":52.56675,"longitude":-105.38438}}(window,'GeoPostal','CA');

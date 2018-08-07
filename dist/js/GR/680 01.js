@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 01"]={"code":"680 01","region":"Anatoliki Makedonia kai Thraki","city":"Orestias","latitude":41.50306,"longitude":26.52972}}(window,'GeoPostal','GR');

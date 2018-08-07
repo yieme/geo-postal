@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2QG"]={"code":"IP22 2QG","region":"England","city":"Garboldisham","latitude":52.39535,"longitude":0.9468}}(window,'GeoPostal','GB');

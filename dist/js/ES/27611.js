@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27611"]={"code":"27611","region":"Galicia","city":"Castro","latitude":42.76667,"longitude":-7.58333}}(window,'GeoPostal','ES');

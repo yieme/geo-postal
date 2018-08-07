@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89293"]={"code":"89293","region":"Bayern","city":"Kellmunz","latitude":48.12159,"longitude":10.12811}}(window,'GeoPostal','DE');

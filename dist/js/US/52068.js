@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52068"]={"code":"52068","region":"IA","city":"Peosta","latitude":42.4435,"longitude":-90.8094}}(window,'GeoPostal','US');

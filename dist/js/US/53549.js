@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53549"]={"code":"53549","region":"Wisconsin","city":"Jefferson","latitude":43.001927,"longitude":-88.804776}}(window,'GeoPostal','US');

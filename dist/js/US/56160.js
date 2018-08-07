@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56160"]={"code":"56160","region":"MN","city":"Odin","latitude":43.8824,"longitude":-94.774}}(window,'GeoPostal','US');

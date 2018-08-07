@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47597"]={"code":"47597","region":"IN","city":"Wheatland","latitude":38.6671,"longitude":-87.3062}}(window,'GeoPostal','US');

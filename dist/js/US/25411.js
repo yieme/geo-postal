@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25411"]={"code":"25411","region":"West Virginia","city":"Berkeley Springs","latitude":39.54978,"longitude":-78.18816}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05670"]={"code":"05670","region":"Vermont","city":"South Barre","latitude":44.17701,"longitude":-72.50566}}(window,'GeoPostal','US');

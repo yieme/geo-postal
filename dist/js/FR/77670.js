@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77670"]={"code":"77670","region":"Ile-de-France","city":"Saint-Mammes","latitude":48.38458,"longitude":2.81578}}(window,'GeoPostal','FR');

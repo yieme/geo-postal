@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9BD"]={"code":"ZE2 9BD","region":"Scotland","city":"Ulsta","latitude":60.5,"longitude":-1.15}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29436"]={"code":"29436","region":"SC","city":"Cross","latitude":33.3364,"longitude":-80.1859}}(window,'GeoPostal','US');

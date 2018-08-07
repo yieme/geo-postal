@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35548"]={"code":"35548","region":"Alabama","city":"Brilliant","latitude":34.0225,"longitude":-87.76722}}(window,'GeoPostal','US');

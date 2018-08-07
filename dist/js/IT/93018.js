@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93018"]={"code":"93018","region":"Sicilia","city":"Santa Caterina Villarmosa","latitude":37.59115,"longitude":14.03626}}(window,'GeoPostal','IT');

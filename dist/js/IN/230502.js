@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230502"]={"code":"230502","region":"Uttar Pradesh","city":"Pratapgarh","latitude":25.9,"longitude":81.95}}(window,'GeoPostal','IN');

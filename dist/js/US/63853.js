@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63853"]={"code":"63853","region":"MO","city":"Holland","latitude":36.0559,"longitude":-89.8709}}(window,'GeoPostal','US');

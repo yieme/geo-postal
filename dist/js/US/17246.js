@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17246"]={"code":"17246","region":"PA","city":"Pleasant Hall","latitude":40.0531,"longitude":-77.6539}}(window,'GeoPostal','US');

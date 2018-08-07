@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31711"]={"code":"31711","region":"GA","city":"Andersonville","latitude":32.1559,"longitude":-84.164}}(window,'GeoPostal','US');

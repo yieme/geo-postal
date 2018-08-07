@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35648"]={"code":"35648","region":"AL","city":"Lexington","latitude":34.9559,"longitude":-87.3935}}(window,'GeoPostal','US');

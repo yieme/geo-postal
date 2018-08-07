@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607039"]={"code":"607039","region":"Vladimirskaya oblast'","city":"Kameshkovo","latitude":56.35305,"longitude":41.00941}}(window,'GeoPostal','RU');

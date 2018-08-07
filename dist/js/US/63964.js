@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63964"]={"code":"63964","region":"MO","city":"Silva","latitude":37.2119,"longitude":-90.4375}}(window,'GeoPostal','US');

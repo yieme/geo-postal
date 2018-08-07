@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67553"]={"code":"67553","region":"KS","city":"Liebenthal","latitude":38.6557,"longitude":-99.3203}}(window,'GeoPostal','US');

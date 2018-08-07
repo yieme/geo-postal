@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10567"]={"code":"10567","region":"New York","city":"Cortlandt Manor","latitude":41.2781,"longitude":-73.8746}}(window,'GeoPostal','US');

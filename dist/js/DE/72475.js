@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72475"]={"code":"72475","region":"Bayern","city":"Bitz","latitude":48.94688,"longitude":11.50483}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27460-000"]={"code":"27460-000","region":"Rio de Janeiro","city":"Rio Claro","latitude":-22.72306,"longitude":-44.13556}}(window,'GeoPostal','BR');

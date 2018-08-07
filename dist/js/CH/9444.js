@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9444"]={"code":"9444","region":"Sankt Gallen","city":"Diepoldsau","latitude":47.386,"longitude":9.65558}}(window,'GeoPostal','CH');

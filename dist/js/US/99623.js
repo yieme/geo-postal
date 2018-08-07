@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99623"]={"code":"99623","region":"AK","city":"Wasilla","latitude":61.5463,"longitude":-149.5901}}(window,'GeoPostal','US');

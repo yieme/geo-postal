@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679 02"]={"code":"679 02","region":"Jihomoravsky kraj","city":"Rajecko","latitude":49.39393,"longitude":16.64497}}(window,'GeoPostal','CZ');

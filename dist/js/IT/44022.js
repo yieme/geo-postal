@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44022"]={"code":"44022","region":"Emilia-Romagna","city":"Comacchio","latitude":44.6975,"longitude":12.18583}}(window,'GeoPostal','IT');

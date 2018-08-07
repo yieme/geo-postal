@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152070"]={"code":"152070","region":"Yaroslavskaya oblast'","city":"Danilov","latitude":58.1908,"longitude":40.17171}}(window,'GeoPostal','RU');

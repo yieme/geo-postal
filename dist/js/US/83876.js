@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83876"]={"code":"83876","region":"ID","city":"Worley","latitude":47.4292,"longitude":-116.9056}}(window,'GeoPostal','US');

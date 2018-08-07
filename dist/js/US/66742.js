@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66742"]={"code":"66742","region":"Kansas","city":"Gas","latitude":37.92389,"longitude":-95.34611}}(window,'GeoPostal','US');

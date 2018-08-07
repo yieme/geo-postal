@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745708"]={"code":"745708","region":"Gansu","city":"Hongde","latitude":36.74138,"longitude":107.18431}}(window,'GeoPostal','CN');

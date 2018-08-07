@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730-042"]={"code":"730-042","region":"Gyeongsangbuk-do","city":"Kumi","latitude":36.1136,"longitude":128.336}}(window,'GeoPostal','KR');

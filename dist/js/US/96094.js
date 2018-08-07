@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96094"]={"code":"96094","region":"California","city":"Weed","latitude":41.42265,"longitude":-122.38613}}(window,'GeoPostal','US');

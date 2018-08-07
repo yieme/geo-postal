@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3795"]={"code":"3795","region":"Telemark","city":"Prestestranda","latitude":59.09773,"longitude":9.05866}}(window,'GeoPostal','NO');

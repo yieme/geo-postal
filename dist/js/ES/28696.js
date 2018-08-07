@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28696"]={"code":"28696","region":"Madrid, Comunidad de","city":"Pelayos de la Presa","latitude":40.36051,"longitude":-4.33462}}(window,'GeoPostal','ES');

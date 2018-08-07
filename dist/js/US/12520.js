@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12520"]={"code":"12520","region":"NY","city":"Cornwall On Hudson","latitude":41.433,"longitude":-74.0061}}(window,'GeoPostal','US');

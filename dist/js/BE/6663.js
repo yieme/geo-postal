@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6663"]={"code":"6663","region":"Luxembourg","city":"Houffalize","latitude":50.13235,"longitude":5.78962}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05011"]={"code":"05011","region":"Umbria","city":"Allerona","latitude":42.81203,"longitude":11.97305}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Santa Cruz","city":"Puerto Santa Cruz","latitude":-50.0191,"longitude":-68.52321}}(window,'GeoPostal','AR');

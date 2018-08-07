@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61008"]={"code":"61008","region":"Illinois","city":"Belvidere","latitude":42.26391,"longitude":-88.84427}}(window,'GeoPostal','US');

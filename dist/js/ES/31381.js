@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31381"]={"code":"31381","region":"Navarra, Comunidad Foral de","city":"Altsasu","latitude":42.89999,"longitude":-2.16516}}(window,'GeoPostal','ES');

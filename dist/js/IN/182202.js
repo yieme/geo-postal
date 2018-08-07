@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182202"]={"code":"182202","region":"Jammu and Kashmir","city":"Doda","latitude":33.13333,"longitude":75.56667}}(window,'GeoPostal','IN');

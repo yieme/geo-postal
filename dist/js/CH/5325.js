@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5325"]={"code":"5325","region":"Aargau","city":"Leibstadt","latitude":47.5879,"longitude":8.17611}}(window,'GeoPostal','CH');

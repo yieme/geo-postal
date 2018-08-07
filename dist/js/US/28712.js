@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28712"]={"code":"28712","region":"North Carolina","city":"Brevard","latitude":35.200393,"longitude":-82.736926}}(window,'GeoPostal','US');

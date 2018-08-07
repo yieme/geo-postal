@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA45 9SU"]={"code":"SA45 9SU","region":"Wales","city":"Llanina","latitude":52.2,"longitude":-4.33333}}(window,'GeoPostal','GB');

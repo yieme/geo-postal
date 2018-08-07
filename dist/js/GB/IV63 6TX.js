@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 6TX"]={"code":"IV63 6TX","region":"Scotland","city":"Drumnadrochit","latitude":57.33438,"longitude":-4.47989}}(window,'GeoPostal','GB');

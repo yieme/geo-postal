@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0624"]={"code":"0624","region":"Vayoc Jor","city":"Armash","latitude":39.76532,"longitude":44.80902}}(window,'GeoPostal','AM');

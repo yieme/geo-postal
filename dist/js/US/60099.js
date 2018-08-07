@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60099"]={"code":"60099","region":"Illinois","city":"Zion","latitude":42.451311,"longitude":-87.857492}}(window,'GeoPostal','US');

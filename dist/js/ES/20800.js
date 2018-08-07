@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20800"]={"code":"20800","region":"Pais Vasco","city":"Zarautz","latitude":43.28444,"longitude":-2.16992}}(window,'GeoPostal','ES');

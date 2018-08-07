@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71880"]={"code":"71880","region":"Bourgogne-Franche-Comte","city":"Chatenoy-le-Royal","latitude":46.79797,"longitude":4.8119}}(window,'GeoPostal','FR');

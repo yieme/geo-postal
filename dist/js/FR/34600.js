@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34600"]={"code":"34600","region":"Occitanie","city":"Bedarieux","latitude":43.61553,"longitude":3.15714}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50519"]={"code":"50519","region":"IA","city":"Bode","latitude":42.8661,"longitude":-94.2781}}(window,'GeoPostal','US');

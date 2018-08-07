@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24871"]={"code":"24871","region":"WV","city":"Pageton","latitude":37.3493,"longitude":-81.4654}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33141"]={"code":"33141","region":"Florida","city":"North Bay Village","latitude":25.88771,"longitude":-80.29019}}(window,'GeoPostal','US');

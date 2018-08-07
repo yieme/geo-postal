@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15348"]={"code":"15348","region":"PA","city":"Millsboro","latitude":39.9867,"longitude":-79.9937}}(window,'GeoPostal','US');

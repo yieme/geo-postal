@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59832"]={"code":"59832","region":"MT","city":"Drummond","latitude":46.6647,"longitude":-113.2426}}(window,'GeoPostal','US');

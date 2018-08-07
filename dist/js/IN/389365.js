@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389365"]={"code":"389365","region":"Gujarat","city":"Shivrajpur","latitude":22.41667,"longitude":73.65}}(window,'GeoPostal','IN');

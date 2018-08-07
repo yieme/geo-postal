@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95700-000"]={"code":"95700-000","region":"Rio Grande do Sul","city":"Bento Goncalves","latitude":-29.17139,"longitude":-51.51917}}(window,'GeoPostal','BR');

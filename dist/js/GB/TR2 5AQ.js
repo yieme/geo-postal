@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5AQ"]={"code":"TR2 5AQ","region":"England","city":"Saint Mawes","latitude":50.15944,"longitude":-5.01222}}(window,'GeoPostal','GB');

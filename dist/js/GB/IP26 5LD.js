@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 5LD"]={"code":"IP26 5LD","region":"England","city":"Northwold","latitude":52.54442,"longitude":0.58262}}(window,'GeoPostal','GB');

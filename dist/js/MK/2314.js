@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2314"]={"code":"2314","region":"Vinica","city":"Blatec","latitude":41.83778,"longitude":22.57806}}(window,'GeoPostal','MK');

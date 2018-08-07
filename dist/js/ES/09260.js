@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09260"]={"code":"09260","region":"Castilla y Leon","city":"Pradoluengo","latitude":42.32484,"longitude":-3.20284}}(window,'GeoPostal','ES');

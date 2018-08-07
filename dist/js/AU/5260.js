@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5260"]={"code":"5260","region":"South Australia","city":"Wellington","latitude":-35.35,"longitude":139.38333}}(window,'GeoPostal','AU');

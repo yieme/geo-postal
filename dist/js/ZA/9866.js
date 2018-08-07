@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9866"]={"code":"9866","region":"Free State","city":"Phuthaditjhaba","latitude":-28.52423,"longitude":28.81582}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50471"]={"code":"50471","region":"Punjab","city":"Bahawalnagar","latitude":30.55083,"longitude":73.39083}}(window,'GeoPostal','PK');

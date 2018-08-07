@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87629"]={"code":"87629","region":"Bayern","city":"Fuessen","latitude":47.57143,"longitude":10.70171}}(window,'GeoPostal','DE');

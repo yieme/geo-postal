@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61455"]={"code":"61455","region":"Illinois","city":"Macomb","latitude":40.45921,"longitude":-90.6718}}(window,'GeoPostal','US');

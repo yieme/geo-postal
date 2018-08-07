@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16441"]={"code":"16441","region":"Pennsylvania","city":"Waterford","latitude":41.951071,"longitude":-79.988481}}(window,'GeoPostal','US');

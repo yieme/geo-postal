@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20630"]={"code":"20630","region":"Maryland","city":"Drayden","latitude":38.17861,"longitude":-76.48167}}(window,'GeoPostal','US');

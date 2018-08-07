@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88515"]={"code":"88515","region":"Baden-Wurttemberg","city":"Heiligkreuztal","latitude":48.1335,"longitude":9.40267}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 2A0"]={"code":"G0M 2A0","region":"Quebec","city":"Saint-Theophile","latitude":45.93338,"longitude":-70.48233}}(window,'GeoPostal','CA');

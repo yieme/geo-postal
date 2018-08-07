@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84513"]={"code":"84513","region":"Utah","city":"Castle Dale","latitude":39.21219,"longitude":-111.01961}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1808"]={"code":"1808","region":"National Capital Region","city":"Tanza","latitude":10.83484,"longitude":123.011}}(window,'GeoPostal','PH');

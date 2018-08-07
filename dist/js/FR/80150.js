@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80150"]={"code":"80150","region":"Hauts-de-France","city":"Crecy-en-Ponthieu","latitude":50.25193,"longitude":1.88085}}(window,'GeoPostal','FR');

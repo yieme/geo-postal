@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43968"]={"code":"43968","region":"OH","city":"Wellsville","latitude":40.6171,"longitude":-80.6621}}(window,'GeoPostal','US');

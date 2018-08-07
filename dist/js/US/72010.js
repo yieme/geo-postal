@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72010"]={"code":"72010","region":"AR","city":"Bald Knob","latitude":35.3113,"longitude":-91.5502}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62014"]={"code":"62014","region":"IL","city":"Bunker Hill","latitude":39.0408,"longitude":-89.9624}}(window,'GeoPostal','US');

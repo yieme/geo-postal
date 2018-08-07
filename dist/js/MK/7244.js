@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7244"]={"code":"7244","region":"Demir Hisar","city":"Sopotnica","latitude":41.29472,"longitude":21.155}}(window,'GeoPostal','MK');

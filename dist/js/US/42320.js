@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42320"]={"code":"42320","region":"KY","city":"Beaver Dam","latitude":37.387,"longitude":-86.8729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["605500"]={"code":"605500","region":"Bacau","city":"Slanic-Moldova","latitude":46.2,"longitude":26.43333}}(window,'GeoPostal','RO');

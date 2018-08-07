@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74202"]={"code":"74202","region":"Khersonska oblast","city":"Novovorontsovka","latitude":47.50035,"longitude":33.91748}}(window,'GeoPostal','UA');

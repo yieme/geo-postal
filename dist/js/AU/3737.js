@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3737"]={"code":"3737","region":"Victoria","city":"Ovens","latitude":-36.58333,"longitude":146.76667}}(window,'GeoPostal','AU');

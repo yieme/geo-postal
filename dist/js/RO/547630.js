@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547630"]={"code":"547630","region":"Mures","city":"Vatava","latitude":46.96667,"longitude":24.76667}}(window,'GeoPostal','RO');

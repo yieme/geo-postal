@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27007"]={"code":"27007","region":"NC","city":"Ararat","latitude":36.3859,"longitude":-80.5895}}(window,'GeoPostal','US');

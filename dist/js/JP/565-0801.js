@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["565-0801"]={"code":"565-0801","region":"Osaka","city":"Suita","latitude":34.75944,"longitude":135.51694}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92603"]={"code":"92603","region":"CA","city":"Irvine","latitude":33.6245,"longitude":-117.794}}(window,'GeoPostal','US');

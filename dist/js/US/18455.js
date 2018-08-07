@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18455"]={"code":"18455","region":"Pennsylvania","city":"Preston Park","latitude":41.86368,"longitude":-75.383818}}(window,'GeoPostal','US');

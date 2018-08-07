@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37022"]={"code":"37022","region":"TN","city":"Bethpage","latitude":36.5186,"longitude":-86.3146}}(window,'GeoPostal','US');

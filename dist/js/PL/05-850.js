@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-850"]={"code":"05-850","region":"Mazowieckie","city":"Ozarow Mazowiecki","latitude":52.21039,"longitude":20.79716}}(window,'GeoPostal','PL');

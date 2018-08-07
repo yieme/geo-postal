@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98050"]={"code":"98050","region":"WA","city":"Preston","latitude":47.536,"longitude":-121.9312}}(window,'GeoPostal','US');

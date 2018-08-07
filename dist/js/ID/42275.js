@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42275"]={"code":"42275","region":"Banten","city":"Cililitan","latitude":-6.50638,"longitude":105.97802}}(window,'GeoPostal','ID');

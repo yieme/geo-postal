@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15305"]={"code":"15305","region":"Macvanski okrug","city":"Lipolist","latitude":44.70667,"longitude":19.50444}}(window,'GeoPostal','RS');

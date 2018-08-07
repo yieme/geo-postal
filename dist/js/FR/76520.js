@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76520"]={"code":"76520","region":"Normandie","city":"Boos","latitude":49.38848,"longitude":1.20348}}(window,'GeoPostal','FR');

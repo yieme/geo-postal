@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE24 5JS"]={"code":"PE24 5JS","region":"England","city":"Burgh le Marsh","latitude":53.16158,"longitude":0.24484}}(window,'GeoPostal','GB');

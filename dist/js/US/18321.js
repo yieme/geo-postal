@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18321"]={"code":"18321","region":"PA","city":"Bartonsville","latitude":41.008,"longitude":-75.2967}}(window,'GeoPostal','US');

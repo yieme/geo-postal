@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572240"]={"code":"572240","region":"Karnataka","city":"Chiknayakanhalli","latitude":13.41722,"longitude":76.62278}}(window,'GeoPostal','IN');

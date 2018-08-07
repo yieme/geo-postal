@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35130"]={"code":"35130","region":"Yasothon","city":"Maha Chana Chai","latitude":15.52935,"longitude":104.23847}}(window,'GeoPostal','TH');

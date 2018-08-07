@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13056"]={"code":"13056","region":"NY","city":"East Homer","latitude":42.6772,"longitude":-76.1052}}(window,'GeoPostal','US');

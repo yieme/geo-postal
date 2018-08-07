@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21485"]={"code":"21485","region":"Splitsko-dalmatinska zupanija","city":"Komiza","latitude":43.04306,"longitude":16.09306}}(window,'GeoPostal','HR');

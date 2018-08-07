@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425804"]={"code":"425804","region":"Hunan","city":"Taipingxu","latitude":25.47444,"longitude":112.32806}}(window,'GeoPostal','CN');

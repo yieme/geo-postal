@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04014"]={"code":"04014","region":"ME","city":"Cape Porpoise","latitude":43.3657,"longitude":-70.6044}}(window,'GeoPostal','US');

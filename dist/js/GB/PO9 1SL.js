@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO9 1SL"]={"code":"PO9 1SL","region":"England","city":"Langstone","latitude":50.83966,"longitude":-0.98276}}(window,'GeoPostal','GB');

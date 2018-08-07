@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67133"]={"code":"67133","region":"Kansas","city":"Rose Hill","latitude":37.576148,"longitude":-97.13253}}(window,'GeoPostal','US');

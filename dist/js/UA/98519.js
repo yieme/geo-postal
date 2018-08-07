@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98519"]={"code":"98519","region":"Avtonomna Respublika Krym","city":"Alushta","latitude":44.67631,"longitude":34.40778}}(window,'GeoPostal','UA');

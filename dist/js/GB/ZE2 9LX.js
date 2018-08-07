@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9LX"]={"code":"ZE2 9LX","region":"Scotland","city":"Twatt","latitude":60.26667,"longitude":-1.41667}}(window,'GeoPostal','GB');

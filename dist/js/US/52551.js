@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52551"]={"code":"52551","region":"IA","city":"Douds","latitude":40.8378,"longitude":-92.0859}}(window,'GeoPostal','US');

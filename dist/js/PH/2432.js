@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2432"]={"code":"2432","region":"Pangasinan","city":"Mangaldan","latitude":16.07,"longitude":120.4025}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE70 7JJ"]={"code":"NE70 7JJ","region":"England","city":"Lucker","latitude":55.56551,"longitude":-1.75928}}(window,'GeoPostal','GB');

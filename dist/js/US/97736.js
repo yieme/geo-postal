@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97736"]={"code":"97736","region":"OR","city":"Frenchglen","latitude":42.7147,"longitude":-119.0058}}(window,'GeoPostal','US');

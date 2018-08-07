@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08440"]={"code":"08440","region":"Grand-Est","city":"Lumes","latitude":49.73461,"longitude":4.78616}}(window,'GeoPostal','FR');

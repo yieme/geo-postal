@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30045"]={"code":"30045","region":"Georgia","city":"Lawrenceville","latitude":33.93426,"longitude":-83.95942}}(window,'GeoPostal','US');

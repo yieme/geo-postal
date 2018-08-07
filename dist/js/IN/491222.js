@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491222"]={"code":"491222","region":"Chhattisgarh","city":"Balod","latitude":20.73,"longitude":81.20472}}(window,'GeoPostal','IN');

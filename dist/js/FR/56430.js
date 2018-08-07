@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56430"]={"code":"56430","region":"Bretagne","city":"Mauron","latitude":48.08257,"longitude":-2.28477}}(window,'GeoPostal','FR');

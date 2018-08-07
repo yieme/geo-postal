@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83503"]={"code":"83503","region":"Sonora","city":"San Luis Rio Colorado","latitude":32.46306,"longitude":-114.77667}}(window,'GeoPostal','MX');

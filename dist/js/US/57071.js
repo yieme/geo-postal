@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57071"]={"code":"57071","region":"SD","city":"Volga","latitude":44.3224,"longitude":-96.9251}}(window,'GeoPostal','US');

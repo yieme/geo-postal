@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63944"]={"code":"63944","region":"MO","city":"Greenville","latitude":37.1108,"longitude":-90.4514}}(window,'GeoPostal','US');

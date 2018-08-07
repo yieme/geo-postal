@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28702"]={"code":"28702","region":"North Carolina","city":"Almond","latitude":35.389002,"longitude":-83.633604}}(window,'GeoPostal','US');

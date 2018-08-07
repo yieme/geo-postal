@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059 01"]={"code":"059 01","region":"Presovsky kraj","city":"Spisska Bela","latitude":49.18725,"longitude":20.45948}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12594"]={"code":"12594","region":"Valenciana, Comunidad","city":"Orpesa/Oropesa del Mar","latitude":40.1,"longitude":0.15}}(window,'GeoPostal','ES');

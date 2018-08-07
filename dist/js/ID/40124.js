@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40124"]={"code":"40124","region":"Jawa Barat","city":"Cinyawar","latitude":-7.3325,"longitude":107.9241}}(window,'GeoPostal','ID');

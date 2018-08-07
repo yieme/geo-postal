@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04910"]={"code":"04910","region":"ME","city":"Albion","latitude":44.5355,"longitude":-69.4683}}(window,'GeoPostal','US');

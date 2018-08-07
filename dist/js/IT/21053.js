@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21053"]={"code":"21053","region":"Lombardia","city":"Castellanza","latitude":45.61237,"longitude":8.90114}}(window,'GeoPostal','IT');

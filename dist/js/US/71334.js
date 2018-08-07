@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71334"]={"code":"71334","region":"Louisiana","city":"Ferriday","latitude":31.63017,"longitude":-91.55456}}(window,'GeoPostal','US');

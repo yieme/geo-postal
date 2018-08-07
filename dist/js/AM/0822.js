@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0822"]={"code":"0822","region":"Ararat","city":"Sayat'-Nova","latitude":40.07428,"longitude":44.39846}}(window,'GeoPostal','AM');

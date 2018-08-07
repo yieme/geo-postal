@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["310 82"]={"code":"310 82","region":"Thessalia","city":"Vasiliki","latitude":39.63889,"longitude":21.70472}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34740"]={"code":"34740","region":"FL","city":"Killarney","latitude":28.5454,"longitude":-81.6507}}(window,'GeoPostal','US');

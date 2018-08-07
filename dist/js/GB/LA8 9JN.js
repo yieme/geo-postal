@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 9JN"]={"code":"LA8 9JN","region":"England","city":"Mardale","latitude":54.48333,"longitude":-2.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28713"]={"code":"28713","region":"North Carolina","city":"Bryson City","latitude":35.43093,"longitude":-83.44738}}(window,'GeoPostal','US');

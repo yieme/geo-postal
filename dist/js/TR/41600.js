@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41600"]={"code":"41600","region":"Afyonkarahisar","city":"Dazkiri","latitude":37.91861,"longitude":29.86056}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13101"]={"code":"13101","region":"NY","city":"Mc Graw","latitude":42.5948,"longitude":-76.082}}(window,'GeoPostal','US');

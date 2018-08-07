@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8626"]={"code":"8626","region":"Nordland","city":"Mo i Rana","latitude":66.31278,"longitude":14.14278}}(window,'GeoPostal','NO');

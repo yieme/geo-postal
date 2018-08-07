@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50055"]={"code":"50055","region":"IA","city":"Collins","latitude":41.9032,"longitude":-93.3008}}(window,'GeoPostal','US');

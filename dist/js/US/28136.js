@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28136"]={"code":"28136","region":"NC","city":"Polkville","latitude":35.3961,"longitude":-81.6303}}(window,'GeoPostal','US');

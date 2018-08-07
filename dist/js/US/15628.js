@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15628"]={"code":"15628","region":"PA","city":"Donegal","latitude":40.0996,"longitude":-79.381}}(window,'GeoPostal','US');

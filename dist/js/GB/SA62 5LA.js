@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 5LA"]={"code":"SA62 5LA","region":"Wales","city":"Treffynnon","latitude":51.91472,"longitude":-5.12694}}(window,'GeoPostal','GB');

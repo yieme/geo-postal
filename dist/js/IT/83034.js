@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83034"]={"code":"83034","region":"Campania","city":"Casalbore","latitude":41.23392,"longitude":15.00674}}(window,'GeoPostal','IT');

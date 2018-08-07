@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0S 1G0"]={"code":"P0S 1G0","region":"Ontario","city":"Hawk Junction","latitude":48.08338,"longitude":-84.56653}}(window,'GeoPostal','CA');

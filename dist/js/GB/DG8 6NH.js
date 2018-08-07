@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 6NH"]={"code":"DG8 6NH","region":"Scotland","city":"Newton Stewart","latitude":54.95784,"longitude":-4.48315}}(window,'GeoPostal','GB');

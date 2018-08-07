@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23068"]={"code":"23068","region":"Virginia","city":"Hallieford","latitude":37.49361,"longitude":-76.34028}}(window,'GeoPostal','US');

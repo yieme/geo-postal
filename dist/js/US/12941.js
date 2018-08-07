@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12941"]={"code":"12941","region":"NY","city":"Jay","latitude":44.3734,"longitude":-73.7247}}(window,'GeoPostal','US');

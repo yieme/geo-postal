@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75492"]={"code":"75492","region":"TX","city":"Windom","latitude":33.5633,"longitude":-96.002}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917235"]={"code":"917235","region":"Calarasi","city":"Soldanu","latitude":44.21667,"longitude":26.51667}}(window,'GeoPostal','RO');

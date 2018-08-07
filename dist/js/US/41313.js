@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41313"]={"code":"41313","region":"KY","city":"Bethany","latitude":37.74,"longitude":-83.5}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713 09"]={"code":"713 09","region":"Kriti","city":"Irakleion","latitude":35.32787,"longitude":25.14341}}(window,'GeoPostal','GR');

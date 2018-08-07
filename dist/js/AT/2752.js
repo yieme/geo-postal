@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2752"]={"code":"2752","region":"Niederosterreich","city":"Wiener Neustadt","latitude":47.8,"longitude":16.25}}(window,'GeoPostal','AT');

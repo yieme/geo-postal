@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL71 7BL"]={"code":"LL71 7BL","region":"Wales","city":"Gwredog","latitude":53.3485,"longitude":-4.39656}}(window,'GeoPostal','GB');

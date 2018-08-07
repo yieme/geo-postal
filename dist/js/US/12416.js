@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12416"]={"code":"12416","region":"NY","city":"Chichester","latitude":42.095,"longitude":-74.2717}}(window,'GeoPostal','US');

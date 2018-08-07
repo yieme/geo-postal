@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45897"]={"code":"45897","region":"OH","city":"Williamstown","latitude":40.834,"longitude":-83.6518}}(window,'GeoPostal','US');

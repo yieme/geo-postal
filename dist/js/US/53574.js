@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53574"]={"code":"53574","region":"WI","city":"New Glarus","latitude":42.8143,"longitude":-89.6437}}(window,'GeoPostal','US');

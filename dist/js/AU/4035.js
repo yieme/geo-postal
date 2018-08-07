@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4035"]={"code":"4035","region":"Queensland","city":"Bridegman Downs","latitude":-27.35538,"longitude":152.99432}}(window,'GeoPostal','AU');

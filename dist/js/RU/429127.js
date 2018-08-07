@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429127"]={"code":"429127","region":"Chuvashskaya Respublika","city":"Shumerlya","latitude":55.5005,"longitude":46.41288}}(window,'GeoPostal','RU');

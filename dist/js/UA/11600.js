@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11600"]={"code":"11600","region":"Zhytomyrska oblast","city":"Polyanka","latitude":50.25836,"longitude":27.68809}}(window,'GeoPostal','UA');

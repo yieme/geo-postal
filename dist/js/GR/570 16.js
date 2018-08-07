@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 16"]={"code":"570 16","region":"Kentriki Makedonia","city":"Askos","latitude":40.75,"longitude":23.38333}}(window,'GeoPostal','GR');

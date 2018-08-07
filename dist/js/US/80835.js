@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80835"]={"code":"80835","region":"Colorado","city":"Simla","latitude":39.14083,"longitude":-104.08278}}(window,'GeoPostal','US');

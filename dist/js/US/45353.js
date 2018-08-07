@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45353"]={"code":"45353","region":"OH","city":"Pemberton","latitude":40.2952,"longitude":-84.0323}}(window,'GeoPostal','US');

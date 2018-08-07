@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682916"]={"code":"682916","region":"Khabarovskiy kray","city":"Mukhen","latitude":48.1,"longitude":136.1}}(window,'GeoPostal','RU');

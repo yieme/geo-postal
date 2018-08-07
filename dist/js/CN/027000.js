@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["027000"]={"code":"027000","region":"Nei Mongol","city":"Baochang","latitude":41.88444,"longitude":115.27889}}(window,'GeoPostal','CN');

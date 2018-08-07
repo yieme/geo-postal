@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["033-0101"]={"code":"033-0101","region":"Aomori","city":"Misawa","latitude":40.683,"longitude":141.367}}(window,'GeoPostal','JP');

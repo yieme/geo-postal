@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790 70"]={"code":"790 70","region":"Olomoucky kraj","city":"Javornik","latitude":50.39077,"longitude":17.00272}}(window,'GeoPostal','CZ');

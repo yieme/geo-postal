@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-500"]={"code":"62-500","region":"Wielkopolskie","city":"Konin","latitude":52.22338,"longitude":18.25121}}(window,'GeoPostal','PL');

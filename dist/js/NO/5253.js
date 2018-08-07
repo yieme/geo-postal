@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5253"]={"code":"5253","region":"Hordaland","city":"Sandsli","latitude":60.30323,"longitude":5.28554}}(window,'GeoPostal','NO');

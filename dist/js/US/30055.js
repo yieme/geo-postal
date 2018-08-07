@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30055"]={"code":"30055","region":"GA","city":"Mansfield","latitude":33.4314,"longitude":-83.7908}}(window,'GeoPostal','US');

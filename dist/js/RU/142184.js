@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142184"]={"code":"142184","region":"Moskovskaya oblast'","city":"Klimovsk","latitude":55.36352,"longitude":37.52984}}(window,'GeoPostal','RU');

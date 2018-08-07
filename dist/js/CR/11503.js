@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11503"]={"code":"11503","region":"San Jose","city":"Mercedes","latitude":9.2627,"longitude":-83.58202}}(window,'GeoPostal','CR');

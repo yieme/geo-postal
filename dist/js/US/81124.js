@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81124"]={"code":"81124","region":"CO","city":"Capulin","latitude":37.2839,"longitude":-106.1114}}(window,'GeoPostal','US');

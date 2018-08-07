@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2352"]={"code":"2352","region":"New South Wales","city":"Kootingal","latitude":-31.05857,"longitude":151.0535}}(window,'GeoPostal','AU');

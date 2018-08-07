@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86360-000"]={"code":"86360-000","region":"Parana","city":"Bandeirantes","latitude":-23.11,"longitude":-50.3675}}(window,'GeoPostal','BR');

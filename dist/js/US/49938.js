@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49938"]={"code":"49938","region":"Michigan","city":"Ironwood","latitude":46.457705,"longitude":-90.155723}}(window,'GeoPostal','US');

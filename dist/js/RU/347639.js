@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347639"]={"code":"347639","region":"Rostovskaya oblast'","city":"Sal'sk","latitude":46.4747,"longitude":41.54114}}(window,'GeoPostal','RU');

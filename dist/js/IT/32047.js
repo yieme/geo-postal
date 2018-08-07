@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32047"]={"code":"32047","region":"Veneto","city":"Sappada","latitude":46.56663,"longitude":12.68421}}(window,'GeoPostal','IT');

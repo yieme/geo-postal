@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43680"]={"code":"43680","region":"Eskisehir","city":"Seyitgazi","latitude":39.44472,"longitude":30.69472}}(window,'GeoPostal','TR');

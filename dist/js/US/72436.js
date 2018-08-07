@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72436"]={"code":"72436","region":"AR","city":"Lafe","latitude":36.2359,"longitude":-90.4811}}(window,'GeoPostal','US');

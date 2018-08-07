@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91795"]={"code":"91795","region":"CA","city":"Walnut","latitude":34.02,"longitude":-117.85}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7213"]={"code":"7213","region":"Gelderland","city":"Gorssel","latitude":52.20167,"longitude":6.20139}}(window,'GeoPostal','NL');

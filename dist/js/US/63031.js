@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63031"]={"code":"63031","region":"Missouri","city":"Florissant","latitude":38.78922,"longitude":-90.32261}}(window,'GeoPostal','US');

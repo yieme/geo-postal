@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37245"]={"code":"37245","region":"TN","city":"Nashvl","latitude":36.16,"longitude":-86.78}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17362"]={"code":"17362","region":"Pennsylvania","city":"Spring Grove","latitude":39.874434,"longitude":-76.864631}}(window,'GeoPostal','US');

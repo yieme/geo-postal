@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27874"]={"code":"27874","region":"NC","city":"Scotland Neck","latitude":36.1301,"longitude":-77.4273}}(window,'GeoPostal','US');

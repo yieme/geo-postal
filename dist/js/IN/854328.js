@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["854328"]={"code":"854328","region":"Bihar","city":"Forbesganj","latitude":26.3,"longitude":87.25}}(window,'GeoPostal','IN');

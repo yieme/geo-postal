@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8653"]={"code":"8653","region":"Midtjylland","city":"Virklund","latitude":56.13218,"longitude":9.55582}}(window,'GeoPostal','DK');

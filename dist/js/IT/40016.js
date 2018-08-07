@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40016"]={"code":"40016","region":"Emilia-Romagna","city":"San Giorgio di Piano","latitude":44.64967,"longitude":11.37561}}(window,'GeoPostal','IT');

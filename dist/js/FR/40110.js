@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40110"]={"code":"40110","region":"Nouvelle-Aquitaine","city":"Onesse-Laharie","latitude":44.06146,"longitude":-1.06984}}(window,'GeoPostal','FR');

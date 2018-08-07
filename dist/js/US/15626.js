@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15626"]={"code":"15626","region":"PA","city":"Delmont","latitude":40.4139,"longitude":-79.5764}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99589"]={"code":"99589","region":"AK","city":"Goodnews Bay","latitude":59.1189,"longitude":-161.5875}}(window,'GeoPostal','US');

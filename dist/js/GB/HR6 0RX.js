@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0RX"]={"code":"HR6 0RX","region":"England","city":"Docklow","latitude":52.21394,"longitude":-2.63813}}(window,'GeoPostal','GB');

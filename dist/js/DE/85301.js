@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85301"]={"code":"85301","region":"Bayern","city":"Schweitenkirchen","latitude":48.5,"longitude":11.61667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-709"]={"code":"11-709","region":"Warminsko-mazurskie","city":"Mragowo","latitude":53.86437,"longitude":21.30507}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36091"]={"code":"36091","region":"AL","city":"Verbena","latitude":32.7499,"longitude":-86.5114}}(window,'GeoPostal','US');

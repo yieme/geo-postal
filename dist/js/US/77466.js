@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77466"]={"code":"77466","region":"TX","city":"Pattison","latitude":29.8173,"longitude":-96.0073}}(window,'GeoPostal','US');

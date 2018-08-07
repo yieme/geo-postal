@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0850"]={"code":"0850","region":"Northern Territory","city":"Katherine","latitude":-14.46517,"longitude":132.26347}}(window,'GeoPostal','AU');

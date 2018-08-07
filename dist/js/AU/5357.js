@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5357"]={"code":"5357","region":"South Australia","city":"Dunira","latitude":-34.45,"longitude":140}}(window,'GeoPostal','AU');

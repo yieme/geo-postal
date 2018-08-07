@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11357"]={"code":"11357","region":"New York","city":"Whitestone","latitude":40.785672,"longitude":-73.811693}}(window,'GeoPostal','US');

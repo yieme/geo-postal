@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3670"]={"code":"3670","region":"Luxembourg","city":"Kayl","latitude":49.48917,"longitude":6.03972}}(window,'GeoPostal','LU');

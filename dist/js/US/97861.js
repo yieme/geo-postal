@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97861"]={"code":"97861","region":"OR","city":"Mikkalo","latitude":45.4388,"longitude":-120.2067}}(window,'GeoPostal','US');

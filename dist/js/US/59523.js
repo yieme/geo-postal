@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59523"]={"code":"59523","region":"Montana","city":"Chinook","latitude":48.59,"longitude":-109.23128}}(window,'GeoPostal','US');

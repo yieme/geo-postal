@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4H 0A3"]={"code":"E4H 0A3","region":"New Brunswick","city":"Alma","latitude":45.65186,"longitude":-64.92377}}(window,'GeoPostal','CA');

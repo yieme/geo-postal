@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75208"]={"code":"75208","region":"Federacija Bosne i Hercegovine","city":"Gornja Tuzla","latitude":44.55611,"longitude":18.76139}}(window,'GeoPostal','BA');

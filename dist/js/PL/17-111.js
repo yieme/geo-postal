@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-111"]={"code":"17-111","region":"Podlaskie","city":"Bocki","latitude":52.65155,"longitude":23.04485}}(window,'GeoPostal','PL');

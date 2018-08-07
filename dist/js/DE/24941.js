@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24941"]={"code":"24941","region":"Schleswig-Holstein","city":"Flensburg","latitude":54.78431,"longitude":9.43961}}(window,'GeoPostal','DE');

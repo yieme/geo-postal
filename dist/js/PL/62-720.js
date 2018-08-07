@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-720"]={"code":"62-720","region":"Wielkopolskie","city":"Brudzew","latitude":52.09949,"longitude":18.60432}}(window,'GeoPostal','PL');

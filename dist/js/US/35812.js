@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35812"]={"code":"35812","region":"Alabama","city":"Redstone Arsenal","latitude":34.633262,"longitude":-86.654584}}(window,'GeoPostal','US');

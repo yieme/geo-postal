@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63363"]={"code":"63363","region":"Missouri","city":"New Florence","latitude":38.91111,"longitude":-91.44889}}(window,'GeoPostal','US');

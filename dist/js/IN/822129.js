@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["822129"]={"code":"822129","region":"Jharkhand","city":"Daltenganj","latitude":24.03333,"longitude":84.06667}}(window,'GeoPostal','IN');

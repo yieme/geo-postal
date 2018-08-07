@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S75 3DL"]={"code":"S75 3DL","region":"England","city":"Tankersley","latitude":53.49096,"longitude":-1.48697}}(window,'GeoPostal','GB');

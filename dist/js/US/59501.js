@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59501"]={"code":"59501","region":"Montana","city":"Havre","latitude":48.54546,"longitude":-109.684372}}(window,'GeoPostal','US');

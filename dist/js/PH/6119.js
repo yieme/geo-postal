@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6119"]={"code":"6119","region":"Negros Occidental","city":"Daan Banua","latitude":10.90389,"longitude":123.06083}}(window,'GeoPostal','PH');

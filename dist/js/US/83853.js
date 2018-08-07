@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83853"]={"code":"83853","region":"ID","city":"Porthill","latitude":48.992,"longitude":-116.4775}}(window,'GeoPostal','US');

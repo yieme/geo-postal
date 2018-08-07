@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6PB"]={"code":"PE31 6PB","region":"England","city":"Ingoldisthorpe","latitude":52.8664,"longitude":0.50803}}(window,'GeoPostal','GB');

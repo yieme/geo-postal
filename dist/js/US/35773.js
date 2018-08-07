@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35773"]={"code":"35773","region":"Alabama","city":"Toney","latitude":34.9,"longitude":-86.75}}(window,'GeoPostal','US');

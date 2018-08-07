@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36205"]={"code":"36205","region":"Hessen","city":"Sontra","latitude":51.07171,"longitude":9.93558}}(window,'GeoPostal','DE');

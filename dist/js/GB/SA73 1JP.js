@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1JP"]={"code":"SA73 1JP","region":"Wales","city":"Rosemarket","latitude":51.73717,"longitude":-4.96664}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79257"]={"code":"79257","region":"Texas","city":"Silverton","latitude":34.47423,"longitude":-101.30461}}(window,'GeoPostal','US');

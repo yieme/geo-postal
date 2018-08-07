@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 8BG"]={"code":"LA2 8BG","region":"England","city":"Austwick","latitude":54.11104,"longitude":-2.35812}}(window,'GeoPostal','GB');

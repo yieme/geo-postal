@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6230"]={"code":"6230","region":"Syddanmark","city":"Rodekro","latitude":55.07016,"longitude":9.31641}}(window,'GeoPostal','DK');

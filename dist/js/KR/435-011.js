@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435-011"]={"code":"435-011","region":"Gyeonggi-do","city":"Gunpo","latitude":37.35,"longitude":126.95}}(window,'GeoPostal','KR');

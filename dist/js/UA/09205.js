@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09205"]={"code":"09205","region":"Kyivska oblast","city":"Kaharlyk","latitude":49.86233,"longitude":30.82815}}(window,'GeoPostal','UA');

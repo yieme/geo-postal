@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37826"]={"code":"37826","region":"Tennessee","city":"Niota","latitude":35.51417,"longitude":-84.54722}}(window,'GeoPostal','US');

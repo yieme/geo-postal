@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47018"]={"code":"47018","region":"Indiana","city":"Dillsboro","latitude":39.01783,"longitude":-85.05884}}(window,'GeoPostal','US');

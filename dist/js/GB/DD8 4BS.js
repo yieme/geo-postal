@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 4BS"]={"code":"DD8 4BS","region":"Scotland","city":"Kirriemuir","latitude":56.67398,"longitude":-3.00343}}(window,'GeoPostal','GB');

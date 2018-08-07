@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79777"]={"code":"79777","region":"TX","city":"Pyote","latitude":31.5387,"longitude":-103.1267}}(window,'GeoPostal','US');

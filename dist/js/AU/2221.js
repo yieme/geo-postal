@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2221"]={"code":"2221","region":"New South Wales","city":"Blakehurst","latitude":-33.98333,"longitude":151.1}}(window,'GeoPostal','AU');

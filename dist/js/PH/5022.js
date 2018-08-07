@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5022"]={"code":"5022","region":"Iloilo","city":"Guimbal","latitude":10.6633,"longitude":122.3228}}(window,'GeoPostal','PH');

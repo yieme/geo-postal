@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57322"]={"code":"57322","region":"South Dakota","city":"Carpenter","latitude":44.674969,"longitude":-97.91652}}(window,'GeoPostal','US');

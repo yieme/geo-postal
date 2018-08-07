@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57030"]={"code":"57030","region":"South Dakota","city":"Garretson","latitude":43.71474,"longitude":-96.51942}}(window,'GeoPostal','US');

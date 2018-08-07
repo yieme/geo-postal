@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87026"]={"code":"87026","region":"Calabria","city":"Mormanno","latitude":39.8883,"longitude":15.98678}}(window,'GeoPostal','IT');

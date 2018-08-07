@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO11 3RR"]={"code":"YO11 3RR","region":"England","city":"Cayton","latitude":54.23534,"longitude":-0.3828}}(window,'GeoPostal','GB');

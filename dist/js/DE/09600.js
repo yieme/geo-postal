@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09600"]={"code":"09600","region":"Sachsen","city":"Wegefarth","latitude":50.91908,"longitude":13.24299}}(window,'GeoPostal','DE');

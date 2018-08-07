@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["605802"]={"code":"605802","region":"Tamil Nadu","city":"Uttiramerur","latitude":12.6,"longitude":79.76667}}(window,'GeoPostal','IN');

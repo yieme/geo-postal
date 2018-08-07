@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37450"]={"code":"37450","region":"Karaman","city":"Karaman","latitude":37.18111,"longitude":33.215}}(window,'GeoPostal','TR');

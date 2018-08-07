@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95508"]={"code":"95508","region":"Bayern","city":"Kulmain","latitude":49.9,"longitude":11.9}}(window,'GeoPostal','DE');

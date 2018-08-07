@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87015"]={"code":"87015","region":"New Mexico","city":"Edgewood","latitude":35.06144,"longitude":-106.19141}}(window,'GeoPostal','US');

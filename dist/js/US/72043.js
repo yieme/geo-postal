@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72043"]={"code":"72043","region":"Arkansas","city":"Diaz","latitude":35.63841,"longitude":-91.26513}}(window,'GeoPostal','US');

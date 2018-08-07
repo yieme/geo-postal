@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19492"]={"code":"19492","region":"PA","city":"Zieglerville","latitude":40.2901,"longitude":-75.503}}(window,'GeoPostal','US');

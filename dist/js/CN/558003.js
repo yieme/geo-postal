@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["558003"]={"code":"558003","region":"Guizhou","city":"Qiannan","latitude":26.266667,"longitude":107.516667}}(window,'GeoPostal','CN');

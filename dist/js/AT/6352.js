@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6352"]={"code":"6352","region":"Tirol","city":"Ellmau","latitude":47.51378,"longitude":12.29937}}(window,'GeoPostal','AT');

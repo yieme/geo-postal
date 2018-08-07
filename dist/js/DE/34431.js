@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34431"]={"code":"34431","region":"Nordrhein-Westfalen","city":"Marsberg","latitude":51.46171,"longitude":8.84949}}(window,'GeoPostal','DE');

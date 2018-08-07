@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32408"]={"code":"32408","region":"Florida","city":"Panama City Beach","latitude":30.1599,"longitude":-85.76389}}(window,'GeoPostal','US');

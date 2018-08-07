@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585316"]={"code":"585316","region":"Karnataka","city":"Gulbarga","latitude":17.33333,"longitude":76.83333}}(window,'GeoPostal','IN');

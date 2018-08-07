@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS12 2UW"]={"code":"BS12 2UW","region":"England","city":"Thornbury","latitude":50.85,"longitude":-4.26667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 01"]={"code":"517 01","region":"Kralovehradecky kraj","city":"Solnice","latitude":50.20366,"longitude":16.23762}}(window,'GeoPostal','CZ');

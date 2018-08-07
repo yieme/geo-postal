@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14707"]={"code":"14707","region":"NY","city":"Allentown","latitude":42.0737,"longitude":-78.0594}}(window,'GeoPostal','US');

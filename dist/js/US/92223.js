@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92223"]={"code":"92223","region":"California","city":"Beaumont","latitude":33.92946,"longitude":-116.97725}}(window,'GeoPostal','US');

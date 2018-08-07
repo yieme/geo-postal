@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG3 5BJ"]={"code":"DG3 5BJ","region":"Scotland","city":"Durisdeer","latitude":55.31491,"longitude":-3.74424}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29569"]={"code":"29569","region":"South Carolina","city":"Loris","latitude":34.02379,"longitude":-78.90915}}(window,'GeoPostal','US');

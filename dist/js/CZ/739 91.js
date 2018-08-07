@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 91"]={"code":"739 91","region":"Moravskoslezsky kraj","city":"Jablunkov","latitude":49.57672,"longitude":18.76458}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14895"]={"code":"14895","region":"New York","city":"Wellsville","latitude":42.87591,"longitude":-74.27235}}(window,'GeoPostal','US');

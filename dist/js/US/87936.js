@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87936"]={"code":"87936","region":"New Mexico","city":"Garfield","latitude":32.74844,"longitude":-107.26431}}(window,'GeoPostal','US');

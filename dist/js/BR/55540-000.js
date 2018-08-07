@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55540-000"]={"code":"55540-000","region":"Pernambuco","city":"Palmares","latitude":-8.68333,"longitude":-35.59167}}(window,'GeoPostal','BR');

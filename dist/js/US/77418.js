@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77418"]={"code":"77418","region":"Texas","city":"Bellville","latitude":29.95023,"longitude":-96.25719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0S 1M0"]={"code":"B0S 1M0","region":"Nova Scotia","city":"Roxbury","latitude":44.80015,"longitude":-65.16551}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33329"]={"code":"33329","region":"Nouvelle-Aquitaine","city":"Begles","latitude":44.80845,"longitude":-0.54809}}(window,'GeoPostal','FR');

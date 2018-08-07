@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628638"]={"code":"628638","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Raduzhnyy","latitude":62.09611,"longitude":77.475}}(window,'GeoPostal','RU');

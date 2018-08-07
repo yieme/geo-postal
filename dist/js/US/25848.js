@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25848"]={"code":"25848","region":"WV","city":"Glen Rogers","latitude":37.7217,"longitude":-81.429}}(window,'GeoPostal','US');

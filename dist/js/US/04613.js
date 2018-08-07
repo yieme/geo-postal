@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04613"]={"code":"04613","region":"Maine","city":"Birch Harbor","latitude":44.384969,"longitude":-68.043464}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80828"]={"code":"80828","region":"Colorado","city":"Limon","latitude":39.264323,"longitude":-103.6891}}(window,'GeoPostal','US');

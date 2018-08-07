@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561207"]={"code":"561207","region":"Karnataka","city":"Gudibanda","latitude":13.66944,"longitude":77.69833}}(window,'GeoPostal','IN');

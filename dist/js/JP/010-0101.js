@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010-0101"]={"code":"010-0101","region":"Akita","city":"Katagami","latitude":39.883222,"longitude":139.988583}}(window,'GeoPostal','JP');

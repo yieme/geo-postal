@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF44 8AG"]={"code":"CF44 8AG","region":"Wales","city":"Aberdare","latitude":51.71438,"longitude":-3.44918}}(window,'GeoPostal','GB');

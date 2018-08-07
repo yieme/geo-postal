@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81052"]={"code":"81052","region":"Lvivska oblast","city":"Starychi","latitude":49.98001,"longitude":23.55848}}(window,'GeoPostal','UA');

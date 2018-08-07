@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 3PE"]={"code":"PE34 3PE","region":"England","city":"Stowbridge","latitude":52.63869,"longitude":0.36547}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04763"]={"code":"04763","region":"ME","city":"Oakfield","latitude":46.1088,"longitude":-68.1298}}(window,'GeoPostal','US');

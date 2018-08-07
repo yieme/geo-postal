@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83352"]={"code":"83352","region":"ID","city":"Shoshone","latitude":42.9474,"longitude":-114.3822}}(window,'GeoPostal','US');

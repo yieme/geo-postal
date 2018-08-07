@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05130"]={"code":"05130","region":"Provence-Alpes-Cote d'Azur","city":"Tallard","latitude":44.46128,"longitude":6.05504}}(window,'GeoPostal','FR');

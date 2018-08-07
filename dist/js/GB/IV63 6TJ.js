@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 6TJ"]={"code":"IV63 6TJ","region":"Scotland","city":"Balnain","latitude":57.33631,"longitude":-4.58238}}(window,'GeoPostal','GB');

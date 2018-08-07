@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6960"]={"code":"6960","region":"Midtjylland","city":"Hvide Sande","latitude":56.00452,"longitude":8.12937}}(window,'GeoPostal','DK');

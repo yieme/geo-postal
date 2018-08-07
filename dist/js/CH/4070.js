@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4070"]={"code":"4070","region":"Fribourg","city":"La Roche","latitude":46.69723,"longitude":7.1393}}(window,'GeoPostal','CH');

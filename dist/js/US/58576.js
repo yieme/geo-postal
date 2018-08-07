@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58576"]={"code":"58576","region":"North Dakota","city":"Underwood","latitude":47.45321,"longitude":-101.137898}}(window,'GeoPostal','US');

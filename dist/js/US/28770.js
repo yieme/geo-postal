@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28770"]={"code":"28770","region":"NC","city":"Ridgecrest","latitude":35.6186,"longitude":-82.3005}}(window,'GeoPostal','US');

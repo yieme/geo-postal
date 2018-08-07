@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56263"]={"code":"56263","region":"Minnesota","city":"Milroy","latitude":44.44771,"longitude":-95.55171}}(window,'GeoPostal','US');

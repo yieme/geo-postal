@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48180"]={"code":"48180","region":"Michigan","city":"Taylor","latitude":42.24087,"longitude":-83.26965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28935"]={"code":"28935","region":"Madrid, Comunidad de","city":"Mostoles","latitude":40.32234,"longitude":-3.86496}}(window,'GeoPostal','ES');

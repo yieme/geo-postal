@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56181"]={"code":"56181","region":"Punjab","city":"Dipalpur","latitude":30.67091,"longitude":73.65292}}(window,'GeoPostal','PK');

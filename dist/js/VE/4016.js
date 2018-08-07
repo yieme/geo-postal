@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4016"]={"code":"4016","region":"Zulia","city":"Lagunillas","latitude":10.13008,"longitude":-71.25946}}(window,'GeoPostal','VE');

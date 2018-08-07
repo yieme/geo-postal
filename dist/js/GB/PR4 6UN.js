@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 6UN"]={"code":"PR4 6UN","region":"England","city":"Tarleton","latitude":53.68005,"longitude":-2.82968}}(window,'GeoPostal','GB');

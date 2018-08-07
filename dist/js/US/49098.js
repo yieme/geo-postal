@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49098"]={"code":"49098","region":"Michigan","city":"Watervliet","latitude":42.18671,"longitude":-86.26058}}(window,'GeoPostal','US');

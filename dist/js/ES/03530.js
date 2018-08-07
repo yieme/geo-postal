@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03530"]={"code":"03530","region":"Valenciana, Comunidad","city":"la Nucia","latitude":38.61372,"longitude":-0.1269}}(window,'GeoPostal','ES');

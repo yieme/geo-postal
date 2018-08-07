@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49312"]={"code":"49312","region":"MI","city":"Brohman","latitude":43.6853,"longitude":-85.8159}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0T 1E0"]={"code":"G0T 1E0","region":"Quebec","city":"Forestville","latitude":48.73808,"longitude":-69.08478}}(window,'GeoPostal','CA');

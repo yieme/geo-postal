@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40464"]={"code":"40464","region":"Kentucky","city":"Parksville","latitude":37.586823,"longitude":-84.922663}}(window,'GeoPostal','US');

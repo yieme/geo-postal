@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15952"]={"code":"15952","region":"PA","city":"Salix","latitude":40.2986,"longitude":-78.7816}}(window,'GeoPostal','US');

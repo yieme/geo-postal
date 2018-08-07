@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89240-000"]={"code":"89240-000","region":"Santa Catarina","city":"Sao Francisco do Sul","latitude":-26.24333,"longitude":-48.63806}}(window,'GeoPostal','BR');

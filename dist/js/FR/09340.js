@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09340"]={"code":"09340","region":"Occitanie","city":"Verniolle","latitude":43.08162,"longitude":1.64904}}(window,'GeoPostal','FR');

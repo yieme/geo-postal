@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28447"]={"code":"28447","region":"North Carolina","city":"Ivanhoe","latitude":34.696411,"longitude":-78.163636}}(window,'GeoPostal','US');

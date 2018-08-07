@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3261"]={"code":"3261","region":"Heves","city":"Abasar","latitude":47.79705,"longitude":20.00324}}(window,'GeoPostal','HU');

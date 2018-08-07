@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37110"]={"code":"37110","region":"Tennessee","city":"McMinnville","latitude":35.686157,"longitude":-85.77736}}(window,'GeoPostal','US');

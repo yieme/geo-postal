@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-210"]={"code":"66-210","region":"Lubuskie","city":"Zbaszynek","latitude":52.24315,"longitude":15.81654}}(window,'GeoPostal','PL');

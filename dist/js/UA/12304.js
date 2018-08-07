@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12304"]={"code":"12304","region":"Zhytomyrska oblast","city":"Chernyakhiv","latitude":50.45652,"longitude":28.67018}}(window,'GeoPostal','UA');

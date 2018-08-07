@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13407"]={"code":"13407","region":"NY","city":"Mohawk","latitude":42.99,"longitude":-74.9853}}(window,'GeoPostal','US');

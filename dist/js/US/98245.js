@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98245"]={"code":"98245","region":"Washington","city":"Eastsound","latitude":48.705261,"longitude":-122.915739}}(window,'GeoPostal','US');

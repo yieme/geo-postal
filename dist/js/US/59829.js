@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59829"]={"code":"59829","region":"Montana","city":"Darby","latitude":45.993098,"longitude":-114.182957}}(window,'GeoPostal','US');

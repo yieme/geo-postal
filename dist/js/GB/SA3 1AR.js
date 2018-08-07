@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1AR"]={"code":"SA3 1AR","region":"Wales","city":"Knelston","latitude":51.57878,"longitude":-4.21155}}(window,'GeoPostal','GB');

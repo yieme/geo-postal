@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21919"]={"code":"21919","region":"Maryland","city":"Earleville","latitude":39.41528,"longitude":-75.9175}}(window,'GeoPostal','US');

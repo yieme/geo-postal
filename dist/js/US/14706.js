@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14706"]={"code":"14706","region":"New York","city":"Allegany","latitude":42.09006,"longitude":-78.49419}}(window,'GeoPostal','US');

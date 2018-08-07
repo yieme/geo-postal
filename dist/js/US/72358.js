@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72358"]={"code":"72358","region":"AR","city":"Luxora","latitude":35.7608,"longitude":-89.922}}(window,'GeoPostal','US');

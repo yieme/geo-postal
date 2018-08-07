@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715 00"]={"code":"715 00","region":"Kriti","city":"Tilisos","latitude":35.3,"longitude":25.01667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-506"]={"code":"41-506","region":"Slaskie","city":"Chorzow","latitude":50.30582,"longitude":18.9742}}(window,'GeoPostal','PL');

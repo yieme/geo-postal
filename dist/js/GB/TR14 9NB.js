@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR14 9NB"]={"code":"TR14 9NB","region":"England","city":"Crowan","latitude":50.16355,"longitude":-5.29707}}(window,'GeoPostal','GB');

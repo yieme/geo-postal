@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28973"]={"code":"28973","region":"Chihuahua","city":"Ojinaga","latitude":29.56667,"longitude":-104.41667}}(window,'GeoPostal','MX');

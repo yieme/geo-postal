@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT16 3DU"]={"code":"CT16 3DU","region":"England","city":"Temple Ewell","latitude":51.15254,"longitude":1.26926}}(window,'GeoPostal','GB');

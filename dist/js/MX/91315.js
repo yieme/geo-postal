@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91315"]={"code":"91315","region":"Veracruz de Ignacio de la Llave","city":"Rafael Lucio","latitude":19.58333,"longitude":-96.96667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["148105"]={"code":"148105","region":"Punjab","city":"Laungowal","latitude":30.21667,"longitude":75.68333}}(window,'GeoPostal','IN');

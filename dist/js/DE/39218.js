@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39218"]={"code":"39218","region":"Sachsen-Anhalt","city":"Schonebeck","latitude":52.01682,"longitude":11.7307}}(window,'GeoPostal','DE');

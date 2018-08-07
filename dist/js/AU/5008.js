@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5008"]={"code":"5008","region":"South Australia","city":"Croydon Park","latitude":-34.88028,"longitude":138.56779}}(window,'GeoPostal','AU');

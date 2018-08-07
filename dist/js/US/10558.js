@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10558"]={"code":"10558","region":"NY","city":"Bank Of New York","latitude":40.9,"longitude":-73.82}}(window,'GeoPostal','US');

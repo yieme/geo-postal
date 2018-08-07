@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2215"]={"code":"2215","region":"Kotayk'","city":"Garrni","latitude":40.11931,"longitude":44.73442}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3S0"]={"code":"T0B 3S0","region":"Alberta","city":"Provost","latitude":52.35014,"longitude":-110.26828}}(window,'GeoPostal','CA');

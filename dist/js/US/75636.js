@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75636"]={"code":"75636","region":"TX","city":"Cason","latitude":33.024,"longitude":-94.8249}}(window,'GeoPostal','US');

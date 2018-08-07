@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14055"]={"code":"14055","region":"NY","city":"East Concord","latitude":42.5466,"longitude":-78.611}}(window,'GeoPostal','US');

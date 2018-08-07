@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4X 1E5"]={"code":"G4X 1E5","region":"Quebec","city":"Gaspe","latitude":48.831063,"longitude":-64.482798}}(window,'GeoPostal','CA');

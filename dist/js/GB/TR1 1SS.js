@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR1 1SS"]={"code":"TR1 1SS","region":"England","city":"Saint Clement","latitude":50.25,"longitude":-5.01667}}(window,'GeoPostal','GB');

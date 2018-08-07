@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72838"]={"code":"72838","region":"Arkansas","city":"Gravelly","latitude":34.890163,"longitude":-93.673095}}(window,'GeoPostal','US');

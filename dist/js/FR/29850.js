@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29850"]={"code":"29850","region":"Bretagne","city":"Gouesnou","latitude":48.45266,"longitude":-4.46456}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WF8 1BE"]={"code":"WF8 1BE","region":"England","city":"Pontefract","latitude":53.69107,"longitude":-1.31269}}(window,'GeoPostal','GB');

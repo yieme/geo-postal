@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6RA"]={"code":"PA28 6RA","region":"Scotland","city":"Saddell","latitude":55.53181,"longitude":-5.50986}}(window,'GeoPostal','GB');

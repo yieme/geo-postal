@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77333"]={"code":"77333","region":"Quintana Roo","city":"Kantunilkin","latitude":21.09167,"longitude":-87.45}}(window,'GeoPostal','MX');

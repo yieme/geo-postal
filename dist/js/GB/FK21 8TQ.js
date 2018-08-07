@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK21 8TQ"]={"code":"FK21 8TQ","region":"Scotland","city":"Killin","latitude":56.46667,"longitude":-4.31667}}(window,'GeoPostal','GB');

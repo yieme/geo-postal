@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05009"]={"code":"05009","region":"Ciudad de Mexico","city":"Cuajimalpa","latitude":19.35583,"longitude":-99.30111}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81100"]={"code":"81100","region":"Occitanie","city":"Burlats","latitude":43.63633,"longitude":2.31879}}(window,'GeoPostal','FR');

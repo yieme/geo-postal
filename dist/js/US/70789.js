@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70789"]={"code":"70789","region":"Louisiana","city":"Wilson","latitude":30.948554,"longitude":-91.055009}}(window,'GeoPostal','US');

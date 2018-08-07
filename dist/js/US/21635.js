@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21635"]={"code":"21635","region":"Maryland","city":"Galena","latitude":39.34167,"longitude":-75.87833}}(window,'GeoPostal','US');

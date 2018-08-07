@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3621"]={"code":"3621","region":"Utrecht","city":"Breukelen","latitude":52.17417,"longitude":5.00139}}(window,'GeoPostal','NL');

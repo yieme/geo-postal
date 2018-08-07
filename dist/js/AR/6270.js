@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6270"]={"code":"6270","region":"Cordoba","city":"Huinca Renanco","latitude":-34.84038,"longitude":-64.3758}}(window,'GeoPostal','AR');

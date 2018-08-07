@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23405"]={"code":"23405","region":"Virginia","city":"Machipongo","latitude":37.40583,"longitude":-75.90167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51354"]={"code":"51354","region":"Iowa","city":"Ocheyedan","latitude":43.41444,"longitude":-95.53528}}(window,'GeoPostal','US');

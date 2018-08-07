@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9042"]={"code":"9042","region":"Appenzell Ausserrhoden","city":"Speicher","latitude":47.4109,"longitude":9.44335}}(window,'GeoPostal','CH');

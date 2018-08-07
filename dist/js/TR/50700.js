@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50700"]={"code":"50700","region":"Tunceli","city":"Pertek","latitude":38.86633,"longitude":39.32684}}(window,'GeoPostal','TR');

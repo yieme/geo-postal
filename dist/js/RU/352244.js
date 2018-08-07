@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352244"]={"code":"352244","region":"Krasnodarskiy kray","city":"Novokubansk","latitude":45.117,"longitude":41.0267}}(window,'GeoPostal','RU');

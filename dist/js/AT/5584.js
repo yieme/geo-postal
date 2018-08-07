@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5584"]={"code":"5584","region":"Salzburg","city":"Zederhaus","latitude":47.15,"longitude":13.5}}(window,'GeoPostal','AT');

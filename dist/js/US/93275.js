@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93275"]={"code":"93275","region":"CA","city":"Tulare","latitude":36.2077,"longitude":-119.3473}}(window,'GeoPostal','US');

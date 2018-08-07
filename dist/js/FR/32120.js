@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32120"]={"code":"32120","region":"Occitanie","city":"Mauvezin","latitude":43.7314,"longitude":0.8789}}(window,'GeoPostal','FR');

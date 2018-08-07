@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 42"]={"code":"783 42","region":"Olomoucky kraj","city":"Slatinice","latitude":49.56155,"longitude":17.09992}}(window,'GeoPostal','CZ');

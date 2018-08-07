@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 97"]={"code":"783 97","region":"Olomoucky kraj","city":"Paseka","latitude":49.79644,"longitude":17.22276}}(window,'GeoPostal','CZ');

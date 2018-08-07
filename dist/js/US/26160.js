@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26160"]={"code":"26160","region":"WV","city":"Palestine","latitude":38.9741,"longitude":-81.428}}(window,'GeoPostal','US');

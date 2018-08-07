@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1R 2G6"]={"code":"V1R 2G6","region":"British Columbia","city":"Warfield","latitude":49.09563,"longitude":-117.74533}}(window,'GeoPostal','CA');

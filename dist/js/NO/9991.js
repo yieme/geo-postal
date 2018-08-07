@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9991"]={"code":"9991","region":"Finnmark","city":"Batsfjord","latitude":70.63445,"longitude":29.71848}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6391"]={"code":"6391","region":"Tirol","city":"Fieberbrunn","latitude":47.48333,"longitude":12.55}}(window,'GeoPostal','AT');

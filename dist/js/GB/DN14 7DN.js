@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN14 7DN"]={"code":"DN14 7DN","region":"England","city":"Howden","latitude":53.74206,"longitude":-0.86569}}(window,'GeoPostal','GB');

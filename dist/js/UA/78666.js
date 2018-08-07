@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78666"]={"code":"78666","region":"Ivano-Frankivska oblast","city":"Kuty","latitude":48.25868,"longitude":25.17946}}(window,'GeoPostal','UA');

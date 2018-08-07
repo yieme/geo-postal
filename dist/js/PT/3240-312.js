@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3240-312"]={"code":"3240-312","region":"Lisboa","city":"Lisbon","latitude":38.71667,"longitude":-9.13333}}(window,'GeoPostal','PT');

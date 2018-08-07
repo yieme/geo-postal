@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 1N0"]={"code":"J0L 1N0","region":"Quebec","city":"Saint-Amable","latitude":45.65008,"longitude":-73.29916}}(window,'GeoPostal','CA');

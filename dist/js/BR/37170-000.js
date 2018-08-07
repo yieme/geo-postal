@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37170-000"]={"code":"37170-000","region":"Minas Gerais","city":"Boa Esperanca","latitude":-21.09,"longitude":-45.56583}}(window,'GeoPostal','BR');

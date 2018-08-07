@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57068"]={"code":"57068","region":"SD","city":"Valley Springs","latitude":43.5773,"longitude":-96.4956}}(window,'GeoPostal','US');

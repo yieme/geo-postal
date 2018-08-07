@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23155"]={"code":"23155","region":"VA","city":"Severn","latitude":37.4182,"longitude":-76.5084}}(window,'GeoPostal','US');

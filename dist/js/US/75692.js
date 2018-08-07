@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75692"]={"code":"75692","region":"TX","city":"Waskom","latitude":32.5184,"longitude":-94.1355}}(window,'GeoPostal','US');

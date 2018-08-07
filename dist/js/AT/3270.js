@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3270"]={"code":"3270","region":"Niederosterreich","city":"Scheibbs","latitude":48.00474,"longitude":15.16817}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91741"]={"code":"91741","region":"California","city":"Glendora","latitude":34.1452,"longitude":-117.8532}}(window,'GeoPostal','US');

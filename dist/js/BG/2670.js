@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2670"]={"code":"2670","region":"Kyustendil","city":"Bobovdol","latitude":42.36972,"longitude":23.01722}}(window,'GeoPostal','BG');

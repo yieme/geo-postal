@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0H0"]={"code":"T0G 0H0","region":"Alberta","city":"Busby","latitude":53.95015,"longitude":-113.88535}}(window,'GeoPostal','CA');

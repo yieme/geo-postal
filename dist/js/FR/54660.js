@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54660"]={"code":"54660","region":"Grand-Est","city":"Moutiers","latitude":49.23369,"longitude":5.96498}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14929"]={"code":"14929","region":"Brandenburg","city":"Treuenbrietzen","latitude":52.09754,"longitude":12.87258}}(window,'GeoPostal','DE');

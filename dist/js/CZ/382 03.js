@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 03"]={"code":"382 03","region":"Jihocesky kraj","city":"Chlum u Trebone","latitude":48.96235,"longitude":14.92799}}(window,'GeoPostal','CZ');

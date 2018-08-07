@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547453"]={"code":"547453","region":"Harghita","city":"Remetea","latitude":46.57432,"longitude":24.51359}}(window,'GeoPostal','RO');

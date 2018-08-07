@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62859"]={"code":"62859","region":"Illinois","city":"McLeansboro","latitude":38.09338,"longitude":-88.53561}}(window,'GeoPostal','US');

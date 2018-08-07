@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4632"]={"code":"4632","region":"Vest-Agder","city":"Kristiansand","latitude":58.14671,"longitude":7.9956}}(window,'GeoPostal','NO');

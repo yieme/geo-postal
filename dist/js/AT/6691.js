@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6691"]={"code":"6691","region":"Tirol","city":"Jungholz","latitude":47.57409,"longitude":10.44723}}(window,'GeoPostal','AT');

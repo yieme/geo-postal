@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["564 01"]={"code":"564 01","region":"Pardubicky kraj","city":"Zamberk","latitude":50.08601,"longitude":16.46738}}(window,'GeoPostal','CZ');

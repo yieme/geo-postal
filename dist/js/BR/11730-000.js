@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11730-000"]={"code":"11730-000","region":"Sao Paulo","city":"Mongagua","latitude":-24.09306,"longitude":-46.62083}}(window,'GeoPostal','BR');

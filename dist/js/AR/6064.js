@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6064"]={"code":"6064","region":"Buenos Aires","city":"Florentino Ameghino","latitude":-34.84405,"longitude":-62.46701}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77665"]={"code":"77665","region":"TX","city":"Winnie","latitude":29.8157,"longitude":-94.3395}}(window,'GeoPostal','US');

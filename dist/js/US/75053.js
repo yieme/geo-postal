@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75053"]={"code":"75053","region":"Texas","city":"Plano","latitude":32.75157,"longitude":-97.028331}}(window,'GeoPostal','US');

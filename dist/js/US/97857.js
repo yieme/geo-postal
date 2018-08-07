@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97857"]={"code":"97857","region":"OR","city":"Lostine","latitude":45.4939,"longitude":-117.4359}}(window,'GeoPostal','US');

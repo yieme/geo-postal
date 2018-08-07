@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69510"]={"code":"69510","region":"Auvergne-Rhone-Alpes","city":"Messimy","latitude":45.69741,"longitude":4.67291}}(window,'GeoPostal','FR');

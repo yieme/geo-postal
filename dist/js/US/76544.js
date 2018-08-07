@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76544"]={"code":"76544","region":"Texas","city":"Fort Hood","latitude":31.13489,"longitude":-97.77561}}(window,'GeoPostal','US');

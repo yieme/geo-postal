@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59730"]={"code":"59730","region":"Hauts-de-France","city":"Solesmes","latitude":50.18468,"longitude":3.49799}}(window,'GeoPostal','FR');

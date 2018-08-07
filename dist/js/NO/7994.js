@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7994"]={"code":"7994","region":"Nord-Trondelag","city":"Leka","latitude":65.09244,"longitude":11.70513}}(window,'GeoPostal','NO');

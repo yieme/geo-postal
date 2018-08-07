@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0R 2A0"]={"code":"L0R 2A0","region":"Ontario","city":"Smithville","latitude":43.129538,"longitude":-79.635273}}(window,'GeoPostal','CA');

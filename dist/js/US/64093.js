@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64093"]={"code":"64093","region":"Missouri","city":"Warrensburg","latitude":38.76279,"longitude":-93.73605}}(window,'GeoPostal','US');

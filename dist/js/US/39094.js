@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39094"]={"code":"39094","region":"Mississippi","city":"Lena","latitude":32.58944,"longitude":-89.59472}}(window,'GeoPostal','US');

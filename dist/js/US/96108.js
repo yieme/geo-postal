@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96108"]={"code":"96108","region":"CA","city":"Davis Creek","latitude":41.7336,"longitude":-120.3741}}(window,'GeoPostal','US');

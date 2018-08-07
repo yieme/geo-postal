@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77873"]={"code":"77873","region":"TX","city":"Richards","latitude":30.5796,"longitude":-95.8959}}(window,'GeoPostal','US');

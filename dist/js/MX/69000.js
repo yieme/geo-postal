@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69000"]={"code":"69000","region":"Oaxaca","city":"Huajuapan de Leon","latitude":17.8,"longitude":-97.76667}}(window,'GeoPostal','MX');

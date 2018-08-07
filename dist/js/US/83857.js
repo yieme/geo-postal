@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83857"]={"code":"83857","region":"ID","city":"Princeton","latitude":46.8996,"longitude":-116.8287}}(window,'GeoPostal','US');

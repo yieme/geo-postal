@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18415"]={"code":"18415","region":"Pennsylvania","city":"Damascus","latitude":41.73768,"longitude":-75.1275}}(window,'GeoPostal','US');

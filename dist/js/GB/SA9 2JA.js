@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA9 2JA"]={"code":"SA9 2JA","region":"Wales","city":"Ystalyfera","latitude":51.76716,"longitude":-3.78082}}(window,'GeoPostal','GB');

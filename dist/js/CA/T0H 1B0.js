@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1B0"]={"code":"T0H 1B0","region":"Alberta","city":"Clairmont","latitude":55.21479,"longitude":-118.026119}}(window,'GeoPostal','CA');

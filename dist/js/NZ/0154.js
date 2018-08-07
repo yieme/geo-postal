@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0154"]={"code":"0154","region":"Northland","city":"Ngunguru","latitude":-35.61667,"longitude":174.5}}(window,'GeoPostal','NZ');

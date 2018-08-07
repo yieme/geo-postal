@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09120"]={"code":"09120","region":"Uusimaa","city":"Karjalohja","latitude":60.24015,"longitude":23.71789}}(window,'GeoPostal','FI');

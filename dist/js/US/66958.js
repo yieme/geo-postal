@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66958"]={"code":"66958","region":"Kansas","city":"Morrowville","latitude":39.84389,"longitude":-97.17222}}(window,'GeoPostal','US');

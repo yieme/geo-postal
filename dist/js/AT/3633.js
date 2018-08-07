@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3633"]={"code":"3633","region":"Niederosterreich","city":"Schonbach","latitude":48.45,"longitude":15.03333}}(window,'GeoPostal','AT');

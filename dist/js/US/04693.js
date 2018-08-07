@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04693"]={"code":"04693","region":"Maine","city":"Winter Harbor","latitude":44.38472,"longitude":-68.09472}}(window,'GeoPostal','US');

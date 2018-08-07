@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36776"]={"code":"36776","region":"AL","city":"Sawyerville","latitude":32.7578,"longitude":-87.7402}}(window,'GeoPostal','US');

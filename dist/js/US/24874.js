@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24874"]={"code":"24874","region":"WV","city":"Pineville","latitude":37.584,"longitude":-81.5336}}(window,'GeoPostal','US');

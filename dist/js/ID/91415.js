@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91415"]={"code":"91415","region":"Sulawesi Barat","city":"Majene","latitude":-3.5403,"longitude":118.9707}}(window,'GeoPostal','ID');

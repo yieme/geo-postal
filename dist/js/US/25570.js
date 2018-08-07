@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25570"]={"code":"25570","region":"WV","city":"Wayne","latitude":38.2258,"longitude":-82.4339}}(window,'GeoPostal','US');

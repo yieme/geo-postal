@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75481"]={"code":"75481","region":"TX","city":"Sulphur Bluff","latitude":33.3334,"longitude":-95.374}}(window,'GeoPostal','US');

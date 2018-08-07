@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27916"]={"code":"27916","region":"NC","city":"Aydlett","latitude":36.3045,"longitude":-75.9029}}(window,'GeoPostal','US');

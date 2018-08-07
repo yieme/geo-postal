@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68123"]={"code":"68123","region":"NE","city":"Bellevue","latitude":41.1156,"longitude":-95.9393}}(window,'GeoPostal','US');

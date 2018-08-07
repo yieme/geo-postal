@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2447"]={"code":"2447","region":"New South Wales","city":"South Arm","latitude":-30.68881,"longitude":152.73963}}(window,'GeoPostal','AU');

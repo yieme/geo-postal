@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196 00"]={"code":"196 00","region":"Praha, Hlavni mesto","city":"Kbely","latitude":50.13333,"longitude":14.55}}(window,'GeoPostal','CZ');

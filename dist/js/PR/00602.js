@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00602"]={"code":"00602","region":"Aguada","city":"Luyando","latitude":18.36439,"longitude":-67.1574}}(window,'GeoPostal','PR');

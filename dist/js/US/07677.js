@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07677"]={"code":"07677","region":"New Jersey","city":"Woodcliff Lake","latitude":41.02343,"longitude":-74.06653}}(window,'GeoPostal','US');

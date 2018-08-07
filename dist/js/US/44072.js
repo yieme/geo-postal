@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44072"]={"code":"44072","region":"Ohio","city":"Novelty","latitude":41.4723,"longitude":-81.33522}}(window,'GeoPostal','US');

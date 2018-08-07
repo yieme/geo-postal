@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24412"]={"code":"24412","region":"Vinnytska oblast","city":"Viytivka","latitude":48.42603,"longitude":29.54291}}(window,'GeoPostal','UA');

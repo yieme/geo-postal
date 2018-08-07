@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2804"]={"code":"2804","region":"Buenos Aires","city":"Campana","latitude":-34.16874,"longitude":-58.95914}}(window,'GeoPostal','AR');

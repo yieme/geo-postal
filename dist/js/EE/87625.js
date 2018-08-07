@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87625"]={"code":"87625","region":"Parnumaa","city":"Vandra","latitude":58.64806,"longitude":25.03611}}(window,'GeoPostal','EE');

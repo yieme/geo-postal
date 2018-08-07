@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 3N0"]={"code":"S0G 3N0","region":"Saskatchewan","city":"Moosomin","latitude":50.13332,"longitude":-101.66766}}(window,'GeoPostal','CA');

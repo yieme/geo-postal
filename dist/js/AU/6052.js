@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6052"]={"code":"6052","region":"Western Australia","city":"Inglewood","latitude":-31.91663,"longitude":115.8798}}(window,'GeoPostal','AU');

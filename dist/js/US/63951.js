@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63951"]={"code":"63951","region":"MO","city":"Lowndes","latitude":37.1343,"longitude":-90.2544}}(window,'GeoPostal','US');

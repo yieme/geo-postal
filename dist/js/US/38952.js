@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38952"]={"code":"38952","region":"Mississippi","city":"Schlater","latitude":33.611474,"longitude":-90.376361}}(window,'GeoPostal','US');

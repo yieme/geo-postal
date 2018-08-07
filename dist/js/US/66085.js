@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66085"]={"code":"66085","region":"Kansas","city":"Stilwell","latitude":38.76917,"longitude":-94.65639}}(window,'GeoPostal','US');

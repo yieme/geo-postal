@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23337"]={"code":"23337","region":"Virginia","city":"Wallops Island","latitude":37.85,"longitude":-75.467}}(window,'GeoPostal','US');

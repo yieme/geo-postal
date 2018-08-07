@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15150"]={"code":"15150","region":"Gilgit-Baltistan","city":"Chilas","latitude":35.41172,"longitude":74.10352}}(window,'GeoPostal','PK');

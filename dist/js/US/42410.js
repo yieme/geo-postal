@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42410"]={"code":"42410","region":"KY","city":"Earlington","latitude":37.2742,"longitude":-87.5119}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7310"]={"code":"7310","region":"Resen","city":"Resen","latitude":41.08889,"longitude":21.01222}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433760"]={"code":"433760","region":"Ul'yanovskaya oblast'","city":"Kuzovatovo","latitude":53.54681,"longitude":47.68659}}(window,'GeoPostal','RU');

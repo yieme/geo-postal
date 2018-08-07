@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17823"]={"code":"17823","region":"Pennsylvania","city":"Dornsife","latitude":40.755743,"longitude":-76.764164}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21600"]={"code":"21600","region":"Terengganu","city":"Marang","latitude":5.2056,"longitude":103.2059}}(window,'GeoPostal','MY');

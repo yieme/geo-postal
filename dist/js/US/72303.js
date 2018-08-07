@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72303"]={"code":"72303","region":"AR","city":"West Memphis","latitude":35.1465,"longitude":-90.1845}}(window,'GeoPostal','US');

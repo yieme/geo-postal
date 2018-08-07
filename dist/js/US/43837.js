@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43837"]={"code":"43837","region":"OH","city":"Port Washington","latitude":40.3404,"longitude":-81.5215}}(window,'GeoPostal','US');

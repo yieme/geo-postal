@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12185"]={"code":"12185","region":"Valenciana, Comunidad","city":"Cuevas de Vinroma","latitude":40.30976,"longitude":0.12084}}(window,'GeoPostal','ES');

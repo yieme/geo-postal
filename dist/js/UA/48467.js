@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48467"]={"code":"48467","region":"Ternopilska oblast","city":"Zalishchyky","latitude":48.64331,"longitude":25.73794}}(window,'GeoPostal','UA');

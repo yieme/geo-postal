@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18324"]={"code":"18324","region":"Pennsylvania","city":"Bushkill","latitude":41.09333,"longitude":-75.00194}}(window,'GeoPostal','US');

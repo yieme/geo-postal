@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2325"]={"code":"2325","region":"Kidricevo","city":"Kidricevo","latitude":46.40361,"longitude":15.79111}}(window,'GeoPostal','SI');

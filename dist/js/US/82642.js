@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82642"]={"code":"82642","region":"WY","city":"Lysite","latitude":43.3284,"longitude":-107.6488}}(window,'GeoPostal','US');

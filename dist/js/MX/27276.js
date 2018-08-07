@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27276"]={"code":"27276","region":"Chiapas","city":"Teopisca","latitude":16.51667,"longitude":-92.48333}}(window,'GeoPostal','MX');

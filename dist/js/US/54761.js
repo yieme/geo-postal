@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54761"]={"code":"54761","region":"Wisconsin","city":"Plum City","latitude":44.6324,"longitude":-92.1912}}(window,'GeoPostal','US');

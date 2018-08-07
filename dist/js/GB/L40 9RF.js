@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L40 9RF"]={"code":"L40 9RF","region":"England","city":"Scarisbrick","latitude":53.61241,"longitude":-2.93941}}(window,'GeoPostal','GB');

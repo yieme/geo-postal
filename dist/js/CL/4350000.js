@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4350000"]={"code":"4350000","region":"Biobio","city":"Lebu","latitude":-37.61667,"longitude":-73.65}}(window,'GeoPostal','CL');

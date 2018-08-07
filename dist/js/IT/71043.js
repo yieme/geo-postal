@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71043"]={"code":"71043","region":"Puglia","city":"Manfredonia","latitude":41.62594,"longitude":15.90936}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14845"]={"code":"14845","region":"New York","city":"Horseheads","latitude":42.179418,"longitude":-76.839314}}(window,'GeoPostal','US');

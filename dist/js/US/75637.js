@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75637"]={"code":"75637","region":"TX","city":"Clayton","latitude":32.1027,"longitude":-94.4935}}(window,'GeoPostal','US');

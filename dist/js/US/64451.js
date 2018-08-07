@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64451"]={"code":"64451","region":"MO","city":"Forest City","latitude":39.9897,"longitude":-95.1916}}(window,'GeoPostal','US');

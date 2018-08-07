@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28460"]={"code":"28460","region":"Madrid, Comunidad de","city":"Los Molinos","latitude":40.71578,"longitude":-4.07402}}(window,'GeoPostal','ES');

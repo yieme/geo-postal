@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29375"]={"code":"29375","region":"SC","city":"Reidville","latitude":34.8636,"longitude":-82.1101}}(window,'GeoPostal','US');

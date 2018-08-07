@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36760"]={"code":"36760","region":"Guanajuato","city":"Salamanca","latitude":20.56667,"longitude":-101.2}}(window,'GeoPostal','MX');

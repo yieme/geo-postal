@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8900"]={"code":"8900","region":"Sliven","city":"Nova Zagora","latitude":42.48333,"longitude":26.01667}}(window,'GeoPostal','BG');

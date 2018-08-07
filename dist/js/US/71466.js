@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71466"]={"code":"71466","region":"LA","city":"Otis","latitude":31.2077,"longitude":-92.7392}}(window,'GeoPostal','US');

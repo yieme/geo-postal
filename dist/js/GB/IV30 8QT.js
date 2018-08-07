@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV30 8QT"]={"code":"IV30 8QT","region":"Scotland","city":"Lhanbryd","latitude":57.61667,"longitude":-3.21667}}(window,'GeoPostal','GB');

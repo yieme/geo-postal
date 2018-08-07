@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20007"]={"code":"20007","region":"Chiquimula","city":"Esquipulas","latitude":14.56667,"longitude":-89.35}}(window,'GeoPostal','GT');

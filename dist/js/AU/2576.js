@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2576"]={"code":"2576","region":"New South Wales","city":"Robertson","latitude":-34.58742,"longitude":150.59116}}(window,'GeoPostal','AU');

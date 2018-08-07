@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357936"]={"code":"357936","region":"Stavropol'skiy kray","city":"Solomenskoye","latitude":44.21667,"longitude":44.35278}}(window,'GeoPostal','RU');

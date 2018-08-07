@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39601"]={"code":"39601","region":"Mississippi","city":"Brookhaven","latitude":31.57906,"longitude":-90.44065}}(window,'GeoPostal','US');

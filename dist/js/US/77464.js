@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77464"]={"code":"77464","region":"TX","city":"Orchard","latitude":29.5948,"longitude":-95.9727}}(window,'GeoPostal','US');

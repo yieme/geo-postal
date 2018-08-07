@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0K 1A0"]={"code":"N0K 1A0","region":"Ontario","city":"Logan","latitude":43.51679,"longitude":-81.16644}}(window,'GeoPostal','CA');

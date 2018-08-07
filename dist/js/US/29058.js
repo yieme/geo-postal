@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29058"]={"code":"29058","region":"South Carolina","city":"Heath Springs","latitude":34.59167,"longitude":-80.67444}}(window,'GeoPostal','US');

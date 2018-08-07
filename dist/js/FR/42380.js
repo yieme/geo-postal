@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42380"]={"code":"42380","region":"Auvergne-Rhone-Alpes","city":"Perigneux","latitude":45.44001,"longitude":4.15655}}(window,'GeoPostal','FR');

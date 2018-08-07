@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1480"]={"code":"1480","region":"Brabant wallon","city":"Tubize","latitude":50.69059,"longitude":4.2009}}(window,'GeoPostal','BE');

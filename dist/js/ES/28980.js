@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28980"]={"code":"28980","region":"Madrid, Comunidad de","city":"Parla","latitude":40.23604,"longitude":-3.76752}}(window,'GeoPostal','ES');

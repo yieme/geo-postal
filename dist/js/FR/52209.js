@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52209"]={"code":"52209","region":"Grand-Est","city":"Langres","latitude":47.86667,"longitude":5.33333}}(window,'GeoPostal','FR');

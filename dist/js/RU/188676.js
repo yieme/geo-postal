@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188676"]={"code":"188676","region":"Leningradskaya oblast'","city":"Shcheglovo","latitude":60.02839,"longitude":30.75289}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16875"]={"code":"16875","region":"Pennsylvania","city":"Spring Mills","latitude":40.862537,"longitude":-77.574614}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72332"]={"code":"72332","region":"AR","city":"Edmondson","latitude":35.1042,"longitude":-90.3133}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5Y 1X7"]={"code":"G5Y 1X7","region":"Quebec","city":"Saint-Georges","latitude":46.119759,"longitude":-70.668726}}(window,'GeoPostal','CA');

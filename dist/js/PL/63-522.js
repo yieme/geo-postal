@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-522"]={"code":"63-522","region":"Wielkopolskie","city":"Grabow nad Prosna","latitude":51.50596,"longitude":18.11929}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26261"]={"code":"26261","region":"West Virginia","city":"Richwood","latitude":38.22484,"longitude":-80.53314}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46562"]={"code":"46562","region":"Nordrhein-Westfalen","city":"Voerde","latitude":51.59703,"longitude":6.6863}}(window,'GeoPostal','DE');

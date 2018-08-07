@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18242"]={"code":"18242","region":"PA","city":"Oneida","latitude":40.911,"longitude":-76.1223}}(window,'GeoPostal','US');

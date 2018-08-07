@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07907"]={"code":"07907","region":"Thuringen","city":"Dittersdorf","latitude":50.65,"longitude":11.81667}}(window,'GeoPostal','DE');

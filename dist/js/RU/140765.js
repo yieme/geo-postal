@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140765"]={"code":"140765","region":"Moskovskaya oblast'","city":"Zhavoronki","latitude":55.64942,"longitude":37.10101}}(window,'GeoPostal','RU');

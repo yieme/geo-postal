@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7150"]={"code":"7150","region":"Tasmania","city":"Middleton","latitude":-43.23333,"longitude":147.28333}}(window,'GeoPostal','AU');

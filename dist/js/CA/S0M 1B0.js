@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1B0"]={"code":"S0M 1B0","region":"Saskatchewan","city":"Dore Lake","latitude":54.63347,"longitude":-107.40131}}(window,'GeoPostal','CA');

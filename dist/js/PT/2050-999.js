@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2050-999"]={"code":"2050-999","region":"Lisboa","city":"Azambuja","latitude":39.07029,"longitude":-8.86822}}(window,'GeoPostal','PT');

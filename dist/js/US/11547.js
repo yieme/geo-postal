@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11547"]={"code":"11547","region":"NY","city":"Glenwood Landing","latitude":40.8307,"longitude":-73.6387}}(window,'GeoPostal','US');

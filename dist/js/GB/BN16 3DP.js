@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN16 3DP"]={"code":"BN16 3DP","region":"England","city":"Rustington","latitude":50.81027,"longitude":-0.50674}}(window,'GeoPostal','GB');

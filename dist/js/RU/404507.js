@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404507"]={"code":"404507","region":"Volgogradskaya oblast'","city":"Kalach-na-Donu","latitude":48.69099,"longitude":43.52638}}(window,'GeoPostal','RU');

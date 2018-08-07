@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243203"]={"code":"243203","region":"Uttar Pradesh","city":"Milak","latitude":28.61667,"longitude":79.18333}}(window,'GeoPostal','IN');

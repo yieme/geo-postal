@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35792"]={"code":"35792","region":"Hessen","city":"Niedershausen","latitude":50.53722,"longitude":8.26172}}(window,'GeoPostal','DE');

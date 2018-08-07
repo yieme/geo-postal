@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64639"]={"code":"64639","region":"MO","city":"De Witt","latitude":39.384,"longitude":-93.2238}}(window,'GeoPostal','US');

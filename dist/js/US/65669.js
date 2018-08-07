@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65669"]={"code":"65669","region":"MO","city":"Highlandville","latitude":36.9408,"longitude":-93.268}}(window,'GeoPostal','US');

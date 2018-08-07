@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4880"]={"code":"4880","region":"Queensland","city":"Mareeba","latitude":-16.995,"longitude":145.42323}}(window,'GeoPostal','AU');

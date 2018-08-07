@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["531026"]={"code":"531026","region":"Andhra Pradesh","city":"Vishakhapatnam","latitude":17.69004,"longitude":83.20925}}(window,'GeoPostal','IN');

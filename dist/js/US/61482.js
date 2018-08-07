@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61482"]={"code":"61482","region":"IL","city":"Table Grove","latitude":40.3784,"longitude":-90.4239}}(window,'GeoPostal','US');

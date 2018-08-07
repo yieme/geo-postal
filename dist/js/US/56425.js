@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56425"]={"code":"56425","region":"Minnesota","city":"Baxter","latitude":46.34328,"longitude":-94.28628}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391071"]={"code":"391071","region":"Ryazanskaya oblast'","city":"Izhevskoye","latitude":54.557,"longitude":40.8753}}(window,'GeoPostal','RU');

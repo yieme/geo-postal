@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47384"]={"code":"47384","region":"Indiana","city":"Shirley","latitude":39.890508,"longitude":-85.580552}}(window,'GeoPostal','US');

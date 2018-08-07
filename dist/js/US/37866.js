@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37866"]={"code":"37866","region":"TN","city":"Sharps Chapel","latitude":36.3685,"longitude":-83.8127}}(window,'GeoPostal','US');

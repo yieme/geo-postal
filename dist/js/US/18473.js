@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18473"]={"code":"18473","region":"Pennsylvania","city":"White Mills","latitude":41.528083,"longitude":-75.201428}}(window,'GeoPostal','US');

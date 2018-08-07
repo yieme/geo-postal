@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21400"]={"code":"21400","region":"Juznobacki okrug","city":"Backa Palanka","latitude":45.25083,"longitude":19.39194}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49090"]={"code":"49090","region":"Niedersachsen","city":"Eversheide","latitude":52.3,"longitude":8}}(window,'GeoPostal','DE');

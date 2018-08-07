@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77000"]={"code":"77000","region":"Melaka","city":"Melaka","latitude":2.205692,"longitude":102.256136}}(window,'GeoPostal','MY');

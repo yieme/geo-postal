@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89000"]={"code":"89000","region":"Bourgogne-Franche-Comte","city":"Saint-Georges-sur-Baulche","latitude":47.80039,"longitude":3.53144}}(window,'GeoPostal','FR');

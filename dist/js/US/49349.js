@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49349"]={"code":"49349","region":"Michigan","city":"White Cloud","latitude":43.560769,"longitude":-85.751179}}(window,'GeoPostal','US');

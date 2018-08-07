@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18708"]={"code":"18708","region":"PA","city":"Shavertown","latitude":41.2998,"longitude":-75.9711}}(window,'GeoPostal','US');

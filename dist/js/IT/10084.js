@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10084"]={"code":"10084","region":"Piemonte","city":"Forno Canavese","latitude":45.34535,"longitude":7.59102}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44890"]={"code":"44890","region":"Ohio","city":"Willard","latitude":41.08044,"longitude":-82.72254}}(window,'GeoPostal','US');

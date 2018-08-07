@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16805"]={"code":"16805","region":"PA","city":"State College","latitude":40.7934,"longitude":-77.86}}(window,'GeoPostal','US');

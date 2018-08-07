@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12471"]={"code":"12471","region":"NY","city":"Rifton","latitude":41.8403,"longitude":-74.0306}}(window,'GeoPostal','US');

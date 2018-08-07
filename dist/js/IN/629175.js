@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629175"]={"code":"629175","region":"Tamil Nadu","city":"Tiruchchirappalli","latitude":10.81667,"longitude":78.68333}}(window,'GeoPostal','IN');

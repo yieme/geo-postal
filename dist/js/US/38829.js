@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38829"]={"code":"38829","region":"Mississippi","city":"Booneville","latitude":34.654852,"longitude":-88.560821}}(window,'GeoPostal','US');

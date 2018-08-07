@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09096"]={"code":"09096","region":"Sardegna","city":"Santa Giusta","latitude":39.88,"longitude":8.60694}}(window,'GeoPostal','IT');

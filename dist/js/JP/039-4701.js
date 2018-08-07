@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["039-4701"]={"code":"039-4701","region":"Aomori","city":"Mutsu","latitude":41.283,"longitude":141.217}}(window,'GeoPostal','JP');

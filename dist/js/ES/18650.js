@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18650"]={"code":"18650","region":"Andalucia","city":"Durcal","latitude":36.98788,"longitude":-3.56601}}(window,'GeoPostal','ES');

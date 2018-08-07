@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10040"]={"code":"10040","region":"Azad Jammu and Kashmir","city":"Bhimbar","latitude":32.97568,"longitude":74.07926}}(window,'GeoPostal','PK');

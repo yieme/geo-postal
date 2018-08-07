@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65258"]={"code":"65258","region":"Missouri","city":"Holliday","latitude":39.485144,"longitude":-92.137103}}(window,'GeoPostal','US');

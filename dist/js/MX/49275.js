@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49275"]={"code":"49275","region":"Jalisco","city":"Chiquilistlan","latitude":20.2,"longitude":-103.81667}}(window,'GeoPostal','MX');

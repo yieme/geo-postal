@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 0SY"]={"code":"AB21 0SY","region":"Scotland","city":"Kinaldie","latitude":57.21667,"longitude":-2.28333}}(window,'GeoPostal','GB');

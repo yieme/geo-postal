@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2666"]={"code":"2666","region":"New South Wales","city":"Temora","latitude":-34.44834,"longitude":147.53558}}(window,'GeoPostal','AU');

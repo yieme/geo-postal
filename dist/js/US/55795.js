@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55795"]={"code":"55795","region":"Minnesota","city":"Willow River","latitude":46.309561,"longitude":-92.858689}}(window,'GeoPostal','US');

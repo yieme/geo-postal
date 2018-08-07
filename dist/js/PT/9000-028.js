@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9000-028"]={"code":"9000-028","region":"Regiao Autonoma da Madeira","city":"Canical","latitude":32.73834,"longitude":-16.73836}}(window,'GeoPostal','PT');

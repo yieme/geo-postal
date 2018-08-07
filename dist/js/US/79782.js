@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79782"]={"code":"79782","region":"Texas","city":"Stanton","latitude":32.12993,"longitude":-101.794832}}(window,'GeoPostal','US');

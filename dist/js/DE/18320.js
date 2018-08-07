@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18320"]={"code":"18320","region":"Mecklenburg-Vorpommern","city":"Trinwillershagen","latitude":54.25048,"longitude":12.62312}}(window,'GeoPostal','DE');

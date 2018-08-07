@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08530"]={"code":"08530","region":"New Jersey","city":"Lambertville","latitude":40.36594,"longitude":-74.94294}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674320"]={"code":"674320","region":"Zabaykal'skiy kray","city":"Klichka","latitude":50.4457,"longitude":117.996}}(window,'GeoPostal','RU');

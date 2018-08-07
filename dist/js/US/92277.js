@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92277"]={"code":"92277","region":"California","city":"Twentynine Palms","latitude":34.13556,"longitude":-116.05417}}(window,'GeoPostal','US');

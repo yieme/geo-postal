@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33852"]={"code":"33852","region":"Florida","city":"Lake Placid","latitude":27.289779,"longitude":-81.37061}}(window,'GeoPostal','US');

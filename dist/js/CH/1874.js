@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1874"]={"code":"1874","region":"Valais","city":"Champery","latitude":46.17543,"longitude":6.86903}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85143"]={"code":"85143","region":"AZ","city":"San Tan Valley","latitude":33.1911,"longitude":-111.528}}(window,'GeoPostal','US');

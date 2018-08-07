@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4741"]={"code":"4741","region":"Queensland","city":"Kuttabul","latitude":-21.03333,"longitude":148.9}}(window,'GeoPostal','AU');

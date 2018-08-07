@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1P0"]={"code":"K0E 1P0","region":"Ontario","city":"South Augusta","latitude":44.65011,"longitude":-75.64934}}(window,'GeoPostal','CA');

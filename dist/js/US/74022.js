@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74022"]={"code":"74022","region":"OK","city":"Copan","latitude":36.9062,"longitude":-95.913}}(window,'GeoPostal','US');

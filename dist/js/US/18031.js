@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18031"]={"code":"18031","region":"Pennsylvania","city":"Breinigsville","latitude":40.556414,"longitude":-75.65826}}(window,'GeoPostal','US');

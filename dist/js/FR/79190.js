@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79190"]={"code":"79190","region":"Nouvelle-Aquitaine","city":"Sauze-Vaussais","latitude":46.13369,"longitude":0.10673}}(window,'GeoPostal','FR');

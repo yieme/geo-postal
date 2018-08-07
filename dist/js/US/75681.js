@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75681"]={"code":"75681","region":"TX","city":"Mount Enterprise","latitude":31.9125,"longitude":-94.6235}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49449"]={"code":"49449","region":"Michigan","city":"Pentwater","latitude":43.78028,"longitude":-86.43}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63389"]={"code":"63389","region":"MO","city":"Winfield","latitude":38.9897,"longitude":-90.8213}}(window,'GeoPostal','US');

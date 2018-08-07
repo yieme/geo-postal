@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48809"]={"code":"48809","region":"Michigan","city":"Belding","latitude":43.09781,"longitude":-85.22891}}(window,'GeoPostal','US');

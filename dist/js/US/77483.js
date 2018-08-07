@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77483"]={"code":"77483","region":"TX","city":"Wadsworth","latitude":28.8259,"longitude":-95.9046}}(window,'GeoPostal','US');

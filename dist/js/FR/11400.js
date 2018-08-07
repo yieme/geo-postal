@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11400"]={"code":"11400","region":"Occitanie","city":"Villeneuve-la-Comptal","latitude":43.28833,"longitude":1.91773}}(window,'GeoPostal','FR');

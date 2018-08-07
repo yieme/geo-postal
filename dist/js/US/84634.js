@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84634"]={"code":"84634","region":"Utah","city":"Gunnison","latitude":39.15524,"longitude":-111.81826}}(window,'GeoPostal','US');

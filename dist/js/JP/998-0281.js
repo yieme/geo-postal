@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["998-0281"]={"code":"998-0281","region":"Hokkaido","city":"Rishiri Town","latitude":45.15928,"longitude":141.19629}}(window,'GeoPostal','JP');

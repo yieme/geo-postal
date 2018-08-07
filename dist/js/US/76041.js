@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76041"]={"code":"76041","region":"TX","city":"Forreston","latitude":32.2486,"longitude":-96.8232}}(window,'GeoPostal','US');

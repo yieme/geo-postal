@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77954"]={"code":"77954","region":"Texas","city":"Cuero","latitude":29.10342,"longitude":-97.2813}}(window,'GeoPostal','US');

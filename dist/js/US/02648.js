@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02648"]={"code":"02648","region":"MA","city":"Marstons Mills","latitude":41.6703,"longitude":-70.4163}}(window,'GeoPostal','US');

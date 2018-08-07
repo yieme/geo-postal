@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85280"]={"code":"85280","region":"Sonora","city":"Etchojoa","latitude":26.91667,"longitude":-109.63333}}(window,'GeoPostal','MX');

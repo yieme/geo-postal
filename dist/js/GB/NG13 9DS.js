@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9DS"]={"code":"NG13 9DS","region":"England","city":"Thoroton","latitude":52.97289,"longitude":-0.86573}}(window,'GeoPostal','GB');

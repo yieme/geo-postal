@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL4 6AN"]={"code":"SL4 6AN","region":"England","city":"Eton","latitude":51.48833,"longitude":-0.60905}}(window,'GeoPostal','GB');

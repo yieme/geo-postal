@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51161"]={"code":"51161","region":"Jawa Tengah","city":"Buaran","latitude":-7.05,"longitude":109.55}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1N 3A8"]={"code":"E1N 3A8","region":"New Brunswick","city":"Chatham","latitude":47.031271,"longitude":-65.46819}}(window,'GeoPostal','CA');

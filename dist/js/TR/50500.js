@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50500"]={"code":"50500","region":"Nevsehir","city":"Avanos","latitude":38.715,"longitude":34.84667}}(window,'GeoPostal','TR');

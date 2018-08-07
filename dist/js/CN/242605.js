@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242605"]={"code":"242605","region":"Anhui","city":"Tanjiaqiao","latitude":30.17444,"longitude":118.26833}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49826"]={"code":"49826","region":"MI","city":"Rumely","latitude":46.3483,"longitude":-87.0332}}(window,'GeoPostal','US');

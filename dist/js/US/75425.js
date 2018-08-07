@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75425"]={"code":"75425","region":"TX","city":"Chicota","latitude":33.869,"longitude":-95.5711}}(window,'GeoPostal','US');

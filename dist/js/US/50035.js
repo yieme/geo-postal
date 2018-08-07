@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50035"]={"code":"50035","region":"IA","city":"Bondurant","latitude":41.7017,"longitude":-93.4527}}(window,'GeoPostal','US');

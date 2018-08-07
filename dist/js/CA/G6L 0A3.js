@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6L 0A3"]={"code":"G6L 0A3","region":"Quebec","city":"Plessisville","latitude":46.21856,"longitude":-71.76201}}(window,'GeoPostal','CA');

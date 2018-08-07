@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28677"]={"code":"28677","region":"North Carolina","city":"Statesville","latitude":35.84526,"longitude":-80.8992}}(window,'GeoPostal','US');

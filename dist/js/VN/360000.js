@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360000"]={"code":"360000","region":"Son La","city":"Son La","latitude":21.31667,"longitude":103.9}}(window,'GeoPostal','VN');

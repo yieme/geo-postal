@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52053"]={"code":"52053","region":"Meknes-Tafilalet","city":"Aoufous","latitude":31.68,"longitude":-4.17}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30360"]={"code":"30360","region":"Occitanie","city":"Vezenobres","latitude":44.0513,"longitude":4.13775}}(window,'GeoPostal','FR');

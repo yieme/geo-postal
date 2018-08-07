@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88353"]={"code":"88353","region":"New Mexico","city":"Vaughn","latitude":34.68618,"longitude":-105.1341}}(window,'GeoPostal','US');

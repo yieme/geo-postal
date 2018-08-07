@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["481335"]={"code":"481335","region":"Maharashtra","city":"Gondia","latitude":21.45,"longitude":80.2}}(window,'GeoPostal','IN');

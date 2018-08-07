@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27624"]={"code":"27624","region":"Niedersachsen","city":"Steinbergshorn","latitude":53.6059,"longitude":8.95266}}(window,'GeoPostal','DE');

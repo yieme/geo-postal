@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29164"]={"code":"29164","region":"SC","city":"Wagener","latitude":33.6494,"longitude":-81.3995}}(window,'GeoPostal','US');

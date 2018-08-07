@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77482"]={"code":"77482","region":"Texas","city":"Van Vleck","latitude":29.026767,"longitude":-95.883558}}(window,'GeoPostal','US');

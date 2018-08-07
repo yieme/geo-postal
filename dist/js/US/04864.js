@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04864"]={"code":"04864","region":"Maine","city":"Warren","latitude":44.12036,"longitude":-69.24005}}(window,'GeoPostal','US');

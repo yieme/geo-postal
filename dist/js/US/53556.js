@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53556"]={"code":"53556","region":"Wisconsin","city":"Lone Rock","latitude":43.18417,"longitude":-90.19833}}(window,'GeoPostal','US');

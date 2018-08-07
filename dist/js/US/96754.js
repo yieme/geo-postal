@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96754"]={"code":"96754","region":"HI","city":"Kilauea","latitude":22.2073,"longitude":-159.3954}}(window,'GeoPostal','US');

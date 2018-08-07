@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 2H0"]={"code":"P0M 2H0","region":"Ontario","city":"Dalton Mills","latitude":48.12177,"longitude":-84.07088}}(window,'GeoPostal','CA');

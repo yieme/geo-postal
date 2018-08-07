@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46765"]={"code":"46765","region":"Indiana","city":"Leo","latitude":41.226123,"longitude":-85.030919}}(window,'GeoPostal','US');

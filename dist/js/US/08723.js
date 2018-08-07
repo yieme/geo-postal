@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08723"]={"code":"08723","region":"New Jersey","city":"Brick","latitude":40.05168,"longitude":-74.10678}}(window,'GeoPostal','US');

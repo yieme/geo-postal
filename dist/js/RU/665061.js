@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665061"]={"code":"665061","region":"Irkutskaya oblast'","city":"Novobiryusinskiy","latitude":56.9578,"longitude":97.7076}}(window,'GeoPostal','RU');

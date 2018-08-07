@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65668"]={"code":"65668","region":"Missouri","city":"Hermitage","latitude":37.94142,"longitude":-93.31631}}(window,'GeoPostal','US');

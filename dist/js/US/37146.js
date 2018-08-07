@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37146"]={"code":"37146","region":"Tennessee","city":"Pleasant View","latitude":36.386254,"longitude":-87.037411}}(window,'GeoPostal','US');

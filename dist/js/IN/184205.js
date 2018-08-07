@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184205"]={"code":"184205","region":"Jammu and Kashmir","city":"Ramnagar","latitude":32.81667,"longitude":75.31667}}(window,'GeoPostal','IN');

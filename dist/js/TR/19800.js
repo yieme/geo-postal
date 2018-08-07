@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19800"]={"code":"19800","region":"Sivas","city":"Akincilar","latitude":40.07972,"longitude":38.34806}}(window,'GeoPostal','TR');

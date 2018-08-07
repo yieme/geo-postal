@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3639"]={"code":"3639","region":"Victoria","city":"Picola","latitude":-36,"longitude":145.13333}}(window,'GeoPostal','AU');

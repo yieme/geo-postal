@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188354"]={"code":"188354","region":"Leningradskaya oblast'","city":"Maloye Verevo","latitude":59.61361,"longitude":30.17278}}(window,'GeoPostal','RU');

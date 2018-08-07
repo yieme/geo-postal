@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3381"]={"code":"3381","region":"Victoria","city":"Halls Gap","latitude":-37.13911,"longitude":142.51926}}(window,'GeoPostal','AU');

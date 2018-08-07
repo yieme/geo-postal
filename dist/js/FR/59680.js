@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59680"]={"code":"59680","region":"Hauts-de-France","city":"Colleret","latitude":50.2572,"longitude":4.0767}}(window,'GeoPostal','FR');

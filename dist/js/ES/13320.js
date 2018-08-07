@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13320"]={"code":"13320","region":"Castilla-La Mancha","city":"Infantes","latitude":38.73669,"longitude":-3.01219}}(window,'GeoPostal','ES');

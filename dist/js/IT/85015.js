@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85015"]={"code":"85015","region":"Basilicata","city":"Oppido Lucano","latitude":40.76182,"longitude":15.98667}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30796"]={"code":"30796","region":"Coahuila de Zaragoza","city":"Minas de Barroteran","latitude":27.63333,"longitude":-101.28333}}(window,'GeoPostal','MX');

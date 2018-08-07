@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6290"]={"code":"6290","region":"Tirol","city":"Mayrhofen","latitude":47.16667,"longitude":11.86667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02115"]={"code":"02115","region":"Ancash","city":"Carhuaz","latitude":-9.28194,"longitude":-77.64472}}(window,'GeoPostal','PE');

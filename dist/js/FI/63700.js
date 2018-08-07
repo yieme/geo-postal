@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63700"]={"code":"63700","region":"Etela-Pohjanmaa","city":"Ahtari","latitude":62.55403,"longitude":24.06186}}(window,'GeoPostal','FI');

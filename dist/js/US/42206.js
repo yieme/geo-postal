@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42206"]={"code":"42206","region":"KY","city":"Auburn","latitude":36.8818,"longitude":-86.7198}}(window,'GeoPostal','US');

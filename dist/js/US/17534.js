@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17534"]={"code":"17534","region":"PA","city":"Intercourse","latitude":40.0367,"longitude":-76.1069}}(window,'GeoPostal','US');

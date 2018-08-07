@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74533"]={"code":"74533","region":"OK","city":"Caney","latitude":34.2221,"longitude":-96.2584}}(window,'GeoPostal','US');

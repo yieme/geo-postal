@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74401"]={"code":"74401","region":"Oklahoma","city":"Muskogee","latitude":35.7399,"longitude":-95.38494}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92059"]={"code":"92059","region":"California","city":"Pala","latitude":33.384163,"longitude":-117.065997}}(window,'GeoPostal','US');

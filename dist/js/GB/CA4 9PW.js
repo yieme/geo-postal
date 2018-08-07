@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 9PW"]={"code":"CA4 9PW","region":"England","city":"Armathwaite","latitude":54.8094,"longitude":-2.77185}}(window,'GeoPostal','GB');

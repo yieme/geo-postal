@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46473"]={"code":"46473","region":"Jawa Barat","city":"Desa","latitude":-7.4748,"longitude":108.0168}}(window,'GeoPostal','ID');

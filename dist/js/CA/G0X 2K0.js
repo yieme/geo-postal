@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 2K0"]={"code":"G0X 2K0","region":"Quebec","city":"Saint-Barnabe","latitude":46.40006,"longitude":-72.88243}}(window,'GeoPostal','CA');

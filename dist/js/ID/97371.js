@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97371"]={"code":"97371","region":"Maluku","city":"Namlea","latitude":-3.25712,"longitude":127.10032}}(window,'GeoPostal','ID');

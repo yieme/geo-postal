@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557304"]={"code":"557304","region":"Guizhou","city":"Zhongchao","latitude":26.1375,"longitude":109.22}}(window,'GeoPostal','CN');

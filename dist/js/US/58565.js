@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58565"]={"code":"58565","region":"North Dakota","city":"Riverdale","latitude":47.501479,"longitude":-101.370855}}(window,'GeoPostal','US');

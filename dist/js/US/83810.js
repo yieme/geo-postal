@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83810"]={"code":"83810","region":"ID","city":"Cataldo","latitude":47.5522,"longitude":-116.4431}}(window,'GeoPostal','US');

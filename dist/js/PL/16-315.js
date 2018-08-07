@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-315"]={"code":"16-315","region":"Podlaskie","city":"Lipsk","latitude":53.73312,"longitude":23.40225}}(window,'GeoPostal','PL');

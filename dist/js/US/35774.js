@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35774"]={"code":"35774","region":"AL","city":"Trenton","latitude":34.7632,"longitude":-86.2295}}(window,'GeoPostal','US');

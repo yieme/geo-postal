@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29481"]={"code":"29481","region":"SC","city":"Smoaks","latitude":33.0963,"longitude":-80.813}}(window,'GeoPostal','US');

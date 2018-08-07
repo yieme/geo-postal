@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38858"]={"code":"38858","region":"MS","city":"Nettleton","latitude":34.0821,"longitude":-88.6052}}(window,'GeoPostal','US');

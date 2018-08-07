@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517373"]={"code":"517373","region":"Guangdong","city":"Dengyun","latitude":24.06735,"longitude":115.39188}}(window,'GeoPostal','CN');

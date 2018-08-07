@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07052"]={"code":"07052","region":"Kyivska oblast","city":"Volodarka","latitude":49.52484,"longitude":29.91222}}(window,'GeoPostal','UA');

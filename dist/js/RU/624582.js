@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624582"]={"code":"624582","region":"Sverdlovskaya oblast'","city":"Pelym","latitude":61.01083,"longitude":61.99778}}(window,'GeoPostal','RU');

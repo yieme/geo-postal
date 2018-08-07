@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13435"]={"code":"13435","region":"NY","city":"Prospect","latitude":43.3052,"longitude":-75.1502}}(window,'GeoPostal','US');

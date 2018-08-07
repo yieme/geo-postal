@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26700"]={"code":"26700","region":"Auvergne-Rhone-Alpes","city":"La Garde-Adhemar","latitude":44.39553,"longitude":4.75776}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75147"]={"code":"75147","region":"Texas","city":"Gun Barrel City","latitude":32.33459,"longitude":-96.15136}}(window,'GeoPostal','US');

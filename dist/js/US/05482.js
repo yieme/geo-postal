@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05482"]={"code":"05482","region":"Vermont","city":"Shelburne","latitude":44.390866,"longitude":-73.214662}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63663"]={"code":"63663","region":"Missouri","city":"Pilot Knob","latitude":37.623087,"longitude":-90.639986}}(window,'GeoPostal','US');

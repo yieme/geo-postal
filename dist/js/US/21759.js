@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21759"]={"code":"21759","region":"MD","city":"Ladiesburg","latitude":39.5694,"longitude":-77.2905}}(window,'GeoPostal','US');

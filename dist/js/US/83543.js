@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83543"]={"code":"83543","region":"Idaho","city":"Nezperce","latitude":46.23489,"longitude":-116.2407}}(window,'GeoPostal','US');

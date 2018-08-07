@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71220"]={"code":"71220","region":"Louisiana","city":"Bastrop","latitude":32.778179,"longitude":-91.91305}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-256"]={"code":"42-256","region":"Slaskie","city":"Potok Zloty","latitude":50.70676,"longitude":19.43091}}(window,'GeoPostal','PL');

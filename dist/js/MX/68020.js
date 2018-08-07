@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68020"]={"code":"68020","region":"Oaxaca","city":"Teotitlan de Flores Magon","latitude":18.13194,"longitude":-97.07667}}(window,'GeoPostal','MX');

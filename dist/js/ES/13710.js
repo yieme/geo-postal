@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13710"]={"code":"13710","region":"Castilla-La Mancha","city":"Argamasilla de Alba","latitude":39.12917,"longitude":-3.09247}}(window,'GeoPostal','ES');

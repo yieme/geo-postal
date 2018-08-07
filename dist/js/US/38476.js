@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38476"]={"code":"38476","region":"TN","city":"Primm Springs","latitude":35.8104,"longitude":-87.253}}(window,'GeoPostal','US');

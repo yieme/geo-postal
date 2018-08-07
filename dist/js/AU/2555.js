@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2555"]={"code":"2555","region":"New South Wales","city":"Badgerys Creek","latitude":-33.89075,"longitude":150.74265}}(window,'GeoPostal','AU');

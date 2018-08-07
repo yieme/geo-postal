@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54216"]={"code":"54216","region":"WI","city":"Kewaunee","latitude":44.4401,"longitude":-87.5594}}(window,'GeoPostal','US');

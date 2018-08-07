@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8873"]={"code":"8873","region":"Sankt Gallen","city":"Amden","latitude":47.14888,"longitude":9.14233}}(window,'GeoPostal','CH');

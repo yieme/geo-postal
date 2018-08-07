@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125028"]={"code":"125028","region":"Haryana","city":"Bhiwani","latitude":28.78333,"longitude":76.13333}}(window,'GeoPostal','IN');

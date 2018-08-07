@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32181"]={"code":"32181","region":"FL","city":"Pomona Park","latitude":29.5002,"longitude":-81.5915}}(window,'GeoPostal','US');

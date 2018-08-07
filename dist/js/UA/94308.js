@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94308"]={"code":"94308","region":"Luhanska oblast","city":"Pereval'sk","latitude":48.43779,"longitude":38.84384}}(window,'GeoPostal','UA');

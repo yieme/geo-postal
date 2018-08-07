@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82020"]={"code":"82020","region":"Gavleborgs lan","city":"Ljusne","latitude":61.21667,"longitude":17.13333}}(window,'GeoPostal','SE');

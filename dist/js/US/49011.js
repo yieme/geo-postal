@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49011"]={"code":"49011","region":"MI","city":"Athens","latitude":42.103,"longitude":-85.2317}}(window,'GeoPostal','US');

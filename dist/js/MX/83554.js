@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83554"]={"code":"83554","region":"Sonora","city":"Puerto Penasco","latitude":31.31667,"longitude":-113.53333}}(window,'GeoPostal','MX');

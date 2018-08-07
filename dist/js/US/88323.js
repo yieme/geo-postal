@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88323"]={"code":"88323","region":"NM","city":"Fort Stanton","latitude":33.4959,"longitude":-105.523}}(window,'GeoPostal','US');

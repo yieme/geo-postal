@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51015"]={"code":"51015","region":"Toscana","city":"Monsummano","latitude":43.87035,"longitude":10.81231}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38675"]={"code":"38675","region":"MS","city":"Tula","latitude":34.3582,"longitude":-89.4839}}(window,'GeoPostal','US');

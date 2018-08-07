@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62253"]={"code":"62253","region":"Illinois","city":"Keyesport","latitude":38.741251,"longitude":-89.313044}}(window,'GeoPostal','US');

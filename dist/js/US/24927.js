@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24927"]={"code":"24927","region":"West Virginia","city":"Cass","latitude":38.364167,"longitude":-79.9625}}(window,'GeoPostal','US');

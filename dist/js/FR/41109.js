@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41109"]={"code":"41109","region":"Centre-Val de Loire","city":"Vendome","latitude":47.8,"longitude":1.06667}}(window,'GeoPostal','FR');

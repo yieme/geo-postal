@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430000"]={"code":"430000","region":"Ninh Binh","city":"Ninh Binh","latitude":20.25389,"longitude":105.975}}(window,'GeoPostal','VN');

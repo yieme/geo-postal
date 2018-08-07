@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87487"]={"code":"87487","region":"Bayern","city":"Wiggensbach","latitude":47.74781,"longitude":10.22987}}(window,'GeoPostal','DE');

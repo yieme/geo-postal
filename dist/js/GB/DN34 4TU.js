@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN34 4TU"]={"code":"DN34 4TU","region":"England","city":"Grimbsy","latitude":53.55989,"longitude":-0.09888}}(window,'GeoPostal','GB');

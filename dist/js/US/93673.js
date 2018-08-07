@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93673"]={"code":"93673","region":"CA","city":"Traver","latitude":36.4552,"longitude":-119.4848}}(window,'GeoPostal','US');

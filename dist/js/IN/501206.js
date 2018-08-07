@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["501206"]={"code":"501206","region":"Telangana","city":"Bhongir","latitude":17.51083,"longitude":78.88889}}(window,'GeoPostal','IN');

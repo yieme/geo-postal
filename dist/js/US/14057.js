@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14057"]={"code":"14057","region":"NY","city":"Eden","latitude":42.6506,"longitude":-78.8781}}(window,'GeoPostal','US');

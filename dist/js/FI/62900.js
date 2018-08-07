@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62900"]={"code":"62900","region":"Kainuu","city":"Alajarvi","latitude":64.98532,"longitude":28.80565}}(window,'GeoPostal','FI');

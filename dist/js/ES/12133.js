@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12133"]={"code":"12133","region":"Valenciana, Comunidad","city":"Adzaneta","latitude":40.21616,"longitude":-0.17028}}(window,'GeoPostal','ES');

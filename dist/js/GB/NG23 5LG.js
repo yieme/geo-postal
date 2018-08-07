@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 5LG"]={"code":"NG23 5LG","region":"England","city":"Flintham","latitude":53.00631,"longitude":-0.89815}}(window,'GeoPostal','GB');

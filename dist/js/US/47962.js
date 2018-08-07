@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47962"]={"code":"47962","region":"IN","city":"Montmorenci","latitude":40.4732,"longitude":-87.0276}}(window,'GeoPostal','US');

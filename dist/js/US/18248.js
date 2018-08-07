@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18248"]={"code":"18248","region":"PA","city":"Sheppton","latitude":40.902,"longitude":-76.1188}}(window,'GeoPostal','US');

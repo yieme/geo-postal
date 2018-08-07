@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61725"]={"code":"61725","region":"IL","city":"Carlock","latitude":40.6029,"longitude":-89.1098}}(window,'GeoPostal','US');

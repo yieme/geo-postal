@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 3QU"]={"code":"IP12 3QU","region":"England","city":"Hollesley","latitude":52.04985,"longitude":1.43054}}(window,'GeoPostal','GB');

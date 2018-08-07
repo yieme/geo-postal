@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7N 1J5"]={"code":"T7N 1J5","region":"Alberta","city":"Manola","latitude":54.10015,"longitude":-114.2354}}(window,'GeoPostal','CA');

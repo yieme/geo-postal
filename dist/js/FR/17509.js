@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17509"]={"code":"17509","region":"Nouvelle-Aquitaine","city":"Jonzac","latitude":45.45,"longitude":-0.43333}}(window,'GeoPostal','FR');

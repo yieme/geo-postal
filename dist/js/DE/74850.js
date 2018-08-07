@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74850"]={"code":"74850","region":"Baden-Wurttemberg","city":"Oberschefflenz","latitude":49.41563,"longitude":9.28235}}(window,'GeoPostal','DE');

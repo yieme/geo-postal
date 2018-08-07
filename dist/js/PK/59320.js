@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59320"]={"code":"59320","region":"Punjab","city":"Lodhran","latitude":29.54051,"longitude":71.63357}}(window,'GeoPostal','PK');

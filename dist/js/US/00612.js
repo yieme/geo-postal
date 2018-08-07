@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00612"]={"code":"00612","region":"PR","city":"Arecibo","latitude":18.45,"longitude":-66.73}}(window,'GeoPostal','US');

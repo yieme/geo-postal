@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47610"]={"code":"47610","region":"IN","city":"Chandler","latitude":38.0423,"longitude":-87.3756}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142263"]={"code":"142263","region":"Moskovskaya oblast'","city":"Pushchino","latitude":54.83389,"longitude":37.62639}}(window,'GeoPostal','RU');

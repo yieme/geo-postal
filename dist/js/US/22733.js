@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22733"]={"code":"22733","region":"Virginia","city":"Rapidan","latitude":38.33354,"longitude":-78.039087}}(window,'GeoPostal','US');

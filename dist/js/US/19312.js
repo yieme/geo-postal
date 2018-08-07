@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19312"]={"code":"19312","region":"Pennsylvania","city":"Berwyn","latitude":40.033,"longitude":-75.461034}}(window,'GeoPostal','US');

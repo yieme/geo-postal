@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182144"]={"code":"182144","region":"Jammu and Kashmir","city":"Ramban","latitude":33.25,"longitude":75.25}}(window,'GeoPostal','IN');

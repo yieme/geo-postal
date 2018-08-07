@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4J 1N5"]={"code":"T4J 1N5","region":"Alberta","city":"Ponoka","latitude":52.677931,"longitude":-113.580252}}(window,'GeoPostal','CA');

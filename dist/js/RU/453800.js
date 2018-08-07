@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453800"]={"code":"453800","region":"Bashkortostan, Respublika","city":"Akyar","latitude":51.85905,"longitude":58.22136}}(window,'GeoPostal','RU');

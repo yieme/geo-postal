@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10974"]={"code":"10974","region":"NY","city":"Sloatsburg","latitude":41.1575,"longitude":-74.2008}}(window,'GeoPostal','US');

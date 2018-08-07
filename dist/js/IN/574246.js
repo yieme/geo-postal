@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574246"]={"code":"574246","region":"Telangana","city":"Gadwal","latitude":16.23333,"longitude":77.8}}(window,'GeoPostal','IN');

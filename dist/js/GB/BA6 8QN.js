@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA6 8QN"]={"code":"BA6 8QN","region":"England","city":"Baltonsborough","latitude":51.11167,"longitude":-2.65472}}(window,'GeoPostal','GB');

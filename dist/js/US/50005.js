@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50005"]={"code":"50005","region":"IA","city":"Albion","latitude":42.1143,"longitude":-92.9882}}(window,'GeoPostal','US');

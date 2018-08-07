@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 8TG"]={"code":"PA23 8TG","region":"Scotland","city":"Blairmore","latitude":55.9933,"longitude":-4.89541}}(window,'GeoPostal','GB');

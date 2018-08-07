@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27018"]={"code":"27018","region":"NC","city":"East Bend","latitude":36.2032,"longitude":-80.5284}}(window,'GeoPostal','US');

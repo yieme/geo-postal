@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64841"]={"code":"64841","region":"MO","city":"Duenweg","latitude":37.076,"longitude":-94.4071}}(window,'GeoPostal','US');

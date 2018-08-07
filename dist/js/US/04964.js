@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04964"]={"code":"04964","region":"Maine","city":"Oquossoc","latitude":44.943106,"longitude":-70.652826}}(window,'GeoPostal','US');

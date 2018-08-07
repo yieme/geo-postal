@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40384"]={"code":"40384","region":"Jawa Barat","city":"Paseh","latitude":-7.1026,"longitude":107.7641}}(window,'GeoPostal','ID');

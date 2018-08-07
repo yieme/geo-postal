@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45848"]={"code":"45848","region":"OH","city":"Glandorf","latitude":41.0289,"longitude":-84.0791}}(window,'GeoPostal','US');

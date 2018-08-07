@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08538"]={"code":"08538","region":"Sachsen","city":"Oberweischlitz","latitude":50.4442,"longitude":12.0698}}(window,'GeoPostal','DE');

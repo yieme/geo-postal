@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94534"]={"code":"94534","region":"Norrbottens lan","city":"Rosvik","latitude":65.43333,"longitude":21.7}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79088"]={"code":"79088","region":"Texas","city":"Tulia","latitude":34.65164,"longitude":-101.49838}}(window,'GeoPostal','US');

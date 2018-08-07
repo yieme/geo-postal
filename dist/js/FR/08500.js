@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08500"]={"code":"08500","region":"Grand-Est","city":"Revin","latitude":49.94039,"longitude":4.63503}}(window,'GeoPostal','FR');

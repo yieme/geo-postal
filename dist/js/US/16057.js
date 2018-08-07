@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16057"]={"code":"16057","region":"Pennsylvania","city":"Slippery Rock","latitude":41.06395,"longitude":-80.05645}}(window,'GeoPostal','US');

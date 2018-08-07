@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["988-0807"]={"code":"988-0807","region":"Hokkaido","city":"Sapporo","latitude":43.067,"longitude":141.35}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32816"]={"code":"32816","region":"Galicia","city":"Celanova","latitude":42.15303,"longitude":-7.95513}}(window,'GeoPostal','ES');

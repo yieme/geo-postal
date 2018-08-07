@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412170"]={"code":"412170","region":"Saratovskaya oblast'","city":"Tatishchevo","latitude":51.67028,"longitude":45.59528}}(window,'GeoPostal','RU');

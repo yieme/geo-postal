@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA67 8UB"]={"code":"SA67 8UB","region":"Wales","city":"Crinow","latitude":51.79639,"longitude":-4.71667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44012"]={"code":"44012","region":"Ohio","city":"Avon Lake","latitude":41.50532,"longitude":-82.0282}}(window,'GeoPostal','US');

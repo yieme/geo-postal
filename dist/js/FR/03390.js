@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03390"]={"code":"03390","region":"Auvergne-Rhone-Alpes","city":"Montmarault","latitude":46.31668,"longitude":2.95613}}(window,'GeoPostal','FR');

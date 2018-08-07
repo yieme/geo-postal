@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6054"]={"code":"6054","region":"Western Australia","city":"Kiara","latitude":-31.88156,"longitude":115.93893}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26865"]={"code":"26865","region":"Lombardia","city":"San Rocco al Porto","latitude":45.08197,"longitude":9.69716}}(window,'GeoPostal','IT');

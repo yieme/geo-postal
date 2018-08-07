@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA9 3DX"]={"code":"TA9 3DX","region":"England","city":"Highbridge","latitude":51.21667,"longitude":-2.98333}}(window,'GeoPostal','GB');

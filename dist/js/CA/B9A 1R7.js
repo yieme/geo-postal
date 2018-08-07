@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B9A 1R7"]={"code":"B9A 1R7","region":"Nova Scotia","city":"Queensville","latitude":45.73344,"longitude":-61.36524}}(window,'GeoPostal','CA');

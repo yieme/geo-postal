@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356423"]={"code":"356423","region":"Stavropol'skiy kray","city":"Blagodarnyy","latitude":45.09778,"longitude":43.43639}}(window,'GeoPostal','RU');

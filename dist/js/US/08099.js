@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08099"]={"code":"08099","region":"NJ","city":"Bellmawr","latitude":39.8676,"longitude":-75.0946}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68662"]={"code":"68662","region":"NE","city":"Shelby","latitude":41.1922,"longitude":-97.4253}}(window,'GeoPostal','US');

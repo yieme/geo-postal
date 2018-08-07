@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP11 5GB"]={"code":"NP11 5GB","region":"Wales","city":"Newbridge","latitude":51.66667,"longitude":-3.13333}}(window,'GeoPostal','GB');

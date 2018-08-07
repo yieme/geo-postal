@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57170"]={"code":"57170","region":"Grand-Est","city":"Chateau-Salins","latitude":48.81885,"longitude":6.51455}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10998"]={"code":"10998","region":"NY","city":"Westtown","latitude":41.3214,"longitude":-74.5529}}(window,'GeoPostal','US');

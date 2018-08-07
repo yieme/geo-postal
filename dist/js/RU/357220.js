@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357220"]={"code":"357220","region":"Stavropol'skiy kray","city":"Kangly","latitude":44.25444,"longitude":43.03083}}(window,'GeoPostal','RU');

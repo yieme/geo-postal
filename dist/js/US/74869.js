@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74869"]={"code":"74869","region":"OK","city":"Sparks","latitude":35.6138,"longitude":-96.8163}}(window,'GeoPostal','US');

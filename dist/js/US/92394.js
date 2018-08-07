@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92394"]={"code":"92394","region":"CA","city":"Victorville","latitude":34.5563,"longitude":-117.3528}}(window,'GeoPostal','US');

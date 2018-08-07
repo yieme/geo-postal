@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19029"]={"code":"19029","region":"PA","city":"Essington","latitude":39.8621,"longitude":-75.2971}}(window,'GeoPostal','US');

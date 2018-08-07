@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37843"]={"code":"37843","region":"TN","city":"Parrottsville","latitude":35.9983,"longitude":-83.0736}}(window,'GeoPostal','US');

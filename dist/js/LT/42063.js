@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42063"]={"code":"42063","region":"Panevezio apskritis","city":"Juodupe","latitude":56.08333,"longitude":25.61667}}(window,'GeoPostal','LT');

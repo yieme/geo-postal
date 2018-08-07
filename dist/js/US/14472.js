@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14472"]={"code":"14472","region":"New York","city":"Honeoye Falls","latitude":42.970173,"longitude":-77.59424}}(window,'GeoPostal','US');

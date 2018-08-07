@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV26 2YN"]={"code":"IV26 2YN","region":"Scotland","city":"Polbain","latitude":58.03333,"longitude":-5.38333}}(window,'GeoPostal','GB');

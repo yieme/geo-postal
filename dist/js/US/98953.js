@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98953"]={"code":"98953","region":"WA","city":"Zillah","latitude":46.4158,"longitude":-120.2662}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92334"]={"code":"92334","region":"Bayern","city":"Berching","latitude":49.10694,"longitude":11.44138}}(window,'GeoPostal','DE');

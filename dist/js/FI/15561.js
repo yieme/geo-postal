@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15561"]={"code":"15561","region":"Paijat-Hame","city":"Nastola","latitude":60.95,"longitude":25.93333}}(window,'GeoPostal','FI');

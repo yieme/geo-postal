@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["556701"]={"code":"556701","region":"Guizhou","city":"Qimeng","latitude":26.48472,"longitude":108.99944}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6332"]={"code":"6332","region":"Eastern Cape","city":"Jeffrey's Bay","latitude":-34.05064,"longitude":24.9195}}(window,'GeoPostal','ZA');

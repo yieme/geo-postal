@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11903"]={"code":"11903","region":"San Jose","city":"Daniel Flores","latitude":9.33554,"longitude":-83.6694}}(window,'GeoPostal','CR');

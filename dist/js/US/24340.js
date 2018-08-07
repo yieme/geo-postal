@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24340"]={"code":"24340","region":"Virginia","city":"Glade Spring","latitude":36.79122,"longitude":-81.77123}}(window,'GeoPostal','US');

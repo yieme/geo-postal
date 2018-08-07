@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80801"]={"code":"80801","region":"Colorado","city":"Anton","latitude":39.711348,"longitude":-103.281872}}(window,'GeoPostal','US');

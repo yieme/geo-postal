@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47514"]={"code":"47514","region":"IN","city":"Branchville","latitude":38.1572,"longitude":-86.5859}}(window,'GeoPostal','US');

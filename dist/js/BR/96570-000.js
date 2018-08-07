@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96570-000"]={"code":"96570-000","region":"Rio Grande do Sul","city":"Cacapava do Sul","latitude":-30.51222,"longitude":-53.49139}}(window,'GeoPostal','BR');

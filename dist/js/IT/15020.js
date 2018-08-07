@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15020"]={"code":"15020","region":"Piemonte","city":"Cerrina Monferrato","latitude":45.12135,"longitude":8.21383}}(window,'GeoPostal','IT');

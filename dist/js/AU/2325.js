@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2325"]={"code":"2325","region":"New South Wales","city":"Wattagong","latitude":-33.01667,"longitude":151.2}}(window,'GeoPostal','AU');

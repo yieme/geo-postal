@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8174"]={"code":"8174","region":"Veszprem","city":"Balatonkenese","latitude":47.04019,"longitude":18.10671}}(window,'GeoPostal','HU');

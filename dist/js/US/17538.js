@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17538"]={"code":"17538","region":"Pennsylvania","city":"Landisville","latitude":40.100343,"longitude":-76.427234}}(window,'GeoPostal','US');

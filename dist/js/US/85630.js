@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85630"]={"code":"85630","region":"Arizona","city":"Saint David","latitude":31.91953,"longitude":-110.234583}}(window,'GeoPostal','US');

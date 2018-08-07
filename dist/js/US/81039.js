@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81039"]={"code":"81039","region":"Colorado","city":"Fowler","latitude":38.12917,"longitude":-104.02329}}(window,'GeoPostal','US');

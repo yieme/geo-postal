@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49820"]={"code":"49820","region":"Jalisco","city":"Tuxpan","latitude":19.55,"longitude":-103.4}}(window,'GeoPostal','MX');

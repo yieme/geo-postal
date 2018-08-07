@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99726"]={"code":"99726","region":"AK","city":"Bettles Field","latitude":65.2264,"longitude":-151.0251}}(window,'GeoPostal','US');

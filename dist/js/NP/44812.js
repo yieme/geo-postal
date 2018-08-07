@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44812"]={"code":"44812","region":"Bagmati","city":"Nagarkot","latitude":27.71522,"longitude":85.52075}}(window,'GeoPostal','NP');

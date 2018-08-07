@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5200-160"]={"code":"5200-160","region":"Braganca","city":"Mogadouro","latitude":41.34034,"longitude":-6.71187}}(window,'GeoPostal','PT');

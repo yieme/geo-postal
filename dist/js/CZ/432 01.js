@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432 01"]={"code":"432 01","region":"Ustecky kraj","city":"Kadan","latitude":50.37598,"longitude":13.27131}}(window,'GeoPostal','CZ');

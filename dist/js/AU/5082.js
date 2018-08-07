@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5082"]={"code":"5082","region":"South Australia","city":"Prospect","latitude":-34.88241,"longitude":138.5933}}(window,'GeoPostal','AU');

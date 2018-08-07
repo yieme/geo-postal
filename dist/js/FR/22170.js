@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22170"]={"code":"22170","region":"Bretagne","city":"Plelo","latitude":48.55534,"longitude":-2.94634}}(window,'GeoPostal','FR');

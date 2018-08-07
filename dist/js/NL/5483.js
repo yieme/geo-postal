@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5483"]={"code":"5483","region":"Noord-Brabant","city":"Schijndel","latitude":51.6225,"longitude":5.43194}}(window,'GeoPostal','NL');

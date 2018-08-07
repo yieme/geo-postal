@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4849"]={"code":"4849","region":"Queensland","city":"Cardwell","latitude":-18.26332,"longitude":146.02293}}(window,'GeoPostal','AU');

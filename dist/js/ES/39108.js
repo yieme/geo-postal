@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39108"]={"code":"39108","region":"Cantabria","city":"Santa Cruz de Bezana","latitude":43.4437,"longitude":-3.90324}}(window,'GeoPostal','ES');

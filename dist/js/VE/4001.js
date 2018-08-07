@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4001"]={"code":"4001","region":"Zulia","city":"San Carlos del Zulia","latitude":9.00003,"longitude":-71.91352}}(window,'GeoPostal','VE');

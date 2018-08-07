@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44011"]={"code":"44011","region":"Emilia-Romagna","city":"Argenta","latitude":44.61237,"longitude":11.83562}}(window,'GeoPostal','IT');

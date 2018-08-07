@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5925"]={"code":"5925","region":"Cordoba","city":"Pasco","latitude":-32.74733,"longitude":-63.34232}}(window,'GeoPostal','AR');

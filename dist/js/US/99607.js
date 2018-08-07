@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99607"]={"code":"99607","region":"Alaska","city":"Kalskag","latitude":61.542658,"longitude":-160.331285}}(window,'GeoPostal','US');

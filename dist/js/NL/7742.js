@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7742"]={"code":"7742","region":"Drenthe","city":"Coevorden","latitude":52.66103,"longitude":6.74046}}(window,'GeoPostal','NL');

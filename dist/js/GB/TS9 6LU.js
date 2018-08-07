@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS9 6LU"]={"code":"TS9 6LU","region":"England","city":"Battersby","latitude":54.45896,"longitude":-1.07958}}(window,'GeoPostal','GB');

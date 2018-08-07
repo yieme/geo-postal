@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46770"]={"code":"46770","region":"IN","city":"Markle","latitude":40.8331,"longitude":-85.319}}(window,'GeoPostal','US');

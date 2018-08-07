@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636019"]={"code":"636019","region":"Tomskaya oblast'","city":"Tomsk","latitude":56.5,"longitude":84.96667}}(window,'GeoPostal','RU');

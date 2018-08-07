@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327385"]={"code":"327385","region":"Caras-Severin","city":"Tarnova","latitude":45.3425,"longitude":22.00611}}(window,'GeoPostal','RO');

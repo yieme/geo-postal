@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06351"]={"code":"06351","region":"CT","city":"Jewett City","latitude":41.6052,"longitude":-71.9808}}(window,'GeoPostal','US');

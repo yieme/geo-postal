@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425601"]={"code":"425601","region":"Hunan","city":"Shuishi","latitude":25.45639,"longitude":111.89444}}(window,'GeoPostal','CN');

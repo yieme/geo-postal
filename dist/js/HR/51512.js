@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51512"]={"code":"51512","region":"Primorsko-goranska zupanija","city":"Njivice","latitude":45.15806,"longitude":14.53861}}(window,'GeoPostal','HR');

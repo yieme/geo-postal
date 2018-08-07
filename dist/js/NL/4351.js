@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4351"]={"code":"4351","region":"Zeeland","city":"Veere","latitude":51.54833,"longitude":3.66667}}(window,'GeoPostal','NL');

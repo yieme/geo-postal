@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25800"]={"code":"25800","region":"Bourgogne-Franche-Comte","city":"Valdahon","latitude":47.15,"longitude":6.35}}(window,'GeoPostal','FR');

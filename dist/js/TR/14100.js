@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14100"]={"code":"14100","region":"Afyonkarahisar","city":"Emirdag","latitude":39.01972,"longitude":31.15}}(window,'GeoPostal','TR');

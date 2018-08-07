@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60172"]={"code":"60172","region":"Illinois","city":"Roselle","latitude":41.98475,"longitude":-88.07979}}(window,'GeoPostal','US');

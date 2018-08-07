@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33107"]={"code":"33107","region":"FL","city":"Master Charge","latitude":25.79,"longitude":-80.31}}(window,'GeoPostal','US');

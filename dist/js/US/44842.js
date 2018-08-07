@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44842"]={"code":"44842","region":"Ohio","city":"Loudonville","latitude":40.645513,"longitude":-82.230334}}(window,'GeoPostal','US');

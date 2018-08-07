@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-167"]={"code":"33-167","region":"Slaskie","city":"Rokitno Szlacheckie","latitude":50.43195,"longitude":19.43293}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB7 9HN"]={"code":"UB7 9HN","region":"England","city":"West Drayton","latitude":51.5,"longitude":-0.46667}}(window,'GeoPostal','GB');

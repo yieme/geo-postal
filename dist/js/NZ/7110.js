@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7110"]={"code":"7110","region":"Tasman","city":"Takaka","latitude":-40.85,"longitude":172.8}}(window,'GeoPostal','NZ');

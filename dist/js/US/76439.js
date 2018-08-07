@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76439"]={"code":"76439","region":"TX","city":"Dennis","latitude":32.6187,"longitude":-97.9267}}(window,'GeoPostal','US');

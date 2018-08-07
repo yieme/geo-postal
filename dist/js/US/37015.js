@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37015"]={"code":"37015","region":"Tennessee","city":"Ashland City","latitude":36.285263,"longitude":-87.068752}}(window,'GeoPostal','US');

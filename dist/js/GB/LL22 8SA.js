@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL22 8SA"]={"code":"LL22 8SA","region":"Wales","city":"Llanfair Talhaiarn","latitude":53.21755,"longitude":-3.60752}}(window,'GeoPostal','GB');

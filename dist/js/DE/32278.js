@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32278"]={"code":"32278","region":"Nordrhein-Westfalen","city":"Kirchlengern","latitude":52.2,"longitude":8.63333}}(window,'GeoPostal','DE');

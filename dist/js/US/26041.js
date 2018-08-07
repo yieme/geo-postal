@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26041"]={"code":"26041","region":"West Virginia","city":"Moundsville","latitude":39.922021,"longitude":-80.736985}}(window,'GeoPostal','US');

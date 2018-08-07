@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST8 7DR"]={"code":"ST8 7DR","region":"England","city":"Woodhouse","latitude":52.73369,"longitude":-1.20283}}(window,'GeoPostal','GB');

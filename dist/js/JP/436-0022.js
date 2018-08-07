@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["436-0022"]={"code":"436-0022","region":"Shizuoka","city":"Kakegawa","latitude":34.767,"longitude":138}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG24 3RN"]={"code":"NG24 3RN","region":"England","city":"Hawton","latitude":53.05172,"longitude":-0.82557}}(window,'GeoPostal','GB');

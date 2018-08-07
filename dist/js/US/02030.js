@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02030"]={"code":"02030","region":"MA","city":"Dover","latitude":42.2362,"longitude":-71.2854}}(window,'GeoPostal','US');

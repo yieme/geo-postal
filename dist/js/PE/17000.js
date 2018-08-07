@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17000"]={"code":"17000","region":"Madre de Dios","city":"Puerto Maldonado","latitude":-12.6,"longitude":-69.18333}}(window,'GeoPostal','PE');

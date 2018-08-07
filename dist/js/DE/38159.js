@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38159"]={"code":"38159","region":"Niedersachsen","city":"Vechelde","latitude":52.26038,"longitude":10.36491}}(window,'GeoPostal','DE');

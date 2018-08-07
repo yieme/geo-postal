@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19110"]={"code":"19110","region":"Nouvelle-Aquitaine","city":"Bort-les-Orgues","latitude":45.4,"longitude":2.5}}(window,'GeoPostal','FR');

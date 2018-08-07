@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54635"]={"code":"54635","region":"Wisconsin","city":"Hixton","latitude":44.38722,"longitude":-90.99417}}(window,'GeoPostal','US');

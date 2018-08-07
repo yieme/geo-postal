@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9611"]={"code":"9611","region":"Groningen","city":"Sappemeer","latitude":53.16417,"longitude":6.79028}}(window,'GeoPostal','NL');

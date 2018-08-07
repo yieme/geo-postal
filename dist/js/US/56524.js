@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56524"]={"code":"56524","region":"Minnesota","city":"Clitherall","latitude":46.27528,"longitude":-95.63}}(window,'GeoPostal','US');

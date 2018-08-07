@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68315"]={"code":"68315","region":"Nebraska","city":"Hebron","latitude":40.16639,"longitude":-97.58588}}(window,'GeoPostal','US');

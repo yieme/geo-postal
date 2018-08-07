@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70056"]={"code":"70056","region":"Puglia","city":"Molfetta","latitude":41.20023,"longitude":16.59748}}(window,'GeoPostal','IT');

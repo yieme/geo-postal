@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7551"]={"code":"7551","region":"Burgenland","city":"Bocksdorf","latitude":47.13333,"longitude":16.16667}}(window,'GeoPostal','AT');

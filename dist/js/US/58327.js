@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58327"]={"code":"58327","region":"North Dakota","city":"Crary","latitude":48.013873,"longitude":-98.605289}}(window,'GeoPostal','US');

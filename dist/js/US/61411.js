@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61411"]={"code":"61411","region":"IL","city":"Adair","latitude":40.3852,"longitude":-90.5037}}(window,'GeoPostal','US');

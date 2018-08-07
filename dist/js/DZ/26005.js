@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26005"]={"code":"26005","region":"Medea","city":"'Ain Boucif","latitude":35.89123,"longitude":3.1585}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2564"]={"code":"2564","region":"Niederosterreich","city":"Pottenstein","latitude":47.9582,"longitude":16.0948}}(window,'GeoPostal','AT');

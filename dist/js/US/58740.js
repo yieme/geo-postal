@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58740"]={"code":"58740","region":"North Dakota","city":"Glenburn","latitude":48.519643,"longitude":-101.237478}}(window,'GeoPostal','US');

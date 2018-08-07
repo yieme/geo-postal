@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46376"]={"code":"46376","region":"IN","city":"Schneider","latitude":41.19,"longitude":-87.4779}}(window,'GeoPostal','US');

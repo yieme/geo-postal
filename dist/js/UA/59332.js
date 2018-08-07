@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59332"]={"code":"59332","region":"Chernivetska oblast","city":"Berehomet","latitude":48.17882,"longitude":25.34855}}(window,'GeoPostal','UA');

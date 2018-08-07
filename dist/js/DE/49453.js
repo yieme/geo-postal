@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49453"]={"code":"49453","region":"Niedersachsen","city":"Wetschen","latitude":52.61295,"longitude":8.44883}}(window,'GeoPostal','DE');

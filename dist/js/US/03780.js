@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03780"]={"code":"03780","region":"NH","city":"Pike","latitude":44.0255,"longitude":-72.0096}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27881"]={"code":"27881","region":"NC","city":"Speed","latitude":35.9679,"longitude":-77.4452}}(window,'GeoPostal','US');

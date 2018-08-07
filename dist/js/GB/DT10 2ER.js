@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 2ER"]={"code":"DT10 2ER","region":"England","city":"Haselbury Bryan","latitude":50.86667,"longitude":-2.36667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26270"]={"code":"26270","region":"Auvergne-Rhone-Alpes","city":"Saulce-sur-Rhone","latitude":44.7028,"longitude":4.80169}}(window,'GeoPostal','FR');

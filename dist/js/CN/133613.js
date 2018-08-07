@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133613"]={"code":"133613","region":"Jilin","city":"Erdaobaihe","latitude":42.42456,"longitude":128.11048}}(window,'GeoPostal','CN');

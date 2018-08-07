@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9Z 2A2"]={"code":"J9Z 2A2","region":"Quebec","city":"La Sarre","latitude":48.7968,"longitude":-79.205097}}(window,'GeoPostal','CA');

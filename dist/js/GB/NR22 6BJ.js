@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR22 6BJ"]={"code":"NR22 6BJ","region":"England","city":"Little Walsingham","latitude":52.89498,"longitude":0.87376}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457325"]={"code":"457325","region":"Salaj","city":"Samsud","latitude":47.35,"longitude":22.95}}(window,'GeoPostal','RO');

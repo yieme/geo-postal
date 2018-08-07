@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31054"]={"code":"31054","region":"Veneto","city":"Possagno","latitude":45.8525,"longitude":11.8731}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["693-0044"]={"code":"693-0044","region":"Shimane","city":"Izumo","latitude":35.367,"longitude":132.767}}(window,'GeoPostal','JP');

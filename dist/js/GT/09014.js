@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09014"]={"code":"09014","region":"Quetzaltenango","city":"Cantel","latitude":14.81667,"longitude":-91.45}}(window,'GeoPostal','GT');

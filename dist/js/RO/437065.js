@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437065"]={"code":"437065","region":"Maramures","city":"Botiza","latitude":47.66667,"longitude":24.15}}(window,'GeoPostal','RO');

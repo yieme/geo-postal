@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46040"]={"code":"46040","region":"Lombardia","city":"Solferino","latitude":45.36858,"longitude":10.56668}}(window,'GeoPostal','IT');

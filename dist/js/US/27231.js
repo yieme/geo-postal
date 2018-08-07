@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27231"]={"code":"27231","region":"NC","city":"Cedar Grove","latitude":36.202,"longitude":-79.1666}}(window,'GeoPostal','US');

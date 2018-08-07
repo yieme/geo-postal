@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6315"]={"code":"6315","region":"La Pampa","city":"Colonia Baron","latitude":-36.15152,"longitude":-63.85404}}(window,'GeoPostal','AR');

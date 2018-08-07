@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14219"]={"code":"14219","region":"New York","city":"Blasdell","latitude":42.7884,"longitude":-78.82692}}(window,'GeoPostal','US');

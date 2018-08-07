@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44111"]={"code":"44111","region":"Jawa Barat","city":"Mawar","latitude":-7.2124,"longitude":107.905}}(window,'GeoPostal','ID');

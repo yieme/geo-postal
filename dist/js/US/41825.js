@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41825"]={"code":"41825","region":"Kentucky","city":"Jackhorn","latitude":37.16866,"longitude":-82.689351}}(window,'GeoPostal','US');

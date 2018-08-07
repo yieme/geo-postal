@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV18 0PR"]={"code":"IV18 0PR","region":"Scotland","city":"Rosskeen","latitude":57.68333,"longitude":-4.2}}(window,'GeoPostal','GB');

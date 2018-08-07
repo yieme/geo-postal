@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 5HW"]={"code":"TS13 5HW","region":"England","city":"Hinderwell","latitude":54.53826,"longitude":-0.77359}}(window,'GeoPostal','GB');

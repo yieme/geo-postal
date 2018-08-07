@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56390"]={"code":"56390","region":"Bretagne","city":"Colpo","latitude":47.81778,"longitude":-2.81002}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84500"]={"code":"84500","region":"Sonora","city":"Cumpas","latitude":29.98333,"longitude":-109.78333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59043"]={"code":"59043","region":"Montana","city":"Lame Deer","latitude":45.62305,"longitude":-106.6667}}(window,'GeoPostal','US');

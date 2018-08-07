@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01990"]={"code":"01990","region":"Brandenburg","city":"Grosskmehlen","latitude":51.37901,"longitude":13.72501}}(window,'GeoPostal','DE');

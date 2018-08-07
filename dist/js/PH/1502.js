@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1502"]={"code":"1502","region":"National Capital Region","city":"Pasig","latitude":14.58699,"longitude":121.06496}}(window,'GeoPostal','PH');

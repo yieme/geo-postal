@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86032"]={"code":"86032","region":"Molise","city":"Montecilfone","latitude":41.90254,"longitude":14.83643}}(window,'GeoPostal','IT');

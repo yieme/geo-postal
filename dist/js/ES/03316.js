@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03316"]={"code":"03316","region":"Valenciana, Comunidad","city":"Benferri","latitude":38.14129,"longitude":-0.96212}}(window,'GeoPostal','ES');

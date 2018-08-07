@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94496"]={"code":"94496","region":"Bayern","city":"Ortenburg","latitude":48.54597,"longitude":13.2225}}(window,'GeoPostal','DE');

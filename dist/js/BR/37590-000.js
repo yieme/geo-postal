@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37590-000"]={"code":"37590-000","region":"Minas Gerais","city":"Jacutinga","latitude":-22.28556,"longitude":-46.61222}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95914"]={"code":"95914","region":"CA","city":"Bangor","latitude":39.3885,"longitude":-121.4052}}(window,'GeoPostal','US');

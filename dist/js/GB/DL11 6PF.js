@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 6PF"]={"code":"DL11 6PF","region":"England","city":"Feetham","latitude":54.37876,"longitude":-2.02354}}(window,'GeoPostal','GB');

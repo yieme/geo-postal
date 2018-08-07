@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87730"]={"code":"87730","region":"NM","city":"Mills","latitude":36.1281,"longitude":-104.2277}}(window,'GeoPostal','US');

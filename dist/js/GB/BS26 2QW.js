@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS26 2QW"]={"code":"BS26 2QW","region":"England","city":"Badgworth","latitude":51.26672,"longitude":-2.86783}}(window,'GeoPostal','GB');

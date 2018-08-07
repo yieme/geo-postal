@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67850"]={"code":"67850","region":"Kansas","city":"Healy","latitude":38.481649,"longitude":-100.613078}}(window,'GeoPostal','US');

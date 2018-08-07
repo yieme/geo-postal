@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65589"]={"code":"65589","region":"MO","city":"Yukon","latitude":37.2311,"longitude":-91.8244}}(window,'GeoPostal','US');

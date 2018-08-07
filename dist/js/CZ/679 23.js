@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679 23"]={"code":"679 23","region":"Karlovarsky kraj","city":"Lomnice","latitude":50.21174,"longitude":12.63267}}(window,'GeoPostal','CZ');

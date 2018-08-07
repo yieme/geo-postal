@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G7A 2R8"]={"code":"G7A 2R8","region":"Quebec","city":"Sainte-Foy","latitude":46.741109,"longitude":-71.279071}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13835-000"]={"code":"13835-000","region":"Sao Paulo","city":"Conchal","latitude":-22.33028,"longitude":-47.1725}}(window,'GeoPostal','BR');

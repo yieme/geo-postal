@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV16 9UX"]={"code":"IV16 9UX","region":"Scotland","city":"Ardullie","latitude":57.63666,"longitude":-4.36576}}(window,'GeoPostal','GB');

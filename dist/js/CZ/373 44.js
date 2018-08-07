@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373 44"]={"code":"373 44","region":"Jihocesky kraj","city":"Zliv","latitude":49.06608,"longitude":14.36613}}(window,'GeoPostal','CZ');

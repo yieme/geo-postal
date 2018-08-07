@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32149"]={"code":"32149","region":"FL","city":"Edgar","latitude":29.6242,"longitude":-81.8926}}(window,'GeoPostal','US');

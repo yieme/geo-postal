@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22469"]={"code":"22469","region":"Aragon","city":"Sahun","latitude":42.5759,"longitude":0.46546}}(window,'GeoPostal','ES');

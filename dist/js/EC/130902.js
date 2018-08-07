@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130902"]={"code":"130902","region":"Manabi","city":"Montecristi","latitude":-1.05,"longitude":-80.66667}}(window,'GeoPostal','EC');

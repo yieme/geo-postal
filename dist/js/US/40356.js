@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40356"]={"code":"40356","region":"Kentucky","city":"Nicholasville","latitude":37.884088,"longitude":-84.565792}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39750"]={"code":"39750","region":"MS","city":"Maben","latitude":33.5686,"longitude":-89.0605}}(window,'GeoPostal','US');

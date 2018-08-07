@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301260"]={"code":"301260","region":"Tul'skaya oblast'","city":"Borodinskiy","latitude":53.99859,"longitude":37.81792}}(window,'GeoPostal','RU');

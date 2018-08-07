@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369154"]={"code":"369154","region":"Karachayevo-Cherkesskaya Respublika","city":"Kardonikskaya","latitude":43.86577,"longitude":41.71432}}(window,'GeoPostal','RU');

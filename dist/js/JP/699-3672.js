@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["699-3672"]={"code":"699-3672","region":"Shimane","city":"Masuda","latitude":34.667,"longitude":131.85}}(window,'GeoPostal','JP');

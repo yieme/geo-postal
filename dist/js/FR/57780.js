@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57780"]={"code":"57780","region":"Grand-Est","city":"Rosselange","latitude":49.25821,"longitude":6.06975}}(window,'GeoPostal','FR');

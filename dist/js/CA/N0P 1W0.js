@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 1W0"]={"code":"N0P 1W0","region":"Ontario","city":"Merlin","latitude":42.23339,"longitude":-82.23309}}(window,'GeoPostal','CA');

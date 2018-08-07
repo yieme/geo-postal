@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22015"]={"code":"22015","region":"Virginia","city":"Burke","latitude":38.78598,"longitude":-77.28576}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607150"]={"code":"607150","region":"Nizhegorodskaya oblast'","city":"Mukhtolovo","latitude":55.46444,"longitude":43.19528}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29223"]={"code":"29223","region":"Niedersachsen","city":"Vorwerk","latitude":52.6519,"longitude":10.1023}}(window,'GeoPostal','DE');

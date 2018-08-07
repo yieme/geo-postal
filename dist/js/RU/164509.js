@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164509"]={"code":"164509","region":"Arkhangel'skaya oblast'","city":"Severodvinsk","latitude":64.5635,"longitude":39.8302}}(window,'GeoPostal','RU');

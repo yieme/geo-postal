@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44149"]={"code":"44149","region":"Ohio","city":"Strongsville","latitude":41.3061,"longitude":-81.8563}}(window,'GeoPostal','US');

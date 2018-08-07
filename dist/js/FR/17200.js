@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17200"]={"code":"17200","region":"Nouvelle-Aquitaine","city":"Saint-Sulpice-de-Royan","latitude":45.67035,"longitude":-1.01252}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62690"]={"code":"62690","region":"Hauts-de-France","city":"Aubigny-en-Artois","latitude":50.35,"longitude":2.58333}}(window,'GeoPostal','FR');

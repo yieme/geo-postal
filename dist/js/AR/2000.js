@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2000"]={"code":"2000","region":"Santa Fe","city":"Rosario","latitude":-32.94682,"longitude":-60.63932}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143025"]={"code":"143025","region":"Moskovskaya oblast'","city":"Marfino","latitude":55.70267,"longitude":37.38322}}(window,'GeoPostal','RU');

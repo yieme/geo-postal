@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5174"]={"code":"5174","region":"South Australia","city":"Sellicks Beach","latitude":-35.33869,"longitude":138.44734}}(window,'GeoPostal','AU');

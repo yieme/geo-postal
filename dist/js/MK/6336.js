@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6336"]={"code":"6336","region":"Struga","city":"Labunishta","latitude":41.26861,"longitude":20.59611}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66011"]={"code":"66011","region":"Abruzzo","city":"Bucchianico","latitude":42.30484,"longitude":14.18101}}(window,'GeoPostal','IT');

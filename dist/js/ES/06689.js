@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06689"]={"code":"06689","region":"Extremadura","city":"Valdecaballeros","latitude":39.24289,"longitude":-5.19}}(window,'GeoPostal','ES');

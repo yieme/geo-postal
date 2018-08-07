@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1V0"]={"code":"K0E 1V0","region":"Ontario","city":"Rockport","latitude":44.36681,"longitude":-75.93266}}(window,'GeoPostal','CA');

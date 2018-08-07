@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658760"]={"code":"658760","region":"Altayskiy kray","city":"Pankrushikha","latitude":53.83194,"longitude":80.34056}}(window,'GeoPostal','RU');

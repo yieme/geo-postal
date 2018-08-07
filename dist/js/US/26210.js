@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26210"]={"code":"26210","region":"WV","city":"Adrian","latitude":38.8993,"longitude":-80.2269}}(window,'GeoPostal','US');

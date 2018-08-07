@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361710"]={"code":"361710","region":"Kabardino-Balkarskaya Respublika","city":"Malka","latitude":43.80389,"longitude":43.32417}}(window,'GeoPostal','RU');

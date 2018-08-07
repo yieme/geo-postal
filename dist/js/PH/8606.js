@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8606"]={"code":"8606","region":"Agusan del Norte","city":"Cabadbaran","latitude":9.12361,"longitude":125.53444}}(window,'GeoPostal','PH');

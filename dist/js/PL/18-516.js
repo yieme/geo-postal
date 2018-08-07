@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-516"]={"code":"18-516","region":"Podlaskie","city":"Maly Plock","latitude":53.30385,"longitude":22.02836}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92313"]={"code":"92313","region":"California","city":"Colton","latitude":34.0739,"longitude":-117.31365}}(window,'GeoPostal','US');

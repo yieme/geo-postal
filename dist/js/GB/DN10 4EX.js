@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 4EX"]={"code":"DN10 4EX","region":"England","city":"West Stockwith","latitude":53.443,"longitude":-0.81361}}(window,'GeoPostal','GB');

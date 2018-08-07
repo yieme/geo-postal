@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 6TT"]={"code":"SY22 6TT","region":"Wales","city":"Arddleen","latitude":52.73333,"longitude":-3.1}}(window,'GeoPostal','GB');

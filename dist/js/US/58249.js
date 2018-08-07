@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58249"]={"code":"58249","region":"North Dakota","city":"Langdon","latitude":48.76,"longitude":-98.36817}}(window,'GeoPostal','US');

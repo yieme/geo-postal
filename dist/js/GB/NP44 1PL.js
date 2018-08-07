@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP44 1PL"]={"code":"NP44 1PL","region":"England","city":"Brighton","latitude":50.82838,"longitude":-0.13947}}(window,'GeoPostal','GB');

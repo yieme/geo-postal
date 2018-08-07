@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84210"]={"code":"84210","region":"Provence-Alpes-Cote d'Azur","city":"Venasque","latitude":43.99214,"longitude":5.14895}}(window,'GeoPostal','FR');

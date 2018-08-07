@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93035"]={"code":"93035","region":"California","city":"Oxnard","latitude":34.179885,"longitude":-119.217886}}(window,'GeoPostal','US');

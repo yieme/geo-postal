@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70461"]={"code":"70461","region":"LA","city":"Slidell","latitude":30.2726,"longitude":-89.729}}(window,'GeoPostal','US');

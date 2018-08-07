@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52301"]={"code":"52301","region":"Grand-Est","city":"Joinville","latitude":48.44363,"longitude":5.14144}}(window,'GeoPostal','FR');

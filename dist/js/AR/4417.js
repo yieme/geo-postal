@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4417"]={"code":"4417","region":"Salta","city":"Cachi","latitude":-25.12033,"longitude":-66.16519}}(window,'GeoPostal','AR');

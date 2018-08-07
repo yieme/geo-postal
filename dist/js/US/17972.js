@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17972"]={"code":"17972","region":"Pennsylvania","city":"Schuylkill Haven","latitude":40.63272,"longitude":-76.15512}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50276"]={"code":"50276","region":"Iowa","city":"Woodward","latitude":41.85508,"longitude":-93.922137}}(window,'GeoPostal','US');

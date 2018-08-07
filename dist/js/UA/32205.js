@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32205"]={"code":"32205","region":"Khmelnytska oblast","city":"Derazhnya","latitude":49.2692,"longitude":27.43382}}(window,'GeoPostal','UA');

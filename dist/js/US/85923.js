@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85923"]={"code":"85923","region":"Arizona","city":"Clay Springs","latitude":34.36167,"longitude":-110.29528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94630"]={"code":"94630","region":"Veracruz de Ignacio de la Llave","city":"Ursulo Galvan","latitude":19.4,"longitude":-96.35}}(window,'GeoPostal','MX');

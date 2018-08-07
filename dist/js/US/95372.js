@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95372"]={"code":"95372","region":"California","city":"Mono Vista","latitude":37.9977,"longitude":-120.26991}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 3PP"]={"code":"SA62 3PP","region":"Wales","city":"Johnston","latitude":51.75556,"longitude":-4.99667}}(window,'GeoPostal','GB');

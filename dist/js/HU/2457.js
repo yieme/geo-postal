@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2457"]={"code":"2457","region":"Fejer","city":"Adony","latitude":47.1194,"longitude":18.86493}}(window,'GeoPostal','HU');

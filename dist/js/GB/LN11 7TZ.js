@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 7TZ"]={"code":"LN11 7TZ","region":"England","city":"Saltfleetby Saint Peter","latitude":53.36667,"longitude":0.15}}(window,'GeoPostal','GB');

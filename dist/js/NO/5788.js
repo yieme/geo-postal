@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5788"]={"code":"5788","region":"Hordaland","city":"Kinsarvik","latitude":60.37568,"longitude":6.72247}}(window,'GeoPostal','NO');

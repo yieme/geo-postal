@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47167"]={"code":"47167","region":"Indiana","city":"Salem","latitude":38.6046,"longitude":-86.0995}}(window,'GeoPostal','US');

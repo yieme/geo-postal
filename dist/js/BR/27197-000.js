@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27197-000"]={"code":"27197-000","region":"Rio de Janeiro","city":"Pinheiral","latitude":-22.51278,"longitude":-44.00056}}(window,'GeoPostal','BR');

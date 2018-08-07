@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45378"]={"code":"45378","region":"OH","city":"Verona","latitude":39.9029,"longitude":-84.4887}}(window,'GeoPostal','US');

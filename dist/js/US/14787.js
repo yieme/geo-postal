@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14787"]={"code":"14787","region":"NY","city":"Westfield","latitude":42.322,"longitude":-79.5726}}(window,'GeoPostal','US');

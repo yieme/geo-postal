@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63091"]={"code":"63091","region":"Missouri","city":"Rosebud","latitude":38.38667,"longitude":-91.40194}}(window,'GeoPostal','US');

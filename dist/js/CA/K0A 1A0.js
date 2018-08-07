@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0A 1A0"]={"code":"K0A 1A0","region":"Ontario","city":"Almonte","latitude":45.22993,"longitude":-76.19585}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49419"]={"code":"49419","region":"MI","city":"Hamilton","latitude":42.6881,"longitude":-85.9747}}(window,'GeoPostal','US');

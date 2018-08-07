@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72001"]={"code":"72001","region":"AR","city":"Adona","latitude":35.047,"longitude":-92.9033}}(window,'GeoPostal','US');

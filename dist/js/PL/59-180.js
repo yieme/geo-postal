@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-180"]={"code":"59-180","region":"Dolnoslaskie","city":"Gaworzyce","latitude":51.62773,"longitude":15.88198}}(window,'GeoPostal','PL');

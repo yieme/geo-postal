@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9107"]={"code":"9107","region":"Appenzell Ausserrhoden","city":"Urnasch","latitude":47.31669,"longitude":9.2825}}(window,'GeoPostal','CH');

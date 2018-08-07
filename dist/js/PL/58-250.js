@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-250"]={"code":"58-250","region":"Dolnoslaskie","city":"Pieszyce","latitude":50.71287,"longitude":16.58232}}(window,'GeoPostal','PL');

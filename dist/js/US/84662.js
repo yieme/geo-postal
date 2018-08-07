@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84662"]={"code":"84662","region":"UT","city":"Spring City","latitude":39.4671,"longitude":-111.4661}}(window,'GeoPostal','US');

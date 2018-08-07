@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36016"]={"code":"36016","region":"Alabama","city":"Clayton","latitude":31.87822,"longitude":-85.44966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50452"]={"code":"50452","region":"Iowa","city":"Latimer","latitude":42.76278,"longitude":-93.36889}}(window,'GeoPostal','US');

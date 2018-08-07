@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22715"]={"code":"22715","region":"VA","city":"Brightwood","latitude":38.4114,"longitude":-78.1698}}(window,'GeoPostal','US');

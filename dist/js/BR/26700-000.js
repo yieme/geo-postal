@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26700-000"]={"code":"26700-000","region":"Rio de Janeiro","city":"Mendes","latitude":-22.52667,"longitude":-43.73278}}(window,'GeoPostal','BR');

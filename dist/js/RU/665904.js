@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665904"]={"code":"665904","region":"Kaliningradskaya oblast'","city":"Pionerskiy","latitude":54.95083,"longitude":20.22748}}(window,'GeoPostal','RU');

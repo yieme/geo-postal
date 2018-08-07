@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B91 2HW"]={"code":"B91 2HW","region":"England","city":"Lode","latitude":52.24122,"longitude":0.24438}}(window,'GeoPostal','GB');

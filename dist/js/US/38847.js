@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38847"]={"code":"38847","region":"Mississippi","city":"Golden","latitude":34.48722,"longitude":-88.1875}}(window,'GeoPostal','US');

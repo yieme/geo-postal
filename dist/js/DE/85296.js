@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85296"]={"code":"85296","region":"Saarland","city":"Rohrbach","latitude":49.28282,"longitude":7.16506}}(window,'GeoPostal','DE');

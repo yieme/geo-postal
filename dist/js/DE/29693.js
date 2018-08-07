@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29693"]={"code":"29693","region":"Niedersachsen","city":"Eilte","latitude":52.76081,"longitude":9.49648}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23022"]={"code":"23022","region":"VA","city":"Bremo Bluff","latitude":37.7453,"longitude":-78.2672}}(window,'GeoPostal','US');

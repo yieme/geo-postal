@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21902"]={"code":"21902","region":"MD","city":"Perry Point","latitude":39.553,"longitude":-76.0725}}(window,'GeoPostal','US');

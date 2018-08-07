@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92585"]={"code":"92585","region":"California","city":"Romoland","latitude":33.74364,"longitude":-117.17166}}(window,'GeoPostal','US');

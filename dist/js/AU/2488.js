@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2488"]={"code":"2488","region":"New South Wales","city":"Casuarina","latitude":-28.30042,"longitude":153.57064}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12701"]={"code":"12701","region":"NY","city":"Monticello","latitude":41.6516,"longitude":-74.7007}}(window,'GeoPostal','US');

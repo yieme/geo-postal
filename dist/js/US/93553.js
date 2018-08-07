@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93553"]={"code":"93553","region":"California","city":"Pearblossom","latitude":34.470966,"longitude":-117.896598}}(window,'GeoPostal','US');

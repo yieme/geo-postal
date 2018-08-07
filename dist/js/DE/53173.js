@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53173"]={"code":"53173","region":"Nordrhein-Westfalen","city":"Bad Godesberg","latitude":50.68457,"longitude":7.15393}}(window,'GeoPostal','DE');

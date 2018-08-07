@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80260"]={"code":"80260","region":"Nakhon Si Thammarat","city":"Phipun","latitude":8.56036,"longitude":99.60703}}(window,'GeoPostal','TH');

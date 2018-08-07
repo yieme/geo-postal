@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10000"]={"code":"10000","region":"Huanuco","city":"Huanuco","latitude":-9.9329,"longitude":-76.24153}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18190"]={"code":"18190","region":"Saraburi","city":"Saraburi","latitude":14.53333,"longitude":100.91667}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98860"]={"code":"98860","region":"WA","city":"Wilson Creek","latitude":47.4739,"longitude":-119.1847}}(window,'GeoPostal','US');

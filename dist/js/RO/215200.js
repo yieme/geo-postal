@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215200"]={"code":"215200","region":"Gorj","city":"Motru","latitude":44.80333,"longitude":22.97194}}(window,'GeoPostal','RO');

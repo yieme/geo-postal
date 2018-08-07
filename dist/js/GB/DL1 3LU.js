@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL1 3LU"]={"code":"DL1 3LU","region":"England","city":"Coatham Mundeville","latitude":54.58002,"longitude":-1.55645}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263132"]={"code":"263132","region":"Uttarakhand","city":"Bhim Tal","latitude":29.35,"longitude":79.56667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94560"]={"code":"94560","region":"California","city":"Newark","latitude":37.538034,"longitude":-122.03053}}(window,'GeoPostal','US');

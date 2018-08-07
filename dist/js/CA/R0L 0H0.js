@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 0H0"]={"code":"R0L 0H0","region":"Manitoba","city":"Bowsman","latitude":52.23581,"longitude":-101.20808}}(window,'GeoPostal','CA');

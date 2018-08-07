@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21601"]={"code":"21601","region":"Maryland","city":"Easton","latitude":38.774074,"longitude":-76.067676}}(window,'GeoPostal','US');

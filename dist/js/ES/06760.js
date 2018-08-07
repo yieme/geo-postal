@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06760"]={"code":"06760","region":"Extremadura","city":"Badajoz","latitude":38.87789,"longitude":-6.97061}}(window,'GeoPostal','ES');

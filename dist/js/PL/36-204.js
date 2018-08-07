@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-204"]={"code":"36-204","region":"Podkarpackie","city":"Dydnia","latitude":49.6864,"longitude":22.17196}}(window,'GeoPostal','PL');

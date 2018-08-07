@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL20 7LD"]={"code":"LL20 7LD","region":"Wales","city":"Llanarmon Dyffryn-Ceiriog","latitude":52.88686,"longitude":-3.25333}}(window,'GeoPostal','GB');

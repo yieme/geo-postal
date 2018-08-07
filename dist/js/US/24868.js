@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24868"]={"code":"24868","region":"West Virginia","city":"Northfork","latitude":37.380467,"longitude":-81.409103}}(window,'GeoPostal','US');

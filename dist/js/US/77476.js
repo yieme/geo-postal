@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77476"]={"code":"77476","region":"Texas","city":"Simonton","latitude":29.683333,"longitude":-95.966667}}(window,'GeoPostal','US');

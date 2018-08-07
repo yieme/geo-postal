@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68869"]={"code":"68869","region":"NE","city":"Ravenna","latitude":41.0233,"longitude":-98.9041}}(window,'GeoPostal','US');

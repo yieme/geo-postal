@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612140"]={"code":"612140","region":"Kirovskaya oblast'","city":"Darovskoy","latitude":58.76999,"longitude":47.95642}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 7BB"]={"code":"SA48 7BB","region":"Wales","city":"Lampeter","latitude":52.11285,"longitude":-4.08039}}(window,'GeoPostal','GB');

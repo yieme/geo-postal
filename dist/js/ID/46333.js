@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46333"]={"code":"46333","region":"Jawa Barat","city":"Cibeureum","latitude":-7.3707,"longitude":108.5087}}(window,'GeoPostal','ID');

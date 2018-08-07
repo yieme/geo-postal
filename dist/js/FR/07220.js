@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07220"]={"code":"07220","region":"Auvergne-Rhone-Alpes","city":"Viviers","latitude":44.48515,"longitude":4.68721}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06406"]={"code":"06406","region":"Sachsen-Anhalt","city":"Bernburg","latitude":51.79464,"longitude":11.7401}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97388"]={"code":"97388","region":"Oregon","city":"Gleneden Beach","latitude":44.88111,"longitude":-124.03417}}(window,'GeoPostal','US');

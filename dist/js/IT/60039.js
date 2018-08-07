@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60039"]={"code":"60039","region":"Marche","city":"Staffolo","latitude":43.43326,"longitude":13.18487}}(window,'GeoPostal','IT');

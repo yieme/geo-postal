@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85600"]={"code":"85600","region":"Pays-de-la-Loire","city":"Bouffere","latitude":46.96179,"longitude":-1.33965}}(window,'GeoPostal','FR');

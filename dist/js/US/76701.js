@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76701"]={"code":"76701","region":"Texas","city":"Waco","latitude":31.54933,"longitude":-97.14667}}(window,'GeoPostal','US');

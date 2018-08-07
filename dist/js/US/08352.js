@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08352"]={"code":"08352","region":"NJ","city":"Rosenhayn","latitude":39.4782,"longitude":-75.1313}}(window,'GeoPostal','US');

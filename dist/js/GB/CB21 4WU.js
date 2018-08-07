@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB21 4WU"]={"code":"CB21 4WU","region":"England","city":"Horseheath","latitude":52.09976,"longitude":0.35225}}(window,'GeoPostal','GB');

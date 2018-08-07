@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5900"]={"code":"5900","region":"Mpumalanga","city":"Middelburg","latitude":-25.77507,"longitude":29.46482}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00767"]={"code":"00767","region":"PR","city":"Yabucoa","latitude":18.04,"longitude":-65.87}}(window,'GeoPostal','US');

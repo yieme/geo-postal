@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470-3412"]={"code":"470-3412","region":"Aichi","city":"Toyohama","latitude":34.7,"longitude":136.93333}}(window,'GeoPostal','JP');

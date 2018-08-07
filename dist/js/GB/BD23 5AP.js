@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 5AP"]={"code":"BD23 5AP","region":"England","city":"Grassington","latitude":54.0714,"longitude":-1.99822}}(window,'GeoPostal','GB');

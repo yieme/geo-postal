@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12812"]={"code":"12812","region":"New York","city":"Blue Mountain Lake","latitude":43.8525,"longitude":-74.47111}}(window,'GeoPostal','US');

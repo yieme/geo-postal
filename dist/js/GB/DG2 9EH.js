@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 9EH"]={"code":"DG2 9EH","region":"Scotland","city":"Maxwelltown","latitude":55.06667,"longitude":-3.63333}}(window,'GeoPostal','GB');

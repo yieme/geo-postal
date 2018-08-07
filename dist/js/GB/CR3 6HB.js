@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR3 6HB"]={"code":"CR3 6HB","region":"England","city":"Caterham","latitude":51.2823,"longitude":-0.07889}}(window,'GeoPostal','GB');

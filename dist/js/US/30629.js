@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30629"]={"code":"30629","region":"GA","city":"Comer","latitude":34.0888,"longitude":-83.122}}(window,'GeoPostal','US');

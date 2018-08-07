@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811300"]={"code":"811300","region":"Qinghai","city":"Huangnan","latitude":35.5267,"longitude":102.014}}(window,'GeoPostal','CN');

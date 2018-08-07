@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75032"]={"code":"75032","region":"Texas","city":"Rockwall","latitude":32.93123,"longitude":-96.45971}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2Y0"]={"code":"J0K 2Y0","region":"Quebec","city":"Sainte-Marcelline-de-Kildare","latitude":46.11677,"longitude":-73.59917}}(window,'GeoPostal','CA');

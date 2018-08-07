@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47356"]={"code":"47356","region":"Indiana","city":"Middletown","latitude":40.057465,"longitude":-85.540074}}(window,'GeoPostal','US');

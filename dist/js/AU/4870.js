@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4870"]={"code":"4870","region":"Queensland","city":"Cairns","latitude":-16.92304,"longitude":145.76625}}(window,'GeoPostal','AU');

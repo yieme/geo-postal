@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-050"]={"code":"83-050","region":"Pomorskie","city":"Lublewo Gdanskie","latitude":54.28457,"longitude":18.50389}}(window,'GeoPostal','PL');

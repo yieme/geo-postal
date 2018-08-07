@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72016"]={"code":"72016","region":"AR","city":"Bigelow","latitude":34.9847,"longitude":-92.6308}}(window,'GeoPostal','US');

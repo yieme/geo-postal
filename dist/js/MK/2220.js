@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2220"]={"code":"2220","region":"Sveti Nikole","city":"Sveti Nikole","latitude":41.86956,"longitude":21.95274}}(window,'GeoPostal','MK');

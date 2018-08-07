@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49626"]={"code":"49626","region":"Michigan","city":"Eastlake","latitude":44.245262,"longitude":-86.294889}}(window,'GeoPostal','US');

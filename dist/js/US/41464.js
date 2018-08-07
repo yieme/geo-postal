@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41464"]={"code":"41464","region":"Kentucky","city":"Royalton","latitude":37.6625,"longitude":-82.963889}}(window,'GeoPostal','US');

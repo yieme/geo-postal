@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47420"]={"code":"47420","region":"Castilla y Leon","city":"Iscar","latitude":41.36117,"longitude":-4.53348}}(window,'GeoPostal','ES');

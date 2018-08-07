@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17860"]={"code":"17860","region":"Canakkale","city":"Ezine","latitude":39.78561,"longitude":26.34083}}(window,'GeoPostal','TR');

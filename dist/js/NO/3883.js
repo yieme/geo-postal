@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3883"]={"code":"3883","region":"Telemark","city":"Treungen","latitude":59.02154,"longitude":8.52375}}(window,'GeoPostal','NO');

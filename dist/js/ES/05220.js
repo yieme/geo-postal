@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05220"]={"code":"05220","region":"Castilla y Leon","city":"Madrigal de las Altas Torres","latitude":41.08968,"longitude":-4.99863}}(window,'GeoPostal','ES');

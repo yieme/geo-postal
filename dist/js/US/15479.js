@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15479"]={"code":"15479","region":"PA","city":"Smithton","latitude":40.1553,"longitude":-79.7381}}(window,'GeoPostal','US');

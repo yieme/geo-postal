@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57016"]={"code":"57016","region":"South Dakota","city":"Chester","latitude":43.891658,"longitude":-97.008566}}(window,'GeoPostal','US');

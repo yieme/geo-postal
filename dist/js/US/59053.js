@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59053"]={"code":"59053","region":"MT","city":"Martinsdale","latitude":46.4581,"longitude":-110.4324}}(window,'GeoPostal','US');

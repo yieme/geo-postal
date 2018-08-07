@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0M0"]={"code":"R0M 0M0","region":"Manitoba","city":"Deloraine","latitude":49.19082,"longitude":-100.49477}}(window,'GeoPostal','CA');

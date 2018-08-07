@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50242"]={"code":"50242","region":"IA","city":"Searsboro","latitude":41.5656,"longitude":-92.6987}}(window,'GeoPostal','US');

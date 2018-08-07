@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30608"]={"code":"30608","region":"GA","city":"Athens","latitude":33.9443,"longitude":-83.3891}}(window,'GeoPostal','US');

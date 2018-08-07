@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30000"]={"code":"30000","region":"Lavalleja","city":"Minas","latitude":-34.37,"longitude":-55.225}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39666"]={"code":"39666","region":"Mississippi","city":"Summit","latitude":31.28379,"longitude":-90.46843}}(window,'GeoPostal','US');

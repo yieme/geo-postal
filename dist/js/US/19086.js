@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19086"]={"code":"19086","region":"Pennsylvania","city":"Wallingford","latitude":39.890833,"longitude":-75.363056}}(window,'GeoPostal','US');

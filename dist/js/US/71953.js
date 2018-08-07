@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71953"]={"code":"71953","region":"Arkansas","city":"Mena","latitude":34.58622,"longitude":-94.23966}}(window,'GeoPostal','US');

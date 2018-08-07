@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["605401"]={"code":"605401","region":"Bacau","city":"Moinesti","latitude":46.46667,"longitude":26.48333}}(window,'GeoPostal','RO');

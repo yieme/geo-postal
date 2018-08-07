@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47960-000"]={"code":"47960-000","region":"Bahia","city":"Barreiras","latitude":-12.15278,"longitude":-44.99}}(window,'GeoPostal','BR');

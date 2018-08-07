@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39656"]={"code":"39656","region":"MS","city":"Oak Vale","latitude":31.442,"longitude":-89.9827}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63700-000"]={"code":"63700-000","region":"Ceara","city":"Crateus","latitude":-5.17833,"longitude":-40.6775}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30870"]={"code":"30870","region":"Murcia, Region de","city":"Mazarron","latitude":37.5992,"longitude":-1.31493}}(window,'GeoPostal','ES');

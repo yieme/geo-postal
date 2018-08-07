@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 22"]={"code":"517 22","region":"Kralovehradecky kraj","city":"Tyniste nad Orlici","latitude":50.15136,"longitude":16.0777}}(window,'GeoPostal','CZ');

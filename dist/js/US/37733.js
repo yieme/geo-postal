@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37733"]={"code":"37733","region":"Tennessee","city":"Rugby","latitude":36.360278,"longitude":-84.700833}}(window,'GeoPostal','US');

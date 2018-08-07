@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71305"]={"code":"71305","region":"Federacija Bosne i Hercegovine","city":"Dobrinje","latitude":44.04972,"longitude":18.11944}}(window,'GeoPostal','BA');

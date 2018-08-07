@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8JH"]={"code":"LN11 8JH","region":"England","city":"South Reston","latitude":53.32746,"longitude":0.10472}}(window,'GeoPostal','GB');

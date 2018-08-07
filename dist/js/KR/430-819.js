@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430-819"]={"code":"430-819","region":"Gyeonggi-do","city":"Anyang","latitude":37.3925,"longitude":126.92694}}(window,'GeoPostal','KR');

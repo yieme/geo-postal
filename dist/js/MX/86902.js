@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86902"]={"code":"86902","region":"Tabasco","city":"Macuspana","latitude":17.76667,"longitude":-92.6}}(window,'GeoPostal','MX');

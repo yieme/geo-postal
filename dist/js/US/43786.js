@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43786"]={"code":"43786","region":"OH","city":"Stafford","latitude":39.7112,"longitude":-81.2758}}(window,'GeoPostal','US');

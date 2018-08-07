@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87512"]={"code":"87512","region":"New Mexico","city":"Amalia","latitude":36.802501,"longitude":-105.584879}}(window,'GeoPostal','US');

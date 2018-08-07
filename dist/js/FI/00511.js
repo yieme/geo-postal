@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00511"]={"code":"00511","region":"Uusimaa","city":"Hyvinkaa","latitude":60.63195,"longitude":24.8606}}(window,'GeoPostal','FI');

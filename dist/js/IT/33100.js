@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33100"]={"code":"33100","region":"Friuli-Venezia Giulia","city":"Udine","latitude":46.06194,"longitude":13.24222}}(window,'GeoPostal','IT');

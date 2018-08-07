@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37574"]={"code":"37574","region":"Niedersachsen","city":"Einbeck","latitude":51.82018,"longitude":9.86961}}(window,'GeoPostal','DE');

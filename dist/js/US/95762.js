@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95762"]={"code":"95762","region":"California","city":"El Dorado Hills","latitude":38.715279,"longitude":-121.078888}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71837"]={"code":"71837","region":"AR","city":"Fouke","latitude":33.3025,"longitude":-93.901}}(window,'GeoPostal','US');

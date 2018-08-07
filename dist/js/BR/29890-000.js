@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29890-000"]={"code":"29890-000","region":"Espirito Santo","city":"Montanha","latitude":-18.12694,"longitude":-40.36333}}(window,'GeoPostal','BR');

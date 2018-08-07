@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8S 0A1"]={"code":"T8S 0A1","region":"Alberta","city":"Peace River","latitude":56.2501,"longitude":-117.28599}}(window,'GeoPostal','CA');

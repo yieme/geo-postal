@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1011"]={"code":"1011","region":"Cucer Sandevo","city":"Chucher - Sandevo","latitude":42.10361,"longitude":21.38222}}(window,'GeoPostal','MK');

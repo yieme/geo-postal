@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618460"]={"code":"618460","region":"Permskiy kray","city":"Usol'ye","latitude":59.42675,"longitude":56.68081}}(window,'GeoPostal','RU');

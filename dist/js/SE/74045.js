@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74045"]={"code":"74045","region":"Uppsala lan","city":"Tarnsjo","latitude":60.15,"longitude":16.93333}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70787"]={"code":"70787","region":"LA","city":"Weyanoke","latitude":30.9468,"longitude":-91.4612}}(window,'GeoPostal','US');

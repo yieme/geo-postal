@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47300"]={"code":"47300","region":"Mardin","city":"Nusaybin","latitude":37.0778,"longitude":41.2178}}(window,'GeoPostal','TR');

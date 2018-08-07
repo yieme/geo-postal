@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28445"]={"code":"28445","region":"North Carolina","city":"Holly Ridge","latitude":34.49544,"longitude":-77.55497}}(window,'GeoPostal','US');

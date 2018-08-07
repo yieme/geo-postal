@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02357"]={"code":"02357","region":"Massachusetts","city":"North Easton","latitude":42.05863,"longitude":-71.07851}}(window,'GeoPostal','US');

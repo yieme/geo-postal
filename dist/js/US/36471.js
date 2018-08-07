@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36471"]={"code":"36471","region":"Alabama","city":"Peterman","latitude":31.60416,"longitude":-87.264541}}(window,'GeoPostal','US');

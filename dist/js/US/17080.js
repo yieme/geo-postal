@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17080"]={"code":"17080","region":"PA","city":"Pillow","latitude":40.6392,"longitude":-76.8029}}(window,'GeoPostal','US');

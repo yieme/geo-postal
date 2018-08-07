@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6T 1L8"]={"code":"J6T 1L8","region":"Quebec","city":"Valleyfield","latitude":45.25528,"longitude":-74.13167}}(window,'GeoPostal','CA');

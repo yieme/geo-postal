@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59029"]={"code":"59029","region":"Montana","city":"Fromberg","latitude":45.39167,"longitude":-108.90861}}(window,'GeoPostal','US');

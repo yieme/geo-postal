@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31760"]={"code":"31760","region":"Pirkanmaa","city":"Urjala","latitude":61.08333,"longitude":23.53333}}(window,'GeoPostal','FI');

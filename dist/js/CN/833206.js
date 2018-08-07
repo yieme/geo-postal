@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833206"]={"code":"833206","region":"Xinjiang","city":"Dushanzi","latitude":44.33333,"longitude":84.85}}(window,'GeoPostal','CN');

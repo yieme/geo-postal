@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47240"]={"code":"47240","region":"Castilla y Leon","city":"Valdestillas","latitude":41.47697,"longitude":-4.77116}}(window,'GeoPostal','ES');

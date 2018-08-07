@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36274"]={"code":"36274","region":"Alabama","city":"Roanoke","latitude":33.15123,"longitude":-85.37217}}(window,'GeoPostal','US');

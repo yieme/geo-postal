@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00662"]={"code":"00662","region":"PR","city":"Isabela","latitude":18.5,"longitude":-67.02}}(window,'GeoPostal','US');

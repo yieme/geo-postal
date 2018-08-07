@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE15 6RU"]={"code":"NE15 6RU","region":"England","city":"Benwell","latitude":54.97296,"longitude":-1.66926}}(window,'GeoPostal','GB');

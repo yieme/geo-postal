@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70123"]={"code":"70123","region":"Puglia","city":"Taranto","latitude":40.47611,"longitude":17.22972}}(window,'GeoPostal','IT');

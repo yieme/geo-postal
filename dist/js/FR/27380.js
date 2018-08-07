@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27380"]={"code":"27380","region":"Normandie","city":"Fleury-sur-Andelle","latitude":49.36176,"longitude":1.35599}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56711"]={"code":"56711","region":"Minnesota","city":"Angle Inlet","latitude":49.3107,"longitude":-95.094}}(window,'GeoPostal','US');

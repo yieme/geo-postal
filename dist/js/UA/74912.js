@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74912"]={"code":"74912","region":"Khersonska oblast","city":"Nova Kakhovka","latitude":46.75451,"longitude":33.34864}}(window,'GeoPostal','UA');

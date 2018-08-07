@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9306"]={"code":"9306","region":"Fier","city":"Roskovec","latitude":40.7375,"longitude":19.70222}}(window,'GeoPostal','AL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85329"]={"code":"85329","region":"AZ","city":"Cashion","latitude":33.4353,"longitude":-112.2979}}(window,'GeoPostal','US');

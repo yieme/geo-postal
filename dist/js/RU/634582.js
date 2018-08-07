@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["634582"]={"code":"634582","region":"Tomskaya oblast'","city":"Aleksandrovskoye","latitude":56.74083,"longitude":85.39056}}(window,'GeoPostal','RU');

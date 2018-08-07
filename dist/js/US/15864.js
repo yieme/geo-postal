@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15864"]={"code":"15864","region":"Pennsylvania","city":"Summerville","latitude":41.092048,"longitude":-79.169567}}(window,'GeoPostal','US');

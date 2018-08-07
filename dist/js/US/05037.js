@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05037"]={"code":"05037","region":"VT","city":"Brownsville","latitude":43.4646,"longitude":-72.4944}}(window,'GeoPostal','US');

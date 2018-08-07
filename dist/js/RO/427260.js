@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427260"]={"code":"427260","region":"Bistrita-Nasaud","city":"Frunzi","latitude":46.9,"longitude":24.33333}}(window,'GeoPostal','RO');

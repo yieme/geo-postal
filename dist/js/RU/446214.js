@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446214"]={"code":"446214","region":"Samarskaya oblast'","city":"Krasnoarmeyskoye","latitude":52.71815,"longitude":50.03219}}(window,'GeoPostal','RU');

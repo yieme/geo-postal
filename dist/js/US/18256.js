@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18256"]={"code":"18256","region":"PA","city":"Weston","latitude":40.9448,"longitude":-76.1452}}(window,'GeoPostal','US');

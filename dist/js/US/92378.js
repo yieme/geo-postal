@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92378"]={"code":"92378","region":"CA","city":"Rimforest","latitude":34.2297,"longitude":-117.225}}(window,'GeoPostal','US');

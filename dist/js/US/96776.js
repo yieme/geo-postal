@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96776"]={"code":"96776","region":"Hawaii","city":"Paauilo","latitude":19.923,"longitude":-155.43768}}(window,'GeoPostal','US');

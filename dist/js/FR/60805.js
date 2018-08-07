@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60805"]={"code":"60805","region":"Hauts-de-France","city":"Crepy-en-Valois","latitude":49.23359,"longitude":2.88807}}(window,'GeoPostal','FR');

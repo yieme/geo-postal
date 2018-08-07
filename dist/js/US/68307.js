@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68307"]={"code":"68307","region":"NE","city":"Avoca","latitude":40.8159,"longitude":-96.0957}}(window,'GeoPostal','US');

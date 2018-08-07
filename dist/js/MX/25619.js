@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25619"]={"code":"25619","region":"Chiapas","city":"San Cristobal de Las Casas","latitude":16.75,"longitude":-92.63333}}(window,'GeoPostal','MX');

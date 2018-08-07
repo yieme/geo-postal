@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2400"]={"code":"2400","region":"Antwerpen","city":"Mol","latitude":51.19188,"longitude":5.11662}}(window,'GeoPostal','BE');

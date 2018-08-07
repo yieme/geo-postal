@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64820-000"]={"code":"64820-000","region":"Piaui","city":"Itaueira","latitude":-7.60333,"longitude":-43.02556}}(window,'GeoPostal','BR');

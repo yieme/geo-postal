@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50760"]={"code":"50760","region":"Normandie","city":"Reville","latitude":49.61906,"longitude":-1.25868}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06420"]={"code":"06420","region":"CT","city":"Salem","latitude":41.4966,"longitude":-72.2725}}(window,'GeoPostal','US');

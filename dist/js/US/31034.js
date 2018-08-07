@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31034"]={"code":"31034","region":"GA","city":"Hardwick","latitude":33.0227,"longitude":-83.247}}(window,'GeoPostal','US');

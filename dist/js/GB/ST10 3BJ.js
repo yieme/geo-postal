@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 3BJ"]={"code":"ST10 3BJ","region":"England","city":"Alton Towers","latitude":52.99121,"longitude":-1.89241}}(window,'GeoPostal','GB');

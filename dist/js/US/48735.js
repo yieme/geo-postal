@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48735"]={"code":"48735","region":"Michigan","city":"Gagetown","latitude":43.652017,"longitude":-83.274125}}(window,'GeoPostal','US');

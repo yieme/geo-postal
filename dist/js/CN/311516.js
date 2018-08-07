@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311516"]={"code":"311516","region":"Zhejiang","city":"Gaoxiang","latitude":29.92837,"longitude":119.5907}}(window,'GeoPostal','CN');

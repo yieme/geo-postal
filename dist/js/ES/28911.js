@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28911"]={"code":"28911","region":"Madrid, Comunidad de","city":"Leganes","latitude":40.32718,"longitude":-3.7635}}(window,'GeoPostal','ES');

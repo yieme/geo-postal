@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["587141"]={"code":"587141","region":"Karnataka","city":"Guledagudda","latitude":16.05,"longitude":75.8}}(window,'GeoPostal','IN');

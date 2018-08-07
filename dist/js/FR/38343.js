@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38343"]={"code":"38343","region":"Auvergne-Rhone-Alpes","city":"Voreppe","latitude":45.29476,"longitude":5.63324}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23878"]={"code":"23878","region":"VA","city":"Sedley","latitude":36.776,"longitude":-76.9841}}(window,'GeoPostal','US');

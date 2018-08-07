@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60048"]={"code":"60048","region":"Illinois","city":"Libertyville","latitude":42.28308,"longitude":-87.95313}}(window,'GeoPostal','US');

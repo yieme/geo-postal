@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 3DF"]={"code":"SY13 3DF","region":"Wales","city":"Hanmer","latitude":52.95107,"longitude":-2.81289}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6321"]={"code":"6321","region":"La Pampa","city":"Telen","latitude":-36.26429,"longitude":-65.51018}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59075"]={"code":"59075","region":"MT","city":"Saint Xavier","latitude":45.3985,"longitude":-107.8893}}(window,'GeoPostal','US');

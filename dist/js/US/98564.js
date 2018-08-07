@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98564"]={"code":"98564","region":"Washington","city":"Mossyrock","latitude":46.52972,"longitude":-122.48417}}(window,'GeoPostal','US');

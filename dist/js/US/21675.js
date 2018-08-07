@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21675"]={"code":"21675","region":"MD","city":"Wingate","latitude":38.2899,"longitude":-76.0863}}(window,'GeoPostal','US');

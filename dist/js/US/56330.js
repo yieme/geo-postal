@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56330"]={"code":"56330","region":"Minnesota","city":"Foreston","latitude":45.73667,"longitude":-93.70917}}(window,'GeoPostal','US');

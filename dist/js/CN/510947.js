@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510947"]={"code":"510947","region":"Guangdong","city":"Minle","latitude":23.65916,"longitude":113.467}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25851"]={"code":"25851","region":"WV","city":"Harper","latitude":37.8025,"longitude":-81.2828}}(window,'GeoPostal','US');

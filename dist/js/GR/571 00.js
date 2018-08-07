@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571 00"]={"code":"571 00","region":"Kentriki Makedonia","city":"Koufalia","latitude":40.77778,"longitude":22.57194}}(window,'GeoPostal','GR');

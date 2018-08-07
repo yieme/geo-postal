@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81152"]={"code":"81152","region":"Colorado","city":"San Luis","latitude":37.20085,"longitude":-105.4239}}(window,'GeoPostal','US');

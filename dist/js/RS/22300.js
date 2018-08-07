@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22300"]={"code":"22300","region":"Sremski okrug","city":"Stara Pazova","latitude":44.985,"longitude":20.16083}}(window,'GeoPostal','RS');

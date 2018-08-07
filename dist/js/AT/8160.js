@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8160"]={"code":"8160","region":"Steiermark","city":"Weiz","latitude":47.21667,"longitude":15.61667}}(window,'GeoPostal','AT');

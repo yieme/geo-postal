@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8660"]={"code":"8660","region":"West-Vlaanderen","city":"De Panne","latitude":51.09793,"longitude":2.59368}}(window,'GeoPostal','BE');

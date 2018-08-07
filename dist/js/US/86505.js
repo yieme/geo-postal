@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86505"]={"code":"86505","region":"Arizona","city":"Ganado","latitude":35.7114,"longitude":-109.54205}}(window,'GeoPostal','US');

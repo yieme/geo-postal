@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67282"]={"code":"67282","region":"Jawa Timur","city":"Kraksaan","latitude":-7.75845,"longitude":113.39624}}(window,'GeoPostal','ID');

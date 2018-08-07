@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17490"]={"code":"17490","region":"Catalunya","city":"Llanca","latitude":42.36241,"longitude":3.15213}}(window,'GeoPostal','ES');

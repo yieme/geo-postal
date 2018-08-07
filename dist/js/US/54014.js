@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54014"]={"code":"54014","region":"Wisconsin","city":"Hager City","latitude":44.60167,"longitude":-92.53833}}(window,'GeoPostal','US');

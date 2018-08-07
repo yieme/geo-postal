@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8NS"]={"code":"LA12 8NS","region":"England","city":"Newby Bridge","latitude":54.26663,"longitude":-2.96116}}(window,'GeoPostal','GB');

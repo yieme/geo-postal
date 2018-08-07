@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05230"]={"code":"05230","region":"Castilla y Leon","city":"Las Navas del Marques","latitude":40.60244,"longitude":-4.33449}}(window,'GeoPostal','ES');

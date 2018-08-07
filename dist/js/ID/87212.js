@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87212"]={"code":"87212","region":"Nusa Tenggara Timur","city":"Waikabubak","latitude":-9.6475,"longitude":119.3889}}(window,'GeoPostal','ID');

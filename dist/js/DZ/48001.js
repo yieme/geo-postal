@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48001"]={"code":"48001","region":"Relizane","city":"Oued Rhiou","latitude":35.96124,"longitude":0.91896}}(window,'GeoPostal','DZ');

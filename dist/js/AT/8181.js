@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8181"]={"code":"8181","region":"Steiermark","city":"Sankt Ruprecht an der Raab","latitude":47.15336,"longitude":15.66256}}(window,'GeoPostal','AT');

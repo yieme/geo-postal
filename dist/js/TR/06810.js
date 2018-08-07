@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06810"]={"code":"06810","region":"Ankara","city":"Ankara","latitude":39.91987,"longitude":32.85427}}(window,'GeoPostal','TR');

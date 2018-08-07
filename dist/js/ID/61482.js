@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61482"]={"code":"61482","region":"Jawa Timur","city":"Mojoagung","latitude":-7.56667,"longitude":112.35}}(window,'GeoPostal','ID');

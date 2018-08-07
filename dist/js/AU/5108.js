@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5108"]={"code":"5108","region":"South Australia","city":"Salisbury","latitude":-34.76667,"longitude":138.63333}}(window,'GeoPostal','AU');

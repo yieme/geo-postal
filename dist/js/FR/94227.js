@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94227"]={"code":"94227","region":"Ile-de-France","city":"Charenton-le-Pont","latitude":48.82209,"longitude":2.41217}}(window,'GeoPostal','FR');

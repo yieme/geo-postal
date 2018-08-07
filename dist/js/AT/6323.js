@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6323"]={"code":"6323","region":"Tirol","city":"Bad Haering","latitude":47.5,"longitude":12.11667}}(window,'GeoPostal','AT');

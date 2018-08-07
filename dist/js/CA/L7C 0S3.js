@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7C 0S3"]={"code":"L7C 0S3","region":"Ontario","city":"Bolton","latitude":43.87952,"longitude":-79.73791}}(window,'GeoPostal','CA');

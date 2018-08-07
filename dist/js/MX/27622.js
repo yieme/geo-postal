@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27622"]={"code":"27622","region":"Chiapas","city":"Alvaro Obregon","latitude":14.93333,"longitude":-92.41667}}(window,'GeoPostal','MX');

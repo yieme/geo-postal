@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4420"]={"code":"4420","region":"Liege","city":"Ans","latitude":50.6623,"longitude":5.52029}}(window,'GeoPostal','BE');

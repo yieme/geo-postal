@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54480"]={"code":"54480","region":"WI","city":"Stetsonville","latitude":45.0792,"longitude":-90.2829}}(window,'GeoPostal','US');

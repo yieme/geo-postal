@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01349"]={"code":"01349","region":"MA","city":"Millers Falls","latitude":42.582,"longitude":-72.4926}}(window,'GeoPostal','US');

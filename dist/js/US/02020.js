@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02020"]={"code":"02020","region":"Massachusetts","city":"Marshfield","latitude":42.09177,"longitude":-70.70559}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35340"]={"code":"35340","region":"Rivnenska oblast","city":"Horodyshche","latitude":50.63965,"longitude":26.36573}}(window,'GeoPostal','UA');

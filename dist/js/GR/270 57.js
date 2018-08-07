@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 57"]={"code":"270 57","region":"Dytiki Ellada","city":"Traganon","latitude":37.89789,"longitude":21.31245}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33578"]={"code":"33578","region":"FL","city":"Riverview","latitude":27.8633,"longitude":-82.3499}}(window,'GeoPostal','US');

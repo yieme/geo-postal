@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66150"]={"code":"66150","region":"Occitanie","city":"Arles-sur-Tech","latitude":42.4575,"longitude":2.6344}}(window,'GeoPostal','FR');

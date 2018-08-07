@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 8HL"]={"code":"SY10 8HL","region":"England","city":"Knockin","latitude":52.79414,"longitude":-2.99331}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9200"]={"code":"9200","region":"Gyor-Moson-Sopron","city":"Mosonmagyarovar","latitude":47.86788,"longitude":17.26994}}(window,'GeoPostal','HU');

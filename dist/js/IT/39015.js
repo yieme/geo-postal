@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39015"]={"code":"39015","region":"Trentino-Alto Adige","city":"Racines","latitude":46.86667,"longitude":11.3}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95435"]={"code":"95435","region":"Norrbottens lan","city":"Gammelstad","latitude":65.63931,"longitude":22.01145}}(window,'GeoPostal','SE');

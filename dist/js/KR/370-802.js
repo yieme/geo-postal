@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370-802"]={"code":"370-802","region":"Chungcheongbuk-do","city":"Yong-dong","latitude":36.175,"longitude":127.77639}}(window,'GeoPostal','KR');

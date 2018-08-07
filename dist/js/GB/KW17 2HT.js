@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2HT"]={"code":"KW17 2HT","region":"Scotland","city":"Dounby","latitude":59.06845,"longitude":-3.23135}}(window,'GeoPostal','GB');

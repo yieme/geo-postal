@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30440"]={"code":"30440","region":"Nakhon Ratchasima","city":"Nong Bunnak","latitude":14.73947,"longitude":102.36564}}(window,'GeoPostal','TH');

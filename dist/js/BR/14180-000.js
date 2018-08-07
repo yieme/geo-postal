@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14180-000"]={"code":"14180-000","region":"Sao Paulo","city":"Pontal","latitude":-21.0225,"longitude":-48.03722}}(window,'GeoPostal','BR');

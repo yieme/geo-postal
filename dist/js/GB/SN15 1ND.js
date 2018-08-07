@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN15 1ND"]={"code":"SN15 1ND","region":"England","city":"Chippenham","latitude":51.46,"longitude":-2.12472}}(window,'GeoPostal','GB');

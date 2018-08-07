@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15850-000"]={"code":"15850-000","region":"Sao Paulo","city":"Urupes","latitude":-21.20167,"longitude":-49.29}}(window,'GeoPostal','BR');

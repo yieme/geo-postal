@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24738"]={"code":"24738","region":"West Virginia","city":"Nemours","latitude":37.25825,"longitude":-81.2228}}(window,'GeoPostal','US');

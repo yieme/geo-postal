@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17419"]={"code":"17419","region":"Mecklenburg-Vorpommern","city":"Seebad Ahlbeck","latitude":53.94074,"longitude":14.18929}}(window,'GeoPostal','DE');

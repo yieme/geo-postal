@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99300-000"]={"code":"99300-000","region":"Rio Grande do Sul","city":"Soledade","latitude":-28.81833,"longitude":-52.51028}}(window,'GeoPostal','BR');

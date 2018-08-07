@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY14 8EA"]={"code":"SY14 8EA","region":"England","city":"No Man's Heath","latitude":53.02981,"longitude":-2.72671}}(window,'GeoPostal','GB');

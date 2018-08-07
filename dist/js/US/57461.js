@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57461"]={"code":"57461","region":"SD","city":"Mellette","latitude":45.1631,"longitude":-98.4824}}(window,'GeoPostal','US');

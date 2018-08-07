@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57631"]={"code":"57631","region":"SD","city":"Glenham","latitude":45.5335,"longitude":-100.2716}}(window,'GeoPostal','US');

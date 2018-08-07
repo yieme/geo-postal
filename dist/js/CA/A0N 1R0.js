@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1R0"]={"code":"A0N 1R0","region":"Newfoundland and Labrador","city":"Lourdes","latitude":48.65002,"longitude":-58.99852}}(window,'GeoPostal','CA');

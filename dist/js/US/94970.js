@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94970"]={"code":"94970","region":"CA","city":"Stinson Beach","latitude":37.902,"longitude":-122.6393}}(window,'GeoPostal','US');

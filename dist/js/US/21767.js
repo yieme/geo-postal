@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21767"]={"code":"21767","region":"MD","city":"Maugansville","latitude":39.6996,"longitude":-77.7499}}(window,'GeoPostal','US');

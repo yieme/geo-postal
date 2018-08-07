@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29931"]={"code":"29931","region":"SC","city":"Lobeco","latitude":32.5527,"longitude":-80.7434}}(window,'GeoPostal','US');

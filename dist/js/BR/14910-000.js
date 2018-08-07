@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14910-000"]={"code":"14910-000","region":"Sao Paulo","city":"Tabatinga","latitude":-21.71667,"longitude":-48.6875}}(window,'GeoPostal','BR');

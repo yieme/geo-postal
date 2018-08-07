@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41566"]={"code":"41566","region":"KY","city":"Steele","latitude":37.4029,"longitude":-82.2071}}(window,'GeoPostal','US');

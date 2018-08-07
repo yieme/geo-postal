@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84405"]={"code":"84405","region":"Bayern","city":"Unterhausmehring","latitude":48.26371,"longitude":12.16339}}(window,'GeoPostal','DE');

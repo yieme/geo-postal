@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB21 0QX"]={"code":"AB21 0QX","region":"Scotland","city":"Pittrichie","latitude":57.31667,"longitude":-2.23333}}(window,'GeoPostal','GB');

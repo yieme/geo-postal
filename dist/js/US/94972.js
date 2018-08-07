@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94972"]={"code":"94972","region":"CA","city":"Valley Ford","latitude":38.318,"longitude":-122.9242}}(window,'GeoPostal','US');

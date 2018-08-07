@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4QY"]={"code":"DL8 4QY","region":"England","city":"Middleham","latitude":54.28333,"longitude":-1.81667}}(window,'GeoPostal','GB');

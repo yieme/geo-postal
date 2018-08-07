@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76953"]={"code":"76953","region":"TX","city":"Tennyson","latitude":31.7397,"longitude":-100.2884}}(window,'GeoPostal','US');

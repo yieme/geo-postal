@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01467"]={"code":"01467","region":"MA","city":"Still River","latitude":42.4871,"longitude":-71.6131}}(window,'GeoPostal','US');

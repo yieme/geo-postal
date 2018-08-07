@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30350"]={"code":"30350","region":"Georgia","city":"Sandy Springs","latitude":33.977633,"longitude":-84.327404}}(window,'GeoPostal','US');

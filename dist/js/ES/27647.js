@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27647"]={"code":"27647","region":"Galicia","city":"Becerrea","latitude":42.8561,"longitude":-7.1636}}(window,'GeoPostal','ES');

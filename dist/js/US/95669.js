@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95669"]={"code":"95669","region":"California","city":"Plymouth","latitude":38.490098,"longitude":-120.860622}}(window,'GeoPostal','US');

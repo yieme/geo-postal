@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08074"]={"code":"08074","region":"NJ","city":"Richwood","latitude":39.7206,"longitude":-75.1681}}(window,'GeoPostal','US');

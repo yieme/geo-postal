@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662120"]={"code":"662120","region":"Krasnoyarskiy kray","city":"Novobirilyussy","latitude":56.95139,"longitude":90.66611}}(window,'GeoPostal','RU');

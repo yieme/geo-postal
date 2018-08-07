@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1473"]={"code":"1473","region":"Akershus","city":"Kjenn","latitude":59.93098,"longitude":10.95373}}(window,'GeoPostal','NO');

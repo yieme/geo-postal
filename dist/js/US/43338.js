@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43338"]={"code":"43338","region":"Ohio","city":"Mount Gilead","latitude":40.561136,"longitude":-82.782444}}(window,'GeoPostal','US');

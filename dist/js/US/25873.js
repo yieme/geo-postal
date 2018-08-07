@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25873"]={"code":"25873","region":"WV","city":"Mac Arthur","latitude":37.7517,"longitude":-81.2148}}(window,'GeoPostal','US');

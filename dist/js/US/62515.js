@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62515"]={"code":"62515","region":"Illinois","city":"Buffalo","latitude":39.850505,"longitude":-89.40906}}(window,'GeoPostal','US');

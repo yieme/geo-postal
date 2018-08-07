@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140-8583"]={"code":"140-8583","region":"Tokyo","city":"Shinagawa-ku","latitude":35.6,"longitude":139.733}}(window,'GeoPostal','JP');

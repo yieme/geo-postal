@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680-0805"]={"code":"680-0805","region":"Tottori","city":"Tottori","latitude":35.5,"longitude":134.233}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 2DD"]={"code":"DL6 2DD","region":"England","city":"East Harlsey","latitude":54.39192,"longitude":-1.34807}}(window,'GeoPostal','GB');

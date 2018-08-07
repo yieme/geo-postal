@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 1BW"]={"code":"DT10 1BW","region":"England","city":"Sturminster Newton","latitude":50.92681,"longitude":-2.30515}}(window,'GeoPostal','GB');

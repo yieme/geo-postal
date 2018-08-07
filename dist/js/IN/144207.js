@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144207"]={"code":"144207","region":"Punjab","city":"Garhdiwala","latitude":31.7325,"longitude":75.75056}}(window,'GeoPostal','IN');

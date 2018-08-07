@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67458"]={"code":"67458","region":"KS","city":"Longford","latitude":39.1834,"longitude":-97.2499}}(window,'GeoPostal','US');

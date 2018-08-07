@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11960"]={"code":"11960","region":"New York","city":"Remsenburg","latitude":40.809965,"longitude":-72.696383}}(window,'GeoPostal','US');

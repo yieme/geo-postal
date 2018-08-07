@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1798"]={"code":"1798","region":"Ostfold","city":"Fossby","latitude":59.22218,"longitude":11.69928}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03040"]={"code":"03040","region":"Lazio","city":"Picinisco","latitude":41.64632,"longitude":13.86761}}(window,'GeoPostal','IT');

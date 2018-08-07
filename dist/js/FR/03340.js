@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03340"]={"code":"03340","region":"Auvergne-Rhone-Alpes","city":"Neuilly-le-Real","latitude":46.46466,"longitude":3.43161}}(window,'GeoPostal','FR');

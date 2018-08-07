@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7673"]={"code":"7673","region":"Midtjylland","city":"Harboore","latitude":56.61752,"longitude":8.18069}}(window,'GeoPostal','DK');

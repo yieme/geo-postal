@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68655"]={"code":"68655","region":"Nebraska","city":"Primrose","latitude":41.646776,"longitude":-98.237525}}(window,'GeoPostal','US');

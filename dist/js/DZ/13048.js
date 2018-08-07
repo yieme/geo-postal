@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13048"]={"code":"13048","region":"Tlemcen","city":"Chetouane","latitude":34.92129,"longitude":-1.29512}}(window,'GeoPostal','DZ');

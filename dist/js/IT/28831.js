@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28831"]={"code":"28831","region":"Piemonte","city":"Baveno","latitude":45.90838,"longitude":8.49962}}(window,'GeoPostal','IT');

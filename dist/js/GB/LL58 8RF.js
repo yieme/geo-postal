@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL58 8RF"]={"code":"LL58 8RF","region":"Wales","city":"Llangoed","latitude":53.28333,"longitude":-4.08333}}(window,'GeoPostal','GB');

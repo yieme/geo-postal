@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6019"]={"code":"6019","region":"Western Australia","city":"Wembley","latitude":-31.93333,"longitude":115.8}}(window,'GeoPostal','AU');

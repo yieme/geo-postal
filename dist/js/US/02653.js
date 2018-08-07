@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02653"]={"code":"02653","region":"Massachusetts","city":"Orleans","latitude":41.78983,"longitude":-69.98974}}(window,'GeoPostal','US');

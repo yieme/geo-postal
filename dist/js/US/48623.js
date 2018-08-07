@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48623"]={"code":"48623","region":"Michigan","city":"Freeland","latitude":43.503248,"longitude":-84.128403}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2449"]={"code":"2449","region":"New South Wales","city":"Newee Creek","latitude":-30.63162,"longitude":152.9275}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30470"]={"code":"30470","region":"Georgia","city":"Tarrytown","latitude":32.293486,"longitude":-82.524601}}(window,'GeoPostal','US');

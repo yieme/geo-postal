@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 8DW"]={"code":"IP23 8DW","region":"England","city":"Mellis","latitude":52.32954,"longitude":1.07979}}(window,'GeoPostal','GB');

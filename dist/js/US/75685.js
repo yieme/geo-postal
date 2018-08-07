@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75685"]={"code":"75685","region":"TX","city":"Panola","latitude":32.3579,"longitude":-94.0913}}(window,'GeoPostal','US');

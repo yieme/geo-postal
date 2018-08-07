@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662622"]={"code":"662622","region":"Krasnoyarskiy kray","city":"Zelenyy Bor","latitude":53.66667,"longitude":91.66667}}(window,'GeoPostal','RU');

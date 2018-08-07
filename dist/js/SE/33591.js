@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33591"]={"code":"33591","region":"Jonkopings lan","city":"Gnosjoe","latitude":57.3585,"longitude":13.73686}}(window,'GeoPostal','SE');

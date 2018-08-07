@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591120"]={"code":"591120","region":"Karnataka","city":"Khanapur","latitude":15.63333,"longitude":74.51667}}(window,'GeoPostal','IN');

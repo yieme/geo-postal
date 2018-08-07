@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7010"]={"code":"7010","region":"Davao del Sur","city":"Lacson","latitude":7.21194,"longitude":125.44222}}(window,'GeoPostal','PH');

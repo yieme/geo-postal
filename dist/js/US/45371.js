@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45371"]={"code":"45371","region":"Ohio","city":"Tipp City","latitude":39.95839,"longitude":-84.17216}}(window,'GeoPostal','US');

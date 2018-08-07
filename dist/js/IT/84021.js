@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84021"]={"code":"84021","region":"Campania","city":"Buccino","latitude":40.63291,"longitude":15.36966}}(window,'GeoPostal','IT');

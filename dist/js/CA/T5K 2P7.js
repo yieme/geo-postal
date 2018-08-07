@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T5K 2P7"]={"code":"T5K 2P7","region":"Alberta","city":"Edmonton","latitude":53.535579,"longitude":-113.50331}}(window,'GeoPostal','CA');

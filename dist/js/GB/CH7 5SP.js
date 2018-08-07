@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 5SP"]={"code":"CH7 5SP","region":"Wales","city":"Llanferres","latitude":53.13707,"longitude":-3.21419}}(window,'GeoPostal','GB');

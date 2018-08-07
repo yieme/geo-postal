@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84008"]={"code":"84008","region":"Utah","city":"Bonanza","latitude":40.03028,"longitude":-109.18833}}(window,'GeoPostal','US');

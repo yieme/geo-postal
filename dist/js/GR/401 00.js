@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["401 00"]={"code":"401 00","region":"Thessalia","city":"Tyrnavos","latitude":39.73778,"longitude":22.28917}}(window,'GeoPostal','GR');

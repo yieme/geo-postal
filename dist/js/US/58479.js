@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58479"]={"code":"58479","region":"North Dakota","city":"Rogers","latitude":47.07194,"longitude":-98.20111}}(window,'GeoPostal','US');

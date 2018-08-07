@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77967"]={"code":"77967","region":"TX","city":"Hochheim","latitude":29.3125,"longitude":-97.2917}}(window,'GeoPostal','US');

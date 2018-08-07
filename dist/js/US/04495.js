@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04495"]={"code":"04495","region":"ME","city":"Winn","latitude":45.4568,"longitude":-68.3575}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10962"]={"code":"10962","region":"New York","city":"Orangeburg","latitude":41.045967,"longitude":-73.964699}}(window,'GeoPostal','US');

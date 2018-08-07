@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95190-000"]={"code":"95190-000","region":"Rio Grande do Sul","city":"Sao Marcos","latitude":-28.97111,"longitude":-51.06806}}(window,'GeoPostal','BR');

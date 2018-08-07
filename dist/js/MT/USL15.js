@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["USL15"]={"code":"USL15","region":"Gzira","city":"Gzira","latitude":35.9058,"longitude":14.4881}}(window,'GeoPostal','MT');

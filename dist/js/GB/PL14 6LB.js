@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 6LB"]={"code":"PL14 6LB","region":"England","city":"Doublebois","latitude":50.45634,"longitude":-4.53809}}(window,'GeoPostal','GB');

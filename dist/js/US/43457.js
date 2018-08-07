@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43457"]={"code":"43457","region":"OH","city":"Risingsun","latitude":41.2706,"longitude":-83.4326}}(window,'GeoPostal','US');

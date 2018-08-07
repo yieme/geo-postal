@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0N0"]={"code":"T0M 0N0","region":"Alberta","city":"Carstairs","latitude":51.56681,"longitude":-114.102}}(window,'GeoPostal','CA');

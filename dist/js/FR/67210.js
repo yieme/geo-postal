@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67210"]={"code":"67210","region":"Grand-Est","city":"Valff","latitude":48.42045,"longitude":7.51954}}(window,'GeoPostal','FR');

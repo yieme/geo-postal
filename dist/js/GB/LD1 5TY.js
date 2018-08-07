@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD1 5TY"]={"code":"LD1 5TY","region":"Wales","city":"Penybont","latitude":52.26667,"longitude":-3.3}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41828"]={"code":"41828","region":"Kentucky","city":"Kite","latitude":37.301667,"longitude":-82.789444}}(window,'GeoPostal','US');

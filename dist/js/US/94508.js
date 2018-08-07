@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94508"]={"code":"94508","region":"California","city":"Angwin","latitude":38.575873,"longitude":-122.445756}}(window,'GeoPostal','US');

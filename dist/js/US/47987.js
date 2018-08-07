@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47987"]={"code":"47987","region":"Indiana","city":"Veedersburg","latitude":40.11309,"longitude":-87.26251}}(window,'GeoPostal','US');

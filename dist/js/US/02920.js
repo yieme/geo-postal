@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02920"]={"code":"02920","region":"Rhode Island","city":"Cranston","latitude":41.7629,"longitude":-71.4628}}(window,'GeoPostal','US');

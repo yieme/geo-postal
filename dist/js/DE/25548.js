@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25548"]={"code":"25548","region":"Schleswig-Holstein","city":"Kellinghusen","latitude":53.95202,"longitude":9.71959}}(window,'GeoPostal','DE');

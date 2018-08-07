@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62841"]={"code":"62841","region":"IL","city":"Freeman Spur","latitude":37.8612,"longitude":-88.9973}}(window,'GeoPostal','US');

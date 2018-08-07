@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75645"]={"code":"75645","region":"Texas","city":"Gilmer","latitude":32.721183,"longitude":-94.931847}}(window,'GeoPostal','US');

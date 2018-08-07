@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182-8585"]={"code":"182-8585","region":"Tokyo","city":"Chofu","latitude":35.650614,"longitude":139.540694}}(window,'GeoPostal','JP');

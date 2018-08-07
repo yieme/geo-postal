@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17450"]={"code":"17450","region":"Catalunya","city":"Hostalric","latitude":41.75,"longitude":2.63333}}(window,'GeoPostal','ES');

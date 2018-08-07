@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44816"]={"code":"44816","region":"OH","city":"Birmingham","latitude":41.3349,"longitude":-82.355}}(window,'GeoPostal','US');

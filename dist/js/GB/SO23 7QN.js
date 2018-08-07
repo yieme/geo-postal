@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO23 7QN"]={"code":"SO23 7QN","region":"England","city":"Kings Worthy","latitude":51.08862,"longitude":-1.2978}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4814"]={"code":"4814","region":"Manawatu-Wanganui","city":"Foxton","latitude":-40.46667,"longitude":175.3}}(window,'GeoPostal','NZ');

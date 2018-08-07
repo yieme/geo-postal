@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41503"]={"code":"41503","region":"Kentucky","city":"South Williamson","latitude":37.669793,"longitude":-82.286471}}(window,'GeoPostal','US');

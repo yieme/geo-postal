@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["211-0025"]={"code":"211-0025","region":"Kanagawa","city":"Kawasaki","latitude":35.517,"longitude":139.7}}(window,'GeoPostal','JP');

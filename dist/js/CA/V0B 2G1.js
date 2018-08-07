@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 2G1"]={"code":"V0B 2G1","region":"British Columbia","city":"Pineview","latitude":45.42444,"longitude":-75.60583}}(window,'GeoPostal','CA');

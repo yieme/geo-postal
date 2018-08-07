@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV13 7YW"]={"code":"IV13 7YW","region":"Scotland","city":"Tomatin","latitude":57.33449,"longitude":-3.99073}}(window,'GeoPostal','GB');

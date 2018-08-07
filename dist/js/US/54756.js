@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54756"]={"code":"54756","region":"Wisconsin","city":"Nelson","latitude":44.440379,"longitude":-92.015109}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08876"]={"code":"08876","region":"New Jersey","city":"Somerville","latitude":40.54374,"longitude":-74.66004}}(window,'GeoPostal','US');

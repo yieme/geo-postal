@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43110"]={"code":"43110","region":"Nong Khai","city":"Tha Bo","latitude":17.85003,"longitude":102.58139}}(window,'GeoPostal','TH');

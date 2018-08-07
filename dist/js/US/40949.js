@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40949"]={"code":"40949","region":"Kentucky","city":"Heidrick","latitude":36.896496,"longitude":-83.867725}}(window,'GeoPostal','US');

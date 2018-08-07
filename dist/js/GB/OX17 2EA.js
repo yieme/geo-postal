@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 2EA"]={"code":"OX17 2EA","region":"England","city":"Greatworth","latitude":52.07666,"longitude":-1.19618}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2760"]={"code":"2760","region":"Blagoevgrad","city":"Razlog","latitude":41.8863,"longitude":23.46714}}(window,'GeoPostal','BG');

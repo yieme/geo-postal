@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45348"]={"code":"45348","region":"OH","city":"New Weston","latitude":40.3349,"longitude":-84.6308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37769"]={"code":"37769","region":"TN","city":"Lake City","latitude":36.2032,"longitude":-84.1386}}(window,'GeoPostal','US');

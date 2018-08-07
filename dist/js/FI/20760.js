@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20760"]={"code":"20760","region":"Varsinais-Suomi","city":"Kaarina","latitude":60.40724,"longitude":22.36904}}(window,'GeoPostal','FI');

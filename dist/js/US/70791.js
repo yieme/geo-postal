@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70791"]={"code":"70791","region":"LA","city":"Zachary","latitude":30.6561,"longitude":-91.1358}}(window,'GeoPostal','US');

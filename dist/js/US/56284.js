@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56284"]={"code":"56284","region":"Minnesota","city":"Renville","latitude":44.912684,"longitude":-95.189848}}(window,'GeoPostal','US');

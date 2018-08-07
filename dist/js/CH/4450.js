@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4450"]={"code":"4450","region":"Basel-Landschaft","city":"Sissach","latitude":47.46408,"longitude":7.80888}}(window,'GeoPostal','CH');

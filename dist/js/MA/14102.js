@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14102"]={"code":"14102","region":"Gharb-Chrarda-Beni Hssen","city":"Arbaoua","latitude":34.90239,"longitude":-5.94871}}(window,'GeoPostal','MA');

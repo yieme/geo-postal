@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37540-000"]={"code":"37540-000","region":"Minas Gerais","city":"Santa Rita do Sapucai","latitude":-22.25222,"longitude":-45.70333}}(window,'GeoPostal','BR');

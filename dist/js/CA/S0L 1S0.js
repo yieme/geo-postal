@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 1S0"]={"code":"S0L 1S0","region":"Saskatchewan","city":"Kindersley","latitude":51.46681,"longitude":-109.16818}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 2AE"]={"code":"IP22 2AE","region":"England","city":"Bressingham","latitude":52.38534,"longitude":1.04937}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3401"]={"code":"3401","region":"Liepaja","city":"Liepaja","latitude":56.51667,"longitude":21.01667}}(window,'GeoPostal','LV');

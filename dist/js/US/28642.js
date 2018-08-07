@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28642"]={"code":"28642","region":"North Carolina","city":"Jonesville","latitude":36.2393,"longitude":-80.84452}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 6ER"]={"code":"CT15 6ER","region":"England","city":"Saint Margaret's at Cliffe","latitude":51.15642,"longitude":1.36823}}(window,'GeoPostal','GB');

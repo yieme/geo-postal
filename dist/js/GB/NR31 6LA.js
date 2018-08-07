@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR31 6LA"]={"code":"NR31 6LA","region":"England","city":"Yarmouth","latitude":50.70529,"longitude":-1.49929}}(window,'GeoPostal','GB');

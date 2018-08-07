@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35027"]={"code":"35027","region":"Boumerdes","city":"Tizi Gheniff","latitude":36.58839,"longitude":3.77445}}(window,'GeoPostal','DZ');

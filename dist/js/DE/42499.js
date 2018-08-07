@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42499"]={"code":"42499","region":"Nordrhein-Westfalen","city":"Hartkopsbever","latitude":51.13999,"longitude":7.3564}}(window,'GeoPostal','DE');

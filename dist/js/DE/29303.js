@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29303"]={"code":"29303","region":"Niedersachsen","city":"Wohlde","latitude":52.81345,"longitude":9.99979}}(window,'GeoPostal','DE');

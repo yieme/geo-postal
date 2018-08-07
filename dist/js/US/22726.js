@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22726"]={"code":"22726","region":"VA","city":"Lignum","latitude":38.3956,"longitude":-77.83}}(window,'GeoPostal','US');

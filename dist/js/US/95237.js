@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95237"]={"code":"95237","region":"CA","city":"Lockeford","latitude":38.1613,"longitude":-121.1424}}(window,'GeoPostal','US');

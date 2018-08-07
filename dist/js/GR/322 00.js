@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322 00"]={"code":"322 00","region":"Sterea Ellada","city":"Thivai","latitude":38.325,"longitude":23.31889}}(window,'GeoPostal','GR');

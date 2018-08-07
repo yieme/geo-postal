@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45030"]={"code":"45030","region":"Ohio","city":"Harrison","latitude":39.25116,"longitude":-84.73962}}(window,'GeoPostal','US');

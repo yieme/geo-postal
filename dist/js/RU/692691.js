@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692691"]={"code":"692691","region":"Sakhalinskaya oblast'","city":"Dolinsk","latitude":47.35,"longitude":142.8}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33058"]={"code":"33058","region":"Friuli-Venezia Giulia","city":"San Giorgio di Nogaro","latitude":45.83361,"longitude":13.21583}}(window,'GeoPostal','IT');

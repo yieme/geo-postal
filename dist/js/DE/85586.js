@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85586"]={"code":"85586","region":"Bayern","city":"Poing","latitude":48.17004,"longitude":11.81863}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85547"]={"code":"85547","region":"AZ","city":"Payson","latitude":34.2575,"longitude":-111.2878}}(window,'GeoPostal','US');

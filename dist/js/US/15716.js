@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15716"]={"code":"15716","region":"PA","city":"Black Lick","latitude":40.4725,"longitude":-79.1869}}(window,'GeoPostal','US');

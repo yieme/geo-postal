@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99630"]={"code":"99630","region":"Zacatecas","city":"Tabasco","latitude":21.86667,"longitude":-102.91667}}(window,'GeoPostal','MX');

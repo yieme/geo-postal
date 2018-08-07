@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6318"]={"code":"6318","region":"Western Australia","city":"Holly","latitude":-33.8,"longitude":117.48333}}(window,'GeoPostal','AU');

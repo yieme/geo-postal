@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL10 6AH"]={"code":"DL10 6AH","region":"England","city":"Bolton upon Swale","latitude":54.38506,"longitude":-1.61671}}(window,'GeoPostal','GB');

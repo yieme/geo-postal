@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43311"]={"code":"43311","region":"Ohio","city":"Bellefontaine","latitude":40.36116,"longitude":-83.75966}}(window,'GeoPostal','US');

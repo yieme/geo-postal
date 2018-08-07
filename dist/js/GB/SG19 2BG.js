@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 2BG"]={"code":"SG19 2BG","region":"England","city":"Tempsford","latitude":52.17051,"longitude":-0.29586}}(window,'GeoPostal','GB');

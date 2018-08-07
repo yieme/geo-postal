@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7123"]={"code":"7123","region":"Gelderland","city":"Aalten","latitude":51.925,"longitude":6.58056}}(window,'GeoPostal','NL');

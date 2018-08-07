@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41129"]={"code":"41129","region":"KY","city":"Catlettsburg","latitude":38.3799,"longitude":-82.6321}}(window,'GeoPostal','US');

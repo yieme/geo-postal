@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40"]={"code":"40","region":"Hebron","city":"Hebron","latitude":31.53333,"longitude":35.1}}(window,'GeoPostal','PS');

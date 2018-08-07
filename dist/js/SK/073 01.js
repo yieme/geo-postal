@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["073 01"]={"code":"073 01","region":"Kosicky kraj","city":"Sobrance","latitude":48.74455,"longitude":22.18136}}(window,'GeoPostal','SK');

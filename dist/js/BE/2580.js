@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2580"]={"code":"2580","region":"Antwerpen","city":"Sint-Katelijne-Waver","latitude":51.06691,"longitude":4.53469}}(window,'GeoPostal','BE');

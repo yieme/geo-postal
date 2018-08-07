@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60558"]={"code":"60558","region":"Illinois","city":"Western Springs","latitude":41.804172,"longitude":-87.899921}}(window,'GeoPostal','US');

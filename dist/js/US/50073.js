@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50073"]={"code":"50073","region":"IA","city":"Elkhart","latitude":41.7917,"longitude":-93.5222}}(window,'GeoPostal','US');

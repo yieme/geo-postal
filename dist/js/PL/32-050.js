@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-050"]={"code":"32-050","region":"Malopolskie","city":"Skawina","latitude":49.97524,"longitude":19.82869}}(window,'GeoPostal','PL');

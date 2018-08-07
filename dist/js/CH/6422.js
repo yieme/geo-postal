@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6422"]={"code":"6422","region":"Schwyz","city":"Steinen","latitude":47.04976,"longitude":8.61214}}(window,'GeoPostal','CH');

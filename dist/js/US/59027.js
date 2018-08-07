@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59027"]={"code":"59027","region":"Montana","city":"Emigrant","latitude":45.182632,"longitude":-110.937347}}(window,'GeoPostal','US');

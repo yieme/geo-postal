@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35620-000"]={"code":"35620-000","region":"Minas Gerais","city":"Abaete","latitude":-19.16,"longitude":-45.44583}}(window,'GeoPostal','BR');

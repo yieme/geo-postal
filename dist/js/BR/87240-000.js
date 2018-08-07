@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87240-000"]={"code":"87240-000","region":"Parana","city":"Terra Boa","latitude":-23.76806,"longitude":-52.44417}}(window,'GeoPostal','BR');

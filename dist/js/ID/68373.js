@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68373"]={"code":"68373","region":"Jawa Timur","city":"Mojosari","latitude":-7.7631,"longitude":114.1946}}(window,'GeoPostal','ID');

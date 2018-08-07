@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366200"]={"code":"366200","region":"Chechenskaya Respublika","city":"Gudermes","latitude":43.35694,"longitude":46.10528}}(window,'GeoPostal','RU');

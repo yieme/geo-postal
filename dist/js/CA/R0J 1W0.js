@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1W0"]={"code":"R0J 1W0","region":"Manitoba","city":"Russell","latitude":50.78079,"longitude":-101.28481}}(window,'GeoPostal','CA');

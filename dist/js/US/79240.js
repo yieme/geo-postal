@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79240"]={"code":"79240","region":"TX","city":"Lelia Lake","latitude":34.8843,"longitude":-100.7674}}(window,'GeoPostal','US');

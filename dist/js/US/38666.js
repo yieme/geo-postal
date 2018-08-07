@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38666"]={"code":"38666","region":"MS","city":"Sardis","latitude":34.4276,"longitude":-89.9221}}(window,'GeoPostal','US');

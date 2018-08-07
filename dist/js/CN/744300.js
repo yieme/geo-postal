@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744300"]={"code":"744300","region":"Gansu","city":"Dingxi","latitude":35.580625,"longitude":104.626278}}(window,'GeoPostal','CN');

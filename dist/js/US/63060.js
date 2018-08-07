@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63060"]={"code":"63060","region":"MO","city":"Lonedell","latitude":38.2743,"longitude":-90.8903}}(window,'GeoPostal','US');

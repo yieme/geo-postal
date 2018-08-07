@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82190"]={"code":"82190","region":"Wyoming","city":"Yellowstone National Park","latitude":44.97515,"longitude":-110.69471}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31526"]={"code":"31526","region":"Sumatera Selatan","city":"Tanjungagung","latitude":-3.93333,"longitude":103.8}}(window,'GeoPostal','ID');

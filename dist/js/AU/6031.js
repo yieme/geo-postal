@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6031"]={"code":"6031","region":"Western Australia","city":"Carramar","latitude":-31.69023,"longitude":115.77159}}(window,'GeoPostal','AU');

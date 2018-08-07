@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-410"]={"code":"62-410","region":"Wielkopolskie","city":"Zagorow","latitude":52.16835,"longitude":17.89561}}(window,'GeoPostal','PL');

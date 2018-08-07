@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010010"]={"code":"010010","region":"Astana","city":"Astana","latitude":51.1801,"longitude":71.44598}}(window,'GeoPostal','KZ');

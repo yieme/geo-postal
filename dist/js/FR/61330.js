@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61330"]={"code":"61330","region":"Normandie","city":"Ceauce","latitude":48.49436,"longitude":-0.62526}}(window,'GeoPostal','FR');

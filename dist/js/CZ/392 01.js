@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["392 01"]={"code":"392 01","region":"Jihocesky kraj","city":"Sobeslav","latitude":49.25993,"longitude":14.71861}}(window,'GeoPostal','CZ');

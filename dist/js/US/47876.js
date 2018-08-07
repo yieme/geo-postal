@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47876"]={"code":"47876","region":"Indiana","city":"Saint Mary-of-the-Woods","latitude":39.510978,"longitude":-87.476167}}(window,'GeoPostal','US');

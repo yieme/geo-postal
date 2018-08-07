@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71351"]={"code":"71351","region":"Louisiana","city":"Marksville","latitude":31.16148,"longitude":-92.09502}}(window,'GeoPostal','US');

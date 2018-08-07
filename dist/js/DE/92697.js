@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92697"]={"code":"92697","region":"Bayern","city":"Schweizerhof","latitude":49.7,"longitude":12.41667}}(window,'GeoPostal','DE');

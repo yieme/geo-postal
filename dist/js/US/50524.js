@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50524"]={"code":"50524","region":"IA","city":"Clare","latitude":42.5954,"longitude":-94.308}}(window,'GeoPostal','US');

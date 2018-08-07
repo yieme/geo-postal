@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352780"]={"code":"352780","region":"Krasnodarskiy kray","city":"Novodzhereliyevskaya","latitude":45.77373,"longitude":38.67227}}(window,'GeoPostal','RU');

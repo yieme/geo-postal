@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17110"]={"code":"17110","region":"Chai Nat","city":"Manorom","latitude":15.30997,"longitude":100.08283}}(window,'GeoPostal','TH');

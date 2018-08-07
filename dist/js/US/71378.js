@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71378"]={"code":"71378","region":"LA","city":"Wisner","latitude":31.9913,"longitude":-91.6768}}(window,'GeoPostal','US');

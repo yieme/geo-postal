@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332 02"]={"code":"332 02","region":"Plzensky kraj","city":"Stary Plzenec","latitude":49.69768,"longitude":13.4735}}(window,'GeoPostal','CZ');

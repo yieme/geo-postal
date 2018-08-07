@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38243"]={"code":"38243","region":"Auvergne-Rhone-Alpes","city":"Meylan","latitude":45.21988,"longitude":5.79007}}(window,'GeoPostal','FR');

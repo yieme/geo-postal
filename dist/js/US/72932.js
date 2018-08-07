@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72932"]={"code":"72932","region":"AR","city":"Cedarville","latitude":35.603,"longitude":-94.3749}}(window,'GeoPostal','US');

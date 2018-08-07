@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20080"]={"code":"20080","region":"Prizrenski okrug","city":"Prizren","latitude":42.21389,"longitude":20.73972}}(window,'GeoPostal','RS');

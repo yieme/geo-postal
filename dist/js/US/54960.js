@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54960"]={"code":"54960","region":"Wisconsin","city":"Neshkoro","latitude":43.935233,"longitude":-89.257266}}(window,'GeoPostal','US');

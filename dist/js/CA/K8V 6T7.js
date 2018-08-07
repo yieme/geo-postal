@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8V 6T7"]={"code":"K8V 6T7","region":"Ontario","city":"Glen Miller","latitude":44.13342,"longitude":-77.58278}}(window,'GeoPostal','CA');

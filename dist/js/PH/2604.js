@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2604"]={"code":"2604","region":"Benguet","city":"Itogon","latitude":16.36389,"longitude":120.67694}}(window,'GeoPostal','PH');

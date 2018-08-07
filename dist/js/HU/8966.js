@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8966"]={"code":"8966","region":"Zala","city":"Lenti","latitude":46.62403,"longitude":16.53863}}(window,'GeoPostal','HU');

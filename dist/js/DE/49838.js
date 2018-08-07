@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49838"]={"code":"49838","region":"Niedersachsen","city":"Lengerich","latitude":52.55381,"longitude":7.53164}}(window,'GeoPostal','DE');

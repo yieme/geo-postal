@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 9AJ"]={"code":"DN20 9AJ","region":"England","city":"Scawby","latitude":53.53787,"longitude":-0.54085}}(window,'GeoPostal','GB');

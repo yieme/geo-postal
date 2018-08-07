@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88501"]={"code":"88501","region":"Grand-Est","city":"Mirecourt","latitude":48.30089,"longitude":6.13282}}(window,'GeoPostal','FR');

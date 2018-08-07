@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86000"]={"code":"86000","region":"Johor","city":"Kluang","latitude":2.0251,"longitude":103.3328}}(window,'GeoPostal','MY');

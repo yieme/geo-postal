@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08098"]={"code":"08098","region":"NJ","city":"Woodstown","latitude":39.6457,"longitude":-75.3248}}(window,'GeoPostal','US');

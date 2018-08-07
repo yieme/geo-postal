@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87742"]={"code":"87742","region":"NM","city":"Rociada","latitude":35.8226,"longitude":-105.3147}}(window,'GeoPostal','US');

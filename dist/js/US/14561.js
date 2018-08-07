@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14561"]={"code":"14561","region":"New York","city":"Stanley","latitude":42.825,"longitude":-77.09583}}(window,'GeoPostal','US');

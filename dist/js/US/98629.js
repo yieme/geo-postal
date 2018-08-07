@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98629"]={"code":"98629","region":"Washington","city":"La Center","latitude":45.86234,"longitude":-122.67038}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28724"]={"code":"28724","region":"Chihuahua","city":"Villa Ahumada","latitude":30.61667,"longitude":-106.51667}}(window,'GeoPostal','MX');

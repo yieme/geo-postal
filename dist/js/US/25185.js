@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25185"]={"code":"25185","region":"WV","city":"Mount Olive","latitude":38.2379,"longitude":-81.2334}}(window,'GeoPostal','US');

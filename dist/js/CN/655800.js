@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655800"]={"code":"655800","region":"Yunnan","city":"Luoxiong","latitude":24.88558,"longitude":104.29225}}(window,'GeoPostal','CN');

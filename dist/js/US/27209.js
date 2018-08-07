@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27209"]={"code":"27209","region":"NC","city":"Biscoe","latitude":35.3599,"longitude":-79.7798}}(window,'GeoPostal','US');

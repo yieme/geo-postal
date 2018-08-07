@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38370"]={"code":"38370","region":"TN","city":"Saltillo","latitude":35.3815,"longitude":-88.2472}}(window,'GeoPostal','US');

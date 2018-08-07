@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17025"]={"code":"17025","region":"Pennsylvania","city":"Enola","latitude":40.29024,"longitude":-76.96314}}(window,'GeoPostal','US');

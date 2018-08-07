@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9754"]={"code":"9754","region":"Karnten","city":"Steinfeld","latitude":46.76556,"longitude":13.27167}}(window,'GeoPostal','AT');

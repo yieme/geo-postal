@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1EB"]={"code":"SA73 1EB","region":"Wales","city":"Llanstadwell","latitude":51.70589,"longitude":-4.9632}}(window,'GeoPostal','GB');

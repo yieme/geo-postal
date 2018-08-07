@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42254"]={"code":"42254","region":"KY","city":"La Fayette","latitude":36.6582,"longitude":-87.6563}}(window,'GeoPostal','US');

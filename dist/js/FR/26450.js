@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26450"]={"code":"26450","region":"Auvergne-Rhone-Alpes","city":"Charols","latitude":44.5939,"longitude":4.9522}}(window,'GeoPostal','FR');

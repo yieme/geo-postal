@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3210"]={"code":"3210","region":"Slovenske Konjice","city":"Slovenske Konjice","latitude":46.33667,"longitude":15.42583}}(window,'GeoPostal','SI');

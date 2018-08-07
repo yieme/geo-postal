@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3541"]={"code":"3541","region":"Niederosterreich","city":"Krems an der Donau","latitude":48.40921,"longitude":15.61415}}(window,'GeoPostal','AT');

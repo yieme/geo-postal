@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67013"]={"code":"67013","region":"KS","city":"Belle Plaine","latitude":37.4052,"longitude":-97.2852}}(window,'GeoPostal','US');

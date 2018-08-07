@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58571"]={"code":"58571","region":"ND","city":"Stanton","latitude":47.3128,"longitude":-101.3899}}(window,'GeoPostal','US');

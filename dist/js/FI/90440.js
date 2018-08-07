@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90440"]={"code":"90440","region":"Pohjois-Pohjanmaa","city":"Kempele","latitude":64.91314,"longitude":25.50339}}(window,'GeoPostal','FI');

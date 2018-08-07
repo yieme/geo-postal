@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0P 1J0"]={"code":"A0P 1J0","region":"Newfoundland and Labrador","city":"Makkovik","latitude":55.08672,"longitude":-59.16842}}(window,'GeoPostal','CA');

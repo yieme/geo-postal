@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13738"]={"code":"13738","region":"NY","city":"Blodgett Mills","latitude":42.5673,"longitude":-76.1238}}(window,'GeoPostal','US');

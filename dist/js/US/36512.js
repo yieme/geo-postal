@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36512"]={"code":"36512","region":"AL","city":"Bucks","latitude":31.0105,"longitude":-88.0242}}(window,'GeoPostal','US');

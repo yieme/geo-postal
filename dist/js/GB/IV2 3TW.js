@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 3TW"]={"code":"IV2 3TW","region":"Scotland","city":"Inshes","latitude":57.46994,"longitude":-4.19002}}(window,'GeoPostal','GB');

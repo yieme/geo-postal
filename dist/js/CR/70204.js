@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70204"]={"code":"70204","region":"Limon","city":"Roxana","latitude":10.27528,"longitude":-83.75133}}(window,'GeoPostal','CR');

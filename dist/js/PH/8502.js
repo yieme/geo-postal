@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8502"]={"code":"8502","region":"Agusan del Sur","city":"Bayugan","latitude":8.75611,"longitude":125.7675}}(window,'GeoPostal','PH');

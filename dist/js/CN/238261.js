@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238261"]={"code":"238261","region":"Anhui","city":"Laoqiao","latitude":31.60906,"longitude":118.3037}}(window,'GeoPostal','CN');

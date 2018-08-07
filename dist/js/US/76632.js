@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76632"]={"code":"76632","region":"TX","city":"Chilton","latitude":31.31,"longitude":-97.09}}(window,'GeoPostal','US');

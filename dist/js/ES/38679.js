@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38679"]={"code":"38679","region":"Canarias","city":"Adeje","latitude":28.12271,"longitude":-16.726}}(window,'GeoPostal','ES');

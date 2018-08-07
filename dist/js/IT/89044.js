@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89044"]={"code":"89044","region":"Calabria","city":"Locri","latitude":38.24137,"longitude":16.2623}}(window,'GeoPostal','IT');

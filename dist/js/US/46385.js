@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46385"]={"code":"46385","region":"Indiana","city":"Valparaiso","latitude":41.473056,"longitude":-87.061111}}(window,'GeoPostal','US');

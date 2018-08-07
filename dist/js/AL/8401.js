@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8401"]={"code":"8401","region":"Diber","city":"Bulqize","latitude":41.49167,"longitude":20.22194}}(window,'GeoPostal','AL');

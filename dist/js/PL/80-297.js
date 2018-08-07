@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80-297"]={"code":"80-297","region":"Pomorskie","city":"Banino","latitude":54.39215,"longitude":18.40622}}(window,'GeoPostal','PL');

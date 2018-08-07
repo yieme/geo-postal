@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13036"]={"code":"13036","region":"NY","city":"Central Square","latitude":43.309,"longitude":-76.1849}}(window,'GeoPostal','US');

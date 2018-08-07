@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31600"]={"code":"31600","region":"Niedersachsen","city":"Uchte","latitude":52.49975,"longitude":8.90928}}(window,'GeoPostal','DE');

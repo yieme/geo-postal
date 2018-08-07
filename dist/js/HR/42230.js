@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42230"]={"code":"42230","region":"Varazdinska zupanija","city":"Ludbreg","latitude":46.25194,"longitude":16.61472}}(window,'GeoPostal','HR');

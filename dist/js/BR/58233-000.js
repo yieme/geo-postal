@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58233-000"]={"code":"58233-000","region":"Paraiba","city":"Araruna","latitude":-6.55833,"longitude":-35.74167}}(window,'GeoPostal','BR');

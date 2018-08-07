@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71680"]={"code":"71680","region":"Bourgogne-Franche-Comte","city":"Creches-sur-Saone","latitude":46.24475,"longitude":4.78678}}(window,'GeoPostal','FR');

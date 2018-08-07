@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01546"]={"code":"01546","region":"MA","city":"Shrewsbury","latitude":42.3648,"longitude":-71.8969}}(window,'GeoPostal','US');

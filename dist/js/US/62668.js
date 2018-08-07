@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62668"]={"code":"62668","region":"Illinois","city":"Murrayville","latitude":39.587079,"longitude":-90.249792}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35448"]={"code":"35448","region":"AL","city":"Clinton","latitude":32.9137,"longitude":-87.9925}}(window,'GeoPostal','US');

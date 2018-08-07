@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61856"]={"code":"61856","region":"Illinois","city":"Monticello","latitude":40.023244,"longitude":-88.574941}}(window,'GeoPostal','US');

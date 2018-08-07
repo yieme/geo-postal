@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77951"]={"code":"77951","region":"Ile-de-France","city":"Maincy","latitude":48.54977,"longitude":2.70017}}(window,'GeoPostal','FR');

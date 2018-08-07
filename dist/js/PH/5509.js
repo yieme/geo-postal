@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5509"]={"code":"5509","region":"Romblon","city":"Alcantara","latitude":12.2589,"longitude":122.0544}}(window,'GeoPostal','PH');

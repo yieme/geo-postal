@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43500"]={"code":"43500","region":"Auvergne-Rhone-Alpes","city":"Craponne-sur-Arzon","latitude":45.33135,"longitude":3.84802}}(window,'GeoPostal','FR');

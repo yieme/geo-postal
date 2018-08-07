@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75638"]={"code":"75638","region":"Texas","city":"Daingerfield","latitude":33.03179,"longitude":-94.72187}}(window,'GeoPostal','US');

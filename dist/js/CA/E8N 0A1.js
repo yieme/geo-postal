@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8N 0A1"]={"code":"E8N 0A1","region":"New Brunswick","city":"Grande-Anse","latitude":47.80779,"longitude":-65.1945}}(window,'GeoPostal','CA');

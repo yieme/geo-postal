@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68978"]={"code":"68978","region":"Nebraska","city":"Superior","latitude":40.02085,"longitude":-98.07004}}(window,'GeoPostal','US');

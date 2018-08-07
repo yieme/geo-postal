@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS28 4AA"]={"code":"BS28 4AA","region":"England","city":"Wedmore","latitude":51.22727,"longitude":-2.81152}}(window,'GeoPostal','GB');

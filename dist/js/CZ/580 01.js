@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["580 01"]={"code":"580 01","region":"Kraj Vysocina","city":"Okrouhlice","latitude":49.62991,"longitude":15.49083}}(window,'GeoPostal','CZ');

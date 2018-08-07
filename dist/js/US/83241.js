@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83241"]={"code":"83241","region":"Idaho","city":"Grace","latitude":42.524967,"longitude":-111.759307}}(window,'GeoPostal','US');

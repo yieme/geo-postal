@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45345-000"]={"code":"45345-000","region":"Bahia","city":"Jaguaquara","latitude":-13.53056,"longitude":-39.97083}}(window,'GeoPostal','BR');

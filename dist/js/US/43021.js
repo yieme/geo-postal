@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43021"]={"code":"43021","region":"Ohio","city":"Galena","latitude":40.192973,"longitude":-82.897442}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62466"]={"code":"62466","region":"Kharkivska oblast","city":"Khorosheve","latitude":49.85279,"longitude":36.21948}}(window,'GeoPostal','UA');

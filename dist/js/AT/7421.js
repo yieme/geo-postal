@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7421"]={"code":"7421","region":"Niederosterreich","city":"Monichkirchen","latitude":47.5,"longitude":16.03333}}(window,'GeoPostal','AT');

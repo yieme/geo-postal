@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 7RF"]={"code":"TR12 7RF","region":"England","city":"Gunwalloe","latitude":50.05894,"longitude":-5.27624}}(window,'GeoPostal','GB');

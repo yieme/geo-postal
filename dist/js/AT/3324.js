@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3324"]={"code":"3324","region":"Niederosterreich","city":"Euratsfeld","latitude":48.08181,"longitude":14.93154}}(window,'GeoPostal','AT');

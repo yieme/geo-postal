@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49540"]={"code":"49540","region":"Jalisco","city":"Valle de Juarez","latitude":19.93333,"longitude":-102.93333}}(window,'GeoPostal','MX');

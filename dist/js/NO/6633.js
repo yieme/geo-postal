@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6633"]={"code":"6633","region":"More og Romsdal","city":"Batnfjordsora","latitude":62.89271,"longitude":7.6818}}(window,'GeoPostal','NO');

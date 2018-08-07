@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98287"]={"code":"98287","region":"WA","city":"Silvana","latitude":48.2023,"longitude":-122.2538}}(window,'GeoPostal','US');

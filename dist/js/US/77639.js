@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77639"]={"code":"77639","region":"TX","city":"Orangefield","latitude":30.0631,"longitude":-93.8599}}(window,'GeoPostal','US');

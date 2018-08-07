@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25510"]={"code":"25510","region":"WV","city":"Culloden","latitude":38.4198,"longitude":-82.069}}(window,'GeoPostal','US');

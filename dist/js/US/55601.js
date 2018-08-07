@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55601"]={"code":"55601","region":"Minnesota","city":"Beaver Bay","latitude":47.267148,"longitude":-91.316928}}(window,'GeoPostal','US');

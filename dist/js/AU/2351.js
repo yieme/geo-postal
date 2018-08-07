@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2351"]={"code":"2351","region":"New South Wales","city":"Armidale","latitude":-30.50828,"longitude":151.67123}}(window,'GeoPostal','AU');

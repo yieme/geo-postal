@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06754"]={"code":"06754","region":"CT","city":"Cornwall Bridge","latitude":41.8187,"longitude":-73.371}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368830"]={"code":"368830","region":"Severnaya Osetiya, Respublika","city":"Kizlyar","latitude":43.70378,"longitude":44.5944}}(window,'GeoPostal','RU');

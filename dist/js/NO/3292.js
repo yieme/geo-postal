@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3292"]={"code":"3292","region":"Vestfold","city":"Stavern","latitude":59,"longitude":10.03333}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09198"]={"code":"09198","region":"Castilla y Leon","city":"Ibeas de Juarros","latitude":42.33088,"longitude":-3.53519}}(window,'GeoPostal','ES');

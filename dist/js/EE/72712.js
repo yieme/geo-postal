@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72712"]={"code":"72712","region":"Jarvamaa","city":"Paide","latitude":58.88556,"longitude":25.55722}}(window,'GeoPostal','EE');

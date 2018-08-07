@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26201"]={"code":"26201","region":"West Virginia","city":"Buckhannon","latitude":38.98312,"longitude":-80.225032}}(window,'GeoPostal','US');

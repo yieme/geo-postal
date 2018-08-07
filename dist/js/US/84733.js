@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84733"]={"code":"84733","region":"UT","city":"Gunlock","latitude":37.2877,"longitude":-113.7606}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16947"]={"code":"16947","region":"Pennsylvania","city":"Troy","latitude":41.783529,"longitude":-76.791233}}(window,'GeoPostal','US');

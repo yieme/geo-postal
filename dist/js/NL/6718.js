@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6718"]={"code":"6718","region":"Gelderland","city":"Ede","latitude":52.03333,"longitude":5.65833}}(window,'GeoPostal','NL');

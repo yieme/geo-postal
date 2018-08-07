@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35052"]={"code":"35052","region":"AL","city":"Cook Springs","latitude":33.5895,"longitude":-86.3923}}(window,'GeoPostal','US');

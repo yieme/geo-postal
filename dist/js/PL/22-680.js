@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-680"]={"code":"22-680","region":"Lubelskie","city":"Lubycza Krolewska","latitude":50.34102,"longitude":23.51941}}(window,'GeoPostal','PL');

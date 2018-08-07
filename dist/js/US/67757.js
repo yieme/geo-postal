@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67757"]={"code":"67757","region":"Kansas","city":"Selden","latitude":39.540126,"longitude":-100.566939}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63115"]={"code":"63115","region":"Auvergne-Rhone-Alpes","city":"Mezel","latitude":45.75519,"longitude":3.24314}}(window,'GeoPostal','FR');

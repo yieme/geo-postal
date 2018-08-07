@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6385"]={"code":"6385","region":"La Pampa","city":"Arata","latitude":-35.63895,"longitude":-64.35621}}(window,'GeoPostal','AR');

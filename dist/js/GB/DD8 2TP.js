@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 2TP"]={"code":"DD8 2TP","region":"Scotland","city":"Guthrie","latitude":56.64386,"longitude":-2.70667}}(window,'GeoPostal','GB');

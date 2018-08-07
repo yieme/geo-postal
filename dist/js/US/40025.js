@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40025"]={"code":"40025","region":"KY","city":"Glenview","latitude":38.2997,"longitude":-85.6487}}(window,'GeoPostal','US');

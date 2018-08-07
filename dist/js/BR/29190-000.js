@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29190-000"]={"code":"29190-000","region":"Espirito Santo","city":"Aracruz","latitude":-19.82028,"longitude":-40.27333}}(window,'GeoPostal','BR');

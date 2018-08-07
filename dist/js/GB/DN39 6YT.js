@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN39 6YT"]={"code":"DN39 6YT","region":"England","city":"Kirmington","latitude":53.58649,"longitude":-0.33371}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["233312"]={"code":"233312","region":"Uttar Pradesh","city":"Surianwan","latitude":25.46667,"longitude":82.41667}}(window,'GeoPostal','IN');

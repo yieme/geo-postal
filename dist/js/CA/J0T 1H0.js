@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1H0"]={"code":"J0T 1H0","region":"Quebec","city":"Labelle","latitude":46.28339,"longitude":-74.73255}}(window,'GeoPostal','CA');

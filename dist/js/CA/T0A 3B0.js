@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 3B0"]={"code":"T0A 3B0","region":"Alberta","city":"St. Vincent","latitude":54.15018,"longitude":-111.2685}}(window,'GeoPostal','CA');

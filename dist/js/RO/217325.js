@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217325"]={"code":"217325","region":"Gorj","city":"Pades","latitude":45.01667,"longitude":22.85}}(window,'GeoPostal','RO');

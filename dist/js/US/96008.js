@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96008"]={"code":"96008","region":"CA","city":"Bella Vista","latitude":40.7409,"longitude":-122.0725}}(window,'GeoPostal','US');

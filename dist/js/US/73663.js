@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73663"]={"code":"73663","region":"Oklahoma","city":"Seiling","latitude":36.142026,"longitude":-98.929103}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9210"]={"code":"9210","region":"Khulna","city":"Phultala","latitude":22.7,"longitude":89.51667}}(window,'GeoPostal','BD');

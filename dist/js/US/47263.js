@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47263"]={"code":"47263","region":"IN","city":"New Point","latitude":39.3083,"longitude":-85.3297}}(window,'GeoPostal','US');

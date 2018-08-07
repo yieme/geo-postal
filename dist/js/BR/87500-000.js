@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87500-000"]={"code":"87500-000","region":"Parana","city":"Umuarama","latitude":-23.76639,"longitude":-53.325}}(window,'GeoPostal','BR');

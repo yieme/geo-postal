@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["120503"]={"code":"120503","region":"Guayas","city":"Velasco Ibarra","latitude":-1.05,"longitude":-79.61667}}(window,'GeoPostal','EC');

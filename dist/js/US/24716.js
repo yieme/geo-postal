@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24716"]={"code":"24716","region":"WV","city":"Bud","latitude":37.5376,"longitude":-81.3793}}(window,'GeoPostal','US');

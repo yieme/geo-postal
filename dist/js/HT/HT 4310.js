@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 4310"]={"code":"HT 4310","region":"Artibonite","city":"Saint-Marc","latitude":19.10819,"longitude":-72.69379}}(window,'GeoPostal','HT');

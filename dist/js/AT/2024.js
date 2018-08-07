@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2024"]={"code":"2024","region":"Niederosterreich","city":"Mailberg","latitude":48.67379,"longitude":16.18132}}(window,'GeoPostal','AT');

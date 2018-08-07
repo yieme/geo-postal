@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10015"]={"code":"10015","region":"Piemonte","city":"Ivrea","latitude":45.45806,"longitude":7.87192}}(window,'GeoPostal','IT');

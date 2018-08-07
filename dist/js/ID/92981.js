@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92981"]={"code":"92981","region":"Sulawesi Selatan","city":"Malili","latitude":-2.6351,"longitude":121.0948}}(window,'GeoPostal','ID');

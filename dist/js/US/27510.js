@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27510"]={"code":"27510","region":"North Carolina","city":"Carrboro","latitude":35.91014,"longitude":-79.07529}}(window,'GeoPostal','US');

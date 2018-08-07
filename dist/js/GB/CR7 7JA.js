@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CR7 7JA"]={"code":"CR7 7JA","region":"England","city":"Brigstock","latitude":52.45775,"longitude":-0.60834}}(window,'GeoPostal','GB');

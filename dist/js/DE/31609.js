@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31609"]={"code":"31609","region":"Niedersachsen","city":"Sebbenhausen","latitude":52.72983,"longitude":9.18905}}(window,'GeoPostal','DE');

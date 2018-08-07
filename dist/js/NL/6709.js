@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6709"]={"code":"6709","region":"Gelderland","city":"Wageningen","latitude":51.97,"longitude":5.66667}}(window,'GeoPostal','NL');

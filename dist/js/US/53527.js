@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53527"]={"code":"53527","region":"WI","city":"Cottage Grove","latitude":43.0784,"longitude":-89.2017}}(window,'GeoPostal','US');

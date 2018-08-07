@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0E 1B0"]={"code":"A0E 1B0","region":"Newfoundland and Labrador","city":"Bay L'Argent","latitude":47.54992,"longitude":-54.89825}}(window,'GeoPostal','CA');

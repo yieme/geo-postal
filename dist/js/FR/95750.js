@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95750"]={"code":"95750","region":"Ile-de-France","city":"Chars","latitude":49.16032,"longitude":1.93669}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400 09"]={"code":"400 09","region":"Thessalia","city":"Khalki","latitude":39.56667,"longitude":22.53333}}(window,'GeoPostal','GR');

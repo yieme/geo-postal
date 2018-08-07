@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692567"]={"code":"692567","region":"Primorskiy kray","city":"Lipovtsy","latitude":44.20139,"longitude":131.72444}}(window,'GeoPostal','RU');

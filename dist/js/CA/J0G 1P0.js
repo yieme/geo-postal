@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0G 1P0"]={"code":"J0G 1P0","region":"Quebec","city":"Saint-Ours","latitude":45.88337,"longitude":-73.14915}}(window,'GeoPostal','CA');

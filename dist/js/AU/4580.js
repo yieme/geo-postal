@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4580"]={"code":"4580","region":"Queensland","city":"Tin Can Bay","latitude":-25.91646,"longitude":153.00584}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09250"]={"code":"09250","region":"Castilla y Leon","city":"Belorado","latitude":42.42048,"longitude":-3.19133}}(window,'GeoPostal','ES');

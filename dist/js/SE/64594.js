@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64594"]={"code":"64594","region":"Sodermanlands lan","city":"Strangnas","latitude":59.37741,"longitude":17.03119}}(window,'GeoPostal','SE');

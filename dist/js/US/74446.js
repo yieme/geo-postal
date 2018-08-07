@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74446"]={"code":"74446","region":"OK","city":"Okay","latitude":35.8507,"longitude":-95.3183}}(window,'GeoPostal','US');

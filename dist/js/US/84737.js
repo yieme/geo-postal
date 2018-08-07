@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84737"]={"code":"84737","region":"Utah","city":"Hurricane","latitude":37.24248,"longitude":-113.20086}}(window,'GeoPostal','US');

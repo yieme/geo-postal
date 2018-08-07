@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["218"]={"code":"218","region":"Taipei","city":"Taipei","latitude":25.04776,"longitude":121.53185}}(window,'GeoPostal','TW');

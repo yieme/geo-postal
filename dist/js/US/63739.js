@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63739"]={"code":"63739","region":"MO","city":"Burfordville","latitude":37.3632,"longitude":-89.8206}}(window,'GeoPostal','US');

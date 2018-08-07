@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30533"]={"code":"30533","region":"Georgia","city":"Dahlonega","latitude":34.531943,"longitude":-83.986084}}(window,'GeoPostal','US');

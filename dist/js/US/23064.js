@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23064"]={"code":"23064","region":"Virginia","city":"Grimstead","latitude":37.50018,"longitude":-76.30158}}(window,'GeoPostal','US');

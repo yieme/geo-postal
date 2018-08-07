@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-504"]={"code":"08-504","region":"Lubelskie","city":"Ulez","latitude":51.59195,"longitude":22.10741}}(window,'GeoPostal','PL');

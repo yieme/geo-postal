@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44840"]={"code":"44840","region":"OH","city":"Jeromesville","latitude":40.8134,"longitude":-82.1861}}(window,'GeoPostal','US');

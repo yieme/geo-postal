@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36445"]={"code":"36445","region":"Alabama","city":"Frisco City","latitude":31.4335,"longitude":-87.40138}}(window,'GeoPostal','US');

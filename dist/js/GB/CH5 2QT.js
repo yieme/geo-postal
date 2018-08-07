@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH5 2QT"]={"code":"CH5 2QT","region":"Wales","city":"Sealand","latitude":53.2122,"longitude":-2.97193}}(window,'GeoPostal','GB');

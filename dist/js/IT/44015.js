@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44015"]={"code":"44015","region":"Emilia-Romagna","city":"Portomaggiore","latitude":44.69848,"longitude":11.80682}}(window,'GeoPostal','IT');

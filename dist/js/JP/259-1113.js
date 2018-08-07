@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["259-1113"]={"code":"259-1113","region":"Kanagawa","city":"Isehara","latitude":35.383,"longitude":139.3}}(window,'GeoPostal','JP');

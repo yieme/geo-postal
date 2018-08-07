@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38754"]={"code":"38754","region":"Mississippi","city":"Isola","latitude":33.259775,"longitude":-90.593403}}(window,'GeoPostal','US');

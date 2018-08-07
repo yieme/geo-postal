@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385519"]={"code":"385519","region":"Gujarat","city":"Disa","latitude":24.25,"longitude":72.16667}}(window,'GeoPostal','IN');

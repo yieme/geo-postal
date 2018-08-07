@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01341"]={"code":"01341","region":"MA","city":"Conway","latitude":42.5138,"longitude":-72.7025}}(window,'GeoPostal','US');

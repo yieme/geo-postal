@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64045"]={"code":"64045","region":"Sodermanlands lan","city":"Kvicksund","latitude":59.45,"longitude":16.31667}}(window,'GeoPostal','SE');

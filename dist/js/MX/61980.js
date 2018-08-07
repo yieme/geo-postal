@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61980"]={"code":"61980","region":"Michoacan de Ocampo","city":"San Lucas","latitude":18.56667,"longitude":-100.78333}}(window,'GeoPostal','MX');

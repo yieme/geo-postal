@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19120"]={"code":"19120","region":"Castilla-La Mancha","city":"Sacedon","latitude":40.48076,"longitude":-2.73337}}(window,'GeoPostal','ES');

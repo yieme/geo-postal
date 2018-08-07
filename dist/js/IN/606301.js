@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606301"]={"code":"606301","region":"Tamil Nadu","city":"Tiruvannamalai","latitude":12.21667,"longitude":79.06667}}(window,'GeoPostal','IN');

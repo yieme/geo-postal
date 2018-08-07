@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24472"]={"code":"24472","region":"VA","city":"Raphine","latitude":37.9374,"longitude":-79.2219}}(window,'GeoPostal','US');

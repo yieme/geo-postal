@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97109"]={"code":"97109","region":"OR","city":"Buxton","latitude":45.737,"longitude":-123.2146}}(window,'GeoPostal','US');

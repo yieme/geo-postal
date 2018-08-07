@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39464"]={"code":"39464","region":"MS","city":"Ovett","latitude":31.4738,"longitude":-89.0396}}(window,'GeoPostal','US');

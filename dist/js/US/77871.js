@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77871"]={"code":"77871","region":"Texas","city":"Normangee","latitude":31.08882,"longitude":-96.1533}}(window,'GeoPostal','US');

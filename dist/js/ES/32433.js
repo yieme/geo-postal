@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32433"]={"code":"32433","region":"Galicia","city":"Carballeda de Avia","latitude":42.3214,"longitude":-8.16456}}(window,'GeoPostal','ES');

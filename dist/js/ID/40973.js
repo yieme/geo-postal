@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40973"]={"code":"40973","region":"Jawa Barat","city":"Banjar","latitude":-7.1955,"longitude":107.4313}}(window,'GeoPostal','ID');

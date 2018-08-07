@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47900"]={"code":"47900","region":"Emilia-Romagna","city":"Rimini","latitude":44.06333,"longitude":12.58083}}(window,'GeoPostal','IT');

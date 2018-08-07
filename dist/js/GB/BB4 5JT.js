@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB4 5JT"]={"code":"BB4 5JT","region":"England","city":"Warton","latitude":53.76667,"longitude":-2.88333}}(window,'GeoPostal','GB');

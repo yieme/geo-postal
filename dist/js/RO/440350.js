@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["440350"]={"code":"440350","region":"Satu Mare","city":"Satu Mare","latitude":47.8,"longitude":22.88333}}(window,'GeoPostal','RO');

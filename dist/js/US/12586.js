@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12586"]={"code":"12586","region":"New York","city":"Walden","latitude":41.5612,"longitude":-74.18848}}(window,'GeoPostal','US');

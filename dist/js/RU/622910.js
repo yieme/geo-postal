@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["622910"]={"code":"622910","region":"Sverdlovskaya oblast'","city":"Uralets","latitude":57.6614,"longitude":59.6497}}(window,'GeoPostal','RU');

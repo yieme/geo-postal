@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60901"]={"code":"60901","region":"Puntarenas","city":"Parrita","latitude":9.52012,"longitude":-84.32249}}(window,'GeoPostal','CR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70535"]={"code":"70535","region":"LA","city":"Eunice","latitude":30.5116,"longitude":-92.3985}}(window,'GeoPostal','US');

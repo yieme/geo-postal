@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04096"]={"code":"04096","region":"Maine","city":"Yarmouth","latitude":43.797164,"longitude":-70.178356}}(window,'GeoPostal','US');

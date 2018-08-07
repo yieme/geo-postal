@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 1G0"]={"code":"T0B 1G0","region":"Alberta","city":"Dewberry","latitude":53.58347,"longitude":-110.53493}}(window,'GeoPostal','CA');

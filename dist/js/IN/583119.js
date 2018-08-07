@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["583119"]={"code":"583119","region":"Karnataka","city":"Sandur","latitude":15.1,"longitude":76.55}}(window,'GeoPostal','IN');

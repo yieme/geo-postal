@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["786103"]={"code":"786103","region":"Assam","city":"Dibrugarh","latitude":27.48333,"longitude":94.9}}(window,'GeoPostal','IN');

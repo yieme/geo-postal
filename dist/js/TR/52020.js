@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52020"]={"code":"52020","region":"Ordu","city":"Golkoy","latitude":40.6875,"longitude":37.61778}}(window,'GeoPostal','TR');

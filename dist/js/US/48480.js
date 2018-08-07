@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48480"]={"code":"48480","region":"MI","city":"Grand Blanc","latitude":42.918,"longitude":-83.617}}(window,'GeoPostal','US');

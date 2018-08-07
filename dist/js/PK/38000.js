@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38000"]={"code":"38000","region":"Punjab","city":"Faisalabad","latitude":31.41667,"longitude":73.08333}}(window,'GeoPostal','PK');

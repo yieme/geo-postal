@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2X 0A5"]={"code":"J2X 0A5","region":"Quebec","city":"Sainte-Anne-de-Sabrevois","latitude":45.21678,"longitude":-73.21585}}(window,'GeoPostal','CA');

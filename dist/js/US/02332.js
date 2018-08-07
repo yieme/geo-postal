@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02332"]={"code":"02332","region":"Massachusetts","city":"Marshfield","latitude":42.039333,"longitude":-70.710413}}(window,'GeoPostal','US');

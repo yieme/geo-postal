@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["304804"]={"code":"304804","region":"Rajasthan","city":"Devli","latitude":25.75,"longitude":75.38333}}(window,'GeoPostal','IN');

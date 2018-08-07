@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08802"]={"code":"08802","region":"New Jersey","city":"Asbury","latitude":40.6653,"longitude":-75.02412}}(window,'GeoPostal','US');

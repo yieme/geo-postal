@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19230"]={"code":"19230","region":"Pasco","city":"Oxapampa","latitude":-10.5775,"longitude":-75.40167}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00766"]={"code":"00766","region":"PR","city":"Villalba","latitude":18.13,"longitude":-66.48}}(window,'GeoPostal','US');

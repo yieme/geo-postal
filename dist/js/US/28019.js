@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28019"]={"code":"28019","region":"NC","city":"Caroleen","latitude":35.281,"longitude":-81.7962}}(window,'GeoPostal','US');

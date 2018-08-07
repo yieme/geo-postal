@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46923"]={"code":"46923","region":"IN","city":"Delphi","latitude":40.5734,"longitude":-86.6788}}(window,'GeoPostal','US');

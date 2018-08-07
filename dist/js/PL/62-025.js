@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-025"]={"code":"62-025","region":"Wielkopolskie","city":"Kostrzyn","latitude":52.39847,"longitude":17.22811}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03049"]={"code":"03049","region":"New Hampshire","city":"Hollis","latitude":42.74873,"longitude":-71.574935}}(window,'GeoPostal','US');

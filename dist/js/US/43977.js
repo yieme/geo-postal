@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43977"]={"code":"43977","region":"Ohio","city":"Flushing","latitude":40.128052,"longitude":-81.068673}}(window,'GeoPostal','US');

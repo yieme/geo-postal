@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35044"]={"code":"35044","region":"Durango","city":"Guadalupe Victoria","latitude":24.44972,"longitude":-104.1225}}(window,'GeoPostal','MX');

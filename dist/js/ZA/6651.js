@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6651"]={"code":"6651","region":"Western Cape","city":"Oudtshoorn","latitude":-33.59067,"longitude":22.2014}}(window,'GeoPostal','ZA');

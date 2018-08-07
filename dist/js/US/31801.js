@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31801"]={"code":"31801","region":"GA","city":"Box Springs","latitude":32.5195,"longitude":-84.5927}}(window,'GeoPostal','US');

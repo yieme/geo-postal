@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60544"]={"code":"60544","region":"Illinois","city":"Plainfield","latitude":41.62697,"longitude":-88.20395}}(window,'GeoPostal','US');

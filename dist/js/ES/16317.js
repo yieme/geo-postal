@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16317"]={"code":"16317","region":"Castilla-La Mancha","city":"Zafrilla","latitude":40.2,"longitude":-1.61667}}(window,'GeoPostal','ES');

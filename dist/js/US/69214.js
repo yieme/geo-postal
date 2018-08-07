@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69214"]={"code":"69214","region":"NE","city":"Johnstown","latitude":42.5717,"longitude":-100.0582}}(window,'GeoPostal','US');

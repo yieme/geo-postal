@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37924"]={"code":"37924","region":"TN","city":"Knoxville","latitude":36.032,"longitude":-83.8021}}(window,'GeoPostal','US');

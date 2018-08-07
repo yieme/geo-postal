@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57759"]={"code":"57759","region":"SD","city":"Nemo","latitude":44.2097,"longitude":-103.5449}}(window,'GeoPostal','US');

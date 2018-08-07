@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42451"]={"code":"42451","region":"Kentucky","city":"Reed","latitude":37.860724,"longitude":-87.378283}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78650"]={"code":"78650","region":"Texas","city":"McDade","latitude":30.304171,"longitude":-97.220959}}(window,'GeoPostal','US');

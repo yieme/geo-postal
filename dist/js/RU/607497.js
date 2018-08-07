@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607497"]={"code":"607497","region":"Nizhegorodskaya oblast'","city":"Urazovka","latitude":55.40126,"longitude":45.6186}}(window,'GeoPostal','RU');

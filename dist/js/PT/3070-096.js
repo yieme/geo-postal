@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3070-096"]={"code":"3070-096","region":"Coimbra","city":"Mira","latitude":40.42892,"longitude":-8.73746}}(window,'GeoPostal','PT');

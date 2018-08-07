@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN13 6LH"]={"code":"NN13 6LH","region":"England","city":"Brackley","latitude":52.03333,"longitude":-1.15}}(window,'GeoPostal','GB');

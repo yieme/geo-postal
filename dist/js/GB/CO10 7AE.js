@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 7AE"]={"code":"CO10 7AE","region":"England","city":"Borley","latitude":52.05424,"longitude":0.69215}}(window,'GeoPostal','GB');

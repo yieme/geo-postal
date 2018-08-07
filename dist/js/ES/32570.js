@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32570"]={"code":"32570","region":"Galicia","city":"Maside","latitude":42.41031,"longitude":-8.02582}}(window,'GeoPostal','ES');

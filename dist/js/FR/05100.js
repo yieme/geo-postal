@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05100"]={"code":"05100","region":"Provence-Alpes-Cote d'Azur","city":"Montgenevre","latitude":44.9316,"longitude":6.7219}}(window,'GeoPostal','FR');

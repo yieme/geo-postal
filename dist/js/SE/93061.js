@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93061"]={"code":"93061","region":"Vasterbottens lan","city":"Soderfors","latitude":64.81667,"longitude":18.05}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LV-5442"]={"code":"LV-5442","region":"Darnah","city":"Darnah","latitude":32.76704,"longitude":22.63669}}(window,'GeoPostal','LY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431906"]={"code":"431906","region":"Hubei","city":"Fengle","latitude":31.46622,"longitude":112.473}}(window,'GeoPostal','CN');

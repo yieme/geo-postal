@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Y 1R0"]={"code":"G0Y 1R0","region":"Quebec","city":"Woburn","latitude":45.38479,"longitude":-70.86263}}(window,'GeoPostal','CA');

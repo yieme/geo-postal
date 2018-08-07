@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9814"]={"code":"9814","region":"Southland","city":"Bluff","latitude":-46.6,"longitude":168.33333}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73900-000"]={"code":"73900-000","region":"Goias","city":"Posse","latitude":-14.09306,"longitude":-46.36944}}(window,'GeoPostal','BR');

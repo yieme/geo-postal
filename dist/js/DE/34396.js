@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34396"]={"code":"34396","region":"Hessen","city":"Lamerden","latitude":51.52669,"longitude":9.32653}}(window,'GeoPostal','DE');

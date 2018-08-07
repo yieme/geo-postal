@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30189"]={"code":"30189","region":"Georgia","city":"Woodstock","latitude":34.1261,"longitude":-84.5651}}(window,'GeoPostal','US');

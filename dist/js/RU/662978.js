@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662978"]={"code":"662978","region":"Krasnoyarskiy kray","city":"Zheleznogorsk","latitude":56.25111,"longitude":93.53194}}(window,'GeoPostal','RU');

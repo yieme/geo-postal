@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15868"]={"code":"15868","region":"Pennsylvania","city":"Weedville","latitude":41.26782,"longitude":-78.49608}}(window,'GeoPostal','US');

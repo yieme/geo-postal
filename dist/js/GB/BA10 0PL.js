@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA10 0PL"]={"code":"BA10 0PL","region":"England","city":"Cole","latitude":51.10073,"longitude":-2.47696}}(window,'GeoPostal','GB');

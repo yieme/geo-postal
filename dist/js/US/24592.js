@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24592"]={"code":"24592","region":"Virginia","city":"South Boston","latitude":36.69875,"longitude":-78.9014}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75459"]={"code":"75459","region":"Texas","city":"Howe","latitude":33.5175,"longitude":-96.64038}}(window,'GeoPostal','US');

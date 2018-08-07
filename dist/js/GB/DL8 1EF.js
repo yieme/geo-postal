@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 1EF"]={"code":"DL8 1EF","region":"England","city":"Bedale","latitude":54.28811,"longitude":-1.59181}}(window,'GeoPostal','GB');

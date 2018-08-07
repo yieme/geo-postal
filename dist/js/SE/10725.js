@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10725"]={"code":"10725","region":"Stockholms lan","city":"Stockholm","latitude":59.33258,"longitude":18.0649}}(window,'GeoPostal','SE');

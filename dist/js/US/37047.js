@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37047"]={"code":"37047","region":"TN","city":"Cornersville","latitude":35.3409,"longitude":-86.8286}}(window,'GeoPostal','US');

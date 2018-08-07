@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56679"]={"code":"56679","region":"MN","city":"South International Falls","latitude":48.5866,"longitude":-93.399}}(window,'GeoPostal','US');

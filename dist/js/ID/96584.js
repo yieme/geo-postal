@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96584"]={"code":"96584","region":"Gorontalo","city":"Bilungala","latitude":0.3815,"longitude":123.2135}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38271"]={"code":"38271","region":"Tennessee","city":"Woodland Mills","latitude":36.432004,"longitude":-89.121795}}(window,'GeoPostal','US');

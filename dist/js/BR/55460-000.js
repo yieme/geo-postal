@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55460-000"]={"code":"55460-000","region":"Pernambuco","city":"Cupira","latitude":-8.61667,"longitude":-35.95}}(window,'GeoPostal','BR');

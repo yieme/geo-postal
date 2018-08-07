@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87772"]={"code":"87772","region":"Bayern","city":"Pfaffenhausen","latitude":48.11878,"longitude":10.45504}}(window,'GeoPostal','DE');

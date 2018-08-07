@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2089"]={"code":"2089","region":"New South Wales","city":"Neutral Bay","latitude":-33.83889,"longitude":151.21667}}(window,'GeoPostal','AU');

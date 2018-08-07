@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-100"]={"code":"12-100","region":"Warminsko-mazurskie","city":"Szczytno","latitude":53.56259,"longitude":20.98747}}(window,'GeoPostal','PL');

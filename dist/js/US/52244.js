@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52244"]={"code":"52244","region":"IA","city":"Iowa City","latitude":41.5727,"longitude":-91.6619}}(window,'GeoPostal','US');

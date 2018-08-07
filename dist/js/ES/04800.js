@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04800"]={"code":"04800","region":"Andalucia","city":"Albox","latitude":37.38856,"longitude":-2.1495}}(window,'GeoPostal','ES');

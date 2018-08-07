@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45780"]={"code":"45780","region":"OH","city":"The Plains","latitude":39.3662,"longitude":-82.1341}}(window,'GeoPostal','US');

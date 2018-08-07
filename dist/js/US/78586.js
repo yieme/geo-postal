@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78586"]={"code":"78586","region":"Texas","city":"San Benito","latitude":26.13258,"longitude":-97.6311}}(window,'GeoPostal','US');

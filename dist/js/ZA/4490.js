@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4490"]={"code":"4490","region":"Kwazulu-Natal","city":"Stanger","latitude":-29.32816,"longitude":31.28954}}(window,'GeoPostal','ZA');

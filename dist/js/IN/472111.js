@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472111"]={"code":"472111","region":"Uttar Pradesh","city":"Tikamgarh","latitude":24.745,"longitude":78.8333}}(window,'GeoPostal','IN');

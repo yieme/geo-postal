@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3028"]={"code":"3028","region":"Victoria","city":"Laverton","latitude":-37.86202,"longitude":144.76979}}(window,'GeoPostal','AU');

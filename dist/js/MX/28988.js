@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28988"]={"code":"28988","region":"Chihuahua","city":"Praxedis Guerrero","latitude":31.36667,"longitude":-106.01667}}(window,'GeoPostal','MX');

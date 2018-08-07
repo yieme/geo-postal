@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA21 2YG"]={"code":"PA21 2YG","region":"Scotland","city":"Tighnabruaich","latitude":55.90613,"longitude":-5.23362}}(window,'GeoPostal','GB');

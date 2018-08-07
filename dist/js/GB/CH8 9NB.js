@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 9NB"]={"code":"CH8 9NB","region":"Wales","city":"Llanasa","latitude":53.32215,"longitude":-3.34348}}(window,'GeoPostal','GB');

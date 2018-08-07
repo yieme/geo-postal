@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26130"]={"code":"26130","region":"Nakhon Nayok","city":"Pak Phli","latitude":14.16308,"longitude":101.26886}}(window,'GeoPostal','TH');

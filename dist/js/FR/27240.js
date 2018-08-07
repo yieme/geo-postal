@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27240"]={"code":"27240","region":"Normandie","city":"Damville","latitude":48.8693,"longitude":1.07458}}(window,'GeoPostal','FR');

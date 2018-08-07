@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-552"]={"code":"27-552","region":"Swietokrzyskie","city":"Backowice","latitude":50.79194,"longitude":21.23211}}(window,'GeoPostal','PL');

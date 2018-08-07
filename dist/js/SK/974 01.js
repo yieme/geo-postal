@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["974 01"]={"code":"974 01","region":"Banskobystricky kraj","city":"Banska Bystrica","latitude":48.73946,"longitude":19.15349}}(window,'GeoPostal','SK');

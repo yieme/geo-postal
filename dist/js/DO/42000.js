@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42000"]={"code":"42000","region":"Monsenor Nouel","city":"Maimon","latitude":18.906611,"longitude":-70.273571}}(window,'GeoPostal','DO');

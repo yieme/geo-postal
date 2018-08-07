@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 4RJ"]={"code":"SA33 4RJ","region":"Wales","city":"Llansadurnen","latitude":51.76439,"longitude":-4.49186}}(window,'GeoPostal','GB');

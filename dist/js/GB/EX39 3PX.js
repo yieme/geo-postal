@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 3PX"]={"code":"EX39 3PX","region":"England","city":"Westward Ho","latitude":51.03333,"longitude":-4.23333}}(window,'GeoPostal','GB');

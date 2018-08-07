@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02480"]={"code":"02480","region":"Hauts-de-France","city":"Jussy","latitude":49.71984,"longitude":3.2327}}(window,'GeoPostal','FR');

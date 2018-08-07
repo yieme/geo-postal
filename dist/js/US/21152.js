@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21152"]={"code":"21152","region":"Maryland","city":"Sparks Glencoe","latitude":39.54324,"longitude":-76.68282}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99444"]={"code":"99444","region":"Thuringen","city":"Blankenhain","latitude":50.85993,"longitude":11.3439}}(window,'GeoPostal','DE');

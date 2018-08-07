@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56009"]={"code":"56009","region":"Minnesota","city":"Alden","latitude":43.67073,"longitude":-93.572579}}(window,'GeoPostal','US');

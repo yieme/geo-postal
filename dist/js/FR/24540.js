@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24540"]={"code":"24540","region":"Nouvelle-Aquitaine","city":"Biron","latitude":44.6317,"longitude":0.8731}}(window,'GeoPostal','FR');

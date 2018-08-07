@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2131"]={"code":"2131","region":"Sofia","city":"Gorna Malina","latitude":42.68333,"longitude":23.7}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25204"]={"code":"25204","region":"WV","city":"Twilight","latitude":37.926,"longitude":-81.6141}}(window,'GeoPostal','US');

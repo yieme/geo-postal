@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-200"]={"code":"96-200","region":"Lodzkie","city":"Rawa Mazowiecka","latitude":51.76437,"longitude":20.25493}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15674"]={"code":"15674","region":"PA","city":"Norvelt","latitude":40.216,"longitude":-79.4872}}(window,'GeoPostal','US');

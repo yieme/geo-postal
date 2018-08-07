@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100"]={"code":"2100","region":"Niederosterreich","city":"Korneuburg","latitude":48.35,"longitude":16.33333}}(window,'GeoPostal','AT');

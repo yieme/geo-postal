@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04002"]={"code":"04002","region":"Chimaltenango","city":"San Jose Poaquil","latitude":14.81972,"longitude":-90.90639}}(window,'GeoPostal','GT');

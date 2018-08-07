@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70371"]={"code":"70371","region":"LA","city":"Kraemer","latitude":29.8652,"longitude":-90.5962}}(window,'GeoPostal','US');

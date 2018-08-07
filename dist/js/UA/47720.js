@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47720"]={"code":"47720","region":"Ternopilska oblast","city":"Petrikov","latitude":49.53122,"longitude":25.57901}}(window,'GeoPostal','UA');

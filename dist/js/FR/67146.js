@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67146"]={"code":"67146","region":"Grand-Est","city":"Barr","latitude":48.40755,"longitude":7.44873}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62354"]={"code":"62354","region":"Illinois","city":"Nauvoo","latitude":40.55004,"longitude":-91.38487}}(window,'GeoPostal','US');

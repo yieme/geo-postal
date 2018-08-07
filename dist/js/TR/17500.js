@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17500"]={"code":"17500","region":"Bursa","city":"Yenisehir","latitude":40.26444,"longitude":29.65306}}(window,'GeoPostal','TR');

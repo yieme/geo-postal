@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72739"]={"code":"72739","region":"AR","city":"Hiwasse","latitude":36.4416,"longitude":-94.339}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO14 9TQ"]={"code":"YO14 9TQ","region":"England","city":"Speeton","latitude":54.15575,"longitude":-0.24221}}(window,'GeoPostal','GB');

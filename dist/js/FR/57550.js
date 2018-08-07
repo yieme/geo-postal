@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57550"]={"code":"57550","region":"Grand-Est","city":"Falck","latitude":49.23134,"longitude":6.63497}}(window,'GeoPostal','FR');

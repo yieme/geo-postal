@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76559"]={"code":"76559","region":"TX","city":"Nolanville","latitude":31.0833,"longitude":-97.5941}}(window,'GeoPostal','US');

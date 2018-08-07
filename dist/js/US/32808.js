@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32808"]={"code":"32808","region":"Florida","city":"Pine Hills","latitude":28.55778,"longitude":-81.4534}}(window,'GeoPostal','US');

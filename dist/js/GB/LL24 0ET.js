@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL24 0ET"]={"code":"LL24 0ET","region":"Wales","city":"Capel-Curig","latitude":53.1,"longitude":-3.91667}}(window,'GeoPostal','GB');

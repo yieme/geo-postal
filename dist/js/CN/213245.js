@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213245"]={"code":"213245","region":"Jiangsu","city":"Xuebu","latitude":31.70761,"longitude":119.39427}}(window,'GeoPostal','CN');

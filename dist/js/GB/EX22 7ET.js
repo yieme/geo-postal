@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 7ET"]={"code":"EX22 7ET","region":"England","city":"Bridgerule","latitude":50.79923,"longitude":-4.4527}}(window,'GeoPostal','GB');

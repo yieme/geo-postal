@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2080-999"]={"code":"2080-999","region":"Santarem","city":"Santarem","latitude":39.23333,"longitude":-8.68333}}(window,'GeoPostal','PT');

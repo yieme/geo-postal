@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98607"]={"code":"98607","region":"Washington","city":"Camas","latitude":45.58706,"longitude":-122.39954}}(window,'GeoPostal','US');

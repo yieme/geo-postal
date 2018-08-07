@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48850"]={"code":"48850","region":"Aksaray","city":"Ortakoy","latitude":38.73728,"longitude":34.03866}}(window,'GeoPostal','TR');

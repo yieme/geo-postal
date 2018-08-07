@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23943"]={"code":"23943","region":"Virginia","city":"Hampden Sydney","latitude":37.24218,"longitude":-78.46002}}(window,'GeoPostal','US');

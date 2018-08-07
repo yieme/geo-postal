@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["085 01"]={"code":"085 01","region":"Presovsky kraj","city":"Bardejov","latitude":49.29175,"longitude":21.27271}}(window,'GeoPostal','SK');

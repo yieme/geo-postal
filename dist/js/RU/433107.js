@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433107"]={"code":"433107","region":"Ul'yanovskaya oblast'","city":"Veshkayma","latitude":54.0472,"longitude":47.13}}(window,'GeoPostal','RU');

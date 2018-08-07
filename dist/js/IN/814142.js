@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814142"]={"code":"814142","region":"Jharkhand","city":"Jasidih","latitude":24.51667,"longitude":86.65}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43210"]={"code":"43210","region":"Auvergne-Rhone-Alpes","city":"Bas-en-Basset","latitude":45.30654,"longitude":4.10899}}(window,'GeoPostal','FR');

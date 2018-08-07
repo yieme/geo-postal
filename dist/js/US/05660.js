@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05660"]={"code":"05660","region":"Vermont","city":"Moretown","latitude":44.26639,"longitude":-72.72556}}(window,'GeoPostal','US');

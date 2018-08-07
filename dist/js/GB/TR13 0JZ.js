@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR13 0JZ"]={"code":"TR13 0JZ","region":"England","city":"Porkellis","latitude":50.15588,"longitude":-5.22966}}(window,'GeoPostal','GB');

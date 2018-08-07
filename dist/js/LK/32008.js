@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32008"]={"code":"32008","region":"Eastern Province","city":"Ampara","latitude":7.28333,"longitude":81.66667}}(window,'GeoPostal','LK');

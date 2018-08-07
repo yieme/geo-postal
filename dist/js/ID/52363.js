@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52363"]={"code":"52363","region":"Jawa Tengah","city":"Comal","latitude":-6.9053,"longitude":109.5347}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL54 6SW"]={"code":"LL54 6SW","region":"Wales","city":"Llanllyfni","latitude":53.04128,"longitude":-4.28382}}(window,'GeoPostal','GB');

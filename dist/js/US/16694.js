@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16694"]={"code":"16694","region":"PA","city":"Wood","latitude":40.166,"longitude":-78.1381}}(window,'GeoPostal','US');

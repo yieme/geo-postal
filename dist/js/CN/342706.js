@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342706"]={"code":"342706","region":"Jiangxi","city":"Xiaosong","latitude":26.44242,"longitude":116.3055}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46880"]={"code":"46880","region":"Valenciana, Comunidad","city":"Bocairent","latitude":38.76667,"longitude":-0.61667}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67502"]={"code":"67502","region":"Kansas","city":"Hutchinson","latitude":38.100151,"longitude":-97.919391}}(window,'GeoPostal','US');

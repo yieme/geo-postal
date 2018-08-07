@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23221"]={"code":"23221","region":"Srednjebanatski okrug","city":"Radojevo","latitude":45.74694,"longitude":20.78917}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79085"]={"code":"79085","region":"Texas","city":"Summerfield","latitude":34.713515,"longitude":-102.481887}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17239"]={"code":"17239","region":"PA","city":"Neelyton","latitude":40.1371,"longitude":-77.858}}(window,'GeoPostal','US');

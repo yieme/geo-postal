@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13641"]={"code":"13641","region":"NY","city":"Fishers Landing","latitude":44.2752,"longitude":-76.0049}}(window,'GeoPostal','US');

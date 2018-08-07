@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80037"]={"code":"80037","region":"CO","city":"Commerce City","latitude":39.8083,"longitude":-104.9339}}(window,'GeoPostal','US');

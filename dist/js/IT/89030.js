@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89030"]={"code":"89030","region":"Calabria","city":"San Luca","latitude":38.14837,"longitude":16.066}}(window,'GeoPostal','IT');

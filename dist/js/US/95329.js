@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95329"]={"code":"95329","region":"CA","city":"La Grange","latitude":37.6899,"longitude":-120.3851}}(window,'GeoPostal','US');

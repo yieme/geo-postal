@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 4AS"]={"code":"TF9 4AS","region":"England","city":"Norton in Hales","latitude":52.94414,"longitude":-2.44309}}(window,'GeoPostal','GB');

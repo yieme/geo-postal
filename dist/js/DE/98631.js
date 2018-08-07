@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98631"]={"code":"98631","region":"Thuringen","city":"Mendhausen","latitude":50.38333,"longitude":10.46667}}(window,'GeoPostal','DE');

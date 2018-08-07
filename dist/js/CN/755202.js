@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["755202"]={"code":"755202","region":"Ningxia","city":"Luochuan","latitude":36.6122,"longitude":106.00167}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10298"]={"code":"10298","region":"Zagrebacka zupanija","city":"Jablanovec","latitude":45.87583,"longitude":15.85361}}(window,'GeoPostal','HR');

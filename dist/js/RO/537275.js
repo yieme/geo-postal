@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537275"]={"code":"537275","region":"Harghita","city":"Balan","latitude":46.6505,"longitude":25.80834}}(window,'GeoPostal','RO');

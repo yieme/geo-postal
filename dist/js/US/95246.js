@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95246"]={"code":"95246","region":"California","city":"Mountain Ranch","latitude":38.240981,"longitude":-120.531947}}(window,'GeoPostal','US');

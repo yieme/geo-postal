@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63144"]={"code":"63144","region":"Missouri","city":"Brentwood","latitude":38.61792,"longitude":-90.34836}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14169"]={"code":"14169","region":"NY","city":"Wales Center","latitude":42.7684,"longitude":-78.53}}(window,'GeoPostal','US');

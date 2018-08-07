@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7201"]={"code":"7201","region":"Sor-Trondelag","city":"Kyrksaeterora","latitude":63.29057,"longitude":9.08909}}(window,'GeoPostal','NO');

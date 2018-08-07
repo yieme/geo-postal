@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86030"]={"code":"86030","region":"Molise","city":"Mafalda","latitude":41.94308,"longitude":14.7161}}(window,'GeoPostal','IT');

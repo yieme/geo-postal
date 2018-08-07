@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520-3413"]={"code":"520-3413","region":"Shiga","city":"Koka","latitude":34.967,"longitude":136.167}}(window,'GeoPostal','JP');

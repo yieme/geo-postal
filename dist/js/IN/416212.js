@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416212"]={"code":"416212","region":"Maharashtra","city":"Ajra","latitude":16.11667,"longitude":74.2}}(window,'GeoPostal','IN');

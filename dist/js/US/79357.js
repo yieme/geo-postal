@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79357"]={"code":"79357","region":"Texas","city":"Ralls","latitude":33.67425,"longitude":-101.38766}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03902"]={"code":"03902","region":"ME","city":"Cape Neddick","latitude":43.2133,"longitude":-70.6397}}(window,'GeoPostal','US');

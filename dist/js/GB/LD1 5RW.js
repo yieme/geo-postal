@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD1 5RW"]={"code":"LD1 5RW","region":"Wales","city":"Bettws Disserth","latitude":52.2,"longitude":-3.3}}(window,'GeoPostal','GB');

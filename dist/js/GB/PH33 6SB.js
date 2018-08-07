@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 6SB"]={"code":"PH33 6SB","region":"Scotland","city":"North Ballachulish","latitude":56.69424,"longitude":-5.18217}}(window,'GeoPostal','GB');

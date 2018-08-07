@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85630"]={"code":"85630","region":"Bayern","city":"Keferloh","latitude":48.09505,"longitude":11.72748}}(window,'GeoPostal','DE');

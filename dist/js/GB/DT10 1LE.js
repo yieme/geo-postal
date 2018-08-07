@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 1LE"]={"code":"DT10 1LE","region":"England","city":"Marnhull","latitude":50.97045,"longitude":-2.31327}}(window,'GeoPostal','GB');

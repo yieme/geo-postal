@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66849"]={"code":"66849","region":"KS","city":"Dwight","latitude":38.8389,"longitude":-96.5802}}(window,'GeoPostal','US');

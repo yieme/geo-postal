@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RBT 6930"]={"code":"RBT 6930","region":"Rabat Malta","city":"Rabat","latitude":35.87417,"longitude":14.39415}}(window,'GeoPostal','MT');

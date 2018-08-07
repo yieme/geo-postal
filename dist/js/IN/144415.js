@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144415"]={"code":"144415","region":"Punjab","city":"Chima","latitude":30.6854,"longitude":76.0863}}(window,'GeoPostal','IN');

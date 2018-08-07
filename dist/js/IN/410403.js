@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["410403"]={"code":"410403","region":"Maharashtra","city":"Lonavale","latitude":18.75,"longitude":73.41667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44149"]={"code":"44149","region":"Pays-de-la-Loire","city":"Chateaubriant","latitude":47.71667,"longitude":-1.38333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05829"]={"code":"05829","region":"Vermont","city":"Derby","latitude":44.966667,"longitude":-72.133333}}(window,'GeoPostal','US');

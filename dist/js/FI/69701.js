@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69701"]={"code":"69701","region":"Keski-Pohjanmaa","city":"Veteli","latitude":63.47839,"longitude":23.78285}}(window,'GeoPostal','FI');

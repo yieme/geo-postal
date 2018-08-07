@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR4 7BG"]={"code":"HR4 7BG","region":"England","city":"Norton Canon","latitude":52.12186,"longitude":-2.90801}}(window,'GeoPostal','GB');

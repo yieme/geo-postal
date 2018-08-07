@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21849"]={"code":"21849","region":"MD","city":"Parsonsburg","latitude":38.3914,"longitude":-75.4737}}(window,'GeoPostal','US');

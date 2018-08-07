@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47468"]={"code":"47468","region":"IN","city":"Unionville","latitude":39.2514,"longitude":-86.4189}}(window,'GeoPostal','US');

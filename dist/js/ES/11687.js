@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11687"]={"code":"11687","region":"Andalucia","city":"El Gastor","latitude":36.85478,"longitude":-5.32334}}(window,'GeoPostal','ES');

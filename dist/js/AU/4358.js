@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4358"]={"code":"4358","region":"Queensland","city":"Cambooya","latitude":-27.70548,"longitude":151.86066}}(window,'GeoPostal','AU');

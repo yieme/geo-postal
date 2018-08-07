@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38390"]={"code":"38390","region":"TN","city":"Yuma","latitude":35.868,"longitude":-88.3819}}(window,'GeoPostal','US');

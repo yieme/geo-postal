@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-431"]={"code":"42-431","region":"Slaskie","city":"Zawiercie","latitude":50.48766,"longitude":19.41679}}(window,'GeoPostal','PL');

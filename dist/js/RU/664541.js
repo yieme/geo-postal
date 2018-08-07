@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664541"]={"code":"664541","region":"Irkutskaya oblast'","city":"Oyek","latitude":52.58611,"longitude":104.45556}}(window,'GeoPostal','RU');

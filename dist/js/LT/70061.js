@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70061"]={"code":"70061","region":"Marijampoles apskritis","city":"Virbalis","latitude":54.62667,"longitude":22.81694}}(window,'GeoPostal','LT');

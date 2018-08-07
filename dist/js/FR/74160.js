@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74160"]={"code":"74160","region":"Auvergne-Rhone-Alpes","city":"Collonges-sous-Saleve","latitude":46.1416,"longitude":6.15372}}(window,'GeoPostal','FR');

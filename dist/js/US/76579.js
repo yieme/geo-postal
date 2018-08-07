@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76579"]={"code":"76579","region":"TX","city":"Troy","latitude":31.1759,"longitude":-97.2852}}(window,'GeoPostal','US');

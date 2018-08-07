@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30171"]={"code":"30171","region":"Georgia","city":"Rydal","latitude":34.346471,"longitude":-84.73664}}(window,'GeoPostal','US');

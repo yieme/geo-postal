@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["947 03"]={"code":"947 03","region":"Nitriansky kraj","city":"Hurbanovo","latitude":47.86984,"longitude":18.19233}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28150"]={"code":"28150","region":"North Carolina","city":"Shelby","latitude":35.29235,"longitude":-81.53565}}(window,'GeoPostal','US');

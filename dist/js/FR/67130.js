@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67130"]={"code":"67130","region":"Grand-Est","city":"Russ","latitude":48.49495,"longitude":7.26053}}(window,'GeoPostal','FR');

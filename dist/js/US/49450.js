@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49450"]={"code":"49450","region":"MI","city":"Pullman","latitude":42.4651,"longitude":-86.0799}}(window,'GeoPostal','US');

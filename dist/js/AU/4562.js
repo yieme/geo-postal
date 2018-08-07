@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4562"]={"code":"4562","region":"Queensland","city":"Eumundi","latitude":-26.47449,"longitude":152.95136}}(window,'GeoPostal','AU');

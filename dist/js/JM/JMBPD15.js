@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBPD15"]={"code":"JMBPD15","region":"Portland","city":"Port Antonio","latitude":18.17998,"longitude":-76.46121}}(window,'GeoPostal','JM');

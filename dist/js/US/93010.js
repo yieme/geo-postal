@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93010"]={"code":"93010","region":"California","city":"Camarillo","latitude":34.21639,"longitude":-119.0376}}(window,'GeoPostal','US');

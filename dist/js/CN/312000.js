@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312000"]={"code":"312000","region":"Zhejiang","city":"Keqiao","latitude":30.07265,"longitude":120.48644}}(window,'GeoPostal','CN');

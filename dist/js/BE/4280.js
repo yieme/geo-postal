@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4280"]={"code":"4280","region":"Liege","city":"Hannut","latitude":50.67142,"longitude":5.07898}}(window,'GeoPostal','BE');

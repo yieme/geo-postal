@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80750"]={"code":"80750","region":"Adana","city":"Kadirli","latitude":37.37389,"longitude":36.09611}}(window,'GeoPostal','TR');

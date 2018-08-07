@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15100"]={"code":"15100","region":"Piemonte","city":"Alessandria","latitude":44.91245,"longitude":8.61894}}(window,'GeoPostal','IT');

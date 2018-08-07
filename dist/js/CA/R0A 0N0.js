@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 0N0"]={"code":"R0A 0N0","region":"Manitoba","city":"St. Raymond","latitude":49.61809,"longitude":-96.5887}}(window,'GeoPostal','CA');

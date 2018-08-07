@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68770"]={"code":"68770","region":"Grand-Est","city":"Ammerschwihr","latitude":48.12548,"longitude":7.28282}}(window,'GeoPostal','FR');

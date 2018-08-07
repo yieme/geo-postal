@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07005"]={"code":"07005","region":"Biskra","city":"Sidi Okba","latitude":34.74512,"longitude":5.89833}}(window,'GeoPostal','DZ');

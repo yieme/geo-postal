@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81232"]={"code":"81232","region":"CO","city":"Hillside","latitude":38.2653,"longitude":-105.6117}}(window,'GeoPostal','US');

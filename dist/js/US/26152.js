@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26152"]={"code":"26152","region":"WV","city":"Munday","latitude":39.0054,"longitude":-81.2062}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07827"]={"code":"07827","region":"New Jersey","city":"Montague","latitude":41.30361,"longitude":-74.74917}}(window,'GeoPostal','US');

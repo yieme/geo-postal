@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78915"]={"code":"78915","region":"Ile-de-France","city":"Poissy","latitude":48.92902,"longitude":2.04952}}(window,'GeoPostal','FR');

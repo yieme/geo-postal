@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10380"]={"code":"10380","region":"Zagrebacka zupanija","city":"Sveti Ivan Zelina","latitude":45.959778,"longitude":16.243213}}(window,'GeoPostal','HR');

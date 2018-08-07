@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["290 92"]={"code":"290 92","region":"Ionia Nisia","city":"Lithakia","latitude":37.71667,"longitude":20.83333}}(window,'GeoPostal','GR');

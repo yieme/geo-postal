@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99768"]={"code":"99768","region":"AK","city":"Ruby","latitude":64.7201,"longitude":-155.5039}}(window,'GeoPostal','US');

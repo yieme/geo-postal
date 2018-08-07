@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74048"]={"code":"74048","region":"OK","city":"Nowata","latitude":36.6946,"longitude":-95.6404}}(window,'GeoPostal','US');

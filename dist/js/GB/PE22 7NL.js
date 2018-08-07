@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7NL"]={"code":"PE22 7NL","region":"England","city":"Miningsby","latitude":53.15773,"longitude":-0.023}}(window,'GeoPostal','GB');

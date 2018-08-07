@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31087"]={"code":"31087","region":"Niedersachsen","city":"Dankelsheim","latitude":51.90077,"longitude":10.00992}}(window,'GeoPostal','DE');

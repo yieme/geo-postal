@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60270"]={"code":"60270","region":"Michoacan de Ocampo","city":"Cheran","latitude":19.68333,"longitude":-101.95}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9173"]={"code":"9173","region":"Karnten","city":"Gallizien","latitude":46.55,"longitude":14.51667}}(window,'GeoPostal','AT');

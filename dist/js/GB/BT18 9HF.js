@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT18 9HF"]={"code":"BT18 9HF","region":"Northern Ireland","city":"Holywood","latitude":54.63863,"longitude":-5.82473}}(window,'GeoPostal','GB');

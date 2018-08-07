@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59340"]={"code":"59340","region":"Punjab","city":"Kohror Pakka","latitude":29.62382,"longitude":71.91673}}(window,'GeoPostal','PK');

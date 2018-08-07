@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68958"]={"code":"68958","region":"Nebraska","city":"Loomis","latitude":40.47722,"longitude":-99.50778}}(window,'GeoPostal','US');

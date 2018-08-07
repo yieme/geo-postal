@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37281"]={"code":"37281","region":"Punjab","city":"Jaranwala","latitude":31.33333,"longitude":73.43333}}(window,'GeoPostal','PK');

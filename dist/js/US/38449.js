@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38449"]={"code":"38449","region":"Tennessee","city":"Ardmore","latitude":34.99203,"longitude":-86.84667}}(window,'GeoPostal','US');

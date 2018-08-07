@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55640-000"]={"code":"55640-000","region":"Pernambuco","city":"Gravata","latitude":-8.20111,"longitude":-35.56472}}(window,'GeoPostal','BR');

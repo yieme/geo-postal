@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55743"]={"code":"55743","region":"Rheinland-Pfalz","city":"Idar-Oberstein","latitude":49.71443,"longitude":7.30776}}(window,'GeoPostal','DE');

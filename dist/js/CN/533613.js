@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533613"]={"code":"533613","region":"Guangxi","city":"Tianzhou","latitude":23.77861,"longitude":106.89718}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85241"]={"code":"85241","region":"AZ","city":"Picacho","latitude":32.71,"longitude":-111.49}}(window,'GeoPostal','US');

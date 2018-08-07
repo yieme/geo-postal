@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5212"]={"code":"5212","region":"South Australia","city":"Port Elliot","latitude":-35.52998,"longitude":138.67806}}(window,'GeoPostal','AU');

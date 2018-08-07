@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40440"]={"code":"40440","region":"Nouvelle-Aquitaine","city":"Ondres","latitude":43.56461,"longitude":-1.44449}}(window,'GeoPostal','FR');

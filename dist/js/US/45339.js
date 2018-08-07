@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45339"]={"code":"45339","region":"OH","city":"Ludlow Falls","latitude":39.9871,"longitude":-84.3334}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2680"]={"code":"2680","region":"New South Wales","city":"Griffith","latitude":-34.28853,"longitude":146.05093}}(window,'GeoPostal','AU');

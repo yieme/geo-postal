@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99555"]={"code":"99555","region":"Alaska","city":"Aleknagik","latitude":59.323999,"longitude":-158.640738}}(window,'GeoPostal','US');

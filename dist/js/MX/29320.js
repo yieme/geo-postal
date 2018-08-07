@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29320"]={"code":"29320","region":"Coahuila de Zaragoza","city":"El Coyote","latitude":25.7,"longitude":-103.26667}}(window,'GeoPostal','MX');

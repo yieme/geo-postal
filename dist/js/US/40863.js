@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40863"]={"code":"40863","region":"KY","city":"Pathfork","latitude":36.7521,"longitude":-83.4629}}(window,'GeoPostal','US');

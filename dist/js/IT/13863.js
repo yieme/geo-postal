@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13863"]={"code":"13863","region":"Piemonte","city":"Coggiola","latitude":45.68437,"longitude":8.18362}}(window,'GeoPostal','IT');

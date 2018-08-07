@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 6AY"]={"code":"IP13 6AY","region":"England","city":"Bredfield","latitude":52.12769,"longitude":1.31415}}(window,'GeoPostal','GB');

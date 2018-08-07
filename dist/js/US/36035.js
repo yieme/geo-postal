@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36035"]={"code":"36035","region":"Alabama","city":"Goshen","latitude":31.719715,"longitude":-86.125861}}(window,'GeoPostal','US');

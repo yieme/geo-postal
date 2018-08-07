@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23230"]={"code":"23230","region":"Nouvelle-Aquitaine","city":"Gouzon","latitude":46.19286,"longitude":2.23876}}(window,'GeoPostal','FR');

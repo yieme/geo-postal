@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2738"]={"code":"2738","region":"New South Wales","city":"Gol Gol","latitude":-34.18056,"longitude":142.2265}}(window,'GeoPostal','AU');

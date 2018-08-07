@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["846 00"]={"code":"846 00","region":"Notio Aigaio","city":"Mykonos","latitude":37.44529,"longitude":25.32872}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12845"]={"code":"12845","region":"New York","city":"Lake George","latitude":43.41696,"longitude":-73.6848}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18351"]={"code":"18351","region":"Khyber Pakhtunkhwa","city":"Bat Khela","latitude":34.61667,"longitude":71.97139}}(window,'GeoPostal','PK');

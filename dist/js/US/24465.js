@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24465"]={"code":"24465","region":"Virginia","city":"Monterey","latitude":38.41234,"longitude":-79.5806}}(window,'GeoPostal','US');

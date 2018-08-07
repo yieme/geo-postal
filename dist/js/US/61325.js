@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61325"]={"code":"61325","region":"IL","city":"Grand Ridge","latitude":41.2386,"longitude":-88.8168}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL61 5TQ"]={"code":"LL61 5TQ","region":"Wales","city":"Llanfairpwllgwyngyll","latitude":53.22141,"longitude":-4.20329}}(window,'GeoPostal','GB');

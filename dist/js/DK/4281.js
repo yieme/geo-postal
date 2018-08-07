@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4281"]={"code":"4281","region":"Sjelland","city":"Gorlev","latitude":55.53926,"longitude":11.22708}}(window,'GeoPostal','DK');

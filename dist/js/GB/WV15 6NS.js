@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV15 6NS"]={"code":"WV15 6NS","region":"England","city":"Alveley","latitude":52.45709,"longitude":-2.35434}}(window,'GeoPostal','GB');

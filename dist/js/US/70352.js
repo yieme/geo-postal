@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70352"]={"code":"70352","region":"LA","city":"Donner","latitude":29.6964,"longitude":-90.9444}}(window,'GeoPostal','US');

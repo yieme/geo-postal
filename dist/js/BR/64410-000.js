@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64410-000"]={"code":"64410-000","region":"Piaui","city":"Regeneracao","latitude":-6.23778,"longitude":-42.68833}}(window,'GeoPostal','BR');

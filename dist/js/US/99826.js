@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99826"]={"code":"99826","region":"Alaska","city":"Gustavus","latitude":58.82511,"longitude":-136.97234}}(window,'GeoPostal','US');

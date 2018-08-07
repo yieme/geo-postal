@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89050"]={"code":"89050","region":"Calabria","city":"Feroleto della Chiesa","latitude":38.46578,"longitude":16.0642}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54485"]={"code":"54485","region":"Wisconsin","city":"Summit Lake","latitude":45.363069,"longitude":-89.187705}}(window,'GeoPostal','US');

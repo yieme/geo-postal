@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04012"]={"code":"04012","region":"Lazio","city":"Cisterna di Latina","latitude":41.5908,"longitude":12.82808}}(window,'GeoPostal','IT');

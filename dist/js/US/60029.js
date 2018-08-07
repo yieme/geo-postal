@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60029"]={"code":"60029","region":"IL","city":"Golf","latitude":42.058,"longitude":-87.7916}}(window,'GeoPostal','US');

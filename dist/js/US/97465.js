@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97465"]={"code":"97465","region":"Oregon","city":"Port Orford","latitude":42.74566,"longitude":-124.49733}}(window,'GeoPostal','US');

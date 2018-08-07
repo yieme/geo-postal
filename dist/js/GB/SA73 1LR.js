@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1LR"]={"code":"SA73 1LR","region":"Wales","city":"Burton","latitude":51.71556,"longitude":-4.92222}}(window,'GeoPostal','GB');

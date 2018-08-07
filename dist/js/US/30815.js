@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30815"]={"code":"30815","region":"GA","city":"Hephzibah","latitude":33.3433,"longitude":-82.0887}}(window,'GeoPostal','US');

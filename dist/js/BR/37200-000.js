@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37200-000"]={"code":"37200-000","region":"Minas Gerais","city":"Lavras","latitude":-21.24528,"longitude":-44.99972}}(window,'GeoPostal','BR');

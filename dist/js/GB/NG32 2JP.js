@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 2JP"]={"code":"NG32 2JP","region":"England","city":"Foston","latitude":52.96667,"longitude":-0.71667}}(window,'GeoPostal','GB');

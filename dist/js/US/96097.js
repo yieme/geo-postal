@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96097"]={"code":"96097","region":"California","city":"Yreka","latitude":41.73542,"longitude":-122.63447}}(window,'GeoPostal','US');

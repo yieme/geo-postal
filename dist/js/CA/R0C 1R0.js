@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 1R0"]={"code":"R0C 1R0","region":"Manitoba","city":"Dennis Lake","latitude":50.52142,"longitude":-97.36707}}(window,'GeoPostal','CA');

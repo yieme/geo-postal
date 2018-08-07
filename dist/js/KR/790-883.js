@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790-883"]={"code":"790-883","region":"Gyeongsangbuk-do","city":"Enjitsu","latitude":35.99417,"longitude":129.345}}(window,'GeoPostal','KR');

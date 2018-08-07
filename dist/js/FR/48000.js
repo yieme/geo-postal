@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48000"]={"code":"48000","region":"Occitanie","city":"Balsieges","latitude":44.4814,"longitude":3.4583}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21034"]={"code":"21034","region":"Vilniaus apskritis","city":"Aukstadvaris","latitude":54.58333,"longitude":24.53333}}(window,'GeoPostal','LT');

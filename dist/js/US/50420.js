@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50420"]={"code":"50420","region":"IA","city":"Alexander","latitude":42.8114,"longitude":-93.445}}(window,'GeoPostal','US');

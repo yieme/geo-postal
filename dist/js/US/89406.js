@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89406"]={"code":"89406","region":"Nevada","city":"Fallon","latitude":39.48066,"longitude":-118.76813}}(window,'GeoPostal','US');

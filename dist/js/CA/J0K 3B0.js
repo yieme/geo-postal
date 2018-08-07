@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 3B0"]={"code":"J0K 3B0","region":"Quebec","city":"Saint-Michel-des-Saints","latitude":46.67568,"longitude":-73.91639}}(window,'GeoPostal','CA');

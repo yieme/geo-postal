@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59225"]={"code":"59225","region":"Hauts-de-France","city":"Clary","latitude":50.0779,"longitude":3.39943}}(window,'GeoPostal','FR');

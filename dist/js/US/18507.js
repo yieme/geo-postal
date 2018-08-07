@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18507"]={"code":"18507","region":"Pennsylvania","city":"Moosic","latitude":41.37093,"longitude":-75.703801}}(window,'GeoPostal','US');

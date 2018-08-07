@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97531"]={"code":"97531","region":"OR","city":"Kerby","latitude":42.2093,"longitude":-123.6573}}(window,'GeoPostal','US');

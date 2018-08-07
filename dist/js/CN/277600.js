@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277600"]={"code":"277600","region":"Shandong","city":"Xiazhen","latitude":34.80222,"longitude":117.11167}}(window,'GeoPostal','CN');

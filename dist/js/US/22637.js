@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22637"]={"code":"22637","region":"Virginia","city":"Gore","latitude":39.274833,"longitude":-78.353547}}(window,'GeoPostal','US');

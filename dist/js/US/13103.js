@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13103"]={"code":"13103","region":"NY","city":"Mallory","latitude":43.3237,"longitude":-76.1166}}(window,'GeoPostal','US');

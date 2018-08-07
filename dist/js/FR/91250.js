@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91250"]={"code":"91250","region":"Ile-de-France","city":"Tigery","latitude":48.64257,"longitude":2.50779}}(window,'GeoPostal','FR');

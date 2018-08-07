@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77188"]={"code":"77188","region":"Quintana Roo","city":"Felipe Carrillo Puerto","latitude":19.58333,"longitude":-88.05}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 4PR"]={"code":"BD23 4PR","region":"England","city":"Long Preston","latitude":54.01938,"longitude":-2.25678}}(window,'GeoPostal','GB');

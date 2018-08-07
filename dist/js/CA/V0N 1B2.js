@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1B2"]={"code":"V0N 1B2","region":"British Columbia","city":"Alta Lake","latitude":50.0997,"longitude":-122.98606}}(window,'GeoPostal','CA');

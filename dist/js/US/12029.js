@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12029"]={"code":"12029","region":"NY","city":"Canaan","latitude":42.4132,"longitude":-73.4159}}(window,'GeoPostal','US');

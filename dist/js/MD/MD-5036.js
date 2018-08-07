@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5036"]={"code":"MD-5036","region":"Floresti","city":"Leninskiy","latitude":47.86389,"longitude":28.38944}}(window,'GeoPostal','MD');

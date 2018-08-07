@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93927"]={"code":"93927","region":"California","city":"Greenfield","latitude":36.309096,"longitude":-121.320986}}(window,'GeoPostal','US');

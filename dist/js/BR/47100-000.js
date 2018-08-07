@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47100-000"]={"code":"47100-000","region":"Bahia","city":"Barra","latitude":-11.08944,"longitude":-43.14167}}(window,'GeoPostal','BR');

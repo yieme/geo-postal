@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365202"]={"code":"365202","region":"Fujian","city":"Hufang","latitude":26.21804,"longitude":117.22912}}(window,'GeoPostal','CN');

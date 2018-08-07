@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24174"]={"code":"24174","region":"VA","city":"Thaxton","latitude":37.36,"longitude":-79.6522}}(window,'GeoPostal','US');

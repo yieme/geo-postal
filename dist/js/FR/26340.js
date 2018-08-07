@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26340"]={"code":"26340","region":"Auvergne-Rhone-Alpes","city":"Pennes-le-Sec","latitude":44.6389,"longitude":5.3192}}(window,'GeoPostal','FR');

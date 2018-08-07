@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606380"]={"code":"606380","region":"Nizhegorodskaya oblast'","city":"Vad","latitude":55.53009,"longitude":44.21137}}(window,'GeoPostal','RU');

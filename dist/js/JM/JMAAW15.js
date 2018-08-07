@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMAAW15"]={"code":"JMAAW15","region":"Saint Andrew","city":"Mona Heights","latitude":18.01375,"longitude":-76.75186}}(window,'GeoPostal','JM');

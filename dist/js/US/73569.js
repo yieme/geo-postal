@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73569"]={"code":"73569","region":"Oklahoma","city":"Terral","latitude":34.02199,"longitude":-97.66448}}(window,'GeoPostal','US');

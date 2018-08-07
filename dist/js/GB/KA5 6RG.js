@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA5 6RG"]={"code":"KA5 6RG","region":"Scotland","city":"Catrine","latitude":55.50422,"longitude":-4.33026}}(window,'GeoPostal','GB');

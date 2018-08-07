@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38661"]={"code":"38661","region":"MS","city":"Red Banks","latitude":34.8937,"longitude":-89.5649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35452"]={"code":"35452","region":"AL","city":"Coker","latitude":33.2934,"longitude":-87.6888}}(window,'GeoPostal','US');

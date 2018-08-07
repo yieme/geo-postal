@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5063"]={"code":"5063","region":"Noord-Brabant","city":"Oisterwijk","latitude":51.57917,"longitude":5.18889}}(window,'GeoPostal','NL');

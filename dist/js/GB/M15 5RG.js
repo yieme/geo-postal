@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M15 5RG"]={"code":"M15 5RG","region":"England","city":"Hulme","latitude":53.46572,"longitude":-2.24885}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04549"]={"code":"04549","region":"ME","city":"Isle Of Springs","latitude":44.0213,"longitude":-69.5233}}(window,'GeoPostal','US');

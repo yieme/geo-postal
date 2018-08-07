@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78545"]={"code":"78545","region":"Texas","city":"Falcon Heights","latitude":26.580999,"longitude":-98.986169}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41770"]={"code":"41770","region":"Andalucia","city":"Montellano","latitude":36.99531,"longitude":-5.57145}}(window,'GeoPostal','ES');

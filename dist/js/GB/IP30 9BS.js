@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 9BS"]={"code":"IP30 9BS","region":"England","city":"Elmswell","latitude":52.23616,"longitude":0.91247}}(window,'GeoPostal','GB');

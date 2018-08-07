@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH36 4HY"]={"code":"PH36 4HY","region":"Scotland","city":"Ardnastang","latitude":56.68333,"longitude":-5.58333}}(window,'GeoPostal','GB');

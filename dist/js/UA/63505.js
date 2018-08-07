@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63505"]={"code":"63505","region":"Kharkivska oblast","city":"Malynivka","latitude":49.81667,"longitude":36.73333}}(window,'GeoPostal','UA');

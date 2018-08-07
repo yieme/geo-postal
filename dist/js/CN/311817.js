@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311817"]={"code":"311817","region":"Zhejiang","city":"Yingdianjie","latitude":29.81722,"longitude":120.11389}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53103"]={"code":"53103","region":"WI","city":"Big Bend","latitude":42.8885,"longitude":-88.2122}}(window,'GeoPostal','US');

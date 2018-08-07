@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS12 1JN"]={"code":"TS12 1JN","region":"England","city":"Saltburn-by-the-Sea","latitude":54.58237,"longitude":-0.97367}}(window,'GeoPostal','GB');

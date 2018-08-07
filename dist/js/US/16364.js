@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16364"]={"code":"16364","region":"Pennsylvania","city":"Venus","latitude":41.372313,"longitude":-79.508328}}(window,'GeoPostal','US');

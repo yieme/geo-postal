@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["541900"]={"code":"541900","region":"Guangxi","city":"Yangshuo","latitude":24.78081,"longitude":110.48967}}(window,'GeoPostal','CN');

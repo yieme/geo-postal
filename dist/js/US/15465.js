@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15465"]={"code":"15465","region":"Pennsylvania","city":"Mount Braddock","latitude":39.94064,"longitude":-79.64611}}(window,'GeoPostal','US');

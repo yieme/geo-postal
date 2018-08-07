@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST11 9ED"]={"code":"ST11 9ED","region":"England","city":"Caverswall","latitude":52.98369,"longitude":-2.0744}}(window,'GeoPostal','GB');

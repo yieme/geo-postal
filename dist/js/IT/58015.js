@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58015"]={"code":"58015","region":"Toscana","city":"Orbetello","latitude":42.44081,"longitude":11.21962}}(window,'GeoPostal','IT');

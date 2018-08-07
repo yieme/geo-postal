@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45723"]={"code":"45723","region":"OH","city":"Coolville","latitude":39.2141,"longitude":-81.8329}}(window,'GeoPostal','US');

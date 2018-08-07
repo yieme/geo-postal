@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61473"]={"code":"61473","region":"Michoacan de Ocampo","city":"Jungapeo","latitude":19.45,"longitude":-100.48333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6121"]={"code":"6121","region":"Cordoba","city":"Huanchillas","latitude":-33.66652,"longitude":-63.63701}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84180"]={"code":"84180","region":"Bayern","city":"Teisbach","latitude":48.62083,"longitude":12.45748}}(window,'GeoPostal','DE');

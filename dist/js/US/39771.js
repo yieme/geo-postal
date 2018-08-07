@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39771"]={"code":"39771","region":"MS","city":"Walthall","latitude":33.607,"longitude":-89.2752}}(window,'GeoPostal','US');

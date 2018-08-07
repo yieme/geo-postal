@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-412"]={"code":"32-412","region":"Malopolskie","city":"Wisniowa","latitude":49.7878,"longitude":20.11502}}(window,'GeoPostal','PL');

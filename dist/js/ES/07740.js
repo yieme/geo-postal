@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07740"]={"code":"07740","region":"Illes Balears","city":"Es Mercadal","latitude":39.99014,"longitude":4.09387}}(window,'GeoPostal','ES');

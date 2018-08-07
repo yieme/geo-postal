@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4074"]={"code":"4074","region":"Queensland","city":"Sumner","latitude":-27.56555,"longitude":152.93337}}(window,'GeoPostal','AU');

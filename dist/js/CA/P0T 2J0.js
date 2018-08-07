@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2J0"]={"code":"P0T 2J0","region":"Ontario","city":"Nipigon","latitude":49.01681,"longitude":-88.26673}}(window,'GeoPostal','CA');

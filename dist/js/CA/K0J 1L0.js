@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1L0"]={"code":"K0J 1L0","region":"Ontario","city":"Kaszuby","latitude":45.43342,"longitude":-77.58279}}(window,'GeoPostal','CA');

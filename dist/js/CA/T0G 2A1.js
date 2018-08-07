@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 2A1"]={"code":"T0G 2A1","region":"Alberta","city":"Slave Lake","latitude":55.286404,"longitude":-114.778486}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 01"]={"code":"251 01","region":"Stredocesky kraj","city":"Ricany","latitude":49.99168,"longitude":14.65427}}(window,'GeoPostal','CZ');

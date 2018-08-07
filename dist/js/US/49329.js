@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49329"]={"code":"49329","region":"Michigan","city":"Howard City","latitude":43.39558,"longitude":-85.46782}}(window,'GeoPostal','US');

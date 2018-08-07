@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28510"]={"code":"28510","region":"NC","city":"Arapahoe","latitude":35.0055,"longitude":-76.8149}}(window,'GeoPostal','US');

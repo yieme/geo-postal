@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36744"]={"code":"36744","region":"Alabama","city":"Greensboro","latitude":32.70458,"longitude":-87.59584}}(window,'GeoPostal','US');

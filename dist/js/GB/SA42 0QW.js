@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA42 0QW"]={"code":"SA42 0QW","region":"Wales","city":"Cilgwm","latitude":51.99194,"longitude":-4.80361}}(window,'GeoPostal','GB');

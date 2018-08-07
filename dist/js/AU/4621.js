@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4621"]={"code":"4621","region":"Queensland","city":"Biggenden","latitude":-25.50855,"longitude":152.0448}}(window,'GeoPostal','AU');

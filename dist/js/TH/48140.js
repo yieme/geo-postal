@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48140"]={"code":"48140","region":"Nakhon Phanom","city":"Ban Phaeng","latitude":17.96507,"longitude":104.21534}}(window,'GeoPostal','TH');

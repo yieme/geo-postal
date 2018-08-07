@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57590"]={"code":"57590","region":"Grand-Est","city":"Delme","latitude":48.8878,"longitude":6.3931}}(window,'GeoPostal','FR');

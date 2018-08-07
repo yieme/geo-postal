@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29664"]={"code":"29664","region":"Niedersachsen","city":"Vorwalsrode","latitude":52.85,"longitude":9.58333}}(window,'GeoPostal','DE');

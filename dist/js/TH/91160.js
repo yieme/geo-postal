@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91160"]={"code":"91160","region":"Satun","city":"Manang","latitude":6.99933,"longitude":99.92161}}(window,'GeoPostal','TH');

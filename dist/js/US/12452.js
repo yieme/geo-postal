@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12452"]={"code":"12452","region":"NY","city":"Lexington","latitude":42.2404,"longitude":-74.3654}}(window,'GeoPostal','US');

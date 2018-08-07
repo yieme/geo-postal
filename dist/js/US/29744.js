@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29744"]={"code":"29744","region":"SC","city":"Van Wyck","latitude":34.8585,"longitude":-80.8459}}(window,'GeoPostal','US');

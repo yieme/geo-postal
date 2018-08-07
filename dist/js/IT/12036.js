@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12036"]={"code":"12036","region":"Piemonte","city":"Revello","latitude":44.65464,"longitude":7.39152}}(window,'GeoPostal','IT');

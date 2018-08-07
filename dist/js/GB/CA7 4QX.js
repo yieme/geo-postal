@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 4QX"]={"code":"CA7 4QX","region":"England","city":"Skinburness","latitude":54.89043,"longitude":-3.36525}}(window,'GeoPostal','GB');

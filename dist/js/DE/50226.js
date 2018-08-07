@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50226"]={"code":"50226","region":"Nordrhein-Westfalen","city":"Frechen","latitude":50.91485,"longitude":6.8118}}(window,'GeoPostal','DE');

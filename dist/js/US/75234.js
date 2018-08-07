@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75234"]={"code":"75234","region":"Texas","city":"Farmers Branch","latitude":32.92651,"longitude":-96.89612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60501"]={"code":"60501","region":"Puntarenas","city":"Ciudad Cortes","latitude":8.95988,"longitude":-83.52381}}(window,'GeoPostal','CR');

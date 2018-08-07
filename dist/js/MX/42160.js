@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42160"]={"code":"42160","region":"Hidalgo","city":"San Agustin Tlaxiaca","latitude":20.11667,"longitude":-98.88333}}(window,'GeoPostal','MX');

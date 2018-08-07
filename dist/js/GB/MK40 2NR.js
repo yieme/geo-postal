@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK40 2NR"]={"code":"MK40 2NR","region":"England","city":"Bedford","latitude":52.13459,"longitude":-0.46632}}(window,'GeoPostal','GB');

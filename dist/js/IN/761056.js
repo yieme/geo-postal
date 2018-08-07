@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761056"]={"code":"761056","region":"Odisha","city":"Gopalpur","latitude":19.26667,"longitude":84.91667}}(window,'GeoPostal','IN');

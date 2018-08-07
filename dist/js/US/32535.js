@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32535"]={"code":"32535","region":"Florida","city":"Century","latitude":30.970014,"longitude":-87.310999}}(window,'GeoPostal','US');

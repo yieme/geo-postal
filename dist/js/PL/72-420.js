@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-420"]={"code":"72-420","region":"Zachodniopomorskie","city":"Dziwnow","latitude":54.02819,"longitude":14.76691}}(window,'GeoPostal','PL');

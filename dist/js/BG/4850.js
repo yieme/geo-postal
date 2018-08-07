@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4850"]={"code":"4850","region":"Smolyan","city":"Chepelare","latitude":41.73333,"longitude":24.68333}}(window,'GeoPostal','BG');

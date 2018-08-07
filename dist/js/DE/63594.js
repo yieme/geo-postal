@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63594"]={"code":"63594","region":"Hessen","city":"Niedermittlau","latitude":50.16908,"longitude":9.12671}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46350"]={"code":"46350","region":"Occitanie","city":"Payrac","latitude":44.7975,"longitude":1.4728}}(window,'GeoPostal','FR');

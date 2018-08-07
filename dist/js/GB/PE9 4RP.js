@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4RP"]={"code":"PE9 4RP","region":"England","city":"Tallington","latitude":52.65973,"longitude":-0.38521}}(window,'GeoPostal','GB');

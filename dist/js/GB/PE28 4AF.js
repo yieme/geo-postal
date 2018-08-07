@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 4AF"]={"code":"PE28 4AF","region":"England","city":"Great Stukeley","latitude":52.35657,"longitude":-0.21071}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01245"]={"code":"01245","region":"Massachusetts","city":"Monterey","latitude":42.2088,"longitude":-73.19724}}(window,'GeoPostal','US');

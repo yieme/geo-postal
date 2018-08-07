@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48020"]={"code":"48020","region":"Emilia-Romagna","city":"Sant'Agata sul Santerno","latitude":44.44217,"longitude":11.86012}}(window,'GeoPostal','IT');

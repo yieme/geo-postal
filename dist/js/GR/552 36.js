@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["552 36"]={"code":"552 36","region":"Kentriki Makedonia","city":"Panorama","latitude":40.58779,"longitude":23.0315}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80220"]={"code":"80220","region":"Nakhon Si Thammarat","city":"Na Bon","latitude":8.26167,"longitude":99.59472}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73029"]={"code":"73029","region":"Puglia","city":"Vernole","latitude":40.28953,"longitude":18.30353}}(window,'GeoPostal','IT');

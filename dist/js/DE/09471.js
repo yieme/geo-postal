@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09471"]={"code":"09471","region":"Sachsen","city":"Kretscham Rothensehma","latitude":50.46654,"longitude":12.98841}}(window,'GeoPostal','DE');

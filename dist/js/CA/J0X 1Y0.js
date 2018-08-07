@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 1Y0"]={"code":"J0X 1Y0","region":"Quebec","city":"Cayamant","latitude":46.13341,"longitude":-76.24937}}(window,'GeoPostal','CA');

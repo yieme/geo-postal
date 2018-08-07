@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 3JW"]={"code":"TF9 3JW","region":"England","city":"Peplow","latitude":52.81657,"longitude":-2.54558}}(window,'GeoPostal','GB');

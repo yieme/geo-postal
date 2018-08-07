@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95511"]={"code":"95511","region":"CA","city":"Alderpoint","latitude":40.1676,"longitude":-123.6192}}(window,'GeoPostal','US');

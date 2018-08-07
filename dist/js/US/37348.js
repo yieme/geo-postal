@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37348"]={"code":"37348","region":"TN","city":"Kelso","latitude":35.1024,"longitude":-86.4683}}(window,'GeoPostal','US');

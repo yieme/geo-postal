@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97640"]={"code":"97640","region":"Yucatan","city":"Cenotillo","latitude":20.96667,"longitude":-88.61667}}(window,'GeoPostal','MX');

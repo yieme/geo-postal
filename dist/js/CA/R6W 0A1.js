@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R6W 0A1"]={"code":"R6W 0A1","region":"Manitoba","city":"Winkler","latitude":49.1817,"longitude":-97.94104}}(window,'GeoPostal','CA');

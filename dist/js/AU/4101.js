@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4101"]={"code":"4101","region":"Queensland","city":"South Bank","latitude":-27.47766,"longitude":153.0211}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74833"]={"code":"74833","region":"Oklahoma","city":"Castle","latitude":35.47528,"longitude":-96.38417}}(window,'GeoPostal','US');

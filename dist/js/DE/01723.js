@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01723"]={"code":"01723","region":"Sachsen","city":"Wilsdruff","latitude":51.05199,"longitude":13.53657}}(window,'GeoPostal','DE');

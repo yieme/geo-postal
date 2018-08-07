@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93127"]={"code":"93127","region":"Ile-de-France","city":"La Courneuve","latitude":48.92805,"longitude":2.39627}}(window,'GeoPostal','FR');

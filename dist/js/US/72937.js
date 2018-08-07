@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72937"]={"code":"72937","region":"AR","city":"Hackett","latitude":35.1945,"longitude":-94.3983}}(window,'GeoPostal','US');

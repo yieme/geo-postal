@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331217"]={"code":"331217","region":"Jiangxi","city":"Zhongzhou","latitude":27.92923,"longitude":115.15631}}(window,'GeoPostal','CN');

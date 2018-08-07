@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12946"]={"code":"12946","region":"New York","city":"Lake Placid","latitude":44.27949,"longitude":-73.97987}}(window,'GeoPostal','US');

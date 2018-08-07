@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-550"]={"code":"58-550","region":"Dolnoslaskie","city":"Karpacz","latitude":50.77669,"longitude":15.75594}}(window,'GeoPostal','PL');

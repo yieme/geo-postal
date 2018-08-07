@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98850"]={"code":"98850","region":"Province Nord","city":"Koumac","latitude":-20.56667,"longitude":164.28333}}(window,'GeoPostal','NC');

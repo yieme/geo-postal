@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210429"]={"code":"210429","region":"Uttar Pradesh","city":"Rath","latitude":25.58333,"longitude":79.56667}}(window,'GeoPostal','IN');

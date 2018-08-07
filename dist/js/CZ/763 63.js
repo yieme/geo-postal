@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 63"]={"code":"763 63","region":"Zlinsky kraj","city":"Halenkovice","latitude":49.17102,"longitude":17.47156}}(window,'GeoPostal','CZ');

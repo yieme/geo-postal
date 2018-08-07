@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8052"]={"code":"8052","region":"Gelderland","city":"Hattem","latitude":52.475,"longitude":6.06389}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8244"]={"code":"8244","region":"Niederosterreich","city":"Zobern","latitude":47.5,"longitude":16.11667}}(window,'GeoPostal','AT');

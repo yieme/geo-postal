@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82832"]={"code":"82832","region":"WY","city":"Banner","latitude":44.6003,"longitude":-106.7954}}(window,'GeoPostal','US');

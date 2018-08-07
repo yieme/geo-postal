@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56370"]={"code":"56370","region":"Bretagne","city":"Le Tour-du-Parc","latitude":47.5267,"longitude":-2.6442}}(window,'GeoPostal','FR');

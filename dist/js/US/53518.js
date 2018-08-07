@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53518"]={"code":"53518","region":"Wisconsin","city":"Blue River","latitude":43.183354,"longitude":-90.55505}}(window,'GeoPostal','US');

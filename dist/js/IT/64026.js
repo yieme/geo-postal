@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64026"]={"code":"64026","region":"Abruzzo","city":"Roseto degli Abruzzi","latitude":42.66635,"longitude":14.0227}}(window,'GeoPostal','IT');

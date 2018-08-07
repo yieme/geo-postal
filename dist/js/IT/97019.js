@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97019"]={"code":"97019","region":"Sicilia","city":"Vittoria","latitude":36.95374,"longitude":14.53318}}(window,'GeoPostal','IT');

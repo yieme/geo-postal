@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59006"]={"code":"59006","region":"MT","city":"Ballantine","latitude":45.9547,"longitude":-108.1231}}(window,'GeoPostal','US');

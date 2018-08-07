@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15339"]={"code":"15339","region":"PA","city":"Hendersonville","latitude":40.3018,"longitude":-80.1543}}(window,'GeoPostal','US');

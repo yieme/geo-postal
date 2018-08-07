@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46375"]={"code":"46375","region":"Indiana","city":"Schererville","latitude":41.47892,"longitude":-87.45476}}(window,'GeoPostal','US');

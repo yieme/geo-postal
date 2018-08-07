@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63533"]={"code":"63533","region":"MO","city":"Brashear","latitude":40.1959,"longitude":-92.4333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62509"]={"code":"62509","region":"Hauts-de-France","city":"Saint-Omer","latitude":50.75,"longitude":2.25}}(window,'GeoPostal','FR');

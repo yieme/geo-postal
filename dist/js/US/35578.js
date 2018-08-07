@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35578"]={"code":"35578","region":"Alabama","city":"Nauvoo","latitude":33.98861,"longitude":-87.48778}}(window,'GeoPostal','US');

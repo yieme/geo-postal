@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-065"]={"code":"32-065","region":"Malopolskie","city":"Krzeszowice","latitude":50.14248,"longitude":19.63223}}(window,'GeoPostal','PL');

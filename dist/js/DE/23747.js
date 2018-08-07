@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23747"]={"code":"23747","region":"Schleswig-Holstein","city":"Dahme","latitude":54.21667,"longitude":11.08333}}(window,'GeoPostal','DE');

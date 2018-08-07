@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3074"]={"code":"3074","region":"Victoria","city":"Thomastown","latitude":-37.68333,"longitude":145.01667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17690-000"]={"code":"17690-000","region":"Sao Paulo","city":"Bastos","latitude":-21.92194,"longitude":-50.73389}}(window,'GeoPostal','BR');

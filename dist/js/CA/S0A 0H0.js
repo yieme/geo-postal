@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 0H0"]={"code":"S0A 0H0","region":"Saskatchewan","city":"Bredenbury","latitude":50.95,"longitude":-102.05094}}(window,'GeoPostal','CA');

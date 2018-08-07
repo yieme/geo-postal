@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507 32"]={"code":"507 32","region":"Kralovehradecky kraj","city":"Kopidlno","latitude":50.33085,"longitude":15.27029}}(window,'GeoPostal','CZ');

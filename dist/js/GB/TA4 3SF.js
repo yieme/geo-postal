@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 3SF"]={"code":"TA4 3SF","region":"England","city":"Lydeard Saint Lawrence","latitude":51.0825,"longitude":-3.24583}}(window,'GeoPostal','GB');

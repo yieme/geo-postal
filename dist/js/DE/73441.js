@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73441"]={"code":"73441","region":"Baden-Wurttemberg","city":"Bopfingen","latitude":48.85848,"longitude":10.35416}}(window,'GeoPostal','DE');

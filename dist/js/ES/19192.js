@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19192"]={"code":"19192","region":"Castilla-La Mancha","city":"Trijueque","latitude":40.77426,"longitude":-2.99253}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40826"]={"code":"40826","region":"Kentucky","city":"Eolia","latitude":37.064639,"longitude":-82.76192}}(window,'GeoPostal','US');

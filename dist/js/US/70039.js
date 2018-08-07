@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70039"]={"code":"70039","region":"LA","city":"Boutte","latitude":29.8973,"longitude":-90.3934}}(window,'GeoPostal','US');

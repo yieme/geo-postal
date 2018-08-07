@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12001"]={"code":"12001","region":"Tebessa","city":"Bir el Ater","latitude":34.74488,"longitude":8.06024}}(window,'GeoPostal','DZ');

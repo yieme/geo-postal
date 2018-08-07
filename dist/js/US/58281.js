@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58281"]={"code":"58281","region":"ND","city":"Wales","latitude":48.9216,"longitude":-98.5596}}(window,'GeoPostal','US');

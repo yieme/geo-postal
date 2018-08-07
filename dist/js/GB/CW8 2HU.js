@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW8 2HU"]={"code":"CW8 2HU","region":"England","city":"Delamere","latitude":53.21579,"longitude":-2.65812}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16863"]={"code":"16863","region":"Pennsylvania","city":"Olanta","latitude":40.90475,"longitude":-78.50152}}(window,'GeoPostal','US');

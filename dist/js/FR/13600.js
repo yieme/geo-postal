@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13600"]={"code":"13600","region":"Provence-Alpes-Cote d'Azur","city":"La Ciotat","latitude":43.17476,"longitude":5.60449}}(window,'GeoPostal','FR');

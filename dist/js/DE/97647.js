@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97647"]={"code":"97647","region":"Bayern","city":"Sondheim vor der Rhoen","latitude":50.4651,"longitude":10.15675}}(window,'GeoPostal','DE');

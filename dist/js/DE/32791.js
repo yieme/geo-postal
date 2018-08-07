@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32791"]={"code":"32791","region":"Nordrhein-Westfalen","city":"Strang","latitude":51.9687,"longitude":8.75336}}(window,'GeoPostal','DE');

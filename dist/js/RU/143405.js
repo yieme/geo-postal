@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143405"]={"code":"143405","region":"Moskovskaya oblast'","city":"Krasnogorsk","latitude":55.82036,"longitude":37.33017}}(window,'GeoPostal','RU');

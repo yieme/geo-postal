@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG5 4AH"]={"code":"DG5 4AH","region":"Scotland","city":"Dalbeattie","latitude":54.93278,"longitude":-3.82271}}(window,'GeoPostal','GB');

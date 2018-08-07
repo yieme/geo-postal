@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54234"]={"code":"54234","region":"Wisconsin","city":"Sister Bay","latitude":45.18722,"longitude":-87.12389}}(window,'GeoPostal','US');

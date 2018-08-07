@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH31 6EX"]={"code":"BH31 6EX","region":"England","city":"Verwood","latitude":50.87575,"longitude":-1.87023}}(window,'GeoPostal','GB');

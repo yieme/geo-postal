@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57138"]={"code":"57138","region":"Jawa Tengah","city":"Ronggo","latitude":-6.8414,"longitude":111.2564}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65603"]={"code":"65603","region":"MO","city":"Arcola","latitude":37.5512,"longitude":-93.8619}}(window,'GeoPostal','US');

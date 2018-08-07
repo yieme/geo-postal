@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49455"]={"code":"49455","region":"Michigan","city":"Shelby","latitude":43.60862,"longitude":-86.36396}}(window,'GeoPostal','US');

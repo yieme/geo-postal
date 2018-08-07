@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 3LX"]={"code":"TF9 3LX","region":"England","city":"Wolerton","latitude":52.86752,"longitude":-2.56462}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641"]={"code":"641","region":"Nordurland eystra","city":"Husavik","latitude":66.04489,"longitude":-17.33885}}(window,'GeoPostal','IS');

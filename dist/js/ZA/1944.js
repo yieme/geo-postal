@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1944"]={"code":"1944","region":"Gauteng","city":"Vereeniging","latitude":-26.67313,"longitude":27.92615}}(window,'GeoPostal','ZA');

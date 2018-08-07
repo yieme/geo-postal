@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39880-000"]={"code":"39880-000","region":"Minas Gerais","city":"Aguas Formosas","latitude":-17.08222,"longitude":-40.93583}}(window,'GeoPostal','BR');

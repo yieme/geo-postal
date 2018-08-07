@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35329"]={"code":"35329","region":"Canarias","city":"Vega de San Mateo","latitude":28.00892,"longitude":-15.5333}}(window,'GeoPostal','ES');

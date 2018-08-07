@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80729"]={"code":"80729","region":"CO","city":"Grover","latitude":40.8716,"longitude":-104.2346}}(window,'GeoPostal','US');

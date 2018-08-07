@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03768"]={"code":"03768","region":"New Hampshire","city":"Lyme","latitude":43.80951,"longitude":-72.15592}}(window,'GeoPostal','US');

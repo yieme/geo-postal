@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42150"]={"code":"42150","region":"Castilla y Leon","city":"Vinuesa","latitude":41.91032,"longitude":-2.76483}}(window,'GeoPostal','ES');

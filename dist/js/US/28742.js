@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28742"]={"code":"28742","region":"NC","city":"Horse Shoe","latitude":35.3432,"longitude":-82.5565}}(window,'GeoPostal','US');

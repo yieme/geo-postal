@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08260"]={"code":"08260","region":"New Jersey","city":"Wildwood Crest","latitude":38.97484,"longitude":-74.8335}}(window,'GeoPostal','US');

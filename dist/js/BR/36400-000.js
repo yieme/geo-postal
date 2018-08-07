@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36400-000"]={"code":"36400-000","region":"Minas Gerais","city":"Conselheiro Lafaiete","latitude":-20.66028,"longitude":-43.78611}}(window,'GeoPostal','BR');

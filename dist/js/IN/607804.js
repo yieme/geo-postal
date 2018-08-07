@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607804"]={"code":"607804","region":"Tamil Nadu","city":"Valavanur","latitude":11.91667,"longitude":79.58333}}(window,'GeoPostal','IN');

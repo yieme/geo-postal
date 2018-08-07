@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05354"]={"code":"05354","region":"Vermont","city":"Vernon","latitude":42.762168,"longitude":-72.526428}}(window,'GeoPostal','US');

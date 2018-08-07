@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10980"]={"code":"10980","region":"Extremadura","city":"Alcantara","latitude":39.71895,"longitude":-6.88376}}(window,'GeoPostal','ES');

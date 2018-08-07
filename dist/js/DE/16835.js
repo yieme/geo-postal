@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16835"]={"code":"16835","region":"Brandenburg","city":"Schonberg","latitude":52.93478,"longitude":12.96936}}(window,'GeoPostal','DE');

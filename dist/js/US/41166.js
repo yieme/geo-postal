@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41166"]={"code":"41166","region":"KY","city":"Quincy","latitude":38.6271,"longitude":-83.1056}}(window,'GeoPostal','US');

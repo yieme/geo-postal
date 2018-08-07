@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74330"]={"code":"74330","region":"Auvergne-Rhone-Alpes","city":"Poisy","latitude":45.92306,"longitude":6.06435}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6706"]={"code":"6706","region":"Luxembourg","city":"Arlon","latitude":49.68333,"longitude":5.81667}}(window,'GeoPostal','BE');

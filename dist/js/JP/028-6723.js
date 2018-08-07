@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["028-6723"]={"code":"028-6723","region":"Iwate","city":"Ninohe","latitude":40.267,"longitude":141.3}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63800"]={"code":"63800","region":"Nayarit","city":"San Pedro Lagunillas","latitude":21.21667,"longitude":-104.76667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09120"]={"code":"09120","region":"Castilla y Leon","city":"Villadiego","latitude":42.51589,"longitude":-4.00958}}(window,'GeoPostal','ES');

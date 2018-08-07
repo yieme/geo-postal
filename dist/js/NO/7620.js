@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7620"]={"code":"7620","region":"Nord-Trondelag","city":"Skogn","latitude":63.7,"longitude":11.2}}(window,'GeoPostal','NO');

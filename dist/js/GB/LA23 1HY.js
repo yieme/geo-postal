@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA23 1HY"]={"code":"LA23 1HY","region":"England","city":"Troutbeck Bridge","latitude":54.39355,"longitude":-2.92133}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30640"]={"code":"30640","region":"Occitanie","city":"Beauvoisin","latitude":43.71835,"longitude":4.32338}}(window,'GeoPostal','FR');

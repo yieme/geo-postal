@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24930"]={"code":"24930","region":"Campeche","city":"Becal","latitude":20.45,"longitude":-90.03333}}(window,'GeoPostal','MX');

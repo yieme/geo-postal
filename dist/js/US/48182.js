@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48182"]={"code":"48182","region":"Michigan","city":"Temperance","latitude":41.77921,"longitude":-83.56882}}(window,'GeoPostal','US');

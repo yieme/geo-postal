@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44830"]={"code":"44830","region":"Ohio","city":"Fostoria","latitude":41.157,"longitude":-83.41687}}(window,'GeoPostal','US');

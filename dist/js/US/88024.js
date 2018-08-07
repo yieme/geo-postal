@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88024"]={"code":"88024","region":"NM","city":"Berino","latitude":32.0682,"longitude":-106.631}}(window,'GeoPostal','US');

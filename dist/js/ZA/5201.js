@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5201"]={"code":"5201","region":"Eastern Cape","city":"East London","latitude":-33.01529,"longitude":27.91162}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47665"]={"code":"47665","region":"Nordrhein-Westfalen","city":"Sonsbeck","latitude":51.61667,"longitude":6.36667}}(window,'GeoPostal','DE');

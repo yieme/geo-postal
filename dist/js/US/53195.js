@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53195"]={"code":"53195","region":"WI","city":"Zenda","latitude":42.5136,"longitude":-88.4843}}(window,'GeoPostal','US');

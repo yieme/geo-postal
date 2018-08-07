@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29999"]={"code":"29999","region":"Satakunta","city":"Pori","latitude":61.48333,"longitude":21.78333}}(window,'GeoPostal','FI');

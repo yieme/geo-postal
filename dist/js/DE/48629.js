@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48629"]={"code":"48629","region":"Nordrhein-Westfalen","city":"Metelen","latitude":52.14434,"longitude":7.2127}}(window,'GeoPostal','DE');

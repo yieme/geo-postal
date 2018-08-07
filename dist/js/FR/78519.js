@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78519"]={"code":"78519","region":"Ile-de-France","city":"Rambouillet","latitude":48.65,"longitude":1.83333}}(window,'GeoPostal','FR');

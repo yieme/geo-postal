@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2491"]={"code":"2491","region":"Mpumalanga","city":"Volksrust","latitude":-27.36542,"longitude":29.88175}}(window,'GeoPostal','ZA');

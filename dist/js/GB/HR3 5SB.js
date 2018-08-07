@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR3 5SB"]={"code":"HR3 5SB","region":"Wales","city":"Clyro","latitude":52.08527,"longitude":-3.14918}}(window,'GeoPostal','GB');

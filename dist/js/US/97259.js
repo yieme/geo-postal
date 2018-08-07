@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97259"]={"code":"97259","region":"OR","city":"At&t","latitude":45.52,"longitude":-122.67}}(window,'GeoPostal','US');

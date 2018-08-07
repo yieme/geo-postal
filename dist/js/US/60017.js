@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60017"]={"code":"60017","region":"Illinois","city":"Des Plaines","latitude":42.02376,"longitude":-87.90035}}(window,'GeoPostal','US');

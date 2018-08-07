@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 3JA"]={"code":"KA18 3JA","region":"Scotland","city":"Dalblair","latitude":55.44794,"longitude":-4.14364}}(window,'GeoPostal','GB');

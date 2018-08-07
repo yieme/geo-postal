@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02643"]={"code":"02643","region":"Sachsen","city":"Bautzen","latitude":51.18035,"longitude":14.43494}}(window,'GeoPostal','DE');

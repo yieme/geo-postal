@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84055"]={"code":"84055","region":"Utah","city":"Oakley","latitude":40.71467,"longitude":-111.30074}}(window,'GeoPostal','US');

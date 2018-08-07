@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG24 2PF"]={"code":"NG24 2PF","region":"England","city":"Winthorpe","latitude":53.1,"longitude":-0.78333}}(window,'GeoPostal','GB');

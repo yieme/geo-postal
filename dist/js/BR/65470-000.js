@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65470-000"]={"code":"65470-000","region":"Maranhao","city":"Sao Mateus do Maranhao","latitude":-4.04167,"longitude":-44.475}}(window,'GeoPostal','BR');

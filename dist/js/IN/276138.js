@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["276138"]={"code":"276138","region":"Uttar Pradesh","city":"Gorakhpur","latitude":26.755,"longitude":83.37389}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31162"]={"code":"31162","region":"Khmelnytska oblast","city":"Novoselitsa","latitude":50.0703,"longitude":27.51955}}(window,'GeoPostal','UA');

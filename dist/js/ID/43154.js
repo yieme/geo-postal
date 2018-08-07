@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43154"]={"code":"43154","region":"Jawa Barat","city":"Caringin","latitude":-6.70611,"longitude":106.82139}}(window,'GeoPostal','ID');

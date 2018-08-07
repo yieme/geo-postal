@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63195"]={"code":"63195","region":"Nayarit","city":"San Blas","latitude":21.51667,"longitude":-105.26667}}(window,'GeoPostal','MX');

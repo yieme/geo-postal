@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56120"]={"code":"56120","region":"MN","city":"Butterfield","latitude":43.9654,"longitude":-94.7956}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80726"]={"code":"80726","region":"CO","city":"Crook","latitude":40.8747,"longitude":-102.8472}}(window,'GeoPostal','US');

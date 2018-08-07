@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK21 8SY"]={"code":"FK21 8SY","region":"Scotland","city":"Ardeonaig","latitude":56.49535,"longitude":-4.1618}}(window,'GeoPostal','GB');

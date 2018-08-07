@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694627"]={"code":"694627","region":"Sakhalinskaya oblast'","city":"Kholmsk","latitude":47.05111,"longitude":142.05694}}(window,'GeoPostal','RU');

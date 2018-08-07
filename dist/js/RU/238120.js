@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238120"]={"code":"238120","region":"Kaliningradskaya oblast'","city":"Ozersk","latitude":54.41056,"longitude":22.01167}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88427"]={"code":"88427","region":"Baden-Wurttemberg","city":"Bad Schussenried","latitude":48.00468,"longitude":9.65741}}(window,'GeoPostal','DE');

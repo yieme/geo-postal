@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67001"]={"code":"67001","region":"KS","city":"Andale","latitude":37.7797,"longitude":-97.6366}}(window,'GeoPostal','US');

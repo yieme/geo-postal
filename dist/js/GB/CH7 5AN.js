@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 5AN"]={"code":"CH7 5AN","region":"Wales","city":"Caerwys","latitude":53.24651,"longitude":-3.30745}}(window,'GeoPostal','GB');

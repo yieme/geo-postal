@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27849"]={"code":"27849","region":"North Carolina","city":"Lewiston Woodville","latitude":36.08826,"longitude":-77.22966}}(window,'GeoPostal','US');

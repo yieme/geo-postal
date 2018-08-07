@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64700-000"]={"code":"64700-000","region":"Piaui","city":"Simplicio Mendes","latitude":-7.85389,"longitude":-41.91028}}(window,'GeoPostal','BR');

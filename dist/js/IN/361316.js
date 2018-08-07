@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361316"]={"code":"361316","region":"Gujarat","city":"Khambhaliya","latitude":22.20722,"longitude":69.66833}}(window,'GeoPostal','IN');

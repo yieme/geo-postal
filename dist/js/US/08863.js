@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08863"]={"code":"08863","region":"NJ","city":"Fords","latitude":40.5393,"longitude":-74.3117}}(window,'GeoPostal','US');

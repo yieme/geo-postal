@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627860"]={"code":"627860","region":"Tamil Nadu","city":"Tirunelveli","latitude":8.73333,"longitude":77.7}}(window,'GeoPostal','IN');

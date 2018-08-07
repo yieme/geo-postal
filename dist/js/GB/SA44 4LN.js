@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 4LN"]={"code":"SA44 4LN","region":"Wales","city":"Pren-gwyn","latitude":52.07353,"longitude":-4.29953}}(window,'GeoPostal','GB');

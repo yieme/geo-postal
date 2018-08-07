@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59854"]={"code":"59854","region":"MT","city":"Ovando","latitude":47.0067,"longitude":-113.0905}}(window,'GeoPostal','US');

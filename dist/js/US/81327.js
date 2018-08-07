@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81327"]={"code":"81327","region":"Colorado","city":"Lewis","latitude":37.499553,"longitude":-108.67358}}(window,'GeoPostal','US');

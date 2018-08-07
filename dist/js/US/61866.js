@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61866"]={"code":"61866","region":"Illinois","city":"Rantoul","latitude":40.309171,"longitude":-88.151038}}(window,'GeoPostal','US');

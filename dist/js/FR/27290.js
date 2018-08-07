@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27290"]={"code":"27290","region":"Normandie","city":"Montfort-sur-Risle","latitude":49.2961,"longitude":0.6656}}(window,'GeoPostal','FR');

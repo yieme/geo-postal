@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06277"]={"code":"06277","region":"Connecticut","city":"Thompson","latitude":41.95871,"longitude":-71.86257}}(window,'GeoPostal','US');

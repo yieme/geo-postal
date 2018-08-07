@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08241"]={"code":"08241","region":"Catalunya","city":"Manresa","latitude":41.72498,"longitude":1.82656}}(window,'GeoPostal','ES');

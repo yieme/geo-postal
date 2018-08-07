@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-650"]={"code":"62-650","region":"Wielkopolskie","city":"Klodawa","latitude":52.25447,"longitude":18.91352}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44022"]={"code":"44022","region":"Ohio","city":"Chagrin Falls","latitude":41.438462,"longitude":-81.418674}}(window,'GeoPostal','US');

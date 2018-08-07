@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36480"]={"code":"36480","region":"Alabama","city":"Uriah","latitude":31.327891,"longitude":-87.604912}}(window,'GeoPostal','US');

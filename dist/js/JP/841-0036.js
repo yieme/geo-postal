@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["841-0036"]={"code":"841-0036","region":"Saga","city":"Tosu","latitude":33.383,"longitude":130.5}}(window,'GeoPostal','JP');

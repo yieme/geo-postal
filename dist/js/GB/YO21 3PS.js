@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 3PS"]={"code":"YO21 3PS","region":"England","city":"Whitby","latitude":54.48774,"longitude":-0.61498}}(window,'GeoPostal','GB');

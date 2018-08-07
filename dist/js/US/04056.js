@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04056"]={"code":"04056","region":"ME","city":"Newfield","latitude":43.6584,"longitude":-70.8689}}(window,'GeoPostal','US');

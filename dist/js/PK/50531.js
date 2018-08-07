@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50531"]={"code":"50531","region":"Punjab","city":"Malakwal City","latitude":32.55492,"longitude":73.2122}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LU7 8RZ"]={"code":"LU7 8RZ","region":"England","city":"Leighton Buzzard","latitude":51.91722,"longitude":-0.65802}}(window,'GeoPostal','GB');

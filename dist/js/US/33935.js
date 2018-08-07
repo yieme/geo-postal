@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33935"]={"code":"33935","region":"FL","city":"Labelle","latitude":26.7321,"longitude":-81.434}}(window,'GeoPostal','US');

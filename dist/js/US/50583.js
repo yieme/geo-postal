@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50583"]={"code":"50583","region":"Iowa","city":"Sac City","latitude":42.4222,"longitude":-94.98971}}(window,'GeoPostal','US');

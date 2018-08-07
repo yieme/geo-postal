@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41270"]={"code":"41270","region":"Guerrero","city":"Alpoyeca","latitude":17.66667,"longitude":-98.51667}}(window,'GeoPostal','MX');

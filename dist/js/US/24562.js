@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24562"]={"code":"24562","region":"VA","city":"Howardsville","latitude":37.7511,"longitude":-78.6313}}(window,'GeoPostal','US');

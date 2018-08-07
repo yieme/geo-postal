@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1701"]={"code":"1701","region":"Camarines Sur","city":"Sagrada","latitude":13.5301,"longitude":123.4527}}(window,'GeoPostal','PH');

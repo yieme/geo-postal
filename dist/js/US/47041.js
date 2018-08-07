@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47041"]={"code":"47041","region":"Indiana","city":"Sunman","latitude":39.237,"longitude":-85.09468}}(window,'GeoPostal','US');

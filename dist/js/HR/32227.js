@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32227"]={"code":"32227","region":"Vukovarsko-srijemska zupanija","city":"Borovo","latitude":45.37639,"longitude":18.96694}}(window,'GeoPostal','HR');

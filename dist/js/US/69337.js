@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69337"]={"code":"69337","region":"Nebraska","city":"Chadron","latitude":42.82942,"longitude":-102.99991}}(window,'GeoPostal','US');

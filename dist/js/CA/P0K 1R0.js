@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0K 1R0"]={"code":"P0K 1R0","region":"Ontario","city":"Ramore","latitude":48.43404,"longitude":-80.32516}}(window,'GeoPostal','CA');

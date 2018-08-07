@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65479"]={"code":"65479","region":"Missouri","city":"Hartshorn","latitude":37.291331,"longitude":-91.700649}}(window,'GeoPostal','US');

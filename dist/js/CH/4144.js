@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4144"]={"code":"4144","region":"Basel-Landschaft","city":"Arlesheim","latitude":47.49412,"longitude":7.61979}}(window,'GeoPostal','CH');

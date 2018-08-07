@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717389"]={"code":"717389","region":"Iasi","city":"Stefanesti-Sat","latitude":47.78333,"longitude":27.18333}}(window,'GeoPostal','RO');

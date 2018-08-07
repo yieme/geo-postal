@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13062"]={"code":"13062","region":"NY","city":"Etna","latitude":42.4851,"longitude":-76.3835}}(window,'GeoPostal','US');

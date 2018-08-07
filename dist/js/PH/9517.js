@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9517"]={"code":"9517","region":"South Cotabato","city":"Maasin","latitude":5.8575,"longitude":125.00611}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57361"]={"code":"57361","region":"Grand-Est","city":"Amneville","latitude":49.2575,"longitude":6.14203}}(window,'GeoPostal','FR');

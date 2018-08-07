@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77694"]={"code":"77694","region":"Baden-Wurttemberg","city":"Kehl","latitude":48.57297,"longitude":7.81523}}(window,'GeoPostal','DE');

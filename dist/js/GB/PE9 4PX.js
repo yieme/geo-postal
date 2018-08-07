@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4PX"]={"code":"PE9 4PX","region":"England","city":"Greatford","latitude":52.69459,"longitude":-0.39482}}(window,'GeoPostal','GB');

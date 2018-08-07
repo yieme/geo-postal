@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48115"]={"code":"48115","region":"MI","city":"Bridgewater","latitude":42.1602,"longitude":-83.9117}}(window,'GeoPostal','US');

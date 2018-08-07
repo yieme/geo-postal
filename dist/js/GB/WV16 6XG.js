@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV16 6XG"]={"code":"WV16 6XG","region":"England","city":"Acton Round","latitude":52.55707,"longitude":-2.53722}}(window,'GeoPostal','GB');

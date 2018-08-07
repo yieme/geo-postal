@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394317"]={"code":"394317","region":"Gujarat","city":"Bardoli","latitude":21.11667,"longitude":73.11667}}(window,'GeoPostal','IN');

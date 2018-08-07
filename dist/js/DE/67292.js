@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67292"]={"code":"67292","region":"Rheinland-Pfalz","city":"Kirchheimbolanden","latitude":49.66249,"longitude":8.01513}}(window,'GeoPostal','DE');

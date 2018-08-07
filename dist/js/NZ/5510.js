@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5510"]={"code":"5510","region":"Manawatu-Wanganui","city":"Levin","latitude":-40.63333,"longitude":175.275}}(window,'GeoPostal','NZ');

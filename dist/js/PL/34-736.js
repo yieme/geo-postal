@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-736"]={"code":"34-736","region":"Malopolskie","city":"Lubomierz","latitude":49.60854,"longitude":20.20214}}(window,'GeoPostal','PL');

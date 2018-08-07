@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72941"]={"code":"72941","region":"AR","city":"Lavaca","latitude":35.3661,"longitude":-94.1917}}(window,'GeoPostal','US');

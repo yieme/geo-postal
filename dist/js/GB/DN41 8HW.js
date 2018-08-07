@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN41 8HW"]={"code":"DN41 8HW","region":"England","city":"Keelby","latitude":53.5758,"longitude":-0.24701}}(window,'GeoPostal','GB');

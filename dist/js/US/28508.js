@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28508"]={"code":"28508","region":"NC","city":"Albertson","latitude":35.1176,"longitude":-77.8515}}(window,'GeoPostal','US');

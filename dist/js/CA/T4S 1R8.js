@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4S 1R8"]={"code":"T4S 1R8","region":"Alberta","city":"Jarvis Bay","latitude":52.31681,"longitude":-114.0687}}(window,'GeoPostal','CA');

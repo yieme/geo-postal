@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11364"]={"code":"11364","region":"New York","city":"Hollis Hills","latitude":40.732478,"longitude":-73.754225}}(window,'GeoPostal','US');

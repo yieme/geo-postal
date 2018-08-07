@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547380"]={"code":"547380","region":"Mures","city":"Lunca Bradului","latitude":46.95595,"longitude":25.1114}}(window,'GeoPostal','RO');

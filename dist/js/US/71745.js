@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71745"]={"code":"71745","region":"AR","city":"Harrell","latitude":33.5101,"longitude":-92.3988}}(window,'GeoPostal','US');

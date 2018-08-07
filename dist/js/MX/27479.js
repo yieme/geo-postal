@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27479"]={"code":"27479","region":"Chiapas","city":"Puerto Madero","latitude":14.72076,"longitude":-92.42146}}(window,'GeoPostal','MX');

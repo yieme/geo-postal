@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40117"]={"code":"40117","region":"KY","city":"Ekron","latitude":37.9113,"longitude":-86.1542}}(window,'GeoPostal','US');

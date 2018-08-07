@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 4DX"]={"code":"HG4 4DX","region":"England","city":"Masham","latitude":54.2227,"longitude":-1.65718}}(window,'GeoPostal','GB');

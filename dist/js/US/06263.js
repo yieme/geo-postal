@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06263"]={"code":"06263","region":"CT","city":"Rogers","latitude":41.8391,"longitude":-71.9063}}(window,'GeoPostal','US');

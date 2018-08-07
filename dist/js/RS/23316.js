@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23316"]={"code":"23316","region":"Severnobanatski okrug","city":"Basaid","latitude":45.64111,"longitude":20.41417}}(window,'GeoPostal','RS');

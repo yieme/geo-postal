@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250406"]={"code":"250406","region":"Uttar Pradesh","city":"Budhana","latitude":29.28333,"longitude":77.46667}}(window,'GeoPostal','IN');

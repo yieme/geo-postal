@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Lefkosia","city":"Lefka","latitude":35.11056,"longitude":32.85056}}(window,'GeoPostal','CY');

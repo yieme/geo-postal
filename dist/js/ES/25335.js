@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25335"]={"code":"25335","region":"Catalunya","city":"Bellcaire d'Urgell","latitude":41.75,"longitude":0.91667}}(window,'GeoPostal','ES');

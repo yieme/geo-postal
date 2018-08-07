@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84792"]={"code":"84792","region":"Donetska oblast","city":"Debal'tsevo","latitude":48.34072,"longitude":38.4049}}(window,'GeoPostal','UA');

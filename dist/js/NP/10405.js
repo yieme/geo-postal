@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10405"]={"code":"10405","region":"Mahakali","city":"Mahendranagar","latitude":28.91667,"longitude":80.33333}}(window,'GeoPostal','NP');

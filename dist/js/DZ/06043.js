@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06043"]={"code":"06043","region":"Tizi Ouzou","city":"Chemini","latitude":36.6,"longitude":4.61667}}(window,'GeoPostal','DZ');

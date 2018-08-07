@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6208"]={"code":"6208","region":"Western Australia","city":"Pinjarra","latitude":-32.6298,"longitude":115.87351}}(window,'GeoPostal','AU');

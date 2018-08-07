@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9653"]={"code":"9653","region":"Vas","city":"Repcelak","latitude":47.42105,"longitude":17.01795}}(window,'GeoPostal','HU');

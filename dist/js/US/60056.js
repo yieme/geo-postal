@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60056"]={"code":"60056","region":"Illinois","city":"Mount Prospect","latitude":42.065399,"longitude":-87.933549}}(window,'GeoPostal','US');

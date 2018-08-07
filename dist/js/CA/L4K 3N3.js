@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4K 3N3"]={"code":"L4K 3N3","region":"Ontario","city":"Concord","latitude":43.81165,"longitude":-79.482806}}(window,'GeoPostal','CA');

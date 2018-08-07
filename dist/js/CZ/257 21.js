@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 21"]={"code":"257 21","region":"Stredocesky kraj","city":"Porici nad Sazavou","latitude":49.83895,"longitude":14.67446}}(window,'GeoPostal','CZ');

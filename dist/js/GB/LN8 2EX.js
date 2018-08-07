@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 2EX"]={"code":"LN8 2EX","region":"England","city":"Glentham","latitude":53.39967,"longitude":-0.49489}}(window,'GeoPostal','GB');

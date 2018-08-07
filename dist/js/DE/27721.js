@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27721"]={"code":"27721","region":"Niedersachsen","city":"Brundorf","latitude":53.2313,"longitude":8.66903}}(window,'GeoPostal','DE');

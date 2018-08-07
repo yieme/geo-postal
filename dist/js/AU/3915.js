@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3915"]={"code":"3915","region":"Victoria","city":"Tuerong","latitude":-38.29869,"longitude":145.09674}}(window,'GeoPostal','AU');

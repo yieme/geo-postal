@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62601"]={"code":"62601","region":"Kharkivska oblast","city":"Velikiy Burluk","latitude":50.03787,"longitude":37.39871}}(window,'GeoPostal','UA');

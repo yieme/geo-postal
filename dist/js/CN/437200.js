@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437200"]={"code":"437200","region":"Hubei","city":"Yuyue","latitude":30.0182,"longitude":113.96325}}(window,'GeoPostal','CN');

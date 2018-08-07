@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336409"]={"code":"336409","region":"Jiangxi","city":"Siquanpu","latitude":28.16724,"longitude":114.60092}}(window,'GeoPostal','CN');

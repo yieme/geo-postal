@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14505"]={"code":"14505","region":"NY","city":"Marion","latitude":43.1546,"longitude":-77.1863}}(window,'GeoPostal','US');

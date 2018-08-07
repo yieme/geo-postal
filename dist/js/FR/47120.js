@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47120"]={"code":"47120","region":"Nouvelle-Aquitaine","city":"Duras","latitude":44.67618,"longitude":0.18247}}(window,'GeoPostal','FR');

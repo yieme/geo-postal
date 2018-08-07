@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4118"]={"code":"4118","region":"Cavite","city":"Bulihan","latitude":14.26974,"longitude":120.99546}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL20 7AR"]={"code":"GL20 7AR","region":"England","city":"Great Washbourne","latitude":52.00793,"longitude":-2.01955}}(window,'GeoPostal','GB');

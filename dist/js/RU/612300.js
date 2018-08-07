@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612300"]={"code":"612300","region":"Kirovskaya oblast'","city":"Kiknur","latitude":57.30341,"longitude":47.20106}}(window,'GeoPostal','RU');

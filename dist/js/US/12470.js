@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12470"]={"code":"12470","region":"NY","city":"Purling","latitude":42.2959,"longitude":-74.0773}}(window,'GeoPostal','US');

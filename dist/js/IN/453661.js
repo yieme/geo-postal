@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453661"]={"code":"453661","region":"Madhya Pradesh","city":"Betma","latitude":22.68333,"longitude":75.61667}}(window,'GeoPostal','IN');

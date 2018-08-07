@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2C0"]={"code":"K0L 2C0","region":"Ontario","city":"Juniper Island","latitude":44.55012,"longitude":-78.14952}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97377"]={"code":"97377","region":"Yucatan","city":"Timucuy","latitude":20.81667,"longitude":-89.51667}}(window,'GeoPostal','MX');

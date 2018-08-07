@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35957"]={"code":"35957","region":"Alabama","city":"Boaz","latitude":34.1481,"longitude":-86.14806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01879"]={"code":"01879","region":"Massachusetts","city":"Tyngsboro","latitude":42.672067,"longitude":-71.414474}}(window,'GeoPostal','US');

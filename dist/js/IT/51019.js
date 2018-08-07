@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51019"]={"code":"51019","region":"Toscana","city":"Ponte Buggianese","latitude":43.84285,"longitude":10.74761}}(window,'GeoPostal','IT');

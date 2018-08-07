@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4287"]={"code":"4287","region":"Hajdu-Bihar","city":"Vamospercs","latitude":47.53333,"longitude":21.9}}(window,'GeoPostal','HU');

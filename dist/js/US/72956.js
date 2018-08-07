@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72956"]={"code":"72956","region":"Arkansas","city":"Van Buren","latitude":35.444075,"longitude":-94.342766}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25181"]={"code":"25181","region":"WV","city":"Seth","latitude":38.0971,"longitude":-81.6393}}(window,'GeoPostal','US');

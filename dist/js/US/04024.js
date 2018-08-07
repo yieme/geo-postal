@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04024"]={"code":"04024","region":"ME","city":"East Baldwin","latitude":43.8646,"longitude":-70.6922}}(window,'GeoPostal','US');

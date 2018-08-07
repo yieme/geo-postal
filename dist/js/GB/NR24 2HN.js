@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR24 2HN"]={"code":"NR24 2HN","region":"England","city":"Briston","latitude":52.85369,"longitude":1.05899}}(window,'GeoPostal','GB');

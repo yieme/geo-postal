@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1800"]={"code":"1800","region":"Vaud","city":"Vevey","latitude":46.46116,"longitude":6.84328}}(window,'GeoPostal','CH');

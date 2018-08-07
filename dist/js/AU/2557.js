@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2557"]={"code":"2557","region":"New South Wales","city":"Catherine Field","latitude":-34.00439,"longitude":150.77253}}(window,'GeoPostal','AU');

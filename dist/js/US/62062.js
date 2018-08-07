@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62062"]={"code":"62062","region":"Illinois","city":"Maryville","latitude":38.724921,"longitude":-89.957396}}(window,'GeoPostal','US');

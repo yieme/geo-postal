@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24153"]={"code":"24153","region":"Virginia","city":"Salem","latitude":37.29347,"longitude":-80.05476}}(window,'GeoPostal','US');

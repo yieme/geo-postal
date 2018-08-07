@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22626"]={"code":"22626","region":"VA","city":"Fishers Hill","latitude":38.9834,"longitude":-78.4038}}(window,'GeoPostal','US');

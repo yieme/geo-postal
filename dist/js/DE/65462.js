@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65462"]={"code":"65462","region":"Hessen","city":"Gustavsburg","latitude":49.99756,"longitude":8.31702}}(window,'GeoPostal','DE');

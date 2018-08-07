@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL4 1DN"]={"code":"DL4 1DN","region":"England","city":"Shildon","latitude":54.62997,"longitude":-1.64295}}(window,'GeoPostal','GB');

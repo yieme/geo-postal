@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9663"]={"code":"9663","region":"Free State","city":"Bothaville","latitude":-27.3887,"longitude":26.61701}}(window,'GeoPostal','ZA');

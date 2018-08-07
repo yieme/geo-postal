@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54692"]={"code":"54692","region":"Vastra Gotalands lan","city":"Molltorp","latitude":58.5,"longitude":14.4}}(window,'GeoPostal','SE');

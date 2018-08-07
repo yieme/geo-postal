@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83512"]={"code":"83512","region":"Bayern","city":"Kornberg","latitude":48.03798,"longitude":12.18143}}(window,'GeoPostal','DE');

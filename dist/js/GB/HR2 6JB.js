@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 6JB"]={"code":"HR2 6JB","region":"England","city":"Lower Bullingham","latitude":52.03333,"longitude":-2.7}}(window,'GeoPostal','GB');

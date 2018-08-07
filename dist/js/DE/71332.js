@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71332"]={"code":"71332","region":"Baden-Wurttemberg","city":"Waiblingen","latitude":48.83241,"longitude":9.31641}}(window,'GeoPostal','DE');

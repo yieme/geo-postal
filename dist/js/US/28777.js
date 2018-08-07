@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28777"]={"code":"28777","region":"North Carolina","city":"Spruce Pine","latitude":35.914156,"longitude":-82.070681}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-300"]={"code":"16-300","region":"Podlaskie","city":"Augustow","latitude":53.84321,"longitude":22.97979}}(window,'GeoPostal','PL');

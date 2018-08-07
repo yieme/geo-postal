@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55352"]={"code":"55352","region":"Minnesota","city":"Jordan","latitude":44.66691,"longitude":-93.6269}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73700"]={"code":"73700","region":"Auvergne-Rhone-Alpes","city":"Seez","latitude":45.62209,"longitude":6.79957}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17328"]={"code":"17328","region":"Mecklenburg-Vorpommern","city":"Wollin","latitude":53.31507,"longitude":14.21734}}(window,'GeoPostal','DE');

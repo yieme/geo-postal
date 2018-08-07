@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97140"]={"code":"97140","region":"Oregon","city":"Sherwood","latitude":45.355263,"longitude":-122.833791}}(window,'GeoPostal','US');

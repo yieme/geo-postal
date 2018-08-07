@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36562"]={"code":"36562","region":"Alabama","city":"Perdido","latitude":31.00778,"longitude":-87.62722}}(window,'GeoPostal','US');

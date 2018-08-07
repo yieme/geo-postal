@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68040"]={"code":"68040","region":"NE","city":"Malmo","latitude":41.2984,"longitude":-96.7327}}(window,'GeoPostal','US');

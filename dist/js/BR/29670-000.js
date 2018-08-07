@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29670-000"]={"code":"29670-000","region":"Espirito Santo","city":"Ibiracu","latitude":-19.83194,"longitude":-40.36972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49971"]={"code":"49971","region":"MI","city":"White Pine","latitude":46.7538,"longitude":-89.584}}(window,'GeoPostal','US');

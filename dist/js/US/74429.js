@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74429"]={"code":"74429","region":"Oklahoma","city":"Coweta","latitude":35.955886,"longitude":-95.656366}}(window,'GeoPostal','US');

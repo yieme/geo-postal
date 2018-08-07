@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-100"]={"code":"84-100","region":"Pomorskie","city":"Puck","latitude":54.7179,"longitude":18.40841}}(window,'GeoPostal','PL');

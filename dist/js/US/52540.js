@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52540"]={"code":"52540","region":"Iowa","city":"Brighton","latitude":41.172769,"longitude":-91.82203}}(window,'GeoPostal','US');

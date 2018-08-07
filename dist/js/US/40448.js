@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40448"]={"code":"40448","region":"KY","city":"Mc Kinney","latitude":37.446,"longitude":-84.6998}}(window,'GeoPostal','US');

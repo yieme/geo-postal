@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45720-000"]={"code":"45720-000","region":"Bahia","city":"Ibicui","latitude":-14.84167,"longitude":-39.98667}}(window,'GeoPostal','BR');

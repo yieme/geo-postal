@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48670"]={"code":"48670","region":"Jalisco","city":"Atotonilco el Alto","latitude":20.55,"longitude":-102.51667}}(window,'GeoPostal','MX');

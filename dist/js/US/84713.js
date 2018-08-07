@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84713"]={"code":"84713","region":"Utah","city":"Beaver","latitude":38.27691,"longitude":-112.64105}}(window,'GeoPostal','US');

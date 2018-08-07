@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06388"]={"code":"06388","region":"CT","city":"West Mystic","latitude":41.3441,"longitude":-71.9765}}(window,'GeoPostal','US');

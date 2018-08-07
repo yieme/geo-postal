@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD7 7RT"]={"code":"DD7 7RT","region":"Scotland","city":"Barry","latitude":56.48333,"longitude":-2.75}}(window,'GeoPostal','GB');

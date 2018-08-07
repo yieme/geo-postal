@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30064"]={"code":"30064","region":"Georgia","city":"Marietta","latitude":33.938563,"longitude":-84.615057}}(window,'GeoPostal','US');

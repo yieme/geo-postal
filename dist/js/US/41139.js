@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41139"]={"code":"41139","region":"KY","city":"Flatwoods","latitude":38.5188,"longitude":-82.7212}}(window,'GeoPostal','US');

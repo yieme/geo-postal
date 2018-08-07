@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27013"]={"code":"27013","region":"Kirovohradska oblast","city":"Tyshkivka","latitude":48.49665,"longitude":30.94229}}(window,'GeoPostal','UA');

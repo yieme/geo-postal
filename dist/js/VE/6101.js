@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6101"]={"code":"6101","region":"Sucre","city":"Cumana","latitude":10.46354,"longitude":-64.1775}}(window,'GeoPostal','VE');

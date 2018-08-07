@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52631"]={"code":"52631","region":"IA","city":"Houghton","latitude":40.77,"longitude":-91.6138}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58753-000"]={"code":"58753-000","region":"Paraiba","city":"Tavares","latitude":-7.63583,"longitude":-37.87833}}(window,'GeoPostal','BR');

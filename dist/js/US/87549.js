@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87549"]={"code":"87549","region":"NM","city":"Ojo Caliente","latitude":36.3313,"longitude":-106.0028}}(window,'GeoPostal','US');

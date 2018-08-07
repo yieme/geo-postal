@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57027"]={"code":"57027","region":"Toscana","city":"San Vincenzo","latitude":43.09283,"longitude":10.54082}}(window,'GeoPostal','IT');

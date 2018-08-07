@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7008"]={"code":"7008","region":"Negros Occidental","city":"Aguisan","latitude":10.16556,"longitude":122.86056}}(window,'GeoPostal','PH');

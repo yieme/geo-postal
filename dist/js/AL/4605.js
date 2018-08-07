@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4605"]={"code":"4605","region":"Lezhe","city":"Kurbnesh","latitude":41.77972,"longitude":20.08361}}(window,'GeoPostal','AL');

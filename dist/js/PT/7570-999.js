@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7570-999"]={"code":"7570-999","region":"Setubal","city":"Santiago do Cacem","latitude":38.01694,"longitude":-8.69475}}(window,'GeoPostal','PT');

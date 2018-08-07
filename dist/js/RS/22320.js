@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22320"]={"code":"22320","region":"Sremski okrug","city":"Ingija","latitude":45.04917,"longitude":20.07917}}(window,'GeoPostal','RS');

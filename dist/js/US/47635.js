@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47635"]={"code":"47635","region":"Indiana","city":"Rockport","latitude":37.88311,"longitude":-87.04944}}(window,'GeoPostal','US');

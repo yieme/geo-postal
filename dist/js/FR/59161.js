@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59161"]={"code":"59161","region":"Hauts-de-France","city":"Escaudoeuvres","latitude":50.2,"longitude":3.26667}}(window,'GeoPostal','FR');

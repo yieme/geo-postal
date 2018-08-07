@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 1PN"]={"code":"PE32 1PN","region":"England","city":"Gayton Thorpe","latitude":52.7371,"longitude":0.58268}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88260"]={"code":"88260","region":"Baden-Wurttemberg","city":"Eisenharz","latitude":47.68866,"longitude":9.95772}}(window,'GeoPostal','DE');

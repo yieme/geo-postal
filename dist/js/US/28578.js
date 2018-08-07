@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28578"]={"code":"28578","region":"NC","city":"Seven Springs","latitude":35.2105,"longitude":-77.9146}}(window,'GeoPostal','US');

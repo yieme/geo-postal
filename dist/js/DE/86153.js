@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86153"]={"code":"86153","region":"Bayern","city":"Augsburg-Lechviertel","latitude":48.36472,"longitude":10.90114}}(window,'GeoPostal','DE');

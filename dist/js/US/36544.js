@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36544"]={"code":"36544","region":"AL","city":"Irvington","latitude":30.4802,"longitude":-88.2396}}(window,'GeoPostal','US');

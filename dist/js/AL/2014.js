@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2014"]={"code":"2014","region":"Durres","city":"Shijak","latitude":41.34556,"longitude":19.56722}}(window,'GeoPostal','AL');

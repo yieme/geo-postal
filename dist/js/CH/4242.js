@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4242"]={"code":"4242","region":"Basel-Landschaft","city":"Laufen","latitude":47.42193,"longitude":7.49946}}(window,'GeoPostal','CH');

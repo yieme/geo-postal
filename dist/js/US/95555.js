@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95555"]={"code":"95555","region":"CA","city":"Orick","latitude":41.3596,"longitude":-124.0317}}(window,'GeoPostal','US');

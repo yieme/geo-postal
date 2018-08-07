@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2029"]={"code":"2029","region":"Lori","city":"Gugark'","latitude":40.8046,"longitude":44.54025}}(window,'GeoPostal','AM');

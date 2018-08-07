@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21787"]={"code":"21787","region":"Maryland","city":"Taneytown","latitude":39.65788,"longitude":-77.17443}}(window,'GeoPostal','US');

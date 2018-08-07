@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06430"]={"code":"06430","region":"Extremadura","city":"Zalamea de la Serena","latitude":38.65131,"longitude":-5.66063}}(window,'GeoPostal','ES');

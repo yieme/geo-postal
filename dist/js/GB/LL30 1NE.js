@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL30 1NE"]={"code":"LL30 1NE","region":"Wales","city":"Deganwy","latitude":53.30446,"longitude":-3.82735}}(window,'GeoPostal','GB');

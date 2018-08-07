@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2LX"]={"code":"SY13 2LX","region":"Wales","city":"Bettisfield","latitude":52.91415,"longitude":-2.80548}}(window,'GeoPostal','GB');

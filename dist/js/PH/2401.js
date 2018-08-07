@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2401"]={"code":"2401","region":"Pangasinan","city":"Lingayen","latitude":16.02182,"longitude":120.23194}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32537"]={"code":"32537","region":"FL","city":"Milligan","latitude":30.742,"longitude":-86.6552}}(window,'GeoPostal','US');

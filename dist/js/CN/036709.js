@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["036709"]={"code":"036709","region":"Shanxi","city":"Dietaisi","latitude":38.80576,"longitude":112.20332}}(window,'GeoPostal','CN');

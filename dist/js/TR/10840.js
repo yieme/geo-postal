@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10840"]={"code":"10840","region":"Balikesir","city":"Balya","latitude":39.74861,"longitude":27.57889}}(window,'GeoPostal','TR');

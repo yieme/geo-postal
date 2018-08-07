@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["064 01"]={"code":"064 01","region":"Presovsky kraj","city":"Stara lubovna","latitude":49.29859,"longitude":20.6862}}(window,'GeoPostal','SK');

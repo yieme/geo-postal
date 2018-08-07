@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6264"]={"code":"6264","region":"Luzern","city":"Pfaffnau","latitude":47.22772,"longitude":7.89719}}(window,'GeoPostal','CH');

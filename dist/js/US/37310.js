@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37310"]={"code":"37310","region":"TN","city":"Charleston","latitude":35.2556,"longitude":-84.7666}}(window,'GeoPostal','US');

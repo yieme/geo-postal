@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4671"]={"code":"4671","region":"Noord-Brabant","city":"Dinteloord","latitude":51.635,"longitude":4.36944}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP22 6ES"]={"code":"HP22 6ES","region":"England","city":"Wendover","latitude":51.76301,"longitude":-0.74149}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA20 0PG"]={"code":"SA20 0PG","region":"Wales","city":"Ystrad-ffin","latitude":52.1,"longitude":-3.76667}}(window,'GeoPostal','GB');

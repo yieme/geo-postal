@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["033 01"]={"code":"033 01","region":"Zilinsky kraj","city":"Liptovsky Hradok","latitude":49.03962,"longitude":19.72335}}(window,'GeoPostal','SK');

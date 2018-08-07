@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL41 3SH"]={"code":"LL41 3SH","region":"Wales","city":"Tanygrisiau","latitude":52.98705,"longitude":-3.9574}}(window,'GeoPostal','GB');

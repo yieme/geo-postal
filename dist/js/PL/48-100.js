@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-100"]={"code":"48-100","region":"Opolskie","city":"Glubczyce","latitude":50.20086,"longitude":17.82858}}(window,'GeoPostal','PL');

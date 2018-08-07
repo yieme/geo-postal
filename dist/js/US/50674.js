@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50674"]={"code":"50674","region":"IA","city":"Sumner","latitude":42.8419,"longitude":-92.1186}}(window,'GeoPostal','US');

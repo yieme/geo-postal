@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85453"]={"code":"85453","region":"Souss-Massa-Draa","city":"Tafraout","latitude":29.72449,"longitude":-8.9747}}(window,'GeoPostal','MA');

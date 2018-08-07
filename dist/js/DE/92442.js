@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92442"]={"code":"92442","region":"Bayern","city":"Wackersdorf","latitude":49.31667,"longitude":12.18333}}(window,'GeoPostal','DE');

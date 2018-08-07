@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2N 6L8"]={"code":"V2N 6L8","region":"British Columbia","city":"Beaverley","latitude":53.81659,"longitude":-122.88631}}(window,'GeoPostal','CA');

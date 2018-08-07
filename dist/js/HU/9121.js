@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9121"]={"code":"9121","region":"Gyor-Moson-Sopron","city":"Gyorszemere","latitude":47.55256,"longitude":17.56356}}(window,'GeoPostal','HU');

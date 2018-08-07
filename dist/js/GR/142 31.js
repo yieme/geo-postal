@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142 31"]={"code":"142 31","region":"Attiki","city":"Nea Ionia","latitude":40.68889,"longitude":22.85694}}(window,'GeoPostal','GR');

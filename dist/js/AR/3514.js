@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3514"]={"code":"3514","region":"Chaco","city":"Makalle","latitude":-27.20687,"longitude":-59.28696}}(window,'GeoPostal','AR');

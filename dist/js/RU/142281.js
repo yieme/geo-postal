@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142281"]={"code":"142281","region":"Moskovskaya oblast'","city":"Protvino","latitude":54.86639,"longitude":37.21778}}(window,'GeoPostal','RU');

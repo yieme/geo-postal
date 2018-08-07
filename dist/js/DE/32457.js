@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32457"]={"code":"32457","region":"Nordrhein-Westfalen","city":"Porta Westfalica","latitude":52.23779,"longitude":8.91901}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB34 5DT"]={"code":"AB34 5DT","region":"Scotland","city":"Ballogie","latitude":57.04857,"longitude":-2.70504}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38557"]={"code":"38557","region":"TN","city":"Crossville","latitude":35.9885,"longitude":-85.0124}}(window,'GeoPostal','US');

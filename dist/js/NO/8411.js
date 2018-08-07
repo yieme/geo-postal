@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8411"]={"code":"8411","region":"Nordland","city":"Lodingen","latitude":68.41399,"longitude":15.99512}}(window,'GeoPostal','NO');

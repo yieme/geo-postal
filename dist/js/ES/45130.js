@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45130"]={"code":"45130","region":"Castilla-La Mancha","city":"Los Navalucillos","latitude":39.66665,"longitude":-4.64205}}(window,'GeoPostal','ES');

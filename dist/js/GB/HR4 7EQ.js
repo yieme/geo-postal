@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR4 7EQ"]={"code":"HR4 7EQ","region":"England","city":"Credenhill","latitude":52.08351,"longitude":-2.80804}}(window,'GeoPostal','GB');

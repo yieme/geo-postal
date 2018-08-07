@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15403"]={"code":"15403","region":"Rabat-Sale-Zemmour-Zaer","city":"Tiflet","latitude":33.89469,"longitude":-6.3065}}(window,'GeoPostal','MA');

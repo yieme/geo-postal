@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 1Y0"]={"code":"S0A 1Y0","region":"Saskatchewan","city":"Kuroki","latitude":51.86669,"longitude":-103.4843}}(window,'GeoPostal','CA');

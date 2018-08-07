@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64726"]={"code":"64726","region":"MO","city":"Blairstown","latitude":38.5319,"longitude":-93.9221}}(window,'GeoPostal','US');

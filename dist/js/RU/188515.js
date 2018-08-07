@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188515"]={"code":"188515","region":"Leningradskaya oblast'","city":"Kipen'","latitude":59.67649,"longitude":29.85311}}(window,'GeoPostal','RU');

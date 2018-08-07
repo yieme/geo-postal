@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79227"]={"code":"79227","region":"Texas","city":"Crowell","latitude":33.98397,"longitude":-99.72482}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21643"]={"code":"21643","region":"MD","city":"Hurlock","latitude":38.6438,"longitude":-75.863}}(window,'GeoPostal','US');

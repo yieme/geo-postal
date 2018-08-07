@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34434"]={"code":"34434","region":"Nordrhein-Westfalen","city":"Alt Marienburg","latitude":51.55,"longitude":9.28333}}(window,'GeoPostal','DE');

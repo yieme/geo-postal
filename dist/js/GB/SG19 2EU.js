@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 2EU"]={"code":"SG19 2EU","region":"England","city":"Wrestlingworth","latitude":52.11041,"longitude":-0.16342}}(window,'GeoPostal','GB');

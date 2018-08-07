@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8JS"]={"code":"IV40 8JS","region":"Scotland","city":"Glenelg","latitude":57.21218,"longitude":-5.62179}}(window,'GeoPostal','GB');

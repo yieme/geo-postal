@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0800"]={"code":"0800","region":"Northern Territory","city":"Darwin","latitude":-12.46113,"longitude":130.84185}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72959"]={"code":"72959","region":"AR","city":"Winslow","latitude":35.8312,"longitude":-94.1187}}(window,'GeoPostal','US');

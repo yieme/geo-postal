@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2R0"]={"code":"J0K 2R0","region":"Quebec","city":"Saint-Jacques","latitude":45.94867,"longitude":-73.57026}}(window,'GeoPostal','CA');

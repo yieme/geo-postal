@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37404"]={"code":"37404","region":"Tennessee","city":"Chattanooga","latitude":35.029783,"longitude":-85.272789}}(window,'GeoPostal','US');

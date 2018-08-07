@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32664"]={"code":"32664","region":"FL","city":"Mc Intosh","latitude":29.438,"longitude":-82.2295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3727"]={"code":"3727","region":"Victoria","city":"Saint James","latitude":-36.26667,"longitude":145.9}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12453"]={"code":"12453","region":"NY","city":"Malden On Hudson","latitude":42.0987,"longitude":-73.9354}}(window,'GeoPostal','US');

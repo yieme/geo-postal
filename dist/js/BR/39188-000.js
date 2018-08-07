@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39188-000"]={"code":"39188-000","region":"Minas Gerais","city":"Diamantina","latitude":-18.24944,"longitude":-43.60028}}(window,'GeoPostal','BR');

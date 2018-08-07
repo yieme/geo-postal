@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47944"]={"code":"47944","region":"Indiana","city":"Fowler","latitude":40.6167,"longitude":-87.32085}}(window,'GeoPostal','US');

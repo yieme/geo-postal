@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676560"]={"code":"676560","region":"Amurskaya oblast'","city":"Ekimchan","latitude":53.06667,"longitude":132.96667}}(window,'GeoPostal','RU');

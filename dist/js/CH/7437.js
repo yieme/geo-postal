@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7437"]={"code":"7437","region":"Graubunden","city":"Hinterrhein","latitude":46.53333,"longitude":9.2}}(window,'GeoPostal','CH');

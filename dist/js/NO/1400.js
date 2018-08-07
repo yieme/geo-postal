@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1400"]={"code":"1400","region":"Akershus","city":"Ski","latitude":59.71949,"longitude":10.83576}}(window,'GeoPostal','NO');

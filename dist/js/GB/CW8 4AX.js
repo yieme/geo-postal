@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW8 4AX"]={"code":"CW8 4AX","region":"England","city":"Northwich","latitude":53.26138,"longitude":-2.51225}}(window,'GeoPostal','GB');

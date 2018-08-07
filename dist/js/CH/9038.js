@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9038"]={"code":"9038","region":"Appenzell Ausserrhoden","city":"Rehetobel","latitude":47.42611,"longitude":9.483}}(window,'GeoPostal','CH');

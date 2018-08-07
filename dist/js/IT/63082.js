@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63082"]={"code":"63082","region":"Marche","city":"Castel di Lama","latitude":42.86435,"longitude":13.71929}}(window,'GeoPostal','IT');

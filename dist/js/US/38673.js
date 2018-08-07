@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38673"]={"code":"38673","region":"Mississippi","city":"Taylor","latitude":34.274618,"longitude":-89.638121}}(window,'GeoPostal','US');

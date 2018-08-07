@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03470"]={"code":"03470","region":"NH","city":"Winchester","latitude":42.7788,"longitude":-72.344}}(window,'GeoPostal','US');

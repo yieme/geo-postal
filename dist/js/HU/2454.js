@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2454"]={"code":"2454","region":"Fejer","city":"Ivancsa","latitude":47.1567,"longitude":18.8203}}(window,'GeoPostal','HU');

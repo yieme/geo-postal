@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["465697"]={"code":"465697","region":"Madhya Pradesh","city":"Sarangpur","latitude":23.56667,"longitude":76.46667}}(window,'GeoPostal','IN');

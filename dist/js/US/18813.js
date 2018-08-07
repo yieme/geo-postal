@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18813"]={"code":"18813","region":"PA","city":"Brooklyn","latitude":41.7512,"longitude":-75.8069}}(window,'GeoPostal','US');

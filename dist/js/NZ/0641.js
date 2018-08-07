@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0641"]={"code":"0641","region":"Auckland","city":"Waitakere","latitude":-36.91754,"longitude":174.65773}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59846"]={"code":"59846","region":"MT","city":"Huson","latitude":47.066,"longitude":-114.4219}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65100"]={"code":"65100","region":"Rio Negro","city":"Young","latitude":-32.68333,"longitude":-57.63333}}(window,'GeoPostal','UY');

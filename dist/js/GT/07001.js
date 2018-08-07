@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07001"]={"code":"07001","region":"Solola","city":"Solola","latitude":14.76667,"longitude":-91.18333}}(window,'GeoPostal','GT');

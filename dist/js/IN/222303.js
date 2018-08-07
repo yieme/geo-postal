@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222303"]={"code":"222303","region":"Uttar Pradesh","city":"Sultanpur","latitude":26.26667,"longitude":82.06667}}(window,'GeoPostal','IN');

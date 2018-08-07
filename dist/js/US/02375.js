@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02375"]={"code":"02375","region":"Massachusetts","city":"South Easton","latitude":42.027052,"longitude":-71.101456}}(window,'GeoPostal','US');

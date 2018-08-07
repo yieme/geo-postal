@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86022"]={"code":"86022","region":"Arizona","city":"Fredonia","latitude":36.94554,"longitude":-112.52659}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4808"]={"code":"4808","region":"Queensland","city":"Brandon","latitude":-19.55389,"longitude":147.35304}}(window,'GeoPostal','AU');

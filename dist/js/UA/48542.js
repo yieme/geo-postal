@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48542"]={"code":"48542","region":"Ternopilska oblast","city":"Yahil'nytsya","latitude":48.94248,"longitude":25.74374}}(window,'GeoPostal','UA');

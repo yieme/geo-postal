@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1705"]={"code":"1705","region":"Noord-Holland","city":"Heerhugowaard","latitude":52.67144,"longitude":4.84862}}(window,'GeoPostal','NL');

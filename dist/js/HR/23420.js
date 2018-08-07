@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23420"]={"code":"23420","region":"Zadarska zupanija","city":"Benkovac","latitude":44.03444,"longitude":15.61278}}(window,'GeoPostal','HR');

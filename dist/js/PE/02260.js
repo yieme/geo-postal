@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02260"]={"code":"02260","region":"Ancash","city":"Pomabamba","latitude":-8.83333,"longitude":-77.46667}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60557"]={"code":"60557","region":"IL","city":"Wedron","latitude":41.4409,"longitude":-88.7703}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62900"]={"code":"62900","region":"Tunceli","city":"Hozat","latitude":39.10829,"longitude":39.22127}}(window,'GeoPostal','TR');

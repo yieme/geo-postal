@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93429"]={"code":"93429","region":"CA","city":"Casmalia","latitude":34.8458,"longitude":-120.535}}(window,'GeoPostal','US');

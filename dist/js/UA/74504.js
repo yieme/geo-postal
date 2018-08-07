@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74504"]={"code":"74504","region":"Khersonska oblast","city":"Velyka Lepetykha","latitude":47.17572,"longitude":33.94362}}(window,'GeoPostal','UA');

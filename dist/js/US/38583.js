@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38583"]={"code":"38583","region":"Tennessee","city":"Sparta","latitude":35.9259,"longitude":-85.46414}}(window,'GeoPostal','US');

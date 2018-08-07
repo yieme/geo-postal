@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SV"]={'173':{r:'San Salvador',c:'San Salvador'},'179':'173', '3031':'173', '':'173'};

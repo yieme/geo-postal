@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29836"]={"code":"29836","region":"South Carolina","city":"Martin","latitude":33.09851,"longitude":-81.525531}}(window,'GeoPostal','US');

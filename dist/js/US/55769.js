@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55769"]={"code":"55769","region":"Minnesota","city":"Nashwauk","latitude":47.37639,"longitude":-93.16}}(window,'GeoPostal','US');

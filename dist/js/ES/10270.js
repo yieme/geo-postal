@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10270"]={"code":"10270","region":"Extremadura","city":"La Cumbre","latitude":39.4046,"longitude":-5.97636}}(window,'GeoPostal','ES');

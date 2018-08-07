@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175123"]={"code":"175123","region":"Himachal Pradesh","city":"Banjar","latitude":31.63333,"longitude":77.35}}(window,'GeoPostal','IN');

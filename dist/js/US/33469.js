@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33469"]={"code":"33469","region":"Florida","city":"Tequesta","latitude":26.960799,"longitude":-80.098261}}(window,'GeoPostal','US');

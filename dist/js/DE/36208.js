@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36208"]={"code":"36208","region":"Hessen","city":"Bosserode","latitude":50.95096,"longitude":9.99243}}(window,'GeoPostal','DE');

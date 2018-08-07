@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 9QD"]={"code":"SY7 9QD","region":"England","city":"Craven Arms","latitude":52.44308,"longitude":-2.83562}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40941"]={"code":"40941","region":"KY","city":"Garrard","latitude":37.1237,"longitude":-83.7463}}(window,'GeoPostal','US');

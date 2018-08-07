@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42440"]={"code":"42440","region":"Auvergne-Rhone-Alpes","city":"Noiretable","latitude":45.818,"longitude":3.76276}}(window,'GeoPostal','FR');

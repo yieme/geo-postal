@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 1RW"]={"code":"IP22 1RW","region":"England","city":"Redgrave","latitude":52.36098,"longitude":1.0019}}(window,'GeoPostal','GB');

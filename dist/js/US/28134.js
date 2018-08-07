@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28134"]={"code":"28134","region":"North Carolina","city":"Pineville","latitude":35.0832,"longitude":-80.8923}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG8 8DB"]={"code":"IG8 8DB","region":"England","city":"Woodford Green","latitude":51.60938,"longitude":0.02329}}(window,'GeoPostal','GB');

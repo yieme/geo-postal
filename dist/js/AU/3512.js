@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3512"]={"code":"3512","region":"Victoria","city":"Carina","latitude":-35.25,"longitude":141.1}}(window,'GeoPostal','AU');

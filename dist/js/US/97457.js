@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97457"]={"code":"97457","region":"Oregon","city":"Myrtle Creek","latitude":43.02012,"longitude":-123.29312}}(window,'GeoPostal','US');

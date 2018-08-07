@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37623"]={"code":"37623","region":"Blekinge lan","city":"Svangsta","latitude":56.26667,"longitude":14.76667}}(window,'GeoPostal','SE');

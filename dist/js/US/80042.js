@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80042"]={"code":"80042","region":"CO","city":"Aurora","latitude":39.7294,"longitude":-104.8319}}(window,'GeoPostal','US');

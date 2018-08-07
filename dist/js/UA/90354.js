@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90354"]={"code":"90354","region":"Zakarpatska oblast","city":"Mukacheve","latitude":48.43919,"longitude":22.71779}}(window,'GeoPostal','UA');

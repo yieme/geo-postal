@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["573210"]={"code":"573210","region":"Karnataka","city":"Hunsur","latitude":12.3075,"longitude":76.28778}}(window,'GeoPostal','IN');

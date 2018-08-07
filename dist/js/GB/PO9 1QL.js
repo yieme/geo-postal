@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO9 1QL"]={"code":"PO9 1QL","region":"England","city":"Havant","latitude":50.8567,"longitude":-0.98559}}(window,'GeoPostal','GB');

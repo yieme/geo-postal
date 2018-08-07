@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33630"]={"code":"33630","region":"Denizli","city":"Acipayam","latitude":37.42385,"longitude":29.34941}}(window,'GeoPostal','TR');

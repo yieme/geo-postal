@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47040"]={"code":"47040","region":"Indiana","city":"Rising Sun","latitude":38.9495,"longitude":-84.85384}}(window,'GeoPostal','US');

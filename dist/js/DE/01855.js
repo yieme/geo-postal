@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01855"]={"code":"01855","region":"Sachsen","city":"Sebnitz","latitude":50.9754,"longitude":14.27579}}(window,'GeoPostal','DE');

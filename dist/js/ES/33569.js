@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33569"]={"code":"33569","region":"Asturias, Principado de","city":"Ribadesella","latitude":43.46145,"longitude":-5.05955}}(window,'GeoPostal','ES');

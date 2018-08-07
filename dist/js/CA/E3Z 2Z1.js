@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3Z 2Z1"]={"code":"E3Z 2Z1","region":"New Brunswick","city":"Grand-Sault","latitude":47.0334,"longitude":-67.72848}}(window,'GeoPostal','CA');

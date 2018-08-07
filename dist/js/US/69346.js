@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69346"]={"code":"69346","region":"NE","city":"Harrison","latitude":42.6872,"longitude":-103.8827}}(window,'GeoPostal','US');

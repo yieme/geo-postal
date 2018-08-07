@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68016"]={"code":"68016","region":"NE","city":"Cedar Creek","latitude":41.0425,"longitude":-96.1044}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78240"]={"code":"78240","region":"Republika Srpska","city":"Celinac","latitude":44.72278,"longitude":17.32778}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8A 0A1"]={"code":"J8A 0A1","region":"Quebec","city":"Saint-Hippolyte","latitude":45.93338,"longitude":-74.0159}}(window,'GeoPostal','CA');

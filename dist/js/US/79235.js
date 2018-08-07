@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79235"]={"code":"79235","region":"TX","city":"Floydada","latitude":33.9743,"longitude":-101.3346}}(window,'GeoPostal','US');

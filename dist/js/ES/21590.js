@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21590"]={"code":"21590","region":"Andalucia","city":"Villablanca","latitude":37.30239,"longitude":-7.34413}}(window,'GeoPostal','ES');

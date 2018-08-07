@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-422"]={"code":"88-422","region":"Kujawsko-pomorskie","city":"Rogowo","latitude":52.72449,"longitude":17.65117}}(window,'GeoPostal','PL');

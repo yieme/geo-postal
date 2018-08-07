@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45861"]={"code":"45861","region":"Ohio","city":"Melrose","latitude":41.0922,"longitude":-84.4197}}(window,'GeoPostal','US');

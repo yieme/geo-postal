@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08030"]={"code":"08030","region":"Catalunya","city":"Santa Coloma de Gramenet","latitude":41.45152,"longitude":2.2081}}(window,'GeoPostal','ES');

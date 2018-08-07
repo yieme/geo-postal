@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45720"]={"code":"45720","region":"Centre-Val de Loire","city":"Coullons","latitude":47.62104,"longitude":2.49258}}(window,'GeoPostal','FR');

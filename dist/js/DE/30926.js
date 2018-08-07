@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30926"]={"code":"30926","region":"Niedersachsen","city":"Harenberg","latitude":52.37862,"longitude":9.61948}}(window,'GeoPostal','DE');

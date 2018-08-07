@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97813"]={"code":"97813","region":"Oregon","city":"Athena","latitude":45.8118,"longitude":-118.49053}}(window,'GeoPostal','US');

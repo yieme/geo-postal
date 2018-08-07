@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49289"]={"code":"49289","region":"MI","city":"Weston","latitude":41.7683,"longitude":-84.1076}}(window,'GeoPostal','US');

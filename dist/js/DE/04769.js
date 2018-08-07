@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04769"]={"code":"04769","region":"Sachsen","city":"Grossschlatitz","latitude":51.25,"longitude":13.05}}(window,'GeoPostal','DE');

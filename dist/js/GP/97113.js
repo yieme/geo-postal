@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97113"]={"code":"97113","region":"Guadeloupe","city":"Gourbeyre","latitude":15.99378,"longitude":-61.69138}}(window,'GeoPostal','GP');

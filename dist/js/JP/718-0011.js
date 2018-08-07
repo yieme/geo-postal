@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["718-0011"]={"code":"718-0011","region":"Okayama","city":"Niimi","latitude":34.97389,"longitude":133.47306}}(window,'GeoPostal','JP');

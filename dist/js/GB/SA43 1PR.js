@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 1PR"]={"code":"SA43 1PR","region":"Wales","city":"Towyn","latitude":52.11667,"longitude":-4.68333}}(window,'GeoPostal','GB');

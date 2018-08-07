@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL5 5NT"]={"code":"DL5 5NT","region":"England","city":"Newton Aycliffe","latitude":54.61842,"longitude":-1.5719}}(window,'GeoPostal','GB');

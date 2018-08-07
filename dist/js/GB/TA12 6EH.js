@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA12 6EH"]={"code":"TA12 6EH","region":"England","city":"Martock","latitude":50.97361,"longitude":-2.76684}}(window,'GeoPostal','GB');

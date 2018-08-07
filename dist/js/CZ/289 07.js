@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 07"]={"code":"289 07","region":"Stredocesky kraj","city":"Libice nad Cidlinou","latitude":50.12677,"longitude":15.1782}}(window,'GeoPostal','CZ');

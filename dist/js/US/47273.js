@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47273"]={"code":"47273","region":"IN","city":"Scipio","latitude":39.0665,"longitude":-85.7129}}(window,'GeoPostal','US');

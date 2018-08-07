@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29699"]={"code":"29699","region":"Niedersachsen","city":"Kleinharl","latitude":52.9326,"longitude":9.68973}}(window,'GeoPostal','DE');

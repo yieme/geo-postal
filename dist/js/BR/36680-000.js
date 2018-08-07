@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36680-000"]={"code":"36680-000","region":"Minas Gerais","city":"Sao Joao Nepomuceno","latitude":-21.54,"longitude":-43.01056}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45801"]={"code":"45801","region":"Ohio","city":"Lima","latitude":40.74255,"longitude":-84.10523}}(window,'GeoPostal','US');

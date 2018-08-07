@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 0A2"]={"code":"B0K 0A2","region":"Nova Scotia","city":"Stellarton","latitude":45.55854,"longitude":-62.66069}}(window,'GeoPostal','CA');

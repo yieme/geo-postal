@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21571"]={"code":"21571","region":"Varsinais-Suomi","city":"Sauvo","latitude":60.34306,"longitude":22.69642}}(window,'GeoPostal','FI');

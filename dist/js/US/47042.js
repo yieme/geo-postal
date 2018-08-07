@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47042"]={"code":"47042","region":"Indiana","city":"Versailles","latitude":39.072,"longitude":-85.2519}}(window,'GeoPostal','US');

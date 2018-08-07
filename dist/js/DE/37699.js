@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37699"]={"code":"37699","region":"Nordrhein-Westfalen","city":"Wehrden","latitude":51.71079,"longitude":9.38639}}(window,'GeoPostal','DE');

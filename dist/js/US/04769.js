@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04769"]={"code":"04769","region":"Maine","city":"Presque Isle","latitude":46.68115,"longitude":-68.01586}}(window,'GeoPostal','US');

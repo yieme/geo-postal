@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA24 7SH"]={"code":"TA24 7SH","region":"England","city":"Simonsbath","latitude":51.13961,"longitude":-3.75442}}(window,'GeoPostal','GB');

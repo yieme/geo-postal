@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG21 9BG"]={"code":"NG21 9BG","region":"England","city":"Clipstone","latitude":53.16667,"longitude":-1.1}}(window,'GeoPostal','GB');

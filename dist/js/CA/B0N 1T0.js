@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0N 1T0"]={"code":"B0N 1T0","region":"Nova Scotia","city":"Maitland","latitude":45.317936,"longitude":-63.497628}}(window,'GeoPostal','CA');

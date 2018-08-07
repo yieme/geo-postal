@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08106"]={"code":"08106","region":"New Jersey","city":"Audubon","latitude":39.89095,"longitude":-75.07295}}(window,'GeoPostal','US');

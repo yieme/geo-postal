@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8136"]={"code":"8136","region":"Fejer","city":"Lajoskomarom","latitude":46.842,"longitude":18.33763}}(window,'GeoPostal','HU');

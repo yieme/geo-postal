@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83321"]={"code":"83321","region":"ID","city":"Castleford","latitude":42.521,"longitude":-114.8734}}(window,'GeoPostal','US');

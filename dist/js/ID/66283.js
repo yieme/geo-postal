@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66283"]={"code":"66283","region":"Jawa Timur","city":"Tanggunggunung","latitude":-8.2185,"longitude":111.8757}}(window,'GeoPostal','ID');

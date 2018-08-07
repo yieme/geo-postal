@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46410"]={"code":"46410","region":"Indiana","city":"Merrillville","latitude":41.48281,"longitude":-87.33281}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61441"]={"code":"61441","region":"IL","city":"Ipava","latitude":40.3594,"longitude":-90.2967}}(window,'GeoPostal','US');

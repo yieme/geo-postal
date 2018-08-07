@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 4AJ"]={"code":"HG3 4AJ","region":"England","city":"Thruscross","latitude":54.0221,"longitude":-1.76888}}(window,'GeoPostal','GB');

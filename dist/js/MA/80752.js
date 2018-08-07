@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80752"]={"code":"80752","region":"Marrakech-Tensift-Al Haouz","city":"Adassil","latitude":31.10783,"longitude":-8.49083}}(window,'GeoPostal','MA');

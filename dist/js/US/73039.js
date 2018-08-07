@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73039"]={"code":"73039","region":"OK","city":"Davis","latitude":34.506,"longitude":-97.1131}}(window,'GeoPostal','US');

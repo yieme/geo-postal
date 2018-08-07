@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63758"]={"code":"63758","region":"MO","city":"Kelso","latitude":37.1858,"longitude":-89.5575}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16003"]={"code":"16003","region":"Pennsylvania","city":"Butler","latitude":40.85712,"longitude":-79.8951}}(window,'GeoPostal','US');

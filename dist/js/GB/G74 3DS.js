@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G74 3DS"]={"code":"G74 3DS","region":"Scotland","city":"East Kilbride","latitude":55.76667,"longitude":-4.16667}}(window,'GeoPostal','GB');

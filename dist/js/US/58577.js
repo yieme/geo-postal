@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58577"]={"code":"58577","region":"North Dakota","city":"Washburn","latitude":47.28916,"longitude":-101.02903}}(window,'GeoPostal','US');

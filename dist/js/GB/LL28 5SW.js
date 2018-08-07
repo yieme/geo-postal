@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL28 5SW"]={"code":"LL28 5SW","region":"Wales","city":"Llansantffraid Glan Conwy","latitude":53.26667,"longitude":-3.8}}(window,'GeoPostal','GB');

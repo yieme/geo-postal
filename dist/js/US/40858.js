@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40858"]={"code":"40858","region":"KY","city":"Mozelle","latitude":37.0037,"longitude":-83.4135}}(window,'GeoPostal','US');

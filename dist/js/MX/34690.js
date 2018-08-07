@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34690"]={"code":"34690","region":"Durango","city":"Tayoltita","latitude":24.08333,"longitude":-105.93333}}(window,'GeoPostal','MX');

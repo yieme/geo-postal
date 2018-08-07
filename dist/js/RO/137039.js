@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137039"]={"code":"137039","region":"Ilfov","city":"Tunari","latitude":44.55,"longitude":26.15}}(window,'GeoPostal','RO');

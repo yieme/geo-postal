@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40324"]={"code":"40324","region":"Kentucky","city":"Georgetown","latitude":38.2098,"longitude":-84.55883}}(window,'GeoPostal','US');

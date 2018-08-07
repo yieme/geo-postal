@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95543"]={"code":"95543","region":"California","city":"Gasquet","latitude":41.88327,"longitude":-123.872767}}(window,'GeoPostal','US');

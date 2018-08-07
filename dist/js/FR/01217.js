@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01217"]={"code":"01217","region":"Auvergne-Rhone-Alpes","city":"Ferney-Voltaire","latitude":46.25858,"longitude":6.11063}}(window,'GeoPostal','FR');

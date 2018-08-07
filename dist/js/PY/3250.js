@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3250"]={"code":"3250","region":"Cordillera","city":"Tobati","latitude":-25.25,"longitude":-57.06667}}(window,'GeoPostal','PY');

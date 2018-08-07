@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21039"]={"code":"21039","region":"Hamburg","city":"Bergedorf","latitude":53.48462,"longitude":10.22904}}(window,'GeoPostal','DE');

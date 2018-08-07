@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0J 1T0"]={"code":"A0J 1T0","region":"Newfoundland and Labrador","city":"Springdale","latitude":49.49995,"longitude":-56.06492}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68008"]={"code":"68008","region":"Nebraska","city":"Blair","latitude":41.545114,"longitude":-96.137871}}(window,'GeoPostal','US');

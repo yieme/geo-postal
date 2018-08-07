@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75561"]={"code":"75561","region":"TX","city":"Hooks","latitude":33.5253,"longitude":-94.2657}}(window,'GeoPostal','US');

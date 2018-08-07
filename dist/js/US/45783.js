@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45783"]={"code":"45783","region":"OH","city":"Tuppers Plains","latitude":39.1683,"longitude":-81.8423}}(window,'GeoPostal','US');

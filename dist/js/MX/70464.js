@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70464"]={"code":"70464","region":"Oaxaca","city":"San Juan Guelavia","latitude":16.95,"longitude":-96.55}}(window,'GeoPostal','MX');

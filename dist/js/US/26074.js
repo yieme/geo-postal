@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26074"]={"code":"26074","region":"WV","city":"West Liberty","latitude":40.1698,"longitude":-80.5958}}(window,'GeoPostal','US');

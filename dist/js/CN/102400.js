@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["102400"]={"code":"102400","region":"Beijing","city":"Fangshan","latitude":39.69833,"longitude":115.9925}}(window,'GeoPostal','CN');

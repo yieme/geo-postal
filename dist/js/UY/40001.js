@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40001"]={"code":"40001","region":"Rivera","city":"Tranqueras","latitude":-31.2,"longitude":-55.75}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64115"]={"code":"64115","region":"Jawa Timur","city":"Tinumpuk","latitude":-7.2118,"longitude":111.6857}}(window,'GeoPostal','ID');

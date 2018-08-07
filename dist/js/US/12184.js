@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12184"]={"code":"12184","region":"NY","city":"Valatie","latitude":42.4321,"longitude":-73.6683}}(window,'GeoPostal','US');

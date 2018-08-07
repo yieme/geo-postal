@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66042"]={"code":"66042","region":"KS","city":"Lane","latitude":38.4347,"longitude":-95.0804}}(window,'GeoPostal','US');

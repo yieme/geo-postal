@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62264"]={"code":"62264","region":"IL","city":"New Athens","latitude":38.316,"longitude":-89.8728}}(window,'GeoPostal','US');

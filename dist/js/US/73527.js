@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73527"]={"code":"73527","region":"Oklahoma","city":"Cache","latitude":34.630167,"longitude":-98.628771}}(window,'GeoPostal','US');

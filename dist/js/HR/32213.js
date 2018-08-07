@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32213"]={"code":"32213","region":"Vukovarsko-srijemska zupanija","city":"Markusica","latitude":45.37389,"longitude":18.70583}}(window,'GeoPostal','HR');

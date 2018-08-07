@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13005"]={"code":"13005","region":"Tlemcen","city":"Remchi","latitude":35.06196,"longitude":-1.43362}}(window,'GeoPostal','DZ');

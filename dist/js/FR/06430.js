@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06430"]={"code":"06430","region":"Provence-Alpes-Cote d'Azur","city":"Tende","latitude":44.08571,"longitude":7.5934}}(window,'GeoPostal','FR');

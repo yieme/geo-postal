@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09160"]={"code":"09160","region":"Occitanie","city":"Prat-Bonrepaux","latitude":43.0297,"longitude":1.0197}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7071"]={"code":"7071","region":"Burgenland","city":"Rust","latitude":47.80122,"longitude":16.67158}}(window,'GeoPostal','AT');

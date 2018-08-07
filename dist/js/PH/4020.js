@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4020"]={"code":"4020","region":"Laguna","city":"Mabitac","latitude":14.4259,"longitude":121.429}}(window,'GeoPostal','PH');

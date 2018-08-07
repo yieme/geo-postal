@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 9AX"]={"code":"BD20 9AX","region":"England","city":"Kildwick","latitude":53.91087,"longitude":-1.98626}}(window,'GeoPostal','GB');

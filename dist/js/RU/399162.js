@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399162"]={"code":"399162","region":"Lipetskaya oblast'","city":"Kalikino","latitude":52.9493,"longitude":39.8269}}(window,'GeoPostal','RU');

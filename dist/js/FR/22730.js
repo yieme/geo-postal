@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22730"]={"code":"22730","region":"Bretagne","city":"Tregastel","latitude":48.81667,"longitude":-3.5}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62750-000"]={"code":"62750-000","region":"Ceara","city":"Ocara","latitude":-4.49083,"longitude":-38.59667}}(window,'GeoPostal','BR');

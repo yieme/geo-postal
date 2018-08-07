@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3611"]={"code":"3611","region":"Bay of Plenty","city":"Waihi Beach","latitude":-37.4,"longitude":175.93333}}(window,'GeoPostal','NZ');

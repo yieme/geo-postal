@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98531"]={"code":"98531","region":"Washington","city":"Centralia","latitude":46.71621,"longitude":-122.9543}}(window,'GeoPostal','US');

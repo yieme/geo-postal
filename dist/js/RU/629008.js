@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629008"]={"code":"629008","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Salekhard","latitude":66.53,"longitude":66.60194}}(window,'GeoPostal','RU');

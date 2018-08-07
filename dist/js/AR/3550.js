@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3550"]={"code":"3550","region":"Santa Fe","city":"Vera","latitude":-29.4593,"longitude":-60.21261}}(window,'GeoPostal','AR');

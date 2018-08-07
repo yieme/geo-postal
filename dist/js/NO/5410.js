@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5410"]={"code":"5410","region":"Hordaland","city":"Sagvag","latitude":59.77861,"longitude":5.39611}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2H0"]={"code":"K0L 2H0","region":"Ontario","city":"Lakefield","latitude":44.422673,"longitude":-78.267407}}(window,'GeoPostal','CA');

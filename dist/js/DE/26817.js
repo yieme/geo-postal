@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26817"]={"code":"26817","region":"Niedersachsen","city":"Buchweizenkamp","latitude":53.11667,"longitude":7.58333}}(window,'GeoPostal','DE');

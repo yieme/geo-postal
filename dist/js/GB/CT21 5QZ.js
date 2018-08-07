@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT21 5QZ"]={"code":"CT21 5QZ","region":"England","city":"Seabrook","latitude":51.07202,"longitude":1.11329}}(window,'GeoPostal','GB');

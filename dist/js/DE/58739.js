@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58739"]={"code":"58739","region":"Nordrhein-Westfalen","city":"Bachum","latitude":51.46263,"longitude":7.92885}}(window,'GeoPostal','DE');

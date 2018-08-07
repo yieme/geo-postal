@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50229"]={"code":"50229","region":"IA","city":"Prole","latitude":41.383,"longitude":-93.7344}}(window,'GeoPostal','US');

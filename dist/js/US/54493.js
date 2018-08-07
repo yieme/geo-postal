@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54493"]={"code":"54493","region":"WI","city":"Willard","latitude":44.7274,"longitude":-90.7499}}(window,'GeoPostal','US');

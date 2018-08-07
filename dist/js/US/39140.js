@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39140"]={"code":"39140","region":"Mississippi","city":"Newhebron","latitude":31.73306,"longitude":-89.98194}}(window,'GeoPostal','US');

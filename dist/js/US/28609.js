@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28609"]={"code":"28609","region":"North Carolina","city":"Catawba","latitude":35.667368,"longitude":-80.999551}}(window,'GeoPostal','US');

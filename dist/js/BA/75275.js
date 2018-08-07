@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75275"]={"code":"75275","region":"Federacija Bosne i Hercegovine","city":"Banovici","latitude":44.40528,"longitude":18.52417}}(window,'GeoPostal','BA');

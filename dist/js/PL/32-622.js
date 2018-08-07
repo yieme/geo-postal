@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-622"]={"code":"32-622","region":"Slaskie","city":"Gora","latitude":49.97971,"longitude":19.10471}}(window,'GeoPostal','PL');

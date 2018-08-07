@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-143"]={"code":"43-143","region":"Slaskie","city":"Ledziny","latitude":50.14264,"longitude":19.13149}}(window,'GeoPostal','PL');

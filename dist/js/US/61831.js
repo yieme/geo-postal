@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61831"]={"code":"61831","region":"IL","city":"Collison","latitude":40.2207,"longitude":-87.7987}}(window,'GeoPostal','US');

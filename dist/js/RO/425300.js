@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425300"]={"code":"425300","region":"Bistrita-Nasaud","city":"Sangeorz-Bai","latitude":47.364082,"longitude":24.675074}}(window,'GeoPostal','RO');

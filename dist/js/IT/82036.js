@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82036"]={"code":"82036","region":"Campania","city":"Solopaca","latitude":41.19462,"longitude":14.55303}}(window,'GeoPostal','IT');

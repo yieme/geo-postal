@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73438"]={"code":"73438","region":"OK","city":"Healdton","latitude":34.229,"longitude":-97.4889}}(window,'GeoPostal','US');

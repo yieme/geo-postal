@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95942"]={"code":"95942","region":"California","city":"Forest Ranch","latitude":40.089969,"longitude":-121.531089}}(window,'GeoPostal','US');

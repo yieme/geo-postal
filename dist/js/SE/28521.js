@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28521"]={"code":"28521","region":"Kronobergs lan","city":"Markaryd","latitude":56.46135,"longitude":13.59644}}(window,'GeoPostal','SE');

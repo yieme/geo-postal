@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61755"]={"code":"61755","region":"IL","city":"Mackinaw","latitude":40.5396,"longitude":-89.3458}}(window,'GeoPostal','US');

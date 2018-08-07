@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68453"]={"code":"68453","region":"Jawa Timur","city":"Possumur","latitude":-8.0424,"longitude":114.4197}}(window,'GeoPostal','ID');

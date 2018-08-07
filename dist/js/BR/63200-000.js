@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63200-000"]={"code":"63200-000","region":"Ceara","city":"Missao Velha","latitude":-7.24972,"longitude":-39.14306}}(window,'GeoPostal','BR');

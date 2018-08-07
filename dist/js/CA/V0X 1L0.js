@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0X 1L0"]={"code":"V0X 1L0","region":"British Columbia","city":"Hope","latitude":49.379386,"longitude":-121.442746}}(window,'GeoPostal','CA');

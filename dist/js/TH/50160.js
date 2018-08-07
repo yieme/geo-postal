@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50160"]={"code":"50160","region":"Lamphun","city":"Wiang Nong Long","latitude":18.42043,"longitude":98.74967}}(window,'GeoPostal','TH');

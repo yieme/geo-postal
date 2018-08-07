@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60426"]={"code":"60426","region":"Illinois","city":"Harvey","latitude":41.61003,"longitude":-87.64671}}(window,'GeoPostal','US');

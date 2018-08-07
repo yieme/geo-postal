@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35040"]={"code":"35040","region":"Usak","city":"Karahalli","latitude":38.32083,"longitude":29.53028}}(window,'GeoPostal','TR');

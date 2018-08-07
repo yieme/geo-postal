@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 5HG"]={"code":"CT15 5HG","region":"England","city":"West Langdon","latitude":51.17665,"longitude":1.31733}}(window,'GeoPostal','GB');

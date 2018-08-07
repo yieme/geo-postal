@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62910"]={"code":"62910","region":"Morelos","city":"Tehuixtla","latitude":18.55,"longitude":-99.26667}}(window,'GeoPostal','MX');

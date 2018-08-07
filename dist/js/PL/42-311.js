@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-311"]={"code":"42-311","region":"Slaskie","city":"Zarki","latitude":50.62518,"longitude":19.36357}}(window,'GeoPostal','PL');

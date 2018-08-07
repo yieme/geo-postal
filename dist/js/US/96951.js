@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96951"]={"code":"96951","region":"MP","city":"Rota","latitude":14.15,"longitude":145.21}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16039"]={"code":"16039","region":"Liguria","city":"Sestri Levante","latitude":44.27317,"longitude":9.39683}}(window,'GeoPostal','IT');

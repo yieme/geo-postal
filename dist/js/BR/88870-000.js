@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88870-000"]={"code":"88870-000","region":"Santa Catarina","city":"Orleans","latitude":-28.35889,"longitude":-49.29139}}(window,'GeoPostal','BR');

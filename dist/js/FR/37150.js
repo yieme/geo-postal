@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37150"]={"code":"37150","region":"Centre-Val de Loire","city":"Civray-de-Touraine","latitude":47.33253,"longitude":1.04952}}(window,'GeoPostal','FR');

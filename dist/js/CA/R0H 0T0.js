@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0H 0T0"]={"code":"R0H 0T0","region":"Manitoba","city":"Little Ridge","latitude":50.54472,"longitude":-98.69266}}(window,'GeoPostal','CA');

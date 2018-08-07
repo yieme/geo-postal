@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31260"]={"code":"31260","region":"Khmelnytska oblast","city":"Narkevychi","latitude":49.51717,"longitude":26.64178}}(window,'GeoPostal','UA');

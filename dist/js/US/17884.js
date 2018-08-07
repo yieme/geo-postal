@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17884"]={"code":"17884","region":"PA","city":"Washingtonville","latitude":41.0518,"longitude":-76.6747}}(window,'GeoPostal','US');

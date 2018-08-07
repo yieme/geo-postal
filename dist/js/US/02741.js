@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02741"]={"code":"02741","region":"MA","city":"New Bedford","latitude":41.6362,"longitude":-70.9342}}(window,'GeoPostal','US');

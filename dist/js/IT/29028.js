@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29028"]={"code":"29028","region":"Emilia-Romagna","city":"Ponte dell'Olio","latitude":44.86736,"longitude":9.64227}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20700"]={"code":"20700","region":"Piura","city":"Paita","latitude":-5.08917,"longitude":-81.11444}}(window,'GeoPostal','PE');

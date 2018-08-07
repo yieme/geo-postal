@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4731"]={"code":"4731","region":"Liege","city":"Raeren","latitude":50.6672,"longitude":6.11535}}(window,'GeoPostal','BE');

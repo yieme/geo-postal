@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31833"]={"code":"31833","region":"Georgia","city":"West Point","latitude":32.890413,"longitude":-85.13925}}(window,'GeoPostal','US');

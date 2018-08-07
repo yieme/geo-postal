@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45518"]={"code":"45518","region":"Castilla-La Mancha","city":"Gerindote","latitude":39.96594,"longitude":-4.30278}}(window,'GeoPostal','ES');

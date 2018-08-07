@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51101"]={"code":"51101","region":"Iowa","city":"Sioux City","latitude":42.49999,"longitude":-96.40031}}(window,'GeoPostal','US');

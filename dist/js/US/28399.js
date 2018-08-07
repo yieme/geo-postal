@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28399"]={"code":"28399","region":"NC","city":"White Oak","latitude":34.7662,"longitude":-78.7301}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71377"]={"code":"71377","region":"LA","city":"Wildsville","latitude":31.6094,"longitude":-91.7808}}(window,'GeoPostal','US');

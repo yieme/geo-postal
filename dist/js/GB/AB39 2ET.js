@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB39 2ET"]={"code":"AB39 2ET","region":"Scotland","city":"Stonehaven","latitude":56.96365,"longitude":-2.21177}}(window,'GeoPostal','GB');

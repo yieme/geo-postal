@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3254"]={"code":"3254","region":"Solothurn","city":"Messen","latitude":47.09128,"longitude":7.44957}}(window,'GeoPostal','CH');

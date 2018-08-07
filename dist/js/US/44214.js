@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44214"]={"code":"44214","region":"OH","city":"Burbank","latitude":40.9637,"longitude":-81.9958}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29940"]={"code":"29940","region":"Bretagne","city":"La Foret-Fouesnant","latitude":47.9101,"longitude":-3.97858}}(window,'GeoPostal','FR');

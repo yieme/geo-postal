@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26287"]={"code":"26287","region":"West Virginia","city":"Parsons","latitude":39.0965,"longitude":-79.6809}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97680"]={"code":"97680","region":"Tsingoni","city":"Tsingoni","latitude":-12.78722,"longitude":45.10278}}(window,'GeoPostal','YT');

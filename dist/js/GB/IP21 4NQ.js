@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4NQ"]={"code":"IP21 4NQ","region":"England","city":"Dickleburgh","latitude":52.3965,"longitude":1.18498}}(window,'GeoPostal','GB');

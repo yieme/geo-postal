@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG8 5AJ"]={"code":"NG8 5AJ","region":"England","city":"Basford","latitude":52.96667,"longitude":-1.18333}}(window,'GeoPostal','GB');

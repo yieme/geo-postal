@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140741"]={"code":"140741","region":"Moskovskaya oblast'","city":"Tugolesskiy Bor","latitude":55.55051,"longitude":39.82422}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HX1 5ER"]={"code":"HX1 5ER","region":"England","city":"Halifax","latitude":53.71667,"longitude":-1.85}}(window,'GeoPostal','GB');

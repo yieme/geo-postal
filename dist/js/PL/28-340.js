@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-340"]={"code":"28-340","region":"Swietokrzyskie","city":"Sedziszow","latitude":50.5659,"longitude":20.05563}}(window,'GeoPostal','PL');

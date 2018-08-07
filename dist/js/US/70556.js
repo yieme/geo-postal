@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70556"]={"code":"70556","region":"Louisiana","city":"Mermentau","latitude":30.189275,"longitude":-92.580556}}(window,'GeoPostal','US');

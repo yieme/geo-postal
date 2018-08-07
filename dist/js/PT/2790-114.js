@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2790-114"]={"code":"2790-114","region":"Lisboa","city":"Carnaxide","latitude":38.72706,"longitude":-9.24671}}(window,'GeoPostal','PT');

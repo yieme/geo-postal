@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH36 5PJ"]={"code":"EH36 5PJ","region":"Scotland","city":"Humbie","latitude":55.85472,"longitude":-2.86543}}(window,'GeoPostal','GB');

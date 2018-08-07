@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9423"]={"code":"9423","region":"Gyor-Moson-Sopron","city":"Agfalva","latitude":47.68991,"longitude":16.51658}}(window,'GeoPostal','HU');

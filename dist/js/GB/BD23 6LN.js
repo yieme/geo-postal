@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 6LN"]={"code":"BD23 6LN","region":"England","city":"Hetton","latitude":54.01667,"longitude":-2.05}}(window,'GeoPostal','GB');

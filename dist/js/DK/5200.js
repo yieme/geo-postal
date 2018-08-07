@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5200"]={"code":"5200","region":"Syddanmark","city":"Odense","latitude":55.39594,"longitude":10.38831}}(window,'GeoPostal','DK');

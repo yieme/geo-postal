@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65646"]={"code":"65646","region":"MO","city":"Everton","latitude":37.3425,"longitude":-93.7024}}(window,'GeoPostal','US');

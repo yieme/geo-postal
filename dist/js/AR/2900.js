@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Buenos Aires","city":"San Nicolas de los Arroyos","latitude":-33.33578,"longitude":-60.22523}}(window,'GeoPostal','AR');

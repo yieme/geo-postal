@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 71"]={"code":"747 71","region":"Moravskoslezsky kraj","city":"Brumovice","latitude":50.0153,"longitude":17.74958}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43760"]={"code":"43760","region":"OH","city":"Mount Perry","latitude":39.8788,"longitude":-82.188}}(window,'GeoPostal','US');

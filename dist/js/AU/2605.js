@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2605"]={"code":"2605","region":"Australian Capital Territory","city":"Curtin","latitude":-35.32464,"longitude":149.07763}}(window,'GeoPostal','AU');

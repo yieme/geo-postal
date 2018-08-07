@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220282"]={"code":"220282","region":"Osun","city":"Ife","latitude":7.466667,"longitude":4.566667}}(window,'GeoPostal','NG');

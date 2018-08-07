@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26899"]={"code":"26899","region":"Niedersachsen","city":"Rhede","latitude":53.0602,"longitude":7.27127}}(window,'GeoPostal','DE');

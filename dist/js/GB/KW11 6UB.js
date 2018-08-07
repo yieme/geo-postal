@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW11 6UB"]={"code":"KW11 6UB","region":"Scotland","city":"Kinbrace","latitude":58.25885,"longitude":-3.94141}}(window,'GeoPostal','GB');

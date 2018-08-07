@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1A 8C5"]={"code":"C1A 8C5","region":"Prince Edward Island","city":"Charlottetown","latitude":46.273232,"longitude":-63.152516}}(window,'GeoPostal','CA');

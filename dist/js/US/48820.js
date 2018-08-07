@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48820"]={"code":"48820","region":"MI","city":"Dewitt","latitude":42.8428,"longitude":-84.5797}}(window,'GeoPostal','US');

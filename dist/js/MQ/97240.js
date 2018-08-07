@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97240"]={"code":"97240","region":"Martinique","city":"Le Francois","latitude":14.61557,"longitude":-60.90308}}(window,'GeoPostal','MQ');

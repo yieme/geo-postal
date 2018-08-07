@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3H 1S1"]={"code":"V3H 1S1","region":"British Columbia","city":"Port Moody","latitude":49.280473,"longitude":-122.872836}}(window,'GeoPostal','CA');

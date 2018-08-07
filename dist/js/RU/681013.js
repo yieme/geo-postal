@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["681013"]={"code":"681013","region":"Khabarovskiy kray","city":"Komsomol'sk-na-Amure","latitude":50.55199,"longitude":137.01524}}(window,'GeoPostal','RU');

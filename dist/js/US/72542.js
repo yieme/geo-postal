@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72542"]={"code":"72542","region":"Arkansas","city":"Highland","latitude":36.2759,"longitude":-91.52403}}(window,'GeoPostal','US');

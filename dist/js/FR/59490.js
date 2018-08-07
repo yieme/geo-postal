@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59490"]={"code":"59490","region":"Hauts-de-France","city":"Somain","latitude":50.35961,"longitude":3.28108}}(window,'GeoPostal','FR');

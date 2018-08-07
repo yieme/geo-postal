@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152470"]={"code":"152470","region":"Yaroslavskaya oblast'","city":"Lyubim","latitude":58.3625,"longitude":40.68433}}(window,'GeoPostal','RU');

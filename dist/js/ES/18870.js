@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18870"]={"code":"18870","region":"Andalucia","city":"Gor","latitude":37.36937,"longitude":-2.97016}}(window,'GeoPostal','ES');

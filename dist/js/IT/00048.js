@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00048"]={"code":"00048","region":"Lazio","city":"Nettuno","latitude":41.45907,"longitude":12.66037}}(window,'GeoPostal','IT');

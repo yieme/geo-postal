@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38474"]={"code":"38474","region":"Tennessee","city":"Mount Pleasant","latitude":35.53424,"longitude":-87.20695}}(window,'GeoPostal','US');

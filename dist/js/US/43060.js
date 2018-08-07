@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43060"]={"code":"43060","region":"OH","city":"North Lewisburg","latitude":40.2229,"longitude":-83.5615}}(window,'GeoPostal','US');

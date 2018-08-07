@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67017"]={"code":"67017","region":"Abruzzo","city":"Pizzoli","latitude":42.43214,"longitude":13.31169}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47824"]={"code":"47824","region":"Emilia-Romagna","city":"Poggio Berni","latitude":44.02639,"longitude":12.40944}}(window,'GeoPostal','IT');

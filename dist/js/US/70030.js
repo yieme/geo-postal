@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70030"]={"code":"70030","region":"LA","city":"Des Allemands","latitude":29.8134,"longitude":-90.4407}}(window,'GeoPostal','US');

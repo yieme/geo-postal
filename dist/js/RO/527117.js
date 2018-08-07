@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527117"]={"code":"527117","region":"Covasna","city":"Malnas","latitude":46.01667,"longitude":25.83333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-200"]={"code":"88-200","region":"Kujawsko-pomorskie","city":"Radziejow","latitude":52.62481,"longitude":18.52771}}(window,'GeoPostal','PL');

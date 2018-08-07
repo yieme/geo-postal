@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE38 0BG"]={"code":"PE38 0BG","region":"England","city":"Nordelph","latitude":52.58439,"longitude":0.29556}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51340"]={"code":"51340","region":"IA","city":"Fostoria","latitude":43.0824,"longitude":-95.1511}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15310"]={"code":"15310","region":"Jawa Barat","city":"Serpong","latitude":-6.31694,"longitude":106.66417}}(window,'GeoPostal','ID');

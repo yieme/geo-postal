@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67100"]={"code":"67100","region":"Keski-Pohjanmaa","city":"Kokkola","latitude":63.836667,"longitude":23.133333}}(window,'GeoPostal','FI');

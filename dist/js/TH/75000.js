@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75000"]={"code":"75000","region":"Samut Songkhram","city":"Samut Songkhram","latitude":13.41456,"longitude":100.00264}}(window,'GeoPostal','TH');

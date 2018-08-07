@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2731"]={"code":"2731","region":"New South Wales","city":"Thyra","latitude":-35.85,"longitude":144.65}}(window,'GeoPostal','AU');

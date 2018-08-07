@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72944"]={"code":"72944","region":"Arkansas","city":"Mansfield","latitude":35.021242,"longitude":-94.202075}}(window,'GeoPostal','US');

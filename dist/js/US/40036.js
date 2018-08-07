@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40036"]={"code":"40036","region":"KY","city":"Lockport","latitude":38.4219,"longitude":-84.9586}}(window,'GeoPostal','US');

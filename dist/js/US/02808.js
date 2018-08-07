@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02808"]={"code":"02808","region":"Rhode Island","city":"Westerly","latitude":41.3776,"longitude":-71.82729}}(window,'GeoPostal','US');

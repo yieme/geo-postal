@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50234"]={"code":"50234","region":"IA","city":"Rhodes","latitude":41.9177,"longitude":-93.1796}}(window,'GeoPostal','US');

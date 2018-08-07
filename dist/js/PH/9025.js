@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9025"]={"code":"9025","region":"Misamis Oriental","city":"Lugait","latitude":8.34111,"longitude":124.25917}}(window,'GeoPostal','PH');

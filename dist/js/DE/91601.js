@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91601"]={"code":"91601","region":"Bayern","city":"Dombuhl","latitude":49.25349,"longitude":10.28542}}(window,'GeoPostal','DE');

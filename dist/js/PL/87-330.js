@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-330"]={"code":"87-330","region":"Kujawsko-pomorskie","city":"Jablonowo Pomorskie","latitude":53.39137,"longitude":19.15509}}(window,'GeoPostal','PL');

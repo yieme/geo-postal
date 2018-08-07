@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63825"]={"code":"63825","region":"Bayern","city":"Sommerkahl","latitude":50.06667,"longitude":9.26667}}(window,'GeoPostal','DE');

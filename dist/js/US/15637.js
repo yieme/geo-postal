@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15637"]={"code":"15637","region":"PA","city":"Herminie","latitude":40.2455,"longitude":-79.7172}}(window,'GeoPostal','US');

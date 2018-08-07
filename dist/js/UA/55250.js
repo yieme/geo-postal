@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55250"]={"code":"55250","region":"Mykolaivska oblast","city":"Lysa Hora","latitude":48.17059,"longitude":31.10994}}(window,'GeoPostal','UA');

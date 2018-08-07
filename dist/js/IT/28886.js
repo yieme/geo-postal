@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28886"]={"code":"28886","region":"Piemonte","city":"Pieve Vergonte","latitude":46.01298,"longitude":8.26082}}(window,'GeoPostal','IT');

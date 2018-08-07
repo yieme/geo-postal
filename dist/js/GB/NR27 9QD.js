@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR27 9QD"]={"code":"NR27 9QD","region":"England","city":"West Runton","latitude":52.9376,"longitude":1.24386}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33515"]={"code":"33515","region":"Nouvelle-Aquitaine","city":"Libourne","latitude":44.91667,"longitude":-0.23333}}(window,'GeoPostal','FR');

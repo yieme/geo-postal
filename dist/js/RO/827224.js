@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827224"]={"code":"827224","region":"Constanta","city":"Corbu","latitude":44.38333,"longitude":28.65}}(window,'GeoPostal','RO');

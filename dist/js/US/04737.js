@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04737"]={"code":"04737","region":"ME","city":"Clayton Lake","latitude":46.6109,"longitude":-69.5223}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 41"]={"code":"798 41","region":"Olomoucky kraj","city":"Kostelec na Hane","latitude":49.51398,"longitude":17.05824}}(window,'GeoPostal','CZ');

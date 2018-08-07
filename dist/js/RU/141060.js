@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141060"]={"code":"141060","region":"Moskovskaya oblast'","city":"Korolev","latitude":55.91417,"longitude":37.82556}}(window,'GeoPostal','RU');

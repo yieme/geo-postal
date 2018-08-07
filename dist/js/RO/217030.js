@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217030"]={"code":"217030","region":"Gorj","city":"Baia de Fier","latitude":45.16667,"longitude":23.76667}}(window,'GeoPostal','RO');

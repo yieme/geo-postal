@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23775"]={"code":"23775","region":"Schleswig-Holstein","city":"Fehmarnsund","latitude":54.40463,"longitude":11.12207}}(window,'GeoPostal','DE');

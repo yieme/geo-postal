@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11953"]={"code":"11953","region":"New York","city":"Middle Island","latitude":40.88427,"longitude":-72.93733}}(window,'GeoPostal','US');

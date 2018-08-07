@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66291"]={"code":"66291","region":"Vastra Gotalands lan","city":"Amal","latitude":59.051,"longitude":12.70492}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66557"]={"code":"66557","region":"Saarland","city":"Illingen","latitude":49.37362,"longitude":7.04758}}(window,'GeoPostal','DE');

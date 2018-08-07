@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08310"]={"code":"08310","region":"New Jersey","city":"Buena","latitude":39.525114,"longitude":-74.911832}}(window,'GeoPostal','US');

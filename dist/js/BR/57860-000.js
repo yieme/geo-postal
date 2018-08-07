@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57860-000"]={"code":"57860-000","region":"Alagoas","city":"Sao Jose da Laje","latitude":-9.00972,"longitude":-36.05833}}(window,'GeoPostal','BR');

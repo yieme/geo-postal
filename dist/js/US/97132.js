@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97132"]={"code":"97132","region":"Oregon","city":"Newberg","latitude":45.30012,"longitude":-122.97316}}(window,'GeoPostal','US');

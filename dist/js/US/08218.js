@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08218"]={"code":"08218","region":"NJ","city":"Goshen","latitude":39.1415,"longitude":-74.8529}}(window,'GeoPostal','US');

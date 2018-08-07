@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6874"]={"code":"6874","region":"Ticino","city":"Castel San Pietro","latitude":45.86061,"longitude":9.00932}}(window,'GeoPostal','CH');

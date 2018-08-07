@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44847"]={"code":"44847","region":"OH","city":"Monroeville","latitude":41.2181,"longitude":-82.7023}}(window,'GeoPostal','US');

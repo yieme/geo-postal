@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 4NN"]={"code":"BB7 4NN","region":"England","city":"Bolton by Bowland","latitude":53.93333,"longitude":-2.33333}}(window,'GeoPostal','GB');

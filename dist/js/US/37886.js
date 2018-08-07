@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37886"]={"code":"37886","region":"TN","city":"Walland","latitude":35.7533,"longitude":-83.8243}}(window,'GeoPostal','US');

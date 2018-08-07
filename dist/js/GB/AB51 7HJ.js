@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 7HJ"]={"code":"AB51 7HJ","region":"Scotland","city":"Monymusk","latitude":57.22671,"longitude":-2.52467}}(window,'GeoPostal','GB');

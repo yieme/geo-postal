@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69169"]={"code":"69169","region":"Nebraska","city":"Wallace","latitude":40.8366,"longitude":-101.1628}}(window,'GeoPostal','US');

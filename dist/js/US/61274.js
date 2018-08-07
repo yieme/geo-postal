@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61274"]={"code":"61274","region":"IL","city":"Osco","latitude":41.3637,"longitude":-90.2681}}(window,'GeoPostal','US');

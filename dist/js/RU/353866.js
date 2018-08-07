@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353866"]={"code":"353866","region":"Krasnodarskiy kray","city":"Primorsko-Akhtarsk","latitude":46.0497,"longitude":38.1747}}(window,'GeoPostal','RU');

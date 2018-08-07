@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74745"]={"code":"74745","region":"Oklahoma","city":"Idabel","latitude":33.894282,"longitude":-94.825649}}(window,'GeoPostal','US');

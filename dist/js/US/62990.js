@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62990"]={"code":"62990","region":"Illinois","city":"Thebes","latitude":37.194,"longitude":-89.39838}}(window,'GeoPostal','US');

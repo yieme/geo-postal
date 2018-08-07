@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 3DA"]={"code":"SA62 3DA","region":"Wales","city":"Tiers Cross","latitude":51.75584,"longitude":-5.03511}}(window,'GeoPostal','GB');

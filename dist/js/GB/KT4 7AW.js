@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT4 7AW"]={"code":"KT4 7AW","region":"England","city":"Worcester Park","latitude":51.37992,"longitude":-0.24445}}(window,'GeoPostal','GB');

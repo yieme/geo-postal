@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 72"]={"code":"262 72","region":"Stredocesky kraj","city":"Breznice","latitude":49.55763,"longitude":13.95063}}(window,'GeoPostal','CZ');

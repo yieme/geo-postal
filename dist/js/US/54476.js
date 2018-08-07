@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54476"]={"code":"54476","region":"Wisconsin","city":"Schofield","latitude":44.905592,"longitude":-89.5715}}(window,'GeoPostal','US');

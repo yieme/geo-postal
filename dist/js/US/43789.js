@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43789"]={"code":"43789","region":"OH","city":"Sycamore Vly","latitude":39.66,"longitude":-81.23}}(window,'GeoPostal','US');

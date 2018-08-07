@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51016"]={"code":"51016","region":"Toscana","city":"Montecatini Terme","latitude":43.88355,"longitude":10.77361}}(window,'GeoPostal','IT');

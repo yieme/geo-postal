@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62872"]={"code":"62872","region":"Illinois","city":"Opdyke","latitude":38.278858,"longitude":-88.755502}}(window,'GeoPostal','US');

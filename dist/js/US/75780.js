@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75780"]={"code":"75780","region":"TX","city":"New Summerfield","latitude":31.9807,"longitude":-95.0938}}(window,'GeoPostal','US');

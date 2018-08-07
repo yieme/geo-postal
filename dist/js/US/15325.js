@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15325"]={"code":"15325","region":"PA","city":"Crucible","latitude":39.9502,"longitude":-79.9676}}(window,'GeoPostal','US');

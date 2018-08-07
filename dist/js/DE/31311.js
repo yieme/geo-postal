@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31311"]={"code":"31311","region":"Niedersachsen","city":"Uetze","latitude":52.46511,"longitude":10.20467}}(window,'GeoPostal','DE');

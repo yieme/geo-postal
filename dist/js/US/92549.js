@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92549"]={"code":"92549","region":"California","city":"Idyllwild","latitude":33.74002,"longitude":-116.71891}}(window,'GeoPostal','US');

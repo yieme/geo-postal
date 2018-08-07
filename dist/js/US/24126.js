@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24126"]={"code":"24126","region":"VA","city":"Newbern","latitude":37.0692,"longitude":-80.6891}}(window,'GeoPostal','US');

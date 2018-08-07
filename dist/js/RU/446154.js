@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446154"]={"code":"446154","region":"Ul'yanovskaya oblast'","city":"Pavlovka","latitude":52.68966,"longitude":47.14046}}(window,'GeoPostal','RU');

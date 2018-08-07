@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["387315"]={"code":"387315","region":"Gujarat","city":"Anand","latitude":22.56667,"longitude":72.93333}}(window,'GeoPostal','IN');

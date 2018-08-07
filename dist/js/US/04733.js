@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04733"]={"code":"04733","region":"Maine","city":"Benedicta","latitude":45.805118,"longitude":-68.395203}}(window,'GeoPostal','US');

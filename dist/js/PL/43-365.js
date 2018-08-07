@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-365"]={"code":"43-365","region":"Slaskie","city":"Bielsko-Biala","latitude":49.82245,"longitude":19.04686}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO7 7NJ"]={"code":"CO7 7NJ","region":"England","city":"Ardleigh","latitude":51.92598,"longitude":0.98547}}(window,'GeoPostal','GB');

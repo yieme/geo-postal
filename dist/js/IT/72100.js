@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72100"]={"code":"72100","region":"Puglia","city":"Brindisi","latitude":40.62773,"longitude":17.93682}}(window,'GeoPostal','IT');

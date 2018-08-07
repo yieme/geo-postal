@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799159"]={"code":"799159","region":"Tripura","city":"Belonia","latitude":23.25278,"longitude":91.45139}}(window,'GeoPostal','IN');

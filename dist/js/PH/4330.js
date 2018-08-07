@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4330"]={"code":"4330","region":"Quezon","city":"Mauban","latitude":14.19111,"longitude":121.73111}}(window,'GeoPostal','PH');

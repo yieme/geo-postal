@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70280"]={"code":"70280","region":"Bourgogne-Franche-Comte","city":"Raddon-et-Chapendu","latitude":47.8425,"longitude":6.4719}}(window,'GeoPostal','FR');

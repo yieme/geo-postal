@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71570"]={"code":"71570","region":"Baden-Wurttemberg","city":"Oppenweiler","latitude":48.9827,"longitude":9.4585}}(window,'GeoPostal','DE');

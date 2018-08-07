@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72073"]={"code":"72073","region":"AR","city":"Humphrey","latitude":34.4034,"longitude":-91.679}}(window,'GeoPostal','US');

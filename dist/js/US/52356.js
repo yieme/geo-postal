@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52356"]={"code":"52356","region":"Iowa","city":"Wellman","latitude":41.47127,"longitude":-91.83515}}(window,'GeoPostal','US');

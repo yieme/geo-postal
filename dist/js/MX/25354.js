@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25354"]={"code":"25354","region":"Chiapas","city":"Cintalapa de Figueroa","latitude":16.73333,"longitude":-93.71667}}(window,'GeoPostal','MX');

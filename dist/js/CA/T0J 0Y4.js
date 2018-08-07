@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 0Y4"]={"code":"T0J 0Y4","region":"Alberta","city":"Drumheller","latitude":51.465592,"longitude":-112.705661}}(window,'GeoPostal','CA');

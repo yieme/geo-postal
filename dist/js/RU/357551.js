@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357551"]={"code":"357551","region":"Stavropol'skiy kray","city":"Svobody","latitude":44.02556,"longitude":43.05028}}(window,'GeoPostal','RU');

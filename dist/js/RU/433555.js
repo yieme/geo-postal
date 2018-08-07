@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433555"]={"code":"433555","region":"Ul'yanovskaya oblast'","city":"Novaya Mayna","latitude":54.15,"longitude":49.75}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600902"]={"code":"600902","region":"Orenburgskaya oblast'","city":"Energetik","latitude":51.7445,"longitude":58.7934}}(window,'GeoPostal','RU');

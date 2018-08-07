@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16229"]={"code":"16229","region":"Pennsylvania","city":"Freeport","latitude":40.717268,"longitude":-79.657541}}(window,'GeoPostal','US');

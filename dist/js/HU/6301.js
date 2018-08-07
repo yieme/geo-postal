@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6301"]={"code":"6301","region":"Bacs-Kiskun","city":"Kalocsa","latitude":46.52639,"longitude":18.98583}}(window,'GeoPostal','HU');

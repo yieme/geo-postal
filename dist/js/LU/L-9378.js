@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-9378"]={"code":"L-9378","region":"Diekirch","city":"Diekirch","latitude":49.86778,"longitude":6.15583}}(window,'GeoPostal','LU');

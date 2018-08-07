@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141209"]={"code":"141209","region":"Pavlodar oblysy","city":"Ekibastuz","latitude":51.66667,"longitude":75.36667}}(window,'GeoPostal','KZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660 31"]={"code":"660 31","region":"Anatoliki Makedonia kai Thraki","city":"Kalambakion","latitude":41.05,"longitude":24.18333}}(window,'GeoPostal','GR');

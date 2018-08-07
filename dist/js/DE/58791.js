@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58791"]={"code":"58791","region":"Nordrhein-Westfalen","city":"Werdohl","latitude":51.26011,"longitude":7.76608}}(window,'GeoPostal','DE');

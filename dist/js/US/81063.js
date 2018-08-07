@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81063"]={"code":"81063","region":"Colorado","city":"Ordway","latitude":38.21806,"longitude":-103.75606}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["900 21"]={"code":"900 21","region":"Bratislavsky kraj","city":"Svaty Jur","latitude":48.25216,"longitude":17.21539}}(window,'GeoPostal','SK');

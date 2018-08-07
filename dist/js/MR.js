@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["MR"]={id:'MR',country:'Mauritania', postal:{'':{code:'',region:'Nouakchott Nord',city:'Nouakchott',latitude:18.08581,longitude:-15.9785}}};

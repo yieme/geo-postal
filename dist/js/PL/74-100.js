@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-100"]={"code":"74-100","region":"Zachodniopomorskie","city":"Gryfino","latitude":53.25243,"longitude":14.48831}}(window,'GeoPostal','PL');

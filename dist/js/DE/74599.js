@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74599"]={"code":"74599","region":"Baden-Wurttemberg","city":"Schainbach","latitude":49.23163,"longitude":10.06297}}(window,'GeoPostal','DE');

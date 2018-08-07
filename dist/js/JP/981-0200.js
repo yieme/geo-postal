@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["981-0200"]={"code":"981-0200","region":"Miyagi","city":"Matsushima","latitude":38.383,"longitude":141.067}}(window,'GeoPostal','JP');

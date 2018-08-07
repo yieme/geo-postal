@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19518"]={"code":"19518","region":"PA","city":"Douglassville","latitude":40.2709,"longitude":-75.7397}}(window,'GeoPostal','US');

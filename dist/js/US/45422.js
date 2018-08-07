@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45422"]={"code":"45422","region":"Ohio","city":"Dayton","latitude":39.758167,"longitude":-84.187948}}(window,'GeoPostal','US');

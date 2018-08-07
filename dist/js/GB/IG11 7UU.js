@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG11 7UU"]={"code":"IG11 7UU","region":"England","city":"Barking","latitude":51.53333,"longitude":0.08333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15358"]={"code":"15358","region":"PA","city":"Richeyville","latitude":40.0563,"longitude":-79.9926}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4103"]={"code":"4103","region":"Basel-Landschaft","city":"Bottmingen","latitude":47.52343,"longitude":7.57211}}(window,'GeoPostal','CH');

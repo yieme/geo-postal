@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13270-000"]={"code":"13270-000","region":"Sao Paulo","city":"Valinhos","latitude":-22.97056,"longitude":-46.99583}}(window,'GeoPostal','BR');

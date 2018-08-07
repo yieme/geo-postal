@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735017"]={"code":"735017","region":"Gansu","city":"Dongdong","latitude":39.5,"longitude":98.66667}}(window,'GeoPostal','CN');

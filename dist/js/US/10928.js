@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10928"]={"code":"10928","region":"NY","city":"Highland Falls","latitude":41.3582,"longitude":-73.9746}}(window,'GeoPostal','US');

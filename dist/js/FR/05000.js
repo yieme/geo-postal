@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05000"]={"code":"05000","region":"Provence-Alpes-Cote d'Azur","city":"Pelleautier","latitude":44.5178,"longitude":6.0172}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83048"]={"code":"83048","region":"Campania","city":"Montella","latitude":40.84372,"longitude":15.01785}}(window,'GeoPostal','IT');

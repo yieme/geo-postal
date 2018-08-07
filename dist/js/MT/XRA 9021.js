@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["XRA 9021"]={"code":"XRA 9021","region":"Xaghra","city":"Xaghra","latitude":36.05,"longitude":14.26444}}(window,'GeoPostal','MT');

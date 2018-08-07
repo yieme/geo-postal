@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69480"]={"code":"69480","region":"Auvergne-Rhone-Alpes","city":"Anse","latitude":45.93023,"longitude":4.71576}}(window,'GeoPostal','FR');

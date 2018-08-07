@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47341"]={"code":"47341","region":"IN","city":"Fountain City","latitude":39.9634,"longitude":-84.909}}(window,'GeoPostal','US');

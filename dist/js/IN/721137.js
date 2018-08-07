@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721137"]={"code":"721137","region":"West Bengal","city":"Bali Chak","latitude":22.36667,"longitude":87.55}}(window,'GeoPostal','IN');

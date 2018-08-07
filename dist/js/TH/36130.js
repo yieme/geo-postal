@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36130"]={"code":"36130","region":"Chaiyaphum","city":"Chatturat","latitude":15.56542,"longitude":101.84547}}(window,'GeoPostal','TH');

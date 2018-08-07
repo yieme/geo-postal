@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68490"]={"code":"68490","region":"Grand-Est","city":"Bantzenheim","latitude":47.82561,"longitude":7.51498}}(window,'GeoPostal','FR');

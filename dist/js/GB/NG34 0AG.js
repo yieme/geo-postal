@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 0AG"]={"code":"NG34 0AG","region":"England","city":"Scredington","latitude":52.95065,"longitude":-0.37233}}(window,'GeoPostal','GB');

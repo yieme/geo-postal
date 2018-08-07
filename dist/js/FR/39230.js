@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39230"]={"code":"39230","region":"Bourgogne-Franche-Comte","city":"Chaumergy","latitude":46.8469,"longitude":5.4783}}(window,'GeoPostal','FR');

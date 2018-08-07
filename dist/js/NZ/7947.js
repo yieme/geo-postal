@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7947"]={"code":"7947","region":"Canterbury","city":"Pleasant Point","latitude":-44.26667,"longitude":171.13333}}(window,'GeoPostal','NZ');

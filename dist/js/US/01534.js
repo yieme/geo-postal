@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01534"]={"code":"01534","region":"MA","city":"Northbridge","latitude":42.1494,"longitude":-71.6564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63660-000"]={"code":"63660-000","region":"Ceara","city":"Sao Joao dos Inhamuns","latitude":-6,"longitude":-40.28333}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9046"]={"code":"9046","region":"Troms","city":"Hatteng","latitude":69.27072,"longitude":19.95944}}(window,'GeoPostal','NO');

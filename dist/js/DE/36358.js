@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36358"]={"code":"36358","region":"Hessen","city":"Steinfurt","latitude":50.52424,"longitude":9.40614}}(window,'GeoPostal','DE');

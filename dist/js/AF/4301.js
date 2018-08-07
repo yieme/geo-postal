@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4301"]={"code":"4301","region":"Nimroz","city":"Zaranj","latitude":30.96667,"longitude":61.88333}}(window,'GeoPostal','AF');

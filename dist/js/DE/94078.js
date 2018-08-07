@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94078"]={"code":"94078","region":"Bayern","city":"Freyung","latitude":48.80952,"longitude":13.54768}}(window,'GeoPostal','DE');

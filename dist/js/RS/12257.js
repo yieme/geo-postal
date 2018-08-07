@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12257"]={"code":"12257","region":"Juznobacki okrug","city":"Turija","latitude":44.52444,"longitude":21.64028}}(window,'GeoPostal','RS');

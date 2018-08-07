@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76099"]={"code":"76099","region":"TX","city":"Grapevine","latitude":32.9343,"longitude":-97.0781}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39290"]={"code":"39290","region":"Bourgogne-Franche-Comte","city":"Montmirey-le-Chateau","latitude":47.2244,"longitude":5.5353}}(window,'GeoPostal','FR');

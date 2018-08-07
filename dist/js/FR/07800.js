@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07800"]={"code":"07800","region":"Auvergne-Rhone-Alpes","city":"La Voulte-sur-Rhone","latitude":44.80072,"longitude":4.7716}}(window,'GeoPostal','FR');

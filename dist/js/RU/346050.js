@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346050"]={"code":"346050","region":"Rostovskaya oblast'","city":"Tarasovskiy","latitude":48.72727,"longitude":40.36267}}(window,'GeoPostal','RU');

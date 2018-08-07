@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3216"]={"code":"3216","region":"Entre Rios","city":"General Campos","latitude":-31.52311,"longitude":-58.4049}}(window,'GeoPostal','AR');

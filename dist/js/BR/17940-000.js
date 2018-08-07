@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17940-000"]={"code":"17940-000","region":"Sao Paulo","city":"Panorama","latitude":-21.35639,"longitude":-51.85972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4433"]={"code":"4433","region":"Szabolcs-Szatmar-Bereg","city":"Nyiregyhaza","latitude":47.95539,"longitude":21.71671}}(window,'GeoPostal','HU');

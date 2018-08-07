@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4285"]={"code":"4285","region":"Queensland","city":"Laravale","latitude":-28.08333,"longitude":152.93333}}(window,'GeoPostal','AU');

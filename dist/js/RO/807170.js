@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807170"]={"code":"807170","region":"Galati","city":"Ivesti","latitude":45.68333,"longitude":27.51667}}(window,'GeoPostal','RO');

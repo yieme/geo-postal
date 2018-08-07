@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA4 4EW"]={"code":"TA4 4EW","region":"England","city":"Bicknoller","latitude":51.14778,"longitude":-3.27306}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1300"]={"code":"1300","region":"Inhambane","city":"Inhambane","latitude":-23.865,"longitude":35.38333}}(window,'GeoPostal','MZ');

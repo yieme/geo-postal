@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01380"]={"code":"01380","region":"MA","city":"Wendell Depot","latitude":42.5534,"longitude":-72.3927}}(window,'GeoPostal','US');

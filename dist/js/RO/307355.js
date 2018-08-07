@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307355"]={"code":"307355","region":"Timis","city":"Sacosu Turcesc","latitude":45.65194,"longitude":21.42889}}(window,'GeoPostal','RO');

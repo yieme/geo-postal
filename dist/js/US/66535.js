@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66535"]={"code":"66535","region":"KS","city":"Saint George","latitude":39.2108,"longitude":-96.4345}}(window,'GeoPostal','US');

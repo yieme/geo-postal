@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5700000"]={"code":"5700000","region":"Los Lagos","city":"Castro","latitude":-42.4721,"longitude":-73.77319}}(window,'GeoPostal','CL');

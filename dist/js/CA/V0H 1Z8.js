@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0H 1Z8"]={"code":"V0H 1Z8","region":"British Columbia","city":"Shingle Creek","latitude":49.51647,"longitude":-119.80243}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59526"]={"code":"59526","region":"Montana","city":"Harlem","latitude":48.601944,"longitude":-108.852547}}(window,'GeoPostal','US');

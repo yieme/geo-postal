@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75482"]={"code":"75482","region":"Texas","city":"Sulphur Springs","latitude":33.13845,"longitude":-95.60107}}(window,'GeoPostal','US');

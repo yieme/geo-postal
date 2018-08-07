@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2720"]={"code":"2720","region":"Hovedstaden","city":"Hvidovre","latitude":55.65719,"longitude":12.47364}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97503"]={"code":"97503","region":"Bayern","city":"Abersfeld","latitude":50.07208,"longitude":10.38713}}(window,'GeoPostal','DE');

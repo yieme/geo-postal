@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62074"]={"code":"62074","region":"IL","city":"New Douglas","latitude":38.9676,"longitude":-89.7392}}(window,'GeoPostal','US');

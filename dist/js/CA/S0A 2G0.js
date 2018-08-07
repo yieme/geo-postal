@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 2G0"]={"code":"S0A 2G0","region":"Saskatchewan","city":"Lestock","latitude":51.31678,"longitude":-103.98437}}(window,'GeoPostal','CA');

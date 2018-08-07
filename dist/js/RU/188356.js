@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188356"]={"code":"188356","region":"Leningradskaya oblast'","city":"Rozhdestveno","latitude":59.31812,"longitude":29.94594}}(window,'GeoPostal','RU');

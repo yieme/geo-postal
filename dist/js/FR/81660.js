@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81660"]={"code":"81660","region":"Occitanie","city":"Payrin-Augmontel","latitude":43.5445,"longitude":2.35406}}(window,'GeoPostal','FR');

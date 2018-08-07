@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44400"]={"code":"44400","region":"Sisacko-moslavacka zupanija","city":"Glina","latitude":45.33806,"longitude":16.08806}}(window,'GeoPostal','HR');

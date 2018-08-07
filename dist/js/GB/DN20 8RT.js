@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 8RT"]={"code":"DN20 8RT","region":"England","city":"Wrawby","latitude":53.56672,"longitude":-0.46194}}(window,'GeoPostal','GB');

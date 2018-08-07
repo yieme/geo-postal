@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216450"]={"code":"216450","region":"Smolenskaya oblast'","city":"Pochinok","latitude":54.40685,"longitude":32.44067}}(window,'GeoPostal','RU');

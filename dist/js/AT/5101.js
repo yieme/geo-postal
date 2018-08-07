@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5101"]={"code":"5101","region":"Salzburg","city":"Bergheim","latitude":47.83333,"longitude":13.03333}}(window,'GeoPostal','AT');

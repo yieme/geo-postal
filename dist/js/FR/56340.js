@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56340"]={"code":"56340","region":"Bretagne","city":"Plouharnel","latitude":47.59804,"longitude":-3.11274}}(window,'GeoPostal','FR');

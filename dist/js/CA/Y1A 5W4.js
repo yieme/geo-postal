@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y1A 5W4"]={"code":"Y1A 5W4","region":"Yukon","city":"Mayo Road","latitude":60.9106,"longitude":-135.221}}(window,'GeoPostal','CA');

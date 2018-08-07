@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8864"]={"code":"8864","region":"Schwyz","city":"Reichenburg","latitude":47.16747,"longitude":8.98304}}(window,'GeoPostal','CH');

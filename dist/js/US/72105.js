@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72105"]={"code":"72105","region":"AR","city":"Jones Mill","latitude":34.4374,"longitude":-92.8943}}(window,'GeoPostal','US');

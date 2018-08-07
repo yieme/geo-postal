@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612470"]={"code":"612470","region":"Kirovskaya oblast'","city":"Bogorodskoye","latitude":57.82849,"longitude":50.74856}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9220"]={"code":"9220","region":"Oost-Vlaanderen","city":"Hamme","latitude":51.09822,"longitude":4.13705}}(window,'GeoPostal','BE');

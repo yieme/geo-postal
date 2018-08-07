@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30230"]={"code":"30230","region":"Nakhon Ratchasima","city":"Chaloem Phra Kiat","latitude":15.00508,"longitude":102.27033}}(window,'GeoPostal','TH');

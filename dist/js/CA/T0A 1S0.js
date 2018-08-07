@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 1S0"]={"code":"T0A 1S0","region":"Alberta","city":"Goodridge","latitude":54.38348,"longitude":-111.36853}}(window,'GeoPostal','CA');

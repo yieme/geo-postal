@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74790"]={"code":"74790","region":"Puebla","city":"Tulcingo del Valle","latitude":18.05,"longitude":-98.43333}}(window,'GeoPostal','MX');

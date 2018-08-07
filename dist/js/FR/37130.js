@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37130"]={"code":"37130","region":"Centre-Val de Loire","city":"Langeais","latitude":47.32587,"longitude":0.40136}}(window,'GeoPostal','FR');

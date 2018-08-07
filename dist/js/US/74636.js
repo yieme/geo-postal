@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74636"]={"code":"74636","region":"OK","city":"Deer Creek","latitude":36.8048,"longitude":-97.5136}}(window,'GeoPostal','US');

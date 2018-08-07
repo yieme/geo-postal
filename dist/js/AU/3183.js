@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3183"]={"code":"3183","region":"Victoria","city":"St Kilda East","latitude":-37.86594,"longitude":145.00018}}(window,'GeoPostal','AU');

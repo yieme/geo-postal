@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["842 00"]={"code":"842 00","region":"Notio Aigaio","city":"Tinos","latitude":37.53333,"longitude":25.16667}}(window,'GeoPostal','GR');

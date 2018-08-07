@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69199"]={"code":"69199","region":"Auvergne-Rhone-Alpes","city":"Saint-Fons","latitude":45.7088,"longitude":4.86057}}(window,'GeoPostal','FR');

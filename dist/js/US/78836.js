@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78836"]={"code":"78836","region":"Texas","city":"Catarina","latitude":28.34568,"longitude":-99.61419}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49400-000"]={"code":"49400-000","region":"Sergipe","city":"Lagarto","latitude":-10.91722,"longitude":-37.65}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58102"]={"code":"58102","region":"Tel Aviv","city":"Holon","latitude":32.01139,"longitude":34.77222}}(window,'GeoPostal','IL');

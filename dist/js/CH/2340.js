@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2340"]={"code":"2340","region":"Jura","city":"Le Noirmont","latitude":47.22567,"longitude":6.9573}}(window,'GeoPostal','CH');

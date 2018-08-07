@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91012"]={"code":"91012","region":"Sicilia","city":"Buseto Palizzolo","latitude":38.02594,"longitude":12.71743}}(window,'GeoPostal','IT');

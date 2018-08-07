@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60804"]={"code":"60804","region":"Michoacan de Ocampo","city":"Coahuayana","latitude":18.73333,"longitude":-103.68333}}(window,'GeoPostal','MX');

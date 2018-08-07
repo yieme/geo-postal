@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21248"]={"code":"21248","region":"Juznobacki okrug","city":"Lok","latitude":45.21583,"longitude":20.21222}}(window,'GeoPostal','RS');

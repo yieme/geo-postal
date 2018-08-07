@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23408"]={"code":"23408","region":"VA","city":"Marionville","latitude":37.4556,"longitude":-75.8473}}(window,'GeoPostal','US');

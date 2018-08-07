@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05641"]={"code":"05641","region":"Vermont","city":"Barre","latitude":44.19701,"longitude":-72.50205}}(window,'GeoPostal','US');

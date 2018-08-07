@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 7AS"]={"code":"NR21 7AS","region":"England","city":"Great Ryburgh","latitude":52.80823,"longitude":0.90097}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350 13"]={"code":"350 13","region":"Sterea Ellada","city":"Pelasyia","latitude":38.95,"longitude":22.83333}}(window,'GeoPostal','GR');

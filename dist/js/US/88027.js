@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88027"]={"code":"88027","region":"NM","city":"Chamberino","latitude":32.0401,"longitude":-106.6856}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9PH"]={"code":"NG13 9PH","region":"England","city":"Kilvington","latitude":52.97742,"longitude":-0.81048}}(window,'GeoPostal','GB');

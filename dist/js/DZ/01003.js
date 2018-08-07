@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01003"]={"code":"01003","region":"Adrar","city":"Aoulef","latitude":26.96667,"longitude":1.08333}}(window,'GeoPostal','DZ');

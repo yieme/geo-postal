@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76360"]={"code":"76360","region":"Texas","city":"Electra","latitude":34.018961,"longitude":-98.892997}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17003"]={"code":"17003","region":"Peten","city":"San Benito","latitude":16.91667,"longitude":-89.9}}(window,'GeoPostal','GT');

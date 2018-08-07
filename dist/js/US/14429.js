@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14429"]={"code":"14429","region":"New York","city":"Clarendon","latitude":43.193008,"longitude":-78.064921}}(window,'GeoPostal','US');

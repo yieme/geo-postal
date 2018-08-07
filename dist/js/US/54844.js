@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54844"]={"code":"54844","region":"Wisconsin","city":"Herbster","latitude":46.77347,"longitude":-91.225843}}(window,'GeoPostal','US');

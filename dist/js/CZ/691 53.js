@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 53"]={"code":"691 53","region":"Jihomoravsky kraj","city":"Tvrdonice","latitude":48.76048,"longitude":16.99446}}(window,'GeoPostal','CZ');

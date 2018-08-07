@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74884"]={"code":"74884","region":"OK","city":"Wewoka","latitude":35.1463,"longitude":-96.628}}(window,'GeoPostal','US');

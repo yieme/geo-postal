@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02410"]={"code":"02410","region":"Castilla-La Mancha","city":"Lietor","latitude":38.54267,"longitude":-1.95367}}(window,'GeoPostal','ES');

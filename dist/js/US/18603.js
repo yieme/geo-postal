@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18603"]={"code":"18603","region":"Pennsylvania","city":"Berwick","latitude":41.057604,"longitude":-76.247704}}(window,'GeoPostal','US');

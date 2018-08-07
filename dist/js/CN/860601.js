@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["860601"]={"code":"860601","region":"Xizang","city":"Gyigang","latitude":28.66667,"longitude":97.51667}}(window,'GeoPostal','CN');

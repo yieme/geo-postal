@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7232"]={"code":"7232","region":"Western Cape","city":"Caledon","latitude":-34.22997,"longitude":19.4265}}(window,'GeoPostal','ZA');

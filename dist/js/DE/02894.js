@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02894"]={"code":"02894","region":"Sachsen","city":"Borda","latitude":51.15224,"longitude":14.772}}(window,'GeoPostal','DE');

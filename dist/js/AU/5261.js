@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5261"]={"code":"5261","region":"South Australia","city":"Coomandook","latitude":-35.48333,"longitude":139.7}}(window,'GeoPostal','AU');

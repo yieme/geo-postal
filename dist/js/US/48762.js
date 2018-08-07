@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48762"]={"code":"48762","region":"MI","city":"Spruce","latitude":44.8224,"longitude":-83.5044}}(window,'GeoPostal','US');

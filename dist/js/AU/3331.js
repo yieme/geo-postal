@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3331"]={"code":"3331","region":"Victoria","city":"Bannockburn","latitude":-38.04894,"longitude":144.16882}}(window,'GeoPostal','AU');

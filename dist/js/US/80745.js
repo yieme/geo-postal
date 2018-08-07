@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80745"]={"code":"80745","region":"CO","city":"Padroni","latitude":40.8842,"longitude":-103.3728}}(window,'GeoPostal','US');

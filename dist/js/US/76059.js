@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76059"]={"code":"76059","region":"Texas","city":"Keene","latitude":32.394177,"longitude":-97.329376}}(window,'GeoPostal','US');

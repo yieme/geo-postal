@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5453"]={"code":"5453","region":"Aargau","city":"Kunten","latitude":47.3889,"longitude":8.33105}}(window,'GeoPostal','CH');

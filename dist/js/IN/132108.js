@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132108"]={"code":"132108","region":"Haryana","city":"Panipat","latitude":29.38889,"longitude":76.96806}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07421"]={"code":"07421","region":"NJ","city":"Hewitt","latitude":41.1709,"longitude":-74.3686}}(window,'GeoPostal','US');

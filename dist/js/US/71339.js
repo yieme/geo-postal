@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71339"]={"code":"71339","region":"Louisiana","city":"Hamburg","latitude":31.06293,"longitude":-91.923399}}(window,'GeoPostal','US');

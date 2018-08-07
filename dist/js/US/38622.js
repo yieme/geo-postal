@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38622"]={"code":"38622","region":"MS","city":"Crowder","latitude":34.1731,"longitude":-90.1364}}(window,'GeoPostal','US');

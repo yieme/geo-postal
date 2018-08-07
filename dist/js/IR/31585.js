@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31585"]={"code":"31585","region":"Alborz","city":"Karaj","latitude":35.8355,"longitude":51.0103}}(window,'GeoPostal','IR');

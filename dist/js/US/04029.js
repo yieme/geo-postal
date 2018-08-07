@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04029"]={"code":"04029","region":"Maine","city":"Sebago","latitude":43.887222,"longitude":-70.6775}}(window,'GeoPostal','US');

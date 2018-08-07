@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 03"]={"code":"538 03","region":"Pardubicky kraj","city":"Hermanuv Mestec","latitude":49.94707,"longitude":15.66492}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47322"]={"code":"47322","region":"IN","city":"Bentonville","latitude":39.657,"longitude":-85.168}}(window,'GeoPostal','US');

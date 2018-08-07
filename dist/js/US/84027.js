@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84027"]={"code":"84027","region":"Utah","city":"Fruitland","latitude":40.212778,"longitude":-110.838889}}(window,'GeoPostal','US');

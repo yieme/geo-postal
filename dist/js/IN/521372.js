@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["521372"]={"code":"521372","region":"Andhra Pradesh","city":"Eluru","latitude":16.7,"longitude":81.1}}(window,'GeoPostal','IN');

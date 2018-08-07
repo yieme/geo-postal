@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8119"]={"code":"8119","region":"Davao del Sur","city":"Tagum","latitude":7.44778,"longitude":125.80778}}(window,'GeoPostal','PH');

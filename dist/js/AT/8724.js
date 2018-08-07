@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8724"]={"code":"8724","region":"Steiermark","city":"Spielberg bei Knittelfeld","latitude":47.21667,"longitude":14.78333}}(window,'GeoPostal','AT');

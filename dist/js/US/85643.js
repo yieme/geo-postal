@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85643"]={"code":"85643","region":"Arizona","city":"Willcox","latitude":32.25285,"longitude":-109.83201}}(window,'GeoPostal','US');

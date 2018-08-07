@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30624"]={"code":"30624","region":"Georgia","city":"Bowman","latitude":34.094874,"longitude":-82.82059}}(window,'GeoPostal','US');

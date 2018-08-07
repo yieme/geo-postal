@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 0HJ"]={"code":"SG8 0HJ","region":"England","city":"Wendy","latitude":52.11154,"longitude":-0.06918}}(window,'GeoPostal','GB');

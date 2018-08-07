@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2025-999"]={"code":"2025-999","region":"Santarem","city":"Alcanede","latitude":39.41501,"longitude":-8.82189}}(window,'GeoPostal','PT');

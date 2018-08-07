@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55731"]={"code":"55731","region":"Minnesota","city":"Ely","latitude":47.90324,"longitude":-91.86709}}(window,'GeoPostal','US');

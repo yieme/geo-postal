@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744-0075"]={"code":"744-0075","region":"Yamaguchi","city":"Yamaguchi","latitude":34.183,"longitude":131.467}}(window,'GeoPostal','JP');

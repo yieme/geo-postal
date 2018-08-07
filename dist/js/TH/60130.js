@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60130"]={"code":"60130","region":"Nakhon Sawan","city":"Phayuha Khiri","latitude":15.45525,"longitude":100.13533}}(window,'GeoPostal','TH');

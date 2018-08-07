@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03229"]={"code":"03229","region":"Brandenburg","city":"Altdobern","latitude":51.65,"longitude":14.03333}}(window,'GeoPostal','DE');

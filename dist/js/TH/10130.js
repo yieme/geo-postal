@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10130"]={"code":"10130","region":"Samut Prakan","city":"Phra Pradaeng","latitude":13.65854,"longitude":100.53362}}(window,'GeoPostal','TH');

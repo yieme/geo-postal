@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13330-000"]={"code":"13330-000","region":"Sao Paulo","city":"Indaiatuba","latitude":-23.09028,"longitude":-47.21806}}(window,'GeoPostal','BR');

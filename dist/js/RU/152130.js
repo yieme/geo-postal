@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152130"]={"code":"152130","region":"Yaroslavskaya oblast'","city":"Petrovskoye","latitude":57.01039,"longitude":39.26928}}(window,'GeoPostal','RU');

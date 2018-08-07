@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3X0"]={"code":"T0B 3X0","region":"Alberta","city":"Ridgeclough","latitude":52.93346,"longitude":-110.03485}}(window,'GeoPostal','CA');

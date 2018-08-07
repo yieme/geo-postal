@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461114"]={"code":"461114","region":"Henan","city":"Zhangpan","latitude":33.99256,"longitude":113.99039}}(window,'GeoPostal','CN');

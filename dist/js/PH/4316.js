@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4316"]={"code":"4316","region":"Quezon","city":"Lopez","latitude":13.88444,"longitude":122.26417}}(window,'GeoPostal','PH');

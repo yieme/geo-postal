@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70757"]={"code":"70757","region":"Louisiana","city":"Maringouin","latitude":30.491212,"longitude":-91.517923}}(window,'GeoPostal','US');

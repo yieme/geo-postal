@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56516"]={"code":"56516","region":"MN","city":"Bejou","latitude":47.4491,"longitude":-95.9454}}(window,'GeoPostal','US');

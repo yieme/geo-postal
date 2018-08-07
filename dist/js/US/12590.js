@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12590"]={"code":"12590","region":"New York","city":"Wappingers Falls","latitude":41.59074,"longitude":-73.88112}}(window,'GeoPostal','US');

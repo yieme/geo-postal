@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73558"]={"code":"73558","region":"OK","city":"Meers","latitude":34.7828,"longitude":-98.579}}(window,'GeoPostal','US');

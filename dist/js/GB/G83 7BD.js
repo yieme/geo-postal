@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 7BD"]={"code":"G83 7BD","region":"Scotland","city":"Arrochar","latitude":56.19609,"longitude":-4.74559}}(window,'GeoPostal','GB');

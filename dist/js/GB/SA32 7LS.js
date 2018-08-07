@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 7LS"]={"code":"SA32 7LS","region":"Wales","city":"Nantgaredig","latitude":51.87104,"longitude":-4.18943}}(window,'GeoPostal','GB');

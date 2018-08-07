@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04951"]={"code":"04951","region":"ME","city":"Monroe","latitude":44.5927,"longitude":-69.0317}}(window,'GeoPostal','US');

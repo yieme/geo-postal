@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62625"]={"code":"62625","region":"Illinois","city":"Cantrall","latitude":39.926878,"longitude":-89.669857}}(window,'GeoPostal','US');

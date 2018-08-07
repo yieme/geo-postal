@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95487"]={"code":"95487","region":"CA","city":"Vineburg","latitude":38.2725,"longitude":-122.4375}}(window,'GeoPostal','US');

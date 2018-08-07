@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83490"]={"code":"83490","region":"Provence-Alpes-Cote d'Azur","city":"Le Muy","latitude":43.47381,"longitude":6.56452}}(window,'GeoPostal','FR');

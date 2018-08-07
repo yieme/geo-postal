@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO50 9FD"]={"code":"SO50 9FD","region":"England","city":"Eastleigh","latitude":50.96667,"longitude":-1.35}}(window,'GeoPostal','GB');

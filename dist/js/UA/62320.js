@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62320"]={"code":"62320","region":"Kharkivska oblast","city":"Prudyanka","latitude":50.23606,"longitude":36.16835}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE16 7QE"]={"code":"LE16 7QE","region":"England","city":"Market Harborough","latitude":52.4776,"longitude":-0.92053}}(window,'GeoPostal','GB');

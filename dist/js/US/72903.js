@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72903"]={"code":"72903","region":"Arkansas","city":"Fort Smith","latitude":35.342704,"longitude":-94.374977}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55051"]={"code":"55051","region":"Toscana","city":"Barga","latitude":44.07425,"longitude":10.4808}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99929"]={"code":"99929","region":"Alaska","city":"Wrangell","latitude":56.47083,"longitude":-132.37667}}(window,'GeoPostal','US');

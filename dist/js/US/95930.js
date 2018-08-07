@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95930"]={"code":"95930","region":"CA","city":"Clipper Mills","latitude":39.5327,"longitude":-121.1575}}(window,'GeoPostal','US');

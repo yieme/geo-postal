@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14800"]={"code":"14800","region":"Normandie","city":"Touques","latitude":49.34443,"longitude":0.10218}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 0R0"]={"code":"S0A 0R0","region":"Saskatchewan","city":"Dubuc","latitude":50.68331,"longitude":-102.46768}}(window,'GeoPostal','CA');

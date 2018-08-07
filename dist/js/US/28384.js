@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28384"]={"code":"28384","region":"NC","city":"Saint Pauls","latitude":34.801,"longitude":-78.9731}}(window,'GeoPostal','US');

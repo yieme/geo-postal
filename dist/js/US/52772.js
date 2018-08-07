@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52772"]={"code":"52772","region":"Iowa","city":"Tipton","latitude":41.78826,"longitude":-91.13124}}(window,'GeoPostal','US');

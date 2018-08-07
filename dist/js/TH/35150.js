@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35150"]={"code":"35150","region":"Yasothon","city":"Thai Charoen","latitude":16.06645,"longitude":104.44018}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 02"]={"code":"696 02","region":"Jihomoravsky kraj","city":"Ratiskovice","latitude":48.92002,"longitude":17.16561}}(window,'GeoPostal','CZ');

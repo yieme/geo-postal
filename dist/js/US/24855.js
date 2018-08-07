@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24855"]={"code":"24855","region":"WV","city":"Kyle","latitude":37.4082,"longitude":-81.4257}}(window,'GeoPostal','US');

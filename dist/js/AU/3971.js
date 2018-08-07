@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3971"]={"code":"3971","region":"Victoria","city":"Yarram","latitude":-38.56479,"longitude":146.67557}}(window,'GeoPostal','AU');

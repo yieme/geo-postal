@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["949-6607"]={"code":"949-6607","region":"Niigata","city":"Minami-Uonuma","latitude":37.067,"longitude":138.883}}(window,'GeoPostal','JP');

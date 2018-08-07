@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50246"]={"code":"50246","region":"Iowa","city":"Stanhope","latitude":42.289543,"longitude":-93.795189}}(window,'GeoPostal','US');

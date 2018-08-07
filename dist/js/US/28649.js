@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28649"]={"code":"28649","region":"North Carolina","city":"McGrady","latitude":36.322421,"longitude":-81.190385}}(window,'GeoPostal','US');

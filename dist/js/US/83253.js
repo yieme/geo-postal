@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83253"]={"code":"83253","region":"ID","city":"May","latitude":44.6044,"longitude":-113.912}}(window,'GeoPostal','US');

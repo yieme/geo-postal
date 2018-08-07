@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9X 4J7"]={"code":"J9X 4J7","region":"Quebec","city":"Rouyn-Noranda","latitude":48.227065,"longitude":-79.009148}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 6QH"]={"code":"DG8 6QH","region":"Scotland","city":"Barraer","latitude":54.91667,"longitude":-4.51667}}(window,'GeoPostal','GB');

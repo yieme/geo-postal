@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71030"]={"code":"71030","region":"Puglia","city":"Monte Sant'Angelo","latitude":41.70544,"longitude":15.96766}}(window,'GeoPostal','IT');

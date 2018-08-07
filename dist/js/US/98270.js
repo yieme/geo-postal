@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98270"]={"code":"98270","region":"Washington","city":"Marysville","latitude":48.0596,"longitude":-122.1531}}(window,'GeoPostal','US');

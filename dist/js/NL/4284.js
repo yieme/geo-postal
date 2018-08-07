@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4284"]={"code":"4284","region":"Zuid-Holland","city":"Rijswijk","latitude":52.03634,"longitude":4.32501}}(window,'GeoPostal','NL');

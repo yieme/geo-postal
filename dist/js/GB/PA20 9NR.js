@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA20 9NR"]={"code":"PA20 9NR","region":"Scotland","city":"Kingarth","latitude":55.76184,"longitude":-5.03272}}(window,'GeoPostal','GB');

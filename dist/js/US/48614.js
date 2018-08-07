@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48614"]={"code":"48614","region":"MI","city":"Brant","latitude":43.2548,"longitude":-84.2978}}(window,'GeoPostal','US');

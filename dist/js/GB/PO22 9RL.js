@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO22 9RL"]={"code":"PO22 9RL","region":"England","city":"Bognor Regis","latitude":50.78206,"longitude":-0.67978}}(window,'GeoPostal','GB');

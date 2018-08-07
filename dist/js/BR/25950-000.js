@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25950-000"]={"code":"25950-000","region":"Rio de Janeiro","city":"Teresopolis","latitude":-22.41222,"longitude":-42.96556}}(window,'GeoPostal','BR');

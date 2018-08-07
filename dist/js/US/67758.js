@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67758"]={"code":"67758","region":"Kansas","city":"Sharon Springs","latitude":38.89779,"longitude":-101.75212}}(window,'GeoPostal','US');

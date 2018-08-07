@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 2X0"]={"code":"T0C 2X0","region":"Alberta","city":"Winfield","latitude":52.96681,"longitude":-114.43537}}(window,'GeoPostal','CA');

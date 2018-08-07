@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 0M0"]={"code":"T0J 0M0","region":"Alberta","city":"Carseland","latitude":50.84801,"longitude":-113.46474}}(window,'GeoPostal','CA');

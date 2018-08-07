@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7960"]={"code":"7960","region":"Baranya","city":"Sellye","latitude":45.87247,"longitude":17.84711}}(window,'GeoPostal','HU');

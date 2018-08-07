@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38696"]={"code":"38696","region":"Kalmar lan","city":"Sodra Sandby","latitude":56.56667,"longitude":16.61667}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25201"]={"code":"25201","region":"WV","city":"Tad","latitude":38.3334,"longitude":-81.4943}}(window,'GeoPostal','US');

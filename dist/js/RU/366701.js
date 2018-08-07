@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366701"]={"code":"366701","region":"Samarskaya oblast'","city":"Sernovodsk","latitude":53.92293,"longitude":51.25704}}(window,'GeoPostal','RU');

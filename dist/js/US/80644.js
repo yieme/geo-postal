@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80644"]={"code":"80644","region":"Colorado","city":"Kersey","latitude":40.345506,"longitude":-104.529666}}(window,'GeoPostal','US');

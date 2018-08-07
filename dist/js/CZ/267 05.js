@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 05"]={"code":"267 05","region":"Stredocesky kraj","city":"Nizbor","latitude":49.99995,"longitude":14.00237}}(window,'GeoPostal','CZ');

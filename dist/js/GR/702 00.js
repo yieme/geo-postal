@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["702 00"]={"code":"702 00","region":"Kriti","city":"Moirai","latitude":35.05,"longitude":24.86667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29100"]={"code":"29100","region":"Emilia-Romagna","city":"Piacenza","latitude":45.04676,"longitude":9.69937}}(window,'GeoPostal','IT');

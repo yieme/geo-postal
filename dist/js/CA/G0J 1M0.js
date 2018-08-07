@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0J 1M0"]={"code":"G0J 1M0","region":"Quebec","city":"Lac-au-Saumon","latitude":48.421,"longitude":-67.34756}}(window,'GeoPostal','CA');

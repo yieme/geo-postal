@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75835"]={"code":"75835","region":"Texas","city":"Crockett","latitude":31.31824,"longitude":-95.45661}}(window,'GeoPostal','US');

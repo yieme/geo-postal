@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58030"]={"code":"58030","region":"North Dakota","city":"Fairmount","latitude":46.054767,"longitude":-96.602367}}(window,'GeoPostal','US');

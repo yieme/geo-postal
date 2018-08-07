@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7N 1E4"]={"code":"J7N 1E4","region":"Quebec","city":"Mirabel","latitude":45.678958,"longitude":-74.036062}}(window,'GeoPostal','CA');

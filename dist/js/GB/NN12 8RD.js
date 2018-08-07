@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN12 8RD"]={"code":"NN12 8RD","region":"England","city":"Blakesley","latitude":52.14674,"longitude":-1.08839}}(window,'GeoPostal','GB');

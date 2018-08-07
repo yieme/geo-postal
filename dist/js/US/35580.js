@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35580"]={"code":"35580","region":"AL","city":"Parrish","latitude":33.7213,"longitude":-87.2658}}(window,'GeoPostal','US');

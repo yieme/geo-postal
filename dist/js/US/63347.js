@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63347"]={"code":"63347","region":"MO","city":"Foley","latitude":39.053,"longitude":-90.7775}}(window,'GeoPostal','US');

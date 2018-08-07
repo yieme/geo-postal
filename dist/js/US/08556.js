@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08556"]={"code":"08556","region":"NJ","city":"Rosemont","latitude":40.42,"longitude":-74.9886}}(window,'GeoPostal','US');

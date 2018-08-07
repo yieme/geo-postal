@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344003"]={"code":"344003","region":"Jiangxi","city":"Luozhen","latitude":28.12048,"longitude":116.26273}}(window,'GeoPostal','CN');

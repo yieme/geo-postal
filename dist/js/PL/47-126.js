@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-126"]={"code":"47-126","region":"Opolskie","city":"Zawadzkie","latitude":50.60503,"longitude":18.48467}}(window,'GeoPostal','PL');

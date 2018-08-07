@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-300"]={"code":"89-300","region":"Wielkopolskie","city":"Wyrzysk","latitude":53.153,"longitude":17.26802}}(window,'GeoPostal','PL');

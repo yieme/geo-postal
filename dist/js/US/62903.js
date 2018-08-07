@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62903"]={"code":"62903","region":"Illinois","city":"Carbondale","latitude":37.73058,"longitude":-89.21007}}(window,'GeoPostal','US');

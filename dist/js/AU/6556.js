@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6556"]={"code":"6556","region":"Western Australia","city":"The Lakes","latitude":-31.87454,"longitude":116.33592}}(window,'GeoPostal','AU');

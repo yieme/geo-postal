@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA10 2DH"]={"code":"PA10 2DH","region":"Scotland","city":"Millikenpark","latitude":55.82704,"longitude":-4.53588}}(window,'GeoPostal','GB');

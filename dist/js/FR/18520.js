@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18520"]={"code":"18520","region":"Centre-Val de Loire","city":"Bengy-sur-Craon","latitude":47.0011,"longitude":2.7486}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404547"]={"code":"404547","region":"Volgogradskaya oblast'","city":"Bereslavka","latitude":48.62541,"longitude":44.04491}}(window,'GeoPostal','RU');

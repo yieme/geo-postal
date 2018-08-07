@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97508"]={"code":"97508","region":"Bayern","city":"Untereuerheim","latitude":50.013,"longitude":10.35579}}(window,'GeoPostal','DE');

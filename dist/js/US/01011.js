@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01011"]={"code":"01011","region":"MA","city":"Chester","latitude":42.2794,"longitude":-72.9888}}(window,'GeoPostal','US');

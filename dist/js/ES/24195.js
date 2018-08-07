@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24195"]={"code":"24195","region":"Castilla y Leon","city":"Villaquilambre","latitude":42.64685,"longitude":-5.55835}}(window,'GeoPostal','ES');

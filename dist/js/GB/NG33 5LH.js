@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 5LH"]={"code":"NG33 5LH","region":"England","city":"North Witham","latitude":52.78605,"longitude":-0.62656}}(window,'GeoPostal','GB');

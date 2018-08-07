@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38502"]={"code":"38502","region":"Poltavska oblast","city":"Dykan'ka","latitude":49.82501,"longitude":34.52787}}(window,'GeoPostal','UA');

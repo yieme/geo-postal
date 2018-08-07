@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["420"]={"code":"420","region":"Taichung","city":"Fengyuan","latitude":24.25,"longitude":120.71694}}(window,'GeoPostal','TW');

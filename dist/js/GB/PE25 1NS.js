@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE25 1NS"]={"code":"PE25 1NS","region":"England","city":"Ingoldmells","latitude":53.19414,"longitude":0.33358}}(window,'GeoPostal','GB');

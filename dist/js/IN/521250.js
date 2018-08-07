@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["521250"]={"code":"521250","region":"Andhra Pradesh","city":"Gudivada","latitude":16.45,"longitude":80.98333}}(window,'GeoPostal','IN');

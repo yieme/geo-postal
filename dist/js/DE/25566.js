@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25566"]={"code":"25566","region":"Schleswig-Holstein","city":"Lagerdorf","latitude":53.88333,"longitude":9.58333}}(window,'GeoPostal','DE');

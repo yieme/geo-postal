@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99783"]={"code":"99783","region":"AK","city":"Wales","latitude":65.6092,"longitude":-168.0875}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59135"]={"code":"59135","region":"Hauts-de-France","city":"Wallers","latitude":50.37432,"longitude":3.39188}}(window,'GeoPostal','FR');

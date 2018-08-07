@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24986"]={"code":"24986","region":"West Virginia","city":"White Sulphur Springs","latitude":37.79651,"longitude":-80.29757}}(window,'GeoPostal','US');

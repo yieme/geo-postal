@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5932"]={"code":"5932","region":"Limburg","city":"Tegelen","latitude":51.34417,"longitude":6.13611}}(window,'GeoPostal','NL');

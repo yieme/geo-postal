@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 9HF"]={"code":"DT2 9HF","region":"England","city":"Little Bredy","latitude":50.7,"longitude":-2.58333}}(window,'GeoPostal','GB');

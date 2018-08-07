@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85290"]={"code":"85290","region":"Pays-de-la-Loire","city":"Saint-Laurent-sur-Sevre","latitude":46.95809,"longitude":-0.89392}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22427"]={"code":"22427","region":"Sremski okrug","city":"Hrtkovci","latitude":44.87889,"longitude":19.77056}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83122"]={"code":"83122","region":"WY","city":"Grover","latitude":42.7965,"longitude":-110.9244}}(window,'GeoPostal','US');

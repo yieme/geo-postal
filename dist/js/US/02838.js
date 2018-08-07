@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02838"]={"code":"02838","region":"RI","city":"Manville","latitude":41.9689,"longitude":-71.4741}}(window,'GeoPostal','US');

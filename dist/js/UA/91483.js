@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91483"]={"code":"91483","region":"Luhanska oblast","city":"Schast'ye","latitude":48.73963,"longitude":39.2323}}(window,'GeoPostal','UA');

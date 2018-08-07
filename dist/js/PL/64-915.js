@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-915"]={"code":"64-915","region":"Wielkopolskie","city":"Jastrowie","latitude":53.42048,"longitude":16.81756}}(window,'GeoPostal','PL');

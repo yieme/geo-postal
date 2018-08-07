@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17364"]={"code":"17364","region":"PA","city":"Thomasville","latitude":39.9346,"longitude":-76.8822}}(window,'GeoPostal','US');

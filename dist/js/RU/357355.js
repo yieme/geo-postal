@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357355"]={"code":"357355","region":"Stavropol'skiy kray","city":"Pyatigorskiy","latitude":43.97417,"longitude":43.25833}}(window,'GeoPostal','RU');

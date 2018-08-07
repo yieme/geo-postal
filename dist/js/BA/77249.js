@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77249"]={"code":"77249","region":"Federacija Bosne i Hercegovine","city":"Buzim","latitude":45.05472,"longitude":16.03194}}(window,'GeoPostal','BA');

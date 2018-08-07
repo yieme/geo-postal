@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1310"]={"code":"1310","region":"Brabant wallon","city":"La Hulpe","latitude":50.73091,"longitude":4.48577}}(window,'GeoPostal','BE');

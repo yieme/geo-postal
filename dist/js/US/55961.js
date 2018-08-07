@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55961"]={"code":"55961","region":"Minnesota","city":"Ostrander","latitude":43.574002,"longitude":-92.408336}}(window,'GeoPostal','US');

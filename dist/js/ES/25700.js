@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25700"]={"code":"25700","region":"Catalunya","city":"la Seu d'Urgell","latitude":42.35877,"longitude":1.46144}}(window,'GeoPostal','ES');

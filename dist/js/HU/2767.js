@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2767"]={"code":"2767","region":"Pest","city":"Tapiogyorgye","latitude":47.33505,"longitude":19.95276}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368621"]={"code":"368621","region":"Dagestan, Respublika","city":"Mamedkala","latitude":42.16773,"longitude":48.11988}}(window,'GeoPostal','RU');

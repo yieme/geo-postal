@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["693023"]={"code":"693023","region":"Sakhalinskaya oblast'","city":"Yuzhno-Sakhalinsk","latitude":46.95812,"longitude":142.73366}}(window,'GeoPostal','RU');

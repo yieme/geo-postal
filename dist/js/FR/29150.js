@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29150"]={"code":"29150","region":"Bretagne","city":"Chateaulin","latitude":48.2,"longitude":-4.08333}}(window,'GeoPostal','FR');

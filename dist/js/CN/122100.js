@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["122100"]={"code":"122100","region":"Liaoning","city":"Beipiao","latitude":41.79194,"longitude":120.77917}}(window,'GeoPostal','CN');

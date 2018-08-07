@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62892"]={"code":"62892","region":"IL","city":"Vernon","latitude":38.8033,"longitude":-89.083}}(window,'GeoPostal','US');

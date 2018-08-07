@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38825"]={"code":"38825","region":"MS","city":"Becker","latitude":33.8698,"longitude":-88.4622}}(window,'GeoPostal','US');

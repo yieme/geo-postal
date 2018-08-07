@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0H 1G0"]={"code":"N0H 1G0","region":"Ontario","city":"Chatsworth","latitude":44.45009,"longitude":-80.89973}}(window,'GeoPostal','CA');

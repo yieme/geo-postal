@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91351"]={"code":"91351","region":"CA","city":"Canyon Country","latitude":34.4262,"longitude":-118.449}}(window,'GeoPostal','US');

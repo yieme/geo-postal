@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1338"]={"code":"1338","region":"Vaud","city":"Vallorbe","latitude":46.71256,"longitude":6.37894}}(window,'GeoPostal','CH');

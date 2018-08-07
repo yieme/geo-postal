@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 3S0"]={"code":"S0H 3S0","region":"Saskatchewan","city":"Rush Lake","latitude":50.40006,"longitude":-107.40131}}(window,'GeoPostal','CA');

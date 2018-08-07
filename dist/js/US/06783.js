@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06783"]={"code":"06783","region":"CT","city":"Roxbury","latitude":41.5509,"longitude":-73.2993}}(window,'GeoPostal','US');

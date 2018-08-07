@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48634"]={"code":"48634","region":"MI","city":"Linwood","latitude":43.7714,"longitude":-84.0513}}(window,'GeoPostal','US');

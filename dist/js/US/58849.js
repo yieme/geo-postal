@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58849"]={"code":"58849","region":"North Dakota","city":"Ray","latitude":48.3228,"longitude":-103.2009}}(window,'GeoPostal','US');

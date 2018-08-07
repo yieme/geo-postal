@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 4QL"]={"code":"IP12 4QL","region":"England","city":"Waldringfield","latitude":52.0527,"longitude":1.32531}}(window,'GeoPostal','GB');

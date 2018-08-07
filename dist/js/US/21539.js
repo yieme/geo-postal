@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21539"]={"code":"21539","region":"MD","city":"Lonaconing","latitude":39.5757,"longitude":-78.9915}}(window,'GeoPostal','US');

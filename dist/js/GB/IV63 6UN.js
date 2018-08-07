@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 6UN"]={"code":"IV63 6UN","region":"Scotland","city":"Lewiston","latitude":57.32752,"longitude":-4.47427}}(window,'GeoPostal','GB');

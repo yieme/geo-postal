@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS11 4PY"]={"code":"WS11 4PY","region":"England","city":"Huntington","latitude":52.7,"longitude":-2.03333}}(window,'GeoPostal','GB');

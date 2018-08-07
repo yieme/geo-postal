@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7940"]={"code":"7940","region":"Canterbury","city":"Timaru","latitude":-44.4,"longitude":171.25}}(window,'GeoPostal','NZ');

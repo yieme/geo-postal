@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3208"]={"code":"3208","region":"Cabo Delgado","city":"Montepuez","latitude":-13.12556,"longitude":38.99972}}(window,'GeoPostal','MZ');

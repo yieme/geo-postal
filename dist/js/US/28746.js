@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28746"]={"code":"28746","region":"NC","city":"Lake Lure","latitude":35.4464,"longitude":-82.1752}}(window,'GeoPostal','US');

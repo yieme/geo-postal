@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660-150"]={"code":"660-150","region":"Gyeongsangnam-do","city":"Chinju","latitude":35.19278,"longitude":128.08472}}(window,'GeoPostal','KR');

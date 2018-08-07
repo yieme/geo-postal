@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22482"]={"code":"22482","region":"Virginia","city":"Kilmarnock","latitude":37.71041,"longitude":-76.37967}}(window,'GeoPostal','US');

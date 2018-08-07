@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48721"]={"code":"48721","region":"MI","city":"Black River","latitude":44.8138,"longitude":-83.3407}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5803"]={"code":"5803","region":"Cordoba","city":"Villa Reduccion","latitude":-33.20105,"longitude":-63.86234}}(window,'GeoPostal','AR');

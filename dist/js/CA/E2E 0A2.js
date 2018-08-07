@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2E 0A2"]={"code":"E2E 0A2","region":"New Brunswick","city":"Quispamsis","latitude":45.42135,"longitude":-65.95127}}(window,'GeoPostal','CA');

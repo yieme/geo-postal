@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56343"]={"code":"56343","region":"MN","city":"Kensington","latitude":45.8176,"longitude":-95.6945}}(window,'GeoPostal','US');

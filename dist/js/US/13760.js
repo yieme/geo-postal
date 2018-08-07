@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13760"]={"code":"13760","region":"New York","city":"Endicott","latitude":42.09841,"longitude":-76.04937}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 3DZ"]={"code":"DN21 3DZ","region":"England","city":"East Ferry","latitude":53.48717,"longitude":-0.77324}}(window,'GeoPostal','GB');

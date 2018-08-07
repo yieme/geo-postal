@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617160"]={"code":"617160","region":"Permskiy kray","city":"Pavlovskiy","latitude":57.8424,"longitude":54.84357}}(window,'GeoPostal','RU');

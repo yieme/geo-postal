@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60800"]={"code":"60800","region":"Etela-Pohjanmaa","city":"Ilmajoki","latitude":62.73333,"longitude":22.56667}}(window,'GeoPostal','FI');

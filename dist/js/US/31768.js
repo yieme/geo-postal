@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31768"]={"code":"31768","region":"Georgia","city":"Moultrie","latitude":31.1833,"longitude":-83.7917}}(window,'GeoPostal','US');

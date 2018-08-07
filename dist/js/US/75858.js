@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75858"]={"code":"75858","region":"TX","city":"Ratcliff","latitude":31.3916,"longitude":-95.1397}}(window,'GeoPostal','US');

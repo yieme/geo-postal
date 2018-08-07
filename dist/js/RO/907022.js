@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907022"]={"code":"907022","region":"Botosani","city":"Albesti","latitude":43.8,"longitude":28.41667}}(window,'GeoPostal','RO');

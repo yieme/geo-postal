@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53108"]={"code":"53108","region":"Wisconsin","city":"Caledonia","latitude":42.8078,"longitude":-87.92425}}(window,'GeoPostal','US');

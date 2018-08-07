@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 1V0"]={"code":"J0E 1V0","region":"Quebec","city":"Lac-Brome","latitude":45.21678,"longitude":-72.51581}}(window,'GeoPostal','CA');

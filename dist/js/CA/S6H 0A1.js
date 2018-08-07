@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S6H 0A1"]={"code":"S6H 0A1","region":"Saskatchewan","city":"Moose Jaw","latitude":50.40005,"longitude":-105.53445}}(window,'GeoPostal','CA');

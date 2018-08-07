@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35367-000"]={"code":"35367-000","region":"Minas Gerais","city":"Matipo","latitude":-20.28389,"longitude":-42.34111}}(window,'GeoPostal','BR');

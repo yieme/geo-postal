@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97231"]={"code":"97231","region":"Norrbottens lan","city":"Lulea","latitude":65.58415,"longitude":22.15465}}(window,'GeoPostal','SE');

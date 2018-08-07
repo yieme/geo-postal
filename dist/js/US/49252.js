@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49252"]={"code":"49252","region":"MI","city":"Litchfield","latitude":42.0369,"longitude":-84.7673}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60084"]={"code":"60084","region":"Illinois","city":"Wauconda","latitude":42.263354,"longitude":-88.139549}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 8BL"]={"code":"DG8 8BL","region":"Scotland","city":"Garlieston","latitude":54.78943,"longitude":-4.3726}}(window,'GeoPostal','GB');

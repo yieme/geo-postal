@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71035"]={"code":"71035","region":"Puglia","city":"Celenza Valfortore","latitude":41.56173,"longitude":14.97884}}(window,'GeoPostal','IT');

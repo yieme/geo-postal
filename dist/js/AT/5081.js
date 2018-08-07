@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5081"]={"code":"5081","region":"Salzburg","city":"Anif","latitude":47.75,"longitude":13.06667}}(window,'GeoPostal','AT');

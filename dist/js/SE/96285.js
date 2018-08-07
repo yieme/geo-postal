@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96285"]={"code":"96285","region":"Norrbottens lan","city":"Jokkmokk","latitude":66.60665,"longitude":19.82324}}(window,'GeoPostal','SE');

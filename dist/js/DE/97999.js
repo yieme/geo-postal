@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97999"]={"code":"97999","region":"Baden-Wurttemberg","city":"Reckersthal","latitude":49.53584,"longitude":9.82582}}(window,'GeoPostal','DE');

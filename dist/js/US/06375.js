@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06375"]={"code":"06375","region":"CT","city":"Quaker Hill","latitude":41.4032,"longitude":-72.1172}}(window,'GeoPostal','US');

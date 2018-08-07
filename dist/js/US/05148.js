@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05148"]={"code":"05148","region":"VT","city":"Londonderry","latitude":43.2281,"longitude":-72.788}}(window,'GeoPostal','US');

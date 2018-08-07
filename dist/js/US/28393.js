@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28393"]={"code":"28393","region":"NC","city":"Turkey","latitude":34.9857,"longitude":-78.2121}}(window,'GeoPostal','US');

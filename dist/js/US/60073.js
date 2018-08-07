@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60073"]={"code":"60073","region":"Illinois","city":"Round Lake","latitude":42.35336,"longitude":-88.09341}}(window,'GeoPostal','US');

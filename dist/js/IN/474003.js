@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["474003"]={"code":"474003","region":"Madhya Pradesh","city":"Gwalior","latitude":26.22361,"longitude":78.17917}}(window,'GeoPostal','IN');

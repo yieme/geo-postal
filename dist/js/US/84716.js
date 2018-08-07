@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84716"]={"code":"84716","region":"Utah","city":"Boulder","latitude":37.82878,"longitude":-111.204017}}(window,'GeoPostal','US');

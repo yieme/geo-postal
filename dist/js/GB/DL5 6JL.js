@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL5 6JL"]={"code":"DL5 6JL","region":"England","city":"Aycliffe","latitude":54.6,"longitude":-1.55}}(window,'GeoPostal','GB');

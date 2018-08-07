@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ9 5XN"]={"code":"TQ9 5XN","region":"England","city":"Totnes","latitude":50.43107,"longitude":-3.6843}}(window,'GeoPostal','GB');

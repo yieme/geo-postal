@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5800"]={"code":"5800","region":"Syddanmark","city":"Nyborg","latitude":55.31274,"longitude":10.78964}}(window,'GeoPostal','DK');

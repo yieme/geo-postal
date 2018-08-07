@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 9RT"]={"code":"G63 9RT","region":"Scotland","city":"Killearn","latitude":56.04239,"longitude":-4.3684}}(window,'GeoPostal','GB');

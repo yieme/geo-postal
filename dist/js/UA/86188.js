@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86188"]={"code":"86188","region":"Donetska oblast","city":"Nizhnyaya Krynka","latitude":48.1135,"longitude":38.16064}}(window,'GeoPostal','UA');

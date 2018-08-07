@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29078"]={"code":"29078","region":"South Carolina","city":"Lugoff","latitude":34.220208,"longitude":-80.714796}}(window,'GeoPostal','US');

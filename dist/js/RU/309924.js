@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309924"]={"code":"309924","region":"Belgorodskaya oblast'","city":"Krasnoye","latitude":50.9297,"longitude":38.6817}}(window,'GeoPostal','RU');

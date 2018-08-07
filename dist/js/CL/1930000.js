@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1930000"]={"code":"1930000","region":"Coquimbo","city":"Illapel","latitude":-31.63083,"longitude":-71.16528}}(window,'GeoPostal','CL');

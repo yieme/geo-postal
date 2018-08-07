@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 2Y0"]={"code":"K0K 2Y0","region":"Ontario","city":"Chisholm's Mills","latitude":44.35372,"longitude":-77.30946}}(window,'GeoPostal','CA');

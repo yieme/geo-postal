@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 26"]={"code":"793 26","region":"Moravskoslezsky kraj","city":"Vrbno pod Pradedem","latitude":50.12095,"longitude":17.38316}}(window,'GeoPostal','CZ');

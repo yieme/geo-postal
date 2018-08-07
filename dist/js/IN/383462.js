@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["383462"]={"code":"383462","region":"Gujarat","city":"Khed Brahma","latitude":24.03333,"longitude":73.05}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 1AG"]={"code":"CM6 1AG","region":"England","city":"Great Dunmow","latitude":51.8723,"longitude":0.36255}}(window,'GeoPostal','GB');

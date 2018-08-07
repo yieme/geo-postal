@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4507"]={"code":"4507","region":"Queensland","city":"Welsby","latitude":-26.97143,"longitude":153.12921}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53026"]={"code":"53026","region":"WI","city":"Greenbush","latitude":43.7767,"longitude":-88.084}}(window,'GeoPostal','US');

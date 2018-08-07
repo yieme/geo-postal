@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["436 01"]={"code":"436 01","region":"Ustecky kraj","city":"Klasterec nad Ohri","latitude":50.38445,"longitude":13.17128}}(window,'GeoPostal','CZ');

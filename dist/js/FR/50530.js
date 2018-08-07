@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50530"]={"code":"50530","region":"Normandie","city":"Bacilly","latitude":48.7017,"longitude":-1.4397}}(window,'GeoPostal','FR');

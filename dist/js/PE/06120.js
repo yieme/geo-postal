@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06120"]={"code":"06120","region":"Cajamarca","city":"Chota","latitude":-6.55,"longitude":-78.65}}(window,'GeoPostal','PE');

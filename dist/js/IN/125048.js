@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125048"]={"code":"125048","region":"Haryana","city":"Fatehabad","latitude":29.51667,"longitude":75.45}}(window,'GeoPostal','IN');

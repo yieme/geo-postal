@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50662"]={"code":"50662","region":"Iowa","city":"Oelwein","latitude":42.67332,"longitude":-91.9135}}(window,'GeoPostal','US');

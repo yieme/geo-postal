@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83637"]={"code":"83637","region":"ID","city":"Lowman","latitude":44.1106,"longitude":-115.5285}}(window,'GeoPostal','US');

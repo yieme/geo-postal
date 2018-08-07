@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51215"]={"code":"51215","region":"Primorsko-goranska zupanija","city":"Kastav","latitude":45.37528,"longitude":14.34861}}(window,'GeoPostal','HR');

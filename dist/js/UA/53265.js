@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53265"]={"code":"53265","region":"Kirovohradska oblast","city":"Svitlovods'k","latitude":49.04894,"longitude":33.24106}}(window,'GeoPostal','UA');

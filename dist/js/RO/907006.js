@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907006"]={"code":"907006","region":"Mehedinti","city":"Douazeci si Trei August","latitude":43.91667,"longitude":28.58333}}(window,'GeoPostal','RO');

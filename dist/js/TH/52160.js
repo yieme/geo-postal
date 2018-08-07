@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52160"]={"code":"52160","region":"Lampang","city":"Thoen","latitude":17.61289,"longitude":99.21612}}(window,'GeoPostal','TH');

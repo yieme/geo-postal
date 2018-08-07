@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39890-000"]={"code":"39890-000","region":"Minas Gerais","city":"Joaima","latitude":-16.65417,"longitude":-41.03056}}(window,'GeoPostal','BR');

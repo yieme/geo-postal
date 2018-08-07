@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA2 8ND"]={"code":"TA2 8ND","region":"England","city":"Monkton Heathfield","latitude":51.03597,"longitude":-3.06546}}(window,'GeoPostal','GB');

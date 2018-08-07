@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41168"]={"code":"41168","region":"KY","city":"Rush","latitude":38.3089,"longitude":-82.7476}}(window,'GeoPostal','US');

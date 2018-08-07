@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54240"]={"code":"54240","region":"Mexico","city":"Jilotepec de Abasolo","latitude":19.95278,"longitude":-99.53472}}(window,'GeoPostal','MX');

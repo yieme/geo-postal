@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9255"]={"code":"9255","region":"Oost-Vlaanderen","city":"Buggenhout","latitude":51.0159,"longitude":4.20173}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50106"]={"code":"50106","region":"Dnipropetrovska oblast","city":"Kryvyy Rih","latitude":47.90966,"longitude":33.38044}}(window,'GeoPostal','UA');

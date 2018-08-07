@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25085"]={"code":"25085","region":"Lombardia","city":"Gavardo","latitude":45.58938,"longitude":10.44257}}(window,'GeoPostal','IT');

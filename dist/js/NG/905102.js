@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905102"]={"code":"905102","region":"Abuja Federal Capital Territory","city":"Kwali","latitude":8.86722,"longitude":7.005}}(window,'GeoPostal','NG');

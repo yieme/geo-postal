@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35701"]={"code":"35701","region":"Pirkanmaa","city":"Vilppula","latitude":62.02121,"longitude":24.50483}}(window,'GeoPostal','FI');

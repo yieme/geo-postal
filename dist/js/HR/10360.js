@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10360"]={"code":"10360","region":"Grad Zagreb","city":"Dubrava","latitude":45.83361,"longitude":16.06361}}(window,'GeoPostal','HR');

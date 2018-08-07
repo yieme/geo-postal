@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67157"]={"code":"67157","region":"Jawa Timur","city":"Prigen","latitude":-7.68333,"longitude":112.61667}}(window,'GeoPostal','ID');

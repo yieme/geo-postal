@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83093"]={"code":"83093","region":"Bayern","city":"Eisenbartling","latitude":47.90885,"longitude":12.30589}}(window,'GeoPostal','DE');

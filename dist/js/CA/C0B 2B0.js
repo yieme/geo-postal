@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 2B0"]={"code":"C0B 2B0","region":"Prince Edward Island","city":"Nail Pond","latitude":46.98484,"longitude":-64.06262}}(window,'GeoPostal','CA');

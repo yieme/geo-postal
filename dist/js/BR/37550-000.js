@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37550-000"]={"code":"37550-000","region":"Minas Gerais","city":"Pouso Alegre","latitude":-22.23,"longitude":-45.93639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301401"]={"code":"301401","region":"Tul'skaya oblast'","city":"Ageyevo","latitude":54.15883,"longitude":36.46927}}(window,'GeoPostal','RU');

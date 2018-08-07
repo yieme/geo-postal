@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81133"]={"code":"81133","region":"Colorado","city":"Fort Garland","latitude":37.42944,"longitude":-105.43528}}(window,'GeoPostal','US');

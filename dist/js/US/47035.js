@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47035"]={"code":"47035","region":"Indiana","city":"New Trenton","latitude":39.30942,"longitude":-84.90048}}(window,'GeoPostal','US');

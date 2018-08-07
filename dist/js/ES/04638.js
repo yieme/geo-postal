@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04638"]={"code":"04638","region":"Andalucia","city":"Mojacar","latitude":37.1402,"longitude":-1.85102}}(window,'GeoPostal','ES');

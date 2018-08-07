@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89641"]={"code":"89641","region":"Tamaulipas","city":"Cuauhtemoc","latitude":22.53333,"longitude":-98.15}}(window,'GeoPostal','MX');

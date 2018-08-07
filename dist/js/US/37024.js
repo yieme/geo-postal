@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37024"]={"code":"37024","region":"Tennessee","city":"Brentwood","latitude":36.03312,"longitude":-86.78278}}(window,'GeoPostal','US');

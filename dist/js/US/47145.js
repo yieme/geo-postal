@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47145"]={"code":"47145","region":"IN","city":"Milltown","latitude":38.3445,"longitude":-86.3003}}(window,'GeoPostal','US');

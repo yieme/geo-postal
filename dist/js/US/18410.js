@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18410"]={"code":"18410","region":"PA","city":"Chinchilla","latitude":41.4865,"longitude":-75.6933}}(window,'GeoPostal','US');

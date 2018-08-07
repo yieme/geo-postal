@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27100"]={"code":"27100","region":"Lombardia","city":"Pavia","latitude":45.18446,"longitude":9.16145}}(window,'GeoPostal','IT');

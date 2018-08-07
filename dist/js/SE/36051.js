@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36051"]={"code":"36051","region":"Kronobergs lan","city":"Hovmantorp","latitude":56.78527,"longitude":15.12654}}(window,'GeoPostal','SE');

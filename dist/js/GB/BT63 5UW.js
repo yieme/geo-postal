@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT63 5UW"]={"code":"BT63 5UW","region":"Northern Ireland","city":"Portadown","latitude":54.41344,"longitude":-6.44743}}(window,'GeoPostal','GB');

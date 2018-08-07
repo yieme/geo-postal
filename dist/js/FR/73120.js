@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73120"]={"code":"73120","region":"Auvergne-Rhone-Alpes","city":"Saint-Bon-Tarentaise","latitude":45.43373,"longitude":6.63686}}(window,'GeoPostal','FR');

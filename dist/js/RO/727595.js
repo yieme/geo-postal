@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727595"]={"code":"727595","region":"Suceava","city":"Vatra Moldovitei","latitude":47.65,"longitude":25.56667}}(window,'GeoPostal','RO');

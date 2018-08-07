@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23017"]={"code":"23017","region":"Lombardia","city":"Morbegno","latitude":46.13829,"longitude":9.57004}}(window,'GeoPostal','IT');

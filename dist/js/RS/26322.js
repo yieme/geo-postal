@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26322"]={"code":"26322","region":"Juznobanatski okrug","city":"Nikolinci","latitude":45.04944,"longitude":21.06722}}(window,'GeoPostal','RS');

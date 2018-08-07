@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25260"]={"code":"25260","region":"West Virginia","city":"Mason","latitude":39.018263,"longitude":-82.030398}}(window,'GeoPostal','US');

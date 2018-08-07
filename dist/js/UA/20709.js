@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20709"]={"code":"20709","region":"Cherkaska oblast","city":"Smila","latitude":49.22242,"longitude":31.88714}}(window,'GeoPostal','UA');

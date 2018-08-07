@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68155"]={"code":"68155","region":"Jawa Timur","city":"Kramat","latitude":-8.1311,"longitude":113.4499}}(window,'GeoPostal','ID');

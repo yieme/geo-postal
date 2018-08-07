@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73040"]={"code":"73040","region":"Puglia","city":"Melissano","latitude":39.97402,"longitude":18.12143}}(window,'GeoPostal','IT');

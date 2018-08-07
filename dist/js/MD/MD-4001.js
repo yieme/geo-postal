@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4001"]={"code":"MD-4001","region":"Stinga Nistrului, unitatea teritoriala din","city":"Grigoriopol","latitude":47.15361,"longitude":29.29639}}(window,'GeoPostal','MD');

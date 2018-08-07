@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04547"]={"code":"04547","region":"ME","city":"Friendship","latitude":43.9807,"longitude":-69.3349}}(window,'GeoPostal','US');

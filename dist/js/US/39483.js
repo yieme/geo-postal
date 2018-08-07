@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39483"]={"code":"39483","region":"Mississippi","city":"Foxworth","latitude":31.23833,"longitude":-89.86861}}(window,'GeoPostal','US');

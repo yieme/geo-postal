@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3550"]={"code":"3550","region":"Victoria","city":"Bendigo","latitude":-36.75818,"longitude":144.28024}}(window,'GeoPostal','AU');

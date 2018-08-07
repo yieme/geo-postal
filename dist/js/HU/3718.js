@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3718"]={"code":"3718","region":"Borsod-Abauj-Zemplen","city":"Megyaszo","latitude":48.18333,"longitude":21.05}}(window,'GeoPostal','HU');

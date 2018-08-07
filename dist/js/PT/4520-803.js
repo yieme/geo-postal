@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520-803"]={"code":"4520-803","region":"Aveiro","city":"Pardilho","latitude":40.79925,"longitude":-8.62598}}(window,'GeoPostal','PT');

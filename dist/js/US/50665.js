@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50665"]={"code":"50665","region":"IA","city":"Parkersburg","latitude":42.5714,"longitude":-92.7688}}(window,'GeoPostal','US');

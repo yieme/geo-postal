@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59929"]={"code":"59929","region":"Nordrhein-Westfalen","city":"Brilon","latitude":51.39462,"longitude":8.57146}}(window,'GeoPostal','DE');

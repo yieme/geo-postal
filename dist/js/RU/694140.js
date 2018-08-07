@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694140"]={"code":"694140","region":"Sakhalinskaya oblast'","city":"Makarov","latitude":48.63333,"longitude":142.8}}(window,'GeoPostal','RU');

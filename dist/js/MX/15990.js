@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15990"]={"code":"15990","region":"Ciudad de Mexico","city":"Alvaro Obregon","latitude":19.37333,"longitude":-99.225}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24601"]={"code":"24601","region":"Azad Jammu and Kashmir","city":"Muzaffarabad","latitude":34.37,"longitude":73.47111}}(window,'GeoPostal','PK');

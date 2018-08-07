@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 1Z0"]={"code":"J0Z 1Z0","region":"Quebec","city":"Fabre","latitude":47.20014,"longitude":-79.36636}}(window,'GeoPostal','CA');

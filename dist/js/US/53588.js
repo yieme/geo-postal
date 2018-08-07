@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53588"]={"code":"53588","region":"Wisconsin","city":"Spring Green","latitude":43.17527,"longitude":-90.0679}}(window,'GeoPostal','US');

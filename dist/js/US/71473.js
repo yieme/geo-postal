@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71473"]={"code":"71473","region":"LA","city":"Sikes","latitude":32.0686,"longitude":-92.4429}}(window,'GeoPostal','US');

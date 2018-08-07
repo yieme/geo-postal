@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 6002"]={"code":"AZ 6002","region":"Tovuz","city":"Tovuz","latitude":40.99222,"longitude":45.62889}}(window,'GeoPostal','AZ');

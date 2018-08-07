@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24469"]={"code":"24469","region":"Virginia","city":"New Hope","latitude":38.197778,"longitude":-78.906111}}(window,'GeoPostal','US');

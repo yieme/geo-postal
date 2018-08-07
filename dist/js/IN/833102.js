@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833102"]={"code":"833102","region":"Jharkhand","city":"Chakradharpur","latitude":22.7,"longitude":85.63333}}(window,'GeoPostal','IN');

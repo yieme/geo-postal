@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71272"]={"code":"71272","region":"Baden-Wurttemberg","city":"Renningen","latitude":48.76974,"longitude":8.93871}}(window,'GeoPostal','DE');

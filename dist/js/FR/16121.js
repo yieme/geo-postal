@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16121"]={"code":"16121","region":"Nouvelle-Aquitaine","city":"Cognac","latitude":45.7,"longitude":-0.33333}}(window,'GeoPostal','FR');

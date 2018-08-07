@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62695"]={"code":"62695","region":"Morelos","city":"Cuernavaca","latitude":18.91667,"longitude":-99.25}}(window,'GeoPostal','MX');

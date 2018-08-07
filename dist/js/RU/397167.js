@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397167"]={"code":"397167","region":"Voronezhskaya oblast'","city":"Borisoglebsk","latitude":51.36713,"longitude":42.08494}}(window,'GeoPostal','RU');

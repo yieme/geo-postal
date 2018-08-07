@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78060"]={"code":"78060","region":"Texas","city":"Three Rivers","latitude":28.46027,"longitude":-98.18251}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA7 7PQ"]={"code":"LA7 7PQ","region":"England","city":"Milnthorpe","latitude":54.21667,"longitude":-2.76667}}(window,'GeoPostal','GB');

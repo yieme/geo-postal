@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 7RG"]={"code":"LA12 7RG","region":"England","city":"Greenodd","latitude":54.23393,"longitude":-3.05474}}(window,'GeoPostal','GB');

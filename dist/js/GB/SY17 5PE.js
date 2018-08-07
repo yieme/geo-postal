@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY17 5PE"]={"code":"SY17 5PE","region":"Wales","city":"Trefeglwys","latitude":52.50352,"longitude":-3.5191}}(window,'GeoPostal','GB');

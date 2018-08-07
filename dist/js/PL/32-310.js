@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-310"]={"code":"32-310","region":"Malopolskie","city":"Klucze","latitude":50.33565,"longitude":19.56236}}(window,'GeoPostal','PL');

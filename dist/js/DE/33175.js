@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33175"]={"code":"33175","region":"Nordrhein-Westfalen","city":"Bad Lippspringe","latitude":51.78333,"longitude":8.81683}}(window,'GeoPostal','DE');

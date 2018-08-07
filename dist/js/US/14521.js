@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14521"]={"code":"14521","region":"NY","city":"Ovid","latitude":42.6898,"longitude":-76.7941}}(window,'GeoPostal','US');

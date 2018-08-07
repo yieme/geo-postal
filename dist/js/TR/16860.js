@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16860"]={"code":"16860","region":"Bursa","city":"Elbeyli","latitude":40.48611,"longitude":29.72472}}(window,'GeoPostal','TR');

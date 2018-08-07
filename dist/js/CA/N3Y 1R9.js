@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3Y 1R9"]={"code":"N3Y 1R9","region":"Ontario","city":"Simcoe","latitude":42.83594,"longitude":-80.304308}}(window,'GeoPostal','CA');

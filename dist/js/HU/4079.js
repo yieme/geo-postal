@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4079"]={"code":"4079","region":"Hajdu-Bihar","city":"Gorbehaza","latitude":47.83333,"longitude":21.23333}}(window,'GeoPostal','HU');

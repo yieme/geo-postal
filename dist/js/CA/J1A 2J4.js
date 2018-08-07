@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1A 2J4"]={"code":"J1A 2J4","region":"Quebec","city":"Coaticook","latitude":45.135426,"longitude":-71.802539}}(window,'GeoPostal','CA');

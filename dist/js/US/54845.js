@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54845"]={"code":"54845","region":"Wisconsin","city":"Hertel","latitude":45.806877,"longitude":-92.133199}}(window,'GeoPostal','US');

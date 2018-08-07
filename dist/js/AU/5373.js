@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5373"]={"code":"5373","region":"South Australia","city":"Allendale North","latitude":-34.3,"longitude":138.91667}}(window,'GeoPostal','AU');

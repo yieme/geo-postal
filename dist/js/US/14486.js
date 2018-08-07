@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14486"]={"code":"14486","region":"NY","city":"Linwood","latitude":42.8943,"longitude":-77.9216}}(window,'GeoPostal','US');

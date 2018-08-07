@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 7LD"]={"code":"PH2 7LD","region":"Scotland","city":"Kinfauns","latitude":56.38493,"longitude":-3.34727}}(window,'GeoPostal','GB');

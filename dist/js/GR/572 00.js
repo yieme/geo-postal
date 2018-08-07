@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572 00"]={"code":"572 00","region":"Kentriki Makedonia","city":"Lagkadas","latitude":40.75,"longitude":23.06667}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58626"]={"code":"58626","region":"ND","city":"Dunn Center","latitude":47.3536,"longitude":-102.6205}}(window,'GeoPostal','US');

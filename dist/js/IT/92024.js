@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92024"]={"code":"92024","region":"Sicilia","city":"Canicatti","latitude":37.35894,"longitude":13.85036}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06921"]={"code":"06921","region":"Provence-Alpes-Cote d'Azur","city":"Sophia Antipolis","latitude":43.622222,"longitude":7.05}}(window,'GeoPostal','FR');

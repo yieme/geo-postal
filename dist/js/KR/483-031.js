@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["483-031"]={"code":"483-031","region":"Gyeonggi-do","city":"Tongduch'on","latitude":37.916667,"longitude":127.066667}}(window,'GeoPostal','KR');

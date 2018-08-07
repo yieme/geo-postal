@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01583"]={"code":"01583","region":"Massachusetts","city":"West Boylston","latitude":42.358837,"longitude":-71.787101}}(window,'GeoPostal','US');

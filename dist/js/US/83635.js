@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83635"]={"code":"83635","region":"Idaho","city":"McCall","latitude":44.91101,"longitude":-116.09874}}(window,'GeoPostal','US');

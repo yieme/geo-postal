@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4563"]={"code":"4563","region":"Solothurn","city":"Gerlafingen","latitude":47.16978,"longitude":7.57505}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24972"]={"code":"24972","region":"Schleswig-Holstein","city":"Steinberg","latitude":54.76667,"longitude":9.78333}}(window,'GeoPostal','DE');

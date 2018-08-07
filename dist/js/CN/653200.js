@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["653200"]={"code":"653200","region":"Xinjiang","city":"Hotan","latitude":37.09972,"longitude":79.92694}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47982"]={"code":"47982","region":"Indiana","city":"State Line","latitude":40.197222,"longitude":-87.526944}}(window,'GeoPostal','US');

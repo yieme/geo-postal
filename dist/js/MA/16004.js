@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16004"]={"code":"16004","region":"Gharb-Chrarda-Beni Hssen","city":"Sidi Bousber","latitude":34.56284,"longitude":-5.36208}}(window,'GeoPostal','MA');

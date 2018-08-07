@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3800"]={"code":"3800","region":"Vidin","city":"Kula","latitude":43.88778,"longitude":22.52139}}(window,'GeoPostal','BG');

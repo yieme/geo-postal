@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3912"]={"code":"3912","region":"Qeqqata Kommunia","city":"Maniitsoq","latitude":65.41667,"longitude":-52.9}}(window,'GeoPostal','GL');

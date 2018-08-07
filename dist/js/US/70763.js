@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70763"]={"code":"70763","region":"Louisiana","city":"Grand Point","latitude":30.06131,"longitude":-90.75343}}(window,'GeoPostal','US');

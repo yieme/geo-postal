@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46342"]={"code":"46342","region":"Nordrhein-Westfalen","city":"Hochmoor","latitude":51.89767,"longitude":7.0356}}(window,'GeoPostal','DE');

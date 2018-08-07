@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 7EN"]={"code":"CB8 7EN","region":"England","city":"Exning","latitude":52.26642,"longitude":0.37439}}(window,'GeoPostal','GB');

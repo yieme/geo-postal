@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 05"]={"code":"664 05","region":"Jihomoravsky kraj","city":"Tvarozna","latitude":49.19177,"longitude":16.77146}}(window,'GeoPostal','CZ');

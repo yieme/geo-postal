@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14818"]={"code":"14818","region":"NY","city":"Burdett","latitude":42.4394,"longitude":-76.8292}}(window,'GeoPostal','US');

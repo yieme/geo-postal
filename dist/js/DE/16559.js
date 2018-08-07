@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16559"]={"code":"16559","region":"Brandenburg","city":"Kreuzbruch","latitude":52.84037,"longitude":13.42246}}(window,'GeoPostal','DE');

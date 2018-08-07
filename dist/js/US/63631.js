@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63631"]={"code":"63631","region":"Missouri","city":"Caledonia","latitude":37.774325,"longitude":-90.801532}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27922"]={"code":"27922","region":"North Carolina","city":"Cofield","latitude":36.31841,"longitude":-76.859031}}(window,'GeoPostal','US');

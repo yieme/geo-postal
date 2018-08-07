@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62300-000"]={"code":"62300-000","region":"Ceara","city":"Vicosa do Ceara","latitude":-3.56222,"longitude":-41.09222}}(window,'GeoPostal','BR');

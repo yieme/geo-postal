@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 1A0"]={"code":"T0B 1A0","region":"Alberta","city":"Daysland","latitude":52.86684,"longitude":-112.25184}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36313"]={"code":"36313","region":"AL","city":"Bellwood","latitude":31.1732,"longitude":-85.7933}}(window,'GeoPostal','US');

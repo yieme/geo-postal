@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR10 4LG"]={"code":"NR10 4LG","region":"England","city":"Reepham","latitude":52.7632,"longitude":1.11099}}(window,'GeoPostal','GB');

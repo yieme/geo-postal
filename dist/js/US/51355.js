@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51355"]={"code":"51355","region":"Iowa","city":"Okoboji","latitude":43.379491,"longitude":-95.163034}}(window,'GeoPostal','US');

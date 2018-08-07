@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32350"]={"code":"32350","region":"Occitanie","city":"Ordan-Larroque","latitude":43.6883,"longitude":0.4617}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV20 1XN"]={"code":"IV20 1XN","region":"Scotland","city":"Easter Rarichie","latitude":57.75,"longitude":-3.93333}}(window,'GeoPostal','GB');

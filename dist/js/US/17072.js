@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17072"]={"code":"17072","region":"PA","city":"New Kingstown","latitude":40.2306,"longitude":-77.0794}}(window,'GeoPostal','US');

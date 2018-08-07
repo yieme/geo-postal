@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30622"]={"code":"30622","region":"Georgia","city":"Bogart","latitude":33.91868,"longitude":-83.526979}}(window,'GeoPostal','US');

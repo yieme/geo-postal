@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72012"]={"code":"72012","region":"AR","city":"Beebe","latitude":35.0937,"longitude":-91.9074}}(window,'GeoPostal','US');

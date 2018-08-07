@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["920282"]={"code":"920282","region":"Niger","city":"Minna","latitude":9.61389,"longitude":6.55694}}(window,'GeoPostal','NG');

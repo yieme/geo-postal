@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["016-0835"]={"code":"016-0835","region":"Akita","city":"Noshiro","latitude":40.212139,"longitude":140.026611}}(window,'GeoPostal','JP');

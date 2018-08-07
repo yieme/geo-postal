@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1440"]={"code":"1440","region":"Akershus","city":"Drobak","latitude":59.66333,"longitude":10.62975}}(window,'GeoPostal','NO');

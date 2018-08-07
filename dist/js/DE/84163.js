@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84163"]={"code":"84163","region":"Bayern","city":"Wunder","latitude":48.5836,"longitude":12.57624}}(window,'GeoPostal','DE');

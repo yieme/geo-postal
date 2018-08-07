@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1X0"]={"code":"N0M 1X0","region":"Ontario","city":"Hensall","latitude":43.43339,"longitude":-81.49976}}(window,'GeoPostal','CA');

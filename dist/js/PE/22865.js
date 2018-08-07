@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22865"]={"code":"22865","region":"San Martin","city":"Rioja","latitude":-6.05861,"longitude":-77.165}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46526"]={"code":"46526","region":"Indiana","city":"Goshen","latitude":41.58227,"longitude":-85.83444}}(window,'GeoPostal','US');

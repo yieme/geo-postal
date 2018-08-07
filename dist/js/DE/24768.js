@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24768"]={"code":"24768","region":"Schleswig-Holstein","city":"Rendsburg","latitude":54.30663,"longitude":9.66313}}(window,'GeoPostal','DE');

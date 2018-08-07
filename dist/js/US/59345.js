@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59345"]={"code":"59345","region":"MT","city":"Powderville","latitude":45.7589,"longitude":-105.1153}}(window,'GeoPostal','US');

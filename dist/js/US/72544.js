@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72544"]={"code":"72544","region":"Arkansas","city":"Henderson","latitude":36.38056,"longitude":-92.22778}}(window,'GeoPostal','US');

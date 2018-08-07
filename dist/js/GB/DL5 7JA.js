@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL5 7JA"]={"code":"DL5 7JA","region":"England","city":"Middridge","latitude":54.63061,"longitude":-1.61332}}(window,'GeoPostal','GB');

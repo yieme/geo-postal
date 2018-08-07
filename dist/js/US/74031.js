@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74031"]={"code":"74031","region":"OK","city":"Foyil","latitude":36.4348,"longitude":-95.5194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92075"]={"code":"92075","region":"California","city":"Solana Beach","latitude":32.996206,"longitude":-117.2544}}(window,'GeoPostal','US');

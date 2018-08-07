@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09432"]={"code":"09432","region":"Sachsen","city":"Heinzebank","latitude":50.68175,"longitude":13.12367}}(window,'GeoPostal','DE');

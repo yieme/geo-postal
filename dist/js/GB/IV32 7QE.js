@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV32 7QE"]={"code":"IV32 7QE","region":"Scotland","city":"Fochabers","latitude":57.61362,"longitude":-3.09565}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99736"]={"code":"99736","region":"AK","city":"Deering","latitude":66.0737,"longitude":-162.714}}(window,'GeoPostal','US');

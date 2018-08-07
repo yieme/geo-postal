@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607189"]={"code":"607189","region":"Nizhegorodskaya oblast'","city":"Sarov","latitude":54.93583,"longitude":43.32352}}(window,'GeoPostal','RU');

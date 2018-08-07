@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L6M 3B9"]={"code":"L6M 3B9","region":"Ontario","city":"Oakville","latitude":43.447931,"longitude":-79.708626}}(window,'GeoPostal','CA');

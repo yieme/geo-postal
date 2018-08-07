@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679308"]={"code":"679308","region":"Kerala","city":"Ottappalam","latitude":10.76667,"longitude":76.38333}}(window,'GeoPostal','IN');

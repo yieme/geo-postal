@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0K 1K0"]={"code":"B0K 1K0","region":"Nova Scotia","city":"Carrington","latitude":45.83345,"longitude":-63.76541}}(window,'GeoPostal','CA');

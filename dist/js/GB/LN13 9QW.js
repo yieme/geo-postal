@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 9QW"]={"code":"LN13 9QW","region":"England","city":"Hannah","latitude":53.28333,"longitude":0.25}}(window,'GeoPostal','GB');

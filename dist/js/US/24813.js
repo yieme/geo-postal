@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24813"]={"code":"24813","region":"WV","city":"Bartley","latitude":37.3407,"longitude":-81.7376}}(window,'GeoPostal','US');

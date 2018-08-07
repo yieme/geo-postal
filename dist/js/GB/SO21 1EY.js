@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 1EY"]={"code":"SO21 1EY","region":"England","city":"Martyr Worthy","latitude":51.09328,"longitude":-1.26456}}(window,'GeoPostal','GB');

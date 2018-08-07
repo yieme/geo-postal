@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS6 2UE"]={"code":"LS6 2UE","region":"England","city":"Headingley","latitude":53.82205,"longitude":-1.5782}}(window,'GeoPostal','GB');

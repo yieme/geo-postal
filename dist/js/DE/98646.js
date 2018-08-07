@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98646"]={"code":"98646","region":"Thuringen","city":"Leimrieth","latitude":50.41177,"longitude":10.68289}}(window,'GeoPostal','DE');

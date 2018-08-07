@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68450"]={"code":"68450","region":"Oaxaca","city":"San Pedro Ixcatlan","latitude":18.15,"longitude":-96.5}}(window,'GeoPostal','MX');

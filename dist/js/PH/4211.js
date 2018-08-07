@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4211"]={"code":"4211","region":"Batangas","city":"Subic","latitude":13.94859,"longitude":120.94013}}(window,'GeoPostal','PH');

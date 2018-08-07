@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11715"]={"code":"11715","region":"New York","city":"Blue Point","latitude":40.74399,"longitude":-73.03455}}(window,'GeoPostal','US');

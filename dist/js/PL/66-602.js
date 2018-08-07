@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-602"]={"code":"66-602","region":"Lubuskie","city":"Krosno Odrzanskie","latitude":52.05492,"longitude":15.09882}}(window,'GeoPostal','PL');

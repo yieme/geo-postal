@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54836"]={"code":"54836","region":"WI","city":"Foxboro","latitude":46.4875,"longitude":-92.1493}}(window,'GeoPostal','US');

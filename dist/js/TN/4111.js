@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4111"]={"code":"4111","region":"Medenine","city":"Bani Khaddash","latitude":33.2528,"longitude":10.19883}}(window,'GeoPostal','TN');

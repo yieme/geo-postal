@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74238"]={"code":"74238","region":"Baden-Wurttemberg","city":"Neunstetten","latitude":49.4125,"longitude":9.61214}}(window,'GeoPostal','DE');

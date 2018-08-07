@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2371"]={"code":"2371","region":"Niederosterreich","city":"Hinterbruehl","latitude":48.08611,"longitude":16.24809}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07423"]={"code":"07423","region":"Kyivska oblast","city":"Semypolky","latitude":50.72627,"longitude":30.93441}}(window,'GeoPostal','UA');

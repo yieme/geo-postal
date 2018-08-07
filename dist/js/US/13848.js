@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13848"]={"code":"13848","region":"NY","city":"Tunnel","latitude":42.2147,"longitude":-75.7277}}(window,'GeoPostal','US');

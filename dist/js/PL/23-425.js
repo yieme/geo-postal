@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-425"]={"code":"23-425","region":"Lubelskie","city":"Biszcza","latitude":50.40146,"longitude":22.65063}}(window,'GeoPostal','PL');

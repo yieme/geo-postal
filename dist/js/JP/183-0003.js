@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["183-0003"]={"code":"183-0003","region":"Tokyo","city":"Fuchu","latitude":35.668972,"longitude":139.477661}}(window,'GeoPostal','JP');

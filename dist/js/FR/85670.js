@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85670"]={"code":"85670","region":"Pays-de-la-Loire","city":"Saint-Christophe-du-Ligneron","latitude":46.82478,"longitude":-1.76586}}(window,'GeoPostal','FR');

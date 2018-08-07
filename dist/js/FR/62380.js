@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62380"]={"code":"62380","region":"Hauts-de-France","city":"Esquerdes","latitude":50.70414,"longitude":2.18851}}(window,'GeoPostal','FR');

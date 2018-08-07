@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84409"]={"code":"84409","region":"Utah","city":"Riverdale","latitude":41.19082,"longitude":-111.94805}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143416"]={"code":"143416","region":"Punjab","city":"Patti","latitude":31.28083,"longitude":74.85722}}(window,'GeoPostal','IN');

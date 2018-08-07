@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 1T0"]={"code":"V0R 1T0","region":"British Columbia","city":"Denman Island","latitude":49.53294,"longitude":-124.8195}}(window,'GeoPostal','CA');

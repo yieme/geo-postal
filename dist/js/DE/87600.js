@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87600"]={"code":"87600","region":"Bayern","city":"Kaufbeuren","latitude":47.88238,"longitude":10.62192}}(window,'GeoPostal','DE');

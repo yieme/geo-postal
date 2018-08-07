@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46667"]={"code":"46667","region":"Valenciana, Comunidad","city":"Barxeta","latitude":39.01667,"longitude":-0.41667}}(window,'GeoPostal','ES');

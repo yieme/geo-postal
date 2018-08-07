@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA19 9SD"]={"code":"TA19 9SD","region":"England","city":"Broadway","latitude":50.93333,"longitude":-2.96667}}(window,'GeoPostal','GB');

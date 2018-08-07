@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24203"]={"code":"24203","region":"VA","city":"Bristol","latitude":36.5965,"longitude":-82.1885}}(window,'GeoPostal','US');

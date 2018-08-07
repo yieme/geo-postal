@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30220"]={"code":"30220","region":"Nakhon Ratchasima","city":"Phra Thong Kham","latitude":15.26686,"longitude":102.02024}}(window,'GeoPostal','TH');

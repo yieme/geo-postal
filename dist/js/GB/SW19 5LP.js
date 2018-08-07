@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW19 5LP"]={"code":"SW19 5LP","region":"England","city":"Wimbledon","latitude":51.42212,"longitude":-0.20805}}(window,'GeoPostal','GB');

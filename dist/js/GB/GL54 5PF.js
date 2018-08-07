@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL54 5PF"]={"code":"GL54 5PF","region":"England","city":"Stanway","latitude":51.98333,"longitude":-1.91667}}(window,'GeoPostal','GB');

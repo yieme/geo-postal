@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11747"]={"code":"11747","region":"New York","city":"Melville","latitude":40.803692,"longitude":-73.402157}}(window,'GeoPostal','US');

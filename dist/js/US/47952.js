@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47952"]={"code":"47952","region":"IN","city":"Kingman","latitude":40.0174,"longitude":-87.2569}}(window,'GeoPostal','US');

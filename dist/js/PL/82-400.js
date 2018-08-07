@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-400"]={"code":"82-400","region":"Pomorskie","city":"Sztum","latitude":53.92077,"longitude":19.03072}}(window,'GeoPostal','PL');

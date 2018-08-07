@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174301"]={"code":"174301","region":"Himachal Pradesh","city":"Santokhgarh","latitude":31.36667,"longitude":76.31667}}(window,'GeoPostal','IN');

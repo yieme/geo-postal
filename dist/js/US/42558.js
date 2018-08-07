@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42558"]={"code":"42558","region":"KY","city":"Tateville","latitude":36.9492,"longitude":-84.5815}}(window,'GeoPostal','US');

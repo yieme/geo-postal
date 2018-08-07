@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9214"]={"code":"9214","region":"Lanao del Norte","city":"Kapatagan","latitude":7.9003,"longitude":123.7692}}(window,'GeoPostal','PH');

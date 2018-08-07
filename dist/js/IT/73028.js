@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73028"]={"code":"73028","region":"Puglia","city":"Otranto","latitude":40.14782,"longitude":18.48593}}(window,'GeoPostal','IT');

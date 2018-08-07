@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15620"]={"code":"15620","region":"PA","city":"Bradenville","latitude":40.3238,"longitude":-79.3434}}(window,'GeoPostal','US');

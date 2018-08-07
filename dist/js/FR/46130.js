@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46130"]={"code":"46130","region":"Occitanie","city":"Biars-sur-Cere","latitude":44.92629,"longitude":1.85403}}(window,'GeoPostal','FR');

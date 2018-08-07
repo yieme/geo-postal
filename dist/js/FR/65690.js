@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65690"]={"code":"65690","region":"Occitanie","city":"Barbazan-Debat","latitude":43.1958,"longitude":0.1206}}(window,'GeoPostal','FR');

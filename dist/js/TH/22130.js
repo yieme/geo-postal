@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22130"]={"code":"22130","region":"Chanthaburi","city":"Laem Sing","latitude":12.48164,"longitude":102.07375}}(window,'GeoPostal','TH');

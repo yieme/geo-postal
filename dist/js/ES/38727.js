@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38727"]={"code":"38727","region":"Canarias","city":"Barlovento","latitude":28.82708,"longitude":-17.80377}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0C 1H0"]={"code":"B0C 1H0","region":"Nova Scotia","city":"West Tarbot","latitude":46.35014,"longitude":-60.59847}}(window,'GeoPostal','CA');

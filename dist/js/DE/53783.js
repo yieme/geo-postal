@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53783"]={"code":"53783","region":"Nordrhein-Westfalen","city":"Eitorf","latitude":50.76667,"longitude":7.45}}(window,'GeoPostal','DE');

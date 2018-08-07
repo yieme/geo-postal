@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS14 0JE"]={"code":"WS14 0JE","region":"England","city":"Shenstone","latitude":52.63333,"longitude":-1.83333}}(window,'GeoPostal','GB');

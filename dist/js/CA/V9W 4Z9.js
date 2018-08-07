@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9W 4Z9"]={"code":"V9W 4Z9","region":"British Columbia","city":"Bloedel","latitude":50.11635,"longitude":-125.3862}}(window,'GeoPostal','CA');

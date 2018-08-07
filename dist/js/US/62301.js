@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62301"]={"code":"62301","region":"Illinois","city":"Quincy","latitude":39.9356,"longitude":-91.40987}}(window,'GeoPostal','US');

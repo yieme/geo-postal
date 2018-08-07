@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-400"]={"code":"78-400","region":"Zachodniopomorskie","city":"Szczecinek","latitude":53.70791,"longitude":16.69937}}(window,'GeoPostal','PL');

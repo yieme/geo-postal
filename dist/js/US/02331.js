@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02331"]={"code":"02331","region":"Massachusetts","city":"Duxbury","latitude":42.032784,"longitude":-70.692775}}(window,'GeoPostal','US');

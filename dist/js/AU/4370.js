@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4370"]={"code":"4370","region":"Queensland","city":"Warwick","latitude":-28.21901,"longitude":152.03438}}(window,'GeoPostal','AU');

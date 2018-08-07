@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51182"]={"code":"51182","region":"Vastra Gotalands lan","city":"Kinna","latitude":57.50728,"longitude":12.69463}}(window,'GeoPostal','SE');

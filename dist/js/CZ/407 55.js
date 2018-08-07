@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 55"]={"code":"407 55","region":"Ustecky kraj","city":"Dolni Podluzi","latitude":50.87988,"longitude":14.59503}}(window,'GeoPostal','CZ');

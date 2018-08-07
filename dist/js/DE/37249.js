@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37249"]={"code":"37249","region":"Hessen","city":"Hebenshausen","latitude":51.38978,"longitude":9.91327}}(window,'GeoPostal','DE');

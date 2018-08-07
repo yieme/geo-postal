@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19423"]={"code":"19423","region":"PA","city":"Cedars","latitude":40.2174,"longitude":-75.365}}(window,'GeoPostal','US');

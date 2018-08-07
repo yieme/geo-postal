@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08846"]={"code":"08846","region":"New Jersey","city":"Middlesex","latitude":40.575315,"longitude":-74.500345}}(window,'GeoPostal','US');

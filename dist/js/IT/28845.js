@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28845"]={"code":"28845","region":"Piemonte","city":"Domodossola","latitude":46.1165,"longitude":8.29313}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52420"]={"code":"52420","region":"Adiyaman","city":"Adiyaman","latitude":37.76441,"longitude":38.27629}}(window,'GeoPostal','TR');

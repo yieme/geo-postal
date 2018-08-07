@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7349"]={"code":"7349","region":"Baranya","city":"Szaszvar","latitude":46.27673,"longitude":18.37566}}(window,'GeoPostal','HU');

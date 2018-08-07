@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58031"]={"code":"58031","region":"ND","city":"Fingal","latitude":46.7728,"longitude":-97.7812}}(window,'GeoPostal','US');

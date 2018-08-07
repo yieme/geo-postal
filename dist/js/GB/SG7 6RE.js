@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG7 6RE"]={"code":"SG7 6RE","region":"England","city":"Clothall","latitude":51.9709,"longitude":-0.15007}}(window,'GeoPostal','GB');

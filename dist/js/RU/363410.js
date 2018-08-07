@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363410"]={"code":"363410","region":"Severnaya Osetiya, Respublika","city":"Digora","latitude":43.15806,"longitude":44.15694}}(window,'GeoPostal','RU');

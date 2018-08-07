@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60472"]={"code":"60472","region":"IL","city":"Robbins","latitude":41.6423,"longitude":-87.7089}}(window,'GeoPostal','US');

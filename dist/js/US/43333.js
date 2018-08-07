@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43333"]={"code":"43333","region":"OH","city":"Lewistown","latitude":40.4277,"longitude":-83.9209}}(window,'GeoPostal','US');

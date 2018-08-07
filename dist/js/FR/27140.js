@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27140"]={"code":"27140","region":"Normandie","city":"Gisors","latitude":49.28178,"longitude":1.7801}}(window,'GeoPostal','FR');

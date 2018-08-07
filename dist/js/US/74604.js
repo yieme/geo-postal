@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74604"]={"code":"74604","region":"OK","city":"Ponca City","latitude":36.7299,"longitude":-97.0454}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 1C0"]={"code":"T0J 1C0","region":"Alberta","city":"Eagle Butte","latitude":49.60005,"longitude":-110.4349}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72569"]={"code":"72569","region":"Arkansas","city":"Poughkeepsie","latitude":36.082407,"longitude":-91.434514}}(window,'GeoPostal','US');

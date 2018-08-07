@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH43 6AU"]={"code":"EH43 6AU","region":"Scotland","city":"Walkerburn","latitude":55.62328,"longitude":-3.01468}}(window,'GeoPostal','GB');

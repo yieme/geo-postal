@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-541"]={"code":"62-541","region":"Wielkopolskie","city":"Kleczew","latitude":52.37057,"longitude":18.17714}}(window,'GeoPostal','PL');

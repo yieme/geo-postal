@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83045"]={"code":"83045","region":"Campania","city":"Calitri","latitude":40.90212,"longitude":15.43056}}(window,'GeoPostal','IT');

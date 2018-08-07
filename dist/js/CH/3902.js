@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3902"]={"code":"3902","region":"Valais","city":"Brig","latitude":46.31667,"longitude":7.98333}}(window,'GeoPostal','CH');

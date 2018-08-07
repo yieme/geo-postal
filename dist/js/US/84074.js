@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84074"]={"code":"84074","region":"Utah","city":"Tooele","latitude":40.53078,"longitude":-112.29828}}(window,'GeoPostal','US');

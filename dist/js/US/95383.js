@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95383"]={"code":"95383","region":"California","city":"Twain Harte","latitude":38.03965,"longitude":-120.23269}}(window,'GeoPostal','US');

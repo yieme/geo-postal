@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7210"]={"code":"7210","region":"Burgenland","city":"Mattersburg","latitude":47.73333,"longitude":16.4}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71941"]={"code":"71941","region":"AR","city":"Donaldson","latitude":34.2212,"longitude":-92.9094}}(window,'GeoPostal','US');

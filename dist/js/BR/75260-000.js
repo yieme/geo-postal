@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75260-000"]={"code":"75260-000","region":"Goias","city":"Vianopolis","latitude":-16.74194,"longitude":-48.51639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91781"]={"code":"91781","region":"Ile-de-France","city":"Wissous","latitude":48.73352,"longitude":2.32338}}(window,'GeoPostal','FR');

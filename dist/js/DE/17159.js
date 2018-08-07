@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17159"]={"code":"17159","region":"Mecklenburg-Vorpommern","city":"Dargun","latitude":53.9009,"longitude":12.85014}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35550"]={"code":"35550","region":"Bretagne","city":"Saint-Just","latitude":47.76581,"longitude":-1.96096}}(window,'GeoPostal','FR');

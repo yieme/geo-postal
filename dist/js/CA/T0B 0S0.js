@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0S0"]={"code":"T0B 0S0","region":"Alberta","city":"Bruderheim","latitude":53.78345,"longitude":-112.93527}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 0SP"]={"code":"BA12 0SP","region":"England","city":"Codford","latitude":51.15,"longitude":-2.05}}(window,'GeoPostal','GB');

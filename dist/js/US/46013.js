@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46013"]={"code":"46013","region":"Indiana","city":"Anderson","latitude":40.0564,"longitude":-85.6781}}(window,'GeoPostal','US');

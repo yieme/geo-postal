@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44485"]={"code":"44485","region":"OH","city":"Warren","latitude":41.2405,"longitude":-80.8441}}(window,'GeoPostal','US');

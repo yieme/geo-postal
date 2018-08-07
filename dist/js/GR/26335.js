@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26335"]={"code":"26335","region":"Dytiki Ellada","city":"Patrai","latitude":38.24444,"longitude":21.73444}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6345"]={"code":"6345","region":"Tirol","city":"Kossen","latitude":47.6699,"longitude":12.40545}}(window,'GeoPostal','AT');

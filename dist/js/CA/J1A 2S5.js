@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1A 2S5"]={"code":"J1A 2S5","region":"Quebec","city":"Barnston-Ouest","latitude":45.10009,"longitude":-71.96578}}(window,'GeoPostal','CA');

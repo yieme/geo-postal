@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-010"]={"code":"11-010","region":"Warminsko-mazurskie","city":"Barczewo","latitude":53.83055,"longitude":20.69112}}(window,'GeoPostal','PL');

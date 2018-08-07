@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74825"]={"code":"74825","region":"OK","city":"Allen","latitude":34.8691,"longitude":-96.4151}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS24 0DR"]={"code":"BS24 0DR","region":"England","city":"Lympsham","latitude":51.28389,"longitude":-2.95417}}(window,'GeoPostal','GB');

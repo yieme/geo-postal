@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27409"]={"code":"27409","region":"Kirovohradska oblast","city":"Znomenka","latitude":48.71278,"longitude":32.66472}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-107"]={"code":"14-107","region":"Warminsko-mazurskie","city":"Gierzwald","latitude":53.54128,"longitude":20.08867}}(window,'GeoPostal','PL');

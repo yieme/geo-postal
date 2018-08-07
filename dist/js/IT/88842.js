@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88842"]={"code":"88842","region":"Calabria","city":"Cutro","latitude":39.03529,"longitude":16.98191}}(window,'GeoPostal','IT');

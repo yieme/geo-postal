@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06150"]={"code":"06150","region":"Cajamarca","city":"Cajamarca","latitude":-7.16378,"longitude":-78.50027}}(window,'GeoPostal','PE');

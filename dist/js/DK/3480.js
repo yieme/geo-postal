@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3480"]={"code":"3480","region":"Hovedstaden","city":"Fredensborg","latitude":55.97558,"longitude":12.40314}}(window,'GeoPostal','DK');

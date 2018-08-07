@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56467"]={"code":"56467","region":"Minnesota","city":"Nevis","latitude":46.96417,"longitude":-94.84444}}(window,'GeoPostal','US');

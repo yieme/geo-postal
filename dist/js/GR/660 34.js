@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660 34"]={"code":"660 34","region":"Anatoliki Makedonia kai Thraki","city":"Sitagroi","latitude":41.11667,"longitude":24.03333}}(window,'GeoPostal','GR');

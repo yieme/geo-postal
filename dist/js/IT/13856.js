@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13856"]={"code":"13856","region":"Piemonte","city":"Biella","latitude":45.55986,"longitude":8.05002}}(window,'GeoPostal','IT');

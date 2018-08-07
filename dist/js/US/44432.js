@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44432"]={"code":"44432","region":"OH","city":"Lisbon","latitude":40.7592,"longitude":-80.7587}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69115"]={"code":"69115","region":"Baden-Wurttemberg","city":"Heidelberg","latitude":48.31667,"longitude":8.91667}}(window,'GeoPostal','DE');

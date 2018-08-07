@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24040"]={"code":"24040","region":"Khyber Pakhtunkhwa","city":"Akora","latitude":34.00361,"longitude":72.12611}}(window,'GeoPostal','PK');

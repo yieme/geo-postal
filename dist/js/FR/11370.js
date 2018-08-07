@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11370"]={"code":"11370","region":"Occitanie","city":"Leucate","latitude":42.91056,"longitude":3.02944}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46120"]={"code":"46120","region":"Indiana","city":"Cloverdale","latitude":39.51282,"longitude":-86.81922}}(window,'GeoPostal','US');

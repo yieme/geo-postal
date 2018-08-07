@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91110"]={"code":"91110","region":"Satun","city":"La-ngu","latitude":6.88492,"longitude":99.78836}}(window,'GeoPostal','TH');

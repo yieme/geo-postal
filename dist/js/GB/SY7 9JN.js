@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 9JN"]={"code":"SY7 9JN","region":"England","city":"Diddlebury","latitude":52.46583,"longitude":-2.73249}}(window,'GeoPostal','GB');

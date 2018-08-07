@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6040"]={"code":"6040","region":"Syddanmark","city":"Egtved","latitude":55.61796,"longitude":9.30102}}(window,'GeoPostal','DK');

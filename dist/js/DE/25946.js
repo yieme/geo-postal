@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25946"]={"code":"25946","region":"Schleswig-Holstein","city":"Nebel","latitude":54.65085,"longitude":8.35373}}(window,'GeoPostal','DE');

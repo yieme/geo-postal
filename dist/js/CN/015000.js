@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["015000"]={"code":"015000","region":"Nei Mongol","city":"Linhe","latitude":40.853889,"longitude":107.427778}}(window,'GeoPostal','CN');

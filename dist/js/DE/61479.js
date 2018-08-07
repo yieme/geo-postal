@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61479"]={"code":"61479","region":"Hessen","city":"Glashutten","latitude":50.21667,"longitude":8.4}}(window,'GeoPostal','DE');

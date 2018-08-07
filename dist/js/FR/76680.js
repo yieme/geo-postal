@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76680"]={"code":"76680","region":"Normandie","city":"Orival","latitude":49.72429,"longitude":1.20512}}(window,'GeoPostal','FR');

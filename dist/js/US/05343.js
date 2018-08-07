@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05343"]={"code":"05343","region":"Vermont","city":"Jamaica","latitude":43.10306,"longitude":-72.7925}}(window,'GeoPostal','US');

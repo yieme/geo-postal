@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60992"]={"code":"60992","region":"Michoacan de Ocampo","city":"Las Guacamayas","latitude":18.01667,"longitude":-102.21667}}(window,'GeoPostal','MX');

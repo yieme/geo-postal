@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76574"]={"code":"76574","region":"Texas","city":"Taylor","latitude":30.57076,"longitude":-97.40944}}(window,'GeoPostal','US');

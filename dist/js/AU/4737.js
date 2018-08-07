@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4737"]={"code":"4737","region":"Queensland","city":"Shinfield","latitude":-21.48333,"longitude":149.15}}(window,'GeoPostal','AU');

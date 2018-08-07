@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332627"]={"code":"332627","region":"Jiangxi","city":"Wangdun","latitude":29.33752,"longitude":116.26293}}(window,'GeoPostal','CN');

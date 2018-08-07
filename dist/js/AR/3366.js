@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3366"]={"code":"3366","region":"Misiones","city":"Bernardo de Irigoyen","latitude":-26.2552,"longitude":-53.64581}}(window,'GeoPostal','AR');

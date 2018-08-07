@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0C 1G0"]={"code":"J0C 1G0","region":"Quebec","city":"Saint-Celestin","latitude":46.21676,"longitude":-72.43241}}(window,'GeoPostal','CA');

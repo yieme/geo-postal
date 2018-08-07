@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0L 1E0"]={"code":"A0L 1E0","region":"Newfoundland and Labrador","city":"Humber Arm South","latitude":49.01671,"longitude":-58.14841}}(window,'GeoPostal','CA');

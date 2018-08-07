@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58456"]={"code":"58456","region":"ND","city":"Kulm","latitude":46.3073,"longitude":-98.9427}}(window,'GeoPostal','US');

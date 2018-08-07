@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65050"]={"code":"65050","region":"Missouri","city":"Latham","latitude":38.549371,"longitude":-92.648446}}(window,'GeoPostal','US');

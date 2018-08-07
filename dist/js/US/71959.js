@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71959"]={"code":"71959","region":"Arkansas","city":"Newhope","latitude":34.220612,"longitude":-93.853441}}(window,'GeoPostal','US');

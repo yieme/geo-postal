@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8780"]={"code":"8780","region":"Northern Cape","city":"De Aar","latitude":-30.64966,"longitude":24.0123}}(window,'GeoPostal','ZA');

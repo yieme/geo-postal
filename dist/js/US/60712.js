@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60712"]={"code":"60712","region":"Illinois","city":"Lincolnwood","latitude":42.00598,"longitude":-87.73612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83210"]={"code":"83210","region":"Provence-Alpes-Cote d'Azur","city":"Sollies-Pont","latitude":43.18978,"longitude":6.0432}}(window,'GeoPostal','FR');

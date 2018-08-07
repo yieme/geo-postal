@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01834"]={"code":"01834","region":"Massachusetts","city":"Groveland","latitude":42.76037,"longitude":-71.03145}}(window,'GeoPostal','US');

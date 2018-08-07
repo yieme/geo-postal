@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12200-000"]={"code":"12200-000","region":"Sao Paulo","city":"Sao Jose dos Campos","latitude":-23.17944,"longitude":-45.88694}}(window,'GeoPostal','BR');

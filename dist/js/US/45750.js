@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45750"]={"code":"45750","region":"Ohio","city":"Marietta","latitude":39.473611,"longitude":-81.479167}}(window,'GeoPostal','US');

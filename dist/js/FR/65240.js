@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65240"]={"code":"65240","region":"Occitanie","city":"Arreau","latitude":42.9061,"longitude":0.3597}}(window,'GeoPostal','FR');

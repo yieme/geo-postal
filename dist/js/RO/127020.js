@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127020"]={"code":"127020","region":"Buzau","city":"Balaceanu","latitude":45.26667,"longitude":27.15}}(window,'GeoPostal','RO');

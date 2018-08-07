@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0M 1T0"]={"code":"P0M 1T0","region":"Ontario","city":"Foleyet","latitude":48.24194,"longitude":-82.44733}}(window,'GeoPostal','CA');

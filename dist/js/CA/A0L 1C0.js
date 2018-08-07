@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0L 1C0"]={"code":"A0L 1C0","region":"Newfoundland and Labrador","city":"McIver's","latitude":49.08332,"longitude":-58.13171}}(window,'GeoPostal','CA');

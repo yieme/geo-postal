@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2823"]={"code":"2823","region":"Entre Rios","city":"Ceibas","latitude":-33.43333,"longitude":-58.75}}(window,'GeoPostal','AR');

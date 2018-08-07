@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53021"]={"code":"53021","region":"WI","city":"Fredonia","latitude":43.477,"longitude":-87.9612}}(window,'GeoPostal','US');

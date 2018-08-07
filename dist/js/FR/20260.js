@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20260"]={"code":"20260","region":"Corse","city":"Lumio","latitude":42.5759,"longitude":8.8355}}(window,'GeoPostal','FR');

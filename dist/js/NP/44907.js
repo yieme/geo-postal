@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44907"]={"code":"44907","region":"Gandaki","city":"Pokhara","latitude":28.26689,"longitude":83.96851}}(window,'GeoPostal','NP');

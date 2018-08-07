@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577528"]={"code":"577528","region":"Karnataka","city":"Kotturu","latitude":14.81667,"longitude":76.21667}}(window,'GeoPostal','IN');

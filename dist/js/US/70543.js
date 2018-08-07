@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70543"]={"code":"70543","region":"Louisiana","city":"Iota","latitude":30.33131,"longitude":-92.49569}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69670-000"]={"code":"69670-000","region":"Amazonas","city":"Fonte Boa","latitude":-2.51389,"longitude":-66.09167}}(window,'GeoPostal','BR');

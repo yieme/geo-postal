@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74043"]={"code":"74043","region":"Oklahoma","city":"Leonard","latitude":35.944556,"longitude":-95.786092}}(window,'GeoPostal','US');

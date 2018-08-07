@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03901"]={"code":"03901","region":"Maine","city":"Berwick","latitude":43.26592,"longitude":-70.8645}}(window,'GeoPostal','US');

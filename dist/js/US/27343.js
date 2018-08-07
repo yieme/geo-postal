@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27343"]={"code":"27343","region":"North Carolina","city":"Semora","latitude":36.511743,"longitude":-79.083954}}(window,'GeoPostal','US');

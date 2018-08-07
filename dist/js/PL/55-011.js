@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-011"]={"code":"55-011","region":"Dolnoslaskie","city":"Siechnice","latitude":51.03384,"longitude":17.14743}}(window,'GeoPostal','PL');

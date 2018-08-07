@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2800"]={"code":"2800","region":"Neembucu","city":"Pilar","latitude":-26.86879,"longitude":-58.29346}}(window,'GeoPostal','PY');

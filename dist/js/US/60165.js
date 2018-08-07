@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60165"]={"code":"60165","region":"Illinois","city":"Stone Park","latitude":41.900556,"longitude":-87.856667}}(window,'GeoPostal','US');

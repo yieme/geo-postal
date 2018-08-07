@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56203"]={"code":"56203","region":"Mykolaivska oblast","city":"Bereznehuvate","latitude":47.30783,"longitude":32.84993}}(window,'GeoPostal','UA');

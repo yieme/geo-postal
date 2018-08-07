@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 1J0"]={"code":"R0B 1J0","region":"Manitoba","city":"St. Theresa Point","latitude":53.83189,"longitude":-94.84906}}(window,'GeoPostal','CA');

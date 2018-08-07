@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6213"]={"code":"6213","region":"La Pampa","city":"Parera","latitude":-35.146,"longitude":-64.50089}}(window,'GeoPostal','AR');

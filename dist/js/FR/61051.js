@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61051"]={"code":"61051","region":"Normandie","city":"Alencon","latitude":48.43333,"longitude":0.08333}}(window,'GeoPostal','FR');

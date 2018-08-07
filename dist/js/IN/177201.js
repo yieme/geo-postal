@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["177201"]={"code":"177201","region":"Himachal Pradesh","city":"Gagret","latitude":31.66667,"longitude":76.06667}}(window,'GeoPostal','IN');

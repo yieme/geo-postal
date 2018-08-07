@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29170"]={"code":"29170","region":"Bretagne","city":"Pleuven","latitude":47.9,"longitude":-4.03333}}(window,'GeoPostal','FR');

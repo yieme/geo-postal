@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45868"]={"code":"45868","region":"OH","city":"Mount Cory","latitude":40.9437,"longitude":-83.8093}}(window,'GeoPostal','US');

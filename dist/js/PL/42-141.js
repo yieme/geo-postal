@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-141"]={"code":"42-141","region":"Slaskie","city":"Przystajn","latitude":50.88495,"longitude":18.69169}}(window,'GeoPostal','PL');

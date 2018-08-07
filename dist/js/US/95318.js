@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95318"]={"code":"95318","region":"California","city":"El Portal","latitude":37.67472,"longitude":-119.78417}}(window,'GeoPostal','US');

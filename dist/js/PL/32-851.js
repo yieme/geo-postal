@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-851"]={"code":"32-851","region":"Malopolskie","city":"Maszkienice","latitude":49.9892,"longitude":20.68657}}(window,'GeoPostal','PL');

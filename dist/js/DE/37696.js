@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37696"]={"code":"37696","region":"Nordrhein-Westfalen","city":"Bredenborn","latitude":51.81063,"longitude":9.18612}}(window,'GeoPostal','DE');

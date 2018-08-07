@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76661"]={"code":"76661","region":"TX","city":"Marlin","latitude":31.3036,"longitude":-96.8889}}(window,'GeoPostal','US');

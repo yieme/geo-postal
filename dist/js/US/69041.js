@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69041"]={"code":"69041","region":"Nebraska","city":"Parks","latitude":40.173949,"longitude":-101.766901}}(window,'GeoPostal','US');

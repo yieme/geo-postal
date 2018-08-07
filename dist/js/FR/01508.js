@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01508"]={"code":"01508","region":"Auvergne-Rhone-Alpes","city":"Amberieu-en-Bugey","latitude":45.95885,"longitude":5.3432}}(window,'GeoPostal','FR');

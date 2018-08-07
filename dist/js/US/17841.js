@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17841"]={"code":"17841","region":"Pennsylvania","city":"McClure","latitude":40.70832,"longitude":-77.3637}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85280"]={"code":"85280","region":"Pays-de-la-Loire","city":"La Ferriere","latitude":46.71453,"longitude":-1.31417}}(window,'GeoPostal','FR');

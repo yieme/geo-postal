@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86270"]={"code":"86270","region":"Nouvelle-Aquitaine","city":"La Roche-Posay","latitude":46.78654,"longitude":0.81354}}(window,'GeoPostal','FR');

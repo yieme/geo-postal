@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61791"]={"code":"61791","region":"Illinois","city":"Bloomington","latitude":40.47712,"longitude":-88.9534}}(window,'GeoPostal','US');

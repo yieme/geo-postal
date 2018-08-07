@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN6 0XQ"]={"code":"WN6 0XQ","region":"England","city":"Standish","latitude":51.76667,"longitude":-2.28333}}(window,'GeoPostal','GB');

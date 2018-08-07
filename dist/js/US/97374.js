@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97374"]={"code":"97374","region":"Oregon","city":"Scio","latitude":44.694278,"longitude":-122.803475}}(window,'GeoPostal','US');

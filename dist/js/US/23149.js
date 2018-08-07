@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23149"]={"code":"23149","region":"Virginia","city":"Saluda","latitude":37.578158,"longitude":-76.607632}}(window,'GeoPostal','US');

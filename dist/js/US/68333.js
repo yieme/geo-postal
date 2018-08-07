@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68333"]={"code":"68333","region":"Nebraska","city":"Crete","latitude":40.62778,"longitude":-96.96142}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31402"]={"code":"31402","region":"Osjecko-baranjska zupanija","city":"Semeljci","latitude":45.36056,"longitude":18.54361}}(window,'GeoPostal','HR');

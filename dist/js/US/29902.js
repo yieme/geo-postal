@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29902"]={"code":"29902","region":"South Carolina","city":"Beaufort","latitude":32.44746,"longitude":-80.70864}}(window,'GeoPostal','US');

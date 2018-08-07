@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86405"]={"code":"86405","region":"Bayern","city":"Meitingen","latitude":48.54586,"longitude":10.85179}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68826"]={"code":"68826","region":"NE","city":"Central City","latitude":41.1213,"longitude":-98.0017}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36538"]={"code":"36538","region":"AL","city":"Frankville","latitude":31.6468,"longitude":-88.1332}}(window,'GeoPostal','US');

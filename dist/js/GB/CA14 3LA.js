@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 3LA"]={"code":"CA14 3LA","region":"England","city":"Mossbay","latitude":54.63333,"longitude":-3.55}}(window,'GeoPostal','GB');

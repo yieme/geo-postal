@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49457"]={"code":"49457","region":"Niedersachsen","city":"Jakobidrebber","latitude":52.64973,"longitude":8.42486}}(window,'GeoPostal','DE');

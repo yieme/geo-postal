@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95301"]={"code":"95301","region":"Lappi","city":"Tervola","latitude":66.088889,"longitude":24.811111}}(window,'GeoPostal','FI');

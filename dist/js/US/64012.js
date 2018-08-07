@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64012"]={"code":"64012","region":"Missouri","city":"Belton","latitude":38.81195,"longitude":-94.5319}}(window,'GeoPostal','US');

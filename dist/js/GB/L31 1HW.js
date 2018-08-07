@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L31 1HW"]={"code":"L31 1HW","region":"England","city":"Ashworth","latitude":53.61904,"longitude":-2.22585}}(window,'GeoPostal','GB');

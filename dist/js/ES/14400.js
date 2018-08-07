@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14400"]={"code":"14400","region":"Andalucia","city":"Pozoblanco","latitude":38.37906,"longitude":-4.84827}}(window,'GeoPostal','ES');

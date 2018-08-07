@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 2LG"]={"code":"DL8 2LG","region":"England","city":"Carthorpe","latitude":54.24869,"longitude":-1.52866}}(window,'GeoPostal','GB');

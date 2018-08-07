@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76459"]={"code":"76459","region":"Texas","city":"Jermyn","latitude":33.259706,"longitude":-98.398535}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04564"]={"code":"04564","region":"ME","city":"Round Pond","latitude":43.925,"longitude":-69.4662}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD2 3RG"]={"code":"LD2 3RG","region":"Wales","city":"Builth Road","latitude":52.16855,"longitude":-3.4273}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3070"]={"code":"3070","region":"Victoria","city":"Northcote","latitude":-37.76667,"longitude":145}}(window,'GeoPostal','AU');

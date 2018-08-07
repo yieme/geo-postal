@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98330"]={"code":"98330","region":"Zacatecas","city":"Miguel Auza","latitude":24.29333,"longitude":-103.45028}}(window,'GeoPostal','MX');

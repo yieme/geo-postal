@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99571"]={"code":"99571","region":"AK","city":"Cold Bay","latitude":55.1858,"longitude":-162.7211}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99643"]={"code":"99643","region":"AK","city":"Old Harbor","latitude":57.2028,"longitude":-153.3039}}(window,'GeoPostal','US');

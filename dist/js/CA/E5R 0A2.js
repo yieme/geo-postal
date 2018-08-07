@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5R 0A2"]={"code":"E5R 0A2","region":"New Brunswick","city":"St. Martins","latitude":45.35097,"longitude":-65.54571}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO43 4SY"]={"code":"YO43 4SY","region":"England","city":"North Newbald","latitude":53.81667,"longitude":-0.61667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8103"]={"code":"8103","region":"Overijssel","city":"Raalte","latitude":52.38583,"longitude":6.275}}(window,'GeoPostal','NL');

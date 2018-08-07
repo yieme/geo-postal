@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE65 1RX"]={"code":"LE65 1RX","region":"England","city":"Worthington","latitude":52.78034,"longitude":-1.39767}}(window,'GeoPostal','GB');

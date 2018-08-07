@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68846"]={"code":"68846","region":"Nebraska","city":"Hordville","latitude":41.08545,"longitude":-97.887895}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA15 5TU"]={"code":"SA15 5TU","region":"Wales","city":"Pontyates","latitude":51.75182,"longitude":-4.21718}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2794"]={"code":"2794","region":"New South Wales","city":"Cowra","latitude":-33.83554,"longitude":148.69662}}(window,'GeoPostal','AU');

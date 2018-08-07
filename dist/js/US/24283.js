@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24283"]={"code":"24283","region":"VA","city":"Saint Paul","latitude":36.9323,"longitude":-82.3418}}(window,'GeoPostal','US');

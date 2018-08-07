@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52163"]={"code":"52163","region":"IA","city":"Protivin","latitude":43.217,"longitude":-92.0927}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBTS16"]={"code":"JMBTS16","region":"Saint Thomas","city":"Yallahs","latitude":17.8748,"longitude":-76.56245}}(window,'GeoPostal','JM');

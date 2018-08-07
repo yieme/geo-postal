@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17094"]={"code":"17094","region":"PA","city":"Thompsontown","latitude":40.5908,"longitude":-77.2076}}(window,'GeoPostal','US');

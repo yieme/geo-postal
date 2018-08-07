@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5516"]={"code":"5516","region":"Tarlac","city":"Cafe","latitude":15.33686,"longitude":120.70623}}(window,'GeoPostal','PH');

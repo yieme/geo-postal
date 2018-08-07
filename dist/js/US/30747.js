@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30747"]={"code":"30747","region":"Georgia","city":"Summerville","latitude":34.48398,"longitude":-85.345948}}(window,'GeoPostal','US');

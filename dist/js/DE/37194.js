@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37194"]={"code":"37194","region":"Niedersachsen","city":"Kammerborn","latitude":51.67649,"longitude":9.57922}}(window,'GeoPostal','DE');

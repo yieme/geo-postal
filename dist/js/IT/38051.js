@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38051"]={"code":"38051","region":"Trentino-Alto Adige","city":"Borgo","latitude":46.05141,"longitude":11.45439}}(window,'GeoPostal','IT');

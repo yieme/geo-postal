@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78632"]={"code":"78632","region":"Texas","city":"Harwood","latitude":29.66583,"longitude":-97.50528}}(window,'GeoPostal','US');

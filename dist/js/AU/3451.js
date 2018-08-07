@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3451"]={"code":"3451","region":"Victoria","city":"Campbells Creek","latitude":-37.08665,"longitude":144.20203}}(window,'GeoPostal','AU');

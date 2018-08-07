@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22514"]={"code":"22514","region":"Vinnytska oblast","city":"Sobolivka","latitude":49.33604,"longitude":28.65096}}(window,'GeoPostal','UA');

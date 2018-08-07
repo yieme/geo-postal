@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14840"]={"code":"14840","region":"Andalucia","city":"Castro del Rio","latitude":37.69125,"longitude":-4.48058}}(window,'GeoPostal','ES');

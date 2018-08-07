@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357637"]={"code":"357637","region":"Stavropol'skiy kray","city":"Yessentuki","latitude":44.04444,"longitude":42.86056}}(window,'GeoPostal','RU');

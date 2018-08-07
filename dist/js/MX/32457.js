@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32457"]={"code":"32457","region":"Colima","city":"Manzanillo","latitude":19.05011,"longitude":-104.31879}}(window,'GeoPostal','MX');

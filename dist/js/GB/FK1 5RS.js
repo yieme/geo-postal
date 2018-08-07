@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK1 5RS"]={"code":"FK1 5RS","region":"Scotland","city":"Falkirk","latitude":55.99917,"longitude":-3.78713}}(window,'GeoPostal','GB');

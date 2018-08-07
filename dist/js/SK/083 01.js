@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["083 01"]={"code":"083 01","region":"Presovsky kraj","city":"Sabinov","latitude":49.10308,"longitude":21.0988}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18964"]={"code":"18964","region":"Pennsylvania","city":"Souderton","latitude":40.301579,"longitude":-75.325305}}(window,'GeoPostal','US');

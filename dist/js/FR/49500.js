@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49500"]={"code":"49500","region":"Pays-de-la-Loire","city":"Nyoiseau","latitude":47.71667,"longitude":-0.91667}}(window,'GeoPostal','FR');

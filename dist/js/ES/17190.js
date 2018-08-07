@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17190"]={"code":"17190","region":"Catalunya","city":"Girona","latitude":41.98311,"longitude":2.82493}}(window,'GeoPostal','ES');

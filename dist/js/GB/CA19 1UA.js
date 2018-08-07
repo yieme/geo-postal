@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA19 1UA"]={"code":"CA19 1UA","region":"England","city":"Eskdale","latitude":54.3879,"longitude":-3.32439}}(window,'GeoPostal','GB');

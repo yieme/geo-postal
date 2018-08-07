@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"Struga","city":"Struga","latitude":41.17806,"longitude":20.67611}}(window,'GeoPostal','MK');

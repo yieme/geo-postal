@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46913"]={"code":"46913","region":"IN","city":"Bringhurst","latitude":40.5163,"longitude":-86.5204}}(window,'GeoPostal','US');

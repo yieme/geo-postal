@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17772"]={"code":"17772","region":"PA","city":"Turbotville","latitude":41.1119,"longitude":-76.7425}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14136"]={"code":"14136","region":"NY","city":"Silver Creek","latitude":42.5357,"longitude":-79.1628}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 4TA"]={"code":"LL16 4TA","region":"Wales","city":"Gwaynynog","latitude":53.16667,"longitude":-3.45}}(window,'GeoPostal','GB');

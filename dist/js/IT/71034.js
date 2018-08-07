@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71034"]={"code":"71034","region":"Puglia","city":"Castelnuovo della Daunia","latitude":41.58263,"longitude":15.12084}}(window,'GeoPostal','IT');

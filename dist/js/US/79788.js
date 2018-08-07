@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79788"]={"code":"79788","region":"TX","city":"Wickett","latitude":31.5692,"longitude":-103.0067}}(window,'GeoPostal','US');

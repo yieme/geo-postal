@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU1 1DB"]={"code":"GU1 1DB","region":"England","city":"Guildford","latitude":51.23536,"longitude":-0.57427}}(window,'GeoPostal','GB');

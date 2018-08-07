@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22700"]={"code":"22700","region":"Aragon","city":"Jaca","latitude":42.56898,"longitude":-0.54987}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95615"]={"code":"95615","region":"CA","city":"Courtland","latitude":38.3137,"longitude":-121.563}}(window,'GeoPostal','US');

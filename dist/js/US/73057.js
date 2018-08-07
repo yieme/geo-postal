@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73057"]={"code":"73057","region":"Oklahoma","city":"Maysville","latitude":34.816671,"longitude":-97.412014}}(window,'GeoPostal','US');

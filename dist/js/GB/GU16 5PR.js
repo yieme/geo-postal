@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU16 5PR"]={"code":"GU16 5PR","region":"England","city":"Frimley","latitude":51.30288,"longitude":-0.72527}}(window,'GeoPostal','GB');

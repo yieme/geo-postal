@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78962"]={"code":"78962","region":"Texas","city":"Weimar","latitude":29.70301,"longitude":-96.78053}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49268"]={"code":"49268","region":"MI","city":"Palmyra","latitude":41.8729,"longitude":-83.9263}}(window,'GeoPostal','US');

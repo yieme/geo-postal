@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45850"]={"code":"45850","region":"Castilla-La Mancha","city":"Villa de Don Fadrique","latitude":39.61505,"longitude":-3.21915}}(window,'GeoPostal','ES');

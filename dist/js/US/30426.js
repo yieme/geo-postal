@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30426"]={"code":"30426","region":"GA","city":"Girard","latitude":33.0437,"longitude":-81.7106}}(window,'GeoPostal','US');

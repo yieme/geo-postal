@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56870-000"]={"code":"56870-000","region":"Pernambuco","city":"Flores","latitude":-7.86806,"longitude":-37.97472}}(window,'GeoPostal','BR');

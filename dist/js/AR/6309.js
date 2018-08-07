@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6309"]={"code":"6309","region":"La Pampa","city":"Alpachiri","latitude":-37.37704,"longitude":-63.77445}}(window,'GeoPostal','AR');

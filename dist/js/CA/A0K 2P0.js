@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 2P0"]={"code":"A0K 2P0","region":"Newfoundland and Labrador","city":"Forteau","latitude":51.4668,"longitude":-56.96481}}(window,'GeoPostal','CA');

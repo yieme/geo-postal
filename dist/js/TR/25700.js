@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25700"]={"code":"25700","region":"Bayburt","city":"Pulur","latitude":40.16361,"longitude":39.8925}}(window,'GeoPostal','TR');

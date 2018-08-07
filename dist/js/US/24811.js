@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24811"]={"code":"24811","region":"WV","city":"Avondale","latitude":37.4126,"longitude":-81.7843}}(window,'GeoPostal','US');

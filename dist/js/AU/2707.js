@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2707"]={"code":"2707","region":"New South Wales","city":"Coleambally","latitude":-34.80388,"longitude":145.88036}}(window,'GeoPostal','AU');

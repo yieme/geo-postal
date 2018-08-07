@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357930"]={"code":"357930","region":"Stavropol'skiy kray","city":"Stepnoye","latitude":44.27083,"longitude":44.585}}(window,'GeoPostal','RU');

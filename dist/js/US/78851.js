@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78851"]={"code":"78851","region":"TX","city":"Dryden","latitude":30.0446,"longitude":-102.1146}}(window,'GeoPostal','US');

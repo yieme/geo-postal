@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47139"]={"code":"47139","region":"IN","city":"Little York","latitude":38.69,"longitude":-85.9}}(window,'GeoPostal','US');

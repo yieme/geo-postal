@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30477"]={"code":"30477","region":"Georgia","city":"Wadley","latitude":32.86682,"longitude":-82.40402}}(window,'GeoPostal','US');

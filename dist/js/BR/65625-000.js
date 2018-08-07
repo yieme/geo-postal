@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65625-000"]={"code":"65625-000","region":"Maranhao","city":"Coelho Neto","latitude":-4.25667,"longitude":-43.01278}}(window,'GeoPostal','BR');

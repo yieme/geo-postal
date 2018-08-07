@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87300"]={"code":"87300","region":"Donetska oblast","city":"Amvrosiyivka","latitude":47.79348,"longitude":38.47768}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05479"]={"code":"05479","region":"VT","city":"Saint Albans","latitude":44.8109,"longitude":-73.0832}}(window,'GeoPostal','US');

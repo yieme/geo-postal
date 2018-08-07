@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45000"]={"code":"45000","region":"Tacuarembo","city":"Tacuarembo","latitude":-31.73333,"longitude":-55.98333}}(window,'GeoPostal','UY');

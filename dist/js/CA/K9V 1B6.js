@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K9V 1B6"]={"code":"K9V 1B6","region":"Ontario","city":"Fox's Corners","latitude":44.38432,"longitude":-78.59875}}(window,'GeoPostal','CA');

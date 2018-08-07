@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75832"]={"code":"75832","region":"TX","city":"Cayuga","latitude":31.9571,"longitude":-95.9747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86602"]={"code":"86602","region":"Parnumaa","city":"Paikuse","latitude":58.37917,"longitude":24.63444}}(window,'GeoPostal','EE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3011"]={"code":"3011","region":"Victoria","city":"Footscray","latitude":-37.8,"longitude":144.9}}(window,'GeoPostal','AU');

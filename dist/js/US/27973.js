@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27973"]={"code":"27973","region":"NC","city":"Shawboro","latitude":36.3779,"longitude":-76.0945}}(window,'GeoPostal','US');

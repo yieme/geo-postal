@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["971 01"]={"code":"971 01","region":"Nitriansky kraj","city":"Prievidza","latitude":48.77446,"longitude":18.6275}}(window,'GeoPostal','SK');

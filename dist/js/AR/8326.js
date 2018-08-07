@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8326"]={"code":"8326","region":"Rio Negro","city":"Chichinales","latitude":-39.11505,"longitude":-66.92714}}(window,'GeoPostal','AR');

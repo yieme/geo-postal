@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 2K0"]={"code":"T0K 2K0","region":"Alberta","city":"Vauxhall","latitude":50.06678,"longitude":-112.11853}}(window,'GeoPostal','CA');

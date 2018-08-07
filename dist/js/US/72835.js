@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72835"]={"code":"72835","region":"AR","city":"Delaware","latitude":35.278,"longitude":-93.3462}}(window,'GeoPostal','US');

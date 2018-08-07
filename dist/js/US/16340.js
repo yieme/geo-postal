@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16340"]={"code":"16340","region":"PA","city":"Pittsfield","latitude":41.8366,"longitude":-79.4196}}(window,'GeoPostal','US');

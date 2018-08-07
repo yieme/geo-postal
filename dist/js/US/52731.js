@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52731"]={"code":"52731","region":"IA","city":"Charlotte","latitude":41.9779,"longitude":-90.4782}}(window,'GeoPostal','US');

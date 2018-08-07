@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41812"]={"code":"41812","region":"Kentucky","city":"Deane","latitude":37.237786,"longitude":-82.798264}}(window,'GeoPostal','US');

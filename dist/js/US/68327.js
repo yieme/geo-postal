@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68327"]={"code":"68327","region":"NE","city":"Chester","latitude":40.029,"longitude":-97.6197}}(window,'GeoPostal','US');

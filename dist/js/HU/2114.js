@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2114"]={"code":"2114","region":"Pest","city":"Valko","latitude":47.56391,"longitude":19.51267}}(window,'GeoPostal','HU');

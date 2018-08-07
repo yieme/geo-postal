@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41058"]={"code":"41058","region":"Emilia-Romagna","city":"Vignola","latitude":44.48296,"longitude":11.0048}}(window,'GeoPostal','IT');

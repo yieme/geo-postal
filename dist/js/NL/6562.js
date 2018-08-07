@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6562"]={"code":"6562","region":"Gelderland","city":"Bredeweg","latitude":51.76019,"longitude":5.94189}}(window,'GeoPostal','NL');

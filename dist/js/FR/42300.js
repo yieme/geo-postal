@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42300"]={"code":"42300","region":"Auvergne-Rhone-Alpes","city":"Mably","latitude":46.08623,"longitude":4.06607}}(window,'GeoPostal','FR');

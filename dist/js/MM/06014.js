@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06014"]={"code":"06014","region":"Shan","city":"Taunggyi","latitude":20.78333,"longitude":97.03333}}(window,'GeoPostal','MM');

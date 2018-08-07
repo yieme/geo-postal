@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32137"]={"code":"32137","region":"Florida","city":"Palm Coast","latitude":29.538042,"longitude":-81.227343}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62926"]={"code":"62926","region":"IL","city":"Dongola","latitude":37.3712,"longitude":-89.1349}}(window,'GeoPostal','US');

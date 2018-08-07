@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27543"]={"code":"27543","region":"NC","city":"Kipling","latitude":35.4799,"longitude":-78.8211}}(window,'GeoPostal','US');

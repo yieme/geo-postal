@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23512"]={"code":"23512","region":"Vinnytska oblast","city":"Kalynivka","latitude":49.45389,"longitude":28.52608}}(window,'GeoPostal','UA');

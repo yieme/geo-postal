@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71594"]={"code":"71594","region":"Orebro lan","city":"Odensbacken","latitude":59.16667,"longitude":15.53333}}(window,'GeoPostal','SE');

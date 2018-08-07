@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34070"]={"code":"34070","region":"Friuli-Venezia Giulia","city":"Mariano del Friuli","latitude":45.91528,"longitude":13.46056}}(window,'GeoPostal','IT');

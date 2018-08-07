@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-270"]={"code":"76-270","region":"Pomorskie","city":"Ustka","latitude":54.58048,"longitude":16.86194}}(window,'GeoPostal','PL');

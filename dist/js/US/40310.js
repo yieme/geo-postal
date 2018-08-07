@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40310"]={"code":"40310","region":"KY","city":"Burgin","latitude":37.7534,"longitude":-84.7666}}(window,'GeoPostal','US');

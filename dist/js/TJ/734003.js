@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["734003"]={"code":"734003","region":"Dushanbe","city":"Dushanbe","latitude":38.53575,"longitude":68.77905}}(window,'GeoPostal','TJ');

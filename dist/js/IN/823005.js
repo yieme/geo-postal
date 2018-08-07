@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["823005"]={"code":"823005","region":"Assam","city":"Karimganj","latitude":24.86667,"longitude":92.35}}(window,'GeoPostal','IN');

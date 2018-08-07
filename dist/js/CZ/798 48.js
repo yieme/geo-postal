@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 48"]={"code":"798 48","region":"Olomoucky kraj","city":"Protivanov","latitude":49.48351,"longitude":16.83594}}(window,'GeoPostal','CZ');

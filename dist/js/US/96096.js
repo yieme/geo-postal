@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96096"]={"code":"96096","region":"California","city":"Whitmore","latitude":40.646185,"longitude":-121.915255}}(window,'GeoPostal','US');

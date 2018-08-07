@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA19 9HF"]={"code":"TA19 9HF","region":"England","city":"Ilton","latitude":50.95,"longitude":-2.91667}}(window,'GeoPostal','GB');

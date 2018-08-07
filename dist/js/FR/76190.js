@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76190"]={"code":"76190","region":"Normandie","city":"Allouville-Bellefosse","latitude":49.6241,"longitude":0.677}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33772"]={"code":"33772","region":"Florida","city":"Seminole","latitude":27.83975,"longitude":-82.79121}}(window,'GeoPostal','US');

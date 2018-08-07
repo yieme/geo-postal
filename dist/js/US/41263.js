@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41263"]={"code":"41263","region":"Kentucky","city":"Tutor Key","latitude":37.858542,"longitude":-82.737869}}(window,'GeoPostal','US');

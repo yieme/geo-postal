@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59247"]={"code":"59247","region":"Montana","city":"Medicine Lake","latitude":48.502755,"longitude":-104.501764}}(window,'GeoPostal','US');

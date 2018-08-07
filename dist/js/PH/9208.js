@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9208"]={"code":"9208","region":"Bulacan","city":"Plaridel","latitude":8.6214,"longitude":123.7101}}(window,'GeoPostal','PH');

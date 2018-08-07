@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21666"]={"code":"21666","region":"Maryland","city":"Stevensville","latitude":38.9347,"longitude":-76.336853}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665684"]={"code":"665684","region":"Irkutskaya oblast'","city":"Novaya Igirma","latitude":57.1334,"longitude":103.9112}}(window,'GeoPostal','RU');

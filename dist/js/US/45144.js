@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45144"]={"code":"45144","region":"OH","city":"Manchester","latitude":38.6982,"longitude":-83.6181}}(window,'GeoPostal','US');

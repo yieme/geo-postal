@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72240"]={"code":"72240","region":"Pays-de-la-Loire","city":"Domfront-en-Champagne","latitude":48.1056,"longitude":0.0264}}(window,'GeoPostal','FR');

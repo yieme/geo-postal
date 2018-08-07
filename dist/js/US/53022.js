@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53022"]={"code":"53022","region":"Wisconsin","city":"Germantown","latitude":43.224428,"longitude":-88.145134}}(window,'GeoPostal','US');

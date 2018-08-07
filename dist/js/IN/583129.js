@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["583129"]={"code":"583129","region":"Karnataka","city":"Sindhnur","latitude":15.78333,"longitude":76.76667}}(window,'GeoPostal','IN');

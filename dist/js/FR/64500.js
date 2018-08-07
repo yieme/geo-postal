@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64500"]={"code":"64500","region":"Nouvelle-Aquitaine","city":"Ciboure","latitude":43.38286,"longitude":-1.676}}(window,'GeoPostal','FR');

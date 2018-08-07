@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 8AD"]={"code":"SO20 8AD","region":"England","city":"Broughton","latitude":51.09606,"longitude":-1.56203}}(window,'GeoPostal','GB');

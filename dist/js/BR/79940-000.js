@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79940-000"]={"code":"79940-000","region":"Mato Grosso do Sul","city":"Caarapo","latitude":-22.63417,"longitude":-54.82222}}(window,'GeoPostal','BR');

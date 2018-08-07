@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67748"]={"code":"67748","region":"Rheinland-Pfalz","city":"Odenbach","latitude":49.68333,"longitude":7.65}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513137"]={"code":"513137","region":"Guangdong","city":"Huangben","latitude":24.69168,"longitude":112.68387}}(window,'GeoPostal','CN');

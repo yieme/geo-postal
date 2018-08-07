@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06239"]={"code":"06239","region":"Provence-Alpes-Cote d'Azur","city":"Villefranche-sur-Mer","latitude":43.7047,"longitude":7.30776}}(window,'GeoPostal','FR');

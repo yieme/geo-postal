@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72430"]={"code":"72430","region":"AR","city":"Greenway","latitude":36.3348,"longitude":-90.2253}}(window,'GeoPostal','US');

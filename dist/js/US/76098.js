@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76098"]={"code":"76098","region":"TX","city":"Azle","latitude":32.8957,"longitude":-97.5636}}(window,'GeoPostal','US');

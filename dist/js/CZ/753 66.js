@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753 66"]={"code":"753 66","region":"Olomoucky kraj","city":"Hustopece Nad Becvou","latitude":49.53053,"longitude":17.86994}}(window,'GeoPostal','CZ');

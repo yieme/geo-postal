@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4865"]={"code":"4865","region":"Aust-Agder","city":"Amli","latitude":58.76845,"longitude":8.48651}}(window,'GeoPostal','NO');

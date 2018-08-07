@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0C 0J0"]={"code":"X0C 0J0","region":"Nunavut","city":"Whale Cove","latitude":62.17138,"longitude":-92.57782}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4061"]={"code":"4061","region":"Oberosterreich","city":"Leonding","latitude":48.27965,"longitude":14.2533}}(window,'GeoPostal','AT');

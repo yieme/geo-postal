@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68771"]={"code":"68771","region":"NE","city":"Randolph","latitude":42.3798,"longitude":-97.3464}}(window,'GeoPostal','US');

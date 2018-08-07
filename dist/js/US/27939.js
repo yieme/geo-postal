@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27939"]={"code":"27939","region":"North Carolina","city":"Grandy","latitude":36.239229,"longitude":-75.901365}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 4LL"]={"code":"CA6 4LL","region":"England","city":"Scaleby","latitude":54.95936,"longitude":-2.86513}}(window,'GeoPostal','GB');

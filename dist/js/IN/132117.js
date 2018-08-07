@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132117"]={"code":"132117","region":"Haryana","city":"Nilokheri","latitude":29.83333,"longitude":76.91667}}(window,'GeoPostal','IN');

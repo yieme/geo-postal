@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["729-6335"]={"code":"729-6335","region":"Hiroshima","city":"Miyoshi","latitude":34.8,"longitude":132.85}}(window,'GeoPostal','JP');

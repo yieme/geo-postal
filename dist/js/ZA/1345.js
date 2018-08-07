@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1345"]={"code":"1345","region":"Mpumalanga","city":"Komatipoort","latitude":-25.4332,"longitude":31.95478}}(window,'GeoPostal','ZA');

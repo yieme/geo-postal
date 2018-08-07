@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1450"]={"code":"1450","region":"Vaud","city":"Sainte-Croix","latitude":46.82203,"longitude":6.50283}}(window,'GeoPostal','CH');

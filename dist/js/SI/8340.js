@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8340"]={"code":"8340","region":"Crnomelj","city":"Crnomelj","latitude":45.57111,"longitude":15.18889}}(window,'GeoPostal','SI');

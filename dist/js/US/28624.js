@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28624"]={"code":"28624","region":"NC","city":"Ferguson","latitude":36.1283,"longitude":-81.3864}}(window,'GeoPostal','US');

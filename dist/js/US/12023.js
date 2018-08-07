@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12023"]={"code":"12023","region":"NY","city":"Berne","latitude":42.6108,"longitude":-74.1466}}(window,'GeoPostal','US');

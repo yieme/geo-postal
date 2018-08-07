@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21649"]={"code":"21649","region":"Maryland","city":"Marydel","latitude":39.109759,"longitude":-75.768134}}(window,'GeoPostal','US');

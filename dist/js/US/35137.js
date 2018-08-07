@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35137"]={"code":"35137","region":"Alabama","city":"Saginaw","latitude":33.216111,"longitude":-86.791944}}(window,'GeoPostal','US');

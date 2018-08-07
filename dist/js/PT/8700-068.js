@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8700-068"]={"code":"8700-068","region":"Faro","city":"Moncarapacho","latitude":37.08863,"longitude":-7.78722}}(window,'GeoPostal','PT');

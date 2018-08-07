@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8582"]={"code":"8582","region":"Steiermark","city":"Voitsberg","latitude":47.03333,"longitude":15.15}}(window,'GeoPostal','AT');

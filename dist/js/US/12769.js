@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12769"]={"code":"12769","region":"NY","city":"Phillipsport","latitude":41.6515,"longitude":-74.4362}}(window,'GeoPostal','US');

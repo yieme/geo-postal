@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN7 6RT"]={"code":"LN7 6RT","region":"England","city":"Clixby","latitude":53.52388,"longitude":-0.33892}}(window,'GeoPostal','GB');

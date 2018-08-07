@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11390"]={"code":"11390","region":"Occitanie","city":"Cuxac-Cabardes","latitude":43.37087,"longitude":2.28369}}(window,'GeoPostal','FR');

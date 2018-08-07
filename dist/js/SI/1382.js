@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1382"]={"code":"1382","region":"Cerknica","city":"Cerknica","latitude":45.79306,"longitude":14.3625}}(window,'GeoPostal','SI');

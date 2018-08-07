@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721800"]={"code":"721800","region":"Ysyk-Kol","city":"Teploklyuchenka","latitude":42.49948,"longitude":78.52702}}(window,'GeoPostal','KG');

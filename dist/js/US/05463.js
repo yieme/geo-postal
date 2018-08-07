@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05463"]={"code":"05463","region":"VT","city":"Isle La Motte","latitude":44.8781,"longitude":-73.3386}}(window,'GeoPostal','US');

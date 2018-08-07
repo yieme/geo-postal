@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5856"]={"code":"5856","region":"Limburg","city":"Wellerlooi","latitude":51.53417,"longitude":6.13611}}(window,'GeoPostal','NL');

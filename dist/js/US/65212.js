@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65212"]={"code":"65212","region":"MO","city":"Columbia","latitude":38.9376,"longitude":-92.3304}}(window,'GeoPostal','US');

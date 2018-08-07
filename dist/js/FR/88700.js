@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88700"]={"code":"88700","region":"Grand-Est","city":"Rambervillers","latitude":48.3424,"longitude":6.6358}}(window,'GeoPostal','FR');

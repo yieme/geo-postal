@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94099"]={"code":"94099","region":"Bayern","city":"Ruhstorf","latitude":48.43617,"longitude":13.3357}}(window,'GeoPostal','DE');

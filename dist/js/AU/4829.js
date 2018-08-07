@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4829"]={"code":"4829","region":"Queensland","city":"Bedourie","latitude":-24.35,"longitude":139.46667}}(window,'GeoPostal','AU');

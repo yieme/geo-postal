@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37175"]={"code":"37175","region":"Tennessee","city":"Stewart","latitude":36.321901,"longitude":-87.893161}}(window,'GeoPostal','US');

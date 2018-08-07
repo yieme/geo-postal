@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5H 0A1"]={"code":"E5H 0A1","region":"New Brunswick","city":"Beaver Harbour","latitude":45.07164,"longitude":-66.74272}}(window,'GeoPostal','CA');

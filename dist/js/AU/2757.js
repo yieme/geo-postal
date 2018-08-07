@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2757"]={"code":"2757","region":"New South Wales","city":"The Slopes","latitude":-33.53238,"longitude":150.70562}}(window,'GeoPostal','AU');

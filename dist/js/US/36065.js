@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36065"]={"code":"36065","region":"AL","city":"Pine Level","latitude":32.0726,"longitude":-86.0606}}(window,'GeoPostal','US');

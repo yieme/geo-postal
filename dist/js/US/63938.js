@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63938"]={"code":"63938","region":"MO","city":"Fagus","latitude":36.5114,"longitude":-90.267}}(window,'GeoPostal','US');

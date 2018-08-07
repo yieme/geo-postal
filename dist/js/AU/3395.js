@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3395"]={"code":"3395","region":"Victoria","city":"Beulah","latitude":-35.93777,"longitude":142.4222}}(window,'GeoPostal','AU');

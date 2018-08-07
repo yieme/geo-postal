@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45200"]={"code":"45200","region":"Manisa","city":"Kirkagac","latitude":39.10638,"longitude":27.66925}}(window,'GeoPostal','TR');

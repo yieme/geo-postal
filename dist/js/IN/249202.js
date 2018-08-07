@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249202"]={"code":"249202","region":"Uttarakhand","city":"Birbhaddar","latitude":30.06667,"longitude":78.28333}}(window,'GeoPostal','IN');

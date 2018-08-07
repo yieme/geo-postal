@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7651"]={"code":"7651","region":"Nord-Trondelag","city":"Verdal","latitude":63.79332,"longitude":11.4817}}(window,'GeoPostal','NO');

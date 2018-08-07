@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3305"]={"code":"3305","region":"Victoria","city":"Gorae West","latitude":-38.25,"longitude":141.48333}}(window,'GeoPostal','AU');

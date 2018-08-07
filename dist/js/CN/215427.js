@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215427"]={"code":"215427","region":"Jiangsu","city":"Huangjing","latitude":31.65444,"longitude":121.10194}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44859"]={"code":"44859","region":"OH","city":"Nova","latitude":41.0282,"longitude":-82.3384}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL5 2JQ"]={"code":"AL5 2JQ","region":"England","city":"Harpenden","latitude":51.81684,"longitude":-0.35706}}(window,'GeoPostal','GB');

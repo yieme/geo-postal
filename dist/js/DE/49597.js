@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49597"]={"code":"49597","region":"Niedersachsen","city":"Sogeln","latitude":52.45031,"longitude":8.00608}}(window,'GeoPostal','DE');

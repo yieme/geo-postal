@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22576"]={"code":"22576","region":"Virginia","city":"Weems","latitude":37.692505,"longitude":-76.425022}}(window,'GeoPostal','US');

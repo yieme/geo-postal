@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27930"]={"code":"27930","region":"NC","city":"Durants Neck","latitude":36.1902,"longitude":-76.4661}}(window,'GeoPostal','US');

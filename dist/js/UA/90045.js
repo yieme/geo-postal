@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90045"]={"code":"90045","region":"Zakarpatska oblast","city":"Kolochava","latitude":48.42851,"longitude":23.6959}}(window,'GeoPostal','UA');

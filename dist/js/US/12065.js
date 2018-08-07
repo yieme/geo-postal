@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12065"]={"code":"12065","region":"New York","city":"Clifton Park","latitude":42.85146,"longitude":-73.79898}}(window,'GeoPostal','US');

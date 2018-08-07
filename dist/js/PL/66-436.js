@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-436"]={"code":"66-436","region":"Lubuskie","city":"Slonsk","latitude":52.56345,"longitude":14.80526}}(window,'GeoPostal','PL');

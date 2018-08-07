@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54463"]={"code":"54463","region":"Wisconsin","city":"Pelican Lake","latitude":45.49944,"longitude":-89.166667}}(window,'GeoPostal','US');

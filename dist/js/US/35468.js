@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35468"]={"code":"35468","region":"AL","city":"Kellerman","latitude":33.3407,"longitude":-87.3047}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27049"]={"code":"27049","region":"North Carolina","city":"Toast","latitude":36.50041,"longitude":-80.62645}}(window,'GeoPostal','US');

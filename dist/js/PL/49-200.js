@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49-200"]={"code":"49-200","region":"Opolskie","city":"Grodkow","latitude":50.69836,"longitude":17.38449}}(window,'GeoPostal','PL');

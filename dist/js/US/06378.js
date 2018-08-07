@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06378"]={"code":"06378","region":"CT","city":"Stonington","latitude":41.3664,"longitude":-71.9155}}(window,'GeoPostal','US');

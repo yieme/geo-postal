@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47400"]={"code":"47400","region":"Castilla y Leon","city":"Medina del Campo","latitude":41.31239,"longitude":-4.91413}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59751"]={"code":"59751","region":"MT","city":"Silver Star","latitude":45.7,"longitude":-112.2535}}(window,'GeoPostal','US');

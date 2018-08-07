@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1E0"]={"code":"R0A 1E0","region":"Manitoba","city":"Niverville","latitude":49.606036,"longitude":-97.045112}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-450"]={"code":"06-450","region":"Mazowieckie","city":"Glinojeck","latitude":52.81983,"longitude":20.29198}}(window,'GeoPostal','PL');

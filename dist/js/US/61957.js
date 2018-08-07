@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61957"]={"code":"61957","region":"IL","city":"Windsor","latitude":39.4302,"longitude":-88.5857}}(window,'GeoPostal','US');

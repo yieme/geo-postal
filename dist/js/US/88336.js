@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88336"]={"code":"88336","region":"NM","city":"Hondo","latitude":33.3876,"longitude":-105.2708}}(window,'GeoPostal','US');

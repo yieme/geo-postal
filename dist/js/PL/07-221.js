@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-221"]={"code":"07-221","region":"Mazowieckie","city":"Branszczyk","latitude":52.62931,"longitude":21.58745}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40328"]={"code":"40328","region":"Kentucky","city":"Gravel Switch","latitude":37.569478,"longitude":-85.085955}}(window,'GeoPostal','US');

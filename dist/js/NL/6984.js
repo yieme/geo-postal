@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6984"]={"code":"6984","region":"Gelderland","city":"Doesburg","latitude":52.0125,"longitude":6.13889}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74028"]={"code":"74028","region":"OK","city":"Depew","latitude":35.7561,"longitude":-96.4897}}(window,'GeoPostal','US');

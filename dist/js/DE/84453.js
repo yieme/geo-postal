@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84453"]={"code":"84453","region":"Bayern","city":"Altmuhldorf","latitude":48.24792,"longitude":12.49094}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["847-0841"]={"code":"847-0841","region":"Saga","city":"Karatsu","latitude":33.45,"longitude":129.967}}(window,'GeoPostal','JP');

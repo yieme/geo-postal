@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71475"]={"code":"71475","region":"LA","city":"Slagle","latitude":31.2024,"longitude":-93.1274}}(window,'GeoPostal','US');

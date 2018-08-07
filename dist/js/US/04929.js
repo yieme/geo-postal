@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04929"]={"code":"04929","region":"Maine","city":"Detroit","latitude":44.762306,"longitude":-69.311909}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB7 5TL"]={"code":"CB7 5TL","region":"England","city":"Stuntney","latitude":52.38072,"longitude":0.28395}}(window,'GeoPostal','GB');

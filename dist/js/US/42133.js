@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42133"]={"code":"42133","region":"Kentucky","city":"Fountain Run","latitude":36.72139,"longitude":-85.96139}}(window,'GeoPostal','US');

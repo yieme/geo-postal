@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04920"]={"code":"04920","region":"ME","city":"Bingham","latitude":45.0682,"longitude":-69.8857}}(window,'GeoPostal','US');

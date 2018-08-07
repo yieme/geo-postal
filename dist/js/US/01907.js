@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01907"]={"code":"01907","region":"Massachusetts","city":"Swampscott","latitude":42.473895,"longitude":-70.90815}}(window,'GeoPostal','US');

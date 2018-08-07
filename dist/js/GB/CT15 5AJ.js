@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 5AJ"]={"code":"CT15 5AJ","region":"England","city":"Coldred","latitude":51.17633,"longitude":1.24609}}(window,'GeoPostal','GB');

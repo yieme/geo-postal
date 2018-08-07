@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05462"]={"code":"05462","region":"Vermont","city":"Hinesburg","latitude":44.31072,"longitude":-73.0035}}(window,'GeoPostal','US');

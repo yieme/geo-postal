@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15422"]={"code":"15422","region":"PA","city":"Chestnut Ridge","latitude":39.9812,"longitude":-79.8116}}(window,'GeoPostal','US');

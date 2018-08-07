@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303175"]={"code":"303175","region":"Orlovskaya oblast'","city":"Pokrovskoye","latitude":52.60968,"longitude":36.87124}}(window,'GeoPostal','RU');

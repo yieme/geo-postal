@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5640"]={"code":"5640","region":"Hordaland","city":"Eikelandsosen","latitude":60.24302,"longitude":5.74602}}(window,'GeoPostal','NO');

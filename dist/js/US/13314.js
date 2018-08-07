@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13314"]={"code":"13314","region":"NY","city":"Brookfield","latitude":42.8128,"longitude":-75.3177}}(window,'GeoPostal','US');

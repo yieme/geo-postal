@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98257"]={"code":"98257","region":"Washington","city":"La Conner","latitude":48.390977,"longitude":-122.513602}}(window,'GeoPostal','US');

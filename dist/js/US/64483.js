@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64483"]={"code":"64483","region":"MO","city":"Rosendale","latitude":40.0399,"longitude":-94.8328}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79560"]={"code":"79560","region":"TX","city":"Sylvester","latitude":32.7209,"longitude":-100.2543}}(window,'GeoPostal','US');

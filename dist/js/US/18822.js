@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18822"]={"code":"18822","region":"Pennsylvania","city":"Hallstead","latitude":41.96119,"longitude":-75.74324}}(window,'GeoPostal','US');

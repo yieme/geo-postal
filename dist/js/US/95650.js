@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95650"]={"code":"95650","region":"California","city":"Loomis","latitude":38.808205,"longitude":-121.1681}}(window,'GeoPostal','US');

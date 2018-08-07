@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75631"]={"code":"75631","region":"TX","city":"Beckville","latitude":32.2452,"longitude":-94.4555}}(window,'GeoPostal','US');

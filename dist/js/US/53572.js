@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53572"]={"code":"53572","region":"Wisconsin","city":"Mount Horeb","latitude":43.00861,"longitude":-89.73846}}(window,'GeoPostal','US');

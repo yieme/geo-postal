@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"Novo Mesto","city":"Novo Mesto","latitude":45.80397,"longitude":15.16886}}(window,'GeoPostal','SI');

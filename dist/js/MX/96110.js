@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96110"]={"code":"96110","region":"Veracruz de Ignacio de la Llave","city":"Corral Nuevo","latitude":18.11461,"longitude":-95.11542}}(window,'GeoPostal','MX');

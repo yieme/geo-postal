@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828303"]={"code":"828303","region":"Jharkhand","city":"Bhojudih","latitude":23.63333,"longitude":86.45}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86517"]={"code":"86517","region":"Nusa Tenggara Timur","city":"Baru","latitude":-8.3072,"longitude":120.4911}}(window,'GeoPostal','ID');

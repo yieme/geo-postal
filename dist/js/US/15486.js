@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15486"]={"code":"15486","region":"PA","city":"Vanderbilt","latitude":40.0246,"longitude":-79.6955}}(window,'GeoPostal','US');

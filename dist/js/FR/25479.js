@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25479"]={"code":"25479","region":"Bourgogne-Franche-Comte","city":"Audincourt","latitude":47.48327,"longitude":6.85341}}(window,'GeoPostal','FR');

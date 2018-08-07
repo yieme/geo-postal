@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72566"]={"code":"72566","region":"AR","city":"Pineville","latitude":36.1677,"longitude":-92.1073}}(window,'GeoPostal','US');

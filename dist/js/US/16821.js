@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16821"]={"code":"16821","region":"PA","city":"Allport","latitude":40.967,"longitude":-78.2014}}(window,'GeoPostal','US');

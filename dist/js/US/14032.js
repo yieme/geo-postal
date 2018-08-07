@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14032"]={"code":"14032","region":"New York","city":"Rapids","latitude":43.09839,"longitude":-78.64086}}(window,'GeoPostal','US');

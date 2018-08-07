@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5265"]={"code":"5265","region":"Catamarca","city":"Icano","latitude":-28.91934,"longitude":-65.32817}}(window,'GeoPostal','AR');

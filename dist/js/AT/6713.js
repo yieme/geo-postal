@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6713"]={"code":"6713","region":"Vorarlberg","city":"Ludesch","latitude":47.2,"longitude":9.78306}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73554"]={"code":"73554","region":"OK","city":"Mangum","latitude":34.9126,"longitude":-99.4606}}(window,'GeoPostal','US');

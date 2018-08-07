@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655111"]={"code":"655111","region":"Khakasiya, Respublika","city":"Sorsk","latitude":54.00333,"longitude":90.24667}}(window,'GeoPostal','RU');

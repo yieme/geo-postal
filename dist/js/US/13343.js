@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13343"]={"code":"13343","region":"NY","city":"Glenfield","latitude":43.7323,"longitude":-75.3669}}(window,'GeoPostal','US');

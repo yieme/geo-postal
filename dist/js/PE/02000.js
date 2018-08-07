@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02000"]={"code":"02000","region":"Ancash","city":"Huaraz","latitude":-9.53333,"longitude":-77.53333}}(window,'GeoPostal','PE');

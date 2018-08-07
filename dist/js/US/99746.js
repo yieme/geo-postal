@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99746"]={"code":"99746","region":"AK","city":"Huslia","latitude":65.6899,"longitude":-156.292}}(window,'GeoPostal','US');

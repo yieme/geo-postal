@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO11 3UG"]={"code":"YO11 3UG","region":"England","city":"Folkton","latitude":54.20019,"longitude":-0.38792}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7C 1A5"]={"code":"L7C 1A5","region":"Ontario","city":"Caledon","latitude":43.748884,"longitude":-79.828989}}(window,'GeoPostal','CA');

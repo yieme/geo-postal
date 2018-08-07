@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28191"]={"code":"28191","region":"Federally Administered Tribal Areas","city":"Miram Shah","latitude":33.00861,"longitude":70.06972}}(window,'GeoPostal','PK');

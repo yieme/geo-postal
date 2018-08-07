@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4791"]={"code":"4791","region":"Noord-Brabant","city":"Klundert","latitude":51.66297,"longitude":4.53461}}(window,'GeoPostal','NL');

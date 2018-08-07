@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39179"]={"code":"39179","region":"MS","city":"Vaughan","latitude":32.8015,"longitude":-90.0981}}(window,'GeoPostal','US');

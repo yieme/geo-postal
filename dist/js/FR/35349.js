@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35349"]={"code":"35349","region":"Bretagne","city":"Liffre","latitude":48.21324,"longitude":-1.50838}}(window,'GeoPostal','FR');

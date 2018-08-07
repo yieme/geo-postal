@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720 53"]={"code":"720 53","region":"Kriti","city":"Skhisma","latitude":35.26667,"longitude":25.71667}}(window,'GeoPostal','GR');

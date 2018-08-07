@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89150"]={"code":"89150","region":"Bourgogne-Franche-Comte","city":"Brannay","latitude":48.2311,"longitude":3.1183}}(window,'GeoPostal','FR');

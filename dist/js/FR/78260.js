@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78260"]={"code":"78260","region":"Ile-de-France","city":"Acheres","latitude":48.96116,"longitude":2.06882}}(window,'GeoPostal','FR');

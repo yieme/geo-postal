@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85490"]={"code":"85490","region":"Sonora","city":"Sahuaripa","latitude":29.05,"longitude":-109.23333}}(window,'GeoPostal','MX');

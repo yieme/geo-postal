@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63869"]={"code":"63869","region":"Bayern","city":"Heigenbrucken","latitude":50.03333,"longitude":9.38333}}(window,'GeoPostal','DE');

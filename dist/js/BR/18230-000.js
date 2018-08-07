@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18230-000"]={"code":"18230-000","region":"Sao Paulo","city":"Sao Miguel Arcanjo","latitude":-23.878333,"longitude":-47.997222}}(window,'GeoPostal','BR');

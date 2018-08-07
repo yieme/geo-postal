@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02568"]={"code":"02568","region":"Massachusetts","city":"Vineyard Haven","latitude":41.45352,"longitude":-70.5894}}(window,'GeoPostal','US');

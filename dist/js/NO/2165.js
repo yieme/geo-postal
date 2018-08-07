@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2165"]={"code":"2165","region":"Akershus","city":"Neskollen","latitude":60.12159,"longitude":11.33926}}(window,'GeoPostal','NO');

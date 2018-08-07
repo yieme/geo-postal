@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89035"]={"code":"89035","region":"Calabria","city":"Bova Marina","latitude":37.93037,"longitude":15.9175}}(window,'GeoPostal','IT');

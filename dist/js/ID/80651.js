@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80651"]={"code":"80651","region":"Bali","city":"Banjar Kedisan","latitude":-8.2799,"longitude":115.3809}}(window,'GeoPostal','ID');

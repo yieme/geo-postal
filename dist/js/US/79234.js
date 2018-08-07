@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79234"]={"code":"79234","region":"TX","city":"Flomot","latitude":34.2321,"longitude":-101.0038}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3202"]={"code":"3202","region":"Aurora","city":"Maria Aurora","latitude":15.7967,"longitude":121.4737}}(window,'GeoPostal','PH');

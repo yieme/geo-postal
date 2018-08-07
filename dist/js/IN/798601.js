@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798601"]={"code":"798601","region":"Nagaland","city":"Mokokchung","latitude":26.33333,"longitude":94.53333}}(window,'GeoPostal','IN');

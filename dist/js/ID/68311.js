@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68311"]={"code":"68311","region":"Jawa Timur","city":"Situbondo","latitude":-7.70623,"longitude":114.00976}}(window,'GeoPostal','ID');

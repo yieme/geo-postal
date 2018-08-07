@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 26"]={"code":"281 26","region":"Stredocesky kraj","city":"Tynec nad Labem","latitude":50.04202,"longitude":15.35836}}(window,'GeoPostal','CZ');

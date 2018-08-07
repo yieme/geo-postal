@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0G 1N0"]={"code":"L0G 1N0","region":"Ontario","city":"Nobleton","latitude":43.902444,"longitude":-79.660538}}(window,'GeoPostal','CA');

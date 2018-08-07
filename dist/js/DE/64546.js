@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64546"]={"code":"64546","region":"Hessen","city":"Morfelden","latitude":49.97612,"longitude":8.565}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39479"]={"code":"39479","region":"Mississippi","city":"Seminary","latitude":31.53282,"longitude":-89.48658}}(window,'GeoPostal','US');

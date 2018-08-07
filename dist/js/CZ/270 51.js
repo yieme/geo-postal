@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 51"]={"code":"270 51","region":"Stredocesky kraj","city":"Luzna","latitude":50.12377,"longitude":13.77004}}(window,'GeoPostal','CZ');

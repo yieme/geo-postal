@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37656"]={"code":"37656","region":"TN","city":"Fall Branch","latitude":36.4158,"longitude":-82.6256}}(window,'GeoPostal','US');

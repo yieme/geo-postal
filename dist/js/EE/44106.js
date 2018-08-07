@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44106"]={"code":"44106","region":"Laane-Virumaa","city":"Kunda","latitude":59.48417,"longitude":26.56111}}(window,'GeoPostal','EE');

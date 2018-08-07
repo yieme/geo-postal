@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3207"]={"code":"3207","region":"Victoria","city":"Port Melbourne","latitude":-37.83961,"longitude":144.94228}}(window,'GeoPostal','AU');

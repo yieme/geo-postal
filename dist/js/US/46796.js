@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46796"]={"code":"46796","region":"IN","city":"Wolflake","latitude":41.3361,"longitude":-85.5002}}(window,'GeoPostal','US');

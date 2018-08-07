@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23100"]={"code":"23100","region":"Nouvelle-Aquitaine","city":"La Courtine","latitude":45.7,"longitude":2.26667}}(window,'GeoPostal','FR');

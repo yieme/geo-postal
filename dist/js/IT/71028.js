@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71028"]={"code":"71028","region":"Puglia","city":"Sant'Agata di Puglia","latitude":41.15182,"longitude":15.38025}}(window,'GeoPostal','IT');

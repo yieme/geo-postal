@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08833"]={"code":"08833","region":"New Jersey","city":"Lebanon","latitude":40.644147,"longitude":-74.825861}}(window,'GeoPostal','US');

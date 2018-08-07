@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53545"]={"code":"53545","region":"Wisconsin","city":"Janesville","latitude":42.68279,"longitude":-89.01872}}(window,'GeoPostal','US');

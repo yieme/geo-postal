@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1W0"]={"code":"V0K 1W0","region":"British Columbia","city":"Logan Lake","latitude":50.49976,"longitude":-120.80253}}(window,'GeoPostal','CA');

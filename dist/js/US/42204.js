@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42204"]={"code":"42204","region":"Kentucky","city":"Allensville","latitude":36.70476,"longitude":-87.04986}}(window,'GeoPostal','US');

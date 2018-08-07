@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45123"]={"code":"45123","region":"OH","city":"Greenfield","latitude":39.3478,"longitude":-83.3898}}(window,'GeoPostal','US');

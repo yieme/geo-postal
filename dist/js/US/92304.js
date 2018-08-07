@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92304"]={"code":"92304","region":"CA","city":"Amboy","latitude":34.5578,"longitude":-115.7444}}(window,'GeoPostal','US');

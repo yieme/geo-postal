@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1W 0HH"]={"code":"SW1W 0HH","region":"England","city":"Ludlow","latitude":52.37431,"longitude":-2.71311}}(window,'GeoPostal','GB');

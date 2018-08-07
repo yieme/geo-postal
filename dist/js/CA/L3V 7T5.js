@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3V 7T5"]={"code":"L3V 7T5","region":"Ontario","city":"Orillia","latitude":44.606365,"longitude":-79.419716}}(window,'GeoPostal','CA');

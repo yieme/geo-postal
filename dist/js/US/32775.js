@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32775"]={"code":"32775","region":"FL","city":"Scottsmoor","latitude":28.7702,"longitude":-80.872}}(window,'GeoPostal','US');

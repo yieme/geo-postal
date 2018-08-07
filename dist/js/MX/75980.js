@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75980"]={"code":"75980","region":"Puebla","city":"Benito Juarez","latitude":19.83333,"longitude":-97.75}}(window,'GeoPostal','MX');

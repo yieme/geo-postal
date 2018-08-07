@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69492"]={"code":"69492","region":"Orebro lan","city":"Hallsberg","latitude":59.0657,"longitude":15.11174}}(window,'GeoPostal','SE');

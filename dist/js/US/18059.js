@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18059"]={"code":"18059","region":"PA","city":"Laurys Station","latitude":40.7177,"longitude":-75.5335}}(window,'GeoPostal','US');

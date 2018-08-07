@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00984-3500"]={"code":"00984-3500","region":"Carolina","city":"Carolina","latitude":18.38078,"longitude":-65.95739}}(window,'GeoPostal','PR');

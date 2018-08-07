@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83864"]={"code":"83864","region":"Idaho","city":"Sandpoint","latitude":48.27659,"longitude":-116.55325}}(window,'GeoPostal','US');

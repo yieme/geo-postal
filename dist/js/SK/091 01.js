@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["091 01"]={"code":"091 01","region":"Presovsky kraj","city":"Stropkov","latitude":49.20211,"longitude":21.65216}}(window,'GeoPostal','SK');

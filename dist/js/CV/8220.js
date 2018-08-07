@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8220"]={"code":"8220","region":"Sao Filipe","city":"Sao Filipe","latitude":14.8961,"longitude":-24.49556}}(window,'GeoPostal','CV');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10964"]={"code":"10964","region":"New York","city":"Palisades","latitude":41.010916,"longitude":-73.923208}}(window,'GeoPostal','US');

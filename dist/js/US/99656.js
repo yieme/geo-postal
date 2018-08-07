@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99656"]={"code":"99656","region":"AK","city":"Red Devil","latitude":61.7611,"longitude":-157.3125}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8620"]={"code":"8620","region":"West-Vlaanderen","city":"Nieuwpoort","latitude":51.13008,"longitude":2.75134}}(window,'GeoPostal','BE');

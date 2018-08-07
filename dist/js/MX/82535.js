@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82535"]={"code":"82535","region":"Sinaloa","city":"Isla del Bosque","latitude":22.73333,"longitude":-105.85}}(window,'GeoPostal','MX');

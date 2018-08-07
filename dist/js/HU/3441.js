@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3441"]={"code":"3441","region":"Borsod-Abauj-Zemplen","city":"Mezokeresztes","latitude":47.83333,"longitude":20.7}}(window,'GeoPostal','HU');

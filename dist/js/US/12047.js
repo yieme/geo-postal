@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12047"]={"code":"12047","region":"New York","city":"Cohoes","latitude":42.773883,"longitude":-73.715037}}(window,'GeoPostal','US');

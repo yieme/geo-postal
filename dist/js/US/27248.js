@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27248"]={"code":"27248","region":"NC","city":"Franklinville","latitude":35.7917,"longitude":-79.7132}}(window,'GeoPostal','US');

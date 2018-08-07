@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44700"]={"code":"44700","region":"Bagmati","city":"Jawalakhel","latitude":27.666667,"longitude":85.316667}}(window,'GeoPostal','NP');

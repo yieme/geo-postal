@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24119"]={"code":"24119","region":"Campeche","city":"Ciudad del Carmen","latitude":18.63333,"longitude":-91.83333}}(window,'GeoPostal','MX');

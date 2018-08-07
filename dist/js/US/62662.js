@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62662"]={"code":"62662","region":"IL","city":"Lowder","latitude":39.5509,"longitude":-89.8459}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34451"]={"code":"34451","region":"Florida","city":"Inverness","latitude":28.83552,"longitude":-82.3305}}(window,'GeoPostal','US');

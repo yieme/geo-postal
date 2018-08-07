@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17048"]={"code":"17048","region":"Pennsylvania","city":"Lykens","latitude":40.59522,"longitude":-76.7139}}(window,'GeoPostal','US');

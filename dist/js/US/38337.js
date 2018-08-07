@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38337"]={"code":"38337","region":"TN","city":"Gadsden","latitude":35.7799,"longitude":-88.9929}}(window,'GeoPostal','US');

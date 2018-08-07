@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61314"]={"code":"61314","region":"Illinois","city":"Buda","latitude":41.325929,"longitude":-89.680188}}(window,'GeoPostal','US');

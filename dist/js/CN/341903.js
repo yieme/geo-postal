@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341903"]={"code":"341903","region":"Jiangxi","city":"Laocheng","latitude":24.68785,"longitude":114.9893}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10500"]={"code":"10500","region":"Grand-Est","city":"Lesmont","latitude":48.4283,"longitude":4.4153}}(window,'GeoPostal','FR');

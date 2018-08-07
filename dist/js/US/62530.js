@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62530"]={"code":"62530","region":"IL","city":"Divernon","latitude":39.5692,"longitude":-89.6626}}(window,'GeoPostal','US');

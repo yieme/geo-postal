@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30703"]={"code":"30703","region":"Occitanie","city":"Uzes","latitude":44.01362,"longitude":4.41529}}(window,'GeoPostal','FR');

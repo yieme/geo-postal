@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21789"]={"code":"21789","region":"Niedersachsen","city":"Wingst","latitude":53.73572,"longitude":9.08054}}(window,'GeoPostal','DE');

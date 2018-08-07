@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 0RG"]={"code":"DD10 0RG","region":"Scotland","city":"Inverbervie","latitude":56.84463,"longitude":-2.27997}}(window,'GeoPostal','GB');

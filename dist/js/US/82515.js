@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82515"]={"code":"82515","region":"WY","city":"Hudson","latitude":42.9061,"longitude":-108.5834}}(window,'GeoPostal','US');

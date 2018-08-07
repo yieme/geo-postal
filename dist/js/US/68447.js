@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68447"]={"code":"68447","region":"Nebraska","city":"Table Rock","latitude":40.17861,"longitude":-96.09361}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9053"]={"code":"9053","region":"Appenzell Ausserrhoden","city":"Teufen","latitude":47.3908,"longitude":9.38644}}(window,'GeoPostal','CH');

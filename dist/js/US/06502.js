@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06502"]={"code":"06502","region":"CT","city":"New Haven","latitude":41.3082,"longitude":-72.9282}}(window,'GeoPostal','US');

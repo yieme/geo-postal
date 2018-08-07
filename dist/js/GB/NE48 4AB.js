@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 4AB"]={"code":"NE48 4AB","region":"England","city":"Barrasford","latitude":55.0551,"longitude":-2.13412}}(window,'GeoPostal','GB');

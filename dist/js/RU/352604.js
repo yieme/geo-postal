@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352604"]={"code":"352604","region":"Krasnodarskiy kray","city":"Pshekhskaya","latitude":44.69597,"longitude":39.79665}}(window,'GeoPostal','RU');

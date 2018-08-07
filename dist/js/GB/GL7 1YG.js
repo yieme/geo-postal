@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL7 1YG"]={"code":"GL7 1YG","region":"England","city":"Cirencester","latitude":51.71708,"longitude":-1.96825}}(window,'GeoPostal','GB');

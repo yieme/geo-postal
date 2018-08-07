@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74609"]={"code":"74609","region":"Harjumaa","city":"Kuusalu","latitude":59.44389,"longitude":25.44139}}(window,'GeoPostal','EE');

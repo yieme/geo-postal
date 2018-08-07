@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54818"]={"code":"54818","region":"Wisconsin","city":"Haugen","latitude":45.613781,"longitude":-91.782613}}(window,'GeoPostal','US');

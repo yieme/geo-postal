@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624019"]={"code":"624019","region":"Sverdlovskaya oblast'","city":"Bobrovskiy","latitude":56.6732,"longitude":60.9807}}(window,'GeoPostal','RU');

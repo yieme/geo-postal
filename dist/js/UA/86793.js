@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86793"]={"code":"86793","region":"Donetska oblast","city":"Ilovays'k","latitude":47.92498,"longitude":38.20236}}(window,'GeoPostal','UA');

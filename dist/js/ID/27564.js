@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27564"]={"code":"27564","region":"Sumatera Barat","city":"Sijunjung","latitude":-0.68762,"longitude":100.95365}}(window,'GeoPostal','ID');

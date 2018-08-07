@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3741"]={"code":"3741","region":"Victoria","city":"Harrietville","latitude":-36.91667,"longitude":147.06667}}(window,'GeoPostal','AU');

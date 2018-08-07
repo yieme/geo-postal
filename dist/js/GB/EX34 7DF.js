@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX34 7DF"]={"code":"EX34 7DF","region":"England","city":"Woolacombe","latitude":51.17296,"longitude":-4.20689}}(window,'GeoPostal','GB');

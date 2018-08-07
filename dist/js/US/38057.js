@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38057"]={"code":"38057","region":"TN","city":"Moscow","latitude":35.0588,"longitude":-89.3595}}(window,'GeoPostal','US');

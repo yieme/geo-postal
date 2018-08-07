@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69190"]={"code":"69190","region":"NE","city":"Oshkosh","latitude":41.405,"longitude":-102.3444}}(window,'GeoPostal','US');

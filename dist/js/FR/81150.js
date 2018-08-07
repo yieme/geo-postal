@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81150"]={"code":"81150","region":"Occitanie","city":"Lagrave","latitude":43.89734,"longitude":1.99268}}(window,'GeoPostal','FR');

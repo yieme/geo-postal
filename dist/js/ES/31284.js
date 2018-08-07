@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31284"]={"code":"31284","region":"Navarra, Comunidad Foral de","city":"Zuniga","latitude":42.69247,"longitude":-2.29982}}(window,'GeoPostal','ES');

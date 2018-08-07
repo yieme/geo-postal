@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20900"]={"code":"20900","region":"Corse","city":"Ajaccio","latitude":41.92723,"longitude":8.73462}}(window,'GeoPostal','FR');

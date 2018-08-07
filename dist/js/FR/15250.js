@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15250"]={"code":"15250","region":"Auvergne-Rhone-Alpes","city":"Saint-Paul-des-Landes","latitude":44.94416,"longitude":2.3142}}(window,'GeoPostal','FR');

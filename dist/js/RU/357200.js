@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357200"]={"code":"357200","region":"Stavropol'skiy kray","city":"Mineral'nyye Vody","latitude":44.21028,"longitude":43.13528}}(window,'GeoPostal','RU');

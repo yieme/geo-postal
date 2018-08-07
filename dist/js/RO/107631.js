@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107631"]={"code":"107631","region":"Prahova","city":"Valea Calugareasca","latitude":44.96667,"longitude":26.15}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62360-000"]={"code":"62360-000","region":"Ceara","city":"Ibiapina","latitude":-3.92333,"longitude":-40.88944}}(window,'GeoPostal','BR');

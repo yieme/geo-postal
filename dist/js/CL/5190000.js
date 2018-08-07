@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5190000"]={"code":"5190000","region":"Los Lagos","city":"Corral","latitude":-39.88972,"longitude":-73.42747}}(window,'GeoPostal','CL');

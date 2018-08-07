@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25079"]={"code":"25079","region":"WV","city":"Falling Rock","latitude":38.4951,"longitude":-81.3984}}(window,'GeoPostal','US');

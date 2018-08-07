@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03872"]={"code":"03872","region":"NH","city":"Sanbornville","latitude":43.5513,"longitude":-71.02}}(window,'GeoPostal','US');

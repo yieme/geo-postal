@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8472"]={"code":"8472","region":"Midtjylland","city":"Soften","latitude":56.23801,"longitude":10.0851}}(window,'GeoPostal','DK');

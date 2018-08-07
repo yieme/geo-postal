@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78395"]={"code":"78395","region":"Ile-de-France","city":"Bois-d'Arcy","latitude":48.79966,"longitude":2.02325}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 4HR"]={"code":"CA6 4HR","region":"England","city":"Harker","latitude":54.93805,"longitude":-2.94486}}(window,'GeoPostal','GB');

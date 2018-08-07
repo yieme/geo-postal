@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59790"]={"code":"59790","region":"Hauts-de-France","city":"Ronchin","latitude":50.59883,"longitude":3.09056}}(window,'GeoPostal','FR');

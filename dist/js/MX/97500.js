@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97500"]={"code":"97500","region":"Yucatan","city":"Dzidzantun","latitude":21.25,"longitude":-89.05}}(window,'GeoPostal','MX');

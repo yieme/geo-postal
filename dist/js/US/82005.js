@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82005"]={"code":"82005","region":"WY","city":"Fe Warren Afb","latitude":41.1391,"longitude":-104.8629}}(window,'GeoPostal','US');

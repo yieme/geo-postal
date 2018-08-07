@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25264"]={"code":"25264","region":"Catalunya","city":"Vilanova de Bellpuig","latitude":41.61378,"longitude":0.96432}}(window,'GeoPostal','ES');

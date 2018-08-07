@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48130"]={"code":"48130","region":"Occitanie","city":"Aumont-Aubrac","latitude":44.72205,"longitude":3.28466}}(window,'GeoPostal','FR');

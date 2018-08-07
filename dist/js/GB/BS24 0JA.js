@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS24 0JA"]={"code":"BS24 0JA","region":"England","city":"Edingworth","latitude":51.27502,"longitude":-2.92289}}(window,'GeoPostal','GB');

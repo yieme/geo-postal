@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75446"]={"code":"75446","region":"TX","city":"Honey Grove","latitude":33.5985,"longitude":-95.9109}}(window,'GeoPostal','US');

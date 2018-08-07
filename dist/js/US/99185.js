@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99185"]={"code":"99185","region":"WA","city":"Wilbur","latitude":47.741,"longitude":-118.7063}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85209"]={"code":"85209","region":"Pays-de-la-Loire","city":"Fontenay-le-Comte","latitude":46.46667,"longitude":-0.81667}}(window,'GeoPostal','FR');

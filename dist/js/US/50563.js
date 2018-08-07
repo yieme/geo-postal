@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50563"]={"code":"50563","region":"Iowa","city":"Manson","latitude":42.529305,"longitude":-94.535193}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81089"]={"code":"81089","region":"Colorado","city":"Walsenburg","latitude":37.62418,"longitude":-104.78026}}(window,'GeoPostal','US');

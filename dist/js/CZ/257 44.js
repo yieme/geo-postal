@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 44"]={"code":"257 44","region":"Stredocesky kraj","city":"Netvorice","latitude":49.81569,"longitude":14.51827}}(window,'GeoPostal','CZ');

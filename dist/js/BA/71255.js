@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71255"]={"code":"71255","region":"Federacija Bosne i Hercegovine","city":"Gromiljak","latitude":43.96667,"longitude":18.05306}}(window,'GeoPostal','BA');

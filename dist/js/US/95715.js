@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95715"]={"code":"95715","region":"California","city":"Emigrant Gap","latitude":39.29694,"longitude":-120.67278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3380000"]={"code":"3380000","region":"Maule","city":"Molina","latitude":-35.11667,"longitude":-71.28333}}(window,'GeoPostal','CL');

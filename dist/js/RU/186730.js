@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186730"]={"code":"186730","region":"Kareliya, Respublika","city":"Lakhdenpokh'ya","latitude":61.51981,"longitude":30.19917}}(window,'GeoPostal','RU');

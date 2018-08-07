@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38863"]={"code":"38863","region":"Mississippi","city":"Pontotoc","latitude":34.22568,"longitude":-88.97454}}(window,'GeoPostal','US');

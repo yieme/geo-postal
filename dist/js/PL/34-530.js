@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-530"]={"code":"34-530","region":"Malopolskie","city":"Bukowina Tatrzanska","latitude":49.34302,"longitude":20.10807}}(window,'GeoPostal','PL');

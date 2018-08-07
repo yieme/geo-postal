@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20871"]={"code":"20871","region":"Maryland","city":"Clarksburg","latitude":39.26076,"longitude":-77.27796}}(window,'GeoPostal','US');

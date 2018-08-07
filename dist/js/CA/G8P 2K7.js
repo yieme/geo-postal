@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8P 2K7"]={"code":"G8P 2K7","region":"Quebec","city":"Chibougamau","latitude":49.913583,"longitude":-74.368375}}(window,'GeoPostal','CA');

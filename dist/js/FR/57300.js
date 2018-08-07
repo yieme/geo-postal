@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57300"]={"code":"57300","region":"Grand-Est","city":"Tremery","latitude":49.2446,"longitude":6.22357}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77624"]={"code":"77624","region":"Texas","city":"Hillister","latitude":30.683533,"longitude":-94.413343}}(window,'GeoPostal','US');

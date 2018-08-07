@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94550"]={"code":"94550","region":"Bayern","city":"Thannberg","latitude":48.6497,"longitude":13.07047}}(window,'GeoPostal','DE');

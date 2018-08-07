@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57490-000"]={"code":"57490-000","region":"Alagoas","city":"Agua Branca","latitude":-9.26083,"longitude":-37.93611}}(window,'GeoPostal','BR');

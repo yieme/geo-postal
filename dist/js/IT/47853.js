@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47853"]={"code":"47853","region":"Emilia-Romagna","city":"Coriano","latitude":43.96906,"longitude":12.60055}}(window,'GeoPostal','IT');

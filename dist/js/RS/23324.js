@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23324"]={"code":"23324","region":"Severnobanatski okrug","city":"Sajan","latitude":45.84444,"longitude":20.27833}}(window,'GeoPostal','RS');

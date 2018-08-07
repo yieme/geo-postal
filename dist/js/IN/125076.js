@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125076"]={"code":"125076","region":"Haryana","city":"Rania","latitude":29.53333,"longitude":74.83333}}(window,'GeoPostal','IN');

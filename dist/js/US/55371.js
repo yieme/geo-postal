@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55371"]={"code":"55371","region":"Minnesota","city":"Princeton","latitude":45.56996,"longitude":-93.58163}}(window,'GeoPostal','US');

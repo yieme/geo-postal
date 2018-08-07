@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301000"]={"code":"301000","region":"Tul'skaya oblast'","city":"Zaokskiy","latitude":54.73056,"longitude":37.40889}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15320"]={"code":"15320","region":"Macvanski okrug","city":"Ljubovija","latitude":44.18944,"longitude":19.37667}}(window,'GeoPostal','RS');

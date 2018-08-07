@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75764"]={"code":"75764","region":"TX","city":"Gallatin","latitude":31.891,"longitude":-95.1455}}(window,'GeoPostal','US');

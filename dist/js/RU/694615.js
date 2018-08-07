@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694615"]={"code":"694615","region":"Sakhalinskaya oblast'","city":"Pravda","latitude":46.93956,"longitude":142.00903}}(window,'GeoPostal','RU');

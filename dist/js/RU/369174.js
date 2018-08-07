@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369174"]={"code":"369174","region":"Karachayevo-Cherkesskaya Respublika","city":"Ispravnaya","latitude":44.0682,"longitude":41.6102}}(window,'GeoPostal','RU');

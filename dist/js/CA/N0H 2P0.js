@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0H 2P0"]={"code":"N0H 2P0","region":"Ontario","city":"Thornbury","latitude":44.557668,"longitude":-80.466199}}(window,'GeoPostal','CA');

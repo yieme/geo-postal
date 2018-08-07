@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19160-000"]={"code":"19160-000","region":"Sao Paulo","city":"Presidente Prudente","latitude":-22.12556,"longitude":-51.38889}}(window,'GeoPostal','BR');

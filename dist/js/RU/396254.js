@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396254"]={"code":"396254","region":"Voronezhskaya oblast'","city":"Anna","latitude":51.4842,"longitude":40.4299}}(window,'GeoPostal','RU');

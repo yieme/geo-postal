@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD12 4RW"]={"code":"TD12 4RW","region":"England","city":"Carham","latitude":55.63837,"longitude":-2.3215}}(window,'GeoPostal','GB');

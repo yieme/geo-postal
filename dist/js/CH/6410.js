@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6410"]={"code":"6410","region":"Schwyz","city":"Goldau","latitude":47.04761,"longitude":8.54616}}(window,'GeoPostal','CH');

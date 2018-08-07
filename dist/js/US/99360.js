@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99360"]={"code":"99360","region":"Washington","city":"Touchet","latitude":46.0695,"longitude":-118.7163}}(window,'GeoPostal','US');

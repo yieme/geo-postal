@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57363"]={"code":"57363","region":"South Dakota","city":"Mount Vernon","latitude":43.718647,"longitude":-98.265311}}(window,'GeoPostal','US');

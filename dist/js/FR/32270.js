@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32270"]={"code":"32270","region":"Occitanie","city":"Marsan","latitude":43.6575,"longitude":0.7231}}(window,'GeoPostal','FR');

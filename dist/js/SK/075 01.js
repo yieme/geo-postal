@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["075 01"]={"code":"075 01","region":"Kosicky kraj","city":"Trebisov","latitude":48.62858,"longitude":21.71954}}(window,'GeoPostal','SK');

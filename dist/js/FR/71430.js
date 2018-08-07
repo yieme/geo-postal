@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71430"]={"code":"71430","region":"Bourgogne-Franche-Comte","city":"Palinges","latitude":46.55357,"longitude":4.21964}}(window,'GeoPostal','FR');

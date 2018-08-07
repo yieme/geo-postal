@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75980"]={"code":"75980","region":"TX","city":"Zavalla","latitude":31.1569,"longitude":-94.3871}}(window,'GeoPostal','US');

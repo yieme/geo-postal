@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60035"]={"code":"60035","region":"Marche","city":"Jesi","latitude":43.52142,"longitude":13.24368}}(window,'GeoPostal','IT');

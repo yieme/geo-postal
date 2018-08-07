@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96763"]={"code":"96763","region":"Hawaii","city":"Lana'i City","latitude":20.83056,"longitude":-156.92222}}(window,'GeoPostal','US');

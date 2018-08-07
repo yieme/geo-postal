@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70330"]={"code":"70330","region":"Oaxaca","city":"San Juan Guichicovi","latitude":16.96667,"longitude":-95.1}}(window,'GeoPostal','MX');

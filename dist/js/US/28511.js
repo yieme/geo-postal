@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28511"]={"code":"28511","region":"NC","city":"Atlantic","latitude":34.8888,"longitude":-76.3521}}(window,'GeoPostal','US');

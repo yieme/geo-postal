@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37287"]={"code":"37287","region":"Hessen","city":"Reichensachsen","latitude":51.15278,"longitude":9.99617}}(window,'GeoPostal','DE');

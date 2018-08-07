@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63122"]={"code":"63122","region":"Auvergne-Rhone-Alpes","city":"Ceyrat","latitude":45.73176,"longitude":3.06335}}(window,'GeoPostal','FR');

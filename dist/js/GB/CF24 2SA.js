@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF24 2SA"]={"code":"CF24 2SA","region":"Wales","city":"Cardiff","latitude":51.48,"longitude":-3.18}}(window,'GeoPostal','GB');

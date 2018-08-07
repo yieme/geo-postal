@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30016"]={"code":"30016","region":"Veneto","city":"Jesolo","latitude":45.53311,"longitude":12.64475}}(window,'GeoPostal','IT');

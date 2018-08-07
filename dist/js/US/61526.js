@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61526"]={"code":"61526","region":"IL","city":"Edelstein","latitude":40.9454,"longitude":-89.5858}}(window,'GeoPostal','US');

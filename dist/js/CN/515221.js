@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515221"]={"code":"515221","region":"Guangdong","city":"Huahu","latitude":23.02922,"longitude":116.33083}}(window,'GeoPostal','CN');

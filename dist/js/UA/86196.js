@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86196"]={"code":"86196","region":"Donetska oblast","city":"Makiyivka","latitude":48.04782,"longitude":37.92576}}(window,'GeoPostal','UA');

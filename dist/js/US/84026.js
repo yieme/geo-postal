@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84026"]={"code":"84026","region":"Utah","city":"Fort Duchesne","latitude":40.295616,"longitude":-109.838209}}(window,'GeoPostal','US');

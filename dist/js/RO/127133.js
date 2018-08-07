@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127133"]={"code":"127133","region":"Cluj","city":"Frasinet","latitude":44.31667,"longitude":26.8}}(window,'GeoPostal','RO');

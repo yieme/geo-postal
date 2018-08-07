@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86333"]={"code":"86333","region":"AZ","city":"Mayer","latitude":34.3655,"longitude":-112.1296}}(window,'GeoPostal','US');

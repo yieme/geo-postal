@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21001"]={"code":"21001","region":"Alajuela","city":"Quesada","latitude":10.32381,"longitude":-84.42714}}(window,'GeoPostal','CR');

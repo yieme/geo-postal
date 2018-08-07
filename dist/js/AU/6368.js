@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6368"]={"code":"6368","region":"Western Australia","city":"Narembeen","latitude":-32.06366,"longitude":118.39571}}(window,'GeoPostal','AU');

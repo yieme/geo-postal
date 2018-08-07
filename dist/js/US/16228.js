@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16228"]={"code":"16228","region":"PA","city":"Ford Cliff","latitude":40.7608,"longitude":-79.5358}}(window,'GeoPostal','US');

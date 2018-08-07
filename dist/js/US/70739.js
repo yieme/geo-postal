@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70739"]={"code":"70739","region":"LA","city":"Greenwell Springs","latitude":30.5984,"longitude":-90.9705}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60015"]={"code":"60015","region":"Marche","city":"Ancona","latitude":43.59816,"longitude":13.51008}}(window,'GeoPostal','IT');

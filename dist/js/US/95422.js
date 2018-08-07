@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95422"]={"code":"95422","region":"California","city":"Clearlake","latitude":38.95823,"longitude":-122.62637}}(window,'GeoPostal','US');

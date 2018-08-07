@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917046"]={"code":"917046","region":"Calarasi","city":"Cuza Voda","latitude":44.26667,"longitude":27.26667}}(window,'GeoPostal','RO');

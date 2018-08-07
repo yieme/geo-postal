@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73095"]={"code":"73095","region":"Baden-Wurttemberg","city":"Albershausen","latitude":48.69136,"longitude":9.56493}}(window,'GeoPostal','DE');

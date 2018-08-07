@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75941"]={"code":"75941","region":"TX","city":"Diboll","latitude":31.195,"longitude":-94.7729}}(window,'GeoPostal','US');

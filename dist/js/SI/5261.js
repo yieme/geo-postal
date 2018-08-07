@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5261"]={"code":"5261","region":"Nova Gorica","city":"Sempas","latitude":45.93028,"longitude":13.74361}}(window,'GeoPostal','SI');

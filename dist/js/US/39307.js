@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39307"]={"code":"39307","region":"MS","city":"Meridian","latitude":32.3736,"longitude":-88.7436}}(window,'GeoPostal','US');

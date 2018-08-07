@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100"]={"code":"2100","region":"Sofia","city":"Elin Pelin","latitude":42.66667,"longitude":23.6}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14536"]={"code":"14536","region":"NY","city":"Portageville","latitude":42.557,"longitude":-78.0856}}(window,'GeoPostal','US');

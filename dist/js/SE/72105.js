@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72105"]={"code":"72105","region":"Vastmanlands lan","city":"Vasteras","latitude":59.61617,"longitude":16.55276}}(window,'GeoPostal','SE');

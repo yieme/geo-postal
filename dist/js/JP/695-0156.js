@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["695-0156"]={"code":"695-0156","region":"Shimane","city":"Gotsu","latitude":35.017,"longitude":132.217}}(window,'GeoPostal','JP');

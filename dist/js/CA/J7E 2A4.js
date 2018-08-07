@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7E 2A4"]={"code":"J7E 2A4","region":"Quebec","city":"Sainte-Therese","latitude":45.640793,"longitude":-73.846387}}(window,'GeoPostal','CA');

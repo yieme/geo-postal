@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69-113"]={"code":"69-113","region":"Lubuskie","city":"Gorzyca","latitude":52.49447,"longitude":14.65503}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 1L0"]={"code":"V0C 1L0","region":"British Columbia","city":"Dease Lake","latitude":58.43569,"longitude":-129.98749}}(window,'GeoPostal','CA');

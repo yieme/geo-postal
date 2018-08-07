@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47536"]={"code":"47536","region":"Indiana","city":"Fulda","latitude":38.138783,"longitude":-86.84821}}(window,'GeoPostal','US');

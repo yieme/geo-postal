@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97739"]={"code":"97739","region":"Oregon","city":"La Pine","latitude":43.705024,"longitude":-121.529567}}(window,'GeoPostal','US');

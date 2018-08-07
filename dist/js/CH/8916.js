@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8916"]={"code":"8916","region":"Aargau","city":"Jonen","latitude":47.2974,"longitude":8.39337}}(window,'GeoPostal','CH');

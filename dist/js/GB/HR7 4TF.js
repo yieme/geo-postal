@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR7 4TF"]={"code":"HR7 4TF","region":"England","city":"Bredenbury","latitude":52.20763,"longitude":-2.57702}}(window,'GeoPostal','GB');

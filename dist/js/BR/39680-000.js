@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39680-000"]={"code":"39680-000","region":"Minas Gerais","city":"Capelinha","latitude":-17.69139,"longitude":-42.51583}}(window,'GeoPostal','BR');

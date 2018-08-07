@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44130"]={"code":"44130","region":"Pays-de-la-Loire","city":"Blain","latitude":47.47655,"longitude":-1.76285}}(window,'GeoPostal','FR');

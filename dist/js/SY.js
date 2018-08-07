@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SY"]={id:'SY',country:'Syrian Arab Republic', postal:{'':{code:'',region:'Al Qunaytirah',city:'Khan Arnabah',latitude:33.18378,longitude:35.89158}}};

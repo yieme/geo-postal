@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01640"]={"code":"01640","region":"Sachsen-Anhalt","city":"Coswig","latitude":51.88618,"longitude":12.4501}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307501"]={"code":"307501","region":"Rajasthan","city":"Abu","latitude":24.6,"longitude":72.7}}(window,'GeoPostal','IN');

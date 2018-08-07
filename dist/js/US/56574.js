@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56574"]={"code":"56574","region":"MN","city":"Perley","latitude":47.1831,"longitude":-96.7777}}(window,'GeoPostal','US');

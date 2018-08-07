@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70525"]={"code":"70525","region":"LA","city":"Church Point","latitude":30.4013,"longitude":-92.224}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18920"]={"code":"18920","region":"PA","city":"Erwinna","latitude":40.5087,"longitude":-75.0804}}(window,'GeoPostal','US');

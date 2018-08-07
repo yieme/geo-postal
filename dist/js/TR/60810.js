@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60810"]={"code":"60810","region":"Tokat","city":"Artova","latitude":40.11578,"longitude":36.3001}}(window,'GeoPostal','TR');

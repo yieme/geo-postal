@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13051"]={"code":"13051","region":"NY","city":"Delphi Falls","latitude":42.8765,"longitude":-75.9135}}(window,'GeoPostal','US');

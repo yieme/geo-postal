@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54452"]={"code":"54452","region":"WI","city":"Merrill","latitude":45.1809,"longitude":-89.6907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 7YA"]={"code":"HR2 7YA","region":"England","city":"Belmont","latitude":52.04272,"longitude":-2.74169}}(window,'GeoPostal','GB');

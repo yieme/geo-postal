@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202527"]={"code":"202527","region":"Uttar Pradesh","city":"Anupshahr","latitude":28.36667,"longitude":78.26667}}(window,'GeoPostal','IN');

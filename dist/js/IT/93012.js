@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93012"]={"code":"93012","region":"Sicilia","city":"Gela","latitude":37.08034,"longitude":14.23068}}(window,'GeoPostal','IT');

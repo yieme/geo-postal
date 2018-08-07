@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57006"]={"code":"57006","region":"South Dakota","city":"Brookings","latitude":44.31136,"longitude":-96.79839}}(window,'GeoPostal','US');

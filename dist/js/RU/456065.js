@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456065"]={"code":"456065","region":"Chelyabinskaya oblast'","city":"Vyazovaya","latitude":54.905,"longitude":58.35611}}(window,'GeoPostal','RU');

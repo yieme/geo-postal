@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE12 9JJ"]={"code":"LE12 9JJ","region":"England","city":"Shepshed","latitude":52.7657,"longitude":-1.29021}}(window,'GeoPostal','GB');

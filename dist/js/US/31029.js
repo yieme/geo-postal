@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31029"]={"code":"31029","region":"Georgia","city":"Forsyth","latitude":33.033326,"longitude":-83.93755}}(window,'GeoPostal','US');

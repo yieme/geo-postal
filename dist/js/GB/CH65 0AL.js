@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH65 0AL"]={"code":"CH65 0AL","region":"England","city":"Ellesmere Port","latitude":53.27875,"longitude":-2.90134}}(window,'GeoPostal','GB');

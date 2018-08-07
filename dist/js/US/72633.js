@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72633"]={"code":"72633","region":"Arkansas","city":"Everton","latitude":36.15389,"longitude":-92.90806}}(window,'GeoPostal','US');

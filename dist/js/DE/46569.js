@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46569"]={"code":"46569","region":"Nordrhein-Westfalen","city":"Hunxe","latitude":51.65,"longitude":6.78333}}(window,'GeoPostal','DE');

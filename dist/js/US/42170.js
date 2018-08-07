@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42170"]={"code":"42170","region":"KY","city":"Woodburn","latitude":36.8557,"longitude":-86.5623}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32452"]={"code":"32452","region":"FL","city":"Noma","latitude":30.9821,"longitude":-85.6185}}(window,'GeoPostal','US');

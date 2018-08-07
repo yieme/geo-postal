@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48767"]={"code":"48767","region":"MI","city":"Unionville","latitude":43.6473,"longitude":-83.4699}}(window,'GeoPostal','US');

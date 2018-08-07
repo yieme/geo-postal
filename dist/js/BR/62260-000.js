@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62260-000"]={"code":"62260-000","region":"Ceara","city":"Reriutaba","latitude":-4.14167,"longitude":-40.58222}}(window,'GeoPostal','BR');

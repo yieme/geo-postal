@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR20 5AA"]={"code":"NR20 5AA","region":"England","city":"Brisley","latitude":52.75609,"longitude":0.88721}}(window,'GeoPostal','GB');

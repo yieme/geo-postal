@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 5BX"]={"code":"TR27 5BX","region":"England","city":"Gwithian","latitude":50.2215,"longitude":-5.38553}}(window,'GeoPostal','GB');

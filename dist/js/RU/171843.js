@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171843"]={"code":"171843","region":"Tverskaya oblast'","city":"Udomlya","latitude":57.87944,"longitude":34.9925}}(window,'GeoPostal','RU');

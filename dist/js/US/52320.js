@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52320"]={"code":"52320","region":"Iowa","city":"Olin","latitude":42.002975,"longitude":-91.137609}}(window,'GeoPostal','US');

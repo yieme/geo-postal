@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67865"]={"code":"67865","region":"KS","city":"Minneola","latitude":37.4425,"longitude":-100.0088}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13361"]={"code":"13361","region":"NY","city":"Jordanville","latitude":42.9148,"longitude":-74.9515}}(window,'GeoPostal','US');

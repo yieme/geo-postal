@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49718"]={"code":"49718","region":"MI","city":"Carp Lake","latitude":45.7424,"longitude":-84.7735}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12978"]={"code":"12978","region":"NY","city":"Redford","latitude":44.6164,"longitude":-73.8087}}(window,'GeoPostal','US');

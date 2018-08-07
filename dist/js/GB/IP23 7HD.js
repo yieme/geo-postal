@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 7HD"]={"code":"IP23 7HD","region":"England","city":"Thornham Parva","latitude":52.30928,"longitude":1.10186}}(window,'GeoPostal','GB');

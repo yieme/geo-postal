@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 4RD"]={"code":"PL14 4RD","region":"England","city":"Herodsfoot","latitude":50.41302,"longitude":-4.55486}}(window,'GeoPostal','GB');

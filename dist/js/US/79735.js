@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79735"]={"code":"79735","region":"Texas","city":"Fort Stockton","latitude":30.89404,"longitude":-102.87932}}(window,'GeoPostal','US');

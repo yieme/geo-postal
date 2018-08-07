@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72365"]={"code":"72365","region":"AR","city":"Marked Tree","latitude":35.5349,"longitude":-90.4194}}(window,'GeoPostal','US');

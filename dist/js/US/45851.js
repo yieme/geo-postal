@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45851"]={"code":"45851","region":"Ohio","city":"Haviland","latitude":41.019214,"longitude":-84.580719}}(window,'GeoPostal','US');

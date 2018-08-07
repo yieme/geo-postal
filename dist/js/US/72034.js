@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72034"]={"code":"72034","region":"Arkansas","city":"Conway","latitude":35.088611,"longitude":-92.441944}}(window,'GeoPostal','US');

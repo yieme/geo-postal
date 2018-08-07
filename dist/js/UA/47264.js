@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47264"]={"code":"47264","region":"Ternopilska oblast","city":"Ozerna","latitude":49.62891,"longitude":25.32895}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25917"]={"code":"25917","region":"WV","city":"Scarbro","latitude":37.9488,"longitude":-81.1531}}(window,'GeoPostal','US');

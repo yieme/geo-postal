@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6216"]={"code":"6216","region":"Bohol","city":"Calape","latitude":9.8922,"longitude":123.8748}}(window,'GeoPostal','PH');

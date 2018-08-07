@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63827"]={"code":"63827","region":"Marche","city":"Pedaso","latitude":43.09916,"longitude":13.84079}}(window,'GeoPostal','IT');

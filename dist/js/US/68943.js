@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68943"]={"code":"68943","region":"NE","city":"Hardy","latitude":40.0285,"longitude":-97.9271}}(window,'GeoPostal','US');

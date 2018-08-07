@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26849"]={"code":"26849","region":"Niedersachsen","city":"Stallbruggerfeld","latitude":53.26528,"longitude":7.64751}}(window,'GeoPostal','DE');

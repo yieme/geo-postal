@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12436"]={"code":"12436","region":"NY","city":"Haines Falls","latitude":42.1955,"longitude":-74.1023}}(window,'GeoPostal','US');

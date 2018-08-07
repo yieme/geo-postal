@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85608"]={"code":"85608","region":"Arizona","city":"Douglas","latitude":31.353283,"longitude":-109.552523}}(window,'GeoPostal','US');

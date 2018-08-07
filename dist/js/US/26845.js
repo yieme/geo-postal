@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26845"]={"code":"26845","region":"WV","city":"Old Fields","latitude":39.1502,"longitude":-78.9509}}(window,'GeoPostal','US');

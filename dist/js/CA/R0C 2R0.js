@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 2R0"]={"code":"R0C 2R0","region":"Manitoba","city":"Okno","latitude":51.05331,"longitude":-97.20316}}(window,'GeoPostal','CA');

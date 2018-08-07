@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44999"]={"code":"44999","region":"OH","city":"Mansfield","latitude":40.76,"longitude":-82.51}}(window,'GeoPostal','US');

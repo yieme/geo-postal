@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01378"]={"code":"01378","region":"MA","city":"Warwick","latitude":42.6671,"longitude":-72.3397}}(window,'GeoPostal','US');

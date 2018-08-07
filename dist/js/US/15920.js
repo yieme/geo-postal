@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15920"]={"code":"15920","region":"Pennsylvania","city":"Armagh","latitude":40.443765,"longitude":-79.009014}}(window,'GeoPostal','US');

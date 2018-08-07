@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03222"]={"code":"03222","region":"Brandenburg","city":"Gross Beuchow","latitude":51.85003,"longitude":13.90305}}(window,'GeoPostal','DE');

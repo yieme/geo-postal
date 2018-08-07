@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08171"]={"code":"08171","region":"Kyivska oblast","city":"Khotov","latitude":50.33068,"longitude":30.46836}}(window,'GeoPostal','UA');

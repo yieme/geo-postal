@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61570"]={"code":"61570","region":"Konya","city":"Yunak","latitude":38.81418,"longitude":31.73224}}(window,'GeoPostal','TR');

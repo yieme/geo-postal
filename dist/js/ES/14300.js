@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14300"]={"code":"14300","region":"Andalucia","city":"Villaviciosa de Cordoba","latitude":38.08333,"longitude":-5.01667}}(window,'GeoPostal','ES');

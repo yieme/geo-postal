@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69159"]={"code":"69159","region":"Auvergne-Rhone-Alpes","city":"Decines-Charpieu","latitude":45.76899,"longitude":4.97277}}(window,'GeoPostal','FR');

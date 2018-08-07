@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-700"]={"code":"26-700","region":"Mazowieckie","city":"Zwolen","latitude":51.35542,"longitude":21.58768}}(window,'GeoPostal','PL');

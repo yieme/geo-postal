@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73555"]={"code":"73555","region":"OK","city":"Manitou","latitude":34.5075,"longitude":-98.9792}}(window,'GeoPostal','US');

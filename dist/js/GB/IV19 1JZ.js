@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV19 1JZ"]={"code":"IV19 1JZ","region":"Scotland","city":"Edderton","latitude":57.83315,"longitude":-4.17616}}(window,'GeoPostal','GB');

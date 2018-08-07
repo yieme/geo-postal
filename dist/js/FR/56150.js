@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56150"]={"code":"56150","region":"Bretagne","city":"Baud","latitude":47.87474,"longitude":-3.0176}}(window,'GeoPostal','FR');

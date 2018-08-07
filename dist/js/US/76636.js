@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76636"]={"code":"76636","region":"TX","city":"Covington","latitude":32.1595,"longitude":-97.2591}}(window,'GeoPostal','US');

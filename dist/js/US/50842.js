@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50842"]={"code":"50842","region":"IA","city":"Cromwell","latitude":41.0398,"longitude":-94.4616}}(window,'GeoPostal','US');

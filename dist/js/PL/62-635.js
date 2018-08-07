@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-635"]={"code":"62-635","region":"Wielkopolskie","city":"Przedecz","latitude":52.3344,"longitude":18.89915}}(window,'GeoPostal','PL');

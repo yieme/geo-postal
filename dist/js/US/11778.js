@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11778"]={"code":"11778","region":"New York","city":"Rocky Point","latitude":40.9526,"longitude":-72.92538}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341711"]={"code":"341711","region":"Jiangxi","city":"Liren","latitude":24.89896,"longitude":114.87812}}(window,'GeoPostal','CN');

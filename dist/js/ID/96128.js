@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96128"]={"code":"96128","region":"Gorontalo","city":"Gorontalo","latitude":0.5412,"longitude":123.0595}}(window,'GeoPostal','ID');

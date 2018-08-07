@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24530"]={"code":"24530","region":"VA","city":"Callands","latitude":36.7647,"longitude":-79.6288}}(window,'GeoPostal','US');

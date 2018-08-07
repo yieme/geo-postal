@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45890"]={"code":"45890","region":"OH","city":"Vanlue","latitude":40.9583,"longitude":-83.4971}}(window,'GeoPostal','US');

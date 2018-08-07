@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0T0"]={"code":"X0E 0T0","region":"Northwest Territories","city":"Inuvik","latitude":68.34986,"longitude":-133.72181}}(window,'GeoPostal','CA');

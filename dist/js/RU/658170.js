@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658170"]={"code":"658170","region":"Altayskiy kray","city":"Charyshskoye","latitude":51.3978,"longitude":83.5598}}(window,'GeoPostal','RU');

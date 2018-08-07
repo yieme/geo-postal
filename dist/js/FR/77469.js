@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77469"]={"code":"77469","region":"Ile-de-France","city":"Souppes-sur-Loing","latitude":48.18297,"longitude":2.73521}}(window,'GeoPostal','FR');

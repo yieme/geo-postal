@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2128"]={"code":"2128","region":"New South Wales","city":"Silverwater","latitude":-33.10396,"longitude":151.56364}}(window,'GeoPostal','AU');

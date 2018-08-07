@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7JP"]={"code":"IP13 7JP","region":"England","city":"Kettleburgh","latitude":52.19377,"longitude":1.31215}}(window,'GeoPostal','GB');

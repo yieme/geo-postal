@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA32 8JE"]={"code":"SA32 8JE","region":"Wales","city":"Llanarthney","latitude":51.86043,"longitude":-4.12873}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4219"]={"code":"4219","region":"Liege","city":"Wasseiges","latitude":50.62186,"longitude":5.00528}}(window,'GeoPostal','BE');

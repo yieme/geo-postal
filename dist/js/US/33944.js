@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33944"]={"code":"33944","region":"Florida","city":"Palmdale","latitude":26.945,"longitude":-81.3164}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BL2 5NF"]={"code":"BL2 5NF","region":"England","city":"Harwood","latitude":53.58333,"longitude":-2.38333}}(window,'GeoPostal','GB');

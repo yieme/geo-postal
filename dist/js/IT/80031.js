@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80031"]={"code":"80031","region":"Campania","city":"Brusciano","latitude":40.92321,"longitude":14.42393}}(window,'GeoPostal','IT');

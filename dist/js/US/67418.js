@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67418"]={"code":"67418","region":"KS","city":"Barnard","latitude":39.1816,"longitude":-98.0711}}(window,'GeoPostal','US');

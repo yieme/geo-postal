@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517-0507"]={"code":"517-0507","region":"Mie","city":"Shima","latitude":34.333,"longitude":136.833}}(window,'GeoPostal','JP');

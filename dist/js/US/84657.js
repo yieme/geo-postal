@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84657"]={"code":"84657","region":"Utah","city":"Sigurd","latitude":38.843275,"longitude":-111.967976}}(window,'GeoPostal','US');

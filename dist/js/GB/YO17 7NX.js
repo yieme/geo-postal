@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 7NX"]={"code":"YO17 7NX","region":"England","city":"Malton","latitude":54.13454,"longitude":-0.79669}}(window,'GeoPostal','GB');

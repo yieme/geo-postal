@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36446"]={"code":"36446","region":"Alabama","city":"Fulton","latitude":31.78666,"longitude":-87.645699}}(window,'GeoPostal','US');

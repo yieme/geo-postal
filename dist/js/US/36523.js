@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36523"]={"code":"36523","region":"AL","city":"Coden","latitude":30.3903,"longitude":-88.2076}}(window,'GeoPostal','US');

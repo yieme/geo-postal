@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["D4"]={"code":"D4","region":"Dublin","city":"Donnybrook","latitude":53.31375,"longitude":-6.22274}}(window,'GeoPostal','IE');

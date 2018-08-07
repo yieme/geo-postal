@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98381"]={"code":"98381","region":"Norrbottens lan","city":"Malmberget","latitude":67.17529,"longitude":20.65495}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144804"]={"code":"144804","region":"Punjab","city":"Dhilwan","latitude":31.51694,"longitude":75.35}}(window,'GeoPostal','IN');

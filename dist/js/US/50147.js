@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50147"]={"code":"50147","region":"IA","city":"Lineville","latitude":40.6004,"longitude":-93.4862}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75500"]={"code":"75500","region":"Puebla","city":"Palmar de Bravo","latitude":18.83333,"longitude":-97.56667}}(window,'GeoPostal','MX');

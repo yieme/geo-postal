@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49727"]={"code":"49727","region":"Michigan","city":"East Jordan","latitude":45.15806,"longitude":-85.12423}}(window,'GeoPostal','US');

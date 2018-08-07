@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37618"]={"code":"37618","region":"TN","city":"Bluff City","latitude":36.4774,"longitude":-82.2362}}(window,'GeoPostal','US');

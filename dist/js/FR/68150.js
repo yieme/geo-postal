@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68150"]={"code":"68150","region":"Grand-Est","city":"Ostheim","latitude":48.15999,"longitude":7.36982}}(window,'GeoPostal','FR');

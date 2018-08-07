@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332 03"]={"code":"332 03","region":"Plzensky kraj","city":"St'ahlavy","latitude":49.67555,"longitude":13.50394}}(window,'GeoPostal','CZ');

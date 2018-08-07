@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95250"]={"code":"95250","region":"CA","city":"San Andreas","latitude":38.25,"longitude":-120.38}}(window,'GeoPostal','US');

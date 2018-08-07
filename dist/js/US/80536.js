@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80536"]={"code":"80536","region":"Colorado","city":"Red Feather Lakes","latitude":40.805408,"longitude":-105.591011}}(window,'GeoPostal','US');

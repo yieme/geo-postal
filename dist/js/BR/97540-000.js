@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97540-000"]={"code":"97540-000","region":"Rio Grande do Sul","city":"Alegrete","latitude":-29.78306,"longitude":-55.79194}}(window,'GeoPostal','BR');

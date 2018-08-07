@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84395"]={"code":"84395","region":"Donetska oblast","city":"Krasnotorka","latitude":48.68204,"longitude":37.53266}}(window,'GeoPostal','UA');

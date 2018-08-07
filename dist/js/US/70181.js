@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70181"]={"code":"70181","region":"Louisiana","city":"Jefferson","latitude":29.96388,"longitude":-90.0654}}(window,'GeoPostal','US');

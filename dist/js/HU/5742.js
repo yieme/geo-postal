@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5742"]={"code":"5742","region":"Bekes","city":"Elek","latitude":46.53333,"longitude":21.25}}(window,'GeoPostal','HU');

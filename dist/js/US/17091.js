@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17091"]={"code":"17091","region":"PA","city":"Genco","latitude":40.23,"longitude":-76.92}}(window,'GeoPostal','US');

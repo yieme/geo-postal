@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-400"]={"code":"66-400","region":"Lubuskie","city":"Gorzow Wielkopolski","latitude":52.73679,"longitude":15.22878}}(window,'GeoPostal','PL');

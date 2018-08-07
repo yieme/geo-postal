@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 6136"]={"code":"HT 6136","region":"Ouest","city":"Gressier","latitude":18.55,"longitude":-72.51667}}(window,'GeoPostal','HT');

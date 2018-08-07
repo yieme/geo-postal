@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40701"]={"code":"40701","region":"Kentucky","city":"Corbin","latitude":36.936833,"longitude":-84.114338}}(window,'GeoPostal','US');

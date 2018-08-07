@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17006"]={"code":"17006","region":"PA","city":"Blain","latitude":40.3293,"longitude":-77.5117}}(window,'GeoPostal','US');

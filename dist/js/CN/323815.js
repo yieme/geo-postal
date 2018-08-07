@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323815"]={"code":"323815","region":"Zhejiang","city":"Sanxi","latitude":27.6959,"longitude":119.06262}}(window,'GeoPostal','CN');

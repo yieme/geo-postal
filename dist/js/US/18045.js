@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18045"]={"code":"18045","region":"Pennsylvania","city":"Easton","latitude":40.698,"longitude":-75.27342}}(window,'GeoPostal','US');

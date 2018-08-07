@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71753"]={"code":"71753","region":"Arkansas","city":"Magnolia","latitude":33.264044,"longitude":-93.235007}}(window,'GeoPostal','US');

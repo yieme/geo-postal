@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31144"]={"code":"31144","region":"GA","city":"Kennesaw","latitude":34.0233,"longitude":-84.6156}}(window,'GeoPostal','US');

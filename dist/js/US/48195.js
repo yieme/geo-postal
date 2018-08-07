@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48195"]={"code":"48195","region":"Michigan","city":"Southgate","latitude":42.205635,"longitude":-83.205782}}(window,'GeoPostal','US');

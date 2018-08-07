@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34660"]={"code":"34660","region":"Occitanie","city":"Cournonterral","latitude":43.55889,"longitude":3.72}}(window,'GeoPostal','FR');

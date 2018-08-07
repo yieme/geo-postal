@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9850"]={"code":"9850","region":"Nordjylland","city":"Hirtshals","latitude":57.58812,"longitude":9.95922}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02870"]={"code":"02870","region":"Hauts-de-France","city":"Crepy","latitude":49.6,"longitude":3.51667}}(window,'GeoPostal','FR');

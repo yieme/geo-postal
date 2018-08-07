@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6870"]={"code":"6870","region":"Syddanmark","city":"Olgod","latitude":55.80682,"longitude":8.62859}}(window,'GeoPostal','DK');

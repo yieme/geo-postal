@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97478"]={"code":"97478","region":"Oregon","city":"Springfield","latitude":44.059446,"longitude":-122.897819}}(window,'GeoPostal','US');

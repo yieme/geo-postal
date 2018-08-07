@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53507"]={"code":"53507","region":"Wisconsin","city":"Barneveld","latitude":43.009517,"longitude":-89.898595}}(window,'GeoPostal','US');

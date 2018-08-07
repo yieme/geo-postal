@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 3AA"]={"code":"IP14 3AA","region":"England","city":"Great Finborough","latitude":52.1807,"longitude":0.94302}}(window,'GeoPostal','GB');

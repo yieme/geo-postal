@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33524"]={"code":"33524","region":"FL","city":"Crystal Springs","latitude":28.1822,"longitude":-82.1523}}(window,'GeoPostal','US');

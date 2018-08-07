@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98803"]={"code":"98803","region":"Province Sud","city":"Noumea","latitude":-22.27631,"longitude":166.4572}}(window,'GeoPostal','NC');

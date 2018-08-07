@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72260"]={"code":"72260","region":"Pays-de-la-Loire","city":"Marolles-les-Braults","latitude":48.25271,"longitude":0.31631}}(window,'GeoPostal','FR');

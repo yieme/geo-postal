@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["505 00"]={"code":"505 00","region":"Dytiki Makedonia","city":"Servia","latitude":40.17972,"longitude":21.99444}}(window,'GeoPostal','GR');

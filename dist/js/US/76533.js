@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76533"]={"code":"76533","region":"TX","city":"Heidenheimer","latitude":31.0496,"longitude":-97.4936}}(window,'GeoPostal','US');

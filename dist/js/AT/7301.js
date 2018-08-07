@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7301"]={"code":"7301","region":"Burgenland","city":"Deutschkreutz","latitude":47.6,"longitude":16.63333}}(window,'GeoPostal','AT');

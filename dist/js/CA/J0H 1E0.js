@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 1E0"]={"code":"J0H 1E0","region":"Quebec","city":"Roxton","latitude":45.55007,"longitude":-72.51582}}(window,'GeoPostal','CA');

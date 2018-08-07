@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52346"]={"code":"52346","region":"Iowa","city":"Van Horne","latitude":42.02429,"longitude":-92.080409}}(window,'GeoPostal','US');

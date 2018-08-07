@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40058"]={"code":"40058","region":"KY","city":"Port Royal","latitude":38.4941,"longitude":-85.1242}}(window,'GeoPostal','US');

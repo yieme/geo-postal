@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90300"]={"code":"90300","region":"Bourgogne-Franche-Comte","city":"Salbert","latitude":47.67236,"longitude":6.82209}}(window,'GeoPostal','FR');

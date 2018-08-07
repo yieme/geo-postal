@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69001"]={"code":"69001","region":"Nebraska","city":"McCook","latitude":40.20195,"longitude":-100.62571}}(window,'GeoPostal','US');

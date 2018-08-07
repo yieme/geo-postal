@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84333"]={"code":"84333","region":"Bayern","city":"Reichenod","latitude":48.54138,"longitude":12.70402}}(window,'GeoPostal','DE');

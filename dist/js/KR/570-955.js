@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570-955"]={"code":"570-955","region":"Jeollabuk-do","city":"Iksan","latitude":35.94389,"longitude":126.95444}}(window,'GeoPostal','KR');

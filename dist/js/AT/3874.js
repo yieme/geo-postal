@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3874"]={"code":"3874","region":"Niederosterreich","city":"Litschau","latitude":48.93333,"longitude":15.05}}(window,'GeoPostal','AT');

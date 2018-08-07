@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 2RA"]={"code":"DD11 2RA","region":"Scotland","city":"Carmyllie","latitude":56.57446,"longitude":-2.72881}}(window,'GeoPostal','GB');

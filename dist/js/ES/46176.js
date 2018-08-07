@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46176"]={"code":"46176","region":"Valenciana, Comunidad","city":"Chelva","latitude":39.7493,"longitude":-0.99684}}(window,'GeoPostal','ES');

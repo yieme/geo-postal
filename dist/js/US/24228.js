@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24228"]={"code":"24228","region":"Virginia","city":"Clintwood","latitude":37.15011,"longitude":-82.45598}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14051"]={"code":"14051","region":"Tanintharyi","city":"Myeik","latitude":12.43333,"longitude":98.6}}(window,'GeoPostal','MM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45601"]={"code":"45601","region":"Ohio","city":"Chillicothe","latitude":39.33312,"longitude":-82.9824}}(window,'GeoPostal','US');

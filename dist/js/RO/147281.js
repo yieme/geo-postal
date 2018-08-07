@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147281"]={"code":"147281","region":"Teleorman","city":"Tiganesti","latitude":43.9,"longitude":25.36667}}(window,'GeoPostal','RO');

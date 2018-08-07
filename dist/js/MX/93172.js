@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93172"]={"code":"93172","region":"Veracruz de Ignacio de la Llave","city":"Platon Sanchez","latitude":21.28333,"longitude":-98.36667}}(window,'GeoPostal','MX');

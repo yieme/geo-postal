@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4706"]={"code":"4706","region":"Sorsogon","city":"Utabi","latitude":12.6417,"longitude":123.9092}}(window,'GeoPostal','PH');

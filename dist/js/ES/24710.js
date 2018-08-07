@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24710"]={"code":"24710","region":"Castilla y Leon","city":"San Justo de la Vega","latitude":42.45696,"longitude":-6.01826}}(window,'GeoPostal','ES');

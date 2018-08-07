@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25537"]={"code":"25537","region":"WV","city":"Lesage","latitude":38.477,"longitude":-82.2957}}(window,'GeoPostal','US');

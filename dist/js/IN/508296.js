@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["508296"]={"code":"508296","region":"Telangana","city":"Suriapet","latitude":17.15,"longitude":79.61667}}(window,'GeoPostal','IN');

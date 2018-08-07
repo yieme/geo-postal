@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5505"]={"code":"5505","region":"Romblon","city":"Odiongan","latitude":12.40167,"longitude":121.99194}}(window,'GeoPostal','PH');

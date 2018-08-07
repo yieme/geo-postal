@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 2JZ"]={"code":"DL2 2JZ","region":"England","city":"Low Coniscliffe","latitude":54.52244,"longitude":-1.61414}}(window,'GeoPostal','GB');

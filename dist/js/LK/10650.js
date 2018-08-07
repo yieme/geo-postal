@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10650"]={"code":"10650","region":"Western Province","city":"Hanwella Ihala","latitude":6.9012,"longitude":80.0852}}(window,'GeoPostal','LK');

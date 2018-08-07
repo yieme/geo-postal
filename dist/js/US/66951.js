@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66951"]={"code":"66951","region":"Kansas","city":"Kensington","latitude":39.766121,"longitude":-99.031511}}(window,'GeoPostal','US');

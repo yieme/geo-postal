@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58331"]={"code":"58331","region":"ND","city":"Egeland","latitude":48.6355,"longitude":-99.1115}}(window,'GeoPostal','US');

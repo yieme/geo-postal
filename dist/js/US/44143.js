@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44143"]={"code":"44143","region":"Ohio","city":"Mayfield","latitude":41.55398,"longitude":-81.47961}}(window,'GeoPostal','US');

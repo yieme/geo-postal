@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4816"]={"code":"4816","region":"Oberosterreich","city":"Laakirchen","latitude":47.98188,"longitude":13.82166}}(window,'GeoPostal','AT');

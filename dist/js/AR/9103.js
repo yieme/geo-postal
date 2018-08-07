@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9103"]={"code":"9103","region":"Chubut","city":"Rawson","latitude":-43.30016,"longitude":-65.10228}}(window,'GeoPostal','AR');

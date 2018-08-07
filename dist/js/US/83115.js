@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83115"]={"code":"83115","region":"WY","city":"Daniel","latitude":42.9176,"longitude":-110.1336}}(window,'GeoPostal','US');

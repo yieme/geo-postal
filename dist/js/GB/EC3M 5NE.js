@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC3M 5NE"]={"code":"EC3M 5NE","region":"England","city":"Whittington","latitude":51.88333,"longitude":-1.96667}}(window,'GeoPostal','GB');

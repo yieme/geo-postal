@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9920"]={"code":"9920","region":"Shumen","city":"Pliska","latitude":43.36667,"longitude":27.11667}}(window,'GeoPostal','BG');

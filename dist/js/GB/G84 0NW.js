@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G84 0NW"]={"code":"G84 0NW","region":"Scotland","city":"Cove","latitude":56,"longitude":-4.85}}(window,'GeoPostal','GB');

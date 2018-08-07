@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63744"]={"code":"63744","region":"MO","city":"Delta","latitude":37.1967,"longitude":-89.7362}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4215"]={"code":"4215","region":"Queensland","city":"Southport","latitude":-27.96667,"longitude":153.4}}(window,'GeoPostal','AU');

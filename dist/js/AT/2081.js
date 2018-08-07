@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2081"]={"code":"2081","region":"Niederosterreich","city":"Retz","latitude":48.75,"longitude":15.95}}(window,'GeoPostal','AT');

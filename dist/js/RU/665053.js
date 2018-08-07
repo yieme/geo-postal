@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665053"]={"code":"665053","region":"Irkutskaya oblast'","city":"Biryusinsk","latitude":55.9634,"longitude":97.8235}}(window,'GeoPostal','RU');

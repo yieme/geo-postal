@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4324"]={"code":"4324","region":"Szabolcs-Szatmar-Bereg","city":"Kallosemjen","latitude":47.86081,"longitude":21.93928}}(window,'GeoPostal','HU');

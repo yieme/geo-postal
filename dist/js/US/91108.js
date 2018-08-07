@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91108"]={"code":"91108","region":"California","city":"San Marino","latitude":34.119532,"longitude":-118.11687}}(window,'GeoPostal','US');

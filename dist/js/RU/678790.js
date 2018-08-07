@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678790"]={"code":"678790","region":"Saha, Respublika","city":"Srednekolymsk","latitude":67.45,"longitude":153.68333}}(window,'GeoPostal','RU');

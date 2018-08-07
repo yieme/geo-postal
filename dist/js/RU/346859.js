@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346859"]={"code":"346859","region":"Rostovskaya oblast'","city":"Sinyavskoye","latitude":47.27638,"longitude":39.27632}}(window,'GeoPostal','RU');

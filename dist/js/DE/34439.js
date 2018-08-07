@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34439"]={"code":"34439","region":"Nordrhein-Westfalen","city":"Wertheim","latitude":51.65,"longitude":9}}(window,'GeoPostal','DE');

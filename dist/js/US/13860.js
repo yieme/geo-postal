@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13860"]={"code":"13860","region":"New York","city":"West Davenport","latitude":42.4458,"longitude":-74.96358}}(window,'GeoPostal','US');

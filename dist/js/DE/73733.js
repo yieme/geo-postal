@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73733"]={"code":"73733","region":"Baden-Wurttemberg","city":"Serach","latitude":48.75,"longitude":9.31667}}(window,'GeoPostal','DE');

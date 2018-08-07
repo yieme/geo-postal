@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14889"]={"code":"14889","region":"NY","city":"Van Etten","latitude":42.2085,"longitude":-76.5717}}(window,'GeoPostal','US');

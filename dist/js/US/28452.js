@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28452"]={"code":"28452","region":"North Carolina","city":"Longwood","latitude":33.958357,"longitude":-78.548624}}(window,'GeoPostal','US');

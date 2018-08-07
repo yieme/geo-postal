@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 4QS"]={"code":"DD8 4QS","region":"Scotland","city":"Millton of Clova","latitude":56.83333,"longitude":-3.1}}(window,'GeoPostal','GB');

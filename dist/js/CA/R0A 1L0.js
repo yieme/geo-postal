@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1L0"]={"code":"R0A 1L0","region":"Manitoba","city":"Rosengard","latitude":49.46559,"longitude":-96.79372}}(window,'GeoPostal','CA');

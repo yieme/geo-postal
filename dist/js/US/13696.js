@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13696"]={"code":"13696","region":"NY","city":"West Stockholm","latitude":44.7137,"longitude":-74.9008}}(window,'GeoPostal','US');

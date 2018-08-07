@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72290"]={"code":"72290","region":"Puebla","city":"Acatlan de Osorio","latitude":18.2,"longitude":-98.05}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 2V0"]={"code":"S0L 2V0","region":"Saskatchewan","city":"Rosetown","latitude":51.5501,"longitude":-108.00136}}(window,'GeoPostal','CA');

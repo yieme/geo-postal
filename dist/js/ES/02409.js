@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02409"]={"code":"02409","region":"Castilla-La Mancha","city":"Hellin","latitude":38.5106,"longitude":-1.70096}}(window,'GeoPostal','ES');

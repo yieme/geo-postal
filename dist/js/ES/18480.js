@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18480"]={"code":"18480","region":"Andalucia","city":"Ugijar","latitude":36.96087,"longitude":-3.05523}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["UB5 4AA"]={"code":"UB5 4AA","region":"England","city":"Northolt","latitude":51.54855,"longitude":-0.36778}}(window,'GeoPostal','GB');

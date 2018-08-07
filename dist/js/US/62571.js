@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62571"]={"code":"62571","region":"Illinois","city":"Tower Hill","latitude":39.389115,"longitude":-88.964054}}(window,'GeoPostal','US');

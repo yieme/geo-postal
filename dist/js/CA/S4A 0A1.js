@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S4A 0A1"]={"code":"S4A 0A1","region":"Saskatchewan","city":"Estevan","latitude":49.13337,"longitude":-102.98422}}(window,'GeoPostal','CA');

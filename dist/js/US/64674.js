@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64674"]={"code":"64674","region":"MO","city":"Purdin","latitude":39.9529,"longitude":-93.17}}(window,'GeoPostal','US');

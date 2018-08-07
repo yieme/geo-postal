@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08319"]={"code":"08319","region":"NJ","city":"Estell Manor","latitude":39.3783,"longitude":-74.8165}}(window,'GeoPostal','US');

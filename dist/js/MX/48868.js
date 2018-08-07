@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48868"]={"code":"48868","region":"Jalisco","city":"La Huerta","latitude":19.46667,"longitude":-104.65}}(window,'GeoPostal','MX');

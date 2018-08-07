@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243302"]={"code":"243302","region":"Bryanskaya oblast'","city":"Unecha","latitude":52.84591,"longitude":32.67394}}(window,'GeoPostal','RU');

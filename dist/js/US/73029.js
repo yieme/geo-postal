@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73029"]={"code":"73029","region":"Oklahoma","city":"Choctaw","latitude":34.896338,"longitude":-98.203574}}(window,'GeoPostal','US');

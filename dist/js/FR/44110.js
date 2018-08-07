@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44110"]={"code":"44110","region":"Pays-de-la-Loire","city":"Erbray","latitude":47.65492,"longitude":-1.31783}}(window,'GeoPostal','FR');

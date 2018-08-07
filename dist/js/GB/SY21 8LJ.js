@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 8LJ"]={"code":"SY21 8LJ","region":"Wales","city":"Leighton","latitude":52.65,"longitude":-3.13333}}(window,'GeoPostal','GB');

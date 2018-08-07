@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 9QS"]={"code":"DG8 9QS","region":"Scotland","city":"Eldrig Village","latitude":54.78333,"longitude":-4.61667}}(window,'GeoPostal','GB');

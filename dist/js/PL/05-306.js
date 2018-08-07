@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-306"]={"code":"05-306","region":"Mazowieckie","city":"Jakubow","latitude":52.21965,"longitude":21.68032}}(window,'GeoPostal','PL');

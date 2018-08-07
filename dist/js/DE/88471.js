@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88471"]={"code":"88471","region":"Baden-Wurttemberg","city":"Laupheim","latitude":48.22786,"longitude":9.87874}}(window,'GeoPostal','DE');

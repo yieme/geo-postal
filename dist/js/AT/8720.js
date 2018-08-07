@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8720"]={"code":"8720","region":"Steiermark","city":"Knittelfeld","latitude":47.21667,"longitude":14.81667}}(window,'GeoPostal','AT');

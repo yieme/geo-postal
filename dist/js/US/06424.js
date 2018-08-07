@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06424"]={"code":"06424","region":"CT","city":"East Hampton","latitude":41.5761,"longitude":-72.5093}}(window,'GeoPostal','US');

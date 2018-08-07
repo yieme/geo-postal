@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04605"]={"code":"04605","region":"Maine","city":"Trenton","latitude":44.43897,"longitude":-68.37002}}(window,'GeoPostal','US');

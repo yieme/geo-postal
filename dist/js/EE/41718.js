@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41718"]={"code":"41718","region":"Ida-Virumaa","city":"Voka","latitude":59.39972,"longitude":27.58167}}(window,'GeoPostal','EE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 6DA"]={"code":"CT15 6DA","region":"England","city":"St Margaret's Bay","latitude":51.15405,"longitude":1.38316}}(window,'GeoPostal','GB');

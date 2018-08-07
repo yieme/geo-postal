@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["962-0721"]={"code":"962-0721","region":"Fukushima","city":"Sukagawa","latitude":37.283,"longitude":140.383}}(window,'GeoPostal','JP');

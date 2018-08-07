@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01262"]={"code":"01262","region":"MA","city":"Stockbridge","latitude":42.301,"longitude":-73.3223}}(window,'GeoPostal','US');

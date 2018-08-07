@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["785680"]={"code":"785680","region":"Assam","city":"Amguri","latitude":26.8,"longitude":94.53333}}(window,'GeoPostal','IN');

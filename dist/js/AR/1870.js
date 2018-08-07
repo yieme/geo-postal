@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1870"]={"code":"1870","region":"Buenos Aires","city":"Avellaneda","latitude":-34.66018,"longitude":-58.36744}}(window,'GeoPostal','AR');

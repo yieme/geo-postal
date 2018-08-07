@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59273"]={"code":"59273","region":"Jawa Tengah","city":"Kendal","latitude":-6.918997,"longitude":110.204814}}(window,'GeoPostal','ID');

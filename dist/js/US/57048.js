@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57048"]={"code":"57048","region":"South Dakota","city":"Montrose","latitude":43.699923,"longitude":-97.185296}}(window,'GeoPostal','US');

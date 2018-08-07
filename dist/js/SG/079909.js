@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["079909"]={"code":"079909","region":"Singapore","city":"Singapore","latitude":1.28967,"longitude":103.85007}}(window,'GeoPostal','SG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31316"]={"code":"31316","region":"GA","city":"Ludowici","latitude":31.7705,"longitude":-81.7453}}(window,'GeoPostal','US');

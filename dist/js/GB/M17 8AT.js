@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M17 8AT"]={"code":"M17 8AT","region":"England","city":"Trafford Centre","latitude":53.4666,"longitude":-2.35255}}(window,'GeoPostal','GB');

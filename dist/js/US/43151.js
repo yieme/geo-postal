@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43151"]={"code":"43151","region":"OH","city":"Sedalia","latitude":39.733,"longitude":-83.4764}}(window,'GeoPostal','US');

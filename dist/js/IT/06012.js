@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06012"]={"code":"06012","region":"Umbria","city":"Citta di Castello","latitude":43.46905,"longitude":12.23045}}(window,'GeoPostal','IT');

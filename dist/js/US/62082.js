@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62082"]={"code":"62082","region":"IL","city":"Roodhouse","latitude":39.4846,"longitude":-90.3498}}(window,'GeoPostal','US');

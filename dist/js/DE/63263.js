@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63263"]={"code":"63263","region":"Hessen","city":"Neu Isenburg","latitude":50.04832,"longitude":8.69406}}(window,'GeoPostal','DE');

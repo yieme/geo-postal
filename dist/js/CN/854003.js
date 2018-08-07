@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["854003"]={"code":"854003","region":"Xizang","city":"Qamdo","latitude":31.16667,"longitude":97.23333}}(window,'GeoPostal','CN');

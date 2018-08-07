@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94110"]={"code":"94110","region":"Ile-de-France","city":"Arcueil","latitude":48.79993,"longitude":2.33256}}(window,'GeoPostal','FR');

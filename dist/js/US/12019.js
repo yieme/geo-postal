@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12019"]={"code":"12019","region":"NY","city":"Ballston Lake","latitude":42.9192,"longitude":-73.8552}}(window,'GeoPostal','US');

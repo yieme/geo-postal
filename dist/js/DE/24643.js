@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24643"]={"code":"24643","region":"Schleswig-Holstein","city":"Struvenhutten","latitude":53.86667,"longitude":10.05}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["208001"]={"code":"208001","region":"Uttar Pradesh","city":"Kanpur","latitude":26.46667,"longitude":80.35}}(window,'GeoPostal','IN');

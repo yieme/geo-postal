@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93920"]={"code":"93920","region":"CA","city":"Big Sur","latitude":36.2458,"longitude":-121.7009}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25248"]={"code":"25248","region":"WV","city":"Kenna","latitude":38.6232,"longitude":-81.6217}}(window,'GeoPostal','US');

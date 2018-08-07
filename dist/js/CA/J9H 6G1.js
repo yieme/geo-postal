@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9H 6G1"]={"code":"J9H 6G1","region":"Quebec","city":"Gatineau","latitude":45.40235,"longitude":-75.853605}}(window,'GeoPostal','CA');

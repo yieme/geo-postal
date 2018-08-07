@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37204"]={"code":"37204","region":"Poltavska oblast","city":"Lokhvytsya","latitude":50.36776,"longitude":33.26024}}(window,'GeoPostal','UA');

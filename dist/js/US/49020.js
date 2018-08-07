@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49020"]={"code":"49020","region":"MI","city":"Bedford","latitude":42.3953,"longitude":-85.2322}}(window,'GeoPostal','US');

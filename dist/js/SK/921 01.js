@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["921 01"]={"code":"921 01","region":"Trnavsky kraj","city":"Piestany","latitude":48.59479,"longitude":17.82591}}(window,'GeoPostal','SK');

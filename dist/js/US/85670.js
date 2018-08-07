@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85670"]={"code":"85670","region":"AZ","city":"Fort Huachuca","latitude":31.8801,"longitude":-109.7543}}(window,'GeoPostal','US');

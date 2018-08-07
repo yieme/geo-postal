@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2882"]={"code":"2882","region":"Oppland","city":"Dokka","latitude":60.84001,"longitude":10.0618}}(window,'GeoPostal','NO');

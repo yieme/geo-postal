@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98548"]={"code":"98548","region":"WA","city":"Hoodsport","latitude":47.4235,"longitude":-123.1739}}(window,'GeoPostal','US');

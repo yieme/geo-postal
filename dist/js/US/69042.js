@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69042"]={"code":"69042","region":"Nebraska","city":"Stockville","latitude":40.53279,"longitude":-100.38348}}(window,'GeoPostal','US');

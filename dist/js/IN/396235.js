@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396235"]={"code":"396235","region":"Dadra and Nagar Haveli","city":"Amli","latitude":20.28333,"longitude":73.01667}}(window,'GeoPostal','IN');

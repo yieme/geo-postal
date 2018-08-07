@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0A 1C0"]={"code":"Y0A 1C0","region":"Yukon","city":"Watson Lake","latitude":60.06349,"longitude":-128.70893}}(window,'GeoPostal','CA');

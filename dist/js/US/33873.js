@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33873"]={"code":"33873","region":"FL","city":"Wauchula","latitude":27.5517,"longitude":-81.8074}}(window,'GeoPostal','US');

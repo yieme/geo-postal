@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18508"]={"code":"18508","region":"Pennsylvania","city":"Birdsboro","latitude":41.437852,"longitude":-75.661508}}(window,'GeoPostal','US');

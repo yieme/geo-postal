@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56349"]={"code":"56349","region":"MN","city":"Lowry","latitude":45.7105,"longitude":-95.5322}}(window,'GeoPostal','US');

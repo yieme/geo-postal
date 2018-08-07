@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87033"]={"code":"87033","region":"Calabria","city":"Belmonte Calabro","latitude":39.16239,"longitude":16.08629}}(window,'GeoPostal','IT');

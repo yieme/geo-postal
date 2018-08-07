@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51004"]={"code":"51004","region":"IA","city":"Anthon","latitude":42.387,"longitude":-95.8948}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2062"]={"code":"2062","region":"New South Wales","city":"Cammeray","latitude":-33.8225,"longitude":151.21583}}(window,'GeoPostal','AU');

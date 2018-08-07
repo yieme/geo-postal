@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66845"]={"code":"66845","region":"KS","city":"Cottonwood Falls","latitude":38.3565,"longitude":-96.5418}}(window,'GeoPostal','US');

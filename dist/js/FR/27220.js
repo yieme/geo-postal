@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27220"]={"code":"27220","region":"Normandie","city":"Saint-Andre-de-l'Eure","latitude":48.9075,"longitude":1.2772}}(window,'GeoPostal','FR');

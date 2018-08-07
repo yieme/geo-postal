@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA11 6EF"]={"code":"LA11 6EF","region":"England","city":"Grange-over-Sands","latitude":54.19647,"longitude":-2.90433}}(window,'GeoPostal','GB');

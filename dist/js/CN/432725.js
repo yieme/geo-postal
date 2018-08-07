@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432725"]={"code":"432725","region":"Hubei","city":"Yangzhai","latitude":31.51724,"longitude":113.99508}}(window,'GeoPostal','CN');

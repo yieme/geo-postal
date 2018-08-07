@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8561"]={"code":"8561","region":"Fryslan","city":"Balk","latitude":52.89756,"longitude":5.57964}}(window,'GeoPostal','NL');

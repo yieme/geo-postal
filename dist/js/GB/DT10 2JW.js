@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 2JW"]={"code":"DT10 2JW","region":"England","city":"Stourton Caundle","latitude":50.93339,"longitude":-2.40711}}(window,'GeoPostal','GB');

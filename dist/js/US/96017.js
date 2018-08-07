@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96017"]={"code":"96017","region":"CA","city":"Castella","latitude":41.1103,"longitude":-122.3161}}(window,'GeoPostal','US');

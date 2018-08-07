@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05866"]={"code":"05866","region":"VT","city":"Sheffield","latitude":44.6178,"longitude":-72.1239}}(window,'GeoPostal','US');

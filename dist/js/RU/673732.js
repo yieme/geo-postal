@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673732"]={"code":"673732","region":"Zabaykal'skiy kray","city":"Mogocha","latitude":53.73333,"longitude":119.76667}}(window,'GeoPostal','RU');

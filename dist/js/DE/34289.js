@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34289"]={"code":"34289","region":"Hessen","city":"Oberelsungen","latitude":51.37425,"longitude":9.23126}}(window,'GeoPostal','DE');

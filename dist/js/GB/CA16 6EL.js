@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA16 6EL"]={"code":"CA16 6EL","region":"England","city":"Coupland","latitude":54.55,"longitude":-2.45}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70714"]={"code":"70714","region":"Louisiana","city":"Baker","latitude":30.584622,"longitude":-91.138839}}(window,'GeoPostal','US');

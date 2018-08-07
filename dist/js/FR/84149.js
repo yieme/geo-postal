@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84149"]={"code":"84149","region":"Provence-Alpes-Cote d'Azur","city":"Montfavet","latitude":43.93335,"longitude":4.87342}}(window,'GeoPostal','FR');

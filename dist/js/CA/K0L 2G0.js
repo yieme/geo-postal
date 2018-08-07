@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 2G0"]={"code":"K0L 2G0","region":"Ontario","city":"Keene","latitude":44.25012,"longitude":-78.16622}}(window,'GeoPostal','CA');

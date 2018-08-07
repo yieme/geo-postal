@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517589"]={"code":"517589","region":"Andhra Pradesh","city":"Nandikotkur","latitude":15.86667,"longitude":78.26667}}(window,'GeoPostal','IN');

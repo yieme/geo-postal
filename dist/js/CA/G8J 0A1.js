@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8J 0A1"]={"code":"G8J 0A1","region":"Quebec","city":"Saint-Prime","latitude":48.58339,"longitude":-72.33244}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85331"]={"code":"85331","region":"Kotor","city":"Dobrota","latitude":42.45417,"longitude":18.76833}}(window,'GeoPostal','ME');

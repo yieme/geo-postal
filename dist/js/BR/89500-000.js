@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89500-000"]={"code":"89500-000","region":"Santa Catarina","city":"Cacador","latitude":-26.77528,"longitude":-51.015}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70531"]={"code":"70531","region":"Louisiana","city":"Egan","latitude":30.25703,"longitude":-92.491902}}(window,'GeoPostal','US');

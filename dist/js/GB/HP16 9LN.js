@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP16 9LN"]={"code":"HP16 9LN","region":"England","city":"Great Missenden","latitude":51.70419,"longitude":-0.70797}}(window,'GeoPostal','GB');

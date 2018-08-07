@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47885"]={"code":"47885","region":"IN","city":"West Terre Haute","latitude":39.4984,"longitude":-87.4688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-243"]={"code":"76-243","region":"Pomorskie","city":"Czarna Dabrowka","latitude":54.35631,"longitude":17.56456}}(window,'GeoPostal','PL');

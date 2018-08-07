@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45871"]={"code":"45871","region":"Ohio","city":"New Knoxville","latitude":40.495633,"longitude":-84.301853}}(window,'GeoPostal','US');

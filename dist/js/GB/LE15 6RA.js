@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE15 6RA"]={"code":"LE15 6RA","region":"England","city":"Oakham","latitude":52.66667,"longitude":-0.73333}}(window,'GeoPostal','GB');

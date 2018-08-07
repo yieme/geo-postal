@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27249"]={"code":"27249","region":"North Carolina","city":"Gibsonville","latitude":36.10569,"longitude":-79.54225}}(window,'GeoPostal','US');

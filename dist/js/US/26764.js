@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26764"]={"code":"26764","region":"WV","city":"Terra Alta","latitude":39.4456,"longitude":-79.5464}}(window,'GeoPostal','US');

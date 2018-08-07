@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-330"]={"code":"28-330","region":"Swietokrzyskie","city":"Wodzislaw","latitude":50.52047,"longitude":20.1915}}(window,'GeoPostal','PL');

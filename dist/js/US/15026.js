@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15026"]={"code":"15026","region":"PA","city":"Clinton","latitude":40.5131,"longitude":-80.3423}}(window,'GeoPostal','US');

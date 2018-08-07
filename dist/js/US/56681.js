@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56681"]={"code":"56681","region":"Minnesota","city":"Squaw Lake","latitude":47.629223,"longitude":-94.176139}}(window,'GeoPostal','US');

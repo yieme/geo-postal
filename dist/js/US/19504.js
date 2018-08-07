@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19504"]={"code":"19504","region":"PA","city":"Barto","latitude":40.3815,"longitude":-75.5749}}(window,'GeoPostal','US');

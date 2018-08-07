@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29413"]={"code":"29413","region":"Sachsen-Anhalt","city":"Seebenau","latitude":52.88643,"longitude":11.03371}}(window,'GeoPostal','DE');

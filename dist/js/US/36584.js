@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36584"]={"code":"36584","region":"Alabama","city":"Vinegar Bend","latitude":31.255151,"longitude":-88.394355}}(window,'GeoPostal','US');

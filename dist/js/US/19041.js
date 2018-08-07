@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19041"]={"code":"19041","region":"Pennsylvania","city":"Haverford","latitude":40.02869,"longitude":-75.299699}}(window,'GeoPostal','US');

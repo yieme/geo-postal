@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35978"]={"code":"35978","region":"Alabama","city":"Henagar","latitude":34.63508,"longitude":-85.76719}}(window,'GeoPostal','US');

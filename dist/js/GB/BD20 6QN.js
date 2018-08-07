@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 6QN"]={"code":"BD20 6QN","region":"England","city":"Steeton","latitude":53.88333,"longitude":-1.95}}(window,'GeoPostal','GB');

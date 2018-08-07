@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68725-000"]={"code":"68725-000","region":"Para","city":"Igarape Acu","latitude":-1.12889,"longitude":-47.62}}(window,'GeoPostal','BR');

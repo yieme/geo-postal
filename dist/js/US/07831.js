@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07831"]={"code":"07831","region":"NJ","city":"Changewater","latitude":40.7394,"longitude":-74.9448}}(window,'GeoPostal','US');

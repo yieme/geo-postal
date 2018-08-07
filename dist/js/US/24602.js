@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24602"]={"code":"24602","region":"Virginia","city":"Bandy","latitude":37.176087,"longitude":-81.667024}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46550"]={"code":"46550","region":"IN","city":"Nappanee","latitude":41.4493,"longitude":-85.9945}}(window,'GeoPostal','US');

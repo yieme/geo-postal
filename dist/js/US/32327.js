@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32327"]={"code":"32327","region":"FL","city":"Crawfordville","latitude":30.2108,"longitude":-84.3205}}(window,'GeoPostal','US');

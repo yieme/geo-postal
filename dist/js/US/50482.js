@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50482"]={"code":"50482","region":"IA","city":"Ventura","latitude":43.1262,"longitude":-93.4706}}(window,'GeoPostal','US');

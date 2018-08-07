@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 4NF"]={"code":"SA62 4NF","region":"Wales","city":"Hook","latitude":51.765,"longitude":-4.93167}}(window,'GeoPostal','GB');

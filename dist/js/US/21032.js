@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21032"]={"code":"21032","region":"MD","city":"Crownsville","latitude":39.0489,"longitude":-76.5935}}(window,'GeoPostal','US');

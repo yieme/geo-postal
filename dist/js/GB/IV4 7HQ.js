@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV4 7HQ"]={"code":"IV4 7HQ","region":"Scotland","city":"Kiltarlity","latitude":57.44131,"longitude":-4.48695}}(window,'GeoPostal','GB');

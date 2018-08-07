@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83405"]={"code":"83405","region":"ID","city":"Idaho Falls","latitude":43.4666,"longitude":-112.0341}}(window,'GeoPostal','US');

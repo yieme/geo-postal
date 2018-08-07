@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94363"]={"code":"94363","region":"Bayern","city":"Reissing","latitude":48.75636,"longitude":12.63865}}(window,'GeoPostal','DE');

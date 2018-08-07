@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55090"]={"code":"55090","region":"MN","city":"Willernie","latitude":45.0535,"longitude":-92.957}}(window,'GeoPostal','US');

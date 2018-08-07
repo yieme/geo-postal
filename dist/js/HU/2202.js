@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2202"]={"code":"2202","region":"Pest","city":"Monor","latitude":47.35133,"longitude":19.44734}}(window,'GeoPostal','HU');

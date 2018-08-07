@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99778"]={"code":"99778","region":"Alaska","city":"Teller","latitude":65.178406,"longitude":-166.287501}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64090"]={"code":"64090","region":"MO","city":"Strasburg","latitude":38.7658,"longitude":-94.1609}}(window,'GeoPostal','US');

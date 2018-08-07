@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37891"]={"code":"37891","region":"TN","city":"Whitesburg","latitude":36.2621,"longitude":-83.1458}}(window,'GeoPostal','US');

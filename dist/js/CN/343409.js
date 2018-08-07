@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["343409"]={"code":"343409","region":"Jiangxi","city":"Longtian","latitude":27.02001,"longitude":114.03067}}(window,'GeoPostal','CN');

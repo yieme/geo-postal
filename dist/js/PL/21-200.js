@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-200"]={"code":"21-200","region":"Lubelskie","city":"Parczew","latitude":51.64021,"longitude":22.90057}}(window,'GeoPostal','PL');

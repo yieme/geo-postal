@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6307"]={"code":"6307","region":"La Pampa","city":"Macachin","latitude":-37.13598,"longitude":-63.6665}}(window,'GeoPostal','AR');

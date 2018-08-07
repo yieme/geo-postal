@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13674"]={"code":"13674","region":"NY","city":"Pierrepont Manor","latitude":43.7334,"longitude":-76.0543}}(window,'GeoPostal','US');

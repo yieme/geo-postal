@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66019"]={"code":"66019","region":"Abruzzo","city":"Torricella Peligna","latitude":42.02453,"longitude":14.25912}}(window,'GeoPostal','IT');

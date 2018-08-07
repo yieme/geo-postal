@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36982"]={"code":"36982","region":"Guanajuato","city":"Abasolo","latitude":20.45,"longitude":-101.51667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61370"]={"code":"61370","region":"IL","city":"Tonica","latitude":41.2327,"longitude":-89.089}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3858"]={"code":"3858","region":"Victoria","city":"Glencairn","latitude":-37.53333,"longitude":146.56667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33586"]={"code":"33586","region":"FL","city":"Sun City","latitude":27.6784,"longitude":-82.4787}}(window,'GeoPostal','US');

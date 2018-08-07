@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333315"]={"code":"333315","region":"Rajasthan","city":"Khandela","latitude":27.6,"longitude":75.5}}(window,'GeoPostal','IN');

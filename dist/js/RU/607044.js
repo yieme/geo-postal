@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607044"]={"code":"607044","region":"Nizhegorodskaya oblast'","city":"Blizhne-Pesochnoye","latitude":55.3456,"longitude":42.1015}}(window,'GeoPostal','RU');

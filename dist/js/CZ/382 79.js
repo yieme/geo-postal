@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 79"]={"code":"382 79","region":"Jihocesky kraj","city":"Frymburk","latitude":48.66094,"longitude":14.16564}}(window,'GeoPostal','CZ');

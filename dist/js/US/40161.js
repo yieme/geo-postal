@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40161"]={"code":"40161","region":"KY","city":"Rhodelia","latitude":38.006,"longitude":-86.3984}}(window,'GeoPostal','US');

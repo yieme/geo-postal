@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35079"]={"code":"35079","region":"AL","city":"Hayden","latitude":33.9534,"longitude":-86.7455}}(window,'GeoPostal','US');

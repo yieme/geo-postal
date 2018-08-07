@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91017"]={"code":"91017","region":"Sicilia","city":"Pantelleria","latitude":36.83333,"longitude":11.95}}(window,'GeoPostal','IT');

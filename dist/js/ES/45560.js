@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45560"]={"code":"45560","region":"Castilla-La Mancha","city":"Oropesa","latitude":39.91726,"longitude":-5.17371}}(window,'GeoPostal','ES');

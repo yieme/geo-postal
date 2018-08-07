@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42290"]={"code":"42290","region":"Auvergne-Rhone-Alpes","city":"Sorbiers","latitude":45.48814,"longitude":4.44933}}(window,'GeoPostal','FR');

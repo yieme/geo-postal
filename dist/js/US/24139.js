@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24139"]={"code":"24139","region":"VA","city":"Pittsville","latitude":36.9716,"longitude":-79.4794}}(window,'GeoPostal','US');

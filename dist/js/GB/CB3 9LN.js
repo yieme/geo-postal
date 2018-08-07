@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB3 9LN"]={"code":"CB3 9LN","region":"England","city":"Cambridge","latitude":51.73333,"longitude":-2.36667}}(window,'GeoPostal','GB');

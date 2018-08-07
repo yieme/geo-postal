@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613530"]={"code":"613530","region":"Kirovskaya oblast'","city":"Urzhum","latitude":57.11412,"longitude":49.99956}}(window,'GeoPostal','RU');

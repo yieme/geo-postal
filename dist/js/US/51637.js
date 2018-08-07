@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51637"]={"code":"51637","region":"Iowa","city":"College Springs","latitude":40.617735,"longitude":-95.107898}}(window,'GeoPostal','US');

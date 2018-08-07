@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-352"]={"code":"97-352","region":"Lodzkie","city":"Leki Szlacheckie","latitude":51.18774,"longitude":19.79796}}(window,'GeoPostal','PL');

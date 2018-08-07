@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52221"]={"code":"52221","region":"Istarska zupanija","city":"Rabac","latitude":45.07944,"longitude":14.1575}}(window,'GeoPostal','HR');

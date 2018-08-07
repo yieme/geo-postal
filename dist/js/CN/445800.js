@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445800"]={"code":"445800","region":"Hubei","city":"Rongmei","latitude":29.89333,"longitude":110.02611}}(window,'GeoPostal','CN');

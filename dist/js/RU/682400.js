@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682400"]={"code":"682400","region":"Khabarovskiy kray","city":"Bogorodskoye","latitude":52.36583,"longitude":140.44556}}(window,'GeoPostal','RU');

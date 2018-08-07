@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13646"]={"code":"13646","region":"New York","city":"Hammond","latitude":44.44889,"longitude":-75.69417}}(window,'GeoPostal','US');

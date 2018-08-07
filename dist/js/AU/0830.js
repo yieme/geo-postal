@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0830"]={"code":"0830","region":"Northern Territory","city":"Johnston","latitude":-12.48764,"longitude":131.01169}}(window,'GeoPostal','AU');
