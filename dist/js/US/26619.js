@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26619"]={"code":"26619","region":"WV","city":"Exchange","latitude":38.7358,"longitude":-80.7324}}(window,'GeoPostal','US');

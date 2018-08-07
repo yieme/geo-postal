@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["167023"]={"code":"167023","region":"Komi, Respublika","city":"Syktyvkar","latitude":61.67642,"longitude":50.80994}}(window,'GeoPostal','RU');

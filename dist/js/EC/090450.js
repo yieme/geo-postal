@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["090450"]={"code":"090450","region":"Guayas","city":"Balzar","latitude":-1.36667,"longitude":-79.9}}(window,'GeoPostal','EC');

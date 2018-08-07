@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18634"]={"code":"18634","region":"Pennsylvania","city":"Nanticoke","latitude":41.197857,"longitude":-76.004206}}(window,'GeoPostal','US');

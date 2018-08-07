@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1W0"]={"code":"J0V 1W0","region":"Quebec","city":"Saint-Andre-Avellin","latitude":45.7168,"longitude":-75.06599}}(window,'GeoPostal','CA');

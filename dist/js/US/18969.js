@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18969"]={"code":"18969","region":"Pennsylvania","city":"Telford","latitude":40.321515,"longitude":-75.362198}}(window,'GeoPostal','US');

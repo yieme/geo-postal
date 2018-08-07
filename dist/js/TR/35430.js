@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35430"]={"code":"35430","region":"Izmir","city":"Alacati","latitude":38.28246,"longitude":26.37459}}(window,'GeoPostal','TR');

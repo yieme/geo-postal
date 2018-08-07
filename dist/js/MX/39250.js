@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39250"]={"code":"39250","region":"Guerrero","city":"Quechultenango","latitude":17.41667,"longitude":-99.21667}}(window,'GeoPostal','MX');

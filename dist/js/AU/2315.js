@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2315"]={"code":"2315","region":"New South Wales","city":"Shoal Bay","latitude":-32.72231,"longitude":152.17498}}(window,'GeoPostal','AU');

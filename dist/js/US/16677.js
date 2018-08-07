@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16677"]={"code":"16677","region":"PA","city":"Sandy Ridge","latitude":40.8136,"longitude":-78.239}}(window,'GeoPostal','US');

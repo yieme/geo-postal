@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2855"]={"code":"2855","region":"Jura","city":"Glovelier","latitude":47.33466,"longitude":7.20544}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53048"]={"code":"53048","region":"Toscana","city":"Sinalunga","latitude":43.21524,"longitude":11.74954}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39332"]={"code":"39332","region":"MS","city":"Hickory","latitude":32.32,"longitude":-89.0093}}(window,'GeoPostal','US');

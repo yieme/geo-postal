@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81242"]={"code":"81242","region":"Colorado","city":"Poncha Springs","latitude":38.514632,"longitude":-106.075938}}(window,'GeoPostal','US');

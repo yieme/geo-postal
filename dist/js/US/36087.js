@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36087"]={"code":"36087","region":"AL","city":"Tuskegee Institute","latitude":32.4093,"longitude":-85.738}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71590"]={"code":"71590","region":"Bourgogne-Franche-Comte","city":"Gergy","latitude":46.87557,"longitude":4.94527}}(window,'GeoPostal','FR');

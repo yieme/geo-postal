@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61750"]={"code":"61750","region":"Trabzon","city":"Macka","latitude":40.81861,"longitude":39.61361}}(window,'GeoPostal','TR');

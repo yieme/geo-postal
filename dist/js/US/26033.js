@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26033"]={"code":"26033","region":"WV","city":"Cameron","latitude":39.8227,"longitude":-80.5669}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-860"]={"code":"32-860","region":"Malopolskie","city":"Czchow","latitude":49.83726,"longitude":20.68056}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV23 9PR"]={"code":"CV23 9PR","region":"England","city":"Princethorpe","latitude":52.33308,"longitude":-1.4108}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72577"]={"code":"72577","region":"AR","city":"Sidney","latitude":36.0664,"longitude":-91.642}}(window,'GeoPostal','US');

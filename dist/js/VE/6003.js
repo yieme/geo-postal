@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6003"]={"code":"6003","region":"Anzoategui","city":"Anaco","latitude":9.43889,"longitude":-64.47278}}(window,'GeoPostal','VE');

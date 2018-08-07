@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14779"]={"code":"14779","region":"New York","city":"Salamanca","latitude":42.15784,"longitude":-78.71503}}(window,'GeoPostal','US');

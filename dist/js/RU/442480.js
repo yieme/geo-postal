@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442480"]={"code":"442480","region":"Penzenskaya oblast'","city":"Neverkino","latitude":52.78541,"longitude":46.74174}}(window,'GeoPostal','RU');

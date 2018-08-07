@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4743"]={"code":"4743","region":"Queensland","city":"Glenden","latitude":-21.35443,"longitude":148.11494}}(window,'GeoPostal','AU');

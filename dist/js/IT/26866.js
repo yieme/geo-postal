@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26866"]={"code":"26866","region":"Lombardia","city":"Castiraga Vidardo","latitude":45.25727,"longitude":9.40456}}(window,'GeoPostal','IT');

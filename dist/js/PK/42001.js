@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42001"]={"code":"42001","region":"Punjab","city":"Muzaffargarh","latitude":30.07537,"longitude":71.19213}}(window,'GeoPostal','PK');

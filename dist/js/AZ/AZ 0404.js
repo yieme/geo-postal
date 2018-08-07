@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0404"]={"code":"AZ 0404","region":"Agcabadi","city":"Agdzhabedy","latitude":40.05278,"longitude":47.46139}}(window,'GeoPostal','AZ');

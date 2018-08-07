@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17460"]={"code":"17460","region":"Nouvelle-Aquitaine","city":"Chermignac","latitude":45.68578,"longitude":-0.67349}}(window,'GeoPostal','FR');

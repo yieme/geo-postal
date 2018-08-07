@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 4B0"]={"code":"A0A 4B0","region":"Newfoundland and Labrador","city":"Trepassey","latitude":46.73319,"longitude":-53.36483}}(window,'GeoPostal','CA');

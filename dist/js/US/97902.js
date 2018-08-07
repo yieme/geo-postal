@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97902"]={"code":"97902","region":"Oregon","city":"Arock","latitude":42.914159,"longitude":-117.481123}}(window,'GeoPostal','US');

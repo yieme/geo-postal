@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35960"]={"code":"35960","region":"Ordu","city":"Caybasi","latitude":41.01711,"longitude":37.09796}}(window,'GeoPostal','TR');

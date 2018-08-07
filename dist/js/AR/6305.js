@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6305"]={"code":"6305","region":"La Pampa","city":"Doblas","latitude":-37.14967,"longitude":-64.01183}}(window,'GeoPostal','AR');

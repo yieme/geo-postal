@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 6220"]={"code":"HT 6220","region":"Ouest","city":"Petit Goave","latitude":18.43139,"longitude":-72.86694}}(window,'GeoPostal','HT');

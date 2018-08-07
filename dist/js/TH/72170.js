@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72170"]={"code":"72170","region":"Suphan Buri","city":"Don Chedi","latitude":14.63497,"longitude":100.02097}}(window,'GeoPostal','TH');

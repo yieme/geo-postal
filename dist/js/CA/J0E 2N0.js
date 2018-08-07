@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 2N0"]={"code":"J0E 2N0","region":"Quebec","city":"Waterloo","latitude":45.35008,"longitude":-72.51582}}(window,'GeoPostal','CA');

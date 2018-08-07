@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25290"]={"code":"25290","region":"Bourgogne-Franche-Comte","city":"Ornans","latitude":47.10749,"longitude":6.14306}}(window,'GeoPostal','FR');

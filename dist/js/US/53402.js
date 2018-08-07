@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53402"]={"code":"53402","region":"Wisconsin","city":"Racine","latitude":42.79912,"longitude":-87.83297}}(window,'GeoPostal','US');

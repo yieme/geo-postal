@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54843"]={"code":"54843","region":"Wisconsin","city":"Hayward","latitude":46.01301,"longitude":-91.48462}}(window,'GeoPostal','US');

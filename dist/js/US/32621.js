@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32621"]={"code":"32621","region":"FL","city":"Bronson","latitude":29.461,"longitude":-82.6356}}(window,'GeoPostal','US');

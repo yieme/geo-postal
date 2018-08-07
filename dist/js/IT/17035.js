@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17035"]={"code":"17035","region":"Liguria","city":"Cisano sul Neva","latitude":44.08543,"longitude":8.14935}}(window,'GeoPostal','IT');

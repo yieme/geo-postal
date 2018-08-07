@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64224-000"]={"code":"64224-000","region":"Maranhao","city":"Araioses","latitude":-2.89,"longitude":-41.90306}}(window,'GeoPostal','BR');

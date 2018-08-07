@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["014080"]={"code":"014080","region":"Nei Mongol","city":"Tongyangdao","latitude":41.77031,"longitude":109.96987}}(window,'GeoPostal','CN');

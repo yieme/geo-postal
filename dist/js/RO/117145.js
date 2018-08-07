@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117145"]={"code":"117145","region":"Arges","city":"Bradulet","latitude":45.28333,"longitude":24.76667}}(window,'GeoPostal','RO');

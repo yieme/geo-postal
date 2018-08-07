@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1473"]={"code":"1473","region":"National Capital Region","city":"Caloocan","latitude":14.65,"longitude":120.966667}}(window,'GeoPostal','PH');

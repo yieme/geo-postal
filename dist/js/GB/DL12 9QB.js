@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 9QB"]={"code":"DL12 9QB","region":"England","city":"Cotherstone","latitude":54.57089,"longitude":-1.98241}}(window,'GeoPostal','GB');

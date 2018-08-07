@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63672"]={"code":"63672","region":"L'Oriental","city":"Rislane","latitude":34.76987,"longitude":-2.46034}}(window,'GeoPostal','MA');

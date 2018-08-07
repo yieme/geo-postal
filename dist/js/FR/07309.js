@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07309"]={"code":"07309","region":"Auvergne-Rhone-Alpes","city":"Tournon-sur-Rhone","latitude":45.06667,"longitude":4.83333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99927"]={"code":"99927","region":"Alaska","city":"Point Baker","latitude":56.247484,"longitude":-133.357185}}(window,'GeoPostal','US');

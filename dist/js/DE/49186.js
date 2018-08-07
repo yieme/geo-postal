@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49186"]={"code":"49186","region":"Niedersachsen","city":"Bad Iburg","latitude":52.1549,"longitude":8.04216}}(window,'GeoPostal','DE');

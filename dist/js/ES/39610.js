@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39610"]={"code":"39610","region":"Cantabria","city":"El Astillero","latitude":43.40094,"longitude":-3.82051}}(window,'GeoPostal','ES');

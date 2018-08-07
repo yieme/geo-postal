@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 1T0"]={"code":"L0L 1T0","region":"Ontario","city":"Hawkestone","latitude":44.50011,"longitude":-79.46633}}(window,'GeoPostal','CA');

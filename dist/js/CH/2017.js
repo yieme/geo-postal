@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2017"]={"code":"2017","region":"Neuchatel","city":"Boudry","latitude":46.94991,"longitude":6.83757}}(window,'GeoPostal','CH');

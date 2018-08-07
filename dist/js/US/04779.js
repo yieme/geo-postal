@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04779"]={"code":"04779","region":"ME","city":"Sinclair","latitude":47.1222,"longitude":-68.323}}(window,'GeoPostal','US');

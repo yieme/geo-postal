@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29679"]={"code":"29679","region":"Andalucia","city":"Benahavis","latitude":36.52361,"longitude":-5.04631}}(window,'GeoPostal','ES');

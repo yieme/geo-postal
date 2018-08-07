@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11230"]={"code":"11230","region":"Ica","city":"Santiago","latitude":-14.18861,"longitude":-75.71417}}(window,'GeoPostal','PE');

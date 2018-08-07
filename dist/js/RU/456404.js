@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456404"]={"code":"456404","region":"Chelyabinskaya oblast'","city":"Timiryazevskiy","latitude":54.92917,"longitude":60.7625}}(window,'GeoPostal','RU');

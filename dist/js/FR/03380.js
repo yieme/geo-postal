@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03380"]={"code":"03380","region":"Auvergne-Rhone-Alpes","city":"Huriel","latitude":46.37368,"longitude":2.47793}}(window,'GeoPostal','FR');

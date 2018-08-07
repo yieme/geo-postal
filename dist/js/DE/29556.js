@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29556"]={"code":"29556","region":"Niedersachsen","city":"Suderburg","latitude":52.9,"longitude":10.46667}}(window,'GeoPostal','DE');

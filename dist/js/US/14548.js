@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14548"]={"code":"14548","region":"NY","city":"Shortsville","latitude":42.9761,"longitude":-77.2439}}(window,'GeoPostal','US');

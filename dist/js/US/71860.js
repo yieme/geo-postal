@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71860"]={"code":"71860","region":"Arkansas","city":"Stamps","latitude":33.3654,"longitude":-93.49518}}(window,'GeoPostal','US');

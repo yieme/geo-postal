@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237446"]={"code":"237446","region":"Arges","city":"Rotunda","latitude":43.98333,"longitude":24.31667}}(window,'GeoPostal','RO');

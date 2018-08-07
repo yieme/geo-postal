@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 3B0"]={"code":"S0M 3B0","region":"Saskatchewan","city":"Waterhen Lake","latitude":54.51688,"longitude":-108.41814}}(window,'GeoPostal','CA');

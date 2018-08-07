@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21865"]={"code":"21865","region":"MD","city":"Tyaskin","latitude":38.2833,"longitude":-75.8465}}(window,'GeoPostal','US');

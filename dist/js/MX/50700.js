@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50700"]={"code":"50700","region":"Mexico","city":"Jocotitlan","latitude":19.70583,"longitude":-99.78778}}(window,'GeoPostal','MX');

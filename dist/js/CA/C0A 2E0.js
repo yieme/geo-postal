@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 2E0"]={"code":"C0A 2E0","region":"Prince Edward Island","city":"Vernon Bridge","latitude":46.16681,"longitude":-62.88197}}(window,'GeoPostal','CA');

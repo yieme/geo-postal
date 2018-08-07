@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54127"]={"code":"54127","region":"WI","city":"Green Valley","latitude":44.7964,"longitude":-88.2696}}(window,'GeoPostal','US');

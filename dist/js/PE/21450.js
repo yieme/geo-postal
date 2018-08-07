@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21450"]={"code":"21450","region":"Puno","city":"Putina","latitude":-15.46667,"longitude":-69.43333}}(window,'GeoPostal','PE');

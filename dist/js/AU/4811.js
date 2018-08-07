@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4811"]={"code":"4811","region":"Queensland","city":"Barringha","latitude":-19.55,"longitude":146.83333}}(window,'GeoPostal','AU');

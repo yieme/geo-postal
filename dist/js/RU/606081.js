@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606081"]={"code":"606081","region":"Nizhegorodskaya oblast'","city":"Smolino","latitude":56.28139,"longitude":43.03389}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31565"]={"code":"31565","region":"Georgia","city":"Waverly","latitude":31.0473,"longitude":-81.5775}}(window,'GeoPostal','US');

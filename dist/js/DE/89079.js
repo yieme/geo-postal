@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89079"]={"code":"89079","region":"Baden-Wurttemberg","city":"Donautal","latitude":48.3672,"longitude":9.95361}}(window,'GeoPostal','DE');

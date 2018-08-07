@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18246"]={"code":"18246","region":"Mecklenburg-Vorpommern","city":"Langen Trechow","latitude":53.88037,"longitude":11.94133}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1N 4P2"]={"code":"V1N 4P2","region":"British Columbia","city":"Shoreacres","latitude":49.41654,"longitude":-117.53554}}(window,'GeoPostal','CA');

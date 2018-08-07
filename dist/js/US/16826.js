@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16826"]={"code":"16826","region":"PA","city":"Blanchard","latitude":41.0642,"longitude":-77.5978}}(window,'GeoPostal','US');

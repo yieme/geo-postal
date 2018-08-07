@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE74 2QU"]={"code":"DE74 2QU","region":"England","city":"Castle Donington","latitude":52.84291,"longitude":-1.34188}}(window,'GeoPostal','GB');

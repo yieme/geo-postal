@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39359"]={"code":"39359","region":"Sachsen-Anhalt","city":"Wegenstedt","latitude":52.38674,"longitude":11.19998}}(window,'GeoPostal','DE');

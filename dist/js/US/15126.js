@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15126"]={"code":"15126","region":"PA","city":"Imperial","latitude":40.4584,"longitude":-80.2649}}(window,'GeoPostal','US');

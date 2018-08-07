@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4W 3X4"]={"code":"V4W 3X4","region":"British Columbia","city":"Aldergrove","latitude":49.103683,"longitude":-122.481716}}(window,'GeoPostal','CA');

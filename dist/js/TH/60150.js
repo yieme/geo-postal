@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60150"]={"code":"60150","region":"Nakhon Sawan","city":"Mae Wong","latitude":15.78164,"longitude":99.51864}}(window,'GeoPostal','TH');

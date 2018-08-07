@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["569 01"]={"code":"569 01","region":"Pardubicky kraj","city":"Hradec nad Svitavou","latitude":49.71143,"longitude":16.48058}}(window,'GeoPostal','CZ');

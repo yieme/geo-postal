@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28719"]={"code":"28719","region":"North Carolina","city":"Cherokee","latitude":35.47427,"longitude":-83.31487}}(window,'GeoPostal','US');

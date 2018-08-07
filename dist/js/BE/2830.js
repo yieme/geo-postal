@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2830"]={"code":"2830","region":"Antwerpen","city":"Willebroek","latitude":51.06041,"longitude":4.36019}}(window,'GeoPostal','BE');

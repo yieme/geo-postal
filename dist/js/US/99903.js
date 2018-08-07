@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99903"]={"code":"99903","region":"AK","city":"Meyers Chuck","latitude":55.7408,"longitude":-132.2564}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51900"]={"code":"51900","region":"Nigde","city":"Ulukisla","latitude":37.54776,"longitude":34.48528}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02669"]={"code":"02669","region":"MA","city":"West Chatham","latitude":41.6812,"longitude":-69.9911}}(window,'GeoPostal','US');

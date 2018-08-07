@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81156"]={"code":"81156","region":"Lvivska oblast","city":"Dzvinogrud","latitude":49.73333,"longitude":24.25}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05907"]={"code":"05907","region":"Vermont","city":"Norton","latitude":44.946175,"longitude":-71.828839}}(window,'GeoPostal','US');

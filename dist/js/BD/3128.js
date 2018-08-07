@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3128"]={"code":"3128","region":"Chittagong","city":"Feni","latitude":23.01861,"longitude":91.41}}(window,'GeoPostal','BD');

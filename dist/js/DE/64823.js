@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64823"]={"code":"64823","region":"Hessen","city":"Gross-Umstadt","latitude":49.86899,"longitude":8.9321}}(window,'GeoPostal','DE');

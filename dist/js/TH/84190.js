@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84190"]={"code":"84190","region":"Surat Thani","city":"Phrasaeng","latitude":8.56781,"longitude":99.24756}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44866"]={"code":"44866","region":"Ohio","city":"Polk","latitude":40.92156,"longitude":-82.20228}}(window,'GeoPostal','US');

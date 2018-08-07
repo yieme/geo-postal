@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-235"]={"code":"77-235","region":"Pomorskie","city":"Trzebielino","latitude":54.19996,"longitude":17.08726}}(window,'GeoPostal','PL');

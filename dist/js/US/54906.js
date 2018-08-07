@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54906"]={"code":"54906","region":"Wisconsin","city":"Oshkosh","latitude":44.017767,"longitude":-88.553991}}(window,'GeoPostal','US');

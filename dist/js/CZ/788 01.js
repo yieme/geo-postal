@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["788 01"]={"code":"788 01","region":"Olomoucky kraj","city":"Oskava","latitude":49.89523,"longitude":17.13214}}(window,'GeoPostal','CZ');

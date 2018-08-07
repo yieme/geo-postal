@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25624"]={"code":"25624","region":"WV","city":"Henlawson","latitude":37.9023,"longitude":-81.9882}}(window,'GeoPostal','US');

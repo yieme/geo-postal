@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04617"]={"code":"04617","region":"Thuringen","city":"Primmelwitz","latitude":51.04352,"longitude":12.45828}}(window,'GeoPostal','DE');

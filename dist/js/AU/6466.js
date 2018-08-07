@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6466"]={"code":"6466","region":"Western Australia","city":"Cadoux","latitude":-30.78333,"longitude":117.13333}}(window,'GeoPostal','AU');

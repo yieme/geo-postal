@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 4LF"]={"code":"LN4 4LF","region":"England","city":"Tattershall","latitude":53.10446,"longitude":-0.18964}}(window,'GeoPostal','GB');

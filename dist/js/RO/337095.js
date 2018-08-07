@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337095"]={"code":"337095","region":"Hunedoara","city":"Bosorod","latitude":45.68333,"longitude":23.08333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1Z0"]={"code":"R0L 1Z0","region":"Manitoba","city":"Swan River","latitude":52.1058,"longitude":-101.26759}}(window,'GeoPostal','CA');

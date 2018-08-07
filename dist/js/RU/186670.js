@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186670"]={"code":"186670","region":"Kareliya, Respublika","city":"Chupa","latitude":66.27001,"longitude":33.05486}}(window,'GeoPostal','RU');

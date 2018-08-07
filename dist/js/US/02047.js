@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02047"]={"code":"02047","region":"MA","city":"Humarock","latitude":42.1428,"longitude":-70.6935}}(window,'GeoPostal','US');

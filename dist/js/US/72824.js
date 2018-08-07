@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72824"]={"code":"72824","region":"AR","city":"Belleville","latitude":35.1038,"longitude":-93.4518}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62818"]={"code":"62818","region":"IL","city":"Browns","latitude":38.3764,"longitude":-87.9928}}(window,'GeoPostal','US');

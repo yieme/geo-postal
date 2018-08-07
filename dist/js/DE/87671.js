@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87671"]={"code":"87671","region":"Bayern","city":"Reichartsried","latitude":47.91464,"longitude":10.45742}}(window,'GeoPostal','DE');

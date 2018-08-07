@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34250"]={"code":"34250","region":"Ubon Ratchathani","city":"Khong Chiam","latitude":15.31856,"longitude":105.49506}}(window,'GeoPostal','TH');

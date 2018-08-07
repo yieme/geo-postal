@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08042"]={"code":"08042","region":"NJ","city":"Juliustown","latitude":40.0123,"longitude":-74.6646}}(window,'GeoPostal','US');

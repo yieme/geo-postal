@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94536"]={"code":"94536","region":"Bayern","city":"Holzhammer","latitude":48.89744,"longitude":13.33659}}(window,'GeoPostal','DE');

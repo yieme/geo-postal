@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62955"]={"code":"62955","region":"Illinois","city":"Karbers Ridge","latitude":37.471957,"longitude":-88.364952}}(window,'GeoPostal','US');

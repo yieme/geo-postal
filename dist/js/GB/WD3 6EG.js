@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD3 6EG"]={"code":"WD3 6EG","region":"England","city":"Chenies","latitude":51.67447,"longitude":-0.53048}}(window,'GeoPostal','GB');

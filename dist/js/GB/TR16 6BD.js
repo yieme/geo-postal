@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR16 6BD"]={"code":"TR16 6BD","region":"England","city":"Gwennap","latitude":50.21798,"longitude":-5.1704}}(window,'GeoPostal','GB');

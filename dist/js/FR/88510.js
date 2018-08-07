@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88510"]={"code":"88510","region":"Grand-Est","city":"Eloyes","latitude":48.09793,"longitude":6.60653}}(window,'GeoPostal','FR');

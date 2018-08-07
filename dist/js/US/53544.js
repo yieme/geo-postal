@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53544"]={"code":"53544","region":"Wisconsin","city":"Hollandale","latitude":42.87611,"longitude":-89.93611}}(window,'GeoPostal','US');

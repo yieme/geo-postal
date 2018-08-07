@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 2B0"]={"code":"K0M 2B0","region":"Ontario","city":"Kirkfield","latitude":44.56682,"longitude":-78.98289}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20632"]={"code":"20632","region":"Maryland","city":"Faulkner","latitude":38.4397,"longitude":-76.9623}}(window,'GeoPostal','US');

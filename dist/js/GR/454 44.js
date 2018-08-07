@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454 44"]={"code":"454 44","region":"Ipeiros","city":"Ioannina","latitude":39.6675,"longitude":20.85083}}(window,'GeoPostal','GR');

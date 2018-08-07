@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73120"]={"code":"73120","region":"Oklahoma","city":"The Village","latitude":35.584,"longitude":-97.57444}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2444"]={"code":"2444","region":"New South Wales","city":"Port Macquarie","latitude":-31.43084,"longitude":152.90894}}(window,'GeoPostal','AU');

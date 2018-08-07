@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["013350"]={"code":"013350","region":"Nei Mongol","city":"Changshun","latitude":41.89139,"longitude":113.99222}}(window,'GeoPostal','CN');

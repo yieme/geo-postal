@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162900"]={"code":"162900","region":"Vologodskaya oblast'","city":"Vytegra","latitude":61.00636,"longitude":36.44811}}(window,'GeoPostal','RU');

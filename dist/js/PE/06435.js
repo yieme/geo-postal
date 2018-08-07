@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06435"]={"code":"06435","region":"Cajamarca","city":"Cascas","latitude":-7.48333,"longitude":-78.81667}}(window,'GeoPostal','PE');

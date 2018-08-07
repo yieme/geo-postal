@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B70 6AW"]={"code":"B70 6AW","region":"England","city":"West Bromwich","latitude":52.51868,"longitude":-1.9945}}(window,'GeoPostal','GB');

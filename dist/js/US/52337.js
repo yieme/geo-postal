@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52337"]={"code":"52337","region":"IA","city":"Stanwood","latitude":41.8963,"longitude":-91.1662}}(window,'GeoPostal','US');

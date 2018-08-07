@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33572"]={"code":"33572","region":"FL","city":"Apollo Beach","latitude":27.7716,"longitude":-82.4102}}(window,'GeoPostal','US');

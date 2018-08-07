@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442308"]={"code":"442308","region":"Maharashtra","city":"Deoli","latitude":20.66667,"longitude":78.48333}}(window,'GeoPostal','IN');

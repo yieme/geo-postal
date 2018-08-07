@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 9LR"]={"code":"LA22 9LR","region":"England","city":"Rydal","latitude":54.44764,"longitude":-2.98416}}(window,'GeoPostal','GB');

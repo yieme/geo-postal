@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26427"]={"code":"26427","region":"Niedersachsen","city":"Dunum","latitude":53.6,"longitude":7.65}}(window,'GeoPostal','DE');

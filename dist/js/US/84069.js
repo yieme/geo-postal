@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84069"]={"code":"84069","region":"UT","city":"Rush Valley","latitude":40.3566,"longitude":-112.4659}}(window,'GeoPostal','US');

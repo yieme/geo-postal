@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43548"]={"code":"43548","region":"Ohio","city":"New Bavaria","latitude":41.203069,"longitude":-84.167981}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1246"]={"code":"1246","region":"Vaud","city":"Pully","latitude":46.51027,"longitude":6.66183}}(window,'GeoPostal','CH');

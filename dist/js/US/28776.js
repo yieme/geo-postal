@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28776"]={"code":"28776","region":"North Carolina","city":"Skyland","latitude":35.483756,"longitude":-82.521996}}(window,'GeoPostal','US');

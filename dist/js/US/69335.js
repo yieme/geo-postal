@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69335"]={"code":"69335","region":"NE","city":"Bingham","latitude":42.0211,"longitude":-102.0885}}(window,'GeoPostal','US');

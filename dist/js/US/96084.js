@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96084"]={"code":"96084","region":"CA","city":"Round Mountain","latitude":40.794,"longitude":-121.9419}}(window,'GeoPostal','US');

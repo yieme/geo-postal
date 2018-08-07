@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SM7 2AS"]={"code":"SM7 2AS","region":"England","city":"Banstead","latitude":51.32503,"longitude":-0.19569}}(window,'GeoPostal','GB');

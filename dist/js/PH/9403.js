@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9403"]={"code":"9403","region":"Cotabato","city":"Bagontapay","latitude":6.85889,"longitude":124.90889}}(window,'GeoPostal','PH');

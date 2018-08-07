@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03242"]={"code":"03242","region":"New Hampshire","city":"Henniker","latitude":43.172677,"longitude":-71.819236}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83101"]={"code":"83101","region":"Bayern","city":"Rohrdorf","latitude":47.79713,"longitude":12.1701}}(window,'GeoPostal','DE');

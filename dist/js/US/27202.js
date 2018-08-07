@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27202"]={"code":"27202","region":"NC","city":"Altamahaw","latitude":36.1855,"longitude":-79.5055}}(window,'GeoPostal','US');

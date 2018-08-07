@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28970-000"]={"code":"28970-000","region":"Rio de Janeiro","city":"Silva Jardim","latitude":-22.65083,"longitude":-42.39167}}(window,'GeoPostal','BR');

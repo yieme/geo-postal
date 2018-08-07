@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCTY01"]={"code":"JMCTY01","region":"Trelawny","city":"Albert Town","latitude":18.29434,"longitude":-77.54239}}(window,'GeoPostal','JM');

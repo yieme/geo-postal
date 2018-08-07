@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73370"]={"code":"73370","region":"Ile-de-France","city":"Le Bourget","latitude":48.93405,"longitude":2.43584}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56187"]={"code":"56187","region":"Minnesota","city":"Worthington","latitude":43.61996,"longitude":-95.5964}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78648"]={"code":"78648","region":"TX","city":"Luling","latitude":29.6826,"longitude":-97.6499}}(window,'GeoPostal','US');

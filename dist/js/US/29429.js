@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29429"]={"code":"29429","region":"SC","city":"Awendaw","latitude":33.0063,"longitude":-79.6561}}(window,'GeoPostal','US');

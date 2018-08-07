@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9E 7L3"]={"code":"T9E 7L3","region":"Alberta","city":"Mission Beach","latitude":53.08342,"longitude":-114.11875}}(window,'GeoPostal','CA');

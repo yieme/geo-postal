@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62629"]={"code":"62629","region":"Illinois","city":"Chatham","latitude":39.676955,"longitude":-89.694781}}(window,'GeoPostal','US');

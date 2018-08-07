@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37719"]={"code":"37719","region":"TN","city":"Coalfield","latitude":36.029,"longitude":-84.4208}}(window,'GeoPostal','US');

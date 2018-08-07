@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2344"]={"code":"2344","region":"New South Wales","city":"Goonoo Goonoo","latitude":-31.3,"longitude":150.9}}(window,'GeoPostal','AU');

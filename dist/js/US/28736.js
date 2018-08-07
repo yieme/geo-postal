@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28736"]={"code":"28736","region":"North Carolina","city":"Glenville","latitude":35.195047,"longitude":-83.086477}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54644"]={"code":"54644","region":"WI","city":"Mindoro","latitude":44.0287,"longitude":-91.0642}}(window,'GeoPostal','US');

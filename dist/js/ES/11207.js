@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11207"]={"code":"11207","region":"Andalucia","city":"Cadiz","latitude":36.53361,"longitude":-6.29944}}(window,'GeoPostal','ES');

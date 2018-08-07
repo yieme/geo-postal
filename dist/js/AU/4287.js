@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4287"]={"code":"4287","region":"Queensland","city":"Rathdowney","latitude":-28.2108,"longitude":152.86414}}(window,'GeoPostal','AU');

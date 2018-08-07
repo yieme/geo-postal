@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15727"]={"code":"15727","region":"PA","city":"Clune","latitude":40.5503,"longitude":-79.3237}}(window,'GeoPostal','US');

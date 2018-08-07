@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20089"]={"code":"20089","region":"Lombardia","city":"Rozzano","latitude":45.38187,"longitude":9.16055}}(window,'GeoPostal','IT');

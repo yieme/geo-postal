@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80537"]={"code":"80537","region":"Colorado","city":"Loveland","latitude":40.388787,"longitude":-105.104558}}(window,'GeoPostal','US');

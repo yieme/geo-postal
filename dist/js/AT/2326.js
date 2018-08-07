@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2326"]={"code":"2326","region":"Niederosterreich","city":"Lanzendorf","latitude":48.11056,"longitude":16.445}}(window,'GeoPostal','AT');

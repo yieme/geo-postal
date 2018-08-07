@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54465"]={"code":"54465","region":"Wisconsin","city":"Pickerel","latitude":45.376077,"longitude":-88.896384}}(window,'GeoPostal','US');

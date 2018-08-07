@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9600"]={"code":"9600","region":"Nordjylland","city":"Aars","latitude":56.80399,"longitude":9.51441}}(window,'GeoPostal','DK');

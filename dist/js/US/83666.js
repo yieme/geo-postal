@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83666"]={"code":"83666","region":"ID","city":"Placerville","latitude":43.9633,"longitude":-115.9759}}(window,'GeoPostal','US');

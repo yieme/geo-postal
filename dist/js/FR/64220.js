@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64220"]={"code":"64220","region":"Nouvelle-Aquitaine","city":"Saint-Jean-Pied-de-Port","latitude":43.16363,"longitude":-1.23738}}(window,'GeoPostal','FR');

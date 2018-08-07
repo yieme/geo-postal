@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79823"]={"code":"79823","region":"Veracruz de Ignacio de la Llave","city":"El Higo","latitude":21.76667,"longitude":-98.46667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25441"]={"code":"25441","region":"WV","city":"Rippon","latitude":39.3159,"longitude":-77.8772}}(window,'GeoPostal','US');

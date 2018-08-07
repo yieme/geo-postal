@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28380-000"]={"code":"28380-000","region":"Rio de Janeiro","city":"Natividade","latitude":-21.04222,"longitude":-41.97333}}(window,'GeoPostal','BR');

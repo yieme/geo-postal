@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36456"]={"code":"36456","region":"Alabama","city":"McKenzie","latitude":31.54572,"longitude":-86.74392}}(window,'GeoPostal','US');

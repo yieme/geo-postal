@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63660"]={"code":"63660","region":"Missouri","city":"Mineral Point","latitude":37.9161,"longitude":-90.71028}}(window,'GeoPostal','US');

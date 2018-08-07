@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08901"]={"code":"08901","region":"New Jersey","city":"New Brunswick","latitude":40.48622,"longitude":-74.45182}}(window,'GeoPostal','US');

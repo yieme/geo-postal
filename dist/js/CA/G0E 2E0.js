@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0E 2E0"]={"code":"G0E 2E0","region":"Quebec","city":"Saint-Maxime-du-Mont-Louis","latitude":49.23339,"longitude":-65.73205}}(window,'GeoPostal','CA');

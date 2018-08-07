@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38462"]={"code":"38462","region":"Niedersachsen","city":"Grafhorst","latitude":52.44482,"longitude":10.94513}}(window,'GeoPostal','DE');

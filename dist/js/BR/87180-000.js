@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87180-000"]={"code":"87180-000","region":"Parana","city":"Mandaguacu","latitude":-23.34722,"longitude":-52.09528}}(window,'GeoPostal','BR');

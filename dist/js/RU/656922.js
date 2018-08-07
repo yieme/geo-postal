@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656922"]={"code":"656922","region":"Altayskiy kray","city":"Novosilikatnyy","latitude":53.30972,"longitude":83.62389}}(window,'GeoPostal','RU');

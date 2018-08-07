@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69820-000"]={"code":"69820-000","region":"Amazonas","city":"Canutama","latitude":-6.53389,"longitude":-64.38306}}(window,'GeoPostal','BR');

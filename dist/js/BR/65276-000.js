@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65276-000"]={"code":"65276-000","region":"Maranhao","city":"Santa Helena","latitude":-2.23111,"longitude":-45.3}}(window,'GeoPostal','BR');

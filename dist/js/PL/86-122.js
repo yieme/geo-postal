@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-122"]={"code":"86-122","region":"Kujawsko-pomorskie","city":"Bukowiec","latitude":53.43383,"longitude":18.24048}}(window,'GeoPostal','PL');

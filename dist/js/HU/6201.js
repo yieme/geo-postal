@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6201"]={"code":"6201","region":"Bacs-Kiskun","city":"Kiskoros","latitude":46.62139,"longitude":19.28528}}(window,'GeoPostal','HU');

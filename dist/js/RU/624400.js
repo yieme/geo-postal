@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624400"]={"code":"624400","region":"Sverdlovskaya oblast'","city":"Novaya Lyalya","latitude":59.05503,"longitude":60.59899}}(window,'GeoPostal','RU');

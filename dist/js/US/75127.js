@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75127"]={"code":"75127","region":"TX","city":"Fruitvale","latitude":32.677,"longitude":-95.7899}}(window,'GeoPostal','US');

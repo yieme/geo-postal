@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12801"]={"code":"12801","region":"New York","city":"Glens Falls","latitude":43.3089,"longitude":-73.6446}}(window,'GeoPostal','US');

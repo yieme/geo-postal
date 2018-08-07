@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA40 9YW"]={"code":"SA40 9YW","region":"Wales","city":"Cwrt-newydd","latitude":52.10856,"longitude":-4.20724}}(window,'GeoPostal','GB');

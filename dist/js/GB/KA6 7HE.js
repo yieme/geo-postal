@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 7HE"]={"code":"KA6 7HE","region":"Scotland","city":"Rankinston","latitude":55.39847,"longitude":-4.4477}}(window,'GeoPostal','GB');

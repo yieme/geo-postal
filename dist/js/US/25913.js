@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25913"]={"code":"25913","region":"WV","city":"Ravencliff","latitude":37.7141,"longitude":-81.4895}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165430"]={"code":"165430","region":"Arkhangel'skaya oblast'","city":"Krasnoborsk","latitude":61.55978,"longitude":45.93396}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94239"]={"code":"94239","region":"Ile-de-France","city":"Cachan","latitude":48.79632,"longitude":2.33661}}(window,'GeoPostal','FR');

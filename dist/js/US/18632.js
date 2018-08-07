@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18632"]={"code":"18632","region":"Pennsylvania","city":"Mildred","latitude":41.469996,"longitude":-76.379262}}(window,'GeoPostal','US');

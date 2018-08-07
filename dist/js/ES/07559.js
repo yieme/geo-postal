@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07559"]={"code":"07559","region":"Illes Balears","city":"Son Servera","latitude":39.62073,"longitude":3.36008}}(window,'GeoPostal','ES');

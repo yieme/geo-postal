@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5440"]={"code":"5440","region":"Salzburg","city":"Kuchl","latitude":47.62647,"longitude":13.1448}}(window,'GeoPostal','AT');

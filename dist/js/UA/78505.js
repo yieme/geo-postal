@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78505"]={"code":"78505","region":"Ivano-Frankivska oblast","city":"Yaremcha","latitude":48.45157,"longitude":24.55436}}(window,'GeoPostal','UA');

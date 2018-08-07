@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19446"]={"code":"19446","region":"Pennsylvania","city":"Lansdale","latitude":40.237483,"longitude":-75.291368}}(window,'GeoPostal','US');

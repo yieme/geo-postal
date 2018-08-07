@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84280"]={"code":"84280","region":"Surat Thani","city":"Ko Pha-Ngan","latitude":9.71945,"longitude":99.99511}}(window,'GeoPostal','TH');

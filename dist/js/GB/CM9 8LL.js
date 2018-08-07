@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 8LL"]={"code":"CM9 8LL","region":"England","city":"Tolleshunt Major","latitude":51.76842,"longitude":0.75368}}(window,'GeoPostal','GB');

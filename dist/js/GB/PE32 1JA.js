@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 1JA"]={"code":"PE32 1JA","region":"England","city":"Narford","latitude":52.68333,"longitude":0.61667}}(window,'GeoPostal','GB');

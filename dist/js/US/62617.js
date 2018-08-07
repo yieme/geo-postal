@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62617"]={"code":"62617","region":"IL","city":"Bath","latitude":40.1536,"longitude":-90.1661}}(window,'GeoPostal','US');

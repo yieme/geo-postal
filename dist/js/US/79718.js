@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79718"]={"code":"79718","region":"Texas","city":"Balmorhea","latitude":30.98389,"longitude":-103.74222}}(window,'GeoPostal','US');

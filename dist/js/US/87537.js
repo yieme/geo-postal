@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87537"]={"code":"87537","region":"NM","city":"Hernandez","latitude":36.0738,"longitude":-106.1396}}(window,'GeoPostal','US');

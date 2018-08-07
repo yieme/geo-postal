@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15011"]={"code":"15011","region":"Nay Pyi Taw","city":"Nay Pyi Taw","latitude":19.745,"longitude":96.12972}}(window,'GeoPostal','MM');

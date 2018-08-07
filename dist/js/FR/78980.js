@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78980"]={"code":"78980","region":"Ile-de-France","city":"Breval","latitude":48.94545,"longitude":1.53309}}(window,'GeoPostal','FR');

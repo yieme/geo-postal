@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51533"]={"code":"51533","region":"Iowa","city":"Emerson","latitude":41.01861,"longitude":-95.40194}}(window,'GeoPostal','US');

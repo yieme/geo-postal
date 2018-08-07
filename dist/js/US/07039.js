@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07039"]={"code":"07039","region":"New Jersey","city":"Livingston","latitude":40.789238,"longitude":-74.321883}}(window,'GeoPostal','US');

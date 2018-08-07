@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26494"]={"code":"26494","region":"Skane lan","city":"Klippan","latitude":56.13559,"longitude":13.13086}}(window,'GeoPostal','SE');

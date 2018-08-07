@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61316"]={"code":"61316","region":"IL","city":"Cedar Point","latitude":41.2617,"longitude":-89.1237}}(window,'GeoPostal','US');

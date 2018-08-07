@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67124"]={"code":"67124","region":"Kansas","city":"Pratt","latitude":37.64391,"longitude":-98.73759}}(window,'GeoPostal','US');

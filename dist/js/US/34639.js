@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34639"]={"code":"34639","region":"FL","city":"Land O Lakes","latitude":28.2258,"longitude":-82.4547}}(window,'GeoPostal','US');

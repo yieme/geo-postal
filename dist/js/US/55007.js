@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55007"]={"code":"55007","region":"Minnesota","city":"Brook Park","latitude":45.94944,"longitude":-93.07472}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75438"]={"code":"75438","region":"Baden-Wurttemberg","city":"Knittlingen","latitude":49.02487,"longitude":8.75606}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14045"]={"code":"14045","region":"Piemonte","city":"Incisa Scapaccino","latitude":44.80805,"longitude":8.37584}}(window,'GeoPostal','IT');

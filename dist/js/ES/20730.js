@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20730"]={"code":"20730","region":"Pais Vasco","city":"Azpeitia","latitude":43.18246,"longitude":-2.26693}}(window,'GeoPostal','ES');

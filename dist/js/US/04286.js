@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04286"]={"code":"04286","region":"Maine","city":"West Bethel","latitude":44.417584,"longitude":-70.843344}}(window,'GeoPostal','US');

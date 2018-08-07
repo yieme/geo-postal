@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44006"]={"code":"44006","region":"Ain Defla","city":"El Abadia","latitude":36.26951,"longitude":1.68609}}(window,'GeoPostal','DZ');

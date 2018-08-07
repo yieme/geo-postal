@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63850"]={"code":"63850","region":"MO","city":"Grayridge","latitude":36.8283,"longitude":-89.7565}}(window,'GeoPostal','US');

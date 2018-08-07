@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78910"]={"code":"78910","region":"Ile-de-France","city":"Orgerus","latitude":48.83851,"longitude":1.70132}}(window,'GeoPostal','FR');

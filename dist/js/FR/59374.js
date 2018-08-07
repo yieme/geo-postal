@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59374"]={"code":"59374","region":"Hauts-de-France","city":"Loos","latitude":50.60982,"longitude":3.01874}}(window,'GeoPostal','FR');

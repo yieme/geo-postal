@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547210"]={"code":"547210","region":"Mures","city":"Eremitu","latitude":46.66667,"longitude":24.93333}}(window,'GeoPostal','RO');

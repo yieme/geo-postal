@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7730"]={"code":"7730","region":"Nordjylland","city":"Hanstholm","latitude":57.11667,"longitude":8.61667}}(window,'GeoPostal','DK');

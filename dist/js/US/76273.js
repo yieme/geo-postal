@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76273"]={"code":"76273","region":"Texas","city":"Whitesboro","latitude":33.656784,"longitude":-96.904937}}(window,'GeoPostal','US');

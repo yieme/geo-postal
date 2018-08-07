@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45636"]={"code":"45636","region":"OH","city":"Haverhill","latitude":38.5848,"longitude":-82.8321}}(window,'GeoPostal','US');

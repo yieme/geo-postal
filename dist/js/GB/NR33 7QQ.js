@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR33 7QQ"]={"code":"NR33 7QQ","region":"England","city":"Kessingland","latitude":52.41987,"longitude":1.70878}}(window,'GeoPostal','GB');

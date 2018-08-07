@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64450-000"]={"code":"64450-000","region":"Piaui","city":"Monsenhor Gil","latitude":-5.56417,"longitude":-42.60778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21401"]={"code":"21401","region":"Alajuela","city":"Los Chiles","latitude":11.03333,"longitude":-84.71667}}(window,'GeoPostal','CR');

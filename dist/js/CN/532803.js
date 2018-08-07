@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532803"]={"code":"532803","region":"Guangxi","city":"Tiandeng","latitude":23.12658,"longitude":107.09369}}(window,'GeoPostal','CN');

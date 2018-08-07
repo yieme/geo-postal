@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83236"]={"code":"83236","region":"Bayern","city":"Ubersee","latitude":47.81667,"longitude":12.48333}}(window,'GeoPostal','DE');

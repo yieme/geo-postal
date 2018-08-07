@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45674"]={"code":"45674","region":"Ohio","city":"Rio Grande","latitude":38.88361,"longitude":-82.38}}(window,'GeoPostal','US');

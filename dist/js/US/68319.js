@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68319"]={"code":"68319","region":"Nebraska","city":"Bradshaw","latitude":40.884581,"longitude":-97.746955}}(window,'GeoPostal','US');

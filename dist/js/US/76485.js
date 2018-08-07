@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76485"]={"code":"76485","region":"TX","city":"Peaster","latitude":32.8721,"longitude":-97.8667}}(window,'GeoPostal','US');

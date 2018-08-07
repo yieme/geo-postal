@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75135"]={"code":"75135","region":"Texas","city":"Caddo Mills","latitude":33.0711,"longitude":-96.2301}}(window,'GeoPostal','US');

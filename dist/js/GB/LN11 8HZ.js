@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8HZ"]={"code":"LN11 8HZ","region":"England","city":"Grimoldby","latitude":53.3698,"longitude":0.09147}}(window,'GeoPostal','GB');

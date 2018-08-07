@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01150"]={"code":"01150","region":"Auvergne-Rhone-Alpes","city":"Villebois","latitude":45.84947,"longitude":5.43226}}(window,'GeoPostal','FR');

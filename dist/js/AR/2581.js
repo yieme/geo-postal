@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2581"]={"code":"2581","region":"Cordoba","city":"Camilo Aldao","latitude":-33.12745,"longitude":-62.09453}}(window,'GeoPostal','AR');

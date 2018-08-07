@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55607"]={"code":"55607","region":"Minnesota","city":"Isabella","latitude":47.61722,"longitude":-91.355}}(window,'GeoPostal','US');

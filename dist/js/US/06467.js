@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06467"]={"code":"06467","region":"CT","city":"Milldale","latitude":41.5659,"longitude":-72.8918}}(window,'GeoPostal','US');

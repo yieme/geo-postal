@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55796"]={"code":"55796","region":"Minnesota","city":"Winton","latitude":47.92518,"longitude":-91.79748}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68017"]={"code":"68017","region":"NE","city":"Ceresco","latitude":41.0681,"longitude":-96.6398}}(window,'GeoPostal','US');

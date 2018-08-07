@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3996"]={"code":"3996","region":"Victoria","city":"Pound Creek","latitude":-38.63333,"longitude":145.8}}(window,'GeoPostal','AU');

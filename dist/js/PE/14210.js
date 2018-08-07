@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14210"]={"code":"14210","region":"Lambayeque","city":"Olmos","latitude":-5.98472,"longitude":-79.74528}}(window,'GeoPostal','PE');

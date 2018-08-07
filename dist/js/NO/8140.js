@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8140"]={"code":"8140","region":"Nordland","city":"Inndyr","latitude":67.0338,"longitude":14.02757}}(window,'GeoPostal','NO');

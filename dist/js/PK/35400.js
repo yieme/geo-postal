@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35400"]={"code":"35400","region":"Punjab","city":"Chiniot","latitude":31.72,"longitude":72.97889}}(window,'GeoPostal','PK');

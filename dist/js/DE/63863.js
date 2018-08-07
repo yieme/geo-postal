@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63863"]={"code":"63863","region":"Bayern","city":"Streit","latitude":49.80828,"longitude":9.21521}}(window,'GeoPostal','DE');

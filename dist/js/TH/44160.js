@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44160"]={"code":"44160","region":"Khon Kaen","city":"Sam Sung","latitude":16.5432,"longitude":103.07992}}(window,'GeoPostal','TH');

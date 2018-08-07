@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20160"]={"code":"20160","region":"VA","city":"Lincoln","latitude":39.0985,"longitude":-77.6883}}(window,'GeoPostal','US');

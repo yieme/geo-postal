@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640 11"]={"code":"640 11","region":"Anatoliki Makedonia kai Thraki","city":"Keramoti","latitude":40.85833,"longitude":24.70611}}(window,'GeoPostal','GR');

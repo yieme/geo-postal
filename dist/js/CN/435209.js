@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435209"]={"code":"435209","region":"Hubei","city":"Longgang","latitude":29.62558,"longitude":114.95028}}(window,'GeoPostal','CN');

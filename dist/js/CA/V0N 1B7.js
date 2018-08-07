@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1B7"]={"code":"V0N 1B7","region":"British Columbia","city":"Nesters","latitude":50.13299,"longitude":-122.95275}}(window,'GeoPostal','CA');

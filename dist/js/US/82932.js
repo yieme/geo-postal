@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82932"]={"code":"82932","region":"Wyoming","city":"Farson","latitude":42.17194,"longitude":-109.42}}(window,'GeoPostal','US');

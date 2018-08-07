@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46110"]={"code":"46110","region":"IN","city":"Boggstown","latitude":39.5666,"longitude":-85.9141}}(window,'GeoPostal','US');

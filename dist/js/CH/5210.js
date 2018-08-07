@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5210"]={"code":"5210","region":"Aargau","city":"Windisch","latitude":47.47899,"longitude":8.21842}}(window,'GeoPostal','CH');

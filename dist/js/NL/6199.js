@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6199"]={"code":"6199","region":"Limburg","city":"Beek","latitude":50.94083,"longitude":5.79722}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 5DP"]={"code":"BD23 5DP","region":"England","city":"Hebden","latitude":54.06448,"longitude":-1.96175}}(window,'GeoPostal','GB');

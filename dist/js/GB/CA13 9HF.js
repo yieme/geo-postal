@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA13 9HF"]={"code":"CA13 9HF","region":"England","city":"Cockermouth","latitude":54.66209,"longitude":-3.36086}}(window,'GeoPostal','GB');

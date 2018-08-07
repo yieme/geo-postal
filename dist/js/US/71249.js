@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71249"]={"code":"71249","region":"LA","city":"Jigger","latitude":32.0349,"longitude":-91.7468}}(window,'GeoPostal','US');

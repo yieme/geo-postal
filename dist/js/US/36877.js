@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36877"]={"code":"36877","region":"Alabama","city":"Smiths Station","latitude":32.538117,"longitude":-85.099114}}(window,'GeoPostal','US');

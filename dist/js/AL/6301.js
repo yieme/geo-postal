@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6301"]={"code":"6301","region":"Gjirokaster","city":"Tepelene","latitude":40.29583,"longitude":20.01917}}(window,'GeoPostal','AL');

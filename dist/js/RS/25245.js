@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25245"]={"code":"25245","region":"Zapadnobacki okrug","city":"Bogojevo","latitude":45.53056,"longitude":19.13278}}(window,'GeoPostal','RS');

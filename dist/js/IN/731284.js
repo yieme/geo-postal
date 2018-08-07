@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731284"]={"code":"731284","region":"West Bengal","city":"Baharampur","latitude":24.1,"longitude":88.25}}(window,'GeoPostal','IN');

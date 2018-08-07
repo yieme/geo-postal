@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35190"]={"code":"35190","region":"Bretagne","city":"Quebriac","latitude":48.34444,"longitude":-1.82723}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5EW"]={"code":"TR2 5EW","region":"England","city":"Rosevine","latitude":50.1936,"longitude":-4.97157}}(window,'GeoPostal','GB');

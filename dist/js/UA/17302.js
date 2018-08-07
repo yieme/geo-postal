@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17302"]={"code":"17302","region":"Chernihivska oblast","city":"Sribne","latitude":50.66384,"longitude":32.91867}}(window,'GeoPostal','UA');

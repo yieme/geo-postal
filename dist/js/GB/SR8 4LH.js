@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR8 4LH"]={"code":"SR8 4LH","region":"England","city":"Horden","latitude":54.76478,"longitude":-1.31427}}(window,'GeoPostal','GB');

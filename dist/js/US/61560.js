@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61560"]={"code":"61560","region":"Illinois","city":"Putnam","latitude":41.204659,"longitude":-89.440285}}(window,'GeoPostal','US');

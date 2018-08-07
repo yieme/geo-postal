@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42640"]={"code":"42640","region":"Auvergne-Rhone-Alpes","city":"Saint-Germain-Lespinasse","latitude":46.10165,"longitude":3.96204}}(window,'GeoPostal','FR');

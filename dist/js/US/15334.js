@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15334"]={"code":"15334","region":"PA","city":"Garards Fort","latitude":39.8083,"longitude":-79.9679}}(window,'GeoPostal','US');

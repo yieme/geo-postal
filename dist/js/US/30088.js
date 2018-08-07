@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30088"]={"code":"30088","region":"Georgia","city":"Stone Mountain","latitude":33.760154,"longitude":-84.177957}}(window,'GeoPostal','US');

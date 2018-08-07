@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457777"]={"code":"457777","region":"Madhya Pradesh","city":"Thandla","latitude":23,"longitude":74.56667}}(window,'GeoPostal','IN');

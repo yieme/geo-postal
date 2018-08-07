@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J2M 0A1"]={"code":"J2M 0A1","region":"Quebec","city":"Shefford","latitude":45.35008,"longitude":-72.56582}}(window,'GeoPostal','CA');

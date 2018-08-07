@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1X 5B7"]={"code":"A1X 5B7","region":"Newfoundland and Labrador","city":"Indian Pond","latitude":47.46659,"longitude":-53.08137}}(window,'GeoPostal','CA');

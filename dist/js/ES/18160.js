@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18160"]={"code":"18160","region":"Andalucia","city":"Guejar-Sierra","latitude":37.15994,"longitude":-3.43863}}(window,'GeoPostal','ES');

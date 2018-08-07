@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686050"]={"code":"686050","region":"Magadanskaya oblast'","city":"Ust'-Omchug","latitude":61.15,"longitude":149.63333}}(window,'GeoPostal','RU');

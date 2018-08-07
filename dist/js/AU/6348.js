@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6348"]={"code":"6348","region":"Western Australia","city":"Hopetoun","latitude":-33.95057,"longitude":120.12635}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69930-000"]={"code":"69930-000","region":"Acre","city":"Xapuri","latitude":-10.65167,"longitude":-68.50444}}(window,'GeoPostal','BR');

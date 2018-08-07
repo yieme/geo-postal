@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63782"]={"code":"63782","region":"Missouri","city":"Sturdivant","latitude":37.069226,"longitude":-90.010986}}(window,'GeoPostal','US');

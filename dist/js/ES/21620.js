@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21620"]={"code":"21620","region":"Andalucia","city":"Trigueros","latitude":37.38606,"longitude":-6.8268}}(window,'GeoPostal','ES');

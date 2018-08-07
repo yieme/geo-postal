@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65787"]={"code":"65787","region":"Missouri","city":"Roach","latitude":37.99389,"longitude":-92.83639}}(window,'GeoPostal','US');

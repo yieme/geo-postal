@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74490"]={"code":"74490","region":"Auvergne-Rhone-Alpes","city":"Saint-Jeoire","latitude":46.13777,"longitude":6.45886}}(window,'GeoPostal','FR');

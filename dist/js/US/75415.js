@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75415"]={"code":"75415","region":"TX","city":"Ben Franklin","latitude":33.4768,"longitude":-95.7689}}(window,'GeoPostal','US');

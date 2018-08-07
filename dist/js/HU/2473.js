@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2473"]={"code":"2473","region":"Fejer","city":"Val","latitude":47.36264,"longitude":18.67931}}(window,'GeoPostal','HU');

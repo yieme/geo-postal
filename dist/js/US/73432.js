@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73432"]={"code":"73432","region":"OK","city":"Coleman","latitude":34.2625,"longitude":-96.4588}}(window,'GeoPostal','US');

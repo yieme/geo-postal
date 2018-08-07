@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL47 6YH"]={"code":"LL47 6YH","region":"Wales","city":"Llandecwyn","latitude":52.91682,"longitude":-4.05194}}(window,'GeoPostal','GB');

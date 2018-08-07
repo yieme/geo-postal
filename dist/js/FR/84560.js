@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84560"]={"code":"84560","region":"Provence-Alpes-Cote d'Azur","city":"Menerbes","latitude":43.83242,"longitude":5.20597}}(window,'GeoPostal','FR');

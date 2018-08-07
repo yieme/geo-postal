@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57422"]={"code":"57422","region":"Jawa Tengah","city":"Mertoyudan","latitude":-7.52,"longitude":110.22639}}(window,'GeoPostal','ID');

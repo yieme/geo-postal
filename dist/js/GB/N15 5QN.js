@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N15 5QN"]={"code":"N15 5QN","region":"England","city":"Haringey","latitude":51.58333,"longitude":-0.08333}}(window,'GeoPostal','GB');

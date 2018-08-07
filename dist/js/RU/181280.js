@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181280"]={"code":"181280","region":"Pskovskaya oblast'","city":"Palkino","latitude":57.54088,"longitude":28.01257}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18863"]={"code":"18863","region":"Kriti","city":"Perama","latitude":35.36972,"longitude":24.69722}}(window,'GeoPostal','GR');

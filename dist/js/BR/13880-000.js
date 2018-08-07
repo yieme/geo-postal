@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13880-000"]={"code":"13880-000","region":"Sao Paulo","city":"Vargem Grande do Sul","latitude":-21.83222,"longitude":-46.89361}}(window,'GeoPostal','BR');

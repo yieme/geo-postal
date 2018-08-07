@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95665"]={"code":"95665","region":"California","city":"Pine Grove","latitude":38.404679,"longitude":-120.656631}}(window,'GeoPostal','US');

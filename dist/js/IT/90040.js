@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90040"]={"code":"90040","region":"Sicilia","city":"Capaci","latitude":38.17107,"longitude":13.2393}}(window,'GeoPostal','IT');

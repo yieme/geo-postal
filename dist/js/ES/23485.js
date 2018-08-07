@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23485"]={"code":"23485","region":"Andalucia","city":"Pozo Alcon","latitude":37.70256,"longitude":-2.93367}}(window,'GeoPostal','ES');

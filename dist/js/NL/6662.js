@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6662"]={"code":"6662","region":"Gelderland","city":"Elst","latitude":51.91917,"longitude":5.84167}}(window,'GeoPostal','NL');

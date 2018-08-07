@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47220"]={"code":"47220","region":"Indiana","city":"Brownstown","latitude":38.880435,"longitude":-86.046207}}(window,'GeoPostal','US');

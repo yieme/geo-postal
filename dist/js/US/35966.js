@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35966"]={"code":"35966","region":"Alabama","city":"Flat Rock","latitude":34.77,"longitude":-85.7}}(window,'GeoPostal','US');

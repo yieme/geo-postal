@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77623"]={"code":"77623","region":"Texas","city":"High Island","latitude":29.56662,"longitude":-94.39332}}(window,'GeoPostal','US');

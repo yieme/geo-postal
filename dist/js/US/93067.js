@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93067"]={"code":"93067","region":"CA","city":"Summerland","latitude":34.4214,"longitude":-119.5965}}(window,'GeoPostal','US');

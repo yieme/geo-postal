@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86400"]={"code":"86400","region":"Johor","city":"Parit Raja","latitude":1.8681,"longitude":103.1124}}(window,'GeoPostal','MY');

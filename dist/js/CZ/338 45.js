@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 45"]={"code":"338 45","region":"Plzensky kraj","city":"Strasice","latitude":49.73552,"longitude":13.75755}}(window,'GeoPostal','CZ');

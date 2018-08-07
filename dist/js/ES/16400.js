@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16400"]={"code":"16400","region":"Castilla-La Mancha","city":"Tarancon","latitude":40.00851,"longitude":-3.00731}}(window,'GeoPostal','ES');

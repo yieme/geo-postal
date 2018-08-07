@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13870"]={"code":"13870","region":"La Libertad","city":"Chepen","latitude":-7.21667,"longitude":-79.45}}(window,'GeoPostal','PE');

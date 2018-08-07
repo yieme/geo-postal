@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4143"]={"code":"4143","region":"Solothurn","city":"Dornach","latitude":47.48038,"longitude":7.61644}}(window,'GeoPostal','CH');

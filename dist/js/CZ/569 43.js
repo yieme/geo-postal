@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["569 43"]={"code":"569 43","region":"Pardubicky kraj","city":"Jevicko","latitude":49.6322,"longitude":16.71125}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 11"]={"code":"768 11","region":"Zlinsky kraj","city":"Chropyne","latitude":49.35644,"longitude":17.36451}}(window,'GeoPostal','CZ');

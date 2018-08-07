@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335514"]={"code":"335514","region":"Rajasthan","city":"Nohar","latitude":29.18333,"longitude":74.76667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3208"]={"code":"3208","region":"Entre Rios","city":"Santa Ana","latitude":-30.90004,"longitude":-57.93162}}(window,'GeoPostal','AR');

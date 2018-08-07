@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24993"]={"code":"24993","region":"WV","city":"Wolfcreek","latitude":37.552,"longitude":-80.5397}}(window,'GeoPostal','US');

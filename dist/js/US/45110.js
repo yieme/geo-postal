@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45110"]={"code":"45110","region":"OH","city":"Buford","latitude":39.08,"longitude":-83.85}}(window,'GeoPostal','US');

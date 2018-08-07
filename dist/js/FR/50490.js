@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50490"]={"code":"50490","region":"Normandie","city":"Saint-Sauveur-Lendelin","latitude":49.12988,"longitude":-1.41405}}(window,'GeoPostal','FR');

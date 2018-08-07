@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4066"]={"code":"4066","region":"Queensland","city":"Toowong","latitude":-27.4836,"longitude":152.98943}}(window,'GeoPostal','AU');

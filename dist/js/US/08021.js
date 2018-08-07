@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08021"]={"code":"08021","region":"New Jersey","city":"Pine Hill","latitude":39.80568,"longitude":-74.9979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97338"]={"code":"97338","region":"Oregon","city":"Dallas","latitude":44.91928,"longitude":-123.31705}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO21 4NR"]={"code":"PO21 4NR","region":"England","city":"Pagham","latitude":50.77099,"longitude":-0.74467}}(window,'GeoPostal','GB');

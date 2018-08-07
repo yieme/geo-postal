@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67626"]={"code":"67626","region":"Kansas","city":"Bunker Hill","latitude":38.83924,"longitude":-98.670715}}(window,'GeoPostal','US');

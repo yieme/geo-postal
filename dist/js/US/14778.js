@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14778"]={"code":"14778","region":"New York","city":"Saint Bonaventure","latitude":42.08034,"longitude":-78.47502}}(window,'GeoPostal','US');

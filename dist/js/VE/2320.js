@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2320"]={"code":"2320","region":"Guarico","city":"Altagracia de Orituco","latitude":9.86005,"longitude":-66.38139}}(window,'GeoPostal','VE');

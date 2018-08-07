@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 2LN"]={"code":"DD8 2LN","region":"Scotland","city":"Kingsmuir","latitude":56.61667,"longitude":-2.83333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45549"]={"code":"45549","region":"Nordrhein-Westfalen","city":"Hasslinghausen","latitude":51.33273,"longitude":7.28303}}(window,'GeoPostal','DE');

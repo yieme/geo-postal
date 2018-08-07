@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-460"]={"code":"78-460","region":"Zachodniopomorskie","city":"Barwice","latitude":53.7449,"longitude":16.3553}}(window,'GeoPostal','PL');

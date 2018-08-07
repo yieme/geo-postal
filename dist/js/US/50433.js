@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50433"]={"code":"50433","region":"IA","city":"Dougherty","latitude":42.9222,"longitude":-93.0421}}(window,'GeoPostal','US');

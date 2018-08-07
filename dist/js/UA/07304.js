@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07304"]={"code":"07304","region":"Kyivska oblast","city":"Vyshhorod","latitude":50.58476,"longitude":30.4898}}(window,'GeoPostal','UA');

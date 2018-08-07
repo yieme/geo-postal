@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28114"]={"code":"28114","region":"NC","city":"Mooresboro","latitude":35.2295,"longitude":-81.7492}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43720"]={"code":"43720","region":"OH","city":"Blue Rock","latitude":39.8,"longitude":-81.891}}(window,'GeoPostal','US');

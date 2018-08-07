@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21435"]={"code":"21435","region":"Niedersachsen","city":"Ashausen","latitude":53.36173,"longitude":10.13841}}(window,'GeoPostal','DE');

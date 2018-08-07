@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55947"]={"code":"55947","region":"MN","city":"La Crescent","latitude":43.8307,"longitude":-91.3263}}(window,'GeoPostal','US');

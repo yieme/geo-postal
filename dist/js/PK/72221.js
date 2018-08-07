@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72221"]={"code":"72221","region":"Punjab","city":"Pakpattan","latitude":30.34104,"longitude":73.38664}}(window,'GeoPostal','PK');

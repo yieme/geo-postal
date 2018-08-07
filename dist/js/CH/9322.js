@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9322"]={"code":"9322","region":"Thurgau","city":"Egnach","latitude":47.54264,"longitude":9.38}}(window,'GeoPostal','CH');

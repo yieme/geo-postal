@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43128"]={"code":"43128","region":"OH","city":"Jeffersonville","latitude":39.659,"longitude":-83.5687}}(window,'GeoPostal','US');

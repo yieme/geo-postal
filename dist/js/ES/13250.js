@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13250"]={"code":"13250","region":"Castilla-La Mancha","city":"Daimiel","latitude":39.07004,"longitude":-3.61498}}(window,'GeoPostal','ES');

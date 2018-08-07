@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3285"]={"code":"3285","region":"Victoria","city":"Narrawong","latitude":-38.25,"longitude":141.71667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737020"]={"code":"737020","region":"Vaslui","city":"Arsura","latitude":46.81333,"longitude":28.02222}}(window,'GeoPostal','RO');

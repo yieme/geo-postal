@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59750"]={"code":"59750","region":"MT","city":"Butte","latitude":46.0033,"longitude":-112.7159}}(window,'GeoPostal','US');

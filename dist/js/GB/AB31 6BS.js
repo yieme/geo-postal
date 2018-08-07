@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 6BS"]={"code":"AB31 6BS","region":"Scotland","city":"Kirkton of Durris","latitude":57.05,"longitude":-2.38333}}(window,'GeoPostal','GB');

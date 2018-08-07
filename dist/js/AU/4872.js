@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4872"]={"code":"4872","region":"Queensland","city":"Tabacum","latitude":-17.11667,"longitude":145.3}}(window,'GeoPostal','AU');

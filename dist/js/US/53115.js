@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53115"]={"code":"53115","region":"Wisconsin","city":"Delavan","latitude":42.63307,"longitude":-88.64371}}(window,'GeoPostal','US');

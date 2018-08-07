@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5DS"]={"code":"TR2 5DS","region":"England","city":"Gerrans","latitude":50.18171,"longitude":-4.98017}}(window,'GeoPostal','GB');

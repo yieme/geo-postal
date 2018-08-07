@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235318"]={"code":"235318","region":"Anhui","city":"Tangzhai","latitude":34.43278,"longitude":116.59111}}(window,'GeoPostal','CN');

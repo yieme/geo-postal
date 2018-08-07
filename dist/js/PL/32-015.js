@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-015"]={"code":"32-015","region":"Malopolskie","city":"Klaj","latitude":49.99246,"longitude":20.29904}}(window,'GeoPostal','PL');

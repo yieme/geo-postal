@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 3BN"]={"code":"BD23 3BN","region":"England","city":"Thornton-in-Craven","latitude":53.93136,"longitude":-2.14611}}(window,'GeoPostal','GB');

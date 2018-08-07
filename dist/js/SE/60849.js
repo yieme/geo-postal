@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60849"]={"code":"60849","region":"Ostergotlands lan","city":"Norrkoping","latitude":58.59419,"longitude":16.1826}}(window,'GeoPostal','SE');

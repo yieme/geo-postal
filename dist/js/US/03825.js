@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03825"]={"code":"03825","region":"NH","city":"Barrington","latitude":43.2027,"longitude":-71.0377}}(window,'GeoPostal','US');

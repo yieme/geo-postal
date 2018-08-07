@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57794"]={"code":"57794","region":"South Dakota","city":"Wounded Knee","latitude":43.158845,"longitude":-102.35912}}(window,'GeoPostal','US');

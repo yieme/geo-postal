@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52586"]={"code":"52586","region":"IA","city":"Rose Hill","latitude":41.3309,"longitude":-92.472}}(window,'GeoPostal','US');

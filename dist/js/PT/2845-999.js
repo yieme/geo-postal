@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2845-999"]={"code":"2845-999","region":"Setubal","city":"Corroios","latitude":38.64502,"longitude":-9.14843}}(window,'GeoPostal','PT');

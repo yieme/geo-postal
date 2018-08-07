@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50067"]={"code":"50067","region":"IA","city":"Decatur","latitude":40.743,"longitude":-93.8317}}(window,'GeoPostal','US');

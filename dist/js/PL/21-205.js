@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-205"]={"code":"21-205","region":"Lubelskie","city":"Jablon","latitude":51.72501,"longitude":23.08743}}(window,'GeoPostal','PL');

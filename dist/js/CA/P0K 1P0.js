@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0K 1P0"]={"code":"P0K 1P0","region":"Ontario","city":"Monteith","latitude":48.65017,"longitude":-80.68307}}(window,'GeoPostal','CA');

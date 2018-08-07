@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5273"]={"code":"5273","region":"South Australia","city":"Lucindale","latitude":-36.97271,"longitude":140.37013}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6741"]={"code":"6741","region":"Vorarlberg","city":"Blons","latitude":47.22327,"longitude":9.83414}}(window,'GeoPostal','AT');

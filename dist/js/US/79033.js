@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79033"]={"code":"79033","region":"TX","city":"Farnsworth","latitude":36.2963,"longitude":-100.9843}}(window,'GeoPostal','US');

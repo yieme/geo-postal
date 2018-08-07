@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446870"]={"code":"446870","region":"Samarskaya oblast'","city":"Yelkhovka","latitude":53.86668,"longitude":50.28319}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15943"]={"code":"15943","region":"PA","city":"Nanty Glo","latitude":40.4704,"longitude":-78.8375}}(window,'GeoPostal','US');

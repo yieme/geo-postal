@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["598-0014"]={"code":"598-0014","region":"Osaka","city":"Izumisano","latitude":34.4,"longitude":135.333}}(window,'GeoPostal','JP');

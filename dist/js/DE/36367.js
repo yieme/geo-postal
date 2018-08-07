@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36367"]={"code":"36367","region":"Hessen","city":"Angersbach","latitude":50.62658,"longitude":9.4445}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686164"]={"code":"686164","region":"Magadanskaya oblast'","city":"Seymchan","latitude":62.88333,"longitude":152.43333}}(window,'GeoPostal','RU');

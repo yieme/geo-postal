@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215600"]={"code":"215600","region":"Jiangsu","city":"Zhangjiagang","latitude":31.865,"longitude":120.53889}}(window,'GeoPostal','CN');

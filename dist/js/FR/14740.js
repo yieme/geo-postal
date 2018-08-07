@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14740"]={"code":"14740","region":"Normandie","city":"Carcagny","latitude":49.2397,"longitude":-0.6175}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64766"]={"code":"64766","region":"MO","city":"Milford","latitude":37.5848,"longitude":-94.1572}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7021"]={"code":"7021","region":"Zamboanga del Sur","city":"Midsalip","latitude":8,"longitude":123.26667}}(window,'GeoPostal','PH');

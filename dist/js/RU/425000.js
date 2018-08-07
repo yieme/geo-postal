@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425000"]={"code":"425000","region":"Mariy El, Respublika","city":"Volzhsk","latitude":55.86638,"longitude":48.3594}}(window,'GeoPostal','RU');

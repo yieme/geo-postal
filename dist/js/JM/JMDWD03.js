@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDWD03"]={"code":"JMDWD03","region":"Westmoreland","city":"Bluefields","latitude":18.16602,"longitude":-78.02702}}(window,'GeoPostal','JM');

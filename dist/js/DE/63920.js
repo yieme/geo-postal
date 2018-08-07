@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63920"]={"code":"63920","region":"Bayern","city":"Grossheubach","latitude":49.72834,"longitude":9.2228}}(window,'GeoPostal','DE');

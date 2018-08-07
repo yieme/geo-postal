@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68361"]={"code":"68361","region":"Nebraska","city":"Geneva","latitude":40.52695,"longitude":-97.59588}}(window,'GeoPostal','US');

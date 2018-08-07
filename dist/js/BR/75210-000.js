@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75210-000"]={"code":"75210-000","region":"Goias","city":"Pires do Rio","latitude":-17.29972,"longitude":-48.27944}}(window,'GeoPostal','BR');

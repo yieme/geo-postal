@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38857"]={"code":"38857","region":"MS","city":"Mooreville","latitude":34.2808,"longitude":-88.595}}(window,'GeoPostal','US');

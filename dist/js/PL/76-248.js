@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-248"]={"code":"76-248","region":"Pomorskie","city":"Debnica Kaszubska","latitude":54.37831,"longitude":17.16116}}(window,'GeoPostal','PL');

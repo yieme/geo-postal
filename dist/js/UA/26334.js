@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26334"]={"code":"26334","region":"Kirovohradska oblast","city":"Zavallya","latitude":48.21354,"longitude":30.01558}}(window,'GeoPostal','UA');

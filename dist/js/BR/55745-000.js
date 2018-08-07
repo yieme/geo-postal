@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55745-000"]={"code":"55745-000","region":"Paraiba","city":"Umbuzeiro","latitude":-7.69556,"longitude":-35.66361}}(window,'GeoPostal','BR');

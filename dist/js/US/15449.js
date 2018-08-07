@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15449"]={"code":"15449","region":"PA","city":"Keisterville","latitude":39.9636,"longitude":-79.7853}}(window,'GeoPostal','US');

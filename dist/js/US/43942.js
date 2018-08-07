@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43942"]={"code":"43942","region":"Ohio","city":"Powhatan Point","latitude":39.86008,"longitude":-80.81537}}(window,'GeoPostal','US');

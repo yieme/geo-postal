@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62269"]={"code":"62269","region":"Illinois","city":"O'Fallon","latitude":38.59227,"longitude":-89.91121}}(window,'GeoPostal','US');

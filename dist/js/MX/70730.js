@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70730"]={"code":"70730","region":"Oaxaca","city":"San Jeronimo Ixtepec","latitude":16.57855,"longitude":-95.10223}}(window,'GeoPostal','MX');

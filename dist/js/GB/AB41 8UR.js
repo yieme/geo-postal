@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 8UR"]={"code":"AB41 8UR","region":"Scotland","city":"Auchnagatt","latitude":57.46534,"longitude":-2.11517}}(window,'GeoPostal','GB');

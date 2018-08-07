@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05068"]={"code":"05068","region":"Vermont","city":"South Royalton","latitude":43.80162,"longitude":-72.53088}}(window,'GeoPostal','US');

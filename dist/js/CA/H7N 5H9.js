@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H7N 5H9"]={"code":"H7N 5H9","region":"Quebec","city":"Laval","latitude":45.557597,"longitude":-73.718302}}(window,'GeoPostal','CA');

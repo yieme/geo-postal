@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23150"]={"code":"23150","region":"Virginia","city":"Sandston","latitude":37.5091,"longitude":-77.2504}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["905600"]={"code":"905600","region":"Constanta","city":"Medgidia","latitude":44.25,"longitude":28.28333}}(window,'GeoPostal','RO');

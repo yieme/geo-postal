@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60302"]={"code":"60302","region":"Chernivetska oblast","city":"Novoselytsya","latitude":48.21931,"longitude":26.26531}}(window,'GeoPostal','UA');

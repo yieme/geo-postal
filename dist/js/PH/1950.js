@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1950"]={"code":"1950","region":"Rizal","city":"Morong","latitude":14.5115,"longitude":121.2393}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL3 0HT"]={"code":"DL3 0HT","region":"England","city":"Longfield","latitude":51.3969,"longitude":0.30212}}(window,'GeoPostal','GB');

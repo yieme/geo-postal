@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89160-000"]={"code":"89160-000","region":"Santa Catarina","city":"Rio do Sul","latitude":-27.21417,"longitude":-49.64306}}(window,'GeoPostal','BR');

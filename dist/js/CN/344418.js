@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344418"]={"code":"344418","region":"Jiangxi","city":"Nanyuan","latitude":27.48849,"longitude":116.40788}}(window,'GeoPostal','CN');

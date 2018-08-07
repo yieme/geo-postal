@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25986"]={"code":"25986","region":"WV","city":"Spring Dale","latitude":37.8798,"longitude":-80.8034}}(window,'GeoPostal','US');

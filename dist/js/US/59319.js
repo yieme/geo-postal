@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59319"]={"code":"59319","region":"MT","city":"Capitol","latitude":45.4361,"longitude":-104.0655}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13801"]={"code":"13801","region":"NY","city":"Mc Donough","latitude":42.5068,"longitude":-75.7623}}(window,'GeoPostal','US');

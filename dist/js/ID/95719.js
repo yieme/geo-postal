@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95719"]={"code":"95719","region":"Sulawesi Utara","city":"Kotamobagu","latitude":0.7416,"longitude":124.3124}}(window,'GeoPostal','ID');

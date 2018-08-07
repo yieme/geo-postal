@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61448"]={"code":"61448","region":"IL","city":"Knoxville","latitude":40.9107,"longitude":-90.2871}}(window,'GeoPostal','US');

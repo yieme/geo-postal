@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3920"]={"code":"3920","region":"Niederosterreich","city":"Rappottenstein","latitude":48.52161,"longitude":15.07925}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346909"]={"code":"346909","region":"Rostovskaya oblast'","city":"Novoshakhtinsk","latitude":47.76037,"longitude":39.93335}}(window,'GeoPostal','RU');

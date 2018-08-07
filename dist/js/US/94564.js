@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94564"]={"code":"94564","region":"California","city":"Pinole","latitude":38.00437,"longitude":-122.29886}}(window,'GeoPostal','US');

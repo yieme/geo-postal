@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3319"]={"code":"3319","region":"Isabela","city":"Cabulay","latitude":16.74556,"longitude":121.4975}}(window,'GeoPostal','PH');

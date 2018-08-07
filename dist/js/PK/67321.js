@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67321"]={"code":"67321","region":"Sindh","city":"Naushahro Firoz","latitude":26.84238,"longitude":68.12298}}(window,'GeoPostal','PK');

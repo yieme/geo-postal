@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15037"]={"code":"15037","region":"PA","city":"Elizabeth","latitude":40.2656,"longitude":-79.8568}}(window,'GeoPostal','US');

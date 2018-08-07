@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30650"]={"code":"30650","region":"Occitanie","city":"Saze","latitude":43.9434,"longitude":4.68096}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62963"]={"code":"62963","region":"IL","city":"Mound City","latitude":37.0865,"longitude":-89.1637}}(window,'GeoPostal','US');

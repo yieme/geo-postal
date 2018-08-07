@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15646"]={"code":"15646","region":"Pennsylvania","city":"Jones Mills","latitude":40.065316,"longitude":-79.31582}}(window,'GeoPostal','US');

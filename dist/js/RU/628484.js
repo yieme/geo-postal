@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628484"]={"code":"628484","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Kogalym","latitude":62.26537,"longitude":74.47906}}(window,'GeoPostal','RU');

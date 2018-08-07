@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42720"]={"code":"42720","region":"Kentucky","city":"Cane Valley","latitude":37.171756,"longitude":-85.323794}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 3JU"]={"code":"SY4 3JU","region":"England","city":"Clive","latitude":52.8,"longitude":-2.71667}}(window,'GeoPostal','GB');

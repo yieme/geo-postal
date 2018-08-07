@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612412"]={"code":"612412","region":"Kirovskaya oblast'","city":"Zuyevka","latitude":58.40503,"longitude":51.13355}}(window,'GeoPostal','RU');

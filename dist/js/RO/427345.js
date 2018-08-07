@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427345"]={"code":"427345","region":"Bistrita-Nasaud","city":"Teaca","latitude":46.91667,"longitude":24.51667}}(window,'GeoPostal','RO');

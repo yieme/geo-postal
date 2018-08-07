@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2301"]={"code":"2301","region":"Cesinovo-Oblesevo","city":"Obleshevo","latitude":41.88333,"longitude":22.33389}}(window,'GeoPostal','MK');

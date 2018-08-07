@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL56 9ES"]={"code":"GL56 9ES","region":"England","city":"Blockley","latitude":52.0122,"longitude":-1.76268}}(window,'GeoPostal','GB');

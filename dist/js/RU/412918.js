@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412918"]={"code":"412918","region":"Saratovskaya oblast'","city":"Vol'sk","latitude":52.03333,"longitude":47.38333}}(window,'GeoPostal','RU');

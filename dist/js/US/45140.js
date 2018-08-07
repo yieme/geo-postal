@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45140"]={"code":"45140","region":"Ohio","city":"Loveland","latitude":39.267042,"longitude":-84.292122}}(window,'GeoPostal','US');

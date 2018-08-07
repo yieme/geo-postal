@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13683"]={"code":"13683","region":"NY","city":"Rooseveltown","latitude":44.9728,"longitude":-74.731}}(window,'GeoPostal','US');

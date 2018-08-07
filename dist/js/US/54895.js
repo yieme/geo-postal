@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54895"]={"code":"54895","region":"Wisconsin","city":"Weyerhaeuser","latitude":45.426451,"longitude":-91.414245}}(window,'GeoPostal','US');

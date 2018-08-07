@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188672"]={"code":"188672","region":"Leningradskaya oblast'","city":"Borisova Griva","latitude":60.08936,"longitude":30.97727}}(window,'GeoPostal','RU');

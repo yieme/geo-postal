@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84332"]={"code":"84332","region":"Bayern","city":"Wenigau","latitude":48.41456,"longitude":12.82289}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM3 8SB"]={"code":"RM3 8SB","region":"England","city":"Romford","latitude":51.57515,"longitude":0.18582}}(window,'GeoPostal','GB');

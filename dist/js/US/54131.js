@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54131"]={"code":"54131","region":"WI","city":"Freedom","latitude":44.4163,"longitude":-88.4649}}(window,'GeoPostal','US');

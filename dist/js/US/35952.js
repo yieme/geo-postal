@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35952"]={"code":"35952","region":"AL","city":"Altoona","latitude":34.071,"longitude":-86.2096}}(window,'GeoPostal','US');

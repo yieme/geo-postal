@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43521"]={"code":"43521","region":"Ohio","city":"Fayette","latitude":41.67338,"longitude":-84.32689}}(window,'GeoPostal','US');

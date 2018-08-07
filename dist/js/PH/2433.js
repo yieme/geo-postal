@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2433"]={"code":"2433","region":"Nueva Ecija","city":"Tabaco","latitude":15.6414,"longitude":120.9349}}(window,'GeoPostal','PH');

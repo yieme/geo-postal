@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10210"]={"code":"10210","region":"Extremadura","city":"Madronera","latitude":39.42526,"longitude":-5.75568}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1L0"]={"code":"J0V 1L0","region":"Quebec","city":"Montebello","latitude":45.6501,"longitude":-74.93258}}(window,'GeoPostal','CA');

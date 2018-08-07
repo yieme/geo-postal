@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50659"]={"code":"50659","region":"Iowa","city":"New Hampton","latitude":43.05914,"longitude":-92.31768}}(window,'GeoPostal','US');

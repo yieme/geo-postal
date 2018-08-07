@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18469"]={"code":"18469","region":"Mecklenburg-Vorpommern","city":"Velgast","latitude":54.27204,"longitude":12.81075}}(window,'GeoPostal','DE');

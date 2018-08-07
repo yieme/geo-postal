@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74465"]={"code":"74465","region":"Oklahoma","city":"Tahlequah","latitude":35.903192,"longitude":-94.984322}}(window,'GeoPostal','US');

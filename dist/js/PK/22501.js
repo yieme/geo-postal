@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22501"]={"code":"22501","region":"Azad Jammu and Kashmir","city":"Athmuqam","latitude":34.57173,"longitude":73.89724}}(window,'GeoPostal','PK');

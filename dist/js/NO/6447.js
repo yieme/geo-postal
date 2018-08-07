@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6447"]={"code":"6447","region":"More og Romsdal","city":"Elnesvagen","latitude":62.85441,"longitude":7.14064}}(window,'GeoPostal','NO');

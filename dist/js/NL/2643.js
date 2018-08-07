@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2643"]={"code":"2643","region":"Zuid-Holland","city":"Pijnacker","latitude":52.01954,"longitude":4.42946}}(window,'GeoPostal','NL');

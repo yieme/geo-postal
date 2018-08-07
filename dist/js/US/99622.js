@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99622"]={"code":"99622","region":"AK","city":"Kwigillingok","latitude":59.8644,"longitude":-163.1342}}(window,'GeoPostal','US');

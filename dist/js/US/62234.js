@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62234"]={"code":"62234","region":"Illinois","city":"Collinsville","latitude":38.67033,"longitude":-89.98455}}(window,'GeoPostal','US');

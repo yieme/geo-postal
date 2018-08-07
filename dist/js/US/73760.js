@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73760"]={"code":"73760","region":"OK","city":"Meno","latitude":36.3815,"longitude":-98.1635}}(window,'GeoPostal','US');

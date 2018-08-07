@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2518"]={"code":"2518","region":"New South Wales","city":"Bellambi","latitude":-34.36667,"longitude":150.91667}}(window,'GeoPostal','AU');

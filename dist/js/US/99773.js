@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99773"]={"code":"99773","region":"AK","city":"Shungnak","latitude":66.8881,"longitude":-157.1364}}(window,'GeoPostal','US');

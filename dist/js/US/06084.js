@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06084"]={"code":"06084","region":"Connecticut","city":"Brookfield","latitude":41.871034,"longitude":-72.370861}}(window,'GeoPostal','US');

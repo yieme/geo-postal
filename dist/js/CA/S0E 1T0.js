@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 1T0"]={"code":"S0E 1T0","region":"Saskatchewan","city":"Tisdale","latitude":52.85002,"longitude":-104.05096}}(window,'GeoPostal','CA');

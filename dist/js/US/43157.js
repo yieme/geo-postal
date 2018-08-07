@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43157"]={"code":"43157","region":"OH","city":"Thurston","latitude":39.8427,"longitude":-82.5462}}(window,'GeoPostal','US');

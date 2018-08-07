@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46182"]={"code":"46182","region":"Indiana","city":"Waldron","latitude":39.453611,"longitude":-85.666944}}(window,'GeoPostal','US');

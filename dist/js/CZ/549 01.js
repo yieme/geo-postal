@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["549 01"]={"code":"549 01","region":"Kralovehradecky kraj","city":"Nove Mesto nad Metuji","latitude":50.34456,"longitude":16.15147}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28773"]={"code":"28773","region":"North Carolina","city":"Saluda","latitude":35.245946,"longitude":-82.310477}}(window,'GeoPostal','US');

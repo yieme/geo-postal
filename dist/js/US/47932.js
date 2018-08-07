@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47932"]={"code":"47932","region":"Indiana","city":"Covington","latitude":40.140411,"longitude":-87.38864}}(window,'GeoPostal','US');

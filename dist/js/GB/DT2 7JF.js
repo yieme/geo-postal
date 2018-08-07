@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 7JF"]={"code":"DT2 7JF","region":"England","city":"Cerne Abbas","latitude":50.80893,"longitude":-2.47583}}(window,'GeoPostal','GB');

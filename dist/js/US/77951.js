@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77951"]={"code":"77951","region":"TX","city":"Bloomington","latitude":28.6495,"longitude":-96.8945}}(window,'GeoPostal','US');

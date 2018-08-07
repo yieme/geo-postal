@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17076"]={"code":"17076","region":"PA","city":"Oakland Mills","latitude":40.6147,"longitude":-77.3192}}(window,'GeoPostal','US');

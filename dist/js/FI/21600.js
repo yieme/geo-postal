@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21600"]={"code":"21600","region":"Varsinais-Suomi","city":"Lansi-Turunmaa","latitude":60.29972,"longitude":22.3004}}(window,'GeoPostal','FI');

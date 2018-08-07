@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62025"]={"code":"62025","region":"Illinois","city":"Edwardsville","latitude":38.81144,"longitude":-89.95316}}(window,'GeoPostal','US');

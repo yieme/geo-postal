@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27266"]={"code":"27266","region":"Chiapas","city":"Angel Albino Corzo","latitude":15.91667,"longitude":-92.71667}}(window,'GeoPostal','MX');

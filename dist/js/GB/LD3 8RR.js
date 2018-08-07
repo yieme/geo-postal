@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 8RR"]={"code":"LD3 8RR","region":"Wales","city":"Sennybridge","latitude":51.94748,"longitude":-3.56817}}(window,'GeoPostal','GB');

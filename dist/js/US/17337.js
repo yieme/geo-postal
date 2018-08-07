@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17337"]={"code":"17337","region":"PA","city":"Idaville","latitude":40.0157,"longitude":-77.2001}}(window,'GeoPostal','US');

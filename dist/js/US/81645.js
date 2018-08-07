@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81645"]={"code":"81645","region":"Colorado","city":"Minturn","latitude":39.58637,"longitude":-106.43086}}(window,'GeoPostal','US');

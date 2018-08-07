@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23860"]={"code":"23860","region":"Virginia","city":"Hopewell","latitude":37.30432,"longitude":-77.2872}}(window,'GeoPostal','US');

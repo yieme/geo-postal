@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08606"]={"code":"08606","region":"Sachsen","city":"Burkhardtsgrun","latitude":50.35966,"longitude":12.06688}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["615600"]={"code":"615600","region":"Sichuan","city":"Chengxiang","latitude":28.55262,"longitude":102.1682}}(window,'GeoPostal','CN');

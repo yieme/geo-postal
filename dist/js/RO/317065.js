@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317065"]={"code":"317065","region":"Arad","city":"Buteni","latitude":46.31667,"longitude":22.11667}}(window,'GeoPostal','RO');

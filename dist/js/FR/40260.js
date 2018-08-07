@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40260"]={"code":"40260","region":"Nouvelle-Aquitaine","city":"Castets","latitude":43.88233,"longitude":-1.14572}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41604"]={"code":"41604","region":"Kentucky","city":"Beaver","latitude":37.370278,"longitude":-82.672778}}(window,'GeoPostal','US');

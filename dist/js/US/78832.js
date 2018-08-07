@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78832"]={"code":"78832","region":"Texas","city":"Brackettville","latitude":29.307669,"longitude":-100.418086}}(window,'GeoPostal','US');

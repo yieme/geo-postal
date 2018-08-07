@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 0T0"]={"code":"T0L 0T0","region":"Alberta","city":"Claresholm","latitude":50.03332,"longitude":-113.58524}}(window,'GeoPostal','CA');

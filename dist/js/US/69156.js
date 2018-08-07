@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69156"]={"code":"69156","region":"Nebraska","city":"Potter","latitude":41.21778,"longitude":-103.31472}}(window,'GeoPostal','US');

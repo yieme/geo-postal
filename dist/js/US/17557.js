@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17557"]={"code":"17557","region":"Pennsylvania","city":"New Holland","latitude":40.10176,"longitude":-76.08523}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532702"]={"code":"532702","region":"Guangxi","city":"Matou","latitude":23.35534,"longitude":107.5564}}(window,'GeoPostal','CN');

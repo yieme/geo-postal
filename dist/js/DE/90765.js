@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90765"]={"code":"90765","region":"Bayern","city":"Furth","latitude":48.02908,"longitude":11.59652}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50484"]={"code":"50484","region":"Iowa","city":"Woden","latitude":43.230995,"longitude":-93.908753}}(window,'GeoPostal','US');

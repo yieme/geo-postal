@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23876"]={"code":"23876","region":"VA","city":"Rawlings","latitude":36.953,"longitude":-77.8237}}(window,'GeoPostal','US');

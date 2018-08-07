@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35739"]={"code":"35739","region":"Alabama","city":"Ardmore","latitude":34.961688,"longitude":-86.754249}}(window,'GeoPostal','US');

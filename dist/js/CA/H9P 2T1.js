@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9P 2T1"]={"code":"H9P 2T1","region":"Quebec","city":"Dorval","latitude":45.453517,"longitude":-73.726937}}(window,'GeoPostal','CA');

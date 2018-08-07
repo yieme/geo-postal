@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94803"]={"code":"94803","region":"California","city":"San Pablo","latitude":37.96215,"longitude":-122.34553}}(window,'GeoPostal','US');

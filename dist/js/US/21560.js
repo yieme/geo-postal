@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21560"]={"code":"21560","region":"MD","city":"Spring Gap","latitude":39.5654,"longitude":-78.7164}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1W 0A2"]={"code":"E1W 0A2","region":"New Brunswick","city":"Caraquet","latitude":47.79413,"longitude":-64.9386}}(window,'GeoPostal','CA');

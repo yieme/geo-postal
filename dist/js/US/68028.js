@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68028"]={"code":"68028","region":"NE","city":"Gretna","latitude":41.1345,"longitude":-96.2458}}(window,'GeoPostal','US');

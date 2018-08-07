@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79386"]={"code":"79386","region":"Dalarnas lan","city":"Smedby","latitude":60.7,"longitude":15.05}}(window,'GeoPostal','SE');

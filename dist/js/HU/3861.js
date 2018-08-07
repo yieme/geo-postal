@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3861"]={"code":"3861","region":"Borsod-Abauj-Zemplen","city":"Encs","latitude":48.33333,"longitude":21.13333}}(window,'GeoPostal','HU');

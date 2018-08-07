@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77026"]={"code":"77026","region":"Texas","city":"Bellaire","latitude":29.794214,"longitude":-95.330615}}(window,'GeoPostal','US');

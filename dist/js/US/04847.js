@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04847"]={"code":"04847","region":"Maine","city":"Hope","latitude":44.26508,"longitude":-69.15893}}(window,'GeoPostal','US');

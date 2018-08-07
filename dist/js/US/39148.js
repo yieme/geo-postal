@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39148"]={"code":"39148","region":"Mississippi","city":"Piney Woods","latitude":32.0625,"longitude":-89.992778}}(window,'GeoPostal','US');

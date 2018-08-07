@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07067"]={"code":"07067","region":"NJ","city":"Colonia","latitude":40.5937,"longitude":-74.3164}}(window,'GeoPostal','US');

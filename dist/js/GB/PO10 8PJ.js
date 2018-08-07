@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO10 8PJ"]={"code":"PO10 8PJ","region":"England","city":"Bourne","latitude":52.76667,"longitude":-0.38333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04342"]={"code":"04342","region":"ME","city":"Dresden","latitude":44.0785,"longitude":-69.7457}}(window,'GeoPostal','US');

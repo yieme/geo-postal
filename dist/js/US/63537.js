@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63537"]={"code":"63537","region":"MO","city":"Edina","latitude":40.1795,"longitude":-92.1455}}(window,'GeoPostal','US');

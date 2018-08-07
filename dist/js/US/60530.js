@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60530"]={"code":"60530","region":"IL","city":"Lee","latitude":41.7864,"longitude":-88.9714}}(window,'GeoPostal','US');

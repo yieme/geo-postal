@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3720"]={"code":"3720","region":"Victoria","city":"Maindample","latitude":-37.03333,"longitude":145.93333}}(window,'GeoPostal','AU');

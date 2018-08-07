@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75754"]={"code":"75754","region":"Texas","city":"Ben Wheeler","latitude":32.41452,"longitude":-95.64912}}(window,'GeoPostal','US');

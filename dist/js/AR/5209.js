@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5209"]={"code":"5209","region":"Cordoba","city":"San Francisco del Chanar","latitude":-29.78991,"longitude":-63.93861}}(window,'GeoPostal','AR');

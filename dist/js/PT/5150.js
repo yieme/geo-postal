@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5150"]={"code":"5150","region":"Guarda","city":"Vila Nova de Foz Coa","latitude":41.082246,"longitude":-7.140359}}(window,'GeoPostal','PT');

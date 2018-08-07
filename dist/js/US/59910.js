@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59910"]={"code":"59910","region":"MT","city":"Big Arm","latitude":47.7952,"longitude":-114.302}}(window,'GeoPostal','US');

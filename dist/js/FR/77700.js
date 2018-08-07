@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77700"]={"code":"77700","region":"Ile-de-France","city":"Magny-le-Hongre","latitude":48.86325,"longitude":2.81546}}(window,'GeoPostal','FR');

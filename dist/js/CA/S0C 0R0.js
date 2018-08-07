@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 0R0"]={"code":"S0C 0R0","region":"Saskatchewan","city":"Carlyle","latitude":49.63334,"longitude":-102.26765}}(window,'GeoPostal','CA');

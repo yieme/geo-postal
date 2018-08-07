@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY10 3JL"]={"code":"KY10 3JL","region":"Scotland","city":"Kilrenny","latitude":56.2341,"longitude":-2.68717}}(window,'GeoPostal','GB');

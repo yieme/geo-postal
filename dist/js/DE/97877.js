@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97877"]={"code":"97877","region":"Baden-Wurttemberg","city":"Wertheim","latitude":49.759,"longitude":9.50852}}(window,'GeoPostal','DE');

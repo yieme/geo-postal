@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11012"]={"code":"11012","region":"Tamanrasset","city":"Tamanrasset","latitude":22.785,"longitude":5.52278}}(window,'GeoPostal','DZ');

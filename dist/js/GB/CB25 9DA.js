@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB25 9DA"]={"code":"CB25 9DA","region":"England","city":"Bottisham","latitude":52.2228,"longitude":0.25878}}(window,'GeoPostal','GB');

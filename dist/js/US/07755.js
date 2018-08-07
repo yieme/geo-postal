@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07755"]={"code":"07755","region":"New Jersey","city":"Oakhurst","latitude":40.266535,"longitude":-74.022776}}(window,'GeoPostal','US');

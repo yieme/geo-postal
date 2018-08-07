@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04216"]={"code":"04216","region":"ME","city":"Andover","latitude":44.6637,"longitude":-70.7967}}(window,'GeoPostal','US');

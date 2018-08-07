@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57655"]={"code":"57655","region":"Grand-Est","city":"Boulange","latitude":49.38093,"longitude":5.95231}}(window,'GeoPostal','FR');

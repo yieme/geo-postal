@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96755"]={"code":"96755","region":"Hawaii","city":"Kapaau","latitude":20.23389,"longitude":-155.80194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226000"]={"code":"226000","region":"Jiangsu","city":"Nantong","latitude":32.03028,"longitude":120.87472}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2426"]={"code":"2426","region":"Cordoba","city":"Colonia San Bartolome","latitude":-31.5278,"longitude":-62.72436}}(window,'GeoPostal','AR');

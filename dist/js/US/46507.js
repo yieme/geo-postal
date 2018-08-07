@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46507"]={"code":"46507","region":"Indiana","city":"Bristol","latitude":41.719416,"longitude":-85.826277}}(window,'GeoPostal','US');

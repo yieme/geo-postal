@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04223"]={"code":"04223","region":"ME","city":"Danville","latitude":44.0239,"longitude":-70.2857}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22432"]={"code":"22432","region":"VA","city":"Burgess","latitude":37.8687,"longitude":-76.3542}}(window,'GeoPostal','US');

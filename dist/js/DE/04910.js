@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04910"]={"code":"04910","region":"Brandenburg","city":"Elsterwerda","latitude":51.46043,"longitude":13.52001}}(window,'GeoPostal','DE');

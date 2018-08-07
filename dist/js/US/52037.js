@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52037"]={"code":"52037","region":"Iowa","city":"Delmar","latitude":42.001809,"longitude":-90.607432}}(window,'GeoPostal','US');

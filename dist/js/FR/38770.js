@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38770"]={"code":"38770","region":"Auvergne-Rhone-Alpes","city":"La Motte-d'Aveillans","latitude":44.9619,"longitude":5.7458}}(window,'GeoPostal','FR');

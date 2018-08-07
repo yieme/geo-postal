@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2421"]={"code":"2421","region":"Burgenland","city":"Kittsee","latitude":48.0925,"longitude":17.06389}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55320"]={"code":"55320","region":"MN","city":"Clearwater","latitude":45.3877,"longitude":-94.0452}}(window,'GeoPostal','US');

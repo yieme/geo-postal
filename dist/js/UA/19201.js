@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19201"]={"code":"19201","region":"Cherkaska oblast","city":"Zhashkiv","latitude":49.24545,"longitude":30.1102}}(window,'GeoPostal','UA');

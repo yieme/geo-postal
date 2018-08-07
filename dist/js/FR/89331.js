@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89331"]={"code":"89331","region":"Bourgogne-Franche-Comte","city":"Saint-Julien-du-Sault","latitude":48.03188,"longitude":3.29556}}(window,'GeoPostal','FR');

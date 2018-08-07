@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY5 2AA"]={"code":"FY5 2AA","region":"England","city":"Cleveleys","latitude":53.8775,"longitude":-3.03987}}(window,'GeoPostal','GB');

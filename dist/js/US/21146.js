@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21146"]={"code":"21146","region":"Maryland","city":"Severna Park","latitude":39.081557,"longitude":-76.565159}}(window,'GeoPostal','US');

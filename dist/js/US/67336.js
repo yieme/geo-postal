@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67336"]={"code":"67336","region":"Kansas","city":"Chetopa","latitude":37.03729,"longitude":-95.08996}}(window,'GeoPostal','US');

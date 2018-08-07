@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54536"]={"code":"54536","region":"Wisconsin","city":"Iron Belt","latitude":46.415386,"longitude":-90.274613}}(window,'GeoPostal','US');

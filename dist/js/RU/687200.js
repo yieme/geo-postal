@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687200"]={"code":"687200","region":"Zabaykal'skiy kray","city":"Dul'durga","latitude":50.67611,"longitude":113.59306}}(window,'GeoPostal','RU');

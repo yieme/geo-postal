@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY14 8DF"]={"code":"DY14 8DF","region":"England","city":"Cleobury Mortimer","latitude":52.37853,"longitude":-2.48196}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54525"]={"code":"54525","region":"WI","city":"Gile","latitude":46.4283,"longitude":-90.2252}}(window,'GeoPostal','US');

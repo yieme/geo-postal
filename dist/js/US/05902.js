@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05902"]={"code":"05902","region":"VT","city":"Beecher Falls","latitude":45.0085,"longitude":-71.4907}}(window,'GeoPostal','US');

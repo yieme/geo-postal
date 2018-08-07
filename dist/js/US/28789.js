@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28789"]={"code":"28789","region":"North Carolina","city":"Whittier","latitude":35.435,"longitude":-83.36028}}(window,'GeoPostal','US');

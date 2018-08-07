@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28432"]={"code":"28432","region":"North Carolina","city":"Clarendon","latitude":34.17597,"longitude":-78.79634}}(window,'GeoPostal','US');

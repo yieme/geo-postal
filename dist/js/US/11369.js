@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11369"]={"code":"11369","region":"New York","city":"East Elmhurst","latitude":40.765278,"longitude":-73.817778}}(window,'GeoPostal','US');

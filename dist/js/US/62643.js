@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62643"]={"code":"62643","region":"IL","city":"Hartsburg","latitude":40.2451,"longitude":-89.4519}}(window,'GeoPostal','US');

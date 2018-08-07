@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87540"]={"code":"87540","region":"NM","city":"Lamy","latitude":35.4311,"longitude":-105.9409}}(window,'GeoPostal','US');

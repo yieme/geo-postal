@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59318"]={"code":"59318","region":"Montana","city":"Brusett","latitude":47.31408,"longitude":-107.626922}}(window,'GeoPostal','US');

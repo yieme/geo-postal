@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0Y0"]={"code":"T0E 0Y0","region":"Alberta","city":"Grande Cache","latitude":53.88335,"longitude":-119.13585}}(window,'GeoPostal','CA');

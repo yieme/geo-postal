@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["265 04"]={"code":"265 04","region":"Dytiki Ellada","city":"Ano Kastritsion","latitude":38.26667,"longitude":21.83333}}(window,'GeoPostal','GR');

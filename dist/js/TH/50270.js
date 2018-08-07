@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50270"]={"code":"50270","region":"Chiang Mai","city":"Mae Chaem","latitude":18.49926,"longitude":98.36494}}(window,'GeoPostal','TH');

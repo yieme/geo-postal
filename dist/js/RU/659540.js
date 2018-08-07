@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659540"]={"code":"659540","region":"Altayskiy kray","city":"Sovetskoye","latitude":52.28611,"longitude":85.41306}}(window,'GeoPostal','RU');

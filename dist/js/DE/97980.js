@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97980"]={"code":"97980","region":"Baden-Wurttemberg","city":"Bad Mergentheim","latitude":49.4925,"longitude":9.77361}}(window,'GeoPostal','DE');

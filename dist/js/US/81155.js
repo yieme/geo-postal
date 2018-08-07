@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81155"]={"code":"81155","region":"Colorado","city":"Villa Grove","latitude":38.24806,"longitude":-105.94889}}(window,'GeoPostal','US');

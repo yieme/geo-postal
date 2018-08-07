@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10923"]={"code":"10923","region":"New York","city":"Garnerville","latitude":41.20167,"longitude":-73.99444}}(window,'GeoPostal','US');

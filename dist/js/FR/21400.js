@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21400"]={"code":"21400","region":"Bourgogne-Franche-Comte","city":"Nod-sur-Seine","latitude":47.7672,"longitude":4.5731}}(window,'GeoPostal','FR');

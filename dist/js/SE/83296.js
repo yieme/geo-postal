@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83296"]={"code":"83296","region":"Jamtlands lan","city":"Froson","latitude":63.191667,"longitude":14.541667}}(window,'GeoPostal','SE');

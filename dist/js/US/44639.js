@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44639"]={"code":"44639","region":"OH","city":"Leesville","latitude":40.4517,"longitude":-81.212}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1L 1A1"]={"code":"T1L 1A1","region":"Alberta","city":"Banff","latitude":51.17622,"longitude":-115.56982}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42501"]={"code":"42501","region":"Kentucky","city":"Somerset","latitude":37.09202,"longitude":-84.60411}}(window,'GeoPostal','US');

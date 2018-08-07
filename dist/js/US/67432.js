@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67432"]={"code":"67432","region":"Kansas","city":"Clay Center","latitude":39.37694,"longitude":-97.12474}}(window,'GeoPostal','US');

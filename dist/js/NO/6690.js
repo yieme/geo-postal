@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6690"]={"code":"6690","region":"More og Romsdal","city":"Aure","latitude":63.26779,"longitude":8.53133}}(window,'GeoPostal','NO');

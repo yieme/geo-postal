@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26527"]={"code":"26527","region":"WV","city":"Cassville","latitude":39.6656,"longitude":-80.0637}}(window,'GeoPostal','US');

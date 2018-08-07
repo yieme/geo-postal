@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0B 2A0"]={"code":"X0B 2A0","region":"Nunavut","city":"Lupin","latitude":65.76426,"longitude":-111.22322}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38079"]={"code":"38079","region":"Guanajuato","city":"San Miguel de Allende","latitude":20.91667,"longitude":-100.75}}(window,'GeoPostal','MX');

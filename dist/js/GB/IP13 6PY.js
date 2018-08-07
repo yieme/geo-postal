@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 6PY"]={"code":"IP13 6PY","region":"England","city":"Burgh","latitude":52.11634,"longitude":1.25845}}(window,'GeoPostal','GB');

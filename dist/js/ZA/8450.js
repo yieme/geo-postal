@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8450"]={"code":"8450","region":"Northern Cape","city":"Kathu","latitude":-27.69569,"longitude":23.04929}}(window,'GeoPostal','ZA');

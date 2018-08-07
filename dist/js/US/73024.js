@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73024"]={"code":"73024","region":"Oklahoma","city":"Corn","latitude":35.379123,"longitude":-98.781541}}(window,'GeoPostal','US');

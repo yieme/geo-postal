@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 1J0"]={"code":"S0K 1J0","region":"Saskatchewan","city":"Duck Lake","latitude":52.81678,"longitude":-106.23442}}(window,'GeoPostal','CA');

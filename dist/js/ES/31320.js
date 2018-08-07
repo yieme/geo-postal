@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31320"]={"code":"31320","region":"Navarra, Comunidad Foral de","city":"Milagro","latitude":42.2416,"longitude":-1.76588}}(window,'GeoPostal','ES');

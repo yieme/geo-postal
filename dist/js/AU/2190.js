@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2190"]={"code":"2190","region":"New South Wales","city":"Chullora","latitude":-33.9,"longitude":151.05}}(window,'GeoPostal','AU');

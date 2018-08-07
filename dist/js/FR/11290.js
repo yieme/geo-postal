@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11290"]={"code":"11290","region":"Occitanie","city":"Lavalette","latitude":43.18428,"longitude":2.26825}}(window,'GeoPostal','FR');

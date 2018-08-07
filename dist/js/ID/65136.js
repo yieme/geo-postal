@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65136"]={"code":"65136","region":"Jawa Timur","city":"Malang","latitude":-7.9797,"longitude":112.6304}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98393"]={"code":"98393","region":"WA","city":"Tracyton","latitude":47.6267,"longitude":-122.65}}(window,'GeoPostal','US');

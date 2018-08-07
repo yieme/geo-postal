@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21153"]={"code":"21153","region":"Maryland","city":"Stevenson","latitude":39.420581,"longitude":-76.711203}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12592"]={"code":"12592","region":"NY","city":"Wassaic","latitude":41.7759,"longitude":-73.5544}}(window,'GeoPostal','US');

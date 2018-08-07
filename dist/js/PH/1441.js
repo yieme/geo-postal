@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1441"]={"code":"1441","region":"Rizal","city":"Valenzuela","latitude":14.7,"longitude":120.9667}}(window,'GeoPostal','PH');

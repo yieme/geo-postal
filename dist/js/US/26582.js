@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26582"]={"code":"26582","region":"WV","city":"Mannington","latitude":39.522,"longitude":-80.3552}}(window,'GeoPostal','US');

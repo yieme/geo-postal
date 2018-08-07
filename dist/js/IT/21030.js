@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21030"]={"code":"21030","region":"Lombardia","city":"Mesenzana","latitude":45.95158,"longitude":8.76453}}(window,'GeoPostal','IT');

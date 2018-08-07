@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4850"]={"code":"4850","region":"Liege","city":"La Calamine","latitude":50.71809,"longitude":6.01107}}(window,'GeoPostal','BE');

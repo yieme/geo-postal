@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117719"]={"code":"117719","region":"Ilfov","city":"Stefanestii de Jos","latitude":44.53333,"longitude":26.2}}(window,'GeoPostal','RO');

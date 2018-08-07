@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["418407"]={"code":"418407","region":"Hunan","city":"Quyang","latitude":26.57507,"longitude":109.63808}}(window,'GeoPostal','CN');

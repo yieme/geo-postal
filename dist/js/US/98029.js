@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98029"]={"code":"98029","region":"Washington","city":"Issaquah","latitude":47.5582,"longitude":-122.0044}}(window,'GeoPostal','US');

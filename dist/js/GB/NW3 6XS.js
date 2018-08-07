@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW3 6XS"]={"code":"NW3 6XS","region":"England","city":"Hampstead","latitude":51.55744,"longitude":-0.18213}}(window,'GeoPostal','GB');

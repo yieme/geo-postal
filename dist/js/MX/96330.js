@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96330"]={"code":"96330","region":"Veracruz de Ignacio de la Llave","city":"Oteapan","latitude":18,"longitude":-94.65}}(window,'GeoPostal','MX');

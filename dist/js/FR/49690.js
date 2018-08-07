@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49690"]={"code":"49690","region":"Pays-de-la-Loire","city":"Coron","latitude":47.12726,"longitude":-0.64512}}(window,'GeoPostal','FR');

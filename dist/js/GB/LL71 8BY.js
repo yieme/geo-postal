@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL71 8BY"]={"code":"LL71 8BY","region":"Wales","city":"Llanerchymedd","latitude":53.33055,"longitude":-4.377}}(window,'GeoPostal','GB');

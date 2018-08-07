@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16881"]={"code":"16881","region":"Pennsylvania","city":"Woodland","latitude":41.020436,"longitude":-78.325326}}(window,'GeoPostal','US');

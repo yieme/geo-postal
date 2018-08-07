@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 4QH"]={"code":"YO22 4QH","region":"England","city":"Fylingdales","latitude":54.3941,"longitude":-0.56793}}(window,'GeoPostal','GB');

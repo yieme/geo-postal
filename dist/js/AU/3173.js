@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3173"]={"code":"3173","region":"Victoria","city":"Keysborough","latitude":-37.99116,"longitude":145.17385}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12960"]={"code":"12960","region":"New York","city":"Moriah","latitude":44.039015,"longitude":-73.513065}}(window,'GeoPostal','US');

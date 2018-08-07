@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33470"]={"code":"33470","region":"Pirkanmaa","city":"Ylojarvi","latitude":61.55632,"longitude":23.59606}}(window,'GeoPostal','FI');

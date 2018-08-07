@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44057"]={"code":"44057","region":"OH","city":"Madison","latitude":41.8054,"longitude":-81.0588}}(window,'GeoPostal','US');

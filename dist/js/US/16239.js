@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16239"]={"code":"16239","region":"Pennsylvania","city":"Marienville","latitude":41.46895,"longitude":-79.1231}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27511"]={"code":"27511","region":"Chiapas","city":"Bochil","latitude":16.98333,"longitude":-92.91667}}(window,'GeoPostal','MX');

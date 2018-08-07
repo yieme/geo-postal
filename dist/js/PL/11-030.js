@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-030"]={"code":"11-030","region":"Warminsko-mazurskie","city":"Purda","latitude":53.70844,"longitude":20.70683}}(window,'GeoPostal','PL');

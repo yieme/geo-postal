@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70514"]={"code":"70514","region":"LA","city":"Baldwin","latitude":29.8488,"longitude":-91.5458}}(window,'GeoPostal','US');

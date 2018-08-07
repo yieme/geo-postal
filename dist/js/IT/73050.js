@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73050"]={"code":"73050","region":"Puglia","city":"Secli","latitude":40.12022,"longitude":18.10662}}(window,'GeoPostal','IT');

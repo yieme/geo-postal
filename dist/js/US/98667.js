@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98667"]={"code":"98667","region":"WA","city":"Abmps","latitude":45.63,"longitude":-122.66}}(window,'GeoPostal','US');

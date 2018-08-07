@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63450"]={"code":"63450","region":"MO","city":"Lentner","latitude":39.7123,"longitude":-92.1489}}(window,'GeoPostal','US');

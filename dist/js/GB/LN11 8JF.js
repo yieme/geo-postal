@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8JF"]={"code":"LN11 8JF","region":"England","city":"Little Carlton","latitude":53.33333,"longitude":0.1}}(window,'GeoPostal','GB');

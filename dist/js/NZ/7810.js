@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7810"]={"code":"7810","region":"West Coast","city":"Hokitika","latitude":-42.71667,"longitude":170.96667}}(window,'GeoPostal','NZ');

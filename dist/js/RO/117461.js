@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117461"]={"code":"117461","region":"Teleorman","city":"Olteni","latitude":44.18333,"longitude":25.28333}}(window,'GeoPostal','RO');

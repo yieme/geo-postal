@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84900"]={"code":"84900","region":"Johor","city":"Tangkak","latitude":2.2673,"longitude":102.5453}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10072"]={"code":"10072","region":"NY","city":"Philip Morris","latitude":40.75,"longitude":-73.99}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18815"]={"code":"18815","region":"Pennsylvania","city":"Camptown","latitude":41.73108,"longitude":-76.23498}}(window,'GeoPostal','US');

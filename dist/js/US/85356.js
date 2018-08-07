@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85356"]={"code":"85356","region":"Arizona","city":"Wellton","latitude":32.67283,"longitude":-114.14688}}(window,'GeoPostal','US');

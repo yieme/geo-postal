@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97461"]={"code":"97461","region":"Bayern","city":"Hofheim in Unterfranken","latitude":50.13675,"longitude":10.52321}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF62 4QJ"]={"code":"CF62 4QJ","region":"Wales","city":"Flemingston","latitude":51.42129,"longitude":-3.41523}}(window,'GeoPostal','GB');

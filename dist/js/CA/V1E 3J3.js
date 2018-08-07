@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1E 3J3"]={"code":"V1E 3J3","region":"British Columbia","city":"Yankee Flats","latitude":50.5165,"longitude":-119.36908}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97302"]={"code":"97302","region":"Oregon","city":"Salem","latitude":44.902118,"longitude":-123.04808}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB30 1XX"]={"code":"AB30 1XX","region":"Scotland","city":"Fettercairn","latitude":56.85125,"longitude":-2.57482}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63500"]={"code":"63500","region":"Auvergne-Rhone-Alpes","city":"Orbeil","latitude":45.563,"longitude":3.278}}(window,'GeoPostal','FR');

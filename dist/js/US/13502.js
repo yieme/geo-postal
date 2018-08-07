@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13502"]={"code":"13502","region":"New York","city":"Deerfield","latitude":43.174444,"longitude":-75.161667}}(window,'GeoPostal','US');

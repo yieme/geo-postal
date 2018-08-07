@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28102"]={"code":"28102","region":"NC","city":"Mc Farlan","latitude":34.8136,"longitude":-79.9776}}(window,'GeoPostal','US');

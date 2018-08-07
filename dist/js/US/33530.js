@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33530"]={"code":"33530","region":"FL","city":"Durant","latitude":27.9068,"longitude":-82.1767}}(window,'GeoPostal','US');

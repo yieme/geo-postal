@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75768"]={"code":"75768","region":"Puebla","city":"Puebla de Zaragoza","latitude":19.05,"longitude":-98.2}}(window,'GeoPostal','MX');

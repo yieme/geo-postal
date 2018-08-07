@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72738"]={"code":"72738","region":"AR","city":"Hindsville","latitude":36.1422,"longitude":-93.8633}}(window,'GeoPostal','US');

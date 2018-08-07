@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17740"]={"code":"17740","region":"PA","city":"Jersey Shore","latitude":41.247,"longitude":-77.2706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62611"]={"code":"62611","region":"IL","city":"Arenzville","latitude":39.8979,"longitude":-90.3636}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7C 0A5"]={"code":"K7C 0A5","region":"Ontario","city":"Hay's Shore","latitude":45.10291,"longitude":-76.15938}}(window,'GeoPostal','CA');

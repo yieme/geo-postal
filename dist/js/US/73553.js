@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73553"]={"code":"73553","region":"OK","city":"Loveland","latitude":34.391,"longitude":-98.7235}}(window,'GeoPostal','US');

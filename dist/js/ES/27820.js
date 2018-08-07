@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27820"]={"code":"27820","region":"Galicia","city":"Vilalba","latitude":43.3,"longitude":-7.68333}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63874"]={"code":"63874","region":"Bayern","city":"Wintersbach","latitude":49.86195,"longitude":9.30491}}(window,'GeoPostal','DE');

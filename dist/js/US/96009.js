@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96009"]={"code":"96009","region":"CA","city":"Bieber","latitude":41.1315,"longitude":-121.1286}}(window,'GeoPostal','US');

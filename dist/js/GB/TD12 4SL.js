@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD12 4SL"]={"code":"TD12 4SL","region":"England","city":"Branxton","latitude":55.63221,"longitude":-2.16865}}(window,'GeoPostal','GB');

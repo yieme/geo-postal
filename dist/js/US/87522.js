@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87522"]={"code":"87522","region":"NM","city":"Chimayo","latitude":36.0039,"longitude":-105.947}}(window,'GeoPostal','US');

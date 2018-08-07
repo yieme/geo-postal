@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61079"]={"code":"61079","region":"IL","city":"Shirland","latitude":42.4445,"longitude":-89.1976}}(window,'GeoPostal','US');

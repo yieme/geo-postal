@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75160"]={"code":"75160","region":"Texas","city":"Terrell","latitude":32.73596,"longitude":-96.27526}}(window,'GeoPostal','US');

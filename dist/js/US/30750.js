@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30750"]={"code":"30750","region":"GA","city":"Lookout Mountain","latitude":34.9335,"longitude":-85.3794}}(window,'GeoPostal','US');

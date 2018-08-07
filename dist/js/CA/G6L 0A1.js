@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6L 0A1"]={"code":"G6L 0A1","region":"Quebec","city":"Princeville","latitude":46.17163,"longitude":-71.87462}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5070"]={"code":"5070","region":"Aargau","city":"Frick","latitude":47.5,"longitude":8.01667}}(window,'GeoPostal','CH');

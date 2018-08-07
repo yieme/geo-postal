@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02137"]={"code":"02137","region":"MA","city":"Readville","latitude":42.2404,"longitude":-71.137}}(window,'GeoPostal','US');

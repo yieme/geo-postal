@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93013"]={"code":"93013","region":"Sicilia","city":"Mazzarino","latitude":37.30434,"longitude":14.21407}}(window,'GeoPostal','IT');

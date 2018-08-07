@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66909"]={"code":"66909","region":"Rheinland-Pfalz","city":"Sangerhof","latitude":49.4744,"longitude":7.38801}}(window,'GeoPostal','DE');

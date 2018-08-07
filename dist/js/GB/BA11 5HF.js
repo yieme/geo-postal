@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 5HF"]={"code":"BA11 5HF","region":"England","city":"Witham Friary","latitude":51.16875,"longitude":-2.36724}}(window,'GeoPostal','GB');

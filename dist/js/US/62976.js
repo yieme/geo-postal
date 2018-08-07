@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62976"]={"code":"62976","region":"IL","city":"Pulaski","latitude":37.2146,"longitude":-89.1968}}(window,'GeoPostal','US');

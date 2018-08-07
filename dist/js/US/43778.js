@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43778"]={"code":"43778","region":"Ohio","city":"Salesville","latitude":40.00536,"longitude":-81.38556}}(window,'GeoPostal','US');

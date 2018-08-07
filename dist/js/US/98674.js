@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98674"]={"code":"98674","region":"Washington","city":"Woodland","latitude":45.90456,"longitude":-122.74399}}(window,'GeoPostal','US');

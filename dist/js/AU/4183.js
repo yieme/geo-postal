@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4183"]={"code":"4183","region":"Queensland","city":"Point Lookout","latitude":-27.42726,"longitude":153.53664}}(window,'GeoPostal','AU');

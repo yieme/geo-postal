@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8711"]={"code":"8711","region":"Fryslan","city":"Workum","latitude":52.97969,"longitude":5.4471}}(window,'GeoPostal','NL');

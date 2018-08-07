@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94535"]={"code":"94535","region":"Bayern","city":"Loipfering","latitude":48.70628,"longitude":13.25735}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 3AX"]={"code":"NE66 3AX","region":"England","city":"Lesbury","latitude":55.39832,"longitude":-1.6283}}(window,'GeoPostal','GB');

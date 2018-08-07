@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56950"]={"code":"56950","region":"Bretagne","city":"Crach","latitude":47.617,"longitude":-3.0017}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07428"]={"code":"07428","region":"NJ","city":"Mc Afee","latitude":41.2065,"longitude":-74.5381}}(window,'GeoPostal','US');

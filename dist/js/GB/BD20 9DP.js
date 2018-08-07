@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 9DP"]={"code":"BD20 9DP","region":"England","city":"Low Bradley","latitude":53.93217,"longitude":-1.99646}}(window,'GeoPostal','GB');

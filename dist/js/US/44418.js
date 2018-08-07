@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44418"]={"code":"44418","region":"OH","city":"Fowler","latitude":41.3349,"longitude":-80.6059}}(window,'GeoPostal','US');

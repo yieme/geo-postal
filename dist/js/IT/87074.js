@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87074"]={"code":"87074","region":"Calabria","city":"Rocca Imperiale","latitude":40.10971,"longitude":16.58019}}(window,'GeoPostal','IT');

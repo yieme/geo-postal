@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27867"]={"code":"27867","region":"NC","city":"Potecasi","latitude":36.3632,"longitude":-77.2391}}(window,'GeoPostal','US');

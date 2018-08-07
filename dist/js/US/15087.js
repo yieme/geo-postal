@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15087"]={"code":"15087","region":"PA","city":"Webster","latitude":40.1851,"longitude":-79.8487}}(window,'GeoPostal','US');

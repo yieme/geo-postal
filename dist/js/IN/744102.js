@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744102"]={"code":"744102","region":"Andaman and Nicobar Islands","city":"Bamboo Flat","latitude":11.7,"longitude":92.71667}}(window,'GeoPostal','IN');

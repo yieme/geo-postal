@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43300"]={"code":"43300","region":"Keski-Suomi","city":"Kannonkoski","latitude":62.96667,"longitude":25.25}}(window,'GeoPostal','FI');

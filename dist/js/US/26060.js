@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26060"]={"code":"26060","region":"WV","city":"Valley Grove","latitude":40.0946,"longitude":-80.5551}}(window,'GeoPostal','US');

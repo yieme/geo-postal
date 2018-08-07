@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3040"]={"code":"3040","region":"Santa Fe","city":"San Justo","latitude":-30.78913,"longitude":-60.59189}}(window,'GeoPostal','AR');

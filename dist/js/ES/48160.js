@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48160"]={"code":"48160","region":"Pais Vasco","city":"Derio","latitude":43.30544,"longitude":-2.88116}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87030"]={"code":"87030","region":"Calabria","city":"Fiumefreddo Bruzio","latitude":39.23439,"longitude":16.06959}}(window,'GeoPostal','IT');

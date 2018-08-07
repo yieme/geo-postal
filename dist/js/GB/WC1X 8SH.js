@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WC1X 8SH"]={"code":"WC1X 8SH","region":"England","city":"Knowlton","latitude":51.23333,"longitude":1.26667}}(window,'GeoPostal','GB');

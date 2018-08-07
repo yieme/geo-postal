@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05441"]={"code":"05441","region":"VT","city":"Bakersfield","latitude":44.7914,"longitude":-72.7697}}(window,'GeoPostal','US');

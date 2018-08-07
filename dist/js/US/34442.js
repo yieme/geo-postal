@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34442"]={"code":"34442","region":"FL","city":"Hernando","latitude":28.9223,"longitude":-82.39}}(window,'GeoPostal','US');

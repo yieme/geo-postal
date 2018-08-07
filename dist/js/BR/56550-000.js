@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56550-000"]={"code":"56550-000","region":"Pernambuco","city":"Itaiba","latitude":-8.9475,"longitude":-37.42278}}(window,'GeoPostal','BR');

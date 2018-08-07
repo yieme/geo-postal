@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4721"]={"code":"4721","region":"Queensland","city":"Clermont","latitude":-22.82407,"longitude":147.63635}}(window,'GeoPostal','AU');

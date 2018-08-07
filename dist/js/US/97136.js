@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97136"]={"code":"97136","region":"Oregon","city":"Rockaway Beach","latitude":45.61344,"longitude":-123.94291}}(window,'GeoPostal','US');

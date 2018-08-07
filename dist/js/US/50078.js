@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50078"]={"code":"50078","region":"IA","city":"Ferguson","latitude":41.9374,"longitude":-92.865}}(window,'GeoPostal','US');

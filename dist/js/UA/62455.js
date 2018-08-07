@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62455"]={"code":"62455","region":"Kharkivska oblast","city":"Korotych","latitude":49.94552,"longitude":36.04057}}(window,'GeoPostal','UA');

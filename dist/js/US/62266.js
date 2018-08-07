@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62266"]={"code":"62266","region":"IL","city":"New Memphis","latitude":38.4857,"longitude":-89.6816}}(window,'GeoPostal','US');

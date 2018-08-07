@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1685"]={"code":"1685","region":"Gauteng","city":"Midrand","latitude":-25.96361,"longitude":28.13778}}(window,'GeoPostal','ZA');

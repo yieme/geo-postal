@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93649"]={"code":"93649","region":"CA","city":"Piedra","latitude":36.8417,"longitude":-119.3496}}(window,'GeoPostal','US');

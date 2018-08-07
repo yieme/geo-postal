@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2319"]={"code":"2319","region":"Poljcane","city":"Poljcane","latitude":46.31194,"longitude":15.57917}}(window,'GeoPostal','SI');

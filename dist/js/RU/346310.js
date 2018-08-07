@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346310"]={"code":"346310","region":"Rostovskaya oblast'","city":"Zverevo","latitude":48.02108,"longitude":40.12282}}(window,'GeoPostal','RU');

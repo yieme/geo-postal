@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56560"]={"code":"56560","region":"Bretagne","city":"Guiscriff","latitude":48.04944,"longitude":-3.64356}}(window,'GeoPostal','FR');

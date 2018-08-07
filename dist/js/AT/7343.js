@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7343"]={"code":"7343","region":"Burgenland","city":"Neutal","latitude":47.53333,"longitude":16.43333}}(window,'GeoPostal','AT');

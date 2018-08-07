@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL7 9AA"]={"code":"DL7 9AA","region":"England","city":"Leeming Bar","latitude":54.30534,"longitude":-1.55937}}(window,'GeoPostal','GB');

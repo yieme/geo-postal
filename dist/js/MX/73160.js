@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73160"]={"code":"73160","region":"Puebla","city":"Huauchinango","latitude":20.18333,"longitude":-98.05}}(window,'GeoPostal','MX');

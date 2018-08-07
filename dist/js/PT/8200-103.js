@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200-103"]={"code":"8200-103","region":"Faro","city":"Albufeira","latitude":37.08819,"longitude":-8.2503}}(window,'GeoPostal','PT');

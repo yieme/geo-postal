@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4001"]={"code":"4001","region":"Kwazulu-Natal","city":"Durban","latitude":-29.8579,"longitude":31.0292}}(window,'GeoPostal','ZA');

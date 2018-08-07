@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97920"]={"code":"97920","region":"OR","city":"Westfall","latitude":43.9922,"longitude":-117.6877}}(window,'GeoPostal','US');

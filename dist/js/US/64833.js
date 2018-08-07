@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64833"]={"code":"64833","region":"MO","city":"Avilla","latitude":37.1953,"longitude":-94.1297}}(window,'GeoPostal','US');

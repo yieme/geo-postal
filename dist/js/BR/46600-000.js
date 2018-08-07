@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46600-000"]={"code":"46600-000","region":"Bahia","city":"Tanhacu","latitude":-14.02139,"longitude":-41.24806}}(window,'GeoPostal','BR');

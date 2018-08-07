@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80000"]={"code":"80000","region":"Osmaniye","city":"Osmaniye","latitude":37.07417,"longitude":36.24778}}(window,'GeoPostal','TR');

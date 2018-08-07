@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30918"]={"code":"30918","region":"Coahuila de Zaragoza","city":"Allende","latitude":28.33333,"longitude":-100.85}}(window,'GeoPostal','MX');

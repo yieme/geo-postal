@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL13 1AG"]={"code":"PL13 1AG","region":"England","city":"West Looe","latitude":50.4,"longitude":-4.41667}}(window,'GeoPostal','GB');

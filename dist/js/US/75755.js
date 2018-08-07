@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75755"]={"code":"75755","region":"Texas","city":"Big Sandy","latitude":32.584432,"longitude":-95.114072}}(window,'GeoPostal','US');

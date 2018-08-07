@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59263"]={"code":"59263","region":"Montana","city":"Scobey","latitude":48.790712,"longitude":-105.420286}}(window,'GeoPostal','US');

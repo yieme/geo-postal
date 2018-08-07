@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 73"]={"code":"630 73","region":"Kentriki Makedonia","city":"Galatista","latitude":40.46667,"longitude":23.28333}}(window,'GeoPostal','GR');

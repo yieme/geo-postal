@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51037"]={"code":"51037","region":"Pays-de-la-Loire","city":"Champagne","latitude":48.02185,"longitude":0.33096}}(window,'GeoPostal','FR');

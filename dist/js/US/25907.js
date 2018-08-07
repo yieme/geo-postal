@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25907"]={"code":"25907","region":"WV","city":"Prince","latitude":37.8532,"longitude":-81.0817}}(window,'GeoPostal','US');

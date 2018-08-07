@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 4NU"]={"code":"NE61 4NU","region":"England","city":"Netherwitton","latitude":55.20667,"longitude":-1.84567}}(window,'GeoPostal','GB');

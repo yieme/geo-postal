@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713140"]={"code":"713140","region":"West Bengal","city":"Katoya","latitude":23.65,"longitude":88.13333}}(window,'GeoPostal','IN');

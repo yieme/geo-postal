@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02007"]={"code":"02007","region":"El Progreso","city":"Sanarate","latitude":14.795,"longitude":-90.19222}}(window,'GeoPostal','GT');

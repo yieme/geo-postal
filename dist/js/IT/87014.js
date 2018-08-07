@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87014"]={"code":"87014","region":"Calabria","city":"Laino Borgo","latitude":39.9543,"longitude":15.97348}}(window,'GeoPostal','IT');

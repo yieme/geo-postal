@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32648"]={"code":"32648","region":"Florida","city":"Horseshoe Beach","latitude":29.55134,"longitude":-83.25676}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64789"]={"code":"64789","region":"MO","city":"Osceola","latitude":37.98,"longitude":-93.66}}(window,'GeoPostal','US');

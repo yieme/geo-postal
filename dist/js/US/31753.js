@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31753"]={"code":"31753","region":"GA","city":"Funston","latitude":31.2054,"longitude":-83.8776}}(window,'GeoPostal','US');

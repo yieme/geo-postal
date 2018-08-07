@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49242"]={"code":"49242","region":"Michigan","city":"Hillsdale","latitude":41.900368,"longitude":-84.622923}}(window,'GeoPostal','US');

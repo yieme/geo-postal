@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76878"]={"code":"76878","region":"Texas","city":"Santa Anna","latitude":31.74209,"longitude":-99.32173}}(window,'GeoPostal','US');

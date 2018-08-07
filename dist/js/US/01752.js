@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01752"]={"code":"01752","region":"Massachusetts","city":"Marlborough","latitude":42.34674,"longitude":-71.55024}}(window,'GeoPostal','US');

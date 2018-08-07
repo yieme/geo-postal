@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80038"]={"code":"80038","region":"CO","city":"Broomfield","latitude":39.9205,"longitude":-105.0867}}(window,'GeoPostal','US');

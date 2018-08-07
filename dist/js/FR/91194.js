@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91194"]={"code":"91194","region":"Ile-de-France","city":"Gif-sur-Yvette","latitude":48.68333,"longitude":2.13333}}(window,'GeoPostal','FR');

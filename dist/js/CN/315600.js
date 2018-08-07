@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315600"]={"code":"315600","region":"Zhejiang","city":"Ninghai","latitude":29.28917,"longitude":121.42472}}(window,'GeoPostal','CN');

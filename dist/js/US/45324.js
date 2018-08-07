@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45324"]={"code":"45324","region":"Ohio","city":"Fairborn","latitude":39.82089,"longitude":-84.01938}}(window,'GeoPostal','US');

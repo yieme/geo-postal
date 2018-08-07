@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161380"]={"code":"161380","region":"Vologodskaya oblast'","city":"Nyuksenitsa","latitude":60.41159,"longitude":44.23309}}(window,'GeoPostal','RU');

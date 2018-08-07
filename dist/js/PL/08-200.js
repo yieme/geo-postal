@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-200"]={"code":"08-200","region":"Mazowieckie","city":"Losice","latitude":52.21129,"longitude":22.71801}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76682"]={"code":"76682","region":"TX","city":"Riesel","latitude":31.5002,"longitude":-96.9476}}(window,'GeoPostal','US');

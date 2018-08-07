@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58735-000"]={"code":"58735-000","region":"Paraiba","city":"Teixeira","latitude":-7.22278,"longitude":-37.25417}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 2A0"]={"code":"T0L 2A0","region":"Alberta","city":"Kew","latitude":50.73341,"longitude":-114.41871}}(window,'GeoPostal','CA');

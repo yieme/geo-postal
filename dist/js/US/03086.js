@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03086"]={"code":"03086","region":"New Hampshire","city":"Wilton","latitude":42.84342,"longitude":-71.73507}}(window,'GeoPostal','US');

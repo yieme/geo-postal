@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27303"]={"code":"27303","region":"Rocha","city":"Velazquez","latitude":-34.03333,"longitude":-54.28333}}(window,'GeoPostal','UY');

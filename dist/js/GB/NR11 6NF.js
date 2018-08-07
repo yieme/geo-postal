@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 6NF"]={"code":"NR11 6NF","region":"England","city":"Blickling","latitude":52.80995,"longitude":1.22986}}(window,'GeoPostal','GB');

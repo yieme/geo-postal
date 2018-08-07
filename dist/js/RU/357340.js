@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357340"]={"code":"357340","region":"Stavropol'skiy kray","city":"Lermontov","latitude":44.10667,"longitude":42.97333}}(window,'GeoPostal','RU');

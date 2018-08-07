@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32533"]={"code":"32533","region":"Florida","city":"Cantonment","latitude":30.60861,"longitude":-87.34}}(window,'GeoPostal','US');

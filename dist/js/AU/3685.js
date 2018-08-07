@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3685"]={"code":"3685","region":"Victoria","city":"Rutherglen","latitude":-36.05598,"longitude":146.46094}}(window,'GeoPostal','AU');

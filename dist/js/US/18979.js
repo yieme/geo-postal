@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18979"]={"code":"18979","region":"PA","city":"Woxall","latitude":40.3107,"longitude":-75.4488}}(window,'GeoPostal','US');

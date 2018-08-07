@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60952"]={"code":"60952","region":"Illinois","city":"Melvin","latitude":40.573277,"longitude":-88.248138}}(window,'GeoPostal','US');

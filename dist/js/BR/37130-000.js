@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37130-000"]={"code":"37130-000","region":"Minas Gerais","city":"Alfenas","latitude":-21.42917,"longitude":-45.94722}}(window,'GeoPostal','BR');

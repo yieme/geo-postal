@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04942"]={"code":"04942","region":"Maine","city":"Harmony","latitude":44.96972,"longitude":-69.53694}}(window,'GeoPostal','US');

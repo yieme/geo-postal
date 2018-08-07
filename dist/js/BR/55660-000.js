@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55660-000"]={"code":"55660-000","region":"Pernambuco","city":"Bezerros","latitude":-8.23333,"longitude":-35.79694}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18427"]={"code":"18427","region":"PA","city":"Hamlin","latitude":41.4047,"longitude":-75.4069}}(window,'GeoPostal','US');

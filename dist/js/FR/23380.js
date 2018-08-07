@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23380"]={"code":"23380","region":"Nouvelle-Aquitaine","city":"Ajain","latitude":46.20635,"longitude":1.9985}}(window,'GeoPostal','FR');

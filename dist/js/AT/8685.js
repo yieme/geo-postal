@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8685"]={"code":"8685","region":"Steiermark","city":"Spital am Semmering","latitude":47.61345,"longitude":15.75096}}(window,'GeoPostal','AT');

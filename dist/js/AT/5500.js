@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5500"]={"code":"5500","region":"Salzburg","city":"Bischofshofen","latitude":47.41667,"longitude":13.21667}}(window,'GeoPostal','AT');

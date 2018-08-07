@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59759"]={"code":"59759","region":"Montana","city":"Whitehall","latitude":45.87076,"longitude":-112.09749}}(window,'GeoPostal','US');

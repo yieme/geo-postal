@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05149"]={"code":"05149","region":"Vermont","city":"Ludlow","latitude":43.39242,"longitude":-72.69714}}(window,'GeoPostal','US');

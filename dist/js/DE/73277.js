@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73277"]={"code":"73277","region":"Baden-Wurttemberg","city":"Owen","latitude":48.58742,"longitude":9.44978}}(window,'GeoPostal','DE');

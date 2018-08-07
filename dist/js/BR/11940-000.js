@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11940-000"]={"code":"11940-000","region":"Sao Paulo","city":"Jacupiranga","latitude":-24.6925,"longitude":-48.00222}}(window,'GeoPostal','BR');

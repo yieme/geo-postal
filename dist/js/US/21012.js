@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21012"]={"code":"21012","region":"Maryland","city":"Arnold","latitude":39.047137,"longitude":-76.497792}}(window,'GeoPostal','US');

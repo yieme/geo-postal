@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["560000"]={"code":"560000","region":"Quang Nam","city":"Tam Ky","latitude":15.56667,"longitude":108.48333}}(window,'GeoPostal','VN');

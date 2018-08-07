@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH3 3BB"]={"code":"DH3 3BB","region":"England","city":"Chester-le-Street","latitude":54.85862,"longitude":-1.57408}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107252"]={"code":"107252","region":"Bacau","city":"Darmanesti","latitude":44.91667,"longitude":25.78333}}(window,'GeoPostal','RO');

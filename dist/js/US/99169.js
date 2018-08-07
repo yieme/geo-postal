@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99169"]={"code":"99169","region":"Washington","city":"Ritzville","latitude":47.12737,"longitude":-118.37998}}(window,'GeoPostal','US');

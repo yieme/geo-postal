@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47942"]={"code":"47942","region":"Indiana","city":"Earl Park","latitude":40.68444,"longitude":-87.41583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-300"]={"code":"42-300","region":"Slaskie","city":"Myszkow","latitude":50.5752,"longitude":19.32461}}(window,'GeoPostal','PL');

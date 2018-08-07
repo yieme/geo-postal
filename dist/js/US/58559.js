@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58559"]={"code":"58559","region":"ND","city":"Mercer","latitude":47.4858,"longitude":-100.7171}}(window,'GeoPostal','US');

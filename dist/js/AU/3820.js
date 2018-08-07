@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3820"]={"code":"3820","region":"Victoria","city":"Warragul","latitude":-38.15912,"longitude":145.93118}}(window,'GeoPostal','AU');

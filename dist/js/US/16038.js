@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16038"]={"code":"16038","region":"PA","city":"Harrisville","latitude":41.1631,"longitude":-79.9796}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356570"]={"code":"356570","region":"Stavropol'skiy kray","city":"Arzgir","latitude":45.37278,"longitude":44.22056}}(window,'GeoPostal','RU');

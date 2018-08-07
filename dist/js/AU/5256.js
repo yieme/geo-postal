@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5256"]={"code":"5256","region":"South Australia","city":"Milang","latitude":-35.40781,"longitude":138.97121}}(window,'GeoPostal','AU');

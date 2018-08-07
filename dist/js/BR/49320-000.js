@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49320-000"]={"code":"49320-000","region":"Sergipe","city":"Riachao do Dantas","latitude":-11.06889,"longitude":-37.725}}(window,'GeoPostal','BR');

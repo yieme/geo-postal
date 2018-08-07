@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54417"]={"code":"54417","region":"WI","city":"Brokaw","latitude":45.0273,"longitude":-89.6541}}(window,'GeoPostal','US');

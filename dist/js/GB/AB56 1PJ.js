@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 1PJ"]={"code":"AB56 1PJ","region":"Scotland","city":"Buckie","latitude":57.6757,"longitude":-2.96238}}(window,'GeoPostal','GB');

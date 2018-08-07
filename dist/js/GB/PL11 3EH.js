@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL11 3EH"]={"code":"PL11 3EH","region":"England","city":"Sheviock","latitude":50.37284,"longitude":-4.29389}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56290"]={"code":"56290","region":"Bretagne","city":"Port-Louis","latitude":47.70704,"longitude":-3.35484}}(window,'GeoPostal','FR');

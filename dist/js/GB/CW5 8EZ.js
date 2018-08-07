@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW5 8EZ"]={"code":"CW5 8EZ","region":"England","city":"Wrenbury","latitude":53.0251,"longitude":-2.60742}}(window,'GeoPostal','GB');

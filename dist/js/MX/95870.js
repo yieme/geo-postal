@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95870"]={"code":"95870","region":"Veracruz de Ignacio de la Llave","city":"Catemaco","latitude":18.41667,"longitude":-95.11667}}(window,'GeoPostal','MX');

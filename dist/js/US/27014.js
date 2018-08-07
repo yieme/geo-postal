@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27014"]={"code":"27014","region":"NC","city":"Cooleemee","latitude":35.8104,"longitude":-80.5559}}(window,'GeoPostal','US');

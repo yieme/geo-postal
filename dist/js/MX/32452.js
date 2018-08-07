@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32452"]={"code":"32452","region":"Durango","city":"Juarez","latitude":24.82056,"longitude":-104.0275}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38364"]={"code":"38364","region":"Niedersachsen","city":"Hoiersdorf","latitude":52.12759,"longitude":10.94547}}(window,'GeoPostal','DE');

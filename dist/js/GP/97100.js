@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97100"]={"code":"97100","region":"Guadeloupe","city":"Basse-Terre","latitude":15.99854,"longitude":-61.72548}}(window,'GeoPostal','GP');

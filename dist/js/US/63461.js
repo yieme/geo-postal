@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63461"]={"code":"63461","region":"MO","city":"Palmyra","latitude":39.7913,"longitude":-91.5368}}(window,'GeoPostal','US');

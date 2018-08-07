@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98611"]={"code":"98611","region":"Washington","city":"Castle Rock","latitude":46.286049,"longitude":-122.901551}}(window,'GeoPostal','US');

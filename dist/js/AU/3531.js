@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3531"]={"code":"3531","region":"Victoria","city":"Berriwillock","latitude":-35.63333,"longitude":143}}(window,'GeoPostal','AU');

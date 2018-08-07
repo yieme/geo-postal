@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38504"]={"code":"38504","region":"Auvergne-Rhone-Alpes","city":"Voiron","latitude":45.36395,"longitude":5.59209}}(window,'GeoPostal','FR');

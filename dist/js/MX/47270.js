@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47270"]={"code":"47270","region":"Jalisco","city":"Encarnacion de Diaz","latitude":21.51667,"longitude":-102.23333}}(window,'GeoPostal','MX');

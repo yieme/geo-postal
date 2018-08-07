@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 3ET"]={"code":"IP8 3ET","region":"England","city":"Copdock","latitude":52.03153,"longitude":1.0831}}(window,'GeoPostal','GB');

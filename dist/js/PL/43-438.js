@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-438"]={"code":"43-438","region":"Slaskie","city":"Brenna","latitude":49.72576,"longitude":18.90249}}(window,'GeoPostal','PL');

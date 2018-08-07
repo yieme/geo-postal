@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60706"]={"code":"60706","region":"Illinois","city":"Harwood Heights","latitude":41.96333,"longitude":-87.81661}}(window,'GeoPostal','US');

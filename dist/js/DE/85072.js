@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85072"]={"code":"85072","region":"Bayern","city":"Eichstatt","latitude":48.63751,"longitude":12.10694}}(window,'GeoPostal','DE');

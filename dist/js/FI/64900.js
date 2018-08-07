@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64900"]={"code":"64900","region":"Etela-Pohjanmaa","city":"Isojoki","latitude":62.11319,"longitude":21.95884}}(window,'GeoPostal','FI');

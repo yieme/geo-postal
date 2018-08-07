@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67478"]={"code":"67478","region":"KS","city":"Simpson","latitude":39.3851,"longitude":-97.9328}}(window,'GeoPostal','US');

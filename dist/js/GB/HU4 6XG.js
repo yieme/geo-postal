@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU4 6XG"]={"code":"HU4 6XG","region":"England","city":"Anlaby","latitude":53.74252,"longitude":-0.40529}}(window,'GeoPostal','GB');

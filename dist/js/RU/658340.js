@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658340"]={"code":"658340","region":"Altayskiy kray","city":"Krasnoshchekovo","latitude":51.67083,"longitude":82.72889}}(window,'GeoPostal','RU');

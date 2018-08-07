@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07750"]={"code":"07750","region":"NJ","city":"Monmouth Beach","latitude":40.333,"longitude":-73.9809}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92277"]={"code":"92277","region":"Bayern","city":"Ransbach","latitude":49.31964,"longitude":11.74541}}(window,'GeoPostal','DE');

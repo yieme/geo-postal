@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5683"]={"code":"5683","region":"Syddanmark","city":"Harby","latitude":55.21502,"longitude":10.12262}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59080"]={"code":"59080","region":"Kalmar lan","city":"Sodra Vi","latitude":57.75,"longitude":15.8}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77838"]={"code":"77838","region":"TX","city":"Chriesman","latitude":30.5994,"longitude":-96.7708}}(window,'GeoPostal','US');

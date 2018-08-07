@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28729"]={"code":"28729","region":"NC","city":"Etowah","latitude":35.3172,"longitude":-82.5977}}(window,'GeoPostal','US');

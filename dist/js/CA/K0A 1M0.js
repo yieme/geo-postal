@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0A 1M0"]={"code":"K0A 1M0","region":"Ontario","city":"Casselman","latitude":45.3168,"longitude":-75.0826}}(window,'GeoPostal','CA');

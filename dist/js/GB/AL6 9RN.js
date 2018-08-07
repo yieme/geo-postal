@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL6 9RN"]={"code":"AL6 9RN","region":"England","city":"Welwyn","latitude":51.8331,"longitude":-0.21359}}(window,'GeoPostal','GB');

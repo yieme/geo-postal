@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28088"]={"code":"28088","region":"NC","city":"Landis","latitude":35.5435,"longitude":-80.6129}}(window,'GeoPostal','US');

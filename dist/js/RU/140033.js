@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140033"]={"code":"140033","region":"Moskovskaya oblast'","city":"Malakhovka","latitude":55.64776,"longitude":38.02486}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249650"]={"code":"249650","region":"Kaluzhskaya oblast'","city":"Baryatino","latitude":54.31206,"longitude":34.52096}}(window,'GeoPostal','RU');

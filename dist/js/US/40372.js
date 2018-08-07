@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40372"]={"code":"40372","region":"KY","city":"Salvisa","latitude":37.9167,"longitude":-84.8577}}(window,'GeoPostal','US');

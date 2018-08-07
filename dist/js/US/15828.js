@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15828"]={"code":"15828","region":"Pennsylvania","city":"Clarington","latitude":41.326865,"longitude":-79.149078}}(window,'GeoPostal','US');

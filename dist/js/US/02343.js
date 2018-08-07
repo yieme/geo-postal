@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02343"]={"code":"02343","region":"MA","city":"Holbrook","latitude":42.1464,"longitude":-71.0083}}(window,'GeoPostal','US');

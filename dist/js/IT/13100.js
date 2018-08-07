@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13100"]={"code":"13100","region":"Piemonte","city":"Vercelli","latitude":45.32306,"longitude":8.41533}}(window,'GeoPostal','IT');

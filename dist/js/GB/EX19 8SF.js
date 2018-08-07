@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX19 8SF"]={"code":"EX19 8SF","region":"England","city":"Monk Okehampton","latitude":50.83333,"longitude":-4.01667}}(window,'GeoPostal','GB');

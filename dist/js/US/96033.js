@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96033"]={"code":"96033","region":"CA","city":"French Gulch","latitude":40.7035,"longitude":-122.6229}}(window,'GeoPostal','US');

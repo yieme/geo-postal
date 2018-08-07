@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63584"]={"code":"63584","region":"Hessen","city":"Rothenbergen","latitude":50.19899,"longitude":9.11179}}(window,'GeoPostal','DE');

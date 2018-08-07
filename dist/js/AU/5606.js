@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5606"]={"code":"5606","region":"South Australia","city":"Port Lincoln","latitude":-34.72625,"longitude":135.87442}}(window,'GeoPostal','AU');

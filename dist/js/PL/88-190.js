@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-190"]={"code":"88-190","region":"Kujawsko-pomorskie","city":"Barcin","latitude":52.86607,"longitude":17.94625}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39151"]={"code":"39151","region":"MS","city":"Puckett","latitude":32.1062,"longitude":-89.7836}}(window,'GeoPostal','US');

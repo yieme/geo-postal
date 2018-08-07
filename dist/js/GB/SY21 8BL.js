@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 8BL"]={"code":"SY21 8BL","region":"Wales","city":"Manafon","latitude":52.61238,"longitude":-3.31184}}(window,'GeoPostal','GB');

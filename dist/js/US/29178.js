@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29178"]={"code":"29178","region":"South Carolina","city":"Whitmire","latitude":34.50291,"longitude":-81.61149}}(window,'GeoPostal','US');

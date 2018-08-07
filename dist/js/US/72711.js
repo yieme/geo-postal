@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72711"]={"code":"72711","region":"AR","city":"Avoca","latitude":36.4047,"longitude":-94.0713}}(window,'GeoPostal','US');

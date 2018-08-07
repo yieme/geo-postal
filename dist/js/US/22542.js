@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22542"]={"code":"22542","region":"Virginia","city":"Rhoadesville","latitude":38.27333,"longitude":-77.92833}}(window,'GeoPostal','US');

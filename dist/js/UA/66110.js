@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66110"]={"code":"66110","region":"Odeska oblast","city":"Peschana","latitude":48.12918,"longitude":29.73086}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN20 9RJ"]={"code":"BN20 9RJ","region":"England","city":"Willingdon","latitude":50.80008,"longitude":0.255}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64448"]={"code":"64448","region":"MO","city":"Faucett","latitude":39.5891,"longitude":-94.7913}}(window,'GeoPostal','US');

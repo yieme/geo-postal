@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36140-000"]={"code":"36140-000","region":"Minas Gerais","city":"Lima Duarte","latitude":-21.8425,"longitude":-43.79306}}(window,'GeoPostal','BR');

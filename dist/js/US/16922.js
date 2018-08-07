@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16922"]={"code":"16922","region":"Pennsylvania","city":"Galeton","latitude":41.73312,"longitude":-77.64193}}(window,'GeoPostal','US');

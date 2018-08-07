@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6450"]={"code":"6450","region":"Haskovo","city":"Kharmanli","latitude":41.93333,"longitude":25.9}}(window,'GeoPostal','BG');

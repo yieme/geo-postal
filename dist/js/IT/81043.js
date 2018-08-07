@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81043"]={"code":"81043","region":"Campania","city":"Capua","latitude":41.09971,"longitude":14.22013}}(window,'GeoPostal','IT');

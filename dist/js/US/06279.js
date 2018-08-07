@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06279"]={"code":"06279","region":"CT","city":"Willington","latitude":41.8966,"longitude":-72.2622}}(window,'GeoPostal','US');

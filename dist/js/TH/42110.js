@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42110"]={"code":"42110","region":"Loei","city":"Chiang Khan","latitude":17.89382,"longitude":101.65997}}(window,'GeoPostal','TH');

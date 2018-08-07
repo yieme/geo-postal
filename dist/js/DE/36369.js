@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36369"]={"code":"36369","region":"Hessen","city":"Lanzenhain","latitude":50.54314,"longitude":9.30327}}(window,'GeoPostal','DE');

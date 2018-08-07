@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617395"]={"code":"617395","region":"Neamt","city":"Sagna","latitude":46.98333,"longitude":27.01667}}(window,'GeoPostal','RO');

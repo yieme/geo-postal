@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54035"]={"code":"54035","region":"Toscana","city":"Fosdinovo","latitude":44.13245,"longitude":10.01649}}(window,'GeoPostal','IT');

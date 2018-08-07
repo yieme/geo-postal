@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80426"]={"code":"80426","region":"Colorado","city":"Burns","latitude":39.881319,"longitude":-106.96726}}(window,'GeoPostal','US');

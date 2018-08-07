@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19432"]={"code":"19432","region":"PA","city":"Devault","latitude":40.0796,"longitude":-75.56}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21162"]={"code":"21162","region":"Maryland","city":"White Marsh","latitude":39.38372,"longitude":-76.43218}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX19 8QW"]={"code":"EX19 8QW","region":"England","city":"Dolton","latitude":50.89169,"longitude":-4.03066}}(window,'GeoPostal','GB');

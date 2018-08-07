@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08050"]={"code":"08050","region":"New Jersey","city":"Manahawkin","latitude":39.6954,"longitude":-74.25875}}(window,'GeoPostal','US');

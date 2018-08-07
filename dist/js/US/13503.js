@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13503"]={"code":"13503","region":"New York","city":"Utica","latitude":43.1024,"longitude":-75.2318}}(window,'GeoPostal','US');

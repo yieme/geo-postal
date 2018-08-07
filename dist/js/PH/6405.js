@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6405"]={"code":"6405","region":"Northern Samar","city":"Victoria","latitude":12.44722,"longitude":124.31111}}(window,'GeoPostal','PH');

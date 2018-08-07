@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70613"]={"code":"70613","region":"Kalimantan Selatan","city":"Martapura","latitude":-3.41667,"longitude":114.85}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73746"]={"code":"73746","region":"OK","city":"Hopeton","latitude":36.6881,"longitude":-98.6659}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745111"]={"code":"745111","region":"Gansu","city":"Caijiamiao","latitude":36.05403,"longitude":107.7185}}(window,'GeoPostal','CN');

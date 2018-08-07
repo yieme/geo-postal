@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["278 01"]={"code":"278 01","region":"Stredocesky kraj","city":"Kralupy nad Vltavou","latitude":50.24107,"longitude":14.31149}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76126"]={"code":"76126","region":"Kalimantan Timur","city":"Balikpapan","latitude":-1.26753,"longitude":116.82887}}(window,'GeoPostal','ID');

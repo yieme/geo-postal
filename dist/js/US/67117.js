@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67117"]={"code":"67117","region":"Kansas","city":"North Newton","latitude":38.13408,"longitude":-97.32162}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57537"]={"code":"57537","region":"SD","city":"Hayes","latitude":44.3703,"longitude":-101.0215}}(window,'GeoPostal','US');

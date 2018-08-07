@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22967"]={"code":"22967","region":"Virginia","city":"Roseland","latitude":37.914683,"longitude":-78.951795}}(window,'GeoPostal','US');

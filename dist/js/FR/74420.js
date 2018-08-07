@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74420"]={"code":"74420","region":"Auvergne-Rhone-Alpes","city":"Habere-Lullin","latitude":46.2344,"longitude":6.4531}}(window,'GeoPostal','FR');

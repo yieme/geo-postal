@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92907"]={"code":"92907","region":"Luhanska oblast","city":"Pryvillya","latitude":49.01501,"longitude":38.30458}}(window,'GeoPostal','UA');

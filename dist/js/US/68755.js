@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68755"]={"code":"68755","region":"Nebraska","city":"Naper","latitude":42.926351,"longitude":-99.088235}}(window,'GeoPostal','US');

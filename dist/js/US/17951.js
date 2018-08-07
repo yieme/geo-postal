@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17951"]={"code":"17951","region":"Pennsylvania","city":"Mar Lin","latitude":40.679204,"longitude":-76.242786}}(window,'GeoPostal','US');

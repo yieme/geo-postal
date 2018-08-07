@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96767"]={"code":"96767","region":"HI","city":"Lahaina","latitude":20.8666,"longitude":-156.6467}}(window,'GeoPostal','US');

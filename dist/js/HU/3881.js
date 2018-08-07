@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3881"]={"code":"3881","region":"Borsod-Abauj-Zemplen","city":"Abaujszanto","latitude":48.28333,"longitude":21.2}}(window,'GeoPostal','HU');

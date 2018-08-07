@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54447"]={"code":"54447","region":"Wisconsin","city":"Lublin","latitude":45.119142,"longitude":-90.694903}}(window,'GeoPostal','US');

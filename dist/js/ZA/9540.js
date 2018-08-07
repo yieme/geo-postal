@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9540"]={"code":"9540","region":"Free State","city":"Koppies","latitude":-27.24179,"longitude":27.57422}}(window,'GeoPostal','ZA');

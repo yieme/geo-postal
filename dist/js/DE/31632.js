@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31632"]={"code":"31632","region":"Niedersachsen","city":"Bolsehle","latitude":52.55953,"longitude":9.29613}}(window,'GeoPostal','DE');

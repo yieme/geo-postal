@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399059"]={"code":"399059","region":"Lipetskaya oblast'","city":"Gryazi","latitude":52.49657,"longitude":39.93593}}(window,'GeoPostal','RU');

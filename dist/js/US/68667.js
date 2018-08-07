@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68667"]={"code":"68667","region":"NE","city":"Surprise","latitude":41.1086,"longitude":-97.3112}}(window,'GeoPostal','US');

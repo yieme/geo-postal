@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47360"]={"code":"47360","region":"Nouvelle-Aquitaine","city":"Montpezat","latitude":44.3475,"longitude":0.5247}}(window,'GeoPostal','FR');

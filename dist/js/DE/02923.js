@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02923"]={"code":"02923","region":"Sachsen","city":"Spree","latitude":51.34929,"longitude":14.88176}}(window,'GeoPostal','DE');

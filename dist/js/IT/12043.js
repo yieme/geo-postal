@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12043"]={"code":"12043","region":"Piemonte","city":"Canale","latitude":44.79854,"longitude":7.99733}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49642"]={"code":"49642","region":"Michigan","city":"Idlewild","latitude":43.890839,"longitude":-85.783084}}(window,'GeoPostal','US');

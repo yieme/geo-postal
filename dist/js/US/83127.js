@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83127"]={"code":"83127","region":"Wyoming","city":"Thayne","latitude":42.91972,"longitude":-111.00083}}(window,'GeoPostal','US');

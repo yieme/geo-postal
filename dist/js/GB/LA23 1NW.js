@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA23 1NW"]={"code":"LA23 1NW","region":"England","city":"Windermere","latitude":54.38086,"longitude":-2.90709}}(window,'GeoPostal','GB');

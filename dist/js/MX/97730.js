@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97730"]={"code":"97730","region":"Yucatan","city":"Espita","latitude":21.01667,"longitude":-88.31667}}(window,'GeoPostal','MX');

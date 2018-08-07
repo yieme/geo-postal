@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19035"]={"code":"19035","region":"Pennsylvania","city":"Gladwyne","latitude":40.046178,"longitude":-75.28527}}(window,'GeoPostal','US');

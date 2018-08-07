@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-362"]={"code":"44-362","region":"Slaskie","city":"Rogow","latitude":49.99097,"longitude":18.35077}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65002"]={"code":"65002","region":"Rio Negro","city":"Nuevo Berlin","latitude":-32.98333,"longitude":-58.05}}(window,'GeoPostal','UY');

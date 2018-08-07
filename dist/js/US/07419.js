@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07419"]={"code":"07419","region":"NJ","city":"Hamburg","latitude":41.1467,"longitude":-74.5874}}(window,'GeoPostal','US');

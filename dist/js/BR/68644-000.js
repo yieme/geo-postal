@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68644-000"]={"code":"68644-000","region":"Para","city":"Capitao Poco","latitude":-1.74639,"longitude":-47.05944}}(window,'GeoPostal','BR');

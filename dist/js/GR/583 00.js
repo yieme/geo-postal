@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["583 00"]={"code":"583 00","region":"Kentriki Makedonia","city":"Agios Loukas","latitude":40.71944,"longitude":22.295}}(window,'GeoPostal','GR');

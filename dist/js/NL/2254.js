@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2254"]={"code":"2254","region":"Zuid-Holland","city":"Voorschoten","latitude":52.1275,"longitude":4.44861}}(window,'GeoPostal','NL');

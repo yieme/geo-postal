@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5214"]={"code":"5214","region":"South Australia","city":"Goolwa","latitude":-35.50261,"longitude":138.78462}}(window,'GeoPostal','AU');

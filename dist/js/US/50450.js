@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50450"]={"code":"50450","region":"Iowa","city":"Lake Mills","latitude":43.417508,"longitude":-93.531553}}(window,'GeoPostal','US');

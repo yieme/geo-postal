@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2164"]={"code":"2164","region":"New South Wales","city":"Wetherill Park","latitude":-33.84277,"longitude":150.90061}}(window,'GeoPostal','AU');

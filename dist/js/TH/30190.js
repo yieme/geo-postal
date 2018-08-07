@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30190"]={"code":"30190","region":"Nakhon Ratchasima","city":"Chok Chai","latitude":14.72844,"longitude":102.16524}}(window,'GeoPostal','TH');

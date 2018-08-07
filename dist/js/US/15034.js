@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15034"]={"code":"15034","region":"PA","city":"Dravosburg","latitude":40.3527,"longitude":-79.8895}}(window,'GeoPostal','US');

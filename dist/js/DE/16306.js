@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16306"]={"code":"16306","region":"Brandenburg","city":"Meyenburg","latitude":53.04524,"longitude":14.23691}}(window,'GeoPostal','DE');

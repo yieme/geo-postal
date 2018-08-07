@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88316"]={"code":"88316","region":"New Mexico","city":"Capitan","latitude":33.54536,"longitude":-105.5722}}(window,'GeoPostal','US');

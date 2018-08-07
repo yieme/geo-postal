@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16830"]={"code":"16830","region":"Pennsylvania","city":"Clearfield","latitude":41.02728,"longitude":-78.43919}}(window,'GeoPostal','US');

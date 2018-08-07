@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 1HD"]={"code":"DG11 1HD","region":"Scotland","city":"Johnstonebridge","latitude":55.21491,"longitude":-3.41606}}(window,'GeoPostal','GB');

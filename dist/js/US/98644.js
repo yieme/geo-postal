@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98644"]={"code":"98644","region":"Washington","city":"Seaview","latitude":46.33444,"longitude":-124.05472}}(window,'GeoPostal','US');

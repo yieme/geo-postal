@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352613"]={"code":"352613","region":"Krasnodarskiy kray","city":"Ryazanskaya","latitude":44.95528,"longitude":39.58894}}(window,'GeoPostal','RU');

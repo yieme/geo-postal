@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61940"]={"code":"61940","region":"Afyonkarahisar","city":"Afyonkarahisar","latitude":38.75667,"longitude":30.54333}}(window,'GeoPostal','TR');

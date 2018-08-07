@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95-205"]={"code":"95-205","region":"Lodzkie","city":"Pabianice","latitude":51.66446,"longitude":19.35473}}(window,'GeoPostal','PL');

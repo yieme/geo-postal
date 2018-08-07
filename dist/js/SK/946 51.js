@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["946 51"]={"code":"946 51","region":"Nitriansky kraj","city":"Nove Zamky","latitude":47.98544,"longitude":18.16195}}(window,'GeoPostal','SK');

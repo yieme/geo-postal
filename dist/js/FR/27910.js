@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27910"]={"code":"27910","region":"Normandie","city":"Perriers-sur-Andelle","latitude":49.41487,"longitude":1.37098}}(window,'GeoPostal','FR');

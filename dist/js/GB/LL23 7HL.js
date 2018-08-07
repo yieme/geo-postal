@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL23 7HL"]={"code":"LL23 7HL","region":"Wales","city":"Llandderfel","latitude":52.92127,"longitude":-3.5156}}(window,'GeoPostal','GB');

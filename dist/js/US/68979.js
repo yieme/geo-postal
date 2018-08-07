@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68979"]={"code":"68979","region":"Nebraska","city":"Sutton","latitude":40.60557,"longitude":-97.85921}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44030"]={"code":"44030","region":"Ohio","city":"Conneaut","latitude":41.930791,"longitude":-80.583153}}(window,'GeoPostal','US');

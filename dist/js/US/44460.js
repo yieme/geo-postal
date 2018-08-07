@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44460"]={"code":"44460","region":"Ohio","city":"Salem","latitude":40.884669,"longitude":-80.869558}}(window,'GeoPostal','US');

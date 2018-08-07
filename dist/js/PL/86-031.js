@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-031"]={"code":"86-031","region":"Kujawsko-pomorskie","city":"Osielsko","latitude":53.18505,"longitude":18.08418}}(window,'GeoPostal','PL');

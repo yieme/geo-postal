@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32566"]={"code":"32566","region":"Florida","city":"Navarre","latitude":30.50088,"longitude":-86.89662}}(window,'GeoPostal','US');

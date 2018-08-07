@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13436"]={"code":"13436","region":"NY","city":"Raquette Lake","latitude":43.8131,"longitude":-74.6574}}(window,'GeoPostal','US');

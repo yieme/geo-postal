@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97502"]={"code":"97502","region":"Oregon","city":"Central Point","latitude":42.37596,"longitude":-122.91643}}(window,'GeoPostal','US');

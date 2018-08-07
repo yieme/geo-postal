@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56252"]={"code":"56252","region":"MN","city":"Kerkhoven","latitude":45.2096,"longitude":-95.3115}}(window,'GeoPostal','US');

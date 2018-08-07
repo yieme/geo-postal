@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76821"]={"code":"76821","region":"Texas","city":"Ballinger","latitude":31.73821,"longitude":-99.94731}}(window,'GeoPostal','US');

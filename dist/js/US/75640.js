@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75640"]={"code":"75640","region":"TX","city":"Diana","latitude":32.7698,"longitude":-94.7032}}(window,'GeoPostal','US');

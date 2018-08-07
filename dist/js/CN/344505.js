@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344505"]={"code":"344505","region":"Jiangxi","city":"Taihe","latitude":27.05272,"longitude":116.61105}}(window,'GeoPostal','CN');

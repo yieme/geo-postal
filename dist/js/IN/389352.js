@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389352"]={"code":"389352","region":"Gujarat","city":"Halol","latitude":22.5,"longitude":73.46667}}(window,'GeoPostal','IN');

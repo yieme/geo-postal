@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34272"]={"code":"34272","region":"Rivnenska oblast","city":"Dubno","latitude":50.41694,"longitude":25.73432}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32301"]={"code":"32301","region":"Varsinais-Suomi","city":"Mellila","latitude":60.76667,"longitude":22.95}}(window,'GeoPostal','FI');

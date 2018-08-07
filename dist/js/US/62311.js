@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62311"]={"code":"62311","region":"IL","city":"Augusta","latitude":40.2341,"longitude":-90.9554}}(window,'GeoPostal','US');

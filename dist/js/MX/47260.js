@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47260"]={"code":"47260","region":"Jalisco","city":"Villa Hidalgo","latitude":21.66667,"longitude":-102.6}}(window,'GeoPostal','MX');

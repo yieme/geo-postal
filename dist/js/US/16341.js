@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16341"]={"code":"16341","region":"PA","city":"Pleasantville","latitude":41.5867,"longitude":-79.5685}}(window,'GeoPostal','US');

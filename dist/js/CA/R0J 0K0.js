@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 0K0"]={"code":"R0J 0K0","region":"Manitoba","city":"Ameer","latitude":50.24832,"longitude":-99.77164}}(window,'GeoPostal','CA');

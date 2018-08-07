@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87820"]={"code":"87820","region":"New Mexico","city":"Aragon","latitude":33.950316,"longitude":-108.678891}}(window,'GeoPostal','US');

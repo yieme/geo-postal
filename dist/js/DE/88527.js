@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88527"]={"code":"88527","region":"Baden-Wurttemberg","city":"Eichenau","latitude":48.15647,"longitude":9.49699}}(window,'GeoPostal','DE');

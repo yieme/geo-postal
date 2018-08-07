@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR28 0RJ"]={"code":"NR28 0RJ","region":"England","city":"Swafield","latitude":52.83868,"longitude":1.39385}}(window,'GeoPostal','GB');

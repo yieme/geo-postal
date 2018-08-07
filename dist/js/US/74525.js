@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74525"]={"code":"74525","region":"Oklahoma","city":"Atoka","latitude":34.383542,"longitude":-96.133693}}(window,'GeoPostal','US');

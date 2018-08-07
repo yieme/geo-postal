@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427250"]={"code":"427250","region":"Bistrita-Nasaud","city":"Romuli","latitude":47.53333,"longitude":24.43333}}(window,'GeoPostal','RO');

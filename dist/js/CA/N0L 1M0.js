@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0L 1M0"]={"code":"N0L 1M0","region":"Ontario","city":"Glencoe","latitude":42.75009,"longitude":-81.71648}}(window,'GeoPostal','CA');

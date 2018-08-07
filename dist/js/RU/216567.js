@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216567"]={"code":"216567","region":"Orlovskaya oblast'","city":"Soskovo","latitude":52.74752,"longitude":35.38277}}(window,'GeoPostal','RU');

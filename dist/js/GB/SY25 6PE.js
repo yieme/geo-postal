@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY25 6PE"]={"code":"SY25 6PE","region":"Wales","city":"Llanddewi-Brefi","latitude":52.16667,"longitude":-3.95}}(window,'GeoPostal','GB');

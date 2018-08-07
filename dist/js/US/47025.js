@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47025"]={"code":"47025","region":"Indiana","city":"Lawrenceburg","latitude":39.09089,"longitude":-84.84995}}(window,'GeoPostal','US');

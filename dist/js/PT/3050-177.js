@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3050-177"]={"code":"3050-177","region":"Aveiro","city":"Mealhada","latitude":40.37806,"longitude":-8.44991}}(window,'GeoPostal','PT');

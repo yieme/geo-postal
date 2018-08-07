@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62467"]={"code":"62467","region":"IL","city":"Teutopolis","latitude":39.132,"longitude":-88.4767}}(window,'GeoPostal','US');

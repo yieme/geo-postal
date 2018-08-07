@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8518"]={"code":"8518","region":"Nordland","city":"Narvik","latitude":68.43838,"longitude":17.4272}}(window,'GeoPostal','NO');

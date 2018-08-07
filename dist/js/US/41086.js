@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41086"]={"code":"41086","region":"KY","city":"Sparta","latitude":38.7256,"longitude":-84.8813}}(window,'GeoPostal','US');

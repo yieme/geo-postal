@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3382"]={"code":"3382","region":"Misiones","city":"Puerto Eldorado","latitude":-26.40842,"longitude":-54.69463}}(window,'GeoPostal','AR');

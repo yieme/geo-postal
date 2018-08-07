@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 0UU"]={"code":"LN11 0UU","region":"England","city":"Little Grimsby","latitude":53.40392,"longitude":-0.00554}}(window,'GeoPostal','GB');

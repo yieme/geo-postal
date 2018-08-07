@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 6EQ"]={"code":"PL14 6EQ","region":"England","city":"Saint Cleer","latitude":50.48333,"longitude":-4.46667}}(window,'GeoPostal','GB');

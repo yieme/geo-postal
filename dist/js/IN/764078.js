@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["764078"]={"code":"764078","region":"Chhattisgarh","city":"Kotaparh","latitude":19.15,"longitude":82.35}}(window,'GeoPostal','IN');

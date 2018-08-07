@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23370"]={"code":"23370","region":"Andalucia","city":"Orcera","latitude":38.31742,"longitude":-2.66487}}(window,'GeoPostal','ES');

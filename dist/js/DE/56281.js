@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56281"]={"code":"56281","region":"Rheinland-Pfalz","city":"Karbach","latitude":50.15,"longitude":7.61667}}(window,'GeoPostal','DE');

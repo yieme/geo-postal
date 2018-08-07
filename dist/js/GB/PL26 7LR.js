@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 7LR"]={"code":"PL26 7LR","region":"England","city":"Saint Stephen","latitude":50.33333,"longitude":-4.9}}(window,'GeoPostal','GB');

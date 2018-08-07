@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7242"]={"code":"7242","region":"Gelderland","city":"Lochem","latitude":52.15917,"longitude":6.41111}}(window,'GeoPostal','NL');

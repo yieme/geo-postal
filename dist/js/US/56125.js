@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56125"]={"code":"56125","region":"MN","city":"Dovray","latitude":44.0533,"longitude":-95.5499}}(window,'GeoPostal','US');

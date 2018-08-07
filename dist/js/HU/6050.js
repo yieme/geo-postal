@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6050"]={"code":"6050","region":"Bacs-Kiskun","city":"Lajosmizse","latitude":47.02133,"longitude":19.56171}}(window,'GeoPostal','HU');

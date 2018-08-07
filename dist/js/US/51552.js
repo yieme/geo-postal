@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51552"]={"code":"51552","region":"IA","city":"Marne","latitude":41.4547,"longitude":-95.0973}}(window,'GeoPostal','US');

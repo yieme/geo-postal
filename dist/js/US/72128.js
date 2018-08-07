@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72128"]={"code":"72128","region":"AR","city":"Poyen","latitude":34.3023,"longitude":-92.6095}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39086"]={"code":"39086","region":"MS","city":"Hermanville","latitude":31.9564,"longitude":-90.8446}}(window,'GeoPostal','US');

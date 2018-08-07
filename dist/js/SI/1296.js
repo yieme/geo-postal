@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1296"]={"code":"1296","region":"Ivancna Gorica","city":"Vir pri Sticni","latitude":45.9525,"longitude":14.81778}}(window,'GeoPostal','SI');

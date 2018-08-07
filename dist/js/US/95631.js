@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95631"]={"code":"95631","region":"California","city":"Foresthill","latitude":39.02018,"longitude":-120.81799}}(window,'GeoPostal','US');

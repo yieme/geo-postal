@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30230"]={"code":"30230","region":"Occitanie","city":"Bouillargues","latitude":43.79733,"longitude":4.42853}}(window,'GeoPostal','FR');

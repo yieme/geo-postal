@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 4PR"]={"code":"IP14 4PR","region":"England","city":"Gipping","latitude":52.22722,"longitude":1.02881}}(window,'GeoPostal','GB');

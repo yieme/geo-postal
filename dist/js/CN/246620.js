@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246620"]={"code":"246620","region":"Anhui","city":"Tiantang","latitude":30.85,"longitude":116.35}}(window,'GeoPostal','CN');

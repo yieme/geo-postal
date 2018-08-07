@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49730"]={"code":"49730","region":"Michigan","city":"Elmira","latitude":44.950701,"longitude":-84.884498}}(window,'GeoPostal','US');

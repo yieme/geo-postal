@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 2B0"]={"code":"J0H 2B0","region":"Quebec","city":"Saint-Valerien-de-Milton","latitude":45.56677,"longitude":-72.71583}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 2TE"]={"code":"TF9 2TE","region":"England","city":"Hinstock","latitude":52.83711,"longitude":-2.45762}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["812305"]={"code":"812305","region":"Qinghai","city":"Shaliuhe","latitude":37.326,"longitude":100.13439}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127258"]={"code":"127258","region":"Buzau","city":"Glodeanu-Sarat","latitude":44.86667,"longitude":26.65}}(window,'GeoPostal','RO');

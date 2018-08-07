@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54608"]={"code":"54608","region":"Rheinland-Pfalz","city":"Bleialf","latitude":50.23333,"longitude":6.28333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4E 0A1"]={"code":"E4E 0A1","region":"New Brunswick","city":"Sussex","latitude":45.72266,"longitude":-65.50663}}(window,'GeoPostal','CA');

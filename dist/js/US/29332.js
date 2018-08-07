@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29332"]={"code":"29332","region":"SC","city":"Cross Hill","latitude":34.2693,"longitude":-81.9843}}(window,'GeoPostal','US');

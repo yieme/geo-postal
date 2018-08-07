@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24395"]={"code":"24395","region":"Skane lan","city":"Hoeoer","latitude":55.93444,"longitude":13.5385}}(window,'GeoPostal','SE');

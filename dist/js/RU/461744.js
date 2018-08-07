@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461744"]={"code":"461744","region":"Orenburgskaya oblast'","city":"Abdulino","latitude":53.7,"longitude":53.66667}}(window,'GeoPostal','RU');

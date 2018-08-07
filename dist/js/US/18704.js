@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18704"]={"code":"18704","region":"Pennsylvania","city":"Kingston","latitude":41.26458,"longitude":-75.88818}}(window,'GeoPostal','US');

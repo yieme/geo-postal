@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91702"]={"code":"91702","region":"California","city":"Azusa","latitude":34.13362,"longitude":-117.90756}}(window,'GeoPostal','US');

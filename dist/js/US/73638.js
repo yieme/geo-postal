@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73638"]={"code":"73638","region":"Oklahoma","city":"Crawford","latitude":35.850767,"longitude":-99.808229}}(window,'GeoPostal','US');

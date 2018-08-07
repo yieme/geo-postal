@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0G 1T0"]={"code":"K0G 1T0","region":"Ontario","city":"Hutchins Corners","latitude":44.9237,"longitude":-75.69935}}(window,'GeoPostal','CA');

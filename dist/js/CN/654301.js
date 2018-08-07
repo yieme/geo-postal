@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654301"]={"code":"654301","region":"Xinjiang","city":"Altay","latitude":47.86667,"longitude":88.11667}}(window,'GeoPostal','CN');

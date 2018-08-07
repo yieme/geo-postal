@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97721"]={"code":"97721","region":"OR","city":"Princeton","latitude":43.0198,"longitude":-119.0696}}(window,'GeoPostal','US');

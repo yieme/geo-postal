@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54760"]={"code":"54760","region":"Grand-Est","city":"Faulx","latitude":48.79396,"longitude":6.19448}}(window,'GeoPostal','FR');

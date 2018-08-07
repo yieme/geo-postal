@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12441"]={"code":"12441","region":"NY","city":"Highmount","latitude":42.1443,"longitude":-74.4899}}(window,'GeoPostal','US');

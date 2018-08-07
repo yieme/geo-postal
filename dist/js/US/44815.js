@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44815"]={"code":"44815","region":"OH","city":"Bettsville","latitude":41.2469,"longitude":-83.2398}}(window,'GeoPostal','US');

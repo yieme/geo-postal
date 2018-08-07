@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61970"]={"code":"61970","region":"Michoacan de Ocampo","city":"Huetamo de Nunez","latitude":18.58333,"longitude":-100.88333}}(window,'GeoPostal','MX');

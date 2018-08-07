@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5291"]={"code":"5291","region":"South Australia","city":"Mount Schank","latitude":-37.95,"longitude":140.73333}}(window,'GeoPostal','AU');

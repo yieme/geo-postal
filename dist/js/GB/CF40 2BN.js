@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF40 2BN"]={"code":"CF40 2BN","region":"Wales","city":"Clydach Vale","latitude":51.62665,"longitude":-3.48015}}(window,'GeoPostal','GB');

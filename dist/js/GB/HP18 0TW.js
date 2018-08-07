@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP18 0TW"]={"code":"HP18 0TW","region":"England","city":"Edgcott","latitude":51.89628,"longitude":-1.01714}}(window,'GeoPostal','GB');

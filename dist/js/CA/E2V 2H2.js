@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2V 2H2"]={"code":"E2V 2H2","region":"New Brunswick","city":"Oromocto","latitude":45.843983,"longitude":-66.506905}}(window,'GeoPostal','CA');

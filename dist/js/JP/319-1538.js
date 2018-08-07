@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["319-1538"]={"code":"319-1538","region":"Ibaraki","city":"Kitaibaraki","latitude":36.79917,"longitude":140.75444}}(window,'GeoPostal','JP');

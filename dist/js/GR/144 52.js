@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144 52"]={"code":"144 52","region":"Kriti","city":"Iraklion","latitude":38.06667,"longitude":23.76667}}(window,'GeoPostal','GR');

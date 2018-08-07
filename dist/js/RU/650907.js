@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["650907"]={"code":"650907","region":"Kemerovskaya oblast'","city":"Pioner","latitude":55.3166,"longitude":85.9508}}(window,'GeoPostal','RU');

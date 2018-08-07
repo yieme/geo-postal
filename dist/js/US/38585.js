@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38585"]={"code":"38585","region":"Tennessee","city":"Spencer","latitude":35.74729,"longitude":-85.46664}}(window,'GeoPostal','US');

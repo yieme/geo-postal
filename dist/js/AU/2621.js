@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2621"]={"code":"2621","region":"New South Wales","city":"Hoskinstown","latitude":-35.41667,"longitude":149.45}}(window,'GeoPostal','AU');

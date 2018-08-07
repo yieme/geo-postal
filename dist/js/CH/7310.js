@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7310"]={"code":"7310","region":"Sankt Gallen","city":"Bad Ragaz","latitude":47.00601,"longitude":9.50266}}(window,'GeoPostal','CH');

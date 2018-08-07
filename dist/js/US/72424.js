@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72424"]={"code":"72424","region":"AR","city":"Datto","latitude":36.3897,"longitude":-90.7231}}(window,'GeoPostal','US');

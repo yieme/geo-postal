@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6Z 0A1"]={"code":"J6Z 0A1","region":"Quebec","city":"Bois-des-Filion","latitude":45.66678,"longitude":-73.74918}}(window,'GeoPostal','CA');

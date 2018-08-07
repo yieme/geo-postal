@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14589"]={"code":"14589","region":"NY","city":"Williamson","latitude":43.2421,"longitude":-77.17}}(window,'GeoPostal','US');

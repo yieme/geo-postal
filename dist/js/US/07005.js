@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07005"]={"code":"07005","region":"New Jersey","city":"Boonton","latitude":40.91802,"longitude":-74.42586}}(window,'GeoPostal','US');

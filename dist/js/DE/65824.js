@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65824"]={"code":"65824","region":"Hessen","city":"Schwalbach","latitude":50.49672,"longitude":8.46943}}(window,'GeoPostal','DE');

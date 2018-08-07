@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24250"]={"code":"24250","region":"VA","city":"Fort Blackmore","latitude":36.7438,"longitude":-82.6102}}(window,'GeoPostal','US');

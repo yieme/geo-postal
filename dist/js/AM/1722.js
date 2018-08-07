@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1722"]={"code":"1722","region":"Lori","city":"Alaverdi","latitude":41.09766,"longitude":44.67316}}(window,'GeoPostal','AM');

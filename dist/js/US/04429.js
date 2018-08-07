@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04429"]={"code":"04429","region":"ME","city":"Holden","latitude":44.7208,"longitude":-68.6165}}(window,'GeoPostal','US');

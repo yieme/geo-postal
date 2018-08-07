@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 9AW"]={"code":"PE22 9AW","region":"England","city":"Wrangle","latitude":53.03935,"longitude":0.12989}}(window,'GeoPostal','GB');

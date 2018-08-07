@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33149"]={"code":"33149","region":"Florida","city":"Key Biscayne","latitude":25.691129,"longitude":-80.165303}}(window,'GeoPostal','US');

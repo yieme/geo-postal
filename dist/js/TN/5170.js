@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5170"]={"code":"5170","region":"Mahdia","city":"Chebba","latitude":35.23722,"longitude":11.115}}(window,'GeoPostal','TN');

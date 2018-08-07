@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17240"]={"code":"17240","region":"Catalunya","city":"Llagostera","latitude":41.82688,"longitude":2.89365}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56007"]={"code":"56007","region":"Minnesota","city":"Albert Lea","latitude":43.64801,"longitude":-93.36827}}(window,'GeoPostal','US');

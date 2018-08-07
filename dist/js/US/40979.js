@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40979"]={"code":"40979","region":"Kentucky","city":"Roark","latitude":37.029258,"longitude":-83.510987}}(window,'GeoPostal','US');

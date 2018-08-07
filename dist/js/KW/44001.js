@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44001"]={"code":"44001","region":"Mubarak al Kabir","city":"Sabah as Salim","latitude":29.25722,"longitude":48.05722}}(window,'GeoPostal','KW');

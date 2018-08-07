@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["551230"]={"code":"551230","region":"Sibiu","city":"Medias","latitude":46.16667,"longitude":24.35}}(window,'GeoPostal','RO');

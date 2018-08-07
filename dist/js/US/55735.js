@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55735"]={"code":"55735","region":"Minnesota","city":"Finlayson","latitude":46.20139,"longitude":-92.91889}}(window,'GeoPostal','US');

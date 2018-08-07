@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39400"]={"code":"39400","region":"Cantabria","city":"Los Corrales de Buelna","latitude":43.26358,"longitude":-4.07262}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85738"]={"code":"85738","region":"AZ","city":"Catalina","latitude":32.5056,"longitude":-110.9211}}(window,'GeoPostal','US');

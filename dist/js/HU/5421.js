@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5421"]={"code":"5421","region":"Jasz-Nagykun-Szolnok","city":"Turkeve","latitude":47.1,"longitude":20.75}}(window,'GeoPostal','HU');

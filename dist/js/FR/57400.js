@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57400"]={"code":"57400","region":"Grand-Est","city":"Sarrebourg","latitude":48.73333,"longitude":7.05}}(window,'GeoPostal','FR');

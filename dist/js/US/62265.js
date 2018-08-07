@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62265"]={"code":"62265","region":"IL","city":"New Baden","latitude":38.5315,"longitude":-89.6922}}(window,'GeoPostal','US');

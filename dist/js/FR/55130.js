@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55130"]={"code":"55130","region":"Grand-Est","city":"Treveray","latitude":48.6108,"longitude":5.3986}}(window,'GeoPostal','FR');

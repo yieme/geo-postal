@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45306"]={"code":"45306","region":"OH","city":"Botkins","latitude":40.4659,"longitude":-84.178}}(window,'GeoPostal','US');

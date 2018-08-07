@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10016"]={"code":"10016","region":"Piemonte","city":"Montalto Dora","latitude":45.49076,"longitude":7.86282}}(window,'GeoPostal','IT');

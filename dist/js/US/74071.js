@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74071"]={"code":"74071","region":"OK","city":"Slick","latitude":35.7861,"longitude":-96.2806}}(window,'GeoPostal','US');

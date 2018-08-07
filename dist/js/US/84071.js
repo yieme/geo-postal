@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84071"]={"code":"84071","region":"UT","city":"Stockton","latitude":40.4415,"longitude":-112.3559}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32180"]={"code":"32180","region":"FL","city":"Pierson","latitude":29.2226,"longitude":-81.4353}}(window,'GeoPostal','US');

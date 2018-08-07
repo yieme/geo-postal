@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27935"]={"code":"27935","region":"North Carolina","city":"Eure","latitude":36.4275,"longitude":-76.85333}}(window,'GeoPostal','US');

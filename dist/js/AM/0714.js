@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0714"]={"code":"0714","region":"Ararat","city":"Bartsrashen","latitude":40.08533,"longitude":44.57958}}(window,'GeoPostal','AM');

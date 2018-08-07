@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42337"]={"code":"42337","region":"KY","city":"Drakesboro","latitude":37.2136,"longitude":-87.048}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62433"]={"code":"62433","region":"Illinois","city":"Hutsonville","latitude":39.10917,"longitude":-87.65917}}(window,'GeoPostal','US');

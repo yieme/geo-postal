@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46330"]={"code":"46330","region":"Occitanie","city":"Blars","latitude":44.5669,"longitude":1.7206}}(window,'GeoPostal','FR');

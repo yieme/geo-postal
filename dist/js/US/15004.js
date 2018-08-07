@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15004"]={"code":"15004","region":"PA","city":"Atlasburg","latitude":40.3413,"longitude":-80.3822}}(window,'GeoPostal','US');

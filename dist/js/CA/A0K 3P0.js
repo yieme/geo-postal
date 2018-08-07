@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 3P0"]={"code":"A0K 3P0","region":"Newfoundland and Labrador","city":"Mary's Harbour","latitude":52.31678,"longitude":-55.8313}}(window,'GeoPostal','CA');

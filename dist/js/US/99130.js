@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99130"]={"code":"99130","region":"WA","city":"Garfield","latitude":46.9946,"longitude":-117.1523}}(window,'GeoPostal','US');

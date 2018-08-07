@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69045"]={"code":"69045","region":"Nebraska","city":"Wauneta","latitude":40.41694,"longitude":-101.37194}}(window,'GeoPostal','US');

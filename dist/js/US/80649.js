@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80649"]={"code":"80649","region":"Colorado","city":"Orchard","latitude":40.371559,"longitude":-104.098072}}(window,'GeoPostal','US');

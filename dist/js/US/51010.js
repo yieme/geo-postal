@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51010"]={"code":"51010","region":"IA","city":"Castana","latitude":42.0744,"longitude":-95.9086}}(window,'GeoPostal','US');

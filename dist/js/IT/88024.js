@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88024"]={"code":"88024","region":"Calabria","city":"Girifalco","latitude":38.82428,"longitude":16.4241}}(window,'GeoPostal','IT');

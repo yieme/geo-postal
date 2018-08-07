@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512005"]={"code":"512005","region":"Guangdong","city":"Shaoguan","latitude":24.8,"longitude":113.58333}}(window,'GeoPostal','CN');

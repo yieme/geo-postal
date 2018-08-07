@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 2RF"]={"code":"SA13 2RF","region":"Wales","city":"Bryn","latitude":51.61639,"longitude":-3.71167}}(window,'GeoPostal','GB');

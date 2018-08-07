@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 2L0"]={"code":"N0P 2L0","region":"Ontario","city":"Tilbury","latitude":42.26679,"longitude":-82.43311}}(window,'GeoPostal','CA');

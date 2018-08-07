@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94066"]={"code":"94066","region":"California","city":"San Bruno","latitude":37.63049,"longitude":-122.41108}}(window,'GeoPostal','US');

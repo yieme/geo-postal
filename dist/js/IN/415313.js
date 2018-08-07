@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415313"]={"code":"415313","region":"Maharashtra","city":"Mhasvad","latitude":17.63333,"longitude":74.78333}}(window,'GeoPostal','IN');

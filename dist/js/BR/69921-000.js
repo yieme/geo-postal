@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69921-000"]={"code":"69921-000","region":"Acre","city":"Rio Branco","latitude":-9.97472,"longitude":-67.81}}(window,'GeoPostal','BR');

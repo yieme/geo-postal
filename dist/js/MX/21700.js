@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21700"]={"code":"21700","region":"Baja California","city":"Delta","latitude":32.355,"longitude":-115.19306}}(window,'GeoPostal','MX');

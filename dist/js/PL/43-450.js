@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-450"]={"code":"43-450","region":"Slaskie","city":"Ustron","latitude":49.72153,"longitude":18.80198}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-230"]={"code":"39-230","region":"Podkarpackie","city":"Brzostek","latitude":49.87954,"longitude":21.41102}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83700"]={"code":"83700","region":"Bayern","city":"Oberhof","latitude":47.67886,"longitude":11.7615}}(window,'GeoPostal','DE');

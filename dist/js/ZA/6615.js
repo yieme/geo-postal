@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6615"]={"code":"6615","region":"Western Cape","city":"George","latitude":-33.963,"longitude":22.46173}}(window,'GeoPostal','ZA');

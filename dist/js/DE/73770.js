@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73770"]={"code":"73770","region":"Bayern","city":"Denkendorf","latitude":48.93333,"longitude":11.45}}(window,'GeoPostal','DE');

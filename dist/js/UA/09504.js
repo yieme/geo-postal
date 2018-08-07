@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09504"]={"code":"09504","region":"Kyivska oblast","city":"Tarashcha","latitude":49.55832,"longitude":30.49259}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV63 7WE"]={"code":"IV63 7WE","region":"Scotland","city":"Invermoriston","latitude":57.21436,"longitude":-4.61758}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4116"]={"code":"4116","region":"Cavite","city":"Carmona","latitude":14.3132,"longitude":121.0576}}(window,'GeoPostal','PH');

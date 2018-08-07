@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47557"]={"code":"47557","region":"IN","city":"Monroe City","latitude":38.6001,"longitude":-87.3641}}(window,'GeoPostal','US');

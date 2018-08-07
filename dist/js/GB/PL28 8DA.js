@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL28 8DA"]={"code":"PL28 8DA","region":"England","city":"Padstow","latitude":50.53885,"longitude":-4.93664}}(window,'GeoPostal','GB');

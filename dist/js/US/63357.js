@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63357"]={"code":"63357","region":"MO","city":"Marthasville","latitude":38.6512,"longitude":-91.1516}}(window,'GeoPostal','US');

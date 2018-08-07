@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68071"]={"code":"68071","region":"Varmlands lan","city":"Bjorneborg","latitude":59.25,"longitude":14.25}}(window,'GeoPostal','SE');

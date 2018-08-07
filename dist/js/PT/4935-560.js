@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4935-560"]={"code":"4935-560","region":"Viana do Castelo","city":"Darque","latitude":41.68333,"longitude":-8.76667}}(window,'GeoPostal','PT');

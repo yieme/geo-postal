@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82217"]={"code":"82217","region":"WY","city":"Hawk Springs","latitude":41.7861,"longitude":-104.2647}}(window,'GeoPostal','US');

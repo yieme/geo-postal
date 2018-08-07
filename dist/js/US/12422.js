@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12422"]={"code":"12422","region":"New York","city":"Durham","latitude":42.40782,"longitude":-74.18598}}(window,'GeoPostal','US');

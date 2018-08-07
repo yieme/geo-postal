@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124010"]={"code":"124010","region":"Liaoning","city":"Panjin","latitude":41.116667,"longitude":122.05}}(window,'GeoPostal','CN');

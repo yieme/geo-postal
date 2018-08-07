@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12770"]={"code":"12770","region":"NY","city":"Pond Eddy","latitude":41.4511,"longitude":-74.841}}(window,'GeoPostal','US');

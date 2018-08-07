@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85530"]={"code":"85530","region":"Arizona","city":"Bylas","latitude":33.13428,"longitude":-110.12004}}(window,'GeoPostal','US');

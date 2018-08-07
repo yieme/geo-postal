@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9LH"]={"code":"DD10 9LH","region":"Scotland","city":"Bridge of Dun","latitude":56.71886,"longitude":-2.54992}}(window,'GeoPostal','GB');

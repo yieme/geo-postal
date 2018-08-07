@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03226"]={"code":"03226","region":"Brandenburg","city":"Burg Kauper","latitude":51.86173,"longitude":14.09664}}(window,'GeoPostal','DE');

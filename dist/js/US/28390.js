@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28390"]={"code":"28390","region":"North Carolina","city":"Spring Lake","latitude":35.16794,"longitude":-78.97281}}(window,'GeoPostal','US');

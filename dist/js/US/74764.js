@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74764"]={"code":"74764","region":"Oklahoma","city":"Valliant","latitude":34.00333,"longitude":-95.09139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2804"]={"code":"2804","region":"New South Wales","city":"Canowindra","latitude":-33.56247,"longitude":148.66434}}(window,'GeoPostal','AU');

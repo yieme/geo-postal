@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16113"]={"code":"16113","region":"PA","city":"Clark","latitude":41.2866,"longitude":-80.4237}}(window,'GeoPostal','US');

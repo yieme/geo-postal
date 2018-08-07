@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626190"]={"code":"626190","region":"Tyumenskaya oblast'","city":"Turtas","latitude":58.94167,"longitude":69.1325}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54076"]={"code":"54076","region":"Grand-Est","city":"Pont-a-Mousson","latitude":48.90786,"longitude":6.0589}}(window,'GeoPostal','FR');

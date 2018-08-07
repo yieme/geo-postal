@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-230"]={"code":"62-230","region":"Wielkopolskie","city":"Witkowo","latitude":52.43964,"longitude":17.77264}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39631"]={"code":"39631","region":"Mississippi","city":"Centreville","latitude":31.08962,"longitude":-91.06844}}(window,'GeoPostal','US');

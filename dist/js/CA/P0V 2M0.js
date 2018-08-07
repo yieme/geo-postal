@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0V 2M0"]={"code":"P0V 2M0","region":"Ontario","city":"Red Lake","latitude":51.01676,"longitude":-93.83374}}(window,'GeoPostal','CA');

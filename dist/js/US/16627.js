@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16627"]={"code":"16627","region":"Pennsylvania","city":"Coalport","latitude":40.751299,"longitude":-78.534542}}(window,'GeoPostal','US');

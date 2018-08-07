@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15127"]={"code":"15127","region":"PA","city":"Ingomar","latitude":40.5809,"longitude":-80.0609}}(window,'GeoPostal','US');

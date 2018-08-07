@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4530"]={"code":"4530","region":"Paraguari","city":"Sapucai","latitude":-25.66667,"longitude":-56.91667}}(window,'GeoPostal','PY');

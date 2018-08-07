@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22212"]={"code":"22212","region":"Sibensko-kninska zupanija","city":"Tribunj","latitude":43.75547,"longitude":15.74444}}(window,'GeoPostal','HR');

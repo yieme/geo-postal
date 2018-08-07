@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75101"]={"code":"75101","region":"TX","city":"Bardwell","latitude":32.2731,"longitude":-96.703}}(window,'GeoPostal','US');

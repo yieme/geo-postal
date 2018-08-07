@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27825"]={"code":"27825","region":"NC","city":"Everetts","latitude":35.8349,"longitude":-77.1736}}(window,'GeoPostal','US');

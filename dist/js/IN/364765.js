@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364765"]={"code":"364765","region":"Gujarat","city":"Gadhada","latitude":21.96667,"longitude":71.56667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15535"]={"code":"15535","region":"Pennsylvania","city":"Clearville","latitude":39.831777,"longitude":-78.451209}}(window,'GeoPostal','US');

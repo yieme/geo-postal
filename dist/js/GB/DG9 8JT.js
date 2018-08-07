@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 8JT"]={"code":"DG9 8JT","region":"Scotland","city":"Portpatrick","latitude":54.84143,"longitude":-5.11705}}(window,'GeoPostal','GB');

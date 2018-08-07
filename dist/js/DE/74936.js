@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74936"]={"code":"74936","region":"Baden-Wurttemberg","city":"Zimmerhof","latitude":49.25103,"longitude":9.11926}}(window,'GeoPostal','DE');

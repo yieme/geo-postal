@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6239"]={"code":"6239","region":"More og Romsdal","city":"Sykkylven","latitude":62.39594,"longitude":6.5875}}(window,'GeoPostal','NO');

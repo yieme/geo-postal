@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92288"]={"code":"92288","region":"Ile-de-France","city":"Suresnes","latitude":48.87143,"longitude":2.22929}}(window,'GeoPostal','FR');

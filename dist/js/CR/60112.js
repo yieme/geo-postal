@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60112"]={"code":"60112","region":"Puntarenas","city":"Chacarita","latitude":9.98289,"longitude":-84.77232}}(window,'GeoPostal','CR');

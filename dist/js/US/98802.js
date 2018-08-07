@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98802"]={"code":"98802","region":"Washington","city":"East Wenatchee","latitude":47.43852,"longitude":-120.23496}}(window,'GeoPostal','US');

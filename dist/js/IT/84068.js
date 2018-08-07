@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84068"]={"code":"84068","region":"Campania","city":"Pollica","latitude":40.1907,"longitude":15.05716}}(window,'GeoPostal','IT');

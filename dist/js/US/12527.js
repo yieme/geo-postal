@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12527"]={"code":"12527","region":"NY","city":"Glenham","latitude":41.5202,"longitude":-73.9333}}(window,'GeoPostal','US');

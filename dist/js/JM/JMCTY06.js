@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCTY06"]={"code":"JMCTY06","region":"Trelawny","city":"Duncans","latitude":18.468,"longitude":-77.53633}}(window,'GeoPostal','JM');

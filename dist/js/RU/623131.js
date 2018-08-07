@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623131"]={"code":"623131","region":"Sverdlovskaya oblast'","city":"Novoutkinsk","latitude":56.99295,"longitude":59.55714}}(window,'GeoPostal','RU');

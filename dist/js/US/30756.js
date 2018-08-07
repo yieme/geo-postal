@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30756"]={"code":"30756","region":"GA","city":"Varnell","latitude":34.9012,"longitude":-84.9738}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517332"]={"code":"517332","region":"Guangdong","city":"Beiling","latitude":24.58683,"longitude":115.33885}}(window,'GeoPostal','CN');

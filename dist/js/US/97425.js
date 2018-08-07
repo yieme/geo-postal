@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97425"]={"code":"97425","region":"OR","city":"Cascade Summit","latitude":43.47,"longitude":-121.92}}(window,'GeoPostal','US');

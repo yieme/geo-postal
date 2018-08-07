@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64657"]={"code":"64657","region":"MO","city":"Mc Fall","latitude":40.1051,"longitude":-94.3003}}(window,'GeoPostal','US');

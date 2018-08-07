@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4331"]={"code":"4331","region":"Quezon","city":"Atimonan","latitude":13.99583,"longitude":121.905}}(window,'GeoPostal','PH');

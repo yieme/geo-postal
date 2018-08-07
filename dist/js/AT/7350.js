@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7350"]={"code":"7350","region":"Burgenland","city":"Oberpullendorf","latitude":47.50352,"longitude":16.50447}}(window,'GeoPostal','AT');

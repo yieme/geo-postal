@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6596"]={"code":"6596","region":"Hainaut","city":"Momignies","latitude":50.0271,"longitude":4.16519}}(window,'GeoPostal','BE');

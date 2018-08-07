@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48756"]={"code":"48756","region":"Michigan","city":"Skidway Lake","latitude":44.18335,"longitude":-84.03527}}(window,'GeoPostal','US');

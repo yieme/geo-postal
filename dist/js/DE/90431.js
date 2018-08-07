@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90431"]={"code":"90431","region":"Bayern","city":"Gaismannshof","latitude":49.45,"longitude":11.01667}}(window,'GeoPostal','DE');

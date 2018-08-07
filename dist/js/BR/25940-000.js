@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25940-000"]={"code":"25940-000","region":"Rio de Janeiro","city":"Guapimirim","latitude":-22.53722,"longitude":-42.98194}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3822"]={"code":"3822","region":"Bern","city":"Lauterbrunnen","latitude":46.59568,"longitude":7.90765}}(window,'GeoPostal','CH');

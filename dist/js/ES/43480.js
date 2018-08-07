@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43480"]={"code":"43480","region":"Catalunya","city":"Vila-seca","latitude":41.11667,"longitude":1.15}}(window,'GeoPostal','ES');

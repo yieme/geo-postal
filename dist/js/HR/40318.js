@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40318"]={"code":"40318","region":"Medimurska zupanija","city":"Domasinec","latitude":46.4325,"longitude":16.6}}(window,'GeoPostal','HR');

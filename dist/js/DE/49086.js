@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49086"]={"code":"49086","region":"Niedersachsen","city":"Gretesch","latitude":52.28355,"longitude":8.1174}}(window,'GeoPostal','DE');

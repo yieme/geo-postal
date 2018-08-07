@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18433"]={"code":"18433","region":"Pennsylvania","city":"Mayfield","latitude":41.536649,"longitude":-75.539271}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137245"]={"code":"137245","region":"Giurgiu","city":"Gura Sutii","latitude":44.75,"longitude":25.51667}}(window,'GeoPostal','RO');

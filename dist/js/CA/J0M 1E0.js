@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0M 1E0"]={"code":"J0M 1E0","region":"Quebec","city":"Chisasibi","latitude":53.773609,"longitude":-78.893467}}(window,'GeoPostal','CA');

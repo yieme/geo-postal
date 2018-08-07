@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55319"]={"code":"55319","region":"Minnesota","city":"Clear Lake","latitude":45.44528,"longitude":-93.99889}}(window,'GeoPostal','US');

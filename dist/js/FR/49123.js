@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49123"]={"code":"49123","region":"Pays-de-la-Loire","city":"Champtoce-sur-Loire","latitude":47.41238,"longitude":-0.86452}}(window,'GeoPostal','FR');

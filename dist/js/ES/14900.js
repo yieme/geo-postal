@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14900"]={"code":"14900","region":"Andalucia","city":"Lucena","latitude":37.40881,"longitude":-4.48522}}(window,'GeoPostal','ES');

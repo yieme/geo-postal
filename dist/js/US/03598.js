@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03598"]={"code":"03598","region":"New Hampshire","city":"Whitefield","latitude":44.37312,"longitude":-71.61008}}(window,'GeoPostal','US');

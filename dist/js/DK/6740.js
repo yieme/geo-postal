@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6740"]={"code":"6740","region":"Syddanmark","city":"Bramming","latitude":55.46946,"longitude":8.70007}}(window,'GeoPostal','DK');

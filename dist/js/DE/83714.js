@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83714"]={"code":"83714","region":"Bayern","city":"Parsberg","latitude":47.78444,"longitude":11.8645}}(window,'GeoPostal','DE');

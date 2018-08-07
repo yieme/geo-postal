@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7320-209"]={"code":"7320-209","region":"Portalegre","city":"Ponte de Sor","latitude":39.24964,"longitude":-8.01009}}(window,'GeoPostal','PT');

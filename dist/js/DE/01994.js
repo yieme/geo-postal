@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01994"]={"code":"01994","region":"Brandenburg","city":"Herrnmuhle","latitude":51.55412,"longitude":13.88782}}(window,'GeoPostal','DE');

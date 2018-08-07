@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73140"]={"code":"73140","region":"Auvergne-Rhone-Alpes","city":"Val Thorens","latitude":45.29777,"longitude":6.58377}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50606"]={"code":"50606","region":"Iowa","city":"Arlington","latitude":42.769,"longitude":-91.6943}}(window,'GeoPostal','US');

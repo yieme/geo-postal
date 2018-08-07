@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14490"]={"code":"14490","region":"Andalucia","city":"Villaralto","latitude":38.45,"longitude":-4.98333}}(window,'GeoPostal','ES');

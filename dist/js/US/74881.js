@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74881"]={"code":"74881","region":"Oklahoma","city":"Wellston","latitude":35.691455,"longitude":-97.064258}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66791"]={"code":"66791","region":"Varmlands lan","city":"Forshaga","latitude":59.52541,"longitude":13.48127}}(window,'GeoPostal','SE');

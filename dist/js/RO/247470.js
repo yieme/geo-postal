@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247470"]={"code":"247470","region":"Valcea","city":"Pausesti-Maglasi","latitude":45.13333,"longitude":24.25}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 7QJ"]={"code":"DD9 7QJ","region":"Scotland","city":"Inchbare","latitude":56.78164,"longitude":-2.6456}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15625"]={"code":"15625","region":"PA","city":"Darragh","latitude":40.2665,"longitude":-79.6787}}(window,'GeoPostal','US');

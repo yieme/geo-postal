@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56201"]={"code":"56201","region":"Punjab","city":"Burewala","latitude":30.16667,"longitude":72.65}}(window,'GeoPostal','PK');

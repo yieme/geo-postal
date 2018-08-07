@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63740"]={"code":"63740","region":"Auvergne-Rhone-Alpes","city":"Gelles","latitude":45.76937,"longitude":2.76347}}(window,'GeoPostal','FR');

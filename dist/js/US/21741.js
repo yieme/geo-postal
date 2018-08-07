@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21741"]={"code":"21741","region":"Maryland","city":"Hagerstown","latitude":39.64368,"longitude":-77.72052}}(window,'GeoPostal','US');

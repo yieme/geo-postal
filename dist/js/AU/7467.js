@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7467"]={"code":"7467","region":"Tasmania","city":"Queenstown","latitude":-42.0805,"longitude":145.55646}}(window,'GeoPostal','AU');

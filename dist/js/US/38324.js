@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38324"]={"code":"38324","region":"Tennessee","city":"Clarksburg","latitude":35.86258,"longitude":-88.37846}}(window,'GeoPostal','US');

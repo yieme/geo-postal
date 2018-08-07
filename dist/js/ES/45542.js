@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45542"]={"code":"45542","region":"Castilla-La Mancha","city":"El Casar de Escalona","latitude":40.0464,"longitude":-4.52507}}(window,'GeoPostal','ES');

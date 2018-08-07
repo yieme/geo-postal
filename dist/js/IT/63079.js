@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63079"]={"code":"63079","region":"Marche","city":"Colli del Tronto","latitude":42.87675,"longitude":13.74939}}(window,'GeoPostal','IT');

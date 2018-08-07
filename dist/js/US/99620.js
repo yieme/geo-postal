@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99620"]={"code":"99620","region":"Alaska","city":"Kotlik","latitude":63.098172,"longitude":-164.036288}}(window,'GeoPostal','US');

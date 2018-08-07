@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V5N 2C7"]={"code":"V5N 2C7","region":"British Columbia","city":"Vancouver","latitude":49.257902,"longitude":-123.075645}}(window,'GeoPostal','CA');

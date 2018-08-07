@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27862"]={"code":"27862","region":"North Carolina","city":"Pendleton","latitude":36.49167,"longitude":-77.19078}}(window,'GeoPostal','US');

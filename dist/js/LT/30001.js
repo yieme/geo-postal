@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30001"]={"code":"30001","region":"Utenos apskritis","city":"Ignalina","latitude":55.35,"longitude":26.16667}}(window,'GeoPostal','LT');

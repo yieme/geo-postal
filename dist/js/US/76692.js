@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76692"]={"code":"76692","region":"TX","city":"Whitney","latitude":31.9713,"longitude":-97.3463}}(window,'GeoPostal','US');

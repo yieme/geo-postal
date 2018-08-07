@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28440"]={"code":"28440","region":"Madrid, Comunidad de","city":"Guadarrama","latitude":40.6727,"longitude":-4.08949}}(window,'GeoPostal','ES');

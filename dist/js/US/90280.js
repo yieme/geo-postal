@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90280"]={"code":"90280","region":"California","city":"South Gate","latitude":33.95474,"longitude":-118.21202}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74140"]={"code":"74140","region":"Auvergne-Rhone-Alpes","city":"Saint-Cergues","latitude":46.23349,"longitude":6.31954}}(window,'GeoPostal','FR');

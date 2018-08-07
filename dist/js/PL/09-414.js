@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-414"]={"code":"09-414","region":"Mazowieckie","city":"Brudzen Duzy","latitude":52.66884,"longitude":19.50399}}(window,'GeoPostal','PL');

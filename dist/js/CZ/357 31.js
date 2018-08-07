@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 31"]={"code":"357 31","region":"Karlovarsky kraj","city":"Horni Slavkov","latitude":50.13863,"longitude":12.80758}}(window,'GeoPostal','CZ');

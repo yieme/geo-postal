@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3C 7L3"]={"code":"L3C 7L3","region":"Ontario","city":"Welland","latitude":43.012922,"longitude":-79.267942}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM77 8DH"]={"code":"CM77 8DH","region":"England","city":"Rayne","latitude":51.86667,"longitude":0.58333}}(window,'GeoPostal','GB');

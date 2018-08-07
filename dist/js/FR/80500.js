@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80500"]={"code":"80500","region":"Hauts-de-France","city":"Gratibus","latitude":49.6878,"longitude":2.5406}}(window,'GeoPostal','FR');

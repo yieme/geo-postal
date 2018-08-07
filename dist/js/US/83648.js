@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83648"]={"code":"83648","region":"Idaho","city":"Mountain Home Air Force Base","latitude":43.04963,"longitude":-115.86561}}(window,'GeoPostal','US');

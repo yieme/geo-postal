@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13621"]={"code":"13621","region":"New York","city":"Chase Mills","latitude":44.861654,"longitude":-75.072297}}(window,'GeoPostal','US');

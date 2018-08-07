@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04648"]={"code":"04648","region":"Maine","city":"Jonesboro","latitude":44.66653,"longitude":-67.588721}}(window,'GeoPostal','US');

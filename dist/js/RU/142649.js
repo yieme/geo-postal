@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142649"]={"code":"142649","region":"Moskovskaya oblast'","city":"Imeni Tsyurupy","latitude":55.49567,"longitude":38.65064}}(window,'GeoPostal','RU');

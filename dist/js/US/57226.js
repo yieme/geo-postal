@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57226"]={"code":"57226","region":"South Dakota","city":"Clear Lake","latitude":44.759498,"longitude":-96.684631}}(window,'GeoPostal','US');

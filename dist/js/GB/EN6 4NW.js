@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN6 4NW"]={"code":"EN6 4NW","region":"England","city":"Northaw","latitude":51.70344,"longitude":-0.14795}}(window,'GeoPostal','GB');

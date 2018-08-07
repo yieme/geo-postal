@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79326"]={"code":"79326","region":"TX","city":"Fieldton","latitude":34.053,"longitude":-102.206}}(window,'GeoPostal','US');

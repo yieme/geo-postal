@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28326"]={"code":"28326","region":"NC","city":"Cameron","latitude":35.3106,"longitude":-79.3472}}(window,'GeoPostal','US');

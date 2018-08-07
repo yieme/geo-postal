@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31816"]={"code":"31816","region":"GA","city":"Manchester","latitude":32.8721,"longitude":-84.6312}}(window,'GeoPostal','US');

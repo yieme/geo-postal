@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67361"]={"code":"67361","region":"Kansas","city":"Sedan","latitude":37.12672,"longitude":-96.18694}}(window,'GeoPostal','US');

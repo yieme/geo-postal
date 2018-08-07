@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16024"]={"code":"16024","region":"PA","city":"Callery","latitude":40.7406,"longitude":-80.0364}}(window,'GeoPostal','US');

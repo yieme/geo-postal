@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62323"]={"code":"62323","region":"IL","city":"Chambersburg","latitude":39.8071,"longitude":-90.663}}(window,'GeoPostal','US');

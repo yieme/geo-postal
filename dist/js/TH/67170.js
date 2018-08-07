@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67170"]={"code":"67170","region":"Phetchabun","city":"Si Thep","latitude":15.45214,"longitude":101.06667}}(window,'GeoPostal','TH');

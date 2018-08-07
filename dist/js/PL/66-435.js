@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-435"]={"code":"66-435","region":"Lubuskie","city":"Krzeszyce","latitude":52.58329,"longitude":15.00707}}(window,'GeoPostal','PL');

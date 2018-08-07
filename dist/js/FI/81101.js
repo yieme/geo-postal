@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81101"]={"code":"81101","region":"Pohjois-Karjala","city":"Kontiolahti","latitude":62.76023,"longitude":29.84711}}(window,'GeoPostal','FI');

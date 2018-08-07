@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600"]={"code":"600","region":"Chiayi","city":"Chiayi","latitude":23.47917,"longitude":120.44889}}(window,'GeoPostal','TW');

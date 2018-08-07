@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96120"]={"code":"96120","region":"CA","city":"Markleeville","latitude":38.7713,"longitude":-119.8327}}(window,'GeoPostal','US');

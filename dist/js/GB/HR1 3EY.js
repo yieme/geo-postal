@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR1 3EY"]={"code":"HR1 3EY","region":"England","city":"Bodenham","latitude":52.15,"longitude":-2.68333}}(window,'GeoPostal','GB');

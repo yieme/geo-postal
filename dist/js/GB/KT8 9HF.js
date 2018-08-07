@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT8 9HF"]={"code":"KT8 9HF","region":"England","city":"Cavendish","latitude":52.08721,"longitude":0.63352}}(window,'GeoPostal','GB');

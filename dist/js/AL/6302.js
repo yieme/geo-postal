@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6302"]={"code":"6302","region":"Gjirokaster","city":"Memaliaj","latitude":40.35167,"longitude":19.98028}}(window,'GeoPostal','AL');

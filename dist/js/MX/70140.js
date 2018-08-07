@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70140"]={"code":"70140","region":"Oaxaca","city":"San Pedro Tapanatepec","latitude":16.35,"longitude":-94.2}}(window,'GeoPostal','MX');

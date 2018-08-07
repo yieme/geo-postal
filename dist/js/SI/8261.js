@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8261"]={"code":"8261","region":"Jesenice","city":"Jesenice","latitude":46.43056,"longitude":14.06694}}(window,'GeoPostal','SI');

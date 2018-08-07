@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 2Z0"]={"code":"G0X 2Z0","region":"Quebec","city":"Saint-Pierre-les-Becquets","latitude":46.50005,"longitude":-72.1991}}(window,'GeoPostal','CA');

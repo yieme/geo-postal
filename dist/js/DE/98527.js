@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98527"]={"code":"98527","region":"Thuringen","city":"Suhl","latitude":50.60911,"longitude":10.69401}}(window,'GeoPostal','DE');

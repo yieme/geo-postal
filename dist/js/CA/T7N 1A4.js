@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7N 1A4"]={"code":"T7N 1A4","region":"Alberta","city":"Barrhead","latitude":54.121645,"longitude":-114.40289}}(window,'GeoPostal','CA');

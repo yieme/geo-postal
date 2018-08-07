@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09540"]={"code":"09540","region":"Castilla y Leon","city":"Trespaderne","latitude":42.80221,"longitude":-3.38989}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435505"]={"code":"435505","region":"Hubei","city":"Xinkai","latitude":29.81246,"longitude":115.81046}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16146"]={"code":"16146","region":"Pennsylvania","city":"Sharon","latitude":41.232618,"longitude":-80.493759}}(window,'GeoPostal','US');

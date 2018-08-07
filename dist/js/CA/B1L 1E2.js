@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1L 1E2"]={"code":"B1L 1E2","region":"Nova Scotia","city":"Woodbine","latitude":46.00014,"longitude":-60.29846}}(window,'GeoPostal','CA');

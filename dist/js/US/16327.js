@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16327"]={"code":"16327","region":"Pennsylvania","city":"Guys Mills","latitude":41.63083,"longitude":-79.97639}}(window,'GeoPostal','US');

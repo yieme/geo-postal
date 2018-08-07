@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98821"]={"code":"98821","region":"WA","city":"Dryden","latitude":47.5412,"longitude":-120.5609}}(window,'GeoPostal','US');

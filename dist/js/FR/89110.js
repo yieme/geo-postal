@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89110"]={"code":"89110","region":"Bourgogne-Franche-Comte","city":"Aillant-sur-Tholon","latitude":47.87426,"longitude":3.35049}}(window,'GeoPostal','FR');

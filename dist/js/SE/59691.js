@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59691"]={"code":"59691","region":"Stockholms lan","city":"Skanninge","latitude":59.93333,"longitude":18.48333}}(window,'GeoPostal','SE');

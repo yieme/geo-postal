@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2HW"]={"code":"PE32 2HW","region":"England","city":"Great Massingham","latitude":52.77541,"longitude":0.66368}}(window,'GeoPostal','GB');

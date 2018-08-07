@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9700"]={"code":"9700","region":"Oost-Vlaanderen","city":"Oudenaarde","latitude":50.85168,"longitude":3.60891}}(window,'GeoPostal','BE');

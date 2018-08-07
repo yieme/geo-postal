@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15060"]={"code":"15060","region":"Piemonte","city":"Borghetto di Borbera","latitude":44.72945,"longitude":8.94346}}(window,'GeoPostal','IT');

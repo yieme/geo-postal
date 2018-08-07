@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC3A 3AX"]={"code":"EC3A 3AX","region":"England","city":"Eastgate","latitude":54.74504,"longitude":-2.07659}}(window,'GeoPostal','GB');

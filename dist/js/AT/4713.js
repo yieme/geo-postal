@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4713"]={"code":"4713","region":"Oberosterreich","city":"Grieskirchen","latitude":48.23333,"longitude":13.83333}}(window,'GeoPostal','AT');

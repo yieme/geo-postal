@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82386"]={"code":"82386","region":"Bayern","city":"Huglfing","latitude":47.76667,"longitude":11.16667}}(window,'GeoPostal','DE');

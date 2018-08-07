@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3206"]={"code":"3206","region":"Queensland","city":"Middle Park","latitude":-27.55596,"longitude":152.92223}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65663"]={"code":"65663","region":"MO","city":"Half Way","latitude":37.6018,"longitude":-93.242}}(window,'GeoPostal','US');

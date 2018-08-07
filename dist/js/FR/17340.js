@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17340"]={"code":"17340","region":"Nouvelle-Aquitaine","city":"Yves","latitude":46.01922,"longitude":-1.04833}}(window,'GeoPostal','FR');

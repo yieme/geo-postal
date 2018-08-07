@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83654"]={"code":"83654","region":"Idaho","city":"New Meadows","latitude":44.97028,"longitude":-116.28528}}(window,'GeoPostal','US');

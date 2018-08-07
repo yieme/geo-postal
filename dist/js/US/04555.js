@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04555"]={"code":"04555","region":"Maine","city":"Nobleboro","latitude":44.105935,"longitude":-69.476738}}(window,'GeoPostal','US');

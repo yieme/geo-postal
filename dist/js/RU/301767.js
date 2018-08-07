@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301767"]={"code":"301767","region":"Tul'skaya oblast'","city":"Donskoy","latitude":53.97106,"longitude":38.33627}}(window,'GeoPostal','RU');

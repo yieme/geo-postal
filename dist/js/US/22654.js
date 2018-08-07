@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22654"]={"code":"22654","region":"VA","city":"Star Tannery","latitude":39.0908,"longitude":-78.4343}}(window,'GeoPostal','US');

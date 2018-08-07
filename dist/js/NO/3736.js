@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3736"]={"code":"3736","region":"Telemark","city":"Skien","latitude":59.20962,"longitude":9.60897}}(window,'GeoPostal','NO');

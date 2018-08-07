@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44048"]={"code":"44048","region":"OH","city":"Kingsville","latitude":41.8723,"longitude":-80.6601}}(window,'GeoPostal','US');

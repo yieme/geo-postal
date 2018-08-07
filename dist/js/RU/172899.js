@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172899"]={"code":"172899","region":"Tverskaya oblast'","city":"Toropets","latitude":56.49779,"longitude":31.63528}}(window,'GeoPostal','RU');

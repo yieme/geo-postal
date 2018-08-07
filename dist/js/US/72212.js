@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72212"]={"code":"72212","region":"Arkansas","city":"Little Rock","latitude":34.788014,"longitude":-92.420533}}(window,'GeoPostal','US');

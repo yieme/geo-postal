@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05732"]={"code":"05732","region":"VT","city":"Bomoseen","latitude":43.6437,"longitude":-73.2094}}(window,'GeoPostal','US');

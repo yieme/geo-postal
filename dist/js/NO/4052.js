@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4052"]={"code":"4052","region":"Rogaland","city":"Sola","latitude":58.88854,"longitude":5.65285}}(window,'GeoPostal','NO');

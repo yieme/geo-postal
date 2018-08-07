@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85334"]={"code":"85334","region":"Arizona","city":"Ehrenberg","latitude":33.60419,"longitude":-114.52523}}(window,'GeoPostal','US');

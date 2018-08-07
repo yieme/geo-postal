@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24879"]={"code":"24879","region":"WV","city":"Raysal","latitude":37.3244,"longitude":-81.7614}}(window,'GeoPostal','US');

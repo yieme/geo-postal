@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57720"]={"code":"57720","region":"South Dakota","city":"Buffalo","latitude":45.58416,"longitude":-103.54603}}(window,'GeoPostal','US');

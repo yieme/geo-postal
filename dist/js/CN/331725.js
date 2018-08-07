@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331725"]={"code":"331725","region":"Jiangxi","city":"Liduzhen","latitude":28.2236,"longitude":116.15642}}(window,'GeoPostal','CN');

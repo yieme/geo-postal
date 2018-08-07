@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87114"]={"code":"87114","region":"NM","city":"Albuquerque","latitude":35.1868,"longitude":-106.6652}}(window,'GeoPostal','US');

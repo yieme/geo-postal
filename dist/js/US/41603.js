@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41603"]={"code":"41603","region":"Kentucky","city":"Banner","latitude":37.581376,"longitude":-82.70036}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5099"]={"code":"5099","region":"Monastir","city":"As Sayyadah","latitude":35.66887,"longitude":10.89246}}(window,'GeoPostal','TN');

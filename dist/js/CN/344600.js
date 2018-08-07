@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344600"]={"code":"344600","region":"Jiangxi","city":"Rifeng","latitude":27.29728,"longitude":116.91107}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309085"]={"code":"309085","region":"Belgorodskaya oblast'","city":"Tomarovka","latitude":50.68338,"longitude":36.23309}}(window,'GeoPostal','RU');

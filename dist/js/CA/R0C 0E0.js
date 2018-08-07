@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 0E0"]={"code":"R0C 0E0","region":"Manitoba","city":"Ashern","latitude":51.18221,"longitude":-98.34633}}(window,'GeoPostal','CA');

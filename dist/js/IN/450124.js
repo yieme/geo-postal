@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450124"]={"code":"450124","region":"Madhya Pradesh","city":"Mundi","latitude":22.06667,"longitude":76.5}}(window,'GeoPostal','IN');

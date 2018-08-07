@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18290"]={"code":"18290","region":"Centre-Val de Loire","city":"Charost","latitude":46.9939,"longitude":2.11639}}(window,'GeoPostal','FR');

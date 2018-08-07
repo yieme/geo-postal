@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18829"]={"code":"18829","region":"Pennsylvania","city":"Le Raysville","latitude":41.845086,"longitude":-76.176148}}(window,'GeoPostal','US');

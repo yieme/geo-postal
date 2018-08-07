@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76385"]={"code":"76385","region":"Texas","city":"Vernon","latitude":34.1544,"longitude":-99.26472}}(window,'GeoPostal','US');

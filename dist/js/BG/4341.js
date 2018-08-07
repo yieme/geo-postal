@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4341"]={"code":"4341","region":"Plovdiv","city":"Klisura","latitude":42.7,"longitude":24.45}}(window,'GeoPostal','BG');

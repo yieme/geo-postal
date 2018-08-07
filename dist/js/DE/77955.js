@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77955"]={"code":"77955","region":"Baden-Wurttemberg","city":"Ettenheim","latitude":48.25696,"longitude":7.81247}}(window,'GeoPostal','DE');

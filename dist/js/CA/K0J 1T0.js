@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1T0"]={"code":"K0J 1T0","region":"Ontario","city":"Eganville","latitude":45.53341,"longitude":-77.09945}}(window,'GeoPostal','CA');

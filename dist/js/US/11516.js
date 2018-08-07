@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11516"]={"code":"11516","region":"New York","city":"Cedarhurst","latitude":40.624294,"longitude":-73.722748}}(window,'GeoPostal','US');

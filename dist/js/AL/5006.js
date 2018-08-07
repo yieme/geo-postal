@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5006"]={"code":"5006","region":"Berat","city":"Berat","latitude":40.70583,"longitude":19.95222}}(window,'GeoPostal','AL');

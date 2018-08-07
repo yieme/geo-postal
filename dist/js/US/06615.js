@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06615"]={"code":"06615","region":"Connecticut","city":"Stratford","latitude":41.1871,"longitude":-73.1396}}(window,'GeoPostal','US');

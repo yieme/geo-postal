@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446552"]={"code":"446552","region":"Samarskaya oblast'","city":"Sukhodol","latitude":53.90063,"longitude":51.2117}}(window,'GeoPostal','RU');

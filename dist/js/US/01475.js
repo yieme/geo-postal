@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01475"]={"code":"01475","region":"Massachusetts","city":"Winchendon","latitude":42.675823,"longitude":-72.045635}}(window,'GeoPostal','US');

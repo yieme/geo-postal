@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8N 2X3"]={"code":"T8N 2X3","region":"Alberta","city":"St. Albert","latitude":53.629721,"longitude":-113.595174}}(window,'GeoPostal','CA');

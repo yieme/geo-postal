@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20804"]={"code":"20804","region":"Alajuela","city":"Carrillos","latitude":10.02918,"longitude":-84.27404}}(window,'GeoPostal','CR');

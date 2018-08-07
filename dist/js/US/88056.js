@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88056"]={"code":"88056","region":"New Mexico","city":"Rodeo","latitude":31.83694,"longitude":-109.03167}}(window,'GeoPostal','US');

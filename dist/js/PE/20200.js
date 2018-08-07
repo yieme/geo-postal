@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20200"]={"code":"20200","region":"Piura","city":"Tambo Grande","latitude":-4.92694,"longitude":-80.34472}}(window,'GeoPostal','PE');

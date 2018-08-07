@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23185"]={"code":"23185","region":"Virginia","city":"Williamsburg","latitude":37.265794,"longitude":-76.709933}}(window,'GeoPostal','US');

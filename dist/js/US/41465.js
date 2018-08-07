@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41465"]={"code":"41465","region":"Kentucky","city":"Salyersville","latitude":37.75259,"longitude":-83.06878}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95571"]={"code":"95571","region":"California","city":"Weott","latitude":40.32158,"longitude":-123.92228}}(window,'GeoPostal','US');

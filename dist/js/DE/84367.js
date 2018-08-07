@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84367"]={"code":"84367","region":"Bayern","city":"Tann","latitude":48.31463,"longitude":12.89301}}(window,'GeoPostal','DE');

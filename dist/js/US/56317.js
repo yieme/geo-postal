@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56317"]={"code":"56317","region":"MN","city":"Buckman","latitude":45.8975,"longitude":-94.0936}}(window,'GeoPostal','US');

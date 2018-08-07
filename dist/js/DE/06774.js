@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06774"]={"code":"06774","region":"Sachsen-Anhalt","city":"Rosa","latitude":51.61581,"longitude":12.49065}}(window,'GeoPostal','DE');

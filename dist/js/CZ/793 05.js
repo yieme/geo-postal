@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 05"]={"code":"793 05","region":"Olomoucky kraj","city":"Moravsky Beroun","latitude":49.79374,"longitude":17.44212}}(window,'GeoPostal','CZ');

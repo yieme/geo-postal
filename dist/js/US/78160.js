@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78160"]={"code":"78160","region":"TX","city":"Stockdale","latitude":29.2319,"longitude":-97.9351}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93625"]={"code":"93625","region":"CA","city":"Fowler","latitude":36.6282,"longitude":-119.671}}(window,'GeoPostal','US');

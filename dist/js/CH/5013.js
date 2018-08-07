@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5013"]={"code":"5013","region":"Solothurn","city":"Niedergosgen","latitude":47.37217,"longitude":7.99122}}(window,'GeoPostal','CH');

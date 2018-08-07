@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48499"]={"code":"48499","region":"Niedersachsen","city":"Bexten","latitude":52.34083,"longitude":7.37258}}(window,'GeoPostal','DE');

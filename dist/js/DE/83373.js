@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83373"]={"code":"83373","region":"Bayern","city":"Tengling","latitude":47.99426,"longitude":12.72706}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694923"]={"code":"694923","region":"Sakhalinskaya oblast'","city":"Uglegorsk","latitude":49.08333,"longitude":142.03333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32622"]={"code":"32622","region":"FL","city":"Brooker","latitude":29.919,"longitude":-82.2956}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02672"]={"code":"02672","region":"MA","city":"West Hyannisport","latitude":41.6356,"longitude":-70.3233}}(window,'GeoPostal','US');

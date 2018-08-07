@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24327"]={"code":"24327","region":"Campeche","city":"Isla de Aguada","latitude":18.78333,"longitude":-91.46667}}(window,'GeoPostal','MX');

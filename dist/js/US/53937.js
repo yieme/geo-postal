@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53937"]={"code":"53937","region":"Wisconsin","city":"Hillpoint","latitude":43.387462,"longitude":-90.165538}}(window,'GeoPostal','US');

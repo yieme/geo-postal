@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29221"]={"code":"29221","region":"Niedersachsen","city":"Celle","latitude":52.62264,"longitude":10.08047}}(window,'GeoPostal','DE');

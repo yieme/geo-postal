@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["448-0027"]={"code":"448-0027","region":"Aichi","city":"Kariya","latitude":34.983,"longitude":137}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11560"]={"code":"11560","region":"Ciudad de Mexico","city":"Polanco","latitude":19.41667,"longitude":-99.2}}(window,'GeoPostal','MX');

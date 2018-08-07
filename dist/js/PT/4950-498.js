@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4950-498"]={"code":"4950-498","region":"Viana do Castelo","city":"Moncao","latitude":42.07892,"longitude":-8.48076}}(window,'GeoPostal','PT');

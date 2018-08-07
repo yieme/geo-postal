@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV7 7PT"]={"code":"CV7 7PT","region":"England","city":"Meriden","latitude":52.4377,"longitude":-1.64366}}(window,'GeoPostal','GB');

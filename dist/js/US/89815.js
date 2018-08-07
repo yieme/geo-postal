@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89815"]={"code":"89815","region":"NV","city":"Spring Creek","latitude":40.7519,"longitude":-115.5956}}(window,'GeoPostal','US');

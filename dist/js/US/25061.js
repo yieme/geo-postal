@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25061"]={"code":"25061","region":"WV","city":"Drybranch","latitude":38.2968,"longitude":-81.5547}}(window,'GeoPostal','US');

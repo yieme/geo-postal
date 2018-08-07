@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5210"]={"code":"5210","region":"Mindoro Oriental","city":"Bansud","latitude":12.865,"longitude":121.45639}}(window,'GeoPostal','PH');

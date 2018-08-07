@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24411"]={"code":"24411","region":"VA","city":"Augusta Springs","latitude":38.1025,"longitude":-79.3195}}(window,'GeoPostal','US');

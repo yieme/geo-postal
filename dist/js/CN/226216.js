@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226216"]={"code":"226216","region":"Jiangsu","city":"Zhaomin","latitude":32.01107,"longitude":121.58589}}(window,'GeoPostal','CN');

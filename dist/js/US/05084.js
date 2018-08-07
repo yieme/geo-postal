@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05084"]={"code":"05084","region":"Vermont","city":"West Hartford","latitude":43.713369,"longitude":-72.404316}}(window,'GeoPostal','US');

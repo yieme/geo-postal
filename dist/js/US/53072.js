@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53072"]={"code":"53072","region":"Wisconsin","city":"Pewaukee","latitude":43.080146,"longitude":-88.254595}}(window,'GeoPostal','US');

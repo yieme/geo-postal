@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 7ND"]={"code":"TR12 7ND","region":"England","city":"Lizard","latitude":49.96795,"longitude":-5.20434}}(window,'GeoPostal','GB');

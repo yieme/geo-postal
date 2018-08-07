@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12518"]={"code":"12518","region":"New York","city":"Cornwall","latitude":41.432674,"longitude":-74.042741}}(window,'GeoPostal','US');

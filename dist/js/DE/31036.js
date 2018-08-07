@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31036"]={"code":"31036","region":"Niedersachsen","city":"Eime","latitude":52.07449,"longitude":9.72118}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25936"]={"code":"25936","region":"WV","city":"Thurmond","latitude":37.9554,"longitude":-81.0714}}(window,'GeoPostal','US');

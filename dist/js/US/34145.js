@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34145"]={"code":"34145","region":"Florida","city":"Marco Island","latitude":25.9726,"longitude":-81.72898}}(window,'GeoPostal','US');

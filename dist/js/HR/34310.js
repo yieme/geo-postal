@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34310"]={"code":"34310","region":"Pozesko-slavonska zupanija","city":"Pleternica","latitude":45.28861,"longitude":17.80639}}(window,'GeoPostal','HR');

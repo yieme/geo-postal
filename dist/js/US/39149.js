@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39149"]={"code":"39149","region":"Mississippi","city":"Pinola","latitude":31.824004,"longitude":-90.023106}}(window,'GeoPostal','US');

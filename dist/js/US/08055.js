@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08055"]={"code":"08055","region":"New Jersey","city":"Medford","latitude":39.858694,"longitude":-74.810125}}(window,'GeoPostal','US');

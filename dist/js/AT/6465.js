@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6465"]={"code":"6465","region":"Tirol","city":"Nassereith","latitude":47.31667,"longitude":10.83333}}(window,'GeoPostal','AT');

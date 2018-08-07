@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75497"]={"code":"75497","region":"Texas","city":"Yantis","latitude":32.93194,"longitude":-95.57528}}(window,'GeoPostal','US');

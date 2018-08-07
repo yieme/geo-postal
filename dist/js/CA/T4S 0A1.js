@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4S 0A1"]={"code":"T4S 0A1","region":"Alberta","city":"Sylvan Lake","latitude":52.31681,"longitude":-114.0853}}(window,'GeoPostal','CA');

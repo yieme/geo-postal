@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73329"]={"code":"73329","region":"Auvergne-Rhone-Alpes","city":"Tignes","latitude":45.49604,"longitude":6.92463}}(window,'GeoPostal','FR');

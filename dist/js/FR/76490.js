@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76490"]={"code":"76490","region":"Normandie","city":"Saint-Arnoult","latitude":49.52676,"longitude":0.67117}}(window,'GeoPostal','FR');

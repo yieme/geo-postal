@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47180"]={"code":"47180","region":"Nouvelle-Aquitaine","city":"Meilhan-sur-Garonne","latitude":44.52131,"longitude":0.03472}}(window,'GeoPostal','FR');

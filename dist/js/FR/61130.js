@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61130"]={"code":"61130","region":"Normandie","city":"Belleme","latitude":48.37329,"longitude":0.57005}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75932"]={"code":"75932","region":"Texas","city":"Burkeville","latitude":31.02822,"longitude":-93.64308}}(window,'GeoPostal','US');

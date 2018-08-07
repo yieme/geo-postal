@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81054"]={"code":"81054","region":"Colorado","city":"Las Animas","latitude":38.06667,"longitude":-103.22271}}(window,'GeoPostal','US');

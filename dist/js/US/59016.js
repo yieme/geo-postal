@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59016"]={"code":"59016","region":"Montana","city":"Busby","latitude":45.5275,"longitude":-106.97361}}(window,'GeoPostal','US');

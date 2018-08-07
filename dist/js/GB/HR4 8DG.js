@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR4 8DG"]={"code":"HR4 8DG","region":"England","city":"Moreton on Lugg","latitude":52.10723,"longitude":-2.72227}}(window,'GeoPostal','GB');

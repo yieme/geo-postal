@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38195-000"]={"code":"38195-000","region":"Minas Gerais","city":"Sacramento","latitude":-19.86528,"longitude":-47.44}}(window,'GeoPostal','BR');

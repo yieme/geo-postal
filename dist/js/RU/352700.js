@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352700"]={"code":"352700","region":"Adygeya, Respublika","city":"Maykop","latitude":44.60778,"longitude":40.10583}}(window,'GeoPostal','RU');

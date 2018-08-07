@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL18 9JG"]={"code":"PL18 9JG","region":"England","city":"Gunnislake","latitude":50.52441,"longitude":-4.21333}}(window,'GeoPostal','GB');

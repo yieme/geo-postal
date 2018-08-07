@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117382"]={"code":"117382","region":"Arges","city":"Draganu-Olteni","latitude":44.93333,"longitude":24.71667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 1M0"]={"code":"S0E 1M0","region":"Saskatchewan","city":"Rose Valley","latitude":52.3,"longitude":-103.8177}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14135"]={"code":"14135","region":"NY","city":"Sheridan","latitude":42.489,"longitude":-79.239}}(window,'GeoPostal','US');

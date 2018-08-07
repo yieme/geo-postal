@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63916"]={"code":"63916","region":"Bayern","city":"Amorbach","latitude":49.64437,"longitude":9.22178}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8850"]={"code":"8850","region":"Midtjylland","city":"Bjerringbro","latitude":56.37797,"longitude":9.66065}}(window,'GeoPostal','DK');

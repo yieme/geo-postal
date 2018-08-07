@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99743"]={"code":"99743","region":"Alaska","city":"Healy","latitude":63.85694,"longitude":-148.96611}}(window,'GeoPostal','US');

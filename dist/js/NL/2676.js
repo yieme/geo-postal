@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2676"]={"code":"2676","region":"Zuid-Holland","city":"Maasdijk","latitude":51.95917,"longitude":4.21389}}(window,'GeoPostal','NL');

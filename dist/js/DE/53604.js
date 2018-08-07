@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53604"]={"code":"53604","region":"Nordrhein-Westfalen","city":"Bad Honnef","latitude":50.64336,"longitude":7.2278}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98815"]={"code":"98815","region":"Province Nord","city":"Hienghene","latitude":-20.68333,"longitude":164.93333}}(window,'GeoPostal','NC');

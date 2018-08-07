@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91042"]={"code":"91042","region":"California","city":"Tujunga","latitude":34.25129,"longitude":-118.29064}}(window,'GeoPostal','US');

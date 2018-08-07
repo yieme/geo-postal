@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96766"]={"code":"96766","region":"Hawaii","city":"Lihue","latitude":21.97886,"longitude":-159.36719}}(window,'GeoPostal','US');

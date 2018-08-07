@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25390"]={"code":"25390","region":"Bourgogne-Franche-Comte","city":"Orchamps-Vennes","latitude":47.13042,"longitude":6.52468}}(window,'GeoPostal','FR');

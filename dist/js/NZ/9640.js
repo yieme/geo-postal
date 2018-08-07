@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9640"]={"code":"9640","region":"Southland","city":"Te Anau","latitude":-45.41667,"longitude":167.71667}}(window,'GeoPostal','NZ');

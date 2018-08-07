@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40012"]={"code":"40012","region":"KY","city":"Chaplin","latitude":37.9025,"longitude":-85.2015}}(window,'GeoPostal','US');

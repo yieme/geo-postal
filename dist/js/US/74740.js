@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74740"]={"code":"74740","region":"Oklahoma","city":"Haworth","latitude":33.84583,"longitude":-94.65306}}(window,'GeoPostal','US');

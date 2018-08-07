@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2465"]={"code":"2465","region":"Fejer","city":"Rackeresztur","latitude":47.2736,"longitude":18.83343}}(window,'GeoPostal','HU');

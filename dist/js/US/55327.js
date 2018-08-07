@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55327"]={"code":"55327","region":"Minnesota","city":"Dayton","latitude":45.1997,"longitude":-93.4713}}(window,'GeoPostal','US');

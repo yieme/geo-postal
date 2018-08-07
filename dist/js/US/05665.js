@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05665"]={"code":"05665","region":"VT","city":"North Hyde Park","latitude":44.6731,"longitude":-72.5971}}(window,'GeoPostal','US');

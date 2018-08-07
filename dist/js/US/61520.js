@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61520"]={"code":"61520","region":"IL","city":"Canton","latitude":40.5601,"longitude":-90.0242}}(window,'GeoPostal','US');

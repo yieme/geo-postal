@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84260"]={"code":"84260","region":"Surat Thani","city":"Khian Sa","latitude":8.84295,"longitude":99.19856}}(window,'GeoPostal','TH');

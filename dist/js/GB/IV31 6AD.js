@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV31 6AD"]={"code":"IV31 6AD","region":"Scotland","city":"Lossiemouth","latitude":57.72136,"longitude":-3.28341}}(window,'GeoPostal','GB');

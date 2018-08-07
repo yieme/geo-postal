@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41002"]={"code":"41002","region":"Marrakech-Tensift-Al Haouz","city":"Chichaoua","latitude":31.54351,"longitude":-8.76274}}(window,'GeoPostal','MA');

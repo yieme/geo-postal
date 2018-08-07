@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03592"]={"code":"03592","region":"New Hampshire","city":"Pittsburg","latitude":45.112921,"longitude":-71.255097}}(window,'GeoPostal','US');

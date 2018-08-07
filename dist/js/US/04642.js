@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04642"]={"code":"04642","region":"ME","city":"Harborside","latitude":44.334,"longitude":-68.8042}}(window,'GeoPostal','US');

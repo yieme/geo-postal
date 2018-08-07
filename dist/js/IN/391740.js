@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391740"]={"code":"391740","region":"Gujarat","city":"Dabhoi","latitude":22.18333,"longitude":73.43333}}(window,'GeoPostal','IN');

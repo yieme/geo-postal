@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG10 9NN"]={"code":"RG10 9NN","region":"England","city":"Twyford","latitude":51.02328,"longitude":-1.3128}}(window,'GeoPostal','GB');

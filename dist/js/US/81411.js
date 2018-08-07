@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81411"]={"code":"81411","region":"Colorado","city":"Bedrock","latitude":38.335326,"longitude":-108.886535}}(window,'GeoPostal','US');

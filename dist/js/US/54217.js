@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54217"]={"code":"54217","region":"WI","city":"Luxemburg","latitude":44.5506,"longitude":-87.7156}}(window,'GeoPostal','US');

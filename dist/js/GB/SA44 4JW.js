@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 4JW"]={"code":"SA44 4JW","region":"Wales","city":"Pont-Tyweli","latitude":52.05,"longitude":-4.31667}}(window,'GeoPostal','GB');

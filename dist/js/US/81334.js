@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81334"]={"code":"81334","region":"Colorado","city":"Towaoc","latitude":37.20444,"longitude":-108.72954}}(window,'GeoPostal','US');

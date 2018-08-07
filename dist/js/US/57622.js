@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57622"]={"code":"57622","region":"SD","city":"Cherry Creek","latitude":44.6055,"longitude":-101.4999}}(window,'GeoPostal','US');

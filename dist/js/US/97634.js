@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97634"]={"code":"97634","region":"OR","city":"Midland","latitude":42.1307,"longitude":-121.8203}}(window,'GeoPostal','US');

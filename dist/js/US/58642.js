@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58642"]={"code":"58642","region":"North Dakota","city":"Manning","latitude":47.23001,"longitude":-102.77019}}(window,'GeoPostal','US');

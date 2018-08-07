@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27814"]={"code":"27814","region":"NC","city":"Blounts Creek","latitude":35.382,"longitude":-76.925}}(window,'GeoPostal','US');

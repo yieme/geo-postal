@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91440"]={"code":"91440","region":"Ile-de-France","city":"Bures-sur-Yvette","latitude":48.69981,"longitude":2.17064}}(window,'GeoPostal','FR');

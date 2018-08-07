@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04408"]={"code":"04408","region":"Maine","city":"Aurora","latitude":44.924521,"longitude":-68.335813}}(window,'GeoPostal','US');

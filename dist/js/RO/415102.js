@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415102"]={"code":"415102","region":"Bihor","city":"Alesd","latitude":47.06667,"longitude":22.41667}}(window,'GeoPostal','RO');

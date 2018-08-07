@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72319"]={"code":"72319","region":"AR","city":"Gosnell","latitude":35.9598,"longitude":-89.972}}(window,'GeoPostal','US');

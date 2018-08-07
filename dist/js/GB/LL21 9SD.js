@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL21 9SD"]={"code":"LL21 9SD","region":"Wales","city":"Derwen","latitude":53.03333,"longitude":-3.4}}(window,'GeoPostal','GB');

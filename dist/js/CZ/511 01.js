@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["511 01"]={"code":"511 01","region":"Liberecky kraj","city":"Turnov","latitude":50.58356,"longitude":15.15186}}(window,'GeoPostal','CZ');

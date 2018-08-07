@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6070"]={"code":"6070","region":"Gabes","city":"Matmata","latitude":33.54445,"longitude":9.97157}}(window,'GeoPostal','TN');

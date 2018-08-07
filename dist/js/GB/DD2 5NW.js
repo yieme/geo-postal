@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD2 5NW"]={"code":"DD2 5NW","region":"Scotland","city":"Lundie","latitude":56.51585,"longitude":-3.15462}}(window,'GeoPostal','GB');

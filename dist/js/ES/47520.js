@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47520"]={"code":"47520","region":"Castilla y Leon","city":"Castronuno","latitude":41.38918,"longitude":-5.26408}}(window,'GeoPostal','ES');

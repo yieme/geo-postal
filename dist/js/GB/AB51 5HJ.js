@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 5HJ"]={"code":"AB51 5HJ","region":"Scotland","city":"Pitcaple","latitude":57.31985,"longitude":-2.46411}}(window,'GeoPostal','GB');

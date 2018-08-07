@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93999"]={"code":"93999","region":"Pohjois-Pohjanmaa","city":"Kuusamo","latitude":65.96667,"longitude":29.18333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30170"]={"code":"30170","region":"Nakhon Ratchasima","city":"Sung Noen","latitude":14.8992,"longitude":101.82075}}(window,'GeoPostal','TH');

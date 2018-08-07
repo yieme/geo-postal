@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26851"]={"code":"26851","region":"West Virginia","city":"Wardensville","latitude":39.07556,"longitude":-78.59444}}(window,'GeoPostal','US');

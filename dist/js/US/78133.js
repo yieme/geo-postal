@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78133"]={"code":"78133","region":"Texas","city":"Canyon Lake","latitude":29.8809,"longitude":-98.2152}}(window,'GeoPostal','US');

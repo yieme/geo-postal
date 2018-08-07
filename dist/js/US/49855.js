@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49855"]={"code":"49855","region":"Michigan","city":"Marquette","latitude":46.55,"longitude":-87.4}}(window,'GeoPostal','US');

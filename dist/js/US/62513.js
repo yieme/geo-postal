@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62513"]={"code":"62513","region":"IL","city":"Blue Mound","latitude":39.6978,"longitude":-89.1136}}(window,'GeoPostal','US');

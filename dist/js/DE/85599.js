@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85599"]={"code":"85599","region":"Bayern","city":"Parsdorf","latitude":48.14215,"longitude":11.78799}}(window,'GeoPostal','DE');

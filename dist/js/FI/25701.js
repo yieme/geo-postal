@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25701"]={"code":"25701","region":"Varsinais-Suomi","city":"Kimito","latitude":60.16047,"longitude":22.729}}(window,'GeoPostal','FI');

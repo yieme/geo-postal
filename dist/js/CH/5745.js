@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5745"]={"code":"5745","region":"Aargau","city":"Safenwil","latitude":47.3214,"longitude":7.98122}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35018"]={"code":"35018","region":"Boumerdes","city":"Ouled Moussa","latitude":36.68394,"longitude":3.36661}}(window,'GeoPostal','DZ');

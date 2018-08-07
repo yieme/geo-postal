@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-100"]={"code":"36-100","region":"Podkarpackie","city":"Kolbuszowa","latitude":50.2441,"longitude":21.7761}}(window,'GeoPostal','PL');

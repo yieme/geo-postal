@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA13 5NA"]={"code":"TA13 5NA","region":"England","city":"South Petherton","latitude":50.94829,"longitude":-2.80708}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["096-0075"]={"code":"096-0075","region":"Hokkaido","city":"Nayoro","latitude":44.35583,"longitude":142.46333}}(window,'GeoPostal','JP');

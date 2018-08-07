@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68344"]={"code":"68344","region":"NE","city":"Douglas","latitude":40.5838,"longitude":-96.397}}(window,'GeoPostal','US');

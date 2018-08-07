@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP2 9NT"]={"code":"IP2 9NT","region":"England","city":"Chantry","latitude":52.04521,"longitude":1.12473}}(window,'GeoPostal','GB');

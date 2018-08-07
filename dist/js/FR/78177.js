@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78177"]={"code":"78177","region":"Ile-de-France","city":"Saint-Germain-en-Laye","latitude":48.9,"longitude":2.08333}}(window,'GeoPostal','FR');

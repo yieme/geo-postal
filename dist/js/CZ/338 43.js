@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 43"]={"code":"338 43","region":"Plzensky kraj","city":"Mirosov","latitude":49.68782,"longitude":13.65807}}(window,'GeoPostal','CZ');

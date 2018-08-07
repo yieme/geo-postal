@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83661"]={"code":"83661","region":"Bayern","city":"Graben","latitude":47.65,"longitude":11.58333}}(window,'GeoPostal','DE');

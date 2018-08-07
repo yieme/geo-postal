@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19217"]={"code":"19217","region":"Mecklenburg-Vorpommern","city":"Holdorf","latitude":53.73333,"longitude":11.06667}}(window,'GeoPostal','DE');

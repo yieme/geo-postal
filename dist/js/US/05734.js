@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05734"]={"code":"05734","region":"Vermont","city":"Bridport","latitude":43.9875,"longitude":-73.35139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82053"]={"code":"82053","region":"Wyoming","city":"Burns","latitude":41.19194,"longitude":-104.35806}}(window,'GeoPostal','US');

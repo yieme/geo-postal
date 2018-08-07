@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65014"]={"code":"65014","region":"MO","city":"Bland","latitude":38.3074,"longitude":-91.6263}}(window,'GeoPostal','US');

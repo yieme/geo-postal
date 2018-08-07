@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84636"]={"code":"84636","region":"Utah","city":"Holden","latitude":39.103274,"longitude":-112.269913}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8410"]={"code":"8410","region":"Midtjylland","city":"Ronde","latitude":56.30145,"longitude":10.47506}}(window,'GeoPostal','DK');

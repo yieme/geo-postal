@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59198-000"]={"code":"59198-000","region":"Rio Grande do Norte","city":"Montanhas","latitude":-6.48583,"longitude":-35.2875}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8331"]={"code":"8331","region":"Veszprem","city":"Sumeg","latitude":46.97703,"longitude":17.28209}}(window,'GeoPostal','HU');

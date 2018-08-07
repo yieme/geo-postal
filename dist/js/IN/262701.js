@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262701"]={"code":"262701","region":"Uttar Pradesh","city":"Robertsganj","latitude":24.7,"longitude":83.06667}}(window,'GeoPostal','IN');

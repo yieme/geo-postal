@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66041"]={"code":"66041","region":"Kansas","city":"Lancaster","latitude":39.60312,"longitude":-95.3259}}(window,'GeoPostal','US');

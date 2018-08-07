@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21790"]={"code":"21790","region":"MD","city":"Tuscarora","latitude":39.2667,"longitude":-77.5101}}(window,'GeoPostal','US');

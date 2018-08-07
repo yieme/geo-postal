@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6601"]={"code":"6601","region":"Ticino","city":"Locarno","latitude":46.17086,"longitude":8.79953}}(window,'GeoPostal','CH');

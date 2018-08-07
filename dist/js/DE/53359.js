@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53359"]={"code":"53359","region":"Nordrhein-Westfalen","city":"Rheinbach","latitude":50.62562,"longitude":6.94911}}(window,'GeoPostal','DE');

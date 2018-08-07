@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10108"]={"code":"10108","region":"San Cristobal","city":"San Cristobal","latitude":18.41667,"longitude":-70.1}}(window,'GeoPostal','DO');

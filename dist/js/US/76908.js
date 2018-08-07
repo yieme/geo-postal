@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76908"]={"code":"76908","region":"Texas","city":"Goodfellow Air Force Base","latitude":31.384628,"longitude":-100.561228}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57000"]={"code":"57000","region":"Wilayah Persekutuan Kuala Lumpur","city":"Kuala Lumpur","latitude":3.1412,"longitude":101.68653}}(window,'GeoPostal','MY');

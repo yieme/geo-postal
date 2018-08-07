@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75668"]={"code":"75668","region":"Texas","city":"Lone Star","latitude":32.943224,"longitude":-94.708866}}(window,'GeoPostal','US');

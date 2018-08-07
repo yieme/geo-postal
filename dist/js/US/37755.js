@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37755"]={"code":"37755","region":"Tennessee","city":"Helenwood","latitude":36.42333,"longitude":-84.54139}}(window,'GeoPostal','US');

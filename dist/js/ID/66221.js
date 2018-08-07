@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66221"]={"code":"66221","region":"Jawa Timur","city":"Kudusan","latitude":-8.0785,"longitude":111.9268}}(window,'GeoPostal','ID');

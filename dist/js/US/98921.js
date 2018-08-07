@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98921"]={"code":"98921","region":"WA","city":"Buena","latitude":46.4287,"longitude":-120.3134}}(window,'GeoPostal','US');

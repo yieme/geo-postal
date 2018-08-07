@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52477"]={"code":"52477","region":"Nordrhein-Westfalen","city":"Alsdorf","latitude":50.87672,"longitude":6.16399}}(window,'GeoPostal','DE');

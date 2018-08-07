@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1N0"]={"code":"V0J 1N0","region":"British Columbia","city":"Willowvale","latitude":54.03315,"longitude":-124.45316}}(window,'GeoPostal','CA');

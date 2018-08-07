@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WF1 1TA"]={"code":"WF1 1TA","region":"England","city":"Wakefield","latitude":53.68331,"longitude":-1.49768}}(window,'GeoPostal','GB');

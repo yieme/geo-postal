@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99748"]={"code":"99748","region":"AK","city":"Kaltag","latitude":64.3305,"longitude":-158.7243}}(window,'GeoPostal','US');

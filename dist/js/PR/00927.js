@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00927"]={"code":"00927","region":"San Juan","city":"San Juan","latitude":18.46633,"longitude":-66.10572}}(window,'GeoPostal','PR');

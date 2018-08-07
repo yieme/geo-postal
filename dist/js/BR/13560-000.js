@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13560-000"]={"code":"13560-000","region":"Sao Paulo","city":"Sao Carlos","latitude":-22.0175,"longitude":-47.89083}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO10 7DB"]={"code":"PO10 7DB","region":"England","city":"Emsworth","latitude":50.84779,"longitude":-0.93697}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 7PY"]={"code":"AB41 7PY","region":"Scotland","city":"Pitmedden","latitude":57.33691,"longitude":-2.18022}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-150"]={"code":"73-150","region":"Zachodniopomorskie","city":"Lobez","latitude":53.63918,"longitude":15.62129}}(window,'GeoPostal','PL');

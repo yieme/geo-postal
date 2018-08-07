@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96860"]={"code":"96860","region":"Hawaii","city":"Pearl Harbor","latitude":21.34389,"longitude":-157.975}}(window,'GeoPostal','US');

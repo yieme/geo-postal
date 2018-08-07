@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4423"]={"code":"4423","region":"Salta","city":"Chicoana","latitude":-25.10088,"longitude":-65.5331}}(window,'GeoPostal','AR');

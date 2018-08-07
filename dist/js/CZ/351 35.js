@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["351 35"]={"code":"351 35","region":"Karlovarsky kraj","city":"Plesna","latitude":50.2207,"longitude":12.34669}}(window,'GeoPostal','CZ');

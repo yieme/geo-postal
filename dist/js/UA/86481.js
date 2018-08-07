@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86481"]={"code":"86481","region":"Donetska oblast","city":"Uglegorsk","latitude":48.31474,"longitude":38.27423}}(window,'GeoPostal','UA');

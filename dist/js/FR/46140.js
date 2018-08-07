@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46140"]={"code":"46140","region":"Occitanie","city":"Castelfranc","latitude":44.5019,"longitude":1.2236}}(window,'GeoPostal','FR');

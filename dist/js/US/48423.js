@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48423"]={"code":"48423","region":"Michigan","city":"Davison","latitude":43.031387,"longitude":-83.522208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0C 1Y0"]={"code":"A0C 1Y0","region":"Newfoundland and Labrador","city":"Melrose","latitude":48.48319,"longitude":-53.06475}}(window,'GeoPostal','CA');

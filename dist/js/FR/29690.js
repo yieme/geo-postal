@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29690"]={"code":"29690","region":"Bretagne","city":"Huelgoat","latitude":48.36112,"longitude":-3.74578}}(window,'GeoPostal','FR');

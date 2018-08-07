@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22400"]={"code":"22400","region":"Rapti","city":"Tulsipur","latitude":28.13099,"longitude":82.29726}}(window,'GeoPostal','NP');

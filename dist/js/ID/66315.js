@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66315"]={"code":"66315","region":"Jawa Timur","city":"Trenggalek","latitude":-8.05,"longitude":111.71667}}(window,'GeoPostal','ID');

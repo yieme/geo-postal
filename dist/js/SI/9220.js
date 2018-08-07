@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9220"]={"code":"9220","region":"Lendava","city":"Lendava","latitude":46.56494,"longitude":16.45091}}(window,'GeoPostal','SI');

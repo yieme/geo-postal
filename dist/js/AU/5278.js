@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5278"]={"code":"5278","region":"South Australia","city":"Kalangadoo","latitude":-37.56484,"longitude":140.6992}}(window,'GeoPostal','AU');

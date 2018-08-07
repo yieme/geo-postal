@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29740"]={"code":"29740","region":"Bretagne","city":"Plobannalec-Lesconil","latitude":47.81667,"longitude":-4.21667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 9LT"]={"code":"SY10 9LT","region":"Wales","city":"Llangedwyn","latitude":52.81028,"longitude":-3.20744}}(window,'GeoPostal','GB');

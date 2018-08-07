@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84160"]={"code":"84160","region":"Provence-Alpes-Cote d'Azur","city":"Cadenet","latitude":43.73445,"longitude":5.37499}}(window,'GeoPostal','FR');

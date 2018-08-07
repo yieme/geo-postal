@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6900"]={"code":"6900","region":"Luxembourg","city":"Marche-en-Famenne","latitude":50.22678,"longitude":5.34416}}(window,'GeoPostal','BE');

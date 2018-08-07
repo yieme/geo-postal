@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 8LX"]={"code":"SA19 8LX","region":"Wales","city":"Llanycrwys","latitude":52.08931,"longitude":-3.97959}}(window,'GeoPostal','GB');

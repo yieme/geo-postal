@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69230-000"]={"code":"69230-000","region":"Amazonas","city":"Nova Olinda do Norte","latitude":-3.88806,"longitude":-59.09417}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24273"]={"code":"24273","region":"Virginia","city":"Norton","latitude":36.93343,"longitude":-82.62905}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07407"]={"code":"07407","region":"Thuringen","city":"Rudolstadt","latitude":50.72043,"longitude":11.34046}}(window,'GeoPostal','DE');

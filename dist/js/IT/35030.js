@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35030"]={"code":"35030","region":"Veneto","city":"Rubano","latitude":45.42089,"longitude":11.80721}}(window,'GeoPostal','IT');

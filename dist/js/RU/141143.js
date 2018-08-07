@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141143"]={"code":"141143","region":"Moskovskaya oblast'","city":"Shchelkovo","latitude":55.89303,"longitude":38.0586}}(window,'GeoPostal','RU');

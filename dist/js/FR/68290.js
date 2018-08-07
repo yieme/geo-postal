@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68290"]={"code":"68290","region":"Grand-Est","city":"Masevaux","latitude":47.77671,"longitude":6.99683}}(window,'GeoPostal','FR');

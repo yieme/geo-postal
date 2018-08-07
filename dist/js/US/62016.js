@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62016"]={"code":"62016","region":"IL","city":"Carrollton","latitude":39.3009,"longitude":-90.4092}}(window,'GeoPostal','US');

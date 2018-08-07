@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42078"]={"code":"42078","region":"Kentucky","city":"Salem","latitude":37.26472,"longitude":-88.24111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22840"]={"code":"22840","region":"VA","city":"Mc Gaheysville","latitude":38.3712,"longitude":-78.7411}}(window,'GeoPostal','US');

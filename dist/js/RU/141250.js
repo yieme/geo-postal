@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141250"]={"code":"141250","region":"Moskovskaya oblast'","city":"Muranovo","latitude":56.18333,"longitude":37.9}}(window,'GeoPostal','RU');

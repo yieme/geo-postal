@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663430"]={"code":"663430","region":"Krasnoyarskiy kray","city":"Boguchany","latitude":58.38139,"longitude":97.45306}}(window,'GeoPostal','RU');

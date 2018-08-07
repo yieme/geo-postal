@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04003"]={"code":"04003","region":"ME","city":"Bailey Island","latitude":43.7341,"longitude":-69.9952}}(window,'GeoPostal','US');

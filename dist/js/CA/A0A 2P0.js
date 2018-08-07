@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 2P0"]={"code":"A0A 2P0","region":"Newfoundland and Labrador","city":"Harbour Main","latitude":47.43319,"longitude":-53.16478}}(window,'GeoPostal','CA');

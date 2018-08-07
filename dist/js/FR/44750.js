@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44750"]={"code":"44750","region":"Pays-de-la-Loire","city":"Campbon","latitude":47.4131,"longitude":-1.96857}}(window,'GeoPostal','FR');

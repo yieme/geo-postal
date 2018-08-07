@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64635"]={"code":"64635","region":"Missouri","city":"Chula","latitude":39.923342,"longitude":-93.480286}}(window,'GeoPostal','US');

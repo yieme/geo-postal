@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62895"]={"code":"62895","region":"Illinois","city":"Wayne City","latitude":38.34533,"longitude":-88.58783}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84018"]={"code":"84018","region":"UT","city":"Croydon","latitude":41.0689,"longitude":-111.5231}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46057"]={"code":"46057","region":"IN","city":"Michigantown","latitude":40.3108,"longitude":-86.3753}}(window,'GeoPostal','US');

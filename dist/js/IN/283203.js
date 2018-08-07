@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["283203"]={"code":"283203","region":"Uttar Pradesh","city":"Firozabad","latitude":27.15,"longitude":78.41667}}(window,'GeoPostal','IN');

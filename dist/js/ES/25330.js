@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25330"]={"code":"25330","region":"Catalunya","city":"Tarrega","latitude":41.64704,"longitude":1.13957}}(window,'GeoPostal','ES');

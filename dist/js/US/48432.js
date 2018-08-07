@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48432"]={"code":"48432","region":"Michigan","city":"Filion","latitude":43.903133,"longitude":-82.997788}}(window,'GeoPostal','US');

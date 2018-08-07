@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63052"]={"code":"63052","region":"MO","city":"Imperial","latitude":38.4069,"longitude":-90.4381}}(window,'GeoPostal','US');

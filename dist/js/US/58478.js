@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58478"]={"code":"58478","region":"ND","city":"Robinson","latitude":47.1749,"longitude":-99.7457}}(window,'GeoPostal','US');

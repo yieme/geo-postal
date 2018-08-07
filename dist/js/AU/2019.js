@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2019"]={"code":"2019","region":"New South Wales","city":"Banksmeadow","latitude":-33.95,"longitude":151.21667}}(window,'GeoPostal','AU');

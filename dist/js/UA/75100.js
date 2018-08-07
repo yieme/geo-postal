@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75100"]={"code":"75100","region":"Khersonska oblast","city":"Tsyurupyns'k","latitude":46.61842,"longitude":32.7189}}(window,'GeoPostal','UA');

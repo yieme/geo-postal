@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08316"]={"code":"08316","region":"NJ","city":"Dorchester","latitude":39.2679,"longitude":-74.9791}}(window,'GeoPostal','US');

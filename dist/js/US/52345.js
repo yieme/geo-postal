@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52345"]={"code":"52345","region":"IA","city":"Urbana","latitude":42.2365,"longitude":-91.8881}}(window,'GeoPostal','US');

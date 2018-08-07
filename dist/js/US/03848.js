@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03848"]={"code":"03848","region":"New Hampshire","city":"Kingston","latitude":42.919428,"longitude":-71.064994}}(window,'GeoPostal','US');

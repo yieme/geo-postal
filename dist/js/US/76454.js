@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76454"]={"code":"76454","region":"Texas","city":"Gorman","latitude":32.21375,"longitude":-98.67061}}(window,'GeoPostal','US');

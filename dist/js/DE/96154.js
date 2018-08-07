@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96154"]={"code":"96154","region":"Bayern","city":"Burgwindheim","latitude":49.82733,"longitude":10.59631}}(window,'GeoPostal','DE');

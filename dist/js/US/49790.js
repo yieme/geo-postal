@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49790"]={"code":"49790","region":"MI","city":"Eckerman","latitude":46.35,"longitude":-84.96}}(window,'GeoPostal','US');

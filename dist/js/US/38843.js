@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38843"]={"code":"38843","region":"Mississippi","city":"Fulton","latitude":34.26959,"longitude":-88.401243}}(window,'GeoPostal','US');

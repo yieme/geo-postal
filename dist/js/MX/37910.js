@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37910"]={"code":"37910","region":"Guanajuato","city":"San Luis de la Paz","latitude":21.3,"longitude":-100.51667}}(window,'GeoPostal','MX');

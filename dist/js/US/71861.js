@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71861"]={"code":"71861","region":"Arkansas","city":"Taylor","latitude":33.111985,"longitude":-93.447924}}(window,'GeoPostal','US');

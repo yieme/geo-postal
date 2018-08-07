@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["575 00"]={"code":"575 00","region":"Kentriki Makedonia","city":"Mesimerion","latitude":40.41204,"longitude":23.00594}}(window,'GeoPostal','GR');

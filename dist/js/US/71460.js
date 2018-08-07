@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71460"]={"code":"71460","region":"LA","city":"Negreet","latitude":31.4693,"longitude":-93.5749}}(window,'GeoPostal','US');

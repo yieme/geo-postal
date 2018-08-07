@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 4SG"]={"code":"LE7 4SG","region":"England","city":"Ratcliffe on the Wreake","latitude":52.71667,"longitude":-1.06667}}(window,'GeoPostal','GB');

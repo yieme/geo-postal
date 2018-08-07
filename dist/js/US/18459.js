@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18459"]={"code":"18459","region":"Pennsylvania","city":"South Canaan","latitude":41.50518,"longitude":-75.4125}}(window,'GeoPostal','US');

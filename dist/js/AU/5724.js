@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5724"]={"code":"5724","region":"South Australia","city":"Mintabie","latitude":-27.31028,"longitude":133.29658}}(window,'GeoPostal','AU');

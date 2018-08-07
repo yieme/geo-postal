@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01243"]={"code":"01243","region":"MA","city":"Middlefield","latitude":42.3561,"longitude":-73.0104}}(window,'GeoPostal','US');

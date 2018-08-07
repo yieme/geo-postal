@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30101"]={"code":"30101","region":"Cartago","city":"Cartago","latitude":9.86667,"longitude":-83.91667}}(window,'GeoPostal','CR');

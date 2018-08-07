@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27637"]={"code":"27637","region":"Niedersachsen","city":"Oxstedt","latitude":53.79648,"longitude":8.61394}}(window,'GeoPostal','DE');

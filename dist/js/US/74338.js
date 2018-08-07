@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74338"]={"code":"74338","region":"OK","city":"Colcord","latitude":36.2333,"longitude":-94.6547}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53128"]={"code":"53128","region":"WI","city":"Genoa City","latitude":42.5323,"longitude":-88.3485}}(window,'GeoPostal','US');

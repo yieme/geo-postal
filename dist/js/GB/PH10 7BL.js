@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 7BL"]={"code":"PH10 7BL","region":"Scotland","city":"Rattray","latitude":56.59078,"longitude":-3.33032}}(window,'GeoPostal','GB');

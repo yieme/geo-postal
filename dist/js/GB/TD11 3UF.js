@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD11 3UF"]={"code":"TD11 3UF","region":"Scotland","city":"Chirnside","latitude":55.80215,"longitude":-2.20927}}(window,'GeoPostal','GB');

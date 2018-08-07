@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11-034"]={"code":"11-034","region":"Warminsko-mazurskie","city":"Stawiguda","latitude":53.6572,"longitude":20.40041}}(window,'GeoPostal','PL');

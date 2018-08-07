@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15756"]={"code":"15756","region":"PA","city":"Mc Intyre","latitude":40.5684,"longitude":-79.2999}}(window,'GeoPostal','US');

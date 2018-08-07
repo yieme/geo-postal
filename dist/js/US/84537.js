@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84537"]={"code":"84537","region":"Utah","city":"Orangeville","latitude":39.22719,"longitude":-111.0535}}(window,'GeoPostal','US');

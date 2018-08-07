@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73660"]={"code":"73660","region":"Auvergne-Rhone-Alpes","city":"Saint-Remy-de-Maurienne","latitude":45.4,"longitude":6.26667}}(window,'GeoPostal','FR');

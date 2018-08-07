@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12420"]={"code":"12420","region":"Occitanie","city":"Sainte-Genevieve-sur-Argence","latitude":44.80222,"longitude":2.75954}}(window,'GeoPostal','FR');

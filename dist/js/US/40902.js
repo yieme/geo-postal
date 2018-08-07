@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40902"]={"code":"40902","region":"KY","city":"Arjay","latitude":36.8283,"longitude":-83.6415}}(window,'GeoPostal','US');

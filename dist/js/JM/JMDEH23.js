@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDEH23"]={"code":"JMDEH23","region":"Saint Elizabeth","city":"Southfield","latitude":17.8878,"longitude":-77.66713}}(window,'GeoPostal','JM');

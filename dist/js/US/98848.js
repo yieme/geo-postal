@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98848"]={"code":"98848","region":"Washington","city":"Quincy","latitude":47.2343,"longitude":-119.85255}}(window,'GeoPostal','US');

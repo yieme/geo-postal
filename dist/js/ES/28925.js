@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28925"]={"code":"28925","region":"Madrid, Comunidad de","city":"Alcorcon","latitude":40.34582,"longitude":-3.82487}}(window,'GeoPostal','ES');

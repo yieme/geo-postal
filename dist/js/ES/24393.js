@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24393"]={"code":"24393","region":"Castilla y Leon","city":"Santa Marina del Rey","latitude":42.51334,"longitude":-5.86065}}(window,'GeoPostal','ES');

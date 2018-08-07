@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6226"]={"code":"6226","region":"Western Australia","city":"Brunswick Junction","latitude":-33.25556,"longitude":115.83655}}(window,'GeoPostal','AU');

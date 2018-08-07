@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29000"]={"code":"29000","region":"Khmelnytska oblast","city":"Khmel'nyts'kyy","latitude":49.42161,"longitude":26.99653}}(window,'GeoPostal','UA');

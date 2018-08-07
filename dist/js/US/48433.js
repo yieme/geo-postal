@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48433"]={"code":"48433","region":"Michigan","city":"Flushing","latitude":43.069269,"longitude":-83.840297}}(window,'GeoPostal','US');

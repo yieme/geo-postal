@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306230"]={"code":"306230","region":"Kurskaya oblast'","city":"Oboyan'","latitude":51.20981,"longitude":36.27919}}(window,'GeoPostal','RU');

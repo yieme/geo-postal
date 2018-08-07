@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-133"]={"code":"28-133","region":"Swietokrzyskie","city":"Olesnica","latitude":50.45357,"longitude":21.06457}}(window,'GeoPostal','PL');

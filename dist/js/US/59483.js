@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59483"]={"code":"59483","region":"MT","city":"Sun River","latitude":47.481,"longitude":-111.7242}}(window,'GeoPostal','US');

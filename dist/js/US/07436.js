@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07436"]={"code":"07436","region":"New Jersey","city":"Oakland","latitude":41.01315,"longitude":-74.26431}}(window,'GeoPostal','US');

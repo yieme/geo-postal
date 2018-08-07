@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22707"]={"code":"22707","region":"Baja California","city":"Rosarito","latitude":32.33333,"longitude":-117.03333}}(window,'GeoPostal','MX');

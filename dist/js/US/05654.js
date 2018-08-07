@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05654"]={"code":"05654","region":"VT","city":"Graniteville","latitude":44.1512,"longitude":-72.4929}}(window,'GeoPostal','US');

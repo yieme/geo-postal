@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143080"]={"code":"143080","region":"Moskovskaya oblast'","city":"Odintsovo","latitude":55.67798,"longitude":37.27773}}(window,'GeoPostal','RU');

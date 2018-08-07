@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1K0"]={"code":"G0W 1K0","region":"Quebec","city":"Saint-Augustin","latitude":48.80007,"longitude":-71.94905}}(window,'GeoPostal','CA');

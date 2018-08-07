@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72068"]={"code":"72068","region":"AR","city":"Higginson","latitude":35.1903,"longitude":-91.7108}}(window,'GeoPostal','US');

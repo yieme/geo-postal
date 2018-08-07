@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14840"]={"code":"14840","region":"New York","city":"Hammondsport","latitude":42.40889,"longitude":-77.22278}}(window,'GeoPostal','US');

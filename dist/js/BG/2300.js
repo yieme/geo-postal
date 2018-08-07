@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2300"]={"code":"2300","region":"Pernik","city":"Pernik","latitude":42.6,"longitude":23.03333}}(window,'GeoPostal','BG');

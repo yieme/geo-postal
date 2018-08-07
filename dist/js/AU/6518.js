@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6518"]={"code":"6518","region":"Western Australia","city":"Eneabba","latitude":-29.81958,"longitude":115.2659}}(window,'GeoPostal','AU');

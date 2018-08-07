@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["631-8501"]={"code":"631-8501","region":"Nara","city":"Nara","latitude":34.683,"longitude":135.8}}(window,'GeoPostal','JP');

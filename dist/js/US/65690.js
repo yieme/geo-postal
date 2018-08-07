@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65690"]={"code":"65690","region":"MO","city":"Couch","latitude":36.5853,"longitude":-91.2724}}(window,'GeoPostal','US');

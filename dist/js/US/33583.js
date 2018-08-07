@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33583"]={"code":"33583","region":"FL","city":"Seffner","latitude":27.872,"longitude":-82.4388}}(window,'GeoPostal','US');

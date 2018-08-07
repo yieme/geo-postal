@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2783"]={"code":"2783","region":"New South Wales","city":"Lawson","latitude":-33.72064,"longitude":150.42975}}(window,'GeoPostal','AU');

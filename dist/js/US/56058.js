@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56058"]={"code":"56058","region":"Minnesota","city":"Le Sueur","latitude":44.457479,"longitude":-93.906807}}(window,'GeoPostal','US');

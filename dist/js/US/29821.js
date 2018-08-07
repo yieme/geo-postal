@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29821"]={"code":"29821","region":"SC","city":"Clarks Hill","latitude":33.6505,"longitude":-82.1488}}(window,'GeoPostal','US');

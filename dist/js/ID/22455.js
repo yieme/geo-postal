@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22455"]={"code":"22455","region":"Sumatera Utara","city":"Onan Ganjang","latitude":2.1581,"longitude":98.6296}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16110"]={"code":"16110","region":"Pennsylvania","city":"Adamsville","latitude":41.629382,"longitude":-80.214241}}(window,'GeoPostal','US');

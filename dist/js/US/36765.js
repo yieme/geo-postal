@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36765"]={"code":"36765","region":"AL","city":"Newbern","latitude":32.5515,"longitude":-87.5615}}(window,'GeoPostal','US');

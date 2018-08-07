@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38504"]={"code":"38504","region":"TN","city":"Allardt","latitude":36.3818,"longitude":-84.7756}}(window,'GeoPostal','US');

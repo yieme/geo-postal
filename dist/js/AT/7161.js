@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7161"]={"code":"7161","region":"Burgenland","city":"Apetlon","latitude":47.74394,"longitude":16.8302}}(window,'GeoPostal','AT');

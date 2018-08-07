@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79353"]={"code":"79353","region":"TX","city":"Pep","latitude":33.8104,"longitude":-102.5656}}(window,'GeoPostal','US');

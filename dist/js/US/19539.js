@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19539"]={"code":"19539","region":"PA","city":"Mertztown","latitude":40.4992,"longitude":-75.6872}}(window,'GeoPostal','US');

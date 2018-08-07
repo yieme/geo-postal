@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671360"]={"code":"671360","region":"Buryatiya, Respublika","city":"Bichura","latitude":50.58806,"longitude":107.60222}}(window,'GeoPostal','RU');

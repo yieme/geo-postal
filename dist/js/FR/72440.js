@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72440"]={"code":"72440","region":"Pays-de-la-Loire","city":"Bouloire","latitude":47.97385,"longitude":0.55009}}(window,'GeoPostal','FR');

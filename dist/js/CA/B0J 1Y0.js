@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 1Y0"]={"code":"B0J 1Y0","region":"Nova Scotia","city":"Lake Charlotte","latitude":44.76752,"longitude":-62.94986}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH21 1NQ"]={"code":"PH21 1NQ","region":"Scotland","city":"Kinrara","latitude":57.13333,"longitude":-3.88333}}(window,'GeoPostal','GB');

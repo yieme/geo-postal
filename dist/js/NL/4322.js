@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4322"]={"code":"4322","region":"Zeeland","city":"Scharendijke","latitude":51.73583,"longitude":3.84306}}(window,'GeoPostal','NL');

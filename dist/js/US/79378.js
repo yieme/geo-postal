@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79378"]={"code":"79378","region":"TX","city":"Wellman","latitude":33.0473,"longitude":-102.4282}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75452"]={"code":"75452","region":"Texas","city":"Leonard","latitude":33.384906,"longitude":-96.243616}}(window,'GeoPostal','US');

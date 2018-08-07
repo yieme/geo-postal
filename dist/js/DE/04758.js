@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04758"]={"code":"04758","region":"Sachsen","city":"Klotitz","latitude":51.3628,"longitude":13.11877}}(window,'GeoPostal','DE');

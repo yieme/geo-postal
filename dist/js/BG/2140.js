@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2140"]={"code":"2140","region":"Sofia","city":"Botevgrad","latitude":42.9,"longitude":23.78333}}(window,'GeoPostal','BG');

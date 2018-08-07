@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53288"]={"code":"53288","region":"Licko-senjska zupanija","city":"Karlobag","latitude":44.5275,"longitude":15.07389}}(window,'GeoPostal','HR');

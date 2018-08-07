@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 1C4"]={"code":"B4V 1C4","region":"Nova Scotia","city":"Bridgewater","latitude":44.372218,"longitude":-64.509388}}(window,'GeoPostal','CA');

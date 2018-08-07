@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 05"]={"code":"273 05","region":"Stredocesky kraj","city":"Smecno","latitude":50.18844,"longitude":14.04037}}(window,'GeoPostal','CZ');

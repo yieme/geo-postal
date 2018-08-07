@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56014"]={"code":"56014","region":"Minnesota","city":"Bricelyn","latitude":43.56056,"longitude":-93.81194}}(window,'GeoPostal','US');

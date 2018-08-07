@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1Y0"]={"code":"J0K 1Y0","region":"Quebec","city":"Sainte-Beatrix","latitude":46.20007,"longitude":-73.61587}}(window,'GeoPostal','CA');

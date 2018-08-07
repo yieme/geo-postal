@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23967"]={"code":"23967","region":"Virginia","city":"Saxe","latitude":36.903458,"longitude":-78.61907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["651100"]={"code":"651100","region":"Yunnan","city":"Longquan","latitude":24.67192,"longitude":102.1613}}(window,'GeoPostal','CN');

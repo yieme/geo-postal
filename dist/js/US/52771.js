@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52771"]={"code":"52771","region":"IA","city":"Teeds Grove","latitude":41.9991,"longitude":-90.2187}}(window,'GeoPostal','US');

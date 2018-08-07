@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17438"]={"code":"17438","region":"Mecklenburg-Vorpommern","city":"Wolgast","latitude":54.05275,"longitude":13.77201}}(window,'GeoPostal','DE');

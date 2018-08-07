@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4310"]={"code":"4310","region":"Aargau","city":"Rheinfelden","latitude":47.55437,"longitude":7.79403}}(window,'GeoPostal','CH');

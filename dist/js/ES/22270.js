@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22270"]={"code":"22270","region":"Aragon","city":"Almudebar","latitude":42.04255,"longitude":-0.58141}}(window,'GeoPostal','ES');

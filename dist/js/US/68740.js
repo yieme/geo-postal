@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68740"]={"code":"68740","region":"NE","city":"Hoskins","latitude":42.1408,"longitude":-97.3084}}(window,'GeoPostal','US');

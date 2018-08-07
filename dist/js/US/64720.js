@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64720"]={"code":"64720","region":"Missouri","city":"Adrian","latitude":38.397887,"longitude":-94.350384}}(window,'GeoPostal','US');

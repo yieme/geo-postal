@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3187"]={"code":"3187","region":"Entre Rios","city":"San Jose de Feliciano","latitude":-30.38452,"longitude":-58.75167}}(window,'GeoPostal','AR');

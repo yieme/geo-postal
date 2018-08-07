@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67632"]={"code":"67632","region":"KS","city":"Damar","latitude":39.3242,"longitude":-99.5811}}(window,'GeoPostal','US');

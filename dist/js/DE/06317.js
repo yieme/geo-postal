@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06317"]={"code":"06317","region":"Sachsen-Anhalt","city":"Amsdorf","latitude":51.46457,"longitude":11.72705}}(window,'GeoPostal','DE');

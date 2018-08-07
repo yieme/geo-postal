@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH48 4LY"]={"code":"EH48 4LY","region":"Scotland","city":"Torphichen","latitude":55.93353,"longitude":-3.6546}}(window,'GeoPostal','GB');

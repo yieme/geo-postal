@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23841"]={"code":"23841","region":"VA","city":"Dinwiddie","latitude":37.0833,"longitude":-77.5585}}(window,'GeoPostal','US');

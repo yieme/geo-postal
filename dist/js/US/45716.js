@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45716"]={"code":"45716","region":"OH","city":"Buchtel","latitude":39.462,"longitude":-82.1818}}(window,'GeoPostal','US');

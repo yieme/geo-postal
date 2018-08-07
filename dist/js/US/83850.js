@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83850"]={"code":"83850","region":"Idaho","city":"Pinehurst","latitude":47.53881,"longitude":-116.23739}}(window,'GeoPostal','US');

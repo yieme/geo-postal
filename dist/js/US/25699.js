@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25699"]={"code":"25699","region":"WV","city":"Wilsondale","latitude":37.9537,"longitude":-82.3276}}(window,'GeoPostal','US');

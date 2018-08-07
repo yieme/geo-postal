@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03190"]={"code":"03190","region":"Auvergne-Rhone-Alpes","city":"Vallon-en-Sully","latitude":46.53676,"longitude":2.60828}}(window,'GeoPostal','FR');

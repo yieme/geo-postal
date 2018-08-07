@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73738"]={"code":"73738","region":"OK","city":"Garber","latitude":36.4392,"longitude":-97.5789}}(window,'GeoPostal','US');

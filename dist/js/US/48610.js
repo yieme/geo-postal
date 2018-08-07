@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48610"]={"code":"48610","region":"Michigan","city":"Alger","latitude":44.126518,"longitude":-84.086815}}(window,'GeoPostal','US');

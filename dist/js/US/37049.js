@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37049"]={"code":"37049","region":"TN","city":"Cross Plains","latitude":36.5531,"longitude":-86.6761}}(window,'GeoPostal','US');

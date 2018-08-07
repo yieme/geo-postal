@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94365"]={"code":"94365","region":"Bayern","city":"Parkstetten","latitude":48.91667,"longitude":12.6}}(window,'GeoPostal','DE');

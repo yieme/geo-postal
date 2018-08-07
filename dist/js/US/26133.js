@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26133"]={"code":"26133","region":"WV","city":"Belleville","latitude":39.1314,"longitude":-81.6923}}(window,'GeoPostal','US');

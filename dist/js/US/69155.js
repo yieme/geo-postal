@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69155"]={"code":"69155","region":"Nebraska","city":"Paxton","latitude":41.12472,"longitude":-101.35583}}(window,'GeoPostal','US');

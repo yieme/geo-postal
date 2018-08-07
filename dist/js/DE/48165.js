@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48165"]={"code":"48165","region":"Nordrhein-Westfalen","city":"Hiltrup","latitude":51.90629,"longitude":7.64126}}(window,'GeoPostal','DE');

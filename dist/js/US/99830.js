@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99830"]={"code":"99830","region":"Alaska","city":"Kake","latitude":56.9745,"longitude":-133.94563}}(window,'GeoPostal','US');

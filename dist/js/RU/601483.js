@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601483"]={"code":"601483","region":"Vladimirskaya oblast'","city":"Gorokhovets","latitude":56.19472,"longitude":42.70028}}(window,'GeoPostal','RU');

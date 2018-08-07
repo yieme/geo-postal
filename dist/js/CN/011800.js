@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["011800"]={"code":"011800","region":"Nei Mongol","city":"Ulan Hua","latitude":41.51306,"longitude":111.69639}}(window,'GeoPostal','CN');

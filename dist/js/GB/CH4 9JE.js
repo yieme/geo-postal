@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH4 9JE"]={"code":"CH4 9JE","region":"England","city":"Eccleston","latitude":53.15,"longitude":-2.88333}}(window,'GeoPostal','GB');

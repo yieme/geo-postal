@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L37 3PS"]={"code":"L37 3PS","region":"England","city":"Formby","latitude":53.55364,"longitude":-3.06816}}(window,'GeoPostal','GB');

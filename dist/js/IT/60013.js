@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60013"]={"code":"60013","region":"Marche","city":"Corinaldo","latitude":43.64986,"longitude":13.04816}}(window,'GeoPostal','IT');

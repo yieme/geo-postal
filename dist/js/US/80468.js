@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80468"]={"code":"80468","region":"Colorado","city":"Parshall","latitude":39.941212,"longitude":-106.153914}}(window,'GeoPostal','US');

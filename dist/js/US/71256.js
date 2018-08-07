@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71256"]={"code":"71256","region":"LA","city":"Lillie","latitude":32.9529,"longitude":-92.6858}}(window,'GeoPostal','US');

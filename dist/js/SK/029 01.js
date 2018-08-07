@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["029 01"]={"code":"029 01","region":"Zilinsky kraj","city":"Namestovo","latitude":49.4079,"longitude":19.48032}}(window,'GeoPostal','SK');

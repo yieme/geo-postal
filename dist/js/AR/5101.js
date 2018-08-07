@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5101"]={"code":"5101","region":"Cordoba","city":"Malagueno","latitude":-31.46467,"longitude":-64.3584}}(window,'GeoPostal','AR');

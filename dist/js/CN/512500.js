@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512500"]={"code":"512500","region":"Guangdong","city":"Shixing","latitude":24.94824,"longitude":114.06572}}(window,'GeoPostal','CN');

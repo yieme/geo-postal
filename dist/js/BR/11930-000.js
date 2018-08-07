@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11930-000"]={"code":"11930-000","region":"Sao Paulo","city":"Pariquera Acu","latitude":-24.715,"longitude":-47.88111}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME19 6BJ"]={"code":"ME19 6BJ","region":"England","city":"East Malling","latitude":51.28522,"longitude":0.43945}}(window,'GeoPostal','GB');

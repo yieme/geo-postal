@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43001"]={"code":"43001","region":"Monggar","city":"Mongar","latitude":27.25,"longitude":91.2}}(window,'GeoPostal','BT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1W0"]={"code":"G0M 1W0","region":"Quebec","city":"Saint-Ludger","latitude":45.75008,"longitude":-70.69903}}(window,'GeoPostal','CA');

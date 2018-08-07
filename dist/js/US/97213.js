@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97213"]={"code":"97213","region":"Oregon","city":"Portland","latitude":45.537657,"longitude":-122.600493}}(window,'GeoPostal','US');

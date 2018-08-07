@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44660"]={"code":"44660","region":"Ohio","city":"Mount Hope","latitude":40.624546,"longitude":-81.788765}}(window,'GeoPostal','US');

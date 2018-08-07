@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16333"]={"code":"16333","region":"Pennsylvania","city":"Ludlow","latitude":41.734065,"longitude":-78.918389}}(window,'GeoPostal','US');

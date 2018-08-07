@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["843009"]={"code":"843009","region":"Xinjiang","city":"Aral","latitude":40.51556,"longitude":81.26361}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6356"]={"code":"6356","region":"Western Australia","city":"Lake King","latitude":-33.08333,"longitude":119.66667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307034"]={"code":"307034","region":"Rajasthan","city":"Sirohi","latitude":24.88333,"longitude":72.86667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 8QG"]={"code":"SA48 8QG","region":"Wales","city":"Nantcwnlle","latitude":52.20656,"longitude":-4.08447}}(window,'GeoPostal','GB');

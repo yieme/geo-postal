@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62170"]={"code":"62170","region":"Hauts-de-France","city":"Montreuil","latitude":50.46667,"longitude":1.76667}}(window,'GeoPostal','FR');

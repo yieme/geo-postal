@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67441"]={"code":"67441","region":"KS","city":"Enterprise","latitude":38.9063,"longitude":-97.1122}}(window,'GeoPostal','US');

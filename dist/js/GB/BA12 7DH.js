@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7DH"]={"code":"BA12 7DH","region":"England","city":"Longbridge Deverill","latitude":51.16647,"longitude":-2.18831}}(window,'GeoPostal','GB');

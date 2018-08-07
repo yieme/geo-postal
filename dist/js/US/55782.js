@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55782"]={"code":"55782","region":"MN","city":"Soudan","latitude":47.821,"longitude":-92.2464}}(window,'GeoPostal','US');

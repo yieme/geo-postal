@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55383"]={"code":"55383","region":"MN","city":"Norwood","latitude":44.768,"longitude":-93.9275}}(window,'GeoPostal','US');

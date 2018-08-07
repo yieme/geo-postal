@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110450"]={"code":"110450","region":"Loja","city":"Celica","latitude":-4.11667,"longitude":-79.95}}(window,'GeoPostal','EC');

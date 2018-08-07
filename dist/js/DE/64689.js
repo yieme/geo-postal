@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64689"]={"code":"64689","region":"Hessen","city":"Wahlen","latitude":49.61559,"longitude":8.85747}}(window,'GeoPostal','DE');

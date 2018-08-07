@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13158"]={"code":"13158","region":"NY","city":"Truxton","latitude":42.7085,"longitude":-76.0189}}(window,'GeoPostal','US');

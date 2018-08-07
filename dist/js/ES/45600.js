@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45600"]={"code":"45600","region":"Castilla-La Mancha","city":"Talavera de la Reina","latitude":39.96348,"longitude":-4.83076}}(window,'GeoPostal','ES');

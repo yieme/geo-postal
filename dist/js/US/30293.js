@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30293"]={"code":"30293","region":"Georgia","city":"Woodbury","latitude":32.975139,"longitude":-84.590986}}(window,'GeoPostal','US');

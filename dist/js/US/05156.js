@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05156"]={"code":"05156","region":"Vermont","city":"Springfield","latitude":43.28946,"longitude":-72.47478}}(window,'GeoPostal','US');

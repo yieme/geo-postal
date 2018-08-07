@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48048"]={"code":"48048","region":"Michigan","city":"New Haven","latitude":42.73806,"longitude":-82.80102}}(window,'GeoPostal','US');

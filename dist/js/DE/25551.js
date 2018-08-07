@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25551"]={"code":"25551","region":"Schleswig-Holstein","city":"Hohenlockstedt","latitude":53.96667,"longitude":9.61667}}(window,'GeoPostal','DE');

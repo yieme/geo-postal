@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3057"]={"code":"3057","region":"Lara","city":"El Tocuyo","latitude":9.78734,"longitude":-69.7937}}(window,'GeoPostal','VE');

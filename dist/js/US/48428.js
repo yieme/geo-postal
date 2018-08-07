@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48428"]={"code":"48428","region":"MI","city":"Dryden","latitude":42.9378,"longitude":-83.1501}}(window,'GeoPostal','US');

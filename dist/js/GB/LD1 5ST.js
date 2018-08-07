@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD1 5ST"]={"code":"LD1 5ST","region":"Wales","city":"Llanbadarn-fawr","latitude":52.26667,"longitude":-3.35}}(window,'GeoPostal','GB');

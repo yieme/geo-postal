@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26194"]={"code":"26194","region":"Skane lan","city":"Landskrona","latitude":55.8708,"longitude":12.83016}}(window,'GeoPostal','SE');

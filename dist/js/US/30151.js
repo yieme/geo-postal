@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30151"]={"code":"30151","region":"Georgia","city":"Nelson","latitude":34.38204,"longitude":-84.37103}}(window,'GeoPostal','US');

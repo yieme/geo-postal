@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12510"]={"code":"12510","region":"NY","city":"Billings","latitude":41.6712,"longitude":-73.7632}}(window,'GeoPostal','US');

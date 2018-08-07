@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27582"]={"code":"27582","region":"North Carolina","city":"Stovall","latitude":36.447709,"longitude":-78.569449}}(window,'GeoPostal','US');

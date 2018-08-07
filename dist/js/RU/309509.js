@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309509"]={"code":"309509","region":"Belgorodskaya oblast'","city":"Staryy Oskol","latitude":51.29667,"longitude":37.84167}}(window,'GeoPostal','RU');

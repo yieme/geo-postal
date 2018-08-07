@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2172"]={"code":"2172","region":"Zuid-Holland","city":"Sassenheim","latitude":52.225,"longitude":4.52222}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28515"]={"code":"28515","region":"North Carolina","city":"Bayboro","latitude":35.14294,"longitude":-76.77021}}(window,'GeoPostal','US');

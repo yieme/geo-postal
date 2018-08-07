@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29679"]={"code":"29679","region":"Bretagne","city":"Morlaix","latitude":48.58333,"longitude":-3.83333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30746"]={"code":"30746","region":"GA","city":"Sugar Valley","latitude":34.5519,"longitude":-85.026}}(window,'GeoPostal','US');

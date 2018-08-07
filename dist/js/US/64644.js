@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64644"]={"code":"64644","region":"Missouri","city":"Hamilton","latitude":39.74362,"longitude":-93.99827}}(window,'GeoPostal','US');

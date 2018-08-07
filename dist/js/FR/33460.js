@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33460"]={"code":"33460","region":"Nouvelle-Aquitaine","city":"Arsac","latitude":44.99688,"longitude":-0.68976}}(window,'GeoPostal','FR');

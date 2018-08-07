@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38802"]={"code":"38802","region":"Mississippi","city":"Tupelo","latitude":34.2719,"longitude":-88.7026}}(window,'GeoPostal','US');

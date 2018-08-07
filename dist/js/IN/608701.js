@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["608701"]={"code":"608701","region":"Tamil Nadu","city":"Chidambaram","latitude":11.4,"longitude":79.7}}(window,'GeoPostal','IN');

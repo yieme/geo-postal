@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-015"]={"code":"26-015","region":"Swietokrzyskie","city":"Pierzchnica","latitude":50.69754,"longitude":20.75489}}(window,'GeoPostal','PL');

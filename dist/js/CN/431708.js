@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431708"]={"code":"431708","region":"Hubei","city":"Jingling","latitude":30.65,"longitude":113.1}}(window,'GeoPostal','CN');

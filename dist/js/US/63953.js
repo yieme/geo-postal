@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63953"]={"code":"63953","region":"MO","city":"Naylor","latitude":36.5843,"longitude":-90.6124}}(window,'GeoPostal','US');

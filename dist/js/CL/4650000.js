@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4650000"]={"code":"4650000","region":"La Araucania","city":"Angol","latitude":-37.8,"longitude":-72.71667}}(window,'GeoPostal','CL');

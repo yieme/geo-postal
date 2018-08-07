@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67122"]={"code":"67122","region":"Rheinland-Pfalz","city":"Altrip","latitude":49.43556,"longitude":8.49472}}(window,'GeoPostal','DE');

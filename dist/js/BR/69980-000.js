@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69980-000"]={"code":"69980-000","region":"Acre","city":"Mancio Lima","latitude":-7.61417,"longitude":-72.89583}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97754"]={"code":"97754","region":"Oregon","city":"Prineville","latitude":44.29985,"longitude":-120.83447}}(window,'GeoPostal','US');

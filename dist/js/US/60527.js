@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60527"]={"code":"60527","region":"Illinois","city":"Burr Ridge","latitude":41.84182,"longitude":-87.95104}}(window,'GeoPostal','US');

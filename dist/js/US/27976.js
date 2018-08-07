@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27976"]={"code":"27976","region":"NC","city":"South Mills","latitude":36.4536,"longitude":-76.3033}}(window,'GeoPostal','US');

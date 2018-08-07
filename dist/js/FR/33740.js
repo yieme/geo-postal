@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33740"]={"code":"33740","region":"Nouvelle-Aquitaine","city":"Ares","latitude":44.76667,"longitude":-1.13333}}(window,'GeoPostal','FR');

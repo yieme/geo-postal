@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42700"]={"code":"42700","region":"Hidalgo","city":"Mixquiahuala","latitude":20.23333,"longitude":-99.21667}}(window,'GeoPostal','MX');

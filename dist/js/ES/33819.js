@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33819"]={"code":"33819","region":"Asturias, Principado de","city":"Cangas del Narcea","latitude":43.18333,"longitude":-6.55}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29360"]={"code":"29360","region":"South Carolina","city":"Laurens","latitude":34.499113,"longitude":-82.024156}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97543"]={"code":"97543","region":"OR","city":"Wilderville","latitude":42.3751,"longitude":-123.5621}}(window,'GeoPostal','US');

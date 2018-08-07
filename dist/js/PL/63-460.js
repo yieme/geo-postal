@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-460"]={"code":"63-460","region":"Wielkopolskie","city":"Nowe Skalmierzyce","latitude":51.71038,"longitude":17.99337}}(window,'GeoPostal','PL');

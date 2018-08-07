@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 1SA"]={"code":"TA5 1SA","region":"England","city":"Holford","latitude":51.16126,"longitude":-3.21007}}(window,'GeoPostal','GB');

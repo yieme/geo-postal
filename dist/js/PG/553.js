@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["553"]={"code":"553","region":"West Sepik","city":"Aitape","latitude":-3.13744,"longitude":142.3475}}(window,'GeoPostal','PG');

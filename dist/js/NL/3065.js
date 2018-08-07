@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3065"]={"code":"3065","region":"Zuid-Holland","city":"Capelle-West","latitude":51.91667,"longitude":4.56667}}(window,'GeoPostal','NL');

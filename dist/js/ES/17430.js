@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17430"]={"code":"17430","region":"Catalunya","city":"Santa Coloma de Farners","latitude":41.86667,"longitude":2.66667}}(window,'GeoPostal','ES');

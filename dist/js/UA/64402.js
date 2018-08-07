@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64402"]={"code":"64402","region":"Kharkivska oblast","city":"Zachepylivka","latitude":49.19385,"longitude":35.23943}}(window,'GeoPostal','UA');

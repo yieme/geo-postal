@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75447"]={"code":"75447","region":"TX","city":"Ivanhoe","latitude":33.7612,"longitude":-96.1193}}(window,'GeoPostal','US');

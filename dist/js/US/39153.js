@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39153"]={"code":"39153","region":"Mississippi","city":"Raleigh","latitude":32.03349,"longitude":-89.52229}}(window,'GeoPostal','US');

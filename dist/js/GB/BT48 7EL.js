@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT48 7EL"]={"code":"BT48 7EL","region":"Northern Ireland","city":"Derry","latitude":54.9981,"longitude":-7.30934}}(window,'GeoPostal','GB');

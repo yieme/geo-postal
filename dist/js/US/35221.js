@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35221"]={"code":"35221","region":"Alabama","city":"Midfield","latitude":33.453596,"longitude":-86.893918}}(window,'GeoPostal','US');

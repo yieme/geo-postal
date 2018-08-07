@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["085-0062"]={"code":"085-0062","region":"Hokkaido","city":"Kushiro","latitude":42.983,"longitude":144.383}}(window,'GeoPostal','JP');

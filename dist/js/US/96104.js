@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96104"]={"code":"96104","region":"CA","city":"Cedarville","latitude":41.4759,"longitude":-120.1516}}(window,'GeoPostal','US');

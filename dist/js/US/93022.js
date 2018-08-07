@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93022"]={"code":"93022","region":"California","city":"Oak View","latitude":34.401698,"longitude":-119.297552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58830"]={"code":"58830","region":"North Dakota","city":"Alamo","latitude":48.589946,"longitude":-103.406212}}(window,'GeoPostal','US');

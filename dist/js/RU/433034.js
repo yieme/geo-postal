@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433034"]={"code":"433034","region":"Ul'yanovskaya oblast'","city":"Inza","latitude":53.85672,"longitude":46.35622}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44837"]={"code":"44837","region":"OH","city":"Greenwich","latitude":41.0407,"longitude":-82.5133}}(window,'GeoPostal','US');

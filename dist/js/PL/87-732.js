@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-732"]={"code":"87-732","region":"Kujawsko-pomorskie","city":"Lubanie","latitude":52.74689,"longitude":18.9194}}(window,'GeoPostal','PL');

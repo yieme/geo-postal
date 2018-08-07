@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["387365"]={"code":"387365","region":"Gujarat","city":"Kapadvanj","latitude":23.01667,"longitude":73.06667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60479"]={"code":"60479","region":"IL","city":"Verona","latitude":41.2501,"longitude":-88.517}}(window,'GeoPostal','US');

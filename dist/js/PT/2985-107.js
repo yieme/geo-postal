@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2985-107"]={"code":"2985-107","region":"Setubal","city":"Quinta do Anjo","latitude":38.56753,"longitude":-8.94228}}(window,'GeoPostal','PT');

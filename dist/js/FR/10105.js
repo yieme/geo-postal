@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10105"]={"code":"10105","region":"Grand-Est","city":"Romilly-sur-Seine","latitude":48.51085,"longitude":3.72634}}(window,'GeoPostal','FR');

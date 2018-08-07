@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1060"]={"code":"1060","region":"Miranda","city":"Chacao","latitude":10.49598,"longitude":-66.85347}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93255"]={"code":"93255","region":"CA","city":"Onyx","latitude":35.6824,"longitude":-118.0959}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79329"]={"code":"79329","region":"TX","city":"Idalou","latitude":33.6504,"longitude":-101.6786}}(window,'GeoPostal','US');

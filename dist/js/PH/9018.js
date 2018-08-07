@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9018"]={"code":"9018","region":"Misamis Oriental","city":"Lourdes","latitude":8.525,"longitude":124.43222}}(window,'GeoPostal','PH');

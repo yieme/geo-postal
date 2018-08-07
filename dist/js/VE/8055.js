@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8055"]={"code":"8055","region":"Bolivar","city":"Guasipati","latitude":7.47154,"longitude":-61.893584}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8250"]={"code":"8250","region":"Burgas","city":"Obzor","latitude":42.81667,"longitude":27.88333}}(window,'GeoPostal','BG');

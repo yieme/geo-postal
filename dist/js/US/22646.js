@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22646"]={"code":"22646","region":"Virginia","city":"Millwood","latitude":39.06942,"longitude":-78.03798}}(window,'GeoPostal','US');

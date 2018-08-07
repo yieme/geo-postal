@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56327"]={"code":"56327","region":"MN","city":"Farwell","latitude":45.7244,"longitude":-95.6656}}(window,'GeoPostal','US');

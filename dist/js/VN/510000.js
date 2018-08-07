@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["510000"]={"code":"510000","region":"Quang Binh","city":"Dong Hoi","latitude":17.48333,"longitude":106.6}}(window,'GeoPostal','VN');

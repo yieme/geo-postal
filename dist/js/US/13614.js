@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13614"]={"code":"13614","region":"NY","city":"Brier Hill","latitude":44.5525,"longitude":-75.6722}}(window,'GeoPostal','US');

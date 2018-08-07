@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91026"]={"code":"91026","region":"Tanger-Tetouan","city":"Brikcha","latitude":34.96732,"longitude":-5.57295}}(window,'GeoPostal','MA');

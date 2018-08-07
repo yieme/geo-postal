@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33440"]={"code":"33440","region":"Florida","city":"Clewiston","latitude":26.75423,"longitude":-80.93368}}(window,'GeoPostal','US');

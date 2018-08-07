@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46542"]={"code":"46542","region":"Indiana","city":"Milford","latitude":41.408948,"longitude":-85.848286}}(window,'GeoPostal','US');

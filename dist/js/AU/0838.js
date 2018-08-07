@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0838"]={"code":"0838","region":"Northern Territory","city":"Darwin River","latitude":-12.8193,"longitude":130.96974}}(window,'GeoPostal','AU');

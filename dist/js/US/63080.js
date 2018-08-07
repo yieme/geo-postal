@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63080"]={"code":"63080","region":"Missouri","city":"Sullivan","latitude":38.26128,"longitude":-91.14156}}(window,'GeoPostal','US');

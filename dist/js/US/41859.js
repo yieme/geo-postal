@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41859"]={"code":"41859","region":"Kentucky","city":"Dema","latitude":37.431081,"longitude":-82.850196}}(window,'GeoPostal','US');

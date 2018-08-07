@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21600"]={"code":"21600","region":"Bheri","city":"Dailekh","latitude":28.84434,"longitude":81.71011}}(window,'GeoPostal','NP');

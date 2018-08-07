@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10975"]={"code":"10975","region":"NY","city":"Southfields","latitude":41.248,"longitude":-74.1762}}(window,'GeoPostal','US');

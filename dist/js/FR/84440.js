@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84440"]={"code":"84440","region":"Provence-Alpes-Cote d'Azur","city":"Robion","latitude":43.84707,"longitude":5.10975}}(window,'GeoPostal','FR');

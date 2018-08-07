@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46980-000"]={"code":"46980-000","region":"Bahia","city":"Iraquara","latitude":-12.24861,"longitude":-41.61944}}(window,'GeoPostal','BR');

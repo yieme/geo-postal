@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42722"]={"code":"42722","region":"KY","city":"Canmer","latitude":37.2696,"longitude":-85.7203}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17764"]={"code":"17764","region":"Stockholms lan","city":"Jakobsberg","latitude":59.42268,"longitude":17.83508}}(window,'GeoPostal','SE');

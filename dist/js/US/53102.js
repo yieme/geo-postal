@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53102"]={"code":"53102","region":"WI","city":"Benet Lake","latitude":42.5001,"longitude":-88.08}}(window,'GeoPostal','US');

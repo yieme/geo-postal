@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97378"]={"code":"97378","region":"Oregon","city":"Sheridan","latitude":45.113749,"longitude":-123.395423}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46065"]={"code":"46065","region":"Vastra Gotalands lan","city":"Bralanda","latitude":58.56667,"longitude":12.36667}}(window,'GeoPostal','SE');

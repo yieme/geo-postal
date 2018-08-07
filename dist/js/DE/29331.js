@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29331"]={"code":"29331","region":"Niedersachsen","city":"Lachendorf","latitude":52.61667,"longitude":10.25}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21013"]={"code":"21013","region":"Lombardia","city":"Gallarate","latitude":45.66019,"longitude":8.79164}}(window,'GeoPostal','IT');

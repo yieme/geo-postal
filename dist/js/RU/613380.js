@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613380"]={"code":"613380","region":"Kirovskaya oblast'","city":"Pizhanka","latitude":57.46042,"longitude":48.542}}(window,'GeoPostal','RU');

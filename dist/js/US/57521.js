@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57521"]={"code":"57521","region":"South Dakota","city":"Belvidere","latitude":43.901625,"longitude":-101.247919}}(window,'GeoPostal','US');

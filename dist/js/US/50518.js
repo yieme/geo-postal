@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50518"]={"code":"50518","region":"IA","city":"Barnum","latitude":42.5159,"longitude":-94.3703}}(window,'GeoPostal','US');

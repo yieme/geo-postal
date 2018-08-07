@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS8671"]={"code":"BS8671","region":"Brunei-Muara","city":"Bandar Seri Begawan","latitude":4.94029,"longitude":114.94806}}(window,'GeoPostal','BN');

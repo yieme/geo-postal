@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61281"]={"code":"61281","region":"IL","city":"Sherrard","latitude":41.3027,"longitude":-90.4939}}(window,'GeoPostal','US');

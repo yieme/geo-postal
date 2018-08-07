@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83112"]={"code":"83112","region":"Bayern","city":"Ginnerting","latitude":47.80497,"longitude":12.27405}}(window,'GeoPostal','DE');

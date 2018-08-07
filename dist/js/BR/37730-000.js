@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37730-000"]={"code":"37730-000","region":"Minas Gerais","city":"Campestre","latitude":-21.71111,"longitude":-46.24639}}(window,'GeoPostal','BR');

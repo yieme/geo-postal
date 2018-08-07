@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307321"]={"code":"307321","region":"Bihor","city":"Pietroasa","latitude":45.83333,"longitude":22.4}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38140-000"]={"code":"38140-000","region":"Minas Gerais","city":"Prata","latitude":-19.30722,"longitude":-48.92417}}(window,'GeoPostal','BR');

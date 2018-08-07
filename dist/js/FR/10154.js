@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10154"]={"code":"10154","region":"Grand-Est","city":"Pont-Sainte-Marie","latitude":48.31848,"longitude":4.09447}}(window,'GeoPostal','FR');

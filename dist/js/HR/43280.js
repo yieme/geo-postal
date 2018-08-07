@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43280"]={"code":"43280","region":"Bjelovarsko-bilogorska zupanija","city":"Garesnica","latitude":45.57444,"longitude":16.94139}}(window,'GeoPostal','HR');

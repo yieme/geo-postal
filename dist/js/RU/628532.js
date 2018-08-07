@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628532"]={"code":"628532","region":"Sverdlovskaya oblast'","city":"Lugovskoy","latitude":56.95849,"longitude":64.52897}}(window,'GeoPostal','RU');

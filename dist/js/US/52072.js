@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52072"]={"code":"52072","region":"IA","city":"Saint Olaf","latitude":42.922,"longitude":-91.3778}}(window,'GeoPostal','US');

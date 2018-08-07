@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["854 00"]={"code":"854 00","region":"Notio Aigaio","city":"Lakkion","latitude":37.13333,"longitude":26.85}}(window,'GeoPostal','GR');

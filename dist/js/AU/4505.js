@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4505"]={"code":"4505","region":"Queensland","city":"Burpengary","latitude":-27.15746,"longitude":152.95758}}(window,'GeoPostal','AU');

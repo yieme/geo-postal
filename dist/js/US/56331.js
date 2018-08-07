@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56331"]={"code":"56331","region":"Minnesota","city":"Freeport","latitude":45.681364,"longitude":-94.679753}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169933"]={"code":"169933","region":"Komi, Respublika","city":"Tsementnozavodskiy","latitude":67.61667,"longitude":64.1}}(window,'GeoPostal','RU');

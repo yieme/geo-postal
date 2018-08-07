@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25143"]={"code":"25143","region":"West Virginia","city":"Nitro","latitude":38.410058,"longitude":-81.829986}}(window,'GeoPostal','US');

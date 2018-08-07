@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692815"]={"code":"692815","region":"Primorskiy kray","city":"Shkotovo","latitude":43.33194,"longitude":132.3625}}(window,'GeoPostal','RU');

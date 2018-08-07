@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530 72"]={"code":"530 72","region":"Dytiki Makedonia","city":"Xinon Neron","latitude":40.68333,"longitude":21.61667}}(window,'GeoPostal','GR');

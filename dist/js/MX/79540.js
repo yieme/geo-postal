@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79540"]={"code":"79540","region":"San Luis Potosi","city":"Zaragoza","latitude":22.03333,"longitude":-100.73333}}(window,'GeoPostal','MX');

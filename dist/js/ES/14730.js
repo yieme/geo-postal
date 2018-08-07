@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14730"]={"code":"14730","region":"Andalucia","city":"Posadas","latitude":37.80205,"longitude":-5.10726}}(window,'GeoPostal','ES');

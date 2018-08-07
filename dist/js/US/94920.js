@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94920"]={"code":"94920","region":"California","city":"Tiburon","latitude":37.89126,"longitude":-122.47284}}(window,'GeoPostal','US');

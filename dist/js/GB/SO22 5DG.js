@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO22 5DG"]={"code":"SO22 5DG","region":"England","city":"Winchester","latitude":51.06513,"longitude":-1.3187}}(window,'GeoPostal','GB');

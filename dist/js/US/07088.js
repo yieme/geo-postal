@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07088"]={"code":"07088","region":"NJ","city":"Vauxhall","latitude":40.7179,"longitude":-74.2829}}(window,'GeoPostal','US');

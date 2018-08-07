@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51058"]={"code":"51058","region":"IA","city":"Sutherland","latitude":42.9826,"longitude":-95.4807}}(window,'GeoPostal','US');

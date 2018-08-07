@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64088"]={"code":"64088","region":"Missouri","city":"Liberty","latitude":39.160163,"longitude":-94.187762}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98450"]={"code":"98450","region":"WA","city":"Wa State Lottery","latitude":47.25,"longitude":-122.44}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79270"]={"code":"79270","region":"Nouvelle-Aquitaine","city":"Epannes","latitude":46.2314,"longitude":-0.5825}}(window,'GeoPostal','FR');

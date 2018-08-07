@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43364"]={"code":"43364","region":"Jawa Barat","city":"Bojonggaling","latitude":-6.99667,"longitude":106.64083}}(window,'GeoPostal','ID');

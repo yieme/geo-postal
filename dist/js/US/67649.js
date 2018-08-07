@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67649"]={"code":"67649","region":"KS","city":"Luray","latitude":39.1039,"longitude":-98.6851}}(window,'GeoPostal','US');

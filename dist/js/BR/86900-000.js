@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86900-000"]={"code":"86900-000","region":"Parana","city":"Jandaia do Sul","latitude":-23.60306,"longitude":-51.64333}}(window,'GeoPostal','BR');

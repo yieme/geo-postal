@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05085"]={"code":"05085","region":"VT","city":"West Newbury","latitude":44.0645,"longitude":-72.1248}}(window,'GeoPostal','US');

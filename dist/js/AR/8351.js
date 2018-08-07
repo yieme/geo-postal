@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8351"]={"code":"8351","region":"Neuquen","city":"Mariano Moreno","latitude":-38.75029,"longitude":-70.02367}}(window,'GeoPostal','AR');

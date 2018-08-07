@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5280"]={"code":"5280","region":"Ammochostos","city":"Paralimni","latitude":35.0375,"longitude":33.98333}}(window,'GeoPostal','CY');

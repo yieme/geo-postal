@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72140"]={"code":"72140","region":"Arkansas","city":"Saint Charles","latitude":34.33698,"longitude":-91.18182}}(window,'GeoPostal','US');

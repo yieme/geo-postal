@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68648"]={"code":"68648","region":"NE","city":"Morse Bluff","latitude":41.4178,"longitude":-96.7862}}(window,'GeoPostal','US');

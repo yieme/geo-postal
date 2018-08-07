@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46340"]={"code":"46340","region":"IN","city":"Hanna","latitude":41.4088,"longitude":-86.7759}}(window,'GeoPostal','US');

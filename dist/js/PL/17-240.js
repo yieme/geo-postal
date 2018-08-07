@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-240"]={"code":"17-240","region":"Podlaskie","city":"Czeremcha","latitude":52.51667,"longitude":23.35}}(window,'GeoPostal','PL');

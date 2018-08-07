@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53935"]={"code":"53935","region":"WI","city":"Friesland","latitude":43.5901,"longitude":-89.0593}}(window,'GeoPostal','US');

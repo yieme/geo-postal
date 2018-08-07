@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454 45"]={"code":"454 45","region":"Ipeiros","city":"Eleousa","latitude":39.70639,"longitude":20.7925}}(window,'GeoPostal','GR');

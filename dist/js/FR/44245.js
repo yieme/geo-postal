@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44245"]={"code":"44245","region":"Pays-de-la-Loire","city":"La Chapelle-sur-Erdre","latitude":47.29584,"longitude":-1.55309}}(window,'GeoPostal','FR');

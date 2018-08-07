@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22869"]={"code":"22869","region":"Schleswig-Holstein","city":"Schenefeld","latitude":53.6,"longitude":9.85}}(window,'GeoPostal','DE');

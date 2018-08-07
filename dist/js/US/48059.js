@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48059"]={"code":"48059","region":"MI","city":"Fort Gratiot","latitude":43.0888,"longitude":-82.4905}}(window,'GeoPostal','US');

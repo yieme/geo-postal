@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6801"]={"code":"MD-6801","region":"Ialoveni","city":"Ialoveni","latitude":46.94306,"longitude":28.77778}}(window,'GeoPostal','MD');

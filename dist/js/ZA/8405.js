@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8405"]={"code":"8405","region":"Northern Cape","city":"Danielskuil","latitude":-28.18873,"longitude":23.53951}}(window,'GeoPostal','ZA');

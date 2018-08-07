@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29101"]={"code":"29101","region":"Satakunta","city":"Luvia","latitude":61.36375,"longitude":21.62556}}(window,'GeoPostal','FI');

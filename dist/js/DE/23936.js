@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23936"]={"code":"23936","region":"Mecklenburg-Vorpommern","city":"Wotenitz","latitude":53.83558,"longitude":11.18038}}(window,'GeoPostal','DE');

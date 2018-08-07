@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63764"]={"code":"63764","region":"Missouri","city":"Marble Hill","latitude":37.30589,"longitude":-89.97038}}(window,'GeoPostal','US');

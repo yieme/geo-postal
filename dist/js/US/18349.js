@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18349"]={"code":"18349","region":"PA","city":"Pocono Manor","latitude":41.1001,"longitude":-75.3588}}(window,'GeoPostal','US');

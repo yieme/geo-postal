@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20290"]={"code":"20290","region":"Corse","city":"Borgo","latitude":42.55488,"longitude":9.42636}}(window,'GeoPostal','FR');

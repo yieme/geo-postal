@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69353"]={"code":"69353","region":"NE","city":"Mcgrew","latitude":41.7469,"longitude":-103.4164}}(window,'GeoPostal','US');

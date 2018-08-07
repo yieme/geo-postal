@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70466"]={"code":"70466","region":"LA","city":"Tickfaw","latitude":30.5668,"longitude":-90.482}}(window,'GeoPostal','US');

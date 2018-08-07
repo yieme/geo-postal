@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21128"]={"code":"21128","region":"Maryland","city":"Perry Hall","latitude":39.404373,"longitude":-76.448239}}(window,'GeoPostal','US');

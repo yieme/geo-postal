@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15772"]={"code":"15772","region":"Pennsylvania","city":"Rossiter","latitude":40.893138,"longitude":-78.932832}}(window,'GeoPostal','US');

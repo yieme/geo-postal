@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47556"]={"code":"47556","region":"IN","city":"Mariah Hill","latitude":38.1664,"longitude":-86.9172}}(window,'GeoPostal','US');

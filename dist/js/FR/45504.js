@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45504"]={"code":"45504","region":"Centre-Val de Loire","city":"Gien","latitude":47.69332,"longitude":2.63094}}(window,'GeoPostal','FR');

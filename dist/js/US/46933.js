@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46933"]={"code":"46933","region":"Indiana","city":"Gas City","latitude":40.488212,"longitude":-85.606507}}(window,'GeoPostal','US');

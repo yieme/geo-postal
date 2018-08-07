@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77434"]={"code":"77434","region":"Ivano-Frankivska oblast","city":"Kalush","latitude":49.01187,"longitude":24.37308}}(window,'GeoPostal','UA');

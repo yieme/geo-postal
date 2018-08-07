@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30516"]={"code":"30516","region":"Georgia","city":"Bowersville","latitude":34.400125,"longitude":-83.047078}}(window,'GeoPostal','US');

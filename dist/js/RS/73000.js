@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73000"]={"code":"73000","region":"Prizrenski okrug","city":"Strpce","latitude":42.23944,"longitude":21.02722}}(window,'GeoPostal','RS');

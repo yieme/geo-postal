@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12980"]={"code":"12980","region":"New York","city":"Saint Regis Falls","latitude":44.66892,"longitude":-74.6493}}(window,'GeoPostal','US');

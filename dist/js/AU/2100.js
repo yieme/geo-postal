@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2100"]={"code":"2100","region":"New South Wales","city":"Brookvale","latitude":-33.76667,"longitude":151.26667}}(window,'GeoPostal','AU');

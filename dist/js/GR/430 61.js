@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430 61"]={"code":"430 61","region":"Attiki","city":"Magoula","latitude":39.45556,"longitude":21.80278}}(window,'GeoPostal','GR');

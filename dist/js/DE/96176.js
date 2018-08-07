@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96176"]={"code":"96176","region":"Bayern","city":"Kraisdorf","latitude":50.13699,"longitude":10.72596}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37359"]={"code":"37359","region":"Thuringen","city":"Kullstedt","latitude":51.28333,"longitude":10.28333}}(window,'GeoPostal','DE');

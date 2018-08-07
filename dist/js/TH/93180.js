@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93180"]={"code":"93180","region":"Phatthalung","city":"Srinagarindra","latitude":7.56991,"longitude":99.94353}}(window,'GeoPostal','TH');

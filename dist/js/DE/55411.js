@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55411"]={"code":"55411","region":"Rheinland-Pfalz","city":"Kempten","latitude":49.96729,"longitude":7.93702}}(window,'GeoPostal','DE');

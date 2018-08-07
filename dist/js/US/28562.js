@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28562"]={"code":"28562","region":"North Carolina","city":"Trent Woods","latitude":35.07174,"longitude":-77.09958}}(window,'GeoPostal','US');

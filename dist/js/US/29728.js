@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29728"]={"code":"29728","region":"South Carolina","city":"Pageland","latitude":34.77321,"longitude":-80.39173}}(window,'GeoPostal','US');

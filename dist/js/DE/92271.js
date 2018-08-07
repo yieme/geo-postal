@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92271"]={"code":"92271","region":"Bayern","city":"Freihung","latitude":49.62134,"longitude":11.90817}}(window,'GeoPostal','DE');

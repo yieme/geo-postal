@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39356"]={"code":"39356","region":"MS","city":"Rose Hill","latitude":32.1489,"longitude":-89.0011}}(window,'GeoPostal','US');

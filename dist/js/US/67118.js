@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67118"]={"code":"67118","region":"Kansas","city":"Norwich","latitude":37.45778,"longitude":-97.84722}}(window,'GeoPostal','US');

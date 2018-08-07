@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137135"]={"code":"137135","region":"Dambovita","city":"Corbii Mari","latitude":44.55,"longitude":25.5}}(window,'GeoPostal','RO');

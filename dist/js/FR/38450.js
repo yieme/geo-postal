@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38450"]={"code":"38450","region":"Auvergne-Rhone-Alpes","city":"Vif","latitude":45.05436,"longitude":5.67757}}(window,'GeoPostal','FR');

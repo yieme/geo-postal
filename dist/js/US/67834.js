@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67834"]={"code":"67834","region":"KS","city":"Bucklin","latitude":37.553,"longitude":-99.6325}}(window,'GeoPostal','US');

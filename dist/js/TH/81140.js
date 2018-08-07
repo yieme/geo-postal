@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81140"]={"code":"81140","region":"Surat Thani","city":"Chai Buri","latitude":8.46222,"longitude":99.07631}}(window,'GeoPostal','TH');

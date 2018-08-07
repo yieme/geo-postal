@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27839"]={"code":"27839","region":"North Carolina","city":"Halifax","latitude":36.326896,"longitude":-77.590743}}(window,'GeoPostal','US');

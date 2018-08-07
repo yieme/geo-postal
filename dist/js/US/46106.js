@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46106"]={"code":"46106","region":"Indiana","city":"Bargersville","latitude":39.52088,"longitude":-86.16777}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH14 0SF"]={"code":"RH14 0SF","region":"England","city":"Loxwood","latitude":51.07781,"longitude":-0.51872}}(window,'GeoPostal','GB');

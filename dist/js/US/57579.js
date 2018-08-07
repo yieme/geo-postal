@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57579"]={"code":"57579","region":"South Dakota","city":"White River","latitude":43.56805,"longitude":-100.74542}}(window,'GeoPostal','US');

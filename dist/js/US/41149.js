@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41149"]={"code":"41149","region":"Kentucky","city":"Isonville","latitude":38.062698,"longitude":-83.03997}}(window,'GeoPostal','US');

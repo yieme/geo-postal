@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607595"]={"code":"607595","region":"Bacau","city":"Strugari","latitude":46.53333,"longitude":26.71667}}(window,'GeoPostal','RO');

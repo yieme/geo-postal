@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45304"]={"code":"45304","region":"OH","city":"Arcanum","latitude":39.9888,"longitude":-84.5312}}(window,'GeoPostal','US');

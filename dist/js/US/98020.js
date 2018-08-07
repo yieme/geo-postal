@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98020"]={"code":"98020","region":"Washington","city":"Edmonds","latitude":47.81065,"longitude":-122.37736}}(window,'GeoPostal','US');

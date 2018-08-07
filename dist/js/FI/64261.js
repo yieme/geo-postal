@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64261"]={"code":"64261","region":"Pohjanmaa","city":"Kaskinen","latitude":62.38444,"longitude":21.22331}}(window,'GeoPostal','FI');

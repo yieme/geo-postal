@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62883"]={"code":"62883","region":"Illinois","city":"Scheller","latitude":38.167742,"longitude":-89.095618}}(window,'GeoPostal','US');

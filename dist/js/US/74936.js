@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74936"]={"code":"74936","region":"Oklahoma","city":"Gans","latitude":35.38722,"longitude":-94.69389}}(window,'GeoPostal','US');

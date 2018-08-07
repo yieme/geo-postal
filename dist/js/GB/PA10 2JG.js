@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA10 2JG"]={"code":"PA10 2JG","region":"Scotland","city":"Kilbarchan","latitude":55.8362,"longitude":-4.55356}}(window,'GeoPostal','GB');

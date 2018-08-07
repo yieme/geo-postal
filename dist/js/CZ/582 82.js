@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582 82"]={"code":"582 82","region":"Kraj Vysocina","city":"Golcuv Jenikov","latitude":49.81626,"longitude":15.47686}}(window,'GeoPostal','CZ');

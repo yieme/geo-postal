@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3Z 2B2"]={"code":"L3Z 2B2","region":"Ontario","city":"Bradford","latitude":44.115355,"longitude":-79.565126}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62263"]={"code":"62263","region":"Jawa Timur","city":"Labuhan","latitude":-6.8844,"longitude":112.2051}}(window,'GeoPostal','ID');

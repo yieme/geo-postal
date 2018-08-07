@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38054"]={"code":"38054","region":"Trentino-Alto Adige","city":"Transacqua","latitude":46.17171,"longitude":11.83069}}(window,'GeoPostal','IT');

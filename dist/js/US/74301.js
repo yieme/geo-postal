@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74301"]={"code":"74301","region":"Oklahoma","city":"Vinita","latitude":36.642095,"longitude":-95.156162}}(window,'GeoPostal','US');

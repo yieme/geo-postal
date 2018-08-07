@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8E 0A1"]={"code":"J8E 0A1","region":"Quebec","city":"Mont-Tremblant","latitude":46.19492,"longitude":-74.62644}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71066"]={"code":"71066","region":"LA","city":"Powhatan","latitude":31.8741,"longitude":-93.1966}}(window,'GeoPostal','US');

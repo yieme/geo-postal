@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741613"]={"code":"741613","region":"Gansu","city":"Lianhua","latitude":35.0616,"longitude":105.79108}}(window,'GeoPostal','CN');

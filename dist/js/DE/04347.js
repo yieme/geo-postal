@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04347"]={"code":"04347","region":"Sachsen","city":"Abtnaundorf","latitude":51.36594,"longitude":12.4281}}(window,'GeoPostal','DE');

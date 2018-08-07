@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1K0"]={"code":"R0L 1K0","region":"Manitoba","city":"Ochre River","latitude":51.06221,"longitude":-99.78081}}(window,'GeoPostal','CA');

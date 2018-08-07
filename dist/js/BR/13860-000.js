@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13860-000"]={"code":"13860-000","region":"Sao Paulo","city":"Aguai","latitude":-22.05944,"longitude":-46.97861}}(window,'GeoPostal','BR');

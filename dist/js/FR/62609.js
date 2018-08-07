@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62609"]={"code":"62609","region":"Hauts-de-France","city":"Berck","latitude":50.4,"longitude":1.6}}(window,'GeoPostal','FR');

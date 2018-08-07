@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16662"]={"code":"16662","region":"PA","city":"Martinsburg","latitude":40.2951,"longitude":-78.3244}}(window,'GeoPostal','US');

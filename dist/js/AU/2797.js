@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2797"]={"code":"2797","region":"New South Wales","city":"Garland","latitude":-33.71667,"longitude":149.03333}}(window,'GeoPostal','AU');

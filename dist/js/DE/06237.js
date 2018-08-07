@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06237"]={"code":"06237","region":"Sachsen-Anhalt","city":"Leuna","latitude":51.31783,"longitude":12.01589}}(window,'GeoPostal','DE');

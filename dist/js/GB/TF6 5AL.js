@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF6 5AL"]={"code":"TF6 5AL","region":"England","city":"Wrekin","latitude":52.67988,"longitude":-2.53685}}(window,'GeoPostal','GB');

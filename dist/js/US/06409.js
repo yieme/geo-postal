@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06409"]={"code":"06409","region":"CT","city":"Centerbrook","latitude":41.3474,"longitude":-72.4173}}(window,'GeoPostal','US');

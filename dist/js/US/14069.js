@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14069"]={"code":"14069","region":"NY","city":"Glenwood","latitude":42.6001,"longitude":-78.6386}}(window,'GeoPostal','US');

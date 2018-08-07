@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29497"]={"code":"29497","region":"Niedersachsen","city":"Bosel","latitude":52.94272,"longitude":11.18923}}(window,'GeoPostal','DE');

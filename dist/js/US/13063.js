@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13063"]={"code":"13063","region":"NY","city":"Fabius","latitude":42.8531,"longitude":-75.9836}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97138"]={"code":"97138","region":"Oregon","city":"Seaside","latitude":45.99316,"longitude":-123.92264}}(window,'GeoPostal','US');

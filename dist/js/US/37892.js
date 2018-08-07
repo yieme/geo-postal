@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37892"]={"code":"37892","region":"TN","city":"Winfield","latitude":36.5598,"longitude":-84.434}}(window,'GeoPostal','US');

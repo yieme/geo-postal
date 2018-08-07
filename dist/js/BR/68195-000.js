@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68195-000"]={"code":"68195-000","region":"Para","city":"Jacareacanga","latitude":-6.22222,"longitude":-57.75278}}(window,'GeoPostal','BR');

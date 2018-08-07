@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1310"]={"code":"1310","region":"Ribnica","city":"Ribnica","latitude":45.73861,"longitude":14.7275}}(window,'GeoPostal','SI');

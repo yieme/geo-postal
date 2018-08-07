@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16100"]={"code":"16100","region":"Tipaza","city":"Cheraga","latitude":36.76775,"longitude":2.95924}}(window,'GeoPostal','DZ');

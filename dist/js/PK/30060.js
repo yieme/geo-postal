@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30060"]={"code":"30060","region":"Punjab","city":"Mankera","latitude":31.38656,"longitude":71.44067}}(window,'GeoPostal','PK');

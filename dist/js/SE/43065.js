@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43065"]={"code":"43065","region":"Vastra Gotalands lan","city":"Ravlanda","latitude":57.65,"longitude":12.5}}(window,'GeoPostal','SE');

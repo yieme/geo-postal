@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64445"]={"code":"64445","region":"MO","city":"Elmo","latitude":40.5185,"longitude":-95.1236}}(window,'GeoPostal','US');

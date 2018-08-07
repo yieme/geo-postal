@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27589"]={"code":"27589","region":"North Carolina","city":"Warrenton","latitude":36.39848,"longitude":-78.15527}}(window,'GeoPostal','US');

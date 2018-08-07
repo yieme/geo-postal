@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92384"]={"code":"92384","region":"CA","city":"Shoshone","latitude":35.973,"longitude":-116.2711}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2268"]={"code":"2268","region":"Zuid-Holland","city":"Leidschendam","latitude":52.083333,"longitude":4.4}}(window,'GeoPostal','NL');

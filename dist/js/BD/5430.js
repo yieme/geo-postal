@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5430"]={"code":"5430","region":"Rajshahi","city":"Saidpur","latitude":25.77769,"longitude":88.89169}}(window,'GeoPostal','BD');

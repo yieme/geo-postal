@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27917"]={"code":"27917","region":"NC","city":"Barco","latitude":36.3588,"longitude":-75.9793}}(window,'GeoPostal','US');

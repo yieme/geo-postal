@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08810"]={"code":"08810","region":"New Jersey","city":"Dayton","latitude":40.376535,"longitude":-74.514041}}(window,'GeoPostal','US');

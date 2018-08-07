@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37692"]={"code":"37692","region":"TN","city":"Unicoi","latitude":36.2066,"longitude":-82.322}}(window,'GeoPostal','US');

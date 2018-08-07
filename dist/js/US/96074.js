@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96074"]={"code":"96074","region":"California","city":"Paskenta","latitude":39.928963,"longitude":-122.532}}(window,'GeoPostal','US');

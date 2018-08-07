@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-500"]={"code":"27-500","region":"Swietokrzyskie","city":"Opatow","latitude":50.80058,"longitude":21.42538}}(window,'GeoPostal','PL');

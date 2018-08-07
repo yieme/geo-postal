@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55750-000"]={"code":"55750-000","region":"Pernambuco","city":"Surubim","latitude":-7.83306,"longitude":-35.75472}}(window,'GeoPostal','BR');

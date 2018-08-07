@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70404"]={"code":"70404","region":"Louisiana","city":"Hammond","latitude":30.510517,"longitude":-90.457698}}(window,'GeoPostal','US');

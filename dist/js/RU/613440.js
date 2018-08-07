@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613440"]={"code":"613440","region":"Kirovskaya oblast'","city":"Nolinsk","latitude":57.55962,"longitude":49.93629}}(window,'GeoPostal','RU');

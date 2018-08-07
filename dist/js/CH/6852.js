@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6852"]={"code":"6852","region":"Zurich","city":"Zurich","latitude":47.36667,"longitude":8.55}}(window,'GeoPostal','CH');

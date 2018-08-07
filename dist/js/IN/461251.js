@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461251"]={"code":"461251","region":"Madhya Pradesh","city":"Seoni Malwa","latitude":22.45,"longitude":77.46667}}(window,'GeoPostal','IN');

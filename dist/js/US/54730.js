@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54730"]={"code":"54730","region":"WI","city":"Colfax","latitude":44.9993,"longitude":-91.7357}}(window,'GeoPostal','US');

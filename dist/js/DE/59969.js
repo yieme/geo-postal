@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59969"]={"code":"59969","region":"Hessen","city":"Rengershausen","latitude":51.10698,"longitude":8.70191}}(window,'GeoPostal','DE');

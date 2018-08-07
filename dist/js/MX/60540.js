@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60540"]={"code":"60540","region":"Michoacan de Ocampo","city":"Tepalcatepec","latitude":19.18333,"longitude":-102.85}}(window,'GeoPostal','MX');

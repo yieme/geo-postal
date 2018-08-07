@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23000"]={"code":"23000","region":"Tacna","city":"Tacna","latitude":-18.00556,"longitude":-70.24833}}(window,'GeoPostal','PE');

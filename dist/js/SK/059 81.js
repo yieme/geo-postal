@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059 81"]={"code":"059 81","region":"Presovsky kraj","city":"Vysoke Tatry","latitude":49.13637,"longitude":20.24386}}(window,'GeoPostal','SK');

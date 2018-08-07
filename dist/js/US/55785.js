@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55785"]={"code":"55785","region":"MN","city":"Swatara","latitude":46.9232,"longitude":-93.7464}}(window,'GeoPostal','US');

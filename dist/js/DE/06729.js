@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06729"]={"code":"06729","region":"Sachsen-Anhalt","city":"Rehmsdorf","latitude":51.06123,"longitude":12.21453}}(window,'GeoPostal','DE');

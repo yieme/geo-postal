@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39820-000"]={"code":"39820-000","region":"Minas Gerais","city":"Novo Cruzeiro","latitude":-17.46806,"longitude":-41.87528}}(window,'GeoPostal','BR');

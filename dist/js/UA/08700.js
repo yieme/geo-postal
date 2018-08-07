@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08700"]={"code":"08700","region":"Kyivska oblast","city":"Makariv","latitude":50.46408,"longitude":29.81128}}(window,'GeoPostal','UA');

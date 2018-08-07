@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470 40"]={"code":"470 40","region":"Ipeiros","city":"Kompotion","latitude":39.10222,"longitude":21.08528}}(window,'GeoPostal','GR');

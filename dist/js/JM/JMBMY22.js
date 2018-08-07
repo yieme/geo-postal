@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBMY22"]={"code":"JMBMY22","region":"Saint Mary","city":"Port Maria","latitude":18.36849,"longitude":-76.88946}}(window,'GeoPostal','JM');

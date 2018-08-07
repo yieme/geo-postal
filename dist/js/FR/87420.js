@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87420"]={"code":"87420","region":"Nouvelle-Aquitaine","city":"Saint-Victurnien","latitude":45.87855,"longitude":1.01376}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-321"]={"code":"96-321","region":"Lodzkie","city":"Zabia Wola","latitude":52.03169,"longitude":20.69112}}(window,'GeoPostal','PL');

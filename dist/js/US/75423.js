@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75423"]={"code":"75423","region":"Texas","city":"Celeste","latitude":33.294028,"longitude":-96.196801}}(window,'GeoPostal','US');

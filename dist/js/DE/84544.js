@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84544"]={"code":"84544","region":"Thuringen","city":"Aschau","latitude":50.65481,"longitude":11.13143}}(window,'GeoPostal','DE');

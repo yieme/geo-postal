@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96740-000"]={"code":"96740-000","region":"Rio Grande do Sul","city":"Arroio dos Ratos","latitude":-30.07722,"longitude":-51.72917}}(window,'GeoPostal','BR');

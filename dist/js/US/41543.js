@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41543"]={"code":"41543","region":"KY","city":"Mc Andrews","latitude":37.5624,"longitude":-82.2803}}(window,'GeoPostal','US');

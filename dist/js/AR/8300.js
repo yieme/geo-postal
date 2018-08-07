@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8300"]={"code":"8300","region":"Neuquen","city":"Neuquen","latitude":-38.95161,"longitude":-68.0591}}(window,'GeoPostal','AR');

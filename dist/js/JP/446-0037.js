@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446-0037"]={"code":"446-0037","region":"Aichi","city":"Anjo","latitude":34.967,"longitude":137.083}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54631"]={"code":"54631","region":"Wisconsin","city":"Gays Mills","latitude":43.31833,"longitude":-90.84667}}(window,'GeoPostal','US');

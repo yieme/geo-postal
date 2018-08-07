@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28170"]={"code":"28170","region":"Centre-Val de Loire","city":"Chateauneuf-en-Thymerais","latitude":48.58112,"longitude":1.24085}}(window,'GeoPostal','FR');

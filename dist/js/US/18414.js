@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18414"]={"code":"18414","region":"PA","city":"Dalton","latitude":41.5395,"longitude":-75.7037}}(window,'GeoPostal','US');

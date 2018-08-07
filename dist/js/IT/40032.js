@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40032"]={"code":"40032","region":"Emilia-Romagna","city":"Camugnano","latitude":44.17046,"longitude":11.08881}}(window,'GeoPostal','IT');

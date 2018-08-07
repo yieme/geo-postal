@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26100"]={"code":"26100","region":"Lombardia","city":"Cremona","latitude":45.13617,"longitude":10.02797}}(window,'GeoPostal','IT');

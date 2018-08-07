@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98706"]={"code":"98706","region":"Iles du Vent","city":"Mahina","latitude":-17.50648,"longitude":-149.48899}}(window,'GeoPostal','PF');

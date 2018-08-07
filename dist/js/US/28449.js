@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28449"]={"code":"28449","region":"NC","city":"Kure Beach","latitude":33.9927,"longitude":-77.9099}}(window,'GeoPostal','US');

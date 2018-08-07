@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91214"]={"code":"91214","region":"CA","city":"La Crescenta","latitude":34.2316,"longitude":-118.2457}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56276"]={"code":"56276","region":"MN","city":"Odessa","latitude":45.2597,"longitude":-96.3289}}(window,'GeoPostal','US');

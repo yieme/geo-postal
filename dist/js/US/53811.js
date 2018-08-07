@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53811"]={"code":"53811","region":"Wisconsin","city":"Hazel Green","latitude":42.53278,"longitude":-90.43457}}(window,'GeoPostal','US');

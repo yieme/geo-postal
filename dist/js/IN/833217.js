@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833217"]={"code":"833217","region":"Jharkhand","city":"Noamundi","latitude":22.15,"longitude":85.53333}}(window,'GeoPostal','IN');

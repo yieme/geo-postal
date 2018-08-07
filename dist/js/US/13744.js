@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13744"]={"code":"13744","region":"NY","city":"Castle Creek","latitude":42.2568,"longitude":-75.9087}}(window,'GeoPostal','US');

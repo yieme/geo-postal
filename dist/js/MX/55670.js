@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55670"]={"code":"55670","region":"Mexico","city":"Hueypoxtla","latitude":19.90833,"longitude":-99.08}}(window,'GeoPostal','MX');

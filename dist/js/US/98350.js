@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98350"]={"code":"98350","region":"WA","city":"La Push","latitude":47.9052,"longitude":-124.6261}}(window,'GeoPostal','US');

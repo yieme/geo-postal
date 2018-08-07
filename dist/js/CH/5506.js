@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5506"]={"code":"5506","region":"Aargau","city":"Othmarsingen","latitude":47.40149,"longitude":8.21852}}(window,'GeoPostal','CH');

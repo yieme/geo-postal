@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 1E0"]={"code":"S0A 1E0","region":"Saskatchewan","city":"Marieval","latitude":50.58332,"longitude":-102.651}}(window,'GeoPostal','CA');

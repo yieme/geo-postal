@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92324"]={"code":"92324","region":"California","city":"Clayton","latitude":34.03242,"longitude":-117.2823}}(window,'GeoPostal','US');

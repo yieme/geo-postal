@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82082"]={"code":"82082","region":"Wyoming","city":"Pine Bluffs","latitude":41.18193,"longitude":-104.06912}}(window,'GeoPostal','US');

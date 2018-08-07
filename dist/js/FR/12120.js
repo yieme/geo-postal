@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12120"]={"code":"12120","region":"Occitanie","city":"Cassagnes-Begonhes","latitude":44.16894,"longitude":2.53084}}(window,'GeoPostal','FR');

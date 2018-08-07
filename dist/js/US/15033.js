@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15033"]={"code":"15033","region":"PA","city":"Donora","latitude":40.1768,"longitude":-79.8619}}(window,'GeoPostal','US');

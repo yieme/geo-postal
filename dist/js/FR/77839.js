@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77839"]={"code":"77839","region":"Ile-de-France","city":"Ozoir-la-Ferriere","latitude":48.76699,"longitude":2.66871}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8701"]={"code":"8701","region":"Nordland","city":"Nesna","latitude":66.19672,"longitude":13.02133}}(window,'GeoPostal','NO');

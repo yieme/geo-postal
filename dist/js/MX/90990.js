@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90990"]={"code":"90990","region":"Tlaxcala","city":"Vicente Guerrero","latitude":19.11944,"longitude":-98.17083}}(window,'GeoPostal','MX');

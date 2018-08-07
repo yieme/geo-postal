@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18026"]={"code":"18026","region":"Liguria","city":"Pieve di Teco","latitude":44.04703,"longitude":7.91495}}(window,'GeoPostal','IT');

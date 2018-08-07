@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65350"]={"code":"65350","region":"Missouri","city":"Smithton","latitude":38.680723,"longitude":-93.093955}}(window,'GeoPostal','US');

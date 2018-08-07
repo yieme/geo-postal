@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164260"]={"code":"164260","region":"Arkhangel'skaya oblast'","city":"Plesetsk","latitude":62.70804,"longitude":40.29159}}(window,'GeoPostal','RU');

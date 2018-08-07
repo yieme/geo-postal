@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2C0"]={"code":"T0H 2C0","region":"Alberta","city":"Hythe","latitude":55.32714,"longitude":-119.55836}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 0RR"]={"code":"OX15 0RR","region":"England","city":"Barford Saint Michael","latitude":51.99117,"longitude":-1.36497}}(window,'GeoPostal','GB');

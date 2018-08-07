@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69519"]={"code":"69519","region":"Auvergne-Rhone-Alpes","city":"Vaulx-en-Velin","latitude":45.7818,"longitude":4.92085}}(window,'GeoPostal','FR');

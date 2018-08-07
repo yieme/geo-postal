@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3550-999"]={"code":"3550-999","region":"Viseu","city":"Satao","latitude":40.74178,"longitude":-7.73286}}(window,'GeoPostal','PT');

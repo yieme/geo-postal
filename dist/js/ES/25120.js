@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25120"]={"code":"25120","region":"Catalunya","city":"Alfarras","latitude":41.81667,"longitude":0.58333}}(window,'GeoPostal','ES');

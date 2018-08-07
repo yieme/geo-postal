@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35672"]={"code":"35672","region":"Alabama","city":"Town Creek","latitude":34.615186,"longitude":-87.416281}}(window,'GeoPostal','US');

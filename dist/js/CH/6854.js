@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6854"]={"code":"6854","region":"Ticino","city":"Stabio","latitude":45.85099,"longitude":8.93918}}(window,'GeoPostal','CH');

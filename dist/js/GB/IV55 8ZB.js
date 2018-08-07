@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV55 8ZB"]={"code":"IV55 8ZB","region":"Scotland","city":"Roag","latitude":57.38333,"longitude":-6.55}}(window,'GeoPostal','GB');

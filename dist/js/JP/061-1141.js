@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["061-1141"]={"code":"061-1141","region":"Hokkaido","city":"Kitahiroshima","latitude":42.983,"longitude":141.567}}(window,'GeoPostal','JP');

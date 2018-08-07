@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["GD"]={id:'GD',country:'Grenada', postal:{'':{code:'',region:'Saint George',city:'Saint George\'s',latitude:12.05644,longitude:-61.74849}}};

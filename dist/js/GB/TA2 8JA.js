@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA2 8JA"]={"code":"TA2 8JA","region":"England","city":"Kingston Saint Mary","latitude":51.06056,"longitude":-3.1125}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722200"]={"code":"722200","region":"Ysyk-Kol","city":"Karakol","latitude":42.49068,"longitude":78.39362}}(window,'GeoPostal','KG');

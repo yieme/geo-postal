@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3414"]={"code":"3414","region":"Victoria","city":"Dart Dart","latitude":-36.4,"longitude":142.18333}}(window,'GeoPostal','AU');

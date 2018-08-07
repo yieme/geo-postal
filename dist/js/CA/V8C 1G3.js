@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8C 1G3"]={"code":"V8C 1G3","region":"British Columbia","city":"Kitimat","latitude":54.054459,"longitude":-128.635717}}(window,'GeoPostal','CA');

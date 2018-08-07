@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13115"]={"code":"13115","region":"NY","city":"Minetto","latitude":43.3977,"longitude":-76.4824}}(window,'GeoPostal','US');

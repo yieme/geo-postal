@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 5AQ"]={"code":"PE23 5AQ","region":"England","city":"Toynton All Saints","latitude":53.15202,"longitude":0.08198}}(window,'GeoPostal','GB');

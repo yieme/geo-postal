@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17099"]={"code":"17099","region":"Pennsylvania","city":"Yeagertown","latitude":40.641537,"longitude":-77.578763}}(window,'GeoPostal','US');

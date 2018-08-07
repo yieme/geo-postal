@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43556"]={"code":"43556","region":"Ohio","city":"Sherwood","latitude":41.30185,"longitude":-84.561514}}(window,'GeoPostal','US');

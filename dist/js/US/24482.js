@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24482"]={"code":"24482","region":"Virginia","city":"Verona","latitude":38.200958,"longitude":-79.003552}}(window,'GeoPostal','US');

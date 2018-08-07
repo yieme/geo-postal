@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2203"]={"code":"2203","region":"New South Wales","city":"Dulwich Hill","latitude":-33.9041,"longitude":151.13945}}(window,'GeoPostal','AU');

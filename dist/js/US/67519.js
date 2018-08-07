@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67519"]={"code":"67519","region":"KS","city":"Belpre","latitude":37.9347,"longitude":-99.0936}}(window,'GeoPostal','US');

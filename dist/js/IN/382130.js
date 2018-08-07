@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382130"]={"code":"382130","region":"Gujarat","city":"Mandal","latitude":23.3,"longitude":71.91667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["021-0853"]={"code":"021-0853","region":"Iwate","city":"Ichinoseki","latitude":38.917,"longitude":141.133}}(window,'GeoPostal','JP');

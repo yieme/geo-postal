@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70633"]={"code":"70633","region":"LA","city":"Dequincy","latitude":30.4211,"longitude":-93.4151}}(window,'GeoPostal','US');

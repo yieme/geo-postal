@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9546"]={"code":"9546","region":"Karnten","city":"Kleinkirchheim","latitude":46.82278,"longitude":13.79222}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92020"]={"code":"92020","region":"Veracruz de Ignacio de la Llave","city":"Panuco","latitude":22.05,"longitude":-98.16667}}(window,'GeoPostal','MX');

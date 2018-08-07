@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94956"]={"code":"94956","region":"California","city":"Point Reyes Station","latitude":38.0653,"longitude":-122.8109}}(window,'GeoPostal','US');

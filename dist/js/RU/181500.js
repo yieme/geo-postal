@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181500"]={"code":"181500","region":"Pskovskaya oblast'","city":"Pechory","latitude":57.81642,"longitude":27.6119}}(window,'GeoPostal','RU');

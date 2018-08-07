@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07511"]={"code":"07511","region":"NJ","city":"Totowa","latitude":41.0114,"longitude":-74.3048}}(window,'GeoPostal','US');

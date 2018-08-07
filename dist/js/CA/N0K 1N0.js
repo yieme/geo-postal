@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0K 1N0"]={"code":"N0K 1N0","region":"Ontario","city":"Mitchell","latitude":43.46679,"longitude":-81.19974}}(window,'GeoPostal','CA');

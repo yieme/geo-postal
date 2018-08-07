@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15321"]={"code":"15321","region":"Pennsylvania","city":"Cecil","latitude":40.318889,"longitude":-80.19123}}(window,'GeoPostal','US');

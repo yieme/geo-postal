@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2442"]={"code":"2442","region":"Nueva Vizcaya","city":"Bambang","latitude":16.3865,"longitude":121.1066}}(window,'GeoPostal','PH');

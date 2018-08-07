@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-430"]={"code":"07-430","region":"Mazowieckie","city":"Myszyniec","latitude":53.38055,"longitude":21.34961}}(window,'GeoPostal','PL');

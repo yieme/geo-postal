@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72573"]={"code":"72573","region":"AR","city":"Sage","latitude":36.0688,"longitude":-91.791}}(window,'GeoPostal','US');

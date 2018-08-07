@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0X0"]={"code":"R0M 0X0","region":"Manitoba","city":"Hartney","latitude":49.4808,"longitude":-100.5234}}(window,'GeoPostal','CA');

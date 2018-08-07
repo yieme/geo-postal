@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45020"]={"code":"45020","region":"Veneto","city":"Villanova del Ghebbo","latitude":45.05918,"longitude":11.63901}}(window,'GeoPostal','IT');

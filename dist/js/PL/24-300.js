@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-300"]={"code":"24-300","region":"Lubelskie","city":"Opole Lubelskie","latitude":51.14775,"longitude":21.96897}}(window,'GeoPostal','PL');

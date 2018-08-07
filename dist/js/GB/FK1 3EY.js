@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK1 3EY"]={"code":"FK1 3EY","region":"Scotland","city":"Slamannan","latitude":55.93729,"longitude":-3.83311}}(window,'GeoPostal','GB');

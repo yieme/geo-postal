@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87047"]={"code":"87047","region":"New Mexico","city":"Sandia Park","latitude":35.156307,"longitude":-106.309354}}(window,'GeoPostal','US');

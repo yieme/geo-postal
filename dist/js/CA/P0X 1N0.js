@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0X 1N0"]={"code":"P0X 1N0","region":"Ontario","city":"Sioux Narrows","latitude":49.39779,"longitude":-94.07215}}(window,'GeoPostal','CA');

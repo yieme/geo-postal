@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46565"]={"code":"46565","region":"IN","city":"Shipshewana","latitude":41.6633,"longitude":-85.5932}}(window,'GeoPostal','US');

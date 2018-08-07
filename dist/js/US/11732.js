@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11732"]={"code":"11732","region":"NY","city":"East Norwich","latitude":40.8472,"longitude":-73.5349}}(window,'GeoPostal','US');

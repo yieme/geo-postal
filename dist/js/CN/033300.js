@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["033300"]={"code":"033300","region":"Shanxi","city":"Liulin","latitude":37.45333,"longitude":110.90189}}(window,'GeoPostal','CN');

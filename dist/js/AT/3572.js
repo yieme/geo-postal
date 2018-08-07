@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3572"]={"code":"3572","region":"Niederosterreich","city":"Jaidhof","latitude":48.53333,"longitude":15.48333}}(window,'GeoPostal','AT');

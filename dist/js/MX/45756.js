@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45756"]={"code":"45756","region":"Jalisco","city":"Zacoalco de Torres","latitude":20.23333,"longitude":-103.58333}}(window,'GeoPostal','MX');

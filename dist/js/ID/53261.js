@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53261"]={"code":"53261","region":"Jawa Tengah","city":"Sidareja","latitude":-7.4846,"longitude":108.7923}}(window,'GeoPostal','ID');

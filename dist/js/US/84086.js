@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84086"]={"code":"84086","region":"Utah","city":"Woodruff","latitude":41.52278,"longitude":-111.16139}}(window,'GeoPostal','US');

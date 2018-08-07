@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48159"]={"code":"48159","region":"MI","city":"Maybee","latitude":42.0288,"longitude":-83.5179}}(window,'GeoPostal','US');

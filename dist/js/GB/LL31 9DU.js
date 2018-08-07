@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL31 9DU"]={"code":"LL31 9DU","region":"Wales","city":"Llandudno Junction","latitude":53.28377,"longitude":-3.80456}}(window,'GeoPostal','GB');

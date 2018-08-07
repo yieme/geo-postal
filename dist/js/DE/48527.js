@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48527"]={"code":"48527","region":"Niedersachsen","city":"Frensdorf","latitude":52.43333,"longitude":7.06667}}(window,'GeoPostal','DE');

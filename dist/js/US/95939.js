@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95939"]={"code":"95939","region":"CA","city":"Elk Creek","latitude":39.5306,"longitude":-122.6124}}(window,'GeoPostal','US');

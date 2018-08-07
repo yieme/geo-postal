@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61570"]={"code":"61570","region":"Illinois","city":"Washburn","latitude":40.919504,"longitude":-89.292521}}(window,'GeoPostal','US');

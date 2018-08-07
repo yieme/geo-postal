@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19406"]={"code":"19406","region":"Mecklenburg-Vorpommern","city":"Sternberg","latitude":53.71236,"longitude":11.82678}}(window,'GeoPostal','DE');

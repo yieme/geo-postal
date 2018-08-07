@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54570"]={"code":"54570","region":"Grand-Est","city":"Foug","latitude":48.68375,"longitude":5.78691}}(window,'GeoPostal','FR');

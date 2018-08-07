@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80721"]={"code":"80721","region":"CO","city":"Amherst","latitude":40.6824,"longitude":-102.1706}}(window,'GeoPostal','US');

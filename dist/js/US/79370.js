@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79370"]={"code":"79370","region":"Texas","city":"Spur","latitude":33.477326,"longitude":-100.857275}}(window,'GeoPostal','US');

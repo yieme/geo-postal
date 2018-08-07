@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46000"]={"code":"46000","region":"Kalasin","city":"Kalasin","latitude":16.43281,"longitude":103.50658}}(window,'GeoPostal','TH');

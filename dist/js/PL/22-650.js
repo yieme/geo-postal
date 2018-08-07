@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-650"]={"code":"22-650","region":"Lubelskie","city":"Laszczow","latitude":50.53332,"longitude":23.72562}}(window,'GeoPostal','PL');

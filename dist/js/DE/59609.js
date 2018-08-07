@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59609"]={"code":"59609","region":"Nordrhein-Westfalen","city":"Oestereiden","latitude":51.56643,"longitude":8.42509}}(window,'GeoPostal','DE');

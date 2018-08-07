@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 2G0"]={"code":"R0B 2G0","region":"Manitoba","city":"Matawa Place","latitude":52.59566,"longitude":-95.72863}}(window,'GeoPostal','CA');

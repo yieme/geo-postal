@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71032"]={"code":"71032","region":"Puglia","city":"Biccari","latitude":41.39613,"longitude":15.19444}}(window,'GeoPostal','IT');

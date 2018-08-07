@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12996"]={"code":"12996","region":"NY","city":"Willsboro","latitude":44.3604,"longitude":-73.3963}}(window,'GeoPostal','US');

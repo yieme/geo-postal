@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57800-000"]={"code":"57800-000","region":"Alagoas","city":"Uniao dos Palmares","latitude":-9.16278,"longitude":-36.03194}}(window,'GeoPostal','BR');

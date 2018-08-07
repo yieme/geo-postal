@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629721"]={"code":"629721","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Mys-Kamennyy","latitude":68.45972,"longitude":73.59028}}(window,'GeoPostal','RU');

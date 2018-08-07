@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A2N 1B6"]={"code":"A2N 1B6","region":"Newfoundland and Labrador","city":"Point au Mal","latitude":48.65001,"longitude":-58.6485}}(window,'GeoPostal','CA');

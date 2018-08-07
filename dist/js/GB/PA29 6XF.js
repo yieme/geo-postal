@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6XF"]={"code":"PA29 6XF","region":"Scotland","city":"Killean","latitude":55.6385,"longitude":-5.66316}}(window,'GeoPostal','GB');

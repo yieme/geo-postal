@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA18 1SN"]={"code":"CA18 1SN","region":"England","city":"Ravenglass","latitude":54.35591,"longitude":-3.40864}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78800-000"]={"code":"78800-000","region":"Mato Grosso","city":"Poxoreo","latitude":-15.83722,"longitude":-54.38917}}(window,'GeoPostal','BR');

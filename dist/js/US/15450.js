@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15450"]={"code":"15450","region":"PA","city":"La Belle","latitude":39.9983,"longitude":-79.9754}}(window,'GeoPostal','US');

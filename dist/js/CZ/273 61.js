@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 61"]={"code":"273 61","region":"Stredocesky kraj","city":"Velka Dobra","latitude":50.10964,"longitude":14.0698}}(window,'GeoPostal','CZ');

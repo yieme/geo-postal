@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05153"]={"code":"05153","region":"VT","city":"Proctorsville","latitude":43.3823,"longitude":-72.6384}}(window,'GeoPostal','US');

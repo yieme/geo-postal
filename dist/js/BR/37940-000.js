@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37940-000"]={"code":"37940-000","region":"Minas Gerais","city":"Alpinopolis","latitude":-20.86361,"longitude":-46.38806}}(window,'GeoPostal','BR');

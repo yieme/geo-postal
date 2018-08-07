@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25580"]={"code":"25580","region":"Bourgogne-Franche-Comte","city":"Etalans","latitude":47.15125,"longitude":6.27315}}(window,'GeoPostal','FR');

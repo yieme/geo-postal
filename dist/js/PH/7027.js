@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7027"]={"code":"7027","region":"Zamboanga del Sur","city":"Josefina","latitude":8.2,"longitude":123.53333}}(window,'GeoPostal','PH');

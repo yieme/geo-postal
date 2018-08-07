@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67675"]={"code":"67675","region":"KS","city":"Woodston","latitude":39.4431,"longitude":-99.1037}}(window,'GeoPostal','US');

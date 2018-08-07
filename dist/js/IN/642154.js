@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["642154"]={"code":"642154","region":"Kerala","city":"Munnar","latitude":10.1,"longitude":77.06667}}(window,'GeoPostal','IN');

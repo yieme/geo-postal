@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42232"]={"code":"42232","region":"KY","city":"Gracey","latitude":36.8564,"longitude":-87.6545}}(window,'GeoPostal','US');

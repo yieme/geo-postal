@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331 65"]={"code":"331 65","region":"Plzensky kraj","city":"Zihle","latitude":50.04491,"longitude":13.37502}}(window,'GeoPostal','CZ');

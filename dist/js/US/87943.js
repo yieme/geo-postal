@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87943"]={"code":"87943","region":"New Mexico","city":"Winston","latitude":33.338611,"longitude":-107.677222}}(window,'GeoPostal','US');

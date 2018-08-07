@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249100"]={"code":"249100","region":"Kaluzhskaya oblast'","city":"Tarusa","latitude":54.72333,"longitude":37.17667}}(window,'GeoPostal','RU');

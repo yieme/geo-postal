@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49040"]={"code":"49040","region":"Punjab","city":"Pind Dadan Khan","latitude":32.58789,"longitude":73.04564}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654086"]={"code":"654086","region":"Kemerovskaya oblast'","city":"Novokuznetsk","latitude":53.7557,"longitude":87.1099}}(window,'GeoPostal','RU');

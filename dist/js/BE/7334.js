@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7334"]={"code":"7334","region":"Hainaut","city":"Saint-Ghislain","latitude":50.44816,"longitude":3.81886}}(window,'GeoPostal','BE');

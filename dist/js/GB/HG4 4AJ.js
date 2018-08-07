@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 4AJ"]={"code":"HG4 4AJ","region":"England","city":"Thornton Watlass","latitude":54.26455,"longitude":-1.64134}}(window,'GeoPostal','GB');

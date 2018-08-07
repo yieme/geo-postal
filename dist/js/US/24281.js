@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24281"]={"code":"24281","region":"VA","city":"Rose Hill","latitude":36.6583,"longitude":-83.3486}}(window,'GeoPostal','US');

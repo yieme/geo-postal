@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25183"]={"code":"25183","region":"Catalunya","city":"Seros","latitude":41.46667,"longitude":0.41667}}(window,'GeoPostal','ES');

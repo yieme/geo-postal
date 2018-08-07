@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70747"]={"code":"70747","region":"LA","city":"Innis","latitude":30.8736,"longitude":-91.6766}}(window,'GeoPostal','US');

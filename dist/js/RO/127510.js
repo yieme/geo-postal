@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127510"]={"code":"127510","region":"Braila","city":"Rimnicelu","latitude":45.28333,"longitude":27.53333}}(window,'GeoPostal','RO');

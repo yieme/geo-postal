@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35382-000"]={"code":"35382-000","region":"Minas Gerais","city":"Rio Casca","latitude":-20.22611,"longitude":-42.65083}}(window,'GeoPostal','BR');

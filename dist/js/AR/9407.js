@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9407"]={"code":"9407","region":"Santa Cruz","city":"Yacimiento Rio Turbio","latitude":-51.57321,"longitude":-72.3508}}(window,'GeoPostal','AR');

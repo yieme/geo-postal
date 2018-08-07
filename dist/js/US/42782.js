@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42782"]={"code":"42782","region":"KY","city":"Summersville","latitude":37.3419,"longitude":-85.6194}}(window,'GeoPostal','US');

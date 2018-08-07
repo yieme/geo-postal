@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 8TH"]={"code":"SG8 8TH","region":"England","city":"Heydon","latitude":52.04035,"longitude":0.08686}}(window,'GeoPostal','GB');

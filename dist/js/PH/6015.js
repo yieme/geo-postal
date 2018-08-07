@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6015"]={"code":"6015","region":"Cebu","city":"Lapu-Lapu City","latitude":10.31028,"longitude":123.94944}}(window,'GeoPostal','PH');

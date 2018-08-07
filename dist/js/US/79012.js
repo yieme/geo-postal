@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79012"]={"code":"79012","region":"TX","city":"Bushland","latitude":35.2664,"longitude":-102.0978}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322200"]={"code":"322200","region":"Zhejiang","city":"Puyang","latitude":29.46028,"longitude":119.88611}}(window,'GeoPostal','CN');

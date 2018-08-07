@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7930"]={"code":"7930","region":"Canindeyu","city":"San Isidro de Curuguaty","latitude":-24.51667,"longitude":-55.7}}(window,'GeoPostal','PY');

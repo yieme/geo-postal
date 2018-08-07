@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63853"]={"code":"63853","region":"Bayern","city":"Eisenbach","latitude":49.83264,"longitude":9.1117}}(window,'GeoPostal','DE');

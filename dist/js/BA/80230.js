@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80230"]={"code":"80230","region":"Federacija Bosne i Hercegovine","city":"Glamoc","latitude":44.04583,"longitude":16.84861}}(window,'GeoPostal','BA');

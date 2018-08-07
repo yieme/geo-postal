@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4408"]={"code":"4408","region":"Camarines Sur","city":"Sipocot","latitude":13.768,"longitude":122.9762}}(window,'GeoPostal','PH');

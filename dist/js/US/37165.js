@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37165"]={"code":"37165","region":"TN","city":"Slayden","latitude":36.2948,"longitude":-87.4703}}(window,'GeoPostal','US');

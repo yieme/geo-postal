@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7838"]={"code":"7838","region":"Baranya","city":"Vajszlo","latitude":45.85958,"longitude":17.98406}}(window,'GeoPostal','HU');

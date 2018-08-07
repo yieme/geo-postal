@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68015"]={"code":"68015","region":"NE","city":"Cedar Bluffs","latitude":41.3835,"longitude":-96.5691}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08312"]={"code":"08312","region":"NJ","city":"Clayton","latitude":39.659,"longitude":-75.0942}}(window,'GeoPostal','US');

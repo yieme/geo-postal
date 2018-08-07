@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8599"]={"code":"8599","region":"Thurgau","city":"Salmsach","latitude":47.55696,"longitude":9.36889}}(window,'GeoPostal','CH');

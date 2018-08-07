@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37134"]={"code":"37134","region":"Tennessee","city":"Johnsonville","latitude":36.06006,"longitude":-87.95281}}(window,'GeoPostal','US');

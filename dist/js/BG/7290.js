@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7290"]={"code":"7290","region":"Razgrad","city":"Loznitsa","latitude":43.36667,"longitude":26.6}}(window,'GeoPostal','BG');

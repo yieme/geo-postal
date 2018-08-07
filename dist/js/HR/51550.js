@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51550"]={"code":"51550","region":"Primorsko-goranska zupanija","city":"Mali Losinj","latitude":44.53056,"longitude":14.46861}}(window,'GeoPostal','HR');

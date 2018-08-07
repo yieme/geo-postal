@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6743"]={"code":"6743","region":"Western Australia","city":"Wyndham","latitude":-15.4869,"longitude":128.12428}}(window,'GeoPostal','AU');

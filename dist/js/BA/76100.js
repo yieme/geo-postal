@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76100"]={"code":"76100","region":"Brcko distrikt","city":"Lukavac","latitude":44.821,"longitude":18.6873}}(window,'GeoPostal','BA');

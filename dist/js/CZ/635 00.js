@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635 00"]={"code":"635 00","region":"Jihomoravsky kraj","city":"Brno","latitude":49.19522,"longitude":16.60796}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671560"]={"code":"671560","region":"Zabaykal'skiy kray","city":"Kuanda","latitude":56.31611,"longitude":116.08056}}(window,'GeoPostal','RU');

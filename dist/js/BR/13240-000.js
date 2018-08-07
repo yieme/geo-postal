@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13240-000"]={"code":"13240-000","region":"Sao Paulo","city":"Jarinu","latitude":-23.10139,"longitude":-46.72833}}(window,'GeoPostal','BR');

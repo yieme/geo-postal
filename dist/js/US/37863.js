@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37863"]={"code":"37863","region":"Tennessee","city":"Pigeon Forge","latitude":35.792309,"longitude":-83.562339}}(window,'GeoPostal','US');

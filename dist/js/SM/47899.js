@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47899"]={"code":"47899","region":"Serravalle","city":"Serravalle","latitude":43.95,"longitude":12.5}}(window,'GeoPostal','SM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32160"]={"code":"32160","region":"Occitanie","city":"Plaisance","latitude":43.60436,"longitude":0.04615}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9981"]={"code":"9981","region":"Finnmark","city":"Berlevag","latitude":70.85778,"longitude":29.08636}}(window,'GeoPostal','NO');

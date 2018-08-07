@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25234"]={"code":"25234","region":"WV","city":"Arnoldsburg","latitude":38.8227,"longitude":-81.1551}}(window,'GeoPostal','US');

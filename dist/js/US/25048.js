@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25048"]={"code":"25048","region":"WV","city":"Colcord","latitude":37.9439,"longitude":-81.4369}}(window,'GeoPostal','US');

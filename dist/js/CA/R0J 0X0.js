@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 0X0"]={"code":"R0J 0X0","region":"Manitoba","city":"Inglis","latitude":50.94469,"longitude":-101.252}}(window,'GeoPostal','CA');

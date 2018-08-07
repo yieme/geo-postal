@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73901"]={"code":"73901","region":"OK","city":"Adams","latitude":36.755,"longitude":-101.078}}(window,'GeoPostal','US');

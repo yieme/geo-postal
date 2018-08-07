@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83013"]={"code":"83013","region":"Wyoming","city":"Moran","latitude":43.84167,"longitude":-110.50778}}(window,'GeoPostal','US');

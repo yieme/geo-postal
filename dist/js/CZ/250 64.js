@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 64"]={"code":"250 64","region":"Stredocesky kraj","city":"Mesice","latitude":50.19799,"longitude":14.51992}}(window,'GeoPostal','CZ');

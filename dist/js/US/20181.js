@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20181"]={"code":"20181","region":"VA","city":"Nokesville","latitude":38.7,"longitude":-77.5483}}(window,'GeoPostal','US');

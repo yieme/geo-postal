@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059-0005"]={"code":"059-0005","region":"Hokkaido","city":"Noboribetsu","latitude":42.417,"longitude":141.1}}(window,'GeoPostal','JP');

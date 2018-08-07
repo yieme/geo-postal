@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21436"]={"code":"21436","region":"Niedersachsen","city":"Eichholz","latitude":53.39056,"longitude":10.34932}}(window,'GeoPostal','DE');

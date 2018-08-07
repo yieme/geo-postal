@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2486"]={"code":"2486","region":"New South Wales","city":"Banora Point","latitude":-28.21298,"longitude":153.53634}}(window,'GeoPostal','AU');

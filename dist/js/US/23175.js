@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23175"]={"code":"23175","region":"Virginia","city":"Urbanna","latitude":37.63778,"longitude":-76.57306}}(window,'GeoPostal','US');

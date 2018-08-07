@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20012"]={"code":"20012","region":"Vilniaus apskritis","city":"Ukmerge","latitude":55.25,"longitude":24.75}}(window,'GeoPostal','LT');

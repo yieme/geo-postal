@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62223"]={"code":"62223","region":"Hauts-de-France","city":"Feuchy","latitude":50.29439,"longitude":2.84335}}(window,'GeoPostal','FR');

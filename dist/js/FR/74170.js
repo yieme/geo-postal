@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74170"]={"code":"74170","region":"Auvergne-Rhone-Alpes","city":"Les Contamines-Montjoie","latitude":45.82136,"longitude":6.72817}}(window,'GeoPostal','FR');

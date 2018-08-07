@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["990-0055"]={"code":"990-0055","region":"Yamagata","city":"Yamagata","latitude":38.25,"longitude":140.333}}(window,'GeoPostal','JP');

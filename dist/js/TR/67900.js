@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67900"]={"code":"67900","region":"Zonguldak","city":"Zonguldak","latitude":41.45139,"longitude":31.79305}}(window,'GeoPostal','TR');

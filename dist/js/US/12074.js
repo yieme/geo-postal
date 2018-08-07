@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12074"]={"code":"12074","region":"NY","city":"Galway","latitude":43.0217,"longitude":-74.029}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628250"]={"code":"628250","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Pionerskiy","latitude":61.19472,"longitude":62.86889}}(window,'GeoPostal','RU');

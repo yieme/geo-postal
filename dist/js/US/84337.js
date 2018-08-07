@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84337"]={"code":"84337","region":"Utah","city":"Tremonton","latitude":41.71187,"longitude":-112.16551}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14052"]={"code":"14052","region":"Piemonte","city":"Calosso","latitude":44.73994,"longitude":8.22714}}(window,'GeoPostal','IT');

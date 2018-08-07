@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11605"]={"code":"11605","region":"Zhytomyrska oblast","city":"Malyn","latitude":50.77233,"longitude":29.23833}}(window,'GeoPostal','UA');

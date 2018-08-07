@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63430-000"]={"code":"63430-000","region":"Ceara","city":"Ico","latitude":-6.40111,"longitude":-38.86222}}(window,'GeoPostal','BR');

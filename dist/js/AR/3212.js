@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3212"]={"code":"3212","region":"Entre Rios","city":"La Criolla","latitude":-31.26904,"longitude":-58.10558}}(window,'GeoPostal','AR');

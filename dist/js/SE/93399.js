@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93399"]={"code":"93399","region":"Norrbottens lan","city":"Arvidsjaur","latitude":65.59033,"longitude":19.16682}}(window,'GeoPostal','SE');

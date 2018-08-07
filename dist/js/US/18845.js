@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18845"]={"code":"18845","region":"Pennsylvania","city":"Stevensville","latitude":41.772678,"longitude":-76.169894}}(window,'GeoPostal','US');

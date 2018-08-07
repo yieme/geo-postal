@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29812"]={"code":"29812","region":"South Carolina","city":"Barnwell","latitude":33.24487,"longitude":-81.35872}}(window,'GeoPostal','US');

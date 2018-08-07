@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28163"]={"code":"28163","region":"NC","city":"Stanfield","latitude":35.2106,"longitude":-80.4407}}(window,'GeoPostal','US');

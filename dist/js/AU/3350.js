@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3350"]={"code":"3350","region":"Victoria","city":"Newington","latitude":-37.56403,"longitude":143.82757}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29228"]={"code":"29228","region":"SC","city":"Columbia","latitude":33.9252,"longitude":-81.2483}}(window,'GeoPostal','US');

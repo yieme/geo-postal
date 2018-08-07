@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29620-000"]={"code":"29620-000","region":"Espirito Santo","city":"Itarana","latitude":-19.87389,"longitude":-40.87528}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1P0"]={"code":"V0A 1P0","region":"British Columbia","city":"Spillimacheen","latitude":50.89996,"longitude":-116.36882}}(window,'GeoPostal','CA');

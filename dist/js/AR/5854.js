@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5854"]={"code":"5854","region":"Cordoba","city":"Almafuerte","latitude":-32.19296,"longitude":-64.25559}}(window,'GeoPostal','AR');

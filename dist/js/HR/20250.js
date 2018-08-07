@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20250"]={"code":"20250","region":"Dubrovacko-neretvanska zupanija","city":"Orebic","latitude":42.98556,"longitude":17.17472}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1S0"]={"code":"V0G 1S0","region":"British Columbia","city":"New Denver","latitude":49.99155,"longitude":-117.3758}}(window,'GeoPostal','CA');

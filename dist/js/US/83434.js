@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83434"]={"code":"83434","region":"ID","city":"Menan","latitude":43.7266,"longitude":-111.9837}}(window,'GeoPostal','US');

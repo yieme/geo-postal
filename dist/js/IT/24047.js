@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24047"]={"code":"24047","region":"Lombardia","city":"Treviglio","latitude":45.52378,"longitude":9.58946}}(window,'GeoPostal','IT');

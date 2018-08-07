@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57955-000"]={"code":"57955-000","region":"Alagoas","city":"Maragogi","latitude":-9.01222,"longitude":-35.2225}}(window,'GeoPostal','BR');

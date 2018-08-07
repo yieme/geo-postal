@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32686"]={"code":"32686","region":"FL","city":"Reddick","latitude":29.3754,"longitude":-82.244}}(window,'GeoPostal','US');

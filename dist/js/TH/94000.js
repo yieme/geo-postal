@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94000"]={"code":"94000","region":"Pattani","city":"Mayo","latitude":6.71864,"longitude":101.40983}}(window,'GeoPostal','TH');

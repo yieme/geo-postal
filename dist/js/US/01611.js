@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01611"]={"code":"01611","region":"MA","city":"Cherry Valley","latitude":42.2373,"longitude":-71.875}}(window,'GeoPostal','US');

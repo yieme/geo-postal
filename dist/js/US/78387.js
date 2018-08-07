@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78387"]={"code":"78387","region":"TX","city":"Sinton","latitude":28.0339,"longitude":-97.5196}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10501"]={"code":"10501","region":"NY","city":"Amawalk","latitude":41.2946,"longitude":-73.7611}}(window,'GeoPostal','US');

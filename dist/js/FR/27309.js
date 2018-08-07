@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27309"]={"code":"27309","region":"Normandie","city":"Bernay","latitude":49.08888,"longitude":0.59858}}(window,'GeoPostal','FR');

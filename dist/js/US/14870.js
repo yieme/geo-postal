@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14870"]={"code":"14870","region":"New York","city":"Painted Post","latitude":42.154686,"longitude":-77.115527}}(window,'GeoPostal','US');

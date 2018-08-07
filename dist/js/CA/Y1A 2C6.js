@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y1A 2C6"]={"code":"Y1A 2C6","region":"Yukon","city":"Whitehorse","latitude":60.734236,"longitude":-135.090544}}(window,'GeoPostal','CA');

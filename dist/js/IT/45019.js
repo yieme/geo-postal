@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45019"]={"code":"45019","region":"Emilia-Romagna","city":"Mesola","latitude":44.92333,"longitude":12.24556}}(window,'GeoPostal','IT');

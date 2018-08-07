@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76380"]={"code":"76380","region":"Normandie","city":"Montigny","latitude":49.4596,"longitude":1.00168}}(window,'GeoPostal','FR');

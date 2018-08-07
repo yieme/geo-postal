@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15748"]={"code":"15748","region":"PA","city":"Homer City","latitude":40.5245,"longitude":-79.0843}}(window,'GeoPostal','US');

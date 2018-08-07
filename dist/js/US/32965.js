@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32965"]={"code":"32965","region":"FL","city":"Vero Beach","latitude":27.6386,"longitude":-80.3973}}(window,'GeoPostal','US');

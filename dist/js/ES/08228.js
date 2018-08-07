@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08228"]={"code":"08228","region":"Catalunya","city":"Terrassa","latitude":41.56667,"longitude":2.01667}}(window,'GeoPostal','ES');

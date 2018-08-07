@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93569"]={"code":"93569","region":"Veracruz de Ignacio de la Llave","city":"Gutierrez Zamora","latitude":20.45,"longitude":-97.08333}}(window,'GeoPostal','MX');

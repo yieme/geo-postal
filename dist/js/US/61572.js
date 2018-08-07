@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61572"]={"code":"61572","region":"IL","city":"Yates City","latitude":40.7878,"longitude":-90.0265}}(window,'GeoPostal','US');

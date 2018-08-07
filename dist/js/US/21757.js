@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21757"]={"code":"21757","region":"MD","city":"Keymar","latitude":39.5656,"longitude":-77.2817}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38369"]={"code":"38369","region":"Canarias","city":"San Nicolas","latitude":27.9891,"longitude":-15.78126}}(window,'GeoPostal','ES');

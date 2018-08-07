@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21804"]={"code":"21804","region":"Bheri","city":"Gulariya","latitude":28.23333,"longitude":81.33333}}(window,'GeoPostal','NP');

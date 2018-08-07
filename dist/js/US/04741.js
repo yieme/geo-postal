@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04741"]={"code":"04741","region":"Maine","city":"Fort Kent","latitude":47.25865,"longitude":-68.58949}}(window,'GeoPostal','US');

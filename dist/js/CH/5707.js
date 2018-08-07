@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5707"]={"code":"5707","region":"Aargau","city":"Seengen","latitude":47.32852,"longitude":8.20509}}(window,'GeoPostal','CH');

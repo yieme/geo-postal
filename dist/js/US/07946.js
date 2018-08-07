@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07946"]={"code":"07946","region":"NJ","city":"Millington","latitude":40.6727,"longitude":-74.5183}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 3AS"]={"code":"SY8 3AS","region":"England","city":"Coreley","latitude":52.35966,"longitude":-2.56162}}(window,'GeoPostal','GB');

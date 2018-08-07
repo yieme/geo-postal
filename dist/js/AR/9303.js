@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9303"]={"code":"9303","region":"Santa Cruz","city":"Comandante Luis Piedra Buena","latitude":-49.98513,"longitude":-68.91467}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15011"]={"code":"15011","region":"Piemonte","city":"Acqui Terme","latitude":44.67514,"longitude":8.46755}}(window,'GeoPostal','IT');

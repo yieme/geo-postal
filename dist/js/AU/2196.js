@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2196"]={"code":"2196","region":"Tasmania","city":"Punchbowl","latitude":-41.45758,"longitude":147.16466}}(window,'GeoPostal','AU');

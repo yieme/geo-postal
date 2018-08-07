@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73853"]={"code":"73853","region":"OK","city":"Mutual","latitude":36.214,"longitude":-99.1145}}(window,'GeoPostal','US');

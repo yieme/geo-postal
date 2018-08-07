@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04225"]={"code":"04225","region":"ME","city":"Dryden","latitude":44.6027,"longitude":-70.2265}}(window,'GeoPostal','US');

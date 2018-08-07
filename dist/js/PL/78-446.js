@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-446"]={"code":"78-446","region":"Zachodniopomorskie","city":"Borne Sulinowo","latitude":53.57661,"longitude":16.53395}}(window,'GeoPostal','PL');

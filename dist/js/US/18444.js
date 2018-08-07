@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18444"]={"code":"18444","region":"Pennsylvania","city":"Moscow","latitude":41.348838,"longitude":-75.548773}}(window,'GeoPostal','US');

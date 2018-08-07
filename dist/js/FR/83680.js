@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83680"]={"code":"83680","region":"Provence-Alpes-Cote d'Azur","city":"La Garde-Freinet","latitude":43.31709,"longitude":6.46881}}(window,'GeoPostal','FR');

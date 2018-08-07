@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-460"]={"code":"06-460","region":"Mazowieckie","city":"Grudusk","latitude":53.05845,"longitude":20.62494}}(window,'GeoPostal','PL');

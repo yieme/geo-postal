@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52070"]={"code":"52070","region":"IA","city":"Sabula","latitude":42.0737,"longitude":-90.1955}}(window,'GeoPostal','US');

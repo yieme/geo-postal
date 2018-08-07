@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16375"]={"code":"16375","region":"Pennsylvania","city":"Lamartine","latitude":41.2225,"longitude":-79.634167}}(window,'GeoPostal','US');

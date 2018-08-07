@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18036"]={"code":"18036","region":"Pennsylvania","city":"Coopersburg","latitude":40.51149,"longitude":-75.39046}}(window,'GeoPostal','US');

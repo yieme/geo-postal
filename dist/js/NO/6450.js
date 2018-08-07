@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6450"]={"code":"6450","region":"More og Romsdal","city":"Hjelset","latitude":62.78333,"longitude":7.48333}}(window,'GeoPostal','NO');

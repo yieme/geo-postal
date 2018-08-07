@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50207"]={"code":"50207","region":"Iowa","city":"New Sharon","latitude":41.47,"longitude":-92.6513}}(window,'GeoPostal','US');

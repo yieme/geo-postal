@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59267"]={"code":"59267","region":"Hauts-de-France","city":"Proville","latitude":50.16137,"longitude":3.20629}}(window,'GeoPostal','FR');

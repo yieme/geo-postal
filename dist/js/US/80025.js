@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80025"]={"code":"80025","region":"CO","city":"Eldorado Springs","latitude":39.9324,"longitude":-105.288}}(window,'GeoPostal','US');

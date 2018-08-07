@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07041"]={"code":"07041","region":"New Jersey","city":"Millburn","latitude":40.7236,"longitude":-74.30063}}(window,'GeoPostal','US');

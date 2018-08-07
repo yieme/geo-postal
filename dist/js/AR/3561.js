@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3561"]={"code":"3561","region":"Santa Fe","city":"Reconquista","latitude":-29.15,"longitude":-59.65}}(window,'GeoPostal','AR');

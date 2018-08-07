@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202174"]={"code":"202174","region":"Jiangsu","city":"Yongxing","latitude":31.77607,"longitude":121.4544}}(window,'GeoPostal','CN');

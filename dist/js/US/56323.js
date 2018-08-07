@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56323"]={"code":"56323","region":"MN","city":"Cyrus","latitude":45.6414,"longitude":-95.7096}}(window,'GeoPostal','US');

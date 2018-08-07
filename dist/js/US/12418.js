@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12418"]={"code":"12418","region":"NY","city":"Cornwallville","latitude":42.3629,"longitude":-74.1631}}(window,'GeoPostal','US');

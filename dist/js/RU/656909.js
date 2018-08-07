@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656909"]={"code":"656909","region":"Altayskiy kray","city":"Zaton","latitude":53.29361,"longitude":83.80722}}(window,'GeoPostal','RU');

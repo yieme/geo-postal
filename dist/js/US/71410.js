@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71410"]={"code":"71410","region":"LA","city":"Calvin","latitude":31.9657,"longitude":-92.7757}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56809"]={"code":"56809","region":"Bretagne","city":"Ploermel","latitude":47.93172,"longitude":-2.39781}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38558"]={"code":"38558","region":"Tennessee","city":"Lake Tansi","latitude":35.87285,"longitude":-85.0544}}(window,'GeoPostal','US');

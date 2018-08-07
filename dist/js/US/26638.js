@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26638"]={"code":"26638","region":"WV","city":"Shock","latitude":38.7617,"longitude":-81.0045}}(window,'GeoPostal','US');

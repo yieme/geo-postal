@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 1Y0"]={"code":"J0B 1Y0","region":"Quebec","city":"La Patrie","latitude":45.40009,"longitude":-71.24905}}(window,'GeoPostal','CA');

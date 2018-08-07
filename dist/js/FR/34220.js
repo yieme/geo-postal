@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34220"]={"code":"34220","region":"Occitanie","city":"Saint-Pons-de-Thomieres","latitude":43.48333,"longitude":2.76667}}(window,'GeoPostal','FR');

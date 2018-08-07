@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47304"]={"code":"47304","region":"Ternopilska oblast","city":"Zbarazh","latitude":49.66357,"longitude":25.77616}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692725"]={"code":"692725","region":"Primorskiy kray","city":"Zarubino","latitude":42.63,"longitude":131.09222}}(window,'GeoPostal','RU');

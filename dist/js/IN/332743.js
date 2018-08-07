@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332743"]={"code":"332743","region":"Rajasthan","city":"Ramgarh","latitude":27.25,"longitude":75.18333}}(window,'GeoPostal','IN');

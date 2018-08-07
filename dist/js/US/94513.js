@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94513"]={"code":"94513","region":"California","city":"Brentwood","latitude":37.935331,"longitude":-121.69353}}(window,'GeoPostal','US');

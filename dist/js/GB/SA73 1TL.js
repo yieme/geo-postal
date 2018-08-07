@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1TL"]={"code":"SA73 1TL","region":"Wales","city":"Neyland","latitude":51.71014,"longitude":-4.95155}}(window,'GeoPostal','GB');

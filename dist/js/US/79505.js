@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79505"]={"code":"79505","region":"TX","city":"Benjamin","latitude":33.584,"longitude":-99.7923}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3249"]={"code":"3249","region":"Victoria","city":"Barongarook","latitude":-38.41667,"longitude":143.6}}(window,'GeoPostal','AU');

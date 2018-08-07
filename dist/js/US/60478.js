@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60478"]={"code":"60478","region":"Illinois","city":"Country Club Hills","latitude":41.56809,"longitude":-87.72033}}(window,'GeoPostal','US');

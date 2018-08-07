@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["648490"]={"code":"648490","region":"Krasnoyarskiy kray","city":"Vanavara","latitude":60.34,"longitude":102.27972}}(window,'GeoPostal','RU');

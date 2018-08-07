@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15437"]={"code":"15437","region":"Pennsylvania","city":"Farmington","latitude":39.80778,"longitude":-79.56694}}(window,'GeoPostal','US');

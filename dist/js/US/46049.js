@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46049"]={"code":"46049","region":"IN","city":"Kempton","latitude":40.2884,"longitude":-86.2297}}(window,'GeoPostal','US');

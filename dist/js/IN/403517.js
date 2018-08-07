@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403517"]={"code":"403517","region":"Goa","city":"Morjim","latitude":15.63097,"longitude":73.73903}}(window,'GeoPostal','IN');

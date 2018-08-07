@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 2LA"]={"code":"ST10 2LA","region":"England","city":"Ipstones","latitude":53.04683,"longitude":-1.97016}}(window,'GeoPostal','GB');

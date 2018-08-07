@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98684"]={"code":"98684","region":"Avtonomna Respublika Krym","city":"Simeiz","latitude":44.40646,"longitude":34.00704}}(window,'GeoPostal','UA');

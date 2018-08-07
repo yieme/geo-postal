@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31604"]={"code":"31604","region":"Nordrhein-Westfalen","city":"Windheim","latitude":52.41379,"longitude":9.01359}}(window,'GeoPostal','DE');

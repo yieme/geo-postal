@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57555"]={"code":"57555","region":"Rheinland-Pfalz","city":"Niederschelderhutte","latitude":50.84155,"longitude":7.96127}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58727"]={"code":"58727","region":"North Dakota","city":"Columbus","latitude":48.8628,"longitude":-102.8151}}(window,'GeoPostal','US');

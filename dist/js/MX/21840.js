@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21840"]={"code":"21840","region":"Baja California","city":"Hermosillo","latitude":32.51028,"longitude":-114.92333}}(window,'GeoPostal','MX');

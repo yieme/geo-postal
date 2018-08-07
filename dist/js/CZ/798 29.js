@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 29"]={"code":"798 29","region":"Olomoucky kraj","city":"Nezamyslice","latitude":49.32543,"longitude":17.17326}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-570"]={"code":"21-570","region":"Lubelskie","city":"Drelow","latitude":51.91219,"longitude":22.87165}}(window,'GeoPostal','PL');

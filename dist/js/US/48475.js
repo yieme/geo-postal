@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48475"]={"code":"48475","region":"Michigan","city":"Ubly","latitude":43.715007,"longitude":-82.942812}}(window,'GeoPostal','US');

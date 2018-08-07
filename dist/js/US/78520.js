@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78520"]={"code":"78520","region":"Texas","city":"Brownsville","latitude":25.98174,"longitude":-97.53534}}(window,'GeoPostal','US');

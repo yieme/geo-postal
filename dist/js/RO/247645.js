@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247645"]={"code":"247645","region":"Valcea","city":"Stoilesti","latitude":44.9,"longitude":24.38333}}(window,'GeoPostal','RO');

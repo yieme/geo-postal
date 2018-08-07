@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-800"]={"code":"63-800","region":"Wielkopolskie","city":"Gostyn","latitude":51.88247,"longitude":17.01226}}(window,'GeoPostal','PL');

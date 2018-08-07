@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69240"]={"code":"69240","region":"Auvergne-Rhone-Alpes","city":"Thizy","latitude":46.02995,"longitude":4.31299}}(window,'GeoPostal','FR');

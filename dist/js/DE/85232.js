@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85232"]={"code":"85232","region":"Nordrhein-Westfalen","city":"Bergkirchen","latitude":52.26796,"longitude":8.77348}}(window,'GeoPostal','DE');

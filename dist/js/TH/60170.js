@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60170"]={"code":"60170","region":"Nakhon Sawan","city":"Krok Phra","latitude":15.55589,"longitude":100.07153}}(window,'GeoPostal','TH');

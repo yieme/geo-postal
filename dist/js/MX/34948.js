@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34948"]={"code":"34948","region":"Durango","city":"General Vicente Guerrero","latitude":23.75,"longitude":-103.98333}}(window,'GeoPostal','MX');

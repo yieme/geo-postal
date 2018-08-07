@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 4QZ"]={"code":"IP14 4QZ","region":"England","city":"Cotton","latitude":52.26317,"longitude":1.03186}}(window,'GeoPostal','GB');

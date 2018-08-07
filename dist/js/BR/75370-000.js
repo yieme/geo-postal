@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75370-000"]={"code":"75370-000","region":"Goias","city":"Goianira","latitude":-16.49611,"longitude":-49.42639}}(window,'GeoPostal','BR');

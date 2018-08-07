@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44590"]={"code":"44590","region":"Pays-de-la-Loire","city":"Sion-les-Mines","latitude":47.73476,"longitude":-1.5919}}(window,'GeoPostal','FR');

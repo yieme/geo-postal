@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74139"]={"code":"74139","region":"Auvergne-Rhone-Alpes","city":"Bonneville","latitude":46.0802,"longitude":6.40726}}(window,'GeoPostal','FR');

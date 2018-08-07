@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1J0"]={"code":"K0L 1J0","region":"Ontario","city":"Buckhorn","latitude":44.55012,"longitude":-78.34954}}(window,'GeoPostal','CA');

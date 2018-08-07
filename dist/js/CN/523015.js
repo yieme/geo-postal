@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["523015"]={"code":"523015","region":"Guangdong","city":"Shijie","latitude":23.09305,"longitude":113.79582}}(window,'GeoPostal','CN');

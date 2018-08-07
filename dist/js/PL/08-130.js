@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-130"]={"code":"08-130","region":"Mazowieckie","city":"Kotun","latitude":52.17643,"longitude":22.06819}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10916"]={"code":"10916","region":"New York","city":"Campbell Hall","latitude":41.437893,"longitude":-74.251656}}(window,'GeoPostal','US');

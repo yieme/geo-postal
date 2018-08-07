@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31543"]={"code":"31543","region":"Georgia","city":"Hortense","latitude":31.312246,"longitude":-81.965539}}(window,'GeoPostal','US');

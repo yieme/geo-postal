@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 71"]={"code":"675 71","region":"Kraj Vysocina","city":"Namest' nad Oslavou","latitude":49.20726,"longitude":16.15849}}(window,'GeoPostal','CZ');

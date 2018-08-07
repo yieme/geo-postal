@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-230"]={"code":"19-230","region":"Podlaskie","city":"Szczuczyn","latitude":53.5633,"longitude":22.28534}}(window,'GeoPostal','PL');

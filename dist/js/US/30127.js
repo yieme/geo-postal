@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30127"]={"code":"30127","region":"GA","city":"Powder Springs","latitude":33.9135,"longitude":-84.6859}}(window,'GeoPostal','US');

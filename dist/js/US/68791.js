@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68791"]={"code":"68791","region":"Nebraska","city":"Wisner","latitude":41.98722,"longitude":-96.91421}}(window,'GeoPostal','US');

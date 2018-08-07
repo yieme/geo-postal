@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171174"]={"code":"171174","region":"Tverskaya oblast'","city":"Spirovo","latitude":57.41905,"longitude":34.97658}}(window,'GeoPostal','RU');

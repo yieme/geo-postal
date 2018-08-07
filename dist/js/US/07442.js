@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07442"]={"code":"07442","region":"New Jersey","city":"Pompton Lakes","latitude":40.998705,"longitude":-74.287399}}(window,'GeoPostal','US');

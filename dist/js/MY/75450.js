@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75450"]={"code":"75450","region":"Melaka","city":"Ayer Keroh","latitude":2.2654,"longitude":102.2801}}(window,'GeoPostal','MY');

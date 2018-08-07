@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38459"]={"code":"38459","region":"TN","city":"Frankewing","latitude":35.1834,"longitude":-86.85}}(window,'GeoPostal','US');

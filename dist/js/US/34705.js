@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34705"]={"code":"34705","region":"FL","city":"Astatula","latitude":28.7088,"longitude":-81.7195}}(window,'GeoPostal','US');

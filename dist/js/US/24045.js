@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24045"]={"code":"24045","region":"VA","city":"Blue Cross Blue Shield","latitude":37.27,"longitude":-79.94}}(window,'GeoPostal','US');

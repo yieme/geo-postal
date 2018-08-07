@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624269"]={"code":"624269","region":"Sverdlovskaya oblast'","city":"Asbest","latitude":57.00993,"longitude":61.45776}}(window,'GeoPostal','RU');

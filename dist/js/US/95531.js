@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95531"]={"code":"95531","region":"California","city":"Crescent City","latitude":41.75595,"longitude":-124.20175}}(window,'GeoPostal','US');

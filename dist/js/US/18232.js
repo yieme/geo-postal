@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18232"]={"code":"18232","region":"PA","city":"Lansford","latitude":40.8314,"longitude":-75.8828}}(window,'GeoPostal','US');

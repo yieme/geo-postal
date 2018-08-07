@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT8 3HZ"]={"code":"DT8 3HZ","region":"England","city":"South Perrott","latitude":50.85818,"longitude":-2.75127}}(window,'GeoPostal','GB');

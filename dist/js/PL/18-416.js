@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-416"]={"code":"18-416","region":"Podlaskie","city":"Zbojna","latitude":53.24293,"longitude":21.78812}}(window,'GeoPostal','PL');

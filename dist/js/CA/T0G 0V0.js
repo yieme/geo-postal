@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0V0"]={"code":"T0G 0V0","region":"Alberta","city":"Driftpile","latitude":55.33341,"longitude":-115.7691}}(window,'GeoPostal','CA');

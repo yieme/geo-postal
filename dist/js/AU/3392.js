@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3392"]={"code":"3392","region":"Victoria","city":"Minyip","latitude":-36.45964,"longitude":142.58778}}(window,'GeoPostal','AU');

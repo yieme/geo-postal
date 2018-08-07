@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1032"]={"code":"1032","region":"Vaud","city":"Romanel","latitude":46.56667,"longitude":6.60453}}(window,'GeoPostal','CH');

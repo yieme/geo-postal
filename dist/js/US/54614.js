@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54614"]={"code":"54614","region":"WI","city":"Bangor","latitude":43.8687,"longitude":-90.9809}}(window,'GeoPostal','US');

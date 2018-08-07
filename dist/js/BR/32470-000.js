@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32470-000"]={"code":"32470-000","region":"Minas Gerais","city":"Brumadinho","latitude":-20.14333,"longitude":-44.19972}}(window,'GeoPostal','BR');

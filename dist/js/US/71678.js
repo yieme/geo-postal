@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71678"]={"code":"71678","region":"AR","city":"Yorktown","latitude":33.9787,"longitude":-91.6991}}(window,'GeoPostal','US');

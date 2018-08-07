@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63500"]={"code":"63500","region":"Thuringen","city":"Seligenstadt","latitude":50.94686,"longitude":12.09908}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27830"]={"code":"27830","region":"Normandie","city":"Neaufles-Saint-Martin","latitude":49.2765,"longitude":1.72794}}(window,'GeoPostal','FR');

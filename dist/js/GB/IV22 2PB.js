@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV22 2PB"]={"code":"IV22 2PB","region":"Scotland","city":"Kinlochewe","latitude":57.60433,"longitude":-5.30205}}(window,'GeoPostal','GB');

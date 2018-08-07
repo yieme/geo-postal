@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456019"]={"code":"456019","region":"Chelyabinskaya oblast'","city":"Asha","latitude":54.9973,"longitude":57.2722}}(window,'GeoPostal','RU');

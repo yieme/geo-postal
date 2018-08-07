@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606860"]={"code":"606860","region":"Nizhegorodskaya oblast'","city":"Vetluga","latitude":57.85574,"longitude":45.78102}}(window,'GeoPostal','RU');

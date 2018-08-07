@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 4J0"]={"code":"S0A 4J0","region":"Saskatchewan","city":"Wadena","latitude":51.94999,"longitude":-103.80102}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35257"]={"code":"35257","region":"Brodsko-posavska zupanija","city":"Luzani","latitude":45.16806,"longitude":17.70694}}(window,'GeoPostal','HR');

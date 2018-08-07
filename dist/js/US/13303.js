@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13303"]={"code":"13303","region":"NY","city":"Ava","latitude":43.3445,"longitude":-75.4509}}(window,'GeoPostal','US');

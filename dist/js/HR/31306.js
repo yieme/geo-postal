@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31306"]={"code":"31306","region":"Osjecko-baranjska zupanija","city":"Batina","latitude":45.84611,"longitude":18.85}}(window,'GeoPostal','HR');

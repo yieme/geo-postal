@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21130"]={"code":"21130","region":"Rayong","city":"Ban Chang","latitude":12.72543,"longitude":101.0553}}(window,'GeoPostal','TH');

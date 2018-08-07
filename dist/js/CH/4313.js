@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4313"]={"code":"4313","region":"Aargau","city":"Mohlin","latitude":47.55915,"longitude":7.84329}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE72 3WJ"]={"code":"DE72 3WJ","region":"England","city":"Risley","latitude":52.91667,"longitude":-1.31667}}(window,'GeoPostal','GB');

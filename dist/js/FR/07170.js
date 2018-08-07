@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07170"]={"code":"07170","region":"Auvergne-Rhone-Alpes","city":"Lavilledieu","latitude":44.57456,"longitude":4.4547}}(window,'GeoPostal','FR');

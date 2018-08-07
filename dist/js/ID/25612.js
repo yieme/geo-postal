@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25612"]={"code":"25612","region":"Sumatera Barat","city":"Painan","latitude":-1.35172,"longitude":100.57383}}(window,'GeoPostal','ID');

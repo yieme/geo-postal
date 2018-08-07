@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 15"]={"code":"277 15","region":"Stredocesky kraj","city":"Tisice","latitude":50.2698,"longitude":14.55411}}(window,'GeoPostal','CZ');

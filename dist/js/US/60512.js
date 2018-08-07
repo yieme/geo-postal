@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60512"]={"code":"60512","region":"IL","city":"Bristol","latitude":41.7016,"longitude":-88.4398}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1875"]={"code":"1875","region":"New South Wales","city":"Liverpool","latitude":-33.9,"longitude":150.93333}}(window,'GeoPostal','AU');

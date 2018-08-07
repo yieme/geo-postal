@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51480"]={"code":"51480","region":"Grand-Est","city":"Damery","latitude":49.07238,"longitude":3.88036}}(window,'GeoPostal','FR');

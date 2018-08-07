@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12502"]={"code":"12502","region":"NY","city":"Ancram","latitude":42.0851,"longitude":-73.6424}}(window,'GeoPostal','US');

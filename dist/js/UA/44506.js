@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44506"]={"code":"44506","region":"Volynska oblast","city":"Kamin'-Kashyrs'kyy","latitude":51.62412,"longitude":24.95864}}(window,'GeoPostal','UA');

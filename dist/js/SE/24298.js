@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24298"]={"code":"24298","region":"Skane lan","city":"Hoerby","latitude":55.85238,"longitude":13.66094}}(window,'GeoPostal','SE');

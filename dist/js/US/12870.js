@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12870"]={"code":"12870","region":"New York","city":"Schroon Lake","latitude":43.8625,"longitude":-73.7425}}(window,'GeoPostal','US');

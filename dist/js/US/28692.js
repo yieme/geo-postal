@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28692"]={"code":"28692","region":"NC","city":"Vilas","latitude":36.2574,"longitude":-81.7652}}(window,'GeoPostal','US');

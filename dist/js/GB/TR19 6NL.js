@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR19 6NL"]={"code":"TR19 6NL","region":"England","city":"Castallack","latitude":50.07276,"longitude":-5.56342}}(window,'GeoPostal','GB');

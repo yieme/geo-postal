@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78017"]={"code":"78017","region":"Texas","city":"Dilley","latitude":28.66748,"longitude":-99.17059}}(window,'GeoPostal','US');

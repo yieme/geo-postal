@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48410"]={"code":"48410","region":"Michigan","city":"Argyle","latitude":43.56356,"longitude":-82.92788}}(window,'GeoPostal','US');

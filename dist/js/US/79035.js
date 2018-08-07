@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79035"]={"code":"79035","region":"Texas","city":"Friona","latitude":34.64173,"longitude":-102.7241}}(window,'GeoPostal','US');

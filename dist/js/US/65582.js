@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65582"]={"code":"65582","region":"MO","city":"Vienna","latitude":38.1919,"longitude":-91.9422}}(window,'GeoPostal','US');

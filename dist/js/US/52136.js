@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52136"]={"code":"52136","region":"Iowa","city":"Cresco","latitude":43.374573,"longitude":-92.116028}}(window,'GeoPostal','US');

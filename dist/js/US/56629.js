@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56629"]={"code":"56629","region":"MN","city":"Birchdale","latitude":48.6247,"longitude":-94.1677}}(window,'GeoPostal','US');

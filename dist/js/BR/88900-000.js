@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88900-000"]={"code":"88900-000","region":"Santa Catarina","city":"Ararangua","latitude":-28.93472,"longitude":-49.48583}}(window,'GeoPostal','BR');

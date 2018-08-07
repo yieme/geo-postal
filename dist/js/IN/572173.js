@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572173"]={"code":"572173","region":"Karnataka","city":"Sira","latitude":13.74528,"longitude":76.90917}}(window,'GeoPostal','IN');

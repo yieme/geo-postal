@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57793"]={"code":"57793","region":"South Dakota","city":"Whitewood","latitude":44.463868,"longitude":-103.638111}}(window,'GeoPostal','US');

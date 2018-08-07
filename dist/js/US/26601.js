@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26601"]={"code":"26601","region":"West Virginia","city":"Sutton","latitude":38.66454,"longitude":-80.70982}}(window,'GeoPostal','US');

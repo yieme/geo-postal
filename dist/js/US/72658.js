@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72658"]={"code":"72658","region":"Arkansas","city":"Norfork","latitude":36.208327,"longitude":-92.281996}}(window,'GeoPostal','US');

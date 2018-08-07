@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40363"]={"code":"40363","region":"KY","city":"Perry Park","latitude":38.5218,"longitude":-85.0139}}(window,'GeoPostal','US');

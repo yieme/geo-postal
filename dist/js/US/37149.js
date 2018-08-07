@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37149"]={"code":"37149","region":"TN","city":"Readyville","latitude":35.7989,"longitude":-86.2415}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99627"]={"code":"99627","region":"AK","city":"Mc Grath","latitude":62.9457,"longitude":-155.5712}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 3L0"]={"code":"G0A 3L0","region":"Quebec","city":"Saint-Casimir","latitude":46.65005,"longitude":-72.1324}}(window,'GeoPostal','CA');

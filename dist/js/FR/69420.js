@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69420"]={"code":"69420","region":"Auvergne-Rhone-Alpes","city":"Ampuis","latitude":45.48906,"longitude":4.80879}}(window,'GeoPostal','FR');

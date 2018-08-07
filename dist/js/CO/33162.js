@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33162"]={"code":"33162","region":"Antioquia","city":"Medellin","latitude":6.25184,"longitude":-75.56359}}(window,'GeoPostal','CO');

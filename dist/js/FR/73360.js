@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73360"]={"code":"73360","region":"Auvergne-Rhone-Alpes","city":"Les Echelles","latitude":45.43481,"longitude":5.75133}}(window,'GeoPostal','FR');

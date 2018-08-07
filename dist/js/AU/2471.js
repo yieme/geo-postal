@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2471"]={"code":"2471","region":"New South Wales","city":"Coraki","latitude":-28.99332,"longitude":153.28212}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46860"]={"code":"46860","region":"Kymenlaakso","city":"Valkeala","latitude":60.94006,"longitude":26.7979}}(window,'GeoPostal','FI');

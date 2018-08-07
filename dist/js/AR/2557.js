@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2557"]={"code":"2557","region":"Cordoba","city":"Idiazabal","latitude":-32.81411,"longitude":-63.03252}}(window,'GeoPostal','AR');

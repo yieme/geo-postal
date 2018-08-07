@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38059"]={"code":"38059","region":"Trentino-Alto Adige","city":"Strigno","latitude":46.06741,"longitude":11.52009}}(window,'GeoPostal','IT');

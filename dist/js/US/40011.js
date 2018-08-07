@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40011"]={"code":"40011","region":"Kentucky","city":"Campbellsburg","latitude":38.52306,"longitude":-85.20444}}(window,'GeoPostal','US');

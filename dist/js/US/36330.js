@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36330"]={"code":"36330","region":"Alabama","city":"Enterprise","latitude":31.31517,"longitude":-85.85522}}(window,'GeoPostal','US');

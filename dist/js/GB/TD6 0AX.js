@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 0AX"]={"code":"TD6 0AX","region":"Scotland","city":"Saint Boswells","latitude":55.57301,"longitude":-2.6441}}(window,'GeoPostal','GB');

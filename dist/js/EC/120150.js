@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["120150"]={"code":"120150","region":"Los Rios","city":"Babahoyo","latitude":-1.81667,"longitude":-79.51667}}(window,'GeoPostal','EC');

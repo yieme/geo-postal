@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81129"]={"code":"81129","region":"Colorado","city":"Conejos","latitude":37.08835,"longitude":-106.01974}}(window,'GeoPostal','US');

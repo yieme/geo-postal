@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98724"]={"code":"98724","region":"Thuringen","city":"Bernhardsthal","latitude":50.50176,"longitude":11.11895}}(window,'GeoPostal','DE');

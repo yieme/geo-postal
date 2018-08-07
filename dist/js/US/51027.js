@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51027"]={"code":"51027","region":"Iowa","city":"Ireton","latitude":42.975251,"longitude":-96.316799}}(window,'GeoPostal','US');

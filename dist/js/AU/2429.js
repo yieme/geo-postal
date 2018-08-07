@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2429"]={"code":"2429","region":"New South Wales","city":"Burrell Creek","latitude":-31.93333,"longitude":152.3}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243002"]={"code":"243002","region":"Anhui","city":"Ma'anshan","latitude":31.69568,"longitude":118.49825}}(window,'GeoPostal','CN');

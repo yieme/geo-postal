@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24630"]={"code":"24630","region":"Khyber Pakhtunkhwa","city":"Shabqadar","latitude":34.2139,"longitude":71.55523}}(window,'GeoPostal','PK');

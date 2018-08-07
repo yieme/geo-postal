@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60451"]={"code":"60451","region":"Hauts-de-France","city":"Senlis","latitude":49.2,"longitude":2.58333}}(window,'GeoPostal','FR');

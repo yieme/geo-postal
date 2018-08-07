@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29690"]={"code":"29690","region":"South Carolina","city":"Travelers Rest","latitude":35.003293,"longitude":-82.433819}}(window,'GeoPostal','US');

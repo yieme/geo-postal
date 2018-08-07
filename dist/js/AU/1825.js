@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1825"]={"code":"1825","region":"New South Wales","city":"Lidcombe","latitude":-33.86436,"longitude":151.0397}}(window,'GeoPostal','AU');

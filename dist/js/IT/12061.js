@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12061"]={"code":"12061","region":"Piemonte","city":"Carru","latitude":44.48104,"longitude":7.87444}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15415"]={"code":"15415","region":"PA","city":"Brier Hill","latitude":39.9808,"longitude":-79.8504}}(window,'GeoPostal','US');

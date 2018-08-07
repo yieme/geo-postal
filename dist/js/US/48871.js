@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48871"]={"code":"48871","region":"MI","city":"Perrinton","latitude":43.1649,"longitude":-84.666}}(window,'GeoPostal','US');

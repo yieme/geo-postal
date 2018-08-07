@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA70 8BN"]={"code":"SA70 8BN","region":"England","city":"Greenhill","latitude":51.35972,"longitude":1.10833}}(window,'GeoPostal','GB');

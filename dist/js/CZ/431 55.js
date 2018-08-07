@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431 55"]={"code":"431 55","region":"Ustecky kraj","city":"Radonice","latitude":50.29803,"longitude":13.28464}}(window,'GeoPostal','CZ');

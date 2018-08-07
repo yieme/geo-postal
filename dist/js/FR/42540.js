@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42540"]={"code":"42540","region":"Auvergne-Rhone-Alpes","city":"Saint-Just-la-Pendue","latitude":45.89532,"longitude":4.24276}}(window,'GeoPostal','FR');

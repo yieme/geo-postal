@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7139"]={"code":"7139","region":"Ruse","city":"Tsenovo","latitude":43.53333,"longitude":25.65}}(window,'GeoPostal','BG');

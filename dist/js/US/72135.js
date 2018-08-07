@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72135"]={"code":"72135","region":"AR","city":"Roland","latitude":34.8829,"longitude":-92.5192}}(window,'GeoPostal','US');

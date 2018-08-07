@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93152"]={"code":"93152","region":"Tanger-Tetouan","city":"Martil","latitude":35.61662,"longitude":-5.27522}}(window,'GeoPostal','MA');

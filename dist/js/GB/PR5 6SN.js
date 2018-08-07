@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR5 6SN"]={"code":"PR5 6SN","region":"England","city":"Preston","latitude":50.65,"longitude":-2.41667}}(window,'GeoPostal','GB');

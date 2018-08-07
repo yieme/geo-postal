@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17215"]={"code":"17215","region":"PA","city":"Burnt Cabins","latitude":40.0753,"longitude":-77.9017}}(window,'GeoPostal','US');

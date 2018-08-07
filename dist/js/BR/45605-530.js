@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45605-530"]={"code":"45605-530","region":"Bahia","city":"Itabuna","latitude":-14.78556,"longitude":-39.28028}}(window,'GeoPostal','BR');

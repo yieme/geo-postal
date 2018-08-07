@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96088"]={"code":"96088","region":"California","city":"Shingletown","latitude":40.49238,"longitude":-121.88916}}(window,'GeoPostal','US');

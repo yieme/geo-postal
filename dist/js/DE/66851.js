@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66851"]={"code":"66851","region":"Rheinland-Pfalz","city":"Bann","latitude":49.38333,"longitude":7.61667}}(window,'GeoPostal','DE');

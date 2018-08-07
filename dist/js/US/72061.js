@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72061"]={"code":"72061","region":"AR","city":"Guy","latitude":35.3239,"longitude":-92.2878}}(window,'GeoPostal','US');

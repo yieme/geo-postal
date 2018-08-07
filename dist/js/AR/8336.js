@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8336"]={"code":"8336","region":"Rio Negro","city":"Villa Regina","latitude":-39.1,"longitude":-67.06667}}(window,'GeoPostal','AR');

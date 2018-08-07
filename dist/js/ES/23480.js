@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23480"]={"code":"23480","region":"Andalucia","city":"Quesada","latitude":37.84338,"longitude":-3.06561}}(window,'GeoPostal','ES');

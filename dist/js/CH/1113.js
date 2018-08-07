@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1113"]={"code":"1113","region":"Vaud","city":"Colombier","latitude":46.55709,"longitude":6.47284}}(window,'GeoPostal','CH');

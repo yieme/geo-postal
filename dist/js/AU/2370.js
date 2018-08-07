@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2370"]={"code":"2370","region":"New South Wales","city":"Glen Innes","latitude":-29.73485,"longitude":151.7385}}(window,'GeoPostal','AU');

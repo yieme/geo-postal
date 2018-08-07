@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34508"]={"code":"34508","region":"Hessen","city":"Willingen","latitude":51.29418,"longitude":8.6091}}(window,'GeoPostal','DE');

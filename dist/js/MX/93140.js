@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93140"]={"code":"93140","region":"Veracruz de Ignacio de la Llave","city":"Coyutla","latitude":20.25,"longitude":-97.65}}(window,'GeoPostal','MX');

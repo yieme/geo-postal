@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29434"]={"code":"29434","region":"SC","city":"Cordesville","latitude":33.1362,"longitude":-79.8826}}(window,'GeoPostal','US');

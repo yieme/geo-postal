@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26253"]={"code":"26253","region":"West Virginia","city":"Beverly","latitude":38.846771,"longitude":-79.870457}}(window,'GeoPostal','US');

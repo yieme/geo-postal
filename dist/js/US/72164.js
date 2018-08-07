@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72164"]={"code":"72164","region":"AR","city":"Sweet Home","latitude":34.6873,"longitude":-92.2399}}(window,'GeoPostal','US');

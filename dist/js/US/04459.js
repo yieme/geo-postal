@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04459"]={"code":"04459","region":"ME","city":"Mattawamkeag","latitude":45.5264,"longitude":-68.352}}(window,'GeoPostal','US');

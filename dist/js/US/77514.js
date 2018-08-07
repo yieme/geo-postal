@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77514"]={"code":"77514","region":"TX","city":"Anahuac","latitude":29.662,"longitude":-94.593}}(window,'GeoPostal','US');

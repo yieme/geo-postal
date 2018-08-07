@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43609"]={"code":"43609","region":"OH","city":"Toledo","latitude":41.6298,"longitude":-83.5773}}(window,'GeoPostal','US');

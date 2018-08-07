@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["076-0026"]={"code":"076-0026","region":"Hokkaido","city":"Furano","latitude":43.35,"longitude":142.383}}(window,'GeoPostal','JP');

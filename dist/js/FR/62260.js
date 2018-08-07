@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62260"]={"code":"62260","region":"Hauts-de-France","city":"Cauchy-a-la-Tour","latitude":50.50394,"longitude":2.44606}}(window,'GeoPostal','FR');

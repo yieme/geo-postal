@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20618"]={"code":"20618","region":"Maryland","city":"Bushwood","latitude":38.27748,"longitude":-76.796439}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7511"]={"code":"7511","region":"Somogy","city":"Nagyatad","latitude":46.22961,"longitude":17.35788}}(window,'GeoPostal','HU');

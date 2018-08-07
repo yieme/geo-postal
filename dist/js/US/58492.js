@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58492"]={"code":"58492","region":"North Dakota","city":"Wimbledon","latitude":47.17056,"longitude":-98.46}}(window,'GeoPostal','US');

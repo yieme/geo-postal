@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84087"]={"code":"84087","region":"Utah","city":"Woods Cross","latitude":40.88856,"longitude":-111.91224}}(window,'GeoPostal','US');

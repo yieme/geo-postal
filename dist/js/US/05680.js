@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05680"]={"code":"05680","region":"VT","city":"Wolcott","latitude":44.5558,"longitude":-72.4844}}(window,'GeoPostal','US');

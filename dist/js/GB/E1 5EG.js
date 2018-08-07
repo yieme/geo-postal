@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1 5EG"]={"code":"E1 5EG","region":"England","city":"Brick Lane","latitude":51.52194,"longitude":-0.07167}}(window,'GeoPostal','GB');

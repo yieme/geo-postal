@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 5NE"]={"code":"WR6 5NE","region":"England","city":"Broadwas","latitude":52.19486,"longitude":-2.35487}}(window,'GeoPostal','GB');

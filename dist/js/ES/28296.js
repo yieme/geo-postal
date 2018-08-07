@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28296"]={"code":"28296","region":"Madrid, Comunidad de","city":"Santa Maria de la Alameda","latitude":40.59492,"longitude":-4.25772}}(window,'GeoPostal','ES');

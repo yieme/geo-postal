@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16001"]={"code":"16001","region":"Alta Verapaz","city":"Coban","latitude":15.48333,"longitude":-90.36667}}(window,'GeoPostal','GT');

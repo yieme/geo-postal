@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0P 1A0"]={"code":"A0P 1A0","region":"Newfoundland and Labrador","city":"Natuashish","latitude":55.91564,"longitude":-61.12415}}(window,'GeoPostal','CA');

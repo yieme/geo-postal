@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80547"]={"code":"80547","region":"CO","city":"Timnath","latitude":40.5291,"longitude":-104.9853}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67030"]={"code":"67030","region":"Abruzzo","city":"Bugnara","latitude":42.02383,"longitude":13.86141}}(window,'GeoPostal','IT');

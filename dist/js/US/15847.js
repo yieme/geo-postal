@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15847"]={"code":"15847","region":"Pennsylvania","city":"Knox Dale","latitude":41.16224,"longitude":-79.08346}}(window,'GeoPostal','US');

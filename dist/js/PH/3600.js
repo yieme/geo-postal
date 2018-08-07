@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3600"]={"code":"3600","region":"Ifugao","city":"Lagawe","latitude":16.79996,"longitude":121.11924}}(window,'GeoPostal','PH');

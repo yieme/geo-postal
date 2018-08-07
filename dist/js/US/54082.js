@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54082"]={"code":"54082","region":"Wisconsin","city":"Houlton","latitude":45.06056,"longitude":-92.79139}}(window,'GeoPostal','US');

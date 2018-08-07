@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37321"]={"code":"37321","region":"Tennessee","city":"Dayton","latitude":35.492557,"longitude":-85.016443}}(window,'GeoPostal','US');

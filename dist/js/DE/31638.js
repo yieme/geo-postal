@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31638"]={"code":"31638","region":"Niedersachsen","city":"Stockse","latitude":52.64067,"longitude":9.34027}}(window,'GeoPostal','DE');

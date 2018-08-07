@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62242"]={"code":"62242","region":"Illinois","city":"Evansville","latitude":38.09556,"longitude":-89.905295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15822"]={"code":"15822","region":"Galicia","city":"Touro","latitude":42.86812,"longitude":-8.30764}}(window,'GeoPostal','ES');

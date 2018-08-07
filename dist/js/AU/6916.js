@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6916"]={"code":"6916","region":"Western Australia","city":"Osborne Park","latitude":-31.90066,"longitude":115.81083}}(window,'GeoPostal','AU');

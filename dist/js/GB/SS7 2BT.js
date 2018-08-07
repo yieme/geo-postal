@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS7 2BT"]={"code":"SS7 2BT","region":"England","city":"Hadleigh","latitude":51.55269,"longitude":0.60983}}(window,'GeoPostal','GB');

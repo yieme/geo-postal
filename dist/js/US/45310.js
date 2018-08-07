@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45310"]={"code":"45310","region":"OH","city":"Burkettsville","latitude":40.3541,"longitude":-84.6435}}(window,'GeoPostal','US');

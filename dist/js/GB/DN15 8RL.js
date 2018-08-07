@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 8RL"]={"code":"DN15 8RL","region":"England","city":"Flixborough","latitude":53.62455,"longitude":-0.68272}}(window,'GeoPostal','GB');

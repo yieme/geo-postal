@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46700"]={"code":"46700","region":"Jalisco","city":"Ameca","latitude":20.55,"longitude":-104.03333}}(window,'GeoPostal','MX');

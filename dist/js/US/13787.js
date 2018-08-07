@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13787"]={"code":"13787","region":"NY","city":"Harpursville","latitude":42.1823,"longitude":-75.6545}}(window,'GeoPostal','US');

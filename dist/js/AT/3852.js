@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3852"]={"code":"3852","region":"Niederosterreich","city":"Gastern","latitude":48.89446,"longitude":15.22027}}(window,'GeoPostal','AT');

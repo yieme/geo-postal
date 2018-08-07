@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78200"]={"code":"78200","region":"Melaka","city":"Kuala Sungai Baru","latitude":2.3594,"longitude":102.0353}}(window,'GeoPostal','MY');

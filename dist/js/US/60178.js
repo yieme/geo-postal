@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60178"]={"code":"60178","region":"Illinois","city":"Sycamore","latitude":41.98892,"longitude":-88.68675}}(window,'GeoPostal','US');

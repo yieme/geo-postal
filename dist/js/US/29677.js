@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29677"]={"code":"29677","region":"SC","city":"Sandy Springs","latitude":34.5975,"longitude":-82.7568}}(window,'GeoPostal','US');

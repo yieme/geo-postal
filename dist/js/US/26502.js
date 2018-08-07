@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26502"]={"code":"26502","region":"WV","city":"Morgantown","latitude":39.6253,"longitude":-79.9672}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87571"]={"code":"87571","region":"New Mexico","city":"Taos","latitude":36.39744,"longitude":-105.59448}}(window,'GeoPostal','US');

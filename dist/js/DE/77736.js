@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77736"]={"code":"77736","region":"Rheinland-Pfalz","city":"Zell","latitude":49.64883,"longitude":8.13911}}(window,'GeoPostal','DE');

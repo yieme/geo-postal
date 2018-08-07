@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["651212"]={"code":"651212","region":"Yunnan","city":"Dengzishan","latitude":24.89858,"longitude":102.04518}}(window,'GeoPostal','CN');

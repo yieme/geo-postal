@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11951"]={"code":"11951","region":"New York","city":"Mastic Beach","latitude":40.76677,"longitude":-72.85205}}(window,'GeoPostal','US');

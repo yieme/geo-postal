@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23002"]={"code":"23002","region":"Virginia","city":"Amelia Court House","latitude":37.34293,"longitude":-77.98056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74061"]={"code":"74061","region":"Oklahoma","city":"Ramona","latitude":36.53111,"longitude":-95.92361}}(window,'GeoPostal','US');

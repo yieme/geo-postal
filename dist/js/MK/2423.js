@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2423"]={"code":"2423","region":"Radovis","city":"Podares","latitude":41.61389,"longitude":22.54222}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03039"]={"code":"03039","region":"Lazio","city":"Sora","latitude":41.71572,"longitude":13.6141}}(window,'GeoPostal','IT');

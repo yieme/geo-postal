@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-501"]={"code":"57-501","region":"Dolnoslaskie","city":"Bystrzyca Klodzka","latitude":50.30179,"longitude":16.64231}}(window,'GeoPostal','PL');

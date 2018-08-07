@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28133"]={"code":"28133","region":"NC","city":"Peachland","latitude":35.0054,"longitude":-80.2829}}(window,'GeoPostal','US');

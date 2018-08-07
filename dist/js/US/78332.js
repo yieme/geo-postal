@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78332"]={"code":"78332","region":"Texas","city":"Alice","latitude":27.75225,"longitude":-98.06972}}(window,'GeoPostal','US');

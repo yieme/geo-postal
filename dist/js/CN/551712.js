@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["551712"]={"code":"551712","region":"Guizhou","city":"Bijie","latitude":27.3125,"longitude":105.29417}}(window,'GeoPostal','CN');

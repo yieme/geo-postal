@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45877"]={"code":"45877","region":"OH","city":"Pandora","latitude":40.9509,"longitude":-83.9521}}(window,'GeoPostal','US');

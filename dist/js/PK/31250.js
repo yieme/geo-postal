@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31250"]={"code":"31250","region":"Punjab","city":"Leiah","latitude":30.96128,"longitude":70.93904}}(window,'GeoPostal','PK');

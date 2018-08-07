@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07726"]={"code":"07726","region":"New Jersey","city":"Englishtown","latitude":40.27776,"longitude":-74.36112}}(window,'GeoPostal','US');

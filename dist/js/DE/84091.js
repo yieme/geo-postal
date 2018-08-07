@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84091"]={"code":"84091","region":"Bayern","city":"Leibersdorf","latitude":48.62761,"longitude":11.86502}}(window,'GeoPostal','DE');

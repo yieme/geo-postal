@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2922"]={"code":"2922","region":"Komarom-Esztergom","city":"Mocsa","latitude":47.66999,"longitude":18.18505}}(window,'GeoPostal','HU');

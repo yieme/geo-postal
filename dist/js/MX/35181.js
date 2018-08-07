@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35181"]={"code":"35181","region":"Durango","city":"Ciudad Lerdo","latitude":25.53333,"longitude":-103.53333}}(window,'GeoPostal','MX');

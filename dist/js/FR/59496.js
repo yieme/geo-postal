@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59496"]={"code":"59496","region":"Hauts-de-France","city":"Salome","latitude":50.53352,"longitude":2.84709}}(window,'GeoPostal','FR');

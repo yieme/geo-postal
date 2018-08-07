@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86323"]={"code":"86323","region":"Arizona","city":"Chino Valley","latitude":34.767435,"longitude":-112.472402}}(window,'GeoPostal','US');

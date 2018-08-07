@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456113"]={"code":"456113","region":"Chelyabinskaya oblast'","city":"Katav-Ivanovsk","latitude":54.75306,"longitude":58.19556}}(window,'GeoPostal','RU');

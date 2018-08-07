@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["534291"]={"code":"534291","region":"Andhra Pradesh","city":"Tanuku","latitude":16.75,"longitude":81.7}}(window,'GeoPostal','IN');

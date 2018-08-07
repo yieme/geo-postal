@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150901"]={"code":"150901","region":"Nei Mongol","city":"Jining","latitude":41.0275,"longitude":113.10583}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75660"]={"code":"75660","region":"TX","city":"Judson","latitude":32.5826,"longitude":-94.7535}}(window,'GeoPostal','US');

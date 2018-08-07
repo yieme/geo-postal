@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60151"]={"code":"60151","region":"IL","city":"Maple Park","latitude":41.9232,"longitude":-88.5999}}(window,'GeoPostal','US');

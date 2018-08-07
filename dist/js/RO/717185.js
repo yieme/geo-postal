@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717185"]={"code":"717185","region":"Botosani","city":"Havirna","latitude":48.06667,"longitude":26.65}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G74 5PF"]={"code":"G74 5PF","region":"Scotland","city":"Kilbride","latitude":56.1,"longitude":-5.45}}(window,'GeoPostal','GB');

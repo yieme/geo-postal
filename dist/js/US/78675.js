@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78675"]={"code":"78675","region":"Texas","city":"Willow City","latitude":30.446109,"longitude":-98.724777}}(window,'GeoPostal','US');

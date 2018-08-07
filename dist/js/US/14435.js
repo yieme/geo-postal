@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14435"]={"code":"14435","region":"NY","city":"Conesus","latitude":42.7216,"longitude":-77.6747}}(window,'GeoPostal','US');

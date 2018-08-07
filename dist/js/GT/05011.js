@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05011"]={"code":"05011","region":"Escuintla","city":"Palin","latitude":14.40556,"longitude":-90.69833}}(window,'GeoPostal','GT');

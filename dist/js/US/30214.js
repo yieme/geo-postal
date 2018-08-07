@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30214"]={"code":"30214","region":"Georgia","city":"Fayetteville","latitude":33.440281,"longitude":-84.462654}}(window,'GeoPostal','US');

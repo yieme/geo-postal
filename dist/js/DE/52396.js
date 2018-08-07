@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52396"]={"code":"52396","region":"Nordrhein-Westfalen","city":"Schmidt","latitude":50.66192,"longitude":6.40892}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["496665"]={"code":"496665","region":"Chhattisgarh","city":"Korba","latitude":22.35,"longitude":82.68333}}(window,'GeoPostal','IN');

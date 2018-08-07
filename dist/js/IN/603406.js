@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["603406"]={"code":"603406","region":"Tamil Nadu","city":"Cheyur","latitude":12.34806,"longitude":80.00472}}(window,'GeoPostal','IN');

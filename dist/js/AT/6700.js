@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6700"]={"code":"6700","region":"Vorarlberg","city":"Stallehr","latitude":47.13306,"longitude":9.85}}(window,'GeoPostal','AT');

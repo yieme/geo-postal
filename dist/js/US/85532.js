@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85532"]={"code":"85532","region":"Arizona","city":"Claypool","latitude":33.41117,"longitude":-110.84261}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67567"]={"code":"67567","region":"KS","city":"Pawnee Rock","latitude":38.2782,"longitude":-98.9814}}(window,'GeoPostal','US');

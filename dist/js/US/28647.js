@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28647"]={"code":"28647","region":"NC","city":"Linville Falls","latitude":35.9593,"longitude":-81.9429}}(window,'GeoPostal','US');

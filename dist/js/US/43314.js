@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43314"]={"code":"43314","region":"OH","city":"Caledonia","latitude":40.6272,"longitude":-82.9925}}(window,'GeoPostal','US');

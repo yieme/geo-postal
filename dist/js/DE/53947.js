@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53947"]={"code":"53947","region":"Nordrhein-Westfalen","city":"Bergheim","latitude":50.56867,"longitude":6.64944}}(window,'GeoPostal','DE');

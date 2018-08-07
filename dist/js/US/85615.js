@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85615"]={"code":"85615","region":"AZ","city":"Hereford","latitude":31.4035,"longitude":-110.2047}}(window,'GeoPostal','US');

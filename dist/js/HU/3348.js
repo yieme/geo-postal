@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3348"]={"code":"3348","region":"Heves","city":"Szilvasvarad","latitude":48.1,"longitude":20.4}}(window,'GeoPostal','HU');

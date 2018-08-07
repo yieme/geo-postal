@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7850"]={"code":"7850","region":"Hainaut","city":"Enghien","latitude":50.68373,"longitude":4.03284}}(window,'GeoPostal','BE');

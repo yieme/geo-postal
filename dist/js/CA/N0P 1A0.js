@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 1A0"]={"code":"N0P 1A0","region":"Ontario","city":"Blenheim","latitude":42.33339,"longitude":-81.99978}}(window,'GeoPostal','CA');

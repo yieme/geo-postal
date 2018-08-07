@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD8 6RU"]={"code":"TD8 6RU","region":"Scotland","city":"Oxnam","latitude":55.45807,"longitude":-2.47737}}(window,'GeoPostal','GB');

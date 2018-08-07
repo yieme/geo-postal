@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2791"]={"code":"2791","region":"Hovedstaden","city":"Dragor","latitude":55.59455,"longitude":12.66638}}(window,'GeoPostal','DK');

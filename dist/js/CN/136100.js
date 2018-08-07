@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["136100"]={"code":"136100","region":"Jilin","city":"Gongzhuling","latitude":43.50075,"longitude":124.81979}}(window,'GeoPostal','CN');

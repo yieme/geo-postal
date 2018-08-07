@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68377"]={"code":"68377","region":"Nebraska","city":"Jansen","latitude":40.20156,"longitude":-97.02684}}(window,'GeoPostal','US');

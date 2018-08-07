@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89826"]={"code":"89826","region":"NV","city":"Jarbidge","latitude":41.8873,"longitude":-115.3813}}(window,'GeoPostal','US');

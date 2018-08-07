@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49463"]={"code":"49463","region":"MI","city":"Sylvan Beach","latitude":43.372,"longitude":-86.4237}}(window,'GeoPostal','US');

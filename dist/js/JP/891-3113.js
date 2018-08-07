@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["891-3113"]={"code":"891-3113","region":"Kagoshima","city":"Nishinoomote","latitude":30.683,"longitude":131.017}}(window,'GeoPostal','JP');

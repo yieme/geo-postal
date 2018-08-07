@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY14 9UD"]={"code":"DY14 9UD","region":"England","city":"Far Forest","latitude":52.37685,"longitude":-2.40541}}(window,'GeoPostal','GB');

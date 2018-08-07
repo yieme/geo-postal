@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 3AX"]={"code":"NG32 3AX","region":"England","city":"Carlton Scroop","latitude":52.99454,"longitude":-0.58708}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21071"]={"code":"21071","region":"Maryland","city":"Glyndon","latitude":39.488314,"longitude":-76.77843}}(window,'GeoPostal','US');

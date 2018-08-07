@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11411"]={"code":"11411","region":"NY","city":"Cambria Heights","latitude":40.6947,"longitude":-73.7374}}(window,'GeoPostal','US');

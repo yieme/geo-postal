@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["746511"]={"code":"746511","region":"Gansu","city":"Zuitai","latitude":33.33083,"longitude":105.60467}}(window,'GeoPostal','CN');

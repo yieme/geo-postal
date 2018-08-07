@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13775"]={"code":"13775","region":"New York","city":"Franklin","latitude":42.337927,"longitude":-75.160752}}(window,'GeoPostal','US');

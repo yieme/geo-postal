@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["751-0846"]={"code":"751-0846","region":"Yamaguchi","city":"Shimonoseki","latitude":33.95,"longitude":130.933}}(window,'GeoPostal','JP');

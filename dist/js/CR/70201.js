@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70201"]={"code":"70201","region":"Limon","city":"Guapiles","latitude":10.21588,"longitude":-83.78661}}(window,'GeoPostal','CR');

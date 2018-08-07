@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6JW"]={"code":"NG23 6JW","region":"England","city":"Norwell","latitude":53.14795,"longitude":-0.84589}}(window,'GeoPostal','GB');

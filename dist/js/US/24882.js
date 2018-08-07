@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24882"]={"code":"24882","region":"WV","city":"Simon","latitude":37.6197,"longitude":-81.7586}}(window,'GeoPostal','US');

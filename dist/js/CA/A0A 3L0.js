@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 3L0"]={"code":"A0A 3L0","region":"Newfoundland and Labrador","city":"Pouch Cove","latitude":47.74709,"longitude":-52.77304}}(window,'GeoPostal','CA');

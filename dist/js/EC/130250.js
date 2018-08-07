@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130250"]={"code":"130250","region":"Manabi","city":"Calceta","latitude":-0.85,"longitude":-80.16667}}(window,'GeoPostal','EC');

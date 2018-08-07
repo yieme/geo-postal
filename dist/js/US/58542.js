@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58542"]={"code":"58542","region":"ND","city":"Hague","latitude":46.0589,"longitude":-99.9745}}(window,'GeoPostal','US');

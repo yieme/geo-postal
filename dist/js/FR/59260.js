@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59260"]={"code":"59260","region":"Hauts-de-France","city":"Lezennes","latitude":50.61553,"longitude":3.11354}}(window,'GeoPostal','FR');

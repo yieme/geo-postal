@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41821"]={"code":"41821","region":"KY","city":"Hallie","latitude":37.0837,"longitude":-83.0027}}(window,'GeoPostal','US');

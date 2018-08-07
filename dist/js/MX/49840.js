@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49840"]={"code":"49840","region":"Jalisco","city":"Tonila","latitude":19.43365,"longitude":-103.51657}}(window,'GeoPostal','MX');

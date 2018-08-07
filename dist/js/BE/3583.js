@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3583"]={"code":"3583","region":"Limburg","city":"Beringen","latitude":51.04954,"longitude":5.22606}}(window,'GeoPostal','BE');

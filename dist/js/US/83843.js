@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83843"]={"code":"83843","region":"Idaho","city":"Moscow","latitude":46.73239,"longitude":-117.00017}}(window,'GeoPostal','US');

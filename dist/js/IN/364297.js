@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364297"]={"code":"364297","region":"Gujarat","city":"Katpur","latitude":21.05,"longitude":71.78333}}(window,'GeoPostal','IN');

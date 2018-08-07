@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 0SR"]={"code":"SY5 0SR","region":"England","city":"Ratlinghope","latitude":52.56496,"longitude":-2.88301}}(window,'GeoPostal','GB');

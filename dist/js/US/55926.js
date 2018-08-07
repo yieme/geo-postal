@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55926"]={"code":"55926","region":"MN","city":"Dexter","latitude":43.716,"longitude":-92.7268}}(window,'GeoPostal','US');

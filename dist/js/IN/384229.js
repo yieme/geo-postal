@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384229"]={"code":"384229","region":"Gujarat","city":"Patan","latitude":23.83333,"longitude":72.11667}}(window,'GeoPostal','IN');

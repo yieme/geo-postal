@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41729"]={"code":"41729","region":"Kentucky","city":"Combs","latitude":37.266,"longitude":-83.212}}(window,'GeoPostal','US');

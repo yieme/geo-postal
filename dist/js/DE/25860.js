@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25860"]={"code":"25860","region":"Schleswig-Holstein","city":"Olderup","latitude":54.53333,"longitude":9.11667}}(window,'GeoPostal','DE');

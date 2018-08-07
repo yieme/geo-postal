@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46371"]={"code":"46371","region":"IN","city":"Rolling Prairie","latitude":41.7229,"longitude":-86.5841}}(window,'GeoPostal','US');

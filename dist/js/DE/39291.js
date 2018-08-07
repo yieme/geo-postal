@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39291"]={"code":"39291","region":"Sachsen-Anhalt","city":"Magdeburgerforth","latitude":52.22894,"longitude":12.19196}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19608"]={"code":"19608","region":"Pennsylvania","city":"Sinking Spring","latitude":40.318005,"longitude":-76.024347}}(window,'GeoPostal','US');

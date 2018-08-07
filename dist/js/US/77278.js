@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77278"]={"code":"77278","region":"Texas","city":"Willis","latitude":29.7699,"longitude":-95.5113}}(window,'GeoPostal','US');

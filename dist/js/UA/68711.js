@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68711"]={"code":"68711","region":"Odeska oblast","city":"Novi Troyany","latitude":45.94275,"longitude":28.85628}}(window,'GeoPostal','UA');

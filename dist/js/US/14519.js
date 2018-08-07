@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14519"]={"code":"14519","region":"NY","city":"Ontario","latitude":43.2291,"longitude":-77.3088}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96781"]={"code":"96781","region":"HI","city":"Papaikou","latitude":19.7916,"longitude":-155.0984}}(window,'GeoPostal','US');

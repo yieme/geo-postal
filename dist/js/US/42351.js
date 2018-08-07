@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42351"]={"code":"42351","region":"Kentucky","city":"Lewisport","latitude":37.937,"longitude":-86.90221}}(window,'GeoPostal','US');

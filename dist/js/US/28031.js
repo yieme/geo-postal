@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28031"]={"code":"28031","region":"North Carolina","city":"Cornelius","latitude":35.4868,"longitude":-80.86007}}(window,'GeoPostal','US');

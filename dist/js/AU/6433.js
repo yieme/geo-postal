@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6433"]={"code":"6433","region":"Western Australia","city":"Kalgoorlie","latitude":-30.75325,"longitude":121.46936}}(window,'GeoPostal','AU');

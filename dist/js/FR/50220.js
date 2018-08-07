@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50220"]={"code":"50220","region":"Normandie","city":"Ducey","latitude":48.61842,"longitude":-1.29052}}(window,'GeoPostal','FR');

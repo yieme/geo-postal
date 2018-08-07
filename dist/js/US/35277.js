@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35277"]={"code":"35277","region":"AL","city":"Bham","latitude":33.44,"longitude":-86.73}}(window,'GeoPostal','US');

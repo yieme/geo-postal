@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G7P 0A3"]={"code":"G7P 0A3","region":"Quebec","city":"Saint-Ambroise","latitude":48.55009,"longitude":-71.31578}}(window,'GeoPostal','CA');

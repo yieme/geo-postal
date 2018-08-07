@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89344"]={"code":"89344","region":"Bayern","city":"Aislingen","latitude":48.50648,"longitude":10.45778}}(window,'GeoPostal','DE');

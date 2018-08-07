@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55535-000"]={"code":"55535-000","region":"Pernambuco","city":"Joaquim Nabuco","latitude":-8.62444,"longitude":-35.53333}}(window,'GeoPostal','BR');

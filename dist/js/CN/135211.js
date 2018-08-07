@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135211"]={"code":"135211","region":"Jilin","city":"Dujia","latitude":42.65086,"longitude":126.89333}}(window,'GeoPostal','CN');

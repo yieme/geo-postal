@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72011"]={"code":"72011","region":"Zaporizka oblast","city":"Dniprovka","latitude":47.42945,"longitude":34.61805}}(window,'GeoPostal','UA');

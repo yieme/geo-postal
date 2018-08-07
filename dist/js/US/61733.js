@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61733"]={"code":"61733","region":"IL","city":"Deer Creek","latitude":40.6224,"longitude":-89.3323}}(window,'GeoPostal','US');

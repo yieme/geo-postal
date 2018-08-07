@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08721"]={"code":"08721","region":"Kyivska oblast","city":"Ukrainka","latitude":50.14317,"longitude":30.74612}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63632"]={"code":"63632","region":"MO","city":"Cascade","latitude":37.2995,"longitude":-90.2693}}(window,'GeoPostal','US');

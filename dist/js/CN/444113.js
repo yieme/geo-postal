@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444113"]={"code":"444113","region":"Hubei","city":"Banyue","latitude":30.61666,"longitude":111.82822}}(window,'GeoPostal','CN');

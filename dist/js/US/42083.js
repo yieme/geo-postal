@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42083"]={"code":"42083","region":"KY","city":"Tiline","latitude":37.1457,"longitude":-88.285}}(window,'GeoPostal','US');

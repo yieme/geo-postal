@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16059"]={"code":"16059","region":"Tipaza","city":"Baraki","latitude":36.66655,"longitude":3.09606}}(window,'GeoPostal','DZ');

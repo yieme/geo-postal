@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28430-000"]={"code":"28430-000","region":"Rio de Janeiro","city":"Cambuci","latitude":-21.57528,"longitude":-41.91111}}(window,'GeoPostal','BR');

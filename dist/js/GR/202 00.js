@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202 00"]={"code":"202 00","region":"Peloponnisos","city":"Kiaton","latitude":38.01667,"longitude":22.75}}(window,'GeoPostal','GR');

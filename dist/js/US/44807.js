@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44807"]={"code":"44807","region":"OH","city":"Attica","latitude":41.0773,"longitude":-82.9032}}(window,'GeoPostal','US');

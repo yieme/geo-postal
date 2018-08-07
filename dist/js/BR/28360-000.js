@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28360-000"]={"code":"28360-000","region":"Rio de Janeiro","city":"Bom Jesus do Itabapoana","latitude":-21.13389,"longitude":-41.67972}}(window,'GeoPostal','BR');

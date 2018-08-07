@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133100"]={"code":"133100","region":"Jilin","city":"Tumen","latitude":42.96611,"longitude":129.8425}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44864"]={"code":"44864","region":"Ohio","city":"Perrysville","latitude":40.651628,"longitude":-82.312637}}(window,'GeoPostal','US');

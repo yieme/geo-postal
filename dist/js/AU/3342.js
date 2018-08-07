@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3342"]={"code":"3342","region":"Victoria","city":"Ballan","latitude":-37.59987,"longitude":144.2289}}(window,'GeoPostal','AU');

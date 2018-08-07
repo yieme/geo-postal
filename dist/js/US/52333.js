@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52333"]={"code":"52333","region":"IA","city":"Solon","latitude":41.8099,"longitude":-91.5086}}(window,'GeoPostal','US');

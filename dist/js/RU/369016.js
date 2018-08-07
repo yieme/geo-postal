@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369016"]={"code":"369016","region":"Karachayevo-Cherkesskaya Respublika","city":"Cherkessk","latitude":44.22333,"longitude":42.05778}}(window,'GeoPostal','RU');

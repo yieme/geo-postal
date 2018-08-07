@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50438"]={"code":"50438","region":"IA","city":"Garner","latitude":43.1144,"longitude":-93.5944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 1A0"]={"code":"J0H 1A0","region":"Quebec","city":"Acton Vale","latitude":45.65007,"longitude":-72.56582}}(window,'GeoPostal','CA');

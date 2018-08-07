@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28438"]={"code":"28438","region":"NC","city":"Evergreen","latitude":34.4204,"longitude":-78.8947}}(window,'GeoPostal','US');

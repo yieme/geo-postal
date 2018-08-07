@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98380"]={"code":"98380","region":"WA","city":"Seabeck","latitude":47.5913,"longitude":-122.8686}}(window,'GeoPostal','US');

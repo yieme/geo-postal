@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53420"]={"code":"53420","region":"Pays-de-la-Loire","city":"Chailland","latitude":48.22516,"longitude":-0.87387}}(window,'GeoPostal','FR');

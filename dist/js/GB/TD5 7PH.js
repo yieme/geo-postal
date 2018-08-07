@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 7PH"]={"code":"TD5 7PH","region":"Scotland","city":"Smailholm","latitude":55.61972,"longitude":-2.56031}}(window,'GeoPostal','GB');

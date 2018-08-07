@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 44"]={"code":"620 44","region":"Attiki","city":"Psikhikon","latitude":41,"longitude":23.63333}}(window,'GeoPostal','GR');

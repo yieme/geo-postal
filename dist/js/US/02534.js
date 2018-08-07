@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02534"]={"code":"02534","region":"MA","city":"Cataumet","latitude":41.6694,"longitude":-70.6234}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59068"]={"code":"59068","region":"Montana","city":"Red Lodge","latitude":45.18578,"longitude":-109.24682}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628441"]={"code":"628441","region":"Sichuan","city":"Dongxi","latitude":32.06577,"longitude":106.24843}}(window,'GeoPostal','CN');

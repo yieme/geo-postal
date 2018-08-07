@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83624"]={"code":"83624","region":"Idaho","city":"Grand View","latitude":42.985694,"longitude":-116.091571}}(window,'GeoPostal','US');

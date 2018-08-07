@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47023"]={"code":"47023","region":"Indiana","city":"Holton","latitude":39.07639,"longitude":-85.38528}}(window,'GeoPostal','US');

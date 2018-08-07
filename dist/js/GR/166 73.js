@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["166 73"]={"code":"166 73","region":"Attiki","city":"Voula","latitude":37.84221,"longitude":23.77651}}(window,'GeoPostal','GR');

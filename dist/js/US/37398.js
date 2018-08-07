@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37398"]={"code":"37398","region":"Tennessee","city":"Winchester","latitude":35.18657,"longitude":-86.109891}}(window,'GeoPostal','US');

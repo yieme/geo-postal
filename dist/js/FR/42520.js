@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42520"]={"code":"42520","region":"Auvergne-Rhone-Alpes","city":"Saint-Pierre-de-Boeuf","latitude":45.36667,"longitude":4.75}}(window,'GeoPostal','FR');

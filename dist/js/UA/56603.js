@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56603"]={"code":"56603","region":"Mykolaivska oblast","city":"Nova Odesa","latitude":47.30778,"longitude":31.78506}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40445"]={"code":"40445","region":"KY","city":"Livingston","latitude":37.3074,"longitude":-84.2318}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69331"]={"code":"69331","region":"NE","city":"Angora","latitude":41.8934,"longitude":-103.085}}(window,'GeoPostal','US');

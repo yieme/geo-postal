@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75212"]={"code":"75212","region":"Federacija Bosne i Hercegovine","city":"Mramor","latitude":44.59167,"longitude":18.56444}}(window,'GeoPostal','BA');

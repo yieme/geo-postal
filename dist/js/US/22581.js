@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22581"]={"code":"22581","region":"Virginia","city":"Zacata","latitude":38.12,"longitude":-76.7825}}(window,'GeoPostal','US');

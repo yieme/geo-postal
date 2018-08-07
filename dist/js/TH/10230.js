@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10230"]={"code":"10230","region":"Suphan Buri","city":"U Thong","latitude":14.37514,"longitude":99.89225}}(window,'GeoPostal','TH');

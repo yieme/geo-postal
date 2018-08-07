@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31564"]={"code":"31564","region":"Georgia","city":"Waresboro","latitude":31.244994,"longitude":-82.473093}}(window,'GeoPostal','US');

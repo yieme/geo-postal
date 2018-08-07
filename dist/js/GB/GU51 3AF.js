@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU51 3AF"]={"code":"GU51 3AF","region":"England","city":"Fleet","latitude":51.28333,"longitude":-0.83333}}(window,'GeoPostal','GB');

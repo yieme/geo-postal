@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35989"]={"code":"35989","region":"Alabama","city":"Valley Head","latitude":34.56528,"longitude":-85.61639}}(window,'GeoPostal','US');

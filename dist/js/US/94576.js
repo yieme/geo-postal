@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94576"]={"code":"94576","region":"California","city":"Deer Park","latitude":38.530063,"longitude":-122.466642}}(window,'GeoPostal','US');

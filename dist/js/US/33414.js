@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33414"]={"code":"33414","region":"Florida","city":"Wellington","latitude":26.660295,"longitude":-80.258267}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64500-000"]={"code":"64500-000","region":"Piaui","city":"Oeiras","latitude":-7.02528,"longitude":-42.13111}}(window,'GeoPostal','BR');

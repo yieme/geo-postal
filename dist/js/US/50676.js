@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50676"]={"code":"50676","region":"IA","city":"Tripoli","latitude":42.8105,"longitude":-92.2659}}(window,'GeoPostal','US');

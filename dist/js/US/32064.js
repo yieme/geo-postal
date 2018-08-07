@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32064"]={"code":"32064","region":"Florida","city":"Live Oak","latitude":30.294347,"longitude":-82.986078}}(window,'GeoPostal','US');

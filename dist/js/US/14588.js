@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14588"]={"code":"14588","region":"NY","city":"Willard","latitude":42.6835,"longitude":-76.8724}}(window,'GeoPostal','US');

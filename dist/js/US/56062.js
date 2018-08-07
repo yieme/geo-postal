@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56062"]={"code":"56062","region":"Minnesota","city":"Madelia","latitude":44.050277,"longitude":-94.416337}}(window,'GeoPostal','US');

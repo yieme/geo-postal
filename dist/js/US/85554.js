@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85554"]={"code":"85554","region":"Arizona","city":"Young","latitude":34.086928,"longitude":-111.168633}}(window,'GeoPostal','US');

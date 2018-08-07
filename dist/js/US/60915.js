@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60915"]={"code":"60915","region":"IL","city":"Bradley","latitude":41.1454,"longitude":-87.8601}}(window,'GeoPostal','US');

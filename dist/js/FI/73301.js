@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73301"]={"code":"73301","region":"Pohjois-Savo","city":"Nilsia","latitude":63.20746,"longitude":28.08222}}(window,'GeoPostal','FI');

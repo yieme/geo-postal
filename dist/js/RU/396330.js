@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396330"]={"code":"396330","region":"Voronezhskaya oblast'","city":"Orlovo","latitude":51.75397,"longitude":39.58731}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 8NE"]={"code":"SY21 8NE","region":"Wales","city":"Forden","latitude":52.60163,"longitude":-3.14204}}(window,'GeoPostal','GB');

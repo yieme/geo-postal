@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30210"]={"code":"30210","region":"Occitanie","city":"Remoulins","latitude":43.93949,"longitude":4.56798}}(window,'GeoPostal','FR');

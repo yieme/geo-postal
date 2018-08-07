@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2171"]={"code":"2171","region":"New South Wales","city":"Hoxton Park","latitude":-33.93126,"longitude":150.85412}}(window,'GeoPostal','AU');

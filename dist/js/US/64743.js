@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64743"]={"code":"64743","region":"MO","city":"East Lynne","latitude":38.6682,"longitude":-94.2333}}(window,'GeoPostal','US');

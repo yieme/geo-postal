@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435500"]={"code":"435500","region":"Maramures","city":"Sighetu Marmatiei","latitude":47.93333,"longitude":23.88333}}(window,'GeoPostal','RO');

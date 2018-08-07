@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54340"]={"code":"54340","region":"Rheinland-Pfalz","city":"Lorsch","latitude":49.80077,"longitude":6.8007}}(window,'GeoPostal','DE');

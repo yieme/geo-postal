@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80751"]={"code":"80751","region":"Colorado","city":"Sterling","latitude":40.634475,"longitude":-103.213005}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39926"]={"code":"39926","region":"Guerrero","city":"El Ocotito","latitude":17.25,"longitude":-99.56667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42086"]={"code":"42086","region":"Marrakech-Tensift-Al Haouz","city":"Abadou","latitude":31.57917,"longitude":-7.31308}}(window,'GeoPostal','MA');

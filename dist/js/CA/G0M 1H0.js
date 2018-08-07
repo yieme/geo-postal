@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1H0"]={"code":"G0M 1H0","region":"Quebec","city":"Lambton","latitude":45.83336,"longitude":-71.08236}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629640"]={"code":"629640","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Muzhi","latitude":65.36667,"longitude":64.66667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 2M0"]={"code":"T0K 2M0","region":"Alberta","city":"Waterton Park","latitude":49.04995,"longitude":-113.91864}}(window,'GeoPostal','CA');

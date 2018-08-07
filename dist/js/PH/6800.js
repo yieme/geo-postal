@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6800"]={"code":"6800","region":"Eastern Samar","city":"Borongan","latitude":11.60806,"longitude":125.43194}}(window,'GeoPostal','PH');

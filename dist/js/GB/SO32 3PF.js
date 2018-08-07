@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 3PF"]={"code":"SO32 3PF","region":"England","city":"Soberton","latitude":50.94545,"longitude":-1.13297}}(window,'GeoPostal','GB');

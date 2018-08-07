@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62036"]={"code":"62036","region":"Marche","city":"Pieve Torina","latitude":43.04215,"longitude":13.04587}}(window,'GeoPostal','IT');

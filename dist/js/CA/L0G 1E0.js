@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0G 1E0"]={"code":"L0G 1E0","region":"Ontario","city":"East Gwillimbury","latitude":44.086593,"longitude":-79.340602}}(window,'GeoPostal','CA');

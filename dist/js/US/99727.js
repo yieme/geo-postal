@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99727"]={"code":"99727","region":"AK","city":"Buckland","latitude":65.9789,"longitude":-161.1262}}(window,'GeoPostal','US');

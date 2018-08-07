@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-3377"]={"code":"L-3377","region":"Luxembourg","city":"Leudelange","latitude":49.56833,"longitude":6.06528}}(window,'GeoPostal','LU');

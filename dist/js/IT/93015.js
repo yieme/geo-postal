@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93015"]={"code":"93015","region":"Sicilia","city":"Niscemi","latitude":37.14864,"longitude":14.39128}}(window,'GeoPostal','IT');

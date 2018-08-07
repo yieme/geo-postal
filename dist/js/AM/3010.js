@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3010"]={"code":"3010","region":"Ararat","city":"Geghanist","latitude":40.14493,"longitude":44.43054}}(window,'GeoPostal','AM');

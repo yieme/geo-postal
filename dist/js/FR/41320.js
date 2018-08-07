@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41320"]={"code":"41320","region":"Centre-Val de Loire","city":"Chatres-sur-Cher","latitude":47.26505,"longitude":1.90591}}(window,'GeoPostal','FR');

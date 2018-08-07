@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31808"]={"code":"31808","region":"GA","city":"Fortson","latitude":32.6288,"longitude":-85.0017}}(window,'GeoPostal','US');

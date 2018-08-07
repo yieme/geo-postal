@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14138"]={"code":"14138","region":"NY","city":"South Dayton","latitude":42.3718,"longitude":-79.0501}}(window,'GeoPostal','US');

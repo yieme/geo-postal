@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28060"]={"code":"28060","region":"Skane lan","city":"Broby","latitude":56.25521,"longitude":14.07797}}(window,'GeoPostal','SE');

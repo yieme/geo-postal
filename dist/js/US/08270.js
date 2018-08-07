@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08270"]={"code":"08270","region":"NJ","city":"Woodbine","latitude":39.2716,"longitude":-74.7968}}(window,'GeoPostal','US');

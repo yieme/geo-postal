@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97716"]={"code":"97716","region":"Yucatan","city":"Tizimin","latitude":21.15,"longitude":-88.15}}(window,'GeoPostal','MX');

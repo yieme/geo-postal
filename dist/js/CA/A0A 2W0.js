@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 2W0"]={"code":"A0A 2W0","region":"Newfoundland and Labrador","city":"Lower Island Cove","latitude":47.99989,"longitude":-52.98135}}(window,'GeoPostal','CA');

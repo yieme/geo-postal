@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89960"]={"code":"89960","region":"Tamaulipas","city":"Antiguo Morelos","latitude":22.5495,"longitude":-99.08123}}(window,'GeoPostal','MX');

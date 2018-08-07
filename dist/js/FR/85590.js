@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85590"]={"code":"85590","region":"Pays-de-la-Loire","city":"Les Epesses","latitude":46.88333,"longitude":-0.9}}(window,'GeoPostal','FR');

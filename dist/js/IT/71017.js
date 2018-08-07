@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71017"]={"code":"71017","region":"Puglia","city":"Torre Maggiore","latitude":41.69074,"longitude":15.29634}}(window,'GeoPostal','IT');

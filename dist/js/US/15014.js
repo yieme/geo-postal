@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15014"]={"code":"15014","region":"PA","city":"Brackenridge","latitude":40.6082,"longitude":-79.7414}}(window,'GeoPostal','US');

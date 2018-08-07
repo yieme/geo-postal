@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42053"]={"code":"42053","region":"KY","city":"Kevil","latitude":37.0872,"longitude":-88.8764}}(window,'GeoPostal','US');

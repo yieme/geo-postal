@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39470"]={"code":"39470","region":"Mississippi","city":"Poplarville","latitude":30.87972,"longitude":-89.58846}}(window,'GeoPostal','US');

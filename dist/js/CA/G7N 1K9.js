@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G7N 1K9"]={"code":"G7N 1K9","region":"Quebec","city":"Saguenay","latitude":48.310185,"longitude":-71.159292}}(window,'GeoPostal','CA');

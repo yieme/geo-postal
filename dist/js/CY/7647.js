@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7647"]={"code":"7647","region":"Larnaka","city":"Mosphiloti","latitude":34.95,"longitude":33.42917}}(window,'GeoPostal','CY');

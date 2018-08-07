@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77730"]={"code":"77730","region":"Ile-de-France","city":"Saacy-sur-Marne","latitude":48.9621,"longitude":3.21083}}(window,'GeoPostal','FR');

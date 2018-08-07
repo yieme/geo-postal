@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17670"]={"code":"17670","region":"Nouvelle-Aquitaine","city":"La Couarde-sur-Mer","latitude":46.19411,"longitude":-1.42522}}(window,'GeoPostal','FR');

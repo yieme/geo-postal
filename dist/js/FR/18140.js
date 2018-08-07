@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18140"]={"code":"18140","region":"Centre-Val de Loire","city":"Herry","latitude":47.21667,"longitude":2.95386}}(window,'GeoPostal','FR');

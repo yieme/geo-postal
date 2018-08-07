@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 01"]={"code":"250 01","region":"Stredocesky kraj","city":"Brandys nad Labem-Stara Boleslav","latitude":50.18709,"longitude":14.66326}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1807"]={"code":"1807","region":"Compostela Valley","city":"San-Miguel","latitude":7.6099,"longitude":126.126}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48214"]={"code":"48214","region":"Ternopilska oblast","city":"Hrymayliv","latitude":49.33208,"longitude":26.01112}}(window,'GeoPostal','UA');

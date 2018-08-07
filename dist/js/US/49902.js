@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49902"]={"code":"49902","region":"MI","city":"Alpha","latitude":46.0438,"longitude":-88.3771}}(window,'GeoPostal','US');

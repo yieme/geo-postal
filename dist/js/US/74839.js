@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74839"]={"code":"74839","region":"Oklahoma","city":"Dustin","latitude":35.225199,"longitude":-96.06925}}(window,'GeoPostal','US');

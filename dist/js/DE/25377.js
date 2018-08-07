@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25377"]={"code":"25377","region":"Schleswig-Holstein","city":"Kollmardeich","latitude":53.73333,"longitude":9.48333}}(window,'GeoPostal','DE');

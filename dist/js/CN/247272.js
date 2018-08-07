@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247272"]={"code":"247272","region":"Anhui","city":"Muta","latitude":29.77592,"longitude":117.04995}}(window,'GeoPostal','CN');

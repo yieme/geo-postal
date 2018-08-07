@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92629"]={"code":"92629","region":"California","city":"Dana Point","latitude":33.477405,"longitude":-117.69888}}(window,'GeoPostal','US');

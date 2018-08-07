@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14001"]={"code":"14001","region":"Quiche","city":"Santa Cruz del Quiche","latitude":15.03056,"longitude":-91.14889}}(window,'GeoPostal','GT');

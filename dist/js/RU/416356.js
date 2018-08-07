@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416356"]={"code":"416356","region":"Astrakhanskaya oblast'","city":"Krasnyye Barrikady","latitude":46.2045,"longitude":47.8535}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68975"]={"code":"68975","region":"NE","city":"Saronville","latitude":40.6021,"longitude":-97.9388}}(window,'GeoPostal','US');

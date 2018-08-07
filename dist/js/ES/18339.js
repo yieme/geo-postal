@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18339"]={"code":"18339","region":"Andalucia","city":"Cijuela","latitude":37.198,"longitude":-3.81174}}(window,'GeoPostal','ES');

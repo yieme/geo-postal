@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8802"]={"code":"8802","region":"Zurich","city":"Kilchberg","latitude":47.32438,"longitude":8.54548}}(window,'GeoPostal','CH');

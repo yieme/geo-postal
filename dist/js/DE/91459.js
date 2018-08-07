@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91459"]={"code":"91459","region":"Bayern","city":"Klausaurach","latitude":49.51156,"longitude":10.5969}}(window,'GeoPostal','DE');

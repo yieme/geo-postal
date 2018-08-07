@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607480"]={"code":"607480","region":"Bacau","city":"Racaciuni","latitude":46.33333,"longitude":26.98333}}(window,'GeoPostal','RO');

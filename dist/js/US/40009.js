@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40009"]={"code":"40009","region":"Kentucky","city":"Bradfordsville","latitude":37.422407,"longitude":-85.163956}}(window,'GeoPostal','US');

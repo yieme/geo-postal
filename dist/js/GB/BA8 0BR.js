@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA8 0BR"]={"code":"BA8 0BR","region":"England","city":"South Cheriton","latitude":51.01972,"longitude":-2.43889}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43295"]={"code":"43295","region":"Hallands lan","city":"Varberg","latitude":57.10557,"longitude":12.25078}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66933"]={"code":"66933","region":"Kansas","city":"Barnes","latitude":39.653417,"longitude":-96.862355}}(window,'GeoPostal','US');

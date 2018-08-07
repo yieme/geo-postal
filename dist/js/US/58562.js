@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58562"]={"code":"58562","region":"ND","city":"New Leipzig","latitude":46.3823,"longitude":-101.9619}}(window,'GeoPostal','US');

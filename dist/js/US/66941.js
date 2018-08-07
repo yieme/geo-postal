@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66941"]={"code":"66941","region":"KS","city":"Esbon","latitude":39.7562,"longitude":-98.4462}}(window,'GeoPostal','US');

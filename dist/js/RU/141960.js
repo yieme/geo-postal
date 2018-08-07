@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141960"]={"code":"141960","region":"Moskovskaya oblast'","city":"Zaprudnya","latitude":56.56667,"longitude":37.43333}}(window,'GeoPostal','RU');

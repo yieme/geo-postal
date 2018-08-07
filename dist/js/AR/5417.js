@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5417"]={"code":"5417","region":"San Juan","city":"Nueve de Julio","latitude":-31.66914,"longitude":-68.39023}}(window,'GeoPostal','AR');

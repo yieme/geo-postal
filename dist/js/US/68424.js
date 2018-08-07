@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68424"]={"code":"68424","region":"Nebraska","city":"Plymouth","latitude":40.303222,"longitude":-96.987929}}(window,'GeoPostal','US');

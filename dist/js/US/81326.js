@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81326"]={"code":"81326","region":"CO","city":"Hesperus","latitude":37.1654,"longitude":-108.1219}}(window,'GeoPostal','US');

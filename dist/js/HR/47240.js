@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47240"]={"code":"47240","region":"Karlovacka zupanija","city":"Slunj","latitude":45.11083,"longitude":15.58944}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43735"]={"code":"43735","region":"OH","city":"East Fultonham","latitude":39.8501,"longitude":-82.1221}}(window,'GeoPostal','US');

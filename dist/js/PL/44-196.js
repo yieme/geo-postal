@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-196"]={"code":"44-196","region":"Slaskie","city":"Knurow","latitude":50.21971,"longitude":18.65067}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08326"]={"code":"08326","region":"New Jersey","city":"Landisville","latitude":39.52472,"longitude":-74.93833}}(window,'GeoPostal','US');

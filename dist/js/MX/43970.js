@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43970"]={"code":"43970","region":"Hidalgo","city":"Tepeapulco","latitude":19.78333,"longitude":-98.55}}(window,'GeoPostal','MX');

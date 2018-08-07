@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99675"]={"code":"99675","region":"AK","city":"Takotna","latitude":62.9886,"longitude":-156.0642}}(window,'GeoPostal','US');

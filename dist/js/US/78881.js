@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78881"]={"code":"78881","region":"Texas","city":"Sabinal","latitude":29.31746,"longitude":-99.46644}}(window,'GeoPostal','US');

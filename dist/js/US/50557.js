@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50557"]={"code":"50557","region":"Iowa","city":"Lehigh","latitude":42.470443,"longitude":-93.989806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317217"]={"code":"317217","region":"Cluj","city":"Ciucea","latitude":46.95,"longitude":22.81667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249500"]={"code":"249500","region":"Kaluzhskaya oblast'","city":"Betlitsa","latitude":54.00946,"longitude":33.95875}}(window,'GeoPostal','RU');

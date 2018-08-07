@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9971"]={"code":"9971","region":"Tirol","city":"Matrei in Osttirol","latitude":47,"longitude":12.53333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62152"]={"code":"62152","region":"Hauts-de-France","city":"Nesles","latitude":50.62588,"longitude":1.65641}}(window,'GeoPostal','FR');

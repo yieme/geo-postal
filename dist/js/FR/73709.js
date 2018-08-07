@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73709"]={"code":"73709","region":"Auvergne-Rhone-Alpes","city":"Bourg-Saint-Maurice","latitude":45.61716,"longitude":6.76902}}(window,'GeoPostal','FR');

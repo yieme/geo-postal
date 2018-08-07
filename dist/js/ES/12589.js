@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12589"]={"code":"12589","region":"Valenciana, Comunidad","city":"Calig","latitude":40.46262,"longitude":0.35521}}(window,'GeoPostal','ES');

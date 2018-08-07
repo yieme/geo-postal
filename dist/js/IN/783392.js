@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783392"]={"code":"783392","region":"Assam","city":"Kokrajhar","latitude":26.39904,"longitude":90.27182}}(window,'GeoPostal','IN');

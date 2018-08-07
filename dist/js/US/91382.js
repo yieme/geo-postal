@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91382"]={"code":"91382","region":"CA","city":"Santa Clarita","latitude":34.3917,"longitude":-118.5426}}(window,'GeoPostal','US');

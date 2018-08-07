@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2275"]={"code":"2275","region":"Zuid-Holland","city":"Voorburg","latitude":52.07417,"longitude":4.35972}}(window,'GeoPostal','NL');

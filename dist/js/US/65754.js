@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65754"]={"code":"65754","region":"MO","city":"Spokane","latitude":36.8636,"longitude":-93.2754}}(window,'GeoPostal','US');

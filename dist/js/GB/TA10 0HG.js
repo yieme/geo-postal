@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA10 0HG"]={"code":"TA10 0HG","region":"England","city":"Curry Rivel","latitude":51.02306,"longitude":-2.86753}}(window,'GeoPostal','GB');

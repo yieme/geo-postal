@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-664"]={"code":"22-664","region":"Lubelskie","city":"Jarczow","latitude":50.42438,"longitude":23.58576}}(window,'GeoPostal','PL');

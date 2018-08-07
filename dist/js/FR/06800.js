@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06800"]={"code":"06800","region":"Provence-Alpes-Cote d'Azur","city":"Cagnes-sur-Mer","latitude":43.6646,"longitude":7.15339}}(window,'GeoPostal','FR');

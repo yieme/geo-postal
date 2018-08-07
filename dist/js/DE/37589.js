@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37589"]={"code":"37589","region":"Niedersachsen","city":"Kalefeld","latitude":51.8,"longitude":10.03333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91160"]={"code":"91160","region":"Ile-de-France","city":"Champlan","latitude":48.70823,"longitude":2.27975}}(window,'GeoPostal','FR');

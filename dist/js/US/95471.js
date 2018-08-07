@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95471"]={"code":"95471","region":"CA","city":"Rio Nido","latitude":38.521,"longitude":-122.9769}}(window,'GeoPostal','US');

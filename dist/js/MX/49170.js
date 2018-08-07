@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49170"]={"code":"49170","region":"Jalisco","city":"Concepcion de Buenos Aires","latitude":19.96667,"longitude":-103.26667}}(window,'GeoPostal','MX');

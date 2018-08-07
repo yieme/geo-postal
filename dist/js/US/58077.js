@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58077"]={"code":"58077","region":"ND","city":"Walcott","latitude":46.5835,"longitude":-97.0014}}(window,'GeoPostal','US');

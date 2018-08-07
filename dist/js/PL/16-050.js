@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-050"]={"code":"16-050","region":"Podlaskie","city":"Michalowo","latitude":53.03492,"longitude":23.60996}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44026"]={"code":"44026","region":"Emilia-Romagna","city":"Ferrara","latitude":44.82678,"longitude":11.62071}}(window,'GeoPostal','IT');

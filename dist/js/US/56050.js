@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56050"]={"code":"56050","region":"MN","city":"Kasota","latitude":44.2842,"longitude":-93.9453}}(window,'GeoPostal','US');

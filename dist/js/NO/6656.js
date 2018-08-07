@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6656"]={"code":"6656","region":"More og Romsdal","city":"Surnadal","latitude":62.97397,"longitude":8.72472}}(window,'GeoPostal','NO');

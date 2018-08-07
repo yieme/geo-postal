@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24460"]={"code":"24460","region":"Nouvelle-Aquitaine","city":"Agonac","latitude":45.29248,"longitude":0.75024}}(window,'GeoPostal','FR');

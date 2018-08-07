@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W5 1YZ"]={"code":"W5 1YZ","region":"England","city":"Ealing","latitude":51.51216,"longitude":-0.30204}}(window,'GeoPostal','GB');

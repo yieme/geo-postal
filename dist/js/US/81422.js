@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81422"]={"code":"81422","region":"Colorado","city":"Naturita","latitude":38.21972,"longitude":-108.5675}}(window,'GeoPostal','US');

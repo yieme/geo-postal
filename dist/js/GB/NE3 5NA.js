@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE3 5NA"]={"code":"NE3 5NA","region":"Northern Ireland","city":"Newcastle","latitude":54.21804,"longitude":-5.88979}}(window,'GeoPostal','GB');

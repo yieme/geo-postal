@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692300"]={"code":"692300","region":"Primorskiy kray","city":"Anuchino","latitude":43.96222,"longitude":133.05444}}(window,'GeoPostal','RU');

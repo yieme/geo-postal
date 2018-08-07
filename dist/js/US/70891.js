@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70891"]={"code":"70891","region":"LA","city":"Baton Rouge","latitude":30.4492,"longitude":-91.1547}}(window,'GeoPostal','US');

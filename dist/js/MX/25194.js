@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25194"]={"code":"25194","region":"Chiapas","city":"Ocosingo","latitude":17.06667,"longitude":-92.25}}(window,'GeoPostal','MX');

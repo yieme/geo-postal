@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58566"]={"code":"58566","region":"ND","city":"Saint Anthony","latitude":46.5888,"longitude":-100.8972}}(window,'GeoPostal','US');

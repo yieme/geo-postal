@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28386"]={"code":"28386","region":"NC","city":"Shannon","latitude":34.8988,"longitude":-79.1806}}(window,'GeoPostal','US');

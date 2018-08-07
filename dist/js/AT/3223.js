@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3223"]={"code":"3223","region":"Niederosterreich","city":"Annaberg","latitude":47.87134,"longitude":15.37648}}(window,'GeoPostal','AT');

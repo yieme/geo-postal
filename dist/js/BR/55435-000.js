@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55435-000"]={"code":"55435-000","region":"Pernambuco","city":"Sao Joao","latitude":-8.87556,"longitude":-36.36667}}(window,'GeoPostal','BR');

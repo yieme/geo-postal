@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75788"]={"code":"75788","region":"TX","city":"Sacul","latitude":31.8254,"longitude":-94.9189}}(window,'GeoPostal','US');

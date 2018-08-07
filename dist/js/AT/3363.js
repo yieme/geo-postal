@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3363"]={"code":"3363","region":"Niederosterreich","city":"Amstetten","latitude":48.1229,"longitude":14.87206}}(window,'GeoPostal','AT');

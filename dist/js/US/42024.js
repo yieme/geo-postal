@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42024"]={"code":"42024","region":"KY","city":"Barlow","latitude":37.0493,"longitude":-89.0408}}(window,'GeoPostal','US');

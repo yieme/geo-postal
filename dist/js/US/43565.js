@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43565"]={"code":"43565","region":"OH","city":"Tontogany","latitude":41.4192,"longitude":-83.7408}}(window,'GeoPostal','US');

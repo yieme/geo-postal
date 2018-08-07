@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07028"]={"code":"07028","region":"Sardegna","city":"Santa Teresa Gallura","latitude":41.24138,"longitude":9.18852}}(window,'GeoPostal','IT');

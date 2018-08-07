@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38651"]={"code":"38651","region":"MS","city":"Nesbit","latitude":34.8992,"longitude":-90.0122}}(window,'GeoPostal','US');

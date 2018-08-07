@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3306"]={"code":"3306","region":"Misiones","city":"San Jose","latitude":-27.76979,"longitude":-55.7826}}(window,'GeoPostal','AR');

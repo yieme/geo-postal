@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33744"]={"code":"33744","region":"FL","city":"Bay Pines","latitude":27.8142,"longitude":-82.7782}}(window,'GeoPostal','US');

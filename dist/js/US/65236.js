@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65236"]={"code":"65236","region":"Missouri","city":"Brunswick","latitude":39.4308,"longitude":-93.1239}}(window,'GeoPostal','US');

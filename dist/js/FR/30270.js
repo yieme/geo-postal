@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30270"]={"code":"30270","region":"Occitanie","city":"Saint-Jean-du-Gard","latitude":44.10523,"longitude":3.88566}}(window,'GeoPostal','FR');

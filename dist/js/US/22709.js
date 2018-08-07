@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22709"]={"code":"22709","region":"VA","city":"Aroda","latitude":38.3256,"longitude":-78.2366}}(window,'GeoPostal','US');

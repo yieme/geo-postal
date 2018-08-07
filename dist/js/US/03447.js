@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03447"]={"code":"03447","region":"NH","city":"Fitzwilliam","latitude":42.7611,"longitude":-72.145}}(window,'GeoPostal','US');

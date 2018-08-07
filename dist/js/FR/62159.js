@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62159"]={"code":"62159","region":"Hauts-de-France","city":"Mory","latitude":50.1569,"longitude":2.8533}}(window,'GeoPostal','FR');

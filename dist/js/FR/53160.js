@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53160"]={"code":"53160","region":"Pays-de-la-Loire","city":"Bais","latitude":48.2528,"longitude":-0.36493}}(window,'GeoPostal','FR');

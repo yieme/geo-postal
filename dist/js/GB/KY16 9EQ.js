@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY16 9EQ"]={"code":"KY16 9EQ","region":"Scotland","city":"Saint Andrews","latitude":56.33871,"longitude":-2.79902}}(window,'GeoPostal','GB');

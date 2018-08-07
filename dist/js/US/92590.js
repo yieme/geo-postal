@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92590"]={"code":"92590","region":"California","city":"Temecula","latitude":33.480955,"longitude":-117.22612}}(window,'GeoPostal','US');

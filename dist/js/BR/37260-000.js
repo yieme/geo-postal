@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37260-000"]={"code":"37260-000","region":"Minas Gerais","city":"Perdoes","latitude":-21.09083,"longitude":-45.09139}}(window,'GeoPostal','BR');

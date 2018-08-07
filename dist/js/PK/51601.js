@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51601"]={"code":"51601","region":"Punjab","city":"Montgomery","latitude":30.66667,"longitude":73.1}}(window,'GeoPostal','PK');

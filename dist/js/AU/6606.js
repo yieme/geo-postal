@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6606"]={"code":"6606","region":"Western Australia","city":"Ballidu","latitude":-30.6,"longitude":116.76667}}(window,'GeoPostal','AU');

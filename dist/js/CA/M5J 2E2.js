@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M5J 2E2"]={"code":"M5J 2E2","region":"Ontario","city":"Algonquin Island","latitude":43.62819,"longitude":-79.35966}}(window,'GeoPostal','CA');

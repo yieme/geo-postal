@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18556"]={"code":"18556","region":"Mecklenburg-Vorpommern","city":"Wiek","latitude":54.61667,"longitude":13.28333}}(window,'GeoPostal','DE');

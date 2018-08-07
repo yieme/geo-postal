@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 1PW"]={"code":"NE48 1PW","region":"England","city":"Greenhaugh","latitude":55.17921,"longitude":-2.32281}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61772"]={"code":"61772","region":"IL","city":"Shirley","latitude":40.4174,"longitude":-89.0822}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31312"]={"code":"31312","region":"Georgia","city":"Guyton","latitude":32.31792,"longitude":-81.39432}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72150"]={"code":"72150","region":"Suphan Buri","city":"Suphan Buri","latitude":14.47418,"longitude":100.12218}}(window,'GeoPostal','TH');

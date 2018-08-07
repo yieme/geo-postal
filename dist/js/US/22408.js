@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22408"]={"code":"22408","region":"Virginia","city":"Fredericksburg","latitude":38.2086,"longitude":-77.4584}}(window,'GeoPostal','US');

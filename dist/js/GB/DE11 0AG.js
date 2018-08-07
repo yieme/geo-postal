@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE11 0AG"]={"code":"DE11 0AG","region":"England","city":"Swadlincote","latitude":52.774,"longitude":-1.55744}}(window,'GeoPostal','GB');

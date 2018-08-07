@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24279"]={"code":"24279","region":"Virginia","city":"Pound","latitude":37.12371,"longitude":-82.60127}}(window,'GeoPostal','US');

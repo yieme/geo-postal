@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27259"]={"code":"27259","region":"Niedersachsen","city":"Wehrbleck","latitude":52.6289,"longitude":8.69019}}(window,'GeoPostal','DE');

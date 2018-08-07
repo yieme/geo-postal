@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93265"]={"code":"93265","region":"California","city":"Springville","latitude":36.119335,"longitude":-118.83002}}(window,'GeoPostal','US');

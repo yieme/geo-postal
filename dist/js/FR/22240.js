@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22240"]={"code":"22240","region":"Bretagne","city":"Plurien","latitude":48.62559,"longitude":-2.40423}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271405"]={"code":"271405","region":"Uttar Pradesh","city":"Faizabad","latitude":26.78333,"longitude":82.13333}}(window,'GeoPostal','IN');

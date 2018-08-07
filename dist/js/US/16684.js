@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16684"]={"code":"16684","region":"PA","city":"Tipton","latitude":40.6367,"longitude":-78.3036}}(window,'GeoPostal','US');

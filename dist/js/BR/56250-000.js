@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56250-000"]={"code":"56250-000","region":"Pernambuco","city":"Trindade","latitude":-7.76194,"longitude":-40.26778}}(window,'GeoPostal','BR');

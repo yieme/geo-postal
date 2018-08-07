@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453406"]={"code":"453406","region":"Bashkortostan, Respublika","city":"Davlekanovo","latitude":54.22145,"longitude":55.03434}}(window,'GeoPostal','RU');

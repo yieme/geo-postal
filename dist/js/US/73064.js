@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73064"]={"code":"73064","region":"Oklahoma","city":"Mustang","latitude":35.38423,"longitude":-97.72449}}(window,'GeoPostal','US');

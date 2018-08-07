@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04349"]={"code":"04349","region":"ME","city":"Kents Hill","latitude":44.4383,"longitude":-70.0748}}(window,'GeoPostal','US');

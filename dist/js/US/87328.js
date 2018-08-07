@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87328"]={"code":"87328","region":"New Mexico","city":"Navajo","latitude":36.94612,"longitude":-107.06309}}(window,'GeoPostal','US');

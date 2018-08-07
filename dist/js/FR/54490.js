@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54490"]={"code":"54490","region":"Grand-Est","city":"Piennes","latitude":49.30591,"longitude":5.78836}}(window,'GeoPostal','FR');

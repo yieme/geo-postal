@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV1 3UB"]={"code":"IV1 3UB","region":"Scotland","city":"North Kessock","latitude":57.50254,"longitude":-4.24793}}(window,'GeoPostal','GB');

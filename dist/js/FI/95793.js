@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95793"]={"code":"95793","region":"Lappi","city":"Pello","latitude":66.77364,"longitude":23.96255}}(window,'GeoPostal','FI');

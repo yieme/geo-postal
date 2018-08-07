@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA11 5AL"]={"code":"SA11 5AL","region":"Wales","city":"Glyn-neath","latitude":51.7475,"longitude":-3.61833}}(window,'GeoPostal','GB');

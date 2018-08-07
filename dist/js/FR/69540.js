@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69540"]={"code":"69540","region":"Auvergne-Rhone-Alpes","city":"Irigny","latitude":45.67362,"longitude":4.81753}}(window,'GeoPostal','FR');

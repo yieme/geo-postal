@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47060"]={"code":"47060","region":"Indiana","city":"West Harrison","latitude":39.26139,"longitude":-84.82083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["378 06"]={"code":"378 06","region":"Jihocesky kraj","city":"Suchdol nad Luznici","latitude":48.89,"longitude":14.8772}}(window,'GeoPostal','CZ');

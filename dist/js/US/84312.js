@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84312"]={"code":"84312","region":"UT","city":"Garland","latitude":41.7413,"longitude":-112.1516}}(window,'GeoPostal','US');

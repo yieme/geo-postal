@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16052"]={"code":"16052","region":"Pennsylvania","city":"Prospect","latitude":40.90451,"longitude":-80.04645}}(window,'GeoPostal','US');

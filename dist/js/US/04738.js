@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04738"]={"code":"04738","region":"ME","city":"Crouseville","latitude":46.755,"longitude":-68.0964}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56159"]={"code":"56159","region":"Minnesota","city":"Mountain Lake","latitude":43.93885,"longitude":-94.92971}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5134"]={"code":"5134","region":"Hordaland","city":"Hylkje","latitude":60.51028,"longitude":5.35444}}(window,'GeoPostal','NO');

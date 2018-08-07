@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34801"]={"code":"34801","region":"Pirkanmaa","city":"Virrat","latitude":62.24759,"longitude":23.78004}}(window,'GeoPostal','FI');

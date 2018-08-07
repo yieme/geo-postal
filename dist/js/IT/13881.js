@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13881"]={"code":"13881","region":"Piemonte","city":"Cavaglia","latitude":45.40746,"longitude":8.09332}}(window,'GeoPostal','IT');

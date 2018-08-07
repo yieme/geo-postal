@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28023"]={"code":"28023","region":"Kirovohradska oblast","city":"Pantayivka","latitude":48.674,"longitude":32.8841}}(window,'GeoPostal','UA');

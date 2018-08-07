@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST5 5BG"]={"code":"ST5 5BG","region":"England","city":"Keele","latitude":53.00382,"longitude":-2.28741}}(window,'GeoPostal','GB');

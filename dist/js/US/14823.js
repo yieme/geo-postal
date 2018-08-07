@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14823"]={"code":"14823","region":"New York","city":"Canisteo","latitude":42.27035,"longitude":-77.60582}}(window,'GeoPostal','US');

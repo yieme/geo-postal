@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72832"]={"code":"72832","region":"Arkansas","city":"Coal Hill","latitude":35.43731,"longitude":-93.67297}}(window,'GeoPostal','US');

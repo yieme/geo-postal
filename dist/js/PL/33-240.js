@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-240"]={"code":"33-240","region":"Malopolskie","city":"Zabno","latitude":50.13334,"longitude":20.88615}}(window,'GeoPostal','PL');

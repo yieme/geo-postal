@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48240"]={"code":"48240","region":"MI","city":"Redford","latitude":42.4264,"longitude":-83.3017}}(window,'GeoPostal','US');

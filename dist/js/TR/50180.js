@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50180"]={"code":"50180","region":"Nevsehir","city":"Urgub","latitude":38.6296,"longitude":34.91198}}(window,'GeoPostal','TR');

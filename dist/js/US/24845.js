@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24845"]={"code":"24845","region":"WV","city":"Ikes Fork","latitude":37.5221,"longitude":-81.8043}}(window,'GeoPostal','US');

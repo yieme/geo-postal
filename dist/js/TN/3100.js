@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3100"]={"code":"3100","region":"Kairouan","city":"Kairouan","latitude":35.6781,"longitude":10.09633}}(window,'GeoPostal','TN');

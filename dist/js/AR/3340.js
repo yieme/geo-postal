@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3340"]={"code":"3340","region":"Corrientes","city":"Santo Tome","latitude":-28.54939,"longitude":-56.04077}}(window,'GeoPostal','AR');

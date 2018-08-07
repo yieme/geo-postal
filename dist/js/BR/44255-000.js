@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44255-000"]={"code":"44255-000","region":"Bahia","city":"Irara","latitude":-12.05,"longitude":-38.76667}}(window,'GeoPostal','BR');

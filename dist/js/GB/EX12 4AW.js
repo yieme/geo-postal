@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX12 4AW"]={"code":"EX12 4AW","region":"England","city":"Axmouth","latitude":50.71399,"longitude":-3.04993}}(window,'GeoPostal','GB');

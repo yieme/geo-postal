@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6QR"]={"code":"PA28 6QR","region":"Scotland","city":"Ugadale","latitude":55.5018,"longitude":-5.5166}}(window,'GeoPostal','GB');

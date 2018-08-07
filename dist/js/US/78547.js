@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78547"]={"code":"78547","region":"TX","city":"Garciasville","latitude":26.3396,"longitude":-98.6876}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02358"]={"code":"02358","region":"MA","city":"North Pembroke","latitude":42.0932,"longitude":-70.7925}}(window,'GeoPostal','US');

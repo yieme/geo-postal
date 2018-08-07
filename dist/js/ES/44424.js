@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44424"]={"code":"44424","region":"Aragon","city":"Mora de Rubielos","latitude":40.2502,"longitude":-0.75249}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57430"]={"code":"57430","region":"Grand-Est","city":"Willerwald","latitude":49.02481,"longitude":7.03726}}(window,'GeoPostal','FR');

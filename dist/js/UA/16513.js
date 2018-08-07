@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16513"]={"code":"16513","region":"Chernihivska oblast","city":"Baturyn","latitude":51.34567,"longitude":32.87794}}(window,'GeoPostal','UA');

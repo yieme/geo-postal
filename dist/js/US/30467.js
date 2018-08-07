@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30467"]={"code":"30467","region":"GA","city":"Sylvania","latitude":32.7439,"longitude":-81.6287}}(window,'GeoPostal','US');

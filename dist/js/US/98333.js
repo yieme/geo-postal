@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98333"]={"code":"98333","region":"WA","city":"Fox Island","latitude":47.248,"longitude":-122.629}}(window,'GeoPostal','US');

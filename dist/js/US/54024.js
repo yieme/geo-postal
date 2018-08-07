@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54024"]={"code":"54024","region":"Wisconsin","city":"Saint Croix Falls","latitude":45.40996,"longitude":-92.63965}}(window,'GeoPostal','US');

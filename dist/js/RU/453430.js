@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453430"]={"code":"453430","region":"Bashkortostan, Respublika","city":"Blagoveshchensk","latitude":55.035,"longitude":55.97806}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME4 4RQ"]={"code":"ME4 4RQ","region":"England","city":"Brompton","latitude":51.4,"longitude":0.53333}}(window,'GeoPostal','GB');

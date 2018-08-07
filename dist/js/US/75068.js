@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75068"]={"code":"75068","region":"Texas","city":"Little Elm","latitude":33.16262,"longitude":-96.93751}}(window,'GeoPostal','US');

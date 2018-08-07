@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 1M0"]={"code":"P0T 1M0","region":"Ontario","city":"Geraldton","latitude":49.72667,"longitude":-86.94842}}(window,'GeoPostal','CA');

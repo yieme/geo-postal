@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU2 5XX"]={"code":"GU2 5XX","region":"England","city":"Egerton","latitude":51.19411,"longitude":0.7281}}(window,'GeoPostal','GB');

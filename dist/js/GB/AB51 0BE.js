@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 0BE"]={"code":"AB51 0BE","region":"Scotland","city":"Oldmeldrum","latitude":57.33492,"longitude":-2.3199}}(window,'GeoPostal','GB');

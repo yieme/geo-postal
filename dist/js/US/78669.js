@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78669"]={"code":"78669","region":"Texas","city":"Briarcliff","latitude":30.40742,"longitude":-98.04446}}(window,'GeoPostal','US');

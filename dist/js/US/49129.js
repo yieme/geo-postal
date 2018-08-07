@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49129"]={"code":"49129","region":"Michigan","city":"Union Pier","latitude":41.828029,"longitude":-86.689858}}(window,'GeoPostal','US');

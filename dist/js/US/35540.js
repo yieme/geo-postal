@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35540"]={"code":"35540","region":"Alabama","city":"Arley","latitude":34.05078,"longitude":-87.156}}(window,'GeoPostal','US');

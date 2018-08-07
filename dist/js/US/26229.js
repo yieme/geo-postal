@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26229"]={"code":"26229","region":"WV","city":"Lorentz","latitude":39.0109,"longitude":-80.3023}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3515"]={"code":"3515","region":"Chaco","city":"Colonias Unidas","latitude":-26.69825,"longitude":-59.63154}}(window,'GeoPostal','AR');

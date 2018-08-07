@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16948"]={"code":"16948","region":"Pennsylvania","city":"Ulysses","latitude":41.84652,"longitude":-77.70972}}(window,'GeoPostal','US');

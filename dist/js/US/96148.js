@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96148"]={"code":"96148","region":"CA","city":"Tahoe Vista","latitude":39.2448,"longitude":-120.0521}}(window,'GeoPostal','US');

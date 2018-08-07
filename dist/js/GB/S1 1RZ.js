@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S1 1RZ"]={"code":"S1 1RZ","region":"England","city":"Lupton","latitude":54.22463,"longitude":-2.68551}}(window,'GeoPostal','GB');

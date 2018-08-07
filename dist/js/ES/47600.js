@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47600"]={"code":"47600","region":"Castilla y Leon","city":"Villalon de Campos","latitude":42.09994,"longitude":-5.0344}}(window,'GeoPostal','ES');

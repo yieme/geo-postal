@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0L 2P0"]={"code":"N0L 2P0","region":"Ontario","city":"West Lorne","latitude":42.60009,"longitude":-81.59976}}(window,'GeoPostal','CA');

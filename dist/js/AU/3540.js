@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3540"]={"code":"3540","region":"Victoria","city":"Quambatook","latitude":-35.85236,"longitude":143.52069}}(window,'GeoPostal','AU');

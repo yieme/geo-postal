@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69100-000"]={"code":"69100-000","region":"Amazonas","city":"Itacoatiara","latitude":-3.14306,"longitude":-58.44417}}(window,'GeoPostal','BR');

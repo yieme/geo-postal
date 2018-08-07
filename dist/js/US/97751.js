@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97751"]={"code":"97751","region":"OR","city":"Paulina","latitude":44.2102,"longitude":-119.7828}}(window,'GeoPostal','US');

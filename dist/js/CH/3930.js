@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3930"]={"code":"3930","region":"Valais","city":"Visp","latitude":46.2937,"longitude":7.88149}}(window,'GeoPostal','CH');

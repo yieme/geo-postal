@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5284"]={"code":"5284","region":"Cordoba","city":"Villa de Soto","latitude":-30.85523,"longitude":-64.99947}}(window,'GeoPostal','AR');

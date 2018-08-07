@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96106"]={"code":"96106","region":"Saarland","city":"Ebern","latitude":50.09545,"longitude":10.79831}}(window,'GeoPostal','DE');

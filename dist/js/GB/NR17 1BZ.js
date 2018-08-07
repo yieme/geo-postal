@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR17 1BZ"]={"code":"NR17 1BZ","region":"England","city":"Stow Bedon","latitude":52.52781,"longitude":0.88122}}(window,'GeoPostal','GB');

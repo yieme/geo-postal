@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67439"]={"code":"67439","region":"Kansas","city":"Ellsworth","latitude":38.732375,"longitude":-98.228797}}(window,'GeoPostal','US');

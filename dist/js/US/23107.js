@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23107"]={"code":"23107","region":"VA","city":"Maryus","latitude":37.2864,"longitude":-76.4048}}(window,'GeoPostal','US');

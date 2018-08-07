@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0710"]={"code":"0710","region":"Ararat","city":"Aygepat","latitude":39.95845,"longitude":44.59982}}(window,'GeoPostal','AM');

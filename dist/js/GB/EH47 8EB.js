@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH47 8EB"]={"code":"EH47 8EB","region":"Scotland","city":"Bents","latitude":55.84436,"longitude":-3.64314}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29488"]={"code":"29488","region":"South Carolina","city":"Walterboro","latitude":32.90517,"longitude":-80.66677}}(window,'GeoPostal','US');

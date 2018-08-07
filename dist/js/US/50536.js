@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50536"]={"code":"50536","region":"Iowa","city":"Emmetsburg","latitude":43.11274,"longitude":-94.68304}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39931"]={"code":"39931","region":"Satakunta","city":"Karvia","latitude":62.2,"longitude":22.65}}(window,'GeoPostal','FI');

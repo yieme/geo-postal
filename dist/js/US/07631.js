@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07631"]={"code":"07631","region":"New Jersey","city":"Englewood","latitude":40.89288,"longitude":-73.97264}}(window,'GeoPostal','US');

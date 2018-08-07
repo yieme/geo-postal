@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83438"]={"code":"83438","region":"ID","city":"Parker","latitude":43.9594,"longitude":-111.7577}}(window,'GeoPostal','US');

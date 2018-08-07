@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78850"]={"code":"78850","region":"Texas","city":"D'Hanis","latitude":29.35015,"longitude":-99.311595}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["615200"]={"code":"615200","region":"Sichuan","city":"Huidong","latitude":26.63745,"longitude":102.57568}}(window,'GeoPostal','CN');

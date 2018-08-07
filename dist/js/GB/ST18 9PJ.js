@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST18 9PJ"]={"code":"ST18 9PJ","region":"England","city":"Seighford","latitude":52.82201,"longitude":-2.17733}}(window,'GeoPostal','GB');

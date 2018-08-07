@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45388"]={"code":"45388","region":"OH","city":"Yorkshire","latitude":40.3283,"longitude":-84.4836}}(window,'GeoPostal','US');

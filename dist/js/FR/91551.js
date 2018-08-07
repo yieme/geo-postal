@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91551"]={"code":"91551","region":"Ile-de-France","city":"Paray-Vieille-Poste","latitude":48.71402,"longitude":2.36283}}(window,'GeoPostal','FR');

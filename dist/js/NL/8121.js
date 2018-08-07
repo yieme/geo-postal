@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8121"]={"code":"8121","region":"Overijssel","city":"Boskamp","latitude":52.33083,"longitude":6.12778}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8302"]={"code":"8302","region":"Surigao del Sur","city":"Bacolod","latitude":8.93167,"longitude":126.28944}}(window,'GeoPostal','PH');

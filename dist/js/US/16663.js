@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16663"]={"code":"16663","region":"PA","city":"Morann","latitude":40.7864,"longitude":-78.367}}(window,'GeoPostal','US');

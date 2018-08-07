@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43948"]={"code":"43948","region":"OH","city":"Smithfield","latitude":40.2709,"longitude":-80.7815}}(window,'GeoPostal','US');

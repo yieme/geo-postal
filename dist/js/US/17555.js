@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17555"]={"code":"17555","region":"PA","city":"Narvon","latitude":40.1252,"longitude":-75.9756}}(window,'GeoPostal','US');

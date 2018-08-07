@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP33 3RA"]={"code":"IP33 3RA","region":"England","city":"Westley","latitude":52.25,"longitude":0.66667}}(window,'GeoPostal','GB');

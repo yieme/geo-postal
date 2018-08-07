@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82494"]={"code":"82494","region":"Gavleborgs lan","city":"Hudiksvall","latitude":61.72897,"longitude":17.10358}}(window,'GeoPostal','SE');

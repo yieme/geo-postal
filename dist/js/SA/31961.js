@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31961"]={"code":"31961","region":"Ash Sharqiyah","city":"Al Jubayl","latitude":25.4,"longitude":49.65}}(window,'GeoPostal','SA');

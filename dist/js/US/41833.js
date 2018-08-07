@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41833"]={"code":"41833","region":"KY","city":"Linefork","latitude":37.0233,"longitude":-82.9878}}(window,'GeoPostal','US');

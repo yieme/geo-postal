@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 8HD"]={"code":"NR11 8HD","region":"England","city":"Gimingham","latitude":52.87614,"longitude":1.39234}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14537"]={"code":"14537","region":"New York","city":"Port Gibson","latitude":43.035858,"longitude":-77.157134}}(window,'GeoPostal','US');

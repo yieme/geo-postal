@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96570"]={"code":"96570","region":"Avtonomna Respublika Krym","city":"Orikhove","latitude":45.12944,"longitude":33.6318}}(window,'GeoPostal','UA');

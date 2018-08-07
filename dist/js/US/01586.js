@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01586"]={"code":"01586","region":"MA","city":"West Millbury","latitude":42.1712,"longitude":-71.8037}}(window,'GeoPostal','US');

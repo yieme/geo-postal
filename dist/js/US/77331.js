@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77331"]={"code":"77331","region":"TX","city":"Coldspring","latitude":30.6027,"longitude":-95.1086}}(window,'GeoPostal','US');

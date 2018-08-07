@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74637"]={"code":"74637","region":"OK","city":"Fairfax","latitude":36.5577,"longitude":-96.6997}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51351"]={"code":"51351","region":"Iowa","city":"Milford","latitude":43.32469,"longitude":-95.15}}(window,'GeoPostal','US');

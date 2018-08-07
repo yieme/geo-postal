@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-130"]={"code":"68-130","region":"Lubuskie","city":"Gozdnica","latitude":51.4363,"longitude":15.09856}}(window,'GeoPostal','PL');

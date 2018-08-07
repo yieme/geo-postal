@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14884"]={"code":"14884","region":"NY","city":"Swain","latitude":42.4773,"longitude":-77.889}}(window,'GeoPostal','US');

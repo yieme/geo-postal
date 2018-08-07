@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54750"]={"code":"54750","region":"Grand-Est","city":"Trieux","latitude":49.32446,"longitude":5.93644}}(window,'GeoPostal','FR');

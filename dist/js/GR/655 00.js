@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655 00"]={"code":"655 00","region":"Anatoliki Makedonia kai Thraki","city":"Amisiana","latitude":40.93333,"longitude":24.35}}(window,'GeoPostal','GR');

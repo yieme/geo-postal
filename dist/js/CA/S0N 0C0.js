@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 0C0"]={"code":"S0N 0C0","region":"Saskatchewan","city":"Aneroid","latitude":49.71676,"longitude":-107.30129}}(window,'GeoPostal','CA');

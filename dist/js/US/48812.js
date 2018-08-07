@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48812"]={"code":"48812","region":"MI","city":"Cedar Lake","latitude":43.4138,"longitude":-84.9753}}(window,'GeoPostal','US');

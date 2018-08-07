@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00786"]={"code":"00786","region":"PR","city":"La Plata","latitude":18.16,"longitude":-66.23}}(window,'GeoPostal','US');

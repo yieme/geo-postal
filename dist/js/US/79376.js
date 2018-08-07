@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79376"]={"code":"79376","region":"TX","city":"Tokio","latitude":33.1826,"longitude":-102.5768}}(window,'GeoPostal','US');

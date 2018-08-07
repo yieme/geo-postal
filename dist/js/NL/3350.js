@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3350"]={"code":"3350","region":"Zuid-Holland","city":"Papendrecht","latitude":51.83167,"longitude":4.6875}}(window,'GeoPostal','NL');

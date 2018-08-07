@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57619"]={"code":"57619","region":"Grand-Est","city":"Forbach","latitude":49.18333,"longitude":6.9}}(window,'GeoPostal','FR');

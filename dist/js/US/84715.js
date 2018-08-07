@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84715"]={"code":"84715","region":"Utah","city":"Bicknell","latitude":38.346699,"longitude":-111.554728}}(window,'GeoPostal','US');

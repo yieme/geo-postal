@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33480"]={"code":"33480","region":"Nouvelle-Aquitaine","city":"Avensan","latitude":45.03444,"longitude":-0.75568}}(window,'GeoPostal','FR');

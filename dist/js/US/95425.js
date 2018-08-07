@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95425"]={"code":"95425","region":"CA","city":"Cloverdale","latitude":38.7931,"longitude":-123.0074}}(window,'GeoPostal','US');

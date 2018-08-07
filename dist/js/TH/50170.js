@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50170"]={"code":"50170","region":"Chiang Mai","city":"Chiang Dao","latitude":19.36542,"longitude":98.96453}}(window,'GeoPostal','TH');

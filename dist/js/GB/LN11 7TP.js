@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 7TP"]={"code":"LN11 7TP","region":"England","city":"Saltfleetby Saint Clement","latitude":53.4,"longitude":0.18333}}(window,'GeoPostal','GB');

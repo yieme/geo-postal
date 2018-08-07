@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673302"]={"code":"673302","region":"Zabaykal'skiy kray","city":"Karymskoye","latitude":51.61667,"longitude":114.35}}(window,'GeoPostal','RU');

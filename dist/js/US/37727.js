@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37727"]={"code":"37727","region":"TN","city":"Del Rio","latitude":35.883,"longitude":-83.015}}(window,'GeoPostal','US');

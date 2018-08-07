@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5V 0A1"]={"code":"G5V 0A1","region":"Quebec","city":"Montmagny","latitude":46.98043,"longitude":-70.55493}}(window,'GeoPostal','CA');

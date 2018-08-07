@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98424"]={"code":"98424","region":"Washington","city":"Fife","latitude":47.23836,"longitude":-122.36202}}(window,'GeoPostal','US');

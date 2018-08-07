@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL13 1PF"]={"code":"PL13 1PF","region":"England","city":"Saint Martin","latitude":50.36667,"longitude":-4.43333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81235"]={"code":"81235","region":"Colorado","city":"Lake City","latitude":38.03,"longitude":-107.31533}}(window,'GeoPostal','US');

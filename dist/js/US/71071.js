@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71071"]={"code":"71071","region":"Louisiana","city":"Sarepta","latitude":32.8975,"longitude":-93.44944}}(window,'GeoPostal','US');

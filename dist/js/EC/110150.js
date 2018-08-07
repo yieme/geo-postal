@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110150"]={"code":"110150","region":"Loja","city":"Loja","latitude":-3.99313,"longitude":-79.20422}}(window,'GeoPostal','EC');

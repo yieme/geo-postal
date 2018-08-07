@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9TN"]={"code":"PE33 9TN","region":"England","city":"Whitington","latitude":52.56412,"longitude":0.5303}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85580"]={"code":"85580","region":"Pays-de-la-Loire","city":"Saint-Michel-en-l'Herm","latitude":46.3553,"longitude":-1.2475}}(window,'GeoPostal','FR');

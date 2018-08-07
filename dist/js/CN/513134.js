@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["513134"]={"code":"513134","region":"Guangdong","city":"Libu","latitude":24.56715,"longitude":112.42058}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99716"]={"code":"99716","region":"AK","city":"Two Rivers","latitude":64.8746,"longitude":-146.8982}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6222"]={"code":"6222","region":"Negros Oriental","city":"Bayawan","latitude":9.36361,"longitude":122.80111}}(window,'GeoPostal','PH');

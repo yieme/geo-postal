@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4390"]={"code":"4390","region":"Queensland","city":"Mooroobie","latitude":-28.56667,"longitude":150.38333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71300"]={"code":"71300","region":"Federacija Bosne i Hercegovine","city":"Visoko","latitude":43.98889,"longitude":18.17806}}(window,'GeoPostal','BA');

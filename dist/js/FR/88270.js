@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88270"]={"code":"88270","region":"Grand-Est","city":"Dompaire","latitude":48.2225,"longitude":6.2231}}(window,'GeoPostal','FR');

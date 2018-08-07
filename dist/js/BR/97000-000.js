@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97000-000"]={"code":"97000-000","region":"Rio Grande do Sul","city":"Santa Maria","latitude":-29.68417,"longitude":-53.80694}}(window,'GeoPostal','BR');

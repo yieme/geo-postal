@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21001"]={"code":"21001","region":"Jalapa","city":"Jalapa","latitude":14.63333,"longitude":-89.98333}}(window,'GeoPostal','GT');

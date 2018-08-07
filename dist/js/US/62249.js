@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62249"]={"code":"62249","region":"Illinois","city":"Highland","latitude":38.7921,"longitude":-89.68758}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26222"]={"code":"26222","region":"WV","city":"Hacker Valley","latitude":38.6526,"longitude":-80.3837}}(window,'GeoPostal','US');

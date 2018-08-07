@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49612"]={"code":"49612","region":"Michigan","city":"Alden","latitude":44.894091,"longitude":-85.265142}}(window,'GeoPostal','US');

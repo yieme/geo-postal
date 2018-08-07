@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34987"]={"code":"34987","region":"FL","city":"Port Saint Lucie","latitude":27.2606,"longitude":-80.4771}}(window,'GeoPostal','US');

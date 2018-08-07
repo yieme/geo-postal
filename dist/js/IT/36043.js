@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36043"]={"code":"36043","region":"Veneto","city":"Camisano Vicentino","latitude":45.5222,"longitude":11.7077}}(window,'GeoPostal','IT');

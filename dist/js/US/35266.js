@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35266"]={"code":"35266","region":"Alabama","city":"Vestavia Hills","latitude":33.44507,"longitude":-86.79125}}(window,'GeoPostal','US');

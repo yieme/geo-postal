@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98231"]={"code":"98231","region":"Norrbottens lan","city":"Gaellivare","latitude":67.13387,"longitude":20.65278}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86961"]={"code":"86961","region":"Nouvelle-Aquitaine","city":"Chasseneuil-du-Poitou","latitude":46.65112,"longitude":0.3733}}(window,'GeoPostal','FR');

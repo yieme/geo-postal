@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 2HW"]={"code":"PO20 2HW","region":"England","city":"Tangmere","latitude":50.85131,"longitude":-0.71633}}(window,'GeoPostal','GB');

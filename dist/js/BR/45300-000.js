@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45300-000"]={"code":"45300-000","region":"Bahia","city":"Amargosa","latitude":-13.03028,"longitude":-39.60472}}(window,'GeoPostal','BR');

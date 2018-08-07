@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27571"]={"code":"27571","region":"NC","city":"Rolesville","latitude":35.9156,"longitude":-78.4658}}(window,'GeoPostal','US');

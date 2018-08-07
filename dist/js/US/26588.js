@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26588"]={"code":"26588","region":"WV","city":"Rivesville","latitude":39.5568,"longitude":-80.1417}}(window,'GeoPostal','US');

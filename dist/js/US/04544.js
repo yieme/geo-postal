@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04544"]={"code":"04544","region":"Maine","city":"East Boothbay","latitude":43.87167,"longitude":-69.61194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61381"]={"code":"61381","region":"Sodermanlands lan","city":"Oxelosund","latitude":58.67057,"longitude":17.10152}}(window,'GeoPostal','SE');

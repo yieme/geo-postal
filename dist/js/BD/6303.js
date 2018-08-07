@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6303"]={"code":"6303","region":"Rajshahi","city":"Nawabganj","latitude":24.59112,"longitude":88.27102}}(window,'GeoPostal','BD');

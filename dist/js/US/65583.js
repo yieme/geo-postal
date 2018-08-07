@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65583"]={"code":"65583","region":"Missouri","city":"Waynesville","latitude":37.82106,"longitude":-92.18682}}(window,'GeoPostal','US');

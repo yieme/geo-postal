@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 9LE"]={"code":"LE7 9LE","region":"England","city":"Marefield","latitude":52.66436,"longitude":-0.89916}}(window,'GeoPostal','GB');

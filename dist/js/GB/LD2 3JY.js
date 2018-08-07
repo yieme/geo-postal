@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD2 3JY"]={"code":"LD2 3JY","region":"Wales","city":"Rhos-goch","latitude":52.11667,"longitude":-3.18333}}(window,'GeoPostal','GB');

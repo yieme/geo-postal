@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36760"]={"code":"36760","region":"Galicia","city":"Rosal","latitude":41.93536,"longitude":-8.83677}}(window,'GeoPostal','ES');

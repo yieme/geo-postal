@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62953"]={"code":"62953","region":"Illinois","city":"Joppa","latitude":37.208074,"longitude":-88.843825}}(window,'GeoPostal','US');

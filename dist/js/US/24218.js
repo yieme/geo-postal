@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24218"]={"code":"24218","region":"Virginia","city":"Ben Hur","latitude":36.755481,"longitude":-83.038105}}(window,'GeoPostal','US');

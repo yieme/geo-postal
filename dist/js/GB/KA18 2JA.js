@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA18 2JA"]={"code":"KA18 2JA","region":"Scotland","city":"Auchinleck","latitude":55.47157,"longitude":-4.29337}}(window,'GeoPostal','GB');

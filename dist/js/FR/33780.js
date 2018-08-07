@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33780"]={"code":"33780","region":"Nouvelle-Aquitaine","city":"Soulac-sur-Mer","latitude":45.51068,"longitude":-1.12524}}(window,'GeoPostal','FR');

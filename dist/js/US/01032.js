@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01032"]={"code":"01032","region":"MA","city":"Goshen","latitude":42.4404,"longitude":-72.7995}}(window,'GeoPostal','US');

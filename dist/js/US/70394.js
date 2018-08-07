@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70394"]={"code":"70394","region":"LA","city":"Raceland","latitude":29.7178,"longitude":-90.5999}}(window,'GeoPostal','US');

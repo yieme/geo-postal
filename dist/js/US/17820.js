@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17820"]={"code":"17820","region":"Pennsylvania","city":"Catawissa","latitude":40.95203,"longitude":-76.45967}}(window,'GeoPostal','US');

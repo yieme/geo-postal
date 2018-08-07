@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39645"]={"code":"39645","region":"Mississippi","city":"Liberty","latitude":31.158901,"longitude":-90.805566}}(window,'GeoPostal','US');

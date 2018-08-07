@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087190"]={"code":"087190","region":"Giurgiu","city":"Rasuceni","latitude":44.09167,"longitude":25.66389}}(window,'GeoPostal','RO');

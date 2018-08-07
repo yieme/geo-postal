@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71674"]={"code":"71674","region":"Zaporizka oblast","city":"Mala Bilozerka","latitude":47.24737,"longitude":34.93457}}(window,'GeoPostal','UA');

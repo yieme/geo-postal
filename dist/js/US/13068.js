@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13068"]={"code":"13068","region":"NY","city":"Freeville","latitude":42.4998,"longitude":-76.3636}}(window,'GeoPostal','US');

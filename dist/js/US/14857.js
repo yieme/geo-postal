@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14857"]={"code":"14857","region":"NY","city":"Lakemont","latitude":42.5126,"longitude":-76.927}}(window,'GeoPostal','US');

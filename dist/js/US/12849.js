@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12849"]={"code":"12849","region":"NY","city":"Middle Granville","latitude":43.4508,"longitude":-73.3031}}(window,'GeoPostal','US');

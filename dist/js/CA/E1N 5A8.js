@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1N 5A8"]={"code":"E1N 5A8","region":"New Brunswick","city":"Saint Margarets","latitude":46.90947,"longitude":-65.20901}}(window,'GeoPostal','CA');

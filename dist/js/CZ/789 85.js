@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["789 85"]={"code":"789 85","region":"Olomoucky kraj","city":"Mohelnice","latitude":49.77698,"longitude":16.91946}}(window,'GeoPostal','CZ');

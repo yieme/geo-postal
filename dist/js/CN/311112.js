@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311112"]={"code":"311112","region":"Zhejiang","city":"Xiangfu","latitude":30.32976,"longitude":120.09922}}(window,'GeoPostal','CN');

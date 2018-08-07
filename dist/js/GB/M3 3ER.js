@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M3 3ER"]={"code":"M3 3ER","region":"England","city":"Manchester","latitude":53.48095,"longitude":-2.23743}}(window,'GeoPostal','GB');

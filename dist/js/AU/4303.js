@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4303"]={"code":"4303","region":"Queensland","city":"Riverview","latitude":-27.6,"longitude":152.85}}(window,'GeoPostal','AU');

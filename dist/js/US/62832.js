@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62832"]={"code":"62832","region":"Illinois","city":"Du Quoin","latitude":38.01144,"longitude":-89.23619}}(window,'GeoPostal','US');

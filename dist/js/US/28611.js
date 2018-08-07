@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28611"]={"code":"28611","region":"NC","city":"Collettsville","latitude":35.9946,"longitude":-81.7266}}(window,'GeoPostal','US');

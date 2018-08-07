@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617625"]={"code":"617625","region":"Sverdlovskaya oblast'","city":"Shamary","latitude":57.3434,"longitude":58.21988}}(window,'GeoPostal','RU');

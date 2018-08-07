@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL4 3DE"]={"code":"SL4 3DE","region":"Northern Ireland","city":"Windsor","latitude":54.56667,"longitude":-5.95}}(window,'GeoPostal','GB');

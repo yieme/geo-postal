@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1R0"]={"code":"T0H 1R0","region":"Alberta","city":"Fox Lake","latitude":58.46692,"longitude":-114.51908}}(window,'GeoPostal','CA');

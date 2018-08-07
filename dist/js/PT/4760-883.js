@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4760-883"]={"code":"4760-883","region":"Braga","city":"Vila Nova de Famalicao","latitude":41.40797,"longitude":-8.51978}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03838"]={"code":"03838","region":"New Hampshire","city":"Glen","latitude":44.11056,"longitude":-71.17972}}(window,'GeoPostal','US');

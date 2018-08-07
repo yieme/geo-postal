@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37872"]={"code":"37872","region":"Tennessee","city":"Sunbright","latitude":36.2475,"longitude":-84.67278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44677"]={"code":"44677","region":"Ohio","city":"Smithville","latitude":40.868409,"longitude":-81.858217}}(window,'GeoPostal','US');

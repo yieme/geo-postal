@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["359220"]={"code":"359220","region":"Kalmykiya, Respublika","city":"Kaspiyskiy","latitude":45.39288,"longitude":47.37073}}(window,'GeoPostal','RU');

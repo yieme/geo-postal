@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17007"]={"code":"17007","region":"Pennsylvania","city":"Boiling Springs","latitude":40.145393,"longitude":-77.115341}}(window,'GeoPostal','US');

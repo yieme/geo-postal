@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39106"]={"code":"39106","region":"Sachsen-Anhalt","city":"Magdeburg","latitude":52.12773,"longitude":11.62916}}(window,'GeoPostal','DE');

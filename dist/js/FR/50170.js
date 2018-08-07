@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50170"]={"code":"50170","region":"Normandie","city":"Pontorson","latitude":48.55316,"longitude":-1.50754}}(window,'GeoPostal','FR');

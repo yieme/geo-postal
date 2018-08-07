@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75166"]={"code":"75166","region":"TX","city":"Lavon","latitude":33.0139,"longitude":-96.4377}}(window,'GeoPostal','US');

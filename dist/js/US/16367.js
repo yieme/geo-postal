@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16367"]={"code":"16367","region":"PA","city":"Warren","latitude":41.8439,"longitude":-79.145}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2446"]={"code":"2446","region":"New South Wales","city":"Wauchope","latitude":-31.45792,"longitude":152.72617}}(window,'GeoPostal','AU');

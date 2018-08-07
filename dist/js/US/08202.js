@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08202"]={"code":"08202","region":"New Jersey","city":"Avalon","latitude":39.091584,"longitude":-74.729322}}(window,'GeoPostal','US');

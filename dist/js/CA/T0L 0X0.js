@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 0X0"]={"code":"T0L 0X0","region":"Alberta","city":"Shepard","latitude":50.840809,"longitude":-113.86506}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27326"]={"code":"27326","region":"NC","city":"Ruffin","latitude":36.4428,"longitude":-79.5606}}(window,'GeoPostal','US');

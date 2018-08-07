@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99402"]={"code":"99402","region":"WA","city":"Asotin","latitude":46.1343,"longitude":-117.0015}}(window,'GeoPostal','US');

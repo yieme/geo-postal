@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7249"]={"code":"7249","region":"Graubunden","city":"Klosters Serneus","latitude":46.88918,"longitude":9.83826}}(window,'GeoPostal','CH');

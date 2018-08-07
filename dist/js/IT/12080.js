@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12080"]={"code":"12080","region":"Piemonte","city":"Pianfei","latitude":44.37203,"longitude":7.71144}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93232"]={"code":"93232","region":"CA","city":"Hanford","latitude":36.3275,"longitude":-119.6457}}(window,'GeoPostal','US');

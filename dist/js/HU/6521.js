@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6521"]={"code":"6521","region":"Bacs-Kiskun","city":"Vaskut","latitude":46.10782,"longitude":18.98514}}(window,'GeoPostal','HU');

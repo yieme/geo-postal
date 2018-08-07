@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83618"]={"code":"83618","region":"Provence-Alpes-Cote d'Azur","city":"Frejus","latitude":43.43286,"longitude":6.73524}}(window,'GeoPostal','FR');

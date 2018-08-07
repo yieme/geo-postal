@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60549"]={"code":"60549","region":"IL","city":"Serena","latitude":41.4995,"longitude":-88.7509}}(window,'GeoPostal','US');

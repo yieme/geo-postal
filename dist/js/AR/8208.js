@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8208"]={"code":"8208","region":"La Pampa","city":"Jacinto Arauz","latitude":-38.08606,"longitude":-63.43169}}(window,'GeoPostal','AR');

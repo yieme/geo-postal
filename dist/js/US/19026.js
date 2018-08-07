@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19026"]={"code":"19026","region":"Pennsylvania","city":"Drexel Hill","latitude":39.95502,"longitude":-75.32742}}(window,'GeoPostal','US');

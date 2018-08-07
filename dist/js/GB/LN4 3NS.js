@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 3NS"]={"code":"LN4 3NS","region":"England","city":"Scopwick","latitude":53.10905,"longitude":-0.40139}}(window,'GeoPostal','GB');

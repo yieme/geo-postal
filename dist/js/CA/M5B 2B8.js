@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M5B 2B8"]={"code":"M5B 2B8","region":"Ontario","city":"Garden District","latitude":43.65794,"longitude":-79.37562}}(window,'GeoPostal','CA');

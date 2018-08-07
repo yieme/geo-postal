@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44109"]={"code":"44109","region":"Dornogovi","city":"Saynshand","latitude":44.88239,"longitude":110.11631}}(window,'GeoPostal','MN');

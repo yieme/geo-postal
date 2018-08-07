@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50401"]={"code":"50401","region":"Iowa","city":"Mason City","latitude":43.15357,"longitude":-93.20104}}(window,'GeoPostal','US');

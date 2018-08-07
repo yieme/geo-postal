@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8JS"]={"code":"LA12 8JS","region":"England","city":"Rusland","latitude":54.28333,"longitude":-3}}(window,'GeoPostal','GB');

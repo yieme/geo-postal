@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80652"]={"code":"80652","region":"Colorado","city":"Roggen","latitude":40.11566,"longitude":-104.317544}}(window,'GeoPostal','US');

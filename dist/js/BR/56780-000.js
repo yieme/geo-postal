@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56780-000"]={"code":"56780-000","region":"Pernambuco","city":"Tabira","latitude":-7.59083,"longitude":-37.53944}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12750"]={"code":"12750","region":"New York","city":"Kenoza Lake","latitude":41.781766,"longitude":-74.933014}}(window,'GeoPostal','US');

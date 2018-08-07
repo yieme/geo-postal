@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05345"]={"code":"05345","region":"Vermont","city":"Newfane","latitude":42.98564,"longitude":-72.65593}}(window,'GeoPostal','US');

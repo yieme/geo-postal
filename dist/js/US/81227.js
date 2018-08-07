@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81227"]={"code":"81227","region":"Colorado","city":"Monarch","latitude":38.53261,"longitude":-105.996745}}(window,'GeoPostal','US');

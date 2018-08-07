@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 7AX"]={"code":"DG8 7AX","region":"Scotland","city":"Palnure","latitude":54.94171,"longitude":-4.41814}}(window,'GeoPostal','GB');

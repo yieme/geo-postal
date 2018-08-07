@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54022"]={"code":"54022","region":"Wisconsin","city":"River Falls","latitude":44.86136,"longitude":-92.62381}}(window,'GeoPostal','US');

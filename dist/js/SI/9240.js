@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9240"]={"code":"9240","region":"Ljutomer","city":"Ljutomer","latitude":46.52083,"longitude":16.1975}}(window,'GeoPostal','SI');

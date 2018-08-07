@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23427"]={"code":"23427","region":"VA","city":"Saxis","latitude":37.9264,"longitude":-75.722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40314"]={"code":"40314","region":"Krapinsko-zagorska zupanija","city":"Selnica","latitude":46.02333,"longitude":16.03917}}(window,'GeoPostal','HR');

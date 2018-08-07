@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7203"]={"code":"7203","region":"Burgenland","city":"Wiesen","latitude":47.73333,"longitude":16.33333}}(window,'GeoPostal','AT');

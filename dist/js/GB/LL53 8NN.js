@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 8NN"]={"code":"LL53 8NN","region":"Wales","city":"Llangwnadl","latitude":52.86667,"longitude":-4.66667}}(window,'GeoPostal','GB');

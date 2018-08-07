@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85638"]={"code":"85638","region":"AZ","city":"Tombstone","latitude":31.7216,"longitude":-110.0584}}(window,'GeoPostal','US');

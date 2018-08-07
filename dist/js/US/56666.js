@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56666"]={"code":"56666","region":"MN","city":"Ponemah","latitude":48.0372,"longitude":-94.917}}(window,'GeoPostal','US');

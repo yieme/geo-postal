@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12845"]={"code":"12845","region":"Junin","city":"San Ramon","latitude":-11.12139,"longitude":-75.35306}}(window,'GeoPostal','PE');

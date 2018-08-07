@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8L 2H4"]={"code":"T8L 2H4","region":"Alberta","city":"Fort Saskatchewan","latitude":53.713511,"longitude":-113.207127}}(window,'GeoPostal','CA');

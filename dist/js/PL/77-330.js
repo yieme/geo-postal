@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-330"]={"code":"77-330","region":"Pomorskie","city":"Czarne","latitude":53.6842,"longitude":16.93834}}(window,'GeoPostal','PL');

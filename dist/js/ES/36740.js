@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36740"]={"code":"36740","region":"Galicia","city":"Tomino","latitude":41.98772,"longitude":-8.75502}}(window,'GeoPostal','ES');

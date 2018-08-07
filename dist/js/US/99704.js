@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99704"]={"code":"99704","region":"Alaska","city":"Nenana","latitude":64.55806,"longitude":-149.09056}}(window,'GeoPostal','US');

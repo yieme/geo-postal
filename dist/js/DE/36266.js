@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36266"]={"code":"36266","region":"Hessen","city":"Bengendorf","latitude":50.89037,"longitude":9.97559}}(window,'GeoPostal','DE');

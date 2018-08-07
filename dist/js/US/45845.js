@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45845"]={"code":"45845","region":"OH","city":"Fort Loramie","latitude":40.3306,"longitude":-84.3741}}(window,'GeoPostal','US');

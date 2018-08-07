@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18079"]={"code":"18079","region":"PA","city":"Slatedale","latitude":40.7455,"longitude":-75.6592}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9TP"]={"code":"IP6 9TP","region":"England","city":"Crowfield","latitude":52.16667,"longitude":1.13333}}(window,'GeoPostal','GB');

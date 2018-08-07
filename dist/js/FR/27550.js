@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27550"]={"code":"27550","region":"Normandie","city":"Nassandres","latitude":49.12632,"longitude":0.73597}}(window,'GeoPostal','FR');

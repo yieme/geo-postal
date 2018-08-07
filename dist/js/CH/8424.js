@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8424"]={"code":"8424","region":"Zurich","city":"Embrach","latitude":47.50561,"longitude":8.59406}}(window,'GeoPostal','CH');

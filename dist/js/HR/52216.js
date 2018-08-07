@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52216"]={"code":"52216","region":"Istarska zupanija","city":"Galizana","latitude":44.93167,"longitude":13.86861}}(window,'GeoPostal','HR');

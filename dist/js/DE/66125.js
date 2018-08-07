@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66125"]={"code":"66125","region":"Saarland","city":"Dudweiler","latitude":49.27876,"longitude":7.03677}}(window,'GeoPostal','DE');

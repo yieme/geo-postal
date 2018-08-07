@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51491"]={"code":"51491","region":"Vastra Gotalands lan","city":"Tranemo","latitude":57.48333,"longitude":13.35}}(window,'GeoPostal','SE');

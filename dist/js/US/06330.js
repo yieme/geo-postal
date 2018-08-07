@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06330"]={"code":"06330","region":"Connecticut","city":"Baltic","latitude":41.611648,"longitude":-72.071176}}(window,'GeoPostal','US');

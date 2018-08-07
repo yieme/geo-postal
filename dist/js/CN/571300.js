@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571300"]={"code":"571300","region":"Hainan","city":"Wenchang","latitude":19.627,"longitude":110.731}}(window,'GeoPostal','CN');

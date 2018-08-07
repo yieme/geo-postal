@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68040"]={"code":"68040","region":"Grand-Est","city":"Ingersheim","latitude":48.09803,"longitude":7.30308}}(window,'GeoPostal','FR');

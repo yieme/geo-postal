@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 7HN"]={"code":"LA2 7HN","region":"England","city":"High Bentham","latitude":54.11823,"longitude":-2.51199}}(window,'GeoPostal','GB');

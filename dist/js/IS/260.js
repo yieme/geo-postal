@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["260"]={"code":"260","region":"Sudurnes","city":"Njardvik","latitude":63.9809,"longitude":-22.5145}}(window,'GeoPostal','IS');

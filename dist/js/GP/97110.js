@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97110"]={"code":"97110","region":"Guadeloupe","city":"Pointe-a-Pitre","latitude":16.2422,"longitude":-61.5343}}(window,'GeoPostal','GP');

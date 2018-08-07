@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87421"]={"code":"87421","region":"NM","city":"Waterflow","latitude":36.7637,"longitude":-108.5186}}(window,'GeoPostal','US');

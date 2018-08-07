@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76578"]={"code":"76578","region":"TX","city":"Thrall","latitude":30.592,"longitude":-97.2893}}(window,'GeoPostal','US');

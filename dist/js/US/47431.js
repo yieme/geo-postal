@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47431"]={"code":"47431","region":"IN","city":"Freedom","latitude":39.2151,"longitude":-86.85}}(window,'GeoPostal','US');

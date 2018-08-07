@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57632"]={"code":"57632","region":"Rheinland-Pfalz","city":"Kescheid","latitude":50.66667,"longitude":7.48333}}(window,'GeoPostal','DE');

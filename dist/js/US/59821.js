@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59821"]={"code":"59821","region":"MT","city":"Arlee","latitude":47.186,"longitude":-114.076}}(window,'GeoPostal','US');

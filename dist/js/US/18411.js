@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18411"]={"code":"18411","region":"Pennsylvania","city":"Clarks Summit","latitude":41.48869,"longitude":-75.70852}}(window,'GeoPostal','US');

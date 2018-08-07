@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14740"]={"code":"14740","region":"NY","city":"Gerry","latitude":42.2147,"longitude":-79.1649}}(window,'GeoPostal','US');

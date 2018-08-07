@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04062"]={"code":"04062","region":"Maine","city":"Windham","latitude":43.810556,"longitude":-70.416944}}(window,'GeoPostal','US');

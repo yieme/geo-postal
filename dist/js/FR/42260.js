@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42260"]={"code":"42260","region":"Auvergne-Rhone-Alpes","city":"Saint-Germain-Laval","latitude":45.83138,"longitude":4.01445}}(window,'GeoPostal','FR');

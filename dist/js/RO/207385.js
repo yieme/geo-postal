@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207385"]={"code":"207385","region":"Dolj","city":"Melinesti","latitude":44.56667,"longitude":23.71667}}(window,'GeoPostal','RO');

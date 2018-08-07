@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23470"]={"code":"23470","region":"Andalucia","city":"Cazorla","latitude":37.91495,"longitude":-3.00342}}(window,'GeoPostal','ES');

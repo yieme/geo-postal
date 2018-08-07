@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD9 0NA"]={"code":"TD9 0NA","region":"Scotland","city":"Saughtree","latitude":55.26282,"longitude":-2.69228}}(window,'GeoPostal','GB');

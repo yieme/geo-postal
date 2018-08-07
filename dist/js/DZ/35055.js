@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35055"]={"code":"35055","region":"Boumerdes","city":"Tadmait","latitude":36.74413,"longitude":3.90045}}(window,'GeoPostal','DZ');

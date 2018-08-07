@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78703"]={"code":"78703","region":"Ivano-Frankivska oblast","city":"Verkhovyna","latitude":48.15571,"longitude":24.79112}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54868"]={"code":"54868","region":"Wisconsin","city":"Rice Lake","latitude":45.50607,"longitude":-91.73823}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06046"]={"code":"06046","region":"Umbria","city":"Norcia","latitude":42.79314,"longitude":13.09538}}(window,'GeoPostal','IT');

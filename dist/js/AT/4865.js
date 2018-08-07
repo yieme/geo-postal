@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4865"]={"code":"4865","region":"Oberosterreich","city":"Attersee","latitude":47.91646,"longitude":13.53953}}(window,'GeoPostal','AT');

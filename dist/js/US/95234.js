@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95234"]={"code":"95234","region":"CA","city":"Holt","latitude":37.9344,"longitude":-121.4261}}(window,'GeoPostal','US');

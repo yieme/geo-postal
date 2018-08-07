@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55732"]={"code":"55732","region":"Minnesota","city":"Embarrass","latitude":47.65222,"longitude":-92.23639}}(window,'GeoPostal','US');

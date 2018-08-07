@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44685"]={"code":"44685","region":"Ohio","city":"Uniontown","latitude":40.962881,"longitude":-81.389418}}(window,'GeoPostal','US');

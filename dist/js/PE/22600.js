@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22600"]={"code":"22600","region":"San Martin","city":"Juanjui","latitude":-7.17785,"longitude":-76.73135}}(window,'GeoPostal','PE');

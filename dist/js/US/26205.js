@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26205"]={"code":"26205","region":"West Virginia","city":"Craigsville","latitude":38.33067,"longitude":-80.65315}}(window,'GeoPostal','US');

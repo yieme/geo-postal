@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1T0"]={"code":"S0C 1T0","region":"Saskatchewan","city":"Minton","latitude":49.16676,"longitude":-104.58435}}(window,'GeoPostal','CA');

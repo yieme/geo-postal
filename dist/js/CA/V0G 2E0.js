@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 2E0"]={"code":"V0G 2E0","region":"British Columbia","city":"Vallican","latitude":49.56654,"longitude":-117.65225}}(window,'GeoPostal','CA');

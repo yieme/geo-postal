@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63783"]={"code":"63783","region":"MO","city":"Uniontown","latitude":37.6073,"longitude":-89.6798}}(window,'GeoPostal','US');

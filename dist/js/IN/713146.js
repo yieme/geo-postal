@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713146"]={"code":"713146","region":"West Bengal","city":"Memari","latitude":23.2,"longitude":88.11667}}(window,'GeoPostal','IN');

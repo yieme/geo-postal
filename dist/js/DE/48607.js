@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48607"]={"code":"48607","region":"Nordrhein-Westfalen","city":"Ochtrup","latitude":52.20802,"longitude":7.18988}}(window,'GeoPostal','DE');

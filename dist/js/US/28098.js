@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28098"]={"code":"28098","region":"NC","city":"Lowell","latitude":35.2655,"longitude":-81.096}}(window,'GeoPostal','US');

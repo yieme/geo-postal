@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353700"]={"code":"353700","region":"Krasnodarskiy kray","city":"Novominskaya","latitude":46.3163,"longitude":38.9586}}(window,'GeoPostal','RU');

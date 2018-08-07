@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8225"]={"code":"8225","region":"Steiermark","city":"Pollau","latitude":47.3,"longitude":15.83333}}(window,'GeoPostal','AT');

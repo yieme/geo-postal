@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84627"]={"code":"84627","region":"Utah","city":"Ephraim","latitude":39.35968,"longitude":-111.58631}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59867"]={"code":"59867","region":"MT","city":"Saltese","latitude":47.4102,"longitude":-115.5096}}(window,'GeoPostal','US');

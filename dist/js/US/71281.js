@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71281"]={"code":"71281","region":"LA","city":"Swartz","latitude":32.4908,"longitude":-92.1594}}(window,'GeoPostal','US');

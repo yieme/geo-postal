@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05021"]={"code":"05021","region":"Umbria","city":"Acquasparta","latitude":42.69014,"longitude":12.54007}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY6 6PL"]={"code":"SY6 6PL","region":"England","city":"Little Stretton","latitude":52.51667,"longitude":-2.81667}}(window,'GeoPostal','GB');

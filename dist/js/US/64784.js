@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64784"]={"code":"64784","region":"Missouri","city":"Sheldon","latitude":37.65861,"longitude":-94.29583}}(window,'GeoPostal','US');

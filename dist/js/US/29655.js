@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29655"]={"code":"29655","region":"SC","city":"Iva","latitude":34.3198,"longitude":-82.6574}}(window,'GeoPostal','US');

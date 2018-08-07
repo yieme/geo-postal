@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85470"]={"code":"85470","region":"Pays-de-la-Loire","city":"Brem-sur-Mer","latitude":46.6054,"longitude":-1.8301}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95317"]={"code":"95317","region":"CA","city":"El Nido","latitude":37.1391,"longitude":-120.5251}}(window,'GeoPostal','US');

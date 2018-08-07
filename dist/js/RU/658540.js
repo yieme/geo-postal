@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658540"]={"code":"658540","region":"Altayskiy kray","city":"Rebrikha","latitude":53.07333,"longitude":82.34083}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87743"]={"code":"87743","region":"Bayern","city":"Frickenhausen","latitude":48.07349,"longitude":10.31506}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02130"]={"code":"02130","region":"Hauts-de-France","city":"Fere-en-Tardenois","latitude":49.2,"longitude":3.51667}}(window,'GeoPostal','FR');

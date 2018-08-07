@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92507"]={"code":"92507","region":"Bayern","city":"Nabburg","latitude":49.45347,"longitude":12.17996}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84784"]={"code":"84784","region":"Utah","city":"Hildale","latitude":37.0036,"longitude":-112.96688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2423"]={"code":"2423","region":"Pangasinan","city":"Bayambang","latitude":15.8127,"longitude":120.4557}}(window,'GeoPostal','PH');

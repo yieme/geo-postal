@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6430"]={"code":"6430","region":"Syddanmark","city":"Nordborg","latitude":55.05732,"longitude":9.7408}}(window,'GeoPostal','DK');

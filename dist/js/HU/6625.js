@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6625"]={"code":"6625","region":"Csongrad","city":"Fabiansebestyen","latitude":46.68333,"longitude":20.46667}}(window,'GeoPostal','HU');

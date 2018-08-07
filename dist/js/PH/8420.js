@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8420"]={"code":"8420","region":"Bataan","city":"Balanga","latitude":14.67611,"longitude":120.53611}}(window,'GeoPostal','PH');

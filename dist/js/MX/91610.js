@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91610"]={"code":"91610","region":"Veracruz de Ignacio de la Llave","city":"Tuzamapan","latitude":19.4,"longitude":-96.85}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19401"]={"code":"19401","region":"Cherkaska oblast","city":"Korsun'-Shevchenkivs'kyy","latitude":49.41894,"longitude":31.25865}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02350"]={"code":"02350","region":"Hauts-de-France","city":"Bucy-les-Pierrepont","latitude":49.6475,"longitude":3.9033}}(window,'GeoPostal','FR');

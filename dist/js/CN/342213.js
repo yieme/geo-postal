@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342213"]={"code":"342213","region":"Jiangxi","city":"Sanbiao","latitude":25.04208,"longitude":115.59022}}(window,'GeoPostal','CN');

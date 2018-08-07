@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52060"]={"code":"52060","region":"Iowa","city":"Maquoketa","latitude":42.070332,"longitude":-90.662214}}(window,'GeoPostal','US');

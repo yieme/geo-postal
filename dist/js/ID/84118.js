@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84118"]={"code":"84118","region":"Nusa Tenggara Barat","city":"Rato","latitude":-8.4744,"longitude":118.7649}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54684"]={"code":"54684","region":"Mexico","city":"San Pedro Xalpa","latitude":19.82389,"longitude":-99.18833}}(window,'GeoPostal','MX');

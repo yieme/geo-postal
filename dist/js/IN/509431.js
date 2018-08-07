@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509431"]={"code":"509431","region":"Telangana","city":"Nagar Karnul","latitude":16.4821,"longitude":78.32471}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54970"]={"code":"54970","region":"Wisconsin","city":"Redgranite","latitude":44.04192,"longitude":-89.09845}}(window,'GeoPostal','US');

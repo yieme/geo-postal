@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV16 4BB"]={"code":"WV16 4BB","region":"England","city":"Bridgnorth","latitude":52.53661,"longitude":-2.42033}}(window,'GeoPostal','GB');

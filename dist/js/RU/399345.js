@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399345"]={"code":"399345","region":"Lipetskaya oblast'","city":"Krasnoye","latitude":52.86449,"longitude":38.79353}}(window,'GeoPostal','RU');

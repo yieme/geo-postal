@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89619"]={"code":"89619","region":"Baden-Wurttemberg","city":"Unterstadion","latitude":48.20305,"longitude":9.6884}}(window,'GeoPostal','DE');

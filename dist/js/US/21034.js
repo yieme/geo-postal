@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21034"]={"code":"21034","region":"Maryland","city":"Darlington","latitude":39.64028,"longitude":-76.20083}}(window,'GeoPostal','US');

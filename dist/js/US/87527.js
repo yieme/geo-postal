@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87527"]={"code":"87527","region":"New Mexico","city":"Dixon","latitude":36.198611,"longitude":-105.861667}}(window,'GeoPostal','US');

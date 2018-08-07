@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57077"]={"code":"57077","region":"SD","city":"Worthing","latitude":43.3291,"longitude":-96.7628}}(window,'GeoPostal','US');

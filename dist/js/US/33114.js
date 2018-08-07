@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33114"]={"code":"33114","region":"Florida","city":"Coral Gables","latitude":25.72149,"longitude":-80.26838}}(window,'GeoPostal','US');

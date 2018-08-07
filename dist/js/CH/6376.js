@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6376"]={"code":"6376","region":"Nidwalden","city":"Beckenried","latitude":46.96476,"longitude":8.47394}}(window,'GeoPostal','CH');

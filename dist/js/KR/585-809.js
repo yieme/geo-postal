@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585-809"]={"code":"585-809","region":"Jeollabuk-do","city":"Koch'ang","latitude":35.43333,"longitude":126.7}}(window,'GeoPostal','KR');

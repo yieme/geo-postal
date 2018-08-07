@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52196"]={"code":"52196","region":"Vastra Gotalands lan","city":"Falkoeping","latitude":58.17347,"longitude":13.55068}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["496661"]={"code":"496661","region":"Chhattisgarh","city":"Sakti","latitude":22.03333,"longitude":82.96667}}(window,'GeoPostal','IN');

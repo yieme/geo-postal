@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74462"]={"code":"74462","region":"Oklahoma","city":"Stigler","latitude":35.25371,"longitude":-95.12302}}(window,'GeoPostal','US');

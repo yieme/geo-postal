@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75012"]={"code":"75012","region":"Basilicata","city":"Bernalda","latitude":40.41282,"longitude":16.69199}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08071"]={"code":"08071","region":"NJ","city":"Pitman","latitude":39.7312,"longitude":-75.1297}}(window,'GeoPostal','US');

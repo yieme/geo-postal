@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23846"]={"code":"23846","region":"VA","city":"Elberon","latitude":37.0701,"longitude":-76.8337}}(window,'GeoPostal','US');

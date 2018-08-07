@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35461"]={"code":"35461","region":"Alabama","city":"Ethelsville","latitude":33.383615,"longitude":-88.221469}}(window,'GeoPostal','US');

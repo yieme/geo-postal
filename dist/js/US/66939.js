@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66939"]={"code":"66939","region":"Kansas","city":"Courtland","latitude":39.78347,"longitude":-97.896926}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61284"]={"code":"61284","region":"IL","city":"Taylor Ridge","latitude":41.3828,"longitude":-90.734}}(window,'GeoPostal','US');

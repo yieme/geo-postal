@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61543"]={"code":"61543","region":"IL","city":"Liverpool","latitude":40.3902,"longitude":-90.0026}}(window,'GeoPostal','US');

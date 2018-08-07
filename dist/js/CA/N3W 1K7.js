@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3W 1K7"]={"code":"N3W 1K7","region":"Ontario","city":"Caledonia","latitude":43.066777,"longitude":-79.956933}}(window,'GeoPostal','CA');

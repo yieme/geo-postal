@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95636"]={"code":"95636","region":"California","city":"Grizzly Flats","latitude":38.63639,"longitude":-120.5275}}(window,'GeoPostal','US');

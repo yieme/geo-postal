@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16634"]={"code":"16634","region":"PA","city":"Dudley","latitude":40.2054,"longitude":-78.1814}}(window,'GeoPostal','US');

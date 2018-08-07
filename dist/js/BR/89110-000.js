@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89110-000"]={"code":"89110-000","region":"Santa Catarina","city":"Gaspar","latitude":-26.93139,"longitude":-48.95889}}(window,'GeoPostal','BR');

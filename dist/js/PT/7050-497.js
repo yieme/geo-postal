@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7050-497"]={"code":"7050-497","region":"Evora","city":"Vendas Novas","latitude":38.67706,"longitude":-8.45792}}(window,'GeoPostal','PT');

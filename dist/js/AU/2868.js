@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2868"]={"code":"2868","region":"New South Wales","city":"Obley","latitude":-32.7,"longitude":148.56667}}(window,'GeoPostal','AU');

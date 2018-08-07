@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3735"]={"code":"3735","region":"Victoria","city":"Whorouly","latitude":-36.51667,"longitude":146.6}}(window,'GeoPostal','AU');

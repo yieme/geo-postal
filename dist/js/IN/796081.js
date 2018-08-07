@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["796081"]={"code":"796081","region":"Mizoram","city":"Aizawl","latitude":23.73333,"longitude":92.71667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5249"]={"code":"5249","region":"Noord-Brabant","city":"Rosmalen","latitude":51.716667,"longitude":5.366667}}(window,'GeoPostal','NL');

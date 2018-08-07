@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04976"]={"code":"04976","region":"Maine","city":"Skowhegan","latitude":44.76506,"longitude":-69.71922}}(window,'GeoPostal','US');

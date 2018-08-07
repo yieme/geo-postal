@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["543 51"]={"code":"543 51","region":"Liberecky kraj","city":"Spindleruv Mlyn","latitude":50.72615,"longitude":15.60944}}(window,'GeoPostal','CZ');

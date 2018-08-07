@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98398"]={"code":"98398","region":"Washington","city":"Paradise Inn","latitude":46.77985,"longitude":-121.74327}}(window,'GeoPostal','US');

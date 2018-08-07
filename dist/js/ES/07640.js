@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07640"]={"code":"07640","region":"Illes Balears","city":"Ses Salines","latitude":39.33831,"longitude":3.05274}}(window,'GeoPostal','ES');

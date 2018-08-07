@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72333"]={"code":"72333","region":"AR","city":"Elaine","latitude":34.3118,"longitude":-90.8939}}(window,'GeoPostal','US');

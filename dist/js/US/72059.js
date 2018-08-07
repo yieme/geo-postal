@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72059"]={"code":"72059","region":"AR","city":"Gregory","latitude":35.1554,"longitude":-91.3432}}(window,'GeoPostal','US');

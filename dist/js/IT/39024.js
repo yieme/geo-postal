@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39024"]={"code":"39024","region":"Trentino-Alto Adige","city":"Malles Venosta","latitude":46.68791,"longitude":10.54655}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["841105"]={"code":"841105","region":"Xinjiang","city":"Yanqi","latitude":42.05861,"longitude":86.56833}}(window,'GeoPostal','CN');

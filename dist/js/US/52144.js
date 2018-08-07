@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52144"]={"code":"52144","region":"IA","city":"Fort Atkinson","latitude":43.1339,"longitude":-91.9134}}(window,'GeoPostal','US');

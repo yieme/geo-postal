@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07877"]={"code":"07877","region":"NJ","city":"Swartswood","latitude":41.1029,"longitude":-74.8508}}(window,'GeoPostal','US');

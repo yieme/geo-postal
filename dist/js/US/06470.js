@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06470"]={"code":"06470","region":"Connecticut","city":"Newtown","latitude":41.41398,"longitude":-73.30345}}(window,'GeoPostal','US');

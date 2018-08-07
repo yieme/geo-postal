@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42285"]={"code":"42285","region":"KY","city":"Sweeden","latitude":37.2641,"longitude":-86.2978}}(window,'GeoPostal','US');

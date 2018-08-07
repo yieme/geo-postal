@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67869"]={"code":"67869","region":"KS","city":"Plains","latitude":37.2701,"longitude":-100.5732}}(window,'GeoPostal','US');

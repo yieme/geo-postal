@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22989"]={"code":"22989","region":"VA","city":"Woodberry Forest","latitude":38.2912,"longitude":-78.1225}}(window,'GeoPostal','US');

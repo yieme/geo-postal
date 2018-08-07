@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68526"]={"code":"68526","region":"Baden-Wurttemberg","city":"Ladenburg","latitude":49.47307,"longitude":8.60896}}(window,'GeoPostal','DE');

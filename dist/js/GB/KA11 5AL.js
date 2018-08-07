@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA11 5AL"]={"code":"KA11 5AL","region":"Scotland","city":"Dreghorn","latitude":55.6,"longitude":-4.61667}}(window,'GeoPostal','GB');

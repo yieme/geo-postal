@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70517"]={"code":"70517","region":"LA","city":"Breaux Bridge","latitude":30.2948,"longitude":-91.8296}}(window,'GeoPostal','US');

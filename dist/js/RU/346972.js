@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346972"]={"code":"346972","region":"Belgorodskaya oblast'","city":"Alekseyevka","latitude":50.6309,"longitude":38.6903}}(window,'GeoPostal','RU');

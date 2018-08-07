@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76063"]={"code":"76063","region":"Texas","city":"Mansfield","latitude":32.56319,"longitude":-97.14168}}(window,'GeoPostal','US');

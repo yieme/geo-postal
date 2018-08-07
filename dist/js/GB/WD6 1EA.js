@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD6 1EA"]={"code":"WD6 1EA","region":"England","city":"Borehamwood","latitude":51.65468,"longitude":-0.27762}}(window,'GeoPostal','GB');

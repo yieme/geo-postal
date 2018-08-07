@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3407"]={"code":"3407","region":"Corrientes","city":"San Miguel","latitude":-27.99585,"longitude":-57.58964}}(window,'GeoPostal','AR');

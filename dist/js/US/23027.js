@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23027"]={"code":"23027","region":"Virginia","city":"Cartersville","latitude":37.65678,"longitude":-78.1089}}(window,'GeoPostal','US');

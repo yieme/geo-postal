@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22851"]={"code":"22851","region":"Schleswig-Holstein","city":"Norderstedt","latitude":53.6859,"longitude":9.98041}}(window,'GeoPostal','DE');

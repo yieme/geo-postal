@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117435"]={"code":"117435","region":"Arges","city":"Lunca Corbului","latitude":44.7,"longitude":24.75}}(window,'GeoPostal','RO');

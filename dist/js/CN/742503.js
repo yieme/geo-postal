@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742503"]={"code":"742503","region":"Gansu","city":"Chengxian","latitude":33.74111,"longitude":105.72056}}(window,'GeoPostal','CN');

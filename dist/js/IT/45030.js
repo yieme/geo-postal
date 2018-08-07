@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45030"]={"code":"45030","region":"Veneto","city":"Gaiba","latitude":44.94618,"longitude":11.48021}}(window,'GeoPostal','IT');

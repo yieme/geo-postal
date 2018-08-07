@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11904"]={"code":"11904","region":"Hato Mayor","city":"Hato Mayor del Rey","latitude":18.76278,"longitude":-69.25681}}(window,'GeoPostal','DO');

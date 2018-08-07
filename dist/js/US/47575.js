@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47575"]={"code":"47575","region":"Indiana","city":"Saint Anthony","latitude":38.33318,"longitude":-86.822598}}(window,'GeoPostal','US');

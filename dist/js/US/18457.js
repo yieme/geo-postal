@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18457"]={"code":"18457","region":"Pennsylvania","city":"Rowland","latitude":41.4711,"longitude":-75.04248}}(window,'GeoPostal','US');

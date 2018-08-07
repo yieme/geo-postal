@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47042"]={"code":"47042","region":"Emilia-Romagna","city":"Cesenatico","latitude":44.19987,"longitude":12.3991}}(window,'GeoPostal','IT');

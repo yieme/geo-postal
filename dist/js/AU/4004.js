@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4004"]={"code":"4004","region":"Queensland","city":"Spring Hill","latitude":-27.46141,"longitude":153.02311}}(window,'GeoPostal','AU');

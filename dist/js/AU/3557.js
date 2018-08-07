@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3557"]={"code":"3557","region":"Victoria","city":"Wellsford","latitude":-36.63333,"longitude":144.46667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["890-0053"]={"code":"890-0053","region":"Kagoshima","city":"Kagoshima","latitude":31.6,"longitude":130.55}}(window,'GeoPostal','JP');

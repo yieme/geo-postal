@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-440"]={"code":"23-440","region":"Lubelskie","city":"Frampol","latitude":50.67159,"longitude":22.67061}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7173"]={"code":"7173","region":"Tasmania","city":"Lewisham","latitude":-42.83333,"longitude":147.61667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63065"]={"code":"63065","region":"MO","city":"Mapaville","latitude":38.2489,"longitude":-90.4835}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623373"]={"code":"623373","region":"Sverdlovskaya oblast'","city":"Zyuzel'skiy","latitude":56.4856,"longitude":60.1331}}(window,'GeoPostal','RU');

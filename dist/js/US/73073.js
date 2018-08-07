@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73073"]={"code":"73073","region":"OK","city":"Orlando","latitude":36.142,"longitude":-97.396}}(window,'GeoPostal','US');

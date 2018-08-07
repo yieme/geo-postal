@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44689"]={"code":"44689","region":"OH","city":"Wilmot","latitude":40.6567,"longitude":-81.6352}}(window,'GeoPostal','US');

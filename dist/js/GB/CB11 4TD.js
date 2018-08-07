@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 4TD"]={"code":"CB11 4TD","region":"England","city":"Littlebury","latitude":52.0345,"longitude":0.20958}}(window,'GeoPostal','GB');

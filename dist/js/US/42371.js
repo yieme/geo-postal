@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42371"]={"code":"42371","region":"KY","city":"Rumsey","latitude":37.5076,"longitude":-87.2806}}(window,'GeoPostal','US');

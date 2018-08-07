@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 3V0"]={"code":"A0K 3V0","region":"Newfoundland and Labrador","city":"Norris Point","latitude":49.52721,"longitude":-57.88456}}(window,'GeoPostal','CA');

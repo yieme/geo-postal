@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS16 9BQ"]={"code":"LS16 9BQ","region":"England","city":"Bramhope","latitude":53.88489,"longitude":-1.61641}}(window,'GeoPostal','GB');

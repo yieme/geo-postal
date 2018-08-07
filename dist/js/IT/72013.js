@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72013"]={"code":"72013","region":"Puglia","city":"Ceglie Messapico","latitude":40.64393,"longitude":17.5155}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["757 01"]={"code":"757 01","region":"Zlinsky kraj","city":"Zasova","latitude":49.4741,"longitude":18.04436}}(window,'GeoPostal','CZ');

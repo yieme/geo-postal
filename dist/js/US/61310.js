@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61310"]={"code":"61310","region":"Illinois","city":"Amboy","latitude":41.7142,"longitude":-89.32871}}(window,'GeoPostal','US');

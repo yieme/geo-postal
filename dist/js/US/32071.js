@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32071"]={"code":"32071","region":"FL","city":"O Brien","latitude":30.0381,"longitude":-82.93}}(window,'GeoPostal','US');

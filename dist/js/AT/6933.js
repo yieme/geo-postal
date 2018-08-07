@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6933"]={"code":"6933","region":"Vorarlberg","city":"Doren","latitude":47.49278,"longitude":9.87972}}(window,'GeoPostal','AT');

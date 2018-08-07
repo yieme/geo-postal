@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10915"]={"code":"10915","region":"NY","city":"Bullville","latitude":41.5443,"longitude":-74.3615}}(window,'GeoPostal','US');

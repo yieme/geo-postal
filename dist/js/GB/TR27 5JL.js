@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 5JL"]={"code":"TR27 5JL","region":"England","city":"Gwinear","latitude":50.18749,"longitude":-5.36656}}(window,'GeoPostal','GB');

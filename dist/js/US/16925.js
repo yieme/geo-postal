@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16925"]={"code":"16925","region":"Pennsylvania","city":"Gillett","latitude":41.9517,"longitude":-76.77018}}(window,'GeoPostal','US');

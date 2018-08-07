@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86400"]={"code":"86400","region":"Nouvelle-Aquitaine","city":"Civray","latitude":46.1471,"longitude":0.29509}}(window,'GeoPostal','FR');

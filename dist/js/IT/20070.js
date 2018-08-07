@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20070"]={"code":"20070","region":"Lombardia","city":"Cerro al Lambro","latitude":45.32997,"longitude":9.33905}}(window,'GeoPostal','IT');

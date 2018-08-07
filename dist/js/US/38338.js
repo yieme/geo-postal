@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38338"]={"code":"38338","region":"TN","city":"Gibson","latitude":35.8708,"longitude":-88.8464}}(window,'GeoPostal','US');

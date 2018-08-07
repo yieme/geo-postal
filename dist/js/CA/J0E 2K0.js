@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 2K0"]={"code":"J0E 2K0","region":"Quebec","city":"Sutton","latitude":45.10008,"longitude":-72.61582}}(window,'GeoPostal','CA');

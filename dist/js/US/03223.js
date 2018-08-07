@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03223"]={"code":"03223","region":"New Hampshire","city":"Campton","latitude":43.864722,"longitude":-71.636667}}(window,'GeoPostal','US');

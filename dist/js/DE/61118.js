@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61118"]={"code":"61118","region":"Hessen","city":"Bad Vilbel","latitude":50.17866,"longitude":8.73756}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33910"]={"code":"33910","region":"FL","city":"Cape Coral","latitude":26.5529,"longitude":-81.9486}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45200"]={"code":"45200","region":"Centre-Val de Loire","city":"Amilly","latitude":47.97281,"longitude":2.77186}}(window,'GeoPostal','FR');

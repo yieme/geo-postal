@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4040"]={"code":"4040","region":"Gisborne","city":"Gisborne","latitude":-38.65333,"longitude":178.00417}}(window,'GeoPostal','NZ');

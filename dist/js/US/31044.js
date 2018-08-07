@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31044"]={"code":"31044","region":"GA","city":"Jeffersonville","latitude":32.7411,"longitude":-83.3859}}(window,'GeoPostal','US');

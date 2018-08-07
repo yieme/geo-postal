@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57690"]={"code":"57690","region":"Grand-Est","city":"Crehange","latitude":49.04952,"longitude":6.58012}}(window,'GeoPostal','FR');

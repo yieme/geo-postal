@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD5 4SR"]={"code":"LD5 4SR","region":"Wales","city":"Llanwrtyd Wells","latitude":52.10659,"longitude":-3.63924}}(window,'GeoPostal','GB');

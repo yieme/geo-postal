@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87316"]={"code":"87316","region":"NM","city":"Fort Wingate","latitude":35.5191,"longitude":-108.4864}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11802"]={"code":"11802","region":"New York","city":"Hicksville","latitude":40.76742,"longitude":-73.53312}}(window,'GeoPostal','US');

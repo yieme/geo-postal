@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507213"]={"code":"507213","region":"Telangana","city":"Manuguru","latitude":17.98102,"longitude":80.7547}}(window,'GeoPostal','IN');

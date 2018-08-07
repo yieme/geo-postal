@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44501"]={"code":"44501","region":"Keski-Suomi","city":"Viitasaari","latitude":63.06667,"longitude":25.86667}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77382"]={"code":"77382","region":"Texas","city":"The Woodlands","latitude":30.22938,"longitude":-95.51082}}(window,'GeoPostal','US');

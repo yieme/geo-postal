@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077140"]={"code":"077140","region":"Ilfov","city":"Nuci","latitude":44.71667,"longitude":26.3}}(window,'GeoPostal','RO');

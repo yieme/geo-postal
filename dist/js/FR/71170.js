@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71170"]={"code":"71170","region":"Bourgogne-Franche-Comte","city":"Chauffailles","latitude":46.20726,"longitude":4.33932}}(window,'GeoPostal','FR');

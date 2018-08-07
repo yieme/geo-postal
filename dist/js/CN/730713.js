@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730713"]={"code":"730713","region":"Gansu","city":"Laojunpo","latitude":35.74716,"longitude":105.42118}}(window,'GeoPostal','CN');

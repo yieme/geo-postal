@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 6BU"]={"code":"PL27 6BU","region":"England","city":"Wadebridge","latitude":50.51734,"longitude":-4.83633}}(window,'GeoPostal','GB');

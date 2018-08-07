@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH4 0NS"]={"code":"CH4 0NS","region":"Wales","city":"Broughton","latitude":53.16667,"longitude":-3}}(window,'GeoPostal','GB');

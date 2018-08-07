@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8182"]={"code":"8182","region":"Veszprem","city":"Berhida","latitude":47.11131,"longitude":18.12948}}(window,'GeoPostal','HU');

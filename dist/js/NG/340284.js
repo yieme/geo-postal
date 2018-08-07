@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340284"]={"code":"340284","region":"Ondo","city":"Akure","latitude":7.25256,"longitude":5.19312}}(window,'GeoPostal','NG');

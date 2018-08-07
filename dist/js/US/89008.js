@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89008"]={"code":"89008","region":"Nevada","city":"Caliente","latitude":37.61496,"longitude":-114.51194}}(window,'GeoPostal','US');

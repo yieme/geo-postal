@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 4LH"]={"code":"DN10 4LH","region":"England","city":"Walkeringham","latitude":53.42551,"longitude":-0.8441}}(window,'GeoPostal','GB');

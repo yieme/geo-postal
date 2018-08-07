@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756504"]={"code":"756504","region":"Ningxia","city":"Jiaocha","latitude":36.14666,"longitude":106.5101}}(window,'GeoPostal','CN');

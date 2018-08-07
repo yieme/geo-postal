@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3186"]={"code":"3186","region":"Victoria","city":"North Brighton","latitude":-37.90694,"longitude":145.00528}}(window,'GeoPostal','AU');

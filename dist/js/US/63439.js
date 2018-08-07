@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63439"]={"code":"63439","region":"MO","city":"Emden","latitude":39.8019,"longitude":-91.8606}}(window,'GeoPostal','US');

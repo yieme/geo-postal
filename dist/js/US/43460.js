@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43460"]={"code":"43460","region":"OH","city":"Rossford","latitude":41.6049,"longitude":-83.5638}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624223"]={"code":"624223","region":"Sverdlovskaya oblast'","city":"Nizhnyaya Tura","latitude":58.6293,"longitude":59.8118}}(window,'GeoPostal','RU');

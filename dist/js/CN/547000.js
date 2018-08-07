@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547000"]={"code":"547000","region":"Guangxi","city":"Hechi","latitude":24.692778,"longitude":108.085}}(window,'GeoPostal','CN');

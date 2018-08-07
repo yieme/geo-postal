@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81170"]={"code":"81170","region":"Occitanie","city":"Cordes-sur-Ciel","latitude":44.06667,"longitude":1.95}}(window,'GeoPostal','FR');

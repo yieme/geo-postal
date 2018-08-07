@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 1JF"]={"code":"IP14 1JF","region":"England","city":"Stowe","latitude":52.03127,"longitude":-1.01815}}(window,'GeoPostal','GB');

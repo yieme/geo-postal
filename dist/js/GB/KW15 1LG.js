@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW15 1LG"]={"code":"KW15 1LG","region":"Scotland","city":"Kirkwall","latitude":58.98479,"longitude":-2.95873}}(window,'GeoPostal','GB');

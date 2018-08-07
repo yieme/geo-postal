@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88221"]={"code":"88221","region":"NM","city":"Carlsbad","latitude":32.342,"longitude":-104.2937}}(window,'GeoPostal','US');

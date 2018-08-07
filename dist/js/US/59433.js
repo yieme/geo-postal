@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59433"]={"code":"59433","region":"Montana","city":"Dutton","latitude":47.845942,"longitude":-111.711577}}(window,'GeoPostal','US');

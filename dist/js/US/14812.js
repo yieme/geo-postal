@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14812"]={"code":"14812","region":"NY","city":"Beaver Dams","latitude":42.2798,"longitude":-76.972}}(window,'GeoPostal','US');

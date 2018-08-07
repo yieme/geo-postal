@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56580"]={"code":"56580","region":"Bretagne","city":"Rohan","latitude":48.06833,"longitude":-2.7512}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32951"]={"code":"32951","region":"FL","city":"Melbourne Beach","latitude":28.0219,"longitude":-80.5389}}(window,'GeoPostal','US');

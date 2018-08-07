@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32160"]={"code":"32160","region":"FL","city":"Lake Geneva","latitude":29.7683,"longitude":-81.9907}}(window,'GeoPostal','US');

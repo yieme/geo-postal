@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68118"]={"code":"68118","region":"Grand-Est","city":"Hirtzbach","latitude":47.59618,"longitude":7.22043}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82936"]={"code":"82936","region":"Wyoming","city":"Lonetree","latitude":41.030207,"longitude":-110.136503}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27978"]={"code":"27978","region":"NC","city":"Stumpy Point","latitude":35.6985,"longitude":-75.7728}}(window,'GeoPostal','US');

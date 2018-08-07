@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26436"]={"code":"26436","region":"WV","city":"Smithburg","latitude":39.2893,"longitude":-80.7343}}(window,'GeoPostal','US');

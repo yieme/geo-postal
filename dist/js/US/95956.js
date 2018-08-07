@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95956"]={"code":"95956","region":"California","city":"Meadow Valley","latitude":39.938992,"longitude":-121.064137}}(window,'GeoPostal','US');

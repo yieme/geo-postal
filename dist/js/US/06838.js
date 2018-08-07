@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06838"]={"code":"06838","region":"CT","city":"Greens Farms","latitude":41.1238,"longitude":-73.3195}}(window,'GeoPostal','US');

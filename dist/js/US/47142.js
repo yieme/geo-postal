@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47142"]={"code":"47142","region":"Indiana","city":"Mauckport","latitude":38.092399,"longitude":-86.192154}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33580"]={"code":"33580","region":"Nouvelle-Aquitaine","city":"Monsegur","latitude":44.6504,"longitude":0.08047}}(window,'GeoPostal','FR');

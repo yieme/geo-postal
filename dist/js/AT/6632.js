@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6632"]={"code":"6632","region":"Tirol","city":"Ehrwald","latitude":47.4,"longitude":10.91667}}(window,'GeoPostal','AT');

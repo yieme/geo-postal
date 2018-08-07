@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628245"]={"code":"628245","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Agirish","latitude":61.92472,"longitude":63.02306}}(window,'GeoPostal','RU');

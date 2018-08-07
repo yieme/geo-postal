@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55703"]={"code":"55703","region":"Minnesota","city":"Angora","latitude":47.759025,"longitude":-92.771953}}(window,'GeoPostal','US');

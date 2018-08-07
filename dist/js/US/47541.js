@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47541"]={"code":"47541","region":"Indiana","city":"Holland","latitude":38.24583,"longitude":-87.03833}}(window,'GeoPostal','US');

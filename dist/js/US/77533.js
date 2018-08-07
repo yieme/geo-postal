@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77533"]={"code":"77533","region":"Texas","city":"Daisetta","latitude":30.11444,"longitude":-94.64278}}(window,'GeoPostal','US');

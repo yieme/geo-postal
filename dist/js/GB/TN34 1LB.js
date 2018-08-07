@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN34 1LB"]={"code":"TN34 1LB","region":"England","city":"Hastings","latitude":50.85519,"longitude":0.57292}}(window,'GeoPostal','GB');

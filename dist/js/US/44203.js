@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44203"]={"code":"44203","region":"Ohio","city":"Barberton","latitude":41.01283,"longitude":-81.60512}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23401"]={"code":"23401","region":"Virginia","city":"Keller","latitude":37.640172,"longitude":-75.746308}}(window,'GeoPostal','US');

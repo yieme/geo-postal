@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5836"]={"code":"5836","region":"Bekes","city":"Dombegyhaz","latitude":46.33333,"longitude":21.13333}}(window,'GeoPostal','HU');

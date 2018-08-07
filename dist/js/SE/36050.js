@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36050"]={"code":"36050","region":"Kronobergs lan","city":"Lessebo","latitude":56.75185,"longitude":15.26969}}(window,'GeoPostal','SE');

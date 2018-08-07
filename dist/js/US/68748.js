@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68748"]={"code":"68748","region":"Nebraska","city":"Madison","latitude":41.82834,"longitude":-97.45505}}(window,'GeoPostal','US');

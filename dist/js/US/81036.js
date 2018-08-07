@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81036"]={"code":"81036","region":"CO","city":"Eads","latitude":38.4408,"longitude":-102.5549}}(window,'GeoPostal','US');

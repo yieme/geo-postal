@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS1 3JE"]={"code":"WS1 3JE","region":"England","city":"Walton le Dale","latitude":53.73333,"longitude":-2.66667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-510"]={"code":"26-510","region":"Mazowieckie","city":"Chlewiska","latitude":51.24376,"longitude":20.76871}}(window,'GeoPostal','PL');

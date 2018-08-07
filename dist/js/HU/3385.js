@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3385"]={"code":"3385","region":"Heves","city":"Tiszanana","latitude":47.56667,"longitude":20.53333}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04625"]={"code":"04625","region":"Maine","city":"Cranberry Isles","latitude":44.248333,"longitude":-68.260833}}(window,'GeoPostal','US');

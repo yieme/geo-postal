@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81041"]={"code":"81041","region":"CO","city":"Granada","latitude":38.0545,"longitude":-102.3271}}(window,'GeoPostal','US');

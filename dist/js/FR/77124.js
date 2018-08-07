@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77124"]={"code":"77124","region":"Ile-de-France","city":"Cregy-les-Meaux","latitude":48.97648,"longitude":2.87483}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99352"]={"code":"99352","region":"Papua","city":"Abepura","latitude":-2.63333,"longitude":140.58333}}(window,'GeoPostal','ID');

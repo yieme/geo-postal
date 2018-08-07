@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84060"]={"code":"84060","region":"Jamtlands lan","city":"Braecke","latitude":62.75067,"longitude":15.42193}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22062"]={"code":"22062","region":"Vinnytska oblast","city":"Khmil'nyk","latitude":49.55979,"longitude":27.95754}}(window,'GeoPostal','UA');

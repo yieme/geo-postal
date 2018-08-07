@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30429"]={"code":"30429","region":"GA","city":"Hagan","latitude":32.156,"longitude":-81.9337}}(window,'GeoPostal','US');

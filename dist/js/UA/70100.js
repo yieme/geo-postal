@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70100"]={"code":"70100","region":"Zaporizka oblast","city":"Novomykolayivka","latitude":47.9781,"longitude":35.9102}}(window,'GeoPostal','UA');

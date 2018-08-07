@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10800"]={"code":"10800","region":"La Habana","city":"Santiago de las Vegas","latitude":22.97,"longitude":-82.38694}}(window,'GeoPostal','CU');

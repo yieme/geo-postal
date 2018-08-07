@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 3JZ"]={"code":"DN21 3JZ","region":"England","city":"Blyton","latitude":53.44384,"longitude":-0.71753}}(window,'GeoPostal','GB');

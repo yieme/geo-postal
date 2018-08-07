@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 1X1"]={"code":"T0J 1X1","region":"Alberta","city":"Langdon","latitude":50.970372,"longitude":-113.67768}}(window,'GeoPostal','CA');

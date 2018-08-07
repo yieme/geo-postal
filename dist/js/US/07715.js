@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07715"]={"code":"07715","region":"New Jersey","city":"Belmar","latitude":40.17845,"longitude":-74.0218}}(window,'GeoPostal','US');

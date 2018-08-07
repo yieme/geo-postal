@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19525"]={"code":"19525","region":"PA","city":"Gilbertsville","latitude":40.3059,"longitude":-75.5953}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 4JU"]={"code":"EX39 4JU","region":"England","city":"Instow","latitude":51.05369,"longitude":-4.17918}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75088"]={"code":"75088","region":"Texas","city":"Rowlett","latitude":32.8914,"longitude":-96.5538}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7016"]={"code":"7016","region":"Zamboanga del Sur","city":"Muricay","latitude":7.8275,"longitude":123.4782}}(window,'GeoPostal','PH');

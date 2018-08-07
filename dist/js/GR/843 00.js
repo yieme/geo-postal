@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["843 00"]={"code":"843 00","region":"Notio Aigaio","city":"Naxos","latitude":37.10556,"longitude":25.37639}}(window,'GeoPostal','GR');

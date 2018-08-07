@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72368"]={"code":"72368","region":"Arkansas","city":"Moro","latitude":34.766717,"longitude":-90.764702}}(window,'GeoPostal','US');

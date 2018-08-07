@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-6250"]={"code":"L-6250","region":"Grevenmacher","city":"Consdorf","latitude":49.77306,"longitude":6.33833}}(window,'GeoPostal','LU');

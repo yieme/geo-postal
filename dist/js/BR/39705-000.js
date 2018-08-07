@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39705-000"]={"code":"39705-000","region":"Minas Gerais","city":"Sao Joao Evangelista","latitude":-18.54778,"longitude":-42.76333}}(window,'GeoPostal','BR');

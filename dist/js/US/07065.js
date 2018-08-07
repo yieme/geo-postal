@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07065"]={"code":"07065","region":"New Jersey","city":"Rahway","latitude":40.60816,"longitude":-74.27765}}(window,'GeoPostal','US');

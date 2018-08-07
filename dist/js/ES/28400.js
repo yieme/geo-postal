@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28400"]={"code":"28400","region":"Madrid, Comunidad de","city":"Collado-Villalba","latitude":40.63506,"longitude":-4.00486}}(window,'GeoPostal','ES');

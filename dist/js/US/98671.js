@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98671"]={"code":"98671","region":"Washington","city":"Washougal","latitude":45.598327,"longitude":-122.331803}}(window,'GeoPostal','US');

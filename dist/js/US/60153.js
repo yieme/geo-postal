@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60153"]={"code":"60153","region":"Illinois","city":"Maywood","latitude":41.8792,"longitude":-87.84312}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57570"]={"code":"57570","region":"South Dakota","city":"Rosebud","latitude":43.23278,"longitude":-100.85348}}(window,'GeoPostal','US');

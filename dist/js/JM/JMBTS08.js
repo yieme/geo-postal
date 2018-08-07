@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBTS08"]={"code":"JMBTS08","region":"Saint Thomas","city":"Morant Bay","latitude":17.88145,"longitude":-76.40927}}(window,'GeoPostal','JM');

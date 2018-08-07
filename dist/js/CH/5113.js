@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5113"]={"code":"5113","region":"Zurich","city":"Schachen","latitude":47.32419,"longitude":8.47251}}(window,'GeoPostal','CH');

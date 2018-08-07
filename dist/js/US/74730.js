@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74730"]={"code":"74730","region":"OK","city":"Calera","latitude":33.9322,"longitude":-96.4308}}(window,'GeoPostal','US');

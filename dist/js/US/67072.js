@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67072"]={"code":"67072","region":"KS","city":"Latham","latitude":37.531,"longitude":-96.6791}}(window,'GeoPostal','US');

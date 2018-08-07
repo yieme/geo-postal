@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56584"]={"code":"56584","region":"Minnesota","city":"Twin Valley","latitude":47.25972,"longitude":-96.25722}}(window,'GeoPostal','US');

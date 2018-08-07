@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39180"]={"code":"39180","region":"Punjab","city":"Warburton","latitude":31.55,"longitude":73.83333}}(window,'GeoPostal','PK');

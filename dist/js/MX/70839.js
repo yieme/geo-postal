@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70839"]={"code":"70839","region":"Oaxaca","city":"San Pedro Mixtepec","latitude":16.28333,"longitude":-96.28333}}(window,'GeoPostal','MX');

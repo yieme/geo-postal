@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68866"]={"code":"68866","region":"NE","city":"Pleasanton","latitude":40.9818,"longitude":-99.1283}}(window,'GeoPostal','US');

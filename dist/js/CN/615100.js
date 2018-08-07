@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["615100"]={"code":"615100","region":"Sichuan","city":"Huili","latitude":26.66256,"longitude":102.24392}}(window,'GeoPostal','CN');

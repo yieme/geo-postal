@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87002"]={"code":"87002","region":"New Mexico","city":"Belen","latitude":34.655093,"longitude":-106.761577}}(window,'GeoPostal','US');

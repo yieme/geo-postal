@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52140"]={"code":"52140","region":"IA","city":"Dorchester","latitude":43.4421,"longitude":-91.5076}}(window,'GeoPostal','US');

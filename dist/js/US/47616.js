@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47616"]={"code":"47616","region":"IN","city":"Griffin","latitude":38.2069,"longitude":-87.9166}}(window,'GeoPostal','US');

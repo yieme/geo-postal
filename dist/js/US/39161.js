@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39161"]={"code":"39161","region":"MS","city":"Sandhill","latitude":32.4983,"longitude":-89.8686}}(window,'GeoPostal','US');

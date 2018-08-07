@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45358"]={"code":"45358","region":"OH","city":"Pitsburg","latitude":39.987,"longitude":-84.4866}}(window,'GeoPostal','US');

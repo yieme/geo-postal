@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38379"]={"code":"38379","region":"Tennessee","city":"Stantonville","latitude":35.184238,"longitude":-88.444547}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02652"]={"code":"02652","region":"MA","city":"North Truro","latitude":42.0338,"longitude":-70.0875}}(window,'GeoPostal','US');

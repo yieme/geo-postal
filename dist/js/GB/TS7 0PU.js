@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS7 0PU"]={"code":"TS7 0PU","region":"England","city":"Nunthorpe","latitude":54.5288,"longitude":-1.18438}}(window,'GeoPostal','GB');

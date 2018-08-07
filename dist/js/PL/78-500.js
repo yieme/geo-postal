@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-500"]={"code":"78-500","region":"Zachodniopomorskie","city":"Drawsko Pomorskie","latitude":53.53056,"longitude":15.80967}}(window,'GeoPostal','PL');

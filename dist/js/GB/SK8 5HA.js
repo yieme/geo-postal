@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK8 5HA"]={"code":"SK8 5HA","region":"England","city":"Marple","latitude":53.39452,"longitude":-2.06292}}(window,'GeoPostal','GB');

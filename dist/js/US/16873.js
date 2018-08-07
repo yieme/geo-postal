@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16873"]={"code":"16873","region":"PA","city":"Shawville","latitude":41.0692,"longitude":-78.3581}}(window,'GeoPostal','US');

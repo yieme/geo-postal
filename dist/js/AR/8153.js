@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8153"]={"code":"8153","region":"Buenos Aires","city":"Monte Hermoso","latitude":-38.9825,"longitude":-61.29472}}(window,'GeoPostal','AR');

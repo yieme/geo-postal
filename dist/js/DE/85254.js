@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85254"]={"code":"85254","region":"Bayern","city":"Einsbach","latitude":48.26903,"longitude":11.26678}}(window,'GeoPostal','DE');

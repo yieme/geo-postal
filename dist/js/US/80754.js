@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80754"]={"code":"80754","region":"CO","city":"Stoneham","latitude":40.687,"longitude":-103.6387}}(window,'GeoPostal','US');

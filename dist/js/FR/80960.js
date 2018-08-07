@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80960"]={"code":"80960","region":"Hauts-de-France","city":"Saint-Blimont","latitude":50.1217,"longitude":1.575}}(window,'GeoPostal','FR');

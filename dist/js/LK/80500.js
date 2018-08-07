@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80500"]={"code":"80500","region":"Southern Province","city":"Bentota","latitude":6.4254,"longitude":79.9948}}(window,'GeoPostal','LK');

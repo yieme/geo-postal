@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515458"]={"code":"515458","region":"Andhra Pradesh","city":"Anantapur","latitude":14.68333,"longitude":77.6}}(window,'GeoPostal','IN');

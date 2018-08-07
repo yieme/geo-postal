@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13700-000"]={"code":"13700-000","region":"Sao Paulo","city":"Casa Branca","latitude":-21.77389,"longitude":-47.08639}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78022"]={"code":"78022","region":"Texas","city":"George West","latitude":28.3325,"longitude":-98.11751}}(window,'GeoPostal','US');

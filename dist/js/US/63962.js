@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63962"]={"code":"63962","region":"MO","city":"Rombauer","latitude":36.8431,"longitude":-90.2801}}(window,'GeoPostal','US');

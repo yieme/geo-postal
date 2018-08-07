@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97050"]={"code":"97050","region":"OR","city":"Rufus","latitude":45.6948,"longitude":-120.7359}}(window,'GeoPostal','US');

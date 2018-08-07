@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11003"]={"code":"11003","region":"Retalhuleu","city":"Santa Cruz Mulua","latitude":14.58333,"longitude":-91.61667}}(window,'GeoPostal','GT');

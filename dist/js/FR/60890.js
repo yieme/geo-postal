@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60890"]={"code":"60890","region":"Hauts-de-France","city":"Mareuil-sur-Ourcq","latitude":49.13752,"longitude":3.07822}}(window,'GeoPostal','FR');

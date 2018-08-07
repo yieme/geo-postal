@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1921"]={"code":"1921","region":"Akershus","city":"Sorumsand","latitude":59.98509,"longitude":11.23981}}(window,'GeoPostal','NO');

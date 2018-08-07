@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK18 4LB"]={"code":"MK18 4LB","region":"England","city":"Chetwode","latitude":51.96237,"longitude":-1.06998}}(window,'GeoPostal','GB');

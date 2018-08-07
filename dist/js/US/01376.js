@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01376"]={"code":"01376","region":"MA","city":"Turners Falls","latitude":42.5954,"longitude":-72.5557}}(window,'GeoPostal','US');

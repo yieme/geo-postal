@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64850"]={"code":"64850","region":"Missouri","city":"Neosho","latitude":36.86521,"longitude":-94.373456}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62701"]={"code":"62701","region":"Kharkivska oblast","city":"Dvorichna","latitude":49.84963,"longitude":37.68568}}(window,'GeoPostal','UA');

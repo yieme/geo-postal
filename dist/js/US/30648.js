@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30648"]={"code":"30648","region":"GA","city":"Lexington","latitude":33.8799,"longitude":-83.0858}}(window,'GeoPostal','US');

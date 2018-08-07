@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 37"]={"code":"512 37","region":"Liberecky kraj","city":"Benecko","latitude":50.66633,"longitude":15.54816}}(window,'GeoPostal','CZ');

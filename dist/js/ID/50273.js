@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50273"]={"code":"50273","region":"Jawa Tengah","city":"Semarang","latitude":-6.9932,"longitude":110.4203}}(window,'GeoPostal','ID');

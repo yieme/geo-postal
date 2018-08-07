@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 2E0"]={"code":"N0M 2E0","region":"Ontario","city":"Bluewater","latitude":43.490536,"longitude":-81.613098}}(window,'GeoPostal','CA');

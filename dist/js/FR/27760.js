@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27760"]={"code":"27760","region":"Normandie","city":"La Ferriere-sur-Risle","latitude":48.9789,"longitude":0.7867}}(window,'GeoPostal','FR');

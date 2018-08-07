@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07717"]={"code":"07717","region":"NJ","city":"Avon By The Sea","latitude":40.1918,"longitude":-74.0167}}(window,'GeoPostal','US');

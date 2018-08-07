@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88264"]={"code":"88264","region":"New Mexico","city":"Maljamar","latitude":32.827937,"longitude":-103.735852}}(window,'GeoPostal','US');

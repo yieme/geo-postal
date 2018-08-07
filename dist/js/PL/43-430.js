@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-430"]={"code":"43-430","region":"Slaskie","city":"Skoczow","latitude":49.80089,"longitude":18.7877}}(window,'GeoPostal','PL');

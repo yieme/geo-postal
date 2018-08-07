@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84040"]={"code":"84040","region":"Utah","city":"Layton","latitude":41.06022,"longitude":-111.97105}}(window,'GeoPostal','US');

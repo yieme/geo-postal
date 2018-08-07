@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2645"]={"code":"2645","region":"Kyustendil","city":"Sapareva Banya","latitude":42.28333,"longitude":23.26667}}(window,'GeoPostal','BG');

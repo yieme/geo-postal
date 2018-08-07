@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62935"]={"code":"62935","region":"IL","city":"Galatia","latitude":37.8274,"longitude":-88.6235}}(window,'GeoPostal','US');

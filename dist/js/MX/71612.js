@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71612"]={"code":"71612","region":"Oaxaca","city":"San Juan Cacahuatepec","latitude":16.61667,"longitude":-98.15}}(window,'GeoPostal','MX');

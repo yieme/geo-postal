@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10706"]={"code":"10706","region":"NY","city":"Hastings On Hudson","latitude":40.9878,"longitude":-73.863}}(window,'GeoPostal','US');

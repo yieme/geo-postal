@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188491"]={"code":"188491","region":"Leningradskaya oblast'","city":"Ivangorod","latitude":59.37155,"longitude":28.21625}}(window,'GeoPostal','RU');

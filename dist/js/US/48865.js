@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48865"]={"code":"48865","region":"MI","city":"Orleans","latitude":43.0895,"longitude":-85.1165}}(window,'GeoPostal','US');

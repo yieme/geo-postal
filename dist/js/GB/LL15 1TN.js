@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 1TN"]={"code":"LL15 1TN","region":"Wales","city":"Ruthin","latitude":53.11368,"longitude":-3.31782}}(window,'GeoPostal','GB');

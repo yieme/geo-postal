@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38650"]={"code":"38650","region":"MS","city":"Myrtle","latitude":34.5402,"longitude":-89.1157}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08406"]={"code":"08406","region":"New Jersey","city":"Ventnor City","latitude":39.34194,"longitude":-74.48298}}(window,'GeoPostal','US');

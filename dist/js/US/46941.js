@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46941"]={"code":"46941","region":"IN","city":"Lagro","latitude":40.8199,"longitude":-85.7204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20670"]={"code":"20670","region":"Maryland","city":"Patuxent River","latitude":38.31889,"longitude":-76.405}}(window,'GeoPostal','US');

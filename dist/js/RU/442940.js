@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442940"]={"code":"442940","region":"Penzenskaya oblast'","city":"Bekovo","latitude":52.46632,"longitude":43.71199}}(window,'GeoPostal','RU');

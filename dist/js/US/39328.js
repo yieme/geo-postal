@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39328"]={"code":"39328","region":"MS","city":"De Kalb","latitude":32.7162,"longitude":-88.7332}}(window,'GeoPostal','US');

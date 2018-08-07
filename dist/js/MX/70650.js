@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70650"]={"code":"70650","region":"Oaxaca","city":"Juchitan de Zaragoza","latitude":16.43333,"longitude":-95.01667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02644"]={"code":"02644","region":"MA","city":"Forestdale","latitude":41.6827,"longitude":-70.5143}}(window,'GeoPostal','US');

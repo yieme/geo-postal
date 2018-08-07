@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48845"]={"code":"48845","region":"Michigan","city":"Hubbardston","latitude":43.093981,"longitude":-84.86448}}(window,'GeoPostal','US');

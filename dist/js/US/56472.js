@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56472"]={"code":"56472","region":"Minnesota","city":"Pequot Lakes","latitude":46.60302,"longitude":-94.30944}}(window,'GeoPostal','US');

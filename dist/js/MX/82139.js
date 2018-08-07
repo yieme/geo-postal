@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82139"]={"code":"82139","region":"Sinaloa","city":"Mazatlan","latitude":23.21667,"longitude":-106.41667}}(window,'GeoPostal','MX');

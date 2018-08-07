@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413312"]={"code":"413312","region":"Maharashtra","city":"Solapur","latitude":17.68333,"longitude":75.91667}}(window,'GeoPostal','IN');

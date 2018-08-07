@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["834405"]={"code":"834405","region":"Xinjiang","city":"Baikouquan","latitude":45.96667,"longitude":85.45}}(window,'GeoPostal','CN');

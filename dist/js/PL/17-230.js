@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-230"]={"code":"17-230","region":"Podlaskie","city":"Bialowieza","latitude":52.70385,"longitude":23.86574}}(window,'GeoPostal','PL');

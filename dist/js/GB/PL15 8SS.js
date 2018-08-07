@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 8SS"]={"code":"PL15 8SS","region":"England","city":"Egloskerry","latitude":50.65297,"longitude":-4.44803}}(window,'GeoPostal','GB');

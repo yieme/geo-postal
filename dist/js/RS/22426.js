@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22426"]={"code":"22426","region":"Sremski okrug","city":"Jarak","latitude":44.91667,"longitude":19.75722}}(window,'GeoPostal','RS');

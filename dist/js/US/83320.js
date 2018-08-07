@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83320"]={"code":"83320","region":"Idaho","city":"Carey","latitude":43.30944,"longitude":-113.94528}}(window,'GeoPostal','US');

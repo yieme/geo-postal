@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14083"]={"code":"14083","region":"NY","city":"Java Village","latitude":42.6769,"longitude":-78.441}}(window,'GeoPostal','US');

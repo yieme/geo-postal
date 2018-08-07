@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4497"]={"code":"4497","region":"Queensland","city":"Daymar","latitude":-28.61667,"longitude":148.98333}}(window,'GeoPostal','AU');

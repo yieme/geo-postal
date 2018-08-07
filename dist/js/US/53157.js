@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53157"]={"code":"53157","region":"WI","city":"Pell Lake","latitude":42.54,"longitude":-88.3582}}(window,'GeoPostal','US');

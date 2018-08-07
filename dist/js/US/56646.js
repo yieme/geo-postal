@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56646"]={"code":"56646","region":"MN","city":"Gully","latitude":47.7697,"longitude":-95.641}}(window,'GeoPostal','US');

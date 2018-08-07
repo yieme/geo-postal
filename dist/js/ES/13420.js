@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13420"]={"code":"13420","region":"Castilla-La Mancha","city":"Malagon","latitude":39.16668,"longitude":-3.85419}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47601"]={"code":"47601","region":"Indiana","city":"Boonville","latitude":38.05728,"longitude":-87.26244}}(window,'GeoPostal','US');

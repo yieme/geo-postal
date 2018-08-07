@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77471"]={"code":"77471","region":"Ivano-Frankivska oblast","city":"Chornoliztsi","latitude":48.83034,"longitude":24.89576}}(window,'GeoPostal','UA');

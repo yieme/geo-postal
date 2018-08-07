@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54968"]={"code":"54968","region":"Wisconsin","city":"Princeton","latitude":43.85081,"longitude":-89.12178}}(window,'GeoPostal','US');

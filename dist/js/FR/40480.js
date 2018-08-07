@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40480"]={"code":"40480","region":"Nouvelle-Aquitaine","city":"Vieux-Boucau-les-Bains","latitude":43.78947,"longitude":-1.39957}}(window,'GeoPostal','FR');

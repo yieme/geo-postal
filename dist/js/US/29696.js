@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29696"]={"code":"29696","region":"SC","city":"West Union","latitude":34.7516,"longitude":-83.0399}}(window,'GeoPostal','US');

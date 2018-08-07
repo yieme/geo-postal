@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98593"]={"code":"98593","region":"WA","city":"Vader","latitude":46.3985,"longitude":-122.9585}}(window,'GeoPostal','US');

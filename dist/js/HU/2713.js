@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2713"]={"code":"2713","region":"Pest","city":"Csemo","latitude":47.11799,"longitude":19.69092}}(window,'GeoPostal','HU');

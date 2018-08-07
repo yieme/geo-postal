@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83352"]={"code":"83352","region":"Bayern","city":"Altenmarkt","latitude":47.7796,"longitude":12.1356}}(window,'GeoPostal','DE');

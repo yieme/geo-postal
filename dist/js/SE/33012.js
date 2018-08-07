@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33012"]={"code":"33012","region":"Jonkopings lan","city":"Forsheda","latitude":57.15,"longitude":13.81667}}(window,'GeoPostal','SE');

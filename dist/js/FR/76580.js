@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76580"]={"code":"76580","region":"Normandie","city":"Le Trait","latitude":49.46895,"longitude":0.81634}}(window,'GeoPostal','FR');

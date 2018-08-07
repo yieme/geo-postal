@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69280"]={"code":"69280","region":"Auvergne-Rhone-Alpes","city":"Sainte-Consorce","latitude":45.77706,"longitude":4.69735}}(window,'GeoPostal','FR');

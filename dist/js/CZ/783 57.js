@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783 57"]={"code":"783 57","region":"Olomoucky kraj","city":"Trsice","latitude":49.54237,"longitude":17.42483}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21647"]={"code":"21647","region":"MD","city":"Mcdaniel","latitude":38.8192,"longitude":-76.2806}}(window,'GeoPostal','US');

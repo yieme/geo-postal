@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85939"]={"code":"85939","region":"Arizona","city":"Taylor","latitude":34.46504,"longitude":-110.09123}}(window,'GeoPostal','US');

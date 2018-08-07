@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84024"]={"code":"84024","region":"Utah","city":"Echo","latitude":40.966106,"longitude":-111.420827}}(window,'GeoPostal','US');

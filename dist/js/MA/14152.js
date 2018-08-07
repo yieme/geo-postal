@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14152"]={"code":"14152","region":"Gharb-Chrarda-Beni Hssen","city":"Lalla Mimouna","latitude":34.84606,"longitude":-6.06645}}(window,'GeoPostal','MA');

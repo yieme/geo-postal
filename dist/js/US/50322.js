@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50322"]={"code":"50322","region":"Iowa","city":"Urbandale","latitude":41.62666,"longitude":-93.71217}}(window,'GeoPostal','US');

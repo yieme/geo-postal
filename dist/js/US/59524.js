@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59524"]={"code":"59524","region":"MT","city":"Dodson","latitude":48.395,"longitude":-108.2465}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28089"]={"code":"28089","region":"NC","city":"Lattimore","latitude":35.3182,"longitude":-81.6607}}(window,'GeoPostal','US');

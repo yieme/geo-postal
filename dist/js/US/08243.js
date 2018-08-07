@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08243"]={"code":"08243","region":"NJ","city":"Sea Isle City","latitude":39.154,"longitude":-74.7005}}(window,'GeoPostal','US');

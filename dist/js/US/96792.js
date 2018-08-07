@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96792"]={"code":"96792","region":"Hawaii","city":"Ma'ili","latitude":21.42194,"longitude":-158.18028}}(window,'GeoPostal','US');

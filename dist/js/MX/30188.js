@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30188"]={"code":"30188","region":"Coahuila de Zaragoza","city":"Parras de la Fuente","latitude":25.41667,"longitude":-102.18333}}(window,'GeoPostal','MX');

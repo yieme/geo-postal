@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24966"]={"code":"24966","region":"Schleswig-Holstein","city":"Klein Rude","latitude":54.6861,"longitude":9.65753}}(window,'GeoPostal','DE');

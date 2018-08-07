@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19415"]={"code":"19415","region":"PA","city":"Eagleville","latitude":40.1572,"longitude":-75.406}}(window,'GeoPostal','US');

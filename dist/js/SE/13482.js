@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13482"]={"code":"13482","region":"Stockholms lan","city":"Gustavsberg","latitude":59.32684,"longitude":18.38975}}(window,'GeoPostal','SE');

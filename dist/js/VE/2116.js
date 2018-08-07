@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2116"]={"code":"2116","region":"Aragua","city":"Turmero","latitude":10.22388,"longitude":-67.47288}}(window,'GeoPostal','VE');

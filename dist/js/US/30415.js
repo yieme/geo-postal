@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30415"]={"code":"30415","region":"GA","city":"Brooklet","latitude":32.294,"longitude":-81.628}}(window,'GeoPostal','US');

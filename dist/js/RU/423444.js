@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423444"]={"code":"423444","region":"Tatarstan, Respublika","city":"Nizhnyaya Maktama","latitude":54.86356,"longitude":52.4281}}(window,'GeoPostal','RU');

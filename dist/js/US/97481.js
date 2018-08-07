@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97481"]={"code":"97481","region":"OR","city":"Tenmile","latitude":43.114,"longitude":-123.5294}}(window,'GeoPostal','US');

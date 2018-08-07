@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57149"]={"code":"57149","region":"Grand-Est","city":"Woippy","latitude":49.14946,"longitude":6.14909}}(window,'GeoPostal','FR');

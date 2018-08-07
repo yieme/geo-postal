@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96788"]={"code":"96788","region":"Hawaii","city":"Pukalani","latitude":20.83667,"longitude":-156.33667}}(window,'GeoPostal','US');

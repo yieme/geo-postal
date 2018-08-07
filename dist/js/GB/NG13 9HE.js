@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9HE"]={"code":"NG13 9HE","region":"England","city":"Langar","latitude":52.90379,"longitude":-0.92531}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN4 6LQ"]={"code":"DN4 6LQ","region":"England","city":"Hawthorn","latitude":51.42417,"longitude":-2.22361}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04346"]={"code":"04346","region":"ME","city":"Randolph","latitude":44.2347,"longitude":-69.7506}}(window,'GeoPostal','US');

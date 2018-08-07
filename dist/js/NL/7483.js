@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7483"]={"code":"7483","region":"Overijssel","city":"Haaksbergen","latitude":52.15667,"longitude":6.73889}}(window,'GeoPostal','NL');

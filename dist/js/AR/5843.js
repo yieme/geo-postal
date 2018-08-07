@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5843"]={"code":"5843","region":"Cordoba","city":"Adelia Maria","latitude":-33.63152,"longitude":-64.02097}}(window,'GeoPostal','AR');

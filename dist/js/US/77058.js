@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77058"]={"code":"77058","region":"Texas","city":"Pasadena","latitude":29.55475,"longitude":-95.09846}}(window,'GeoPostal','US');

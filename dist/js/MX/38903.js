@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38903"]={"code":"38903","region":"Guanajuato","city":"San Jose Iturbide","latitude":21,"longitude":-100.38333}}(window,'GeoPostal','MX');

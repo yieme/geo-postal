@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75479"]={"code":"75479","region":"Texas","city":"Savoy","latitude":33.569873,"longitude":-96.329814}}(window,'GeoPostal','US');

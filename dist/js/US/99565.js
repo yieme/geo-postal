@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99565"]={"code":"99565","region":"AK","city":"Chignik Lagoon","latitude":58.2687,"longitude":-156.6484}}(window,'GeoPostal','US');

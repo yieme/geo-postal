@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93519"]={"code":"93519","region":"CA","city":"Cantil","latitude":35.3089,"longitude":-117.9684}}(window,'GeoPostal','US');

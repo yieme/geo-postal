@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26757"]={"code":"26757","region":"Niedersachsen","city":"Borkum","latitude":53.58094,"longitude":6.69153}}(window,'GeoPostal','DE');

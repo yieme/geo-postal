@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88450"]={"code":"88450","region":"Grand-Est","city":"Vincey","latitude":48.33749,"longitude":6.33134}}(window,'GeoPostal','FR');

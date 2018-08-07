@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97360"]={"code":"97360","region":"Yucatan","city":"Kinchil","latitude":20.91667,"longitude":-89.95}}(window,'GeoPostal','MX');

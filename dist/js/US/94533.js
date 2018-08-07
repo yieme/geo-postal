@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94533"]={"code":"94533","region":"California","city":"Fairfield","latitude":38.24936,"longitude":-122.03997}}(window,'GeoPostal','US');

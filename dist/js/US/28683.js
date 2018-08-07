@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28683"]={"code":"28683","region":"North Carolina","city":"Thurmond","latitude":36.36652,"longitude":-80.92841}}(window,'GeoPostal','US');

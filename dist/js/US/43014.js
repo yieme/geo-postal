@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43014"]={"code":"43014","region":"Ohio","city":"Danville","latitude":40.44756,"longitude":-82.26016}}(window,'GeoPostal','US');

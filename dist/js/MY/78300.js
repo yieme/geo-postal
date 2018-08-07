@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78300"]={"code":"78300","region":"Melaka","city":"Masjid Tanah","latitude":2.35,"longitude":102.11667}}(window,'GeoPostal','MY');

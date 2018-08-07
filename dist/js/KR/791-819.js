@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["791-819"]={"code":"791-819","region":"Gyeongsangbuk-do","city":"Pohang","latitude":36.032222,"longitude":129.365}}(window,'GeoPostal','KR');

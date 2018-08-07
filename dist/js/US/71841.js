@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71841"]={"code":"71841","region":"AR","city":"Gillham","latitude":34.157,"longitude":-94.3165}}(window,'GeoPostal','US');

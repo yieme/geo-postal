@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA20 1DL"]={"code":"CA20 1DL","region":"England","city":"Calder Bridge","latitude":54.4403,"longitude":-3.47786}}(window,'GeoPostal','GB');

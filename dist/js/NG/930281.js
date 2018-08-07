@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["930281"]={"code":"930281","region":"Plateau","city":"Jos","latitude":9.91667,"longitude":8.9}}(window,'GeoPostal','NG');

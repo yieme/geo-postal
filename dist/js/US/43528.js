@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43528"]={"code":"43528","region":"Ohio","city":"Holland","latitude":41.622204,"longitude":-83.728522}}(window,'GeoPostal','US');

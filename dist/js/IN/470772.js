@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470772"]={"code":"470772","region":"Madhya Pradesh","city":"Hatta","latitude":24.11667,"longitude":79.6}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9G 1C6"]={"code":"V9G 1C6","region":"British Columbia","city":"Ladysmith","latitude":49.0584,"longitude":-123.771817}}(window,'GeoPostal','CA');

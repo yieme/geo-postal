@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97690"]={"code":"97690","region":"Yucatan","city":"Sotuta","latitude":20.6,"longitude":-89.01667}}(window,'GeoPostal','MX');

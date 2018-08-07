@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04497"]={"code":"04497","region":"ME","city":"Wytopitlock","latitude":45.6645,"longitude":-68.1055}}(window,'GeoPostal','US');

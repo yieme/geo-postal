@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26345"]={"code":"26345","region":"Chiapas","city":"Oxchuc","latitude":16.85,"longitude":-92.41667}}(window,'GeoPostal','MX');

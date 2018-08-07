@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62006"]={"code":"62006","region":"Illinois","city":"Batchtown","latitude":39.085584,"longitude":-90.669435}}(window,'GeoPostal','US');

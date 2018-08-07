@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29160-000"]={"code":"29160-000","region":"Espirito Santo","city":"Serra","latitude":-20.12861,"longitude":-40.30778}}(window,'GeoPostal','BR');

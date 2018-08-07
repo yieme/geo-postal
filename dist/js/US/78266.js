@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78266"]={"code":"78266","region":"Texas","city":"Garden Ridge","latitude":29.633352,"longitude":-98.306506}}(window,'GeoPostal','US');

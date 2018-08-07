@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48493"]={"code":"48493","region":"Nordrhein-Westfalen","city":"Welbergen","latitude":52.20172,"longitude":7.2586}}(window,'GeoPostal','DE');

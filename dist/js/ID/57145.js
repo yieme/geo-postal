@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57145"]={"code":"57145","region":"Jawa Tengah","city":"Menara","latitude":-6.7283,"longitude":111.5918}}(window,'GeoPostal','ID');

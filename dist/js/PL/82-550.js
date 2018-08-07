@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-550"]={"code":"82-550","region":"Pomorskie","city":"Prabuty","latitude":53.755,"longitude":19.20547}}(window,'GeoPostal','PL');

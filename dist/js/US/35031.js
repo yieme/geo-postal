@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35031"]={"code":"35031","region":"AL","city":"Blountsville","latitude":34.0929,"longitude":-86.5686}}(window,'GeoPostal','US');

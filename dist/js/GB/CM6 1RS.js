@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 1RS"]={"code":"CM6 1RS","region":"England","city":"White Roding","latitude":51.79884,"longitude":0.26571}}(window,'GeoPostal','GB');

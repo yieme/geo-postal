@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43123"]={"code":"43123","region":"Ohio","city":"Grove City","latitude":39.882219,"longitude":-83.088471}}(window,'GeoPostal','US');

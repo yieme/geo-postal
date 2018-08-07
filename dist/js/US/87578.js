@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87578"]={"code":"87578","region":"NM","city":"Truchas","latitude":36.0444,"longitude":-105.8129}}(window,'GeoPostal','US');

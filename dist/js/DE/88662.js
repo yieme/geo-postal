@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88662"]={"code":"88662","region":"Baden-Wurttemberg","city":"Uberlingen","latitude":47.76977,"longitude":9.17136}}(window,'GeoPostal','DE');

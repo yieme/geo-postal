@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22001"]={"code":"22001","region":"Jutiapa","city":"Jutiapa","latitude":14.28333,"longitude":-89.9}}(window,'GeoPostal','GT');

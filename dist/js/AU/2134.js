@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2134"]={"code":"2134","region":"Victoria","city":"Burwood","latitude":-37.84978,"longitude":145.11901}}(window,'GeoPostal','AU');

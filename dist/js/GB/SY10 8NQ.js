@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 8NQ"]={"code":"SY10 8NQ","region":"England","city":"Llanyblodwel","latitude":52.79906,"longitude":-3.12521}}(window,'GeoPostal','GB');

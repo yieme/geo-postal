@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48650"]={"code":"48650","region":"Michigan","city":"Pinconning","latitude":43.849115,"longitude":-83.993424}}(window,'GeoPostal','US');

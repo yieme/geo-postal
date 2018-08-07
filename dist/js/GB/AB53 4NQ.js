@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 4NQ"]={"code":"AB53 4NQ","region":"Scotland","city":"Dunlugas","latitude":57.58333,"longitude":-2.5}}(window,'GeoPostal','GB');

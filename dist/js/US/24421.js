@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24421"]={"code":"24421","region":"VA","city":"Churchville","latitude":38.2346,"longitude":-79.1791}}(window,'GeoPostal','US');

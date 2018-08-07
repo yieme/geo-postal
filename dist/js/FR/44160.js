@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44160"]={"code":"44160","region":"Pays-de-la-Loire","city":"Pontchateau","latitude":47.43797,"longitude":-2.09011}}(window,'GeoPostal','FR');

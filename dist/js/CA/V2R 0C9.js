@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2R 0C9"]={"code":"V2R 0C9","region":"British Columbia","city":"Lindell Beach","latitude":49.03528,"longitude":-122.01613}}(window,'GeoPostal','CA');

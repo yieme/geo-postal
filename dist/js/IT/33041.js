@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33041"]={"code":"33041","region":"Friuli-Venezia Giulia","city":"Aiello del Friuli","latitude":45.87167,"longitude":13.36556}}(window,'GeoPostal','IT');

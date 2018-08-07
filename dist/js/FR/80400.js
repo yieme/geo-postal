@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80400"]={"code":"80400","region":"Hauts-de-France","city":"Hombleux","latitude":49.73942,"longitude":2.98574}}(window,'GeoPostal','FR');

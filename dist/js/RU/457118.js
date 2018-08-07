@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457118"]={"code":"457118","region":"Chelyabinskaya oblast'","city":"Troitsk","latitude":54.0979,"longitude":61.5773}}(window,'GeoPostal','RU');

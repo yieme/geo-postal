@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BI"]={'':{r:'Bujumbura Mairie',c:'Bujumbura'}};

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP20 9HA"]={"code":"IP20 9HA","region":"England","city":"Harleston","latitude":52.40121,"longitude":1.29815}}(window,'GeoPostal','GB');

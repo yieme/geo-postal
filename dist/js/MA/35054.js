@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35054"]={"code":"35054","region":"Taza-Al Hoceima-Taounate","city":"Aknoul","latitude":34.65371,"longitude":-3.86754}}(window,'GeoPostal','MA');

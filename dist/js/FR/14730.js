@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14730"]={"code":"14730","region":"Normandie","city":"Giberville","latitude":49.18158,"longitude":-0.28386}}(window,'GeoPostal','FR');

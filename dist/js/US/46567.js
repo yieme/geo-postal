@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46567"]={"code":"46567","region":"Indiana","city":"Syracuse","latitude":41.420069,"longitude":-85.741835}}(window,'GeoPostal','US');

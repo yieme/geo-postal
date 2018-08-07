@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-092"]={"code":"05-092","region":"Mazowieckie","city":"Kielpin","latitude":52.35796,"longitude":20.86214}}(window,'GeoPostal','PL');

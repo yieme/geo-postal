@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36000"]={"code":"36000","region":"Raski okrug","city":"Kraljevo","latitude":43.72583,"longitude":20.68944}}(window,'GeoPostal','RS');

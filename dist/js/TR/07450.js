@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07450"]={"code":"07450","region":"Afyonkarahisar","city":"Suhut","latitude":38.53111,"longitude":30.54583}}(window,'GeoPostal','TR');

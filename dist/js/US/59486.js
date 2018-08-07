@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59486"]={"code":"59486","region":"Montana","city":"Valier","latitude":48.305731,"longitude":-112.251419}}(window,'GeoPostal','US');

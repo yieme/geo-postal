@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23760"]={"code":"23760","region":"Andalucia","city":"Arjona","latitude":37.93493,"longitude":-4.05478}}(window,'GeoPostal','ES');

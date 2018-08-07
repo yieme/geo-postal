@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89116"]={"code":"89116","region":"Bourgogne-Franche-Comte","city":"La Celle-Saint-Cyr","latitude":47.9736,"longitude":3.2906}}(window,'GeoPostal','FR');

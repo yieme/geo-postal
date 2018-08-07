@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71000"]={"code":"71000","region":"Federacija Bosne i Hercegovine","city":"Sarajevo","latitude":43.84864,"longitude":18.35644}}(window,'GeoPostal','BA');

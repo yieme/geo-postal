@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403719"]={"code":"403719","region":"Goa","city":"Raia","latitude":15.3,"longitude":73.96667}}(window,'GeoPostal','IN');

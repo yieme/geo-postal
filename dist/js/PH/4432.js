@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4432"]={"code":"4432","region":"Camarines Sur","city":"Baao","latitude":13.4549,"longitude":123.3653}}(window,'GeoPostal','PH');

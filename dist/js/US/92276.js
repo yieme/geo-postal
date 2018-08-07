@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92276"]={"code":"92276","region":"California","city":"Thousand Palms","latitude":33.812529,"longitude":-116.376571}}(window,'GeoPostal','US');

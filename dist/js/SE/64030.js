@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64030"]={"code":"64030","region":"Sodermanlands lan","city":"Halleforsnas","latitude":59.16667,"longitude":16.5}}(window,'GeoPostal','SE');

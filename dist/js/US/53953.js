@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53953"]={"code":"53953","region":"Wisconsin","city":"Packwaukee","latitude":43.766424,"longitude":-89.469208}}(window,'GeoPostal','US');

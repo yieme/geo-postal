@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5850"]={"code":"5850","region":"Eastern Cape","city":"Somerset East","latitude":-32.72173,"longitude":25.58804}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0C 1L0"]={"code":"J0C 1L0","region":"Quebec","city":"Saint-Guillaume","latitude":45.88336,"longitude":-72.76583}}(window,'GeoPostal','CA');

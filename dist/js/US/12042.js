@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12042"]={"code":"12042","region":"NY","city":"Climax","latitude":42.3659,"longitude":-73.851}}(window,'GeoPostal','US');

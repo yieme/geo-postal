@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7E 0G7"]={"code":"L7E 0G7","region":"Ontario","city":"Black Horse","latitude":43.98341,"longitude":-79.79964}}(window,'GeoPostal','CA');

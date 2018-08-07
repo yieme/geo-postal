@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15755"]={"code":"15755","region":"Brandenburg","city":"Mielitzsee","latitude":52.14826,"longitude":13.63379}}(window,'GeoPostal','DE');

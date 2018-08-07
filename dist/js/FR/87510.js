@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87510"]={"code":"87510","region":"Nouvelle-Aquitaine","city":"Nieul","latitude":45.92668,"longitude":1.17494}}(window,'GeoPostal','FR');

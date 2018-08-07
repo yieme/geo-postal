@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92178"]={"code":"92178","region":"CA","city":"Coronado","latitude":32.6859,"longitude":-117.1831}}(window,'GeoPostal','US');

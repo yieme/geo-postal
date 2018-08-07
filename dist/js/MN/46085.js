@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46085"]={"code":"46085","region":"Omnogovi","city":"Dalandzadgad","latitude":43.57083,"longitude":104.425}}(window,'GeoPostal','MN');

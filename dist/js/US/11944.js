@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11944"]={"code":"11944","region":"New York","city":"Greenport","latitude":41.10343,"longitude":-72.35925}}(window,'GeoPostal','US');

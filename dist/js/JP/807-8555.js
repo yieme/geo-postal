@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807-8555"]={"code":"807-8555","region":"Fukuoka","city":"Kitakyushu","latitude":33.83333,"longitude":130.83333}}(window,'GeoPostal','JP');

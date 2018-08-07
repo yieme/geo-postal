@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37374"]={"code":"37374","region":"TN","city":"Sequatchie","latitude":35.1634,"longitude":-85.6371}}(window,'GeoPostal','US');

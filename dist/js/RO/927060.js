@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927060"]={"code":"927060","region":"Ialomita","city":"Bucu","latitude":44.60532,"longitude":27.49337}}(window,'GeoPostal','RO');

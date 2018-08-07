@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79180"]={"code":"79180","region":"Nouvelle-Aquitaine","city":"Chauray","latitude":46.35997,"longitude":-0.37859}}(window,'GeoPostal','FR');

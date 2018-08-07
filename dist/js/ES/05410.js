@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05410"]={"code":"05410","region":"Castilla y Leon","city":"Mombeltran","latitude":40.25987,"longitude":-5.01749}}(window,'GeoPostal','ES');

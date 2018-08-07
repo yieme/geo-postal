@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143044"]={"code":"143044","region":"Moskovskaya oblast'","city":"Bol'shiye Vyazemy","latitude":55.62058,"longitude":36.9762}}(window,'GeoPostal','RU');

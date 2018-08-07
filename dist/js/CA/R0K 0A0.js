@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 0A0"]={"code":"R0K 0A0","region":"Manitoba","city":"Alexander","latitude":49.83001,"longitude":-100.29619}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54754"]={"code":"54754","region":"Wisconsin","city":"Merrillan","latitude":44.44674,"longitude":-90.81816}}(window,'GeoPostal','US');

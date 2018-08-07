@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["280 02"]={"code":"280 02","region":"Stredocesky kraj","city":"Kolin","latitude":50.02814,"longitude":15.20057}}(window,'GeoPostal','CZ');

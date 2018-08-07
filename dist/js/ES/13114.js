@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13114"]={"code":"13114","region":"Castilla-La Mancha","city":"El Robledo","latitude":39.21898,"longitude":-4.28099}}(window,'GeoPostal','ES');

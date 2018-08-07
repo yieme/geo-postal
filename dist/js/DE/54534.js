@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54534"]={"code":"54534","region":"Rheinland-Pfalz","city":"Karl","latitude":50.05,"longitude":6.8}}(window,'GeoPostal','DE');

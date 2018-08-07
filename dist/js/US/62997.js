@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62997"]={"code":"62997","region":"IL","city":"Willisville","latitude":37.9848,"longitude":-89.5899}}(window,'GeoPostal','US');

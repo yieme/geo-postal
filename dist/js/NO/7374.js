@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7374"]={"code":"7374","region":"Sor-Trondelag","city":"Roros","latitude":62.57468,"longitude":11.3842}}(window,'GeoPostal','NO');

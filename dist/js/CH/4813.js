@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4813"]={"code":"4813","region":"Aargau","city":"Uerkheim","latitude":47.30289,"longitude":8.02371}}(window,'GeoPostal','CH');

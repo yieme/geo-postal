@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70050"]={"code":"70050","region":"Sindh","city":"Tando Jam","latitude":25.42718,"longitude":68.53619}}(window,'GeoPostal','PK');

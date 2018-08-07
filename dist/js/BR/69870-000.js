@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69870-000"]={"code":"69870-000","region":"Acre","city":"Feijo","latitude":-8.16417,"longitude":-70.35361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8230"]={"code":"8230","region":"Midtjylland","city":"Arhus","latitude":56.15674,"longitude":10.21076}}(window,'GeoPostal','DK');

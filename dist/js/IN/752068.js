@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["752068"]={"code":"752068","region":"Odisha","city":"Nayagarh","latitude":20.13333,"longitude":85.1}}(window,'GeoPostal','IN');

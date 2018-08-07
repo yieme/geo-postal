@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57583"]={"code":"57583","region":"Rheinland-Pfalz","city":"Rosenheim","latitude":50.71239,"longitude":7.85114}}(window,'GeoPostal','DE');

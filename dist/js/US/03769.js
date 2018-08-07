@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03769"]={"code":"03769","region":"NH","city":"Lyme Center","latitude":43.7863,"longitude":-72.1205}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633216"]={"code":"633216","region":"Novosibirskaya oblast'","city":"Linevo","latitude":54.4589,"longitude":83.3764}}(window,'GeoPostal','RU');

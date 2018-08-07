@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80820"]={"code":"80820","region":"CO","city":"Guffey","latitude":38.8146,"longitude":-105.5784}}(window,'GeoPostal','US');

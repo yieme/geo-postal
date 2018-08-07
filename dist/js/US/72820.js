@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72820"]={"code":"72820","region":"Arkansas","city":"Alix","latitude":35.506308,"longitude":-93.84541}}(window,'GeoPostal','US');

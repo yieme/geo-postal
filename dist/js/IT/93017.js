@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93017"]={"code":"93017","region":"Sicilia","city":"San Cataldo","latitude":37.48412,"longitude":13.98542}}(window,'GeoPostal','IT');

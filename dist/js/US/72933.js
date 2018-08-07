@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72933"]={"code":"72933","region":"AR","city":"Charleston","latitude":35.3115,"longitude":-94.0337}}(window,'GeoPostal','US');

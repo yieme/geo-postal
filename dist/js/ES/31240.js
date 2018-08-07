@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31240"]={"code":"31240","region":"Navarra, Comunidad Foral de","city":"Ayegui","latitude":42.65656,"longitude":-2.03934}}(window,'GeoPostal','ES');

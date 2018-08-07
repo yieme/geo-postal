@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67019"]={"code":"67019","region":"Abruzzo","city":"Scoppito","latitude":42.37303,"longitude":13.25489}}(window,'GeoPostal','IT');

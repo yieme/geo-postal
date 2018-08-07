@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43536"]={"code":"43536","region":"OH","city":"Mark Center","latitude":41.2917,"longitude":-84.6278}}(window,'GeoPostal','US');

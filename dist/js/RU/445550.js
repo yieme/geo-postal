@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445550"]={"code":"445550","region":"Samarskaya oblast'","city":"Obsharovka","latitude":53.125,"longitude":48.85306}}(window,'GeoPostal','RU');

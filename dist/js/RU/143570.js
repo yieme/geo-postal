@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143570"]={"code":"143570","region":"Moskovskaya oblast'","city":"Novopetrovskoye","latitude":55.99278,"longitude":36.47194}}(window,'GeoPostal','RU');

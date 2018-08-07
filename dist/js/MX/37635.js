@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37635"]={"code":"37635","region":"Guanajuato","city":"Ocampo","latitude":21.65,"longitude":-101.5}}(window,'GeoPostal','MX');

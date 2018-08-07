@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5186"]={"code":"5186","region":"Cordoba","city":"Alta Gracia","latitude":-31.65292,"longitude":-64.42826}}(window,'GeoPostal','AR');

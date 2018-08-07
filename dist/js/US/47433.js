@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47433"]={"code":"47433","region":"IN","city":"Gosport","latitude":39.345,"longitude":-86.6583}}(window,'GeoPostal','US');

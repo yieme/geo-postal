@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18331"]={"code":"18331","region":"PA","city":"Gilbert","latitude":40.9089,"longitude":-75.4314}}(window,'GeoPostal','US');

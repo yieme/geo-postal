@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76246"]={"code":"76246","region":"TX","city":"Greenwood","latitude":33.407,"longitude":-97.4716}}(window,'GeoPostal','US');

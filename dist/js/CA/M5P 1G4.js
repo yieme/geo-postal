@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M5P 1G4"]={"code":"M5P 1G4","region":"Ontario","city":"Chaplin Estates","latitude":43.70237,"longitude":-79.40184}}(window,'GeoPostal','CA');

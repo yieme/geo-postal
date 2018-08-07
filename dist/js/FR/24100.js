@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24100"]={"code":"24100","region":"Nouvelle-Aquitaine","city":"Lembras","latitude":44.88431,"longitude":0.52657}}(window,'GeoPostal','FR');

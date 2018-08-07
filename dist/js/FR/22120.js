@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22120"]={"code":"22120","region":"Bretagne","city":"Quessoy","latitude":48.42208,"longitude":-2.66089}}(window,'GeoPostal','FR');

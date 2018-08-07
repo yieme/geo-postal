@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23242"]={"code":"23242","region":"Srednjebanatski okrug","city":"Sutjeska","latitude":45.38417,"longitude":20.69889}}(window,'GeoPostal','RS');

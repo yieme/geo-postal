@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3840"]={"code":"3840","region":"Telemark","city":"Seljord","latitude":59.4894,"longitude":8.63403}}(window,'GeoPostal','NO');

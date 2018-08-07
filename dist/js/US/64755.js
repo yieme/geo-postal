@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64755"]={"code":"64755","region":"MO","city":"Jasper","latitude":37.3362,"longitude":-94.3013}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-730"]={"code":"64-730","region":"Wielkopolskie","city":"Wielen","latitude":52.89461,"longitude":16.17136}}(window,'GeoPostal','PL');

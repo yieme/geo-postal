@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07090"]={"code":"07090","region":"New Jersey","city":"Westfield","latitude":40.64903,"longitude":-74.346369}}(window,'GeoPostal','US');

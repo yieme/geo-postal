@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25510"]={"code":"25510","region":"Bourgogne-Franche-Comte","city":"Pierrefontaine-les-Varans","latitude":47.21601,"longitude":6.5403}}(window,'GeoPostal','FR');

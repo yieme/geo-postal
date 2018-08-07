@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38240"]={"code":"38240","region":"TN","city":"Obion","latitude":36.2657,"longitude":-89.2805}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75555"]={"code":"75555","region":"Texas","city":"Bivins","latitude":32.9397,"longitude":-94.1478}}(window,'GeoPostal','US');

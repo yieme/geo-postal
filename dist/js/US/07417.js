@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07417"]={"code":"07417","region":"New Jersey","city":"Franklin Lakes","latitude":41.0091,"longitude":-74.20812}}(window,'GeoPostal','US');

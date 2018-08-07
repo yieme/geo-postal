@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74814"]={"code":"74814","region":"Laane-Virumaa","city":"Tapa","latitude":59.26056,"longitude":25.95861}}(window,'GeoPostal','EE');

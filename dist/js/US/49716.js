@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49716"]={"code":"49716","region":"Michigan","city":"Brutus","latitude":45.506834,"longitude":-84.772928}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77150"]={"code":"77150","region":"Prachuap Khiri Khan","city":"Kui Buri","latitude":12.08283,"longitude":99.85431}}(window,'GeoPostal','TH');

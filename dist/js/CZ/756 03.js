@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 03"]={"code":"756 03","region":"Zlinsky kraj","city":"Halenkov","latitude":49.3174,"longitude":18.14749}}(window,'GeoPostal','CZ');

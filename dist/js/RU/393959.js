@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393959"]={"code":"393959","region":"Tambovskaya oblast'","city":"Morshansk","latitude":53.44354,"longitude":41.81065}}(window,'GeoPostal','RU');

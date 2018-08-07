@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57520"]={"code":"57520","region":"Grand-Est","city":"Grosbliederstroff","latitude":49.15808,"longitude":7.02413}}(window,'GeoPostal','FR');

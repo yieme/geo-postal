@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY23 3JU"]={"code":"SY23 3JU","region":"Wales","city":"Pont-erwyd","latitude":52.4114,"longitude":-3.84002}}(window,'GeoPostal','GB');

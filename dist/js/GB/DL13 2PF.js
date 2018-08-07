@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 2PF"]={"code":"DL13 2PF","region":"England","city":"Stanhope","latitude":54.75,"longitude":-2.01667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46992"]={"code":"46992","region":"Indiana","city":"Wabash","latitude":40.802711,"longitude":-85.828495}}(window,'GeoPostal','US');

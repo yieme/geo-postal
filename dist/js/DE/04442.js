@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04442"]={"code":"04442","region":"Sachsen","city":"Zwenkau","latitude":51.21872,"longitude":12.33008}}(window,'GeoPostal','DE');

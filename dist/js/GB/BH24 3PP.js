@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH24 3PP"]={"code":"BH24 3PP","region":"England","city":"Ibsley","latitude":50.88594,"longitude":-1.78843}}(window,'GeoPostal','GB');

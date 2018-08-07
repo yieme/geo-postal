@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54153"]={"code":"54153","region":"Wisconsin","city":"Oconto","latitude":44.892175,"longitude":-87.8986}}(window,'GeoPostal','US');

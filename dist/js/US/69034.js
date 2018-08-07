@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69034"]={"code":"69034","region":"Nebraska","city":"Indianola","latitude":40.241055,"longitude":-100.417931}}(window,'GeoPostal','US');

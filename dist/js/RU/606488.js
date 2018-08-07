@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606488"]={"code":"606488","region":"Nizhegorodskaya oblast'","city":"Pamyat' Parizhskoy Kommuny","latitude":56.1048,"longitude":44.4952}}(window,'GeoPostal','RU');

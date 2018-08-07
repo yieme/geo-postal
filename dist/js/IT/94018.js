@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94018"]={"code":"94018","region":"Sicilia","city":"Troina","latitude":37.78535,"longitude":14.59848}}(window,'GeoPostal','IT');

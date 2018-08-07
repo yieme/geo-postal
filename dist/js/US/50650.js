@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50650"]={"code":"50650","region":"Iowa","city":"Lamont","latitude":42.599887,"longitude":-91.64223}}(window,'GeoPostal','US');

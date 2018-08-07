@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93052"]={"code":"93052","region":"Vasterbottens lan","city":"Storvik","latitude":65.15,"longitude":20.73333}}(window,'GeoPostal','SE');

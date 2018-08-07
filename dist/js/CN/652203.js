@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652203"]={"code":"652203","region":"Yunnan","city":"Weize","latitude":24.70772,"longitude":103.40501}}(window,'GeoPostal','CN');

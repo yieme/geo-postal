@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24020"]={"code":"24020","region":"Virginia","city":"Roanoke","latitude":37.2457,"longitude":-80.03175}}(window,'GeoPostal','US');

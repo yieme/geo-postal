@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91212"]={"code":"91212","region":"Sulawesi Selatan","city":"Pinrang","latitude":-3.78611,"longitude":119.65222}}(window,'GeoPostal','ID');

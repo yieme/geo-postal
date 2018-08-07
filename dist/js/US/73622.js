@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73622"]={"code":"73622","region":"Oklahoma","city":"Bessie","latitude":35.385374,"longitude":-98.997734}}(window,'GeoPostal','US');

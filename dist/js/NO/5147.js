@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5147"]={"code":"5147","region":"Hordaland","city":"Ytrebygda","latitude":60.30504,"longitude":5.28236}}(window,'GeoPostal','NO');

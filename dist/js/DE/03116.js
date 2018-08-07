@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03116"]={"code":"03116","region":"Brandenburg","city":"Drebkau","latitude":51.65412,"longitude":14.22316}}(window,'GeoPostal','DE');

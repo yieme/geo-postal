@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 3T0"]={"code":"G0L 3T0","region":"Quebec","city":"Saint-Mathieu-de-Rioux","latitude":48.18317,"longitude":-68.98693}}(window,'GeoPostal','CA');

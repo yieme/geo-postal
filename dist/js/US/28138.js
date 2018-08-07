@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28138"]={"code":"28138","region":"NC","city":"Rockwell","latitude":35.5494,"longitude":-80.4226}}(window,'GeoPostal','US');

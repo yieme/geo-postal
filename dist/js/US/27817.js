@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27817"]={"code":"27817","region":"NC","city":"Chocowinity","latitude":35.4814,"longitude":-77.0868}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 6DU"]={"code":"EX39 6DU","region":"England","city":"Blagberry","latitude":51,"longitude":-4.51667}}(window,'GeoPostal','GB');

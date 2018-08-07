@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CX"]={id:'CX',country:'Christmas Island', postal:{'':{code:'',region:'Christmas Island',city:'Flying Fish Cove',latitude:-10.42172,longitude:105.67912}}};

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07560"]={"code":"07560","region":"Etela-Savo","city":"Pukkila","latitude":61.36667,"longitude":27.03333}}(window,'GeoPostal','FI');

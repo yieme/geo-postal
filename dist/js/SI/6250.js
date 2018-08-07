@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6250"]={"code":"6250","region":"Ilirska Bistrica","city":"Ilirska Bistrica","latitude":45.56972,"longitude":14.24083}}(window,'GeoPostal','SI');

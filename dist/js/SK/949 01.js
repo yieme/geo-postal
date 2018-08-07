@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["949 01"]={"code":"949 01","region":"Nitriansky kraj","city":"Nitra","latitude":48.30763,"longitude":18.08453}}(window,'GeoPostal','SK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77445"]={"code":"77445","region":"Texas","city":"Hempstead","latitude":30.07212,"longitude":-96.08124}}(window,'GeoPostal','US');

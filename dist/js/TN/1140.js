@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1140"]={"code":"1140","region":"Zaghouan","city":"El Fahs","latitude":36.37419,"longitude":9.90651}}(window,'GeoPostal','TN');

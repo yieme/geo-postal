@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6236"]={"code":"6236","region":"Tirol","city":"Alpbach","latitude":47.39878,"longitude":11.94373}}(window,'GeoPostal','AT');

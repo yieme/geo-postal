@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19065"]={"code":"19065","region":"Mecklenburg-Vorpommern","city":"Petersberg","latitude":53.60302,"longitude":11.55681}}(window,'GeoPostal','DE');

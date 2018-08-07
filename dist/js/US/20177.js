@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20177"]={"code":"20177","region":"Virginia","city":"Leesburg","latitude":39.10741,"longitude":-77.56671}}(window,'GeoPostal','US');

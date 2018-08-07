@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 49"]={"code":"468 49","region":"Liberecky kraj","city":"Korenov","latitude":50.75926,"longitude":15.36532}}(window,'GeoPostal','CZ');

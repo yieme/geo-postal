@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5564"]={"code":"5564","region":"Namur","city":"Houyet","latitude":50.18619,"longitude":5.00762}}(window,'GeoPostal','BE');

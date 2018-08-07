@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY8 4NW"]={"code":"FY8 4NW","region":"England","city":"Brown Moss Side","latitude":53.75,"longitude":-2.95}}(window,'GeoPostal','GB');

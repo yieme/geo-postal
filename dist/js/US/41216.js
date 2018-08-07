@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41216"]={"code":"41216","region":"Kentucky","city":"East Point","latitude":37.74611,"longitude":-82.79083}}(window,'GeoPostal','US');

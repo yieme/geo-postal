@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65020"]={"code":"65020","region":"Abruzzo","city":"Rosciano","latitude":42.32394,"longitude":14.04621}}(window,'GeoPostal','IT');

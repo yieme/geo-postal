@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8475"]={"code":"8475","region":"Zurich","city":"Kleinandelfingen","latitude":47.60058,"longitude":8.68362}}(window,'GeoPostal','CH');

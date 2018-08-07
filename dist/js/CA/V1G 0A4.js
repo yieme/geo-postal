@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1G 0A4"]={"code":"V1G 0A4","region":"British Columbia","city":"Bessborough","latitude":55.8166,"longitude":-120.50288}}(window,'GeoPostal','CA');

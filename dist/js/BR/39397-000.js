@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39397-000"]={"code":"39397-000","region":"Minas Gerais","city":"Bocaiuva","latitude":-17.10778,"longitude":-43.815}}(window,'GeoPostal','BR');

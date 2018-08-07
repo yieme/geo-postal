@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58470"]={"code":"58470","region":"Bourgogne-Franche-Comte","city":"Magny-Cours","latitude":46.88333,"longitude":3.15}}(window,'GeoPostal','FR');

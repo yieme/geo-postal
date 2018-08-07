@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28762"]={"code":"28762","region":"NC","city":"Old Fort","latitude":35.6169,"longitude":-82.1686}}(window,'GeoPostal','US');

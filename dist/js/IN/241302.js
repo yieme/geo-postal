@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241302"]={"code":"241302","region":"Uttar Pradesh","city":"Madhoganj","latitude":27.11667,"longitude":80.15}}(window,'GeoPostal','IN');

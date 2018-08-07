@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640 08"]={"code":"640 08","region":"Anatoliki Makedonia kai Thraki","city":"Moustheni","latitude":40.86667,"longitude":24.11667}}(window,'GeoPostal','GR');

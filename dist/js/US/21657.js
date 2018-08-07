@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21657"]={"code":"21657","region":"Maryland","city":"Queen Anne","latitude":38.91917,"longitude":-75.95278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357919"]={"code":"357919","region":"Stavropol'skiy kray","city":"Zelenokumsk","latitude":44.40694,"longitude":43.88056}}(window,'GeoPostal','RU');

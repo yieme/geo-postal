@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26714"]={"code":"26714","region":"WV","city":"Delray","latitude":39.1945,"longitude":-78.6042}}(window,'GeoPostal','US');

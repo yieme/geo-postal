@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23315"]={"code":"23315","region":"VA","city":"Carrsville","latitude":36.7454,"longitude":-76.8365}}(window,'GeoPostal','US');

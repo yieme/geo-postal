@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29824"]={"code":"29824","region":"SC","city":"Edgefield","latitude":33.8056,"longitude":-81.966}}(window,'GeoPostal','US');

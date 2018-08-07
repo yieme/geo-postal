@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87727"]={"code":"87727","region":"Bayern","city":"Babenhausen","latitude":48.14497,"longitude":10.25325}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57268"]={"code":"57268","region":"SD","city":"Toronto","latitude":44.5786,"longitude":-96.7077}}(window,'GeoPostal','US');

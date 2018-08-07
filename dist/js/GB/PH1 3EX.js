@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 3EX"]={"code":"PH1 3EX","region":"Scotland","city":"Luncarty","latitude":56.45308,"longitude":-3.47007}}(window,'GeoPostal','GB');

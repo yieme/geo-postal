@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9Y 1E2"]={"code":"J9Y 1E2","region":"Quebec","city":"McWatters","latitude":48.21267,"longitude":-78.91211}}(window,'GeoPostal','CA');

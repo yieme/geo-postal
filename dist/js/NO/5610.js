@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5610"]={"code":"5610","region":"Hordaland","city":"Oystese","latitude":60.38825,"longitude":6.19251}}(window,'GeoPostal','NO');

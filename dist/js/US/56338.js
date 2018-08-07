@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56338"]={"code":"56338","region":"Minnesota","city":"Hillman","latitude":46.03411,"longitude":-93.860726}}(window,'GeoPostal','US');

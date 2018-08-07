@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06131"]={"code":"06131","region":"CT","city":"Newington","latitude":41.7918,"longitude":-72.7188}}(window,'GeoPostal','US');

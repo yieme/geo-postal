@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83424"]={"code":"83424","region":"Idaho","city":"Tetonia","latitude":43.796607,"longitude":-111.18}}(window,'GeoPostal','US');

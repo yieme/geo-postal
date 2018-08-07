@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30814"]={"code":"30814","region":"Georgia","city":"Harlem","latitude":33.41582,"longitude":-82.312365}}(window,'GeoPostal','US');

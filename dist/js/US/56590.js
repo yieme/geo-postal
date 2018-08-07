@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56590"]={"code":"56590","region":"MN","city":"Wendell","latitude":46.0562,"longitude":-96.1144}}(window,'GeoPostal','US');

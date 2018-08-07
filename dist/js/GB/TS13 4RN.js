@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 4RN"]={"code":"TS13 4RN","region":"England","city":"Loftus","latitude":54.55543,"longitude":-0.89459}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42459"]={"code":"42459","region":"Kentucky","city":"Sturgis","latitude":37.54671,"longitude":-87.98391}}(window,'GeoPostal','US');

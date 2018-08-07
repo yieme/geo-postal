@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8253"]={"code":"8253","region":"Thurgau","city":"Diessenhofen","latitude":47.68908,"longitude":8.74958}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56501"]={"code":"56501","region":"Sagarmatha","city":"Siraha","latitude":26.65411,"longitude":86.2087}}(window,'GeoPostal','NP');

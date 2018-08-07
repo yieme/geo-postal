@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84750"]={"code":"84750","region":"Utah","city":"Marysvale","latitude":38.432905,"longitude":-112.220945}}(window,'GeoPostal','US');

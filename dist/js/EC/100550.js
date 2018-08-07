@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100550"]={"code":"100550","region":"Imbabura","city":"Pimampiro","latitude":0.4,"longitude":-77.96667}}(window,'GeoPostal','EC');

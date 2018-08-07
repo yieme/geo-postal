@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2166"]={"code":"2166","region":"New South Wales","city":"Rydalmere","latitude":-33.8,"longitude":151.05}}(window,'GeoPostal','AU');

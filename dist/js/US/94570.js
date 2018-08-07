@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94570"]={"code":"94570","region":"CA","city":"Moraga","latitude":37.7772,"longitude":-121.9554}}(window,'GeoPostal','US');

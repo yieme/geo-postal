@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36435"]={"code":"36435","region":"Alabama","city":"Coy","latitude":31.889116,"longitude":-87.329985}}(window,'GeoPostal','US');

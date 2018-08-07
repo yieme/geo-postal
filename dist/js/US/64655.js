@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64655"]={"code":"64655","region":"MO","city":"Lucerne","latitude":40.4382,"longitude":-93.2867}}(window,'GeoPostal','US');

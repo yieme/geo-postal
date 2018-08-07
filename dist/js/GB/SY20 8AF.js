@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 8AF"]={"code":"SY20 8AF","region":"Wales","city":"Machynlleth","latitude":52.59097,"longitude":-3.85051}}(window,'GeoPostal','GB');

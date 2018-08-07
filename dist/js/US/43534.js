@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43534"]={"code":"43534","region":"OH","city":"Mc Clure","latitude":41.3773,"longitude":-83.9425}}(window,'GeoPostal','US');

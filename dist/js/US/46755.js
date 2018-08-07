@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46755"]={"code":"46755","region":"Indiana","city":"Kendallville","latitude":41.445222,"longitude":-85.261105}}(window,'GeoPostal','US');

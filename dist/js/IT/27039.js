@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27039"]={"code":"27039","region":"Lombardia","city":"Sannazzaro de' Burgondi","latitude":45.10226,"longitude":8.90635}}(window,'GeoPostal','IT');

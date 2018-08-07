@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["460000"]={"code":"460000","region":"Nghe An","city":"Vinh","latitude":18.66667,"longitude":105.66667}}(window,'GeoPostal','VN');

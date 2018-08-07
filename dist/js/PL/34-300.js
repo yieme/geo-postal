@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-300"]={"code":"34-300","region":"Slaskie","city":"Zywiec","latitude":49.68529,"longitude":19.19243}}(window,'GeoPostal','PL');

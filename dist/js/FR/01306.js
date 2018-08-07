@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01306"]={"code":"01306","region":"Auvergne-Rhone-Alpes","city":"Belley","latitude":45.76667,"longitude":5.68333}}(window,'GeoPostal','FR');

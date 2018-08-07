@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2840"]={"code":"2840","region":"Antwerpen","city":"Rumst","latitude":51.08153,"longitude":4.42217}}(window,'GeoPostal','BE');

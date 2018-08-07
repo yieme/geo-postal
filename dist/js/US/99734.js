@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99734"]={"code":"99734","region":"Alaska","city":"Prudhoe Bay","latitude":70.25528,"longitude":-148.33722}}(window,'GeoPostal','US');

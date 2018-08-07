@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227331"]={"code":"227331","region":"Mehedinti","city":"Balvanesti","latitude":44.7975,"longitude":22.68028}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE62 5SR"]={"code":"NE62 5SR","region":"England","city":"Choppington","latitude":55.15004,"longitude":-1.60332}}(window,'GeoPostal','GB');

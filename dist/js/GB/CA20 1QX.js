@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA20 1QX"]={"code":"CA20 1QX","region":"England","city":"Seascale","latitude":54.39831,"longitude":-3.47961}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74454"]={"code":"74454","region":"OK","city":"Porter","latitude":35.8567,"longitude":-95.5082}}(window,'GeoPostal','US');

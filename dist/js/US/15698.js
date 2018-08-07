@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15698"]={"code":"15698","region":"Pennsylvania","city":"Yukon","latitude":40.214983,"longitude":-79.685998}}(window,'GeoPostal','US');

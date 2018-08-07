@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41736"]={"code":"41736","region":"KY","city":"Dice","latitude":37.3758,"longitude":-83.2419}}(window,'GeoPostal','US');

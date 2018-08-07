@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08344"]={"code":"08344","region":"Sachsen","city":"Marienberg","latitude":50.65051,"longitude":13.16122}}(window,'GeoPostal','DE');

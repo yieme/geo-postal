@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31555"]={"code":"31555","region":"Georgia","city":"Odum","latitude":31.664801,"longitude":-82.013248}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-700"]={"code":"62-700","region":"Wielkopolskie","city":"Turek","latitude":52.01548,"longitude":18.50055}}(window,'GeoPostal','PL');

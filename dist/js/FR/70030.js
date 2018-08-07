@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70030"]={"code":"70030","region":"Bourgogne-Franche-Comte","city":"Vesoul","latitude":47.63333,"longitude":6.16667}}(window,'GeoPostal','FR');

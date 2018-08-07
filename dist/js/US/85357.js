@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85357"]={"code":"85357","region":"Arizona","city":"Wenden","latitude":33.8225,"longitude":-113.540833}}(window,'GeoPostal','US');

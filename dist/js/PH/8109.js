@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8109"]={"code":"8109","region":"Davao del Sur","city":"Compostela","latitude":7.67306,"longitude":126.08889}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79045"]={"code":"79045","region":"Texas","city":"Hereford","latitude":34.81506,"longitude":-102.3977}}(window,'GeoPostal','US');

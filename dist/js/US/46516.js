@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46516"]={"code":"46516","region":"Indiana","city":"Elkhart","latitude":41.674861,"longitude":-85.957535}}(window,'GeoPostal','US');

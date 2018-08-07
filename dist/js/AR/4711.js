@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4711"]={"code":"4711","region":"Catamarca","city":"San Antonio","latitude":-28.00927,"longitude":-65.71218}}(window,'GeoPostal','AR');

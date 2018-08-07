@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47008"]={"code":"47008","region":"Castilla y Leon","city":"Valladolid","latitude":41.65518,"longitude":-4.72372}}(window,'GeoPostal','ES');

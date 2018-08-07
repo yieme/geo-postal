@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-123"]={"code":"16-123","region":"Podlaskie","city":"Kuznica","latitude":53.51094,"longitude":23.64953}}(window,'GeoPostal','PL');

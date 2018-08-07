@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["672020"]={"code":"672020","region":"Zabaykal'skiy kray","city":"Chita","latitude":52.03333,"longitude":113.55}}(window,'GeoPostal','RU');

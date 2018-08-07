@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12188"]={"code":"12188","region":"New York","city":"Waterford","latitude":42.81954,"longitude":-73.70262}}(window,'GeoPostal','US');

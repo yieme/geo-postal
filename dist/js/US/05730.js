@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05730"]={"code":"05730","region":"VT","city":"Belmont","latitude":43.4284,"longitude":-72.8257}}(window,'GeoPostal','US');

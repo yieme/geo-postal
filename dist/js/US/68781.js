@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68781"]={"code":"68781","region":"NE","city":"Tilden","latitude":42.0496,"longitude":-97.8223}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06300"]={"code":"06300","region":"Extremadura","city":"Zafra","latitude":38.41667,"longitude":-6.41667}}(window,'GeoPostal','ES');

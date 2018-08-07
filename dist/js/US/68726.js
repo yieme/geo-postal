@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68726"]={"code":"68726","region":"Nebraska","city":"Clearwater","latitude":42.089172,"longitude":-98.18187}}(window,'GeoPostal','US');

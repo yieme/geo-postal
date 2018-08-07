@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15221"]={"code":"15221","region":"Lima","city":"Huaral","latitude":-11.495,"longitude":-77.20778}}(window,'GeoPostal','PE');

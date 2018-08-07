@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73005"]={"code":"73005","region":"Oklahoma","city":"Anadarko","latitude":35.070119,"longitude":-98.247139}}(window,'GeoPostal','US');

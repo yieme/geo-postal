@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08029"]={"code":"08029","region":"Tindouf","city":"Tindouf","latitude":27.67111,"longitude":-8.14744}}(window,'GeoPostal','DZ');

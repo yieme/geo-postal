@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01026"]={"code":"01026","region":"MA","city":"Cummington","latitude":42.4633,"longitude":-72.9202}}(window,'GeoPostal','US');

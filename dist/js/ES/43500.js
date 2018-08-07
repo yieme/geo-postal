@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43500"]={"code":"43500","region":"Catalunya","city":"Tortosa","latitude":40.81249,"longitude":0.5216}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61700"]={"code":"61700","region":"Normandie","city":"Domfront","latitude":48.59208,"longitude":-0.64588}}(window,'GeoPostal','FR');

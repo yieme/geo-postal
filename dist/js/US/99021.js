@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99021"]={"code":"99021","region":"Washington","city":"Mead","latitude":47.79451,"longitude":-117.297503}}(window,'GeoPostal','US');

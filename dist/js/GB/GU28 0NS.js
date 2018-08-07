@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 0NS"]={"code":"GU28 0NS","region":"England","city":"Graffham","latitude":50.94999,"longitude":-0.68107}}(window,'GeoPostal','GB');

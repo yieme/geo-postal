@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2065-999"]={"code":"2065-999","region":"Lisboa","city":"Alcoentre","latitude":39.20857,"longitude":-8.95953}}(window,'GeoPostal','PT');

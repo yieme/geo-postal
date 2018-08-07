@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224147"]={"code":"224147","region":"Uttar Pradesh","city":"Atraulia","latitude":26.33333,"longitude":82.95}}(window,'GeoPostal','IN');

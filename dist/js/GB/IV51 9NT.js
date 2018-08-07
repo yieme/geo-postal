@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9NT"]={"code":"IV51 9NT","region":"Scotland","city":"Bernisdale","latitude":57.47329,"longitude":-6.33877}}(window,'GeoPostal','GB');

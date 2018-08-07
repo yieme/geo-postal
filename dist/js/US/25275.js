@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25275"]={"code":"25275","region":"WV","city":"Sandyville","latitude":38.9093,"longitude":-81.6543}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2A 0A2"]={"code":"E2A 0A2","region":"New Brunswick","city":"Bathurst","latitude":47.61814,"longitude":-65.65112}}(window,'GeoPostal','CA');

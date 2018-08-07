@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 7QG"]={"code":"IP23 7QG","region":"England","city":"Bedingfield","latitude":52.27372,"longitude":1.19425}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59835"]={"code":"59835","region":"Montana","city":"Grantsdale","latitude":46.203042,"longitude":-114.141336}}(window,'GeoPostal','US');

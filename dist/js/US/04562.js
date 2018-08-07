@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04562"]={"code":"04562","region":"Maine","city":"Phippsburg","latitude":43.82064,"longitude":-69.81477}}(window,'GeoPostal','US');

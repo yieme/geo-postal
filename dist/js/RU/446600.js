@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446600"]={"code":"446600","region":"Samarskaya oblast'","city":"Neftegorsk","latitude":52.802,"longitude":51.166}}(window,'GeoPostal','RU');

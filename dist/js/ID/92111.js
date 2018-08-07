@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92111"]={"code":"92111","region":"Sulawesi Selatan","city":"Galesong","latitude":-5.3166,"longitude":119.3661}}(window,'GeoPostal','ID');

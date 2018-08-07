@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94304"]={"code":"94304","region":"California","city":"Palo Alto","latitude":37.409911,"longitude":-122.1604}}(window,'GeoPostal','US');

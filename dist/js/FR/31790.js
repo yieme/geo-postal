@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31790"]={"code":"31790","region":"Occitanie","city":"Saint-Jory","latitude":43.74146,"longitude":1.37089}}(window,'GeoPostal','FR');

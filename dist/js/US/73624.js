@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73624"]={"code":"73624","region":"Oklahoma","city":"Burns Flat","latitude":35.34894,"longitude":-99.17036}}(window,'GeoPostal','US');

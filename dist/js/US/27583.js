@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27583"]={"code":"27583","region":"North Carolina","city":"Timberlake","latitude":36.235076,"longitude":-78.965835}}(window,'GeoPostal','US');

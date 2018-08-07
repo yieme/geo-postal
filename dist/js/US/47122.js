@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47122"]={"code":"47122","region":"Indiana","city":"Georgetown","latitude":38.307382,"longitude":-85.952232}}(window,'GeoPostal','US');

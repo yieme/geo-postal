@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9513"]={"code":"9513","region":"Finnmark","city":"Alta","latitude":69.96887,"longitude":23.27165}}(window,'GeoPostal','NO');

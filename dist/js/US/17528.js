@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17528"]={"code":"17528","region":"PA","city":"Goodville","latitude":40.1257,"longitude":-76.0033}}(window,'GeoPostal','US');

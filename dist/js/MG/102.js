@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["102"]={"code":"102","region":"Antananarivo","city":"Antananarivo","latitude":-18.91368,"longitude":47.53613}}(window,'GeoPostal','MG');

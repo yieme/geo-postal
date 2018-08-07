@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89439"]={"code":"89439","region":"NV","city":"Verdi","latitude":39.5165,"longitude":-119.9833}}(window,'GeoPostal','US');

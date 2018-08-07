@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682973"]={"code":"682973","region":"Khabarovskiy kray","city":"Bikin","latitude":46.81611,"longitude":134.26}}(window,'GeoPostal','RU');

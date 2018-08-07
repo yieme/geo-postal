@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44570"]={"code":"44570","region":"Pays-de-la-Loire","city":"Trignac","latitude":47.31809,"longitude":-2.18895}}(window,'GeoPostal','FR');

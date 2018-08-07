@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56173"]={"code":"56173","region":"Minnesota","city":"Steen","latitude":43.543824,"longitude":-96.232325}}(window,'GeoPostal','US');

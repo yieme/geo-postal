@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38658"]={"code":"38658","region":"Mississippi","city":"Pope","latitude":34.216354,"longitude":-89.946497}}(window,'GeoPostal','US');

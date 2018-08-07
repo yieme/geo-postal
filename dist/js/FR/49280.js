@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49280"]={"code":"49280","region":"Pays-de-la-Loire","city":"La Seguiniere","latitude":47.06357,"longitude":-0.93857}}(window,'GeoPostal','FR');

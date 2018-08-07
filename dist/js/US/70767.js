@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70767"]={"code":"70767","region":"Louisiana","city":"Port Allen","latitude":30.477952,"longitude":-91.276132}}(window,'GeoPostal','US');

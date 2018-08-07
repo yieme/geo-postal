@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150609"]={"code":"150609","region":"Heilongjiang","city":"Laojieji","latitude":44.97012,"longitude":127.9653}}(window,'GeoPostal','CN');

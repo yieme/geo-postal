@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3309"]={"code":"3309","region":"Misiones","city":"Cerro Cora","latitude":-27.5131,"longitude":-55.60896}}(window,'GeoPostal','AR');

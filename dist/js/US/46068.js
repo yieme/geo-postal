@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46068"]={"code":"46068","region":"IN","city":"Sharpsville","latitude":40.3732,"longitude":-86.1086}}(window,'GeoPostal','US');

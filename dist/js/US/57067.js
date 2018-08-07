@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57067"]={"code":"57067","region":"South Dakota","city":"Utica","latitude":42.960163,"longitude":-97.508987}}(window,'GeoPostal','US');

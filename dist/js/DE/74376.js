@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74376"]={"code":"74376","region":"Baden-Wurttemberg","city":"Gemmrigheim","latitude":49.02833,"longitude":9.15556}}(window,'GeoPostal','DE');

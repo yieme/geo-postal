@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73655"]={"code":"73655","region":"OK","city":"Lone Wolf","latitude":34.9806,"longitude":-99.2502}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74100"]={"code":"74100","region":"Auvergne-Rhone-Alpes","city":"Vetraz-Monthoux","latitude":46.1743,"longitude":6.25852}}(window,'GeoPostal','FR');

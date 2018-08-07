@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627110"]={"code":"627110","region":"Tyumenskaya oblast'","city":"Novaya Zaimka","latitude":56.48572,"longitude":66.92412}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2016"]={"code":"2016","region":"Pampanga","city":"Apalit","latitude":14.95333,"longitude":120.77}}(window,'GeoPostal','PH');

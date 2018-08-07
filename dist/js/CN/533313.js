@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533313"]={"code":"533313","region":"Guangxi","city":"Leli","latitude":24.35406,"longitude":106.2437}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24500"]={"code":"24500","region":"Nouvelle-Aquitaine","city":"Eymet","latitude":44.66812,"longitude":0.39961}}(window,'GeoPostal','FR');

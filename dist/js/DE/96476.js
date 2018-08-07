@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96476"]={"code":"96476","region":"Bayern","city":"Rodach","latitude":50.3402,"longitude":10.77869}}(window,'GeoPostal','DE');

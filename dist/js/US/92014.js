@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92014"]={"code":"92014","region":"California","city":"Del Mar","latitude":32.96187,"longitude":-117.232665}}(window,'GeoPostal','US');

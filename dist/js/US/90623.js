@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90623"]={"code":"90623","region":"California","city":"La Palma","latitude":33.85056,"longitude":-118.04172}}(window,'GeoPostal','US');

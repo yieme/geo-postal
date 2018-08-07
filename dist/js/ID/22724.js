@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22724"]={"code":"22724","region":"Sumatera Utara","city":"Padangsidempuan","latitude":1.36667,"longitude":99.26667}}(window,'GeoPostal','ID');

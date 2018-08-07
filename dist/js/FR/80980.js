@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80980"]={"code":"80980","region":"Hauts-de-France","city":"Dompierre-Becquincourt","latitude":49.9081,"longitude":2.8058}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31120"]={"code":"31120","region":"Occitanie","city":"Pinsaguel","latitude":43.5104,"longitude":1.38831}}(window,'GeoPostal','FR');

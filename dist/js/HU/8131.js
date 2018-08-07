@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8131"]={"code":"8131","region":"Fejer","city":"Enying","latitude":46.93046,"longitude":18.24202}}(window,'GeoPostal','HU');

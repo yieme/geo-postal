@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 65"]={"code":"687 65","region":"Zlinsky kraj","city":"Strani","latitude":48.90216,"longitude":17.70671}}(window,'GeoPostal','CZ');

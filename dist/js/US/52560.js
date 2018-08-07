@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52560"]={"code":"52560","region":"IA","city":"Floris","latitude":40.8591,"longitude":-92.3247}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43525"]={"code":"43525","region":"OH","city":"Haskins","latitude":41.4667,"longitude":-83.7055}}(window,'GeoPostal','US');

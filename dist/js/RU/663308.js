@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663308"]={"code":"663308","region":"Krasnoyarskiy kray","city":"Noril'sk","latitude":69.3535,"longitude":88.2027}}(window,'GeoPostal','RU');

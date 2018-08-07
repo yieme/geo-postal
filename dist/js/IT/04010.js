@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04010"]={"code":"04010","region":"Lazio","city":"Roccagorga","latitude":41.52512,"longitude":13.1551}}(window,'GeoPostal','IT');

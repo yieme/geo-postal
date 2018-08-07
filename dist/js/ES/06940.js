@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06940"]={"code":"06940","region":"Extremadura","city":"Ahillones","latitude":38.26667,"longitude":-5.85}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39114"]={"code":"39114","region":"MS","city":"Mendenhall","latitude":31.9494,"longitude":-89.8095}}(window,'GeoPostal','US');

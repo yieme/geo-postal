@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7K 1C6"]={"code":"E7K 1C6","region":"New Brunswick","city":"Brookville","latitude":45.71686,"longitude":-64.79877}}(window,'GeoPostal','CA');

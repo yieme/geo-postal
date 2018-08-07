@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75929"]={"code":"75929","region":"Texas","city":"Broaddus","latitude":31.30639,"longitude":-94.26889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["036106"]={"code":"036106","region":"Shanxi","city":"Limin","latitude":39.30777,"longitude":112.12035}}(window,'GeoPostal','CN');

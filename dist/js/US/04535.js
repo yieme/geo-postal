@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04535"]={"code":"04535","region":"ME","city":"Alna","latitude":44.0878,"longitude":-69.6344}}(window,'GeoPostal','US');

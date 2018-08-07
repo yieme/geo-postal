@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30537"]={"code":"30537","region":"Georgia","city":"Dillard","latitude":34.98108,"longitude":-83.38158}}(window,'GeoPostal','US');

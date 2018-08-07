@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 0NH"]={"code":"LA8 0NH","region":"England","city":"Old Hutton","latitude":54.2894,"longitude":-2.67003}}(window,'GeoPostal','GB');

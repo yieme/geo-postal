@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447-801"]={"code":"447-801","region":"Gyeonggi-do","city":"Osan","latitude":37.15222,"longitude":127.07056}}(window,'GeoPostal','KR');

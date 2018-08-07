@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-208"]={"code":"68-208","region":"Lubuskie","city":"Leknica","latitude":51.54148,"longitude":14.73584}}(window,'GeoPostal','PL');

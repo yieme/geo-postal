@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-740"]={"code":"63-740","region":"Wielkopolskie","city":"Kobylin","latitude":51.71645,"longitude":17.22682}}(window,'GeoPostal','PL');

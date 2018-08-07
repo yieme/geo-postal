@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87932"]={"code":"87932","region":"Tamaulipas","city":"Jaumave","latitude":23.41667,"longitude":-99.38333}}(window,'GeoPostal','MX');

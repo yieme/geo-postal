@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99750"]={"code":"99750","region":"Alaska","city":"Kivalina","latitude":67.72722,"longitude":-164.53917}}(window,'GeoPostal','US');

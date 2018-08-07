@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 53"]={"code":"503 53","region":"Kralovehradecky kraj","city":"Smidary","latitude":50.29146,"longitude":15.47725}}(window,'GeoPostal','CZ');

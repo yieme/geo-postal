@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43110"]={"code":"43110","region":"Auvergne-Rhone-Alpes","city":"Aurec-sur-Loire","latitude":45.36907,"longitude":4.2049}}(window,'GeoPostal','FR');

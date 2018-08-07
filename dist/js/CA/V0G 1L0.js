@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1L0"]={"code":"V0G 1L0","region":"British Columbia","city":"Fruitvale","latitude":49.11654,"longitude":-117.55222}}(window,'GeoPostal','CA');

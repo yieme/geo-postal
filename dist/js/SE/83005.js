@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83005"]={"code":"83005","region":"Jamtlands lan","city":"Jarpen","latitude":63.35,"longitude":13.48333}}(window,'GeoPostal','SE');

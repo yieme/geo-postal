@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 8EP"]={"code":"PE22 8EP","region":"England","city":"Stickford","latitude":53.12041,"longitude":0.01837}}(window,'GeoPostal','GB');

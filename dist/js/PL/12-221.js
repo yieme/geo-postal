@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-221"]={"code":"12-221","region":"Warminsko-mazurskie","city":"Ruciane-Nida","latitude":53.64161,"longitude":21.53964}}(window,'GeoPostal','PL');

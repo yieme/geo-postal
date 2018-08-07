@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18942"]={"code":"18942","region":"PA","city":"Ottsville","latitude":40.4592,"longitude":-75.157}}(window,'GeoPostal','US');

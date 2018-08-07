@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44618"]={"code":"44618","region":"OH","city":"Dalton","latitude":40.7793,"longitude":-81.7008}}(window,'GeoPostal','US');

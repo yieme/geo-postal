@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K2S 1E7"]={"code":"K2S 1E7","region":"Ontario","city":"Stittsville","latitude":45.276556,"longitude":-75.903783}}(window,'GeoPostal','CA');

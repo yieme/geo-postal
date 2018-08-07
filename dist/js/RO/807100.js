@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807100"]={"code":"807100","region":"Galati","city":"Cuca","latitude":44.95,"longitude":24.51667}}(window,'GeoPostal','RO');

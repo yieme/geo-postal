@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19370"]={"code":"19370","region":"Nouvelle-Aquitaine","city":"Chamberet","latitude":45.58314,"longitude":1.72124}}(window,'GeoPostal','FR');

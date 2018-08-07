@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52635"]={"code":"52635","region":"Iowa","city":"Lockridge","latitude":40.995837,"longitude":-91.750913}}(window,'GeoPostal','US');

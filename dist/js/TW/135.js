@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135"]={"code":"135","region":"Hualien","city":"Hualien","latitude":23.97694,"longitude":121.60444}}(window,'GeoPostal','TW');

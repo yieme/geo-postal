@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29410"]={"code":"29410","region":"Andalucia","city":"Yunquera","latitude":36.73252,"longitude":-4.92122}}(window,'GeoPostal','ES');

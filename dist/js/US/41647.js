@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41647"]={"code":"41647","region":"Kentucky","city":"McDowell","latitude":37.427883,"longitude":-82.743745}}(window,'GeoPostal','US');

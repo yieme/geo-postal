@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059 55"]={"code":"059 55","region":"Presovsky kraj","city":"Zdiar","latitude":49.271,"longitude":20.26239}}(window,'GeoPostal','SK');

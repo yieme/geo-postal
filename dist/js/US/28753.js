@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28753"]={"code":"28753","region":"North Carolina","city":"Marshall","latitude":35.836816,"longitude":-82.709408}}(window,'GeoPostal','US');

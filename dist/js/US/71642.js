@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71642"]={"code":"71642","region":"AR","city":"Fountain Hill","latitude":33.3631,"longitude":-91.9088}}(window,'GeoPostal','US');

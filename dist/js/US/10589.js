@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10589"]={"code":"10589","region":"New York","city":"Somers","latitude":41.336071,"longitude":-73.693184}}(window,'GeoPostal','US');

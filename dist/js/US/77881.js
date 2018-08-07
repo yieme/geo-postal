@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77881"]={"code":"77881","region":"TX","city":"Wellborn","latitude":30.5334,"longitude":-96.3032}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 3LR"]={"code":"LL65 3LR","region":"Wales","city":"Cae'r-geiliog","latitude":53.26667,"longitude":-4.51667}}(window,'GeoPostal','GB');

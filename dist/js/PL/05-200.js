@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-200"]={"code":"05-200","region":"Mazowieckie","city":"Wolomin","latitude":52.34006,"longitude":21.24207}}(window,'GeoPostal','PL');

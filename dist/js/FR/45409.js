@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45409"]={"code":"45409","region":"Centre-Val de Loire","city":"Fleury-les-Aubrais","latitude":47.93328,"longitude":1.91811}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98831"]={"code":"98831","region":"Washington","city":"Manson","latitude":47.88486,"longitude":-120.15841}}(window,'GeoPostal','US');

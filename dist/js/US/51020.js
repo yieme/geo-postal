@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51020"]={"code":"51020","region":"Iowa","city":"Galva","latitude":42.506072,"longitude":-95.416846}}(window,'GeoPostal','US');

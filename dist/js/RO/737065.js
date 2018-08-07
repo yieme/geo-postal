@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737065"]={"code":"737065","region":"Vaslui","city":"Berezeni","latitude":46.37611,"longitude":28.14778}}(window,'GeoPostal','RO');

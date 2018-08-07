@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673060"]={"code":"673060","region":"Zabaykal'skiy kray","city":"Krasnyy Chikoy","latitude":50.3643,"longitude":108.7512}}(window,'GeoPostal','RU');

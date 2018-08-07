@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2G 2W5"]={"code":"B2G 2W5","region":"Nova Scotia","city":"Antigonish","latitude":45.623763,"longitude":-61.98608}}(window,'GeoPostal','CA');

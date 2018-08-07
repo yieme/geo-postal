@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15001"]={"code":"15001","region":"Pennsylvania","city":"Aliquippa","latitude":40.605739,"longitude":-80.28417}}(window,'GeoPostal','US');

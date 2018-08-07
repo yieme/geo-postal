@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79430-000"]={"code":"79430-000","region":"Mato Grosso do Sul","city":"Camapua","latitude":-19.53139,"longitude":-54.04389}}(window,'GeoPostal','BR');

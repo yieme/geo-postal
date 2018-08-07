@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2340000"]={"code":"2340000","region":"Valparaiso","city":"Valparaiso","latitude":-33.03932,"longitude":-71.62725}}(window,'GeoPostal','CL');

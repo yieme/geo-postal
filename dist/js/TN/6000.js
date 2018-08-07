@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000"]={"code":"6000","region":"Gabes","city":"Gabes","latitude":33.88146,"longitude":10.0982}}(window,'GeoPostal','TN');

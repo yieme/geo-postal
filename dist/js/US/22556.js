@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22556"]={"code":"22556","region":"VA","city":"Stafford","latitude":38.4718,"longitude":-77.5102}}(window,'GeoPostal','US');

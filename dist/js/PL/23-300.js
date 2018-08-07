@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-300"]={"code":"23-300","region":"Lubelskie","city":"Janow Lubelski","latitude":50.70695,"longitude":22.41039}}(window,'GeoPostal','PL');

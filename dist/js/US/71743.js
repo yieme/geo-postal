@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71743"]={"code":"71743","region":"Arkansas","city":"Gurdon","latitude":33.92094,"longitude":-93.15406}}(window,'GeoPostal','US');

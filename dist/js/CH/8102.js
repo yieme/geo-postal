@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8102"]={"code":"8102","region":"Zurich","city":"Oberengstringen / Zentrum","latitude":47.40711,"longitude":8.46276}}(window,'GeoPostal','CH');

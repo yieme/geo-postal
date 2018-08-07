@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72053"]={"code":"72053","region":"AR","city":"College Station","latitude":34.7093,"longitude":-92.2283}}(window,'GeoPostal','US');

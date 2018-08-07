@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74935"]={"code":"74935","region":"OK","city":"Fanshawe","latitude":34.9537,"longitude":-94.8998}}(window,'GeoPostal','US');

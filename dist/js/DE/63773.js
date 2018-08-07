@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63773"]={"code":"63773","region":"Baden-Wurttemberg","city":"Goldbach","latitude":47.78333,"longitude":9.15}}(window,'GeoPostal','DE');

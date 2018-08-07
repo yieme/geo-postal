@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78597"]={"code":"78597","region":"Texas","city":"South Padre Island","latitude":26.10942,"longitude":-97.1676}}(window,'GeoPostal','US');

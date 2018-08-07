@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1933"]={"code":"1933","region":"Gauteng","city":"Krugersdorp","latitude":-26.08577,"longitude":27.77515}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO40 9TL"]={"code":"PO40 9TL","region":"England","city":"Freshwater","latitude":50.692,"longitude":-1.50787}}(window,'GeoPostal','GB');

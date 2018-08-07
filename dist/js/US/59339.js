@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59339"]={"code":"59339","region":"MT","city":"Lindsay","latitude":47.2024,"longitude":-105.2089}}(window,'GeoPostal','US');

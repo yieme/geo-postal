@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43319"]={"code":"43319","region":"Ohio","city":"East Liberty","latitude":40.307625,"longitude":-83.581987}}(window,'GeoPostal','US');

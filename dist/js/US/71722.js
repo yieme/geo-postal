@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71722"]={"code":"71722","region":"AR","city":"Bluff City","latitude":33.7038,"longitude":-93.1588}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98368"]={"code":"98368","region":"Washington","city":"Port Townsend","latitude":48.116667,"longitude":-122.783333}}(window,'GeoPostal','US');

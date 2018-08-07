@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1B 3P9"]={"code":"A1B 3P9","region":"Newfoundland and Labrador","city":"St. John's","latitude":47.551673,"longitude":-52.775184}}(window,'GeoPostal','CA');

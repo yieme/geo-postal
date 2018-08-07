@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05049"]={"code":"05049","region":"VT","city":"Hartland Four Corners","latitude":43.5465,"longitude":-72.4245}}(window,'GeoPostal','US');

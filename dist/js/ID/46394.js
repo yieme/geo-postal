@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46394"]={"code":"46394","region":"Jawa Barat","city":"Mandala","latitude":-7.7402,"longitude":108.4732}}(window,'GeoPostal','ID');

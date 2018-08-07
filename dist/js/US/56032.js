@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56032"]={"code":"56032","region":"MN","city":"Freeborn","latitude":43.7658,"longitude":-93.5641}}(window,'GeoPostal','US');

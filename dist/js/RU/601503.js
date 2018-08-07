@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601503"]={"code":"601503","region":"Krasnodarskiy kray","city":"Vladimirskaya","latitude":44.5455,"longitude":40.7933}}(window,'GeoPostal','RU');

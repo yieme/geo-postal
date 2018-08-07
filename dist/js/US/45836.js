@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45836"]={"code":"45836","region":"OH","city":"Dunkirk","latitude":40.7824,"longitude":-83.6339}}(window,'GeoPostal','US');

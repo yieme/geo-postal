@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 3YP"]={"code":"PR3 3YP","region":"England","city":"Ribchester","latitude":53.81361,"longitude":-2.53244}}(window,'GeoPostal','GB');

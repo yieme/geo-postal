@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416-0952"]={"code":"416-0952","region":"Shizuoka","city":"Fuji","latitude":35.167,"longitude":138.683}}(window,'GeoPostal','JP');

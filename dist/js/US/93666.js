@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93666"]={"code":"93666","region":"CA","city":"Sultana","latitude":36.5455,"longitude":-119.3401}}(window,'GeoPostal','US');

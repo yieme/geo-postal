@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78592"]={"code":"78592","region":"TX","city":"Santa Maria","latitude":26.0787,"longitude":-97.8494}}(window,'GeoPostal','US');

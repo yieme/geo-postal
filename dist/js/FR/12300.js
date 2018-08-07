@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12300"]={"code":"12300","region":"Occitanie","city":"Firmi","latitude":44.54106,"longitude":2.30764}}(window,'GeoPostal','FR');

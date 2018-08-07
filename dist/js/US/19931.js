@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19931"]={"code":"19931","region":"Delaware","city":"Bethel","latitude":38.567464,"longitude":-75.62478}}(window,'GeoPostal','US');

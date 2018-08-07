@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["888-0006"]={"code":"888-0006","region":"Miyazaki","city":"Kushima","latitude":31.46806,"longitude":131.24667}}(window,'GeoPostal','JP');

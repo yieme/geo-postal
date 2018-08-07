@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35550"]={"code":"35550","region":"Alabama","city":"Cordova","latitude":33.75983,"longitude":-87.18333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20210"]={"code":"20210","region":"Piura","city":"Las Lomas","latitude":-4.65333,"longitude":-80.24667}}(window,'GeoPostal','PE');

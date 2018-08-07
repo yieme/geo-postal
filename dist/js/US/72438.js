@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72438"]={"code":"72438","region":"AR","city":"Leachville","latitude":35.9332,"longitude":-90.1955}}(window,'GeoPostal','US');

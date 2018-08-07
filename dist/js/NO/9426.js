@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9426"]={"code":"9426","region":"Troms","city":"Bjarkoy","latitude":68.99994,"longitude":16.56392}}(window,'GeoPostal','NO');

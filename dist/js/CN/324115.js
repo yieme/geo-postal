@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["324115"]={"code":"324115","region":"Zhejiang","city":"Fenglin","latitude":28.52285,"longitude":118.49918}}(window,'GeoPostal','CN');

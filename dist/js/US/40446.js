@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40446"]={"code":"40446","region":"Kentucky","city":"Lancaster","latitude":37.618545,"longitude":-84.579493}}(window,'GeoPostal','US');

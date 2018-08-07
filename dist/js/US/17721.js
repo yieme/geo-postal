@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17721"]={"code":"17721","region":"PA","city":"Avis","latitude":41.186,"longitude":-77.3162}}(window,'GeoPostal','US');

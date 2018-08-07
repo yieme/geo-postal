@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47339"]={"code":"47339","region":"IN","city":"Economy","latitude":39.9781,"longitude":-85.088}}(window,'GeoPostal','US');

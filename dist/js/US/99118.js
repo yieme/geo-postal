@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99118"]={"code":"99118","region":"Washington","city":"Curlew","latitude":48.917755,"longitude":-118.627248}}(window,'GeoPostal','US');

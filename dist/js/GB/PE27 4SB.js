@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE27 4SB"]={"code":"PE27 4SB","region":"England","city":"Needingworth","latitude":52.33051,"longitude":-0.03116}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56122"]={"code":"56122","region":"MN","city":"Chandler","latitude":43.9163,"longitude":-95.9296}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50835"]={"code":"50835","region":"IA","city":"Benton","latitude":40.7082,"longitude":-94.3689}}(window,'GeoPostal','US');

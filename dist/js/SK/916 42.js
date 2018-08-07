@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["916 42"]={"code":"916 42","region":"Trenciansky kraj","city":"Myjava","latitude":48.75876,"longitude":17.56866}}(window,'GeoPostal','SK');

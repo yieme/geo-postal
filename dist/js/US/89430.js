@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89430"]={"code":"89430","region":"Nevada","city":"Smith","latitude":38.80047,"longitude":-119.32738}}(window,'GeoPostal','US');

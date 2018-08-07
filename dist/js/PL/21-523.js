@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-523"]={"code":"21-523","region":"Lubelskie","city":"Tuczna","latitude":51.88028,"longitude":23.4252}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447140"]={"code":"447140","region":"Satu Mare","city":"Gherta Mica","latitude":47.93333,"longitude":23.23333}}(window,'GeoPostal','RO');

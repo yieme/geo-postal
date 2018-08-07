@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19780-000"]={"code":"19780-000","region":"Sao Paulo","city":"Quata","latitude":-22.2475,"longitude":-50.69833}}(window,'GeoPostal','BR');

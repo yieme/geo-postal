@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34920"]={"code":"34920","region":"Occitanie","city":"Le Cres","latitude":43.64807,"longitude":3.93976}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94094"]={"code":"94094","region":"Luhanska oblast","city":"Stakhanov","latitude":48.56818,"longitude":38.64352}}(window,'GeoPostal','UA');

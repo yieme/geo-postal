@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65486"]={"code":"65486","region":"Missouri","city":"Iberia","latitude":38.08833,"longitude":-92.29361}}(window,'GeoPostal','US');

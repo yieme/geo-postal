@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8570"]={"code":"8570","region":"North-West","city":"Pampierstad","latitude":-27.78324,"longitude":24.68768}}(window,'GeoPostal','ZA');

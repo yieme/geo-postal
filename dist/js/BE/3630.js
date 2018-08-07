@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3630"]={"code":"3630","region":"Limburg","city":"Maasmechelen","latitude":50.96545,"longitude":5.69452}}(window,'GeoPostal','BE');

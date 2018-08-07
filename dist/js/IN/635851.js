@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635851"]={"code":"635851","region":"Tamil Nadu","city":"Vaniyambadi","latitude":12.68333,"longitude":78.61667}}(window,'GeoPostal','IN');

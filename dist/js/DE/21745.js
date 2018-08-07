@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21745"]={"code":"21745","region":"Niedersachsen","city":"Hemmoor","latitude":53.68702,"longitude":9.15492}}(window,'GeoPostal','DE');

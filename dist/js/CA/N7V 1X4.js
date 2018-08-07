@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N7V 1X4"]={"code":"N7V 1X4","region":"Ontario","city":"Point Edward","latitude":42.989659,"longitude":-82.400604}}(window,'GeoPostal','CA');

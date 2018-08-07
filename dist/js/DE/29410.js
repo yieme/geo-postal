@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29410"]={"code":"29410","region":"Sachsen-Anhalt","city":"Salzwedel","latitude":52.85435,"longitude":11.1525}}(window,'GeoPostal','DE');

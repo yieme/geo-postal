@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16346"]={"code":"16346","region":"Pennsylvania","city":"Seneca","latitude":41.37867,"longitude":-79.70394}}(window,'GeoPostal','US');

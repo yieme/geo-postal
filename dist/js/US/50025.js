@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50025"]={"code":"50025","region":"Iowa","city":"Audubon","latitude":41.71804,"longitude":-94.93249}}(window,'GeoPostal','US');

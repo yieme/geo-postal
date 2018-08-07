@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52233"]={"code":"52233","region":"Iowa","city":"Hiawatha","latitude":42.042283,"longitude":-91.674439}}(window,'GeoPostal','US');

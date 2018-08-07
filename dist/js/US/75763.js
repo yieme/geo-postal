@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75763"]={"code":"75763","region":"TX","city":"Frankston","latitude":32.0535,"longitude":-95.5163}}(window,'GeoPostal','US');

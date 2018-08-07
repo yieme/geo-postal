@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08759"]={"code":"08759","region":"New Jersey","city":"Manchester","latitude":39.949459,"longitude":-74.364029}}(window,'GeoPostal','US');

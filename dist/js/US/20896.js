@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20896"]={"code":"20896","region":"MD","city":"Garrett Park","latitude":39.0365,"longitude":-77.0931}}(window,'GeoPostal','US');

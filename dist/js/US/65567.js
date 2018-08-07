@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65567"]={"code":"65567","region":"Missouri","city":"Stoutland","latitude":37.815,"longitude":-92.51361}}(window,'GeoPostal','US');

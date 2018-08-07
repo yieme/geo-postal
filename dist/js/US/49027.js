@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49027"]={"code":"49027","region":"MI","city":"Breedsville","latitude":42.3465,"longitude":-86.0725}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-540"]={"code":"78-540","region":"Zachodniopomorskie","city":"Kalisz Pomorski","latitude":53.29908,"longitude":15.90631}}(window,'GeoPostal','PL');

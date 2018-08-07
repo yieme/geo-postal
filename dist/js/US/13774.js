@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13774"]={"code":"13774","region":"NY","city":"Fishs Eddy","latitude":41.9654,"longitude":-75.1594}}(window,'GeoPostal','US');

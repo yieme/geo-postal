@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06043"]={"code":"06043","region":"Umbria","city":"Cascia","latitude":42.71864,"longitude":13.01738}}(window,'GeoPostal','IT');

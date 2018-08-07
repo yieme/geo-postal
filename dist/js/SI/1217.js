@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1217"]={"code":"1217","region":"Vodice","city":"Vodice","latitude":46.18987,"longitude":14.49492}}(window,'GeoPostal','SI');

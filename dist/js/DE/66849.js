@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66849"]={"code":"66849","region":"Rheinland-Pfalz","city":"Landstuhl","latitude":49.41306,"longitude":7.57021}}(window,'GeoPostal','DE');

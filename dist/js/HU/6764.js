@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6764"]={"code":"6764","region":"Csongrad","city":"Balastya","latitude":46.42277,"longitude":20.00816}}(window,'GeoPostal','HU');

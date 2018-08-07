@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96200-000"]={"code":"96200-000","region":"Rio Grande do Sul","city":"Rio Grande","latitude":-32.035,"longitude":-52.09861}}(window,'GeoPostal','BR');

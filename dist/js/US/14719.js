@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14719"]={"code":"14719","region":"NY","city":"Cattaraugus","latitude":42.3333,"longitude":-78.8885}}(window,'GeoPostal','US');

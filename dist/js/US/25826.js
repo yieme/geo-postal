@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25826"]={"code":"25826","region":"WV","city":"Corinne","latitude":37.5729,"longitude":-81.3565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-415"]={"code":"97-415","region":"Lodzkie","city":"Kluki","latitude":51.34187,"longitude":19.23938}}(window,'GeoPostal','PL');

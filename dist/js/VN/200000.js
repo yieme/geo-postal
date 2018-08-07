@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200000"]={"code":"200000","region":"Quang Ninh","city":"Uong Bi","latitude":21.03333,"longitude":106.78333}}(window,'GeoPostal','VN');

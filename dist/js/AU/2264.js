@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2264"]={"code":"2264","region":"Victoria","city":"Sunshine","latitude":-33.11241,"longitude":151.56158}}(window,'GeoPostal','AU');

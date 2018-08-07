@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57260"]={"code":"57260","region":"Grand-Est","city":"Dieuze","latitude":48.81263,"longitude":6.7178}}(window,'GeoPostal','FR');

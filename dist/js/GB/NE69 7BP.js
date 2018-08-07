@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE69 7BP"]={"code":"NE69 7BP","region":"England","city":"Bamburgh","latitude":55.60652,"longitude":-1.71704}}(window,'GeoPostal','GB');

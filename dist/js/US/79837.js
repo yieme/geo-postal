@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79837"]={"code":"79837","region":"Texas","city":"Dell City","latitude":31.958082,"longitude":-105.200549}}(window,'GeoPostal','US');

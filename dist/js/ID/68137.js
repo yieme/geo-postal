@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68137"]={"code":"68137","region":"Jawa Timur","city":"Dukuhmencek Lor","latitude":-8.169,"longitude":113.6489}}(window,'GeoPostal','ID');

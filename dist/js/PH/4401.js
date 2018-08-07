@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4401"]={"code":"4401","region":"Camarines Sur","city":"Camaligan","latitude":13.6224,"longitude":123.1667}}(window,'GeoPostal','PH');

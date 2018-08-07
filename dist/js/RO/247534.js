@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247534"]={"code":"247534","region":"Valcea","city":"Copaceni","latitude":45,"longitude":23.98333}}(window,'GeoPostal','RO');

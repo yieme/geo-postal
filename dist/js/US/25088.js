@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25088"]={"code":"25088","region":"WV","city":"Glen","latitude":38.3943,"longitude":-81.2426}}(window,'GeoPostal','US');

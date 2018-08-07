@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51039"]={"code":"51039","region":"IA","city":"Moville","latitude":42.4819,"longitude":-96.0656}}(window,'GeoPostal','US');

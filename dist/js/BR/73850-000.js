@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73850-000"]={"code":"73850-000","region":"Goias","city":"Cristalina","latitude":-16.76861,"longitude":-47.61361}}(window,'GeoPostal','BR');

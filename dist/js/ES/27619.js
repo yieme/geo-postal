@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27619"]={"code":"27619","region":"Galicia","city":"Sarria","latitude":42.78148,"longitude":-7.41431}}(window,'GeoPostal','ES');

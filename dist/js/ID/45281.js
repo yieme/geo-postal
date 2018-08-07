@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45281"]={"code":"45281","region":"Jawa Barat","city":"Jatibarang","latitude":-6.47472,"longitude":108.31528}}(window,'GeoPostal','ID');

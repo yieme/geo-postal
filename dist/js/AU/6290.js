@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6290"]={"code":"6290","region":"Western Australia","city":"Augusta","latitude":-34.31566,"longitude":115.15922}}(window,'GeoPostal','AU');

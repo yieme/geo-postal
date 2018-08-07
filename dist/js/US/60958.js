@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60958"]={"code":"60958","region":"IL","city":"Pembroke Township","latitude":41.0646,"longitude":-87.5917}}(window,'GeoPostal','US');

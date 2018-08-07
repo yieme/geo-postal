@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38580"]={"code":"38580","region":"TN","city":"Rickman","latitude":36.2812,"longitude":-85.3048}}(window,'GeoPostal','US');

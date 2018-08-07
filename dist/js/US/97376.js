@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97376"]={"code":"97376","region":"Oregon","city":"Seal Rock","latitude":44.49917,"longitude":-124.08278}}(window,'GeoPostal','US');

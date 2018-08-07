@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78115"]={"code":"78115","region":"TX","city":"Geronimo","latitude":29.5451,"longitude":-98.0408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69133"]={"code":"69133","region":"Nebraska","city":"Dix","latitude":41.202216,"longitude":-103.470209}}(window,'GeoPostal','US');

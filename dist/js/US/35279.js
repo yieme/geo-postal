@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35279"]={"code":"35279","region":"AL","city":"Parisians Inc","latitude":33.42,"longitude":-86.78}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 00"]={"code":"691 00","region":"Anatoliki Makedonia kai Thraki","city":"Komotini","latitude":41.12278,"longitude":25.39639}}(window,'GeoPostal','GR');

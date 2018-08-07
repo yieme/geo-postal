@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55140"]={"code":"55140","region":"Nan","city":"Tha Wang Pha","latitude":19.12189,"longitude":100.81106}}(window,'GeoPostal','TH');

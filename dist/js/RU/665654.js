@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665654"]={"code":"665654","region":"Irkutskaya oblast'","city":"Zheleznogorsk-Ilimskiy","latitude":56.5768,"longitude":104.1217}}(window,'GeoPostal','RU');

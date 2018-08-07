@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70043"]={"code":"70043","region":"LA","city":"Chalmette","latitude":29.9466,"longitude":-89.9611}}(window,'GeoPostal','US');

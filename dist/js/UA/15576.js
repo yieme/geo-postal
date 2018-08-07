@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15576"]={"code":"15576","region":"Chernihivska oblast","city":"Olishevka","latitude":51.22266,"longitude":31.33314}}(window,'GeoPostal','UA');

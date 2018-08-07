@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61046"]={"code":"61046","region":"Marche","city":"Piobbico","latitude":43.58776,"longitude":12.51015}}(window,'GeoPostal','IT');

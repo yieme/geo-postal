@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4831"]={"code":"4831","region":"Smolyan","city":"Dospat","latitude":41.65,"longitude":24.16667}}(window,'GeoPostal','BG');

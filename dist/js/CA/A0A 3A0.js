@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 3A0"]={"code":"A0A 3A0","region":"Newfoundland and Labrador","city":"Mobile","latitude":47.24989,"longitude":-52.84805}}(window,'GeoPostal','CA');

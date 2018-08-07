@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369232"]={"code":"369232","region":"Karachayevo-Cherkesskaya Respublika","city":"Teberda","latitude":43.44565,"longitude":41.7448}}(window,'GeoPostal','RU');

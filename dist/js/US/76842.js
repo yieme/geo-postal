@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76842"]={"code":"76842","region":"Texas","city":"Fredonia","latitude":30.917413,"longitude":-99.140311}}(window,'GeoPostal','US');

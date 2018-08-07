@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99587"]={"code":"99587","region":"Alaska","city":"Girdwood","latitude":60.963796,"longitude":-149.124283}}(window,'GeoPostal','US');

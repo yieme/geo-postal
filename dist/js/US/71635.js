@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71635"]={"code":"71635","region":"Arkansas","city":"Crossett","latitude":33.12818,"longitude":-91.96124}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96152"]={"code":"96152","region":"Bayern","city":"Burghaslach","latitude":49.73313,"longitude":10.6007}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12130"]={"code":"12130","region":"New York","city":"Niverville","latitude":42.44092,"longitude":-73.66095}}(window,'GeoPostal','US');

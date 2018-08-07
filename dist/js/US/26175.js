@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26175"]={"code":"26175","region":"West Virginia","city":"Sistersville","latitude":39.56424,"longitude":-80.99594}}(window,'GeoPostal','US');

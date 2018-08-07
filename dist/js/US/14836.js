@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14836"]={"code":"14836","region":"New York","city":"Dalton","latitude":42.544172,"longitude":-77.923335}}(window,'GeoPostal','US');

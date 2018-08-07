@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98015"]={"code":"98015","region":"Washington","city":"Bellevue","latitude":47.6197,"longitude":-122.2044}}(window,'GeoPostal','US');

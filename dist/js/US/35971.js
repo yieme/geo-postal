@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35971"]={"code":"35971","region":"AL","city":"Fyffe","latitude":34.4373,"longitude":-85.9288}}(window,'GeoPostal','US');

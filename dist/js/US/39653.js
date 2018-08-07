@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39653"]={"code":"39653","region":"Mississippi","city":"Meadville","latitude":31.47239,"longitude":-90.89677}}(window,'GeoPostal','US');

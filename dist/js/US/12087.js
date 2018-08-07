@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12087"]={"code":"12087","region":"NY","city":"Hannacroix","latitude":42.429,"longitude":-73.8093}}(window,'GeoPostal','US');

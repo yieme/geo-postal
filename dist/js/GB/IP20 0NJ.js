@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP20 0NJ"]={"code":"IP20 0NJ","region":"England","city":"Mendham","latitude":52.39755,"longitude":1.33759}}(window,'GeoPostal','GB');

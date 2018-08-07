@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB36 8YJ"]={"code":"AB36 8YJ","region":"Scotland","city":"Tornahaish","latitude":57.15,"longitude":-3.16667}}(window,'GeoPostal','GB');

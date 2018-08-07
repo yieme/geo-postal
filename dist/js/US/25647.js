@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25647"]={"code":"25647","region":"WV","city":"Switzer","latitude":37.7846,"longitude":-81.9908}}(window,'GeoPostal','US');

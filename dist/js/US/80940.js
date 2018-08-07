@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80940"]={"code":"80940","region":"CO","city":"Colorado Spgs","latitude":38.88,"longitude":-104.67}}(window,'GeoPostal','US');

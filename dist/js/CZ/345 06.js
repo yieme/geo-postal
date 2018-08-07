@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 06"]={"code":"345 06","region":"Plzensky kraj","city":"Kdyne","latitude":49.39077,"longitude":13.03968}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210126"]={"code":"210126","region":"Uttar Pradesh","city":"Maudaha","latitude":25.68333,"longitude":80.11667}}(window,'GeoPostal','IN');

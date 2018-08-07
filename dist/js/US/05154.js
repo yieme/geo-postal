@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05154"]={"code":"05154","region":"Vermont","city":"Saxtons River","latitude":43.13833,"longitude":-72.50917}}(window,'GeoPostal','US');

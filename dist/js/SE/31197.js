@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31197"]={"code":"31197","region":"Hallands lan","city":"Falkenberg","latitude":56.90552,"longitude":12.49118}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27828"]={"code":"27828","region":"North Carolina","city":"Farmville","latitude":35.593241,"longitude":-77.589216}}(window,'GeoPostal','US');

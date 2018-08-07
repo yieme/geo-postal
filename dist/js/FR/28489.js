@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28489"]={"code":"28489","region":"Centre-Val de Loire","city":"Thiron Gardais","latitude":48.31667,"longitude":0.98333}}(window,'GeoPostal','FR');

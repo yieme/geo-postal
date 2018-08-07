@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP10 3TJ"]={"code":"SP10 3TJ","region":"England","city":"Uxbridge","latitude":51.54619,"longitude":-0.47961}}(window,'GeoPostal','GB');

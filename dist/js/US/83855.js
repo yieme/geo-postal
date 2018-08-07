@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83855"]={"code":"83855","region":"ID","city":"Potlatch","latitude":46.9448,"longitude":-116.9141}}(window,'GeoPostal','US');

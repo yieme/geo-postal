@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62982"]={"code":"62982","region":"Illinois","city":"Rosiclare","latitude":37.42366,"longitude":-88.34615}}(window,'GeoPostal','US');

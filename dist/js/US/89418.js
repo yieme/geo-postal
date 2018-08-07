@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89418"]={"code":"89418","region":"NV","city":"Imlay","latitude":40.5484,"longitude":-118.0344}}(window,'GeoPostal','US');

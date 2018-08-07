@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84063"]={"code":"84063","region":"UT","city":"Randlett","latitude":40.2186,"longitude":-109.7301}}(window,'GeoPostal','US');

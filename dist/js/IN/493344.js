@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493344"]={"code":"493344","region":"Chhattisgarh","city":"Champa","latitude":22.05,"longitude":82.65}}(window,'GeoPostal','IN');

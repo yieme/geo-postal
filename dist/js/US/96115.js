@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96115"]={"code":"96115","region":"CA","city":"Lake City","latitude":41.6682,"longitude":-120.1814}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4818"]={"code":"4818","region":"Queensland","city":"Yabulu","latitude":-19.20097,"longitude":146.58875}}(window,'GeoPostal','AU');

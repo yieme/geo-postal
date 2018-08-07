@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-100"]={"code":"76-100","region":"Zachodniopomorskie","city":"Slawno","latitude":54.36276,"longitude":16.67888}}(window,'GeoPostal','PL');

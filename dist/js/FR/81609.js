@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81609"]={"code":"81609","region":"Occitanie","city":"Gaillac","latitude":43.9016,"longitude":1.89686}}(window,'GeoPostal','FR');

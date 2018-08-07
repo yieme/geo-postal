@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57466"]={"code":"57466","region":"South Dakota","city":"Onaka","latitude":45.201927,"longitude":-99.450505}}(window,'GeoPostal','US');

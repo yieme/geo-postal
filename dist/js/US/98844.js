@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98844"]={"code":"98844","region":"Washington","city":"Oroville","latitude":48.946111,"longitude":-119.050278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["922 03"]={"code":"922 03","region":"Trnavsky kraj","city":"Vrbove","latitude":48.61973,"longitude":17.7226}}(window,'GeoPostal','SK');

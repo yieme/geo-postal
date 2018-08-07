@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8325"]={"code":"8325","region":"Overijssel","city":"Vollenhove","latitude":52.68083,"longitude":5.95417}}(window,'GeoPostal','NL');

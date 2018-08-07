@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503 46"]={"code":"503 46","region":"Kralovehradecky kraj","city":"Trebechovice pod Orebem","latitude":50.20097,"longitude":15.99223}}(window,'GeoPostal','CZ');

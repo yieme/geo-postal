@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1704"]={"code":"1704","region":"Buenos Aires","city":"Ramos Mejia","latitude":-34.65,"longitude":-58.566667}}(window,'GeoPostal','AR');

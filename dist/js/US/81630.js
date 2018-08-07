@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81630"]={"code":"81630","region":"CO","city":"De Beque","latitude":39.3118,"longitude":-108.2304}}(window,'GeoPostal','US');

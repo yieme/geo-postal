@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4090"]={"code":"4090","region":"Hajdu-Bihar","city":"Polgar","latitude":47.86667,"longitude":21.11667}}(window,'GeoPostal','HU');

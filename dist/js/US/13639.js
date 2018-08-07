@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13639"]={"code":"13639","region":"NY","city":"Fine","latitude":44.2541,"longitude":-75.1379}}(window,'GeoPostal','US');

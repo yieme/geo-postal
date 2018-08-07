@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 51"]={"code":"257 51","region":"Stredocesky kraj","city":"Bystrice","latitude":49.73213,"longitude":14.6674}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19006"]={"code":"19006","region":"Pennsylvania","city":"Huntingdon Valley","latitude":40.12794,"longitude":-75.0597}}(window,'GeoPostal','US');

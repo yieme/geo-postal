@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW1 4RZ"]={"code":"KW1 4RZ","region":"Scotland","city":"Staxigoe","latitude":58.45415,"longitude":-3.05878}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48144"]={"code":"48144","region":"MI","city":"Lambertville","latitude":41.7531,"longitude":-83.6259}}(window,'GeoPostal','US');

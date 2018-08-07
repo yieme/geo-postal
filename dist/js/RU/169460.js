@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169460"]={"code":"169460","region":"Komi, Respublika","city":"Izhma","latitude":65.00833,"longitude":53.91128}}(window,'GeoPostal','RU');

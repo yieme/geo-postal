@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00957"]={"code":"00957","region":"Toa Alta","city":"Pajaros","latitude":18.36856,"longitude":-66.21683}}(window,'GeoPostal','PR');

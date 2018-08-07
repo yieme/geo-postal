@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB34 5NN"]={"code":"AB34 5NN","region":"Scotland","city":"Coldstone","latitude":57.13333,"longitude":-2.93333}}(window,'GeoPostal','GB');

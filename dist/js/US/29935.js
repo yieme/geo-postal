@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29935"]={"code":"29935","region":"SC","city":"Port Royal","latitude":32.3874,"longitude":-80.6844}}(window,'GeoPostal','US');

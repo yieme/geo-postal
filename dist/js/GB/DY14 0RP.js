@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY14 0RP"]={"code":"DY14 0RP","region":"England","city":"Silvington","latitude":52.41667,"longitude":-2.56667}}(window,'GeoPostal','GB');

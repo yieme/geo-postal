@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99614"]={"code":"99614","region":"Alaska","city":"Kipnuk","latitude":59.9375,"longitude":-164.04389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84325"]={"code":"84325","region":"Donetska oblast","city":"Kramators'k","latitude":48.72305,"longitude":37.55629}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66026"]={"code":"66026","region":"Abruzzo","city":"Ortona","latitude":42.34964,"longitude":14.40391}}(window,'GeoPostal','IT');

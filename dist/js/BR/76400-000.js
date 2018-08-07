@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76400-000"]={"code":"76400-000","region":"Goias","city":"Uruacu","latitude":-14.52472,"longitude":-49.14083}}(window,'GeoPostal','BR');

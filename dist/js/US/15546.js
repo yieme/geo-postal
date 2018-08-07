@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15546"]={"code":"15546","region":"PA","city":"Jenners","latitude":40.1431,"longitude":-79.0428}}(window,'GeoPostal','US');

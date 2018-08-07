@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02360"]={"code":"02360","region":"Hauts-de-France","city":"Rozoy-sur-Serre","latitude":49.70956,"longitude":4.12902}}(window,'GeoPostal','FR');

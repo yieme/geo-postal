@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88031"]={"code":"88031","region":"NM","city":"Deming","latitude":32.2398,"longitude":-107.7404}}(window,'GeoPostal','US');

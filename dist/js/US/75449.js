@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75449"]={"code":"75449","region":"Texas","city":"Ladonia","latitude":33.421472,"longitude":-95.969186}}(window,'GeoPostal','US');

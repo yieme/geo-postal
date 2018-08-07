@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["420281"]={"code":"420281","region":"Anambra","city":"Awka","latitude":6.21009,"longitude":7.07411}}(window,'GeoPostal','NG');

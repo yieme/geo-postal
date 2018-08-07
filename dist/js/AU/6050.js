@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6050"]={"code":"6050","region":"Western Australia","city":"Mt Lawley","latitude":-31.93439,"longitude":115.8716}}(window,'GeoPostal','AU');

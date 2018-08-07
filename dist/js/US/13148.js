@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13148"]={"code":"13148","region":"New York","city":"Seneca Falls","latitude":42.92028,"longitude":-76.78488}}(window,'GeoPostal','US');

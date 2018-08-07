@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75027"]={"code":"75027","region":"Texas","city":"Double Oak","latitude":33.028333,"longitude":-97.092668}}(window,'GeoPostal','US');

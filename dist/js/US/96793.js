@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96793"]={"code":"96793","region":"Hawaii","city":"Wailuku","latitude":20.89111,"longitude":-156.50472}}(window,'GeoPostal','US');

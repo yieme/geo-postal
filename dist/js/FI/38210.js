@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38210"]={"code":"38210","region":"Pirkanmaa","city":"Vammala","latitude":61.33333,"longitude":22.9}}(window,'GeoPostal','FI');

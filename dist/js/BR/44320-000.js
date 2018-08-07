@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44320-000"]={"code":"44320-000","region":"Bahia","city":"Conceicao da Feira","latitude":-12.50583,"longitude":-38.99861}}(window,'GeoPostal','BR');

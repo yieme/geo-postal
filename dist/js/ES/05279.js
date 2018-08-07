@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05279"]={"code":"05279","region":"Castilla y Leon","city":"El Tiemblo","latitude":40.41533,"longitude":-4.50156}}(window,'GeoPostal','ES');

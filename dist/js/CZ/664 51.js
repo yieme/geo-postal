@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 51"]={"code":"664 51","region":"Jihomoravsky kraj","city":"Slapanice","latitude":49.16863,"longitude":16.72731}}(window,'GeoPostal','CZ');

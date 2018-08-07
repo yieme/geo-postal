@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17822"]={"code":"17822","region":"Pennsylvania","city":"Danville","latitude":40.961482,"longitude":-76.612311}}(window,'GeoPostal','US');

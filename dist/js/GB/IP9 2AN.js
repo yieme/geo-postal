@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 2AN"]={"code":"IP9 2AN","region":"England","city":"Wherstead","latitude":52.02262,"longitude":1.13832}}(window,'GeoPostal','GB');

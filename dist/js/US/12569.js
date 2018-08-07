@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12569"]={"code":"12569","region":"NY","city":"Pleasant Valley","latitude":41.747,"longitude":-73.8143}}(window,'GeoPostal','US');

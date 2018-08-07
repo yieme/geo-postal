@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442761"]={"code":"442761","region":"Penzenskaya oblast'","city":"Chemodanovka","latitude":53.23162,"longitude":45.24738}}(window,'GeoPostal','RU');

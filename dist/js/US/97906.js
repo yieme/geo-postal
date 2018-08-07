@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97906"]={"code":"97906","region":"OR","city":"Harper","latitude":43.8734,"longitude":-117.5284}}(window,'GeoPostal','US');

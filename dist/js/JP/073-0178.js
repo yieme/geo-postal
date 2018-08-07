@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["073-0178"]={"code":"073-0178","region":"Hokkaido","city":"Sunagawa","latitude":43.5,"longitude":141.9}}(window,'GeoPostal','JP');

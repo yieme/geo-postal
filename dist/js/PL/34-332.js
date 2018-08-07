@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-332"]={"code":"34-332","region":"Slaskie","city":"Koszarawa","latitude":49.64462,"longitude":19.40083}}(window,'GeoPostal','PL');

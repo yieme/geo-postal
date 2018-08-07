@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09548"]={"code":"09548","region":"Sachsen","city":"Heidelberg","latitude":50.6431,"longitude":13.4739}}(window,'GeoPostal','DE');

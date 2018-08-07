@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80651"]={"code":"80651","region":"Colorado","city":"Platteville","latitude":40.224577,"longitude":-104.821419}}(window,'GeoPostal','US');

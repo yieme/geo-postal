@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78001"]={"code":"78001","region":"Texas","city":"Cotulla","latitude":28.43693,"longitude":-99.23503}}(window,'GeoPostal','US');

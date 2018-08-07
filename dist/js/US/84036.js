@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84036"]={"code":"84036","region":"Utah","city":"Kamas","latitude":40.64301,"longitude":-111.28074}}(window,'GeoPostal','US');

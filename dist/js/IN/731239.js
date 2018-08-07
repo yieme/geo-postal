@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731239"]={"code":"731239","region":"West Bengal","city":"Sainthia","latitude":23.95,"longitude":87.66667}}(window,'GeoPostal','IN');

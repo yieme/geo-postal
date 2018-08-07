@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1V0"]={"code":"J0T 1V0","region":"Quebec","city":"Lantier","latitude":46.15008,"longitude":-74.24922}}(window,'GeoPostal','CA');

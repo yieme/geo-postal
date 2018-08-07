@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35250"]={"code":"35250","region":"Podunavski okrug","city":"Paracin","latitude":43.86083,"longitude":21.40778}}(window,'GeoPostal','RS');

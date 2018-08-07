@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50644"]={"code":"50644","region":"Iowa","city":"Independence","latitude":42.4686,"longitude":-91.88934}}(window,'GeoPostal','US');

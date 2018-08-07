@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491993"]={"code":"491993","region":"Chhattisgarh","city":"Gandai","latitude":21.66667,"longitude":81.1}}(window,'GeoPostal','IN');

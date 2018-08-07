@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA8 2BQ"]={"code":"CA8 2BQ","region":"England","city":"Kirkcambeck","latitude":55.01326,"longitude":-2.73087}}(window,'GeoPostal','GB');

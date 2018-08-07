@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81007"]={"code":"81007","region":"Colorado","city":"Pueblo","latitude":38.3466,"longitude":-104.78886}}(window,'GeoPostal','US');

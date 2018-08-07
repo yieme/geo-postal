@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22931"]={"code":"22931","region":"VA","city":"Covesville","latitude":37.908,"longitude":-78.7127}}(window,'GeoPostal','US');

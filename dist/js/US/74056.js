@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74056"]={"code":"74056","region":"Oklahoma","city":"Pawhuska","latitude":36.82521,"longitude":-96.36643}}(window,'GeoPostal','US');

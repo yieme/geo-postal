@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833 00"]={"code":"833 00","region":"Voreio Aigaio","city":"Agios Kirykos","latitude":37.61472,"longitude":26.29444}}(window,'GeoPostal','GR');

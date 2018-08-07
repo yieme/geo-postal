@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82110"]={"code":"82110","region":"Phangnga","city":"Takua Pa","latitude":8.8705,"longitude":98.34383}}(window,'GeoPostal','TH');

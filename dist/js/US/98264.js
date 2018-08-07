@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98264"]={"code":"98264","region":"Washington","city":"Lynden","latitude":48.940702,"longitude":-122.458137}}(window,'GeoPostal','US');

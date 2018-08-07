@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65191"]={"code":"65191","region":"Hessen","city":"Sonnenberg","latitude":50.09636,"longitude":8.27706}}(window,'GeoPostal','DE');

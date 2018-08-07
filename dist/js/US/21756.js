@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21756"]={"code":"21756","region":"MD","city":"Keedysville","latitude":39.4563,"longitude":-77.6944}}(window,'GeoPostal','US');

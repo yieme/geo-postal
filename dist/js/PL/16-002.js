@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-002"]={"code":"16-002","region":"Podlaskie","city":"Dobrzyniewo Duze","latitude":53.20022,"longitude":23.01129}}(window,'GeoPostal','PL');

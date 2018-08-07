@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313333"]={"code":"313333","region":"Rajasthan","city":"Devgarh","latitude":25.53333,"longitude":73.9}}(window,'GeoPostal','IN');

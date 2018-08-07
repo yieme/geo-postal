@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73067"]={"code":"73067","region":"Oklahoma","city":"Ninnekah","latitude":34.944429,"longitude":-97.91597}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50430"]={"code":"50430","region":"Normandie","city":"Lessay","latitude":49.21703,"longitude":-1.53089}}(window,'GeoPostal','FR');

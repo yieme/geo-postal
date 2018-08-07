@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21481"]={"code":"21481","region":"Schleswig-Holstein","city":"Buchhorst","latitude":53.38596,"longitude":10.5655}}(window,'GeoPostal','DE');

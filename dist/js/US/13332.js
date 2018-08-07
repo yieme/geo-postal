@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13332"]={"code":"13332","region":"New York","city":"Earlville","latitude":42.74111,"longitude":-75.54389}}(window,'GeoPostal','US');

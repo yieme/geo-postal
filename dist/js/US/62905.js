@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62905"]={"code":"62905","region":"IL","city":"Alto Pass","latitude":37.5681,"longitude":-89.3172}}(window,'GeoPostal','US');

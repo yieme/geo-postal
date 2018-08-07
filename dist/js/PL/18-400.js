@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-400"]={"code":"18-400","region":"Podlaskie","city":"Lomza","latitude":53.17806,"longitude":22.05935}}(window,'GeoPostal','PL');

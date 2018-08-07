@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529564"]={"code":"529564","region":"Guangdong","city":"Tangping","latitude":22.02647,"longitude":111.93229}}(window,'GeoPostal','CN');

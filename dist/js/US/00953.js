@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00953"]={"code":"00953","region":"PR","city":"Toa Alta","latitude":18.39,"longitude":-66.25}}(window,'GeoPostal','US');

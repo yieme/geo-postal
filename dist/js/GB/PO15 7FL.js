@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO15 7FL"]={"code":"PO15 7FL","region":"England","city":"Fareham","latitude":50.85162,"longitude":-1.17929}}(window,'GeoPostal','GB');

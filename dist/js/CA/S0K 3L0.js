@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 3L0"]={"code":"S0K 3L0","region":"Saskatchewan","city":"Radisson","latitude":52.46681,"longitude":-107.40126}}(window,'GeoPostal','CA');

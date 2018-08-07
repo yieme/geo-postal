@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656910"]={"code":"656910","region":"Altayskiy kray","city":"Nauchnyy Gorodok","latitude":53.4203,"longitude":83.521}}(window,'GeoPostal','RU');

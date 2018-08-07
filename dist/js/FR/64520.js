@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64520"]={"code":"64520","region":"Nouvelle-Aquitaine","city":"Bidache","latitude":43.48299,"longitude":-1.1412}}(window,'GeoPostal','FR');

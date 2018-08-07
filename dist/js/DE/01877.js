@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01877"]={"code":"01877","region":"Sachsen","city":"Bischofswerda","latitude":51.12771,"longitude":14.17974}}(window,'GeoPostal','DE');

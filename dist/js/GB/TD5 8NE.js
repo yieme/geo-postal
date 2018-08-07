@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 8NE"]={"code":"TD5 8NE","region":"Scotland","city":"Roxburgh","latitude":55.56795,"longitude":-2.47997}}(window,'GeoPostal','GB');

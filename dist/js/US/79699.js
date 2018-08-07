@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79699"]={"code":"79699","region":"Texas","city":"Abilene","latitude":32.46891,"longitude":-99.70966}}(window,'GeoPostal','US');

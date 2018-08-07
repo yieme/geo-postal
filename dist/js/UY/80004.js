@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80004"]={"code":"80004","region":"Florida","city":"Veinticinco de Agosto","latitude":-34.41167,"longitude":-56.40222}}(window,'GeoPostal','UY');

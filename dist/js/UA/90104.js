@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90104"]={"code":"90104","region":"Zakarpatska oblast","city":"Irshava","latitude":48.31667,"longitude":23.03846}}(window,'GeoPostal','UA');

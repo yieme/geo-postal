@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19462"]={"code":"19462","region":"Pennsylvania","city":"Plymouth Meeting","latitude":40.108211,"longitude":-75.277222}}(window,'GeoPostal','US');

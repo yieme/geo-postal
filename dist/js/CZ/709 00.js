@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["709 00"]={"code":"709 00","region":"Moravskoslezsky kraj","city":"Ostrava","latitude":49.83465,"longitude":18.28204}}(window,'GeoPostal','CZ');

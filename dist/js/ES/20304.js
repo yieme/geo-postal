@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20304"]={"code":"20304","region":"Pais Vasco","city":"Irun","latitude":43.33904,"longitude":-1.78938}}(window,'GeoPostal','ES');

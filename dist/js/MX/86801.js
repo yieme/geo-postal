@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86801"]={"code":"86801","region":"Tabasco","city":"Paraiso","latitude":18.4,"longitude":-93.23333}}(window,'GeoPostal','MX');

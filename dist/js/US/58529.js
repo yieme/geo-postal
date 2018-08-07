@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58529"]={"code":"58529","region":"ND","city":"Carson","latitude":46.4624,"longitude":-101.5387}}(window,'GeoPostal','US');

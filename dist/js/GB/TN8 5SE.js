@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN8 5SE"]={"code":"TN8 5SE","region":"England","city":"Edenbridge","latitude":51.19172,"longitude":0.06729}}(window,'GeoPostal','GB');

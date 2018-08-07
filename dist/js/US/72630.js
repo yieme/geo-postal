@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72630"]={"code":"72630","region":"Arkansas","city":"Lead Hill","latitude":36.41472,"longitude":-92.90694}}(window,'GeoPostal','US');

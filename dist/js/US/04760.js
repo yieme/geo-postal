@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04760"]={"code":"04760","region":"ME","city":"Monticello","latitude":46.3007,"longitude":-67.8414}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39340"]={"code":"39340","region":"Cantabria","city":"Suances","latitude":43.4334,"longitude":-4.04338}}(window,'GeoPostal','ES');

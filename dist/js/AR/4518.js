@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4518"]={"code":"4518","region":"Jujuy","city":"Yuto","latitude":-23.64342,"longitude":-64.47194}}(window,'GeoPostal','AR');

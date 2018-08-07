@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0R 1A0"]={"code":"J0R 1A0","region":"Quebec","city":"Saint-Jerome","latitude":45.78036,"longitude":-74.00365}}(window,'GeoPostal','CA');

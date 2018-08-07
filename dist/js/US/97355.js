@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97355"]={"code":"97355","region":"Oregon","city":"Lebanon","latitude":44.530595,"longitude":-122.871327}}(window,'GeoPostal','US');

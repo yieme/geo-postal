@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68942"]={"code":"68942","region":"NE","city":"Guide Rock","latitude":40.0812,"longitude":-98.3391}}(window,'GeoPostal','US');

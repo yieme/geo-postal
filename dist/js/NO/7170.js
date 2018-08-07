@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7170"]={"code":"7170","region":"Sor-Trondelag","city":"Arnes","latitude":63.96114,"longitude":10.22601}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28942"]={"code":"28942","region":"Madrid, Comunidad de","city":"Fuenlabrada","latitude":40.28419,"longitude":-3.79415}}(window,'GeoPostal','ES');

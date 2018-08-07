@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38453"]={"code":"38453","region":"Durango","city":"San Pedro de los Naranjos","latitude":20.25,"longitude":-100.98333}}(window,'GeoPostal','MX');

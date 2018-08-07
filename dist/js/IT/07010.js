@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07010"]={"code":"07010","region":"Sardegna","city":"Nule","latitude":40.46156,"longitude":9.18983}}(window,'GeoPostal','IT');

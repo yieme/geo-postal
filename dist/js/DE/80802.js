@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80802"]={"code":"80802","region":"Bayern","city":"Schwabing","latitude":48.16588,"longitude":11.57891}}(window,'GeoPostal','DE');

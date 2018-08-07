@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33099"]={"code":"33099","region":"Friuli-Venezia Giulia","city":"Vivaro","latitude":46.07472,"longitude":12.77444}}(window,'GeoPostal','IT');

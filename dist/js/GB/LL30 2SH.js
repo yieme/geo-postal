@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL30 2SH"]={"code":"LL30 2SH","region":"Wales","city":"Llandudno","latitude":53.32498,"longitude":-3.83148}}(window,'GeoPostal','GB');

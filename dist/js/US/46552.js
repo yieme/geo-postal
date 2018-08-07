@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46552"]={"code":"46552","region":"IN","city":"New Carlisle","latitude":41.7051,"longitude":-86.4838}}(window,'GeoPostal','US');

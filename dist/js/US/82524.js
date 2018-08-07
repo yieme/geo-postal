@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82524"]={"code":"82524","region":"Wyoming","city":"Saint Stephens","latitude":42.983889,"longitude":-108.415833}}(window,'GeoPostal','US');

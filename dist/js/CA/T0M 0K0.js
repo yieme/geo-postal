@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0K0"]={"code":"T0M 0K0","region":"Alberta","city":"Doan","latitude":51.97055,"longitude":-114.05216}}(window,'GeoPostal','CA');

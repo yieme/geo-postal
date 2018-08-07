@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33660"]={"code":"33660","region":"Nouvelle-Aquitaine","city":"Saint-Seurin-sur-l'Isle","latitude":45.01667,"longitude":0}}(window,'GeoPostal','FR');

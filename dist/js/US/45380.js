@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45380"]={"code":"45380","region":"Ohio","city":"Versailles","latitude":40.239276,"longitude":-84.508263}}(window,'GeoPostal','US');

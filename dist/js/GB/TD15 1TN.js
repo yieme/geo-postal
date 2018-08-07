@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 1TN"]={"code":"TD15 1TN","region":"Scotland","city":"Foulden","latitude":55.78333,"longitude":-2.11667}}(window,'GeoPostal','GB');

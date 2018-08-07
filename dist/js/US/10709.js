@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10709"]={"code":"10709","region":"NY","city":"Eastchester","latitude":40.955,"longitude":-73.8086}}(window,'GeoPostal','US');

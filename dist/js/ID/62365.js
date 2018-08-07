@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62365"]={"code":"62365","region":"Jawa Timur","city":"Wanglu Wetan","latitude":-7.0241,"longitude":111.7332}}(window,'GeoPostal','ID');

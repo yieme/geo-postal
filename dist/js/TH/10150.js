@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10150"]={"code":"10150","region":"Krung Thep Maha Nakhon","city":"Bang Khun Thian","latitude":13.66302,"longitude":100.43416}}(window,'GeoPostal','TH');

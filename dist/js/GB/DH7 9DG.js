@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH7 9DG"]={"code":"DH7 9DG","region":"England","city":"Quebec","latitude":54.7884,"longitude":-1.72465}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507215"]={"code":"507215","region":"Brasov","city":"Soars","latitude":45.93333,"longitude":24.91667}}(window,'GeoPostal','RO');

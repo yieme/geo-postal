@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30553"]={"code":"30553","region":"Georgia","city":"Lavonia","latitude":34.43594,"longitude":-83.10682}}(window,'GeoPostal','US');

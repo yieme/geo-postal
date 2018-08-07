@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55263"]={"code":"55263","region":"Rheinland-Pfalz","city":"Wackernheim","latitude":49.97444,"longitude":8.11667}}(window,'GeoPostal','DE');

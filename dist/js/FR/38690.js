@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38690"]={"code":"38690","region":"Auvergne-Rhone-Alpes","city":"Le Grand-Lemps","latitude":45.39789,"longitude":5.42215}}(window,'GeoPostal','FR');

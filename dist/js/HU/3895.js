@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3895"]={"code":"3895","region":"Borsod-Abauj-Zemplen","city":"Gonc","latitude":48.46667,"longitude":21.28333}}(window,'GeoPostal','HU');

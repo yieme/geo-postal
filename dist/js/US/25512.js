@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25512"]={"code":"25512","region":"WV","city":"East Lynn","latitude":38.1995,"longitude":-82.3279}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59382"]={"code":"59382","region":"Jawa Tengah","city":"Jekulo","latitude":-6.8057,"longitude":110.9262}}(window,'GeoPostal','ID');

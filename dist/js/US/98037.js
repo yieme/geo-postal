@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98037"]={"code":"98037","region":"Washington","city":"Lynnwood","latitude":47.849504,"longitude":-122.282457}}(window,'GeoPostal','US');

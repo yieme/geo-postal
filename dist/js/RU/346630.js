@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346630"]={"code":"346630","region":"Rostovskaya oblast'","city":"Semikarakorsk","latitude":47.51943,"longitude":40.8112}}(window,'GeoPostal','RU');

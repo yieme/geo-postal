@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60932"]={"code":"60932","region":"IL","city":"East Lynn","latitude":40.4633,"longitude":-87.8056}}(window,'GeoPostal','US');

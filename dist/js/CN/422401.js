@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422401"]={"code":"422401","region":"Hunan","city":"Wantouqiao","latitude":26.84111,"longitude":110.61944}}(window,'GeoPostal','CN');

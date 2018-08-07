@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72110"]={"code":"72110","region":"Arkansas","city":"Morrilton","latitude":35.23866,"longitude":-92.67108}}(window,'GeoPostal','US');

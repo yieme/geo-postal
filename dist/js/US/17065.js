@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17065"]={"code":"17065","region":"Pennsylvania","city":"Mount Holly Springs","latitude":40.11842,"longitude":-77.18998}}(window,'GeoPostal','US');

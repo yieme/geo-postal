@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04669"]={"code":"04669","region":"ME","city":"Prospect Harbor","latitude":44.411,"longitude":-68.0141}}(window,'GeoPostal','US');

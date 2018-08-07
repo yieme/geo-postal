@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60960"]={"code":"60960","region":"IL","city":"Rankin","latitude":40.4559,"longitude":-87.8884}}(window,'GeoPostal','US');

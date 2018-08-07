@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35403"]={"code":"35403","region":"Brodsko-posavska zupanija","city":"Resetari","latitude":45.25639,"longitude":17.46306}}(window,'GeoPostal','HR');

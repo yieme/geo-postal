@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["900-0003"]={"code":"900-0003","region":"Okinawa","city":"Naha","latitude":26.21222,"longitude":127.67917}}(window,'GeoPostal','JP');

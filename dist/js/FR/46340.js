@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46340"]={"code":"46340","region":"Occitanie","city":"Salviac","latitude":44.6808,"longitude":1.26506}}(window,'GeoPostal','FR');

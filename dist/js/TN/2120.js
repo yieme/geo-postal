@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2120"]={"code":"2120","region":"Gafsa","city":"Ar Rudayyif","latitude":34.3827,"longitude":8.15549}}(window,'GeoPostal','TN');

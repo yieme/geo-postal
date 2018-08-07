@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2N0"]={"code":"V0N 2N0","region":"British Columbia","city":"Yreka","latitude":50.4663,"longitude":-127.55315}}(window,'GeoPostal','CA');

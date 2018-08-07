@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61359"]={"code":"61359","region":"IL","city":"Seatonville","latitude":41.3613,"longitude":-89.2691}}(window,'GeoPostal','US');

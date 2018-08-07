@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8796"]={"code":"8796","region":"Zala","city":"Turje","latitude":46.98366,"longitude":17.10742}}(window,'GeoPostal','HU');

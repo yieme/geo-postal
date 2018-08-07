@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08219"]={"code":"08219","region":"NJ","city":"Green Creek","latitude":39.0462,"longitude":-74.9013}}(window,'GeoPostal','US');

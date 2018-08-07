@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53923"]={"code":"53923","region":"WI","city":"Cambria","latitude":43.5724,"longitude":-89.1156}}(window,'GeoPostal','US');

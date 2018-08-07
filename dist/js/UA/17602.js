@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17602"]={"code":"17602","region":"Chernihivska oblast","city":"Varva","latitude":50.49503,"longitude":32.71968}}(window,'GeoPostal','UA');

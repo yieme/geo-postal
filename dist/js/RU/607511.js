@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607511"]={"code":"607511","region":"Nizhegorodskaya oblast'","city":"Sergach","latitude":55.53079,"longitude":45.46611}}(window,'GeoPostal','RU');

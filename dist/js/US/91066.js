@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91066"]={"code":"91066","region":"California","city":"Arcadia","latitude":34.14108,"longitude":-118.02912}}(window,'GeoPostal','US');

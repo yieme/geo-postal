@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["758026"]={"code":"758026","region":"Odisha","city":"Soro","latitude":21.28806,"longitude":86.68583}}(window,'GeoPostal','IN');

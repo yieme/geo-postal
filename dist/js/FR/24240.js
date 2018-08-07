@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24240"]={"code":"24240","region":"Nouvelle-Aquitaine","city":"Monbazillac","latitude":44.79374,"longitude":0.49256}}(window,'GeoPostal','FR');

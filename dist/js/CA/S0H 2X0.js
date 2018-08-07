@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 2X0"]={"code":"S0H 2X0","region":"Saskatchewan","city":"Marquis","latitude":50.63336,"longitude":-105.71787}}(window,'GeoPostal','CA');

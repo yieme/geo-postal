@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36381"]={"code":"36381","region":"Hessen","city":"Schluchtern","latitude":50.34891,"longitude":9.52532}}(window,'GeoPostal','DE');

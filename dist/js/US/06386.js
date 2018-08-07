@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06386"]={"code":"06386","region":"CT","city":"Bureau Business Practice","latitude":41.33,"longitude":-72.13}}(window,'GeoPostal','US');

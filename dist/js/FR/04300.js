@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04300"]={"code":"04300","region":"Provence-Alpes-Cote d'Azur","city":"Mane","latitude":43.93747,"longitude":5.76677}}(window,'GeoPostal','FR');

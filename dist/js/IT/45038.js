@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45038"]={"code":"45038","region":"Veneto","city":"Polesella","latitude":44.96238,"longitude":11.75281}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74529"]={"code":"74529","region":"OK","city":"Blocker","latitude":35.0615,"longitude":-95.5683}}(window,'GeoPostal','US');

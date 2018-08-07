@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77350"]={"code":"77350","region":"Texas","city":"Leggett","latitude":30.817778,"longitude":-94.870278}}(window,'GeoPostal','US');

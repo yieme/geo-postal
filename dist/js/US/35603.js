@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35603"]={"code":"35603","region":"Alabama","city":"Decatur","latitude":34.546022,"longitude":-86.980132}}(window,'GeoPostal','US');

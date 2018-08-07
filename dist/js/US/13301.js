@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13301"]={"code":"13301","region":"NY","city":"Alder Creek","latitude":43.4157,"longitude":-75.2137}}(window,'GeoPostal','US');

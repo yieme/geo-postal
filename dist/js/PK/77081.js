@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77081"]={"code":"77081","region":"Khyber Pakhtunkhwa","city":"Noorabad","latitude":34.25195,"longitude":71.96656}}(window,'GeoPostal','PK');

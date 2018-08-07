@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26230"]={"code":"26230","region":"WV","city":"Pickens","latitude":38.6551,"longitude":-80.2117}}(window,'GeoPostal','US');

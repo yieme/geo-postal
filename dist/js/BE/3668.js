@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3668"]={"code":"3668","region":"Limburg","city":"As","latitude":51.00755,"longitude":5.58453}}(window,'GeoPostal','BE');

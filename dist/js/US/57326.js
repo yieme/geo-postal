@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57326"]={"code":"57326","region":"SD","city":"Chamberlain","latitude":43.8108,"longitude":-99.3307}}(window,'GeoPostal','US');

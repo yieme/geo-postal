@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84070"]={"code":"84070","region":"Utah","city":"Sandy City","latitude":40.5732,"longitude":-111.8865}}(window,'GeoPostal','US');

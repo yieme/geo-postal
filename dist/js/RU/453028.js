@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453028"]={"code":"453028","region":"Bashkortostan, Respublika","city":"Kabakovo","latitude":54.5369,"longitude":56.1517}}(window,'GeoPostal','RU');

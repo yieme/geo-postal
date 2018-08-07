@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422200"]={"code":"422200","region":"Hunan","city":"Taohong","latitude":27.10107,"longitude":110.99486}}(window,'GeoPostal','CN');

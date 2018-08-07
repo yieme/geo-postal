@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L39 5QF"]={"code":"L39 5QF","region":"England","city":"Town Green","latitude":53.55,"longitude":-2.9}}(window,'GeoPostal','GB');

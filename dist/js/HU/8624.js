@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8624"]={"code":"8624","region":"Somogy","city":"Balatonszarszo","latitude":46.82946,"longitude":17.82426}}(window,'GeoPostal','HU');

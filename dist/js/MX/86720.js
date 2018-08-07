@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86720"]={"code":"86720","region":"Tabasco","city":"Ciudad Pemex","latitude":17.9,"longitude":-92.5}}(window,'GeoPostal','MX');

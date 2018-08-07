@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["719-3101"]={"code":"719-3101","region":"Okayama","city":"Maniwa","latitude":35.083,"longitude":133.683}}(window,'GeoPostal','JP');

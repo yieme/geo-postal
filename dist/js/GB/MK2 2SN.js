@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK2 2SN"]={"code":"MK2 2SN","region":"England","city":"Bletchley","latitude":51.99334,"longitude":-0.73471}}(window,'GeoPostal','GB');

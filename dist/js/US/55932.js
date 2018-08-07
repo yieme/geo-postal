@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55932"]={"code":"55932","region":"MN","city":"Elgin","latitude":44.1358,"longitude":-92.2535}}(window,'GeoPostal','US');

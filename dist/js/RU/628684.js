@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628684"]={"code":"628684","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Megion","latitude":61.0296,"longitude":76.1136}}(window,'GeoPostal','RU');

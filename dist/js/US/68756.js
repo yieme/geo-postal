@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68756"]={"code":"68756","region":"Nebraska","city":"Neligh","latitude":42.12862,"longitude":-98.02979}}(window,'GeoPostal','US');

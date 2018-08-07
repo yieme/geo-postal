@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 6219"]={"code":"AZ 6219","region":"Zaqatala","city":"Zaqatala","latitude":41.63361,"longitude":46.64333}}(window,'GeoPostal','AZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89010"]={"code":"89010","region":"Nevada","city":"Dyer","latitude":37.67832,"longitude":-118.0836}}(window,'GeoPostal','US');

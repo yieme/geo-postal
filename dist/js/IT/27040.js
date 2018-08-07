@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27040"]={"code":"27040","region":"Lombardia","city":"Borgo Priolo","latitude":44.96632,"longitude":9.14835}}(window,'GeoPostal','IT');

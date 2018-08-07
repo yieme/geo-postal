@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10508"]={"code":"10508","region":"Monsenor Nouel","city":"Piedra Blanca","latitude":18.84431,"longitude":-70.31688}}(window,'GeoPostal','DO');

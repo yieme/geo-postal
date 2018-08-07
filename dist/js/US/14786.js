@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14786"]={"code":"14786","region":"NY","city":"West Clarksville","latitude":42.1227,"longitude":-78.2213}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE70 7PF"]={"code":"NE70 7PF","region":"England","city":"Detchant","latitude":55.62219,"longitude":-1.86278}}(window,'GeoPostal','GB');

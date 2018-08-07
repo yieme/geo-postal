@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6032"]={"code":"6032","region":"Luzern","city":"Emmen","latitude":47.0811,"longitude":8.30477}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43326"]={"code":"43326","region":"Ohio","city":"Kenton","latitude":40.647,"longitude":-83.60965}}(window,'GeoPostal','US');

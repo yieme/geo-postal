@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5710"]={"code":"5710","region":"San Luis","city":"San Luis","latitude":-33.29501,"longitude":-66.33563}}(window,'GeoPostal','AR');

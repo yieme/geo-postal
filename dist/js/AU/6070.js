@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6070"]={"code":"6070","region":"Western Australia","city":"Darlington","latitude":-31.91667,"longitude":116.08333}}(window,'GeoPostal','AU');

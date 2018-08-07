@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24558"]={"code":"24558","region":"Schleswig-Holstein","city":"Ulzburg","latitude":53.79284,"longitude":9.98383}}(window,'GeoPostal','DE');

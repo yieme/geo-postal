@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182204"]={"code":"182204","region":"Jammu and Kashmir","city":"Kishtwar","latitude":33.31667,"longitude":75.76667}}(window,'GeoPostal','IN');

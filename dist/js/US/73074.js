@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73074"]={"code":"73074","region":"OK","city":"Paoli","latitude":34.8285,"longitude":-97.2608}}(window,'GeoPostal','US');

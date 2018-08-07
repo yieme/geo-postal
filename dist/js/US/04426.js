@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04426"]={"code":"04426","region":"Maine","city":"Dover-Foxcroft","latitude":45.18339,"longitude":-69.22699}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80827"]={"code":"80827","region":"Colorado","city":"Lake George","latitude":38.98028,"longitude":-105.35778}}(window,'GeoPostal','US');

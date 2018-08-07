@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67169"]={"code":"67169","region":"Grand-Est","city":"Wissembourg","latitude":49.03708,"longitude":7.94548}}(window,'GeoPostal','FR');

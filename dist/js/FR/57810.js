@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57810"]={"code":"57810","region":"Grand-Est","city":"Bourdonnay","latitude":48.7203,"longitude":6.7297}}(window,'GeoPostal','FR');

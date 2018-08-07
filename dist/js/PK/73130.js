@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73130"]={"code":"73130","region":"Sindh","city":"Thatta","latitude":24.74745,"longitude":67.92353}}(window,'GeoPostal','PK');

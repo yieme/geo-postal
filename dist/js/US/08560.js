@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08560"]={"code":"08560","region":"NJ","city":"Titusville","latitude":40.3077,"longitude":-74.8655}}(window,'GeoPostal','US');

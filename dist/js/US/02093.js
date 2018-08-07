@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02093"]={"code":"02093","region":"MA","city":"Wrentham","latitude":42.0617,"longitude":-71.3396}}(window,'GeoPostal','US');

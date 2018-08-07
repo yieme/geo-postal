@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54654"]={"code":"54654","region":"Wisconsin","city":"Seneca","latitude":43.26498,"longitude":-90.95832}}(window,'GeoPostal','US');

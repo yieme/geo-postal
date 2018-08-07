@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07977"]={"code":"07977","region":"New Jersey","city":"Peapack","latitude":40.711288,"longitude":-74.658922}}(window,'GeoPostal','US');

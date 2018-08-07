@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34298"]={"code":"34298","region":"Bayern","city":"Trubenbrunn","latitude":51.26667,"longitude":9.7}}(window,'GeoPostal','DE');

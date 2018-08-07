@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88650"]={"code":"88650","region":"Grand-Est","city":"Anould","latitude":48.18526,"longitude":6.94597}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31000"]={"code":"31000","region":"Osjecko-baranjska zupanija","city":"Osijek","latitude":45.55111,"longitude":18.69389}}(window,'GeoPostal','HR');

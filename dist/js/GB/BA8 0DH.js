@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA8 0DH"]={"code":"BA8 0DH","region":"England","city":"Templecombe","latitude":50.99908,"longitude":-2.41578}}(window,'GeoPostal','GB');

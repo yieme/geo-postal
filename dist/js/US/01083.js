@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01083"]={"code":"01083","region":"Massachusetts","city":"Burlington","latitude":42.210107,"longitude":-72.195675}}(window,'GeoPostal','US');

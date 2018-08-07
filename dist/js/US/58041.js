@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58041"]={"code":"58041","region":"North Dakota","city":"Hankinson","latitude":46.07028,"longitude":-96.90139}}(window,'GeoPostal','US');

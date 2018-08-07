@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08869"]={"code":"08869","region":"New Jersey","city":"Raritan","latitude":40.56955,"longitude":-74.63294}}(window,'GeoPostal','US');

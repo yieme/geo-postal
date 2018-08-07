@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3501"]={"code":"3501","region":"Victoria","city":"Nichols Point","latitude":-34.2121,"longitude":142.21443}}(window,'GeoPostal','AU');

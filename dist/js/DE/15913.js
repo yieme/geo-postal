@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15913"]={"code":"15913","region":"Brandenburg","city":"Briesensee","latitude":51.95604,"longitude":14.00471}}(window,'GeoPostal','DE');

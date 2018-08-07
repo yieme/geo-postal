@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50206"]={"code":"50206","region":"IA","city":"New Providence","latitude":42.2693,"longitude":-93.1753}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2854"]={"code":"2854","region":"Entre Rios","city":"Larroque","latitude":-33.03595,"longitude":-59.00125}}(window,'GeoPostal','AR');

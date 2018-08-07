@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8770"]={"code":"8770","region":"Nordland","city":"Husoya","latitude":66.50159,"longitude":12.09645}}(window,'GeoPostal','NO');

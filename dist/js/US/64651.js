@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64651"]={"code":"64651","region":"Missouri","city":"Laclede","latitude":39.787493,"longitude":-93.169111}}(window,'GeoPostal','US');

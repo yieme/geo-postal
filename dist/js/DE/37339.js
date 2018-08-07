@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37339"]={"code":"37339","region":"Thuringen","city":"Teistungen","latitude":51.46667,"longitude":10.26667}}(window,'GeoPostal','DE');

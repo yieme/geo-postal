@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41555"]={"code":"41555","region":"Kentucky","city":"Pinsonfork","latitude":37.559186,"longitude":-82.193458}}(window,'GeoPostal','US');

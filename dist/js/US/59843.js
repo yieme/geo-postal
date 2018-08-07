@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59843"]={"code":"59843","region":"Montana","city":"Helmville","latitude":46.880199,"longitude":-112.992557}}(window,'GeoPostal','US');

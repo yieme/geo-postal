@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12-114"]={"code":"12-114","region":"Warminsko-mazurskie","city":"Rozogi","latitude":53.48549,"longitude":21.36223}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43506"]={"code":"43506","region":"Ohio","city":"Bryan","latitude":41.47477,"longitude":-84.55245}}(window,'GeoPostal','US');

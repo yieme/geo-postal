@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6600"]={"code":"6600","region":"Luxembourg","city":"Bastogne","latitude":50.00347,"longitude":5.71844}}(window,'GeoPostal','BE');

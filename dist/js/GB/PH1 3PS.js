@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 3PS"]={"code":"PH1 3PS","region":"Scotland","city":"Methven","latitude":56.41512,"longitude":-3.58273}}(window,'GeoPostal','GB');

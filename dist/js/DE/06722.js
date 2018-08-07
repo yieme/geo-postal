@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06722"]={"code":"06722","region":"Thuringen","city":"Lindau","latitude":51.02004,"longitude":11.91497}}(window,'GeoPostal','DE');

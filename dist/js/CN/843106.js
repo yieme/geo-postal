@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["843106"]={"code":"843106","region":"Xinjiang","city":"Aksu","latitude":41.12306,"longitude":80.26444}}(window,'GeoPostal','CN');

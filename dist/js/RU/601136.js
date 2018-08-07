@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601136"]={"code":"601136","region":"Moskovskaya oblast'","city":"Kokoshkino","latitude":55.59769,"longitude":37.1695}}(window,'GeoPostal','RU');

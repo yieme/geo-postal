@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06024"]={"code":"06024","region":"Umbria","city":"Gubbio","latitude":43.35445,"longitude":12.57246}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48017"]={"code":"48017","region":"MI","city":"Clawson","latitude":42.5365,"longitude":-83.1503}}(window,'GeoPostal','US');

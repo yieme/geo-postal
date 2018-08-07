@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM5 9ND"]={"code":"CM5 9ND","region":"England","city":"High Ongar","latitude":51.71038,"longitude":0.26376}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88800-000"]={"code":"88800-000","region":"Santa Catarina","city":"Criciuma","latitude":-28.6775,"longitude":-49.36972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB30 1WR"]={"code":"AB30 1WR","region":"Scotland","city":"Auchinblae","latitude":56.9,"longitude":-2.45}}(window,'GeoPostal','GB');

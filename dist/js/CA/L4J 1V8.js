@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4J 1V8"]={"code":"L4J 1V8","region":"Ontario","city":"Thornhill","latitude":43.806388,"longitude":-79.422319}}(window,'GeoPostal','CA');

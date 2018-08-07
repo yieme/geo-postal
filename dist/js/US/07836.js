@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07836"]={"code":"07836","region":"New Jersey","city":"Flanders","latitude":40.8511,"longitude":-74.7078}}(window,'GeoPostal','US');

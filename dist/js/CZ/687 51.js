@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 51"]={"code":"687 51","region":"Zlinsky kraj","city":"Nivnice","latitude":48.97465,"longitude":17.64757}}(window,'GeoPostal','CZ');

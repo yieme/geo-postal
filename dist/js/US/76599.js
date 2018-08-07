@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76599"]={"code":"76599","region":"TX","city":"Gatesville","latitude":31.4706,"longitude":-97.7347}}(window,'GeoPostal','US');

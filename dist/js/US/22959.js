@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22959"]={"code":"22959","region":"VA","city":"North Garden","latitude":37.9336,"longitude":-78.6351}}(window,'GeoPostal','US');

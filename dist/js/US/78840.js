@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78840"]={"code":"78840","region":"Texas","city":"Del Rio","latitude":29.36273,"longitude":-100.89676}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27006"]={"code":"27006","region":"North Carolina","city":"Advance","latitude":35.94125,"longitude":-80.40922}}(window,'GeoPostal','US');

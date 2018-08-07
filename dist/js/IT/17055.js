@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17055"]={"code":"17055","region":"Liguria","city":"Toirano","latitude":44.12753,"longitude":8.20485}}(window,'GeoPostal','IT');

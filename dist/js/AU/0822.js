@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0822"]={"code":"0822","region":"Northern Territory","city":"Jabiru","latitude":-12.67049,"longitude":132.83604}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35502"]={"code":"35502","region":"AL","city":"Jasper","latitude":33.8312,"longitude":-87.2775}}(window,'GeoPostal','US');

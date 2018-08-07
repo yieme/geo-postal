@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36955-000"]={"code":"36955-000","region":"Minas Gerais","city":"Mutum","latitude":-19.8,"longitude":-41.43833}}(window,'GeoPostal','BR');

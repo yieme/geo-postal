@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337543"]={"code":"337543","region":"Iasi","city":"Dumesti","latitude":46.85,"longitude":27.28333}}(window,'GeoPostal','RO');

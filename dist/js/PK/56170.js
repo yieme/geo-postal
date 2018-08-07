@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56170"]={"code":"56170","region":"Punjab","city":"Hujra","latitude":30.74179,"longitude":73.82358}}(window,'GeoPostal','PK');

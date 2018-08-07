@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78737"]={"code":"78737","region":"Rheinland-Pfalz","city":"Winzeln","latitude":49.18931,"longitude":7.5676}}(window,'GeoPostal','DE');

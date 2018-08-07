@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97841"]={"code":"97841","region":"Oregon","city":"Imbler","latitude":45.470828,"longitude":-117.963147}}(window,'GeoPostal','US');

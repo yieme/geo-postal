@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67861"]={"code":"67861","region":"Kansas","city":"Leoti","latitude":38.47974,"longitude":-101.35877}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66759"]={"code":"66759","region":"KS","city":"New Albany","latitude":37.569,"longitude":-95.9379}}(window,'GeoPostal','US');

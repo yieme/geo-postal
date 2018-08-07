@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99020"]={"code":"99020","region":"WA","city":"Marshall","latitude":47.5649,"longitude":-117.4994}}(window,'GeoPostal','US');

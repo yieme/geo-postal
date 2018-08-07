@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47600-000"]={"code":"47600-000","region":"Bahia","city":"Bom Jesus da Lapa","latitude":-13.255,"longitude":-43.41806}}(window,'GeoPostal','BR');

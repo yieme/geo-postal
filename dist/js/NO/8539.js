@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8539"]={"code":"8539","region":"Nordland","city":"Bogen","latitude":68.52647,"longitude":16.9928}}(window,'GeoPostal','NO');

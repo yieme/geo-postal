@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV18 0DL"]={"code":"IV18 0DL","region":"Scotland","city":"Invergordon","latitude":57.6886,"longitude":-4.16745}}(window,'GeoPostal','GB');

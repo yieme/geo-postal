@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42544"]={"code":"42544","region":"Kentucky","city":"Nancy","latitude":37.07167,"longitude":-84.74806}}(window,'GeoPostal','US');

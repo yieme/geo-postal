@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4450"]={"code":"4450","region":"Szabolcs-Szatmar-Bereg","city":"Tiszalok","latitude":48.01667,"longitude":21.38333}}(window,'GeoPostal','HU');

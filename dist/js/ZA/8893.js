@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8893"]={"code":"8893","region":"Northern Cape","city":"Springbok","latitude":-29.66434,"longitude":17.8865}}(window,'GeoPostal','ZA');

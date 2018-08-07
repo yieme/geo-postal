@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["672 01"]={"code":"672 01","region":"Jihomoravsky kraj","city":"Moravsky Krumlov","latitude":49.04893,"longitude":16.31169}}(window,'GeoPostal','CZ');

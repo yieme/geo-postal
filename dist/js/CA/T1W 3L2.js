@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1W 3L2"]={"code":"T1W 3L2","region":"Alberta","city":"Gap","latitude":51.05005,"longitude":-115.26876}}(window,'GeoPostal','CA');

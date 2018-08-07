@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3706"]={"code":"3706","region":"Chaco","city":"Avia Terai","latitude":-26.68532,"longitude":-60.7292}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6244"]={"code":"6244","region":"Western Australia","city":"Dinninup","latitude":-33.81667,"longitude":116.55}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70551"]={"code":"70551","region":"LA","city":"Leonville","latitude":30.4752,"longitude":-91.9737}}(window,'GeoPostal','US');

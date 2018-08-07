@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8420"]={"code":"8420","region":"Veszprem","city":"Zirc","latitude":47.26362,"longitude":17.87373}}(window,'GeoPostal','HU');

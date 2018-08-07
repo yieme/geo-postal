@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25183"]={"code":"25183","region":"WV","city":"Sharples","latitude":37.9204,"longitude":-81.8293}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 0NS"]={"code":"AB42 0NS","region":"Scotland","city":"Bullers of Buchan","latitude":57.43333,"longitude":-1.81667}}(window,'GeoPostal','GB');

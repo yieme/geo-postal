@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G84 0JH"]={"code":"G84 0JH","region":"Scotland","city":"Kilcreggan","latitude":55.9846,"longitude":-4.821}}(window,'GeoPostal','GB');

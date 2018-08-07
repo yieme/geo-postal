@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43356"]={"code":"43356","region":"OH","city":"Waldo","latitude":40.4605,"longitude":-83.0706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84110"]={"code":"84110","region":"Provence-Alpes-Cote d'Azur","city":"Sablet","latitude":44.19056,"longitude":5.00613}}(window,'GeoPostal','FR');

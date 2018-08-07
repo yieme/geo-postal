@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98604"]={"code":"98604","region":"Washington","city":"Battle Ground","latitude":45.78095,"longitude":-122.53343}}(window,'GeoPostal','US');

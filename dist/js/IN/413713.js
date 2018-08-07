@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413713"]={"code":"413713","region":"Maharashtra","city":"Sangamner","latitude":19.56667,"longitude":74.21667}}(window,'GeoPostal','IN');

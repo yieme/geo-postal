@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62620"]={"code":"62620","region":"Hauts-de-France","city":"Barlin","latitude":50.45238,"longitude":2.61955}}(window,'GeoPostal','FR');

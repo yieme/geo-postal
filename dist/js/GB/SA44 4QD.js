@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 4QD"]={"code":"SA44 4QD","region":"Wales","city":"Rhyd Owen","latitude":52.08333,"longitude":-4.28333}}(window,'GeoPostal','GB');

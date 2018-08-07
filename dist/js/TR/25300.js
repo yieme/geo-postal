@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25300"]={"code":"25300","region":"Erzurum","city":"Cobandede","latitude":39.97276,"longitude":41.87245}}(window,'GeoPostal','TR');

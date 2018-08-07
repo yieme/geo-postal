@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46649"]={"code":"46649","region":"Valenciana, Comunidad","city":"Mogente","latitude":38.87598,"longitude":-0.7515}}(window,'GeoPostal','ES');

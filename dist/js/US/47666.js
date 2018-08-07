@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47666"]={"code":"47666","region":"IN","city":"Patoka","latitude":38.4143,"longitude":-87.5958}}(window,'GeoPostal','US');

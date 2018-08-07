@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7130"]={"code":"7130","region":"Graubunden","city":"Ilanz","latitude":46.77413,"longitude":9.20461}}(window,'GeoPostal','CH');

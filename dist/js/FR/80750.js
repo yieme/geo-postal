@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80750"]={"code":"80750","region":"Hauts-de-France","city":"Candas","latitude":50.1081,"longitude":2.2603}}(window,'GeoPostal','FR');

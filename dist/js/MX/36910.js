@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36910"]={"code":"36910","region":"Michoacan de Ocampo","city":"La Piedad Cavadas","latitude":20.35,"longitude":-102}}(window,'GeoPostal','MX');

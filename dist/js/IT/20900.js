@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20900"]={"code":"20900","region":"Lombardia","city":"Monza","latitude":45.58248,"longitude":9.27485}}(window,'GeoPostal','IT');

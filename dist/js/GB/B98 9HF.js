@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B98 9HF"]={"code":"B98 9HF","region":"England","city":"Thorne","latitude":53.61122,"longitude":-0.96308}}(window,'GeoPostal','GB');

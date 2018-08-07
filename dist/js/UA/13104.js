@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13104"]={"code":"13104","region":"Zhytomyrska oblast","city":"Lyubar","latitude":49.92045,"longitude":27.75918}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142409"]={"code":"142409","region":"Moskovskaya oblast'","city":"Noginsk","latitude":55.86647,"longitude":38.4438}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72928"]={"code":"72928","region":"AR","city":"Branch","latitude":35.2971,"longitude":-93.9454}}(window,'GeoPostal','US');

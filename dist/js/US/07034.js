@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07034"]={"code":"07034","region":"NJ","city":"Lake Hiawatha","latitude":40.8825,"longitude":-74.383}}(window,'GeoPostal','US');

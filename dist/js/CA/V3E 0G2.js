@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3E 0G2"]={"code":"V3E 0G2","region":"British Columbia","city":"Alvin","latitude":49.59967,"longitude":-122.63593}}(window,'GeoPostal','CA');

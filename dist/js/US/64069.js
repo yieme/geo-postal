@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64069"]={"code":"64069","region":"MO","city":"Liberty","latitude":39.2461,"longitude":-94.4191}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32003"]={"code":"32003","region":"El Bayadh","city":"El Abiodh Sidi Cheikh","latitude":32.893,"longitude":0.54839}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38700-000"]={"code":"38700-000","region":"Minas Gerais","city":"Patos de Minas","latitude":-18.57889,"longitude":-46.51806}}(window,'GeoPostal','BR');

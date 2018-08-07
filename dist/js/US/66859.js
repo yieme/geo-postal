@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66859"]={"code":"66859","region":"Kansas","city":"Lost Springs","latitude":38.565602,"longitude":-96.98516}}(window,'GeoPostal','US');

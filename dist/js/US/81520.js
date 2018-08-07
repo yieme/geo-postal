@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81520"]={"code":"81520","region":"CO","city":"Clifton","latitude":39.0805,"longitude":-108.4496}}(window,'GeoPostal','US');

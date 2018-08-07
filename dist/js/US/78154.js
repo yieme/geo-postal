@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78154"]={"code":"78154","region":"Texas","city":"Schertz","latitude":29.55217,"longitude":-98.26973}}(window,'GeoPostal','US');

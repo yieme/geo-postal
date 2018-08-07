@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 2E0"]={"code":"S0G 2E0","region":"Saskatchewan","city":"Hanley","latitude":51.63337,"longitude":-106.43453}}(window,'GeoPostal','CA');

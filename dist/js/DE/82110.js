@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82110"]={"code":"82110","region":"Bayern","city":"Germering","latitude":47.90679,"longitude":12.11835}}(window,'GeoPostal','DE');

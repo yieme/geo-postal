@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62200"]={"code":"62200","region":"Etela-Pohjanmaa","city":"Kauhava","latitude":63.10299,"longitude":23.07129}}(window,'GeoPostal','FI');

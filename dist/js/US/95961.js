@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95961"]={"code":"95961","region":"California","city":"Olivehurst","latitude":39.086269,"longitude":-121.550175}}(window,'GeoPostal','US');

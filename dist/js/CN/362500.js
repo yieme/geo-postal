@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362500"]={"code":"362500","region":"Fujian","city":"Xunzhong","latitude":25.47805,"longitude":118.24366}}(window,'GeoPostal','CN');

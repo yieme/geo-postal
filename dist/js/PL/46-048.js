@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-048"]={"code":"46-048","region":"Opolskie","city":"Zebowice","latitude":50.7629,"longitude":18.34434}}(window,'GeoPostal','PL');

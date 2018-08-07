@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84490"]={"code":"84490","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Saturnin-les-Apt","latitude":43.93333,"longitude":5.38333}}(window,'GeoPostal','FR');

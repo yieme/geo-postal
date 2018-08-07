@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28589"]={"code":"28589","region":"NC","city":"Williston","latitude":34.7893,"longitude":-76.5052}}(window,'GeoPostal','US');

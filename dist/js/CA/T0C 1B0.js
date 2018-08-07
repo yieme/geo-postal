@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1B0"]={"code":"T0C 1B0","region":"Alberta","city":"Consort","latitude":52.01683,"longitude":-110.76836}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41701"]={"code":"41701","region":"Kentucky","city":"Hazard","latitude":37.253599,"longitude":-83.187647}}(window,'GeoPostal','US');

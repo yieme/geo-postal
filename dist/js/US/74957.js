@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74957"]={"code":"74957","region":"Oklahoma","city":"Smithville","latitude":34.482582,"longitude":-94.580165}}(window,'GeoPostal','US');

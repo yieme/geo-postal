@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10970"]={"code":"10970","region":"New York","city":"Pomona","latitude":41.16704,"longitude":-74.0432}}(window,'GeoPostal','US');

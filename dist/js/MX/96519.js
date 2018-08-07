@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96519"]={"code":"96519","region":"Veracruz de Ignacio de la Llave","city":"Coatzacoalcos","latitude":18.15,"longitude":-94.41667}}(window,'GeoPostal','MX');

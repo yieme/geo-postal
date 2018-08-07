@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17179"]={"code":"17179","region":"Mecklenburg-Vorpommern","city":"Gnoien","latitude":53.9687,"longitude":12.71099}}(window,'GeoPostal','DE');

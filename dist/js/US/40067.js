@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40067"]={"code":"40067","region":"Kentucky","city":"Simpsonville","latitude":38.235629,"longitude":-85.354858}}(window,'GeoPostal','US');

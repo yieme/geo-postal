@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86871"]={"code":"86871","region":"Bayern","city":"Oberrammingen","latitude":48.05807,"longitude":10.58636}}(window,'GeoPostal','DE');

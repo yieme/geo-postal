@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 5NN"]={"code":"CH7 5NN","region":"Wales","city":"Cilcain","latitude":53.17819,"longitude":-3.23282}}(window,'GeoPostal','GB');

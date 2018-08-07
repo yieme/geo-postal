@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28897"]={"code":"28897","region":"Piemonte","city":"Valstrona","latitude":45.90767,"longitude":8.34322}}(window,'GeoPostal','IT');

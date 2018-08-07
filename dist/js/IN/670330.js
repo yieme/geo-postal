@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["670330"]={"code":"670330","region":"Kerala","city":"Payyannur","latitude":12.1,"longitude":75.2}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70392"]={"code":"70392","region":"Louisiana","city":"Patterson","latitude":29.69326,"longitude":-91.30205}}(window,'GeoPostal','US');

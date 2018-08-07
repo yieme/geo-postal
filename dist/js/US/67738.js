@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67738"]={"code":"67738","region":"Kansas","city":"Grinnell","latitude":39.123526,"longitude":-100.63118}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0S0"]={"code":"R0M 0S0","region":"Manitoba","city":"Griswold","latitude":49.775,"longitude":-100.47169}}(window,'GeoPostal','CA');

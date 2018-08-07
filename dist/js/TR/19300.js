@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19300"]={"code":"19300","region":"Ordu","city":"Kabatas","latitude":40.75,"longitude":37.45}}(window,'GeoPostal','TR');

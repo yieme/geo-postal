@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG13 7NN"]={"code":"SG13 7NN","region":"England","city":"Hertford","latitude":51.79588,"longitude":-0.07854}}(window,'GeoPostal','GB');

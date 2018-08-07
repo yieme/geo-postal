@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03249"]={"code":"03249","region":"Brandenburg","city":"Zeckerin","latitude":51.7112,"longitude":13.63206}}(window,'GeoPostal','DE');

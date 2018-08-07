@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8005-408"]={"code":"8005-408","region":"Faro","city":"Faro","latitude":37.01937,"longitude":-7.93223}}(window,'GeoPostal','PT');

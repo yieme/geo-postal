@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1485"]={"code":"1485","region":"New South Wales","city":"Kogarah","latitude":-33.98333,"longitude":151.11667}}(window,'GeoPostal','AU');

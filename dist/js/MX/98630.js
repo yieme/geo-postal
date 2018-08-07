@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98630"]={"code":"98630","region":"Zacatecas","city":"Tacualeche","latitude":22.81667,"longitude":-102.41667}}(window,'GeoPostal','MX');

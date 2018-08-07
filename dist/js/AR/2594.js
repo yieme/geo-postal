@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2594"]={"code":"2594","region":"Cordoba","city":"Leones","latitude":-32.66174,"longitude":-62.29678}}(window,'GeoPostal','AR');

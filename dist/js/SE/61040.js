@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61040"]={"code":"61040","region":"Ostergotlands lan","city":"Gusum","latitude":58.26667,"longitude":16.48333}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST14 5JF"]={"code":"ST14 5JF","region":"England","city":"Croxden","latitude":52.9545,"longitude":-1.90151}}(window,'GeoPostal','GB');

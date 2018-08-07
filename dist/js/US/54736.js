@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54736"]={"code":"54736","region":"Wisconsin","city":"Durand","latitude":44.628177,"longitude":-91.960273}}(window,'GeoPostal','US');

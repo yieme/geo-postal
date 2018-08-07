@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7474"]={"code":"7474","region":"Burgenland","city":"Hannersdorf","latitude":47.23333,"longitude":16.38333}}(window,'GeoPostal','AT');

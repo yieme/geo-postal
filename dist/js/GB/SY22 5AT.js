@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY22 5AT"]={"code":"SY22 5AT","region":"Wales","city":"Llanfyllin","latitude":52.7657,"longitude":-3.27187}}(window,'GeoPostal','GB');

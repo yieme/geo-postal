@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48434"]={"code":"48434","region":"Michigan","city":"Forestville","latitude":43.661375,"longitude":-82.610466}}(window,'GeoPostal','US');

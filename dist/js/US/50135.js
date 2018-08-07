@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50135"]={"code":"50135","region":"IA","city":"Kellogg","latitude":41.7184,"longitude":-92.9114}}(window,'GeoPostal','US');

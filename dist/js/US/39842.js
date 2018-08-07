@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39842"]={"code":"39842","region":"GA","city":"Dawson","latitude":31.7703,"longitude":-84.5238}}(window,'GeoPostal','US');

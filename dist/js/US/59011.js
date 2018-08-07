@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59011"]={"code":"59011","region":"Montana","city":"Big Timber","latitude":45.83494,"longitude":-109.95546}}(window,'GeoPostal','US');

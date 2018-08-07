@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43440"]={"code":"43440","region":"Punjab","city":"Hazro","latitude":33.90914,"longitude":72.49212}}(window,'GeoPostal','PK');

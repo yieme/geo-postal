@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694201"]={"code":"694201","region":"Sakhalinskaya oblast'","city":"Vostok","latitude":48.91667,"longitude":148.9}}(window,'GeoPostal','RU');

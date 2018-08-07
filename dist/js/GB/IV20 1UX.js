@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV20 1UX"]={"code":"IV20 1UX","region":"Scotland","city":"Shandwick","latitude":57.74987,"longitude":-3.91992}}(window,'GeoPostal','GB');

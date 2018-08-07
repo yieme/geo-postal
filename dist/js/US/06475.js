@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06475"]={"code":"06475","region":"Connecticut","city":"Old Saybrook","latitude":41.29974,"longitude":-72.39036}}(window,'GeoPostal','US');

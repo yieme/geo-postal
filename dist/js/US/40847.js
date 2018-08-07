@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40847"]={"code":"40847","region":"KY","city":"Kenvir","latitude":36.8537,"longitude":-83.1571}}(window,'GeoPostal','US');

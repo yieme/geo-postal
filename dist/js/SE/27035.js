@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27035"]={"code":"27035","region":"Skane lan","city":"Blentarp","latitude":55.58333,"longitude":13.6}}(window,'GeoPostal','SE');

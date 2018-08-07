@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38720-000"]={"code":"38720-000","region":"Minas Gerais","city":"Lagoa Formosa","latitude":-18.77861,"longitude":-46.4075}}(window,'GeoPostal','BR');

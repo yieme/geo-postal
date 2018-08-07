@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN32 9BG"]={"code":"DN32 9BG","region":"England","city":"Grimsby","latitude":53.56539,"longitude":-0.07553}}(window,'GeoPostal','GB');

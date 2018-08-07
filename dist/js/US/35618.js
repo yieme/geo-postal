@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35618"]={"code":"35618","region":"AL","city":"Courtland","latitude":34.6719,"longitude":-87.3143}}(window,'GeoPostal','US');

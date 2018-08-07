@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01910"]={"code":"01910","region":"MA","city":"Lynn","latitude":42.4548,"longitude":-70.9747}}(window,'GeoPostal','US');

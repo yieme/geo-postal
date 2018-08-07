@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354 91"]={"code":"354 91","region":"Karlovarsky kraj","city":"Lazne Kynzvart","latitude":50.01058,"longitude":12.62474}}(window,'GeoPostal','CZ');

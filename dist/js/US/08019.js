@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08019"]={"code":"08019","region":"New Jersey","city":"Chatsworth","latitude":39.8175,"longitude":-74.535}}(window,'GeoPostal','US');

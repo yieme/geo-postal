@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606508"]={"code":"606508","region":"Nizhegorodskaya oblast'","city":"Gorodets","latitude":56.65139,"longitude":43.475}}(window,'GeoPostal','RU');

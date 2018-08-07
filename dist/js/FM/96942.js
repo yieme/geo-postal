@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96942"]={"code":"96942","region":"Chuuk","city":"Weno Municipal Offices","latitude":7.44428,"longitude":151.84103}}(window,'GeoPostal','FM');

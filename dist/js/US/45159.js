@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45159"]={"code":"45159","region":"OH","city":"New Vienna","latitude":39.3321,"longitude":-83.6882}}(window,'GeoPostal','US');

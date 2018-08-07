@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2262"]={"code":"2262","region":"Dhaka","city":"Netrakona","latitude":24.88333,"longitude":90.71667}}(window,'GeoPostal','BD');

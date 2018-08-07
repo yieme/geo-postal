@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61379"]={"code":"61379","region":"Illinois","city":"Wyanet","latitude":41.36139,"longitude":-89.58278}}(window,'GeoPostal','US');

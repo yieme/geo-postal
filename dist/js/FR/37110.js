@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37110"]={"code":"37110","region":"Centre-Val de Loire","city":"Chateau-Renault","latitude":47.59188,"longitude":0.91143}}(window,'GeoPostal','FR');

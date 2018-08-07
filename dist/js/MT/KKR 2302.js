@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KKR 2302"]={"code":"KKR 2302","region":"Bormla","city":"Cospicua","latitude":35.88556,"longitude":14.5275}}(window,'GeoPostal','MT');

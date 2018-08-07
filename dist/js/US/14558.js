@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14558"]={"code":"14558","region":"NY","city":"South Lima","latitude":42.8554,"longitude":-77.6876}}(window,'GeoPostal','US');

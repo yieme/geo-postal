@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["958 03"]={"code":"958 03","region":"Nitriansky kraj","city":"Partizanske","latitude":48.62861,"longitude":18.38456}}(window,'GeoPostal','SK');

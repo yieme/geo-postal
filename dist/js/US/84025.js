@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84025"]={"code":"84025","region":"Utah","city":"Farmington","latitude":40.9805,"longitude":-111.88744}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28756"]={"code":"28756","region":"North Carolina","city":"Mill Spring","latitude":35.341621,"longitude":-82.171272}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["514 01"]={"code":"514 01","region":"Liberecky kraj","city":"Jilemnice","latitude":50.6089,"longitude":15.50653}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45321"]={"code":"45321","region":"OH","city":"Eldorado","latitude":39.8882,"longitude":-84.6786}}(window,'GeoPostal','US');

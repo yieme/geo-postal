@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90612"]={"code":"90612","region":"CA","city":"Whittier","latitude":33.96,"longitude":-118.02}}(window,'GeoPostal','US');

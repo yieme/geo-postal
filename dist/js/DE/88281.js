@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88281"]={"code":"88281","region":"Baden-Wurttemberg","city":"Fenken","latitude":47.77376,"longitude":9.65348}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6323"]={"code":"6323","region":"La Pampa","city":"Santa Isabel","latitude":-36.22724,"longitude":-66.9424}}(window,'GeoPostal','AR');

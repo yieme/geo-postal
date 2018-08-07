@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24311"]={"code":"24311","region":"Aceh","city":"Lhokseumawe","latitude":5.1801,"longitude":97.1507}}(window,'GeoPostal','ID');

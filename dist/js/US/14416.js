@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14416"]={"code":"14416","region":"NY","city":"Bergen","latitude":43.0869,"longitude":-77.9603}}(window,'GeoPostal','US');

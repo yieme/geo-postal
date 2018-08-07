@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84489"]={"code":"84489","region":"Bayern","city":"Burghausen","latitude":48.16925,"longitude":12.83139}}(window,'GeoPostal','DE');

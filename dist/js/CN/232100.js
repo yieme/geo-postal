@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["232100"]={"code":"232100","region":"Anhui","city":"Fengtai","latitude":32.70825,"longitude":116.72956}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44067"]={"code":"44067","region":"Ohio","city":"Northfield","latitude":41.3124,"longitude":-81.54216}}(window,'GeoPostal','US');

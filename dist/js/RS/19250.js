@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19250"]={"code":"19250","region":"Borski okrug","city":"Majdanpek","latitude":44.42771,"longitude":21.94596}}(window,'GeoPostal','RS');

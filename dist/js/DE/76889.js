@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76889"]={"code":"76889","region":"Rheinland-Pfalz","city":"Dorrenbach","latitude":49.08972,"longitude":7.9614}}(window,'GeoPostal','DE');

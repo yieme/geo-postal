@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65444"]={"code":"65444","region":"MO","city":"Bucyrus","latitude":37.3972,"longitude":-92.0465}}(window,'GeoPostal','US');

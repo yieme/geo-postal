@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40440"]={"code":"40440","region":"KY","city":"Junction City","latitude":37.5822,"longitude":-84.8028}}(window,'GeoPostal','US');

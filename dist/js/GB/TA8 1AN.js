@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA8 1AN"]={"code":"TA8 1AN","region":"England","city":"Burnham-on-Sea","latitude":51.23862,"longitude":-2.9978}}(window,'GeoPostal','GB');

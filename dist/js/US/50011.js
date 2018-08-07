@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50011"]={"code":"50011","region":"Iowa","city":"Ames","latitude":42.022675,"longitude":-93.642525}}(window,'GeoPostal','US');

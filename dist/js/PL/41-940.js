@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-940"]={"code":"41-940","region":"Slaskie","city":"Piekary Slaskie","latitude":50.38017,"longitude":18.92653}}(window,'GeoPostal','PL');

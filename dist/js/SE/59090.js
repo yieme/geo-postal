@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59090"]={"code":"59090","region":"Kalmar lan","city":"Ankarsrum","latitude":57.7,"longitude":16.31667}}(window,'GeoPostal','SE');

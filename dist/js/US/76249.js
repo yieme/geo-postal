@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76249"]={"code":"76249","region":"TX","city":"Krum","latitude":33.2734,"longitude":-97.2675}}(window,'GeoPostal','US');

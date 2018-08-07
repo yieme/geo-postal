@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN8 8EX"]={"code":"BN8 8EX","region":"England","city":"Aldridge","latitude":52.60549,"longitude":-1.91715}}(window,'GeoPostal','GB');

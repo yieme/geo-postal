@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02634"]={"code":"02634","region":"MA","city":"Centerville","latitude":41.6487,"longitude":-70.3481}}(window,'GeoPostal','US');

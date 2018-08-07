@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94017"]={"code":"94017","region":"Sicilia","city":"Regalbuto","latitude":37.65265,"longitude":14.64088}}(window,'GeoPostal','IT');

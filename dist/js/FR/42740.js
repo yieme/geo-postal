@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42740"]={"code":"42740","region":"Auvergne-Rhone-Alpes","city":"Saint-Paul-en-Jarez","latitude":45.48239,"longitude":4.57132}}(window,'GeoPostal','FR');

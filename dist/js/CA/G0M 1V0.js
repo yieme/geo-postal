@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0M 1V0"]={"code":"G0M 1V0","region":"Quebec","city":"Saint-Honore-de-Shenley","latitude":45.96677,"longitude":-70.83234}}(window,'GeoPostal','CA');

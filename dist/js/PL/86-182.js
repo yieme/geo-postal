@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-182"]={"code":"86-182","region":"Kujawsko-pomorskie","city":"Swiekatowo","latitude":53.41864,"longitude":18.09731}}(window,'GeoPostal','PL');

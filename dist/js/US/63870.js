@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63870"]={"code":"63870","region":"MO","city":"Parma","latitude":36.5856,"longitude":-89.819}}(window,'GeoPostal','US');

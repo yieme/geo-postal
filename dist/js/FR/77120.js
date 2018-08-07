@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77120"]={"code":"77120","region":"Ile-de-France","city":"Mouroux","latitude":48.82263,"longitude":3.03879}}(window,'GeoPostal','FR');

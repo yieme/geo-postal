@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57429"]={"code":"57429","region":"SD","city":"Brentford","latitude":45.1635,"longitude":-98.3193}}(window,'GeoPostal','US');

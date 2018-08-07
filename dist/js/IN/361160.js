@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361160"]={"code":"361160","region":"Gujarat","city":"Kalavad","latitude":22.21667,"longitude":70.38333}}(window,'GeoPostal','IN');

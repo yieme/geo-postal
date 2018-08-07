@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19300"]={"code":"19300","region":"Pasco","city":"Villa Rica","latitude":-10.73944,"longitude":-75.26972}}(window,'GeoPostal','PE');

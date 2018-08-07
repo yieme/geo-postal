@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["121013"]={"code":"121013","region":"Liaoning","city":"Jinzhou","latitude":41.10778,"longitude":121.14167}}(window,'GeoPostal','CN');

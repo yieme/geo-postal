@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF71 7DR"]={"code":"CF71 7DR","region":"Wales","city":"Saint Hilary","latitude":51.45056,"longitude":-3.41361}}(window,'GeoPostal','GB');

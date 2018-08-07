@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92152"]={"code":"92152","region":"Tanger-Tetouan","city":"Ksar el Kebir","latitude":35.00174,"longitude":-5.90534}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0L 1L0"]={"code":"V0L 1L0","region":"British Columbia","city":"Horsefly","latitude":52.33317,"longitude":-121.41939}}(window,'GeoPostal','CA');

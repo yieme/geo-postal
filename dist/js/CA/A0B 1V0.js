@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 1V0"]={"code":"A0B 1V0","region":"Newfoundland and Labrador","city":"Villa Marie","latitude":47.2999,"longitude":-53.84812}}(window,'GeoPostal','CA');

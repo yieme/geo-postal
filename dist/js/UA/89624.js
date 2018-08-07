@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89624"]={"code":"89624","region":"Zakarpatska oblast","city":"Nove Davydkovo","latitude":48.44133,"longitude":22.62164}}(window,'GeoPostal','UA');

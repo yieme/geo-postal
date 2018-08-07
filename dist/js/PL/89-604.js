@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-604"]={"code":"89-604","region":"Pomorskie","city":"Chojnice","latitude":53.69554,"longitude":17.55701}}(window,'GeoPostal','PL');

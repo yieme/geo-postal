@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52217"]={"code":"52217","region":"IA","city":"Clutier","latitude":42.0789,"longitude":-92.3763}}(window,'GeoPostal','US');

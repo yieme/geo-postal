@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 5AQ"]={"code":"SA33 5AQ","region":"Wales","city":"Llangain","latitude":51.81833,"longitude":-4.3475}}(window,'GeoPostal','GB');

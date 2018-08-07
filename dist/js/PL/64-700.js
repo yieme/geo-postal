@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-700"]={"code":"64-700","region":"Wielkopolskie","city":"Czarnkow","latitude":52.90214,"longitude":16.56413}}(window,'GeoPostal','PL');

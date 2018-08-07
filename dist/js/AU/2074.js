@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2074"]={"code":"2074","region":"New South Wales","city":"Turramurra","latitude":-33.73342,"longitude":151.12849}}(window,'GeoPostal','AU');

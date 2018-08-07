@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81230"]={"code":"81230","region":"Occitanie","city":"Lacaune","latitude":43.7066,"longitude":2.69293}}(window,'GeoPostal','FR');

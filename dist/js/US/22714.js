@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22714"]={"code":"22714","region":"VA","city":"Brandy Station","latitude":38.511,"longitude":-77.9037}}(window,'GeoPostal','US');

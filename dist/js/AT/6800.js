@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6800"]={"code":"6800","region":"Vorarlberg","city":"Feldkirch","latitude":47.23306,"longitude":9.6}}(window,'GeoPostal','AT');

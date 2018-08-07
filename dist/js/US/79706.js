@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79706"]={"code":"79706","region":"Texas","city":"Midland","latitude":31.991724,"longitude":-102.074367}}(window,'GeoPostal','US');

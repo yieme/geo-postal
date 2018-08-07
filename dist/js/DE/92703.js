@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92703"]={"code":"92703","region":"Bayern","city":"Krummennaab","latitude":49.83333,"longitude":12.1}}(window,'GeoPostal','DE');

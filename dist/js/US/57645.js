@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57645"]={"code":"57645","region":"SD","city":"Morristown","latitude":45.9386,"longitude":-101.7232}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19375"]={"code":"19375","region":"PA","city":"Unionville","latitude":39.8954,"longitude":-75.7344}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37026"]={"code":"37026","region":"TN","city":"Bradyville","latitude":35.7053,"longitude":-86.0912}}(window,'GeoPostal','US');

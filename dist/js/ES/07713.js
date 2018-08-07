@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07713"]={"code":"07713","region":"Illes Balears","city":"Sant Lluis","latitude":39.85263,"longitude":4.25939}}(window,'GeoPostal','ES');

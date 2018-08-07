@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["388180"]={"code":"388180","region":"Gujarat","city":"Sojitra","latitude":22.55,"longitude":72.71667}}(window,'GeoPostal','IN');

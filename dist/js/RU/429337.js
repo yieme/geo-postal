@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429337"]={"code":"429337","region":"Chuvashskaya Respublika","city":"Kanash","latitude":55.50861,"longitude":47.49556}}(window,'GeoPostal','RU');

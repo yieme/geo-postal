@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03814"]={"code":"03814","region":"NH","city":"Center Ossipee","latitude":43.7682,"longitude":-71.1349}}(window,'GeoPostal','US');

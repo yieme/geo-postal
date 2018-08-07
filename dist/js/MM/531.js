@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["531"]={"code":"531","region":"Yangon","city":"Rangoon","latitude":16.80528,"longitude":96.15611}}(window,'GeoPostal','MM');

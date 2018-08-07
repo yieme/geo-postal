@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29163"]={"code":"29163","region":"South Carolina","city":"Vance","latitude":33.43611,"longitude":-80.41972}}(window,'GeoPostal','US');

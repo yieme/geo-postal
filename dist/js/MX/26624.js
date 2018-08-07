@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26624"]={"code":"26624","region":"Chiapas","city":"Rayon","latitude":17.2,"longitude":-93}}(window,'GeoPostal','MX');

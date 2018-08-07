@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCHR11"]={"code":"JMCHR11","region":"Hanover","city":"Lucea","latitude":18.45095,"longitude":-78.17356}}(window,'GeoPostal','JM');

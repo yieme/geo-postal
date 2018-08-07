@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18418"]={"code":"18418","region":"Andalucia","city":"Orjiva","latitude":36.90259,"longitude":-3.42379}}(window,'GeoPostal','ES');

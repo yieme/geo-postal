@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20712"]={"code":"20712","region":"MD","city":"Mount Rainier","latitude":38.9431,"longitude":-76.9652}}(window,'GeoPostal','US');

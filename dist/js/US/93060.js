@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93060"]={"code":"93060","region":"California","city":"Santa Paula","latitude":34.357481,"longitude":-119.072174}}(window,'GeoPostal','US');

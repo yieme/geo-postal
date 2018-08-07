@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38043"]={"code":"38043","region":"Auvergne-Rhone-Alpes","city":"Grenoble","latitude":45.16667,"longitude":5.71667}}(window,'GeoPostal','FR');

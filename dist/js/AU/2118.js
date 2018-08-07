@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2118"]={"code":"2118","region":"New South Wales","city":"Carlingford","latitude":-33.78269,"longitude":151.04888}}(window,'GeoPostal','AU');

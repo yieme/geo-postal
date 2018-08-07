@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51632"]={"code":"51632","region":"Iowa","city":"Clarinda","latitude":40.74194,"longitude":-95.03831}}(window,'GeoPostal','US');

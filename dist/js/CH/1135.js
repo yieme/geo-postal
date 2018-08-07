@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1135"]={"code":"1135","region":"Vaud","city":"Saint-Prex","latitude":46.47963,"longitude":6.45992}}(window,'GeoPostal','CH');

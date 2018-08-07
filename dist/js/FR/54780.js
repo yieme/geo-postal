@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54780"]={"code":"54780","region":"Grand-Est","city":"Giraumont","latitude":49.17313,"longitude":5.91159}}(window,'GeoPostal','FR');

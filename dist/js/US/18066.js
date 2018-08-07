@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18066"]={"code":"18066","region":"PA","city":"New Tripoli","latitude":40.6545,"longitude":-75.7417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307250"]={"code":"307250","region":"Timis","city":"Lovrin","latitude":45.96806,"longitude":20.77028}}(window,'GeoPostal','RO');

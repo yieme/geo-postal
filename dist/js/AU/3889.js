@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3889"]={"code":"3889","region":"Victoria","city":"Murrungowar","latitude":-37.58333,"longitude":148.71667}}(window,'GeoPostal','AU');

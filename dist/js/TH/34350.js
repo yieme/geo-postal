@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34350"]={"code":"34350","region":"Buri Ram","city":"Chaloem Phra Kiat","latitude":14.55839,"longitude":102.92475}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64466"]={"code":"64466","region":"MO","city":"Maitland","latitude":40.1991,"longitude":-95.0927}}(window,'GeoPostal','US');

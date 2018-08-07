@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01463"]={"code":"01463","region":"Massachusetts","city":"Pepperell","latitude":42.66592,"longitude":-71.5884}}(window,'GeoPostal','US');

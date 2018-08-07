@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0NW"]={"code":"CA11 0NW","region":"England","city":"Patterdale","latitude":54.53373,"longitude":-2.93163}}(window,'GeoPostal','GB');

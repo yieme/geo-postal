@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6891"]={"code":"6891","region":"Gelderland","city":"Rozendaal","latitude":52.00583,"longitude":5.9625}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38044"]={"code":"38044","region":"TN","city":"Hornsby","latitude":35.2197,"longitude":-88.8263}}(window,'GeoPostal','US');

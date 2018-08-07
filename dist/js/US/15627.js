@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15627"]={"code":"15627","region":"PA","city":"Derry","latitude":40.3349,"longitude":-79.3326}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9JU"]={"code":"PO18 9JU","region":"England","city":"North Marden","latitude":50.93939,"longitude":-0.85058}}(window,'GeoPostal','GB');

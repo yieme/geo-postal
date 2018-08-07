@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 3YL"]={"code":"PO20 3YL","region":"England","city":"Westergate","latitude":50.83988,"longitude":-0.67123}}(window,'GeoPostal','GB');

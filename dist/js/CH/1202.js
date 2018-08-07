@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1202"]={"code":"1202","region":"Geneve","city":"Geneva","latitude":46.20222,"longitude":6.14569}}(window,'GeoPostal','CH');

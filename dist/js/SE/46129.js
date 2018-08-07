@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46129"]={"code":"46129","region":"Vastra Gotalands lan","city":"Trollhattan","latitude":58.28365,"longitude":12.28864}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16500"]={"code":"16500","region":"Nouvelle-Aquitaine","city":"Confolens","latitude":46.01667,"longitude":0.66667}}(window,'GeoPostal','FR');

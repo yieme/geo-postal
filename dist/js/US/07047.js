@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07047"]={"code":"07047","region":"New Jersey","city":"North Bergen","latitude":40.80427,"longitude":-74.01208}}(window,'GeoPostal','US');

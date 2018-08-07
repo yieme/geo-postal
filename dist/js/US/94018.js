@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94018"]={"code":"94018","region":"California","city":"Half Moon Bay","latitude":37.505034,"longitude":-122.470738}}(window,'GeoPostal','US');

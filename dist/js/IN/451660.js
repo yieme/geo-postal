@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["451660"]={"code":"451660","region":"Madhya Pradesh","city":"Dharampuri","latitude":22.16667,"longitude":75.35}}(window,'GeoPostal','IN');

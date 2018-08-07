@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087236"]={"code":"087236","region":"Giurgiu","city":"Bolintin Vale","latitude":44.44889,"longitude":25.75778}}(window,'GeoPostal','RO');

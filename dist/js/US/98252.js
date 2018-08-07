@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98252"]={"code":"98252","region":"WA","city":"Granite Falls","latitude":48.079,"longitude":-121.9428}}(window,'GeoPostal','US');

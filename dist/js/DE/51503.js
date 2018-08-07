@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51503"]={"code":"51503","region":"Nordrhein-Westfalen","city":"Hoffnungsthal","latitude":50.91421,"longitude":7.19755}}(window,'GeoPostal','DE');

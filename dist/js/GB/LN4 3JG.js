@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 3JG"]={"code":"LN4 3JG","region":"England","city":"Ashby de la Launde","latitude":53.08223,"longitude":-0.42803}}(window,'GeoPostal','GB');

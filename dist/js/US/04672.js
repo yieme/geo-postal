@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04672"]={"code":"04672","region":"ME","city":"Salsbury Cove","latitude":44.4306,"longitude":-68.2836}}(window,'GeoPostal','US');

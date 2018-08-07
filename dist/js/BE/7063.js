@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7063"]={"code":"7063","region":"Hainaut","city":"Soignies","latitude":50.57904,"longitude":4.07129}}(window,'GeoPostal','BE');

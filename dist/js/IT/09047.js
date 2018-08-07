@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09047"]={"code":"09047","region":"Sardegna","city":"Selargius","latitude":39.25667,"longitude":9.1675}}(window,'GeoPostal','IT');

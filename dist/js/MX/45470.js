@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45470"]={"code":"45470","region":"Jalisco","city":"Acatic","latitude":20.78333,"longitude":-102.88333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22548"]={"code":"22548","region":"VA","city":"Sharps","latitude":37.824,"longitude":-76.7008}}(window,'GeoPostal','US');

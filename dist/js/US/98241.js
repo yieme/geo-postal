@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98241"]={"code":"98241","region":"Washington","city":"Darrington","latitude":48.25539,"longitude":-121.60151}}(window,'GeoPostal','US');

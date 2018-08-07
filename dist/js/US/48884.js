@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48884"]={"code":"48884","region":"Michigan","city":"Sheridan","latitude":43.21222,"longitude":-85.07361}}(window,'GeoPostal','US');

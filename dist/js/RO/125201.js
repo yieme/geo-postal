@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125201"]={"code":"125201","region":"Buzau","city":"Pogoanele","latitude":44.91667,"longitude":27}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 0H0"]={"code":"R0A 0H0","region":"Manitoba","city":"Dominion City","latitude":49.14189,"longitude":-97.15626}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2130"]={"code":"2130","region":"Gafsa","city":"Al Metlaoui","latitude":34.32081,"longitude":8.40158}}(window,'GeoPostal','TN');

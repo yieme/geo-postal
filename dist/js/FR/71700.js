@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71700"]={"code":"71700","region":"Bourgogne-Franche-Comte","city":"Uchizy","latitude":46.5044,"longitude":4.8864}}(window,'GeoPostal','FR');

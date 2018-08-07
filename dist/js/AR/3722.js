@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3722"]={"code":"3722","region":"Chaco","city":"Las Brenas","latitude":-27.08966,"longitude":-61.08161}}(window,'GeoPostal','AR');

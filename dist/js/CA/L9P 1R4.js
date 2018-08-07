@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9P 1R4"]={"code":"L9P 1R4","region":"Ontario","city":"Uxbridge","latitude":44.031184,"longitude":-79.127053}}(window,'GeoPostal','CA');

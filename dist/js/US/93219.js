@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93219"]={"code":"93219","region":"CA","city":"Earlimart","latitude":35.8744,"longitude":-119.281}}(window,'GeoPostal','US');

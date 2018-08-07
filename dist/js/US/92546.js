@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92546"]={"code":"92546","region":"CA","city":"Hemet","latitude":33.7476,"longitude":-116.9731}}(window,'GeoPostal','US');

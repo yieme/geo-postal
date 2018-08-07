@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35587"]={"code":"35587","region":"AL","city":"Townley","latitude":33.847,"longitude":-87.4372}}(window,'GeoPostal','US');

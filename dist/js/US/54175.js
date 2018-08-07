@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54175"]={"code":"54175","region":"Wisconsin","city":"Townsend","latitude":45.31517,"longitude":-88.617613}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["800283"]={"code":"800283","region":"Kaduna","city":"Kaduna","latitude":10.52224,"longitude":7.43828}}(window,'GeoPostal','NG');

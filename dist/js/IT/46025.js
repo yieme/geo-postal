@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46025"]={"code":"46025","region":"Lombardia","city":"Poggio Rusco","latitude":44.97488,"longitude":11.1187}}(window,'GeoPostal','IT');

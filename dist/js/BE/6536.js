@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6536"]={"code":"6536","region":"Hainaut","city":"Thuin","latitude":50.33933,"longitude":4.28604}}(window,'GeoPostal','BE');

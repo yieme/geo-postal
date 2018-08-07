@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78118"]={"code":"78118","region":"Texas","city":"Karnes City","latitude":28.88706,"longitude":-97.90632}}(window,'GeoPostal','US');

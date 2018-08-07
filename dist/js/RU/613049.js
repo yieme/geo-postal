@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613049"]={"code":"613049","region":"Kirovskaya oblast'","city":"Kirovo-Chepetsk","latitude":58.55386,"longitude":50.03986}}(window,'GeoPostal','RU');

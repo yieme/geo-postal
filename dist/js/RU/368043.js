@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368043"]={"code":"368043","region":"Dagestan, Respublika","city":"Pokrovskoye","latitude":43.28872,"longitude":46.66527}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3293"]={"code":"3293","region":"Victoria","city":"Strathmore","latitude":-37.63333,"longitude":142.48333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65778"]={"code":"65778","region":"MO","city":"Myrtle","latitude":36.5217,"longitude":-91.2706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 07"]={"code":"538 07","region":"Pardubicky kraj","city":"Sec","latitude":49.84694,"longitude":15.65643}}(window,'GeoPostal','CZ');

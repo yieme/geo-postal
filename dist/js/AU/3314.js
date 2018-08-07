@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3314"]={"code":"3314","region":"Victoria","city":"Mooralla","latitude":-37.4,"longitude":142.13333}}(window,'GeoPostal','AU');

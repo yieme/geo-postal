@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347358"]={"code":"347358","region":"Kalmykiya, Respublika","city":"Arshan'","latitude":46.2732,"longitude":44.22}}(window,'GeoPostal','RU');

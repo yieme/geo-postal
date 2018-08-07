@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86015"]={"code":"86015","region":"AZ","city":"Bellemont","latitude":35.2381,"longitude":-111.8335}}(window,'GeoPostal','US');

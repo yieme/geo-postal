@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457001"]={"code":"457001","region":"Madhya Pradesh","city":"Ratlam","latitude":23.31667,"longitude":75.06667}}(window,'GeoPostal','IN');

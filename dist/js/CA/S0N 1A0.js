@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 1A0"]={"code":"S0N 1A0","region":"Saskatchewan","city":"Gull Lake","latitude":50.10007,"longitude":-108.48471}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78948"]={"code":"78948","region":"Texas","city":"Lincoln","latitude":30.317416,"longitude":-96.974481}}(window,'GeoPostal','US');

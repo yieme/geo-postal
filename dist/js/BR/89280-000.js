@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89280-000"]={"code":"89280-000","region":"Santa Catarina","city":"Corupa","latitude":-26.42528,"longitude":-49.24306}}(window,'GeoPostal','BR');

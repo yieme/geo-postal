@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7401"]={"code":"7401","region":"Somogy","city":"Kaposvar","latitude":46.36667,"longitude":17.8}}(window,'GeoPostal','HU');

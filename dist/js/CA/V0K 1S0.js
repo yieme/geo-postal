@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1S0"]={"code":"V0K 1S0","region":"British Columbia","city":"Hixon","latitude":53.40679,"longitude":-122.57514}}(window,'GeoPostal','CA');

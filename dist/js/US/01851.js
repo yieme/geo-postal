@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01851"]={"code":"01851","region":"Massachusetts","city":"Lowell","latitude":42.63037,"longitude":-71.332537}}(window,'GeoPostal','US');

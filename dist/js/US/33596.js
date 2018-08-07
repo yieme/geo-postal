@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33596"]={"code":"33596","region":"Florida","city":"Valrico","latitude":27.8924,"longitude":-82.2301}}(window,'GeoPostal','US');

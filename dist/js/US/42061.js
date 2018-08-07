@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42061"]={"code":"42061","region":"KY","city":"Lowes","latitude":36.8862,"longitude":-88.7728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5889"]={"code":"5889","region":"Wellington","city":"Castlepoint","latitude":-40.9,"longitude":176.21667}}(window,'GeoPostal','NZ');

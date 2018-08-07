@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3600"]={"code":"3600","region":"Waikato","city":"Paeroa","latitude":-37.36667,"longitude":175.66667}}(window,'GeoPostal','NZ');

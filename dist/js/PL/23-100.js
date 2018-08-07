@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-100"]={"code":"23-100","region":"Lubelskie","city":"Bychawa","latitude":51.01608,"longitude":22.53296}}(window,'GeoPostal','PL');

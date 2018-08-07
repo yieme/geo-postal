@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84200"]={"code":"84200","region":"Donetska oblast","city":"Druzhkovka","latitude":48.63013,"longitude":37.55259}}(window,'GeoPostal','UA');

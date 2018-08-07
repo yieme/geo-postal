@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN5 0PZ"]={"code":"LN5 0PZ","region":"England","city":"Leadenham","latitude":53.05791,"longitude":-0.58178}}(window,'GeoPostal','GB');

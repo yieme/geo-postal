@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H100"]={"code":"H100","region":"Hhohho","city":"Mbabane","latitude":-26.31667,"longitude":31.13333}}(window,'GeoPostal','SZ');

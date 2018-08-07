@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31077"]={"code":"31077","region":"Georgia","city":"Rhine","latitude":32.008325,"longitude":-83.199199}}(window,'GeoPostal','US');

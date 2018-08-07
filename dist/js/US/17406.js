@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17406"]={"code":"17406","region":"Pennsylvania","city":"Hallam","latitude":40.0152,"longitude":-76.59744}}(window,'GeoPostal','US');

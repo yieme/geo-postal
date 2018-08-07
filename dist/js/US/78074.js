@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78074"]={"code":"78074","region":"TX","city":"Waring","latitude":29.9523,"longitude":-98.7944}}(window,'GeoPostal','US');

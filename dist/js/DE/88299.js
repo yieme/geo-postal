@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88299"]={"code":"88299","region":"Baden-Wurttemberg","city":"Leutkirch im Allgau","latitude":47.82672,"longitude":10.0205}}(window,'GeoPostal','DE');

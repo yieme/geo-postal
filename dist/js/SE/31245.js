@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31245"]={"code":"31245","region":"Hallands lan","city":"Veinge","latitude":56.55,"longitude":13.06667}}(window,'GeoPostal','SE');

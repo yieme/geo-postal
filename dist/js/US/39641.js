@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39641"]={"code":"39641","region":"Mississippi","city":"Jayess","latitude":31.4094,"longitude":-90.18012}}(window,'GeoPostal','US');

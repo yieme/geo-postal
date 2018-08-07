@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62456"]={"code":"62456","region":"Kharkivska oblast","city":"Budy","latitude":49.89337,"longitude":36.02243}}(window,'GeoPostal','UA');

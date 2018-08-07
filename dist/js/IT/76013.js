@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76013"]={"code":"76013","region":"Puglia","city":"Minervino Murge","latitude":41.08433,"longitude":16.07837}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57775"]={"code":"57775","region":"South Dakota","city":"Quinn","latitude":44.0973,"longitude":-102.10992}}(window,'GeoPostal','US');

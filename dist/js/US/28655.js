@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28655"]={"code":"28655","region":"North Carolina","city":"Morganton","latitude":35.74541,"longitude":-81.68482}}(window,'GeoPostal','US');

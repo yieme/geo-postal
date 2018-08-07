@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16034"]={"code":"16034","region":"Pennsylvania","city":"Fenelton","latitude":40.8602,"longitude":-79.7166}}(window,'GeoPostal','US');

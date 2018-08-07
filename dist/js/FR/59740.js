@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59740"]={"code":"59740","region":"Hauts-de-France","city":"Solre-le-Chateau","latitude":50.1753,"longitude":4.0925}}(window,'GeoPostal','FR');

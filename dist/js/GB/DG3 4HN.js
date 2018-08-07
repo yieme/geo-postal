@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG3 4HN"]={"code":"DG3 4HN","region":"Scotland","city":"Moniaive","latitude":55.19723,"longitude":-3.91978}}(window,'GeoPostal','GB');

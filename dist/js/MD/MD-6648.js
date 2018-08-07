@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6648"]={"code":"MD-6648","region":"Stinga Nistrului, unitatea teritoriala din","city":"Camenca","latitude":48.03194,"longitude":28.69778}}(window,'GeoPostal','MD');

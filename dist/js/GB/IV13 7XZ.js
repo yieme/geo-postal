@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV13 7XZ"]={"code":"IV13 7XZ","region":"Scotland","city":"Clune","latitude":57.30795,"longitude":-3.99311}}(window,'GeoPostal','GB');

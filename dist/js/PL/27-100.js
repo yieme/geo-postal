@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-100"]={"code":"27-100","region":"Mazowieckie","city":"Ilza","latitude":51.16313,"longitude":21.23979}}(window,'GeoPostal','PL');

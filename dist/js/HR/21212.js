@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21212"]={"code":"21212","region":"Splitsko-dalmatinska zupanija","city":"Split","latitude":43.50891,"longitude":16.43915}}(window,'GeoPostal','HR');

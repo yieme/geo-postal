@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46138"]={"code":"46138","region":"Valenciana, Comunidad","city":"Massamagrell","latitude":39.56667,"longitude":-0.33333}}(window,'GeoPostal','ES');

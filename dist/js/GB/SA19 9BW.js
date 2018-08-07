@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 9BW"]={"code":"SA19 9BW","region":"Wales","city":"Llangadog","latitude":51.93807,"longitude":-3.88289}}(window,'GeoPostal','GB');

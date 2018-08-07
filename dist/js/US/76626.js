@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76626"]={"code":"76626","region":"Texas","city":"Blooming Grove","latitude":32.094731,"longitude":-96.718815}}(window,'GeoPostal','US');

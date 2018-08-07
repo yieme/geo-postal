@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60959"]={"code":"60959","region":"Michoacan de Ocampo","city":"Lazaro Cardenas","latitude":17.95833,"longitude":-102.2}}(window,'GeoPostal','MX');

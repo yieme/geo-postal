@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89614"]={"code":"89614","region":"Baden-Wurttemberg","city":"Gamerschwang","latitude":48.28608,"longitude":9.78019}}(window,'GeoPostal','DE');

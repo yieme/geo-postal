@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86438"]={"code":"86438","region":"Bayern","city":"Kissing","latitude":48.30375,"longitude":10.97088}}(window,'GeoPostal','DE');

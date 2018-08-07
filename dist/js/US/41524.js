@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41524"]={"code":"41524","region":"Kentucky","city":"Fedscreek","latitude":37.36878,"longitude":-82.2621}}(window,'GeoPostal','US');

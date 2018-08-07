@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2RR"]={"code":"LE14 2RR","region":"England","city":"Saxby","latitude":52.77162,"longitude":-0.78587}}(window,'GeoPostal','GB');

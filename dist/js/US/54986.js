@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54986"]={"code":"54986","region":"WI","city":"Winneconne","latitude":44.1187,"longitude":-88.7214}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04220"]={"code":"04220","region":"Maine","city":"Buckfield","latitude":44.283826,"longitude":-70.369601}}(window,'GeoPostal','US');

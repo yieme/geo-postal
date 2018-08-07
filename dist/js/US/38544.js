@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38544"]={"code":"38544","region":"TN","city":"Baxter","latitude":36.1249,"longitude":-85.6378}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-126"]={"code":"32-126","region":"Malopolskie","city":"Krakow","latitude":50.08333,"longitude":19.91667}}(window,'GeoPostal','PL');

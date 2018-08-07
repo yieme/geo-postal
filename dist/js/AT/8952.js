@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8952"]={"code":"8952","region":"Steiermark","city":"Irdning","latitude":47.50529,"longitude":14.10155}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03266"]={"code":"03266","region":"NH","city":"Rumney","latitude":43.8044,"longitude":-71.848}}(window,'GeoPostal','US');

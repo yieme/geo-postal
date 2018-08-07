@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6347"]={"code":"6347","region":"Bacs-Kiskun","city":"Ersekcsanad","latitude":46.25352,"longitude":18.98457}}(window,'GeoPostal','HU');

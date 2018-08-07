@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41000"]={"code":"41000","region":"Selangor","city":"Klang","latitude":3.03333,"longitude":101.45}}(window,'GeoPostal','MY');

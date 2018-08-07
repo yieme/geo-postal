@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 00"]={"code":"345 00","region":"Sterea Ellada","city":"Aliverion","latitude":38.41667,"longitude":24.03333}}(window,'GeoPostal','GR');

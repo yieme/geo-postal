@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22420"]={"code":"22420","region":"Bretagne","city":"Le Vieux-Marche","latitude":48.6,"longitude":-3.45}}(window,'GeoPostal','FR');

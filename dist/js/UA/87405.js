@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87405"]={"code":"87405","region":"Donetska oblast","city":"Manhush","latitude":47.05582,"longitude":37.31068}}(window,'GeoPostal','UA');

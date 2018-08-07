@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-120"]={"code":"55-120","region":"Dolnoslaskie","city":"Oborniki Slaskie","latitude":51.30137,"longitude":16.91465}}(window,'GeoPostal','PL');

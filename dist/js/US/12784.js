@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12784"]={"code":"12784","region":"NY","city":"Thompsonville","latitude":41.6681,"longitude":-74.6252}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422050"]={"code":"422050","region":"Tatarstan, Respublika","city":"Shemordan","latitude":56.1856,"longitude":50.3972}}(window,'GeoPostal','RU');

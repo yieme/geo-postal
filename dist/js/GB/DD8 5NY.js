@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 5NY"]={"code":"DD8 5NY","region":"Scotland","city":"Kirkton of Airlie","latitude":56.63333,"longitude":-3.11667}}(window,'GeoPostal','GB');

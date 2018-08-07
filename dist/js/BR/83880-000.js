@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83880-000"]={"code":"83880-000","region":"Santa Catarina","city":"Mafra","latitude":-26.11139,"longitude":-49.80528}}(window,'GeoPostal','BR');

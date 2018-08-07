@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26120"]={"code":"26120","region":"Auvergne-Rhone-Alpes","city":"Montmeyran","latitude":44.8332,"longitude":4.97473}}(window,'GeoPostal','FR');

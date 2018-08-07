@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99566"]={"code":"99566","region":"AK","city":"Chitina","latitude":61.5156,"longitude":-144.4396}}(window,'GeoPostal','US');

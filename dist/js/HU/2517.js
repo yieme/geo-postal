@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2517"]={"code":"2517","region":"Komarom-Esztergom","city":"Kesztolc","latitude":47.71266,"longitude":18.80177}}(window,'GeoPostal','HU');

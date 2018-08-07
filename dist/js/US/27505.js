@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27505"]={"code":"27505","region":"NC","city":"Broadway","latitude":35.4181,"longitude":-79.0435}}(window,'GeoPostal','US');

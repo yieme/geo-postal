@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170512"]={"code":"170512","region":"Tverskaya oblast'","city":"Sakharovo","latitude":56.89949,"longitude":36.05015}}(window,'GeoPostal','RU');

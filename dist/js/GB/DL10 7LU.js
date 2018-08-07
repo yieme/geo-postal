@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL10 7LU"]={"code":"DL10 7LU","region":"England","city":"Catterick","latitude":54.37542,"longitude":-1.63328}}(window,'GeoPostal','GB');

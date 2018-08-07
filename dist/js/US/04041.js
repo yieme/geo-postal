@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04041"]={"code":"04041","region":"ME","city":"Hiram","latitude":43.8622,"longitude":-70.8531}}(window,'GeoPostal','US');

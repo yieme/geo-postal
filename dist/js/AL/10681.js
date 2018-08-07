@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10681"]={"code":"10681","region":"Tirane","city":"Tirana","latitude":41.3275,"longitude":19.81889}}(window,'GeoPostal','AL');

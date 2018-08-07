@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58758-000"]={"code":"58758-000","region":"Paraiba","city":"Princesa Isabel","latitude":-7.73667,"longitude":-37.99333}}(window,'GeoPostal','BR');

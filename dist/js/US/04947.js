@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04947"]={"code":"04947","region":"Maine","city":"Kingfield","latitude":44.95922,"longitude":-70.15395}}(window,'GeoPostal','US');

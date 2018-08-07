@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04001"]={"code":"04001","region":"Oum el Bouaghi","city":"Ain Beida","latitude":35.79639,"longitude":7.39278}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33319"]={"code":"33319","region":"Nouvelle-Aquitaine","city":"Arcachon","latitude":44.65,"longitude":-1.16667}}(window,'GeoPostal','FR');

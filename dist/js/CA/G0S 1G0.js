@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0S 1G0"]={"code":"G0S 1G0","region":"Quebec","city":"Deschaillons-sur-Saint-Laurent","latitude":46.55005,"longitude":-72.1158}}(window,'GeoPostal','CA');

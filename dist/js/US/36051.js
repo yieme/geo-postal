@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36051"]={"code":"36051","region":"AL","city":"Marbury","latitude":32.6841,"longitude":-86.4946}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03099"]={"code":"03099","region":"Brandenburg","city":"Kolkwitz","latitude":51.75,"longitude":14.25}}(window,'GeoPostal','DE');

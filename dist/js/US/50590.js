@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50590"]={"code":"50590","region":"Iowa","city":"Swea City","latitude":43.383443,"longitude":-94.309323}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 2A0"]={"code":"V0J 2A0","region":"British Columbia","city":"Kitwanga","latitude":55.173407,"longitude":-128.155583}}(window,'GeoPostal','CA');

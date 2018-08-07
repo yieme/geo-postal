@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58532"]={"code":"58532","region":"ND","city":"Driscoll","latitude":46.8511,"longitude":-100.1441}}(window,'GeoPostal','US');

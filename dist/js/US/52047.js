@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52047"]={"code":"52047","region":"Iowa","city":"Farmersburg","latitude":42.950005,"longitude":-91.310182}}(window,'GeoPostal','US');

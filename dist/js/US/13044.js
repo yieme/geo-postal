@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13044"]={"code":"13044","region":"New York","city":"Constantia","latitude":43.24785,"longitude":-76.0002}}(window,'GeoPostal','US');

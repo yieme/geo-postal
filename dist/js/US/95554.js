@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95554"]={"code":"95554","region":"California","city":"Myers Flat","latitude":40.294411,"longitude":-123.80485}}(window,'GeoPostal','US');

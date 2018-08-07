@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60969"]={"code":"60969","region":"IL","city":"Union Hill","latitude":41.1088,"longitude":-88.1465}}(window,'GeoPostal','US');

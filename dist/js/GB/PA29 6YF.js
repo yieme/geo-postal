@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA29 6YF"]={"code":"PA29 6YF","region":"Scotland","city":"Rhu","latitude":55.81667,"longitude":-5.45}}(window,'GeoPostal','GB');

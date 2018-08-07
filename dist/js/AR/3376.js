@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3376"]={"code":"3376","region":"Misiones","city":"Colonia Wanda","latitude":-25.97408,"longitude":-54.42806}}(window,'GeoPostal','AR');

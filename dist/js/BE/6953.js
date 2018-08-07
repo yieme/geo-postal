@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6953"]={"code":"6953","region":"Luxembourg","city":"Nassogne","latitude":50.12849,"longitude":5.34274}}(window,'GeoPostal','BE');

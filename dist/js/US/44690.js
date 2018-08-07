@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44690"]={"code":"44690","region":"OH","city":"Winesburg","latitude":40.6164,"longitude":-81.6951}}(window,'GeoPostal','US');

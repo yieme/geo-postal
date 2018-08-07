@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95957"]={"code":"95957","region":"CA","city":"Meridian","latitude":39.052,"longitude":-121.8061}}(window,'GeoPostal','US');

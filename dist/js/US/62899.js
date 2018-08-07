@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62899"]={"code":"62899","region":"Illinois","city":"Xenia","latitude":38.6375,"longitude":-88.6375}}(window,'GeoPostal','US');

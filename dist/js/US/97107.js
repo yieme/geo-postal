@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97107"]={"code":"97107","region":"Oregon","city":"Bay City","latitude":45.5226,"longitude":-123.8893}}(window,'GeoPostal','US');

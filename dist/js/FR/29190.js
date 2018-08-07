@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29190"]={"code":"29190","region":"Bretagne","city":"Pleyben","latitude":48.23333,"longitude":-3.96667}}(window,'GeoPostal','FR');

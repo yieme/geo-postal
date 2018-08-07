@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3867"]={"code":"3867","region":"Kwazulu-Natal","city":"Mtunzini","latitude":-28.95,"longitude":31.75}}(window,'GeoPostal','ZA');

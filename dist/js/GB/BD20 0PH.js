@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 0PH"]={"code":"BD20 0PH","region":"England","city":"Silsden","latitude":53.91443,"longitude":-1.93802}}(window,'GeoPostal','GB');

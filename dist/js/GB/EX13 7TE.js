@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX13 7TE"]={"code":"EX13 7TE","region":"England","city":"Membury","latitude":50.81667,"longitude":-3.01667}}(window,'GeoPostal','GB');

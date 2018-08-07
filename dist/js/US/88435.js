@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88435"]={"code":"88435","region":"New Mexico","city":"Santa Rosa","latitude":34.93867,"longitude":-104.68249}}(window,'GeoPostal','US');

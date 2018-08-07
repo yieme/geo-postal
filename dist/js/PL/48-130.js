@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-130"]={"code":"48-130","region":"Opolskie","city":"Kietrz","latitude":50.08042,"longitude":18.00432}}(window,'GeoPostal','PL');

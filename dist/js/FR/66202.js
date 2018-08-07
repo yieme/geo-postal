@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66202"]={"code":"66202","region":"Occitanie","city":"Elne","latitude":42.60031,"longitude":2.97146}}(window,'GeoPostal','FR');

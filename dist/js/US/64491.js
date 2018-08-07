@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64491"]={"code":"64491","region":"Missouri","city":"Tarkio","latitude":40.44028,"longitude":-95.37776}}(window,'GeoPostal','US');

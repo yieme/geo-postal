@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6300"]={"code":"6300","region":"Syddanmark","city":"Grasten","latitude":54.91918,"longitude":9.59523}}(window,'GeoPostal','DK');

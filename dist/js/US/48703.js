@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48703"]={"code":"48703","region":"Michigan","city":"Au Gres","latitude":44.04361,"longitude":-83.68889}}(window,'GeoPostal','US');

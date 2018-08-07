@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS6 7EF"]={"code":"SS6 7EF","region":"England","city":"Rayleigh","latitude":51.58571,"longitude":0.60459}}(window,'GeoPostal','GB');

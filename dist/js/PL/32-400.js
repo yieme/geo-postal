@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-400"]={"code":"32-400","region":"Malopolskie","city":"Myslenice","latitude":49.83383,"longitude":19.9383}}(window,'GeoPostal','PL');

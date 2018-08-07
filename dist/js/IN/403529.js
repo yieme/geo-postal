@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403529"]={"code":"403529","region":"Goa","city":"Arambol","latitude":15.68681,"longitude":73.70449}}(window,'GeoPostal','IN');

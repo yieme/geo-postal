@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13190-000"]={"code":"13190-000","region":"Sao Paulo","city":"Monte Mor","latitude":-22.94667,"longitude":-47.31583}}(window,'GeoPostal','BR');

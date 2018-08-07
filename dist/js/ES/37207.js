@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37207"]={"code":"37207","region":"Castilla y Leon","city":"La Fuente de San Esteban","latitude":40.80161,"longitude":-6.25852}}(window,'GeoPostal','ES');

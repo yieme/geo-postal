@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62092"]={"code":"62092","region":"IL","city":"White Hall","latitude":39.4288,"longitude":-90.4019}}(window,'GeoPostal','US');

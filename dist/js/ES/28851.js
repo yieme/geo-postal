@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28851"]={"code":"28851","region":"Madrid, Comunidad de","city":"Torrejon de Ardoz","latitude":40.45535,"longitude":-3.46973}}(window,'GeoPostal','ES');

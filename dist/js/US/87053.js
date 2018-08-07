@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87053"]={"code":"87053","region":"NM","city":"San Ysidro","latitude":35.5634,"longitude":-106.7706}}(window,'GeoPostal','US');

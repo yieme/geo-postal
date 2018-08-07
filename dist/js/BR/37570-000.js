@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37570-000"]={"code":"37570-000","region":"Minas Gerais","city":"Ouro Fino","latitude":-22.282778,"longitude":-46.368889}}(window,'GeoPostal','BR');

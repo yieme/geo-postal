@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1G0"]={"code":"C0B 1G0","region":"Prince Edward Island","city":"North Bedeque","latitude":46.36683,"longitude":-63.71542}}(window,'GeoPostal','CA');

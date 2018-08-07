@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 0EA"]={"code":"SY5 0EA","region":"England","city":"Bromlow","latitude":52.60669,"longitude":-3.00099}}(window,'GeoPostal','GB');

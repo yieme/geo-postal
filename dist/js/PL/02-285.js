@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02-285"]={"code":"02-285","region":"Podlaskie","city":"Bialystok","latitude":53.13333,"longitude":23.15}}(window,'GeoPostal','PL');

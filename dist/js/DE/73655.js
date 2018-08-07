@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73655"]={"code":"73655","region":"Baden-Wurttemberg","city":"Pluderhausen","latitude":48.79875,"longitude":9.59587}}(window,'GeoPostal','DE');

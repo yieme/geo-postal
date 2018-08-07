@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445807"]={"code":"445807","region":"Hubei","city":"Zhongying","latitude":29.98303,"longitude":109.97126}}(window,'GeoPostal','CN');

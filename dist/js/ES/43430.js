@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43430"]={"code":"43430","region":"Catalunya","city":"Vimbodi","latitude":41.40069,"longitude":1.05056}}(window,'GeoPostal','ES');

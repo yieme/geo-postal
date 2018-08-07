@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 2T0"]={"code":"K0M 2T0","region":"Ontario","city":"Lorneville","latitude":44.41682,"longitude":-78.99958}}(window,'GeoPostal','CA');

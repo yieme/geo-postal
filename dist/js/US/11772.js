@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11772"]={"code":"11772","region":"New York","city":"Patchogue","latitude":40.77504,"longitude":-72.89574}}(window,'GeoPostal','US');

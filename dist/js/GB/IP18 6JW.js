@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP18 6JW"]={"code":"IP18 6JW","region":"England","city":"Southwold","latitude":52.32752,"longitude":1.67979}}(window,'GeoPostal','GB');

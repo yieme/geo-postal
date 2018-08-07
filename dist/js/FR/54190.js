@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54190"]={"code":"54190","region":"Grand-Est","city":"Villerupt","latitude":49.46737,"longitude":5.93285}}(window,'GeoPostal','FR');

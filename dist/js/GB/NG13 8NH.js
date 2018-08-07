@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 8NH"]={"code":"NG13 8NH","region":"England","city":"East Bridgford","latitude":52.97954,"longitude":-0.96563}}(window,'GeoPostal','GB');

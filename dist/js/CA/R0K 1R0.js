@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 1R0"]={"code":"R0K 1R0","region":"Manitoba","city":"Ninette","latitude":49.40002,"longitude":-99.62943}}(window,'GeoPostal','CA');

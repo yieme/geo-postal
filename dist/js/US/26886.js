@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26886"]={"code":"26886","region":"WV","city":"Onego","latitude":38.8017,"longitude":-79.4507}}(window,'GeoPostal','US');

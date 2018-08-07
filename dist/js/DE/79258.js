@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79258"]={"code":"79258","region":"Baden-Wurttemberg","city":"Hartheim","latitude":47.93333,"longitude":7.63333}}(window,'GeoPostal','DE');

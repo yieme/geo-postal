@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM3 6PA"]={"code":"CM3 6PA","region":"England","city":"Purleigh","latitude":51.68724,"longitude":0.65832}}(window,'GeoPostal','GB');

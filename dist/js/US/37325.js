@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37325"]={"code":"37325","region":"TN","city":"Delano","latitude":35.2612,"longitude":-84.6024}}(window,'GeoPostal','US');

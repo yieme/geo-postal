@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09435"]={"code":"09435","region":"Sachsen","city":"Scharfenstein","latitude":50.70405,"longitude":13.05654}}(window,'GeoPostal','DE');

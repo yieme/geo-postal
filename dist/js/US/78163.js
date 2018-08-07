@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78163"]={"code":"78163","region":"TX","city":"Bulverde","latitude":29.7767,"longitude":-98.4626}}(window,'GeoPostal','US');

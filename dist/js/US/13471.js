@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13471"]={"code":"13471","region":"NY","city":"Taberg","latitude":43.3366,"longitude":-75.6027}}(window,'GeoPostal','US');

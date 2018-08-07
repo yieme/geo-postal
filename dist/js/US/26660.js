@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26660"]={"code":"26660","region":"West Virginia","city":"Calvin","latitude":38.325799,"longitude":-80.706011}}(window,'GeoPostal','US');

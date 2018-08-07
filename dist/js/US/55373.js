@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55373"]={"code":"55373","region":"Minnesota","city":"Rockford","latitude":45.0896,"longitude":-93.7354}}(window,'GeoPostal','US');

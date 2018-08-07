@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97469"]={"code":"97469","region":"OR","city":"Riddle","latitude":42.9389,"longitude":-123.3612}}(window,'GeoPostal','US');

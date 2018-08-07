@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA2 7UW"]={"code":"WA2 7UW","region":"England","city":"Stockton Heath","latitude":53.37084,"longitude":-2.57406}}(window,'GeoPostal','GB');

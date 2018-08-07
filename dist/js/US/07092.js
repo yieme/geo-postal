@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07092"]={"code":"07092","region":"New Jersey","city":"Mountainside","latitude":40.676752,"longitude":-74.358765}}(window,'GeoPostal','US');

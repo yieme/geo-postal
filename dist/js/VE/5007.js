@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5007"]={"code":"5007","region":"Tachira","city":"San Antonio del Tachira","latitude":7.81454,"longitude":-72.4431}}(window,'GeoPostal','VE');

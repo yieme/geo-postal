@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08776"]={"code":"08776","region":"Catalunya","city":"Sant Pere de Riudebitlles","latitude":41.45,"longitude":1.7}}(window,'GeoPostal','ES');

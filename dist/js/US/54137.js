@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54137"]={"code":"54137","region":"WI","city":"Krakow","latitude":44.7635,"longitude":-88.2593}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2W0"]={"code":"V0N 2W0","region":"British Columbia","city":"Roberts Creek","latitude":49.42393,"longitude":-123.64692}}(window,'GeoPostal','CA');

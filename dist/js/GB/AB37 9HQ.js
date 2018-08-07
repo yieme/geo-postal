@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB37 9HQ"]={"code":"AB37 9HQ","region":"Scotland","city":"Lyne","latitude":57.33333,"longitude":-3.4}}(window,'GeoPostal','GB');

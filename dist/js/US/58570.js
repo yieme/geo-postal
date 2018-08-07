@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58570"]={"code":"58570","region":"ND","city":"Solen","latitude":46.3656,"longitude":-100.7831}}(window,'GeoPostal','US');

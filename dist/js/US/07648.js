@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07648"]={"code":"07648","region":"NJ","city":"Norwood","latitude":40.9952,"longitude":-73.9582}}(window,'GeoPostal','US');

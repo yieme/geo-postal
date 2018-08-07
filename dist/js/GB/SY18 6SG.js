@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY18 6SG"]={"code":"SY18 6SG","region":"Wales","city":"Llangurig","latitude":52.40618,"longitude":-3.60593}}(window,'GeoPostal','GB');

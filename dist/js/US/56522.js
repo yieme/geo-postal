@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56522"]={"code":"56522","region":"Minnesota","city":"Campbell","latitude":46.1259,"longitude":-96.44178}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3144"]={"code":"3144","region":"Nograd","city":"Matranovak","latitude":48.03809,"longitude":19.98257}}(window,'GeoPostal','HU');

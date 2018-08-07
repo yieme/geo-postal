@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49874"]={"code":"49874","region":"MI","city":"Powers","latitude":45.6792,"longitude":-87.5319}}(window,'GeoPostal','US');

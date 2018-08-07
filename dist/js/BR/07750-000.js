@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07750-000"]={"code":"07750-000","region":"Sao Paulo","city":"Cajamar","latitude":-23.35611,"longitude":-46.87694}}(window,'GeoPostal','BR');

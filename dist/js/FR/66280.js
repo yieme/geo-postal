@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66280"]={"code":"66280","region":"Occitanie","city":"Saleilles","latitude":42.65418,"longitude":2.95309}}(window,'GeoPostal','FR');

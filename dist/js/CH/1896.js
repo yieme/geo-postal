@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1896"]={"code":"1896","region":"Valais","city":"Tanay","latitude":46.34503,"longitude":6.83041}}(window,'GeoPostal','CH');

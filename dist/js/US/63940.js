@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63940"]={"code":"63940","region":"MO","city":"Fisk","latitude":36.7836,"longitude":-90.2168}}(window,'GeoPostal','US');

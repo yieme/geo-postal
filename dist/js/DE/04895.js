@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04895"]={"code":"04895","region":"Brandenburg","city":"Falkenberg","latitude":51.58558,"longitude":13.24347}}(window,'GeoPostal','DE');

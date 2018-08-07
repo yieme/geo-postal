@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 3DQ"]={"code":"IP31 3DQ","region":"England","city":"Badwell Ash","latitude":52.28333,"longitude":0.91667}}(window,'GeoPostal','GB');

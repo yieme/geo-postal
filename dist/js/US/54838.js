@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54838"]={"code":"54838","region":"Wisconsin","city":"Wascott","latitude":46.1725,"longitude":-91.798056}}(window,'GeoPostal','US');

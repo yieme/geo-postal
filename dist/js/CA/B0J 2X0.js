@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2X0"]={"code":"B0J 2X0","region":"Nova Scotia","city":"Kingsburg","latitude":44.28431,"longitude":-64.26315}}(window,'GeoPostal','CA');

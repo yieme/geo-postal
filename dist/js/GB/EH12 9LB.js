@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH12 9LB"]={"code":"EH12 9LB","region":"Scotland","city":"Sighthill","latitude":55.92263,"longitude":-3.2853}}(window,'GeoPostal','GB');

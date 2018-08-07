@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72530"]={"code":"72530","region":"Pays-de-la-Loire","city":"Yvre-l'Eveque","latitude":48.015,"longitude":0.2672}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 05"]={"code":"338 05","region":"Plzensky kraj","city":"Myto","latitude":49.78904,"longitude":13.73461}}(window,'GeoPostal','CZ');

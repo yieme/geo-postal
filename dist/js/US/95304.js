@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95304"]={"code":"95304","region":"California","city":"Tracy","latitude":37.73965,"longitude":-121.42522}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57255"]={"code":"57255","region":"Grand-Est","city":"Sainte-Marie-aux-Chenes","latitude":49.19168,"longitude":6.00065}}(window,'GeoPostal','FR');

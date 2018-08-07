@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71370"]={"code":"71370","region":"Bourgogne-Franche-Comte","city":"Saint-Germain-du-Plain","latitude":46.69938,"longitude":4.9851}}(window,'GeoPostal','FR');

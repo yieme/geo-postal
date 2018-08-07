@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80063"]={"code":"80063","region":"Campania","city":"Ercolano","latitude":40.80631,"longitude":14.36093}}(window,'GeoPostal','IT');

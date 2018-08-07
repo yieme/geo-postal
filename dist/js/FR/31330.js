@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31330"]={"code":"31330","region":"Occitanie","city":"Larra","latitude":43.7397,"longitude":1.2319}}(window,'GeoPostal','FR');

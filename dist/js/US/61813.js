@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61813"]={"code":"61813","region":"IL","city":"Bement","latitude":39.9222,"longitude":-88.5688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0A0"]={"code":"T0E 0A0","region":"Alberta","city":"Alberta Beach","latitude":53.66684,"longitude":-114.35208}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72285"]={"code":"72285","region":"Baden-Wurttemberg","city":"Kalberbronn","latitude":48.53746,"longitude":8.49292}}(window,'GeoPostal','DE');

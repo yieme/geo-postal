@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-160"]={"code":"42-160","region":"Slaskie","city":"Krzepice","latitude":50.97059,"longitude":18.72886}}(window,'GeoPostal','PL');

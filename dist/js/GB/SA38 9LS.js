@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA38 9LS"]={"code":"SA38 9LS","region":"Wales","city":"Capel Iwan","latitude":51.99944,"longitude":-4.49361}}(window,'GeoPostal','GB');

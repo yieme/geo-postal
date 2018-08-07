@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99784"]={"code":"99784","region":"AK","city":"White Mountain","latitude":64.6814,"longitude":-163.4056}}(window,'GeoPostal','US');

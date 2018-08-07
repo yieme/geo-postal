@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1234"]={"code":"1234","region":"Menges","city":"Menges","latitude":46.16694,"longitude":14.575}}(window,'GeoPostal','SI');

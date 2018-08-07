@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40341"]={"code":"40341","region":"Guerrero","city":"Buenavista de Cuellar","latitude":18.45,"longitude":-99.41667}}(window,'GeoPostal','MX');

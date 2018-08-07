@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87305"]={"code":"87305","region":"NM","city":"Gallup","latitude":35.4499,"longitude":-108.7705}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47424"]={"code":"47424","region":"Indiana","city":"Bloomfield","latitude":39.02472,"longitude":-86.91306}}(window,'GeoPostal','US');

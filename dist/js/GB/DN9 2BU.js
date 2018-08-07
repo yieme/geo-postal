@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN9 2BU"]={"code":"DN9 2BU","region":"England","city":"Wroot","latitude":53.52336,"longitude":-0.92872}}(window,'GeoPostal','GB');

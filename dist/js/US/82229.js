@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82229"]={"code":"82229","region":"WY","city":"Shawnee","latitude":42.7477,"longitude":-105.0097}}(window,'GeoPostal','US');

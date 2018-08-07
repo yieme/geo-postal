@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29102"]={"code":"29102","region":"South Carolina","city":"Manning","latitude":33.69516,"longitude":-80.21091}}(window,'GeoPostal','US');

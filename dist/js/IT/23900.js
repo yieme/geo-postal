@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23900"]={"code":"23900","region":"Lombardia","city":"Lecco","latitude":45.85317,"longitude":9.39005}}(window,'GeoPostal','IT');

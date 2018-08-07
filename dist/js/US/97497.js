@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97497"]={"code":"97497","region":"OR","city":"Wolf Creek","latitude":42.6522,"longitude":-123.425}}(window,'GeoPostal','US');

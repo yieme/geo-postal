@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13049"]={"code":"13049","region":"Piemonte","city":"Tronzano Vercellese","latitude":45.34126,"longitude":8.17303}}(window,'GeoPostal','IT');

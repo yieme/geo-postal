@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6280"]={"code":"6280","region":"Koper","city":"Ankaran","latitude":45.57861,"longitude":13.73611}}(window,'GeoPostal','SI');

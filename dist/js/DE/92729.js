@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92729"]={"code":"92729","region":"Bayern","city":"Weiherhammer","latitude":49.63333,"longitude":12.06667}}(window,'GeoPostal','DE');

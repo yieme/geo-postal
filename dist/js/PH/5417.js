@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5417"]={"code":"5417","region":"Pangasinan","city":"Labney","latitude":16.1028,"longitude":120.4655}}(window,'GeoPostal','PH');

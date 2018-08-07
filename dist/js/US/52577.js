@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52577"]={"code":"52577","region":"Iowa","city":"Oskaloosa","latitude":41.2866,"longitude":-92.60028}}(window,'GeoPostal','US');

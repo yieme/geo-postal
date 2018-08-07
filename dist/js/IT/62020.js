@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62020"]={"code":"62020","region":"Marche","city":"Caldarola","latitude":43.14045,"longitude":13.22448}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742500"]={"code":"742500","region":"Gansu","city":"Longnan","latitude":33.4,"longitude":104.916667}}(window,'GeoPostal','CN');

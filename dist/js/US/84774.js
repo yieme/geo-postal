@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84774"]={"code":"84774","region":"UT","city":"Toquerville","latitude":37.2533,"longitude":-113.2847}}(window,'GeoPostal','US');

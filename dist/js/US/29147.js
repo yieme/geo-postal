@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29147"]={"code":"29147","region":"SC","city":"State Park","latitude":34.0907,"longitude":-80.9662}}(window,'GeoPostal','US');

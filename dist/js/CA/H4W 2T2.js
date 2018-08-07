@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H4W 2T2"]={"code":"H4W 2T2","region":"Quebec","city":"Cote-Saint-Luc","latitude":45.45759,"longitude":-73.675234}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55300"]={"code":"55300","region":"Punjab","city":"Pattoki","latitude":31.01667,"longitude":73.85}}(window,'GeoPostal','PK');

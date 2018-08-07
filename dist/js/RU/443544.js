@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443544"]={"code":"443544","region":"Samarskaya oblast'","city":"Kurumoch","latitude":53.48963,"longitude":50.03748}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80336"]={"code":"80336","region":"Bayern","city":"Ludwigsvorstadt","latitude":48.13591,"longitude":11.55573}}(window,'GeoPostal','DE');

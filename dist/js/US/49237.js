@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49237"]={"code":"49237","region":"Michigan","city":"Concord","latitude":42.17782,"longitude":-84.64302}}(window,'GeoPostal','US');

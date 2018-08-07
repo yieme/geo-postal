@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61344"]={"code":"61344","region":"Illinois","city":"Mineral","latitude":41.381392,"longitude":-89.837867}}(window,'GeoPostal','US');

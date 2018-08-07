@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9W 2C8"]={"code":"L9W 2C8","region":"Ontario","city":"Orangeville","latitude":43.921892,"longitude":-80.097995}}(window,'GeoPostal','CA');

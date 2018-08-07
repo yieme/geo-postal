@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246149"]={"code":"246149","region":"Uttarakhand","city":"Kalagarh","latitude":29.5,"longitude":78.75}}(window,'GeoPostal','IN');

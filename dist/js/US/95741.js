@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95741"]={"code":"95741","region":"California","city":"Rancho Cordova","latitude":38.58912,"longitude":-121.30158}}(window,'GeoPostal','US');

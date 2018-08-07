@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13310"]={"code":"13310","region":"Pulau Pinang","city":"Tasek Glugor","latitude":5.48032,"longitude":100.49849}}(window,'GeoPostal','MY');

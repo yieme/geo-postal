@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96931"]={"code":"96931","region":"Tamuning-Tumon-Harmon Municipality","city":"Tamuning-Tumon-Harmon Village","latitude":13.48773,"longitude":144.78138}}(window,'GeoPostal','GU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG14 7BD"]={"code":"NG14 7BD","region":"England","city":"Lowdham","latitude":53.01205,"longitude":-1.00483}}(window,'GeoPostal','GB');

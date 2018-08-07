@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03011"]={"code":"03011","region":"Lazio","city":"Alatri","latitude":41.73062,"longitude":13.3402}}(window,'GeoPostal','IT');

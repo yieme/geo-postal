@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 86"]={"code":"630 86","region":"Peloponnisos","city":"Karyes","latitude":40.25715,"longitude":24.24498}}(window,'GeoPostal','GR');

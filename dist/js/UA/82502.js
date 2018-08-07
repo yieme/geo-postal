@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82502"]={"code":"82502","region":"Lvivska oblast","city":"Turka","latitude":49.15411,"longitude":23.02967}}(window,'GeoPostal','UA');

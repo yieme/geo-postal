@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85902"]={"code":"85902","region":"AZ","city":"Show Low","latitude":34.2981,"longitude":-110.0352}}(window,'GeoPostal','US');

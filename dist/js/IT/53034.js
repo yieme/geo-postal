@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53034"]={"code":"53034","region":"Toscana","city":"Colle di Val d'Elsa","latitude":43.41514,"longitude":11.13142}}(window,'GeoPostal','IT');

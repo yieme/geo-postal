@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39201"]={"code":"39201","region":"Mississippi","city":"Jackson","latitude":32.29876,"longitude":-90.18481}}(window,'GeoPostal','US');

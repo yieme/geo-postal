@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9224"]={"code":"9224","region":"Turnisce","city":"Turnisce","latitude":46.62778,"longitude":16.32028}}(window,'GeoPostal','SI');

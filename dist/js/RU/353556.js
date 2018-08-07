@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353556"]={"code":"353556","region":"Krasnodarskiy kray","city":"Starotitarovskaya","latitude":45.21938,"longitude":37.15476}}(window,'GeoPostal','RU');

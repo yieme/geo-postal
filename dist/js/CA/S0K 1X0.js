@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 1X0"]={"code":"S0K 1X0","region":"Saskatchewan","city":"Hague","latitude":52.51118,"longitude":-106.41787}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48446"]={"code":"48446","region":"Michigan","city":"Lapeer","latitude":43.056087,"longitude":-83.329822}}(window,'GeoPostal','US');

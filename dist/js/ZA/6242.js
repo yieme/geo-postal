@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6242"]={"code":"6242","region":"Eastern Cape","city":"Uitenhage","latitude":-33.75757,"longitude":25.3971}}(window,'GeoPostal','ZA');

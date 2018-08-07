@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60446"]={"code":"60446","region":"Illinois","city":"Romeoville","latitude":41.64753,"longitude":-88.08951}}(window,'GeoPostal','US');

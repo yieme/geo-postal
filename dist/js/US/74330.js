@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74330"]={"code":"74330","region":"OK","city":"Adair","latitude":36.4115,"longitude":-95.2732}}(window,'GeoPostal','US');

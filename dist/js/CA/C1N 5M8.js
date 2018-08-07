@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1N 5M8"]={"code":"C1N 5M8","region":"Prince Edward Island","city":"Sherbrooke","latitude":46.42233,"longitude":-63.76122}}(window,'GeoPostal','CA');

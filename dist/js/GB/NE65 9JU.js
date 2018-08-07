@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9JU"]={"code":"NE65 9JU","region":"England","city":"Newton on the Moor","latitude":55.33333,"longitude":-1.73333}}(window,'GeoPostal','GB');

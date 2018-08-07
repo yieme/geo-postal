@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24866"]={"code":"24866","region":"WV","city":"Newhall","latitude":37.2637,"longitude":-81.6187}}(window,'GeoPostal','US');

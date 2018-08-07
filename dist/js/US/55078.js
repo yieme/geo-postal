@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55078"]={"code":"55078","region":"MN","city":"Stacy","latitude":45.398,"longitude":-92.9874}}(window,'GeoPostal','US');

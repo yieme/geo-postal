@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01899"]={"code":"01899","region":"MA","city":"Andover","latitude":42.6584,"longitude":-71.137}}(window,'GeoPostal','US');

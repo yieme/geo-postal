@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76836"]={"code":"76836","region":"TX","city":"Doole","latitude":31.3957,"longitude":-99.599}}(window,'GeoPostal','US');

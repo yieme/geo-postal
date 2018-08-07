@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72642"]={"code":"72642","region":"Arkansas","city":"Lakeview","latitude":36.37722,"longitude":-92.53472}}(window,'GeoPostal','US');

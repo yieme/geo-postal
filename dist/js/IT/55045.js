@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55045"]={"code":"55045","region":"Toscana","city":"Pietrasanta","latitude":43.95224,"longitude":10.2248}}(window,'GeoPostal','IT');

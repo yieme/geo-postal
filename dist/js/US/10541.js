@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10541"]={"code":"10541","region":"NY","city":"Mahopac","latitude":41.3717,"longitude":-73.7508}}(window,'GeoPostal','US');

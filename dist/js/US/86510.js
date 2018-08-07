@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86510"]={"code":"86510","region":"Arizona","city":"Pinon","latitude":36.10083,"longitude":-110.21944}}(window,'GeoPostal','US');

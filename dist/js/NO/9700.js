@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9700"]={"code":"9700","region":"Finnmark","city":"Lakselv","latitude":70.05133,"longitude":24.97182}}(window,'GeoPostal','NO');

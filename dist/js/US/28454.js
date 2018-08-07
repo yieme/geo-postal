@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28454"]={"code":"28454","region":"NC","city":"Maple Hill","latitude":34.6594,"longitude":-77.7117}}(window,'GeoPostal','US');

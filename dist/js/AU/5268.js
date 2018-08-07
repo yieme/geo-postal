@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5268"]={"code":"5268","region":"South Australia","city":"Bordertown","latitude":-36.30768,"longitude":140.77167}}(window,'GeoPostal','AU');

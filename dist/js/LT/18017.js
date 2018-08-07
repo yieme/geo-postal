@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18017"]={"code":"18017","region":"Vilniaus apskritis","city":"Pabrade","latitude":55,"longitude":25.78333}}(window,'GeoPostal','LT');

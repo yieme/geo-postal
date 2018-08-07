@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39632"]={"code":"39632","region":"Mississippi","city":"Chatawa","latitude":31.168899,"longitude":-90.473137}}(window,'GeoPostal','US');

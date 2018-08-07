@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71140"]={"code":"71140","region":"Kanchanaburi","city":"Phanom Thuan","latitude":14.13031,"longitude":99.69858}}(window,'GeoPostal','TH');

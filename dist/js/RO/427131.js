@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427131"]={"code":"427131","region":"Bistrita-Nasaud","city":"Rodna","latitude":47.41667,"longitude":24.81667}}(window,'GeoPostal','RO');

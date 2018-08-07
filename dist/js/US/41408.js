@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41408"]={"code":"41408","region":"Kentucky","city":"Cannel City","latitude":37.79,"longitude":-83.274167}}(window,'GeoPostal','US');

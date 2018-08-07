@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682860"]={"code":"682860","region":"Khabarovskiy kray","city":"Vanino","latitude":49.08686,"longitude":140.25434}}(window,'GeoPostal','RU');

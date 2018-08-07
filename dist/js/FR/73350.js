@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73350"]={"code":"73350","region":"Auvergne-Rhone-Alpes","city":"Bozel","latitude":45.44288,"longitude":6.64896}}(window,'GeoPostal','FR');

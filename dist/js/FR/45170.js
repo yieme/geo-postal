@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45170"]={"code":"45170","region":"Centre-Val de Loire","city":"Chilleurs-aux-Bois","latitude":48.0722,"longitude":2.1354}}(window,'GeoPostal','FR');

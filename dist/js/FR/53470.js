@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53470"]={"code":"53470","region":"Pays-de-la-Loire","city":"Commer","latitude":48.23333,"longitude":-0.61667}}(window,'GeoPostal','FR');

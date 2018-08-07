@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82665"]={"code":"82665","region":"Lvivska oblast","city":"Verkhnyaya Rozhanka","latitude":48.79185,"longitude":23.51569}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51250"]={"code":"51250","region":"Primorsko-goranska zupanija","city":"Novi Vinodolski","latitude":45.12806,"longitude":14.78889}}(window,'GeoPostal','HR');

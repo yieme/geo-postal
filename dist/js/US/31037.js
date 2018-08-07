@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31037"]={"code":"31037","region":"Georgia","city":"Helena","latitude":32.07379,"longitude":-82.91459}}(window,'GeoPostal','US');

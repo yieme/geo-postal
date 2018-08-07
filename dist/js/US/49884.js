@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49884"]={"code":"49884","region":"MI","city":"Shingleton","latitude":46.3512,"longitude":-86.4823}}(window,'GeoPostal','US');

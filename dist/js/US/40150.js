@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40150"]={"code":"40150","region":"KY","city":"Lebanon Junction","latitude":37.8511,"longitude":-85.7246}}(window,'GeoPostal','US');

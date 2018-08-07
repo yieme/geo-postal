@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363120"]={"code":"363120","region":"Severnaya Osetiya, Respublika","city":"Arkhonskaya","latitude":43.11,"longitude":44.5125}}(window,'GeoPostal','RU');

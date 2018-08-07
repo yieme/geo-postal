@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16234"]={"code":"16234","region":"PA","city":"Limestone","latitude":41.2023,"longitude":-79.4538}}(window,'GeoPostal','US');

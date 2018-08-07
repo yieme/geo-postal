@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192-0043"]={"code":"192-0043","region":"Tokyo","city":"Hachioji","latitude":35.666339,"longitude":139.315806}}(window,'GeoPostal','JP');

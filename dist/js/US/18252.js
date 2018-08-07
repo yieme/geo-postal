@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18252"]={"code":"18252","region":"PA","city":"Tamaqua","latitude":40.7983,"longitude":-75.9735}}(window,'GeoPostal','US');

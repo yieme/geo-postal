@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH5 2PS"]={"code":"CH5 2PS","region":"Wales","city":"Sandycroft","latitude":53.19537,"longitude":-2.9996}}(window,'GeoPostal','GB');

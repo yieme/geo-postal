@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL12 9AJ"]={"code":"LL12 9AJ","region":"Wales","city":"Hope","latitude":53.11667,"longitude":-3.03333}}(window,'GeoPostal','GB');

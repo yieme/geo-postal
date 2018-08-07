@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7148"]={"code":"7148","region":"Tolna","city":"Bataszek","latitude":46.19373,"longitude":18.72307}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2707"]={"code":"2707","region":"Sirak","city":"Haykavan","latitude":40.80312,"longitude":43.75172}}(window,'GeoPostal','AM');

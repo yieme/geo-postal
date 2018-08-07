@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42023"]={"code":"42023","region":"Kentucky","city":"Bardwell","latitude":36.87061,"longitude":-89.00979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77536"]={"code":"77536","region":"Texas","city":"Deer Park","latitude":29.70523,"longitude":-95.12382}}(window,'GeoPostal','US');

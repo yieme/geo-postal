@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62805"]={"code":"62805","region":"IL","city":"Akin","latitude":37.98,"longitude":-88.75}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756117"]={"code":"756117","region":"Maharashtra","city":"Raver","latitude":21.25,"longitude":76.03333}}(window,'GeoPostal','IN');

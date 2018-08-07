@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627502"]={"code":"627502","region":"Tamil Nadu","city":"Kalakkadu","latitude":8.5,"longitude":77.56667}}(window,'GeoPostal','IN');

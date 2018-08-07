@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60460"]={"code":"60460","region":"Michoacan de Ocampo","city":"Tancitaro","latitude":19.33333,"longitude":-102.36667}}(window,'GeoPostal','MX');

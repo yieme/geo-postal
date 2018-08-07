@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32927"]={"code":"32927","region":"Florida","city":"Port Saint John","latitude":28.47695,"longitude":-80.78867}}(window,'GeoPostal','US');

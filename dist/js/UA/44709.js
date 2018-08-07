@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44709"]={"code":"44709","region":"Volynska oblast","city":"Volodymyr-Volyns'kyy","latitude":50.85253,"longitude":24.32364}}(window,'GeoPostal','UA');

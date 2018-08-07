@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94155"]={"code":"94155","region":"CA","city":"Macys Of California","latitude":37.77,"longitude":-122.41}}(window,'GeoPostal','US');

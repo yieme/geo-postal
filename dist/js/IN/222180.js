@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222180"]={"code":"222180","region":"Uttar Pradesh","city":"Pihani","latitude":27.63333,"longitude":80.2}}(window,'GeoPostal','IN');

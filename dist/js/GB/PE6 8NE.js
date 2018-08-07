@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE6 8NE"]={"code":"PE6 8NE","region":"England","city":"Peterborough","latitude":52.57364,"longitude":-0.24777}}(window,'GeoPostal','GB');

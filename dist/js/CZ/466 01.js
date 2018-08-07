@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["466 01"]={"code":"466 01","region":"Liberecky kraj","city":"Jablonec nad Nisou","latitude":50.72431,"longitude":15.17108}}(window,'GeoPostal','CZ');

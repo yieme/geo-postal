@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115204"]={"code":"115204","region":"Liaoning","city":"Gulou","latitude":40.39893,"longitude":122.36235}}(window,'GeoPostal','CN');

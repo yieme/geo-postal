@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73554"]={"code":"73554","region":"Kalimantan Tengah","city":"Kualakapuas","latitude":-3.00913,"longitude":114.38759}}(window,'GeoPostal','ID');

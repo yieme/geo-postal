@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 25"]={"code":"471 25","region":"Liberecky kraj","city":"Jablonne v Podjestedi","latitude":50.76528,"longitude":14.76052}}(window,'GeoPostal','CZ');

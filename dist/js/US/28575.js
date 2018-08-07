@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28575"]={"code":"28575","region":"NC","city":"Salter Path","latitude":34.6885,"longitude":-76.8861}}(window,'GeoPostal','US');

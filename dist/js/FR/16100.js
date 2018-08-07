@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16100"]={"code":"16100","region":"Nouvelle-Aquitaine","city":"Boutiers-Saint-Trojan","latitude":45.71667,"longitude":-0.3}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7519"]={"code":"7519","region":"Buenos Aires","city":"Tres Arroyos","latitude":-38.37394,"longitude":-60.27978}}(window,'GeoPostal','AR');

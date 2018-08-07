@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13743"]={"code":"13743","region":"New York","city":"Candor","latitude":42.228333,"longitude":-76.336667}}(window,'GeoPostal','US');

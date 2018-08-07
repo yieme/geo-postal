@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13473"]={"code":"13473","region":"NY","city":"Turin","latitude":43.6441,"longitude":-75.4132}}(window,'GeoPostal','US');

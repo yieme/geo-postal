@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45650"]={"code":"45650","region":"OH","city":"Lynx","latitude":38.7391,"longitude":-83.4262}}(window,'GeoPostal','US');

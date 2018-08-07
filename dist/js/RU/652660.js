@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652660"]={"code":"652660","region":"Kemerovskaya oblast'","city":"Gramoteino","latitude":54.5368,"longitude":86.3839}}(window,'GeoPostal','RU');

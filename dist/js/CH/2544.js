@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2544"]={"code":"2544","region":"Solothurn","city":"Bettlach","latitude":47.20062,"longitude":7.42405}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58396-000"]={"code":"58396-000","region":"Paraiba","city":"Arara","latitude":-6.82833,"longitude":-35.75833}}(window,'GeoPostal','BR');

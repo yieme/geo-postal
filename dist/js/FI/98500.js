@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98500"]={"code":"98500","region":"Lappi","city":"Pelkosenniemi","latitude":67.11083,"longitude":27.51056}}(window,'GeoPostal','FI');

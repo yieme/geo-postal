@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28104"]={"code":"28104","region":"North Carolina","city":"Matthews","latitude":35.11681,"longitude":-80.72368}}(window,'GeoPostal','US');

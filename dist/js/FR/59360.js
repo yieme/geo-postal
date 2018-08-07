@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59360"]={"code":"59360","region":"Hauts-de-France","city":"Le Cateau-Cambresis","latitude":50.1042,"longitude":3.5445}}(window,'GeoPostal','FR');

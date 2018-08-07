@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4640"]={"code":"4640","region":"Pazardzhik","city":"Rakitovo","latitude":41.98333,"longitude":24.08333}}(window,'GeoPostal','BG');

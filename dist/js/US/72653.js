@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72653"]={"code":"72653","region":"Arkansas","city":"Mountain Home","latitude":36.33534,"longitude":-92.38516}}(window,'GeoPostal','US');

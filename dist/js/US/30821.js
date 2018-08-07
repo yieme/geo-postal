@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30821"]={"code":"30821","region":"GA","city":"Norwood","latitude":33.4789,"longitude":-82.7356}}(window,'GeoPostal','US');

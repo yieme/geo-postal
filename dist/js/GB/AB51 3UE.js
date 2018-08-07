@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 3UE"]={"code":"AB51 3UE","region":"Scotland","city":"Port Elphinstone","latitude":57.27199,"longitude":-2.37076}}(window,'GeoPostal','GB');

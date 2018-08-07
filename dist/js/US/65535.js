@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65535"]={"code":"65535","region":"Missouri","city":"Leasburg","latitude":38.09278,"longitude":-91.29694}}(window,'GeoPostal','US');

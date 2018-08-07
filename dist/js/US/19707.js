@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19707"]={"code":"19707","region":"Delaware","city":"Hockessin","latitude":39.779423,"longitude":-75.689077}}(window,'GeoPostal','US');

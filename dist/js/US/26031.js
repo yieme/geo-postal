@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26031"]={"code":"26031","region":"WV","city":"Benwood","latitude":40.0181,"longitude":-80.7342}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1205"]={"code":"1205","region":"Gegark'unik'","city":"Gavarr","latitude":40.35398,"longitude":45.12386}}(window,'GeoPostal','AM');

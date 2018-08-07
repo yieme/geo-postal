@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55954"]={"code":"55954","region":"Minnesota","city":"Mabel","latitude":43.52194,"longitude":-91.76944}}(window,'GeoPostal','US');

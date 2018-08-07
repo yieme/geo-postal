@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03600"]={"code":"03600","region":"Auvergne-Rhone-Alpes","city":"Commentry","latitude":46.29211,"longitude":2.7416}}(window,'GeoPostal','FR');

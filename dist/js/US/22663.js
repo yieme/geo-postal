@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22663"]={"code":"22663","region":"VA","city":"White Post","latitude":39.058,"longitude":-78.1105}}(window,'GeoPostal','US');

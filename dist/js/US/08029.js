@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08029"]={"code":"08029","region":"NJ","city":"Glendora","latitude":39.8404,"longitude":-75.0697}}(window,'GeoPostal','US');

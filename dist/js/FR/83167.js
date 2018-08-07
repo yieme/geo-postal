@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83167"]={"code":"83167","region":"Provence-Alpes-Cote d'Azur","city":"La Valette-du-Var","latitude":43.13741,"longitude":5.98314}}(window,'GeoPostal','FR');

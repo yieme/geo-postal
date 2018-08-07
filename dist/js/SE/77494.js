@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77494"]={"code":"77494","region":"Dalarnas lan","city":"Avesta","latitude":60.14545,"longitude":16.16785}}(window,'GeoPostal','SE');

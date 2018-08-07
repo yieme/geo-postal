@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78391"]={"code":"78391","region":"Raplamaa","city":"Marjamaa","latitude":58.90389,"longitude":24.43056}}(window,'GeoPostal','EE');

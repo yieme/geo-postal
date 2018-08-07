@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2P0"]={"code":"V0N 2P0","region":"British Columbia","city":"Port Hardy","latitude":50.69962,"longitude":-127.41985}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9640"]={"code":"9640","region":"Nordjylland","city":"Farso","latitude":56.77276,"longitude":9.33926}}(window,'GeoPostal','DK');

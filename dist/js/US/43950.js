@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43950"]={"code":"43950","region":"Ohio","city":"Saint Clairsville","latitude":40.08063,"longitude":-80.90009}}(window,'GeoPostal','US');

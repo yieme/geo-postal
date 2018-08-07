@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54910"]={"code":"54910","region":"Grand-Est","city":"Valleroy","latitude":49.20905,"longitude":5.9383}}(window,'GeoPostal','FR');

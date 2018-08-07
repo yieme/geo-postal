@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29029"]={"code":"29029","region":"Emilia-Romagna","city":"Rivergaro","latitude":44.90956,"longitude":9.59727}}(window,'GeoPostal','IT');

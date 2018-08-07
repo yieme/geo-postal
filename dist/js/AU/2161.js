@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2161"]={"code":"2161","region":"Western Australia","city":"Guildford","latitude":-31.9,"longitude":115.96667}}(window,'GeoPostal','AU');

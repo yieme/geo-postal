@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50374"]={"code":"50374","region":"Nordrhein-Westfalen","city":"Erftstadt","latitude":50.81481,"longitude":6.79386}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237480"]={"code":"237480","region":"Olt","city":"Tia Mare","latitude":43.86667,"longitude":24.63333}}(window,'GeoPostal','RO');

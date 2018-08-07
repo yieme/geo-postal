@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62575"]={"code":"62575","region":"Hauts-de-France","city":"Blendecques","latitude":50.71843,"longitude":2.28601}}(window,'GeoPostal','FR');

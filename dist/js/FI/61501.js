@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61501"]={"code":"61501","region":"Pohjanmaa","city":"Isokyro","latitude":63.01172,"longitude":22.33332}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42326"]={"code":"42326","region":"KY","city":"Browder","latitude":37.1999,"longitude":-87.0001}}(window,'GeoPostal','US');

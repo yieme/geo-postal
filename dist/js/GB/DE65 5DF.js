@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE65 5DF"]={"code":"DE65 5DF","region":"England","city":"Church Broughton","latitude":52.90041,"longitude":-1.69621}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833400"]={"code":"833400","region":"Xinjiang","city":"Bortala","latitude":47.866667,"longitude":88.116667}}(window,'GeoPostal','CN');

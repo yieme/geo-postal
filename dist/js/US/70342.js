@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70342"]={"code":"70342","region":"Louisiana","city":"Berwick","latitude":29.69465,"longitude":-91.21899}}(window,'GeoPostal','US');

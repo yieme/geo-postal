@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99200"]={"code":"99200","region":"Zacatecas","city":"Valparaiso","latitude":22.76667,"longitude":-103.56667}}(window,'GeoPostal','MX');

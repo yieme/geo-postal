@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71036"]={"code":"71036","region":"Puglia","city":"Lucera","latitude":41.50823,"longitude":15.33505}}(window,'GeoPostal','IT');

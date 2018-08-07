@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N5A 3H4"]={"code":"N5A 3H4","region":"Ontario","city":"Stratford","latitude":43.371462,"longitude":-80.97854}}(window,'GeoPostal','CA');

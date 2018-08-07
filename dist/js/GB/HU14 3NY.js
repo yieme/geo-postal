@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU14 3NY"]={"code":"HU14 3NY","region":"England","city":"Swanland","latitude":53.73733,"longitude":-0.49167}}(window,'GeoPostal','GB');

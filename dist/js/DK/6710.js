@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6710"]={"code":"6710","region":"Syddanmark","city":"Esbjerg","latitude":55.46667,"longitude":8.45}}(window,'GeoPostal','DK');

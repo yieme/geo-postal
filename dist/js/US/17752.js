@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17752"]={"code":"17752","region":"PA","city":"Montgomery","latitude":41.1788,"longitude":-76.8839}}(window,'GeoPostal','US');

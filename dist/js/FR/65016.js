@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65016"]={"code":"65016","region":"Occitanie","city":"Tarbes","latitude":43.23333,"longitude":0.08333}}(window,'GeoPostal','FR');

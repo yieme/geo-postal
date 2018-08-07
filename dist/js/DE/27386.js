@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27386"]={"code":"27386","region":"Niedersachsen","city":"Hastedt","latitude":53.07746,"longitude":9.4555}}(window,'GeoPostal','DE');

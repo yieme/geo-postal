@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30564"]={"code":"30564","region":"Murcia, Region de","city":"Lorqui","latitude":38.08261,"longitude":-1.25103}}(window,'GeoPostal','ES');

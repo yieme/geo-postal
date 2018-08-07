@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72083"]={"code":"72083","region":"AR","city":"Keo","latitude":34.6041,"longitude":-92.0078}}(window,'GeoPostal','US');

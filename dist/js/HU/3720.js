@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3720"]={"code":"3720","region":"Borsod-Abauj-Zemplen","city":"Sajokaza","latitude":48.28333,"longitude":20.58333}}(window,'GeoPostal','HU');

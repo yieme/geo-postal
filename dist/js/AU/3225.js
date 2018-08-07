@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3225"]={"code":"3225","region":"Victoria","city":"Queenscliff","latitude":-38.26789,"longitude":144.66193}}(window,'GeoPostal','AU');

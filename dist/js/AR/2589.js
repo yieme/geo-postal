@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2589"]={"code":"2589","region":"Cordoba","city":"Monte Buey","latitude":-32.91642,"longitude":-62.45668}}(window,'GeoPostal','AR');

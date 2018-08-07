@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85284"]={"code":"85284","region":"Arizona","city":"Tempe","latitude":33.336078,"longitude":-111.92216}}(window,'GeoPostal','US');

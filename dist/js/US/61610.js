@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61610"]={"code":"61610","region":"IL","city":"Creve Coeur","latitude":40.6428,"longitude":-89.5988}}(window,'GeoPostal','US');

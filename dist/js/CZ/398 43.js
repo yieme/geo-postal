@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["398 43"]={"code":"398 43","region":"Jihocesky kraj","city":"Bernartice","latitude":49.36889,"longitude":14.38101}}(window,'GeoPostal','CZ');

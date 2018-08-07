@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42210"]={"code":"42210","region":"KY","city":"Brownsville","latitude":37.2229,"longitude":-86.2923}}(window,'GeoPostal','US');

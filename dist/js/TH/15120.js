@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15120"]={"code":"15120","region":"Lop Buri","city":"Khok Samrong","latitude":15.0665,"longitude":100.72233}}(window,'GeoPostal','TH');

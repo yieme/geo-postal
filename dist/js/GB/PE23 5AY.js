@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 5AY"]={"code":"PE23 5AY","region":"England","city":"Toynton Saint Peter","latitude":53.13333,"longitude":0.1}}(window,'GeoPostal','GB');

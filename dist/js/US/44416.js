@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44416"]={"code":"44416","region":"OH","city":"Ellsworth","latitude":41.0242,"longitude":-80.8573}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN7 6LE"]={"code":"LN7 6LE","region":"England","city":"Howsham","latitude":53.53333,"longitude":-0.43333}}(window,'GeoPostal','GB');

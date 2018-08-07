@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB4 9AF"]={"code":"BB4 9AF","region":"England","city":"Rossendale","latitude":53.68456,"longitude":-2.2769}}(window,'GeoPostal','GB');

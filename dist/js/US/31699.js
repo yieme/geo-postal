@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31699"]={"code":"31699","region":"GA","city":"Moody A F B","latitude":30.9785,"longitude":-83.2165}}(window,'GeoPostal','US');

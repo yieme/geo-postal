@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29532"]={"code":"29532","region":"South Carolina","city":"Darlington","latitude":34.29988,"longitude":-79.87617}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42809"]={"code":"42809","region":"Auvergne-Rhone-Alpes","city":"Rive-de-Gier","latitude":45.53067,"longitude":4.62131}}(window,'GeoPostal','FR');

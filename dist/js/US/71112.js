@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71112"]={"code":"71112","region":"LA","city":"Bossier City","latitude":32.486,"longitude":-93.6767}}(window,'GeoPostal','US');

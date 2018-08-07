@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60011"]={"code":"60011","region":"IL","city":"Barrington","latitude":42.3228,"longitude":-87.6101}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649140"]={"code":"649140","region":"Altay, Respublika","city":"Turochak","latitude":52.2576,"longitude":87.1224}}(window,'GeoPostal','RU');

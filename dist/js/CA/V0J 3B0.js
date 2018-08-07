@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 3B0"]={"code":"V0J 3B0","region":"British Columbia","city":"Ware","latitude":57.41631,"longitude":-125.63659}}(window,'GeoPostal','CA');

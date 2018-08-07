@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48893"]={"code":"48893","region":"MI","city":"Weidman","latitude":43.6453,"longitude":-85.0046}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6725"]={"code":"6725","region":"Western Australia","city":"Bidyadanga Community","latitude":-18.68366,"longitude":121.77889}}(window,'GeoPostal','AU');

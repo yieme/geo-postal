@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56036"]={"code":"56036","region":"MN","city":"Glenville","latitude":43.5577,"longitude":-93.2618}}(window,'GeoPostal','US');

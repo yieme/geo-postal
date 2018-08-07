@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13520-000"]={"code":"13520-000","region":"Sao Paulo","city":"Sao Pedro","latitude":-22.54861,"longitude":-47.91389}}(window,'GeoPostal','BR');

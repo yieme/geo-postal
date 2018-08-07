@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07005"]={"code":"07005","region":"Solola","city":"Nahuala","latitude":14.85,"longitude":-91.31667}}(window,'GeoPostal','GT');

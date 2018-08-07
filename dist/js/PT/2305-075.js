@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2305-075"]={"code":"2305-075","region":"Santarem","city":"Golega","latitude":39.40474,"longitude":-8.48625}}(window,'GeoPostal','PT');

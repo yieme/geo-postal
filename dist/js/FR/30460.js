@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30460"]={"code":"30460","region":"Occitanie","city":"Lasalle","latitude":44.0453,"longitude":3.85477}}(window,'GeoPostal','FR');

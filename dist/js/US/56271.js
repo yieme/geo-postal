@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56271"]={"code":"56271","region":"MN","city":"Murdock","latitude":45.2161,"longitude":-95.4049}}(window,'GeoPostal','US');

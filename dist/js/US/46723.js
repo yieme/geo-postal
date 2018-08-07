@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46723"]={"code":"46723","region":"IN","city":"Churubusco","latitude":41.229,"longitude":-85.3244}}(window,'GeoPostal','US');

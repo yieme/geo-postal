@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N2J 4N5"]={"code":"N2J 4N5","region":"Ontario","city":"Waterloo","latitude":43.48747,"longitude":-80.51457}}(window,'GeoPostal','CA');

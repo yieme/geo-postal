@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX27 8DZ"]={"code":"OX27 8DZ","region":"England","city":"Fringford","latitude":51.95336,"longitude":-1.12292}}(window,'GeoPostal','GB');

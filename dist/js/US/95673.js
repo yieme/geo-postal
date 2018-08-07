@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95673"]={"code":"95673","region":"California","city":"Rio Linda","latitude":38.689793,"longitude":-121.453497}}(window,'GeoPostal','US');

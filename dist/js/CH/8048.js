@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8048"]={"code":"8048","region":"Zurich","city":"Zuerich (Kreis 9) / Altstetten","latitude":47.38946,"longitude":8.48533}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59065"]={"code":"59065","region":"MT","city":"Pray","latitude":45.3331,"longitude":-110.7137}}(window,'GeoPostal','US');

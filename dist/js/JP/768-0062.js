@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768-0062"]={"code":"768-0062","region":"Kagawa","city":"Kan'onji","latitude":34.09611,"longitude":133.68528}}(window,'GeoPostal','JP');

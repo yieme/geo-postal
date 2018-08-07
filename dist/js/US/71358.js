@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71358"]={"code":"71358","region":"LA","city":"Palmetto","latitude":30.7065,"longitude":-91.9114}}(window,'GeoPostal','US');

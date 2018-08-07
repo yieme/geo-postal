@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 0J0"]={"code":"R0A 0J0","region":"Manitoba","city":"Dufresne","latitude":49.72689,"longitude":-96.72391}}(window,'GeoPostal','CA');

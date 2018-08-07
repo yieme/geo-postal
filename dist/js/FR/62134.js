@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62134"]={"code":"62134","region":"Hauts-de-France","city":"Heuchin","latitude":50.4772,"longitude":2.2708}}(window,'GeoPostal','FR');

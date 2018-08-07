@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR14 7PJ"]={"code":"TR14 7PJ","region":"England","city":"Camborne","latitude":50.21306,"longitude":-5.29731}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 7DU"]={"code":"PE12 7DU","region":"England","city":"Holbeach","latitude":52.80401,"longitude":0.01442}}(window,'GeoPostal','GB');

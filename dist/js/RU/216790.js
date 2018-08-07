@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["216790"]={"code":"216790","region":"Smolenskaya oblast'","city":"Rudnya","latitude":54.94698,"longitude":31.0934}}(window,'GeoPostal','RU');

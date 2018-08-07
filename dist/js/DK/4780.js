@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4780"]={"code":"4780","region":"Sjelland","city":"Stege","latitude":54.98704,"longitude":12.28461}}(window,'GeoPostal','DK');

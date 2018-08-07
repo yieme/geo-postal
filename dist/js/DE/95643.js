@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95643"]={"code":"95643","region":"Bayern","city":"Tirschenreuth","latitude":49.88263,"longitude":12.33112}}(window,'GeoPostal','DE');

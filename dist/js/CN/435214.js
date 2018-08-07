@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435214"]={"code":"435214","region":"Hubei","city":"Taizi","latitude":30.03333,"longitude":115.18333}}(window,'GeoPostal','CN');

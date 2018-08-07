@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4018"]={"code":"4018","region":"Queensland","city":"Fitzgibbon","latitude":-27.33971,"longitude":153.02921}}(window,'GeoPostal','AU');

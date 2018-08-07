@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33070"]={"code":"33070","region":"Florida","city":"Tavernier","latitude":25.01152,"longitude":-80.51506}}(window,'GeoPostal','US');

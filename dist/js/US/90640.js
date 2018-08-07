@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90640"]={"code":"90640","region":"California","city":"Montebello","latitude":34.015601,"longitude":-118.110687}}(window,'GeoPostal','US');

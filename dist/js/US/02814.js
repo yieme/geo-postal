@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02814"]={"code":"02814","region":"RI","city":"Chepachet","latitude":41.9155,"longitude":-71.6795}}(window,'GeoPostal','US');

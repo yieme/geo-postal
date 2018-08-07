@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73310"]={"code":"73310","region":"Auvergne-Rhone-Alpes","city":"Chatillon","latitude":45.80091,"longitude":5.84352}}(window,'GeoPostal','FR');

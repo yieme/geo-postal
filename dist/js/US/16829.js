@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16829"]={"code":"16829","region":"PA","city":"Clarence","latitude":41.0585,"longitude":-77.9312}}(window,'GeoPostal','US');

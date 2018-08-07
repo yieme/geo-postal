@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08730"]={"code":"08730","region":"New Jersey","city":"Brielle","latitude":40.106753,"longitude":-74.064684}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3029"]={"code":"3029","region":"Zuid-Holland","city":"Delfshaven","latitude":51.90488,"longitude":4.45315}}(window,'GeoPostal','NL');

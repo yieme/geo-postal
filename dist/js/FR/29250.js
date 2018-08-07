@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29250"]={"code":"29250","region":"Bretagne","city":"Santec","latitude":48.7,"longitude":-4.03333}}(window,'GeoPostal','FR');

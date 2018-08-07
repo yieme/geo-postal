@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG16 5JF"]={"code":"DG16 5JF","region":"Scotland","city":"Rigg","latitude":54.99163,"longitude":-3.10809}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640 01"]={"code":"640 01","region":"Anatoliki Makedonia kai Thraki","city":"Palaiokhorion","latitude":40.95,"longitude":24.18333}}(window,'GeoPostal','GR');

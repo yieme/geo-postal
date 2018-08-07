@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35240-000"]={"code":"35240-000","region":"Minas Gerais","city":"Conselheiro Pena","latitude":-19.17222,"longitude":-41.47222}}(window,'GeoPostal','BR');

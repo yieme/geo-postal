@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31557"]={"code":"31557","region":"Georgia","city":"Patterson","latitude":31.38722,"longitude":-82.13833}}(window,'GeoPostal','US');

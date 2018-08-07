@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39451"]={"code":"39451","region":"Mississippi","city":"Leakesville","latitude":31.15574,"longitude":-88.5578}}(window,'GeoPostal','US');

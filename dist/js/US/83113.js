@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83113"]={"code":"83113","region":"Wyoming","city":"Big Piney","latitude":42.53972,"longitude":-110.11528}}(window,'GeoPostal','US');

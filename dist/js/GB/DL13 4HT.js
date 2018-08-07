@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 4HT"]={"code":"DL13 4HT","region":"England","city":"Satley","latitude":54.78492,"longitude":-1.8182}}(window,'GeoPostal','GB');

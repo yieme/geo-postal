@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL3 7BB"]={"code":"DL3 7BB","region":"England","city":"Darlington","latitude":54.52429,"longitude":-1.55039}}(window,'GeoPostal','GB');

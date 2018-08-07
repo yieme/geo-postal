@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26278"]={"code":"26278","region":"WV","city":"Mabie","latitude":38.8765,"longitude":-79.9831}}(window,'GeoPostal','US');

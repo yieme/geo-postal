@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94437"]={"code":"94437","region":"Bayern","city":"Mamming","latitude":48.65,"longitude":12.6}}(window,'GeoPostal','DE');

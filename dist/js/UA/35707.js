@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35707"]={"code":"35707","region":"Rivnenska oblast","city":"Zdolbuniv","latitude":50.5206,"longitude":26.24251}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42670"]={"code":"42670","region":"Hidalgo","city":"Tepatepec","latitude":20.23333,"longitude":-99.08333}}(window,'GeoPostal','MX');

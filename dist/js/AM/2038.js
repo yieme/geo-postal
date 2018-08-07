@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2038"]={"code":"2038","region":"Lori","city":"Shahumyan","latitude":40.77482,"longitude":44.54596}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55322"]={"code":"55322","region":"MN","city":"Cologne","latitude":44.7646,"longitude":-93.7982}}(window,'GeoPostal','US');

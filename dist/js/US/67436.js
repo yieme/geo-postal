@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67436"]={"code":"67436","region":"Kansas","city":"Delphos","latitude":39.275443,"longitude":-97.765599}}(window,'GeoPostal','US');

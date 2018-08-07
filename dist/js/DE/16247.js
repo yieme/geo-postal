@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16247"]={"code":"16247","region":"Brandenburg","city":"Friedrichswalde","latitude":53.02919,"longitude":13.70682}}(window,'GeoPostal','DE');

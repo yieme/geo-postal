@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26571"]={"code":"26571","region":"Niedersachsen","city":"Juist","latitude":53.68333,"longitude":7}}(window,'GeoPostal','DE');

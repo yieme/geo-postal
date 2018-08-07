@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48738"]={"code":"48738","region":"MI","city":"Greenbush","latitude":44.548,"longitude":-83.3269}}(window,'GeoPostal','US');

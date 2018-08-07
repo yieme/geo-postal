@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["622 00"]={"code":"622 00","region":"Kentriki Makedonia","city":"Nigrita","latitude":40.90528,"longitude":23.49944}}(window,'GeoPostal','GR');

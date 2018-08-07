@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2433"]={"code":"2433","region":"Fejer","city":"Sarosd","latitude":47.04273,"longitude":18.64357}}(window,'GeoPostal','HU');

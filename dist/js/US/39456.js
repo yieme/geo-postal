@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39456"]={"code":"39456","region":"Mississippi","city":"McLain","latitude":31.07388,"longitude":-88.81608}}(window,'GeoPostal','US');

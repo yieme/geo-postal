@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92212"]={"code":"92212","region":"Ile-de-France","city":"Saint-Cloud","latitude":48.84598,"longitude":2.20289}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13053"]={"code":"13053","region":"New York","city":"Dryden","latitude":42.486771,"longitude":-76.293907}}(window,'GeoPostal','US');

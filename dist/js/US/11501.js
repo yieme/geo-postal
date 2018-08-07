@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11501"]={"code":"11501","region":"New York","city":"Mineola","latitude":40.74927,"longitude":-73.64068}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-500"]={"code":"66-500","region":"Lubuskie","city":"Strzelce Krajenskie","latitude":52.87726,"longitude":15.52978}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391170"]={"code":"391170","region":"Ryazanskaya oblast'","city":"Starozhilovo","latitude":54.2254,"longitude":39.916}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72855"]={"code":"72855","region":"Arkansas","city":"Paris","latitude":35.29203,"longitude":-93.72992}}(window,'GeoPostal','US');

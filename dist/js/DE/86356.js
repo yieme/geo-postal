@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86356"]={"code":"86356","region":"Bayern","city":"Hammel","latitude":48.40562,"longitude":10.80784}}(window,'GeoPostal','DE');

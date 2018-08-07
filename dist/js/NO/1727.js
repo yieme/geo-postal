@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1727"]={"code":"1727","region":"Ostfold","city":"Sarpsborg","latitude":59.28391,"longitude":11.10962}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66866"]={"code":"66866","region":"KS","city":"Peabody","latitude":38.1737,"longitude":-97.1184}}(window,'GeoPostal','US');

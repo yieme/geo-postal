@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74727"]={"code":"74727","region":"Oklahoma","city":"Boswell","latitude":34.03115,"longitude":-95.83244}}(window,'GeoPostal','US');

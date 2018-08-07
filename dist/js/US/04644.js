@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04644"]={"code":"04644","region":"ME","city":"Hulls Cove","latitude":44.4192,"longitude":-68.2506}}(window,'GeoPostal','US');

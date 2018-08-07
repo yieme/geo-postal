@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51050"]={"code":"51050","region":"Iowa","city":"Remsen","latitude":42.81471,"longitude":-95.97335}}(window,'GeoPostal','US');

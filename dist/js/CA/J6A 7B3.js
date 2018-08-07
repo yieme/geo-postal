@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6A 7B3"]={"code":"J6A 7B3","region":"Quebec","city":"Repentigny","latitude":45.752568,"longitude":-73.443204}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82181"]={"code":"82181","region":"Lvivska oblast","city":"Podbuzh","latitude":49.33483,"longitude":23.24887}}(window,'GeoPostal','UA');

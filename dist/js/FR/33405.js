@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33405"]={"code":"33405","region":"Nouvelle-Aquitaine","city":"Talence","latitude":44.80477,"longitude":-0.59543}}(window,'GeoPostal','FR');

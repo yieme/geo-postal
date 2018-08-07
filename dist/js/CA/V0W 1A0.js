@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0W 1A0"]={"code":"V0W 1A0","region":"British Columbia","city":"Rupert","latitude":59.59942,"longitude":-134.18688}}(window,'GeoPostal','CA');

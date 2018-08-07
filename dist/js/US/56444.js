@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56444"]={"code":"56444","region":"Minnesota","city":"Deerwood","latitude":46.474198,"longitude":-93.905917}}(window,'GeoPostal','US');

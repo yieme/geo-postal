@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63457"]={"code":"63457","region":"MO","city":"Monticello","latitude":40.1184,"longitude":-91.7121}}(window,'GeoPostal','US');

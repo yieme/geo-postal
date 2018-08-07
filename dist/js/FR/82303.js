@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82303"]={"code":"82303","region":"Occitanie","city":"Caussade","latitude":44.1608,"longitude":1.53913}}(window,'GeoPostal','FR');

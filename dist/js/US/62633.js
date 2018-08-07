@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62633"]={"code":"62633","region":"IL","city":"Easton","latitude":40.2279,"longitude":-89.8903}}(window,'GeoPostal','US');

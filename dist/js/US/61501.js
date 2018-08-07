@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61501"]={"code":"61501","region":"Illinois","city":"Astoria","latitude":40.227347,"longitude":-90.352804}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32433"]={"code":"32433","region":"Florida","city":"De Funiak Springs","latitude":30.72102,"longitude":-86.11522}}(window,'GeoPostal','US');

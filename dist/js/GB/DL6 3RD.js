@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 3RD"]={"code":"DL6 3RD","region":"England","city":"Kirby Sigston","latitude":54.34742,"longitude":-1.36339}}(window,'GeoPostal','GB');

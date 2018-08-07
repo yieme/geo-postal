@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147126"]={"code":"147126","region":"Ilfov","city":"Afumati","latitude":44,"longitude":23.46667}}(window,'GeoPostal','RO');

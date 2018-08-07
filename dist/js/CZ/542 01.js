@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542 01"]={"code":"542 01","region":"Kralovehradecky kraj","city":"Zacler","latitude":50.66329,"longitude":15.91063}}(window,'GeoPostal','CZ');

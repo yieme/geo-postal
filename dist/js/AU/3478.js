@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3478"]={"code":"3478","region":"Victoria","city":"Sutherland","latitude":-36.55,"longitude":143.2}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07418"]={"code":"07418","region":"New Jersey","city":"Glenwood","latitude":41.2452,"longitude":-74.4843}}(window,'GeoPostal','US');

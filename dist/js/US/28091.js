@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28091"]={"code":"28091","region":"North Carolina","city":"Lilesville","latitude":34.967425,"longitude":-79.988295}}(window,'GeoPostal','US');

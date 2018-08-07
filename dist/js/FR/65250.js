@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65250"]={"code":"65250","region":"Occitanie","city":"La Barthe-de-Neste","latitude":43.08123,"longitude":0.38438}}(window,'GeoPostal','FR');

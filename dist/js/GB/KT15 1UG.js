@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT15 1UG"]={"code":"KT15 1UG","region":"England","city":"Addlestone","latitude":51.37135,"longitude":-0.49353}}(window,'GeoPostal','GB');

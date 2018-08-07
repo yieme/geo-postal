@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49530-000"]={"code":"49530-000","region":"Sergipe","city":"Ribeiropolis","latitude":-10.53944,"longitude":-37.41667}}(window,'GeoPostal','BR');

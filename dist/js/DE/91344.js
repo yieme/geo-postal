@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91344"]={"code":"91344","region":"Bayern","city":"Schonhaid","latitude":49.83974,"longitude":11.29666}}(window,'GeoPostal','DE');

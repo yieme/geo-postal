@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47245"]={"code":"47245","region":"IN","city":"Hayden","latitude":38.9831,"longitude":-85.7405}}(window,'GeoPostal','US');

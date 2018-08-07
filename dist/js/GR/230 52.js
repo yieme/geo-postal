@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230 52"]={"code":"230 52","region":"Peloponnisos","city":"Molaoi","latitude":36.80757,"longitude":22.85132}}(window,'GeoPostal','GR');

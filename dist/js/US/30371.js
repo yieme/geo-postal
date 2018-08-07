@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30371"]={"code":"30371","region":"Georgia","city":"Norcross","latitude":33.7629,"longitude":-84.4225}}(window,'GeoPostal','US');

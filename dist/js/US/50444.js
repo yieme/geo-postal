@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50444"]={"code":"50444","region":"IA","city":"Hanlontown","latitude":43.2802,"longitude":-93.3788}}(window,'GeoPostal','US');

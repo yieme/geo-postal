@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37439"]={"code":"37439","region":"Blekinge lan","city":"Karlshamn","latitude":56.1706,"longitude":14.86188}}(window,'GeoPostal','SE');

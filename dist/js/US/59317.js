@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59317"]={"code":"59317","region":"Montana","city":"Broadus","latitude":45.44388,"longitude":-105.40749}}(window,'GeoPostal','US');

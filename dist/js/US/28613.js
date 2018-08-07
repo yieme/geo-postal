@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28613"]={"code":"28613","region":"NC","city":"Conover","latitude":35.7313,"longitude":-81.2165}}(window,'GeoPostal','US');

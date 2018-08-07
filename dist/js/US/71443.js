@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71443"]={"code":"71443","region":"LA","city":"Kurthwood","latitude":31.3374,"longitude":-93.1657}}(window,'GeoPostal','US');

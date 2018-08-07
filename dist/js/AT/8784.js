@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8784"]={"code":"8784","region":"Steiermark","city":"Trieben","latitude":47.48333,"longitude":14.48333}}(window,'GeoPostal','AT');

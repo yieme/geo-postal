@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71069"]={"code":"71069","region":"LA","city":"Rodessa","latitude":32.9701,"longitude":-93.9885}}(window,'GeoPostal','US');

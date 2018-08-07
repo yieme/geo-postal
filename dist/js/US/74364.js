@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74364"]={"code":"74364","region":"OK","city":"Rose","latitude":36.1951,"longitude":-94.9643}}(window,'GeoPostal','US');

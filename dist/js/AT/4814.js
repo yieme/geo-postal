@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4814"]={"code":"4814","region":"Oberosterreich","city":"Altmunster","latitude":47.90219,"longitude":13.76415}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9831"]={"code":"9831","region":"Karnten","city":"Flattach","latitude":46.93861,"longitude":13.13444}}(window,'GeoPostal','AT');

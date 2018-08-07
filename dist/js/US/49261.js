@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49261"]={"code":"49261","region":"MI","city":"Napoleon","latitude":42.1643,"longitude":-84.2458}}(window,'GeoPostal','US');

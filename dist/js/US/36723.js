@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36723"]={"code":"36723","region":"AL","city":"Boykin","latitude":32.0779,"longitude":-87.2814}}(window,'GeoPostal','US');

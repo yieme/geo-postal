@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61420"]={"code":"61420","region":"IL","city":"Blandinsville","latitude":40.5516,"longitude":-90.8595}}(window,'GeoPostal','US');

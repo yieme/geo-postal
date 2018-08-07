@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46230"]={"code":"46230","region":"Kalasin","city":"Don Chan","latitude":16.45711,"longitude":103.69558}}(window,'GeoPostal','TH');

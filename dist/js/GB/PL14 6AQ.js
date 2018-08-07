@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 6AQ"]={"code":"PL14 6AQ","region":"England","city":"Dobwalls","latitude":50.45768,"longitude":-4.51735}}(window,'GeoPostal','GB');

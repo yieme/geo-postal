@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5131"]={"code":"5131","region":"Jasz-Nagykun-Szolnok","city":"Jaszapati","latitude":47.51667,"longitude":20.15}}(window,'GeoPostal','HU');

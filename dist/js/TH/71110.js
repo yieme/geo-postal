@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71110"]={"code":"71110","region":"Kanchanaburi","city":"Tha Muang","latitude":13.96118,"longitude":99.64122}}(window,'GeoPostal','TH');

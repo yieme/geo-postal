@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72047"]={"code":"72047","region":"AR","city":"Enola","latitude":35.2087,"longitude":-92.2123}}(window,'GeoPostal','US');

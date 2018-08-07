@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58840"]={"code":"58840","region":"Denizli","city":"Kale","latitude":37.43917,"longitude":28.84528}}(window,'GeoPostal','TR');

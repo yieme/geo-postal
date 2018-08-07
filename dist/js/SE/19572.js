@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19572"]={"code":"19572","region":"Stockholms lan","city":"Rosersberg","latitude":59.58333,"longitude":17.88333}}(window,'GeoPostal','SE');

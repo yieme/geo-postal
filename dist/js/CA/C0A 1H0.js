@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1H0"]={"code":"C0A 1H0","region":"Prince Edward Island","city":"Long Creek","latitude":46.16682,"longitude":-63.26539}}(window,'GeoPostal','CA');

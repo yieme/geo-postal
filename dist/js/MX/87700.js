@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87700"]={"code":"87700","region":"Tamaulipas","city":"Santander Jimenez","latitude":24.21667,"longitude":-98.46667}}(window,'GeoPostal','MX');

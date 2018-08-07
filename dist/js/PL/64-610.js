@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-610"]={"code":"64-610","region":"Wielkopolskie","city":"Rogozno","latitude":52.75226,"longitude":16.99049}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WF9 5DT"]={"code":"WF9 5DT","region":"England","city":"Fitzwilliam","latitude":53.63288,"longitude":-1.3769}}(window,'GeoPostal','GB');

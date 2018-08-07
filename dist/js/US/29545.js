@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29545"]={"code":"29545","region":"SC","city":"Green Sea","latitude":34.1668,"longitude":-78.9589}}(window,'GeoPostal','US');

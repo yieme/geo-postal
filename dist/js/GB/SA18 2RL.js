@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 2RL"]={"code":"SA18 2RL","region":"Wales","city":"Pant-y-ffynnon","latitude":51.76667,"longitude":-4}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15746"]={"code":"15746","region":"Brandenburg","city":"Gross Koris","latitude":52.16667,"longitude":13.66667}}(window,'GeoPostal','DE');

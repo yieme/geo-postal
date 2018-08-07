@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01987"]={"code":"01987","region":"Brandenburg","city":"Ruhland","latitude":51.45755,"longitude":13.86643}}(window,'GeoPostal','DE');

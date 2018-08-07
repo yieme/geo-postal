@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62861"]={"code":"62861","region":"Illinois","city":"Maunie","latitude":38.035059,"longitude":-88.045315}}(window,'GeoPostal','US');

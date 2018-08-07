@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3039"]={"code":"3039","region":"Vestfold","city":"Skoger","latitude":59.66667,"longitude":10.23333}}(window,'GeoPostal','NO');

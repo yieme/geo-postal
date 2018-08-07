@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["502 00"]={"code":"502 00","region":"Dytiki Makedonia","city":"Ptolemais","latitude":40.51472,"longitude":21.67861}}(window,'GeoPostal','GR');

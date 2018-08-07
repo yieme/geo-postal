@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L2V 4Y6"]={"code":"L2V 4Y6","region":"Ontario","city":"Thorold","latitude":43.113431,"longitude":-79.238541}}(window,'GeoPostal','CA');

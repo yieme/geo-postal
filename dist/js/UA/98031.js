@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98031"]={"code":"98031","region":"Avtonomna Respublika Krym","city":"Novyy Svit","latitude":44.83087,"longitude":34.9137}}(window,'GeoPostal','UA');

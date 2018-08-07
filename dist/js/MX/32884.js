@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32884"]={"code":"32884","region":"Colima","city":"La Queseria","latitude":19.36667,"longitude":-103.58333}}(window,'GeoPostal','MX');

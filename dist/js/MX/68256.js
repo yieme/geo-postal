@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68256"]={"code":"68256","region":"Oaxaca","city":"Guadalupe Etla","latitude":17.17167,"longitude":-96.80056}}(window,'GeoPostal','MX');

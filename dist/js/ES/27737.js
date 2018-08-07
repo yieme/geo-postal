@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27737"]={"code":"27737","region":"Galicia","city":"Mondonedo","latitude":43.4,"longitude":-7.4}}(window,'GeoPostal','ES');

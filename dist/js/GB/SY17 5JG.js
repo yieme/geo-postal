@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY17 5JG"]={"code":"SY17 5JG","region":"Wales","city":"Llanwnog","latitude":52.53361,"longitude":-3.44339}}(window,'GeoPostal','GB');

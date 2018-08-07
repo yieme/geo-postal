@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["505100"]={"code":"505100","region":"Brasov","city":"Codlea","latitude":45.7,"longitude":25.45}}(window,'GeoPostal','RO');

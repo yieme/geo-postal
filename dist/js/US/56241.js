@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56241"]={"code":"56241","region":"Minnesota","city":"Granite Falls","latitude":44.810894,"longitude":-95.558198}}(window,'GeoPostal','US');

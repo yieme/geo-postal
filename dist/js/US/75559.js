@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75559"]={"code":"75559","region":"Texas","city":"De Kalb","latitude":33.50873,"longitude":-94.61632}}(window,'GeoPostal','US');

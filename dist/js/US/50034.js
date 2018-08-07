@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50034"]={"code":"50034","region":"IA","city":"Blairsburg","latitude":42.4937,"longitude":-93.6594}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21266"]={"code":"21266","region":"Splitsko-dalmatinska zupanija","city":"Zmijavci","latitude":43.41083,"longitude":17.20556}}(window,'GeoPostal','HR');

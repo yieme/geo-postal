@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40030"]={"code":"40030","region":"Emilia-Romagna","city":"Castel di Casio","latitude":44.16296,"longitude":11.03581}}(window,'GeoPostal','IT');

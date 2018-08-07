@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07390"]={"code":"07390","region":"Izmir","city":"Foca","latitude":38.6703,"longitude":26.75656}}(window,'GeoPostal','TR');

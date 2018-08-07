@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25043"]={"code":"25043","region":"West Virginia","city":"Clay","latitude":38.46038,"longitude":-81.08511}}(window,'GeoPostal','US');

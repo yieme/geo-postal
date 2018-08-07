@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76480"]={"code":"76480","region":"Normandie","city":"Duclair","latitude":49.48385,"longitude":0.87617}}(window,'GeoPostal','FR');

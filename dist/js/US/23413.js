@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23413"]={"code":"23413","region":"Virginia","city":"Nassawadox","latitude":37.47417,"longitude":-75.85806}}(window,'GeoPostal','US');

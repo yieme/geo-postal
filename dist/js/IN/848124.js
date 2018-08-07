@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["848124"]={"code":"848124","region":"Madhya Pradesh","city":"Agar","latitude":23.7,"longitude":76.01667}}(window,'GeoPostal','IN');

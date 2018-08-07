@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88118"]={"code":"88118","region":"New Mexico","city":"Floyd","latitude":34.291008,"longitude":-103.753302}}(window,'GeoPostal','US');

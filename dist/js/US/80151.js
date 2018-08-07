@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80151"]={"code":"80151","region":"Colorado","city":"Englewood","latitude":39.64447,"longitude":-104.98388}}(window,'GeoPostal','US');

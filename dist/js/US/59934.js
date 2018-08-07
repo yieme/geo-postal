@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59934"]={"code":"59934","region":"MT","city":"Trego","latitude":48.7052,"longitude":-114.8693}}(window,'GeoPostal','US');

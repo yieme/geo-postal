@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35959"]={"code":"35959","region":"AL","city":"Cedar Bluff","latitude":34.2417,"longitude":-85.6026}}(window,'GeoPostal','US');

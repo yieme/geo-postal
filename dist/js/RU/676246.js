@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676246"]={"code":"676246","region":"Amurskaya oblast'","city":"Zeya","latitude":53.75,"longitude":127.26667}}(window,'GeoPostal','RU');

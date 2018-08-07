@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98704"]={"code":"98704","region":"Thuringen","city":"Wumbach","latitude":50.6923,"longitude":10.98465}}(window,'GeoPostal','DE');

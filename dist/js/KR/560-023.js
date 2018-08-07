@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["560-023"]={"code":"560-023","region":"Jeollabuk-do","city":"Tsiuentcheou","latitude":35.82194,"longitude":127.14889}}(window,'GeoPostal','KR');

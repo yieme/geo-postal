@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO51 9NE"]={"code":"YO51 9NE","region":"England","city":"Boroughbridge","latitude":54.0895,"longitude":-1.4011}}(window,'GeoPostal','GB');

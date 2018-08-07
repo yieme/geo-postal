@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15616"]={"code":"15616","region":"PA","city":"Armbrust","latitude":40.2237,"longitude":-79.5512}}(window,'GeoPostal','US');

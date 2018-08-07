@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48740"]={"code":"48740","region":"Michigan","city":"Harrisville","latitude":44.6564,"longitude":-83.29469}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313009"]={"code":"313009","region":"Zhejiang","city":"Nanxun","latitude":30.86902,"longitude":120.41994}}(window,'GeoPostal','CN');

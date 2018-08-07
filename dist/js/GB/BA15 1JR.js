@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA15 1JR"]={"code":"BA15 1JR","region":"England","city":"Bradford-on-Avon","latitude":51.34772,"longitude":-2.25065}}(window,'GeoPostal','GB');

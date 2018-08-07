@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0M 1A3"]={"code":"V0M 1A3","region":"British Columbia","city":"Tipella","latitude":49.73299,"longitude":-122.15261}}(window,'GeoPostal','CA');

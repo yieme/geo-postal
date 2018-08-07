@@ -5,7 +5,7 @@ var dstDir  = path.join('.', 'dist')
 var jsonDir = path.join(dstDir, 'json')
 var jsDir   = path.join(dstDir, 'js')
 var inspect = require('util').inspect;
-var jsHead  = 'window.Postal=';
+var jsHead  = 'window.GeoPostal=';
 var mkdirSync = fs.mkdirSync;
 
 
@@ -39,12 +39,13 @@ function jsify(obj, x) {
   .split(",   ").join(',')
   .split(",  ").join(', ')
   .split(' }').join('}')
+  .split(' }').join('}')
   .split('latitude: ').join('latitude:')
   .split('longitude: ').join('longitude:')
   .split(", country:'").join(",country:'")
   .split(", postal:'").join(",postal:'")
-  .split(", c:").join(",c:")
-  .split("'}, '").join("'},'")
+  .split(", city:").join(",city:")
+  .split("'}, '").join("'},'");
 }
 
 var files    = fs.readdirSync(srcDir);
@@ -56,20 +57,39 @@ for (var i in files) {
     var dataText = fs.readFileSync(path.join(srcDir, filename), 'utf8')
     data = JSON.parse(dataText)
     var countryCode = data.id;
-    jsHead2 = 'window.Postal=window.Postal||{};Postal["'+countryCode+'"]=';
+    var jsonCcDir = path.join(jsonDir, countryCode);
+    var jsCcDir   = path.join(jsDir,   countryCode);
+    try {
+      mkdirSync(jsonCcDir);
+      mkdirSync(jsCcDir);
+    } catch(e) {}
+    jsHead2 = '!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]';
+    jsTail2 = "}(window,'GeoPostal','"+countryCode+"');";
     fs.writeFileSync(path.join(jsonDir, filename), JSON.stringify(data), 'utf8')
-    fs.writeFileSync(path.join(jsDir,   filename.replace('.json', '.js')), jsHead2 + jsify(data) + ';', 'utf8')
     allData[countryCode] = data;
     if (data.postal) {
       data = data.postal;
-      let priorI = '',priorR='',priorC='';
-      for (let i in data) {
-        data[i] = {
-          r: data[i].region,
-          c: data[i].city
+      for (let code in data) {
+        if (code) {
+          fs.writeFileSync(path.join(jsonCcDir, code + '.json'), JSON.stringify(data[code]), 'utf8')
+          fs.writeFileSync(path.join(jsCcDir,   code + '.js'), jsHead2 + '["' + code + '"]=' + JSON.stringify(data[code]) + jsTail2, 'utf8')
         }
-        if (countryCode == 'US') {
-          data[i].r = data[i].r
+      } // endfor
+    } // endif data.postal
+  } // endif filename.indexOf('.json') > 0
+}
+
+fs.writeFileSync(path.join(jsonDir, 'geo-postal.json'),     JSON.stringify(allData, null, 2), 'utf8')
+fs.writeFileSync(path.join(jsonDir, 'geo-postal.min.json'), JSON.stringify(allData), 'utf8')
+fs.writeFileSync(path.join(jsDir,   'geo-postal.js'),       jsHead + inspect(allData) + ';', 'utf8')
+fs.writeFileSync(path.join(jsDir,   'geo-postal.min.js'),   jsHead + jsify(allData) + ';', 'utf8')
+
+var template = '!function(w,o){o=$data;(typeof module=="object")?module.exports=o:w.GeoPostal=o}(this);';
+
+fs.writeFileSync('geo-postal.js',     template.replace('$data', JSON.stringify(allData, null, 2)), 'utf8')
+fs.writeFileSync('geo-postal.min.js', template.replace('$data', JSON.stringify(allData)), 'utf8')
+
+/*
           .replace("Alabama", "AL")
           .replace("Alaska", "AK")
           .replace("American Samoa", "AS")
@@ -129,34 +149,4 @@ for (var i in files) {
           .replace("West Virginia", "WV")
           .replace("Wisconsin", "WI")
           .replace("Wyoming", "WY")
-        }
-        if (data[i].r == priorR && data[i].c == priorC) {
-          data[i] = priorI;
-        } else {
-          priorI = i;
-          priorR = data[i].r;
-          priorC = data[i].c;
-        }
-      }
-      fs.writeFileSync(path.join(jsonDir + '-city', filename), JSON.stringify(data), 'utf8')
-      fs.writeFileSync(path.join(jsDir   + '-city', filename.replace('.json', '.js')), jsHead2 + jsify(data) + ';', 'utf8') 
-      cityData[countryCode] = data;
-    }
-  }
-}
-
-
-fs.writeFileSync(path.join(jsonDir, 'geo-postal.json'),     JSON.stringify(allData, null, 2), 'utf8')
-fs.writeFileSync(path.join(jsonDir, 'geo-postal.min.json'), JSON.stringify(allData), 'utf8')
-fs.writeFileSync(path.join(jsDir,   'geo-postal.js'),       jsHead + inspect(allData) + ';', 'utf8')
-fs.writeFileSync(path.join(jsDir,   'geo-postal.min.js'),   jsHead + jsify(allData) + ';', 'utf8')
-
-fs.writeFileSync(path.join(jsonDir + '-city', 'geo-postal.json'),     JSON.stringify(cityData, null, 2), 'utf8')
-fs.writeFileSync(path.join(jsonDir + '-city', 'geo-postal.min.json'), JSON.stringify(cityData), 'utf8')
-fs.writeFileSync(path.join(jsDir + '-city',   'geo-postal.js'),       jsHead + inspect(cityData) + ';', 'utf8')
-fs.writeFileSync(path.join(jsDir + '-city',   'geo-postal.min.js'),   jsHead + jsify(cityData) + ';', 'utf8')
-
-var template = '!function(w,o){o=$data;(typeof module=="object")?module.exports=o:w.GeoPostal=o}(this);';
-
-fs.writeFileSync('geo-postal.js',     template.replace('$data', JSON.stringify(allData, null, 2)), 'utf8')
-fs.writeFileSync('geo-postal.min.js', template.replace('$data', JSON.stringify(allData)), 'utf8')
+*/

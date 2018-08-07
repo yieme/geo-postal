@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15721"]={"code":"15721","region":"PA","city":"Burnside","latitude":40.8134,"longitude":-78.7865}}(window,'GeoPostal','US');

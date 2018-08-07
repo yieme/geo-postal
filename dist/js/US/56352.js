@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56352"]={"code":"56352","region":"Minnesota","city":"Melrose","latitude":45.67469,"longitude":-94.80752}}(window,'GeoPostal','US');

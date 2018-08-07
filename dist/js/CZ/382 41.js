@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 41"]={"code":"382 41","region":"Jihocesky kraj","city":"Kaplice","latitude":48.73849,"longitude":14.49628}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0L0"]={"code":"X0E 0L0","region":"Northwest Territories","city":"FortProvidence","latitude":61.35026,"longitude":-117.65276}}(window,'GeoPostal','CA');

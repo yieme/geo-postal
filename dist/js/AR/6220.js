@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6220"]={"code":"6220","region":"La Pampa","city":"Bernardo Larroude","latitude":-35.02449,"longitude":-63.58253}}(window,'GeoPostal','AR');

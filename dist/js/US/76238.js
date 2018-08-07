@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76238"]={"code":"76238","region":"TX","city":"Era","latitude":33.4965,"longitude":-97.3859}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46172"]={"code":"46172","region":"Indiana","city":"Roachdale","latitude":39.85028,"longitude":-86.80028}}(window,'GeoPostal','US');

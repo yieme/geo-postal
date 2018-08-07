@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5880000"]={"code":"5880000","region":"Los Lagos","city":"Palena","latitude":-43.62306,"longitude":-71.80389}}(window,'GeoPostal','CL');

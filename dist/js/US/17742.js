@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17742"]={"code":"17742","region":"PA","city":"Lairdsville","latitude":41.2359,"longitude":-76.605}}(window,'GeoPostal','US');

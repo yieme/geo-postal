@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42140"]={"code":"42140","region":"Kentucky","city":"Gamaliel","latitude":36.658452,"longitude":-85.814589}}(window,'GeoPostal','US');

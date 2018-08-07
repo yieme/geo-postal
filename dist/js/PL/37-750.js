@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-750"]={"code":"37-750","region":"Podkarpackie","city":"Dubiecko","latitude":49.82608,"longitude":22.39117}}(window,'GeoPostal','PL');

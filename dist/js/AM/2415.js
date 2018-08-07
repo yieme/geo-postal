@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2415"]={"code":"2415","region":"Aragacotn","city":"Kasakh","latitude":40.53697,"longitude":44.41046}}(window,'GeoPostal','AM');

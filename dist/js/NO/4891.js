@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4891"]={"code":"4891","region":"Aust-Agder","city":"Grimstad","latitude":58.3405,"longitude":8.59343}}(window,'GeoPostal','NO');

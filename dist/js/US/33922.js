@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33922"]={"code":"33922","region":"FL","city":"Bokeelia","latitude":26.6627,"longitude":-82.1401}}(window,'GeoPostal','US');

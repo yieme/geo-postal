@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35515"]={"code":"35515","region":"Bretagne","city":"Cesson-Sevigne","latitude":48.1212,"longitude":-1.603}}(window,'GeoPostal','FR');

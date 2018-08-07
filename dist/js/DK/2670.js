@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2670"]={"code":"2670","region":"Sjelland","city":"Greve","latitude":55.58333,"longitude":12.3}}(window,'GeoPostal','DK');

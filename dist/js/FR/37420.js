@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37420"]={"code":"37420","region":"Centre-Val de Loire","city":"Avoine","latitude":47.20533,"longitude":0.18253}}(window,'GeoPostal','FR');

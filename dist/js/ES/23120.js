@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23120"]={"code":"23120","region":"Andalucia","city":"Cambil","latitude":37.67934,"longitude":-3.56538}}(window,'GeoPostal','ES');

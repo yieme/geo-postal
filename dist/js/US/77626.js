@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77626"]={"code":"77626","region":"TX","city":"Mauriceville","latitude":30.204,"longitude":-93.8866}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20148"]={"code":"20148","region":"Sumatera Utara","city":"Binjai","latitude":3.6001,"longitude":98.4854}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98279"]={"code":"98279","region":"WA","city":"Olga","latitude":48.6195,"longitude":-122.8355}}(window,'GeoPostal','US');

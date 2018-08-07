@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15023"]={"code":"15023","region":"Stockholms lan","city":"Molnbo","latitude":59.05,"longitude":17.41667}}(window,'GeoPostal','SE');

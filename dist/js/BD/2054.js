@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2054"]={"code":"2054","region":"Rajshahi","city":"Sirajganj","latitude":24.45,"longitude":89.71667}}(window,'GeoPostal','BD');

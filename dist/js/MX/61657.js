@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61657"]={"code":"61657","region":"Michoacan de Ocampo","city":"Tacambaro de Codallos","latitude":19.23333,"longitude":-101.46667}}(window,'GeoPostal','MX');

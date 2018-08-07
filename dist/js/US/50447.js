@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50447"]={"code":"50447","region":"Iowa","city":"Kanawha","latitude":42.937332,"longitude":-93.790901}}(window,'GeoPostal','US');

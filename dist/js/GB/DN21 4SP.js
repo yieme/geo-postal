@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 4SP"]={"code":"DN21 4SP","region":"England","city":"Waddingham","latitude":53.4532,"longitude":-0.52011}}(window,'GeoPostal','GB');

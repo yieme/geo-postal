@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["361295"]={"code":"361295","region":"Gujarat","city":"Jamnagar","latitude":22.46667,"longitude":70.06667}}(window,'GeoPostal','IN');

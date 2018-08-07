@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23358"]={"code":"23358","region":"Virginia","city":"Hacksneck","latitude":37.579096,"longitude":-75.795114}}(window,'GeoPostal','US');

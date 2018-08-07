@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81130"]={"code":"81130","region":"Krabi","city":"Krabi","latitude":8.07257,"longitude":98.91052}}(window,'GeoPostal','TH');

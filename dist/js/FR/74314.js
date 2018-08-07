@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74314"]={"code":"74314","region":"Auvergne-Rhone-Alpes","city":"Cluses","latitude":46.06251,"longitude":6.57497}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3B 1H2"]={"code":"N3B 1H2","region":"Ontario","city":"North Woolwich","latitude":43.65707,"longitude":-80.54523}}(window,'GeoPostal','CA');

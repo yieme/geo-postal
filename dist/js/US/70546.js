@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70546"]={"code":"70546","region":"Louisiana","city":"Jennings","latitude":30.22243,"longitude":-92.65708}}(window,'GeoPostal','US');

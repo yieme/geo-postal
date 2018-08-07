@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88424"]={"code":"88424","region":"New Mexico","city":"Grenville","latitude":36.7353,"longitude":-103.457706}}(window,'GeoPostal','US');

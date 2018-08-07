@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64001"]={"code":"64001","region":"MO","city":"Alma","latitude":39.1048,"longitude":-93.5429}}(window,'GeoPostal','US');

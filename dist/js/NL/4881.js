@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4881"]={"code":"4881","region":"Noord-Brabant","city":"Zundert","latitude":51.47167,"longitude":4.65556}}(window,'GeoPostal','NL');

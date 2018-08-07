@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE63 9TR"]={"code":"NE63 9TR","region":"England","city":"North Seaton","latitude":55.17392,"longitude":-1.54184}}(window,'GeoPostal','GB');

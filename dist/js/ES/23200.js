@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23200"]={"code":"23200","region":"Andalucia","city":"La Carolina","latitude":38.27559,"longitude":-3.61534}}(window,'GeoPostal','ES');

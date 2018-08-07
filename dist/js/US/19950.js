@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19950"]={"code":"19950","region":"Delaware","city":"Greenwood","latitude":38.80682,"longitude":-75.593639}}(window,'GeoPostal','US');

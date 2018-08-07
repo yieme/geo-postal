@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18655"]={"code":"18655","region":"PA","city":"Shickshinny","latitude":41.1513,"longitude":-76.1081}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17967"]={"code":"17967","region":"PA","city":"Ringtown","latitude":40.8559,"longitude":-76.2349}}(window,'GeoPostal','US');

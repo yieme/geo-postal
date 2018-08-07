@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94065"]={"code":"94065","region":"Bayern","city":"Waldkirchen","latitude":48.7327,"longitude":13.60082}}(window,'GeoPostal','DE');

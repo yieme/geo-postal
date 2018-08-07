@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628200"]={"code":"628200","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Mezhdurechenskiy","latitude":59.6,"longitude":65.93333}}(window,'GeoPostal','RU');

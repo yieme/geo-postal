@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4AE"]={"code":"PE9 4AE","region":"England","city":"Tickencote","latitude":52.67503,"longitude":-0.53696}}(window,'GeoPostal','GB');

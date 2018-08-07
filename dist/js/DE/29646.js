@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29646"]={"code":"29646","region":"Niedersachsen","city":"Behringen","latitude":53.11243,"longitude":9.95947}}(window,'GeoPostal','DE');

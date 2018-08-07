@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72392"]={"code":"72392","region":"Arkansas","city":"Wheatley","latitude":34.951414,"longitude":-91.09923}}(window,'GeoPostal','US');

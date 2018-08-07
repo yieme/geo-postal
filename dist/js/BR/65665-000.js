@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65665-000"]={"code":"65665-000","region":"Maranhao","city":"Sao Joao dos Patos","latitude":-6.495,"longitude":-43.70222}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65501"]={"code":"65501","region":"Missouri","city":"Jadwin","latitude":37.463641,"longitude":-91.509223}}(window,'GeoPostal','US');

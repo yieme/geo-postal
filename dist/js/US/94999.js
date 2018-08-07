@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94999"]={"code":"94999","region":"CA","city":"Petaluma","latitude":38.2675,"longitude":-122.6581}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21010"]={"code":"21010","region":"Lombardia","city":"Cardano al Campo","latitude":45.64887,"longitude":8.76934}}(window,'GeoPostal','IT');

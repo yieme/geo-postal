@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87732"]={"code":"87732","region":"New Mexico","city":"Mora","latitude":36.059406,"longitude":-105.287928}}(window,'GeoPostal','US');

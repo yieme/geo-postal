@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24134"]={"code":"24134","region":"Virginia","city":"Pearisburg","latitude":37.32651,"longitude":-80.73507}}(window,'GeoPostal','US');

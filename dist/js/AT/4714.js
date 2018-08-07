@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4714"]={"code":"4714","region":"Oberosterreich","city":"Offenhausen","latitude":48.15,"longitude":13.83333}}(window,'GeoPostal','AT');

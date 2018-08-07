@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32708"]={"code":"32708","region":"Florida","city":"Winter Springs","latitude":28.68102,"longitude":-81.2808}}(window,'GeoPostal','US');

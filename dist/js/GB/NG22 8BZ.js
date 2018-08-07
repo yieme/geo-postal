@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 8BZ"]={"code":"NG22 8BZ","region":"England","city":"Kirklington","latitude":53.1,"longitude":-0.98333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27620"]={"code":"27620","region":"Normandie","city":"Gasny","latitude":49.09184,"longitude":1.60336}}(window,'GeoPostal','FR');

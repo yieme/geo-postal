@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85355"]={"code":"85355","region":"Bar","city":"Sutomore","latitude":42.14278,"longitude":19.04667}}(window,'GeoPostal','ME');

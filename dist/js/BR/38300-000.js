@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38300-000"]={"code":"38300-000","region":"Minas Gerais","city":"Ituiutaba","latitude":-18.96889,"longitude":-49.465}}(window,'GeoPostal','BR');

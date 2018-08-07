@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8 8AT"]={"code":"N8 8AT","region":"England","city":"Crouch End","latitude":51.57971,"longitude":-0.12373}}(window,'GeoPostal','GB');

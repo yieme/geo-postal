@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23120"]={"code":"23120","region":"Trat","city":"Ko Chang Tai","latitude":12.00171,"longitude":102.37267}}(window,'GeoPostal','TH');

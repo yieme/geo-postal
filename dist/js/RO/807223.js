@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807223"]={"code":"807223","region":"Galati","city":"Nicoresti","latitude":45.93223,"longitude":27.30866}}(window,'GeoPostal','RO');

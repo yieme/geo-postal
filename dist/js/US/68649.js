@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68649"]={"code":"68649","region":"NE","city":"North Bend","latitude":41.4689,"longitude":-96.7813}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54140"]={"code":"54140","region":"Wisconsin","city":"Little Chute","latitude":44.284565,"longitude":-88.309485}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3722"]={"code":"3722","region":"Limburg","city":"Kortessem","latitude":50.8589,"longitude":5.38974}}(window,'GeoPostal','BE');

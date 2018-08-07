@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45369"]={"code":"45369","region":"OH","city":"South Vienna","latitude":39.9473,"longitude":-83.6157}}(window,'GeoPostal','US');

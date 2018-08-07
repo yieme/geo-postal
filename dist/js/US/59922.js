@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59922"]={"code":"59922","region":"MT","city":"Lakeside","latitude":48.0215,"longitude":-114.2266}}(window,'GeoPostal','US');

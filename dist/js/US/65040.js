@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65040"]={"code":"65040","region":"MO","city":"Henley","latitude":38.3445,"longitude":-92.3224}}(window,'GeoPostal','US');

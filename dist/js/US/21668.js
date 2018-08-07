@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21668"]={"code":"21668","region":"Maryland","city":"Sudlersville","latitude":39.18639,"longitude":-75.85806}}(window,'GeoPostal','US');

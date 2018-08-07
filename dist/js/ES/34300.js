@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34300"]={"code":"34300","region":"Castilla y Leon","city":"Paredes de Nava","latitude":42.15368,"longitude":-4.69193}}(window,'GeoPostal','ES');

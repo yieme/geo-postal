@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79560"]={"code":"79560","region":"San Luis Potosi","city":"Santa Maria del Rio","latitude":21.8,"longitude":-100.75}}(window,'GeoPostal','MX');

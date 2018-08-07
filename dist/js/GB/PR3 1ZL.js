@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 1ZL"]={"code":"PR3 1ZL","region":"England","city":"Catterall","latitude":53.87965,"longitude":-2.76478}}(window,'GeoPostal','GB');

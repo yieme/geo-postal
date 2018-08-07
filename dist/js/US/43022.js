@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43022"]={"code":"43022","region":"Ohio","city":"Gambier","latitude":40.348039,"longitude":-82.348781}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97413"]={"code":"97413","region":"Reunion","city":"Cilaos","latitude":-21.13357,"longitude":55.4719}}(window,'GeoPostal','RE');

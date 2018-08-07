@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03310"]={"code":"03310","region":"Auvergne-Rhone-Alpes","city":"Villebret","latitude":46.26685,"longitude":2.63827}}(window,'GeoPostal','FR');

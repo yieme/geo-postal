@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40160"]={"code":"40160","region":"Khon Kaen","city":"Mancha Khiri","latitude":16.13048,"longitude":102.53712}}(window,'GeoPostal','TH');

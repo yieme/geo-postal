@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628634"]={"code":"628634","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Izluchinsk","latitude":60.97944,"longitude":76.92421}}(window,'GeoPostal','RU');

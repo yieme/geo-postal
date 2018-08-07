@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73992"]={"code":"73992","region":"Vastmanlands lan","city":"Skinnskatteberg","latitude":59.83028,"longitude":15.69337}}(window,'GeoPostal','SE');

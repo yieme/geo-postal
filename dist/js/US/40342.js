@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40342"]={"code":"40342","region":"Kentucky","city":"Lawrenceburg","latitude":38.0373,"longitude":-84.89662}}(window,'GeoPostal','US');

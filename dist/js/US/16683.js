@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16683"]={"code":"16683","region":"PA","city":"Spruce Creek","latitude":40.6218,"longitude":-78.1361}}(window,'GeoPostal','US');

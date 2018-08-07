@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62013"]={"code":"62013","region":"IL","city":"Brussels","latitude":38.9495,"longitude":-90.5887}}(window,'GeoPostal','US');

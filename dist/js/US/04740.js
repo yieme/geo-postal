@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04740"]={"code":"04740","region":"ME","city":"Easton","latitude":46.6357,"longitude":-67.9018}}(window,'GeoPostal','US');

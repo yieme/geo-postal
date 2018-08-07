@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCHR16"]={"code":"JMCHR16","region":"Hanover","city":"Sandy Bay","latitude":18.44854,"longitude":-78.07321}}(window,'GeoPostal','JM');

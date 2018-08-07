@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 7LQ"]={"code":"DL11 7LQ","region":"England","city":"Marrick","latitude":54.37961,"longitude":-1.88467}}(window,'GeoPostal','GB');

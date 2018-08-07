@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35098"]={"code":"35098","region":"AL","city":"Logan","latitude":34.1377,"longitude":-87.0266}}(window,'GeoPostal','US');

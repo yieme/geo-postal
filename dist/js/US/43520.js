@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43520"]={"code":"43520","region":"Ohio","city":"Farmer","latitude":41.38302,"longitude":-84.63048}}(window,'GeoPostal','US');

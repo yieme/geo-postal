@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4775-281"]={"code":"4775-281","region":"Braga","city":"Ribeirao","latitude":41.36081,"longitude":-8.56774}}(window,'GeoPostal','PT');

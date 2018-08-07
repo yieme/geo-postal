@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["214400"]={"code":"214400","region":"Jiangxi","city":"Yaosai","latitude":31.90543,"longitude":120.2821}}(window,'GeoPostal','CN');

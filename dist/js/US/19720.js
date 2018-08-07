@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19720"]={"code":"19720","region":"Delaware","city":"New Castle","latitude":39.67636,"longitude":-75.597496}}(window,'GeoPostal','US');

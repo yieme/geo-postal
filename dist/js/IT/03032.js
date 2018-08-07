@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03032"]={"code":"03032","region":"Lazio","city":"Arce","latitude":41.58662,"longitude":13.57361}}(window,'GeoPostal','IT');

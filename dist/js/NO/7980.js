@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7980"]={"code":"7980","region":"Nordland","city":"Terrak","latitude":65.087,"longitude":12.37148}}(window,'GeoPostal','NO');

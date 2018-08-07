@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3441"]={"code":"3441","region":"Victoria","city":"Mount Macedon","latitude":-37.40048,"longitude":144.58412}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5146"]={"code":"5146","region":"Noord-Brabant","city":"Waalwijk","latitude":51.6825,"longitude":5.07083}}(window,'GeoPostal','NL');

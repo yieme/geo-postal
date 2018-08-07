@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0S 1C0"]={"code":"B0S 1C0","region":"Nova Scotia","city":"Bridgetown","latitude":44.85015,"longitude":-65.29882}}(window,'GeoPostal','CA');

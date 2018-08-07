@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41770"]={"code":"41770","region":"Etela-Savo","city":"Leivonmaki","latitude":62.32331,"longitude":29.0816}}(window,'GeoPostal','FI');

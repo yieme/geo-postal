@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85447"]={"code":"85447","region":"Bayern","city":"Tittenkofen","latitude":48.34978,"longitude":11.9554}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12150"]={"code":"12150","region":"New York","city":"Rotterdam Junction","latitude":42.873798,"longitude":-74.045006}}(window,'GeoPostal','US');

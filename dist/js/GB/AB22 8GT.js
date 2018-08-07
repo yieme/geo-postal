@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB22 8GT"]={"code":"AB22 8GT","region":"Scotland","city":"Aberdeen","latitude":57.14369,"longitude":-2.09814}}(window,'GeoPostal','GB');

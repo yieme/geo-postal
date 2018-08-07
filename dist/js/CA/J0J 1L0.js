@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1L0"]={"code":"J0J 1L0","region":"Quebec","city":"Saint-Cyprien-de-Napierville","latitude":45.18338,"longitude":-73.41587}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88521"]={"code":"88521","region":"Baden-Wurttemberg","city":"Erisdorf","latitude":48.11949,"longitude":9.48245}}(window,'GeoPostal','DE');

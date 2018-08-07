@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4360"]={"code":"4360","region":"Niederosterreich","city":"Nochling","latitude":48.22433,"longitude":14.98123}}(window,'GeoPostal','AT');

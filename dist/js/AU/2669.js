@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2669"]={"code":"2669","region":"New South Wales","city":"Buddigower","latitude":-34.05,"longitude":147.01667}}(window,'GeoPostal','AU');

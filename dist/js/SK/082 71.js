@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["082 71"]={"code":"082 71","region":"Presovsky kraj","city":"Lipany","latitude":49.15376,"longitude":20.96382}}(window,'GeoPostal','SK');

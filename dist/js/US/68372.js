@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68372"]={"code":"68372","region":"NE","city":"Hickman","latitude":40.6119,"longitude":-96.6247}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30129"]={"code":"30129","region":"Occitanie","city":"Manduel","latitude":43.81855,"longitude":4.47247}}(window,'GeoPostal','FR');

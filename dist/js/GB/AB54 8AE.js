@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 8AE"]={"code":"AB54 8AE","region":"Scotland","city":"Huntly","latitude":57.44741,"longitude":-2.78608}}(window,'GeoPostal','GB');

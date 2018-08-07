@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18528"]={"code":"18528","region":"Mecklenburg-Vorpommern","city":"Bergen auf Ruegen","latitude":54.41823,"longitude":13.43349}}(window,'GeoPostal','DE');

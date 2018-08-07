@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42260"]={"code":"42260","region":"Castilla y Leon","city":"Santa Maria de Huerta","latitude":41.26667,"longitude":-2.16667}}(window,'GeoPostal','ES');

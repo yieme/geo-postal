@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 5GZ"]={"code":"LE67 5GZ","region":"England","city":"Whitwick","latitude":52.73997,"longitude":-1.35536}}(window,'GeoPostal','GB');

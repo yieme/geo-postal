@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54211"]={"code":"54211","region":"WI","city":"Ephraim","latitude":45.1592,"longitude":-87.171}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD1 5RT"]={"code":"LD1 5RT","region":"Wales","city":"Llansaintfraed in Elvel","latitude":52.18333,"longitude":-3.31667}}(window,'GeoPostal','GB');

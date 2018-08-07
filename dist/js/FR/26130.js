@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26130"]={"code":"26130","region":"Auvergne-Rhone-Alpes","city":"Saint-Paul-Trois-Chateaux","latitude":44.34909,"longitude":4.76574}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59253"]={"code":"59253","region":"Hauts-de-France","city":"La Gorgue","latitude":50.6379,"longitude":2.71502}}(window,'GeoPostal','FR');

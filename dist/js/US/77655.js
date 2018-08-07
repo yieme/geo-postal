@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77655"]={"code":"77655","region":"TX","city":"Sabine Pass","latitude":29.7336,"longitude":-93.8943}}(window,'GeoPostal','US');

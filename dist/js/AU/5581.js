@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5581"]={"code":"5581","region":"South Australia","city":"Port Vincent","latitude":-34.77801,"longitude":137.86079}}(window,'GeoPostal','AU');

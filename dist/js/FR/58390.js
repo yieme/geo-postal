@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58390"]={"code":"58390","region":"Bourgogne-Franche-Comte","city":"Dornes","latitude":46.716,"longitude":3.35343}}(window,'GeoPostal','FR');

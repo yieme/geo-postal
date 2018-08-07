@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04046"]={"code":"04046","region":"Maine","city":"Arundel","latitude":43.44028,"longitude":-70.52806}}(window,'GeoPostal','US');

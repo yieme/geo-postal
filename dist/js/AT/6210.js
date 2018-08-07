@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6210"]={"code":"6210","region":"Tirol","city":"Wiesing","latitude":47.40486,"longitude":11.79708}}(window,'GeoPostal','AT');

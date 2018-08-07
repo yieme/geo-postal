@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96087"]={"code":"96087","region":"CA","city":"Shasta","latitude":40.6109,"longitude":-122.4968}}(window,'GeoPostal','US');

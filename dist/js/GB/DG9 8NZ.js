@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 8NZ"]={"code":"DG9 8NZ","region":"Scotland","city":"Inch","latitude":54.88333,"longitude":-4.96667}}(window,'GeoPostal','GB');

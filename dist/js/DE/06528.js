@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06528"]={"code":"06528","region":"Sachsen-Anhalt","city":"Wallhausen","latitude":51.46117,"longitude":11.2076}}(window,'GeoPostal','DE');

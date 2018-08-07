@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45801"]={"code":"45801","region":"Janakpur","city":"Malangwa","latitude":26.85679,"longitude":85.55811}}(window,'GeoPostal','NP');

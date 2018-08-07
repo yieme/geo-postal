@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76352"]={"code":"76352","region":"TX","city":"Bluegrove","latitude":33.674,"longitude":-98.23}}(window,'GeoPostal','US');

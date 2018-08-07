@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7580-506"]={"code":"7580-506","region":"Setubal","city":"Porto Covo","latitude":37.85256,"longitude":-8.79018}}(window,'GeoPostal','PT');

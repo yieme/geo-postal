@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00775"]={"code":"00775","region":"Culebra","city":"Culebra","latitude":18.30301,"longitude":-65.30099}}(window,'GeoPostal','PR');

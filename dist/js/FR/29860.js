@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29860"]={"code":"29860","region":"Bretagne","city":"Kersaint-Plabennec","latitude":48.47166,"longitude":-4.37233}}(window,'GeoPostal','FR');

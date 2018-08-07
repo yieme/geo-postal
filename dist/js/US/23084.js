@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23084"]={"code":"23084","region":"VA","city":"Kents Store","latitude":37.8942,"longitude":-78.1208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666320"]={"code":"666320","region":"Irkutskaya oblast'","city":"Zalari","latitude":53.5584,"longitude":102.5065}}(window,'GeoPostal','RU');

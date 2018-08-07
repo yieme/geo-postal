@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62992"]={"code":"62992","region":"Illinois","city":"Ullin","latitude":37.268232,"longitude":-89.179142}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29079"]={"code":"29079","region":"SC","city":"Lydia","latitude":34.289,"longitude":-80.1123}}(window,'GeoPostal','US');

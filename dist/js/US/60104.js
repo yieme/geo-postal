@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60104"]={"code":"60104","region":"Illinois","city":"Bellwood","latitude":41.88142,"longitude":-87.88312}}(window,'GeoPostal','US');

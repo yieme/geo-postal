@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68542"]={"code":"68542","region":"Baden-Wurttemberg","city":"Heddesheim","latitude":49.50556,"longitude":8.60361}}(window,'GeoPostal','DE');

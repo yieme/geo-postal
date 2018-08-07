@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9530"]={"code":"9530","region":"Nordjylland","city":"Stovring","latitude":56.88536,"longitude":9.83839}}(window,'GeoPostal','DK');

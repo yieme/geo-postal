@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57319"]={"code":"57319","region":"South Dakota","city":"Bridgewater","latitude":43.55028,"longitude":-97.50028}}(window,'GeoPostal','US');

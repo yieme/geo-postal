@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82070"]={"code":"82070","region":"Gavleborgs lan","city":"Bergsjoe","latitude":61.98253,"longitude":17.06368}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67870"]={"code":"67870","region":"KS","city":"Satanta","latitude":37.4409,"longitude":-100.9691}}(window,'GeoPostal','US');

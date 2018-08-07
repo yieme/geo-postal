@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72733"]={"code":"72733","region":"AR","city":"Gateway","latitude":36.4864,"longitude":-93.9277}}(window,'GeoPostal','US');

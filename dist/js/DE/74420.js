@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74420"]={"code":"74420","region":"Baden-Wurttemberg","city":"Stiershof","latitude":49.01662,"longitude":9.69822}}(window,'GeoPostal','DE');

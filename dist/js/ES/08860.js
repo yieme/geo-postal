@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08860"]={"code":"08860","region":"Catalunya","city":"Castelldefels","latitude":41.27794,"longitude":1.97033}}(window,'GeoPostal','ES');

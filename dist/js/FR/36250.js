@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36250"]={"code":"36250","region":"Centre-Val de Loire","city":"Niherne","latitude":46.82768,"longitude":1.56384}}(window,'GeoPostal','FR');

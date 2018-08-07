@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 8AB"]={"code":"PL26 8AB","region":"England","city":"Saint Dennis","latitude":50.38333,"longitude":-4.88333}}(window,'GeoPostal','GB');

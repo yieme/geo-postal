@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36994"]={"code":"36994","region":"Guanajuato","city":"Huanimaro","latitude":20.36667,"longitude":-101.5}}(window,'GeoPostal','MX');

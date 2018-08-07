@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["876-0833"]={"code":"876-0833","region":"Oita","city":"Oita","latitude":33.23333,"longitude":131.60667}}(window,'GeoPostal','JP');

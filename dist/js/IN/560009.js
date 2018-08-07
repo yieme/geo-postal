@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["560009"]={"code":"560009","region":"Karnataka","city":"Mysore","latitude":12.30722,"longitude":76.64972}}(window,'GeoPostal','IN');

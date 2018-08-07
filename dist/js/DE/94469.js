@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94469"]={"code":"94469","region":"Bayern","city":"Deggendorf","latitude":48.84086,"longitude":12.96068}}(window,'GeoPostal','DE');

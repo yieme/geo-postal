@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57920"]={"code":"57920","region":"Grand-Est","city":"Kedange-sur-Canner","latitude":49.30791,"longitude":6.3372}}(window,'GeoPostal','FR');

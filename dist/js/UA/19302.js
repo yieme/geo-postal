@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19302"]={"code":"19302","region":"Cherkaska oblast","city":"Lysyanka","latitude":49.25229,"longitude":30.82946}}(window,'GeoPostal','UA');

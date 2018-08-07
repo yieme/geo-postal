@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330822"]={"code":"330822","region":"Jiangxi","city":"Cunqian","latitude":28.46968,"longitude":115.1318}}(window,'GeoPostal','CN');

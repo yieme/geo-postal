@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32657"]={"code":"32657","region":"Nordrhein-Westfalen","city":"Lemgo","latitude":52.02786,"longitude":8.89901}}(window,'GeoPostal','DE');

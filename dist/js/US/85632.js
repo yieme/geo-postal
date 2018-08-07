@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85632"]={"code":"85632","region":"Arizona","city":"San Simon","latitude":32.17758,"longitude":-109.37988}}(window,'GeoPostal','US');

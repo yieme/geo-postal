@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65324"]={"code":"65324","region":"Missouri","city":"Climax Springs","latitude":38.128091,"longitude":-92.964545}}(window,'GeoPostal','US');

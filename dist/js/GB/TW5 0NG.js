@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW5 0NG"]={"code":"TW5 0NG","region":"England","city":"Heston","latitude":51.48363,"longitude":-0.37577}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38409"]={"code":"38409","region":"Auvergne-Rhone-Alpes","city":"Saint-Martin-d'Heres","latitude":45.16528,"longitude":5.76337}}(window,'GeoPostal','FR');

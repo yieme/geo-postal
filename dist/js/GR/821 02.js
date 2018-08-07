@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["821 02"]={"code":"821 02","region":"Voreio Aigaio","city":"Nenita","latitude":38.23889,"longitude":26.09306}}(window,'GeoPostal','GR');

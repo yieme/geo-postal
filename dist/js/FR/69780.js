@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69780"]={"code":"69780","region":"Auvergne-Rhone-Alpes","city":"Mions","latitude":45.66432,"longitude":4.94994}}(window,'GeoPostal','FR');

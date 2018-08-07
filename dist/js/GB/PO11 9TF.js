@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO11 9TF"]={"code":"PO11 9TF","region":"England","city":"Hayling Island","latitude":50.7838,"longitude":-0.96869}}(window,'GeoPostal','GB');

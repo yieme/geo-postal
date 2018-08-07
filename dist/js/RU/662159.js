@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662159"]={"code":"662159","region":"Krasnoyarskiy kray","city":"Achinsk","latitude":56.2694,"longitude":90.4993}}(window,'GeoPostal','RU');

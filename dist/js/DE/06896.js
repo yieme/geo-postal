@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06896"]={"code":"06896","region":"Sachsen-Anhalt","city":"Dobien","latitude":51.90519,"longitude":12.61068}}(window,'GeoPostal','DE');

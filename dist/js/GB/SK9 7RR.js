@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK9 7RR"]={"code":"SK9 7RR","region":"England","city":"Alderley Edge","latitude":53.30393,"longitude":-2.23773}}(window,'GeoPostal','GB');

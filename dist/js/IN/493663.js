@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["493663"]={"code":"493663","region":"Chhattisgarh","city":"Kurud","latitude":20.83222,"longitude":81.72139}}(window,'GeoPostal','IN');

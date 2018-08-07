@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36280"]={"code":"36280","region":"Hessen","city":"Oberaula","latitude":50.85,"longitude":9.46667}}(window,'GeoPostal','DE');

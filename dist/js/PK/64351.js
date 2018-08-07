@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64351"]={"code":"64351","region":"Punjab","city":"Sadiqabad","latitude":28.30623,"longitude":70.13065}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05600"]={"code":"05600","region":"Castilla y Leon","city":"El Barco de Avila","latitude":40.3571,"longitude":-5.52365}}(window,'GeoPostal','ES');

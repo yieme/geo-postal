@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29177"]={"code":"29177","region":"SC","city":"White Rock","latitude":34.1504,"longitude":-81.2601}}(window,'GeoPostal','US');

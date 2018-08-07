@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86022"]={"code":"86022","region":"Nouvelle-Aquitaine","city":"Poitiers","latitude":46.58333,"longitude":0.33333}}(window,'GeoPostal','FR');

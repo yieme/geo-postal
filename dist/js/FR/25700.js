@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25700"]={"code":"25700","region":"Bourgogne-Franche-Comte","city":"Mathay","latitude":47.43904,"longitude":6.78487}}(window,'GeoPostal','FR');

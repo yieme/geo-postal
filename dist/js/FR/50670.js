@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50670"]={"code":"50670","region":"Normandie","city":"Saint-Pois","latitude":48.7503,"longitude":-1.0656}}(window,'GeoPostal','FR');

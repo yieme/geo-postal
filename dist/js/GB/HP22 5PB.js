@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP22 5PB"]={"code":"HP22 5PB","region":"England","city":"Halton","latitude":51.78271,"longitude":-0.73467}}(window,'GeoPostal','GB');

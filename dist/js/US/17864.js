@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17864"]={"code":"17864","region":"Pennsylvania","city":"Port Trevorton","latitude":40.70232,"longitude":-76.9098}}(window,'GeoPostal','US');

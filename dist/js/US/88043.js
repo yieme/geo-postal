@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88043"]={"code":"88043","region":"New Mexico","city":"Hurley","latitude":32.69924,"longitude":-108.13199}}(window,'GeoPostal','US');

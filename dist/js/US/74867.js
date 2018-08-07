@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74867"]={"code":"74867","region":"OK","city":"Sasakwa","latitude":34.951,"longitude":-96.5387}}(window,'GeoPostal','US');

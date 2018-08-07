@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49419"]={"code":"49419","region":"Niedersachsen","city":"Wagenfeld","latitude":52.55,"longitude":8.58333}}(window,'GeoPostal','DE');

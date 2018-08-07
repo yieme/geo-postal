@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88267"]={"code":"88267","region":"NM","city":"Tatum","latitude":33.26,"longitude":-103.314}}(window,'GeoPostal','US');

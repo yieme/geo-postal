@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83243"]={"code":"83243","region":"Idaho","city":"Holbrook","latitude":42.267957,"longitude":-112.616207}}(window,'GeoPostal','US');

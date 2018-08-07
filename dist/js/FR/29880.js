@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29880"]={"code":"29880","region":"Bretagne","city":"Plouguerneau","latitude":48.6,"longitude":-4.5}}(window,'GeoPostal','FR');

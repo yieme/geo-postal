@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84109"]={"code":"84109","region":"Bayern","city":"Worth an der Isar","latitude":48.623,"longitude":12.33944}}(window,'GeoPostal','DE');

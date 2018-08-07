@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78559"]={"code":"78559","region":"TX","city":"La Feria","latitude":26.1666,"longitude":-97.8261}}(window,'GeoPostal','US');

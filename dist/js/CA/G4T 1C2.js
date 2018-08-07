@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4T 1C2"]={"code":"G4T 1C2","region":"Quebec","city":"Cap-aux-Meules","latitude":47.384344,"longitude":-61.858649}}(window,'GeoPostal','CA');

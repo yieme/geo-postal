@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01521"]={"code":"01521","region":"MA","city":"Holland","latitude":42.0403,"longitude":-72.1544}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94149"]={"code":"94149","region":"Ile-de-France","city":"Alfortville","latitude":48.80575,"longitude":2.4204}}(window,'GeoPostal','FR');

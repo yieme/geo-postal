@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65199"]={"code":"65199","region":"Hessen","city":"Wiesbaden","latitude":50.08258,"longitude":8.24932}}(window,'GeoPostal','DE');

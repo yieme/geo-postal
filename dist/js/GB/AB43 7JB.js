@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB43 7JB"]={"code":"AB43 7JB","region":"Scotland","city":"Rosehearty","latitude":57.697,"longitude":-2.11322}}(window,'GeoPostal','GB');

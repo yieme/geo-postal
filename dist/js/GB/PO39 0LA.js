@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO39 0LA"]={"code":"PO39 0LA","region":"England","city":"Totland","latitude":50.68466,"longitude":-1.53688}}(window,'GeoPostal','GB');

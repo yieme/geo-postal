@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21106"]={"code":"21106","region":"MD","city":"Mayo","latitude":38.8876,"longitude":-76.5119}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12970"]={"code":"12970","region":"NY","city":"Paul Smiths","latitude":44.445,"longitude":-74.2664}}(window,'GeoPostal','US');

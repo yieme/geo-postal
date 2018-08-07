@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237280"]={"code":"237280","region":"Olt","city":"Nicolae Titulescu","latitude":44.3,"longitude":24.8}}(window,'GeoPostal','RO');

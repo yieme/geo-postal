@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 1C0"]={"code":"N0M 1C0","region":"Ontario","city":"Ettrick","latitude":43.026505,"longitude":-81.377235}}(window,'GeoPostal','CA');

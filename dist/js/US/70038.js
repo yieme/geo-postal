@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70038"]={"code":"70038","region":"LA","city":"Boothville","latitude":29.3079,"longitude":-89.3814}}(window,'GeoPostal','US');

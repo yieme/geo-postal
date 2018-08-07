@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 2K0"]={"code":"S0G 2K0","region":"Saskatchewan","city":"Indian Head","latitude":50.53336,"longitude":-103.66775}}(window,'GeoPostal','CA');

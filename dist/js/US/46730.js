@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46730"]={"code":"46730","region":"IN","city":"Corunna","latitude":41.4504,"longitude":-85.137}}(window,'GeoPostal','US');

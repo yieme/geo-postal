@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05081"]={"code":"05081","region":"Mandalay","city":"Maymyo","latitude":22.03333,"longitude":96.46667}}(window,'GeoPostal','MM');

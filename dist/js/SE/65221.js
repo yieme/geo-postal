@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65221"]={"code":"65221","region":"Varmlands lan","city":"Karlstad","latitude":59.3793,"longitude":13.50357}}(window,'GeoPostal','SE');

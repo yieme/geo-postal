@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3B 6V8"]={"code":"J3B 6V8","region":"Quebec","city":"Saint-Jean-sur-Richelieu","latitude":45.306967,"longitude":-73.252229}}(window,'GeoPostal','CA');

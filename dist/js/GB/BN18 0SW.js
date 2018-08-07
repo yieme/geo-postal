@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN18 0SW"]={"code":"BN18 0SW","region":"England","city":"Fontwell","latitude":50.8552,"longitude":-0.64831}}(window,'GeoPostal','GB');

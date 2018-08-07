@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48006"]={"code":"48006","region":"MI","city":"Avoca","latitude":43.0752,"longitude":-82.6955}}(window,'GeoPostal','US');

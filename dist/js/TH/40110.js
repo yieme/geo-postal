@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40110"]={"code":"40110","region":"Khon Kaen","city":"Ban Haet","latitude":16.19648,"longitude":102.75959}}(window,'GeoPostal','TH');

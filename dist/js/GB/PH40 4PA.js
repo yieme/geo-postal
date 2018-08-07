@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH40 4PA"]={"code":"PH40 4PA","region":"Scotland","city":"Morar","latitude":56.97219,"longitude":-5.82332}}(window,'GeoPostal','GB');

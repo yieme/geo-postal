@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59725"]={"code":"59725","region":"Montana","city":"Dillon","latitude":45.21631,"longitude":-112.63752}}(window,'GeoPostal','US');

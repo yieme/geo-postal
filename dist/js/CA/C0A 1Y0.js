@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1Y0"]={"code":"C0A 1Y0","region":"Prince Edward Island","city":"Kingston","latitude":46.26682,"longitude":-63.282}}(window,'GeoPostal','CA');

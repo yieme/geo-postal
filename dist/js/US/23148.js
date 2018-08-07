@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23148"]={"code":"23148","region":"Virginia","city":"Saint Stephens Church","latitude":37.80278,"longitude":-77.05556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59919"]={"code":"59919","region":"MT","city":"Hungry Horse","latitude":48.3858,"longitude":-114.061}}(window,'GeoPostal','US');

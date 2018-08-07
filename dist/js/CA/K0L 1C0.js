@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1C0"]={"code":"K0L 1C0","region":"Ontario","city":"Bancroft","latitude":45.05013,"longitude":-77.8495}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38420-000"]={"code":"38420-000","region":"Minas Gerais","city":"Monte Alegre de Minas","latitude":-18.87056,"longitude":-48.88083}}(window,'GeoPostal','BR');

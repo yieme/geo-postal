@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX24 6TW"]={"code":"EX24 6TW","region":"England","city":"Colyford","latitude":50.72673,"longitude":-3.06639}}(window,'GeoPostal','GB');

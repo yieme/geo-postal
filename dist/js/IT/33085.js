@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33085"]={"code":"33085","region":"Friuli-Venezia Giulia","city":"Maniago","latitude":46.17056,"longitude":12.70778}}(window,'GeoPostal','IT');

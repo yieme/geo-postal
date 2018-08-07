@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31643"]={"code":"31643","region":"Georgia","city":"Quitman","latitude":30.78492,"longitude":-83.55988}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5770"]={"code":"5770","region":"San Luis","city":"Concaran","latitude":-32.56009,"longitude":-65.2427}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16744"]={"code":"16744","region":"Pennsylvania","city":"Rew","latitude":41.896509,"longitude":-78.52041}}(window,'GeoPostal','US');

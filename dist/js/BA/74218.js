@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74218"]={"code":"74218","region":"Republika Srpska","city":"Foca","latitude":43.505,"longitude":18.77861}}(window,'GeoPostal','BA');

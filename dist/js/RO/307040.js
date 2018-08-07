@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307040"]={"code":"307040","region":"Timis","city":"Becicherecu Mic","latitude":45.82917,"longitude":21.05139}}(window,'GeoPostal','RO');

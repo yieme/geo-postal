@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59424"]={"code":"59424","region":"Montana","city":"Coffee Creek","latitude":47.35102,"longitude":-110.08538}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72441"]={"code":"72441","region":"AR","city":"Mc Dougal","latitude":36.437,"longitude":-90.3837}}(window,'GeoPostal','US');

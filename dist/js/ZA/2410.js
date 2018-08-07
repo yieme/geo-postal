@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2410"]={"code":"2410","region":"Mpumalanga","city":"Balfour","latitude":-26.66331,"longitude":28.59016}}(window,'GeoPostal','ZA');

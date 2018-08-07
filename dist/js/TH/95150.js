@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95150"]={"code":"95150","region":"Yala","city":"Than To","latitude":6.16739,"longitude":101.18008}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0N 1G0"]={"code":"L0N 1G0","region":"Ontario","city":"Grand Valley","latitude":43.9001,"longitude":-80.31638}}(window,'GeoPostal','CA');

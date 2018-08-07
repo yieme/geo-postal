@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01503"]={"code":"01503","region":"Massachusetts","city":"Berlin","latitude":42.37395,"longitude":-71.635178}}(window,'GeoPostal','US');

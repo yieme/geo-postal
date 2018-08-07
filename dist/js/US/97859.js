@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97859"]={"code":"97859","region":"Oregon","city":"Meacham","latitude":45.50658,"longitude":-118.4202}}(window,'GeoPostal','US');

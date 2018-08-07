@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71279"]={"code":"71279","region":"LA","city":"Start","latitude":32.4865,"longitude":-91.8593}}(window,'GeoPostal','US');

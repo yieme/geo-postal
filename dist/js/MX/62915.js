@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62915"]={"code":"62915","region":"Morelos","city":"Puente de Ixtla","latitude":18.61472,"longitude":-99.31806}}(window,'GeoPostal','MX');

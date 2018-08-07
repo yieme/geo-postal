@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88210"]={"code":"88210","region":"New Mexico","city":"Artesia","latitude":32.84233,"longitude":-104.4033}}(window,'GeoPostal','US');

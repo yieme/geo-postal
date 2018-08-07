@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8490"]={"code":"8490","region":"West-Vlaanderen","city":"Jabbeke","latitude":51.18185,"longitude":3.08935}}(window,'GeoPostal','BE');

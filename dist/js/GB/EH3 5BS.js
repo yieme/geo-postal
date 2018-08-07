@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH3 5BS"]={"code":"EH3 5BS","region":"Scotland","city":"Kirkpatrick","latitude":55.01667,"longitude":-3.13333}}(window,'GeoPostal','GB');

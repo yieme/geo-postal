@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81341"]={"code":"81341","region":"Lvivska oblast","city":"Sudovaya Vishnya","latitude":49.78892,"longitude":23.37218}}(window,'GeoPostal','UA');

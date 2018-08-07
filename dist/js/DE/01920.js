@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01920"]={"code":"01920","region":"Sachsen","city":"Schmeckwitz","latitude":51.25786,"longitude":14.20085}}(window,'GeoPostal','DE');

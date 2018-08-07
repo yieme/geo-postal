@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38925"]={"code":"38925","region":"Mississippi","city":"Duck Hill","latitude":33.63194,"longitude":-89.71472}}(window,'GeoPostal','US');

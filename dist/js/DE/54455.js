@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54455"]={"code":"54455","region":"Rheinland-Pfalz","city":"Serrig","latitude":49.57519,"longitude":6.57454}}(window,'GeoPostal','DE');

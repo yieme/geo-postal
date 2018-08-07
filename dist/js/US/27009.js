@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27009"]={"code":"27009","region":"NC","city":"Belews Creek","latitude":36.2269,"longitude":-80.093}}(window,'GeoPostal','US');

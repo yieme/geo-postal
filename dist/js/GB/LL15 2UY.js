@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 2UY"]={"code":"LL15 2UY","region":"Wales","city":"Llabedr-Dyffryn-Clwyd","latitude":53.11667,"longitude":-3.28333}}(window,'GeoPostal','GB');

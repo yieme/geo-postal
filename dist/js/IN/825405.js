@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825405"]={"code":"825405","region":"Jharkhand","city":"patamda","latitude":24.3,"longitude":85.41667}}(window,'GeoPostal','IN');

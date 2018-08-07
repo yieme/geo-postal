@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 4BH"]={"code":"IP26 4BH","region":"England","city":"Feltwell","latitude":52.48581,"longitude":0.51945}}(window,'GeoPostal','GB');

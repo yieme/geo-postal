@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5980"]={"code":"5980","region":"Cordoba","city":"Oliva","latitude":-32.04158,"longitude":-63.56978}}(window,'GeoPostal','AR');

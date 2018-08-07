@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72537"]={"code":"72537","region":"AR","city":"Gamaliel","latitude":36.4618,"longitude":-92.2284}}(window,'GeoPostal','US');

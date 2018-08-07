@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24869"]={"code":"24869","region":"WV","city":"North Spring","latitude":37.5682,"longitude":-81.8254}}(window,'GeoPostal','US');

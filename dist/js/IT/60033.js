@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60033"]={"code":"60033","region":"Marche","city":"Chiaravalle","latitude":43.60266,"longitude":13.32457}}(window,'GeoPostal','IT');

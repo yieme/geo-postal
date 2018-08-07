@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL14 2UA"]={"code":"GL14 2UA","region":"England","city":"Cinderford","latitude":51.82421,"longitude":-2.4987}}(window,'GeoPostal','GB');

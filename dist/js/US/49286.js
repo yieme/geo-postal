@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49286"]={"code":"49286","region":"Michigan","city":"Tecumseh","latitude":42.007441,"longitude":-83.944146}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62240"]={"code":"62240","region":"IL","city":"East Carondelet","latitude":38.5349,"longitude":-90.2208}}(window,'GeoPostal','US');

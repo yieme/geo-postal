@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87016"]={"code":"87016","region":"New Mexico","city":"Estancia","latitude":34.77576,"longitude":-106.17156}}(window,'GeoPostal','US');

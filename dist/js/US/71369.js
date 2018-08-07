@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71369"]={"code":"71369","region":"Louisiana","city":"Simmesport","latitude":30.98352,"longitude":-91.80012}}(window,'GeoPostal','US');

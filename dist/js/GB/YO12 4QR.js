@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO12 4QR"]={"code":"YO12 4QR","region":"England","city":"Seamer","latitude":54.23714,"longitude":-0.44151}}(window,'GeoPostal','GB');

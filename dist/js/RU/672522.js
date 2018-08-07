@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["672522"]={"code":"672522","region":"Zabaykal'skiy kray","city":"Domna","latitude":51.89712,"longitude":113.1573}}(window,'GeoPostal','RU');

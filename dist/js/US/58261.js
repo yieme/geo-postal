@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58261"]={"code":"58261","region":"North Dakota","city":"Minto","latitude":48.290173,"longitude":-97.37092}}(window,'GeoPostal','US');

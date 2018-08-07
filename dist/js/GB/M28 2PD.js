@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M28 2PD"]={"code":"M28 2PD","region":"England","city":"Worsley","latitude":53.499,"longitude":-2.38079}}(window,'GeoPostal','GB');

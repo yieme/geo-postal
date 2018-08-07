@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15831"]={"code":"15831","region":"Pennsylvania","city":"Dagus Mines","latitude":41.353913,"longitude":-78.606675}}(window,'GeoPostal','US');

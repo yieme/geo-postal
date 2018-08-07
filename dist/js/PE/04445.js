@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04445"]={"code":"04445","region":"Arequipa","city":"Camana","latitude":-16.62278,"longitude":-72.71111}}(window,'GeoPostal','PE');

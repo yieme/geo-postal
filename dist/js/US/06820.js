@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06820"]={"code":"06820","region":"Connecticut","city":"Darien","latitude":41.07871,"longitude":-73.46929}}(window,'GeoPostal','US');

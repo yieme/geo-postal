@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133217"]={"code":"133217","region":"Jilin","city":"Dongguang","latitude":43.29123,"longitude":129.8074}}(window,'GeoPostal','CN');

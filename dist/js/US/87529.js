@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87529"]={"code":"87529","region":"New Mexico","city":"El Prado","latitude":36.44861,"longitude":-105.57556}}(window,'GeoPostal','US');

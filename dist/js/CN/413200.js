@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413200"]={"code":"413200","region":"Hunan","city":"Nanzhou","latitude":29.35955,"longitude":112.40243}}(window,'GeoPostal','CN');

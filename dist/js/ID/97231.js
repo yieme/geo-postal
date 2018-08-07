@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97231"]={"code":"97231","region":"Maluku","city":"Hila","latitude":-3.58229,"longitude":128.08671}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49885"]={"code":"49885","region":"MI","city":"Skandia","latitude":46.349,"longitude":-87.2481}}(window,'GeoPostal','US');

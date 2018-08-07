@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33620"]={"code":"33620","region":"Nouvelle-Aquitaine","city":"Cezac","latitude":45.09019,"longitude":-0.41963}}(window,'GeoPostal','FR');

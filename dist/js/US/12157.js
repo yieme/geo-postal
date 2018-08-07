@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12157"]={"code":"12157","region":"New York","city":"Schoharie","latitude":42.665414,"longitude":-74.312282}}(window,'GeoPostal','US');

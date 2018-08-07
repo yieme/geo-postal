@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89000"]={"code":"89000","region":"Sabah","city":"Keningau","latitude":5.3378,"longitude":116.1602}}(window,'GeoPostal','MY');

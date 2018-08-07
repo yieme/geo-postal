@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44185"]={"code":"44185","region":"OH","city":"Ameritrust Card Center","latitude":41.49,"longitude":-81.67}}(window,'GeoPostal','US');

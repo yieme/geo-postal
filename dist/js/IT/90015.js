@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90015"]={"code":"90015","region":"Sicilia","city":"Cefalu","latitude":38.03856,"longitude":14.02285}}(window,'GeoPostal','IT');

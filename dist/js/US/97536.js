@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97536"]={"code":"97536","region":"Oregon","city":"Prospect","latitude":42.81144,"longitude":-122.45364}}(window,'GeoPostal','US');

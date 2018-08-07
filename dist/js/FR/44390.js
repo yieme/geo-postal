@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44390"]={"code":"44390","region":"Pays-de-la-Loire","city":"Saffre","latitude":47.50143,"longitude":-1.57856}}(window,'GeoPostal','FR');

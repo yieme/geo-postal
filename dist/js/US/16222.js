@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16222"]={"code":"16222","region":"Pennsylvania","city":"Dayton","latitude":40.88071,"longitude":-79.242128}}(window,'GeoPostal','US');

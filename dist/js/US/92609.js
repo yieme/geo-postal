@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92609"]={"code":"92609","region":"California","city":"Lake Forest","latitude":33.64697,"longitude":-117.68922}}(window,'GeoPostal','US');

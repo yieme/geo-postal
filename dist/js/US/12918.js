@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12918"]={"code":"12918","region":"NY","city":"Cadyville","latitude":44.6862,"longitude":-73.6702}}(window,'GeoPostal','US');

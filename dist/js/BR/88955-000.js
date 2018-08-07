@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88955-000"]={"code":"88955-000","region":"Santa Catarina","city":"Sombrio","latitude":-29.11389,"longitude":-49.61667}}(window,'GeoPostal','BR');

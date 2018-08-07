@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8430"]={"code":"8430","region":"Rio Negro","city":"El Bolson","latitude":-41.96667,"longitude":-71.51667}}(window,'GeoPostal','AR');

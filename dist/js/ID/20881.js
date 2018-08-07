@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20881"]={"code":"20881","region":"Sumatera Utara","city":"Pangkalan Brandan","latitude":4.0238,"longitude":98.2782}}(window,'GeoPostal','ID');

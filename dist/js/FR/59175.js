@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59175"]={"code":"59175","region":"Hauts-de-France","city":"Vendeville","latitude":50.57693,"longitude":3.0787}}(window,'GeoPostal','FR');

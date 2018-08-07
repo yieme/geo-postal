@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38068"]={"code":"38068","region":"Trentino-Alto Adige","city":"Rovereto","latitude":45.8896,"longitude":11.03868}}(window,'GeoPostal','IT');

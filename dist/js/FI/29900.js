@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29900"]={"code":"29900","region":"Satakunta","city":"Merikarvia","latitude":61.85839,"longitude":21.50035}}(window,'GeoPostal','FI');

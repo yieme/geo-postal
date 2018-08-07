@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62442"]={"code":"62442","region":"IL","city":"Martinsville","latitude":39.3174,"longitude":-87.8707}}(window,'GeoPostal','US');

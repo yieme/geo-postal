@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57350-000"]={"code":"57350-000","region":"Alagoas","city":"Girau do Ponciano","latitude":-9.88417,"longitude":-36.82889}}(window,'GeoPostal','BR');

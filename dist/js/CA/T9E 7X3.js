@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9E 7X3"]={"code":"T9E 7X3","region":"Alberta","city":"Nisku","latitude":53.092234,"longitude":-114.069966}}(window,'GeoPostal','CA');

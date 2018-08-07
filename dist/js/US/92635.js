@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92635"]={"code":"92635","region":"California","city":"Fullerton","latitude":33.9017,"longitude":-117.9127}}(window,'GeoPostal','US');

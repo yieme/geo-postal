@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67423"]={"code":"67423","region":"KS","city":"Beverly","latitude":38.9844,"longitude":-97.9818}}(window,'GeoPostal','US');

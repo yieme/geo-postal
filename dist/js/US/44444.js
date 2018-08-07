@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44444"]={"code":"44444","region":"Ohio","city":"Newton Falls","latitude":41.187057,"longitude":-80.969315}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 3DU"]={"code":"LE14 3DU","region":"England","city":"Hoby","latitude":52.75084,"longitude":-1.00947}}(window,'GeoPostal','GB');

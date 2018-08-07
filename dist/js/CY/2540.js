@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2540"]={"code":"2540","region":"Lefkosia","city":"Dhali","latitude":35.025,"longitude":33.42083}}(window,'GeoPostal','CY');

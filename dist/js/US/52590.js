@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52590"]={"code":"52590","region":"Iowa","city":"Seymour","latitude":40.683977,"longitude":-93.119317}}(window,'GeoPostal','US');

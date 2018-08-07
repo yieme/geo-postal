@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48873"]={"code":"48873","region":"MI","city":"Pewamo","latitude":43.0007,"longitude":-84.8492}}(window,'GeoPostal','US');

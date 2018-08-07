@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55600-000"]={"code":"55600-000","region":"Pernambuco","city":"Vitoria de Santo Antao","latitude":-8.11806,"longitude":-35.29139}}(window,'GeoPostal','BR');

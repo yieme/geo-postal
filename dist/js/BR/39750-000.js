@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39750-000"]={"code":"39750-000","region":"Minas Gerais","city":"Sabinopolis","latitude":-18.66611,"longitude":-43.08389}}(window,'GeoPostal','BR');

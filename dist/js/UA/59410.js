@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59410"]={"code":"59410","region":"Chernivetska oblast","city":"Kostryzhivka","latitude":48.65455,"longitude":25.71316}}(window,'GeoPostal','UA');

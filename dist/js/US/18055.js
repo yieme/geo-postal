@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18055"]={"code":"18055","region":"PA","city":"Hellertown","latitude":40.5817,"longitude":-75.3255}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92600"]={"code":"92600","region":"Veracruz de Ignacio de la Llave","city":"Nanchital","latitude":18.06667,"longitude":-94.4}}(window,'GeoPostal','MX');

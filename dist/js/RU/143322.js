@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143322"]={"code":"143322","region":"Moskovskaya oblast'","city":"Ateptsevo","latitude":55.32364,"longitude":36.75002}}(window,'GeoPostal','RU');

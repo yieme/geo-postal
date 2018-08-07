@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11106"]={"code":"11106","region":"New York","city":"Long Island City","latitude":40.761435,"longitude":-73.931957}}(window,'GeoPostal','US');

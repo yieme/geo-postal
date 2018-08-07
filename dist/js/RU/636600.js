@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636600"]={"code":"636600","region":"Tomskaya oblast'","city":"Parabel'","latitude":58.69778,"longitude":81.4825}}(window,'GeoPostal','RU');

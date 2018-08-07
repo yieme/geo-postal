@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8737"]={"code":"8737","region":"Sankt Gallen","city":"Gommiswald","latitude":47.23128,"longitude":9.02355}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607069"]={"code":"607069","region":"Nizhegorodskaya oblast'","city":"Vyksa","latitude":55.3175,"longitude":42.17444}}(window,'GeoPostal','RU');

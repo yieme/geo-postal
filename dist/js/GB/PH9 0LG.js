@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH9 0LG"]={"code":"PH9 0LG","region":"Scotland","city":"Ballinluig","latitude":56.65274,"longitude":-3.6682}}(window,'GeoPostal','GB');

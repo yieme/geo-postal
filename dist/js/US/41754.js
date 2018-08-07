@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41754"]={"code":"41754","region":"KY","city":"Krypton","latitude":37.3003,"longitude":-83.3219}}(window,'GeoPostal','US');

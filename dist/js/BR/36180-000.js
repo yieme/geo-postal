@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36180-000"]={"code":"36180-000","region":"Minas Gerais","city":"Rio Pomba","latitude":-21.27472,"longitude":-43.17917}}(window,'GeoPostal','BR');

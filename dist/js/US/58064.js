@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58064"]={"code":"58064","region":"North Dakota","city":"Page","latitude":47.143804,"longitude":-97.616301}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01705"]={"code":"01705","region":"Sachsen","city":"Freital","latitude":51.00166,"longitude":13.6488}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364 01"]={"code":"364 01","region":"Karlovarsky kraj","city":"Touzim","latitude":50.06049,"longitude":12.98506}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0C 2K0"]={"code":"A0C 2K0","region":"Newfoundland and Labrador","city":"Princeton","latitude":48.4166,"longitude":-53.59809}}(window,'GeoPostal','CA');

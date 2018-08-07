@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA3 4RA"]={"code":"BA3 4RA","region":"England","city":"Stratton-on-the-Fosse","latitude":51.25333,"longitude":-2.49222}}(window,'GeoPostal','GB');

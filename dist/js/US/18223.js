@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18223"]={"code":"18223","region":"PA","city":"Ebervale","latitude":40.9862,"longitude":-75.9413}}(window,'GeoPostal','US');

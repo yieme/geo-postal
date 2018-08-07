@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 8RA"]={"code":"SA19 8RA","region":"Wales","city":"Caio","latitude":52.03333,"longitude":-3.93333}}(window,'GeoPostal','GB');

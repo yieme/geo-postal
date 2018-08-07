@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29416"]={"code":"29416","region":"Sachsen-Anhalt","city":"Ziegelei","latitude":52.78333,"longitude":11.36667}}(window,'GeoPostal','DE');

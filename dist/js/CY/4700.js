@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4700"]={"code":"4700","region":"Lemesos","city":"Pakhna","latitude":34.77917,"longitude":32.79583}}(window,'GeoPostal','CY');

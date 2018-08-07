@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78558"]={"code":"78558","region":"TX","city":"La Blanca","latitude":26.2928,"longitude":-98.0378}}(window,'GeoPostal','US');

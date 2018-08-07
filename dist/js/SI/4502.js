@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4502"]={"code":"4502","region":"Kranj","city":"Kranj","latitude":46.23887,"longitude":14.35561}}(window,'GeoPostal','SI');

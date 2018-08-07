@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77616"]={"code":"77616","region":"Texas","city":"Fred","latitude":30.608354,"longitude":-94.185855}}(window,'GeoPostal','US');

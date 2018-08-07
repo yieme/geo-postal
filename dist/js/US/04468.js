@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04468"]={"code":"04468","region":"Maine","city":"Old Town","latitude":44.93423,"longitude":-68.64531}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4254"]={"code":"4254","region":"Hajdu-Bihar","city":"Nyiradony","latitude":47.69746,"longitude":21.91878}}(window,'GeoPostal','HU');

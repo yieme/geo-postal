@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2B0"]={"code":"T0J 2B0","region":"Alberta","city":"Morrin","latitude":51.66683,"longitude":-112.78518}}(window,'GeoPostal','CA');

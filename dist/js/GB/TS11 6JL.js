@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS11 6JL"]={"code":"TS11 6JL","region":"England","city":"Marske-by-the-Sea","latitude":54.59147,"longitude":-1.01959}}(window,'GeoPostal','GB');

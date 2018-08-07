@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3962"]={"code":"3962","region":"Victoria","city":"Toora","latitude":-38.66287,"longitude":146.32787}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49760"]={"code":"49760","region":"MI","city":"Moran","latitude":46.0441,"longitude":-85.0078}}(window,'GeoPostal','US');

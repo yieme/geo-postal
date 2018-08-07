@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68600-000"]={"code":"68600-000","region":"Para","city":"Augusto Correa","latitude":-1.02167,"longitude":-46.635}}(window,'GeoPostal','BR');

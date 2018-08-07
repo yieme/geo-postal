@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2640"]={"code":"2640","region":"Oppland","city":"Vinstra","latitude":61.59515,"longitude":9.75232}}(window,'GeoPostal','NO');

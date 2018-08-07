@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML10 6QH"]={"code":"ML10 6QH","region":"Scotland","city":"Drumclog","latitude":55.62441,"longitude":-4.16187}}(window,'GeoPostal','GB');

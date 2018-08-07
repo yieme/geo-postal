@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 9NJ"]={"code":"KA26 9NJ","region":"Scotland","city":"Maidens","latitude":55.33333,"longitude":-4.81667}}(window,'GeoPostal','GB');

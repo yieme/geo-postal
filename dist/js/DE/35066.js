@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35066"]={"code":"35066","region":"Hessen","city":"Schreufa","latitude":51.08528,"longitude":8.79909}}(window,'GeoPostal','DE');

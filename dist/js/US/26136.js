@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26136"]={"code":"26136","region":"West Virginia","city":"Big Bend","latitude":38.986157,"longitude":-81.138672}}(window,'GeoPostal','US');

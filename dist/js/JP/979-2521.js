@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["979-2521"]={"code":"979-2521","region":"Fukushima","city":"Soma","latitude":37.783,"longitude":140.917}}(window,'GeoPostal','JP');

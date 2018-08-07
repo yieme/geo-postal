@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72473"]={"code":"72473","region":"Arkansas","city":"Tuckerman","latitude":35.73063,"longitude":-91.19846}}(window,'GeoPostal','US');

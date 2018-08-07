@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["551"]={"code":"551","region":"Nordurland vestra","city":"Saudarkrokur","latitude":65.74611,"longitude":-19.63944}}(window,'GeoPostal','IS');

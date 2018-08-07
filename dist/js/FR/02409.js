@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02409"]={"code":"02409","region":"Hauts-de-France","city":"Chateau-Thierry","latitude":49.05,"longitude":3.4}}(window,'GeoPostal','FR');

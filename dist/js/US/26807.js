@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26807"]={"code":"26807","region":"West Virginia","city":"Franklin","latitude":38.64289,"longitude":-79.33115}}(window,'GeoPostal','US');

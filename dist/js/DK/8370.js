@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8370"]={"code":"8370","region":"Midtjylland","city":"Hadsten","latitude":56.32819,"longitude":10.04931}}(window,'GeoPostal','DK');

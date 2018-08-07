@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN6 6HU"]={"code":"NN6 6HU","region":"England","city":"Welford","latitude":51.45727,"longitude":-1.41131}}(window,'GeoPostal','GB');

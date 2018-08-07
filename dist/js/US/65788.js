@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65788"]={"code":"65788","region":"MO","city":"Peace Valley","latitude":36.8091,"longitude":-91.6938}}(window,'GeoPostal','US');

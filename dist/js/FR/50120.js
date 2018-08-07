@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50120"]={"code":"50120","region":"Normandie","city":"Equeurdreville-Hainneville","latitude":49.64868,"longitude":-1.65306}}(window,'GeoPostal','FR');

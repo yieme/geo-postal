@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6263"]={"code":"6263","region":"Tirol","city":"Fugen","latitude":47.35,"longitude":11.85}}(window,'GeoPostal','AT');

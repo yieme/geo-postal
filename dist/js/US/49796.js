@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49796"]={"code":"49796","region":"MI","city":"Walloon Lake","latitude":45.2661,"longitude":-84.9337}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92369"]={"code":"92369","region":"Bayern","city":"Olkuchenmuhle","latitude":49.23485,"longitude":11.45163}}(window,'GeoPostal','DE');

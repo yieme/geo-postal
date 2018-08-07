@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21609"]={"code":"21609","region":"MD","city":"Bethlehem","latitude":38.7406,"longitude":-75.9587}}(window,'GeoPostal','US');

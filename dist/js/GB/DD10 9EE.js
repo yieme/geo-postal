@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9EE"]={"code":"DD10 9EE","region":"Scotland","city":"Hillside","latitude":56.73333,"longitude":-2.48333}}(window,'GeoPostal','GB');

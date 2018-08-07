@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8140"]={"code":"8140","region":"Jendouba","city":"Al Firnanah","latitude":36.65547,"longitude":8.69602}}(window,'GeoPostal','TN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-600"]={"code":"62-600","region":"Wielkopolskie","city":"Kolo","latitude":52.20024,"longitude":18.63865}}(window,'GeoPostal','PL');

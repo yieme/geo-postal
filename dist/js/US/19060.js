@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19060"]={"code":"19060","region":"PA","city":"Garnet Valley","latitude":39.852,"longitude":-75.5007}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 0LP"]={"code":"SG8 0LP","region":"England","city":"Steeple Morden","latitude":52.06648,"longitude":-0.1248}}(window,'GeoPostal','GB');

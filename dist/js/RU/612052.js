@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612052"]={"code":"612052","region":"Kirovskaya oblast'","city":"Mirnyy","latitude":58.49333,"longitude":47.65389}}(window,'GeoPostal','RU');

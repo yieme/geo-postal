@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44780-000"]={"code":"44780-000","region":"Bahia","city":"Campo Formoso","latitude":-10.5075,"longitude":-40.32139}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98288"]={"code":"98288","region":"Washington","city":"Skykomish","latitude":47.71,"longitude":-121.35583}}(window,'GeoPostal','US');

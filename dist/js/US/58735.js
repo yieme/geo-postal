@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58735"]={"code":"58735","region":"ND","city":"Douglas","latitude":47.8659,"longitude":-101.5112}}(window,'GeoPostal','US');

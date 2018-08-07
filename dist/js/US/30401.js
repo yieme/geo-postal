@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30401"]={"code":"30401","region":"Georgia","city":"Swainsboro","latitude":32.59739,"longitude":-82.33374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92357"]={"code":"92357","region":"CA","city":"Loma Linda","latitude":34.0483,"longitude":-117.2612}}(window,'GeoPostal','US');

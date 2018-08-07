@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646176"]={"code":"646176","region":"Omskaya oblast'","city":"Krasnyy Yar","latitude":55.24242,"longitude":72.92635}}(window,'GeoPostal','RU');

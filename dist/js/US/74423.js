@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74423"]={"code":"74423","region":"OK","city":"Braggs","latitude":35.6574,"longitude":-95.2033}}(window,'GeoPostal','US');

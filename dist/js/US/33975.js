@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33975"]={"code":"33975","region":"Florida","city":"Port LaBelle","latitude":26.75645,"longitude":-81.40508}}(window,'GeoPostal','US');

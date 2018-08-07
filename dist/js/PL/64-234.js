@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-234"]={"code":"64-234","region":"Wielkopolskie","city":"Przemet","latitude":52.00808,"longitude":16.30114}}(window,'GeoPostal','PL');

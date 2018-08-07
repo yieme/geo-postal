@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13755"]={"code":"13755","region":"New York","city":"Downsville","latitude":42.08083,"longitude":-74.99583}}(window,'GeoPostal','US');

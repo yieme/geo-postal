@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 16"]={"code":"277 16","region":"Stredocesky kraj","city":"Vsetaty","latitude":50.28187,"longitude":14.59297}}(window,'GeoPostal','CZ');

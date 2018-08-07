@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47394"]={"code":"47394","region":"IN","city":"Winchester","latitude":40.1696,"longitude":-85.0044}}(window,'GeoPostal','US');

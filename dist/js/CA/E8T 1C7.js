@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8T 1C7"]={"code":"E8T 1C7","region":"New Brunswick","city":"Miscou Centre","latitude":47.94395,"longitude":-64.57111}}(window,'GeoPostal','CA');

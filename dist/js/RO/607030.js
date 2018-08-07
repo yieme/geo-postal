@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607030"]={"code":"607030","region":"Bacau","city":"Balcani","latitude":46.63333,"longitude":26.55}}(window,'GeoPostal','RO');

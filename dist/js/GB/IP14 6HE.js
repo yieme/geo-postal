@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 6HE"]={"code":"IP14 6HE","region":"England","city":"Framsden","latitude":52.19081,"longitude":1.21059}}(window,'GeoPostal','GB');

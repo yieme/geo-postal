@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22945"]={"code":"22945","region":"VA","city":"Ivy","latitude":38.0654,"longitude":-78.5958}}(window,'GeoPostal','US');

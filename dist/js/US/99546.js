@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99546"]={"code":"99546","region":"Alaska","city":"Adak","latitude":51.88,"longitude":-176.658056}}(window,'GeoPostal','US');

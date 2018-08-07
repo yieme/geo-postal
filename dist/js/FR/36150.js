@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36150"]={"code":"36150","region":"Centre-Val de Loire","city":"Vatan","latitude":47.07447,"longitude":1.8101}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74575"]={"code":"74575","region":"Baden-Wurttemberg","city":"Schrozberg","latitude":49.34528,"longitude":9.97944}}(window,'GeoPostal','DE');

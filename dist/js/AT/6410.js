@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6410"]={"code":"6410","region":"Tirol","city":"Telfs","latitude":47.3,"longitude":11.06667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58310-000"]={"code":"58310-000","region":"Paraiba","city":"Cabedelo","latitude":-6.98111,"longitude":-34.83389}}(window,'GeoPostal','BR');

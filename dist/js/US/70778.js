@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70778"]={"code":"70778","region":"LA","city":"Sorrento","latitude":30.1854,"longitude":-90.8631}}(window,'GeoPostal','US');

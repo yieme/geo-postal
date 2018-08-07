@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28673"]={"code":"28673","region":"NC","city":"Sherrills Ford","latitude":35.5962,"longitude":-81.0339}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52352"]={"code":"52352","region":"IA","city":"Walker","latitude":42.2867,"longitude":-91.7807}}(window,'GeoPostal','US');

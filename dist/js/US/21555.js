@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21555"]={"code":"21555","region":"Maryland","city":"Oldtown","latitude":39.597685,"longitude":-78.560606}}(window,'GeoPostal','US');

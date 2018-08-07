@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79370"]={"code":"79370","region":"Nouvelle-Aquitaine","city":"Thorigne","latitude":46.2915,"longitude":-0.25122}}(window,'GeoPostal','FR');

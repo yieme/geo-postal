@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70631"]={"code":"70631","region":"LA","city":"Cameron","latitude":29.7911,"longitude":-93.438}}(window,'GeoPostal','US');

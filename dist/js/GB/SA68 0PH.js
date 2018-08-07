@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0PH"]={"code":"SA68 0PH","region":"Wales","city":"Reynalton","latitude":51.74389,"longitude":-4.76611}}(window,'GeoPostal','GB');

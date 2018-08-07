@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62012"]={"code":"62012","region":"Marche","city":"Civitanova Marche","latitude":43.30696,"longitude":13.72058}}(window,'GeoPostal','IT');

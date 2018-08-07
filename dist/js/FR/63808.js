@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63808"]={"code":"63808","region":"Auvergne-Rhone-Alpes","city":"Cournon-d'Auvergne","latitude":45.73543,"longitude":3.19608}}(window,'GeoPostal','FR');

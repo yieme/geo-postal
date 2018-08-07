@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12860"]={"code":"12860","region":"New York","city":"Pottersville","latitude":43.698076,"longitude":-73.758055}}(window,'GeoPostal','US');

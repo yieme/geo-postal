@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-650"]={"code":"32-650","region":"Malopolskie","city":"Kety","latitude":49.88214,"longitude":19.22333}}(window,'GeoPostal','PL');

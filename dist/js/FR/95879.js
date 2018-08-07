@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95879"]={"code":"95879","region":"Ile-de-France","city":"Bezons","latitude":48.92426,"longitude":2.2128}}(window,'GeoPostal','FR');

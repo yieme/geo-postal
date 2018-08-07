@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF23 8RS"]={"code":"CF23 8RS","region":"Wales","city":"Cardiff","latitude":51.48,"longitude":-3.18}}(window,'GeoPostal','GB');

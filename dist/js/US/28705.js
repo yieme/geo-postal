@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28705"]={"code":"28705","region":"North Carolina","city":"Bakersville","latitude":36.01567,"longitude":-82.15874}}(window,'GeoPostal','US');

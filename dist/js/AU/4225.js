@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4225"]={"code":"4225","region":"Queensland","city":"Coolangatta","latitude":-28.16667,"longitude":153.53333}}(window,'GeoPostal','AU');

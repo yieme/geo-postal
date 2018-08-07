@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO7 4BL"]={"code":"YO7 4BL","region":"England","city":"Leake","latitude":54.31667,"longitude":-1.33333}}(window,'GeoPostal','GB');

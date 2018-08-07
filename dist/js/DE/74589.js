@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74589"]={"code":"74589","region":"Baden-Wurttemberg","city":"Satteldorf","latitude":49.16953,"longitude":10.07957}}(window,'GeoPostal','DE');

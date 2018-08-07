@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9420"]={"code":"9420","region":"Tierra del Fuego","city":"Ushuaia","latitude":-54.8,"longitude":-68.3}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2P0"]={"code":"T0B 2P0","region":"Alberta","city":"Kitscoty","latitude":53.33346,"longitude":-110.3349}}(window,'GeoPostal','CA');

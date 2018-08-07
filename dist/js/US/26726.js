@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26726"]={"code":"26726","region":"West Virginia","city":"Keyser","latitude":39.44093,"longitude":-78.97392}}(window,'GeoPostal','US');

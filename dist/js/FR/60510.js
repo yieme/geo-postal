@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60510"]={"code":"60510","region":"Hauts-de-France","city":"Litz","latitude":49.4172,"longitude":2.3325}}(window,'GeoPostal','FR');

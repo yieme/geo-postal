@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10926"]={"code":"10926","region":"NY","city":"Harriman","latitude":41.3005,"longitude":-74.1249}}(window,'GeoPostal','US');

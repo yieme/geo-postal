@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04787"]={"code":"04787","region":"Maine","city":"Westfield","latitude":46.603857,"longitude":-67.933533}}(window,'GeoPostal','US');

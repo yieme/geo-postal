@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42244"]={"code":"42244","region":"Varazdinska zupanija","city":"Klenovnik","latitude":46.27028,"longitude":16.07}}(window,'GeoPostal','HR');

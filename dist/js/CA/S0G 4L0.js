@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 4L0"]={"code":"S0G 4L0","region":"Saskatchewan","city":"Silton","latitude":50.80008,"longitude":-104.91783}}(window,'GeoPostal','CA');

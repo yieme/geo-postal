@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Tataouine","city":"Tataouine","latitude":32.92967,"longitude":10.45177}}(window,'GeoPostal','TN');

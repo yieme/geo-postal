@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78828"]={"code":"78828","region":"Texas","city":"Barksdale","latitude":29.73648,"longitude":-100.1034}}(window,'GeoPostal','US');

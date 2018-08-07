@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71327"]={"code":"71327","region":"Louisiana","city":"Cottonport","latitude":30.98408,"longitude":-92.05346}}(window,'GeoPostal','US');

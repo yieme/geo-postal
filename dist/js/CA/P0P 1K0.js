@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 1K0"]={"code":"P0P 1K0","region":"Ontario","city":"Little Current","latitude":45.97927,"longitude":-81.9248}}(window,'GeoPostal','CA');

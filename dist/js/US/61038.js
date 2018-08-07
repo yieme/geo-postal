@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61038"]={"code":"61038","region":"IL","city":"Garden Prairie","latitude":42.251,"longitude":-88.7437}}(window,'GeoPostal','US');

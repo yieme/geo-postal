@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23562"]={"code":"23562","region":"Schleswig-Holstein","city":"Luebeck","latitude":53.86893,"longitude":10.68729}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95585"]={"code":"95585","region":"California","city":"Leggett","latitude":39.86583,"longitude":-123.71417}}(window,'GeoPostal','US');

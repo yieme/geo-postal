@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39885"]={"code":"39885","region":"GA","city":"Sasser","latitude":31.7191,"longitude":-84.3479}}(window,'GeoPostal','US');

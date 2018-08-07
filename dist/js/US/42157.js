@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42157"]={"code":"42157","region":"Kentucky","city":"Mount Hermon","latitude":36.832832,"longitude":-85.846327}}(window,'GeoPostal','US');

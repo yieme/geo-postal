@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8060"]={"code":"8060","region":"Zurich","city":"Kloten","latitude":47.45152,"longitude":8.58491}}(window,'GeoPostal','CH');

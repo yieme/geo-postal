@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57004"]={"code":"57004","region":"South Dakota","city":"Beresford","latitude":43.08054,"longitude":-96.77366}}(window,'GeoPostal','US');

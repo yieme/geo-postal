@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40468"]={"code":"40468","region":"Kentucky","city":"Perryville","latitude":37.649434,"longitude":-84.968063}}(window,'GeoPostal','US');

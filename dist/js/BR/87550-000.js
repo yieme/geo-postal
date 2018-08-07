@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87550-000"]={"code":"87550-000","region":"Parana","city":"Altania","latitude":-23.87444,"longitude":-53.90167}}(window,'GeoPostal','BR');

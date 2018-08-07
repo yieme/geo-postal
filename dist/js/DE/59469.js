@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59469"]={"code":"59469","region":"Nordrhein-Westfalen","city":"Ruhne","latitude":51.51406,"longitude":7.95578}}(window,'GeoPostal','DE');

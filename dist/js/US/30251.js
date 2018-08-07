@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30251"]={"code":"30251","region":"GA","city":"Luthersville","latitude":33.2101,"longitude":-84.7444}}(window,'GeoPostal','US');

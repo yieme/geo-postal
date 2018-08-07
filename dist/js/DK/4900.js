@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4900"]={"code":"4900","region":"Sjelland","city":"Nakskov","latitude":54.83734,"longitude":11.12839}}(window,'GeoPostal','DK');

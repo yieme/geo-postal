@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67483"]={"code":"67483","region":"KS","city":"Tampa","latitude":38.5534,"longitude":-97.1774}}(window,'GeoPostal','US');

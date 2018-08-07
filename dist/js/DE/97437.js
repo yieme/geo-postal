@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97437"]={"code":"97437","region":"Bayern","city":"Hassfurt","latitude":50.03521,"longitude":10.5156}}(window,'GeoPostal','DE');

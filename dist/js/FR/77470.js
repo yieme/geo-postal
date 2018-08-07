@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77470"]={"code":"77470","region":"Ile-de-France","city":"Fublaines","latitude":48.93816,"longitude":2.93655}}(window,'GeoPostal','FR');

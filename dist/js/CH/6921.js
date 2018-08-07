@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6921"]={"code":"6921","region":"Ticino","city":"Melide","latitude":45.95455,"longitude":8.94725}}(window,'GeoPostal','CH');

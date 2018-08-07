@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34379"]={"code":"34379","region":"Hessen","city":"Calden","latitude":51.40943,"longitude":9.40189}}(window,'GeoPostal','DE');

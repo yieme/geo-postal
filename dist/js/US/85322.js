@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85322"]={"code":"85322","region":"AZ","city":"Arlington","latitude":33.3133,"longitude":-112.7891}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27311"]={"code":"27311","region":"NC","city":"Pelham","latitude":36.4899,"longitude":-79.4736}}(window,'GeoPostal','US');

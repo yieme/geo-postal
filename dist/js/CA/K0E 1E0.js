@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1E0"]={"code":"K0E 1E0","region":"Ontario","city":"Cardinal","latitude":44.78341,"longitude":-75.38263}}(window,'GeoPostal','CA');

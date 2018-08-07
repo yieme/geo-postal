@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442613"]={"code":"442613","region":"Hubei","city":"Tumen","latitude":33.05278,"longitude":110.35278}}(window,'GeoPostal','CN');

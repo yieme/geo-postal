@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08788"]={"code":"08788","region":"Catalunya","city":"Vilanova del Cami","latitude":41.57165,"longitude":1.63751}}(window,'GeoPostal','ES');

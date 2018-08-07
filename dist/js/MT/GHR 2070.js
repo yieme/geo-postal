@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GHR 2070"]={"code":"GHR 2070","region":"Gharghur","city":"Gharghur","latitude":35.92417,"longitude":14.45194}}(window,'GeoPostal','MT');

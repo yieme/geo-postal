@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2630"]={"code":"2630","region":"Santa Fe","city":"Firmat","latitude":-33.45937,"longitude":-61.4832}}(window,'GeoPostal','AR');

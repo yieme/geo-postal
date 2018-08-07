@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1355"]={"code":"1355","region":"Mpumalanga","city":"Nelspruit","latitude":-25.47448,"longitude":30.97033}}(window,'GeoPostal','ZA');

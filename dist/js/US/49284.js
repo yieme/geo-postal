@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49284"]={"code":"49284","region":"Michigan","city":"Springport","latitude":42.38009,"longitude":-84.663365}}(window,'GeoPostal','US');

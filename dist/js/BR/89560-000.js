@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89560-000"]={"code":"89560-000","region":"Santa Catarina","city":"Videira","latitude":-27.00833,"longitude":-51.15167}}(window,'GeoPostal','BR');

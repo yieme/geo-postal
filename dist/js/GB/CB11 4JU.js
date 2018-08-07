@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 4JU"]={"code":"CB11 4JU","region":"England","city":"Wendens Ambo","latitude":52.00354,"longitude":0.20119}}(window,'GeoPostal','GB');

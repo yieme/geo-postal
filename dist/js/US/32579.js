@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32579"]={"code":"32579","region":"Florida","city":"Shalimar","latitude":30.444654,"longitude":-86.571579}}(window,'GeoPostal','US');

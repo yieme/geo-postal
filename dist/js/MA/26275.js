@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26275"]={"code":"26275","region":"Souss-Massa-Draa","city":"Mhamid","latitude":29.82,"longitude":-5.72}}(window,'GeoPostal','MA');

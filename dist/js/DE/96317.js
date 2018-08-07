@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96317"]={"code":"96317","region":"Thuringen","city":"Kronach","latitude":50.23963,"longitude":11.33308}}(window,'GeoPostal','DE');

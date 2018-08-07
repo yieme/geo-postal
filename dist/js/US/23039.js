@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23039"]={"code":"23039","region":"VA","city":"Crozier","latitude":37.6718,"longitude":-77.794}}(window,'GeoPostal','US');

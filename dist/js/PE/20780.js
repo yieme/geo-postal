@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20780"]={"code":"20780","region":"Piura","city":"La Huaca","latitude":-4.91167,"longitude":-80.96}}(window,'GeoPostal','PE');

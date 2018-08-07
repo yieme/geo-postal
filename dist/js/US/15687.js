@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15687"]={"code":"15687","region":"Pennsylvania","city":"Stahlstown","latitude":40.133635,"longitude":-79.297794}}(window,'GeoPostal','US');

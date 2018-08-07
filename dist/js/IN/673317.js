@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673317"]={"code":"673317","region":"Kerala","city":"Mulappilangad","latitude":11.8,"longitude":75.45}}(window,'GeoPostal','IN');

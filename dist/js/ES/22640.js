@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22640"]={"code":"22640","region":"Aragon","city":"Sallent de Gallego","latitude":42.77127,"longitude":-0.33448}}(window,'GeoPostal','ES');

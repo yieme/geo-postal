@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13110"]={"code":"13110","region":"NY","city":"Marietta","latitude":42.8974,"longitude":-76.2806}}(window,'GeoPostal','US');

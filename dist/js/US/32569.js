@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32569"]={"code":"32569","region":"Florida","city":"Mary Esther","latitude":30.412305,"longitude":-86.716798}}(window,'GeoPostal','US');

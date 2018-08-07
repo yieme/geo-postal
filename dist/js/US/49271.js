@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49271"]={"code":"49271","region":"MI","city":"Pittsford","latitude":41.8963,"longitude":-84.444}}(window,'GeoPostal','US');

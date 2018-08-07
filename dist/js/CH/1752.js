@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1752"]={"code":"1752","region":"Fribourg","city":"Villars-sur-Glane","latitude":46.79054,"longitude":7.11717}}(window,'GeoPostal','CH');

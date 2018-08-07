@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87509"]={"code":"87509","region":"Mecklenburg-Vorpommern","city":"Immenstadt","latitude":53.87688,"longitude":13.79241}}(window,'GeoPostal','DE');

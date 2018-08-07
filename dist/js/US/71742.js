@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71742"]={"code":"71742","region":"Arkansas","city":"Fordyce","latitude":33.81372,"longitude":-92.41293}}(window,'GeoPostal','US');

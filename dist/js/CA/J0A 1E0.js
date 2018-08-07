@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0A 1E0"]={"code":"J0A 1E0","region":"Quebec","city":"Sainte-Seraphine","latitude":45.91676,"longitude":-72.1824}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN24 6AQ"]={"code":"BN24 6AQ","region":"England","city":"Pevensey Bay","latitude":50.81282,"longitude":0.35062}}(window,'GeoPostal','GB');

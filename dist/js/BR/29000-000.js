@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29000-000"]={"code":"29000-000","region":"Espirito Santo","city":"Vitoria","latitude":-20.31944,"longitude":-40.33778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13081"]={"code":"13081","region":"NY","city":"King Ferry","latitude":42.6635,"longitude":-76.6216}}(window,'GeoPostal','US');

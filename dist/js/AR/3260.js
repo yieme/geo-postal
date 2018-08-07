@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3260"]={"code":"3260","region":"Entre Rios","city":"Concepcion del Uruguay","latitude":-32.48249,"longitude":-58.23722}}(window,'GeoPostal','AR');

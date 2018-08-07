@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4500"]={"code":"4500","region":"Albay","city":"Legaspi","latitude":13.13722,"longitude":123.73444}}(window,'GeoPostal','PH');

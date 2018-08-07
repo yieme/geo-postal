@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172109"]={"code":"172109","region":"Himachal Pradesh","city":"Sarahan","latitude":31.51667,"longitude":77.8}}(window,'GeoPostal','IN');

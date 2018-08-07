@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79246"]={"code":"79246","region":"Republika Srpska","city":"Knezica","latitude":45.10278,"longitude":16.6775}}(window,'GeoPostal','BA');

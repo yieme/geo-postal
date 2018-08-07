@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63535"]={"code":"63535","region":"MO","city":"Coatsville","latitude":40.5665,"longitude":-92.6388}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19488"]={"code":"19488","region":"PA","city":"Academy Life","latitude":40.09,"longitude":-75.37}}(window,'GeoPostal','US');

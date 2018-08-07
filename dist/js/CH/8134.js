@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8134"]={"code":"8134","region":"Zurich","city":"Adliswil","latitude":47.30997,"longitude":8.52462}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456900"]={"code":"456900","region":"Chelyabinskaya oblast'","city":"Bakal","latitude":54.9417,"longitude":58.8083}}(window,'GeoPostal','RU');

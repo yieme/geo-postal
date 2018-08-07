@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41351"]={"code":"41351","region":"KY","city":"Mistletoe","latitude":37.3126,"longitude":-83.5916}}(window,'GeoPostal','US');

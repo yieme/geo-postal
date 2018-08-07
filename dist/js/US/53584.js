@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53584"]={"code":"53584","region":"WI","city":"Sextonville","latitude":43.2794,"longitude":-90.2876}}(window,'GeoPostal','US');

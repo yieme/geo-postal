@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5510"]={"code":"5510","region":"Ammochostos","city":"Avgorou","latitude":35.03688,"longitude":33.84029}}(window,'GeoPostal','CY');

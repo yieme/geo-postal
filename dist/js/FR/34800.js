@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34800"]={"code":"34800","region":"Occitanie","city":"Clermont-l'Herault","latitude":43.6281,"longitude":3.4331}}(window,'GeoPostal','FR');

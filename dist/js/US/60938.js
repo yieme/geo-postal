@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60938"]={"code":"60938","region":"IL","city":"Gilman","latitude":40.768,"longitude":-87.9933}}(window,'GeoPostal','US');

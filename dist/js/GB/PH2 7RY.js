@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 7RY"]={"code":"PH2 7RY","region":"Scotland","city":"Kinnaird","latitude":56.43333,"longitude":-3.23333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41640"]={"code":"41640","region":"Andalucia","city":"Osuna","latitude":37.23765,"longitude":-5.10746}}(window,'GeoPostal','ES');

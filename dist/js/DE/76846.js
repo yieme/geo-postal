@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76846"]={"code":"76846","region":"Rheinland-Pfalz","city":"Hauenstein","latitude":49.19211,"longitude":7.85492}}(window,'GeoPostal','DE');

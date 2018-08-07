@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16201"]={"code":"16201","region":"Pennsylvania","city":"Kittanning","latitude":40.819472,"longitude":-79.526523}}(window,'GeoPostal','US');

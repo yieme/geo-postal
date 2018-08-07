@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42788"]={"code":"42788","region":"KY","city":"White Mills","latitude":37.5438,"longitude":-86.0395}}(window,'GeoPostal','US');

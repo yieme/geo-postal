@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18854"]={"code":"18854","region":"Pennsylvania","city":"Wysox","latitude":41.785186,"longitude":-76.359919}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08380"]={"code":"08380","region":"Catalunya","city":"Malgrat de Mar","latitude":41.64662,"longitude":2.74135}}(window,'GeoPostal','ES');

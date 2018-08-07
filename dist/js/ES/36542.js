@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36542"]={"code":"36542","region":"Galicia","city":"Silleda","latitude":42.69605,"longitude":-8.24653}}(window,'GeoPostal','ES');

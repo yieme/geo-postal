@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02466"]={"code":"02466","region":"Massachusetts","city":"Auburndale","latitude":42.34431,"longitude":-71.24758}}(window,'GeoPostal','US');

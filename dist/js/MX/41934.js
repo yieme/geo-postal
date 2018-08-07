@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41934"]={"code":"41934","region":"Guerrero","city":"Azoyu","latitude":16.71667,"longitude":-98.73333}}(window,'GeoPostal','MX');

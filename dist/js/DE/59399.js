@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59399"]={"code":"59399","region":"Nordrhein-Westfalen","city":"Olfen","latitude":51.70787,"longitude":7.37893}}(window,'GeoPostal','DE');

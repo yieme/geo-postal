@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403004"]={"code":"403004","region":"Goa","city":"Panaji","latitude":15.48333,"longitude":73.83333}}(window,'GeoPostal','IN');

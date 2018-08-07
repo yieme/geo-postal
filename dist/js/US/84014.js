@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84014"]={"code":"84014","region":"Utah","city":"Centerville","latitude":40.922998,"longitude":-111.877423}}(window,'GeoPostal','US');

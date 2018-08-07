@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36343"]={"code":"36343","region":"AL","city":"Gordon","latitude":31.1002,"longitude":-85.1234}}(window,'GeoPostal','US');

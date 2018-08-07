@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA5 1TA"]={"code":"TA5 1TA","region":"England","city":"Stogursey","latitude":51.17972,"longitude":-3.14194}}(window,'GeoPostal','GB');

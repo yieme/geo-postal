@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN8 7DB"]={"code":"WN8 7DB","region":"England","city":"Parbold","latitude":53.59145,"longitude":-2.77028}}(window,'GeoPostal','GB');

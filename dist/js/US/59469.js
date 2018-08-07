@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59469"]={"code":"59469","region":"Montana","city":"Raynesford","latitude":47.248094,"longitude":-110.684107}}(window,'GeoPostal','US');

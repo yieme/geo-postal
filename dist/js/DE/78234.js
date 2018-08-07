@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78234"]={"code":"78234","region":"Baden-Wurttemberg","city":"Engen","latitude":47.85534,"longitude":8.77342}}(window,'GeoPostal','DE');

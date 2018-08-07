@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39426"]={"code":"39426","region":"Mississippi","city":"Carriere","latitude":30.61694,"longitude":-89.6525}}(window,'GeoPostal','US');

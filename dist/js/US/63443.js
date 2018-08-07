@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63443"]={"code":"63443","region":"Missouri","city":"Hunnewell","latitude":39.667378,"longitude":-91.859711}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84432"]={"code":"84432","region":"Bayern","city":"Kleinstockach","latitude":48.36353,"longitude":12.1211}}(window,'GeoPostal','DE');

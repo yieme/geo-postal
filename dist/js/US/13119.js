@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13119"]={"code":"13119","region":"NY","city":"Mottville","latitude":42.9745,"longitude":-76.4408}}(window,'GeoPostal','US');

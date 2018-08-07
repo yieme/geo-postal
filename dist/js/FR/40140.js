@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40140"]={"code":"40140","region":"Nouvelle-Aquitaine","city":"Magescq","latitude":43.78205,"longitude":-1.21652}}(window,'GeoPostal','FR');

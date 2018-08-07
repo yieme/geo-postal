@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15556"]={"code":"15556","region":"Lima","city":"Matucana","latitude":-11.85,"longitude":-76.4}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX22 6QZ"]={"code":"EX22 6QZ","region":"England","city":"Tetcott","latitude":50.74495,"longitude":-4.36715}}(window,'GeoPostal','GB');

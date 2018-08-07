@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65775"]={"code":"65775","region":"Missouri","city":"West Plains","latitude":36.72812,"longitude":-91.85237}}(window,'GeoPostal','US');

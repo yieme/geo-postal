@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55160"]={"code":"55160","region":"Nan","city":"Chiang Klang","latitude":19.3,"longitude":100.86667}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65654"]={"code":"65654","region":"MO","city":"Freistatt","latitude":37.0211,"longitude":-93.8974}}(window,'GeoPostal','US');

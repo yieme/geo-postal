@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39190"]={"code":"39190","region":"MS","city":"Washington","latitude":31.5788,"longitude":-91.2993}}(window,'GeoPostal','US');

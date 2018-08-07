@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1W0"]={"code":"T0M 1W0","region":"Alberta","city":"Butte","latitude":52.18341,"longitude":-114.73536}}(window,'GeoPostal','CA');

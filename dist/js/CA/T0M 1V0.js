@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1V0"]={"code":"T0M 1V0","region":"Alberta","city":"Spruce View","latitude":52.08341,"longitude":-114.31871}}(window,'GeoPostal','CA');

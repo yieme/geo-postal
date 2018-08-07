@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96133"]={"code":"96133","region":"California","city":"Topaz","latitude":38.636695,"longitude":-119.549001}}(window,'GeoPostal','US');

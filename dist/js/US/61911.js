@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61911"]={"code":"61911","region":"Illinois","city":"Arthur","latitude":39.703333,"longitude":-88.391111}}(window,'GeoPostal','US');

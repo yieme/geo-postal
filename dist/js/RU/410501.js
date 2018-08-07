@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["410501"]={"code":"410501","region":"Saratovskaya oblast'","city":"Sokolovyy","latitude":51.56857,"longitude":45.83312}}(window,'GeoPostal','RU');

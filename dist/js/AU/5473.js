@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5473"]={"code":"5473","region":"South Australia","city":"Gladstone","latitude":-33.26695,"longitude":138.35655}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38104"]={"code":"38104","region":"Poltavska oblast","city":"Zin'kiv","latitude":50.20806,"longitude":34.36376}}(window,'GeoPostal','UA');

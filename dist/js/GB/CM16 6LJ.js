@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM16 6LJ"]={"code":"CM16 6LJ","region":"England","city":"Epping","latitude":51.69815,"longitude":0.11055}}(window,'GeoPostal','GB');

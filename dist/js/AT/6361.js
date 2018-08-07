@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6361"]={"code":"6361","region":"Tirol","city":"Hopfgarten im Brixental","latitude":47.45,"longitude":12.16667}}(window,'GeoPostal','AT');

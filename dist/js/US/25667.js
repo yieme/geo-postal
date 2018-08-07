@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25667"]={"code":"25667","region":"WV","city":"Chattaroy","latitude":37.7047,"longitude":-82.2739}}(window,'GeoPostal','US');

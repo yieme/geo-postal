@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV26 2TN"]={"code":"IV26 2TN","region":"Scotland","city":"Ardmair","latitude":57.93445,"longitude":-5.19411}}(window,'GeoPostal','GB');

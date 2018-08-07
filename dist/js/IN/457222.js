@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457222"]={"code":"457222","region":"Madhya Pradesh","city":"Namli","latitude":23.43333,"longitude":75.05}}(window,'GeoPostal','IN');

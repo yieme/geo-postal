@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38387"]={"code":"38387","region":"Tennessee","city":"Westport","latitude":35.890064,"longitude":-88.298091}}(window,'GeoPostal','US');

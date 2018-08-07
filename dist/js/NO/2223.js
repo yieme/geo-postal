@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2223"]={"code":"2223","region":"Hedmark","city":"Spetalen","latitude":60.18333,"longitude":11.9}}(window,'GeoPostal','NO');

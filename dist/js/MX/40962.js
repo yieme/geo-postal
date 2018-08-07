@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40962"]={"code":"40962","region":"Guerrero","city":"Atoyac de Alvarez","latitude":17.2,"longitude":-100.43333}}(window,'GeoPostal','MX');

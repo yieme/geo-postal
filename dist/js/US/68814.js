@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68814"]={"code":"68814","region":"NE","city":"Ansley","latitude":41.3019,"longitude":-99.3645}}(window,'GeoPostal','US');

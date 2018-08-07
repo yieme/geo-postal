@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37406"]={"code":"37406","region":"Poltavska oblast","city":"Hrebinka","latitude":50.11712,"longitude":32.4361}}(window,'GeoPostal','UA');

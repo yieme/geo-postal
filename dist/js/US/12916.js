@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12916"]={"code":"12916","region":"New York","city":"Brushton","latitude":44.829686,"longitude":-74.526784}}(window,'GeoPostal','US');

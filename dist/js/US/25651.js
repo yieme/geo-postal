@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25651"]={"code":"25651","region":"West Virginia","city":"Wharncliffe","latitude":37.55528,"longitude":-81.96556}}(window,'GeoPostal','US');

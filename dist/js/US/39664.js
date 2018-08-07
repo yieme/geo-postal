@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39664"]={"code":"39664","region":"Mississippi","city":"Smithdale","latitude":31.3563,"longitude":-90.63606}}(window,'GeoPostal','US');

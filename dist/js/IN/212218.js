@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["212218"]={"code":"212218","region":"Uttar Pradesh","city":"Chail","latitude":25.43333,"longitude":81.63333}}(window,'GeoPostal','IN');

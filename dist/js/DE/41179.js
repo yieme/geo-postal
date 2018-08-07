@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41179"]={"code":"41179","region":"Nordrhein-Westfalen","city":"Koch","latitude":51.16947,"longitude":6.33757}}(window,'GeoPostal','DE');

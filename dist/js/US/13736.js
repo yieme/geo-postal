@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13736"]={"code":"13736","region":"New York","city":"Berkshire","latitude":42.30389,"longitude":-76.18528}}(window,'GeoPostal','US');

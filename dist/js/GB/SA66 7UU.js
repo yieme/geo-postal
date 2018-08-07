@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA66 7UU"]={"code":"SA66 7UU","region":"Wales","city":"Efailwen","latitude":51.895,"longitude":-4.71167}}(window,'GeoPostal','GB');

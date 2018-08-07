@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36590"]={"code":"36590","region":"Guanajuato","city":"Irapuato","latitude":20.68333,"longitude":-101.35}}(window,'GeoPostal','MX');

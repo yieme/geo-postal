@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39077"]={"code":"39077","region":"MS","city":"Gallman","latitude":31.9288,"longitude":-90.3926}}(window,'GeoPostal','US');

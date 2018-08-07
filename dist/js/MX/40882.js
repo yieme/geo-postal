@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40882"]={"code":"40882","region":"Guerrero","city":"Arcelia","latitude":18.28333,"longitude":-100.26667}}(window,'GeoPostal','MX');

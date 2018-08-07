@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P2A 2W8"]={"code":"P2A 2W8","region":"Ontario","city":"Otter Lake","latitude":45.2834,"longitude":-79.93296}}(window,'GeoPostal','CA');

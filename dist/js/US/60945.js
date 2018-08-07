@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60945"]={"code":"60945","region":"IL","city":"Iroquois","latitude":40.8269,"longitude":-87.5847}}(window,'GeoPostal','US');

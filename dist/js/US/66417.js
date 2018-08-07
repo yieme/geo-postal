@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66417"]={"code":"66417","region":"KS","city":"Corning","latitude":39.6572,"longitude":-96.0294}}(window,'GeoPostal','US');

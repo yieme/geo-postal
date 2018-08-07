@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73654"]={"code":"73654","region":"Oklahoma","city":"Leedey","latitude":35.868321,"longitude":-99.34451}}(window,'GeoPostal','US');

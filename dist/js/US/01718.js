@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01718"]={"code":"01718","region":"MA","city":"Village Of Nagog Woods","latitude":42.4851,"longitude":-71.4328}}(window,'GeoPostal','US');

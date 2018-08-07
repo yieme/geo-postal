@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S20 3FS"]={"code":"S20 3FS","region":"England","city":"Beighton","latitude":53.33333,"longitude":-1.33333}}(window,'GeoPostal','GB');

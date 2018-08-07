@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17046"]={"code":"17046","region":"Pennsylvania","city":"Lebanon","latitude":40.359891,"longitude":-76.433288}}(window,'GeoPostal','US');

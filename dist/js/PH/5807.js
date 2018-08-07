@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5807"]={"code":"5807","region":"Capiz","city":"Bula","latitude":11.448,"longitude":122.5685}}(window,'GeoPostal','PH');

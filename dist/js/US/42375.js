@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42375"]={"code":"42375","region":"KY","city":"Stanley","latitude":37.82,"longitude":-87.24}}(window,'GeoPostal','US');

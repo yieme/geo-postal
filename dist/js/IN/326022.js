@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["326022"]={"code":"326022","region":"Rajasthan","city":"Sunel","latitude":24.36667,"longitude":75.96667}}(window,'GeoPostal','IN');

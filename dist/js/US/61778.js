@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61778"]={"code":"61778","region":"IL","city":"Waynesville","latitude":40.2437,"longitude":-89.1143}}(window,'GeoPostal','US');

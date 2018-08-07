@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02153"]={"code":"02153","region":"Massachusetts","city":"Medford","latitude":42.41843,"longitude":-71.10616}}(window,'GeoPostal','US');

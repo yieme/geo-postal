@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9972"]={"code":"9972","region":"Tirol","city":"Virgen","latitude":47,"longitude":12.45}}(window,'GeoPostal','AT');

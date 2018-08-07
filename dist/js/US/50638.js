@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50638"]={"code":"50638","region":"Iowa","city":"Grundy Center","latitude":42.360374,"longitude":-92.773159}}(window,'GeoPostal','US');

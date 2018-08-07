@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1281"]={"code":"1281","region":"Geneve","city":"Dardagny","latitude":46.19564,"longitude":5.99497}}(window,'GeoPostal','CH');

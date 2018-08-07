@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52619"]={"code":"52619","region":"Iowa","city":"Argyle","latitude":40.564307,"longitude":-91.579081}}(window,'GeoPostal','US');

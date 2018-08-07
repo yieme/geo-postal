@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14410"]={"code":"14410","region":"NY","city":"Adams Basin","latitude":43.1953,"longitude":-77.8559}}(window,'GeoPostal','US');

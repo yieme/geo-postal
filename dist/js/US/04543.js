@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04543"]={"code":"04543","region":"ME","city":"Damariscotta","latitude":44.0293,"longitude":-69.5042}}(window,'GeoPostal','US');

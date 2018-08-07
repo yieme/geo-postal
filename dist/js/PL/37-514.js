@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-514"]={"code":"37-514","region":"Podkarpackie","city":"Ostrow","latitude":49.96812,"longitude":22.7871}}(window,'GeoPostal','PL');

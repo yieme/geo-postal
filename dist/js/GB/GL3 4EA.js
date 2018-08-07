@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL3 4EA"]={"code":"GL3 4EA","region":"England","city":"Brockworth","latitude":51.84566,"longitude":-2.15997}}(window,'GeoPostal','GB');

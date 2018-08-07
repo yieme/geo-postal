@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3G0"]={"code":"T0H 3G0","region":"Alberta","city":"Spirit River","latitude":55.78327,"longitude":-118.83607}}(window,'GeoPostal','CA');

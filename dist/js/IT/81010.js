@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81010"]={"code":"81010","region":"Campania","city":"San Gregorio","latitude":41.38522,"longitude":14.37163}}(window,'GeoPostal','IT');

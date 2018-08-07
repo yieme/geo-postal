@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43845"]={"code":"43845","region":"OH","city":"West Lafayette","latitude":40.2718,"longitude":-81.7361}}(window,'GeoPostal','US');

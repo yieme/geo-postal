@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51544"]={"code":"51544","region":"IA","city":"Lewis","latitude":41.2963,"longitude":-95.062}}(window,'GeoPostal','US');

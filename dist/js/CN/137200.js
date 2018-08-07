@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137200"]={"code":"137200","region":"Jilin","city":"Kaitong","latitude":44.81351,"longitude":123.15}}(window,'GeoPostal','CN');

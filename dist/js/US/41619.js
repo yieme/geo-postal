@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41619"]={"code":"41619","region":"KY","city":"Drift","latitude":37.4933,"longitude":-82.7575}}(window,'GeoPostal','US');

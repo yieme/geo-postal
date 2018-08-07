@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25160"]={"code":"25160","region":"WV","city":"Pond Gap","latitude":38.2904,"longitude":-81.2866}}(window,'GeoPostal','US');

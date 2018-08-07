@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4212"]={"code":"4212","region":"Queensland","city":"Hope Island","latitude":-27.87036,"longitude":153.35164}}(window,'GeoPostal','AU');

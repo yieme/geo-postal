@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98537"]={"code":"98537","region":"Washington","city":"Cosmopolis","latitude":46.95537,"longitude":-123.77378}}(window,'GeoPostal','US');

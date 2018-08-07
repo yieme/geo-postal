@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58255"]={"code":"58255","region":"ND","city":"Maida","latitude":48.9986,"longitude":-98.3648}}(window,'GeoPostal','US');

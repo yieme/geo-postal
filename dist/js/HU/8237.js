@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8237"]={"code":"8237","region":"Veszprem","city":"Tihany","latitude":46.91369,"longitude":17.88918}}(window,'GeoPostal','HU');

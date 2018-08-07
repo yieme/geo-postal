@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2L0"]={"code":"V0C 2L0","region":"British Columbia","city":"Kelly Lake","latitude":55.25,"longitude":-120.03333}}(window,'GeoPostal','CA');

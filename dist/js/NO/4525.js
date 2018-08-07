@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4525"]={"code":"4525","region":"Vest-Agder","city":"Konsmo","latitude":58.28529,"longitude":7.35598}}(window,'GeoPostal','NO');

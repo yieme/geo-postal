@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA48 7SG"]={"code":"SA48 7SG","region":"Wales","city":"Ciliau-Aeron","latitude":52.2,"longitude":-4.2}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 8YX"]={"code":"CB8 8YX","region":"England","city":"Stradishall","latitude":52.14508,"longitude":0.55507}}(window,'GeoPostal','GB');

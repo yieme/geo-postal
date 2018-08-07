@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-210"]={"code":"89-210","region":"Kujawsko-pomorskie","city":"Labiszyn","latitude":52.9521,"longitude":17.91971}}(window,'GeoPostal','PL');

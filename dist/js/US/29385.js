@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29385"]={"code":"29385","region":"SC","city":"Wellford","latitude":34.9514,"longitude":-82.0927}}(window,'GeoPostal','US');

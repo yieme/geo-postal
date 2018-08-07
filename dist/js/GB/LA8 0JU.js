@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA8 0JU"]={"code":"LA8 0JU","region":"England","city":"Sedgwick","latitude":54.2764,"longitude":-2.7494}}(window,'GeoPostal','GB');

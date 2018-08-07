@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8300"]={"code":"8300","region":"Surigao del Sur","city":"Tandag","latitude":9.07833,"longitude":126.19861}}(window,'GeoPostal','PH');

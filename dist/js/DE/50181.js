@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50181"]={"code":"50181","region":"Nordrhein-Westfalen","city":"Bedburg","latitude":50.99258,"longitude":6.57128}}(window,'GeoPostal','DE');

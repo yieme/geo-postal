@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04600"]={"code":"04600","region":"Thuringen","city":"Altenburg","latitude":50.98763,"longitude":12.43684}}(window,'GeoPostal','DE');

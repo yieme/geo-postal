@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37240"]={"code":"37240","region":"Castilla y Leon","city":"Lumbrales","latitude":40.93501,"longitude":-6.71948}}(window,'GeoPostal','ES');

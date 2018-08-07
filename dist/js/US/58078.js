@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58078"]={"code":"58078","region":"North Dakota","city":"West Fargo","latitude":46.87497,"longitude":-96.90036}}(window,'GeoPostal','US');

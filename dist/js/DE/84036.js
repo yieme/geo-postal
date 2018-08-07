@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84036"]={"code":"84036","region":"Bayern","city":"Kumhausen","latitude":48.5,"longitude":12.16667}}(window,'GeoPostal','DE');

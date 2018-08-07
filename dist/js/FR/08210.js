@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08210"]={"code":"08210","region":"Grand-Est","city":"Mouzon","latitude":49.60706,"longitude":5.07569}}(window,'GeoPostal','FR');

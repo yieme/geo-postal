@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37683"]={"code":"37683","region":"Tennessee","city":"Mountain City","latitude":36.474043,"longitude":-81.802795}}(window,'GeoPostal','US');

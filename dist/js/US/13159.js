@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13159"]={"code":"13159","region":"New York","city":"Otisco","latitude":42.865833,"longitude":-76.239167}}(window,'GeoPostal','US');

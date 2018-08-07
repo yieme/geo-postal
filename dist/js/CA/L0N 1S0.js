@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0N 1S0"]={"code":"L0N 1S0","region":"Ontario","city":"Shelburne","latitude":44.0787,"longitude":-80.20408}}(window,'GeoPostal','CA');

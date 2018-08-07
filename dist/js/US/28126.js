@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28126"]={"code":"28126","region":"North Carolina","city":"Newell","latitude":35.27842,"longitude":-80.735966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2E0"]={"code":"B0J 2E0","region":"Nova Scotia","city":"Mahone Bay","latitude":44.45015,"longitude":-64.38205}}(window,'GeoPostal','CA');

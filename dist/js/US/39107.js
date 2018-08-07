@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39107"]={"code":"39107","region":"MS","city":"Mc Adams","latitude":33.0828,"longitude":-89.6412}}(window,'GeoPostal','US');

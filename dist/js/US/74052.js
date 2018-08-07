@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74052"]={"code":"74052","region":"OK","city":"Oilton","latitude":36.0685,"longitude":-96.5958}}(window,'GeoPostal','US');

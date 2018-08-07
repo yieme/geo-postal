@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15108"]={"code":"15108","region":"Pennsylvania","city":"Coraopolis","latitude":40.50588,"longitude":-80.18694}}(window,'GeoPostal','US');

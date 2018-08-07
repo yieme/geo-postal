@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34449"]={"code":"34449","region":"Florida","city":"Inglis","latitude":29.03025,"longitude":-82.66872}}(window,'GeoPostal','US');

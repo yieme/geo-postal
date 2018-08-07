@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02230"]={"code":"02230","region":"Castilla-La Mancha","city":"Madrigueras","latitude":39.23333,"longitude":-1.8}}(window,'GeoPostal','ES');

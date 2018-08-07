@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3111"]={"code":"3111","region":"Victoria","city":"Donvale","latitude":-37.7891,"longitude":145.17488}}(window,'GeoPostal','AU');

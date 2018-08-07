@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06370"]={"code":"06370","region":"Connecticut","city":"Montville Center","latitude":41.47899,"longitude":-72.15119}}(window,'GeoPostal','US');

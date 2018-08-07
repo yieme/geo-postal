@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799-0711"]={"code":"799-0711","region":"Ehime","city":"Shikokuchuo","latitude":33.983,"longitude":133.55}}(window,'GeoPostal','JP');

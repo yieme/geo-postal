@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62836"]={"code":"62836","region":"IL","city":"Ewing","latitude":38.0702,"longitude":-88.8504}}(window,'GeoPostal','US');

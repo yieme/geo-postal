@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32252"]={"code":"32252","region":"Vukovarsko-srijemska zupanija","city":"Otok","latitude":45.14667,"longitude":18.88389}}(window,'GeoPostal','HR');

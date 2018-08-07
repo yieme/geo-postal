@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65011"]={"code":"65011","region":"Missouri","city":"Barnett","latitude":38.40247,"longitude":-92.755412}}(window,'GeoPostal','US');

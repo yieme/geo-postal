@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5313"]={"code":"5313","region":"Palawan","city":"El Nido","latitude":11.18583,"longitude":119.39556}}(window,'GeoPostal','PH');

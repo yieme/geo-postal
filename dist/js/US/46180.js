@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46180"]={"code":"46180","region":"IN","city":"Stilesville","latitude":39.6391,"longitude":-86.6182}}(window,'GeoPostal','US');

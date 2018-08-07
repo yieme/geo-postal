@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50477"]={"code":"50477","region":"IA","city":"Swaledale","latitude":42.9622,"longitude":-93.3115}}(window,'GeoPostal','US');

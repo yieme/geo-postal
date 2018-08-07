@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20110"]={"code":"20110","region":"Corse","city":"Propriano","latitude":41.67525,"longitude":8.90302}}(window,'GeoPostal','FR');

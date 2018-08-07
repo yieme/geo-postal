@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36349"]={"code":"36349","region":"Alabama","city":"Malvern","latitude":31.13934,"longitude":-85.5191}}(window,'GeoPostal','US');

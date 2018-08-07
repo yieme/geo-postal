@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65323"]={"code":"65323","region":"MO","city":"Calhoun","latitude":38.4858,"longitude":-93.6459}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4413"]={"code":"4413","region":"Queensland","city":"Chinchilla","latitude":-26.73787,"longitude":150.6297}}(window,'GeoPostal','AU');

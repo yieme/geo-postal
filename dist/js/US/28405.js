@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28405"]={"code":"28405","region":"North Carolina","city":"Bayshore","latitude":34.28961,"longitude":-77.78748}}(window,'GeoPostal','US');

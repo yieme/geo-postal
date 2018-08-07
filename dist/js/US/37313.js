@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37313"]={"code":"37313","region":"Tennessee","city":"Coalmont","latitude":35.34444,"longitude":-85.71722}}(window,'GeoPostal','US');

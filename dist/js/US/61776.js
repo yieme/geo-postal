@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61776"]={"code":"61776","region":"IL","city":"Towanda","latitude":40.5533,"longitude":-88.8886}}(window,'GeoPostal','US');

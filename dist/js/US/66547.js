@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66547"]={"code":"66547","region":"Kansas","city":"Wamego","latitude":39.211505,"longitude":-96.317232}}(window,'GeoPostal','US');

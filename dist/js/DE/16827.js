@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16827"]={"code":"16827","region":"Brandenburg","city":"Musiker Siedlung","latitude":52.94362,"longitude":12.80876}}(window,'GeoPostal','DE');

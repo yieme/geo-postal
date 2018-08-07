@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2334"]={"code":"2334","region":"Zuid-Holland","city":"Leiden","latitude":52.15833,"longitude":4.49306}}(window,'GeoPostal','NL');

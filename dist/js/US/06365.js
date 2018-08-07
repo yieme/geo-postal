@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06365"]={"code":"06365","region":"Connecticut","city":"Preston City","latitude":41.51622,"longitude":-71.99508}}(window,'GeoPostal','US');

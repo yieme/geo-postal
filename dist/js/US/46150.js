@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46150"]={"code":"46150","region":"IN","city":"Manilla","latitude":39.5742,"longitude":-85.6194}}(window,'GeoPostal','US');

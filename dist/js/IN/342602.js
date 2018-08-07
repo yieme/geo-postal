@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342602"]={"code":"342602","region":"Rajasthan","city":"Pipar","latitude":26.38556,"longitude":73.53778}}(window,'GeoPostal','IN');

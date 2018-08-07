@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 1JR"]={"code":"CM6 1JR","region":"England","city":"Great Canfield","latitude":51.83816,"longitude":0.31646}}(window,'GeoPostal','GB');

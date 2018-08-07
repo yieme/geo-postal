@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51249"]={"code":"51249","region":"Iowa","city":"Sibley","latitude":43.39914,"longitude":-95.75196}}(window,'GeoPostal','US');

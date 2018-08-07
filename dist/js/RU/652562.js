@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652562"]={"code":"652562","region":"Kemerovskaya oblast'","city":"Polysayevo","latitude":54.6012,"longitude":86.2459}}(window,'GeoPostal','RU');

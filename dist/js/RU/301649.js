@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301649"]={"code":"301649","region":"Tul'skaya oblast'","city":"Uzlovaya","latitude":53.98179,"longitude":38.17118}}(window,'GeoPostal','RU');

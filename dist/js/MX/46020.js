@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46020"]={"code":"46020","region":"Jalisco","city":"Huejuquilla el Alto","latitude":22.6,"longitude":-103.86667}}(window,'GeoPostal','MX');

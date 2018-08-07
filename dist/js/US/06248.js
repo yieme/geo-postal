@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06248"]={"code":"06248","region":"CT","city":"Hebron","latitude":41.6842,"longitude":-72.3986}}(window,'GeoPostal','US');

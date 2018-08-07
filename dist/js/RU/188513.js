@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188513"]={"code":"188513","region":"Leningradskaya oblast'","city":"Annino","latitude":59.77056,"longitude":30.05611}}(window,'GeoPostal','RU');

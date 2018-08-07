@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27599"]={"code":"27599","region":"North Carolina","city":"Chapel Hill","latitude":35.927613,"longitude":-79.040627}}(window,'GeoPostal','US');

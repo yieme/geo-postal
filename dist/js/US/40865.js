@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40865"]={"code":"40865","region":"Kentucky","city":"Putney","latitude":36.9376,"longitude":-83.263485}}(window,'GeoPostal','US');

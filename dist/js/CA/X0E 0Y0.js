@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0Y0"]={"code":"X0E 0Y0","region":"Northwest Territories","city":"Behchoko","latitude":62.8025,"longitude":-116.046389}}(window,'GeoPostal','CA');

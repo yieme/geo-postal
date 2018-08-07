@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2223"]={"code":"2223","region":"Niederosterreich","city":"Gaweinstal","latitude":48.46667,"longitude":16.58333}}(window,'GeoPostal','AT');

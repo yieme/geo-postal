@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404111"]={"code":"404111","region":"Volgogradskaya oblast'","city":"Gumrak","latitude":48.78255,"longitude":44.3824}}(window,'GeoPostal','RU');

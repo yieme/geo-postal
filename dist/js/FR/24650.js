@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24650"]={"code":"24650","region":"Nouvelle-Aquitaine","city":"Chancelade","latitude":45.20049,"longitude":0.67261}}(window,'GeoPostal','FR');

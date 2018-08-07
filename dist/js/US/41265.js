@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41265"]={"code":"41265","region":"Kentucky","city":"Van Lear","latitude":37.77121,"longitude":-82.75794}}(window,'GeoPostal','US');

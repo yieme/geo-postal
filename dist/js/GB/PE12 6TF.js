@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 6TF"]={"code":"PE12 6TF","region":"England","city":"Whaplode","latitude":52.79934,"longitude":-0.03639}}(window,'GeoPostal','GB');

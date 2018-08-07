@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141309"]={"code":"141309","region":"Punjab","city":"Nurmahal","latitude":31.09639,"longitude":75.59667}}(window,'GeoPostal','IN');

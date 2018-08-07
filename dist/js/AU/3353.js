@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3353"]={"code":"3353","region":"Victoria","city":"Ballarat","latitude":-37.56622,"longitude":143.84957}}(window,'GeoPostal','AU');

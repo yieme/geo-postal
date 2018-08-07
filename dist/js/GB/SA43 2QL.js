@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 2QL"]={"code":"SA43 2QL","region":"Wales","city":"Manordeifi","latitude":52.0583,"longitude":-4.58668}}(window,'GeoPostal','GB');

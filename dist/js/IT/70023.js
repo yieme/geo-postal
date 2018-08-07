@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70023"]={"code":"70023","region":"Puglia","city":"Gioia del Colle","latitude":40.79673,"longitude":16.92359}}(window,'GeoPostal','IT');

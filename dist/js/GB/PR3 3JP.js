@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR3 3JP"]={"code":"PR3 3JP","region":"England","city":"Chorley","latitude":53.65,"longitude":-2.61667}}(window,'GeoPostal','GB');

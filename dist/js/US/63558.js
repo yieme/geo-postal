@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63558"]={"code":"63558","region":"MO","city":"New Cambria","latitude":39.7551,"longitude":-92.7695}}(window,'GeoPostal','US');

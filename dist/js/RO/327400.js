@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327400"]={"code":"327400","region":"Caras-Severin","city":"Toplet","latitude":44.79722,"longitude":22.39444}}(window,'GeoPostal','RO');

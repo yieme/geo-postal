@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-100"]={"code":"42-100","region":"Slaskie","city":"Klobuck","latitude":50.90081,"longitude":18.93674}}(window,'GeoPostal','PL');

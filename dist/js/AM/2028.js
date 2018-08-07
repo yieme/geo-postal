@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2028"]={"code":"2028","region":"Lori","city":"Bazum","latitude":40.86763,"longitude":44.43978}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2M 1JJ"]={"code":"EC2M 1JJ","region":"England","city":"Old Street","latitude":51.52623,"longitude":-0.0851}}(window,'GeoPostal','GB');

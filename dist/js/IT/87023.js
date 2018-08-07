@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87023"]={"code":"87023","region":"Calabria","city":"Diamante","latitude":39.676,"longitude":15.82488}}(window,'GeoPostal','IT');

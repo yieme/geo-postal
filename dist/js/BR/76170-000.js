@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76170-000"]={"code":"76170-000","region":"Goias","city":"Anicuns","latitude":-16.46111,"longitude":-49.96167}}(window,'GeoPostal','BR');

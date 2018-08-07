@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08454"]={"code":"08454","region":"Kyivska oblast","city":"Tsybli","latitude":49.99484,"longitude":31.56281}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4678"]={"code":"4678","region":"Queensland","city":"Iveragh","latitude":-24.13333,"longitude":151.45}}(window,'GeoPostal','AU');

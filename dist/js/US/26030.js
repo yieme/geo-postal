@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26030"]={"code":"26030","region":"WV","city":"Beech Bottom","latitude":40.2259,"longitude":-80.6513}}(window,'GeoPostal','US');

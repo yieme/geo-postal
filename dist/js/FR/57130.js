@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57130"]={"code":"57130","region":"Grand-Est","city":"Verneville","latitude":49.1472,"longitude":6.0033}}(window,'GeoPostal','FR');

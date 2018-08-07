@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15934"]={"code":"15934","region":"PA","city":"Elton","latitude":40.2799,"longitude":-78.8032}}(window,'GeoPostal','US');

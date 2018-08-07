@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J1T 0A1"]={"code":"J1T 0A1","region":"Quebec","city":"Asbestos","latitude":45.76678,"longitude":-71.9324}}(window,'GeoPostal','CA');

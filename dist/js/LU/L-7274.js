@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-7274"]={"code":"L-7274","region":"Luxembourg","city":"Heisdorf-sur-Alzette","latitude":49.66861,"longitude":6.14222}}(window,'GeoPostal','LU');

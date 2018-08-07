@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV22 2JN"]={"code":"IV22 2JN","region":"Scotland","city":"Mellon Charles","latitude":57.85944,"longitude":-5.62695}}(window,'GeoPostal','GB');

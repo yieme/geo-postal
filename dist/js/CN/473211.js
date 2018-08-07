@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473211"]={"code":"473211","region":"Henan","city":"Yangji","latitude":33.32721,"longitude":112.99257}}(window,'GeoPostal','CN');

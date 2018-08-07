@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60119"]={"code":"60119","region":"IL","city":"Elburn","latitude":41.8824,"longitude":-88.4611}}(window,'GeoPostal','US');

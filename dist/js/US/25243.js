@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25243"]={"code":"25243","region":"WV","city":"Gandeeville","latitude":38.7034,"longitude":-81.4243}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1544"]={"code":"1544","region":"Ljubljana","city":"Ljubljana","latitude":46.05108,"longitude":14.50513}}(window,'GeoPostal','SI');

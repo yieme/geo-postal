@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77115"]={"code":"77115","region":"Ivano-Frankivska oblast","city":"Burshtyn","latitude":49.25866,"longitude":24.62776}}(window,'GeoPostal','UA');

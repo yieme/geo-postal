@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88479"]={"code":"88479","region":"Tamaulipas","city":"Nuevo Laredo","latitude":27.5,"longitude":-99.51667}}(window,'GeoPostal','MX');

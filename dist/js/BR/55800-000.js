@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55800-000"]={"code":"55800-000","region":"Pernambuco","city":"Nazare da Mata","latitude":-7.74167,"longitude":-35.22778}}(window,'GeoPostal','BR');

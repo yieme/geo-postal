@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64658"]={"code":"64658","region":"Hessen","city":"Furth","latitude":49.65083,"longitude":8.78472}}(window,'GeoPostal','DE');

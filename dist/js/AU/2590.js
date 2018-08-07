@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2590"]={"code":"2590","region":"New South Wales","city":"Cootamundra","latitude":-34.64095,"longitude":148.02838}}(window,'GeoPostal','AU');

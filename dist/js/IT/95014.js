@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95014"]={"code":"95014","region":"Sicilia","city":"Giarre","latitude":37.72686,"longitude":15.18769}}(window,'GeoPostal','IT');

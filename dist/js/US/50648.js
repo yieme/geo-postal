@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50648"]={"code":"50648","region":"Iowa","city":"Jesup","latitude":42.4587,"longitude":-92.06316}}(window,'GeoPostal','US');

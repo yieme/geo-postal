@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3711"]={"code":"MD-3711","region":"Straseni","city":"Bucovat","latitude":47.18861,"longitude":28.45694}}(window,'GeoPostal','MD');

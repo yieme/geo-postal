@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18350"]={"code":"18350","region":"Centre-Val de Loire","city":"Nerondes","latitude":46.99758,"longitude":2.81834}}(window,'GeoPostal','FR');

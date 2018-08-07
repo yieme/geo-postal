@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL16 8BB"]={"code":"GL16 8BB","region":"England","city":"Coleford","latitude":51.79535,"longitude":-2.61354}}(window,'GeoPostal','GB');

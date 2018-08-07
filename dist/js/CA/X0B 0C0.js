@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0B 0C0"]={"code":"X0B 0C0","region":"Nunavut","city":"Cambridge Bay","latitude":69.11489,"longitude":-105.05484}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 03"]={"code":"273 03","region":"Stredocesky kraj","city":"Stochov","latitude":50.14631,"longitude":13.96345}}(window,'GeoPostal','CZ');

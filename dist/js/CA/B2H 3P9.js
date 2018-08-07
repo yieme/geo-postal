@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2H 3P9"]={"code":"B2H 3P9","region":"Nova Scotia","city":"New Glasgow","latitude":45.58249,"longitude":-62.645251}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17552"]={"code":"17552","region":"Pennsylvania","city":"Mount Joy","latitude":40.106417,"longitude":-76.506929}}(window,'GeoPostal','US');

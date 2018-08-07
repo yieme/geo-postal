@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST7 4DL"]={"code":"ST7 4DL","region":"Scotland","city":"Maryhill","latitude":55.89063,"longitude":-4.29037}}(window,'GeoPostal','GB');

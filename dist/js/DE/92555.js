@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92555"]={"code":"92555","region":"Bayern","city":"Bierlhof","latitude":49.5158,"longitude":12.28748}}(window,'GeoPostal','DE');

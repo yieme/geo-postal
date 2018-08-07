@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22641"]={"code":"22641","region":"VA","city":"Strasburg","latitude":39.0808,"longitude":-78.3913}}(window,'GeoPostal','US');

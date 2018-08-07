@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309376"]={"code":"309376","region":"Belgorodskaya oblast'","city":"Golovchino","latitude":50.5341,"longitude":35.797}}(window,'GeoPostal','RU');

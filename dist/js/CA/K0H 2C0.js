@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2C0"]={"code":"K0H 2C0","region":"Ontario","city":"Mississippi Station","latitude":44.91681,"longitude":-76.68271}}(window,'GeoPostal','CA');

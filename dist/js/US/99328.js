@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99328"]={"code":"99328","region":"Washington","city":"Dayton","latitude":46.323149,"longitude":-117.977662}}(window,'GeoPostal','US');

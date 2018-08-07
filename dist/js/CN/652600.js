@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652600"]={"code":"652600","region":"Yunnan","city":"Dajie","latitude":24.29623,"longitude":102.75064}}(window,'GeoPostal','CN');

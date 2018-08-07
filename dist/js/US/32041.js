@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32041"]={"code":"32041","region":"Florida","city":"Yulee","latitude":30.6319,"longitude":-81.60649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63784"]={"code":"63784","region":"MO","city":"Vanduser","latitude":36.9912,"longitude":-89.6885}}(window,'GeoPostal','US');

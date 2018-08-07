@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92280"]={"code":"92280","region":"California","city":"Vidal","latitude":34.191957,"longitude":-114.553957}}(window,'GeoPostal','US');

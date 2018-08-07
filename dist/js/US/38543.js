@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38543"]={"code":"38543","region":"TN","city":"Alpine","latitude":36.3803,"longitude":-85.1522}}(window,'GeoPostal','US');

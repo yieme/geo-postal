@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87205"]={"code":"87205","region":"Donetska oblast","city":"Starobesheve","latitude":47.75038,"longitude":38.03051}}(window,'GeoPostal','UA');

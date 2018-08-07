@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60013"]={"code":"60013","region":"Illinois","city":"Cary","latitude":42.21197,"longitude":-88.23814}}(window,'GeoPostal','US');

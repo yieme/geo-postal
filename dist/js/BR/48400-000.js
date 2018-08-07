@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48400-000"]={"code":"48400-000","region":"Bahia","city":"Ribeira do Pombal","latitude":-10.83444,"longitude":-38.53583}}(window,'GeoPostal','BR');

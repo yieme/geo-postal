@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95223"]={"code":"95223","region":"California","city":"Arnold","latitude":38.25547,"longitude":-120.35103}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75560"]={"code":"75560","region":"TX","city":"Douglassville","latitude":33.1758,"longitude":-94.3467}}(window,'GeoPostal','US');

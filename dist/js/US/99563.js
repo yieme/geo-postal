@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99563"]={"code":"99563","region":"Alaska","city":"Chevak","latitude":61.52778,"longitude":-165.57861}}(window,'GeoPostal','US');

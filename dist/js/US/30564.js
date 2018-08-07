@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30564"]={"code":"30564","region":"GA","city":"Murrayville","latitude":34.4342,"longitude":-83.8949}}(window,'GeoPostal','US');

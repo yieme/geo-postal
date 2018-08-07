@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756049"]={"code":"756049","region":"West Bengal","city":"Contai","latitude":21.77861,"longitude":87.75361}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG10 9PR"]={"code":"DG10 9PR","region":"Scotland","city":"Lochwood Mains","latitude":55.25,"longitude":-3.43333}}(window,'GeoPostal','GB');

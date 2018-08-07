@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51443"]={"code":"51443","region":"Iowa","city":"Glidden","latitude":42.05693,"longitude":-94.72887}}(window,'GeoPostal','US');

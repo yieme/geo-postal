@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571-0061"]={"code":"571-0061","region":"Osaka","city":"Kadoma","latitude":34.733,"longitude":135.583}}(window,'GeoPostal','JP');

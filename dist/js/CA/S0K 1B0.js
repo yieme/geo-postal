@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 1B0"]={"code":"S0K 1B0","region":"Saskatchewan","city":"Cudworth","latitude":52.50006,"longitude":-105.73442}}(window,'GeoPostal','CA');

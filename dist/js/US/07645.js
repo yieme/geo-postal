@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07645"]={"code":"07645","region":"New Jersey","city":"Montvale","latitude":41.048538,"longitude":-74.039964}}(window,'GeoPostal','US');

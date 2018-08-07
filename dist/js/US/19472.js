@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19472"]={"code":"19472","region":"PA","city":"Sassamansville","latitude":40.3448,"longitude":-75.5775}}(window,'GeoPostal','US');

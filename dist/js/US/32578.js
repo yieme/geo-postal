@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32578"]={"code":"32578","region":"Florida","city":"Niceville","latitude":30.51686,"longitude":-86.48217}}(window,'GeoPostal','US');

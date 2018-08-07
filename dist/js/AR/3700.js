@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Chaco","city":"Presidencia Roque Saenz Pena","latitude":-26.78522,"longitude":-60.43876}}(window,'GeoPostal','AR');

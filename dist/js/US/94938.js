@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94938"]={"code":"94938","region":"California","city":"Lagunitas","latitude":38.013103,"longitude":-122.694242}}(window,'GeoPostal','US');

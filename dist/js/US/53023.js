@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53023"]={"code":"53023","region":"WI","city":"Glenbeulah","latitude":43.7666,"longitude":-88.1049}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79504"]={"code":"79504","region":"TX","city":"Baird","latitude":32.3916,"longitude":-99.3777}}(window,'GeoPostal','US');

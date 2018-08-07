@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75119"]={"code":"75119","region":"Texas","city":"Ennis","latitude":32.32931,"longitude":-96.62527}}(window,'GeoPostal','US');

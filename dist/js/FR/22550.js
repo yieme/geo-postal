@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22550"]={"code":"22550","region":"Bretagne","city":"Matignon","latitude":48.59627,"longitude":-2.29125}}(window,'GeoPostal','FR');

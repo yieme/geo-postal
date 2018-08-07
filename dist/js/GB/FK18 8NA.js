@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK18 8NA"]={"code":"FK18 8NA","region":"Scotland","city":"Strathyre","latitude":56.32508,"longitude":-4.32878}}(window,'GeoPostal','GB');

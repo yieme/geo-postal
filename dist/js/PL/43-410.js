@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-410"]={"code":"43-410","region":"Slaskie","city":"Pielgrzymowice","latitude":49.90547,"longitude":18.64886}}(window,'GeoPostal','PL');

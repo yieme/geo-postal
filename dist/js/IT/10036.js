@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10036"]={"code":"10036","region":"Piemonte","city":"Settimo Torinese","latitude":45.14025,"longitude":7.76802}}(window,'GeoPostal','IT');

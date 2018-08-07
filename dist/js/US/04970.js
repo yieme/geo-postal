@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04970"]={"code":"04970","region":"Maine","city":"Rangeley","latitude":44.985944,"longitude":-70.660669}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78647"]={"code":"78647","region":"Baden-Wurttemberg","city":"Trossingen","latitude":48.07667,"longitude":8.64409}}(window,'GeoPostal','DE');

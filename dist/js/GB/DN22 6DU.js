@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 6DU"]={"code":"DN22 6DU","region":"England","city":"Retford","latitude":53.32213,"longitude":-0.94315}}(window,'GeoPostal','GB');

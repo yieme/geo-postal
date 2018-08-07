@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352808"]={"code":"352808","region":"Krasnodarskiy kray","city":"Tuapse","latitude":44.1053,"longitude":39.0802}}(window,'GeoPostal','RU');

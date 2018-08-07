@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38240-000"]={"code":"38240-000","region":"Minas Gerais","city":"Campina Verde","latitude":-19.53556,"longitude":-49.48639}}(window,'GeoPostal','BR');

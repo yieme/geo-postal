@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5516"]={"code":"5516","region":"Bekes","city":"Korosladany","latitude":46.96667,"longitude":21.08333}}(window,'GeoPostal','HU');

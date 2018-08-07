@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31217"]={"code":"31217","region":"Hatay","city":"Karayilan","latitude":36.712761,"longitude":36.228798}}(window,'GeoPostal','TR');

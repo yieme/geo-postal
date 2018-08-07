@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33858"]={"code":"33858","region":"FL","city":"Loughman","latitude":28.242,"longitude":-81.5667}}(window,'GeoPostal','US');

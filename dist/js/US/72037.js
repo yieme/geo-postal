@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72037"]={"code":"72037","region":"AR","city":"Coy","latitude":34.5387,"longitude":-91.874}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29831"]={"code":"29831","region":"SC","city":"Jackson","latitude":33.3389,"longitude":-81.7976}}(window,'GeoPostal','US');

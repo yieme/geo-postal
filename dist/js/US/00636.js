@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00636"]={"code":"00636","region":"PR","city":"Rosario","latitude":18.15,"longitude":-67.06}}(window,'GeoPostal','US');

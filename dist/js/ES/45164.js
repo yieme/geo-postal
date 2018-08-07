@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45164"]={"code":"45164","region":"Castilla-La Mancha","city":"Galvez","latitude":39.70208,"longitude":-4.27239}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54806"]={"code":"54806","region":"Wisconsin","city":"Ashland","latitude":46.59244,"longitude":-90.8838}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63745"]={"code":"63745","region":"MO","city":"Dutchtown","latitude":37.2424,"longitude":-89.6977}}(window,'GeoPostal','US');

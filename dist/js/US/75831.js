@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75831"]={"code":"75831","region":"Texas","city":"Buffalo","latitude":31.46379,"longitude":-96.05802}}(window,'GeoPostal','US');

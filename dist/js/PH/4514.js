@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4514"]={"code":"4514","region":"Albay","city":"Manito","latitude":13.1235,"longitude":123.8693}}(window,'GeoPostal','PH');

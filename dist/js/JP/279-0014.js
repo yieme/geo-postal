@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["279-0014"]={"code":"279-0014","region":"Chiba","city":"Urayasu","latitude":35.65,"longitude":139.9}}(window,'GeoPostal','JP');

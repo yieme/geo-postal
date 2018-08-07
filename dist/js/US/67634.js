@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67634"]={"code":"67634","region":"Kansas","city":"Dorrance","latitude":38.844051,"longitude":-98.588167}}(window,'GeoPostal','US');

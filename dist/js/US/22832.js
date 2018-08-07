@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22832"]={"code":"22832","region":"VA","city":"Keezletown","latitude":38.4659,"longitude":-78.7499}}(window,'GeoPostal','US');

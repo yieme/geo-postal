@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65038"]={"code":"65038","region":"MO","city":"Laurie","latitude":38.1992,"longitude":-92.8335}}(window,'GeoPostal','US');

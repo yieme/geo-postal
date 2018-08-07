@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97410"]={"code":"97410","region":"OR","city":"Azalea","latitude":42.845,"longitude":-123.155}}(window,'GeoPostal','US');

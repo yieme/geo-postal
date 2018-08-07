@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40324"]={"code":"40324","region":"Medimurska zupanija","city":"Gorican","latitude":46.38417,"longitude":16.68083}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26842"]={"code":"26842","region":"Lombardia","city":"Caselle Landi","latitude":45.10257,"longitude":9.79557}}(window,'GeoPostal','IT');

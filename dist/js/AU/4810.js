@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4810"]={"code":"4810","region":"Queensland","city":"Townsville","latitude":-19.26639,"longitude":146.8057}}(window,'GeoPostal','AU');

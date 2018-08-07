@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62860"]={"code":"62860","region":"Hauts-de-France","city":"Marquion","latitude":50.21126,"longitude":3.08719}}(window,'GeoPostal','FR');

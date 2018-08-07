@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3880"]={"code":"3880","region":"Kwazulu-Natal","city":"Empangeni","latitude":-28.76197,"longitude":31.89329}}(window,'GeoPostal','ZA');

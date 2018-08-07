@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76624"]={"code":"76624","region":"TX","city":"Axtell","latitude":31.661,"longitude":-96.9882}}(window,'GeoPostal','US');

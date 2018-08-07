@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59414"]={"code":"59414","region":"MT","city":"Black Eagle","latitude":47.5262,"longitude":-111.2764}}(window,'GeoPostal','US');

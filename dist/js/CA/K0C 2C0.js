@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 2C0"]={"code":"K0C 2C0","region":"Ontario","city":"South Lancaster","latitude":45.13339,"longitude":-74.48256}}(window,'GeoPostal','CA');

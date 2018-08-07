@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55123"]={"code":"55123","region":"Minnesota","city":"Eagan","latitude":44.807725,"longitude":-93.141138}}(window,'GeoPostal','US');

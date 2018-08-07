@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35671"]={"code":"35671","region":"Alabama","city":"Tanner","latitude":34.718785,"longitude":-86.977463}}(window,'GeoPostal','US');

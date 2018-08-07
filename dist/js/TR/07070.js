@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07070"]={"code":"07070","region":"Erzurum","city":"Senkaya","latitude":40.56194,"longitude":42.34694}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78210"]={"code":"78210","region":"Auvergne-Rhone-Alpes","city":"Saint-Cyr","latitude":45.25243,"longitude":4.73074}}(window,'GeoPostal','FR');

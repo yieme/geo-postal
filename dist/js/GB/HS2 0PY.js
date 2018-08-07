@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0PY"]={"code":"HS2 0PY","region":"Scotland","city":"Garrabost","latitude":58.21667,"longitude":-6.21667}}(window,'GeoPostal','GB');

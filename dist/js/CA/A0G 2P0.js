@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 2P0"]={"code":"A0G 2P0","region":"Newfoundland and Labrador","city":"Hare Bay","latitude":48.8499,"longitude":-54.01481}}(window,'GeoPostal','CA');

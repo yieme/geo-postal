@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24114"]={"code":"24114","region":"Nouvelle-Aquitaine","city":"Bergerac","latitude":44.85,"longitude":0.48333}}(window,'GeoPostal','FR');

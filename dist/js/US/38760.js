@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38760"]={"code":"38760","region":"MS","city":"Metcalfe","latitude":33.4546,"longitude":-90.9943}}(window,'GeoPostal','US');

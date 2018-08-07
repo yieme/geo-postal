@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83278"]={"code":"83278","region":"Idaho","city":"Stanley","latitude":44.216667,"longitude":-114.93778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03839"]={"code":"03839","region":"Valenciana, Comunidad","city":"Muro del Alcoy","latitude":38.7812,"longitude":-0.43608}}(window,'GeoPostal','ES');

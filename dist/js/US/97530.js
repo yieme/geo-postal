@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97530"]={"code":"97530","region":"OR","city":"Jacksonville","latitude":42.1813,"longitude":-123.0241}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04662"]={"code":"04662","region":"Maine","city":"Northeast Harbor","latitude":44.29417,"longitude":-68.28972}}(window,'GeoPostal','US');

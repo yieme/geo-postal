@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52594"]={"code":"52594","region":"IA","city":"Unionville","latitude":40.8416,"longitude":-92.6935}}(window,'GeoPostal','US');

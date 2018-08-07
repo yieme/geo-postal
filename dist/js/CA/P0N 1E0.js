@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0N 1E0"]={"code":"P0N 1E0","region":"Ontario","city":"Porquis Junction","latitude":48.70017,"longitude":-80.78308}}(window,'GeoPostal','CA');

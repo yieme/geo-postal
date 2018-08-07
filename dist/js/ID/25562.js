@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25562"]={"code":"25562","region":"Sumatera Barat","city":"Sungailimau","latitude":-0.51638,"longitude":100.06171}}(window,'GeoPostal','ID');

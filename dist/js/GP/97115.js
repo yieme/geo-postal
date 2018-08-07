@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97115"]={"code":"97115","region":"Guadeloupe","city":"Sainte-Rose","latitude":16.33238,"longitude":-61.69793}}(window,'GeoPostal','GP');

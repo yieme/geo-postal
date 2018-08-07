@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 47"]={"code":"664 47","region":"Jihomoravsky kraj","city":"Strelice","latitude":49.15221,"longitude":16.50399}}(window,'GeoPostal','CZ');

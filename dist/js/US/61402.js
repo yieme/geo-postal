@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61402"]={"code":"61402","region":"IL","city":"Galesburg","latitude":40.9478,"longitude":-90.3712}}(window,'GeoPostal','US');

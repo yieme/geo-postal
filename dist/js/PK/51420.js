@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51420"]={"code":"51420","region":"Punjab","city":"Chawinda","latitude":32.34692,"longitude":74.70612}}(window,'GeoPostal','PK');

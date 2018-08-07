@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91299"]={"code":"91299","region":"Vasterbottens lan","city":"Vilhelmina","latitude":64.62684,"longitude":16.65628}}(window,'GeoPostal','SE');

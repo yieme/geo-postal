@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1204"]={"code":"1204","region":"Gaza","city":"Chokwe","latitude":-24.53333,"longitude":32.98333}}(window,'GeoPostal','MZ');

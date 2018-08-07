@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["754229"]={"code":"754229","region":"Odisha","city":"Paradip Garh","latitude":20.31667,"longitude":86.61667}}(window,'GeoPostal','IN');

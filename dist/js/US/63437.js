@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63437"]={"code":"63437","region":"MO","city":"Clarence","latitude":39.7366,"longitude":-92.253}}(window,'GeoPostal','US');

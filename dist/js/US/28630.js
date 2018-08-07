@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28630"]={"code":"28630","region":"North Carolina","city":"Granite Falls","latitude":35.8161,"longitude":-81.45714}}(window,'GeoPostal','US');

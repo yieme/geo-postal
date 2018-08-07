@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2354"]={"code":"2354","region":"New South Wales","city":"Waterloo","latitude":-31.03333,"longitude":151.71667}}(window,'GeoPostal','AU');

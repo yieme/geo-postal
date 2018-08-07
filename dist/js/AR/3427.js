@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3427"]={"code":"3427","region":"Corrientes","city":"Mburucuya","latitude":-28.04539,"longitude":-58.22449}}(window,'GeoPostal','AR');

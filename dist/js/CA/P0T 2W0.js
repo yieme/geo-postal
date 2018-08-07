@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2W0"]={"code":"P0T 2W0","region":"Ontario","city":"Terrace Bay","latitude":48.78341,"longitude":-87.09996}}(window,'GeoPostal','CA');

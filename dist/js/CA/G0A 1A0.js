@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 1A0"]={"code":"G0A 1A0","region":"Quebec","city":"Sainte-Christine-d'Auvergne","latitude":46.81675,"longitude":-71.96579}}(window,'GeoPostal','CA');

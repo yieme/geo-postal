@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL23 1BQ"]={"code":"PL23 1BQ","region":"England","city":"Fowey","latitude":50.33634,"longitude":-4.6386}}(window,'GeoPostal','GB');

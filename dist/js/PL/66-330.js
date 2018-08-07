@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-330"]={"code":"66-330","region":"Lubuskie","city":"Pszczew","latitude":52.47724,"longitude":15.7816}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00610"]={"code":"00610","region":"PR","city":"Anasco","latitude":18.28,"longitude":-67.14}}(window,'GeoPostal','US');

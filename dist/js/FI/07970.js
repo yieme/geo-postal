@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07970"]={"code":"07970","region":"Uusimaa","city":"Ruotsinpyhtaa","latitude":60.5268,"longitude":26.46203}}(window,'GeoPostal','FI');

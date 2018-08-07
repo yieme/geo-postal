@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64200"]={"code":"64200","region":"Nouvelle-Aquitaine","city":"Biarritz","latitude":43.48012,"longitude":-1.55558}}(window,'GeoPostal','FR');

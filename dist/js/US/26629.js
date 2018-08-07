@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26629"]={"code":"26629","region":"West Virginia","city":"Little Birch","latitude":38.57058,"longitude":-80.71086}}(window,'GeoPostal','US');

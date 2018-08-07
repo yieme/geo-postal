@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66871"]={"code":"66871","region":"KS","city":"Waverly","latitude":38.3782,"longitude":-95.5982}}(window,'GeoPostal','US');

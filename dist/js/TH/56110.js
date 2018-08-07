@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56110"]={"code":"56110","region":"Phayao","city":"Chiang Kham","latitude":19.52331,"longitude":100.3}}(window,'GeoPostal','TH');

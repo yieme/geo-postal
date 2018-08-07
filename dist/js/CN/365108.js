@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365108"]={"code":"365108","region":"Fujian","city":"Tangchuan","latitude":26.11457,"longitude":118.42616}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61949"]={"code":"61949","region":"Illinois","city":"Redmon","latitude":39.644988,"longitude":-87.861754}}(window,'GeoPostal','US');

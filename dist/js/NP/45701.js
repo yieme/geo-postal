@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45701"]={"code":"45701","region":"Janakpur","city":"Jaleswar","latitude":26.64711,"longitude":85.80081}}(window,'GeoPostal','NP');

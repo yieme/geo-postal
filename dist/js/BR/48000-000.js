@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48000-000"]={"code":"48000-000","region":"Bahia","city":"Alagoinhas","latitude":-12.13556,"longitude":-38.41917}}(window,'GeoPostal','BR');

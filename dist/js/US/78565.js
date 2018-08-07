@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78565"]={"code":"78565","region":"TX","city":"Los Ebanos","latitude":26.2434,"longitude":-98.5617}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6257"]={"code":"6257","region":"Pivka","city":"Pivka","latitude":45.67944,"longitude":14.19667}}(window,'GeoPostal','SI');

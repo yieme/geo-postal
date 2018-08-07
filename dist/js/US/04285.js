@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04285"]={"code":"04285","region":"Maine","city":"Weld","latitude":44.706098,"longitude":-70.452774}}(window,'GeoPostal','US');

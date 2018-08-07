@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48599"]={"code":"48599","region":"Schleswig-Holstein","city":"Gronau","latitude":53.74688,"longitude":9.91174}}(window,'GeoPostal','DE');

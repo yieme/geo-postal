@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96067"]={"code":"96067","region":"California","city":"Mount Shasta","latitude":41.30987,"longitude":-122.31057}}(window,'GeoPostal','US');

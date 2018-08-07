@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9040"]={"code":"9040","region":"Beja","city":"Tabursuq","latitude":36.45692,"longitude":9.24751}}(window,'GeoPostal','TN');

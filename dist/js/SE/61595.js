@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61595"]={"code":"61595","region":"Ostergotlands lan","city":"Valdemarsvik","latitude":58.2031,"longitude":16.60225}}(window,'GeoPostal','SE');

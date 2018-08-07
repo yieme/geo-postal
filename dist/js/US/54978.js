@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54978"]={"code":"54978","region":"WI","city":"Tilleda","latitude":44.796,"longitude":-88.8984}}(window,'GeoPostal','US');

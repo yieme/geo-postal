@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29373"]={"code":"29373","region":"SC","city":"Pacolet Mills","latitude":34.9226,"longitude":-81.7426}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39270"]={"code":"39270","region":"Nong Bua Lam Phu","city":"Nong Bua Lamphu","latitude":17.20406,"longitude":102.44068}}(window,'GeoPostal','TH');

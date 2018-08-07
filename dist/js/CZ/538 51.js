@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["538 51"]={"code":"538 51","region":"Pardubicky kraj","city":"Chrast","latitude":49.90205,"longitude":15.93396}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE22 5DN"]={"code":"NE22 5DN","region":"England","city":"Bedlington","latitude":55.13061,"longitude":-1.59319}}(window,'GeoPostal','GB');

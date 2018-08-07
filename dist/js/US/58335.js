@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58335"]={"code":"58335","region":"North Dakota","city":"Fort Totten","latitude":47.98,"longitude":-98.9929}}(window,'GeoPostal','US');

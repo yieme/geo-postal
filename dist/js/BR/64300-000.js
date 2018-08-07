@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64300-000"]={"code":"64300-000","region":"Piaui","city":"Valenca do Piaui","latitude":-6.4075,"longitude":-41.74556}}(window,'GeoPostal','BR');

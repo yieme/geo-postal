@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83353"]={"code":"83353","region":"Idaho","city":"Sun Valley","latitude":43.69713,"longitude":-114.35172}}(window,'GeoPostal','US');

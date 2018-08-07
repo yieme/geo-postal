@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08512"]={"code":"08512","region":"New Jersey","city":"Cranbury","latitude":40.31118,"longitude":-74.52516}}(window,'GeoPostal','US');

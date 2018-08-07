@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34746"]={"code":"34746","region":"Istanbul","city":"Atasehir","latitude":40.9833,"longitude":29.1167}}(window,'GeoPostal','TR');

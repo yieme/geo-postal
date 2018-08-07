@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 2G1"]={"code":"V0E 2G1","region":"British Columbia","city":"Cherryville","latitude":50.24152,"longitude":-118.61901}}(window,'GeoPostal','CA');

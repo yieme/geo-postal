@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741 01"]={"code":"741 01","region":"Moravskoslezsky kraj","city":"Jesenik nad Odrou","latitude":49.61194,"longitude":17.90526}}(window,'GeoPostal','CZ');

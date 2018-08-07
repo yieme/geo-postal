@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03001"]={"code":"03001","region":"Sacatepequez","city":"Antigua Guatemala","latitude":14.56111,"longitude":-90.73444}}(window,'GeoPostal','GT');

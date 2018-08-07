@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47345"]={"code":"47345","region":"IN","city":"Greens Fork","latitude":39.8916,"longitude":-85.0494}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7004"]={"code":"7004","region":"Tasmania","city":"Battery Point","latitude":-42.88995,"longitude":147.33324}}(window,'GeoPostal','AU');

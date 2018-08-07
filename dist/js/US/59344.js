@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59344"]={"code":"59344","region":"Montana","city":"Plevna","latitude":46.390517,"longitude":-104.645733}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48419"]={"code":"48419","region":"Michigan","city":"Carsonville","latitude":43.42556,"longitude":-82.67389}}(window,'GeoPostal','US');

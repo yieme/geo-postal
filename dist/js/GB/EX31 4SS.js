@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4SS"]={"code":"EX31 4SS","region":"England","city":"Loxhore","latitude":51.13037,"longitude":-3.9786}}(window,'GeoPostal','GB');

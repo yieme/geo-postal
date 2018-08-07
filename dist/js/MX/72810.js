@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72810"]={"code":"72810","region":"Puebla","city":"Cholula","latitude":19.06406,"longitude":-98.30352}}(window,'GeoPostal','MX');

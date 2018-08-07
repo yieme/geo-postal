@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE4 7QW"]={"code":"LE4 7QW","region":"England","city":"Birstall","latitude":52.66667,"longitude":-1.11667}}(window,'GeoPostal','GB');

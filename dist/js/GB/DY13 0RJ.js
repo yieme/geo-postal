@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY13 0RJ"]={"code":"DY13 0RJ","region":"England","city":"Astley","latitude":52.3,"longitude":-2.31667}}(window,'GeoPostal','GB');

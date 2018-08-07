@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36810"]={"code":"36810","region":"Pirkanmaa","city":"Kuhmalahti","latitude":61.5,"longitude":24.56667}}(window,'GeoPostal','FI');

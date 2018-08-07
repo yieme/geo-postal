@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4400"]={"code":"4400","region":"Sjelland","city":"Kalundborg","latitude":55.67954,"longitude":11.08864}}(window,'GeoPostal','DK');

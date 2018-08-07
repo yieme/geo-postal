@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68292"]={"code":"68292","region":"Varmlands lan","city":"Filipstad","latitude":59.71236,"longitude":14.16831}}(window,'GeoPostal','SE');

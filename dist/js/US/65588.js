@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65588"]={"code":"65588","region":"Missouri","city":"Winona","latitude":37.00977,"longitude":-91.32347}}(window,'GeoPostal','US');

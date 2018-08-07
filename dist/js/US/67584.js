@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67584"]={"code":"67584","region":"Kansas","city":"Utica","latitude":38.645501,"longitude":-100.172513}}(window,'GeoPostal','US');

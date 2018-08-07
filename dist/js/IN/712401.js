@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712401"]={"code":"712401","region":"West Bengal","city":"Tarakeswar","latitude":22.885,"longitude":88.01722}}(window,'GeoPostal','IN');

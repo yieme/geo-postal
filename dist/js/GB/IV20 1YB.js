@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV20 1YB"]={"code":"IV20 1YB","region":"Scotland","city":"Portmahomack","latitude":57.83683,"longitude":-3.82903}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79130"]={"code":"79130","region":"Nouvelle-Aquitaine","city":"Secondigny","latitude":46.61024,"longitude":-0.41679}}(window,'GeoPostal','FR');

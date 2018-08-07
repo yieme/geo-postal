@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34330"]={"code":"34330","region":"Ubon Ratchathani","city":"Lao Suea Kok","latitude":15.40661,"longitude":104.92358}}(window,'GeoPostal','TH');

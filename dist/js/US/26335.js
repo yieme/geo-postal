@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26335"]={"code":"26335","region":"West Virginia","city":"Burnsville","latitude":38.84862,"longitude":-80.65038}}(window,'GeoPostal','US');

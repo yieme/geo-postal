@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29045"]={"code":"29045","region":"South Carolina","city":"Elgin","latitude":34.67293,"longitude":-80.71896}}(window,'GeoPostal','US');

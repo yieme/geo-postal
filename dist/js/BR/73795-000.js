@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73795-000"]={"code":"73795-000","region":"Goias","city":"Cavalcante","latitude":-13.7975,"longitude":-47.45833}}(window,'GeoPostal','BR');

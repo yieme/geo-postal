@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95699"]={"code":"95699","region":"Norrbottens lan","city":"OEverkalix","latitude":66.32754,"longitude":22.84414}}(window,'GeoPostal','SE');

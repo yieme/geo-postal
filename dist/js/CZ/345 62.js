@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 62"]={"code":"345 62","region":"Plzensky kraj","city":"Holysov","latitude":49.59361,"longitude":13.10129}}(window,'GeoPostal','CZ');

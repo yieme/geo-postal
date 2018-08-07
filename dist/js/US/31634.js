@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31634"]={"code":"31634","region":"Georgia","city":"Homerville","latitude":31.0366,"longitude":-82.74708}}(window,'GeoPostal','US');

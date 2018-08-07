@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92412"]={"code":"92412","region":"Veracruz de Ignacio de la Llave","city":"Naranjos","latitude":21.35,"longitude":-97.68333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22524"]={"code":"22524","region":"VA","city":"Mount Holly","latitude":38.1182,"longitude":-76.6805}}(window,'GeoPostal','US');

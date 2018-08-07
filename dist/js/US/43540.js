@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43540"]={"code":"43540","region":"OH","city":"Metamora","latitude":41.6952,"longitude":-83.926}}(window,'GeoPostal','US');

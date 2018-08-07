@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70100"]={"code":"70100","region":"Negeri Sembilan","city":"Seremban","latitude":2.7297,"longitude":101.9381}}(window,'GeoPostal','MY');

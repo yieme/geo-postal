@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42963"]={"code":"42963","region":"Hidalgo","city":"Doxey","latitude":20.08333,"longitude":-99.23333}}(window,'GeoPostal','MX');

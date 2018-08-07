@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18370"]={"code":"18370","region":"Centre-Val de Loire","city":"Chateaumeillant","latitude":46.56219,"longitude":2.19515}}(window,'GeoPostal','FR');

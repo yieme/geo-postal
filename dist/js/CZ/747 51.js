@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 51"]={"code":"747 51","region":"Moravskoslezsky kraj","city":"Steborice","latitude":49.93708,"longitude":17.80547}}(window,'GeoPostal','CZ');

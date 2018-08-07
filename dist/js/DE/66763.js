@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66763"]={"code":"66763","region":"Saarland","city":"Dillingen","latitude":49.35557,"longitude":6.72781}}(window,'GeoPostal','DE');

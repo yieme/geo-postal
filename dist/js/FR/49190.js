@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49190"]={"code":"49190","region":"Pays-de-la-Loire","city":"Rochefort-sur-Loire","latitude":47.35705,"longitude":-0.65696}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58634"]={"code":"58634","region":"ND","city":"Grassy Butte","latitude":47.4431,"longitude":-103.2944}}(window,'GeoPostal','US');

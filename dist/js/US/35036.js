@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35036"]={"code":"35036","region":"AL","city":"Brookside","latitude":33.6379,"longitude":-86.9167}}(window,'GeoPostal','US');

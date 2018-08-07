@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99359"]={"code":"99359","region":"Washington","city":"Starbuck","latitude":46.517956,"longitude":-118.123719}}(window,'GeoPostal','US');

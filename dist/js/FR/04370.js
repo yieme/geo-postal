@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04370"]={"code":"04370","region":"Provence-Alpes-Cote d'Azur","city":"Villars-Colmars","latitude":44.1675,"longitude":6.605}}(window,'GeoPostal','FR');

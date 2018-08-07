@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530606"]={"code":"530606","region":"Guangxi","city":"Baishan","latitude":23.731,"longitude":108.15789}}(window,'GeoPostal','CN');

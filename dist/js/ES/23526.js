@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23526"]={"code":"23526","region":"Andalucia","city":"Begijar","latitude":37.98492,"longitude":-3.53094}}(window,'GeoPostal','ES');

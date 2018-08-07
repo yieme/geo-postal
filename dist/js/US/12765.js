@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12765"]={"code":"12765","region":"NY","city":"Neversink","latitude":41.8492,"longitude":-74.6127}}(window,'GeoPostal','US');

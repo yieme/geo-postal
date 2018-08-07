@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73040"]={"code":"73040","region":"OK","city":"Geary","latitude":35.6217,"longitude":-98.3905}}(window,'GeoPostal','US');

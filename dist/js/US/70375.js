@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70375"]={"code":"70375","region":"LA","city":"Mathews","latitude":29.6938,"longitude":-90.5496}}(window,'GeoPostal','US');

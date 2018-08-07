@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RBT 4430"]={"code":"RBT 4430","region":"Siggiewi","city":"Siggiewi","latitude":35.85556,"longitude":14.43639}}(window,'GeoPostal','MT');

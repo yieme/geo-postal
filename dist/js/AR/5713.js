@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5713"]={"code":"5713","region":"San Luis","city":"Candelaria","latitude":-32.06036,"longitude":-65.82477}}(window,'GeoPostal','AR');

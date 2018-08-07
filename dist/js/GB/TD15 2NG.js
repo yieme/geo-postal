@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2NG"]={"code":"TD15 2NG","region":"England","city":"Middle Ord","latitude":55.73333,"longitude":-2.05}}(window,'GeoPostal','GB');

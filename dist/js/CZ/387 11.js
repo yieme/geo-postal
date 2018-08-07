@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["387 11"]={"code":"387 11","region":"Jihocesky kraj","city":"Katovice","latitude":49.27348,"longitude":13.83035}}(window,'GeoPostal','CZ');

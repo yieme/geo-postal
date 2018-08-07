@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40533"]={"code":"40533","region":"Guerrero","city":"Apaxtla de Castrejon","latitude":18.15,"longitude":-99.86667}}(window,'GeoPostal','MX');

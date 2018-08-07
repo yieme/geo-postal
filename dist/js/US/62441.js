@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62441"]={"code":"62441","region":"Illinois","city":"Marshall","latitude":39.39143,"longitude":-87.69364}}(window,'GeoPostal','US');

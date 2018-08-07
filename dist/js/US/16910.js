@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16910"]={"code":"16910","region":"Pennsylvania","city":"Alba","latitude":41.70429,"longitude":-76.83061}}(window,'GeoPostal','US');

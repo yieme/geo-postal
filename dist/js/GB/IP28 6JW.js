@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6JW"]={"code":"IP28 6JW","region":"England","city":"Fornham All Saints","latitude":52.2758,"longitude":0.69205}}(window,'GeoPostal','GB');

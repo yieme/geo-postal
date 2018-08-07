@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715515"]={"code":"715515","region":"Shaanxi","city":"Laomiao","latitude":34.99922,"longitude":109.4128}}(window,'GeoPostal','CN');

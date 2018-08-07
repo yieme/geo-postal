@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2940000"]={"code":"2940000","region":"Libertador General Bernardo O'Higgins","city":"Rengo","latitude":-34.41667,"longitude":-70.86667}}(window,'GeoPostal','CL');

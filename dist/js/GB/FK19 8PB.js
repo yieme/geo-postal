@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK19 8PB"]={"code":"FK19 8PB","region":"Scotland","city":"Balquhidder","latitude":56.35675,"longitude":-4.37426}}(window,'GeoPostal','GB');

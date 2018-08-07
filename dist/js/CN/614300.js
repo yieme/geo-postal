@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["614300"]={"code":"614300","region":"Sichuan","city":"Shaping","latitude":29.23082,"longitude":103.26587}}(window,'GeoPostal','CN');

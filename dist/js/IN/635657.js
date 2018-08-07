@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["635657"]={"code":"635657","region":"Tamil Nadu","city":"Krishnagiri","latitude":12.53333,"longitude":78.23333}}(window,'GeoPostal','IN');

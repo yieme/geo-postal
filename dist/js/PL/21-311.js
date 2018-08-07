@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-311"]={"code":"21-311","region":"Lubelskie","city":"Komarowka Podlaska","latitude":51.80315,"longitude":22.94392}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8H 3B1"]={"code":"N8H 3B1","region":"Ontario","city":"Leamington","latitude":42.051196,"longitude":-82.599791}}(window,'GeoPostal','CA');

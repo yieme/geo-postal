@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92545"]={"code":"92545","region":"Bayern","city":"Antelsdorf","latitude":49.45724,"longitude":12.38928}}(window,'GeoPostal','DE');

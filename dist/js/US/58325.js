@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58325"]={"code":"58325","region":"North Dakota","city":"Churchs Ferry","latitude":48.315472,"longitude":-99.082232}}(window,'GeoPostal','US');

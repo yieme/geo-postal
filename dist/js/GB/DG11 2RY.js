@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 2RY"]={"code":"DG11 2RY","region":"Scotland","city":"Dinwoodie Mains","latitude":55.2,"longitude":-3.4}}(window,'GeoPostal','GB');

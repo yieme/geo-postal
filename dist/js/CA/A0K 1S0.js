@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 1S0"]={"code":"A0K 1S0","region":"Newfoundland and Labrador","city":"Burlington","latitude":49.74997,"longitude":-56.01488}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40484"]={"code":"40484","region":"Kentucky","city":"Stanford","latitude":37.516044,"longitude":-84.678096}}(window,'GeoPostal','US');

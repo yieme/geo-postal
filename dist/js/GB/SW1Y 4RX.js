@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1Y 4RX"]={"code":"SW1Y 4RX","region":"England","city":"Dudley","latitude":52.5,"longitude":-2.08333}}(window,'GeoPostal','GB');

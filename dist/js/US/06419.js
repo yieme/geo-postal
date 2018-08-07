@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06419"]={"code":"06419","region":"Connecticut","city":"Killingworth","latitude":41.380556,"longitude":-72.576389}}(window,'GeoPostal','US');

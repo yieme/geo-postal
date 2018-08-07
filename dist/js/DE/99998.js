@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99998"]={"code":"99998","region":"Thuringen","city":"Bollstedt","latitude":51.20051,"longitude":10.53275}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75203"]={"code":"75203","region":"Baden-Wurttemberg","city":"Konigsbach-Stein","latitude":48.96667,"longitude":8.61667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55070"]={"code":"55070","region":"Minnesota","city":"Saint Francis","latitude":45.38691,"longitude":-93.3594}}(window,'GeoPostal','US');

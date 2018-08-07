@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65120"]={"code":"65120","region":"Sindh","city":"Pano Aqil","latitude":27.85685,"longitude":69.11156}}(window,'GeoPostal','PK');

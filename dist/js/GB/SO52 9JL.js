@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO52 9JL"]={"code":"SO52 9JL","region":"England","city":"North Baddesley","latitude":50.97745,"longitude":-1.44547}}(window,'GeoPostal','GB');

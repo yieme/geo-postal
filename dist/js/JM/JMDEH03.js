@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDEH03"]={"code":"JMDEH03","region":"Saint Elizabeth","city":"Black River","latitude":18.02636,"longitude":-77.84873}}(window,'GeoPostal','JM');

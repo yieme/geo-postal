@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60076"]={"code":"60076","region":"Illinois","city":"Skokie","latitude":42.03336,"longitude":-87.73339}}(window,'GeoPostal','US');

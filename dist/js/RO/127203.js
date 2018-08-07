@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127203"]={"code":"127203","region":"Prahova","city":"Slanic","latitude":45.25,"longitude":25.93333}}(window,'GeoPostal','RO');

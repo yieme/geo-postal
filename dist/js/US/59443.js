@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59443"]={"code":"59443","region":"Montana","city":"Fort Shaw","latitude":47.559685,"longitude":-111.808167}}(window,'GeoPostal','US');

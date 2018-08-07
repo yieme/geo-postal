@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82639"]={"code":"82639","region":"Wyoming","city":"Kaycee","latitude":43.70972,"longitude":-106.63861}}(window,'GeoPostal','US');

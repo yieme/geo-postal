@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62601"]={"code":"62601","region":"Etela-Pohjanmaa","city":"Lappajarvi","latitude":63.2,"longitude":23.63333}}(window,'GeoPostal','FI');

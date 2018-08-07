@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-220"]={"code":"78-220","region":"Zachodniopomorskie","city":"Tychowo","latitude":53.92774,"longitude":16.25771}}(window,'GeoPostal','PL');

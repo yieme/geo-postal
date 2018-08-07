@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93234"]={"code":"93234","region":"Sulawesi Tenggara","city":"Kendari","latitude":-3.945,"longitude":122.49889}}(window,'GeoPostal','ID');

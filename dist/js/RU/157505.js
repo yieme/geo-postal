@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157505"]={"code":"157505","region":"Kostromskaya oblast'","city":"Shar'ya","latitude":58.36909,"longitude":45.51558}}(window,'GeoPostal','RU');

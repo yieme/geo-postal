@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4107"]={"code":"4107","region":"Gelderland","city":"Culemborg","latitude":51.955,"longitude":5.22778}}(window,'GeoPostal','NL');

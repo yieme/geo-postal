@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53919"]={"code":"53919","region":"WI","city":"Brandon","latitude":43.7258,"longitude":-88.7841}}(window,'GeoPostal','US');

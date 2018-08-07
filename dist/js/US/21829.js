@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21829"]={"code":"21829","region":"MD","city":"Girdletree","latitude":38.0958,"longitude":-75.3902}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2EX"]={"code":"TD15 2EX","region":"England","city":"Tweedmouth","latitude":55.7662,"longitude":-2.01209}}(window,'GeoPostal','GB');

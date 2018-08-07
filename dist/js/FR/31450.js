@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31450"]={"code":"31450","region":"Occitanie","city":"Labastide-Beauvoir","latitude":43.48148,"longitude":1.66543}}(window,'GeoPostal','FR');

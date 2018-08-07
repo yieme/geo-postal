@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84651"]={"code":"84651","region":"Utah","city":"Payson","latitude":40.0444,"longitude":-111.73215}}(window,'GeoPostal','US');

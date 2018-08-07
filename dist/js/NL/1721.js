@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1721"]={"code":"1721","region":"Noord-Holland","city":"Broek op Langedijk","latitude":52.67417,"longitude":4.80556}}(window,'GeoPostal','NL');

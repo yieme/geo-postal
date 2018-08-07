@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38750"]={"code":"38750","region":"Auvergne-Rhone-Alpes","city":"Huez","latitude":45.08252,"longitude":6.05848}}(window,'GeoPostal','FR');

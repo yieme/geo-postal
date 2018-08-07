@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27954"]={"code":"27954","region":"North Carolina","city":"Manteo","latitude":35.90823,"longitude":-75.67573}}(window,'GeoPostal','US');

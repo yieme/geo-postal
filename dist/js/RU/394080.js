@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394080"]={"code":"394080","region":"Voronezhskaya oblast'","city":"Krasnolesnyy","latitude":51.88072,"longitude":39.58772}}(window,'GeoPostal','RU');

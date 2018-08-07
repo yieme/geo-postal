@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71354"]={"code":"71354","region":"Louisiana","city":"Monterey","latitude":31.348912,"longitude":-91.66875}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["232103"]={"code":"232103","region":"Uttar Pradesh","city":"Chakia","latitude":25.05,"longitude":83.21667}}(window,'GeoPostal','IN');

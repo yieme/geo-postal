@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9410"]={"code":"9410","region":"Cotabato","city":"Midsayap","latitude":7.19083,"longitude":124.53028}}(window,'GeoPostal','PH');

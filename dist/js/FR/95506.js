@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95506"]={"code":"95506","region":"Ile-de-France","city":"Gonesse","latitude":48.98693,"longitude":2.44892}}(window,'GeoPostal','FR');

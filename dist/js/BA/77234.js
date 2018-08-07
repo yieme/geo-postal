@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77234"]={"code":"77234","region":"Federacija Bosne i Hercegovine","city":"Sumatac","latitude":45.09889,"longitude":15.8575}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93795"]={"code":"93795","region":"Vasterbottens lan","city":"Burtraesk","latitude":64.51667,"longitude":20.65}}(window,'GeoPostal','SE');

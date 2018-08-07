@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1L 0A2"]={"code":"A1L 0A2","region":"Newfoundland and Labrador","city":"Paradise","latitude":47.52909,"longitude":-52.88136}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12965"]={"code":"12965","region":"NY","city":"Nicholville","latitude":44.703,"longitude":-74.6805}}(window,'GeoPostal','US');

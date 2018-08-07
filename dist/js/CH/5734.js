@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5734"]={"code":"5734","region":"Aargau","city":"Reinach","latitude":47.26667,"longitude":8.18333}}(window,'GeoPostal','CH');

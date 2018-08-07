@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96150"]={"code":"96150","region":"Veracruz de Ignacio de la Llave","city":"Sayula de Aleman","latitude":17.86667,"longitude":-94.95}}(window,'GeoPostal','MX');

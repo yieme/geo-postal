@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01021"]={"code":"01021","region":"Lazio","city":"Acquapendente","latitude":42.74383,"longitude":11.86415}}(window,'GeoPostal','IT');

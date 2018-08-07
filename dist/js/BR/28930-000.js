@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28930-000"]={"code":"28930-000","region":"Rio de Janeiro","city":"Cabo Frio","latitude":-22.87944,"longitude":-42.01861}}(window,'GeoPostal','BR');

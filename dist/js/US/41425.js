@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41425"]={"code":"41425","region":"Kentucky","city":"Ezel","latitude":37.912852,"longitude":-83.392949}}(window,'GeoPostal','US');

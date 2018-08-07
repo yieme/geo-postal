@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1X0"]={"code":"K0E 1X0","region":"Ontario","city":"Spencerville","latitude":44.85011,"longitude":-75.54933}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87007"]={"code":"87007","region":"Wilayah Persekutuan Labuan","city":"Victoria","latitude":5.27667,"longitude":115.24167}}(window,'GeoPostal','MY');

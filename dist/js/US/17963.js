@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17963"]={"code":"17963","region":"Pennsylvania","city":"Pine Grove","latitude":40.54842,"longitude":-76.38468}}(window,'GeoPostal','US');

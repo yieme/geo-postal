@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49451"]={"code":"49451","region":"MI","city":"Ravenna","latitude":43.2091,"longitude":-85.9648}}(window,'GeoPostal','US');

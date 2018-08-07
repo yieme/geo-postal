@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94951"]={"code":"94951","region":"CA","city":"Penngrove","latitude":38.3153,"longitude":-122.6483}}(window,'GeoPostal','US');

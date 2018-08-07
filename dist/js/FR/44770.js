@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44770"]={"code":"44770","region":"Pays-de-la-Loire","city":"Prefailles","latitude":47.12839,"longitude":-2.21693}}(window,'GeoPostal','FR');

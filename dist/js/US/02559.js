@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02559"]={"code":"02559","region":"Massachusetts","city":"Pocasset","latitude":41.69111,"longitude":-70.616812}}(window,'GeoPostal','US');

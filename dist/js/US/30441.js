@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30441"]={"code":"30441","region":"Georgia","city":"Midville","latitude":32.89579,"longitude":-82.197452}}(window,'GeoPostal','US');

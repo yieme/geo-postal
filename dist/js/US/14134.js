@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14134"]={"code":"14134","region":"NY","city":"Sardinia","latitude":42.5323,"longitude":-78.5172}}(window,'GeoPostal','US');

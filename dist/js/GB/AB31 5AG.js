@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 5AG"]={"code":"AB31 5AG","region":"Scotland","city":"Drumoak","latitude":57.07983,"longitude":-2.34509}}(window,'GeoPostal','GB');

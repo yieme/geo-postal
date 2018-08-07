@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70765"]={"code":"70765","region":"LA","city":"Plaquemine","latitude":30.2891,"longitude":-91.2343}}(window,'GeoPostal','US');

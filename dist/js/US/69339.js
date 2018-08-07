@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69339"]={"code":"69339","region":"Nebraska","city":"Crawford","latitude":42.68361,"longitude":-103.41222}}(window,'GeoPostal','US');

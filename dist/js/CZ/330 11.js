@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 11"]={"code":"330 11","region":"Plzensky kraj","city":"Tremosna","latitude":49.81584,"longitude":13.39499}}(window,'GeoPostal','CZ');

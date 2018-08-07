@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4817"]={"code":"4817","region":"Oberosterreich","city":"Scharnstein","latitude":47.90426,"longitude":13.96135}}(window,'GeoPostal','AT');

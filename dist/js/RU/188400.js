@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188400"]={"code":"188400","region":"Leningradskaya oblast'","city":"Kikerino","latitude":59.46667,"longitude":29.63333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54152"]={"code":"54152","region":"WI","city":"Nichols","latitude":44.5668,"longitude":-88.4582}}(window,'GeoPostal','US');

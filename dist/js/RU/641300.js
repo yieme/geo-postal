@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641300"]={"code":"641300","region":"Kurganskaya oblast'","city":"Lesnikovo","latitude":55.28222,"longitude":65.3175}}(window,'GeoPostal','RU');

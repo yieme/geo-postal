@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26559"]={"code":"26559","region":"La Rioja","city":"Aldeanueva de Ebro","latitude":42.22911,"longitude":-1.88735}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4101"]={"code":"4101","region":"Uruzgan","city":"Tarinkot","latitude":32.62675,"longitude":65.87331}}(window,'GeoPostal','AF');

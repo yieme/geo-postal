@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8427"]={"code":"8427","region":"Iloilo","city":"San Rafael","latitude":11.1781,"longitude":122.8273}}(window,'GeoPostal','PH');

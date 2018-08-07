@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45686"]={"code":"45686","region":"OH","city":"Vinton","latitude":38.9783,"longitude":-82.357}}(window,'GeoPostal','US');

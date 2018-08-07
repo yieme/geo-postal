@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73042"]={"code":"73042","region":"OK","city":"Gracemont","latitude":35.1875,"longitude":-98.2835}}(window,'GeoPostal','US');

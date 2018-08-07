@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50052"]={"code":"50052","region":"Toscana","city":"Certaldo","latitude":43.54704,"longitude":11.04022}}(window,'GeoPostal','IT');

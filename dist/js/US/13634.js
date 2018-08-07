@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13634"]={"code":"13634","region":"NY","city":"Dexter","latitude":44.0069,"longitude":-76.065}}(window,'GeoPostal','US');

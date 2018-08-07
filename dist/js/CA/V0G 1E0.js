@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1E0"]={"code":"V0G 1E0","region":"British Columbia","city":"Burton","latitude":49.924,"longitude":-117.843202}}(window,'GeoPostal','CA');

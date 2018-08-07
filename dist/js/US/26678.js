@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26678"]={"code":"26678","region":"West Virginia","city":"Mount Lookout","latitude":38.18006,"longitude":-80.90672}}(window,'GeoPostal','US');

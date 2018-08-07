@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17811"]={"code":"17811","region":"Catalunya","city":"Santa Pau","latitude":42.1443,"longitude":2.57123}}(window,'GeoPostal','ES');

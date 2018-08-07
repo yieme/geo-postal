@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81055"]={"code":"81055","region":"Colorado","city":"La Veta","latitude":37.50778,"longitude":-105.00806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24327"]={"code":"24327","region":"Virginia","city":"Emory","latitude":36.766105,"longitude":-81.854607}}(window,'GeoPostal','US');

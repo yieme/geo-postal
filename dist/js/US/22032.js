@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22032"]={"code":"22032","region":"Virginia","city":"Fairfax","latitude":38.81851,"longitude":-77.29209}}(window,'GeoPostal','US');

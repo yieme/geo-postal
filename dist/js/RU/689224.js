@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["689224"]={"code":"689224","region":"Chukotskiy avtonomnyy okrug","city":"Egvekinot","latitude":66.31667,"longitude":-179.16667}}(window,'GeoPostal','RU');

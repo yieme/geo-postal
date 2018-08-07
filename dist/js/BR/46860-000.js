@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46860-000"]={"code":"46860-000","region":"Bahia","city":"Iacu","latitude":-12.76722,"longitude":-40.21167}}(window,'GeoPostal','BR');

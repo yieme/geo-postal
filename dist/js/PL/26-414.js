@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-414"]={"code":"26-414","region":"Mazowieckie","city":"Potworow","latitude":51.50874,"longitude":20.72176}}(window,'GeoPostal','PL');

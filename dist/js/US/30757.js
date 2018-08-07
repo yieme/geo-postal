@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30757"]={"code":"30757","region":"Georgia","city":"Wildwood","latitude":34.963342,"longitude":-85.411492}}(window,'GeoPostal','US');

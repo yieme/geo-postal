@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3240"]={"code":"3240","region":"Entre Rios","city":"Villaguay","latitude":-31.8653,"longitude":-59.02689}}(window,'GeoPostal','AR');

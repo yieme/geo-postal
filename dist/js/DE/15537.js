@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15537"]={"code":"15537","region":"Brandenburg","city":"Steinfurt","latitude":52.37327,"longitude":13.78657}}(window,'GeoPostal','DE');

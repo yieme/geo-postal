@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["643234"]={"code":"643234","region":"Tamil Nadu","city":"Udagamandalam","latitude":11.4,"longitude":76.7}}(window,'GeoPostal','IN');

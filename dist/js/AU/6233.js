@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6233"]={"code":"6233","region":"Western Australia","city":"Australind","latitude":-33.2792,"longitude":115.71504}}(window,'GeoPostal','AU');

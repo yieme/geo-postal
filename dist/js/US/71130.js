@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71130"]={"code":"71130","region":"Louisiana","city":"Shreveport","latitude":32.4906,"longitude":-93.7692}}(window,'GeoPostal','US');

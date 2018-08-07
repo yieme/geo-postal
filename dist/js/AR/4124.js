@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4124"]={"code":"4124","region":"Tucuman","city":"Trancas","latitude":-26.23135,"longitude":-65.28025}}(window,'GeoPostal','AR');

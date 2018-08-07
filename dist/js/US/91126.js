@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91126"]={"code":"91126","region":"CA","city":"Pasadena","latitude":34.1478,"longitude":-118.1445}}(window,'GeoPostal','US');

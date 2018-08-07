@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21130"]={"code":"21130","region":"MD","city":"Perryman","latitude":39.4716,"longitude":-76.2117}}(window,'GeoPostal','US');

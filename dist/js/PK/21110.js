@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21110"]={"code":"21110","region":"Khyber Pakhtunkhwa","city":"Baffa","latitude":34.43782,"longitude":73.21937}}(window,'GeoPostal','PK');

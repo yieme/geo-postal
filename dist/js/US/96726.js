@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96726"]={"code":"96726","region":"HI","city":"Honaunau","latitude":19.4273,"longitude":-155.9133}}(window,'GeoPostal','US');

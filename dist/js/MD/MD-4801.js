@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4801"]={"code":"MD-4801","region":"Criuleni","city":"Criuleni","latitude":47.21444,"longitude":29.16139}}(window,'GeoPostal','MD');

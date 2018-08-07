@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82725"]={"code":"82725","region":"WY","city":"Recluse","latitude":44.7861,"longitude":-105.776}}(window,'GeoPostal','US');

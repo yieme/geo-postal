@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04630"]={"code":"04630","region":"Andalucia","city":"Garrucha","latitude":37.18141,"longitude":-1.82252}}(window,'GeoPostal','ES');

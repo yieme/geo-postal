@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61754"]={"code":"61754","region":"IL","city":"Mc Lean","latitude":40.3282,"longitude":-89.1645}}(window,'GeoPostal','US');

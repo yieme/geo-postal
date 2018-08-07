@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 02"]={"code":"517 02","region":"Kralovehradecky kraj","city":"Kvasiny","latitude":50.2125,"longitude":16.26323}}(window,'GeoPostal','CZ');

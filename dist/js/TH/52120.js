@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52120"]={"code":"52120","region":"Lampang","city":"Chae Hom","latitude":18.71267,"longitude":99.55758}}(window,'GeoPostal','TH');

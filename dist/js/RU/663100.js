@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663100"]={"code":"663100","region":"Krasnoyarskiy kray","city":"Kazachinskoye","latitude":57.69528,"longitude":93.27611}}(window,'GeoPostal','RU');

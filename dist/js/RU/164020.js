@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164020"]={"code":"164020","region":"Ivanovskaya oblast'","city":"Zarechnyy","latitude":57.46931,"longitude":42.28431}}(window,'GeoPostal','RU');

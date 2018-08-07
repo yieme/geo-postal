@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04936"]={"code":"04936","region":"ME","city":"Eustis","latitude":45.3356,"longitude":-70.6283}}(window,'GeoPostal','US');

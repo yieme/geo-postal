@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 24"]={"code":"267 24","region":"Stredocesky kraj","city":"Hostomice","latitude":49.82526,"longitude":14.0456}}(window,'GeoPostal','CZ');

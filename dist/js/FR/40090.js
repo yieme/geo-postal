@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40090"]={"code":"40090","region":"Nouvelle-Aquitaine","city":"Gailleres","latitude":43.9414,"longitude":-0.3717}}(window,'GeoPostal','FR');

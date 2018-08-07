@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE15 8DN"]={"code":"LE15 8DN","region":"England","city":"Owston","latitude":52.66379,"longitude":-0.85453}}(window,'GeoPostal','GB');

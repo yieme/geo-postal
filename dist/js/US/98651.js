@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98651"]={"code":"98651","region":"Washington","city":"Underwood","latitude":45.732326,"longitude":-121.544797}}(window,'GeoPostal','US');

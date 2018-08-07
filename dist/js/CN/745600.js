@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745600"]={"code":"745600","region":"Gansu","city":"Rouyuan","latitude":36.46092,"longitude":107.98311}}(window,'GeoPostal','CN');

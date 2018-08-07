@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29372"]={"code":"29372","region":"Coahuila de Zaragoza","city":"San Pedro","latitude":25.43333,"longitude":-103.21667}}(window,'GeoPostal','MX');

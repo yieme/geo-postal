@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76681"]={"code":"76681","region":"TX","city":"Richland","latitude":31.9018,"longitude":-96.4373}}(window,'GeoPostal','US');

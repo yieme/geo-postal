@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39577"]={"code":"39577","region":"Mississippi","city":"Wiggins","latitude":30.858508,"longitude":-89.136563}}(window,'GeoPostal','US');

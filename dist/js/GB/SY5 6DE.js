@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 6DE"]={"code":"SY5 6DE","region":"England","city":"Cressage","latitude":52.63355,"longitude":-2.60502}}(window,'GeoPostal','GB');

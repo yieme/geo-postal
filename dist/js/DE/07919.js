@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07919"]={"code":"07919","region":"Sachsen","city":"Muhltroff","latitude":50.53918,"longitude":11.92828}}(window,'GeoPostal','DE');

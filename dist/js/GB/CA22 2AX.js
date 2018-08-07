@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA22 2AX"]={"code":"CA22 2AX","region":"England","city":"Egremont","latitude":54.47941,"longitude":-3.52756}}(window,'GeoPostal','GB');

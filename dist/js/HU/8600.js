@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"Somogy","city":"Siofok","latitude":46.90412,"longitude":18.058}}(window,'GeoPostal','HU');

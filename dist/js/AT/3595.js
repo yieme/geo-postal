@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3595"]={"code":"3595","region":"Niederosterreich","city":"Brunn an der Wild","latitude":48.69425,"longitude":15.52008}}(window,'GeoPostal','AT');

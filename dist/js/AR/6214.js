@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6214"]={"code":"6214","region":"La Pampa","city":"Rancul","latitude":-35.06862,"longitude":-64.68107}}(window,'GeoPostal','AR');

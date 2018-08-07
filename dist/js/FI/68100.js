@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68100"]={"code":"68100","region":"Pohjois-Pohjanmaa","city":"Himanka","latitude":64.06218,"longitude":23.65447}}(window,'GeoPostal','FI');

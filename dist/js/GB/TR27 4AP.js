@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 4AP"]={"code":"TR27 4AP","region":"England","city":"Hayle","latitude":50.18392,"longitude":-5.42137}}(window,'GeoPostal','GB');

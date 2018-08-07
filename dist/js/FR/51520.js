@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51520"]={"code":"51520","region":"Grand-Est","city":"Sarry","latitude":48.91852,"longitude":4.40621}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93241"]={"code":"93241","region":"California","city":"Lamont","latitude":35.25968,"longitude":-118.91427}}(window,'GeoPostal','US');

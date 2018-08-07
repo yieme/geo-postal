@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307405"]={"code":"307405","region":"Timis","city":"Teremia Mare","latitude":45.93528,"longitude":20.525}}(window,'GeoPostal','RO');

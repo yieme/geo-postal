@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["337432"]={"code":"337432","region":"Bacau","city":"Comanesti","latitude":46.41667,"longitude":26.43333}}(window,'GeoPostal','RO');

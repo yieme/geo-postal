@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02007"]={"code":"02007","region":"Hauts-de-France","city":"Laon","latitude":49.56667,"longitude":3.61667}}(window,'GeoPostal','FR');

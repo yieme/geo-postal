@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65190"]={"code":"65190","region":"Occitanie","city":"Tournay","latitude":43.18438,"longitude":0.24454}}(window,'GeoPostal','FR');

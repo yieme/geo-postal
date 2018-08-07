@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 8SH"]={"code":"YO17 8SH","region":"England","city":"West Heslerton","latitude":54.17222,"longitude":-0.60755}}(window,'GeoPostal','GB');

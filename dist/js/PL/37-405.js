@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-405"]={"code":"37-405","region":"Podkarpackie","city":"Jarocin","latitude":50.56459,"longitude":22.32121}}(window,'GeoPostal','PL');

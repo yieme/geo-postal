@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95844"]={"code":"95844","region":"Ile-de-France","city":"Sarcelles","latitude":49,"longitude":2.38333}}(window,'GeoPostal','FR');

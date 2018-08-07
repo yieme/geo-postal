@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20677"]={"code":"20677","region":"Maryland","city":"Port Tobacco","latitude":38.508349,"longitude":-77.04238}}(window,'GeoPostal','US');

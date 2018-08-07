@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56620"]={"code":"56620","region":"Bretagne","city":"Cleguer","latitude":47.85407,"longitude":-3.38219}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10987"]={"code":"10987","region":"New York","city":"Tuxedo Park","latitude":41.2032,"longitude":-74.2092}}(window,'GeoPostal','US');

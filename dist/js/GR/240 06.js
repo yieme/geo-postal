@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240 06"]={"code":"240 06","region":"Peloponnisos","city":"Methoni","latitude":36.81973,"longitude":21.70486}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62436"]={"code":"62436","region":"IL","city":"Jewett","latitude":39.2076,"longitude":-88.2474}}(window,'GeoPostal','US');

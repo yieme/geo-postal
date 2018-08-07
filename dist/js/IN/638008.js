@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638008"]={"code":"638008","region":"Tamil Nadu","city":"Vedaranniyam","latitude":10.36667,"longitude":79.85}}(window,'GeoPostal','IN');

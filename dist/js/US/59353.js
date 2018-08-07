@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59353"]={"code":"59353","region":"Montana","city":"Wibaux","latitude":46.98501,"longitude":-104.18827}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60144"]={"code":"60144","region":"IL","city":"Kaneville","latitude":41.8353,"longitude":-88.522}}(window,'GeoPostal','US');

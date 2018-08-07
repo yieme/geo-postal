@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60139"]={"code":"60139","region":"Illinois","city":"Glendale Heights","latitude":41.919617,"longitude":-88.077755}}(window,'GeoPostal','US');

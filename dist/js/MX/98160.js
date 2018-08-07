@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98160"]={"code":"98160","region":"Zacatecas","city":"Zacatecas","latitude":22.77559,"longitude":-102.57218}}(window,'GeoPostal','MX');

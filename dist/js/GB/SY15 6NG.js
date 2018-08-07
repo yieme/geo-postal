@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY15 6NG"]={"code":"SY15 6NG","region":"Wales","city":"Abermule","latitude":52.54339,"longitude":-3.23723}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12969"]={"code":"12969","region":"NY","city":"Owls Head","latitude":44.7308,"longitude":-74.1342}}(window,'GeoPostal','US');

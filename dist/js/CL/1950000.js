@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1950000"]={"code":"1950000","region":"Coquimbo","city":"Salamanca","latitude":-31.775,"longitude":-70.97222}}(window,'GeoPostal','CL');

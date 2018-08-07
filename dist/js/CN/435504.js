@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435504"]={"code":"435504","region":"Hubei","city":"Fenlu","latitude":29.78862,"longitude":115.90244}}(window,'GeoPostal','CN');

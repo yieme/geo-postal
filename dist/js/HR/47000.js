@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47000"]={"code":"47000","region":"Karlovacka zupanija","city":"Karlovac","latitude":45.48722,"longitude":15.54778}}(window,'GeoPostal','HR');

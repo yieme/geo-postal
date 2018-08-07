@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61065"]={"code":"61065","region":"IL","city":"Poplar Grove","latitude":42.3594,"longitude":-88.8428}}(window,'GeoPostal','US');

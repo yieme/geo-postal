@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6391"]={"code":"6391","region":"Western Australia","city":"Williams","latitude":-33.02803,"longitude":116.87923}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W6 9RU"]={"code":"W6 9RU","region":"England","city":"Castelnau","latitude":51.48566,"longitude":-0.23209}}(window,'GeoPostal','GB');

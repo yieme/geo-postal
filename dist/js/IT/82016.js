@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82016"]={"code":"82016","region":"Campania","city":"Montesarchio","latitude":41.06542,"longitude":14.64024}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9RN"]={"code":"DD10 9RN","region":"Scotland","city":"Ferryden","latitude":56.70097,"longitude":-2.46474}}(window,'GeoPostal','GB');

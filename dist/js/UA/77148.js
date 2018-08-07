@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77148"]={"code":"77148","region":"Ivano-Frankivska oblast","city":"Bilshivtsi","latitude":49.18333,"longitude":24.75}}(window,'GeoPostal','UA');

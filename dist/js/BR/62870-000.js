@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62870-000"]={"code":"62870-000","region":"Ceara","city":"Pacajus","latitude":-4.1725,"longitude":-38.46056}}(window,'GeoPostal','BR');

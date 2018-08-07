@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36263"]={"code":"36263","region":"AL","city":"Graham","latitude":33.463,"longitude":-85.334}}(window,'GeoPostal','US');

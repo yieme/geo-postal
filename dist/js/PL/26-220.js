@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-220"]={"code":"26-220","region":"Swietokrzyskie","city":"Staporkow","latitude":51.13762,"longitude":20.57173}}(window,'GeoPostal','PL');

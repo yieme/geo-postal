@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66025"]={"code":"66025","region":"Kansas","city":"Eudora","latitude":38.941787,"longitude":-95.1027}}(window,'GeoPostal','US');

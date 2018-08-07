@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62880"]={"code":"62880","region":"Hauts-de-France","city":"Annay","latitude":50.46303,"longitude":2.88122}}(window,'GeoPostal','FR');

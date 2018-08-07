@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73028"]={"code":"73028","region":"OK","city":"Crescent","latitude":35.942,"longitude":-97.5969}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52200"]={"code":"52200","region":"Grand-Est","city":"Saints-Geosmes","latitude":47.8328,"longitude":5.3281}}(window,'GeoPostal','FR');

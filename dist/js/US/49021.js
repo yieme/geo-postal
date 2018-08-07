@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49021"]={"code":"49021","region":"MI","city":"Bellevue","latitude":42.4525,"longitude":-85.0489}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40051"]={"code":"40051","region":"KY","city":"New Haven","latitude":37.6438,"longitude":-85.547}}(window,'GeoPostal','US');

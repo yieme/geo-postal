@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442306"]={"code":"442306","region":"Maharashtra","city":"Arvi","latitude":20.98333,"longitude":78.23333}}(window,'GeoPostal','IN');

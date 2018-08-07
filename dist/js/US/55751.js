@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55751"]={"code":"55751","region":"Minnesota","city":"Iron","latitude":47.40724,"longitude":-92.654945}}(window,'GeoPostal','US');

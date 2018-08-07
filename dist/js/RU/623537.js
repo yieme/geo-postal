@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623537"]={"code":"623537","region":"Sverdlovskaya oblast'","city":"Bogdanovich","latitude":56.78028,"longitude":62.04944}}(window,'GeoPostal','RU');

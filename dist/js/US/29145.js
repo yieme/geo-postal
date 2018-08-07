@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29145"]={"code":"29145","region":"SC","city":"Silverstreet","latitude":34.2207,"longitude":-81.7741}}(window,'GeoPostal','US');

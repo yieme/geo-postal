@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA2 9AX"]={"code":"KA2 9AX","region":"Scotland","city":"Dundonald","latitude":55.56667,"longitude":-4.58333}}(window,'GeoPostal','GB');

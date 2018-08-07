@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE73 8BE"]={"code":"DE73 8BE","region":"England","city":"Tonge","latitude":52.80401,"longitude":-1.37707}}(window,'GeoPostal','GB');

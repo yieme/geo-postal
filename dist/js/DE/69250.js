@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69250"]={"code":"69250","region":"Hessen","city":"Grein","latitude":49.43824,"longitude":8.84392}}(window,'GeoPostal','DE');

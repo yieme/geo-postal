@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84045"]={"code":"84045","region":"Utah","city":"Saratoga Springs","latitude":40.3495,"longitude":-111.9043}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC1R 4TY"]={"code":"EC1R 4TY","region":"England","city":"Finsbury","latitude":51.52793,"longitude":-0.10719}}(window,'GeoPostal','GB');

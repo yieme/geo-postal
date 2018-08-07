@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81153"]={"code":"81153","region":"CO","city":"La Valley","latitude":37.12,"longitude":-105.36}}(window,'GeoPostal','US');

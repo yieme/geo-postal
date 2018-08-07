@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84083"]={"code":"84083","region":"Utah","city":"Wendover","latitude":40.73715,"longitude":-114.03751}}(window,'GeoPostal','US');

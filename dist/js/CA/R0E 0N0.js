@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 0N0"]={"code":"R0E 0N0","region":"Manitoba","city":"West Hawk Lake","latitude":49.73685,"longitude":-95.20683}}(window,'GeoPostal','CA');

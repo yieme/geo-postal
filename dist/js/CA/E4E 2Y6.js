@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4E 2Y6"]={"code":"E4E 2Y6","region":"New Brunswick","city":"Suss","latitude":45.71096,"longitude":-65.47272}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR8 1NY"]={"code":"PR8 1NY","region":"England","city":"Southport","latitude":53.64779,"longitude":-3.00648}}(window,'GeoPostal','GB');

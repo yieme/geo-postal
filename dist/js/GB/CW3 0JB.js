@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW3 0JB"]={"code":"CW3 0JB","region":"England","city":"Hankelow","latitude":53.00509,"longitude":-2.4923}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26360"]={"code":"26360","region":"Juznobanatski okrug","city":"Plandiste","latitude":45.22722,"longitude":21.12167}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56420"]={"code":"56420","region":"Bretagne","city":"Plumelec","latitude":47.83754,"longitude":-2.63988}}(window,'GeoPostal','FR');

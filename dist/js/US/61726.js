@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61726"]={"code":"61726","region":"IL","city":"Chenoa","latitude":40.7446,"longitude":-88.7219}}(window,'GeoPostal','US');

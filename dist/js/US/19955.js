@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19955"]={"code":"19955","region":"DE","city":"Kenton","latitude":39.2256,"longitude":-75.6642}}(window,'GeoPostal','US');

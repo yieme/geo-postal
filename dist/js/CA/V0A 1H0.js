@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1H0"]={"code":"V0A 1H0","region":"British Columbia","city":"Golden","latitude":51.29995,"longitude":-116.9689}}(window,'GeoPostal','CA');

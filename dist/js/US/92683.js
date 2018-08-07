@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92683"]={"code":"92683","region":"California","city":"Westminster","latitude":33.75918,"longitude":-118.00673}}(window,'GeoPostal','US');

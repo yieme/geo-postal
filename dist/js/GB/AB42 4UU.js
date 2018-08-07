@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 4UU"]={"code":"AB42 4UU","region":"Scotland","city":"Rora","latitude":57.54593,"longitude":-1.89624}}(window,'GeoPostal','GB');

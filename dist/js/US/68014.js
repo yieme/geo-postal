@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68014"]={"code":"68014","region":"NE","city":"Bruno","latitude":41.2718,"longitude":-96.9646}}(window,'GeoPostal','US');

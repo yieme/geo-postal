@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12516"]={"code":"12516","region":"New York","city":"Copake","latitude":42.13389,"longitude":-73.56833}}(window,'GeoPostal','US');

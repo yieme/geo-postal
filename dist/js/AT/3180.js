@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3180"]={"code":"3180","region":"Niederosterreich","city":"Lilienfeld","latitude":48.01312,"longitude":15.59664}}(window,'GeoPostal','AT');

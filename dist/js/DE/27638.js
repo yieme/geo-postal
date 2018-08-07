@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27638"]={"code":"27638","region":"Niedersachsen","city":"Wremen","latitude":53.65,"longitude":8.51667}}(window,'GeoPostal','DE');

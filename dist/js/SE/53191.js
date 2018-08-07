@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53191"]={"code":"53191","region":"Vastra Gotalands lan","city":"Vinninga","latitude":58.45,"longitude":13.26667}}(window,'GeoPostal','SE');

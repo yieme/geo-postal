@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52001"]={"code":"52001","region":"Melilla","city":"Melilla","latitude":35.29369,"longitude":-2.93833}}(window,'GeoPostal','ES');

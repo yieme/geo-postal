@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94534"]={"code":"94534","region":"Luhanska oblast","city":"Miusinsk","latitude":48.0775,"longitude":38.90364}}(window,'GeoPostal','UA');

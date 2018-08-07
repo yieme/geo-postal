@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301411"]={"code":"301411","region":"Rajasthan","city":"Tijara","latitude":27.93333,"longitude":76.85}}(window,'GeoPostal','IN');

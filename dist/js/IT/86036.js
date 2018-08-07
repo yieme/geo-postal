@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86036"]={"code":"86036","region":"Molise","city":"Montenero di Bisaccia","latitude":41.96514,"longitude":14.78143}}(window,'GeoPostal','IT');

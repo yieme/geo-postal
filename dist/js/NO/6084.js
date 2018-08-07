@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6084"]={"code":"6084","region":"More og Romsdal","city":"Larsnes","latitude":62.20282,"longitude":5.57729}}(window,'GeoPostal','NO');

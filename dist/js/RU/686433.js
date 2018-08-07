@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686433"]={"code":"686433","region":"Magadanskaya oblast'","city":"Evensk","latitude":61.95,"longitude":159.23333}}(window,'GeoPostal','RU');

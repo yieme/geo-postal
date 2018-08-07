@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92347"]={"code":"92347","region":"CA","city":"Hinkley","latitude":34.9279,"longitude":-117.1809}}(window,'GeoPostal','US');

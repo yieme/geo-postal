@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39039"]={"code":"39039","region":"Trentino-Alto Adige","city":"Villabassa","latitude":46.74028,"longitude":12.17028}}(window,'GeoPostal','IT');

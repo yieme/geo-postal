@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65278-000"]={"code":"65278-000","region":"Maranhao","city":"Turiacu","latitude":-1.66333,"longitude":-45.37167}}(window,'GeoPostal','BR');

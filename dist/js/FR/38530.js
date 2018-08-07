@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38530"]={"code":"38530","region":"Auvergne-Rhone-Alpes","city":"Pontcharra","latitude":45.4329,"longitude":6.01424}}(window,'GeoPostal','FR');

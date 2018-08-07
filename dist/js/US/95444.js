@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95444"]={"code":"95444","region":"CA","city":"Graton","latitude":38.4335,"longitude":-122.8676}}(window,'GeoPostal','US');

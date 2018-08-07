@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2PD"]={"code":"TD15 2PD","region":"England","city":"Beal","latitude":55.67207,"longitude":-1.91643}}(window,'GeoPostal','GB');

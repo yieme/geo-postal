@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78570"]={"code":"78570","region":"Texas","city":"Mercedes","latitude":26.16048,"longitude":-97.91982}}(window,'GeoPostal','US');

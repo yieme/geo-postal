@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60014"]={"code":"60014","region":"Chernivetska oblast","city":"Klishkivtsi","latitude":48.43161,"longitude":26.26231}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57767"]={"code":"57767","region":"SD","city":"Owanka","latitude":44.0631,"longitude":-102.5628}}(window,'GeoPostal','US');

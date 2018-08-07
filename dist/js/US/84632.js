@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84632"]={"code":"84632","region":"UT","city":"Fountain Green","latitude":39.63,"longitude":-111.6352}}(window,'GeoPostal','US');

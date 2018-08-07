@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["800-0313"]={"code":"800-0313","region":"Fukuoka","city":"Kanda","latitude":33.783,"longitude":130.983}}(window,'GeoPostal','JP');

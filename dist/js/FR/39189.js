@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39189"]={"code":"39189","region":"Bourgogne-Franche-Comte","city":"Dole","latitude":47.1,"longitude":5.5}}(window,'GeoPostal','FR');

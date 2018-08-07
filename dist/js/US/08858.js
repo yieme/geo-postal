@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08858"]={"code":"08858","region":"New Jersey","city":"Skillman","latitude":40.693248,"longitude":-74.793318}}(window,'GeoPostal','US');

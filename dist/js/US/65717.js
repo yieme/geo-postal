@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65717"]={"code":"65717","region":"Missouri","city":"Norwood","latitude":37.10972,"longitude":-92.416667}}(window,'GeoPostal','US');

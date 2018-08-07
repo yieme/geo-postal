@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21640"]={"code":"21640","region":"Sivas","city":"Altinyayla","latitude":39.27249,"longitude":36.75098}}(window,'GeoPostal','TR');

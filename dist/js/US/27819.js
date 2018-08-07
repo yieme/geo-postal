@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27819"]={"code":"27819","region":"North Carolina","city":"Conetoe","latitude":35.817192,"longitude":-77.457421}}(window,'GeoPostal','US');

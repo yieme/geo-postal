@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 0Z0"]={"code":"S0H 0Z0","region":"Saskatchewan","city":"Coronach","latitude":49.11676,"longitude":-105.51781}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69475-000"]={"code":"69475-000","region":"Amazonas","city":"Tefe","latitude":-3.35417,"longitude":-64.71139}}(window,'GeoPostal','BR');

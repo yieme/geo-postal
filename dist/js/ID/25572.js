@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25572"]={"code":"25572","region":"Sumatera Barat","city":"Lubukalung","latitude":-0.68624,"longitude":100.28613}}(window,'GeoPostal','ID');

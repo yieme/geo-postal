@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61932"]={"code":"61932","region":"IL","city":"Hume","latitude":39.8009,"longitude":-87.8747}}(window,'GeoPostal','US');

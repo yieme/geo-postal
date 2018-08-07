@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12936"]={"code":"12936","region":"NY","city":"Essex","latitude":44.2807,"longitude":-73.3731}}(window,'GeoPostal','US');

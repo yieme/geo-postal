@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51248"]={"code":"51248","region":"Iowa","city":"Sanborn","latitude":43.18164,"longitude":-95.65557}}(window,'GeoPostal','US');

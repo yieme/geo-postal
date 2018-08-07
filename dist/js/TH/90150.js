@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90150"]={"code":"90150","region":"Songkhla","city":"Thepha","latitude":6.82936,"longitude":100.96431}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24828"]={"code":"24828","region":"WV","city":"Davy","latitude":37.4784,"longitude":-81.6534}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17192"]={"code":"17192","region":"Mecklenburg-Vorpommern","city":"Kargow","latitude":53.5,"longitude":12.75}}(window,'GeoPostal','DE');

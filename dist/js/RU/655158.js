@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655158"]={"code":"655158","region":"Khakasiya, Respublika","city":"Chernogorsk","latitude":53.82361,"longitude":91.28417}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47123"]={"code":"47123","region":"Indiana","city":"Grantsburg","latitude":38.287587,"longitude":-86.472442}}(window,'GeoPostal','US');

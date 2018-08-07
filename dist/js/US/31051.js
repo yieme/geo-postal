@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31051"]={"code":"31051","region":"GA","city":"Lilly","latitude":32.1471,"longitude":-83.8774}}(window,'GeoPostal','US');

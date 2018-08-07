@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332719"]={"code":"332719","region":"Jiangxi","city":"Madang","latitude":29.98807,"longitude":116.65208}}(window,'GeoPostal','CN');

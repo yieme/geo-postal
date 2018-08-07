@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04075"]={"code":"04075","region":"ME","city":"Sebago Lake","latitude":43.85,"longitude":-70.63}}(window,'GeoPostal','US');

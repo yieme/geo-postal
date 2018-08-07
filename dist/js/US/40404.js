@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40404"]={"code":"40404","region":"KY","city":"Berea","latitude":37.5687,"longitude":-84.2963}}(window,'GeoPostal','US');

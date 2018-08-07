@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1390000"]={"code":"1390000","region":"Antofagasta","city":"Calama","latitude":-22.46667,"longitude":-68.93333}}(window,'GeoPostal','CL');

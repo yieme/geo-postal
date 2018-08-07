@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04016"]={"code":"04016","region":"Lazio","city":"Sabaudia","latitude":41.30025,"longitude":13.02815}}(window,'GeoPostal','IT');

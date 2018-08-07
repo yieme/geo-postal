@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 2HX"]={"code":"DT10 2HX","region":"England","city":"Lydlinch","latitude":50.92229,"longitude":-2.36302}}(window,'GeoPostal','GB');

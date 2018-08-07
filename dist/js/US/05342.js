@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05342"]={"code":"05342","region":"Vermont","city":"Jacksonville","latitude":42.769218,"longitude":-72.799012}}(window,'GeoPostal','US');

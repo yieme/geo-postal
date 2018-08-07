@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87524"]={"code":"87524","region":"NM","city":"Costilla","latitude":36.9324,"longitude":-105.6723}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06013"]={"code":"06013","region":"CT","city":"Burlington","latitude":41.7573,"longitude":-72.9444}}(window,'GeoPostal','US');

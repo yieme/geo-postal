@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79871"]={"code":"79871","region":"Baden-Wurttemberg","city":"Hammereisenbach","latitude":47.99597,"longitude":8.31967}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72812"]={"code":"72812","region":"AR","city":"Russellville","latitude":35.4231,"longitude":-93.0544}}(window,'GeoPostal','US');

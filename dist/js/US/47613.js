@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47613"]={"code":"47613","region":"IN","city":"Elberfeld","latitude":38.2053,"longitude":-87.4179}}(window,'GeoPostal','US');

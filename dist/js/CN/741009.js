@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741009"]={"code":"741009","region":"Gansu","city":"Mayuan","latitude":34.05397,"longitude":105.52278}}(window,'GeoPostal','CN');

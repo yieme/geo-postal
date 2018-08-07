@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2545"]={"code":"2545","region":"New South Wales","city":"Bodalla","latitude":-36.09118,"longitude":150.05061}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05030"]={"code":"05030","region":"Umbria","city":"Otricoli","latitude":42.42153,"longitude":12.47727}}(window,'GeoPostal','IT');

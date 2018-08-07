@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU32 1EP"]={"code":"GU32 1EP","region":"England","city":"Froxfield","latitude":51.01667,"longitude":-1}}(window,'GeoPostal','GB');

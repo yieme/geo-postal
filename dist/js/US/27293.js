@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27293"]={"code":"27293","region":"North Carolina","city":"Lexington","latitude":35.86128,"longitude":-80.254957}}(window,'GeoPostal','US');

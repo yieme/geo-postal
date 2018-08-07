@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06343"]={"code":"06343","region":"Sachsen-Anhalt","city":"Mansfeld","latitude":51.59234,"longitude":11.45224}}(window,'GeoPostal','DE');

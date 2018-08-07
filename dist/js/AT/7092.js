@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7092"]={"code":"7092","region":"Burgenland","city":"Winden am See","latitude":47.95,"longitude":16.75}}(window,'GeoPostal','AT');

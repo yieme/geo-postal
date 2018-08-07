@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04973"]={"code":"04973","region":"Maine","city":"Searsmont","latitude":44.36174,"longitude":-69.19504}}(window,'GeoPostal','US');

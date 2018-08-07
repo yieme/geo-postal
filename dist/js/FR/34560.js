@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34560"]={"code":"34560","region":"Occitanie","city":"Poussan","latitude":43.48944,"longitude":3.67083}}(window,'GeoPostal','FR');

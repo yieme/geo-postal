@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 2E0"]={"code":"S0N 2E0","region":"Saskatchewan","city":"Richmound","latitude":50.45011,"longitude":-109.75156}}(window,'GeoPostal','CA');

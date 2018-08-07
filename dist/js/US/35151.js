@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35151"]={"code":"35151","region":"Alabama","city":"Sylacauga","latitude":33.175958,"longitude":-86.261318}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-530"]={"code":"42-530","region":"Slaskie","city":"Dabrowa Gornicza","latitude":50.31818,"longitude":19.2374}}(window,'GeoPostal','PL');

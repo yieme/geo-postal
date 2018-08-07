@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6230"]={"code":"6230","region":"Western Australia","city":"Bunbury","latitude":-33.32711,"longitude":115.64137}}(window,'GeoPostal','AU');

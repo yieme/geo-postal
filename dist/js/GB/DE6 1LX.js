@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 1LX"]={"code":"DE6 1LX","region":"England","city":"Osmaston","latitude":52.9926,"longitude":-1.70451}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607520"]={"code":"607520","region":"Bacau","city":"Sascut","latitude":46.2,"longitude":27.1}}(window,'GeoPostal','RO');

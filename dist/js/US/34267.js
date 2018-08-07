@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34267"]={"code":"34267","region":"FL","city":"Fort Ogden","latitude":27.1861,"longitude":-81.8099}}(window,'GeoPostal','US');

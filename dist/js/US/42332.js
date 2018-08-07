@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42332"]={"code":"42332","region":"KY","city":"Cleaton","latitude":37.2533,"longitude":-87.0897}}(window,'GeoPostal','US');

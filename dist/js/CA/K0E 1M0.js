@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1M0"]={"code":"K0E 1M0","region":"Ontario","city":"Lyn","latitude":44.58341,"longitude":-75.78265}}(window,'GeoPostal','CA');

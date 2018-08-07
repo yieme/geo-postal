@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368180"]={"code":"368180","region":"Dagestan, Respublika","city":"Kurakh","latitude":41.58491,"longitude":47.78306}}(window,'GeoPostal','RU');

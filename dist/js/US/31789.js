@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31789"]={"code":"31789","region":"GA","city":"Sumner","latitude":31.513,"longitude":-83.7385}}(window,'GeoPostal','US');

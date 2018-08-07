@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03865"]={"code":"03865","region":"New Hampshire","city":"Plaistow","latitude":42.839254,"longitude":-71.091083}}(window,'GeoPostal','US');

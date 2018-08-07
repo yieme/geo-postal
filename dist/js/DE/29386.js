@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29386"]={"code":"29386","region":"Niedersachsen","city":"Emmen","latitude":52.71499,"longitude":10.62335}}(window,'GeoPostal','DE');

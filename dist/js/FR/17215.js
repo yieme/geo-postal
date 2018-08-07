@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17215"]={"code":"17215","region":"Nouvelle-Aquitaine","city":"Royan","latitude":45.62846,"longitude":-1.0281}}(window,'GeoPostal','FR');

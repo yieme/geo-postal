@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["840283"]={"code":"840283","region":"Sokoto","city":"Sokoto","latitude":13.06092,"longitude":5.23902}}(window,'GeoPostal','NG');

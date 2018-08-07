@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6538"]={"code":"6538","region":"More og Romsdal","city":"Bruhagen","latitude":63.05172,"longitude":7.63204}}(window,'GeoPostal','NO');

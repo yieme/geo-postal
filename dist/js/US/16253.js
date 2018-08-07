@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16253"]={"code":"16253","region":"Pennsylvania","city":"Seminole","latitude":40.954722,"longitude":-79.343056}}(window,'GeoPostal','US');

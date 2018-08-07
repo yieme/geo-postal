@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39756"]={"code":"39756","region":"MS","city":"Prairie","latitude":33.7836,"longitude":-88.6642}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G3J 1J1"]={"code":"G3J 1J1","region":"Quebec","city":"Pointe-Lebel","latitude":46.867089,"longitude":-71.431033}}(window,'GeoPostal','CA');

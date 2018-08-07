@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4000"]={"code":"4000","region":"Sousse","city":"Sousse","latitude":35.82539,"longitude":10.63699}}(window,'GeoPostal','TN');

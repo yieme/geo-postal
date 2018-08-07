@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10184"]={"code":"10184","region":"Extremadura","city":"Torremocha","latitude":39.34565,"longitude":-6.17334}}(window,'GeoPostal','ES');

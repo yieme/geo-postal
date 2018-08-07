@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40171"]={"code":"40171","region":"KY","city":"Union Star","latitude":37.9616,"longitude":-86.4615}}(window,'GeoPostal','US');

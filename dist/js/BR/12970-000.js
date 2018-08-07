@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12970-000"]={"code":"12970-000","region":"Sao Paulo","city":"Piracaia","latitude":-23.05389,"longitude":-46.35806}}(window,'GeoPostal','BR');

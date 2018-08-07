@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72527"]={"code":"72527","region":"AR","city":"Desha","latitude":35.7411,"longitude":-91.6985}}(window,'GeoPostal','US');

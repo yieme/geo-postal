@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24420"]={"code":"24420","region":"Nouvelle-Aquitaine","city":"Antonne-et-Trigonant","latitude":45.21271,"longitude":0.83006}}(window,'GeoPostal','FR');

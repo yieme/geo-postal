@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16630"]={"code":"16630","region":"Castilla-La Mancha","city":"Mota del Cuervo","latitude":39.50188,"longitude":-2.86994}}(window,'GeoPostal','ES');

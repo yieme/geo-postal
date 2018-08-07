@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59480"]={"code":"59480","region":"MT","city":"Stockett","latitude":47.3217,"longitude":-111.1287}}(window,'GeoPostal','US');

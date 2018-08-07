@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431157"]={"code":"431157","region":"Mordoviya, Respublika","city":"Vysha","latitude":53.84768,"longitude":42.37766}}(window,'GeoPostal','RU');

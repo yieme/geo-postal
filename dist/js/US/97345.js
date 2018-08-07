@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97345"]={"code":"97345","region":"Oregon","city":"Foster","latitude":44.42491,"longitude":-122.570308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49581"]={"code":"49581","region":"Castilla y Leon","city":"Pias","latitude":42.08333,"longitude":-7}}(window,'GeoPostal','ES');

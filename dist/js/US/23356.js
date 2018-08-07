@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23356"]={"code":"23356","region":"Virginia","city":"Greenbackville","latitude":38.001375,"longitude":-75.415275}}(window,'GeoPostal','US');

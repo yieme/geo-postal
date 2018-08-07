@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58558"]={"code":"58558","region":"ND","city":"Menoken","latitude":46.8205,"longitude":-100.5312}}(window,'GeoPostal','US');

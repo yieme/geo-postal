@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8567"]={"code":"8567","region":"Fryslan","city":"Oudemirdum","latitude":52.85019,"longitude":5.53544}}(window,'GeoPostal','NL');

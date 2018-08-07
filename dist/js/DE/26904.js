@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26904"]={"code":"26904","region":"Niedersachsen","city":"Borger","latitude":52.91211,"longitude":7.53576}}(window,'GeoPostal','DE');

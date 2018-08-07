@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1W 5V1"]={"code":"A1W 5V1","region":"Newfoundland and Labrador","city":"Topsail","latitude":47.53319,"longitude":-52.93136}}(window,'GeoPostal','CA');

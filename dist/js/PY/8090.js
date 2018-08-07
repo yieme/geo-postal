@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8090"]={"code":"8090","region":"San Pedro","city":"General Elizardo Aquino","latitude":-24.43333,"longitude":-56.7}}(window,'GeoPostal','PY');

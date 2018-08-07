@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18812"]={"code":"18812","region":"Pennsylvania","city":"Brackney","latitude":41.955037,"longitude":-75.927726}}(window,'GeoPostal','US');

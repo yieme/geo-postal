@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141930"]={"code":"141930","region":"Moskovskaya oblast'","city":"Verbilki","latitude":56.53333,"longitude":37.6}}(window,'GeoPostal','RU');

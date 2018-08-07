@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58638"]={"code":"58638","region":"North Dakota","city":"Hebron","latitude":46.90194,"longitude":-102.04361}}(window,'GeoPostal','US');

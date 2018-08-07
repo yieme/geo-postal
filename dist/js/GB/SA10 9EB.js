@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA10 9EB"]={"code":"SA10 9EB","region":"Wales","city":"Seven Sisters","latitude":51.76667,"longitude":-3.71667}}(window,'GeoPostal','GB');

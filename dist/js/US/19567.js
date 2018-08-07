@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19567"]={"code":"19567","region":"Pennsylvania","city":"Womelsdorf","latitude":40.38766,"longitude":-76.21435}}(window,'GeoPostal','US');

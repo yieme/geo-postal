@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 6EF"]={"code":"IP7 6EF","region":"England","city":"Kersey","latitude":52.05853,"longitude":0.91757}}(window,'GeoPostal','GB');

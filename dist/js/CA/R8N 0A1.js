@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R8N 0A1"]={"code":"R8N 0A1","region":"Manitoba","city":"Thompson","latitude":55.7435,"longitude":-97.85579}}(window,'GeoPostal','CA');

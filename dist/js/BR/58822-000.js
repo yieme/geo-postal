@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58822-000"]={"code":"58822-000","region":"Paraiba","city":"Serra Branca","latitude":-6.53333,"longitude":-38.26667}}(window,'GeoPostal','BR');

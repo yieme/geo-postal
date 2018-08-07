@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39323"]={"code":"39323","region":"MS","city":"Chunky","latitude":32.3505,"longitude":-88.9551}}(window,'GeoPostal','US');

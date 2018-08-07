@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4341"]={"code":"4341","region":"Szabolcs-Szatmar-Bereg","city":"Nyirvasvari","latitude":47.81667,"longitude":22.18683}}(window,'GeoPostal','HU');

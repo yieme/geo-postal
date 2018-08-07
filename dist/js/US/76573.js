@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76573"]={"code":"76573","region":"TX","city":"Schwertner","latitude":30.8155,"longitude":-97.5142}}(window,'GeoPostal','US');

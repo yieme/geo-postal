@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64077"]={"code":"64077","region":"MO","city":"Orrick","latitude":39.2116,"longitude":-94.1239}}(window,'GeoPostal','US');

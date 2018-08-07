@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1R0"]={"code":"B0P 1R0","region":"Nova Scotia","city":"Kingston","latitude":44.98345,"longitude":-64.94879}}(window,'GeoPostal','CA');

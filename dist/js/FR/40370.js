@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40370"]={"code":"40370","region":"Nouvelle-Aquitaine","city":"Rion-des-Landes","latitude":43.93449,"longitude":-0.92388}}(window,'GeoPostal','FR');

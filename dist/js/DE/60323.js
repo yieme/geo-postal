@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60323"]={"code":"60323","region":"Hessen","city":"Bockenheim","latitude":50.12498,"longitude":8.64538}}(window,'GeoPostal','DE');

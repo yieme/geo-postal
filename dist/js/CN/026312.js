@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["026312"]={"code":"026312","region":"Nei Mongol","city":"Uliastai","latitude":45.55,"longitude":116.83333}}(window,'GeoPostal','CN');

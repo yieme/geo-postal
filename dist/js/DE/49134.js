@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49134"]={"code":"49134","region":"Niedersachsen","city":"Wallenhorst","latitude":52.35,"longitude":8.01667}}(window,'GeoPostal','DE');

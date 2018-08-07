@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04492"]={"code":"04492","region":"ME","city":"Waite","latitude":45.3492,"longitude":-67.678}}(window,'GeoPostal','US');

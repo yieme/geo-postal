@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77110"]={"code":"77110","region":"Prachuap Khiri Khan","city":"Hua Hin","latitude":12.57065,"longitude":99.95876}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26266"]={"code":"26266","region":"West Virginia","city":"Upperglade","latitude":38.430625,"longitude":-80.501521}}(window,'GeoPostal','US');

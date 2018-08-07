@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8052"]={"code":"8052","region":"Zurich","city":"Zuerich (Kreis 11) / Seebach","latitude":47.42181,"longitude":8.54779}}(window,'GeoPostal','CH');

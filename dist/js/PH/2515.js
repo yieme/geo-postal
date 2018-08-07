@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2515"]={"code":"2515","region":"La Union","city":"Bacnotan","latitude":16.72222,"longitude":120.3525}}(window,'GeoPostal','PH');

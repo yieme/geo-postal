@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 2HJ"]={"code":"SA3 2HJ","region":"Wales","city":"Penmaen","latitude":51.575,"longitude":-4.12917}}(window,'GeoPostal','GB');

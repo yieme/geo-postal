@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2070"]={"code":"2070","region":"Sofia","city":"Pirdop","latitude":42.7,"longitude":24.18333}}(window,'GeoPostal','BG');

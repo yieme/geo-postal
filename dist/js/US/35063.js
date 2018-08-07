@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35063"]={"code":"35063","region":"AL","city":"Empire","latitude":33.8256,"longitude":-87.0161}}(window,'GeoPostal','US');

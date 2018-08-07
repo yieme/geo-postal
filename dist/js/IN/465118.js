@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["465118"]={"code":"465118","region":"Madhya Pradesh","city":"Maksi","latitude":23.26667,"longitude":76.15}}(window,'GeoPostal','IN');

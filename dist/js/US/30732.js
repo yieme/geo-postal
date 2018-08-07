@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30732"]={"code":"30732","region":"GA","city":"Oakman","latitude":34.569,"longitude":-84.7119}}(window,'GeoPostal','US');

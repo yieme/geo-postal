@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B60 4EL"]={"code":"B60 4EL","region":"England","city":"Bromsgrove","latitude":52.33574,"longitude":-2.05983}}(window,'GeoPostal','GB');

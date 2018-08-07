@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62829"]={"code":"62829","region":"IL","city":"Dale","latitude":37.995,"longitude":-88.4917}}(window,'GeoPostal','US');

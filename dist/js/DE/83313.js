@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83313"]={"code":"83313","region":"Bayern","city":"Siegsdorf","latitude":47.82278,"longitude":12.64277}}(window,'GeoPostal','DE');

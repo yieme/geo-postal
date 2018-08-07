@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34260"]={"code":"34260","region":"Occitanie","city":"Le Bousquet-d'Orb","latitude":43.6936,"longitude":3.1672}}(window,'GeoPostal','FR');

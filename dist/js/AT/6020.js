@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6020"]={"code":"6020","region":"Tirol","city":"Innsbruck","latitude":47.26266,"longitude":11.39454}}(window,'GeoPostal','AT');

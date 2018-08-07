@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33300"]={"code":"33300","region":"Nouvelle-Aquitaine","city":"Bordeaux","latitude":44.84044,"longitude":-0.5805}}(window,'GeoPostal','FR');

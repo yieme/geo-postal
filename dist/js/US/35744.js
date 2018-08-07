@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35744"]={"code":"35744","region":"AL","city":"Dutton","latitude":34.6046,"longitude":-85.9067}}(window,'GeoPostal','US');

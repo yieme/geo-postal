@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56655"]={"code":"56655","region":"Minnesota","city":"Longville","latitude":46.98528,"longitude":-94.21417}}(window,'GeoPostal','US');

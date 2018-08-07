@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75846"]={"code":"75846","region":"Texas","city":"Jewett","latitude":31.36157,"longitude":-96.14413}}(window,'GeoPostal','US');

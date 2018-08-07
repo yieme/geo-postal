@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04415"]={"code":"04415","region":"ME","city":"Brownville Junction","latitude":45.3512,"longitude":-69.0581}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1E0"]={"code":"B0P 1E0","region":"Nova Scotia","city":"Berwick","latitude":45.05015,"longitude":-64.73208}}(window,'GeoPostal','CA');

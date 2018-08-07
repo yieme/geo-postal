@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61525"]={"code":"61525","region":"IL","city":"Dunlap","latitude":40.8444,"longitude":-89.6397}}(window,'GeoPostal','US');

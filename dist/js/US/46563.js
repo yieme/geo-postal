@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46563"]={"code":"46563","region":"Indiana","city":"Plymouth","latitude":41.349509,"longitude":-86.327241}}(window,'GeoPostal','US');

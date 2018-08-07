@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59757"]={"code":"59757","region":"Nordrhein-Westfalen","city":"Arnsberg","latitude":51.12296,"longitude":7.33206}}(window,'GeoPostal','DE');

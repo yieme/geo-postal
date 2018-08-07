@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA6 3AS"]={"code":"LA6 3AS","region":"England","city":"Gearstones","latitude":54.21667,"longitude":-2.33333}}(window,'GeoPostal','GB');

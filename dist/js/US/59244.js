@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59244"]={"code":"59244","region":"MT","city":"Larslan","latitude":48.5822,"longitude":-106.2835}}(window,'GeoPostal','US');

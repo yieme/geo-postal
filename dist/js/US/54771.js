@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54771"]={"code":"54771","region":"Wisconsin","city":"Thorp","latitude":44.96108,"longitude":-90.79986}}(window,'GeoPostal','US');

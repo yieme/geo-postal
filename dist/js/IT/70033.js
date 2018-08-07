@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70033"]={"code":"70033","region":"Puglia","city":"Corato","latitude":41.14553,"longitude":16.41387}}(window,'GeoPostal','IT');

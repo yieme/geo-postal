@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210-080"]={"code":"210-080","region":"Gangwon-do","city":"Kang-neung","latitude":37.75556,"longitude":128.89611}}(window,'GeoPostal','KR');

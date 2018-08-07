@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400000"]={"code":"400000","region":"Ha Nam","city":"Phu Ly","latitude":20.54111,"longitude":105.91389}}(window,'GeoPostal','VN');

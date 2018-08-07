@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74945"]={"code":"74945","region":"OK","city":"Marble City","latitude":35.5972,"longitude":-94.8094}}(window,'GeoPostal','US');

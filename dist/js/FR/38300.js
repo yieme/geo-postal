@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38300"]={"code":"38300","region":"Auvergne-Rhone-Alpes","city":"Les Eparres","latitude":45.5342,"longitude":5.2936}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89663-000"]={"code":"89663-000","region":"Santa Catarina","city":"Capinzal","latitude":-27.34361,"longitude":-51.61194}}(window,'GeoPostal','BR');

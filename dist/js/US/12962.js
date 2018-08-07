@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12962"]={"code":"12962","region":"NY","city":"Morrisonville","latitude":44.6894,"longitude":-73.5772}}(window,'GeoPostal','US');

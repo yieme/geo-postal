@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4580"]={"code":"4580","region":"Vest-Agder","city":"Lyngdal","latitude":58.1376,"longitude":7.07002}}(window,'GeoPostal','NO');

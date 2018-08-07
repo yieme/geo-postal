@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54479"]={"code":"54479","region":"Wisconsin","city":"Spencer","latitude":44.75774,"longitude":-90.2968}}(window,'GeoPostal','US');

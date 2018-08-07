@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3060"]={"code":"3060","region":"Vlaams-Brabant","city":"Bertem","latitude":50.86403,"longitude":4.62918}}(window,'GeoPostal','BE');

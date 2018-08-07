@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52630"]={"code":"52630","region":"IA","city":"Hillsboro","latitude":40.8372,"longitude":-91.7119}}(window,'GeoPostal','US');

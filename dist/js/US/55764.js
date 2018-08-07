@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55764"]={"code":"55764","region":"MN","city":"Marble","latitude":47.3219,"longitude":-93.2939}}(window,'GeoPostal','US');

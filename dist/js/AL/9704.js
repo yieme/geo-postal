@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9704"]={"code":"9704","region":"Vlore","city":"Delvine","latitude":39.95111,"longitude":20.09778}}(window,'GeoPostal','AL');

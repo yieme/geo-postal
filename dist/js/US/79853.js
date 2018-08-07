@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79853"]={"code":"79853","region":"Texas","city":"Tornillo","latitude":31.436001,"longitude":-106.075648}}(window,'GeoPostal','US');

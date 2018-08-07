@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDWD14"]={"code":"JMDWD14","region":"Westmoreland","city":"Negril","latitude":18.27818,"longitude":-78.3518}}(window,'GeoPostal','JM');

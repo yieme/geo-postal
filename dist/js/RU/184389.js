@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184389"]={"code":"184389","region":"Murmanskaya oblast'","city":"Kola","latitude":68.88062,"longitude":33.01842}}(window,'GeoPostal','RU');

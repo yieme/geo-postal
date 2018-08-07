@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29369"]={"code":"29369","region":"SC","city":"Moore","latitude":34.8646,"longitude":-82.0215}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60974"]={"code":"60974","region":"IL","city":"Woodland","latitude":40.7151,"longitude":-87.7307}}(window,'GeoPostal','US');

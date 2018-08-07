@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46480-000"]={"code":"46480-000","region":"Bahia","city":"Riacho de Santana","latitude":-13.60917,"longitude":-42.93889}}(window,'GeoPostal','BR');

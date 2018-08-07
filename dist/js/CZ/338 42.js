@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 42"]={"code":"338 42","region":"Plzensky kraj","city":"Hradek","latitude":49.26127,"longitude":13.4985}}(window,'GeoPostal','CZ');

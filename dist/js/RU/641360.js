@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641360"]={"code":"641360","region":"Kurganskaya oblast'","city":"Belozerskoye","latitude":55.82139,"longitude":65.58417}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65055"]={"code":"65055","region":"MO","city":"Mc Girk","latitude":38.6749,"longitude":-92.6109}}(window,'GeoPostal','US');

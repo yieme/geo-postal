@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0000"]={"code":"AZ 0000","region":"Sumqayit","city":"Sumqayit","latitude":40.58972,"longitude":49.66861}}(window,'GeoPostal','AZ');

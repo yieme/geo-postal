@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6401"]={"code":"MD-6401","region":"Nisporeni","city":"Nisporeni","latitude":47.08139,"longitude":28.17833}}(window,'GeoPostal','MD');

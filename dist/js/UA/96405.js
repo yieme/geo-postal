@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96405"]={"code":"96405","region":"Avtonomna Respublika Krym","city":"Chornomors'ke","latitude":45.50657,"longitude":32.69776}}(window,'GeoPostal','UA');

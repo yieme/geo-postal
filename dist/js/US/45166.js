@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45166"]={"code":"45166","region":"OH","city":"Reesville","latitude":39.4805,"longitude":-83.6772}}(window,'GeoPostal','US');

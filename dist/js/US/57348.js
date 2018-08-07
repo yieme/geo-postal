@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57348"]={"code":"57348","region":"South Dakota","city":"Hitchcock","latitude":44.629395,"longitude":-98.408298}}(window,'GeoPostal','US');

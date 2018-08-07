@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6338"]={"code":"6338","region":"Western Australia","city":"Laurier","latitude":-34.05,"longitude":118.35}}(window,'GeoPostal','AU');

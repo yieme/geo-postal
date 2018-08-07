@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18317"]={"code":"18317","region":"Mecklenburg-Vorpommern","city":"Saal","latitude":54.31051,"longitude":12.49935}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52323"]={"code":"52323","region":"IA","city":"Oxford Junction","latitude":41.9854,"longitude":-90.9543}}(window,'GeoPostal','US');

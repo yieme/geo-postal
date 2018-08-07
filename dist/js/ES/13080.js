@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13080"]={"code":"13080","region":"Castilla-La Mancha","city":"Ciudad Real","latitude":38.98333,"longitude":-3.93333}}(window,'GeoPostal','ES');

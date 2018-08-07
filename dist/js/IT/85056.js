@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85056"]={"code":"85056","region":"Basilicata","city":"Ruoti","latitude":40.71802,"longitude":15.67896}}(window,'GeoPostal','IT');

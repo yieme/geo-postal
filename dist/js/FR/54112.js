@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54112"]={"code":"54112","region":"Grand-Est","city":"Vannes-le-Chatel","latitude":48.5467,"longitude":5.7803}}(window,'GeoPostal','FR');

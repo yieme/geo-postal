@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29420"]={"code":"29420","region":"Bretagne","city":"Plouvorn","latitude":48.58333,"longitude":-4.03333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77362"]={"code":"77362","region":"TX","city":"Pinehurst","latitude":30.1581,"longitude":-95.6814}}(window,'GeoPostal','US');

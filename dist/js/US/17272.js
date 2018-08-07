@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17272"]={"code":"17272","region":"PA","city":"Zullinger","latitude":39.7714,"longitude":-77.627}}(window,'GeoPostal','US');

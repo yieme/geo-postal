@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49683"]={"code":"49683","region":"Michigan","city":"Thompsonville","latitude":44.52028,"longitude":-85.94167}}(window,'GeoPostal','US');

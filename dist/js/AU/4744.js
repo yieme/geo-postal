@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4744"]={"code":"4744","region":"Queensland","city":"Coppabella","latitude":-21.9471,"longitude":148.3005}}(window,'GeoPostal','AU');

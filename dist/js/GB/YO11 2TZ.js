@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO11 2TZ"]={"code":"YO11 2TZ","region":"England","city":"Olivers Mount","latitude":54.2676,"longitude":-0.4039}}(window,'GeoPostal','GB');

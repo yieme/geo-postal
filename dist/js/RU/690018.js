@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["690018"]={"code":"690018","region":"Primorskiy kray","city":"Partizansk","latitude":43.12583,"longitude":133.13389}}(window,'GeoPostal','RU');

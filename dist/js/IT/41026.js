@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41026"]={"code":"41026","region":"Emilia-Romagna","city":"Pavullo nel Frignano","latitude":44.33146,"longitude":10.835}}(window,'GeoPostal','IT');

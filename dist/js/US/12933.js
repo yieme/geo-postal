@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12933"]={"code":"12933","region":"NY","city":"Ellenburg","latitude":44.8939,"longitude":-73.8365}}(window,'GeoPostal','US');

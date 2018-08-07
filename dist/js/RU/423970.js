@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423970"]={"code":"423970","region":"Tatarstan, Respublika","city":"Muslyumovo","latitude":55.30333,"longitude":53.19472}}(window,'GeoPostal','RU');

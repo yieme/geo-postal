@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 5WT"]={"code":"AB31 5WT","region":"Scotland","city":"Banchory","latitude":57.05168,"longitude":-2.48824}}(window,'GeoPostal','GB');

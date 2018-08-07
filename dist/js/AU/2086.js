@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2086"]={"code":"2086","region":"New South Wales","city":"Frenchs Forest","latitude":-33.74821,"longitude":151.22322}}(window,'GeoPostal','AU');

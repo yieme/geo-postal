@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416117"]={"code":"416117","region":"Maharashtra","city":"Ichalkaranji","latitude":16.7,"longitude":74.46667}}(window,'GeoPostal','IN');

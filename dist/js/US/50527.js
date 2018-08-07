@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50527"]={"code":"50527","region":"IA","city":"Curlew","latitude":42.9633,"longitude":-94.7975}}(window,'GeoPostal','US');

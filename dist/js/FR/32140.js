@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32140"]={"code":"32140","region":"Occitanie","city":"Masseube","latitude":43.42984,"longitude":0.5781}}(window,'GeoPostal','FR');

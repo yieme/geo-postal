@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50566"]={"code":"50566","region":"IA","city":"Moorland","latitude":42.434,"longitude":-94.3199}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1809"]={"code":"1809","region":"Gauteng","city":"Soweto","latitude":-26.26781,"longitude":27.85849}}(window,'GeoPostal','ZA');

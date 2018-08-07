@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307430"]={"code":"307430","region":"Timis","city":"Tormac","latitude":45.52083,"longitude":21.49361}}(window,'GeoPostal','RO');

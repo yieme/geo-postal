@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42360"]={"code":"42360","region":"Castilla y Leon","city":"Berlanga de Duero","latitude":41.4656,"longitude":-2.86148}}(window,'GeoPostal','ES');

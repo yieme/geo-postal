@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46013"]={"code":"46013","region":"Ain Temouchent","city":"'Ain Temouchent","latitude":35.29749,"longitude":-1.14037}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16659"]={"code":"16659","region":"Pennsylvania","city":"Loysburg","latitude":40.177611,"longitude":-78.377441}}(window,'GeoPostal','US');

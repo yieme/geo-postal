@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY19 7BW"]={"code":"SY19 7BW","region":"Wales","city":"Dylife","latitude":52.53232,"longitude":-3.67926}}(window,'GeoPostal','GB');

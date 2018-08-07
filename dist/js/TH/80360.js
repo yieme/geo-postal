@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80360"]={"code":"80360","region":"Trang","city":"Ratsada","latitude":7.97467,"longitude":99.63353}}(window,'GeoPostal','TH');

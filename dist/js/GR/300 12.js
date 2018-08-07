@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 12"]={"code":"300 12","region":"Dytiki Ellada","city":"Palairos","latitude":38.78333,"longitude":20.88333}}(window,'GeoPostal','GR');

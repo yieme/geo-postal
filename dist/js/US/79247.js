@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79247"]={"code":"79247","region":"Texas","city":"Odell","latitude":34.11698,"longitude":-99.340951}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36736"]={"code":"36736","region":"Alabama","city":"Dixons Mills","latitude":32.057047,"longitude":-87.728809}}(window,'GeoPostal','US');

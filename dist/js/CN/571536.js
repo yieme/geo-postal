@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571536"]={"code":"571536","region":"Hainan","city":"Sangengluo","latitude":18.86306,"longitude":110.18051}}(window,'GeoPostal','CN');

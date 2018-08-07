@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80542"]={"code":"80542","region":"CO","city":"Mead","latitude":40.2347,"longitude":-104.9994}}(window,'GeoPostal','US');

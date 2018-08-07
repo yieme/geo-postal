@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56265"]={"code":"56265","region":"Minnesota","city":"Montevideo","latitude":44.94246,"longitude":-95.72364}}(window,'GeoPostal','US');

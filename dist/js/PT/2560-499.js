@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2560-499"]={"code":"2560-499","region":"Lisboa","city":"Silveira","latitude":39.1112,"longitude":-9.3643}}(window,'GeoPostal','PT');

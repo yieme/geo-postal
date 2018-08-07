@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-352"]={"code":"44-352","region":"Slaskie","city":"Turza Slaska","latitude":49.97231,"longitude":18.43781}}(window,'GeoPostal','PL');

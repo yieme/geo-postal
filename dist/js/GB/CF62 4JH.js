@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF62 4JH"]={"code":"CF62 4JH","region":"Wales","city":"Eglwys-Brewis","latitude":51.41389,"longitude":-3.41694}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0805"]={"code":"0805","region":"Ararat","city":"Argavand","latitude":40.15876,"longitude":44.43916}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31250"]={"code":"31250","region":"Occitanie","city":"Revel","latitude":43.45812,"longitude":2.00469}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13520"]={"code":"13520","region":"Provence-Alpes-Cote d'Azur","city":"Maussane-les-Alpilles","latitude":43.72236,"longitude":4.80497}}(window,'GeoPostal','FR');

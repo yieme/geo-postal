@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42027"]={"code":"42027","region":"KY","city":"Boaz","latitude":36.93,"longitude":-88.6223}}(window,'GeoPostal','US');

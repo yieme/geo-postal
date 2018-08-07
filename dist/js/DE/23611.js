@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23611"]={"code":"23611","region":"Schleswig-Holstein","city":"Bad Schwartau","latitude":53.91887,"longitude":10.69691}}(window,'GeoPostal','DE');

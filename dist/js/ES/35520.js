@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35520"]={"code":"35520","region":"Canarias","city":"San Bartolome","latitude":29.00093,"longitude":-13.613}}(window,'GeoPostal','ES');

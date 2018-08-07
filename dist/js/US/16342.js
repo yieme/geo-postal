@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16342"]={"code":"16342","region":"Pennsylvania","city":"Polk","latitude":41.341177,"longitude":-79.933176}}(window,'GeoPostal','US');

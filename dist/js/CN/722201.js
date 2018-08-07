@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722201"]={"code":"722201","region":"Shaanxi","city":"Famen","latitude":34.43696,"longitude":107.89866}}(window,'GeoPostal','CN');

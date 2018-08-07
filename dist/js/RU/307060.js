@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307060"]={"code":"307060","region":"Kurskaya oblast'","city":"Tim","latitude":51.62222,"longitude":37.12444}}(window,'GeoPostal','RU');

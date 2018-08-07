@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27500"]={"code":"27500","region":"Gaziantep","city":"Gaziantep","latitude":37.05944,"longitude":37.3825}}(window,'GeoPostal','TR');

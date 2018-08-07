@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450580"]={"code":"450580","region":"Bashkortostan, Respublika","city":"Avdon","latitude":54.66667,"longitude":55.71667}}(window,'GeoPostal','RU');

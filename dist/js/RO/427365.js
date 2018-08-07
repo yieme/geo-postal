@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427365"]={"code":"427365","region":"Bistrita-Nasaud","city":"Uriu","latitude":47.2,"longitude":24.05}}(window,'GeoPostal','RO');

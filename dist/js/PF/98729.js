@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98729"]={"code":"98729","region":"Iles du Vent","city":"Papetoai","latitude":-17.49613,"longitude":-149.87291}}(window,'GeoPostal','PF');

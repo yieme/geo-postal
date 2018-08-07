@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 1JA"]={"code":"NR16 1JA","region":"England","city":"Forncett Saint Mary","latitude":52.5,"longitude":1.2}}(window,'GeoPostal','GB');

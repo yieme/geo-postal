@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20829"]={"code":"20829","region":"Pais Vasco","city":"Deba","latitude":43.29571,"longitude":-2.35213}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 3V0"]={"code":"G0A 3V0","region":"Quebec","city":"Les Eboulements","latitude":47.607586,"longitude":-70.386469}}(window,'GeoPostal','CA');

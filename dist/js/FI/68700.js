@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68700"]={"code":"68700","region":"Kanta-Hame","city":"Tervakoski","latitude":60.81412,"longitude":24.62594}}(window,'GeoPostal','FI');

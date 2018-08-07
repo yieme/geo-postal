@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90009"]={"code":"90009","region":"Telsiu apskritis","city":"Plunge","latitude":55.91139,"longitude":21.84417}}(window,'GeoPostal','LT');

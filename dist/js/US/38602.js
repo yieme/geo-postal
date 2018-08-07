@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38602"]={"code":"38602","region":"MS","city":"Arkabutla","latitude":34.6863,"longitude":-90.1068}}(window,'GeoPostal','US');

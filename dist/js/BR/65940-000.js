@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65940-000"]={"code":"65940-000","region":"Maranhao","city":"Grajau","latitude":-5.81944,"longitude":-46.13861}}(window,'GeoPostal','BR');

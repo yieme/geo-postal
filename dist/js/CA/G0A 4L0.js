@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 4L0"]={"code":"G0A 4L0","region":"Quebec","city":"Saint-Ubalde","latitude":46.75006,"longitude":-72.2658}}(window,'GeoPostal','CA');

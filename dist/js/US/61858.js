@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61858"]={"code":"61858","region":"IL","city":"Oakwood","latitude":40.1167,"longitude":-87.7825}}(window,'GeoPostal','US');

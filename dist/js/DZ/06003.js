@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06003"]={"code":"06003","region":"Bejaia","city":"El Kseur","latitude":36.67942,"longitude":4.8555}}(window,'GeoPostal','DZ');

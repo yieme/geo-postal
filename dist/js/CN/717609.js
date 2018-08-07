@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717609"]={"code":"717609","region":"Shaanxi","city":"Tiebiancheng","latitude":36.98991,"longitude":107.84795}}(window,'GeoPostal','CN');

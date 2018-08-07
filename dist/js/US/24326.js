@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24326"]={"code":"24326","region":"Virginia","city":"Elk Creek","latitude":36.72882,"longitude":-81.19578}}(window,'GeoPostal','US');

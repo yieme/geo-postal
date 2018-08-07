@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21449"]={"code":"21449","region":"Niedersachsen","city":"Radbruch","latitude":53.31667,"longitude":10.28333}}(window,'GeoPostal','DE');

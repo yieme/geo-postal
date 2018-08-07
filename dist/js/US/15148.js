@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15148"]={"code":"15148","region":"Pennsylvania","city":"Wilmerding","latitude":40.38858,"longitude":-79.79694}}(window,'GeoPostal','US');

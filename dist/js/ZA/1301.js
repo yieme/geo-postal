@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1301"]={"code":"1301","region":"Mpumalanga","city":"Belfast","latitude":-25.68991,"longitude":30.03504}}(window,'GeoPostal','ZA');

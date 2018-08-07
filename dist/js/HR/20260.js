@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20260"]={"code":"20260","region":"Dubrovacko-neretvanska zupanija","city":"Korcula","latitude":42.96222,"longitude":17.13694}}(window,'GeoPostal','HR');

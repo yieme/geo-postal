@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["932 01"]={"code":"932 01","region":"Trnavsky kraj","city":"Vel'ky Meder","latitude":47.85798,"longitude":17.76884}}(window,'GeoPostal','SK');

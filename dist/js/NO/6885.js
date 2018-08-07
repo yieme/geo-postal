@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6885"]={"code":"6885","region":"Sogn og Fjordane","city":"Ardalstangen","latitude":61.23711,"longitude":7.69834}}(window,'GeoPostal','NO');

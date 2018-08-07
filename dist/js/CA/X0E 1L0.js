@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 1L0"]={"code":"X0E 1L0","region":"Northwest Territories","city":"Colville Lake","latitude":67.03356,"longitude":-126.12081}}(window,'GeoPostal','CA');

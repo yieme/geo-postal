@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73018"]={"code":"73018","region":"Oklahoma","city":"Chickasha","latitude":35.05256,"longitude":-97.93643}}(window,'GeoPostal','US');

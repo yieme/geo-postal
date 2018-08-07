@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-200"]={"code":"87-200","region":"Kujawsko-pomorskie","city":"Torun","latitude":53.01375,"longitude":18.59814}}(window,'GeoPostal','PL');

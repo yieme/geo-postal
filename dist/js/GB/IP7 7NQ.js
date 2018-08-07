@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 7NQ"]={"code":"IP7 7NQ","region":"England","city":"Hitcham","latitude":52.1239,"longitude":0.89397}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19969"]={"code":"19969","region":"Delaware","city":"Nassau","latitude":38.751944,"longitude":-75.188056}}(window,'GeoPostal','US');

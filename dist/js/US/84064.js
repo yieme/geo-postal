@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84064"]={"code":"84064","region":"Utah","city":"Randolph","latitude":41.66578,"longitude":-111.18214}}(window,'GeoPostal','US');

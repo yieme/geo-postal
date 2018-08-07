@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2409"]={"code":"2409","region":"Zuid-Holland","city":"Alphen aan den Rijn","latitude":52.12917,"longitude":4.65546}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16444"]={"code":"16444","region":"Pennsylvania","city":"Edinboro","latitude":41.87412,"longitude":-80.13192}}(window,'GeoPostal','US');

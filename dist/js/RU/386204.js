@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386204"]={"code":"386204","region":"Chechenskaya Respublika","city":"Ordzhonikidzevskaya","latitude":43.32111,"longitude":45.05222}}(window,'GeoPostal','RU');

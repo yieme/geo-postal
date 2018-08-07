@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36065"]={"code":"36065","region":"Veneto","city":"Mussolente","latitude":45.7792,"longitude":11.8062}}(window,'GeoPostal','IT');

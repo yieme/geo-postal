@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 2S0"]={"code":"R0C 2S0","region":"Manitoba","city":"Laurentia Beach","latitude":50.41922,"longitude":-97.95931}}(window,'GeoPostal','CA');

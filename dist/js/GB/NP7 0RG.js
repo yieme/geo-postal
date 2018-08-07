@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP7 0RG"]={"code":"NP7 0RG","region":"Wales","city":"Blackrock","latitude":51.8,"longitude":-3.15}}(window,'GeoPostal','GB');

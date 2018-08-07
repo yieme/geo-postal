@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6044"]={"code":"6044","region":"Western Australia","city":"Lancelin","latitude":-31.02251,"longitude":115.33651}}(window,'GeoPostal','AU');

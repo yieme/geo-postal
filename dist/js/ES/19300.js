@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19300"]={"code":"19300","region":"Castilla-La Mancha","city":"Molina de Aragon","latitude":40.84358,"longitude":-1.88762}}(window,'GeoPostal','ES');

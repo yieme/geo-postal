@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65360-000"]={"code":"65360-000","region":"Maranhao","city":"Moncao","latitude":-3.49167,"longitude":-45.25111}}(window,'GeoPostal','BR');

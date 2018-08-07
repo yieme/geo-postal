@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14516"]={"code":"14516","region":"NY","city":"North Rose","latitude":43.1964,"longitude":-76.9152}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36169"]={"code":"36169","region":"Hessen","city":"Rasdorf","latitude":50.71667,"longitude":9.9}}(window,'GeoPostal','DE');

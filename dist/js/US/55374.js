@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55374"]={"code":"55374","region":"Minnesota","city":"Rogers","latitude":45.173877,"longitude":-93.567994}}(window,'GeoPostal','US');

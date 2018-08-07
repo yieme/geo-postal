@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU6 7RX"]={"code":"HU6 7RX","region":"England","city":"Cottingham","latitude":52.48333,"longitude":-0.75}}(window,'GeoPostal','GB');

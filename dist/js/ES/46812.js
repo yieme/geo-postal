@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46812"]={"code":"46812","region":"Valenciana, Comunidad","city":"Aielo de Malferit","latitude":38.88333,"longitude":-0.58333}}(window,'GeoPostal','ES');

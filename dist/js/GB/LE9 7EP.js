@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE9 7EP"]={"code":"LE9 7EP","region":"England","city":"Earl Shilton","latitude":52.57682,"longitude":-1.31536}}(window,'GeoPostal','GB');

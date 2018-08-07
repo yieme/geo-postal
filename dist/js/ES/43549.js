@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43549"]={"code":"43549","region":"Catalunya","city":"Sant Carles de la Rapita","latitude":40.61667,"longitude":0.6}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80333"]={"code":"80333","region":"Bayern","city":"Maxvorstadt","latitude":48.14702,"longitude":11.56903}}(window,'GeoPostal','DE');

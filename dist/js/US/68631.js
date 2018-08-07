@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68631"]={"code":"68631","region":"NE","city":"Creston","latitude":41.7067,"longitude":-97.3625}}(window,'GeoPostal','US');

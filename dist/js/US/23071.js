@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23071"]={"code":"23071","region":"Virginia","city":"Hartfield","latitude":37.562091,"longitude":-76.479106}}(window,'GeoPostal','US');

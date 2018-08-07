@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623-0062"]={"code":"623-0062","region":"Kyoto","city":"Ayabe","latitude":35.3,"longitude":135.267}}(window,'GeoPostal','JP');

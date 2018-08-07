@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 3C0"]={"code":"S0A 3C0","region":"Saskatchewan","city":"Punnichy","latitude":51.38337,"longitude":-104.30109}}(window,'GeoPostal','CA');

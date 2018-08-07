@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686417"]={"code":"686417","region":"Magadanskaya oblast'","city":"Dukat","latitude":62.55,"longitude":155.55}}(window,'GeoPostal','RU');

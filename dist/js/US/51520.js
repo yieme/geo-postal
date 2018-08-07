@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51520"]={"code":"51520","region":"Iowa","city":"Arion","latitude":41.94995,"longitude":-95.46295}}(window,'GeoPostal','US');

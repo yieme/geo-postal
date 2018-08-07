@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79369"]={"code":"79369","region":"TX","city":"Spade","latitude":33.9256,"longitude":-102.1564}}(window,'GeoPostal','US');

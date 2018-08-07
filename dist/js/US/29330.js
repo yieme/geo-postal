@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29330"]={"code":"29330","region":"SC","city":"Cowpens","latitude":35.039,"longitude":-81.822}}(window,'GeoPostal','US');

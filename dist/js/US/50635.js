@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50635"]={"code":"50635","region":"IA","city":"Gladbrook","latitude":42.1774,"longitude":-92.7141}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74471"]={"code":"74471","region":"Oklahoma","city":"Welling","latitude":35.918623,"longitude":-94.854608}}(window,'GeoPostal','US');

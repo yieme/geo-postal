@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63468"]={"code":"63468","region":"MO","city":"Shelbina","latitude":39.6947,"longitude":-92.0371}}(window,'GeoPostal','US');

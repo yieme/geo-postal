@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50100"]={"code":"50100","region":"Villa Clara","city":"Santa Clara","latitude":22.4,"longitude":-79.96667}}(window,'GeoPostal','CU');

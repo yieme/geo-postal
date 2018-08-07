@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69926"]={"code":"69926","region":"Auvergne-Rhone-Alpes","city":"Oullins","latitude":45.71774,"longitude":4.80382}}(window,'GeoPostal','FR');

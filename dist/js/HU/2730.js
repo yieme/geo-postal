@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2730"]={"code":"2730","region":"Pest","city":"Albertirsa","latitude":47.24315,"longitude":19.61686}}(window,'GeoPostal','HU');

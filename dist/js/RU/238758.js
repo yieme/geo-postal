@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238758"]={"code":"238758","region":"Kaliningradskaya oblast'","city":"Sovetsk","latitude":55.08392,"longitude":21.87851}}(window,'GeoPostal','RU');

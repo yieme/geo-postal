@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28628"]={"code":"28628","region":"NC","city":"Glen Alpine","latitude":35.729,"longitude":-81.7793}}(window,'GeoPostal','US');

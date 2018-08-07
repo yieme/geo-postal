@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07474"]={"code":"07474","region":"New Jersey","city":"Wayne","latitude":40.94908,"longitude":-74.24584}}(window,'GeoPostal','US');

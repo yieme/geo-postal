@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31749"]={"code":"31749","region":"GA","city":"Enigma","latitude":31.3736,"longitude":-83.3552}}(window,'GeoPostal','US');

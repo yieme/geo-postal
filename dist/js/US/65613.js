@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65613"]={"code":"65613","region":"Missouri","city":"Bolivar","latitude":37.610775,"longitude":-93.413408}}(window,'GeoPostal','US');

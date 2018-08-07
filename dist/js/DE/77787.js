@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77787"]={"code":"77787","region":"Baden-Wurttemberg","city":"Nordrach","latitude":48.4,"longitude":8.08333}}(window,'GeoPostal','DE');

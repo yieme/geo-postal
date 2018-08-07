@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04962"]={"code":"04962","region":"ME","city":"North Vassalboro","latitude":44.4862,"longitude":-69.6225}}(window,'GeoPostal','US');

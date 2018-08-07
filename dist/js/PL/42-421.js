@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-421"]={"code":"42-421","region":"Slaskie","city":"Wlodowice","latitude":50.5556,"longitude":19.45155}}(window,'GeoPostal','PL');

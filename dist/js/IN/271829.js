@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["271829"]={"code":"271829","region":"Uttar Pradesh","city":"Bahraich","latitude":27.58333,"longitude":81.6}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04677"]={"code":"04677","region":"Maine","city":"Sorrento","latitude":44.492994,"longitude":-68.1808}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 6900"]={"code":"AZ 6900","region":"Naxcivan","city":"Ordubad","latitude":38.90595,"longitude":46.02341}}(window,'GeoPostal','AZ');

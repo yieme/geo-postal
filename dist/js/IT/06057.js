@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06057"]={"code":"06057","region":"Umbria","city":"Monte Castello di Vibio","latitude":42.84024,"longitude":12.35156}}(window,'GeoPostal','IT');

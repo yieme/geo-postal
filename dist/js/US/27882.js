@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27882"]={"code":"27882","region":"North Carolina","city":"Spring Hope","latitude":35.937032,"longitude":-78.116453}}(window,'GeoPostal','US');

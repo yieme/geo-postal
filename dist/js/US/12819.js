@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12819"]={"code":"12819","region":"NY","city":"Clemons","latitude":43.6435,"longitude":-73.4326}}(window,'GeoPostal','US');

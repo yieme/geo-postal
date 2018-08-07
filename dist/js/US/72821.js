@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72821"]={"code":"72821","region":"Arkansas","city":"Altus","latitude":35.442558,"longitude":-93.763539}}(window,'GeoPostal','US');

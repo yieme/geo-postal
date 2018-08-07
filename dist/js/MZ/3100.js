@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3100"]={"code":"3100","region":"Nampula","city":"Nampula","latitude":-15.11646,"longitude":39.2666}}(window,'GeoPostal','MZ');

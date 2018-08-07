@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3B 7T7"]={"code":"V3B 7T7","region":"British Columbia","city":"Port Coquitlam","latitude":49.267382,"longitude":-122.736439}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54314"]={"code":"54314","region":"Rheinland-Pfalz","city":"Oberzerf","latitude":49.58757,"longitude":6.67596}}(window,'GeoPostal','DE');

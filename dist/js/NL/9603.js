@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9603"]={"code":"9603","region":"Groningen","city":"Hoogezand","latitude":53.16167,"longitude":6.76111}}(window,'GeoPostal','NL');

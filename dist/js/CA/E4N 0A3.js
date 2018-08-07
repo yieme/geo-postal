@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4N 0A3"]={"code":"E4N 0A3","region":"New Brunswick","city":"Cap-Pele","latitude":46.21294,"longitude":-64.27844}}(window,'GeoPostal','CA');

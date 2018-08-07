@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98063"]={"code":"98063","region":"Sicilia","city":"Gioiosa Marea","latitude":38.17276,"longitude":14.89558}}(window,'GeoPostal','IT');

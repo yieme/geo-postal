@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61759"]={"code":"61759","region":"IL","city":"Minier","latitude":40.4359,"longitude":-89.3165}}(window,'GeoPostal','US');

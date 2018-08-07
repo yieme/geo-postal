@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55972"]={"code":"55972","region":"Minnesota","city":"Saint Charles","latitude":43.96941,"longitude":-92.06433}}(window,'GeoPostal','US');

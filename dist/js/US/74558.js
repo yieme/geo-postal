@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74558"]={"code":"74558","region":"OK","city":"Nashoba","latitude":34.5072,"longitude":-95.2075}}(window,'GeoPostal','US');

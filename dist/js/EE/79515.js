@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79515"]={"code":"79515","region":"Raplamaa","city":"Rapla","latitude":59.00722,"longitude":24.79278}}(window,'GeoPostal','EE');

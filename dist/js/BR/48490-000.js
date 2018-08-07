@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48490-000"]={"code":"48490-000","region":"Bahia","city":"Inhambupe","latitude":-11.78444,"longitude":-38.35306}}(window,'GeoPostal','BR');

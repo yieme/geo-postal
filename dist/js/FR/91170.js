@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91170"]={"code":"91170","region":"Ile-de-France","city":"Chatillon","latitude":48.8024,"longitude":2.29346}}(window,'GeoPostal','FR');

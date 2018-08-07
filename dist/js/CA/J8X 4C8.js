@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8X 4C8"]={"code":"J8X 4C8","region":"Quebec","city":"Hull","latitude":45.428313,"longitude":-75.710514}}(window,'GeoPostal','CA');

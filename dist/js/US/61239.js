@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61239"]={"code":"61239","region":"IL","city":"Carbon Cliff","latitude":41.4948,"longitude":-90.3907}}(window,'GeoPostal','US');

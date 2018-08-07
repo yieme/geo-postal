@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56610"]={"code":"56610","region":"Bretagne","city":"Arradon","latitude":47.6271,"longitude":-2.8215}}(window,'GeoPostal','FR');

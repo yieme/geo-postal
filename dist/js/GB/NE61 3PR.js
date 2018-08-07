@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 3PR"]={"code":"NE61 3PR","region":"England","city":"Mitford","latitude":55.16775,"longitude":-1.73185}}(window,'GeoPostal','GB');

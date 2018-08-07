@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 5HW"]={"code":"BD23 5HW","region":"England","city":"Threshfield","latitude":54.0687,"longitude":-2.01616}}(window,'GeoPostal','GB');

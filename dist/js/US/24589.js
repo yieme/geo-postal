@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24589"]={"code":"24589","region":"Virginia","city":"Scottsburg","latitude":36.76,"longitude":-78.79056}}(window,'GeoPostal','US');

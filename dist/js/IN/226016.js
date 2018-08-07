@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226016"]={"code":"226016","region":"Uttar Pradesh","city":"Hardoi","latitude":27.41667,"longitude":80.11667}}(window,'GeoPostal','IN');

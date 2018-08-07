@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23874"]={"code":"23874","region":"Virginia","city":"Newsoms","latitude":36.612011,"longitude":-77.095356}}(window,'GeoPostal','US');

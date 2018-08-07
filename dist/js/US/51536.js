@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51536"]={"code":"51536","region":"Iowa","city":"Hancock","latitude":41.390241,"longitude":-95.358349}}(window,'GeoPostal','US');

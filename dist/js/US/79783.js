@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79783"]={"code":"79783","region":"TX","city":"Tarzan","latitude":32.3575,"longitude":-101.9607}}(window,'GeoPostal','US');

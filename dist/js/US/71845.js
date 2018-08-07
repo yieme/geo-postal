@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71845"]={"code":"71845","region":"Arkansas","city":"Lewisville","latitude":33.35846,"longitude":-93.57768}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790000"]={"code":"790000","region":"Dong Nai","city":"Vung Tau","latitude":10.34599,"longitude":107.08426}}(window,'GeoPostal','VN');

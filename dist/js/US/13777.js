@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13777"]={"code":"13777","region":"NY","city":"Glen Aubrey","latitude":42.2573,"longitude":-75.9805}}(window,'GeoPostal','US');

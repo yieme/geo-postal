@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186668"]={"code":"186668","region":"Kareliya, Respublika","city":"Pyaozerskiy","latitude":65.7687,"longitude":31.08925}}(window,'GeoPostal','RU');

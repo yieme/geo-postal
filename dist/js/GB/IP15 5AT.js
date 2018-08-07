@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP15 5AT"]={"code":"IP15 5AT","region":"England","city":"Aldeburgh","latitude":52.15259,"longitude":1.60124}}(window,'GeoPostal','GB');

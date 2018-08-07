@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G82 9AJ"]={"code":"G82 9AJ","region":"Scotland","city":"Dumbarton","latitude":55.94433,"longitude":-4.57061}}(window,'GeoPostal','GB');

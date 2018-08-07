@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307180"]={"code":"307180","region":"Timis","city":"Gavojdia","latitude":45.61667,"longitude":22.01667}}(window,'GeoPostal','RO');

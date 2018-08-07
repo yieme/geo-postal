@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627305"]={"code":"627305","region":"Vrancea","city":"Slobozia Bradului","latitude":45.5,"longitude":27.05}}(window,'GeoPostal','RO');

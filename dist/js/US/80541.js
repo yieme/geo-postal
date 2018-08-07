@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80541"]={"code":"80541","region":"CO","city":"Masonville","latitude":40.4875,"longitude":-105.2108}}(window,'GeoPostal','US');

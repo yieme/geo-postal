@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80240"]={"code":"80240","region":"Southern Province","city":"Hikkaduwa","latitude":6.1407,"longitude":80.1012}}(window,'GeoPostal','LK');

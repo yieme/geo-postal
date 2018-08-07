@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164903"]={"code":"164903","region":"Arkhangel'skaya oblast'","city":"Novodvinsk","latitude":64.4165,"longitude":40.8122}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["190 06"]={"code":"190 06","region":"Anatoliki Makedonia kai Thraki","city":"Nea Irakleitsa","latitude":40.86444,"longitude":24.31583}}(window,'GeoPostal','GR');

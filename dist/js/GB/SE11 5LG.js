@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE11 5LG"]={"code":"SE11 5LG","region":"England","city":"Vauxhall","latitude":51.48582,"longitude":-0.12205}}(window,'GeoPostal','GB');

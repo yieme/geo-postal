@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71230"]={"code":"71230","region":"Louisiana","city":"Crowville","latitude":32.14322,"longitude":-91.702515}}(window,'GeoPostal','US');

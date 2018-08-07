@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35643"]={"code":"35643","region":"AL","city":"Hillsboro","latitude":34.6476,"longitude":-87.1804}}(window,'GeoPostal','US');

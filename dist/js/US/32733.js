@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32733"]={"code":"32733","region":"FL","city":"Goldenrod","latitude":28.6133,"longitude":-81.2581}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21104"]={"code":"21104","region":"Maryland","city":"Marriottsville","latitude":39.34368,"longitude":-76.90722}}(window,'GeoPostal','US');

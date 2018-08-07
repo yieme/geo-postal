@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08600"]={"code":"08600","region":"Grand-Est","city":"Givet","latitude":50.13796,"longitude":4.82545}}(window,'GeoPostal','FR');

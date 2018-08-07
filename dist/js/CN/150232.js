@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150232"]={"code":"150232","region":"Heilongjiang","city":"Shanhetun","latitude":44.7,"longitude":127.2}}(window,'GeoPostal','CN');

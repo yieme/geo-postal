@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72030"]={"code":"72030","region":"AR","city":"Cleveland","latitude":35.3955,"longitude":-92.702}}(window,'GeoPostal','US');

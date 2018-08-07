@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59918"]={"code":"59918","region":"Montana","city":"Fortine","latitude":48.790636,"longitude":-114.886202}}(window,'GeoPostal','US');

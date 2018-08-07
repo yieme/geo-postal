@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92340"]={"code":"92340","region":"Ile-de-France","city":"Bourg-la-Reine","latitude":48.77888,"longitude":2.31781}}(window,'GeoPostal','FR');

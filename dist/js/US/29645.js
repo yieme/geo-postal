@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29645"]={"code":"29645","region":"SC","city":"Gray Court","latitude":34.5953,"longitude":-82.1147}}(window,'GeoPostal','US');

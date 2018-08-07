@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6DD"]={"code":"PA28 6DD","region":"Scotland","city":"Campbeltown","latitude":55.42583,"longitude":-5.60764}}(window,'GeoPostal','GB');

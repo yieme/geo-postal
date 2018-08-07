@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52040"]={"code":"52040","region":"Vastra Gotalands lan","city":"Floby","latitude":58.13333,"longitude":13.33333}}(window,'GeoPostal','SE');

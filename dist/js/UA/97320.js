@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97320"]={"code":"97320","region":"Avtonomna Respublika Krym","city":"Berehove","latitude":45.0947,"longitude":35.43385}}(window,'GeoPostal','UA');

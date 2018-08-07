@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30097"]={"code":"30097","region":"Georgia","city":"Johns Creek","latitude":34.02855,"longitude":-84.14088}}(window,'GeoPostal','US');

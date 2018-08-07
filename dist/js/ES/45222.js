@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45222"]={"code":"45222","region":"Castilla-La Mancha","city":"Borox","latitude":40.06795,"longitude":-3.73804}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68072"]={"code":"68072","region":"NE","city":"Winslow","latitude":41.6102,"longitude":-96.5033}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184507"]={"code":"184507","region":"Murmanskaya oblast'","city":"Monchegorsk","latitude":67.93972,"longitude":32.87389}}(window,'GeoPostal','RU');

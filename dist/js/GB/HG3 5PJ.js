@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 5PJ"]={"code":"HG3 5PJ","region":"England","city":"Wath","latitude":54.1,"longitude":-1.76667}}(window,'GeoPostal','GB');

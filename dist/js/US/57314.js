@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57314"]={"code":"57314","region":"South Dakota","city":"Artesian","latitude":44.0075,"longitude":-97.92333}}(window,'GeoPostal','US');

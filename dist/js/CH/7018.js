@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7018"]={"code":"7018","region":"Graubunden","city":"Flims","latitude":46.83705,"longitude":9.28458}}(window,'GeoPostal','CH');

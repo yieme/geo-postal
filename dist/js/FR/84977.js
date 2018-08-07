@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84977"]={"code":"84977","region":"Provence-Alpes-Cote d'Azur","city":"Carpentras","latitude":44.05,"longitude":5.05}}(window,'GeoPostal','FR');

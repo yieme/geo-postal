@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95445"]={"code":"95445","region":"California","city":"Gualala","latitude":38.804413,"longitude":-123.559234}}(window,'GeoPostal','US');

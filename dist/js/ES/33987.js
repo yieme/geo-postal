@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33987"]={"code":"33987","region":"Asturias, Principado de","city":"Carrena","latitude":43.31737,"longitude":-4.84609}}(window,'GeoPostal','ES');

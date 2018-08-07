@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73610"]={"code":"73610","region":"Auvergne-Rhone-Alpes","city":"Lepin-le-Lac","latitude":45.5361,"longitude":5.7953}}(window,'GeoPostal','FR');

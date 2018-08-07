@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88436"]={"code":"88436","region":"NM","city":"Sedan","latitude":36.226,"longitude":-103.1449}}(window,'GeoPostal','US');

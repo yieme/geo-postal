@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-071"]={"code":"36-071","region":"Podkarpackie","city":"Trzciana","latitude":50.0719,"longitude":21.8385}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB33 8DW"]={"code":"AB33 8DW","region":"Scotland","city":"Alford","latitude":57.23257,"longitude":-2.70298}}(window,'GeoPostal','GB');

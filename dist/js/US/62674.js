@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62674"]={"code":"62674","region":"Illinois","city":"Palmyra","latitude":39.440203,"longitude":-89.925289}}(window,'GeoPostal','US');

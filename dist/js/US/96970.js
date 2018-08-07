@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96970"]={"code":"96970","region":"MH","city":"Ebeye","latitude":8.786,"longitude":167.7365}}(window,'GeoPostal','US');

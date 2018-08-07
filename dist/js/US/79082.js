@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79082"]={"code":"79082","region":"Texas","city":"Springlake","latitude":34.248709,"longitude":-102.315384}}(window,'GeoPostal','US');

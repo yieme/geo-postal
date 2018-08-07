@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73544"]={"code":"73544","region":"OK","city":"Gould","latitude":34.665,"longitude":-99.7843}}(window,'GeoPostal','US');

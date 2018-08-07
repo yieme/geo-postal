@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17210"]={"code":"17210","region":"PA","city":"Amberson","latitude":40.1704,"longitude":-77.6772}}(window,'GeoPostal','US');

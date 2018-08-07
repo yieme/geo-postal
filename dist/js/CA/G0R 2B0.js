@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 2B0"]={"code":"G0R 2B0","region":"Quebec","city":"L'Islet","latitude":47.10308,"longitude":-70.35022}}(window,'GeoPostal','CA');

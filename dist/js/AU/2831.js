@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2831"]={"code":"2831","region":"New South Wales","city":"Hermidale","latitude":-31.55,"longitude":146.71667}}(window,'GeoPostal','AU');

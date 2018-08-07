@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0PP"]={"code":"SA68 0PP","region":"Wales","city":"Lawrenny","latitude":51.72583,"longitude":-4.87194}}(window,'GeoPostal','GB');

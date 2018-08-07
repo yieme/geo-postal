@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49827"]={"code":"49827","region":"Michigan","city":"Engadine","latitude":46.14444,"longitude":-85.50639}}(window,'GeoPostal','US');

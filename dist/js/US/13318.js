@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13318"]={"code":"13318","region":"NY","city":"Cassville","latitude":42.9069,"longitude":-75.2607}}(window,'GeoPostal','US');

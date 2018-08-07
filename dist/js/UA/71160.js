@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71160"]={"code":"71160","region":"Zaporizka oblast","city":"Osypenko","latitude":46.9136,"longitude":36.8253}}(window,'GeoPostal','UA');

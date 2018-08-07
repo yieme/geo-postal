@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641018"]={"code":"641018","region":"Tamil Nadu","city":"Coimbatore","latitude":11,"longitude":76.96667}}(window,'GeoPostal','IN');

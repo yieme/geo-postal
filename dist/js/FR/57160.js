@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57160"]={"code":"57160","region":"Grand-Est","city":"Scy-Chazelles","latitude":49.1136,"longitude":6.1161}}(window,'GeoPostal','FR');

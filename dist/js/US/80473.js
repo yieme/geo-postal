@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80473"]={"code":"80473","region":"CO","city":"Rand","latitude":40.4667,"longitude":-106.1857}}(window,'GeoPostal','US');

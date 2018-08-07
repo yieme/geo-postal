@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4119"]={"code":"4119","region":"Tucuman","city":"Burruyacu","latitude":-26.49918,"longitude":-64.74206}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6543"]={"code":"6543","region":"Hainaut","city":"Lobbes","latitude":50.35258,"longitude":4.26716}}(window,'GeoPostal','BE');

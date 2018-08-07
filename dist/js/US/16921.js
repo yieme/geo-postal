@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16921"]={"code":"16921","region":"Pennsylvania","city":"Gaines","latitude":41.67138,"longitude":-77.55258}}(window,'GeoPostal','US');

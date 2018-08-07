@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67305"]={"code":"67305","region":"Odeska oblast","city":"Berezivka","latitude":47.20429,"longitude":30.9078}}(window,'GeoPostal','UA');

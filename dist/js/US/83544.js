@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83544"]={"code":"83544","region":"Idaho","city":"Orofino","latitude":46.47935,"longitude":-116.25514}}(window,'GeoPostal','US');

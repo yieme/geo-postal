@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63431"]={"code":"63431","region":"MO","city":"Anabel","latitude":39.7428,"longitude":-92.328}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-550"]={"code":"59-550","region":"Dolnoslaskie","city":"Wojcieszow","latitude":50.95194,"longitude":15.92185}}(window,'GeoPostal','PL');

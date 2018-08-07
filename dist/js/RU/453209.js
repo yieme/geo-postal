@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453209"]={"code":"453209","region":"Bashkortostan, Respublika","city":"Ishimbay","latitude":53.45446,"longitude":56.04149}}(window,'GeoPostal','RU');

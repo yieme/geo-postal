@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-550"]={"code":"64-550","region":"Wielkopolskie","city":"Duszniki","latitude":52.44691,"longitude":16.40602}}(window,'GeoPostal','PL');

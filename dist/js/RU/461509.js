@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461509"]={"code":"461509","region":"Orenburgskaya oblast'","city":"Sol'-Iletsk","latitude":51.1631,"longitude":54.99176}}(window,'GeoPostal','RU');

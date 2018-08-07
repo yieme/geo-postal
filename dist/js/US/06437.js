@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06437"]={"code":"06437","region":"Connecticut","city":"Guilford","latitude":41.31431,"longitude":-72.696988}}(window,'GeoPostal','US');

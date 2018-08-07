@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306702"]={"code":"306702","region":"Rajasthan","city":"Sadri","latitude":25.18333,"longitude":73.43333}}(window,'GeoPostal','IN');

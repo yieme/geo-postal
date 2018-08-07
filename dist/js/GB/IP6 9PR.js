@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9PR"]={"code":"IP6 9PR","region":"England","city":"Coddenham","latitude":52.14552,"longitude":1.11704}}(window,'GeoPostal','GB');

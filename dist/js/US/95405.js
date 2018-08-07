@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95405"]={"code":"95405","region":"California","city":"Santa Rosa","latitude":38.443976,"longitude":-122.657217}}(window,'GeoPostal','US');

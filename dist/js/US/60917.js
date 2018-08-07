@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60917"]={"code":"60917","region":"IL","city":"Buckingham","latitude":41.0433,"longitude":-88.1772}}(window,'GeoPostal','US');

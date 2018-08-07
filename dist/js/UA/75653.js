@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75653"]={"code":"75653","region":"Khersonska oblast","city":"Zheleznyj port","latitude":46.11667,"longitude":32.28333}}(window,'GeoPostal','UA');

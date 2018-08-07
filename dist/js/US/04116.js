@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04116"]={"code":"04116","region":"ME","city":"South Portland","latitude":43.6415,"longitude":-70.2409}}(window,'GeoPostal','US');

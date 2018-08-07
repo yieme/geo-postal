@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623030"]={"code":"623030","region":"Sverdlovskaya oblast'","city":"Shalya","latitude":57.2471,"longitude":58.7298}}(window,'GeoPostal','RU');

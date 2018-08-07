@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL7 1YW"]={"code":"SL7 1YW","region":"England","city":"Marlow","latitude":51.56933,"longitude":-0.77415}}(window,'GeoPostal','GB');

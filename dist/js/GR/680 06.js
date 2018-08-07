@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["680 06"]={"code":"680 06","region":"Anatoliki Makedonia kai Thraki","city":"Kiprinos","latitude":41.57556,"longitude":26.23056}}(window,'GeoPostal','GR');

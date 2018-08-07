@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2404"]={"code":"2404","region":"New South Wales","city":"Bingara","latitude":-29.86931,"longitude":150.57204}}(window,'GeoPostal','AU');

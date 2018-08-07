@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06426"]={"code":"06426","region":"CT","city":"Essex","latitude":41.3549,"longitude":-72.3965}}(window,'GeoPostal','US');

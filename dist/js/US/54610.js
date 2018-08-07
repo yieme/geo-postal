@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54610"]={"code":"54610","region":"Wisconsin","city":"Alma","latitude":44.31997,"longitude":-91.91488}}(window,'GeoPostal','US');

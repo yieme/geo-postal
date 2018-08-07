@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78107"]={"code":"78107","region":"Texas","city":"Berclair","latitude":28.530556,"longitude":-97.590833}}(window,'GeoPostal','US');

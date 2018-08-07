@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61190"]={"code":"61190","region":"Normandie","city":"Tourouvre","latitude":48.58951,"longitude":0.65252}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17949"]={"code":"17949","region":"PA","city":"Mahanoy Plane","latitude":40.794,"longitude":-76.2433}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47546"]={"code":"47546","region":"Indiana","city":"Jasper","latitude":38.39144,"longitude":-86.93111}}(window,'GeoPostal','US');

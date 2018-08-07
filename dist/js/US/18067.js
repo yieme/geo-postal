@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18067"]={"code":"18067","region":"Pennsylvania","city":"Northampton","latitude":40.700838,"longitude":-75.486197}}(window,'GeoPostal','US');

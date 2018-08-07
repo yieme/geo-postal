@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71072"]={"code":"71072","region":"LA","city":"Shongaloo","latitude":32.9713,"longitude":-93.2963}}(window,'GeoPostal','US');

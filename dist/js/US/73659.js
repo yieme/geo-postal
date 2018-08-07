@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73659"]={"code":"73659","region":"Oklahoma","city":"Putnam","latitude":35.844393,"longitude":-98.942139}}(window,'GeoPostal','US');

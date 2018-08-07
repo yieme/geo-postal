@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75471"]={"code":"75471","region":"Texas","city":"Pickton","latitude":33.026583,"longitude":-95.453648}}(window,'GeoPostal','US');

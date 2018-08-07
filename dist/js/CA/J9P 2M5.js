@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9P 2M5"]={"code":"J9P 2M5","region":"Quebec","city":"Val-d'Or","latitude":48.097661,"longitude":-77.81538}}(window,'GeoPostal','CA');

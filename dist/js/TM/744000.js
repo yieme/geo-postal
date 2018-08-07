@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744000"]={"code":"744000","region":"Ahal","city":"Ashgabat","latitude":37.95,"longitude":58.38333}}(window,'GeoPostal','TM');

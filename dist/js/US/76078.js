@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76078"]={"code":"76078","region":"TX","city":"Rhome","latitude":33.054,"longitude":-97.4817}}(window,'GeoPostal','US');

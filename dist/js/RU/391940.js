@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391940"]={"code":"391940","region":"Ryazanskaya oblast'","city":"Sapozhok","latitude":53.94194,"longitude":40.68056}}(window,'GeoPostal','RU');

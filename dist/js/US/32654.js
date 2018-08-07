@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32654"]={"code":"32654","region":"FL","city":"Island Grove","latitude":29.4536,"longitude":-82.1065}}(window,'GeoPostal','US');

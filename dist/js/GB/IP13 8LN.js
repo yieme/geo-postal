@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 8LN"]={"code":"IP13 8LN","region":"England","city":"Badingham","latitude":52.26346,"longitude":1.37801}}(window,'GeoPostal','GB');

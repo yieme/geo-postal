@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10579"]={"code":"10579","region":"New York","city":"Putnam Valley","latitude":41.3901,"longitude":-73.83684}}(window,'GeoPostal','US');

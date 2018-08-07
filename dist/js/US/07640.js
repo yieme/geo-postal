@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07640"]={"code":"07640","region":"New Jersey","city":"Harrington Park","latitude":40.991395,"longitude":-73.98051}}(window,'GeoPostal','US');

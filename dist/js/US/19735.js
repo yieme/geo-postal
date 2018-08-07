@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19735"]={"code":"19735","region":"Delaware","city":"Winterthur","latitude":39.80278,"longitude":-75.59167}}(window,'GeoPostal','US');

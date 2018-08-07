@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56728"]={"code":"56728","region":"Minnesota","city":"Hallock","latitude":48.77443,"longitude":-96.94645}}(window,'GeoPostal','US');

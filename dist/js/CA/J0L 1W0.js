@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 1W0"]={"code":"J0L 1W0","region":"Quebec","city":"Sainte-Clotilde-de-Chateauguay","latitude":45.1667,"longitude":-73.682778}}(window,'GeoPostal','CA');

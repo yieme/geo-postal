@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11402"]={"code":"11402","region":"Andalucia","city":"Jerez de la Frontera","latitude":36.68645,"longitude":-6.13606}}(window,'GeoPostal','ES');

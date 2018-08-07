@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48770"]={"code":"48770","region":"MI","city":"Whittemore","latitude":44.2325,"longitude":-83.8068}}(window,'GeoPostal','US');

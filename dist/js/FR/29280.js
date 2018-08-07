@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29280"]={"code":"29280","region":"Bretagne","city":"Locmaria-Plouzane","latitude":48.3758,"longitude":-4.6419}}(window,'GeoPostal','FR');

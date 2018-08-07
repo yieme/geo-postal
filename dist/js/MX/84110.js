@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84110"]={"code":"84110","region":"Sonora","city":"Heroica Nogales","latitude":31.33333,"longitude":-110.93333}}(window,'GeoPostal','MX');

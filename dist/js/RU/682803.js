@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682803"]={"code":"682803","region":"Khabarovskiy kray","city":"Sovetskaya Gavan'","latitude":48.9723,"longitude":140.28784}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01400"]={"code":"01400","region":"Auvergne-Rhone-Alpes","city":"Neuville-les-Dames","latitude":46.16228,"longitude":5.00399}}(window,'GeoPostal','FR');

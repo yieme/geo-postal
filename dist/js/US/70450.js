@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70450"]={"code":"70450","region":"Louisiana","city":"Mount Hermon","latitude":30.952007,"longitude":-90.27538}}(window,'GeoPostal','US');

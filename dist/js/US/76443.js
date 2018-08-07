@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76443"]={"code":"76443","region":"Texas","city":"Cross Plains","latitude":32.12639,"longitude":-99.16472}}(window,'GeoPostal','US');

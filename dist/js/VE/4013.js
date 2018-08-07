@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4013"]={"code":"4013","region":"Zulia","city":"Cabimas","latitude":10.38828,"longitude":-71.43992}}(window,'GeoPostal','VE');

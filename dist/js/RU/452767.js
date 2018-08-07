@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452767"]={"code":"452767","region":"Bashkortostan, Respublika","city":"Iglino","latitude":54.83244,"longitude":56.41264}}(window,'GeoPostal','RU');

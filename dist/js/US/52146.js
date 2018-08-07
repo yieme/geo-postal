@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52146"]={"code":"52146","region":"Iowa","city":"Harpers Ferry","latitude":43.204553,"longitude":-91.145881}}(window,'GeoPostal','US');

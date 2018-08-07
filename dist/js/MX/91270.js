@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91270"]={"code":"91270","region":"Veracruz de Ignacio de la Llave","city":"Perote","latitude":19.56667,"longitude":-97.23333}}(window,'GeoPostal','MX');

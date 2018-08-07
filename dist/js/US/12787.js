@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12787"]={"code":"12787","region":"NY","city":"White Sulphur Springs","latitude":41.8002,"longitude":-74.8286}}(window,'GeoPostal','US');

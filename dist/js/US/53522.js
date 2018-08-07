@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53522"]={"code":"53522","region":"Wisconsin","city":"Browntown","latitude":42.57722,"longitude":-89.79306}}(window,'GeoPostal','US');

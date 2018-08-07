@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170517"]={"code":"170517","region":"Tverskaya oblast'","city":"Vasil'yevskiy Mokh","latitude":57.01316,"longitude":35.91897}}(window,'GeoPostal','RU');

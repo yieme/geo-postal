@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89280079"]={"code":"89280079","region":"Santa Catarina","city":"Sao Bento do Sul","latitude":-26.25028,"longitude":-49.37861}}(window,'GeoPostal','BR');

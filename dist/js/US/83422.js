@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83422"]={"code":"83422","region":"Idaho","city":"Driggs","latitude":43.72325,"longitude":-111.11133}}(window,'GeoPostal','US');

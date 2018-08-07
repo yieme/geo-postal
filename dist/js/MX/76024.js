@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76024"]={"code":"76024","region":"Queretaro","city":"San Juan del Rio","latitude":20.38333,"longitude":-100}}(window,'GeoPostal','MX');

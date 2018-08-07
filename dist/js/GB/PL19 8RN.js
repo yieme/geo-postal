@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 8RN"]={"code":"PL19 8RN","region":"England","city":"Lamerton","latitude":50.5716,"longitude":-4.18967}}(window,'GeoPostal','GB');

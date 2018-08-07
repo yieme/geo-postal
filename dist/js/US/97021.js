@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97021"]={"code":"97021","region":"Oregon","city":"Dufur","latitude":45.45333,"longitude":-121.12722}}(window,'GeoPostal','US');

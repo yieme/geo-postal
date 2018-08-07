@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46045"]={"code":"46045","region":"IN","city":"Goldsmith","latitude":40.2898,"longitude":-86.1494}}(window,'GeoPostal','US');

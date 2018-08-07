@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472 01"]={"code":"472 01","region":"Liberecky kraj","city":"Doksy","latitude":50.56471,"longitude":14.65553}}(window,'GeoPostal','CZ');

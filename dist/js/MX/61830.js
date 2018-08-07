@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61830"]={"code":"61830","region":"Michoacan de Ocampo","city":"Ario de Rosales","latitude":19.2,"longitude":-101.71667}}(window,'GeoPostal','MX');

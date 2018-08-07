@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92312"]={"code":"92312","region":"CA","city":"Barstow","latitude":34.8986,"longitude":-117.0228}}(window,'GeoPostal','US');

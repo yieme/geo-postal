@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05661"]={"code":"05661","region":"Vermont","city":"Morrisville","latitude":44.56172,"longitude":-72.59845}}(window,'GeoPostal','US');

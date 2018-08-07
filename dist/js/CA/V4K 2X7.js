@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4K 2X7"]={"code":"V4K 2X7","region":"British Columbia","city":"Ladner","latitude":49.090716,"longitude":-123.082975}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63490"]={"code":"63490","region":"Auvergne-Rhone-Alpes","city":"Sauxillanges","latitude":45.55267,"longitude":3.3738}}(window,'GeoPostal','FR');

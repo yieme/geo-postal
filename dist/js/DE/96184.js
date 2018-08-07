@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96184"]={"code":"96184","region":"Bayern","city":"Rentweinsdorf","latitude":50.06342,"longitude":10.79922}}(window,'GeoPostal','DE');

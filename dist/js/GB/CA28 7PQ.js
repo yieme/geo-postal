@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA28 7PQ"]={"code":"CA28 7PQ","region":"England","city":"Whitehaven","latitude":54.54897,"longitude":-3.58412}}(window,'GeoPostal','GB');

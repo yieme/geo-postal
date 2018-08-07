@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26553"]={"code":"26553","region":"Niedersachsen","city":"Nessmeraltendeich","latitude":53.66967,"longitude":7.38295}}(window,'GeoPostal','DE');

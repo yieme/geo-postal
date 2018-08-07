@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 2RP"]={"code":"IP31 2RP","region":"England","city":"Great Barton","latitude":52.27257,"longitude":0.76679}}(window,'GeoPostal','GB');

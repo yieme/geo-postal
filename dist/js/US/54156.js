@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54156"]={"code":"54156","region":"WI","city":"Pembine","latitude":45.6074,"longitude":-87.9704}}(window,'GeoPostal','US');

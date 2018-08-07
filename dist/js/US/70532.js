@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70532"]={"code":"70532","region":"Louisiana","city":"Elton","latitude":30.48131,"longitude":-92.6957}}(window,'GeoPostal','US');

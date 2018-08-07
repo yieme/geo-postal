@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09020"]={"code":"09020","region":"Quetzaltenango","city":"Coatepeque","latitude":14.7,"longitude":-91.86667}}(window,'GeoPostal','GT');

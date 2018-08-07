@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82635"]={"code":"82635","region":"WY","city":"Edgerton","latitude":43.4074,"longitude":-106.2638}}(window,'GeoPostal','US');

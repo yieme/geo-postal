@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64183"]={"code":"64183","region":"MO","city":"First National Bank","latitude":39.09,"longitude":-94.57}}(window,'GeoPostal','US');

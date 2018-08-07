@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74733"]={"code":"74733","region":"OK","city":"Colbert","latitude":33.8575,"longitude":-96.4953}}(window,'GeoPostal','US');

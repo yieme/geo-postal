@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59401"]={"code":"59401","region":"Montana","city":"Great Falls","latitude":47.50024,"longitude":-111.30081}}(window,'GeoPostal','US');

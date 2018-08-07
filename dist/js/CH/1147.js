@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1147"]={"code":"1147","region":"Vaud","city":"L'Abbaye","latitude":46.64966,"longitude":6.31907}}(window,'GeoPostal','CH');

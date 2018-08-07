@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97734"]={"code":"97734","region":"Oregon","city":"Culver","latitude":44.508791,"longitude":-121.211424}}(window,'GeoPostal','US');

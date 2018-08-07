@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67430"]={"code":"67430","region":"Grand-Est","city":"Diemeringen","latitude":48.93968,"longitude":7.18556}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55968"]={"code":"55968","region":"Minnesota","city":"Reads Landing","latitude":44.398816,"longitude":-92.072052}}(window,'GeoPostal','US');

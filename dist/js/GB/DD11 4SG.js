@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 4SG"]={"code":"DD11 4SG","region":"Scotland","city":"Friockheim","latitude":56.63688,"longitude":-2.66806}}(window,'GeoPostal','GB');

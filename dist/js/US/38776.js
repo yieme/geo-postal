@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38776"]={"code":"38776","region":"MS","city":"Stoneville","latitude":33.4096,"longitude":-90.9104}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446602"]={"code":"446602","region":"Samarskaya oblast'","city":"Utevka","latitude":52.9035,"longitude":50.9495}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9451"]={"code":"9451","region":"Troms","city":"Hamnvik","latitude":68.77831,"longitude":17.17457}}(window,'GeoPostal','NO');

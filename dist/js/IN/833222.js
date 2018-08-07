@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["833222"]={"code":"833222","region":"Jharkhand","city":"Saraikela","latitude":22.71667,"longitude":85.95}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98840"]={"code":"98840","region":"Zacatecas","city":"Villa Gonzalez Ortega","latitude":22.5,"longitude":-101.91667}}(window,'GeoPostal','MX');

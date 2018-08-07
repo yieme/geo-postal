@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74457"]={"code":"74457","region":"OK","city":"Proctor","latitude":36.0308,"longitude":-94.7613}}(window,'GeoPostal','US');

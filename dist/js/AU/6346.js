@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6346"]={"code":"6346","region":"Western Australia","city":"Ravensthorpe","latitude":-33.58303,"longitude":120.04688}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-220"]={"code":"77-220","region":"Pomorskie","city":"Koczala","latitude":53.90449,"longitude":17.06529}}(window,'GeoPostal','PL');

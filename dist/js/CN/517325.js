@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517325"]={"code":"517325","region":"Guangdong","city":"Chetian","latitude":24.4336,"longitude":115.28634}}(window,'GeoPostal','CN');

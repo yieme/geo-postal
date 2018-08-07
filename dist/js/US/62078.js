@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62078"]={"code":"62078","region":"IL","city":"Patterson","latitude":39.4806,"longitude":-90.4829}}(window,'GeoPostal','US');

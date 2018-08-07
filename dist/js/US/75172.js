@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75172"]={"code":"75172","region":"TX","city":"Wilmer","latitude":32.5981,"longitude":-96.6838}}(window,'GeoPostal','US');

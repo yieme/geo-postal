@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["439 42"]={"code":"439 42","region":"Ustecky kraj","city":"Postoloprty","latitude":50.35979,"longitude":13.70291}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6782"]={"code":"6782","region":"Csongrad","city":"Morahalom","latitude":46.21806,"longitude":19.8851}}(window,'GeoPostal','HU');

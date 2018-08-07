@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["030027"]={"code":"030027","region":"Shanxi","city":"Chaicun","latitude":37.93278,"longitude":112.47639}}(window,'GeoPostal','CN');

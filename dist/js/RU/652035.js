@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652035"]={"code":"652035","region":"Kemerovskaya oblast'","city":"Yashkino","latitude":55.8736,"longitude":85.4265}}(window,'GeoPostal','RU');

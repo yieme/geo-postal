@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["100450"]={"code":"100450","region":"Imbabura","city":"Otavalo","latitude":0.23333,"longitude":-78.26667}}(window,'GeoPostal','EC');

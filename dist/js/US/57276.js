@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57276"]={"code":"57276","region":"SD","city":"White","latitude":44.4132,"longitude":-96.615}}(window,'GeoPostal','US');

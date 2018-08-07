@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3192"]={"code":"3192","region":"Niederosterreich","city":"Hohenberg","latitude":47.90679,"longitude":15.61998}}(window,'GeoPostal','AT');

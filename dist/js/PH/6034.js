@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6034"]={"code":"6034","region":"Cebu","city":"Alcantara","latitude":9.97556,"longitude":123.40611}}(window,'GeoPostal','PH');

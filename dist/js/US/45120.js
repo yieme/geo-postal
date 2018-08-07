@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45120"]={"code":"45120","region":"Ohio","city":"Felicity","latitude":38.83861,"longitude":-84.09722}}(window,'GeoPostal','US');

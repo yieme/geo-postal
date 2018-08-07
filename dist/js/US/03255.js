@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03255"]={"code":"03255","region":"New Hampshire","city":"Newbury","latitude":43.32146,"longitude":-72.03592}}(window,'GeoPostal','US');

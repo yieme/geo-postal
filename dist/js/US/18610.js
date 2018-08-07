@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18610"]={"code":"18610","region":"PA","city":"Blakeslee","latitude":41.0485,"longitude":-75.5343}}(window,'GeoPostal','US');

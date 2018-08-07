@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12083"]={"code":"12083","region":"NY","city":"Greenville","latitude":42.4113,"longitude":-74.0222}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL61 6SW"]={"code":"LL61 6SW","region":"Wales","city":"Newborough","latitude":53.16667,"longitude":-4.36667}}(window,'GeoPostal','GB');

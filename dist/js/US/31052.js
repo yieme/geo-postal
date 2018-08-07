@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31052"]={"code":"31052","region":"GA","city":"Lizella","latitude":32.7773,"longitude":-83.825}}(window,'GeoPostal','US');

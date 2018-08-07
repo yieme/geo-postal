@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45570-000"]={"code":"45570-000","region":"Bahia","city":"Ipiau","latitude":-14.13722,"longitude":-39.73389}}(window,'GeoPostal','BR');

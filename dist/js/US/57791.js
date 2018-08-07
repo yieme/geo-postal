@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57791"]={"code":"57791","region":"SD","city":"Wasta","latitude":44.225,"longitude":-102.4311}}(window,'GeoPostal','US');

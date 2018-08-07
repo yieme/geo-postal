@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73076"]={"code":"73076","region":"Puebla","city":"Xicotepec de Juarez","latitude":20.3,"longitude":-97.96667}}(window,'GeoPostal','MX');

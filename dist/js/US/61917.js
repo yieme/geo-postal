@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61917"]={"code":"61917","region":"IL","city":"Brocton","latitude":39.6923,"longitude":-87.9263}}(window,'GeoPostal','US');

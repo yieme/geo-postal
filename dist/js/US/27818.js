@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27818"]={"code":"27818","region":"NC","city":"Como","latitude":36.5015,"longitude":-77.0094}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75954"]={"code":"75954","region":"Texas","city":"Joaquin","latitude":31.96556,"longitude":-94.04833}}(window,'GeoPostal','US');

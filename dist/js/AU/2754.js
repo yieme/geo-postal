@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2754"]={"code":"2754","region":"New South Wales","city":"Tennyson","latitude":-33.53299,"longitude":150.73746}}(window,'GeoPostal','AU');

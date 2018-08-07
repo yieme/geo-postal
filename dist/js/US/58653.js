@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58653"]={"code":"58653","region":"ND","city":"Scranton","latitude":46.0916,"longitude":-103.1354}}(window,'GeoPostal','US');

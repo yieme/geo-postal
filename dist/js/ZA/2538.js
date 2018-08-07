@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2538"]={"code":"2538","region":"North-West","city":"Potchefstroom","latitude":-26.71667,"longitude":27.1}}(window,'GeoPostal','ZA');

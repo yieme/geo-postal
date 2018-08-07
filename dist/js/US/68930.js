@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68930"]={"code":"68930","region":"Nebraska","city":"Blue Hill","latitude":40.331503,"longitude":-98.450262}}(window,'GeoPostal','US');

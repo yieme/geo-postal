@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30278"]={"code":"30278","region":"Georgia","city":"Snellville","latitude":33.8505,"longitude":-84.0208}}(window,'GeoPostal','US');

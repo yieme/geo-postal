@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63766"]={"code":"63766","region":"MO","city":"Millersville","latitude":37.4401,"longitude":-89.795}}(window,'GeoPostal','US');

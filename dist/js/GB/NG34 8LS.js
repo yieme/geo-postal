@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 8LS"]={"code":"NG34 8LS","region":"England","city":"Leasingham","latitude":53.02573,"longitude":-0.42606}}(window,'GeoPostal','GB');

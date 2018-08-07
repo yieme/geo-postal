@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42055"]={"code":"42055","region":"Kentucky","city":"Kuttawa","latitude":37.058889,"longitude":-88.113611}}(window,'GeoPostal','US');

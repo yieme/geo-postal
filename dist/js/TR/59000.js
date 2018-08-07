@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59000"]={"code":"59000","region":"Tekirdag","city":"Corlu","latitude":41.15917,"longitude":27.8}}(window,'GeoPostal','TR');

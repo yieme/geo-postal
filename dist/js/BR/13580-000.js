@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13580-000"]={"code":"13580-000","region":"Sao Paulo","city":"Ribeirao Bonito","latitude":-22.06667,"longitude":-48.17611}}(window,'GeoPostal','BR');

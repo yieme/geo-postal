@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7441"]={"code":"7441","region":"Burgenland","city":"Pilgersdorf","latitude":47.43333,"longitude":16.35}}(window,'GeoPostal','AT');

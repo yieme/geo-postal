@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30180"]={"code":"30180","region":"Murcia, Region de","city":"Bullas","latitude":38.04667,"longitude":-1.67227}}(window,'GeoPostal','ES');

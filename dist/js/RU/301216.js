@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301216"]={"code":"301216","region":"Tul'skaya oblast'","city":"Lomintsevskiy","latitude":53.98548,"longitude":37.66471}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427116"]={"code":"427116","region":"Bistrita-Nasaud","city":"Lesu","latitude":47.31667,"longitude":24.75}}(window,'GeoPostal','RO');

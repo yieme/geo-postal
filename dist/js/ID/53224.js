@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53224"]={"code":"53224","region":"Jawa Tengah","city":"Karangbadar Kidul","latitude":-7.70556,"longitude":109.03083}}(window,'GeoPostal','ID');

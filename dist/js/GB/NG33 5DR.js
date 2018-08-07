@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 5DR"]={"code":"NG33 5DR","region":"England","city":"Great Ponton","latitude":52.86333,"longitude":-0.62777}}(window,'GeoPostal','GB');

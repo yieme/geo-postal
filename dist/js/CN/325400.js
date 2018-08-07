@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325400"]={"code":"325400","region":"Zhejiang","city":"Kunyang","latitude":27.66583,"longitude":120.56583}}(window,'GeoPostal','CN');

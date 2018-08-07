@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344308"]={"code":"344308","region":"Jiangxi","city":"Daifang","latitude":27.55146,"longitude":115.70604}}(window,'GeoPostal','CN');

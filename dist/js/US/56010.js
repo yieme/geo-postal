@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56010"]={"code":"56010","region":"MN","city":"Amboy","latitude":43.8903,"longitude":-94.1774}}(window,'GeoPostal','US');

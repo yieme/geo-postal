@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50268"]={"code":"50268","region":"IA","city":"What Cheer","latitude":41.3953,"longitude":-92.3548}}(window,'GeoPostal','US');

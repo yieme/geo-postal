@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62281"]={"code":"62281","region":"Illinois","city":"Saint Jacob","latitude":38.6988,"longitude":-89.7834}}(window,'GeoPostal','US');

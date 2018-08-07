@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133702"]={"code":"133702","region":"Jilin","city":"Dashitou","latitude":43.30667,"longitude":128.51139}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 1T0"]={"code":"P0P 1T0","region":"Ontario","city":"Monument Corner","latitude":45.71677,"longitude":-82.24983}}(window,'GeoPostal','CA');

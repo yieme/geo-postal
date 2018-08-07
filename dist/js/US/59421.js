@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59421"]={"code":"59421","region":"Montana","city":"Cascade","latitude":47.27194,"longitude":-111.70278}}(window,'GeoPostal','US');

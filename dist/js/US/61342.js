@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61342"]={"code":"61342","region":"IL","city":"Mendota","latitude":41.5443,"longitude":-89.1083}}(window,'GeoPostal','US');

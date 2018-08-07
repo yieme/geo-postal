@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05460"]={"code":"05460","region":"VT","city":"Highgate Springs","latitude":44.9748,"longitude":-73.1052}}(window,'GeoPostal','US');

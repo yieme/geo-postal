@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03238"]={"code":"03238","region":"Brandenburg","city":"Schacksdorf","latitude":51.61508,"longitude":13.76184}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71455"]={"code":"71455","region":"Kalimantan Selatan","city":"Amuntai","latitude":-2.41773,"longitude":115.24941}}(window,'GeoPostal','ID');

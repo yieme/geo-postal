@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-450"]={"code":"38-450","region":"Podkarpackie","city":"Dukla","latitude":49.55554,"longitude":21.68317}}(window,'GeoPostal','PL');

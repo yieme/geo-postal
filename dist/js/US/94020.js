@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94020"]={"code":"94020","region":"CA","city":"La Honda","latitude":37.2726,"longitude":-122.2495}}(window,'GeoPostal','US');

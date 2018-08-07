@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68062"]={"code":"68062","region":"Grand-Est","city":"Mulhouse","latitude":47.75,"longitude":7.33333}}(window,'GeoPostal','FR');

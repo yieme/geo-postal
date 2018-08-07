@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38869"]={"code":"38869","region":"MS","city":"Sherman","latitude":34.3575,"longitude":-88.8351}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN13 5LS"]={"code":"NN13 5LS","region":"England","city":"Croughton","latitude":51.99772,"longitude":-1.20472}}(window,'GeoPostal','GB');

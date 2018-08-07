@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54532"]={"code":"54532","region":"Wisconsin","city":"Heafford Junction","latitude":45.5472,"longitude":-89.71518}}(window,'GeoPostal','US');

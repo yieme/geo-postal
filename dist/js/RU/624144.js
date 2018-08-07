@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624144"]={"code":"624144","region":"Sverdlovskaya oblast'","city":"Kirovgrad","latitude":57.42972,"longitude":60.05972}}(window,'GeoPostal','RU');

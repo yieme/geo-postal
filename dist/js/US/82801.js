@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82801"]={"code":"82801","region":"Wyoming","city":"Sheridan","latitude":44.79719,"longitude":-106.95618}}(window,'GeoPostal','US');

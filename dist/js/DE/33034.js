@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33034"]={"code":"33034","region":"Nordrhein-Westfalen","city":"Istrup","latitude":51.70682,"longitude":9.12003}}(window,'GeoPostal','DE');

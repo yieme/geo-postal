@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15785-000"]={"code":"15785-000","region":"Mato Grosso do Sul","city":"Aparecida do Taboado","latitude":-20.08667,"longitude":-51.09361}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 6DF"]={"code":"TA3 6DF","region":"England","city":"Wrantage","latitude":50.99784,"longitude":-2.98931}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01210"]={"code":"01210","region":"Auvergne-Rhone-Alpes","city":"Ornex","latitude":46.2727,"longitude":6.09982}}(window,'GeoPostal','FR');

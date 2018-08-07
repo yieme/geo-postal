@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["528300"]={"code":"528300","region":"Guangdong","city":"Shunde","latitude":22.80087,"longitude":113.29208}}(window,'GeoPostal','CN');

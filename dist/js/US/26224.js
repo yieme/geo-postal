@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26224"]={"code":"26224","region":"WV","city":"Helvetia","latitude":38.7713,"longitude":-80.1382}}(window,'GeoPostal','US');

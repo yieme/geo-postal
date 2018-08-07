@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SM6 7AH"]={"code":"SM6 7AH","region":"England","city":"Wallington","latitude":50.85,"longitude":-1.16667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58208"]={"code":"58208","region":"ND","city":"Grand Forks","latitude":47.9253,"longitude":-97.0329}}(window,'GeoPostal','US');

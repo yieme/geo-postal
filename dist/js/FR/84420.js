@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84420"]={"code":"84420","region":"Provence-Alpes-Cote d'Azur","city":"Piolenc","latitude":44.17945,"longitude":4.76408}}(window,'GeoPostal','FR');

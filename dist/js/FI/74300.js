@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74300"]={"code":"74300","region":"Pohjois-Savo","city":"Sonkajarvi","latitude":63.66667,"longitude":27.51667}}(window,'GeoPostal','FI');

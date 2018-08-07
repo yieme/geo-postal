@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437325"]={"code":"437325","region":"Hubei","city":"Puqi","latitude":29.71667,"longitude":113.88333}}(window,'GeoPostal','CN');

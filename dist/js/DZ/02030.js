@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02030"]={"code":"02030","region":"Relizane","city":"'Ain Merane","latitude":36.16277,"longitude":0.97037}}(window,'GeoPostal','DZ');

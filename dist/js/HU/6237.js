@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6237"]={"code":"6237","region":"Bacs-Kiskun","city":"Kecel","latitude":46.52528,"longitude":19.25194}}(window,'GeoPostal','HU');

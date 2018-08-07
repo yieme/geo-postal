@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3816"]={"code":"MD-3816","region":"Gagauzia, Unitatea teritoriala autonoma","city":"Comrat","latitude":46.30028,"longitude":28.65722}}(window,'GeoPostal','MD');

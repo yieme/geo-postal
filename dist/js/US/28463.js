@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28463"]={"code":"28463","region":"North Carolina","city":"Tabor City","latitude":34.14878,"longitude":-78.87669}}(window,'GeoPostal','US');

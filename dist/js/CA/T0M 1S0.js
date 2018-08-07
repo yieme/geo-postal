@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1S0"]={"code":"T0M 1S0","region":"Alberta","city":"Pine Lake","latitude":52.11682,"longitude":-113.48525}}(window,'GeoPostal','CA');

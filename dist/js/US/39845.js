@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39845"]={"code":"39845","region":"Georgia","city":"Donalsonville","latitude":31.04046,"longitude":-84.87909}}(window,'GeoPostal','US');

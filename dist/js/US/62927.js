@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62927"]={"code":"62927","region":"IL","city":"Dowell","latitude":37.9398,"longitude":-89.2379}}(window,'GeoPostal','US');

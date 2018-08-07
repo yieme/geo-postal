@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140125"]={"code":"140125","region":"Punjab","city":"Nangal","latitude":31.36667,"longitude":76.38333}}(window,'GeoPostal','IN');

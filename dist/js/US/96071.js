@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96071"]={"code":"96071","region":"CA","city":"Old Station","latitude":40.6256,"longitude":-121.4585}}(window,'GeoPostal','US');

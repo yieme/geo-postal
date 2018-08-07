@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28071"]={"code":"28071","region":"NC","city":"Gold Hill","latitude":35.5498,"longitude":-80.3346}}(window,'GeoPostal','US');

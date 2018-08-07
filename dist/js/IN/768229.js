@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768229"]={"code":"768229","region":"Odisha","city":"Brajarajnagar","latitude":21.81667,"longitude":83.91667}}(window,'GeoPostal','IN');

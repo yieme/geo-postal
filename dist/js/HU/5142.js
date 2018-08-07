@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5142"]={"code":"5142","region":"Jasz-Nagykun-Szolnok","city":"Alattyan","latitude":47.42705,"longitude":20.0422}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48177"]={"code":"48177","region":"MI","city":"Samaria","latitude":41.8076,"longitude":-83.5793}}(window,'GeoPostal','US');

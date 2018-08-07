@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98358"]={"code":"98358","region":"WA","city":"Nordland","latitude":48.0432,"longitude":-122.6926}}(window,'GeoPostal','US');

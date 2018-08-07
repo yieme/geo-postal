@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37464-000"]={"code":"37464-000","region":"Minas Gerais","city":"Itanhandu","latitude":-22.29583,"longitude":-44.93472}}(window,'GeoPostal','BR');

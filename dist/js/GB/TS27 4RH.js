@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS27 4RH"]={"code":"TS27 4RH","region":"England","city":"Hutton Henry","latitude":54.71945,"longitude":-1.34034}}(window,'GeoPostal','GB');

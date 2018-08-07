@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["068-0405"]={"code":"068-0405","region":"Hokkaido","city":"Yubari","latitude":43.05,"longitude":141.967}}(window,'GeoPostal','JP');

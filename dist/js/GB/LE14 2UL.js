@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2UL"]={"code":"LE14 2UL","region":"England","city":"Little Dalby","latitude":52.71949,"longitude":-0.84851}}(window,'GeoPostal','GB');

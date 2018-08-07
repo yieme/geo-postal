@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93202"]={"code":"93202","region":"CA","city":"Armona","latitude":36.3095,"longitude":-119.7053}}(window,'GeoPostal','US');

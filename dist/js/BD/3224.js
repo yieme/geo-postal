@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3224"]={"code":"3224","region":"Sylhet","city":"Moulvi Bazar","latitude":24.48333,"longitude":91.78333}}(window,'GeoPostal','BD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88134"]={"code":"88134","region":"NM","city":"Taiban","latitude":34.3271,"longitude":-104.0159}}(window,'GeoPostal','US');

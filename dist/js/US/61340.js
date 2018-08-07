@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61340"]={"code":"61340","region":"IL","city":"Mark","latitude":41.266,"longitude":-89.2491}}(window,'GeoPostal','US');

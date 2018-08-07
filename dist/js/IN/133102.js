@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133102"]={"code":"133102","region":"Haryana","city":"Mustafabad","latitude":30.2,"longitude":77.15}}(window,'GeoPostal','IN');

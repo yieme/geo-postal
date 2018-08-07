@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL14 9JQ"]={"code":"DL14 9JQ","region":"England","city":"West Auckland","latitude":54.63088,"longitude":-1.72131}}(window,'GeoPostal','GB');

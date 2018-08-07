@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72336"]={"code":"72336","region":"Baden-Wurttemberg","city":"Balingen","latitude":48.27525,"longitude":8.85464}}(window,'GeoPostal','DE');

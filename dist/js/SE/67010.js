@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67010"]={"code":"67010","region":"Varmlands lan","city":"Toecksfors","latitude":59.50816,"longitude":11.84431}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40350"]={"code":"40350","region":"Khon Kaen","city":"Non Sila","latitude":15.97439,"longitude":102.66983}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80744"]={"code":"80744","region":"Colorado","city":"Ovid","latitude":40.933912,"longitude":-102.382026}}(window,'GeoPostal','US');

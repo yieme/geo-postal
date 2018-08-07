@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73843"]={"code":"73843","region":"Oklahoma","city":"Gage","latitude":36.31806,"longitude":-99.75722}}(window,'GeoPostal','US');

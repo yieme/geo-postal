@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71190"]={"code":"71190","region":"Bourgogne-Franche-Comte","city":"Mesvres","latitude":46.8631,"longitude":4.2425}}(window,'GeoPostal','FR');

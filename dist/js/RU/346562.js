@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346562"]={"code":"346562","region":"Rostovskaya oblast'","city":"Melikhovskaya","latitude":47.48106,"longitude":40.48669}}(window,'GeoPostal','RU');

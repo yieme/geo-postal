@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34309"]={"code":"34309","region":"Rivnenska oblast","city":"Volodymyrets'","latitude":51.4213,"longitude":26.14469}}(window,'GeoPostal','UA');

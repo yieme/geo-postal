@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92339"]={"code":"92339","region":"CA","city":"Forest Falls","latitude":34.0937,"longitude":-116.9362}}(window,'GeoPostal','US');

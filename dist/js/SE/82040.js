@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82040"]={"code":"82040","region":"Gavleborgs lan","city":"Jaervsoe","latitude":61.71667,"longitude":16.16667}}(window,'GeoPostal','SE');

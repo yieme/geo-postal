@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692200"]={"code":"692200","region":"Primorskiy kray","city":"Chkalovskoye","latitude":44.83917,"longitude":133.04361}}(window,'GeoPostal','RU');

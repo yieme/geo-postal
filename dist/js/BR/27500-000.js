@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27500-000"]={"code":"27500-000","region":"Rio de Janeiro","city":"Resende","latitude":-22.46889,"longitude":-44.44667}}(window,'GeoPostal','BR');

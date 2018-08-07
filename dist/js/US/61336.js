@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61336"]={"code":"61336","region":"Illinois","city":"Magnolia","latitude":41.122428,"longitude":-89.247103}}(window,'GeoPostal','US');

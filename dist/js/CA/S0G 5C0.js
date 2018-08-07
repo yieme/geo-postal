@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 5C0"]={"code":"S0G 5C0","region":"Saskatchewan","city":"Whitewood","latitude":50.33332,"longitude":-102.26769}}(window,'GeoPostal','CA');

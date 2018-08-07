@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4791"]={"code":"4791","region":"Aust-Agder","city":"Lillesand","latitude":58.24879,"longitude":8.3778}}(window,'GeoPostal','NO');

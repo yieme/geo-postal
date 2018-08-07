@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV17 0YD"]={"code":"IV17 0YD","region":"Scotland","city":"Stittenham","latitude":57.75,"longitude":-4.26667}}(window,'GeoPostal','GB');

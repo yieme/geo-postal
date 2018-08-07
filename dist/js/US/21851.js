@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21851"]={"code":"21851","region":"Maryland","city":"Pocomoke City","latitude":38.066882,"longitude":-75.54081}}(window,'GeoPostal','US');

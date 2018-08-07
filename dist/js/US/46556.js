@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46556"]={"code":"46556","region":"Indiana","city":"Notre Dame","latitude":41.6956,"longitude":-86.23865}}(window,'GeoPostal','US');

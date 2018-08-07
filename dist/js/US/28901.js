@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28901"]={"code":"28901","region":"North Carolina","city":"Andrews","latitude":35.20175,"longitude":-83.82407}}(window,'GeoPostal','US');

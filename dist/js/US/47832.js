@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47832"]={"code":"47832","region":"Indiana","city":"Bloomingdale","latitude":39.84162,"longitude":-87.25902}}(window,'GeoPostal','US');

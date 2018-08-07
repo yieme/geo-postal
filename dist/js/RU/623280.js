@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623280"]={"code":"623280","region":"Sverdlovskaya oblast'","city":"Revda","latitude":56.80097,"longitude":59.93028}}(window,'GeoPostal','RU');

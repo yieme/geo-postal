@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12495"]={"code":"12495","region":"NY","city":"Willow","latitude":42.0849,"longitude":-74.2407}}(window,'GeoPostal','US');

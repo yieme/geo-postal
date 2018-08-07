@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4842"]={"code":"4842","region":"Oberosterreich","city":"Zell am Pettenfirst","latitude":48.06667,"longitude":13.58333}}(window,'GeoPostal','AT');

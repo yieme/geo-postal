@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97425"]={"code":"97425","region":"Reunion","city":"Les Avirons","latitude":-21.24181,"longitude":55.33938}}(window,'GeoPostal','RE');

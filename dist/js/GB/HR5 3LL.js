@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR5 3LL"]={"code":"HR5 3LL","region":"England","city":"Lyonshall","latitude":52.19802,"longitude":-2.97467}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2501"]={"code":"2501","region":"La Union","city":"Bauang","latitude":16.53083,"longitude":120.33306}}(window,'GeoPostal','PH');

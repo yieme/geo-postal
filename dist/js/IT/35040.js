@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35040"]={"code":"35040","region":"Veneto","city":"Casale di Scodosia","latitude":45.18598,"longitude":11.4683}}(window,'GeoPostal','IT');

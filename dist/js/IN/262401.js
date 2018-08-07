@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262401"]={"code":"262401","region":"Uttar Pradesh","city":"Rampur","latitude":28.81667,"longitude":79.03333}}(window,'GeoPostal','IN');

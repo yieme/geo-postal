@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45771"]={"code":"45771","region":"OH","city":"Racine","latitude":38.9786,"longitude":-81.9258}}(window,'GeoPostal','US');

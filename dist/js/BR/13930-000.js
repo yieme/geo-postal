@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13930-000"]={"code":"13930-000","region":"Sao Paulo","city":"Serra Negra","latitude":-22.61222,"longitude":-46.70056}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47988"]={"code":"47988","region":"IN","city":"Wallace","latitude":39.9865,"longitude":-87.1477}}(window,'GeoPostal','US');

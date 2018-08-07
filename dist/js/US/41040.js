@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41040"]={"code":"41040","region":"KY","city":"Falmouth","latitude":38.6643,"longitude":-84.3451}}(window,'GeoPostal','US');

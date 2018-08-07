@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97062"]={"code":"97062","region":"Oregon","city":"Tualatin","latitude":45.38401,"longitude":-122.76399}}(window,'GeoPostal','US');

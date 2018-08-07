@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15030"]={"code":"15030","region":"Piemonte","city":"Conzano","latitude":45.02045,"longitude":8.45394}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G3A 0A1"]={"code":"G3A 0A1","region":"Quebec","city":"Saint-Augustin-de-Desmaures","latitude":46.74064,"longitude":-71.45131}}(window,'GeoPostal','CA');

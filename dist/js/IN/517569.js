@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517569"]={"code":"517569","region":"Andhra Pradesh","city":"Kamalapuram","latitude":14.58333,"longitude":78.65}}(window,'GeoPostal','IN');

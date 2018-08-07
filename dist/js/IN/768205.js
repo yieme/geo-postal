@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768205"]={"code":"768205","region":"Odisha","city":"Jharsuguda","latitude":21.85,"longitude":84.03333}}(window,'GeoPostal','IN');

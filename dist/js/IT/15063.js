@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15063"]={"code":"15063","region":"Piemonte","city":"Cassano Spinola","latitude":44.76557,"longitude":8.86228}}(window,'GeoPostal','IT');

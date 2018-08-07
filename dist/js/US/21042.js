@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21042"]={"code":"21042","region":"Maryland","city":"Ellicott City","latitude":39.273527,"longitude":-76.867357}}(window,'GeoPostal','US');

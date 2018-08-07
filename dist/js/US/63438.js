@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63438"]={"code":"63438","region":"MO","city":"Durham","latitude":39.9625,"longitude":-91.6704}}(window,'GeoPostal','US');

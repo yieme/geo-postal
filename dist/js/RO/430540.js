@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430540"]={"code":"430540","region":"Maramures","city":"Baia Mare","latitude":47.65729,"longitude":23.56808}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2686"]={"code":"2686","region":"Nograd","city":"Bercel","latitude":47.87057,"longitude":19.40715}}(window,'GeoPostal','HU');

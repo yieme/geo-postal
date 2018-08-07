@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV30 5SW"]={"code":"IV30 5SW","region":"Scotland","city":"Hopeman","latitude":57.70681,"longitude":-3.42911}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60440"]={"code":"60440","region":"Michoacan de Ocampo","city":"Periban de Ramos","latitude":19.51667,"longitude":-102.41667}}(window,'GeoPostal','MX');

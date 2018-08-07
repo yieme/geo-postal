@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34620"]={"code":"34620","region":"Occitanie","city":"Puisserguier","latitude":43.36767,"longitude":3.04047}}(window,'GeoPostal','FR');

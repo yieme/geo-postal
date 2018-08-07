@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13280-000"]={"code":"13280-000","region":"Sao Paulo","city":"Vinhedo","latitude":-23.02972,"longitude":-46.97528}}(window,'GeoPostal','BR');

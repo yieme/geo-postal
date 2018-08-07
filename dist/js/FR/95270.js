@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95270"]={"code":"95270","region":"Ile-de-France","city":"Seugy","latitude":49.12182,"longitude":2.39377}}(window,'GeoPostal','FR');

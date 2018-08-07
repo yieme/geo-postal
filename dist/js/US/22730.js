@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22730"]={"code":"22730","region":"Virginia","city":"Oakpark","latitude":38.376251,"longitude":-78.125104}}(window,'GeoPostal','US');

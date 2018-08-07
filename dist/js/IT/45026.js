@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45026"]={"code":"45026","region":"Veneto","city":"Lendinara","latitude":45.08428,"longitude":11.59971}}(window,'GeoPostal','IT');

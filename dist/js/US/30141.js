@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30141"]={"code":"30141","region":"Georgia","city":"Hiram","latitude":33.869144,"longitude":-84.768588}}(window,'GeoPostal','US');

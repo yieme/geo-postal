@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35680-000"]={"code":"35680-000","region":"Minas Gerais","city":"Itauna","latitude":-20.07528,"longitude":-44.57639}}(window,'GeoPostal','BR');

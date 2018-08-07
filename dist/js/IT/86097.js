@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86097"]={"code":"86097","region":"Molise","city":"Pescolanciano","latitude":41.67843,"longitude":14.33722}}(window,'GeoPostal','IT');

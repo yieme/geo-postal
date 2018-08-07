@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67190"]={"code":"67190","region":"Grand-Est","city":"Mutzig","latitude":48.53974,"longitude":7.45594}}(window,'GeoPostal','FR');

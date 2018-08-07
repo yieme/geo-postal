@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7241"]={"code":"7241","region":"Bitola","city":"Kukurecani","latitude":41.09556,"longitude":21.32556}}(window,'GeoPostal','MK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 4DH"]={"code":"PH1 4DH","region":"Scotland","city":"Tullybelton","latitude":56.48333,"longitude":-3.56667}}(window,'GeoPostal','GB');

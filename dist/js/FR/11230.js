@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11230"]={"code":"11230","region":"Occitanie","city":"Chalabre","latitude":42.98248,"longitude":2.00538}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88790-000"]={"code":"88790-000","region":"Santa Catarina","city":"Laguna","latitude":-28.4825,"longitude":-48.78083}}(window,'GeoPostal','BR');

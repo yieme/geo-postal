@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7250"]={"code":"7250","region":"Tasmania","city":"Launceston","latitude":-41.43876,"longitude":147.13467}}(window,'GeoPostal','AU');

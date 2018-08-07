@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76870"]={"code":"76870","region":"TX","city":"Priddy","latitude":31.641,"longitude":-98.5276}}(window,'GeoPostal','US');

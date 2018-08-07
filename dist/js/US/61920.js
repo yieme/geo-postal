@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61920"]={"code":"61920","region":"Illinois","city":"Charleston","latitude":39.49615,"longitude":-88.17615}}(window,'GeoPostal','US');

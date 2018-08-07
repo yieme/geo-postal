@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58033"]={"code":"58033","region":"ND","city":"Fort Ransom","latitude":46.4494,"longitude":-97.9091}}(window,'GeoPostal','US');

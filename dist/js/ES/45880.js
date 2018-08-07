@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45880"]={"code":"45880","region":"Castilla-La Mancha","city":"Corral de Almaguer","latitude":39.75987,"longitude":-3.16452}}(window,'GeoPostal','ES');

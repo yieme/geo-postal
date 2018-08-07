@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S9V 1E9"]={"code":"S9V 1E9","region":"Saskatchewan","city":"Lloydminster","latitude":53.28059,"longitude":-110.00367}}(window,'GeoPostal','CA');

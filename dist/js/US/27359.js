@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27359"]={"code":"27359","region":"North Carolina","city":"Swepsonville","latitude":36.03445,"longitude":-79.368231}}(window,'GeoPostal','US');

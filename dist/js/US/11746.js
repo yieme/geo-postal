@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11746"]={"code":"11746","region":"New York","city":"Huntington Station","latitude":40.818507,"longitude":-73.36855}}(window,'GeoPostal','US');

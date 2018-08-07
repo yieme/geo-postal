@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45181"]={"code":"45181","region":"Jawa Barat","city":"Astanajapura","latitude":-6.8017,"longitude":108.6311}}(window,'GeoPostal','ID');

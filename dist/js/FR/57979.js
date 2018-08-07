@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57979"]={"code":"57979","region":"Grand-Est","city":"Yutz","latitude":49.35571,"longitude":6.1926}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12935"]={"code":"12935","region":"NY","city":"Ellenburg Depot","latitude":44.9163,"longitude":-73.7876}}(window,'GeoPostal','US');

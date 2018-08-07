@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24750"]={"code":"24750","region":"Nouvelle-Aquitaine","city":"Atur","latitude":45.14086,"longitude":0.74702}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21451"]={"code":"21451","region":"Sumatera Utara","city":"Rantauprapat","latitude":2.1,"longitude":99.83333}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38460"]={"code":"38460","region":"Canarias","city":"Garachico","latitude":28.37365,"longitude":-16.76342}}(window,'GeoPostal','ES');

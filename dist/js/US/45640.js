@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45640"]={"code":"45640","region":"OH","city":"Jackson","latitude":39.0428,"longitude":-82.6472}}(window,'GeoPostal','US');

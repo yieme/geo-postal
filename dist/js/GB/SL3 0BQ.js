@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL3 0BQ"]={"code":"SL3 0BQ","region":"England","city":"Colnbrook","latitude":51.48384,"longitude":-0.52142}}(window,'GeoPostal','GB');

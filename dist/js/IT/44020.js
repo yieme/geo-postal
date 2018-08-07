@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44020"]={"code":"44020","region":"Emilia-Romagna","city":"Ostellato","latitude":44.74568,"longitude":11.94352}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53947"]={"code":"53947","region":"Wisconsin","city":"Marquette","latitude":43.747707,"longitude":-89.141209}}(window,'GeoPostal','US');

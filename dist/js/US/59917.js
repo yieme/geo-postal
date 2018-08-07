@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59917"]={"code":"59917","region":"Montana","city":"Eureka","latitude":48.876083,"longitude":-115.051288}}(window,'GeoPostal','US');

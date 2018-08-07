@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6762"]={"code":"6762","region":"Luxembourg","city":"Meix-devant-Virton","latitude":49.60581,"longitude":5.48045}}(window,'GeoPostal','BE');

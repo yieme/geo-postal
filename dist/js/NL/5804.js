@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5804"]={"code":"5804","region":"Limburg","city":"Venray","latitude":51.525,"longitude":5.975}}(window,'GeoPostal','NL');

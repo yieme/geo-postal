@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34212"]={"code":"34212","region":"Gumushane","city":"Evren","latitude":40.24432,"longitude":39.17533}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3715"]={"code":"3715","region":"Victoria","city":"Merton","latitude":-36.98333,"longitude":145.71667}}(window,'GeoPostal','AU');

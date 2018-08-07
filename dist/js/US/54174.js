@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54174"]={"code":"54174","region":"Wisconsin","city":"Suring","latitude":45,"longitude":-88.37444}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18651"]={"code":"18651","region":"Pennsylvania","city":"Plymouth","latitude":41.24562,"longitude":-75.96174}}(window,'GeoPostal','US');

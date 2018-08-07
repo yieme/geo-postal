@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62823"]={"code":"62823","region":"Illinois","city":"Cisne","latitude":38.51444,"longitude":-88.43583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 66"]={"code":"250 66","region":"Stredocesky kraj","city":"Zdiby","latitude":50.16799,"longitude":14.45118}}(window,'GeoPostal','CZ');

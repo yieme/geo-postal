@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 7NA"]={"code":"AB51 7NA","region":"Scotland","city":"Corsindae","latitude":57.15,"longitude":-2.5}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55161"]={"code":"55161","region":"MN","city":"Saint Paul","latitude":45.01,"longitude":-93.15}}(window,'GeoPostal','US');

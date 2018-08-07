@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473229"]={"code":"473229","region":"Madhya Pradesh","city":"Raghogarh","latitude":24.45,"longitude":77.2}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46760"]={"code":"46760","region":"IN","city":"Kimmell","latitude":41.3953,"longitude":-85.5483}}(window,'GeoPostal','US');

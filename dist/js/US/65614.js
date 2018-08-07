@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65614"]={"code":"65614","region":"MO","city":"Bradleyville","latitude":36.7659,"longitude":-92.9151}}(window,'GeoPostal','US');

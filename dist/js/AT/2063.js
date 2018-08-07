@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2063"]={"code":"2063","region":"Niederosterreich","city":"Grossharras","latitude":48.66389,"longitude":16.24556}}(window,'GeoPostal','AT');

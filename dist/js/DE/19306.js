@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19306"]={"code":"19306","region":"Mecklenburg-Vorpommern","city":"Kiez","latitude":53.38162,"longitude":11.57937}}(window,'GeoPostal','DE');

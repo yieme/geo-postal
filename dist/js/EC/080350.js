@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["080350"]={"code":"080350","region":"Esmeraldas","city":"Muisne","latitude":0.6,"longitude":-80.03333}}(window,'GeoPostal','EC');

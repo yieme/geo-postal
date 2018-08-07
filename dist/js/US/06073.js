@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06073"]={"code":"06073","region":"CT","city":"South Glastonbury","latitude":41.6571,"longitude":-72.5722}}(window,'GeoPostal','US');

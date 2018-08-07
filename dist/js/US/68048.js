@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68048"]={"code":"68048","region":"Nebraska","city":"Plattsmouth","latitude":41.008643,"longitude":-95.890462}}(window,'GeoPostal','US');

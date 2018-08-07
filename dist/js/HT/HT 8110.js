@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 8110"]={"code":"HT 8110","region":"Sud","city":"Les Cayes","latitude":18.2,"longitude":-73.75}}(window,'GeoPostal','HT');

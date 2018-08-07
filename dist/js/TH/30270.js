@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30270"]={"code":"30270","region":"Nakhon Ratchasima","city":"Chum Phuang","latitude":15.34861,"longitude":102.74161}}(window,'GeoPostal','TH');

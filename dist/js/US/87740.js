@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87740"]={"code":"87740","region":"New Mexico","city":"Raton","latitude":36.90336,"longitude":-104.43915}}(window,'GeoPostal','US');

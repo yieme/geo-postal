@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6536"]={"code":"6536","region":"Queensland","city":"North Dulacca","latitude":-26.45,"longitude":114.83333}}(window,'GeoPostal','AU');

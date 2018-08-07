@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612040"]={"code":"612040","region":"Kirovskaya oblast'","city":"Svecha","latitude":58.27849,"longitude":47.51636}}(window,'GeoPostal','RU');

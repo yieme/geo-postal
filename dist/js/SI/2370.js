@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2370"]={"code":"2370","region":"Dravograd","city":"Dravograd","latitude":46.58806,"longitude":15.01917}}(window,'GeoPostal','SI');

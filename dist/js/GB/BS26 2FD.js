@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS26 2FD"]={"code":"BS26 2FD","region":"England","city":"Cross","latitude":51.28857,"longitude":-2.83887}}(window,'GeoPostal','GB');

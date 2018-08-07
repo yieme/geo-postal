@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20877"]={"code":"20877","region":"Lombardia","city":"Roncello","latitude":45.60238,"longitude":9.45495}}(window,'GeoPostal','IT');

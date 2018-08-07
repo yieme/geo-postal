@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87942"]={"code":"87942","region":"New Mexico","city":"Williamsburg","latitude":33.0625,"longitude":-107.297778}}(window,'GeoPostal','US');

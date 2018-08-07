@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353555"]={"code":"353555","region":"Krasnodarskiy kray","city":"Taman'","latitude":45.2117,"longitude":36.71609}}(window,'GeoPostal','RU');

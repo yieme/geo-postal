@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-003"]={"code":"21-003","region":"Lubelskie","city":"Jakubowice Murowane","latitude":51.26992,"longitude":22.63415}}(window,'GeoPostal','PL');

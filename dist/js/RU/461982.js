@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461982"]={"code":"461982","region":"Orenburgskaya oblast'","city":"Saraktash","latitude":51.78662,"longitude":51.78662}}(window,'GeoPostal','RU');

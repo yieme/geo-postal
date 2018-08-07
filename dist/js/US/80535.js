@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80535"]={"code":"80535","region":"CO","city":"Laporte","latitude":40.6347,"longitude":-105.1488}}(window,'GeoPostal','US');

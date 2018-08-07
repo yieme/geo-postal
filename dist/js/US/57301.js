@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57301"]={"code":"57301","region":"South Dakota","city":"Mitchell","latitude":43.70943,"longitude":-98.0298}}(window,'GeoPostal','US');

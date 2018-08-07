@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242361"]={"code":"242361","region":"Anhui","city":"Hule","latitude":30.35335,"longitude":118.77279}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23843"]={"code":"23843","region":"Schleswig-Holstein","city":"Bad Oldesloe","latitude":53.81167,"longitude":10.37417}}(window,'GeoPostal','DE');

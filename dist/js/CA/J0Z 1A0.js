@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 1A0"]={"code":"J0Z 1A0","region":"Quebec","city":"Angliers","latitude":47.55015,"longitude":-79.23295}}(window,'GeoPostal','CA');

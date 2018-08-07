@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16834"]={"code":"16834","region":"PA","city":"Drifting","latitude":41.0242,"longitude":-78.1083}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX27 7PX"]={"code":"OX27 7PX","region":"England","city":"Fritwell","latitude":51.95974,"longitude":-1.23291}}(window,'GeoPostal','GB');

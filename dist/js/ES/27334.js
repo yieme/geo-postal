@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27334"]={"code":"27334","region":"Galicia","city":"Poboa do Brollon","latitude":42.55612,"longitude":-7.3914}}(window,'GeoPostal','ES');

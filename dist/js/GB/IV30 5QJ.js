@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV30 5QJ"]={"code":"IV30 5QJ","region":"Scotland","city":"Duffus","latitude":57.70105,"longitude":-3.39394}}(window,'GeoPostal','GB');

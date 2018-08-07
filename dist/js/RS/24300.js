@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24300"]={"code":"24300","region":"Severnobacki okrug","city":"Backa Topola","latitude":45.81516,"longitude":19.6318}}(window,'GeoPostal','RS');

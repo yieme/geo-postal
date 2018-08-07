@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58017"]={"code":"58017","region":"ND","city":"Cogswell","latitude":46.0659,"longitude":-97.8207}}(window,'GeoPostal','US');

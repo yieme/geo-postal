@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49848"]={"code":"49848","region":"MI","city":"Ingalls","latitude":45.3748,"longitude":-87.6206}}(window,'GeoPostal','US');

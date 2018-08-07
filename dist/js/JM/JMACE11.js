@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE11"]={"code":"JMACE11","region":"Saint Catherine","city":"Portmore","latitude":17.97024,"longitude":-76.86722}}(window,'GeoPostal','JM');

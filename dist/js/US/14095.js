@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14095"]={"code":"14095","region":"New York","city":"Lockport","latitude":43.17072,"longitude":-78.6885}}(window,'GeoPostal','US');

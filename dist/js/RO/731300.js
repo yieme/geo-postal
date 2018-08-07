@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731300"]={"code":"731300","region":"Vaslui","city":"Birlad","latitude":46.23333,"longitude":27.66667}}(window,'GeoPostal','RO');

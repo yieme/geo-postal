@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26662"]={"code":"26662","region":"West Virginia","city":"Canvas","latitude":38.260448,"longitude":-80.734462}}(window,'GeoPostal','US');

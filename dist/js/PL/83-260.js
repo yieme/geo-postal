@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-260"]={"code":"83-260","region":"Pomorskie","city":"Kaliska","latitude":53.90535,"longitude":18.21885}}(window,'GeoPostal','PL');

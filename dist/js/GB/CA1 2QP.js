@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA1 2QP"]={"code":"CA1 2QP","region":"England","city":"Harraby","latitude":54.87888,"longitude":-2.90938}}(window,'GeoPostal','GB');

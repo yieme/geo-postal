@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32365"]={"code":"32365","region":"Khmelnytska oblast","city":"Zhvanets","latitude":48.54968,"longitude":26.48744}}(window,'GeoPostal','UA');

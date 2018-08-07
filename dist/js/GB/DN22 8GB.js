@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8GB"]={"code":"DN22 8GB","region":"England","city":"Ranskill","latitude":53.38281,"longitude":-1.01402}}(window,'GeoPostal','GB');

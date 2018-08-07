@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39054"]={"code":"39054","region":"Mississippi","city":"Cary","latitude":32.804695,"longitude":-90.9259}}(window,'GeoPostal','US');

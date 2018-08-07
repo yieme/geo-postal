@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69027"]={"code":"69027","region":"NE","city":"Enders","latitude":40.4655,"longitude":-101.5222}}(window,'GeoPostal','US');

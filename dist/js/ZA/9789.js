@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9789"]={"code":"9789","region":"Free State","city":"Botshabelo","latitude":-29.27016,"longitude":26.7052}}(window,'GeoPostal','ZA');

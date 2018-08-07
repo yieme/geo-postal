@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35144"]={"code":"35144","region":"AL","city":"Siluria","latitude":33.2293,"longitude":-86.825}}(window,'GeoPostal','US');

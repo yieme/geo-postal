@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74006"]={"code":"74006","region":"Oklahoma","city":"Bartlesville","latitude":36.736576,"longitude":-95.931792}}(window,'GeoPostal','US');

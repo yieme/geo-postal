@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33260"]={"code":"33260","region":"Nouvelle-Aquitaine","city":"La Teste-de-Buch","latitude":44.62875,"longitude":-1.14059}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14860"]={"code":"14860","region":"NY","city":"Lodi","latitude":42.5966,"longitude":-76.8339}}(window,'GeoPostal','US');

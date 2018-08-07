@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG6 4NA"]={"code":"DG6 4NA","region":"Scotland","city":"Tongland","latitude":54.86367,"longitude":-4.03152}}(window,'GeoPostal','GB');

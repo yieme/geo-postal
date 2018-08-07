@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352680"]={"code":"352680","region":"Krasnodarskiy kray","city":"Khadyzhensk","latitude":44.4258,"longitude":39.5362}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1370"]={"code":"1370","region":"Logatec","city":"Logatec","latitude":45.91444,"longitude":14.22583}}(window,'GeoPostal','SI');

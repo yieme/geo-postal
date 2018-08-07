@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21413"]={"code":"21413","region":"Juznobacki okrug","city":"Glozan","latitude":45.27722,"longitude":19.56861}}(window,'GeoPostal','RS');

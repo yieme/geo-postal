@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77353"]={"code":"77353","region":"Ile-de-France","city":"Meaux","latitude":48.95,"longitude":2.86667}}(window,'GeoPostal','FR');

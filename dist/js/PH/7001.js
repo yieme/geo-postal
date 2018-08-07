@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7001"]={"code":"7001","region":"Zamboanga del Sur","city":"Ipil","latitude":7.78444,"longitude":122.58611}}(window,'GeoPostal','PH');

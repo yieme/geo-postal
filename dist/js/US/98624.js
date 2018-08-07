@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98624"]={"code":"98624","region":"Washington","city":"Ilwaco","latitude":46.3125,"longitude":-124.02972}}(window,'GeoPostal','US');

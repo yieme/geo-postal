@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2521"]={"code":"2521","region":"Komarom-Esztergom","city":"Csolnok","latitude":47.69116,"longitude":18.71611}}(window,'GeoPostal','HU');

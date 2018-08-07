@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38332"]={"code":"38332","region":"TN","city":"Enville","latitude":35.4393,"longitude":-88.4206}}(window,'GeoPostal','US');

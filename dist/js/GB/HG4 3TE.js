@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 3TE"]={"code":"HG4 3TE","region":"England","city":"Grewelthorpe","latitude":54.18062,"longitude":-1.64757}}(window,'GeoPostal','GB');

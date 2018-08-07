@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89038"]={"code":"89038","region":"Calabria","city":"Palizzi","latitude":37.96667,"longitude":15.9867}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1509"]={"code":"1509","region":"Noord-Holland","city":"Zaandam","latitude":52.43854,"longitude":4.82643}}(window,'GeoPostal','NL');

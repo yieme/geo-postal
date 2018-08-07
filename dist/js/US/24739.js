@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24739"]={"code":"24739","region":"WV","city":"Princeton","latitude":37.3662,"longitude":-81.1026}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95589"]={"code":"95589","region":"California","city":"Whitethorn","latitude":40.08573,"longitude":-124.05158}}(window,'GeoPostal','US');

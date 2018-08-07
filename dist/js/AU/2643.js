@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2643"]={"code":"2643","region":"New South Wales","city":"Moorwatha","latitude":-35.98333,"longitude":146.7}}(window,'GeoPostal','AU');

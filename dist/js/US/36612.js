@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36612"]={"code":"36612","region":"AL","city":"Mobile","latitude":30.7518,"longitude":-88.1131}}(window,'GeoPostal','US');

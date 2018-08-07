@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73591"]={"code":"73591","region":"Vastmanlands lan","city":"Surahammar","latitude":59.70725,"longitude":16.22188}}(window,'GeoPostal','SE');

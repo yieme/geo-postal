@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687000"]={"code":"687000","region":"Zabaykal'skiy kray","city":"Aginskoye","latitude":51.1,"longitude":114.53}}(window,'GeoPostal','RU');

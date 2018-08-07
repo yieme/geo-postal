@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25434"]={"code":"25434","region":"West Virginia","city":"Paw Paw","latitude":39.470264,"longitude":-78.444834}}(window,'GeoPostal','US');

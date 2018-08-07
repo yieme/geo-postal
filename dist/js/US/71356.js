@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71356"]={"code":"71356","region":"LA","city":"Morrow","latitude":30.8299,"longitude":-92.0426}}(window,'GeoPostal','US');

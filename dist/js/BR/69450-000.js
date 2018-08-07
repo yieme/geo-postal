@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69450-000"]={"code":"69450-000","region":"Amazonas","city":"Coari","latitude":-4.085,"longitude":-63.14139}}(window,'GeoPostal','BR');

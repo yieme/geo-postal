@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42457"]={"code":"42457","region":"KY","city":"Smith Mills","latitude":37.8323,"longitude":-87.7889}}(window,'GeoPostal','US');

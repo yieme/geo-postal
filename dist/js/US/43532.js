@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43532"]={"code":"43532","region":"OH","city":"Liberty Center","latitude":41.4514,"longitude":-83.9859}}(window,'GeoPostal','US');

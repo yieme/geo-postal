@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["817220"]={"code":"817220","region":"Braila","city":"Insuratei","latitude":44.91667,"longitude":27.6}}(window,'GeoPostal','RO');

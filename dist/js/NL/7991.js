@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7991"]={"code":"7991","region":"Drenthe","city":"Dwingeloo","latitude":52.83417,"longitude":6.36944}}(window,'GeoPostal','NL');

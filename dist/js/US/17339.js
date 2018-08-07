@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17339"]={"code":"17339","region":"Pennsylvania","city":"Lewisberry","latitude":40.13528,"longitude":-76.86056}}(window,'GeoPostal','US');

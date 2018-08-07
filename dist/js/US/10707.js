@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10707"]={"code":"10707","region":"New York","city":"Tuckahoe","latitude":40.955489,"longitude":-73.813597}}(window,'GeoPostal','US');

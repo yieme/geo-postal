@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72282"]={"code":"72282","region":"Federacija Bosne i Hercegovine","city":"Kacuni","latitude":44.065,"longitude":17.93861}}(window,'GeoPostal','BA');

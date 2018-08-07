@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8090"]={"code":"8090","region":"Zurich","city":"Zurich","latitude":47.36667,"longitude":8.55}}(window,'GeoPostal','CH');

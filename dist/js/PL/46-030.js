@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-030"]={"code":"46-030","region":"Opolskie","city":"Murow","latitude":50.86307,"longitude":17.94557}}(window,'GeoPostal','PL');

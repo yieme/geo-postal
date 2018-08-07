@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68063"]={"code":"68063","region":"NE","city":"Uehling","latitude":41.7369,"longitude":-96.5037}}(window,'GeoPostal','US');

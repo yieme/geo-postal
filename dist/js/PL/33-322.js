@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-322"]={"code":"33-322","region":"Malopolskie","city":"Korzenna","latitude":49.68635,"longitude":20.84355}}(window,'GeoPostal','PL');

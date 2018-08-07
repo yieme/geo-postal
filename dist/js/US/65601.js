@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65601"]={"code":"65601","region":"MO","city":"Aldrich","latitude":37.5057,"longitude":-93.5576}}(window,'GeoPostal','US');

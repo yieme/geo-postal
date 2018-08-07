@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70421"]={"code":"70421","region":"LA","city":"Akers","latitude":30.2902,"longitude":-90.4018}}(window,'GeoPostal','US');

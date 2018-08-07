@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05357"]={"code":"05357","region":"Vermont","city":"West Dummerston","latitude":42.926389,"longitude":-72.615833}}(window,'GeoPostal','US');

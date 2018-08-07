@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561227"]={"code":"561227","region":"Andhra Pradesh","city":"Penukonda","latitude":14.08333,"longitude":77.58333}}(window,'GeoPostal','IN');

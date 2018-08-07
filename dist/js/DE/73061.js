@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73061"]={"code":"73061","region":"Sachsen","city":"Ebersbach","latitude":50.36682,"longitude":12.17886}}(window,'GeoPostal','DE');

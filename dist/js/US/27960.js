@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27960"]={"code":"27960","region":"North Carolina","city":"Ocracoke","latitude":35.11278,"longitude":-75.97583}}(window,'GeoPostal','US');

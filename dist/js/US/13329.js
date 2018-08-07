@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13329"]={"code":"13329","region":"New York","city":"Dolgeville","latitude":43.1009,"longitude":-74.77293}}(window,'GeoPostal','US');

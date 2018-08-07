@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1R0"]={"code":"G0W 1R0","region":"Quebec","city":"Girardville","latitude":49.00003,"longitude":-72.54893}}(window,'GeoPostal','CA');

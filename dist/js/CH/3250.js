@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3250"]={"code":"3250","region":"Bern","city":"Lyss","latitude":47.0741,"longitude":7.30655}}(window,'GeoPostal','CH');

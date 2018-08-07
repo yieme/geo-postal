@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1678"]={"code":"1678","region":"Ciudad Autonoma de Buenos Aires","city":"Villa Santa Rita","latitude":-34.61082,"longitude":-58.481}}(window,'GeoPostal','AR');

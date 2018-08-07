@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28857"]={"code":"28857","region":"Niedersachsen","city":"Syke","latitude":52.91345,"longitude":8.82209}}(window,'GeoPostal','DE');

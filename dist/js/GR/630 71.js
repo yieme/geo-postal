@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 71"]={"code":"630 71","region":"Kentriki Makedonia","city":"Ormilia","latitude":40.3,"longitude":23.55}}(window,'GeoPostal','GR');

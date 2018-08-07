@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09095"]={"code":"09095","region":"Sardegna","city":"Mogoro","latitude":39.68556,"longitude":8.77694}}(window,'GeoPostal','IT');

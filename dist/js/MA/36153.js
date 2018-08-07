@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36153"]={"code":"36153","region":"Fes-Boulemane","city":"Moulay Yacoub","latitude":34.08793,"longitude":-5.18171}}(window,'GeoPostal','MA');

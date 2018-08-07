@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22370"]={"code":"22370","region":"Bretagne","city":"Pleneuf-Val-Andre","latitude":48.593,"longitude":-2.54675}}(window,'GeoPostal','FR');

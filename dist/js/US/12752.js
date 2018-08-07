@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12752"]={"code":"12752","region":"New York","city":"Lake Huntington","latitude":41.685652,"longitude":-74.992664}}(window,'GeoPostal','US');

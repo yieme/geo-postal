@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV12 5JF"]={"code":"IV12 5JF","region":"Scotland","city":"Ardclach","latitude":57.48333,"longitude":-3.75}}(window,'GeoPostal','GB');

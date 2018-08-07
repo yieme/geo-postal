@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61422"]={"code":"61422","region":"IL","city":"Bushnell","latitude":40.5539,"longitude":-90.506}}(window,'GeoPostal','US');

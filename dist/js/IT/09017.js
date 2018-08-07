@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09017"]={"code":"09017","region":"Sardegna","city":"Sant'Antioco","latitude":39.06639,"longitude":8.45222}}(window,'GeoPostal','IT');

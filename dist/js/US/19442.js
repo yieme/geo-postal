@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19442"]={"code":"19442","region":"Pennsylvania","city":"Kimberton","latitude":40.134821,"longitude":-75.583404}}(window,'GeoPostal','US');

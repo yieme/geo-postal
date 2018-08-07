@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["847 03"]={"code":"847 03","region":"Notio Aigaio","city":"Emporeio","latitude":36.35813,"longitude":25.44393}}(window,'GeoPostal','GR');

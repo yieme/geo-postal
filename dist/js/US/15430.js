@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15430"]={"code":"15430","region":"PA","city":"Dickerson Run","latitude":40.0418,"longitude":-79.66}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30470"]={"code":"30470","region":"Occitanie","city":"Aimargues","latitude":43.68448,"longitude":4.20999}}(window,'GeoPostal','FR');

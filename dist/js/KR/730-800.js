@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730-800"]={"code":"730-800","region":"Gyeongsangbuk-do","city":"Jenzan","latitude":36.24083,"longitude":128.2975}}(window,'GeoPostal','KR');

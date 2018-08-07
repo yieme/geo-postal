@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34000"]={"code":"34000","region":"Perak","city":"Taiping","latitude":4.85,"longitude":100.73333}}(window,'GeoPostal','MY');

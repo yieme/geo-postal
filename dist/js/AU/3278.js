@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3278"]={"code":"3278","region":"Victoria","city":"Purnim","latitude":-38.28333,"longitude":142.63333}}(window,'GeoPostal','AU');

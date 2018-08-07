@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53924"]={"code":"53924","region":"Wisconsin","city":"Cazenovia","latitude":43.503016,"longitude":-90.271801}}(window,'GeoPostal','US');

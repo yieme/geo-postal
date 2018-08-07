@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8701"]={"code":"8701","region":"Northern Cape","city":"Ritchie","latitude":-29.03801,"longitude":24.60278}}(window,'GeoPostal','ZA');

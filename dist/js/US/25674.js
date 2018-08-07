@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25674"]={"code":"25674","region":"West Virginia","city":"Kermit","latitude":37.84083,"longitude":-82.40944}}(window,'GeoPostal','US');

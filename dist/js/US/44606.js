@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44606"]={"code":"44606","region":"OH","city":"Apple Creek","latitude":40.7551,"longitude":-81.8093}}(window,'GeoPostal','US');

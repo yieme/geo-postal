@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85055"]={"code":"85055","region":"Bayern","city":"Ingolstadt","latitude":48.76508,"longitude":11.42372}}(window,'GeoPostal','DE');

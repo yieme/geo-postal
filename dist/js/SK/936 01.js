@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["936 01"]={"code":"936 01","region":"Nitriansky kraj","city":"Sahy","latitude":48.07408,"longitude":18.94946}}(window,'GeoPostal','SK');

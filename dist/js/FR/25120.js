@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25120"]={"code":"25120","region":"Bourgogne-Franche-Comte","city":"Maiche","latitude":47.2516,"longitude":6.80308}}(window,'GeoPostal','FR');

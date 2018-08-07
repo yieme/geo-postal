@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53690"]={"code":"53690","region":"Gumushane","city":"Kose","latitude":40.21,"longitude":39.65111}}(window,'GeoPostal','TR');

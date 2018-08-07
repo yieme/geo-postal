@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24800-000"]={"code":"24800-000","region":"Rio de Janeiro","city":"Itaborai","latitude":-22.74444,"longitude":-42.85944}}(window,'GeoPostal','BR');

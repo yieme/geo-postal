@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50661"]={"code":"50661","region":"IA","city":"North Washington","latitude":43.1174,"longitude":-92.4144}}(window,'GeoPostal','US');

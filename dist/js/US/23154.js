@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23154"]={"code":"23154","region":"VA","city":"Schley","latitude":37.3896,"longitude":-76.4549}}(window,'GeoPostal','US');

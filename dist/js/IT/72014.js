@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72014"]={"code":"72014","region":"Puglia","city":"Cisternino","latitude":40.74453,"longitude":17.4243}}(window,'GeoPostal','IT');

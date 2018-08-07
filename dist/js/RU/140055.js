@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140055"]={"code":"140055","region":"Moskovskaya oblast'","city":"Tomilino","latitude":55.6562,"longitude":37.94713}}(window,'GeoPostal','RU');

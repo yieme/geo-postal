@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1M0"]={"code":"J0V 1M0","region":"Quebec","city":"Montpellier","latitude":45.8501,"longitude":-75.166}}(window,'GeoPostal','CA');

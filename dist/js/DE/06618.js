@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06618"]={"code":"06618","region":"Sachsen-Anhalt","city":"Flemmingen","latitude":51.1318,"longitude":11.76672}}(window,'GeoPostal','DE');

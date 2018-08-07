@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37331"]={"code":"37331","region":"TN","city":"Etowah","latitude":35.3314,"longitude":-84.5283}}(window,'GeoPostal','US');

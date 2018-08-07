@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22831"]={"code":"22831","region":"VA","city":"Hinton","latitude":38.5689,"longitude":-79.0885}}(window,'GeoPostal','US');

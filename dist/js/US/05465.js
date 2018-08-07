@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05465"]={"code":"05465","region":"Vermont","city":"Jericho","latitude":44.47614,"longitude":-72.9498}}(window,'GeoPostal','US');

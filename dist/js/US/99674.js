@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99674"]={"code":"99674","region":"Alaska","city":"Sutton","latitude":61.796667,"longitude":-148.462778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39421"]={"code":"39421","region":"Punjab","city":"Jandiala Sher Khan","latitude":31.81986,"longitude":73.91812}}(window,'GeoPostal','PK');

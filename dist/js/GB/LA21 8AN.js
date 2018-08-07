@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA21 8AN"]={"code":"LA21 8AN","region":"England","city":"Coniston","latitude":54.36667,"longitude":-3.06667}}(window,'GeoPostal','GB');

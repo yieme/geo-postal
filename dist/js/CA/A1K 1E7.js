@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1K 1E7"]={"code":"A1K 1E7","region":"Newfoundland and Labrador","city":"Bauline","latitude":47.71659,"longitude":-52.83135}}(window,'GeoPostal','CA');

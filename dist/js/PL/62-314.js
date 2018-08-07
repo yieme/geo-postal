@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-314"]={"code":"62-314","region":"Wielkopolskie","city":"Wrzesnia","latitude":52.32512,"longitude":17.56519}}(window,'GeoPostal','PL');

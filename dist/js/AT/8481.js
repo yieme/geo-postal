@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8481"]={"code":"8481","region":"Steiermark","city":"Eichfeld","latitude":46.72528,"longitude":15.76806}}(window,'GeoPostal','AT');

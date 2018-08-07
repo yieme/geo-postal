@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4047"]={"code":"4047","region":"Zulia","city":"Rosario","latitude":10.3258,"longitude":-72.31343}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97089"]={"code":"97089","region":"OR","city":"Damascus","latitude":45.4176,"longitude":-122.459}}(window,'GeoPostal','US');

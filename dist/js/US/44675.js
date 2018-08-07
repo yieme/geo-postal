@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44675"]={"code":"44675","region":"Ohio","city":"Sherrodsville","latitude":40.518049,"longitude":-81.235817}}(window,'GeoPostal','US');

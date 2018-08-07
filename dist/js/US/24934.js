@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24934"]={"code":"24934","region":"West Virginia","city":"Dunmore","latitude":38.358099,"longitude":-79.829322}}(window,'GeoPostal','US');

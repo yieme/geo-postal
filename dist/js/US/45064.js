@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45064"]={"code":"45064","region":"OH","city":"Somerville","latitude":39.5554,"longitude":-84.6219}}(window,'GeoPostal','US');

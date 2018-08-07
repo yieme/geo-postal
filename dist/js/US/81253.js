@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81253"]={"code":"81253","region":"Colorado","city":"Wetmore","latitude":38.176698,"longitude":-105.10614}}(window,'GeoPostal','US');

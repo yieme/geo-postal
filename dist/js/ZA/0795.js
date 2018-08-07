@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0795"]={"code":"0795","region":"Limpopo","city":"Polokwane","latitude":-23.90448,"longitude":29.46885}}(window,'GeoPostal','ZA');

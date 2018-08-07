@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 14"]={"code":"696 14","region":"Jihomoravsky kraj","city":"Cejc","latitude":48.94653,"longitude":16.96511}}(window,'GeoPostal','CZ');

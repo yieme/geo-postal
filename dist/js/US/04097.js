@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04097"]={"code":"04097","region":"ME","city":"North Yarmouth","latitude":43.838,"longitude":-70.2001}}(window,'GeoPostal','US');

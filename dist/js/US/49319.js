@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49319"]={"code":"49319","region":"Michigan","city":"Cedar Springs","latitude":43.226811,"longitude":-85.539042}}(window,'GeoPostal','US');

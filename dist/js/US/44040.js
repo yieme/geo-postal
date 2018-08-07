@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44040"]={"code":"44040","region":"Ohio","city":"Gates Mills","latitude":41.529909,"longitude":-81.415902}}(window,'GeoPostal','US');

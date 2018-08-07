@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 6BY"]={"code":"OX15 6BY","region":"England","city":"Hornton","latitude":52.1016,"longitude":-1.42762}}(window,'GeoPostal','GB');

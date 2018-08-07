@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS8 3UR"]={"code":"BS8 3UR","region":"England","city":"Failand","latitude":51.43982,"longitude":-2.68924}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HA1 3UJ"]={"code":"HA1 3UJ","region":"England","city":"Watford","latitude":51.65531,"longitude":-0.39602}}(window,'GeoPostal','GB');

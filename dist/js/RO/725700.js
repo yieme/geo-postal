@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["725700"]={"code":"725700","region":"Suceava","city":"Vatra Dornei","latitude":47.35,"longitude":25.36667}}(window,'GeoPostal','RO');

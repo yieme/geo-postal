@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5941"]={"code":"5941","region":"Cordoba","city":"Las Varas","latitude":-31.8026,"longitude":-62.61655}}(window,'GeoPostal','AR');

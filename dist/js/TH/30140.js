@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30140"]={"code":"30140","region":"Nakhon Ratchasima","city":"Amphoe Sikhiu","latitude":14.89944,"longitude":101.70833}}(window,'GeoPostal','TH');

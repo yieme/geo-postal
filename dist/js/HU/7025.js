@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7025"]={"code":"7025","region":"Tolna","city":"Bolcske","latitude":46.74102,"longitude":18.96736}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03869"]={"code":"03869","region":"NH","city":"Rollinsford","latitude":43.2269,"longitude":-70.8332}}(window,'GeoPostal','US');

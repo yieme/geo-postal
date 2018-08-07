@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24063"]={"code":"24063","region":"Virginia","city":"Merrimac","latitude":37.18957,"longitude":-80.42561}}(window,'GeoPostal','US');

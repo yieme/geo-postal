@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98267"]={"code":"98267","region":"Washington","city":"Marblemount","latitude":48.53806,"longitude":-121.43778}}(window,'GeoPostal','US');

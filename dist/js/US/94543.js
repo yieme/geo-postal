@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94543"]={"code":"94543","region":"CA","city":"Hayward","latitude":37.6688,"longitude":-122.0808}}(window,'GeoPostal','US');

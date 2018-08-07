@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84378"]={"code":"84378","region":"Bayern","city":"Strassdobl","latitude":48.49342,"longitude":12.8996}}(window,'GeoPostal','DE');

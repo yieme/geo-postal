@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1C0"]={"code":"G0W 1C0","region":"Quebec","city":"Mistissini","latitude":50.31684,"longitude":-74.01586}}(window,'GeoPostal','CA');

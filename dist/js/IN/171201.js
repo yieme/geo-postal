@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171201"]={"code":"171201","region":"Himachal Pradesh","city":"Theog","latitude":31.11667,"longitude":77.35}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3041"]={"code":"3041","region":"Dhaka","city":"Kishorganj","latitude":24.43333,"longitude":90.76667}}(window,'GeoPostal','BD');

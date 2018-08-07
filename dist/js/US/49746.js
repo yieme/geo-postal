@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49746"]={"code":"49746","region":"Michigan","city":"Hillman","latitude":45.065,"longitude":-83.90056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68251"]={"code":"68251","region":"Odeska oblast","city":"Zarya","latitude":45.9908,"longitude":29.69672}}(window,'GeoPostal','UA');

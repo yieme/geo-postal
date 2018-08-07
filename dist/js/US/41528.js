@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41528"]={"code":"41528","region":"KY","city":"Freeburn","latitude":37.5512,"longitude":-82.1434}}(window,'GeoPostal','US');

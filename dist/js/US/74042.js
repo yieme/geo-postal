@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74042"]={"code":"74042","region":"OK","city":"Lenapah","latitude":36.8801,"longitude":-95.6233}}(window,'GeoPostal','US');

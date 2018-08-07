@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66451"]={"code":"66451","region":"Nuevo Leon","city":"San Nicolas de los Garza","latitude":25.75,"longitude":-100.3}}(window,'GeoPostal','MX');

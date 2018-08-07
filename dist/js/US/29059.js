@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29059"]={"code":"29059","region":"SC","city":"Holly Hill","latitude":33.3276,"longitude":-80.4024}}(window,'GeoPostal','US');

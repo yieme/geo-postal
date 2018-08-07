@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18614"]={"code":"18614","region":"Pennsylvania","city":"Dushore","latitude":41.524621,"longitude":-76.398968}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85533"]={"code":"85533","region":"Arizona","city":"Clifton","latitude":33.0509,"longitude":-109.29618}}(window,'GeoPostal','US');

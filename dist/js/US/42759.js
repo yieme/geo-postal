@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42759"]={"code":"42759","region":"Kentucky","city":"Marrowbone","latitude":36.76222,"longitude":-85.01028}}(window,'GeoPostal','US');

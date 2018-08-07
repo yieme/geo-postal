@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74189"]={"code":"74189","region":"Baden-Wurttemberg","city":"Weinsberg","latitude":49.15128,"longitude":9.28762}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63072"]={"code":"63072","region":"Taza-Al Hoceima-Taounate","city":"Ajdir","latitude":34.74347,"longitude":-3.97582}}(window,'GeoPostal','MA');

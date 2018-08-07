@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03018"]={"code":"03018","region":"Lazio","city":"Paliano","latitude":41.80562,"longitude":13.05759}}(window,'GeoPostal','IT');

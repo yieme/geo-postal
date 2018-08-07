@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0B0"]={"code":"R0B 0B0","region":"Manitoba","city":"Brochet","latitude":57.87998,"longitude":-101.67181}}(window,'GeoPostal','CA');

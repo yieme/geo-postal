@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["231314"]={"code":"231314","region":"Uttar Pradesh","city":"Chunar","latitude":25.13333,"longitude":82.9}}(window,'GeoPostal','IN');

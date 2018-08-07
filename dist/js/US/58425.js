@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58425"]={"code":"58425","region":"North Dakota","city":"Cooperstown","latitude":47.44444,"longitude":-98.12398}}(window,'GeoPostal','US');

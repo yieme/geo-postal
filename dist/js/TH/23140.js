@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23140"]={"code":"23140","region":"Trat","city":"Bo Rai","latitude":12.57283,"longitude":102.53714}}(window,'GeoPostal','TH');

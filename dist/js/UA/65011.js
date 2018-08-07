@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65011"]={"code":"65011","region":"Odeska oblast","city":"Odessa","latitude":46.47747,"longitude":30.73262}}(window,'GeoPostal','UA');

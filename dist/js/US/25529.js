@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25529"]={"code":"25529","region":"WV","city":"Julian","latitude":38.1264,"longitude":-81.8642}}(window,'GeoPostal','US');

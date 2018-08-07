@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46530"]={"code":"46530","region":"Indiana","city":"Granger","latitude":41.742542,"longitude":-86.159114}}(window,'GeoPostal','US');

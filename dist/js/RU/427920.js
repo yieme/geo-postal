@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427920"]={"code":"427920","region":"Udmurtskaya Respublika","city":"Karakulino","latitude":56.012,"longitude":53.70669}}(window,'GeoPostal','RU');

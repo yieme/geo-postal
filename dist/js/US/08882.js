@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08882"]={"code":"08882","region":"New Jersey","city":"Old Bridge","latitude":40.444973,"longitude":-74.381984}}(window,'GeoPostal','US');

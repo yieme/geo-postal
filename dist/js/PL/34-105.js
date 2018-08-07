@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-105"]={"code":"34-105","region":"Malopolskie","city":"Wadowice","latitude":49.88335,"longitude":19.49292}}(window,'GeoPostal','PL');

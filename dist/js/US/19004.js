@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19004"]={"code":"19004","region":"Pennsylvania","city":"Bala Cynwyd","latitude":40.01382,"longitude":-75.22866}}(window,'GeoPostal','US');

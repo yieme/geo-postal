@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B37 7YE"]={"code":"B37 7YE","region":"England","city":"Solihull","latitude":52.41426,"longitude":-1.78094}}(window,'GeoPostal','GB');

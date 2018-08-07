@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45012"]={"code":"45012","region":"Veneto","city":"Ariano nel Polesine","latitude":44.94,"longitude":12.13889}}(window,'GeoPostal','IT');

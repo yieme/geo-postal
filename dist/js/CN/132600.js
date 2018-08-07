@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132600"]={"code":"132600","region":"Jilin","city":"Shulan","latitude":44.41667,"longitude":126.95}}(window,'GeoPostal','CN');

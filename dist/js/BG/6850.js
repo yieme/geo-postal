@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6850"]={"code":"6850","region":"Kardzhali","city":"Dzhebel","latitude":41.5,"longitude":25.3}}(window,'GeoPostal','BG');

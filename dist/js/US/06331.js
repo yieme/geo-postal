@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06331"]={"code":"06331","region":"CT","city":"Canterbury","latitude":41.6844,"longitude":-72.001}}(window,'GeoPostal','US');

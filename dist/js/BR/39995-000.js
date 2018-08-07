@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39995-000"]={"code":"39995-000","region":"Minas Gerais","city":"Aguas Vermelhas","latitude":-15.74722,"longitude":-41.46}}(window,'GeoPostal','BR');

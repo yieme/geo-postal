@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67401"]={"code":"67401","region":"Kansas","city":"Salina","latitude":38.84028,"longitude":-97.61142}}(window,'GeoPostal','US');

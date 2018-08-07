@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141321"]={"code":"141321","region":"Moskovskaya oblast'","city":"Krasnozavodsk","latitude":56.45,"longitude":38.21667}}(window,'GeoPostal','RU');

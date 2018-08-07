@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243366"]={"code":"243366","region":"Tul'skaya oblast'","city":"Bol'shoye Skuratovo","latitude":53.43852,"longitude":36.84085}}(window,'GeoPostal','RU');

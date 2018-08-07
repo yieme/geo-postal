@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49290-000"]={"code":"49290-000","region":"Sergipe","city":"Itabaianinha","latitude":-11.27389,"longitude":-37.79}}(window,'GeoPostal','BR');

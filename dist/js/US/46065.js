@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46065"]={"code":"46065","region":"IN","city":"Rossville","latitude":40.4109,"longitude":-86.608}}(window,'GeoPostal','US');

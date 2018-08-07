@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 8PF"]={"code":"DG2 8PF","region":"Scotland","city":"Beeswing","latitude":55.00546,"longitude":-3.7293}}(window,'GeoPostal','GB');

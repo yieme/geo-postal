@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 4NP"]={"code":"AB54 4NP","region":"Scotland","city":"Kirkhill of Kennethmont","latitude":57.35,"longitude":-2.76667}}(window,'GeoPostal','GB');

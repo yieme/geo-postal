@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33837"]={"code":"33837","region":"FL","city":"Davenport","latitude":28.1963,"longitude":-81.6079}}(window,'GeoPostal','US');

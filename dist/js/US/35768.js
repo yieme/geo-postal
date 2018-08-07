@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35768"]={"code":"35768","region":"Alabama","city":"Scottsboro","latitude":34.91655,"longitude":-86.08791}}(window,'GeoPostal','US');

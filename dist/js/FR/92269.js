@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92269"]={"code":"92269","region":"Ile-de-France","city":"Fontenay-aux-Roses","latitude":48.79325,"longitude":2.29275}}(window,'GeoPostal','FR');

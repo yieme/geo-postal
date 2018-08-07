@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40230"]={"code":"40230","region":"Nouvelle-Aquitaine","city":"Tosse","latitude":43.68916,"longitude":-1.33262}}(window,'GeoPostal','FR');

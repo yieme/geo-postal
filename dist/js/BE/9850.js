@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9850"]={"code":"9850","region":"Oost-Vlaanderen","city":"Nevele","latitude":51.03531,"longitude":3.54574}}(window,'GeoPostal','BE');

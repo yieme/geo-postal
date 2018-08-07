@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2N 3B2"]={"code":"B2N 3B2","region":"Nova Scotia","city":"McCurdys Corner","latitude":45.38345,"longitude":-63.29868}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627-130"]={"code":"627-130","region":"Gyeongsangnam-do","city":"Miryang","latitude":35.49333,"longitude":128.74889}}(window,'GeoPostal','KR');

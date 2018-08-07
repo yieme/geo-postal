@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87364"]={"code":"87364","region":"NM","city":"Sheep Springs","latitude":36.142,"longitude":-108.7064}}(window,'GeoPostal','US');

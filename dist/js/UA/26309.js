@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26309"]={"code":"26309","region":"Kirovohradska oblast","city":"Hayvoron","latitude":48.33958,"longitude":29.86791}}(window,'GeoPostal','UA');

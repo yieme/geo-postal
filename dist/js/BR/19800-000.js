@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19800-000"]={"code":"19800-000","region":"Sao Paulo","city":"Assis","latitude":-22.66167,"longitude":-50.41222}}(window,'GeoPostal','BR');

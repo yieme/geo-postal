@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45034"]={"code":"45034","region":"OH","city":"Kings Mills","latitude":39.358,"longitude":-84.2473}}(window,'GeoPostal','US');

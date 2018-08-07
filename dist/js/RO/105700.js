@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["105700"]={"code":"105700","region":"Prahova","city":"Comarnic","latitude":45.25,"longitude":25.63333}}(window,'GeoPostal','RO');

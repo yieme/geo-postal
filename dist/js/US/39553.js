@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39553"]={"code":"39553","region":"MS","city":"Gautier","latitude":30.398,"longitude":-88.6412}}(window,'GeoPostal','US');

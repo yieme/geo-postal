@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60190"]={"code":"60190","region":"Illinois","city":"Winfield","latitude":41.870847,"longitude":-88.152487}}(window,'GeoPostal','US');

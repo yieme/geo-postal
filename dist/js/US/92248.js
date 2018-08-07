@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92248"]={"code":"92248","region":"CA","city":"La Quinta","latitude":33.6736,"longitude":-116.2951}}(window,'GeoPostal','US');

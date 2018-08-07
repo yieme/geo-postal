@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57540-000"]={"code":"57540-000","region":"Alagoas","city":"Mata Grande","latitude":-9.1175,"longitude":-37.73222}}(window,'GeoPostal','BR');

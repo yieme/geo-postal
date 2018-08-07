@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47969"]={"code":"47969","region":"IN","city":"Newtown","latitude":40.2035,"longitude":-87.147}}(window,'GeoPostal','US');

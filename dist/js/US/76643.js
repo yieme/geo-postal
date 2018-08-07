@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76643"]={"code":"76643","region":"TX","city":"Hewitt","latitude":31.4582,"longitude":-97.1966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74440"]={"code":"74440","region":"OK","city":"Hoyt","latitude":35.2685,"longitude":-95.2994}}(window,'GeoPostal','US');

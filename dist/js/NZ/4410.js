@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4410"]={"code":"4410","region":"Manawatu-Wanganui","city":"Palmerston North","latitude":-40.35,"longitude":175.61667}}(window,'GeoPostal','NZ');

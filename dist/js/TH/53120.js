@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53120"]={"code":"53120","region":"Uttaradit","city":"Phichai","latitude":17.28764,"longitude":100.0867}}(window,'GeoPostal','TH');

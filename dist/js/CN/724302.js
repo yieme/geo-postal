@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724302"]={"code":"724302","region":"Gansu","city":"Songping","latitude":33.60251,"longitude":105.91054}}(window,'GeoPostal','CN');

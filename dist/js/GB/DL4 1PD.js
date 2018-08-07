@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL4 1PD"]={"code":"DL4 1PD","region":"England","city":"New Shildon","latitude":54.62583,"longitude":-1.6442}}(window,'GeoPostal','GB');

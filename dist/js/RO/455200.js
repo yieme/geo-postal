@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["455200"]={"code":"455200","region":"Salaj","city":"Jibou","latitude":47.26667,"longitude":23.25}}(window,'GeoPostal','RO');

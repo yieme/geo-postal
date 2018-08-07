@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02670"]={"code":"02670","region":"MA","city":"West Dennis","latitude":41.6626,"longitude":-70.1681}}(window,'GeoPostal','US');

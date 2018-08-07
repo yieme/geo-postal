@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6546"]={"code":"6546","region":"Gelderland","city":"Nijmegen","latitude":51.8425,"longitude":5.85278}}(window,'GeoPostal','NL');

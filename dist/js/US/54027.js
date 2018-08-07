@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54027"]={"code":"54027","region":"Wisconsin","city":"Wilson","latitude":44.9567,"longitude":-92.1702}}(window,'GeoPostal','US');

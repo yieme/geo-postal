@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11420"]={"code":"11420","region":"NY","city":"South Ozone Park","latitude":40.6744,"longitude":-73.819}}(window,'GeoPostal','US');

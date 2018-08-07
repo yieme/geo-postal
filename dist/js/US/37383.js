@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37383"]={"code":"37383","region":"Tennessee","city":"Sewanee","latitude":35.201474,"longitude":-85.920515}}(window,'GeoPostal','US');

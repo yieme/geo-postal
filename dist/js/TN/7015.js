@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7015"]={"code":"7015","region":"Bizerte","city":"Rafraf","latitude":37.19043,"longitude":10.18365}}(window,'GeoPostal','TN');

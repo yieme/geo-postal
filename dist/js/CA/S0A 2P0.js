@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 2P0"]={"code":"S0A 2P0","region":"Saskatchewan","city":"Melville","latitude":50.91671,"longitude":-102.80099}}(window,'GeoPostal','CA');

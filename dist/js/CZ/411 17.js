@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 17"]={"code":"411 17","region":"Ustecky kraj","city":"Libochovice","latitude":50.40626,"longitude":14.04439}}(window,'GeoPostal','CZ');

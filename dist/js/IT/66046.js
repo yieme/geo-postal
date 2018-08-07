@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66046"]={"code":"66046","region":"Abruzzo","city":"Tornareccio","latitude":42.03814,"longitude":14.41612}}(window,'GeoPostal','IT');

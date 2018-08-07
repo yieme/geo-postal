@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66778"]={"code":"66778","region":"KS","city":"Treece","latitude":37.0005,"longitude":-94.8409}}(window,'GeoPostal','US');

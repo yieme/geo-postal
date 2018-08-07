@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83136"]={"code":"83136","region":"Provence-Alpes-Cote d'Azur","city":"Sainte-Anastasie-sur-Issole","latitude":43.34211,"longitude":6.12359}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42343"]={"code":"42343","region":"KY","city":"Fordsville","latitude":37.6297,"longitude":-86.7263}}(window,'GeoPostal','US');

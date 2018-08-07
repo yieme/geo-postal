@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59061"]={"code":"59061","region":"MT","city":"Nye","latitude":45.441,"longitude":-109.8271}}(window,'GeoPostal','US');

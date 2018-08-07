@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26330"]={"code":"26330","region":"West Virginia","city":"Bridgeport","latitude":39.29103,"longitude":-80.254428}}(window,'GeoPostal','US');

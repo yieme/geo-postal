@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26430"]={"code":"26430","region":"West Virginia","city":"Sand Fork","latitude":38.89002,"longitude":-80.74248}}(window,'GeoPostal','US');

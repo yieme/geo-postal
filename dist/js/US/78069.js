@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78069"]={"code":"78069","region":"TX","city":"Somerset","latitude":29.2205,"longitude":-98.6678}}(window,'GeoPostal','US');

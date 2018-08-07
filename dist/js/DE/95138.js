@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95138"]={"code":"95138","region":"Bayern","city":"Bad Steben","latitude":50.36648,"longitude":11.64438}}(window,'GeoPostal','DE');

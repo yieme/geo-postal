@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78220"]={"code":"78220","region":"Ile-de-France","city":"Viroflay","latitude":48.80078,"longitude":2.16181}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32741"]={"code":"32741","region":"Pirkanmaa","city":"Aetsa","latitude":61.28333,"longitude":22.68333}}(window,'GeoPostal','FI');

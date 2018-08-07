@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17044"]={"code":"17044","region":"Chernihivska oblast","city":"Oster","latitude":50.9506,"longitude":30.88229}}(window,'GeoPostal','UA');

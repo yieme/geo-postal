@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14060"]={"code":"14060","region":"New York","city":"Farmersville Station","latitude":42.43674,"longitude":-78.30222}}(window,'GeoPostal','US');

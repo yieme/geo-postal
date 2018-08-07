@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29410"]={"code":"29410","region":"Bretagne","city":"Saint-Thegonnec","latitude":48.51667,"longitude":-3.95}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27291"]={"code":"27291","region":"NC","city":"Leasburg","latitude":36.4151,"longitude":-79.1942}}(window,'GeoPostal','US');

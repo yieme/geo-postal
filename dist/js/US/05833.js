@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05833"]={"code":"05833","region":"VT","city":"East Charleston","latitude":44.8299,"longitude":-71.9763}}(window,'GeoPostal','US');

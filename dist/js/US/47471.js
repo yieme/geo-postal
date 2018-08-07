@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47471"]={"code":"47471","region":"Indiana","city":"Worthington","latitude":39.12504,"longitude":-86.97945}}(window,'GeoPostal','US');

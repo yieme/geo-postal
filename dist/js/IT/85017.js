@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85017"]={"code":"85017","region":"Basilicata","city":"Tolve","latitude":40.69422,"longitude":16.01627}}(window,'GeoPostal','IT');

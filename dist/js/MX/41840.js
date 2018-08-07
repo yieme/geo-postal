@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41840"]={"code":"41840","region":"Guerrero","city":"Cuautepec","latitude":16.7,"longitude":-99}}(window,'GeoPostal','MX');

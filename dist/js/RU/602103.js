@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["602103"]={"code":"602103","region":"Vladimirskaya oblast'","city":"Melenki","latitude":55.3343,"longitude":41.6295}}(window,'GeoPostal','RU');

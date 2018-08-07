@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9100"]={"code":"9100","region":"Sankt Gallen","city":"Waldkirch","latitude":47.46859,"longitude":9.28605}}(window,'GeoPostal','CH');

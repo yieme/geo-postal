@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL5 5DB"]={"code":"GL5 5DB","region":"England","city":"Amberley","latitude":50.90915,"longitude":-0.53378}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19565"]={"code":"19565","region":"Pennsylvania","city":"Wernersville","latitude":40.324331,"longitude":-76.086168}}(window,'GeoPostal','US');

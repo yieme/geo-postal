@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16433"]={"code":"16433","region":"Pennsylvania","city":"Saegertown","latitude":41.719702,"longitude":-80.144245}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45520"]={"code":"45520","region":"Centre-Val de Loire","city":"Gidy","latitude":47.98539,"longitude":1.83816}}(window,'GeoPostal','FR');

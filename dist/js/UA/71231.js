@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71231"]={"code":"71231","region":"Zaporizka oblast","city":"Prymors'k","latitude":46.73479,"longitude":36.34425}}(window,'GeoPostal','UA');

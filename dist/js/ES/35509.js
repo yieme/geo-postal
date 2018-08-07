@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35509"]={"code":"35509","region":"Canarias","city":"Arrecife","latitude":28.96302,"longitude":-13.54769}}(window,'GeoPostal','ES');

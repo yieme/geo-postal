@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28464"]={"code":"28464","region":"North Carolina","city":"Teachey","latitude":34.769972,"longitude":-78.011332}}(window,'GeoPostal','US');

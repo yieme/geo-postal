@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25628"]={"code":"25628","region":"West Virginia","city":"Kistler","latitude":37.713581,"longitude":-81.787376}}(window,'GeoPostal','US');

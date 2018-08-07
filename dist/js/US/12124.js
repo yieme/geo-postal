@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12124"]={"code":"12124","region":"NY","city":"New Baltimore","latitude":42.4442,"longitude":-73.7882}}(window,'GeoPostal','US');

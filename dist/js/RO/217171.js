@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217171"]={"code":"217171","region":"Gorj","city":"Novaci-Straini","latitude":45.18333,"longitude":23.66667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44427"]={"code":"44427","region":"OH","city":"Kensington","latitude":40.7142,"longitude":-80.9381}}(window,'GeoPostal','US');

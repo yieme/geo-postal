@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33515"]={"code":"33515","region":"Viroviticko-podravska zupanija","city":"Orahovica","latitude":45.54,"longitude":17.88472}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59489"]={"code":"59489","region":"MT","city":"Winifred","latitude":47.6408,"longitude":-109.2364}}(window,'GeoPostal','US');

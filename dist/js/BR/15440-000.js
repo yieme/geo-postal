@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15440-000"]={"code":"15440-000","region":"Sao Paulo","city":"Nova Granada","latitude":-20.53389,"longitude":-49.31417}}(window,'GeoPostal','BR');

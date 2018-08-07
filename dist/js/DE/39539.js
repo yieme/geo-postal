@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39539"]={"code":"39539","region":"Sachsen-Anhalt","city":"Havelberg","latitude":52.83088,"longitude":12.07552}}(window,'GeoPostal','DE');

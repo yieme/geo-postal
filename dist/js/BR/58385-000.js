@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58385-000"]={"code":"58385-000","region":"Paraiba","city":"Alagoa Grande","latitude":-7.15833,"longitude":-35.63}}(window,'GeoPostal','BR');

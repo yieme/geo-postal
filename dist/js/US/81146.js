@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81146"]={"code":"81146","region":"Colorado","city":"Mosca","latitude":37.650143,"longitude":-105.69988}}(window,'GeoPostal','US');

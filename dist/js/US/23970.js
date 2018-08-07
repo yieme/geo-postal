@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23970"]={"code":"23970","region":"Virginia","city":"South Hill","latitude":36.72653,"longitude":-78.12889}}(window,'GeoPostal','US');

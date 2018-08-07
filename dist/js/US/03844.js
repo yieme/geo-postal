@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03844"]={"code":"03844","region":"New Hampshire","city":"Hampton Falls","latitude":42.925283,"longitude":-70.886414}}(window,'GeoPostal','US');

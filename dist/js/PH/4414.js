@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4414"]={"code":"4414","region":"Camarines Sur","city":"Cadlan","latitude":13.5971,"longitude":123.257}}(window,'GeoPostal','PH');

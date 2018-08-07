@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26804"]={"code":"26804","region":"West Virginia","city":"Circleville","latitude":38.615072,"longitude":-79.553676}}(window,'GeoPostal','US');

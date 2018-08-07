@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17584"]={"code":"17584","region":"PA","city":"Willow Street","latitude":39.967,"longitude":-76.2752}}(window,'GeoPostal','US');

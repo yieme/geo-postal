@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226408"]={"code":"226408","region":"Jiangsu","city":"Fengli","latitude":32.44793,"longitude":121.04353}}(window,'GeoPostal','CN');

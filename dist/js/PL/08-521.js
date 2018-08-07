@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-521"]={"code":"08-521","region":"Lubelskie","city":"Deblin","latitude":51.55912,"longitude":21.84829}}(window,'GeoPostal','PL');

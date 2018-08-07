@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30256"]={"code":"30256","region":"GA","city":"Meansville","latitude":33.0134,"longitude":-84.3169}}(window,'GeoPostal','US');

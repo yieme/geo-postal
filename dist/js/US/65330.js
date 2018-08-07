@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65330"]={"code":"65330","region":"MO","city":"Gilliam","latitude":39.2447,"longitude":-92.9932}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43351"]={"code":"43351","region":"Ohio","city":"Upper Sandusky","latitude":40.81548,"longitude":-83.31012}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17856"]={"code":"17856","region":"PA","city":"New Columbia","latitude":41.0541,"longitude":-76.9019}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13460"]={"code":"13460","region":"New York","city":"Sherburne","latitude":42.67813,"longitude":-75.49851}}(window,'GeoPostal','US');

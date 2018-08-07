@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49624"]={"code":"49624","region":"Niedersachsen","city":"Angelbeck","latitude":52.71923,"longitude":7.76768}}(window,'GeoPostal','DE');

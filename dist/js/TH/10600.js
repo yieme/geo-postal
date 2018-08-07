@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10600"]={"code":"10600","region":"Krung Thep Maha Nakhon","city":"Samphanthawong","latitude":13.73147,"longitude":100.51414}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7400"]={"code":"7400","region":"Buenos Aires","city":"Olavarria","latitude":-36.89272,"longitude":-60.32254}}(window,'GeoPostal','AR');

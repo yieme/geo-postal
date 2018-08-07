@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96500-000"]={"code":"96500-000","region":"Rio Grande do Sul","city":"Cachoeira do Sul","latitude":-30.03917,"longitude":-52.89389}}(window,'GeoPostal','BR');

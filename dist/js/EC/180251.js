@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180251"]={"code":"180251","region":"Tungurahua","city":"Banos","latitude":-1.4,"longitude":-78.41667}}(window,'GeoPostal','EC');

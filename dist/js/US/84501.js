@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84501"]={"code":"84501","region":"Utah","city":"Price","latitude":39.59941,"longitude":-110.81071}}(window,'GeoPostal','US');

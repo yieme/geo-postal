@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65534"]={"code":"65534","region":"Missouri","city":"Laquey","latitude":37.726518,"longitude":-92.342932}}(window,'GeoPostal','US');

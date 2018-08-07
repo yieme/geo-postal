@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 4K0"]={"code":"S0G 4K0","region":"Saskatchewan","city":"Sedley","latitude":50.16677,"longitude":-104.00109}}(window,'GeoPostal','CA');

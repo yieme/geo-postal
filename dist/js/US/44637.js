@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44637"]={"code":"44637","region":"Ohio","city":"Killbuck","latitude":40.500914,"longitude":-81.989902}}(window,'GeoPostal','US');

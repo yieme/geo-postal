@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23920"]={"code":"23920","region":"Virginia","city":"Brodnax","latitude":36.70333,"longitude":-78.03167}}(window,'GeoPostal','US');

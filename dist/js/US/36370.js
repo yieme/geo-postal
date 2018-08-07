@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36370"]={"code":"36370","region":"AL","city":"Pansey","latitude":31.1403,"longitude":-85.1573}}(window,'GeoPostal','US');

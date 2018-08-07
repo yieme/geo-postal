@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["253-0001"]={"code":"253-0001","region":"Kanagawa","city":"Chigasaki","latitude":35.333,"longitude":139.4}}(window,'GeoPostal','JP');

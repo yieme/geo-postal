@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15109"]={"code":"15109","region":"Auvergne-Rhone-Alpes","city":"Saint-Flour","latitude":45.03333,"longitude":3.08333}}(window,'GeoPostal','FR');

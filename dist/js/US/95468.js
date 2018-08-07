@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95468"]={"code":"95468","region":"California","city":"Point Arena","latitude":38.895869,"longitude":-123.652962}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83468"]={"code":"83468","region":"ID","city":"Tendoy","latitude":44.9681,"longitude":-113.8167}}(window,'GeoPostal','US');

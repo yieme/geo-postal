@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08002"]={"code":"08002","region":"Catalunya","city":"Ciutat Vella","latitude":41.38022,"longitude":2.17319}}(window,'GeoPostal','ES');

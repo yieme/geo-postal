@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59994"]={"code":"59994","region":"Ostergotlands lan","city":"OEdeshoeg","latitude":58.22949,"longitude":14.65294}}(window,'GeoPostal','SE');

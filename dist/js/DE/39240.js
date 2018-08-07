@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39240"]={"code":"39240","region":"Sachsen-Anhalt","city":"Schwarz","latitude":51.89068,"longitude":11.79368}}(window,'GeoPostal','DE');

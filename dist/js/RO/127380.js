@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127380"]={"code":"127380","region":"Buzau","city":"Movila Banului","latitude":44.98333,"longitude":26.68333}}(window,'GeoPostal','RO');

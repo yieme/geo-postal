@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99553"]={"code":"99553","region":"Alaska","city":"Akutan","latitude":54.13556,"longitude":-165.77306}}(window,'GeoPostal','US');

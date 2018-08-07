@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43931"]={"code":"43931","region":"Ohio","city":"Hannibal","latitude":39.66722,"longitude":-80.87194}}(window,'GeoPostal','US');

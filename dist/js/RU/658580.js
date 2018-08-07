@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658580"]={"code":"658580","region":"Altayskiy kray","city":"Tyumentsevo","latitude":53.3224,"longitude":81.498}}(window,'GeoPostal','RU');

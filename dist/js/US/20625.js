@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20625"]={"code":"20625","region":"Maryland","city":"Cobb Island","latitude":38.25846,"longitude":-76.84386}}(window,'GeoPostal','US');

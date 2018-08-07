@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4T 0A1"]={"code":"T4T 0A1","region":"Alberta","city":"Rocky Mountain House","latitude":52.36683,"longitude":-114.9188}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32038"]={"code":"32038","region":"Florida","city":"Fort White","latitude":29.92306,"longitude":-82.71417}}(window,'GeoPostal','US');

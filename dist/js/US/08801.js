@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08801"]={"code":"08801","region":"New Jersey","city":"Annandale","latitude":40.630231,"longitude":-74.885206}}(window,'GeoPostal','US');

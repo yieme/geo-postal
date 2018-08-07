@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 9BL"]={"code":"PO18 9BL","region":"England","city":"West Stoke","latitude":50.86667,"longitude":-0.81667}}(window,'GeoPostal','GB');

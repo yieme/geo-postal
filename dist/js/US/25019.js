@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25019"]={"code":"25019","region":"WV","city":"Bickmore","latitude":38.3729,"longitude":-81.0868}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77487"]={"code":"77487","region":"Texas","city":"Sugar Land","latitude":29.61942,"longitude":-95.63472}}(window,'GeoPostal','US');

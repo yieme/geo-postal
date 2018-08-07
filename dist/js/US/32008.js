@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32008"]={"code":"32008","region":"Florida","city":"Branford","latitude":30.049402,"longitude":-82.957242}}(window,'GeoPostal','US');

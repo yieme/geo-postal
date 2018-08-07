@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13483"]={"code":"13483","region":"NY","city":"Westdale","latitude":43.4117,"longitude":-75.8226}}(window,'GeoPostal','US');

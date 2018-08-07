@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA21 2DH"]={"code":"PA21 2DH","region":"Scotland","city":"Otter Ferry","latitude":56.00827,"longitude":-5.3211}}(window,'GeoPostal','GB');

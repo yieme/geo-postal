@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["859600"]={"code":"859600","region":"Xizang","city":"Toding","latitude":31.53333,"longitude":79.83333}}(window,'GeoPostal','CN');

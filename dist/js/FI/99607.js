@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99607"]={"code":"99607","region":"Lappi","city":"Sodankyla","latitude":67.41667,"longitude":26.6}}(window,'GeoPostal','FI');

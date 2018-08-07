@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85377"]={"code":"85377","region":"AZ","city":"Carefree","latitude":33.824,"longitude":-111.913}}(window,'GeoPostal','US');

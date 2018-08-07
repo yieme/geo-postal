@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532507"]={"code":"532507","region":"Guangxi","city":"Baihe","latitude":22.15,"longitude":107.23333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60480"]={"code":"60480","region":"Illinois","city":"Willow Springs","latitude":41.7237,"longitude":-87.8768}}(window,'GeoPostal','US');

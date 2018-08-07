@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45420"]={"code":"45420","region":"Centre-Val de Loire","city":"Bonny-sur-Loire","latitude":47.56172,"longitude":2.83933}}(window,'GeoPostal','FR');

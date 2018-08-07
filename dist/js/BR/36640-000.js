@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36640-000"]={"code":"36640-000","region":"Minas Gerais","city":"Mar de Espanha","latitude":-21.86722,"longitude":-43.00972}}(window,'GeoPostal','BR');

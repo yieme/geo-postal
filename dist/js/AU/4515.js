@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4515"]={"code":"4515","region":"Queensland","city":"Jimna","latitude":-26.66667,"longitude":152.46667}}(window,'GeoPostal','AU');

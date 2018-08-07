@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42160"]={"code":"42160","region":"Auvergne-Rhone-Alpes","city":"Saint-Cyprien","latitude":45.53375,"longitude":4.23311}}(window,'GeoPostal','FR');

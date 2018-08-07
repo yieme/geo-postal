@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5610"]={"code":"5610","region":"Aargau","city":"Wohlen","latitude":47.35236,"longitude":8.27877}}(window,'GeoPostal','CH');

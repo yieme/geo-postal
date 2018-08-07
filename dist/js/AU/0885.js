@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0885"]={"code":"0885","region":"Northern Territory","city":"Alyangula","latitude":-13.85413,"longitude":136.4213}}(window,'GeoPostal','AU');

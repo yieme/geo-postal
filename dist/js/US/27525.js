@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27525"]={"code":"27525","region":"North Carolina","city":"Franklinton","latitude":36.0961,"longitude":-78.451597}}(window,'GeoPostal','US');

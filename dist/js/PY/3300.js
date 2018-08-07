@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3300"]={"code":"3300","region":"Caaguazu","city":"Coronel Oviedo","latitude":-25.41667,"longitude":-56.45}}(window,'GeoPostal','PY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1 6HP"]={"code":"E1 6HP","region":"England","city":"Shoreditch","latitude":51.52509,"longitude":-0.07695}}(window,'GeoPostal','GB');

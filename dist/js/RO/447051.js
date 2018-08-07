@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447051"]={"code":"447051","region":"Satu Mare","city":"Berveni","latitude":47.75,"longitude":22.46667}}(window,'GeoPostal','RO');

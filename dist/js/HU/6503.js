@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6503"]={"code":"6503","region":"Bacs-Kiskun","city":"Baja","latitude":46.17496,"longitude":18.95639}}(window,'GeoPostal','HU');

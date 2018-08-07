@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44200"]={"code":"44200","region":"Narayani","city":"Khairahani","latitude":27.619801,"longitude":84.574624}}(window,'GeoPostal','NP');

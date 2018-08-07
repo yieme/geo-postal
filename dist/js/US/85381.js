@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85381"]={"code":"85381","region":"Arizona","city":"Peoria","latitude":33.610796,"longitude":-112.236928}}(window,'GeoPostal','US');

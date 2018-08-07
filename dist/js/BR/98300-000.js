@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98300-000"]={"code":"98300-000","region":"Rio Grande do Sul","city":"Palmeira das Missoes","latitude":-27.89944,"longitude":-53.31361}}(window,'GeoPostal','BR');

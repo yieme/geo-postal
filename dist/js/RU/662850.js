@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662850"]={"code":"662850","region":"Krasnoyarskiy kray","city":"Karatuzskoye","latitude":53.60722,"longitude":92.86667}}(window,'GeoPostal','RU');

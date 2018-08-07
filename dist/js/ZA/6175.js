@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6175"]={"code":"6175","region":"Eastern Cape","city":"Port Alfred","latitude":-33.59057,"longitude":26.89104}}(window,'GeoPostal','ZA');

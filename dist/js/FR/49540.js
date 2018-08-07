@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49540"]={"code":"49540","region":"Pays-de-la-Loire","city":"Martigne-Briand","latitude":47.23358,"longitude":-0.42933}}(window,'GeoPostal','FR');

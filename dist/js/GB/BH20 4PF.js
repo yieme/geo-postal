@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH20 4PF"]={"code":"BH20 4PF","region":"England","city":"Wareham","latitude":50.68886,"longitude":-2.1104}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79231"]={"code":"79231","region":"TX","city":"Dougherty","latitude":33.9446,"longitude":-101.0922}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02081"]={"code":"02081","region":"Massachusetts","city":"Walpole","latitude":42.145832,"longitude":-71.253486}}(window,'GeoPostal','US');

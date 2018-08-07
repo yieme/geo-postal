@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BT16 1TH"]={"code":"BT16 1TH","region":"Northern Ireland","city":"Dundonald","latitude":54.59196,"longitude":-5.79803}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49130"]={"code":"49130","region":"Michigan","city":"Union","latitude":41.78562,"longitude":-85.8612}}(window,'GeoPostal','US');

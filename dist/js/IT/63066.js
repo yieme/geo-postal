@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63066"]={"code":"63066","region":"Marche","city":"Grottammare","latitude":42.98875,"longitude":13.86489}}(window,'GeoPostal','IT');

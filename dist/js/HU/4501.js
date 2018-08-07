@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4501"]={"code":"4501","region":"Szabolcs-Szatmar-Bereg","city":"Kemecse","latitude":48.07532,"longitude":21.80625}}(window,'GeoPostal','HU');

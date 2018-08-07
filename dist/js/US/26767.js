@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26767"]={"code":"26767","region":"West Virginia","city":"Wiley Ford","latitude":39.61453,"longitude":-78.77502}}(window,'GeoPostal','US');

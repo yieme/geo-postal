@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58756"]={"code":"58756","region":"ND","city":"Makoti","latitude":47.9611,"longitude":-101.8046}}(window,'GeoPostal','US');

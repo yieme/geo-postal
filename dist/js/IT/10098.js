@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10098"]={"code":"10098","region":"Piemonte","city":"Rivoli","latitude":45.07155,"longitude":7.52622}}(window,'GeoPostal','IT');

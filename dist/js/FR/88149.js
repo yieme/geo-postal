@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88149"]={"code":"88149","region":"Grand-Est","city":"Contrexeville","latitude":48.18424,"longitude":5.89572}}(window,'GeoPostal','FR');

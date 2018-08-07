@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA6 6PN"]={"code":"WA6 6PN","region":"England","city":"Frodsham","latitude":53.29485,"longitude":-2.72745}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442700"]={"code":"442700","region":"Hubei","city":"Danjiangkou","latitude":32.54278,"longitude":111.50861}}(window,'GeoPostal','CN');

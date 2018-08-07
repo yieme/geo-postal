@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86160-000"]={"code":"86160-000","region":"Parana","city":"Porecatu","latitude":-22.75583,"longitude":-51.37917}}(window,'GeoPostal','BR');

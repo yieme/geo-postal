@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 7QY"]={"code":"PL27 7QY","region":"England","city":"Saint Issey","latitude":50.5,"longitude":-4.91667}}(window,'GeoPostal','GB');

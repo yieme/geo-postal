@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6045"]={"code":"6045","region":"Limburg","city":"Roermond","latitude":51.19417,"longitude":5.9875}}(window,'GeoPostal','NL');

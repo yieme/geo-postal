@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["030355"]={"code":"030355","region":"Canar","city":"Canar","latitude":-2.55,"longitude":-78.93333}}(window,'GeoPostal','EC');

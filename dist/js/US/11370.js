@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11370"]={"code":"11370","region":"New York","city":"Jackson Heights","latitude":40.76412,"longitude":-73.89168}}(window,'GeoPostal','US');

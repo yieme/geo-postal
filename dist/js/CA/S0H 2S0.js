@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 2S0"]={"code":"S0H 2S0","region":"Saskatchewan","city":"Loreburn","latitude":51.21677,"longitude":-106.60125}}(window,'GeoPostal','CA');

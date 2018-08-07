@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 7QP"]={"code":"TD5 7QP","region":"Scotland","city":"Eccles","latitude":55.66667,"longitude":-2.38333}}(window,'GeoPostal','GB');

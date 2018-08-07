@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74026"]={"code":"74026","region":"Oklahoma","city":"Davenport","latitude":35.707364,"longitude":-96.764262}}(window,'GeoPostal','US');

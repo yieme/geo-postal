@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08250"]={"code":"08250","region":"NJ","city":"Tuckahoe","latitude":39.2901,"longitude":-74.7538}}(window,'GeoPostal','US');

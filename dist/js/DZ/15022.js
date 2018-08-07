@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15022"]={"code":"15022","region":"Tizi Ouzou","city":"Arhribs","latitude":36.79361,"longitude":4.31158}}(window,'GeoPostal','DZ');

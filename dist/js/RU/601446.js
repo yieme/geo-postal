@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601446"]={"code":"601446","region":"Vladimirskaya oblast'","city":"Vyazniki","latitude":56.25,"longitude":42.16667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386 01"]={"code":"386 01","region":"Jihocesky kraj","city":"Strakonice","latitude":49.26141,"longitude":13.90237}}(window,'GeoPostal','CZ');

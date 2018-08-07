@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14131"]={"code":"14131","region":"Berlin","city":"Berlin Mitte","latitude":52.52003,"longitude":13.40489}}(window,'GeoPostal','DE');

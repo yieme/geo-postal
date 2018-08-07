@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0820"]={"code":"0820","region":"Northern Territory","city":"Bayview","latitude":-12.43809,"longitude":130.85869}}(window,'GeoPostal','AU');

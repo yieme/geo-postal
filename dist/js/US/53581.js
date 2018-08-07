@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53581"]={"code":"53581","region":"Wisconsin","city":"Richland Center","latitude":43.33471,"longitude":-90.38679}}(window,'GeoPostal','US');

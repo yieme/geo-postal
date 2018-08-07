@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7203"]={"code":"7203","region":"Tolna","city":"Dombovar","latitude":46.37657,"longitude":18.13696}}(window,'GeoPostal','HU');

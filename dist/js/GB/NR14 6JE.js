@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR14 6JE"]={"code":"NR14 6JE","region":"England","city":"Loddon","latitude":52.5327,"longitude":1.48183}}(window,'GeoPostal','GB');

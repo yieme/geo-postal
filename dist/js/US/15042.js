@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15042"]={"code":"15042","region":"Pennsylvania","city":"Freedom","latitude":40.68562,"longitude":-80.25173}}(window,'GeoPostal','US');

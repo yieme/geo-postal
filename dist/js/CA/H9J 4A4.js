@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9J 4A4"]={"code":"H9J 4A4","region":"Quebec","city":"Kirkland","latitude":45.443317,"longitude":-73.888593}}(window,'GeoPostal','CA');

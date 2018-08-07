@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59912"]={"code":"59912","region":"Montana","city":"Columbia Falls","latitude":48.364947,"longitude":-114.192448}}(window,'GeoPostal','US');

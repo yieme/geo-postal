@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01775"]={"code":"01775","region":"Massachusetts","city":"Stow","latitude":42.426941,"longitude":-71.512407}}(window,'GeoPostal','US');

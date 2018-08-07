@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-051"]={"code":"36-051","region":"Podkarpackie","city":"Gorno","latitude":50.28243,"longitude":22.145}}(window,'GeoPostal','PL');

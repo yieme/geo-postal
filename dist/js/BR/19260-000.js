@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19260-000"]={"code":"19260-000","region":"Sao Paulo","city":"Mirante do Paranapanema","latitude":-22.29194,"longitude":-51.90639}}(window,'GeoPostal','BR');

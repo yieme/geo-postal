@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68339"]={"code":"68339","region":"NE","city":"Denton","latitude":40.7378,"longitude":-96.8445}}(window,'GeoPostal','US');

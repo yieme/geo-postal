@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 9RD"]={"code":"CH8 9RD","region":"Wales","city":"Talacre","latitude":53.34942,"longitude":-3.32474}}(window,'GeoPostal','GB');

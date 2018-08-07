@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL38 2QZ"]={"code":"LL38 2QZ","region":"Wales","city":"Fairbourne","latitude":52.69619,"longitude":-4.05037}}(window,'GeoPostal','GB');

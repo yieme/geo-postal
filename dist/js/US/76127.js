@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76127"]={"code":"76127","region":"TX","city":"Naval Air Station/ Jrb","latitude":32.7254,"longitude":-97.3208}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27001"]={"code":"27001","region":"Rocha","city":"La Paloma","latitude":-34.66667,"longitude":-54.16667}}(window,'GeoPostal','UY');

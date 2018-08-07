@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28512"]={"code":"28512","region":"North Carolina","city":"Atlantic Beach","latitude":34.699477,"longitude":-76.781217}}(window,'GeoPostal','US');

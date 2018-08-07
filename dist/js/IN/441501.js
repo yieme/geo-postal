@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441501"]={"code":"441501","region":"Madhya Pradesh","city":"Warud","latitude":21.46667,"longitude":78.26667}}(window,'GeoPostal','IN');

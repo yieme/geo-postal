@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427135"]={"code":"427135","region":"Bistrita-Nasaud","city":"Matei","latitude":46.98333,"longitude":24.26667}}(window,'GeoPostal','RO');

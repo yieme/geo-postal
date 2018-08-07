@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57170"]={"code":"57170","region":"Chiang Rai","city":"Wiang Pa Pao","latitude":19.34778,"longitude":99.50772}}(window,'GeoPostal','TH');

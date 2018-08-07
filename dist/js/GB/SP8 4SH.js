@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP8 4SH"]={"code":"SP8 4SH","region":"England","city":"Wyke","latitude":53.73333,"longitude":-1.76667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53480"]={"code":"53480","region":"Pays-de-la-Loire","city":"Vaiges","latitude":48.04025,"longitude":-0.47513}}(window,'GeoPostal','FR');

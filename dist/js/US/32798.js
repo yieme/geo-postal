@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32798"]={"code":"32798","region":"Florida","city":"Zellwood","latitude":28.7204,"longitude":-81.5745}}(window,'GeoPostal','US');

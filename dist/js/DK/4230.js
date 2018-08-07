@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4230"]={"code":"4230","region":"Sjelland","city":"Skaelskor","latitude":55.25058,"longitude":11.29352}}(window,'GeoPostal','DK');

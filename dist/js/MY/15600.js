@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15600"]={"code":"15600","region":"Kelantan","city":"Kota Bharu","latitude":6.13328,"longitude":102.2386}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2848"]={"code":"2848","region":"New South Wales","city":"Olinda","latitude":-32.83333,"longitude":150.13333}}(window,'GeoPostal','AU');

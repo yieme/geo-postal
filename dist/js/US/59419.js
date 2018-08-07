@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59419"]={"code":"59419","region":"MT","city":"Bynum","latitude":47.99,"longitude":-112.2762}}(window,'GeoPostal','US');

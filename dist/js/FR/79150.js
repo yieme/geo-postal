@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79150"]={"code":"79150","region":"Nouvelle-Aquitaine","city":"Argenton-les-Vallees","latitude":46.98333,"longitude":-0.45}}(window,'GeoPostal','FR');

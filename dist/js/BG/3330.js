@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3330"]={"code":"3330","region":"Vratsa","city":"Miziya","latitude":43.68333,"longitude":23.85}}(window,'GeoPostal','BG');

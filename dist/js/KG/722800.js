@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722800"]={"code":"722800","region":"Naryn","city":"Kochkor","latitude":42.21552,"longitude":75.75659}}(window,'GeoPostal','KG');

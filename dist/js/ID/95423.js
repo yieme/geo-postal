@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95423"]={"code":"95423","region":"Sulawesi Utara","city":"Tomohon","latitude":1.3346,"longitude":124.8392}}(window,'GeoPostal','ID');

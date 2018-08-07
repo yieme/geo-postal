@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47179"]={"code":"47179","region":"Jalisco","city":"San Julian","latitude":21.01667,"longitude":-102.16667}}(window,'GeoPostal','MX');

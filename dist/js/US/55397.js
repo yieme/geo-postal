@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55397"]={"code":"55397","region":"MN","city":"Young America","latitude":44.7929,"longitude":-93.918}}(window,'GeoPostal','US');

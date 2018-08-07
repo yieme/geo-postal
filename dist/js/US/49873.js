@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49873"]={"code":"49873","region":"Michigan","city":"Perronville","latitude":45.87647,"longitude":-87.50141}}(window,'GeoPostal','US');

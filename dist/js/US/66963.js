@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66963"]={"code":"66963","region":"KS","city":"Randall","latitude":39.6286,"longitude":-98.0661}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76530"]={"code":"76530","region":"TX","city":"Granger","latitude":30.7398,"longitude":-97.4451}}(window,'GeoPostal','US');

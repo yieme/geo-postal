@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67930"]={"code":"67930","region":"Grand-Est","city":"Beinheim","latitude":48.8639,"longitude":8.0847}}(window,'GeoPostal','FR');

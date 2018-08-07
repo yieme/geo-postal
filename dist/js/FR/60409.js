@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60409"]={"code":"60409","region":"Hauts-de-France","city":"Noyon","latitude":49.58333,"longitude":3}}(window,'GeoPostal','FR');

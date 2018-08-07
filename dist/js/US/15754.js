@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15754"]={"code":"15754","region":"PA","city":"Lucernemines","latitude":40.5567,"longitude":-79.1515}}(window,'GeoPostal','US');

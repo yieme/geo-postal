@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["945 01"]={"code":"945 01","region":"Nitriansky kraj","city":"Komarno","latitude":47.76356,"longitude":18.12263}}(window,'GeoPostal','SK');

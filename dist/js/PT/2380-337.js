@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2380-337"]={"code":"2380-337","region":"Santarem","city":"Alcanena","latitude":39.459,"longitude":-8.66892}}(window,'GeoPostal','PT');

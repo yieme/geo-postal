@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70220"]={"code":"70220","region":"Bourgogne-Franche-Comte","city":"Fougerolles","latitude":47.88542,"longitude":6.40454}}(window,'GeoPostal','FR');

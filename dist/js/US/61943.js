@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61943"]={"code":"61943","region":"IL","city":"Oakland","latitude":39.6516,"longitude":-88.0253}}(window,'GeoPostal','US');

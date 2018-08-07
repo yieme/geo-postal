@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56267"]={"code":"56267","region":"Minnesota","city":"Morris","latitude":45.58607,"longitude":-95.91394}}(window,'GeoPostal','US');

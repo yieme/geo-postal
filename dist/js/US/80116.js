@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80116"]={"code":"80116","region":"Colorado","city":"Franktown","latitude":39.354058,"longitude":-104.711163}}(window,'GeoPostal','US');

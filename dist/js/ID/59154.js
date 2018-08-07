@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59154"]={"code":"59154","region":"Jawa Tengah","city":"Bulumanis Lor","latitude":-6.6083,"longitude":111.0666}}(window,'GeoPostal','ID');

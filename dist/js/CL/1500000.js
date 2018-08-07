@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1500000"]={"code":"1500000","region":"Atacama","city":"Diego de Almagro","latitude":-26.36667,"longitude":-70.05}}(window,'GeoPostal','CL');

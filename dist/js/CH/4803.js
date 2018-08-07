@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4803"]={"code":"4803","region":"Aargau","city":"Vordemwald","latitude":47.27585,"longitude":7.90114}}(window,'GeoPostal','CH');

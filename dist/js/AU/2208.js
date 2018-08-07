@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2208"]={"code":"2208","region":"New South Wales","city":"Kingsgrove","latitude":-33.93932,"longitude":151.09928}}(window,'GeoPostal','AU');

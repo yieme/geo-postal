@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["260"]={"code":"260","region":"Yilan","city":"Yilan","latitude":24.757,"longitude":121.753}}(window,'GeoPostal','TW');

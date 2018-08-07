@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42058"]={"code":"42058","region":"KY","city":"Ledbetter","latitude":37.0611,"longitude":-88.4665}}(window,'GeoPostal','US');

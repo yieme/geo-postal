@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7028"]={"code":"7028","region":"Zamboanga del Sur","city":"Dumingag","latitude":8.16917,"longitude":123.35056}}(window,'GeoPostal','PH');

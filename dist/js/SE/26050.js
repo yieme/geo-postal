@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26050"]={"code":"26050","region":"Skane lan","city":"Billesholm","latitude":56.05,"longitude":13}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20650"]={"code":"20650","region":"Maryland","city":"Leonardtown","latitude":38.29124,"longitude":-76.63579}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["359130"]={"code":"359130","region":"Kalmykiya, Respublika","city":"Iki-Burul","latitude":45.82083,"longitude":44.64722}}(window,'GeoPostal','RU');

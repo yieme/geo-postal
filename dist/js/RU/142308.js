@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142308"]={"code":"142308","region":"Moskovskaya oblast'","city":"Chekhov","latitude":55.1477,"longitude":37.47728}}(window,'GeoPostal','RU');

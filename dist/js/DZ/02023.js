@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02023"]={"code":"02023","region":"Chlef","city":"Chlef","latitude":36.16525,"longitude":1.33452}}(window,'GeoPostal','DZ');

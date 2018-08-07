@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215807"]={"code":"215807","region":"Smolenskaya oblast'","city":"Yartsevo","latitude":55.06667,"longitude":32.69639}}(window,'GeoPostal','RU');

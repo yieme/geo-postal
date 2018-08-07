@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427580"]={"code":"427580","region":"Udmurtskaya Respublika","city":"Kez","latitude":57.89786,"longitude":53.71521}}(window,'GeoPostal','RU');

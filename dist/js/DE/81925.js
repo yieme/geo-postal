@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81925"]={"code":"81925","region":"Bayern","city":"Oberfohring","latitude":48.17251,"longitude":11.62863}}(window,'GeoPostal','DE');

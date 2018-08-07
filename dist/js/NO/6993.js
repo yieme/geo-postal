@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6993"]={"code":"6993","region":"Sogn og Fjordane","city":"Hoyanger","latitude":61.22036,"longitude":6.07494}}(window,'GeoPostal','NO');

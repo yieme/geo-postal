@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05447"]={"code":"05447","region":"VT","city":"East Berkshire","latitude":44.931,"longitude":-72.7028}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU19 2DA"]={"code":"HU19 2DA","region":"England","city":"Rimswell","latitude":53.74079,"longitude":-0.01742}}(window,'GeoPostal','GB');

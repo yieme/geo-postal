@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6972"]={"code":"6972","region":"Luxembourg","city":"Tenneville","latitude":50.09501,"longitude":5.52894}}(window,'GeoPostal','BE');

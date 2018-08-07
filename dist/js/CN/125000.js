@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125000"]={"code":"125000","region":"Liaoning","city":"Huludao","latitude":40.75242,"longitude":120.83552}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-210"]={"code":"98-210","region":"Lodzkie","city":"Sieradz","latitude":51.59584,"longitude":18.73023}}(window,'GeoPostal','PL');

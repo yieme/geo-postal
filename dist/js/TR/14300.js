@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14300"]={"code":"14300","region":"Yozgat","city":"Kadisehri","latitude":39.99568,"longitude":35.79193}}(window,'GeoPostal','TR');

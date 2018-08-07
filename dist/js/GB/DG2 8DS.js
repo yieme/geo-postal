@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 8DS"]={"code":"DG2 8DS","region":"Scotland","city":"Carsethorn","latitude":54.92341,"longitude":-3.57324}}(window,'GeoPostal','GB');

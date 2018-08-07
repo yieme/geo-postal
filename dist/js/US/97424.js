@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97424"]={"code":"97424","region":"Oregon","city":"Cottage Grove","latitude":43.79762,"longitude":-123.05952}}(window,'GeoPostal','US');

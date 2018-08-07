@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["205142"]={"code":"205142","region":"Uttar Pradesh","city":"Bithur","latitude":26.63333,"longitude":80.28333}}(window,'GeoPostal','IN');

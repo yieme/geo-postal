@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4T 1M5"]={"code":"G4T 1M5","region":"Quebec","city":"Les Iles-de-la-Madeleine","latitude":47.38347,"longitude":-61.86523}}(window,'GeoPostal','CA');

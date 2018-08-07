@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA3 3AF"]={"code":"PA3 3AF","region":"Scotland","city":"Georgetown","latitude":55.86667,"longitude":-4.46667}}(window,'GeoPostal','GB');

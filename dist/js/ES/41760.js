@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41760"]={"code":"41760","region":"Andalucia","city":"El Coronil","latitude":37.07954,"longitude":-5.6341}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 9SH"]={"code":"CB8 9SH","region":"England","city":"Woodditton","latitude":52.19736,"longitude":0.42933}}(window,'GeoPostal','GB');

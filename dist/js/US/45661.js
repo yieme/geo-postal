@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45661"]={"code":"45661","region":"Ohio","city":"Piketon","latitude":39.03786,"longitude":-83.1012}}(window,'GeoPostal','US');

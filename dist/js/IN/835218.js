@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["835218"]={"code":"835218","region":"Jharkhand","city":"Netarhat","latitude":23.48333,"longitude":84.26667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["146115"]={"code":"146115","region":"Punjab","city":"Hoshiarpur","latitude":31.53222,"longitude":75.91722}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673030"]={"code":"673030","region":"Zabaykal'skiy kray","city":"Novopavlovka","latitude":51.2172,"longitude":109.2091}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57257"]={"code":"57257","region":"SD","city":"Peever","latitude":45.5206,"longitude":-97.0012}}(window,'GeoPostal','US');

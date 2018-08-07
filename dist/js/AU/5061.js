@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5061"]={"code":"5061","region":"South Australia","city":"Unley","latitude":-34.95,"longitude":138.6}}(window,'GeoPostal','AU');

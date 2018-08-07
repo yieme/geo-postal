@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31627"]={"code":"31627","region":"GA","city":"Cecil","latitude":31.0403,"longitude":-83.3915}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 26"]={"code":"763 26","region":"Zlinsky kraj","city":"Luhacovice","latitude":49.09982,"longitude":17.75747}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75975"]={"code":"75975","region":"TX","city":"Timpson","latitude":31.8841,"longitude":-94.3967}}(window,'GeoPostal','US');

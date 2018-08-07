@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353254"]={"code":"353254","region":"Krasnodarskiy kray","city":"Smolenskaya","latitude":44.78867,"longitude":38.80181}}(window,'GeoPostal','RU');

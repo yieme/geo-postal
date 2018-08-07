@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21645"]={"code":"21645","region":"MD","city":"Kennedyville","latitude":39.2978,"longitude":-75.9818}}(window,'GeoPostal','US');

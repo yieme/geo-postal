@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-207"]={"code":"33-207","region":"Malopolskie","city":"Radgoszcz","latitude":50.2058,"longitude":21.11315}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5646"]={"code":"5646","region":"Namur","city":"Mettet","latitude":50.32119,"longitude":4.66232}}(window,'GeoPostal','BE');

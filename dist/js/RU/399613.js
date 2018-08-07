@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399613"]={"code":"399613","region":"Lipetskaya oblast'","city":"Lebedyan'","latitude":53.01942,"longitude":39.16639}}(window,'GeoPostal','RU');

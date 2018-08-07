@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 2DU"]={"code":"TF9 2DU","region":"England","city":"Stoke upon Tern","latitude":52.85,"longitude":-2.53333}}(window,'GeoPostal','GB');

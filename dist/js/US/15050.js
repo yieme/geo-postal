@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15050"]={"code":"15050","region":"PA","city":"Hookstown","latitude":40.5622,"longitude":-80.4388}}(window,'GeoPostal','US');

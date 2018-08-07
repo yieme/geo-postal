@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-133"]={"code":"47-133","region":"Opolskie","city":"Jemielnica","latitude":50.54573,"longitude":18.37807}}(window,'GeoPostal','PL');

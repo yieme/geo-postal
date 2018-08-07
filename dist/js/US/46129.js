@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46129"]={"code":"46129","region":"IN","city":"Finly","latitude":39.8215,"longitude":-85.7652}}(window,'GeoPostal','US');

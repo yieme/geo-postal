@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8NH"]={"code":"LA12 8NH","region":"England","city":"Lake Side","latitude":54.26667,"longitude":-2.95}}(window,'GeoPostal','GB');

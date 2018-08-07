@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72069"]={"code":"72069","region":"Arkansas","city":"Holly Grove","latitude":34.604036,"longitude":-91.165727}}(window,'GeoPostal','US');

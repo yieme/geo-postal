@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1S0"]={"code":"K0K 1S0","region":"Ontario","city":"Colborne","latitude":44.00012,"longitude":-77.8828}}(window,'GeoPostal','CA');

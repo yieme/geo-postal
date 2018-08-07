@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36131"]={"code":"36131","region":"Centre-Val de Loire","city":"Deols","latitude":46.82934,"longitude":1.70428}}(window,'GeoPostal','FR');

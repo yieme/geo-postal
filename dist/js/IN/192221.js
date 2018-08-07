@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192221"]={"code":"192221","region":"Jammu and Kashmir","city":"Qazigund","latitude":33.63333,"longitude":75.15}}(window,'GeoPostal','IN');

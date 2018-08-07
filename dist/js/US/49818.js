@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49818"]={"code":"49818","region":"Michigan","city":"Cornell","latitude":45.90139,"longitude":-87.22222}}(window,'GeoPostal','US');

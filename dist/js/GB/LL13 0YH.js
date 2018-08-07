@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0YH"]={"code":"LL13 0YH","region":"Wales","city":"Gyfelia","latitude":53.00155,"longitude":-3.00139}}(window,'GeoPostal','GB');

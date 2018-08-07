@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1370"]={"code":"1370","region":"Brabant wallon","city":"Jodoigne","latitude":50.72357,"longitude":4.86914}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18842"]={"code":"18842","region":"PA","city":"South Gibson","latitude":41.7342,"longitude":-75.6302}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35640"]={"code":"35640","region":"Bretagne","city":"Martigne-Ferchaud","latitude":47.82934,"longitude":-1.31911}}(window,'GeoPostal','FR');

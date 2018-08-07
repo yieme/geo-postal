@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77940"]={"code":"77940","region":"Ile-de-France","city":"Voulx","latitude":48.28204,"longitude":2.96747}}(window,'GeoPostal','FR');

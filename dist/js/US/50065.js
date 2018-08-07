@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50065"]={"code":"50065","region":"Iowa","city":"Davis City","latitude":40.63368,"longitude":-93.81048}}(window,'GeoPostal','US');

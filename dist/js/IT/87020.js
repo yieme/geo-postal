@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87020"]={"code":"87020","region":"Calabria","city":"Acquappesa","latitude":39.4937,"longitude":15.95208}}(window,'GeoPostal','IT');

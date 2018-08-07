@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23210"]={"code":"23210","region":"Zadarska zupanija","city":"Biograd na Moru","latitude":43.94333,"longitude":15.45194}}(window,'GeoPostal','HR');

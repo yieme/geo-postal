@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH8 0HB"]={"code":"PH8 0HB","region":"Scotland","city":"Riechip","latitude":56.6,"longitude":-3.51667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15531"]={"code":"15531","region":"PA","city":"Boswell","latitude":40.1918,"longitude":-79.0362}}(window,'GeoPostal','US');

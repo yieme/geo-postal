@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 72"]={"code":"411 72","region":"Ustecky kraj","city":"Host'ka","latitude":50.48859,"longitude":14.335}}(window,'GeoPostal','CZ');

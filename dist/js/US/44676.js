@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44676"]={"code":"44676","region":"OH","city":"Shreve","latitude":40.6926,"longitude":-82.0325}}(window,'GeoPostal','US');

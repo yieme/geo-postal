@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72208"]={"code":"72208","region":"Pays-de-la-Loire","city":"La Fleche","latitude":47.69815,"longitude":-0.07553}}(window,'GeoPostal','FR');

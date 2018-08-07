@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38502"]={"code":"38502","region":"TN","city":"Cookeville","latitude":36.1628,"longitude":-85.5016}}(window,'GeoPostal','US');

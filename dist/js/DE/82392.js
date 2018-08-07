@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82392"]={"code":"82392","region":"Bayern","city":"Habach","latitude":47.73333,"longitude":11.28333}}(window,'GeoPostal','DE');

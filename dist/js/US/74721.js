@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74721"]={"code":"74721","region":"OK","city":"Albany","latitude":33.8815,"longitude":-96.1628}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473500"]={"code":"473500","region":"Henan","city":"Xinye","latitude":32.51861,"longitude":112.35222}}(window,'GeoPostal','CN');

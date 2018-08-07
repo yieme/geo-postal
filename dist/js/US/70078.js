@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70078"]={"code":"70078","region":"LA","city":"New Sarpy","latitude":29.9817,"longitude":-90.3859}}(window,'GeoPostal','US');

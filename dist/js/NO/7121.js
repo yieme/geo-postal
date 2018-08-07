@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7121"]={"code":"7121","region":"Nord-Trondelag","city":"Leksvik","latitude":63.67248,"longitude":10.6266}}(window,'GeoPostal','NO');

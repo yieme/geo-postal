@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93440"]={"code":"93440","region":"CA","city":"Los Alamos","latitude":34.7457,"longitude":-120.2049}}(window,'GeoPostal','US');

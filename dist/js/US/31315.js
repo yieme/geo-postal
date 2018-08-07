@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31315"]={"code":"31315","region":"GA","city":"Fort Stewart","latitude":31.8938,"longitude":-81.5902}}(window,'GeoPostal','US');

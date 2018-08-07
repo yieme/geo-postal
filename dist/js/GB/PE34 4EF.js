@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 4EF"]={"code":"PE34 4EF","region":"England","city":"Clenchwarton","latitude":52.75604,"longitude":0.3579}}(window,'GeoPostal','GB');

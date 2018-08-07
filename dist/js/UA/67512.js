@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67512"]={"code":"67512","region":"Odeska oblast","city":"Petrivka","latitude":46.96951,"longitude":30.95914}}(window,'GeoPostal','UA');

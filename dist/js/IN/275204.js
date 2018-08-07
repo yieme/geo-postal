@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["275204"]={"code":"275204","region":"Uttar Pradesh","city":"Sadat","latitude":25.68333,"longitude":83.28333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4812"]={"code":"4812","region":"Queensland","city":"Aitkenvale","latitude":-19.28333,"longitude":146.8}}(window,'GeoPostal','AU');

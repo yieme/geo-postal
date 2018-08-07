@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12926"]={"code":"12926","region":"New York","city":"Constable","latitude":44.94762,"longitude":-74.3373}}(window,'GeoPostal','US');

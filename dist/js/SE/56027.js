@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56027"]={"code":"56027","region":"Jonkopings lan","city":"Tenhult","latitude":57.71667,"longitude":14.31667}}(window,'GeoPostal','SE');

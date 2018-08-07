@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54538"]={"code":"54538","region":"Wisconsin","city":"Lac du Flambeau","latitude":45.96967,"longitude":-89.8921}}(window,'GeoPostal','US');

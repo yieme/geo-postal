@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67464"]={"code":"67464","region":"KS","city":"Marquette","latitude":38.556,"longitude":-97.8381}}(window,'GeoPostal','US');

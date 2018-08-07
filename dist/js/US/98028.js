@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98028"]={"code":"98028","region":"Washington","city":"Kenmore","latitude":47.75732,"longitude":-122.24401}}(window,'GeoPostal','US');

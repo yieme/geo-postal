@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517343"]={"code":"517343","region":"Guangdong","city":"Yanzhen","latitude":24.49072,"longitude":115.44494}}(window,'GeoPostal','CN');

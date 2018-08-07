@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91800"]={"code":"91800","region":"Pohjois-Pohjanmaa","city":"Tyrnava","latitude":64.76469,"longitude":25.6523}}(window,'GeoPostal','FI');

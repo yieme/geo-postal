@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66850"]={"code":"66850","region":"Kansas","city":"Elmdale","latitude":38.377607,"longitude":-96.716066}}(window,'GeoPostal','US');

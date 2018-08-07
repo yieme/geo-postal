@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46158"]={"code":"46158","region":"Indiana","city":"Mooresville","latitude":39.590936,"longitude":-86.37715}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49277"]={"code":"49277","region":"MI","city":"Rives Junction","latitude":42.3887,"longitude":-84.4589}}(window,'GeoPostal','US');

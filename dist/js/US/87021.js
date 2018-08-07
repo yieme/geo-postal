@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87021"]={"code":"87021","region":"New Mexico","city":"Milan","latitude":35.16976,"longitude":-107.89089}}(window,'GeoPostal','US');

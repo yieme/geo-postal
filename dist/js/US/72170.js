@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72170"]={"code":"72170","region":"AR","city":"Ulm","latitude":34.5772,"longitude":-91.4633}}(window,'GeoPostal','US');

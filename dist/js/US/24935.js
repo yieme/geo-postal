@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24935"]={"code":"24935","region":"WV","city":"Forest Hill","latitude":37.5608,"longitude":-80.8111}}(window,'GeoPostal','US');

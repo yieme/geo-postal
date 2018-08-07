@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25033"]={"code":"25033","region":"WV","city":"Buffalo","latitude":38.6092,"longitude":-81.95}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33600"]={"code":"33600","region":"Gandaki","city":"Lamjung","latitude":28.20992,"longitude":84.3638}}(window,'GeoPostal','NP');

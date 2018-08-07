@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331519"]={"code":"331519","region":"Jiangxi","city":"Sanfang","latitude":26.86924,"longitude":115.41456}}(window,'GeoPostal','CN');

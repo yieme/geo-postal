@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66479"]={"code":"66479","region":"Nuevo Leon","city":"Apodaca","latitude":25.76667,"longitude":-100.2}}(window,'GeoPostal','MX');

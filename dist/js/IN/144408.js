@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144408"]={"code":"144408","region":"Punjab","city":"Phagwara","latitude":31.21778,"longitude":75.76944}}(window,'GeoPostal','IN');

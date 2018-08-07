@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 9AH"]={"code":"PE28 9AH","region":"England","city":"Hemingford Abbots","latitude":52.32275,"longitude":-0.11939}}(window,'GeoPostal','GB');

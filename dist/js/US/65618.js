@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65618"]={"code":"65618","region":"MO","city":"Brixey","latitude":36.759,"longitude":-92.4026}}(window,'GeoPostal','US');

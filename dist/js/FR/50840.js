@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50840"]={"code":"50840","region":"Normandie","city":"Fermanville","latitude":49.68673,"longitude":-1.46284}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-860"]={"code":"62-860","region":"Wielkopolskie","city":"Opatowek","latitude":51.73989,"longitude":18.21653}}(window,'GeoPostal','PL');

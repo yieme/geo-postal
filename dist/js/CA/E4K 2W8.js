@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4K 2W8"]={"code":"E4K 2W8","region":"New Brunswick","city":"Dorchester","latitude":45.90155,"longitude":-64.50795}}(window,'GeoPostal','CA');

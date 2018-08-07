@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41740"]={"code":"41740","region":"Andalucia","city":"Lebrija","latitude":36.92077,"longitude":-6.07529}}(window,'GeoPostal','ES');

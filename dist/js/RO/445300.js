@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445300"]={"code":"445300","region":"Satu Mare","city":"Tasnad","latitude":47.48333,"longitude":22.58333}}(window,'GeoPostal','RO');

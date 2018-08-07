@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18420"]={"code":"18420","region":"Andalucia","city":"Lanjaron","latitude":36.91853,"longitude":-3.4818}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76690"]={"code":"76690","region":"Normandie","city":"Cleres","latitude":49.6,"longitude":1.11667}}(window,'GeoPostal','FR');

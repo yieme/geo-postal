@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54873"]={"code":"54873","region":"Wisconsin","city":"Solon Springs","latitude":46.35472,"longitude":-91.80028}}(window,'GeoPostal','US');

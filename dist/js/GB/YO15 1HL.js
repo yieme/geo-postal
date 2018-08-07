@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO15 1HL"]={"code":"YO15 1HL","region":"England","city":"Bempton","latitude":54.13036,"longitude":-0.17853}}(window,'GeoPostal','GB');

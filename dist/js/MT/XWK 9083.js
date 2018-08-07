@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["XWK 9083"]={"code":"XWK 9083","region":"Xewkija","city":"Xewkija","latitude":36.03278,"longitude":14.25806}}(window,'GeoPostal','MT');

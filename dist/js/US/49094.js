@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49094"]={"code":"49094","region":"MI","city":"Union City","latitude":42.0551,"longitude":-85.1356}}(window,'GeoPostal','US');

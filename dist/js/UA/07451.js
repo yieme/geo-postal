@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07451"]={"code":"07451","region":"Kyivska oblast","city":"Trebukhiv","latitude":50.48432,"longitude":30.90304}}(window,'GeoPostal','UA');

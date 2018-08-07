@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG16 8LU"]={"code":"RG16 8LU","region":"England","city":"Henbury","latitude":51.50278,"longitude":-2.62167}}(window,'GeoPostal','GB');

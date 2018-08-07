@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50420"]={"code":"50420","region":"Normandie","city":"Tessy-sur-Vire","latitude":48.97381,"longitude":-1.06087}}(window,'GeoPostal','FR');

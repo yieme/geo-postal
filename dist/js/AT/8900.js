@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8900"]={"code":"8900","region":"Steiermark","city":"Selzthal","latitude":47.55,"longitude":14.33333}}(window,'GeoPostal','AT');

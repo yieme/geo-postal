@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15468"]={"code":"15468","region":"PA","city":"New Salem","latitude":39.9242,"longitude":-79.8356}}(window,'GeoPostal','US');

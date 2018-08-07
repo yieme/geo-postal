@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652300"]={"code":"652300","region":"Xinjiang","city":"Changji","latitude":44.01667,"longitude":87.31667}}(window,'GeoPostal','CN');

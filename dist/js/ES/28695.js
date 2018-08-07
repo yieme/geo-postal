@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28695"]={"code":"28695","region":"Madrid, Comunidad de","city":"Navas del Rey","latitude":40.3861,"longitude":-4.25117}}(window,'GeoPostal','ES');

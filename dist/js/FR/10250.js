@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10250"]={"code":"10250","region":"Grand-Est","city":"Mussy-sur-Seine","latitude":47.97791,"longitude":4.49743}}(window,'GeoPostal','FR');

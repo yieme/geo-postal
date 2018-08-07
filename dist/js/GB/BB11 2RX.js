@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB11 2RX"]={"code":"BB11 2RX","region":"England","city":"Burnley","latitude":53.8,"longitude":-2.23333}}(window,'GeoPostal','GB');

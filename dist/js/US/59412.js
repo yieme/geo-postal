@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59412"]={"code":"59412","region":"MT","city":"Belt","latitude":47.3821,"longitude":-110.9081}}(window,'GeoPostal','US');

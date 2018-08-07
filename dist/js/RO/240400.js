@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["240400"]={"code":"240400","region":"Valcea","city":"Ramnicu Valcea","latitude":45.1,"longitude":24.36667}}(window,'GeoPostal','RO');

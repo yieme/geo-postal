@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02739"]={"code":"02739","region":"MA","city":"Mattapoisett","latitude":41.6618,"longitude":-70.8164}}(window,'GeoPostal','US');

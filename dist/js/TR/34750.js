@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34750"]={"code":"34750","region":"Kirikkale","city":"Delice","latitude":39.95371,"longitude":34.02587}}(window,'GeoPostal','TR');

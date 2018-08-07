@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238581"]={"code":"238581","region":"Kaliningradskaya oblast'","city":"Yantarnyy","latitude":54.87102,"longitude":19.94016}}(window,'GeoPostal','RU');

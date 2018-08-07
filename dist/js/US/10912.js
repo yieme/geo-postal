@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10912"]={"code":"10912","region":"NY","city":"Bellvale","latitude":41.2504,"longitude":-74.3107}}(window,'GeoPostal','US');

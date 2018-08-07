@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS14 3HE"]={"code":"SS14 3HE","region":"England","city":"York","latitude":53.95763,"longitude":-1.08271}}(window,'GeoPostal','GB');

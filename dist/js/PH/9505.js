@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9505"]={"code":"9505","region":"South Cotabato","city":"Tupi","latitude":6.33444,"longitude":124.95278}}(window,'GeoPostal','PH');

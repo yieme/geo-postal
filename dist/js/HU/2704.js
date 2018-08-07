@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2704"]={"code":"2704","region":"Pest","city":"Cegled","latitude":47.17266,"longitude":19.79952}}(window,'GeoPostal','HU');

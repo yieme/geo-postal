@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64035"]={"code":"64035","region":"MO","city":"Hardin","latitude":39.3504,"longitude":-93.8409}}(window,'GeoPostal','US');

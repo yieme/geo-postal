@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM11 1QB"]={"code":"RM11 1QB","region":"England","city":"Hornchurch","latitude":51.55685,"longitude":0.21664}}(window,'GeoPostal','GB');

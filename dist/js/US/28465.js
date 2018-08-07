@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28465"]={"code":"28465","region":"NC","city":"Oak Island","latitude":33.9161,"longitude":-78.1255}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3064"]={"code":"3064","region":"Victoria","city":"Craigieburn","latitude":-37.6,"longitude":144.95}}(window,'GeoPostal','AU');

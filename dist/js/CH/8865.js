@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8865"]={"code":"8865","region":"Glarus","city":"Bilten","latitude":47.15099,"longitude":9.02821}}(window,'GeoPostal','CH');

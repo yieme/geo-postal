@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61700-000"]={"code":"61700-000","region":"Ceara","city":"Aquiraz","latitude":-3.90139,"longitude":-38.39111}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51445"]={"code":"51445","region":"Iowa","city":"Ida Grove","latitude":42.34499,"longitude":-95.47167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06371"]={"code":"06371","region":"Connecticut","city":"Old Lyme","latitude":41.330637,"longitude":-72.309369}}(window,'GeoPostal','US');

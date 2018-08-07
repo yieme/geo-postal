@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53564"]={"code":"53564","region":"Dnipropetrovska oblast","city":"Vyshchetarasivka","latitude":47.5685,"longitude":34.88096}}(window,'GeoPostal','UA');

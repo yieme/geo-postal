@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11710"]={"code":"11710","region":"New York","city":"North Bellmore","latitude":40.691676,"longitude":-73.53934}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95983"]={"code":"95983","region":"CA","city":"Taylorsville","latitude":40.0357,"longitude":-120.7353}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV49 9BJ"]={"code":"IV49 9BJ","region":"Scotland","city":"Elgol","latitude":57.14645,"longitude":-6.103}}(window,'GeoPostal','GB');

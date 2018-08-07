@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07080"]={"code":"07080","region":"Nevsehir","city":"Hacibektas","latitude":38.94077,"longitude":34.5577}}(window,'GeoPostal','TR');

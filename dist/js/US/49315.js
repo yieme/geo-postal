@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49315"]={"code":"49315","region":"Michigan","city":"Byron Center","latitude":42.81225,"longitude":-85.72281}}(window,'GeoPostal','US');

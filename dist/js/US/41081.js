@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41081"]={"code":"41081","region":"Kentucky","city":"Plummers Landing","latitude":38.30724,"longitude":-83.56801}}(window,'GeoPostal','US');

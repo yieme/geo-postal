@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 1C0"]={"code":"G0C 1C0","region":"Quebec","city":"New-Richmond","latitude":48.16059,"longitude":-65.85823}}(window,'GeoPostal','CA');

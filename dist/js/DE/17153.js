@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17153"]={"code":"17153","region":"Mecklenburg-Vorpommern","city":"Kittendorf","latitude":53.63333,"longitude":12.9}}(window,'GeoPostal','DE');

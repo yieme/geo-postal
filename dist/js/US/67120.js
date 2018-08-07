@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67120"]={"code":"67120","region":"KS","city":"Peck","latitude":37.5054,"longitude":-97.3408}}(window,'GeoPostal','US');

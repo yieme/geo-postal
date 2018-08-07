@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91074"]={"code":"91074","region":"Bayern","city":"Herzogenaurach","latitude":49.56798,"longitude":10.88565}}(window,'GeoPostal','DE');

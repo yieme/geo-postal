@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07100"]={"code":"07100","region":"Illes Balears","city":"Soller","latitude":39.76623,"longitude":2.71521}}(window,'GeoPostal','ES');

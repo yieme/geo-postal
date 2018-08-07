@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140702"]={"code":"140702","region":"Punjab","city":"Ghanaur","latitude":30.33222,"longitude":76.60722}}(window,'GeoPostal','IN');

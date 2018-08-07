@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87319"]={"code":"87319","region":"NM","city":"Mentmore","latitude":35.5042,"longitude":-108.8317}}(window,'GeoPostal','US');

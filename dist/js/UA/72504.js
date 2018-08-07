@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72504"]={"code":"72504","region":"Zaporizka oblast","city":"Yakymivka","latitude":46.69972,"longitude":35.15916}}(window,'GeoPostal','UA');

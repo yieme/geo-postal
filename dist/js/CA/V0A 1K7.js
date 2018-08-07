@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1K7"]={"code":"V0A 1K7","region":"British Columbia","city":"Invermere","latitude":51.477818,"longitude":-116.823229}}(window,'GeoPostal','CA');

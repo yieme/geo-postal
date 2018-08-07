@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83059"]={"code":"83059","region":"Bayern","city":"Kolbermoor","latitude":47.84965,"longitude":12.06696}}(window,'GeoPostal','DE');

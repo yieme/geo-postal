@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5923"]={"code":"MD-5923","region":"Falesti","city":"Falesti","latitude":47.57361,"longitude":27.70917}}(window,'GeoPostal','MD');

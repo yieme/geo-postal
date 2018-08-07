@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572400"]={"code":"572400","region":"Hainan","city":"Yelin","latitude":18.52216,"longitude":110.04106}}(window,'GeoPostal','CN');

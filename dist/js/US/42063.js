@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42063"]={"code":"42063","region":"KY","city":"Lynnville","latitude":36.5603,"longitude":-88.5692}}(window,'GeoPostal','US');

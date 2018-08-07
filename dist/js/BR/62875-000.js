@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62875-000"]={"code":"62875-000","region":"Ceara","city":"Chorozinho","latitude":-4.30028,"longitude":-38.49778}}(window,'GeoPostal','BR');

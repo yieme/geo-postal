@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0836"]={"code":"0836","region":"Northern Territory","city":"Girraween","latitude":-12.52528,"longitude":131.09566}}(window,'GeoPostal','AU');

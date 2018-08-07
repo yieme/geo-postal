@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10670"]={"code":"10670","region":"Extremadura","city":"Carcaboso","latitude":40.04968,"longitude":-6.21376}}(window,'GeoPostal','ES');

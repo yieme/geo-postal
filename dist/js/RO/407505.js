@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407505"]={"code":"407505","region":"Cluj","city":"Savadisla","latitude":46.68333,"longitude":23.45}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6TU"]={"code":"ML12 6TU","region":"Scotland","city":"Crawford","latitude":55.46667,"longitude":-3.65}}(window,'GeoPostal','GB');

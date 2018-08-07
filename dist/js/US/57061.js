@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57061"]={"code":"57061","region":"SD","city":"Sinai","latitude":44.2444,"longitude":-97.0409}}(window,'GeoPostal','US');

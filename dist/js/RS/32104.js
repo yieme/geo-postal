@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32104"]={"code":"32104","region":"Moravicki okrug","city":"Cacak","latitude":43.89139,"longitude":20.34972}}(window,'GeoPostal','RS');

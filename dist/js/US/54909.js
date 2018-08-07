@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54909"]={"code":"54909","region":"WI","city":"Almond","latitude":44.2898,"longitude":-89.3584}}(window,'GeoPostal','US');

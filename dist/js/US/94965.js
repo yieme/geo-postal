@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94965"]={"code":"94965","region":"California","city":"Sausalito","latitude":37.8651,"longitude":-122.53098}}(window,'GeoPostal','US');

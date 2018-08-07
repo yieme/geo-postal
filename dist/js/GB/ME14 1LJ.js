@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ME14 1LJ"]={"code":"ME14 1LJ","region":"England","city":"Fremlin Walk","latitude":51.27554,"longitude":0.52126}}(window,'GeoPostal','GB');

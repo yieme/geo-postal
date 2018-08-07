@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 3E0"]={"code":"G0R 3E0","region":"Quebec","city":"Saint-Henri","latitude":46.697147,"longitude":-71.020015}}(window,'GeoPostal','CA');

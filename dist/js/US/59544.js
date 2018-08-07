@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59544"]={"code":"59544","region":"MT","city":"Whitewater","latitude":48.7595,"longitude":-107.6276}}(window,'GeoPostal','US');

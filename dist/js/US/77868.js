@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77868"]={"code":"77868","region":"Texas","city":"Navasota","latitude":30.387978,"longitude":-96.084867}}(window,'GeoPostal','US');

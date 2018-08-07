@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN25 1PA"]={"code":"BN25 1PA","region":"England","city":"Seaford","latitude":50.77141,"longitude":0.10268}}(window,'GeoPostal','GB');

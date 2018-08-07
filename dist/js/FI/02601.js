@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02601"]={"code":"02601","region":"Uusimaa","city":"Espoo","latitude":60.2052,"longitude":24.6522}}(window,'GeoPostal','FI');

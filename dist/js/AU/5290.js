@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5290"]={"code":"5290","region":"South Australia","city":"Mount Gambier","latitude":-37.8318,"longitude":140.77919}}(window,'GeoPostal','AU');

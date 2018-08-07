@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74345"]={"code":"74345","region":"OK","city":"Grove","latitude":36.6036,"longitude":-94.7297}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19971"]={"code":"19971","region":"Delaware","city":"Rehoboth Beach","latitude":38.72654,"longitude":-75.08125}}(window,'GeoPostal','US');

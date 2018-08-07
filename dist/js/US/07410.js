@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07410"]={"code":"07410","region":"New Jersey","city":"Fair Lawn","latitude":40.93596,"longitude":-74.1198}}(window,'GeoPostal','US');

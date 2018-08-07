@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 61"]={"code":"696 61","region":"Jihomoravsky kraj","city":"Vnorovy","latitude":48.93096,"longitude":17.3505}}(window,'GeoPostal','CZ');

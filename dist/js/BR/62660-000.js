@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62660-000"]={"code":"62660-000","region":"Ceara","city":"Umirim","latitude":-3.67722,"longitude":-39.35028}}(window,'GeoPostal','BR');

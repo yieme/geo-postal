@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91980"]={"code":"91980","region":"CA","city":"Tecate","latitude":32.5889,"longitude":-116.6192}}(window,'GeoPostal','US');

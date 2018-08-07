@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31110"]={"code":"31110","region":"Buri Ram","city":"Nang Rong","latitude":14.6377,"longitude":102.79138}}(window,'GeoPostal','TH');

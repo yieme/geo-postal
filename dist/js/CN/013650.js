@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["013650"]={"code":"013650","region":"Nei Mongol","city":"Xinghe","latitude":40.87556,"longitude":113.88389}}(window,'GeoPostal','CN');

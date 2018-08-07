@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML3 0EG"]={"code":"ML3 0EG","region":"Scotland","city":"Hamilton","latitude":55.76667,"longitude":-4.03333}}(window,'GeoPostal','GB');

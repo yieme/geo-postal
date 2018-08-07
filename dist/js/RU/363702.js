@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363702"]={"code":"363702","region":"Severnaya Osetiya, Respublika","city":"Terskaya","latitude":43.72376,"longitude":44.72442}}(window,'GeoPostal','RU');

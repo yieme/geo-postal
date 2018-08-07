@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207096"]={"code":"207096","region":"Dolj","city":"Bratovesti","latitude":44.13333,"longitude":23.9}}(window,'GeoPostal','RO');

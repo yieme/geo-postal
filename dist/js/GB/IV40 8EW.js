@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV40 8EW"]={"code":"IV40 8EW","region":"Scotland","city":"Bundalloch","latitude":57.28333,"longitude":-5.5}}(window,'GeoPostal','GB');

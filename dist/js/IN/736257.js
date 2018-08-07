@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["736257"]={"code":"736257","region":"West Bengal","city":"Karimpur","latitude":23.96667,"longitude":88.61667}}(window,'GeoPostal','IN');

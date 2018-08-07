@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17800"]={"code":"17800","region":"Nouvelle-Aquitaine","city":"Pons","latitude":45.57988,"longitude":-0.54783}}(window,'GeoPostal','FR');

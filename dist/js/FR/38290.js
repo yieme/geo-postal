@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38290"]={"code":"38290","region":"Auvergne-Rhone-Alpes","city":"Frontonas","latitude":45.64782,"longitude":5.18341}}(window,'GeoPostal','FR');

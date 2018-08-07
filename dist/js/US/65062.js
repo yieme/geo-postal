@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65062"]={"code":"65062","region":"MO","city":"Mount Sterling","latitude":38.4956,"longitude":-91.6515}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52301"]={"code":"52301","region":"Etela-Savo","city":"Ristiina","latitude":61.50579,"longitude":27.24643}}(window,'GeoPostal','FI');

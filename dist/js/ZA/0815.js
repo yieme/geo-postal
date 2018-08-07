@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0815"]={"code":"0815","region":"Limpopo","city":"Ga-Kgapane","latitude":-23.63333,"longitude":30.21667}}(window,'GeoPostal','ZA');

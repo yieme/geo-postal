@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28130"]={"code":"28130","region":"Centre-Val de Loire","city":"Hanches","latitude":48.60115,"longitude":1.65137}}(window,'GeoPostal','FR');

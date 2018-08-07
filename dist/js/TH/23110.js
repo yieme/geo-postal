@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23110"]={"code":"23110","region":"Trat","city":"Khlong Yai","latitude":11.77644,"longitude":102.88567}}(window,'GeoPostal','TH');

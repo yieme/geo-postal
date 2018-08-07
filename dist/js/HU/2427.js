@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2427"]={"code":"2427","region":"Fejer","city":"Baracs","latitude":46.88202,"longitude":18.90658}}(window,'GeoPostal','HU');

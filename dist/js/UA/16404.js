@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16404"]={"code":"16404","region":"Chernihivska oblast","city":"Borzna","latitude":51.25464,"longitude":32.4269}}(window,'GeoPostal','UA');

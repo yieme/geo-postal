@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["225401"]={"code":"225401","region":"Mehedinti","city":"Vanju-Mare","latitude":44.42528,"longitude":22.86972}}(window,'GeoPostal','RO');

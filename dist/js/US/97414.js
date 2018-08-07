@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97414"]={"code":"97414","region":"OR","city":"Broadbent","latitude":42.985,"longitude":-124.1189}}(window,'GeoPostal','US');

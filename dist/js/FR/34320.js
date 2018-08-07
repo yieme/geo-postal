@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34320"]={"code":"34320","region":"Occitanie","city":"Roujan","latitude":43.50489,"longitude":3.31071}}(window,'GeoPostal','FR');

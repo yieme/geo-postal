@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24710"]={"code":"24710","region":"Sivas","city":"Zara","latitude":39.89778,"longitude":37.75833}}(window,'GeoPostal','TR');

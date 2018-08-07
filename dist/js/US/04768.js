@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04768"]={"code":"04768","region":"Maine","city":"Portage","latitude":46.789927,"longitude":-68.542777}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 3JG"]={"code":"CM6 3JG","region":"England","city":"Felsted","latitude":51.85656,"longitude":0.43327}}(window,'GeoPostal','GB');

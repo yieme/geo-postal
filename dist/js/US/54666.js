@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54666"]={"code":"54666","region":"Wisconsin","city":"Warrens","latitude":44.130003,"longitude":-90.500831}}(window,'GeoPostal','US');

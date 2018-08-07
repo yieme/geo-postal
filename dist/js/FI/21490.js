@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21490"]={"code":"21490","region":"Pohjois-Pohjanmaa","city":"Marttila","latitude":65.3,"longitude":27.16667}}(window,'GeoPostal','FI');

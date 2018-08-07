@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59825"]={"code":"59825","region":"MT","city":"Clinton","latitude":46.7673,"longitude":-113.7038}}(window,'GeoPostal','US');

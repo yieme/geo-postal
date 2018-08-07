@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65708"]={"code":"65708","region":"Missouri","city":"Monett","latitude":36.918272,"longitude":-93.928335}}(window,'GeoPostal','US');

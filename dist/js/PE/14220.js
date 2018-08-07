@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14220"]={"code":"14220","region":"Lambayeque","city":"Motupe","latitude":-6.15194,"longitude":-79.71417}}(window,'GeoPostal','PE');

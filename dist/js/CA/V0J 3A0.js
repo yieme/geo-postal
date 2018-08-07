@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 3A0"]={"code":"V0J 3A0","region":"British Columbia","city":"Vanderhoof","latitude":54.01657,"longitude":-124.01982}}(window,'GeoPostal','CA');

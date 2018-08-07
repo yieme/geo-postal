@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64849"]={"code":"64849","region":"MO","city":"Neck City","latitude":37.257,"longitude":-94.4444}}(window,'GeoPostal','US');

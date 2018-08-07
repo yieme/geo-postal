@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69160"]={"code":"69160","region":"Auvergne-Rhone-Alpes","city":"Venissieux","latitude":45.70254,"longitude":4.87147}}(window,'GeoPostal','FR');

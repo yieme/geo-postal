@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437220"]={"code":"437220","region":"Maramures","city":"Poienile de sub Munte","latitude":47.81667,"longitude":24.43333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"West-Vlaanderen","city":"Diksmuide","latitude":51.03248,"longitude":2.86384}}(window,'GeoPostal','BE');

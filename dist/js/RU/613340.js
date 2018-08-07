@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613340"]={"code":"613340","region":"Kirovskaya oblast'","city":"Sovetsk","latitude":57.58475,"longitude":48.95844}}(window,'GeoPostal','RU');

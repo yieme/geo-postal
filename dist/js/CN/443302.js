@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443302"]={"code":"443302","region":"Hubei","city":"Yunchi","latitude":30.52235,"longitude":111.44046}}(window,'GeoPostal','CN');

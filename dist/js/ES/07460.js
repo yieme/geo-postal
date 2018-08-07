@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07460"]={"code":"07460","region":"Illes Balears","city":"Pollenca","latitude":39.87678,"longitude":3.01626}}(window,'GeoPostal','ES');

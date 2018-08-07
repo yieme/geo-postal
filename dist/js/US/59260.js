@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59260"]={"code":"59260","region":"MT","city":"Richland","latitude":48.6507,"longitude":-106.1192}}(window,'GeoPostal','US');

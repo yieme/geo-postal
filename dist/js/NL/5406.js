@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5406"]={"code":"5406","region":"Noord-Brabant","city":"Uden","latitude":51.66083,"longitude":5.61944}}(window,'GeoPostal','NL');

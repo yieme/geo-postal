@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL27 7RU"]={"code":"PL27 7RU","region":"England","city":"Saint Merryn","latitude":50.51667,"longitude":-4.96667}}(window,'GeoPostal','GB');

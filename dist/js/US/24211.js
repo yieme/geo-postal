@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24211"]={"code":"24211","region":"VA","city":"Abingdon","latitude":36.6673,"longitude":-81.9648}}(window,'GeoPostal','US');

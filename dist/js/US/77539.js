@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77539"]={"code":"77539","region":"Texas","city":"Dickinson","latitude":29.46079,"longitude":-95.05132}}(window,'GeoPostal','US');

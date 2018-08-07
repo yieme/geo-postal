@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341031"]={"code":"341031","region":"Rajasthan","city":"Merta","latitude":26.65,"longitude":74.03333}}(window,'GeoPostal','IN');

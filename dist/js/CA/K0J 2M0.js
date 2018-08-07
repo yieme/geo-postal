@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 2M0"]={"code":"K0J 2M0","region":"Ontario","city":"Whitney","latitude":45.49347,"longitude":-78.23502}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2677"]={"code":"2677","region":"Cordoba","city":"Ucacha","latitude":-33.03203,"longitude":-63.50666}}(window,'GeoPostal','AR');

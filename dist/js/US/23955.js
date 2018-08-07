@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23955"]={"code":"23955","region":"VA","city":"Nottoway","latitude":37.1161,"longitude":-78.0578}}(window,'GeoPostal','US');

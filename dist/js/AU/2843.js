@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2843"]={"code":"2843","region":"New South Wales","city":"Coolah","latitude":-31.82787,"longitude":149.71564}}(window,'GeoPostal','AU');

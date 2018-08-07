@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46173"]={"code":"46173","region":"Indiana","city":"Rushville","latitude":39.614319,"longitude":-85.448798}}(window,'GeoPostal','US');

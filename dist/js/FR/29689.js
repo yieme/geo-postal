@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29689"]={"code":"29689","region":"Bretagne","city":"Roscoff","latitude":48.72381,"longitude":-3.98709}}(window,'GeoPostal','FR');

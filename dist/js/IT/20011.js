@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20011"]={"code":"20011","region":"Lombardia","city":"Corbetta","latitude":45.46723,"longitude":8.91867}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70220"]={"code":"70220","region":"Federacija Bosne i Hercegovine","city":"Donji Vakuf","latitude":44.14361,"longitude":17.4}}(window,'GeoPostal','BA');

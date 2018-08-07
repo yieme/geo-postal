@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68767"]={"code":"68767","region":"Nebraska","city":"Pierce","latitude":42.19917,"longitude":-97.52672}}(window,'GeoPostal','US');

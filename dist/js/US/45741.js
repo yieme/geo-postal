@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45741"]={"code":"45741","region":"OH","city":"Langsville","latitude":39.0697,"longitude":-82.2499}}(window,'GeoPostal','US');

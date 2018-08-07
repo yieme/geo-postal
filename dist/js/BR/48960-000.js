@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48960-000"]={"code":"48960-000","region":"Bahia","city":"Jaguarari","latitude":-10.26389,"longitude":-40.19583}}(window,'GeoPostal','BR');

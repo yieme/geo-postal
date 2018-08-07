@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH3 9JY"]={"code":"CH3 9JY","region":"England","city":"Harthill","latitude":53.08333,"longitude":-2.75}}(window,'GeoPostal','GB');

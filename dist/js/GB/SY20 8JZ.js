@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 8JZ"]={"code":"SY20 8JZ","region":"Wales","city":"Cemmaes Road","latitude":52.62395,"longitude":-3.74509}}(window,'GeoPostal','GB');

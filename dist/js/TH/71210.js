@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71210"]={"code":"71210","region":"Suphan Buri","city":"Nong Yasai","latitude":14.77988,"longitude":99.91073}}(window,'GeoPostal','TH');

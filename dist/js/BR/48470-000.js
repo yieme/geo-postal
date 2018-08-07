@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48470-000"]={"code":"48470-000","region":"Bahia","city":"Olindina","latitude":-11.36667,"longitude":-38.33333}}(window,'GeoPostal','BR');

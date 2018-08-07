@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-210"]={"code":"73-210","region":"Zachodniopomorskie","city":"Recz","latitude":53.25989,"longitude":15.54713}}(window,'GeoPostal','PL');

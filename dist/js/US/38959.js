@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38959"]={"code":"38959","region":"MS","city":"Swiftown","latitude":33.3809,"longitude":-90.3496}}(window,'GeoPostal','US');

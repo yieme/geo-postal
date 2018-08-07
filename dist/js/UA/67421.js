@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67421"]={"code":"67421","region":"Odeska oblast","city":"Shevchenkove","latitude":45.55604,"longitude":29.33357}}(window,'GeoPostal','UA');

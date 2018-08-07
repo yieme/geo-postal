@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43048"]={"code":"43048","region":"OH","city":"Mount Liberty","latitude":40.3467,"longitude":-82.6302}}(window,'GeoPostal','US');

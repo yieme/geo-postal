@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04029"]={"code":"04029","region":"Lazio","city":"Sperlonga","latitude":41.25897,"longitude":13.43302}}(window,'GeoPostal','IT');

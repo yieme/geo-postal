@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14824"]={"code":"14824","region":"NY","city":"Cayuta","latitude":42.2774,"longitude":-76.6974}}(window,'GeoPostal','US');

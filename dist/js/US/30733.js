@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30733"]={"code":"30733","region":"GA","city":"Plainville","latitude":34.4145,"longitude":-85.0312}}(window,'GeoPostal','US');

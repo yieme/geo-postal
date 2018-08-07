@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21250"]={"code":"21250","region":"Puno","city":"Macusani","latitude":-14.08333,"longitude":-70.43333}}(window,'GeoPostal','PE');

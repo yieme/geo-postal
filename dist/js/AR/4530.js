@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4530"]={"code":"4530","region":"Salta","city":"San Ramon de la Nueva Oran","latitude":-23.13223,"longitude":-64.32598}}(window,'GeoPostal','AR');

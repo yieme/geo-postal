@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24593"]={"code":"24593","region":"VA","city":"Spout Spring","latitude":37.3643,"longitude":-78.9059}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN5 0RZ"]={"code":"LN5 0RZ","region":"England","city":"Brant Broughton","latitude":53.0777,"longitude":-0.63259}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28502"]={"code":"28502","region":"North Carolina","city":"Kinston","latitude":35.263481,"longitude":-77.575653}}(window,'GeoPostal','US');

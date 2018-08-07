@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80450"]={"code":"80450","region":"Hauts-de-France","city":"Camon","latitude":49.88764,"longitude":2.34486}}(window,'GeoPostal','FR');

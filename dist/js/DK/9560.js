@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9560"]={"code":"9560","region":"Nordjylland","city":"Hadsund","latitude":56.71482,"longitude":10.11682}}(window,'GeoPostal','DK');

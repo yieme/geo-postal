@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74420"]={"code":"74420","region":"Camaguey","city":"Camaguey","latitude":21.38083,"longitude":-77.91694}}(window,'GeoPostal','CU');

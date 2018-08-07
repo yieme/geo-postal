@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74647"]={"code":"74647","region":"OK","city":"Newkirk","latitude":36.84,"longitude":-97.0561}}(window,'GeoPostal','US');

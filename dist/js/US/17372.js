@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17372"]={"code":"17372","region":"PA","city":"York Springs","latitude":40.0084,"longitude":-77.1061}}(window,'GeoPostal','US');

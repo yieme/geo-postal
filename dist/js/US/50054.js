@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50054"]={"code":"50054","region":"IA","city":"Colfax","latitude":41.6788,"longitude":-93.2588}}(window,'GeoPostal','US');

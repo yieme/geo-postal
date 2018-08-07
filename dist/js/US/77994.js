@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77994"]={"code":"77994","region":"TX","city":"Westhoff","latitude":29.1792,"longitude":-97.46}}(window,'GeoPostal','US');

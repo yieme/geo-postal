@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR27 0LY"]={"code":"NR27 0LY","region":"England","city":"Sidestrand","latitude":52.90734,"longitude":1.3583}}(window,'GeoPostal','GB');

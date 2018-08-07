@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28666"]={"code":"28666","region":"NC","city":"Icard","latitude":35.7274,"longitude":-81.4706}}(window,'GeoPostal','US');

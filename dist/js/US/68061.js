@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68061"]={"code":"68061","region":"NE","city":"Tekamah","latitude":41.7819,"longitude":-96.2281}}(window,'GeoPostal','US');

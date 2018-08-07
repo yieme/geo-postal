@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16734"]={"code":"16734","region":"PA","city":"James City","latitude":41.6192,"longitude":-78.8394}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52721"]={"code":"52721","region":"IA","city":"Bennett","latitude":41.7353,"longitude":-90.9656}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67150"]={"code":"67150","region":"Zonguldak","city":"Kilimli","latitude":41.488171,"longitude":31.866962}}(window,'GeoPostal','TR');

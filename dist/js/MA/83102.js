@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83102"]={"code":"83102","region":"Souss-Massa-Draa","city":"Bigoudine","latitude":30.72376,"longitude":-9.21097}}(window,'GeoPostal','MA');

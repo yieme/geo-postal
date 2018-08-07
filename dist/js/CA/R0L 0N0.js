@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 0N0"]={"code":"R0L 0N0","region":"Manitoba","city":"Good Harbour","latitude":52.12972,"longitude":-100.15025}}(window,'GeoPostal','CA');

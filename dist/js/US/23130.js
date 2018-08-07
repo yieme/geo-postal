@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23130"]={"code":"23130","region":"VA","city":"Onemo","latitude":37.3985,"longitude":-76.2941}}(window,'GeoPostal','US');

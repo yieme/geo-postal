@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0T 1A0"]={"code":"G0T 1A0","region":"Quebec","city":"Baie-Sainte-Catherine","latitude":48.10617,"longitude":-69.72834}}(window,'GeoPostal','CA');

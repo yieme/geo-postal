@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65310"]={"code":"65310","region":"Sindh","city":"Bozdar","latitude":27.18275,"longitude":68.63604}}(window,'GeoPostal','PK');

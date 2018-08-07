@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87735"]={"code":"87735","region":"NM","city":"Ojo Feliz","latitude":36.0578,"longitude":-105.1183}}(window,'GeoPostal','US');

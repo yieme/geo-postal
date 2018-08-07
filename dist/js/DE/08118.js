@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08118"]={"code":"08118","region":"Sachsen","city":"Raum","latitude":50.65876,"longitude":12.7032}}(window,'GeoPostal','DE');

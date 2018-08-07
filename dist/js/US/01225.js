@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01225"]={"code":"01225","region":"MA","city":"Cheshire","latitude":42.5611,"longitude":-73.158}}(window,'GeoPostal','US');

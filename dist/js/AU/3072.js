@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3072"]={"code":"3072","region":"Victoria","city":"Preston","latitude":-37.75,"longitude":145.01667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62681"]={"code":"62681","region":"Illinois","city":"Rushville","latitude":40.12116,"longitude":-90.56318}}(window,'GeoPostal','US');

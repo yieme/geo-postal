@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50170"]={"code":"50170","region":"Aragon","city":"Mequinensa / Mequinenza","latitude":41.37211,"longitude":0.30169}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36763"]={"code":"36763","region":"Jambi","city":"Simpang","latitude":-1.26667,"longitude":104.08333}}(window,'GeoPostal','ID');

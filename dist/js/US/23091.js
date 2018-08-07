@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23091"]={"code":"23091","region":"Virginia","city":"Little Plymouth","latitude":37.66767,"longitude":-76.809353}}(window,'GeoPostal','US');

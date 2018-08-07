@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368030"]={"code":"368030","region":"Dagestan, Respublika","city":"Botashyurt","latitude":43.30801,"longitude":46.5099}}(window,'GeoPostal','RU');

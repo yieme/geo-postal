@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13747"]={"code":"13747","region":"NY","city":"Colliersville","latitude":42.5051,"longitude":-74.9821}}(window,'GeoPostal','US');

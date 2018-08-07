@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86780"]={"code":"86780","region":"Tabasco","city":"Jonuta","latitude":18.08333,"longitude":-92.13333}}(window,'GeoPostal','MX');

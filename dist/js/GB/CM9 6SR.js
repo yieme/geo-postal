@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM9 6SR"]={"code":"CM9 6SR","region":"England","city":"Woodham Mortimer","latitude":51.70911,"longitude":0.6233}}(window,'GeoPostal','GB');

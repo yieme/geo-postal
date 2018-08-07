@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["388713"]={"code":"388713","region":"Gujarat","city":"Godhra","latitude":22.75,"longitude":73.63333}}(window,'GeoPostal','IN');

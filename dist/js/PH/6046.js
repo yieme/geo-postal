@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6046"]={"code":"6046","region":"Cebu","city":"Bairan","latitude":10.19718,"longitude":123.7271}}(window,'GeoPostal','PH');

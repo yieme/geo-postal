@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27190"]={"code":"27190","region":"Normandie","city":"Conches-en-Ouche","latitude":48.95768,"longitude":0.94052}}(window,'GeoPostal','FR');

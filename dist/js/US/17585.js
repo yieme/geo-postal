@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17585"]={"code":"17585","region":"PA","city":"Witmer","latitude":40.0484,"longitude":-76.2114}}(window,'GeoPostal','US');

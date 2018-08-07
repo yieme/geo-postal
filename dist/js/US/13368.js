@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13368"]={"code":"13368","region":"NY","city":"Lyons Falls","latitude":43.6262,"longitude":-75.3553}}(window,'GeoPostal','US');

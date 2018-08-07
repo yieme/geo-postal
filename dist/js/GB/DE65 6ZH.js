@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE65 6ZH"]={"code":"DE65 6ZH","region":"England","city":"Repton","latitude":52.83983,"longitude":-1.55061}}(window,'GeoPostal','GB');

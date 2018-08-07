@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75475"]={"code":"75475","region":"TX","city":"Randolph","latitude":33.4846,"longitude":-96.2541}}(window,'GeoPostal','US');

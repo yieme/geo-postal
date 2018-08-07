@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3945"]={"code":"3945","region":"Valais","city":"Gampel","latitude":46.31599,"longitude":7.7421}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04255"]={"code":"04255","region":"Maine","city":"Greenwood","latitude":44.321056,"longitude":-70.629218}}(window,'GeoPostal','US');

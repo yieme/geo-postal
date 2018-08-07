@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26723"]={"code":"26723","region":"Niedersachsen","city":"Wolthusen","latitude":53.37245,"longitude":7.23139}}(window,'GeoPostal','DE');

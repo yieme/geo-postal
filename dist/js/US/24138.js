@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24138"]={"code":"24138","region":"VA","city":"Pilot","latitude":37.0565,"longitude":-80.3229}}(window,'GeoPostal','US');

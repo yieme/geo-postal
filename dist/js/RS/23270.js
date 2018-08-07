@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23270"]={"code":"23270","region":"Srednjebanatski okrug","city":"Melenci","latitude":45.51389,"longitude":20.31722}}(window,'GeoPostal','RS');

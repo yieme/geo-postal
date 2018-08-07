@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37707"]={"code":"37707","region":"Tennessee","city":"Harrogate","latitude":36.5823,"longitude":-83.65686}}(window,'GeoPostal','US');

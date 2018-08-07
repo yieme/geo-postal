@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3629"]={"code":"3629","region":"Victoria","city":"Undera","latitude":-36.28333,"longitude":145.21667}}(window,'GeoPostal','AU');

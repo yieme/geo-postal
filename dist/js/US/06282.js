@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06282"]={"code":"06282","region":"CT","city":"Woodstock Valley","latitude":41.9153,"longitude":-72.0937}}(window,'GeoPostal','US');

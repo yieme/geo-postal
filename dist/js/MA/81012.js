@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81012"]={"code":"81012","region":"Guelmim-Es Semara","city":"Guelmim","latitude":28.98696,"longitude":-10.05738}}(window,'GeoPostal','MA');

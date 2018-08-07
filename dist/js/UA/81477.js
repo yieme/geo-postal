@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81477"]={"code":"81477","region":"Lvivska oblast","city":"Dublyany","latitude":49.49832,"longitude":23.38718}}(window,'GeoPostal','UA');

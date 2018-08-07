@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143090"]={"code":"143090","region":"Moskovskaya oblast'","city":"Krasnoznamensk","latitude":55.59944,"longitude":37.03861}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04472"]={"code":"04472","region":"ME","city":"Orland","latitude":44.5458,"longitude":-68.7313}}(window,'GeoPostal','US');

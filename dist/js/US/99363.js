@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99363"]={"code":"99363","region":"WA","city":"Wallula","latitude":46.0846,"longitude":-118.9061}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12736"]={"code":"12736","region":"NY","city":"Fremont Center","latitude":41.8782,"longitude":-75.0343}}(window,'GeoPostal','US');

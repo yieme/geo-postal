@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99677"]={"code":"99677","region":"Alaska","city":"Tatitlek","latitude":60.86694,"longitude":-146.67722}}(window,'GeoPostal','US');

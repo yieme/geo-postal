@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321506"]={"code":"321506","region":"Rajasthan","city":"Sri Dungargarh","latitude":28.08333,"longitude":74.01667}}(window,'GeoPostal','IN');

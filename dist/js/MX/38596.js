@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38596"]={"code":"38596","region":"Queretaro","city":"Queretaro","latitude":20.6,"longitude":-100.38333}}(window,'GeoPostal','MX');

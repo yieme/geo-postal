@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49085"]={"code":"49085","region":"Michigan","city":"Saint Joseph","latitude":42.068991,"longitude":-86.476792}}(window,'GeoPostal','US');

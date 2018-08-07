@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 8QW"]={"code":"SY7 8QW","region":"England","city":"Newcastle","latitude":52.43333,"longitude":-3.11667}}(window,'GeoPostal','GB');

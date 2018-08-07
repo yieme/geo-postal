@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14240"]={"code":"14240","region":"Kolubarski okrug","city":"Ljig","latitude":44.22444,"longitude":20.24028}}(window,'GeoPostal','RS');

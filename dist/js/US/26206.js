@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26206"]={"code":"26206","region":"West Virginia","city":"Cowen","latitude":38.41056,"longitude":-80.55583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415402"]={"code":"415402","region":"Dambovita","city":"Nucet","latitude":46.46667,"longitude":22.58333}}(window,'GeoPostal','RO');

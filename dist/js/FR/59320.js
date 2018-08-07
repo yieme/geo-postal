@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59320"]={"code":"59320","region":"Hauts-de-France","city":"Emmerin","latitude":50.59475,"longitude":3.00124}}(window,'GeoPostal','FR');

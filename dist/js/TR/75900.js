@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75900"]={"code":"75900","region":"Ardahan","city":"Damal","latitude":41.34035,"longitude":42.83936}}(window,'GeoPostal','TR');

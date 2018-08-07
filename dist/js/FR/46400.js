@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46400"]={"code":"46400","region":"Occitanie","city":"Saint-Cere","latitude":44.85726,"longitude":1.89415}}(window,'GeoPostal','FR');

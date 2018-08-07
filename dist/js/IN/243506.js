@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243506"]={"code":"243506","region":"Uttar Pradesh","city":"Bisalpur","latitude":28.3,"longitude":79.8}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93514"]={"code":"93514","region":"California","city":"West Bishop","latitude":37.36104,"longitude":-118.45511}}(window,'GeoPostal','US');

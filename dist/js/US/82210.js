@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82210"]={"code":"82210","region":"Wyoming","city":"Chugwater","latitude":41.75583,"longitude":-104.82556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18407"]={"code":"18407","region":"Pennsylvania","city":"Carbondale","latitude":41.574902,"longitude":-75.500184}}(window,'GeoPostal','US');

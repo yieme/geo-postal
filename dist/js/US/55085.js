@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55085"]={"code":"55085","region":"MN","city":"Vermillion","latitude":44.6748,"longitude":-92.9683}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431600"]={"code":"431600","region":"Mordoviya, Respublika","city":"Romodanovo","latitude":54.42753,"longitude":45.32962}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17340-000"]={"code":"17340-000","region":"Sao Paulo","city":"Barra Bonita","latitude":-22.49472,"longitude":-48.55806}}(window,'GeoPostal','BR');

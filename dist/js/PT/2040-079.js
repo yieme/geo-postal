@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2040-079"]={"code":"2040-079","region":"Santarem","city":"Rio Maior","latitude":39.33732,"longitude":-8.93906}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR20 5HB"]={"code":"NR20 5HB","region":"England","city":"North Elmham","latitude":52.7464,"longitude":0.94611}}(window,'GeoPostal','GB');

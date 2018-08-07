@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98920"]={"code":"98920","region":"Zacatecas","city":"Pinos","latitude":22.3,"longitude":-101.56667}}(window,'GeoPostal','MX');

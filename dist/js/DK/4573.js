@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4573"]={"code":"4573","region":"Sjelland","city":"Nykobing Sjaelland","latitude":55.92491,"longitude":11.67109}}(window,'GeoPostal','DK');

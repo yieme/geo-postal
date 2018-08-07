@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26015"]={"code":"26015","region":"Chiapas","city":"Cristobal Obregon","latitude":16.35,"longitude":-93.53333}}(window,'GeoPostal','MX');

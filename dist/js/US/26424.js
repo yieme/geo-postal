@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26424"]={"code":"26424","region":"WV","city":"Rosemont","latitude":39.2687,"longitude":-80.1629}}(window,'GeoPostal','US');

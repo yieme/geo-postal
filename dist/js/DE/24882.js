@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24882"]={"code":"24882","region":"Schleswig-Holstein","city":"Moldenit","latitude":54.5428,"longitude":9.61497}}(window,'GeoPostal','DE');

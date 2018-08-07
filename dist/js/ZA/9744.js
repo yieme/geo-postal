@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9744"]={"code":"9744","region":"Eastern Cape","city":"Burgersdorp","latitude":-30.99766,"longitude":26.32862}}(window,'GeoPostal','ZA');

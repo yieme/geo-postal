@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04745"]={"code":"04745","region":"ME","city":"Frenchville","latitude":47.2826,"longitude":-68.3917}}(window,'GeoPostal','US');

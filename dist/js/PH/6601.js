@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6601"]={"code":"6601","region":"Southern Leyte","city":"Macrohon","latitude":10.07972,"longitude":124.94306}}(window,'GeoPostal','PH');

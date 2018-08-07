@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV47 9QJ"]={"code":"CV47 9QJ","region":"England","city":"Long Itchington","latitude":52.28396,"longitude":-1.39243}}(window,'GeoPostal','GB');

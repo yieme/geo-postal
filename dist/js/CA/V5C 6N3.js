@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V5C 6N3"]={"code":"V5C 6N3","region":"British Columbia","city":"Burnaby","latitude":49.264075,"longitude":-123.019875}}(window,'GeoPostal','CA');

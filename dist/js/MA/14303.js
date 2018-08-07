@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14303"]={"code":"14303","region":"Gharb-Chrarda-Beni Hssen","city":"Sidi Yahia el Gharb","latitude":34.30652,"longitude":-6.30618}}(window,'GeoPostal','MA');

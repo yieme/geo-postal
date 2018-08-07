@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73855"]={"code":"73855","region":"OK","city":"Rosston","latitude":36.8789,"longitude":-99.9003}}(window,'GeoPostal','US');

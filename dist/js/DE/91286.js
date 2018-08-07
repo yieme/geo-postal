@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91286"]={"code":"91286","region":"Bayern","city":"Geschwand","latitude":49.71261,"longitude":11.30921}}(window,'GeoPostal','DE');

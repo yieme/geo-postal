@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07340"]={"code":"07340","region":"Auvergne-Rhone-Alpes","city":"Peaugres","latitude":45.2877,"longitude":4.7291}}(window,'GeoPostal','FR');

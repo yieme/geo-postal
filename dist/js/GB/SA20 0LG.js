@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA20 0LG"]={"code":"SA20 0LG","region":"Wales","city":"Llanfair-ar-y-bryn","latitude":52.04558,"longitude":-3.73661}}(window,'GeoPostal','GB');

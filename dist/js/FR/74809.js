@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74809"]={"code":"74809","region":"Auvergne-Rhone-Alpes","city":"La Roche-sur-Foron","latitude":46.0666,"longitude":6.31224}}(window,'GeoPostal','FR');

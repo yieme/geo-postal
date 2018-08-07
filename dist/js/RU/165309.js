@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165309"]={"code":"165309","region":"Arkhangel'skaya oblast'","city":"Kotlas","latitude":61.25745,"longitude":46.64963}}(window,'GeoPostal','RU');

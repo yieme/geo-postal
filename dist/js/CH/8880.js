@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8880"]={"code":"8880","region":"Sankt Gallen","city":"Walenstadt","latitude":47.12411,"longitude":9.31194}}(window,'GeoPostal','CH');

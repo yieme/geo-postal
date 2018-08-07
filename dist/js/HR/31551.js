@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31551"]={"code":"31551","region":"Osjecko-baranjska zupanija","city":"Belisce","latitude":45.68028,"longitude":18.40583}}(window,'GeoPostal','HR');

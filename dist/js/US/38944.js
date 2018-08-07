@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38944"]={"code":"38944","region":"Mississippi","city":"Minter City","latitude":33.696389,"longitude":-90.295}}(window,'GeoPostal','US');

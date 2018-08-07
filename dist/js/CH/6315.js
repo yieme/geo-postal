@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6315"]={"code":"6315","region":"Schwyz","city":"Rothenthurm","latitude":47.1042,"longitude":8.67585}}(window,'GeoPostal','CH');

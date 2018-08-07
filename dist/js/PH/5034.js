@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5034"]={"code":"5034","region":"Iloilo","city":"Janiuay","latitude":10.9493,"longitude":122.5061}}(window,'GeoPostal','PH');

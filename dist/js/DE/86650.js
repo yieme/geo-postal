@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86650"]={"code":"86650","region":"Bayern","city":"Wemding","latitude":48.87461,"longitude":10.72452}}(window,'GeoPostal','DE');

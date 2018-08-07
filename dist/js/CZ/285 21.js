@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285 21"]={"code":"285 21","region":"Stredocesky kraj","city":"Zbraslavice","latitude":49.81179,"longitude":15.18319}}(window,'GeoPostal','CZ');

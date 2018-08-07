@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01844"]={"code":"01844","region":"Sachsen","city":"Folgenhauser","latitude":51.03812,"longitude":14.22676}}(window,'GeoPostal','DE');

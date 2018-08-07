@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73277"]={"code":"73277","region":"Auvergne-Rhone-Alpes","city":"Albertville","latitude":45.67452,"longitude":6.39061}}(window,'GeoPostal','FR');

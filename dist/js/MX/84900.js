@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84900"]={"code":"84900","region":"Sonora","city":"Ures","latitude":29.43333,"longitude":-110.4}}(window,'GeoPostal','MX');

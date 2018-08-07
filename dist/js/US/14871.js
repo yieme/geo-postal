@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14871"]={"code":"14871","region":"NY","city":"Pine City","latitude":42.0419,"longitude":-76.8815}}(window,'GeoPostal','US');

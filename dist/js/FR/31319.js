@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31319"]={"code":"31319","region":"Occitanie","city":"Labege","latitude":43.53039,"longitude":1.53596}}(window,'GeoPostal','FR');

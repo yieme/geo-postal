@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353650"]={"code":"353650","region":"Krasnodarskiy kray","city":"Kamyshevatskaya","latitude":46.41316,"longitude":37.95632}}(window,'GeoPostal','RU');

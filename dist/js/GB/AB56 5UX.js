@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 5UX"]={"code":"AB56 5UX","region":"Scotland","city":"Kirktown of Deskford","latitude":57.63333,"longitude":-2.81667}}(window,'GeoPostal','GB');

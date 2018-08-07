@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12732"]={"code":"12732","region":"New York","city":"Eldred","latitude":41.528841,"longitude":-74.891396}}(window,'GeoPostal','US');

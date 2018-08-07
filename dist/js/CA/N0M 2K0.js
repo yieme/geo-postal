@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 2K0"]={"code":"N0M 2K0","region":"Ontario","city":"Parkhill","latitude":43.15009,"longitude":-81.68308}}(window,'GeoPostal','CA');

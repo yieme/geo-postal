@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6605"]={"code":"6605","region":"Gelderland","city":"Wijchen","latitude":51.80917,"longitude":5.725}}(window,'GeoPostal','NL');

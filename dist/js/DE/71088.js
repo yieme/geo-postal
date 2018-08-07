@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71088"]={"code":"71088","region":"Baden-Wurttemberg","city":"Holzgerlingen","latitude":48.63969,"longitude":9.01149}}(window,'GeoPostal','DE');

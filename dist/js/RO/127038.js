@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127038"]={"code":"127038","region":"Bacau","city":"Joseni","latitude":46.7,"longitude":25.5}}(window,'GeoPostal','RO');

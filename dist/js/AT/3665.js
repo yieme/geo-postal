@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3665"]={"code":"3665","region":"Niederosterreich","city":"Martinsberg","latitude":48.36667,"longitude":15.15}}(window,'GeoPostal','AT');

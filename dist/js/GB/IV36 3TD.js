@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV36 3TD"]={"code":"IV36 3TD","region":"Scotland","city":"Findhorn Community","latitude":57.6512,"longitude":-3.59182}}(window,'GeoPostal','GB');

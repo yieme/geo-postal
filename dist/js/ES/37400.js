@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37400"]={"code":"37400","region":"Castilla y Leon","city":"Cantalapiedra","latitude":41.1263,"longitude":-5.18351}}(window,'GeoPostal','ES');

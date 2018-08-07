@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49738"]={"code":"49738","region":"Michigan","city":"Grayling","latitude":44.6614,"longitude":-84.71475}}(window,'GeoPostal','US');

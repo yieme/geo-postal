@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 4PU"]={"code":"DG1 4PU","region":"Scotland","city":"Racks","latitude":55.05,"longitude":-3.51667}}(window,'GeoPostal','GB');

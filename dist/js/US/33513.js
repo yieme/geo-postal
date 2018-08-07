@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33513"]={"code":"33513","region":"Florida","city":"Bushnell","latitude":28.664277,"longitude":-82.112855}}(window,'GeoPostal','US');

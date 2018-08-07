@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50069"]={"code":"50069","region":"Iowa","city":"De Soto","latitude":41.532639,"longitude":-94.062123}}(window,'GeoPostal','US');

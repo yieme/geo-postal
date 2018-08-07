@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54790"]={"code":"54790","region":"Grand-Est","city":"Mancieulles","latitude":49.28553,"longitude":5.8971}}(window,'GeoPostal','FR');

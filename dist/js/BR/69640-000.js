@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69640-000"]={"code":"69640-000","region":"Amazonas","city":"Tabatinga","latitude":-4.2525,"longitude":-69.93806}}(window,'GeoPostal','BR');

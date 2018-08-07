@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 2JN"]={"code":"SO21 2JN","region":"England","city":"Hursley","latitude":51.02536,"longitude":-1.39067}}(window,'GeoPostal','GB');

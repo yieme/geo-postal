@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48164"]={"code":"48164","region":"MI","city":"New Boston","latitude":42.1449,"longitude":-83.3589}}(window,'GeoPostal','US');

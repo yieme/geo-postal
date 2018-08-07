@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 07"]={"code":"570 07","region":"Kentriki Makedonia","city":"Gefyra","latitude":40.73333,"longitude":22.69222}}(window,'GeoPostal','GR');

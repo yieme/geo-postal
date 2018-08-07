@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18020"]={"code":"18020","region":"Liguria","city":"Dolcedo","latitude":43.90512,"longitude":7.95015}}(window,'GeoPostal','IT');

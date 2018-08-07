@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143532"]={"code":"143532","region":"Moskovskaya oblast'","city":"Dedovsk","latitude":55.86861,"longitude":37.12222}}(window,'GeoPostal','RU');

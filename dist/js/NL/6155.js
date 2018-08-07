@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6155"]={"code":"6155","region":"Limburg","city":"Puth","latitude":50.95417,"longitude":5.87361}}(window,'GeoPostal','NL');

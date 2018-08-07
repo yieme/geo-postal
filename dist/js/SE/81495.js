@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81495"]={"code":"81495","region":"Uppsala lan","city":"AElvkarleby","latitude":60.57081,"longitude":17.44895}}(window,'GeoPostal','SE');

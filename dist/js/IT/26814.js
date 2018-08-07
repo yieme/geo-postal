@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26814"]={"code":"26814","region":"Lombardia","city":"Livraga","latitude":45.19227,"longitude":9.54646}}(window,'GeoPostal','IT');

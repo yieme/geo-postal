@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83615"]={"code":"83615","region":"Idaho","city":"Donnelly","latitude":44.73028,"longitude":-116.07694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33976"]={"code":"33976","region":"FL","city":"Lehigh Acres","latitude":26.5952,"longitude":-81.6849}}(window,'GeoPostal','US');

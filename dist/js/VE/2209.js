@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2209"]={"code":"2209","region":"Cojedes","city":"Tinaquillo","latitude":9.91861,"longitude":-68.30472}}(window,'GeoPostal','VE');

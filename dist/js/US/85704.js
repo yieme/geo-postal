@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85704"]={"code":"85704","region":"Arizona","city":"Oro Valley","latitude":32.39091,"longitude":-110.96649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56185"]={"code":"56185","region":"Minnesota","city":"Wilmont","latitude":43.775792,"longitude":-95.832972}}(window,'GeoPostal','US');

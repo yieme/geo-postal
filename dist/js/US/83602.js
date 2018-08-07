@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83602"]={"code":"83602","region":"Idaho","city":"Banks","latitude":44.171028,"longitude":-116.029397}}(window,'GeoPostal','US');

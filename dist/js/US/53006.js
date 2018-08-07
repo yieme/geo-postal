@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53006"]={"code":"53006","region":"Wisconsin","city":"Brownsville","latitude":43.6152,"longitude":-88.51698}}(window,'GeoPostal','US');

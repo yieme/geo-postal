@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84079"]={"code":"84079","region":"Bayern","city":"Bruckberg","latitude":48.53333,"longitude":12}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58260"]={"code":"58260","region":"North Dakota","city":"Milton","latitude":48.630447,"longitude":-97.992056}}(window,'GeoPostal','US');

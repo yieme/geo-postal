@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0X 1S0"]={"code":"P0X 1S0","region":"Ontario","city":"Laclu","latitude":49.78331,"longitude":-94.70045}}(window,'GeoPostal','CA');

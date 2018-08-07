@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66943"]={"code":"66943","region":"KS","city":"Greenleaf","latitude":39.7061,"longitude":-96.9775}}(window,'GeoPostal','US');

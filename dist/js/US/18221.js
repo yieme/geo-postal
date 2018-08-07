@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18221"]={"code":"18221","region":"PA","city":"Drifton","latitude":41.0016,"longitude":-75.9057}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["343424"]={"code":"343424","region":"Jiangxi","city":"Gaoshi","latitude":27.03328,"longitude":114.20354}}(window,'GeoPostal','CN');

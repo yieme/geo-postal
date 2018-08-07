@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B9A 1S2"]={"code":"B9A 1S2","region":"Nova Scotia","city":"Rear Judique Chapel","latitude":45.87447,"longitude":-61.46645}}(window,'GeoPostal','CA');

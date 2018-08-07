@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344021"]={"code":"344021","region":"Rajasthan","city":"Samdari","latitude":25.81667,"longitude":72.58333}}(window,'GeoPostal','IN');

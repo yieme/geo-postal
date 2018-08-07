@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49160"]={"code":"49160","region":"Pays-de-la-Loire","city":"Saint-Philbert-du-Peuple","latitude":47.39314,"longitude":-0.0436}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3253"]={"code":"3253","region":"Zuid-Holland","city":"Ouddorp","latitude":51.81167,"longitude":3.93472}}(window,'GeoPostal','NL');

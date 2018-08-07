@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18936"]={"code":"18936","region":"Pennsylvania","city":"Montgomeryville","latitude":40.248026,"longitude":-75.243761}}(window,'GeoPostal','US');

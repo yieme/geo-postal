@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74017"]={"code":"74017","region":"Oklahoma","city":"Claremore","latitude":36.34302,"longitude":-95.59668}}(window,'GeoPostal','US');

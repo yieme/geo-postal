@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59853"]={"code":"59853","region":"Montana","city":"Noxon","latitude":48.039374,"longitude":-115.821417}}(window,'GeoPostal','US');

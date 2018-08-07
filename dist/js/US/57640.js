@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57640"]={"code":"57640","region":"SD","city":"Lodgepole","latitude":45.8232,"longitude":-102.7599}}(window,'GeoPostal','US');

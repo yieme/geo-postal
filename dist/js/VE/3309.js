@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3309"]={"code":"3309","region":"Portuguesa","city":"Villa Bruzual","latitude":9.33278,"longitude":-69.12083}}(window,'GeoPostal','VE');

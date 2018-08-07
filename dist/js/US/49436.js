@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49436"]={"code":"49436","region":"Michigan","city":"Mears","latitude":43.67833,"longitude":-86.46583}}(window,'GeoPostal','US');

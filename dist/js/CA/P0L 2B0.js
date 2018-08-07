@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 2B0"]={"code":"P0L 2B0","region":"Ontario","city":"Smooth Rock Falls","latitude":49.28349,"longitude":-81.63307}}(window,'GeoPostal','CA');

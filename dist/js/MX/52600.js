@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52600"]={"code":"52600","region":"Mexico","city":"Tianguistenco","latitude":19.17972,"longitude":-99.47056}}(window,'GeoPostal','MX');

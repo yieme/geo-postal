@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04079"]={"code":"04079","region":"ME","city":"Harpswell","latitude":43.7811,"longitude":-69.9955}}(window,'GeoPostal','US');

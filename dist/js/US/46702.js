@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46702"]={"code":"46702","region":"IN","city":"Andrews","latitude":40.8618,"longitude":-85.6067}}(window,'GeoPostal','US');

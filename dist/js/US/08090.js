@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08090"]={"code":"08090","region":"NJ","city":"Wenonah","latitude":39.7993,"longitude":-75.1536}}(window,'GeoPostal','US');

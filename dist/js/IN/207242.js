@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207242"]={"code":"207242","region":"Uttar Pradesh","city":"Bahsuma","latitude":29.21667,"longitude":77.96667}}(window,'GeoPostal','IN');

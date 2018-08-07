@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16633"]={"code":"16633","region":"PA","city":"Defiance","latitude":40.1601,"longitude":-78.2346}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55640"]={"code":"55640","region":"Mexico","city":"Bocanegra","latitude":19.85,"longitude":-99.1}}(window,'GeoPostal','MX');

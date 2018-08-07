@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50001"]={"code":"50001","region":"Salto","city":"Belen","latitude":-30.78333,"longitude":-57.78333}}(window,'GeoPostal','UY');

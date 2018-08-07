@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08057"]={"code":"08057","region":"New Jersey","city":"Moorestown","latitude":39.962222,"longitude":-74.982778}}(window,'GeoPostal','US');

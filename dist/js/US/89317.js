@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89317"]={"code":"89317","region":"Nevada","city":"Lund","latitude":38.907301,"longitude":-115.134212}}(window,'GeoPostal','US');

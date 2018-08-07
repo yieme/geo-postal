@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52048"]={"code":"52048","region":"Toscana","city":"Monte San Savino","latitude":43.32924,"longitude":11.72974}}(window,'GeoPostal','IT');

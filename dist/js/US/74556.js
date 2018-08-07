@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74556"]={"code":"74556","region":"OK","city":"Lehigh","latitude":34.4756,"longitude":-96.1889}}(window,'GeoPostal','US');

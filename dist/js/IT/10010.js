@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10010"]={"code":"10010","region":"Piemonte","city":"Banchette","latitude":45.45356,"longitude":7.85632}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62549"]={"code":"62549","region":"Illinois","city":"Mount Zion","latitude":39.77143,"longitude":-88.87424}}(window,'GeoPostal','US');

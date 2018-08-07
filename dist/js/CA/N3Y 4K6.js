@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3Y 4K6"]={"code":"N3Y 4K6","region":"Ontario","city":"Norfolk County","latitude":42.8334,"longitude":-80.38297}}(window,'GeoPostal','CA');

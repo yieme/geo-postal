@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22639"]={"code":"22639","region":"VA","city":"Hume","latitude":38.8273,"longitude":-77.9949}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12045"]={"code":"12045","region":"Piemonte","city":"Fossano","latitude":44.54894,"longitude":7.72013}}(window,'GeoPostal','IT');

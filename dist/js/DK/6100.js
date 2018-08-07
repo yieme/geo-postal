@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100"]={"code":"6100","region":"Syddanmark","city":"Haderslev","latitude":55.25377,"longitude":9.48982}}(window,'GeoPostal','DK');

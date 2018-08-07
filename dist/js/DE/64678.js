@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64678"]={"code":"64678","region":"Hessen","city":"Eulsbach","latitude":49.67721,"longitude":8.76486}}(window,'GeoPostal','DE');

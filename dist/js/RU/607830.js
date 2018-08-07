@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607830"]={"code":"607830","region":"Nizhegorodskaya oblast'","city":"Imeni Stepana Razina","latitude":54.8932,"longitude":44.29627}}(window,'GeoPostal','RU');

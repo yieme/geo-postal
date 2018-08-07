@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22927"]={"code":"22927","region":"Schleswig-Holstein","city":"Grosshansdorf","latitude":53.66667,"longitude":10.28333}}(window,'GeoPostal','DE');

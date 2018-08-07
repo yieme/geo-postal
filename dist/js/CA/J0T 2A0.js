@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2A0"]={"code":"J0T 2A0","region":"Quebec","city":"Notre-Dame-de-la-Merci","latitude":46.23338,"longitude":-74.0492}}(window,'GeoPostal','CA');

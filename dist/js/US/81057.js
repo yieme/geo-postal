@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81057"]={"code":"81057","region":"CO","city":"Mc Clave","latitude":38.085,"longitude":-102.8869}}(window,'GeoPostal','US');

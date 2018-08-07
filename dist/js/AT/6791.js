@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6791"]={"code":"6791","region":"Vorarlberg","city":"Sankt Gallenkirch","latitude":47.01667,"longitude":9.96667}}(window,'GeoPostal','AT');

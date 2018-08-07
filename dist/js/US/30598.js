@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30598"]={"code":"30598","region":"Georgia","city":"Toccoa Falls","latitude":34.57472,"longitude":-83.32}}(window,'GeoPostal','US');

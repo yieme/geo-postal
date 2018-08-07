@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-501"]={"code":"19-501","region":"Warminsko-mazurskie","city":"Goldap","latitude":54.30631,"longitude":22.30362}}(window,'GeoPostal','PL');

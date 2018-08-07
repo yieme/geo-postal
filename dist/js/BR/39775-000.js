@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39775-000"]={"code":"39775-000","region":"Minas Gerais","city":"Santa Maria do Suacui","latitude":-18.19028,"longitude":-42.41417}}(window,'GeoPostal','BR');

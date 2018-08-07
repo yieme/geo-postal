@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3124"]={"code":"3124","region":"Victoria","city":"Camberwell","latitude":-37.84205,"longitude":145.0694}}(window,'GeoPostal','AU');

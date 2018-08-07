@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54423"]={"code":"54423","region":"WI","city":"Custer","latitude":44.5662,"longitude":-89.4153}}(window,'GeoPostal','US');

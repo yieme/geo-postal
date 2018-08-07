@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["901-2206"]={"code":"901-2206","region":"Okinawa","city":"Ginowan","latitude":26.28167,"longitude":127.77833}}(window,'GeoPostal','JP');

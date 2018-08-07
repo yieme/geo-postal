@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86460"]={"code":"86460","region":"Nouvelle-Aquitaine","city":"Availles-Limouzine","latitude":46.12104,"longitude":0.65558}}(window,'GeoPostal','FR');

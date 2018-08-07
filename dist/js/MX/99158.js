@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99158"]={"code":"99158","region":"Zacatecas","city":"Plateros","latitude":23.21667,"longitude":-102.85}}(window,'GeoPostal','MX');

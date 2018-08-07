@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36863"]={"code":"36863","region":"Alabama","city":"Lanett","latitude":32.86874,"longitude":-85.1905}}(window,'GeoPostal','US');

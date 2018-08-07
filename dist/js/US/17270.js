@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17270"]={"code":"17270","region":"PA","city":"Williamson","latitude":39.85,"longitude":-77.79}}(window,'GeoPostal','US');

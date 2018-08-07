@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73333"]={"code":"73333","region":"Baden-Wurttemberg","city":"Gingen an der Fils","latitude":48.65979,"longitude":9.78092}}(window,'GeoPostal','DE');

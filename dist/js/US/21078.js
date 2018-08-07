@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21078"]={"code":"21078","region":"Maryland","city":"Havre de Grace","latitude":39.54928,"longitude":-76.09162}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42033"]={"code":"42033","region":"KY","city":"Crayne","latitude":37.2706,"longitude":-88.0825}}(window,'GeoPostal','US');

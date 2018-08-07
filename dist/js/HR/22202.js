@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22202"]={"code":"22202","region":"Sibensko-kninska zupanija","city":"Primosten","latitude":43.58694,"longitude":15.92722}}(window,'GeoPostal','HR');

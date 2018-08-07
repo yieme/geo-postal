@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72204"]={"code":"72204","region":"Jarvamaa","city":"Tyuri","latitude":58.80861,"longitude":25.4325}}(window,'GeoPostal','EE');

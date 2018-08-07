@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81330"]={"code":"81330","region":"Colorado","city":"Mesa Verde National Park","latitude":37.29867,"longitude":-108.41908}}(window,'GeoPostal','US');

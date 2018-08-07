@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403033"]={"code":"403033","region":"Samarskaya oblast'","city":"Petra-Dubrava","latitude":53.29613,"longitude":50.36554}}(window,'GeoPostal','RU');

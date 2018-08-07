@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35920-000"]={"code":"35920-000","region":"Minas Gerais","city":"Nova Era","latitude":-19.75,"longitude":-43.0375}}(window,'GeoPostal','BR');

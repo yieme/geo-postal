@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-6850"]={"code":"L-6850","region":"Grevenmacher","city":"Grevenmacher","latitude":49.67472,"longitude":6.44194}}(window,'GeoPostal','LU');

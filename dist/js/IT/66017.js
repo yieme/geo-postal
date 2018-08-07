@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66017"]={"code":"66017","region":"Abruzzo","city":"Palena","latitude":41.98303,"longitude":14.13771}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56500"]={"code":"56500","region":"Bretagne","city":"Reguiny","latitude":47.97649,"longitude":-2.74478}}(window,'GeoPostal','FR');

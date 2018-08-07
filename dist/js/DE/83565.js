@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83565"]={"code":"83565","region":"Bayern","city":"Katzenreuth","latitude":48.03161,"longitude":12.01741}}(window,'GeoPostal','DE');

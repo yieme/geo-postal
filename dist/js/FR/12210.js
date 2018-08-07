@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12210"]={"code":"12210","region":"Occitanie","city":"Laguiole","latitude":44.68464,"longitude":2.84666}}(window,'GeoPostal','FR');

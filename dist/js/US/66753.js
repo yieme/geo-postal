@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66753"]={"code":"66753","region":"KS","city":"Mc Cune","latitude":37.3468,"longitude":-95.0376}}(window,'GeoPostal','US');

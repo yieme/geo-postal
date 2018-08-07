@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2940"]={"code":"2940","region":"Oppland","city":"Heggenes","latitude":61.14383,"longitude":9.06942}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54630"]={"code":"54630","region":"WI","city":"Galesville","latitude":44.0888,"longitude":-91.3588}}(window,'GeoPostal','US');

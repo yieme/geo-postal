@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28816"]={"code":"28816","region":"Niedersachsen","city":"Brinkum","latitude":53.01209,"longitude":8.78562}}(window,'GeoPostal','DE');

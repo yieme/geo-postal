@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3440"]={"code":"3440","region":"Buskerud","city":"Royken","latitude":59.7475,"longitude":10.39361}}(window,'GeoPostal','NO');

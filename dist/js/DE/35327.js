@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35327"]={"code":"35327","region":"Hessen","city":"Helpershain","latitude":50.60727,"longitude":9.22697}}(window,'GeoPostal','DE');

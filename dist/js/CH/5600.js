@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"Aargau","city":"Lenzburg","latitude":47.38853,"longitude":8.17503}}(window,'GeoPostal','CH');

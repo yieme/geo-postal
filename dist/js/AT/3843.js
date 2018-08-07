@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3843"]={"code":"3843","region":"Niederosterreich","city":"Thaya","latitude":48.85489,"longitude":15.28902}}(window,'GeoPostal','AT');

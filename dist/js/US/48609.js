@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48609"]={"code":"48609","region":"MI","city":"Saginaw","latitude":43.3869,"longitude":-84.0926}}(window,'GeoPostal','US');

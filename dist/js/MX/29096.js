@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29096"]={"code":"29096","region":"Coahuila de Zaragoza","city":"San Buenaventura","latitude":27.08333,"longitude":-101.53333}}(window,'GeoPostal','MX');

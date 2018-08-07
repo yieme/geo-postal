@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02300"]={"code":"02300","region":"Hauts-de-France","city":"Ognes","latitude":49.61244,"longitude":3.1934}}(window,'GeoPostal','FR');

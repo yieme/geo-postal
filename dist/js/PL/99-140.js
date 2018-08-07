@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-140"]={"code":"99-140","region":"Lodzkie","city":"Swinice Warckie","latitude":52.04072,"longitude":18.91786}}(window,'GeoPostal','PL');

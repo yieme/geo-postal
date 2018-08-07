@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50801"]={"code":"50801","region":"Iowa","city":"Creston","latitude":41.0586,"longitude":-94.36135}}(window,'GeoPostal','US');

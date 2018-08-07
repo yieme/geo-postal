@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80654"]={"code":"80654","region":"Colorado","city":"Wiggins","latitude":40.23028,"longitude":-104.07333}}(window,'GeoPostal','US');

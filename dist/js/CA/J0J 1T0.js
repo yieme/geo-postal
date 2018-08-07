@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1T0"]={"code":"J0J 1T0","region":"Quebec","city":"Saint-Armand","latitude":45.03338,"longitude":-73.04915}}(window,'GeoPostal','CA');

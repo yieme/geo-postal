@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE8 6QH"]={"code":"PE8 6QH","region":"England","city":"Nassington","latitude":52.55318,"longitude":-0.43383}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77320-000"]={"code":"77320-000","region":"Tocantins","city":"Taguatinga","latitude":-12.40389,"longitude":-46.43611}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63376"]={"code":"63376","region":"Missouri","city":"Cottleville","latitude":38.780875,"longitude":-90.622263}}(window,'GeoPostal','US');

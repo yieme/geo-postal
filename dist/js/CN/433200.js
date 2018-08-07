@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433200"]={"code":"433200","region":"Hubei","city":"Xindi","latitude":29.81667,"longitude":113.46667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535"]={"code":"535","region":"Eysturoy","city":"Fuglafjordur","latitude":62.24398,"longitude":-6.81395}}(window,'GeoPostal','FO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60330"]={"code":"60330","region":"Hauts-de-France","city":"Lagny-le-Sec","latitude":49.08744,"longitude":2.74502}}(window,'GeoPostal','FR');

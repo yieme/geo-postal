@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35089"]={"code":"35089","region":"Alabama","city":"Kellyton","latitude":32.967428,"longitude":-85.964486}}(window,'GeoPostal','US');

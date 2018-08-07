@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73667"]={"code":"73667","region":"Baden-Wurttemberg","city":"Kaisersbach","latitude":48.93023,"longitude":9.63898}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87541"]={"code":"87541","region":"Bayern","city":"Bad Hindelang","latitude":47.50624,"longitude":10.3723}}(window,'GeoPostal','DE');

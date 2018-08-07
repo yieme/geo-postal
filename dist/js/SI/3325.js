@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3325"]={"code":"3325","region":"Sostanj","city":"Sostanj","latitude":46.38,"longitude":15.04861}}(window,'GeoPostal','SI');

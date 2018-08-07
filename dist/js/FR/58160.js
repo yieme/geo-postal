@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58160"]={"code":"58160","region":"Bourgogne-Franche-Comte","city":"Imphy","latitude":46.93619,"longitude":3.26037}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30459"]={"code":"30459","region":"GA","city":"Statesboro","latitude":32.447,"longitude":-81.7777}}(window,'GeoPostal','US');

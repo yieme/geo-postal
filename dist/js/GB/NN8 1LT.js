@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN8 1LT"]={"code":"NN8 1LT","region":"England","city":"Booker","latitude":51.61429,"longitude":-0.79445}}(window,'GeoPostal','GB');

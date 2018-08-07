@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67023"]={"code":"67023","region":"KS","city":"Cambridge","latitude":37.3161,"longitude":-96.6645}}(window,'GeoPostal','US');

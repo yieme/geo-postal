@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02009"]={"code":"02009","region":"Chlef","city":"Sidi Akkacha","latitude":36.46472,"longitude":1.30258}}(window,'GeoPostal','DZ');

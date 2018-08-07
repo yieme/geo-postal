@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43290"]={"code":"43290","region":"Bjelovarsko-bilogorska zupanija","city":"Grubisno Polje","latitude":45.70214,"longitude":17.17268}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67012"]={"code":"67012","region":"KS","city":"Beaumont","latitude":37.658,"longitude":-96.5329}}(window,'GeoPostal','US');

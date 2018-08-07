@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43550"]={"code":"43550","region":"OH","city":"Okolona","latitude":41.3267,"longitude":-84.1117}}(window,'GeoPostal','US');

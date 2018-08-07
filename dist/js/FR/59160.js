@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59160"]={"code":"59160","region":"Hauts-de-France","city":"Capinghem","latitude":50.64551,"longitude":2.96193}}(window,'GeoPostal','FR');

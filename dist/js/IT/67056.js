@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67056"]={"code":"67056","region":"Abruzzo","city":"Luco dei Marsi","latitude":41.95703,"longitude":13.4736}}(window,'GeoPostal','IT');

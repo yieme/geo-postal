@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40903"]={"code":"40903","region":"Kentucky","city":"Artemus","latitude":36.843292,"longitude":-83.827177}}(window,'GeoPostal','US');

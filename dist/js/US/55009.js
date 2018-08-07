@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55009"]={"code":"55009","region":"Minnesota","city":"Cannon Falls","latitude":44.50691,"longitude":-92.90548}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45853"]={"code":"45853","region":"OH","city":"Kalida","latitude":40.9828,"longitude":-84.1994}}(window,'GeoPostal','US');

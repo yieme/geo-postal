@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76420-000"]={"code":"76420-000","region":"Goias","city":"Niquelandia","latitude":-14.47389,"longitude":-48.45972}}(window,'GeoPostal','BR');

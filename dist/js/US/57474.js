@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57474"]={"code":"57474","region":"South Dakota","city":"Aberdeen","latitude":45.28752,"longitude":-98.28042}}(window,'GeoPostal','US');

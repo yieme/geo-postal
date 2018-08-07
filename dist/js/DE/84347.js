@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84347"]={"code":"84347","region":"Bayern","city":"Pfarrkirchen","latitude":48.43205,"longitude":12.93812}}(window,'GeoPostal','DE');

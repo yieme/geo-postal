@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19973"]={"code":"19973","region":"Delaware","city":"Seaford","latitude":38.64123,"longitude":-75.61104}}(window,'GeoPostal','US');

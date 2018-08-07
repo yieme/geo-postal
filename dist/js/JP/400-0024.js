@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400-0024"]={"code":"400-0024","region":"Yamanashi","city":"Yamanashi","latitude":35.68917,"longitude":138.69028}}(window,'GeoPostal','JP');

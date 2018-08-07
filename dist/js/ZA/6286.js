@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6286"]={"code":"6286","region":"Eastern Cape","city":"Graaff-Reinet","latitude":-32.25215,"longitude":24.53075}}(window,'GeoPostal','ZA');

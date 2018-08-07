@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["860000"]={"code":"860000","region":"Tien Giang","city":"My Tho","latitude":10.35,"longitude":106.35}}(window,'GeoPostal','VN');

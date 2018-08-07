@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32091"]={"code":"32091","region":"FL","city":"Starke","latitude":29.9583,"longitude":-82.1185}}(window,'GeoPostal','US');

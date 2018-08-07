@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2782"]={"code":"2782","region":"New South Wales","city":"Wentworth Falls","latitude":-33.71033,"longitude":150.37534}}(window,'GeoPostal','AU');

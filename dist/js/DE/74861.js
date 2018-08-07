@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74861"]={"code":"74861","region":"Baden-Wurttemberg","city":"Siglingen","latitude":49.29907,"longitude":9.30694}}(window,'GeoPostal','DE');

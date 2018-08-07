@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89825"]={"code":"89825","region":"Nevada","city":"Jackpot","latitude":41.98324,"longitude":-114.67476}}(window,'GeoPostal','US');

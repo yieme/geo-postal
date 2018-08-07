@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72528"]={"code":"72528","region":"AR","city":"Dolph","latitude":36.2229,"longitude":-92.1177}}(window,'GeoPostal','US');

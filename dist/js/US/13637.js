@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13637"]={"code":"13637","region":"NY","city":"Evans Mills","latitude":44.0817,"longitude":-75.8305}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO11 1PX"]={"code":"CO11 1PX","region":"England","city":"Mistley","latitude":51.94331,"longitude":1.08254}}(window,'GeoPostal','GB');

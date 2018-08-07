@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50707"]={"code":"50707","region":"IA","city":"Evansdale","latitude":42.4755,"longitude":-92.2812}}(window,'GeoPostal','US');

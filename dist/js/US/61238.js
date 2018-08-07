@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61238"]={"code":"61238","region":"IL","city":"Cambridge","latitude":41.3114,"longitude":-90.1805}}(window,'GeoPostal','US');

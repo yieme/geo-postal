@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1B0"]={"code":"K0C 1B0","region":"Ontario","city":"Avondale","latitude":45.21679,"longitude":-74.68257}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96059"]={"code":"96059","region":"California","city":"Manton","latitude":40.445934,"longitude":-121.845304}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45896"]={"code":"45896","region":"OH","city":"Waynesfield","latitude":40.6072,"longitude":-83.9585}}(window,'GeoPostal','US');

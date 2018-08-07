@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-437"]={"code":"07-437","region":"Mazowieckie","city":"Lyse","latitude":53.36443,"longitude":21.56487}}(window,'GeoPostal','PL');

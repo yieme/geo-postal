@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47513"]={"code":"47513","region":"Indiana","city":"Birdseye","latitude":38.31583,"longitude":-86.69528}}(window,'GeoPostal','US');

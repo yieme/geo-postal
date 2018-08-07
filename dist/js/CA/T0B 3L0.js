@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 3L0"]={"code":"T0B 3L0","region":"Alberta","city":"New Norway","latitude":52.86683,"longitude":-112.95196}}(window,'GeoPostal','CA');

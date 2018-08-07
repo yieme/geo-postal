@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP4 5PD"]={"code":"IP4 5PD","region":"England","city":"Ipswich","latitude":52.05917,"longitude":1.15545}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46355"]={"code":"46355","region":"IN","city":"Leroy","latitude":41.3594,"longitude":-87.2708}}(window,'GeoPostal','US');

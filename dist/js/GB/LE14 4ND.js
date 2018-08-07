@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4ND"]={"code":"LE14 4ND","region":"England","city":"Long Clawson","latitude":52.83725,"longitude":-0.9288}}(window,'GeoPostal','GB');

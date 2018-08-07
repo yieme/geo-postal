@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21639"]={"code":"21639","region":"Maryland","city":"Greensboro","latitude":38.97372,"longitude":-75.80493}}(window,'GeoPostal','US');

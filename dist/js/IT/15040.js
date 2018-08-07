@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15040"]={"code":"15040","region":"Piemonte","city":"Mirabello Monferrato","latitude":45.03555,"longitude":8.52324}}(window,'GeoPostal','IT');

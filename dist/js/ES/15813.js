@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15813"]={"code":"15813","region":"Galicia","city":"Sobrado","latitude":43.03882,"longitude":-8.02784}}(window,'GeoPostal','ES');

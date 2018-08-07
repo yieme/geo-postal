@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84183"]={"code":"84183","region":"Bayern","city":"Lichtensee","latitude":48.6265,"longitude":12.3789}}(window,'GeoPostal','DE');

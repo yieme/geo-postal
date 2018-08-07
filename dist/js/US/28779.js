@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28779"]={"code":"28779","region":"North Carolina","city":"Sylva","latitude":35.37371,"longitude":-83.22598}}(window,'GeoPostal','US');

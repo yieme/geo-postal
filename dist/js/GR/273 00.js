@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 00"]={"code":"273 00","region":"Dytiki Ellada","city":"Gastouni","latitude":37.85,"longitude":21.25}}(window,'GeoPostal','GR');

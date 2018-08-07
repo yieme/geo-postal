@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04434"]={"code":"04434","region":"ME","city":"Etna","latitude":44.7932,"longitude":-69.1322}}(window,'GeoPostal','US');

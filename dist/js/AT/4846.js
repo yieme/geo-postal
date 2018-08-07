@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4846"]={"code":"4846","region":"Oberosterreich","city":"Redlham","latitude":48.01667,"longitude":13.73333}}(window,'GeoPostal','AT');

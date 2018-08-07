@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43015"]={"code":"43015","region":"Ohio","city":"Delaware","latitude":40.28538,"longitude":-83.0595}}(window,'GeoPostal','US');

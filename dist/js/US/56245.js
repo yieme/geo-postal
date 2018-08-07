@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56245"]={"code":"56245","region":"MN","city":"Hanley Falls","latitude":44.6789,"longitude":-95.6825}}(window,'GeoPostal','US');

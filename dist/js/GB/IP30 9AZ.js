@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP30 9AZ"]={"code":"IP30 9AZ","region":"England","city":"Hessett","latitude":52.21797,"longitude":0.83264}}(window,'GeoPostal','GB');

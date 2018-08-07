@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21510"]={"code":"21510","region":"Andalucia","city":"San Bartolome de la Torre","latitude":37.44515,"longitude":-7.10597}}(window,'GeoPostal','ES');

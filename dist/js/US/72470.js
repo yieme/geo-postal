@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72470"]={"code":"72470","region":"AR","city":"Success","latitude":36.4536,"longitude":-90.7281}}(window,'GeoPostal','US');

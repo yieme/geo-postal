@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05330"]={"code":"05330","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Chaffrey","latitude":44.92555,"longitude":6.60768}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33074"]={"code":"33074","region":"Friuli-Venezia Giulia","city":"Fontanafredda","latitude":45.97556,"longitude":12.56833}}(window,'GeoPostal','IT');

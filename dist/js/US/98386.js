@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98386"]={"code":"98386","region":"WA","city":"Southworth","latitude":47.5104,"longitude":-122.4991}}(window,'GeoPostal','US');

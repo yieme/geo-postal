@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431160"]={"code":"431160","region":"Mordoviya, Respublika","city":"Yavas","latitude":54.4159,"longitude":42.8491}}(window,'GeoPostal','RU');

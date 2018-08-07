@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9402"]={"code":"9402","region":"Vlore","city":"Vlore","latitude":40.46667,"longitude":19.48972}}(window,'GeoPostal','AL');

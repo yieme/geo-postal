@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71367"]={"code":"71367","region":"LA","city":"Saint Landry","latitude":30.8998,"longitude":-92.2964}}(window,'GeoPostal','US');

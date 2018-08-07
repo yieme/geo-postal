@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA4 4TE"]={"code":"BA4 4TE","region":"England","city":"Wanstrow","latitude":51.17389,"longitude":-2.41278}}(window,'GeoPostal','GB');

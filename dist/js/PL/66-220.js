@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-220"]={"code":"66-220","region":"Lubuskie","city":"Lagow","latitude":52.33429,"longitude":15.29769}}(window,'GeoPostal','PL');

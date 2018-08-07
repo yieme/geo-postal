@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33098"]={"code":"33098","region":"Friuli-Venezia Giulia","city":"Valvasone","latitude":45.99444,"longitude":12.87028}}(window,'GeoPostal','IT');

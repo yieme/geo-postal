@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57748"]={"code":"57748","region":"SD","city":"Howes","latitude":44.5838,"longitude":-102.0229}}(window,'GeoPostal','US');

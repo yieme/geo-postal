@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85396"]={"code":"85396","region":"AZ","city":"Buckeye","latitude":33.468,"longitude":-112.4787}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36103"]={"code":"36103","region":"Hessen","city":"Flieden","latitude":50.42389,"longitude":9.5666}}(window,'GeoPostal','DE');

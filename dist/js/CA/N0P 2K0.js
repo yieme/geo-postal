@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 2K0"]={"code":"N0P 2K0","region":"Ontario","city":"Thamesville","latitude":42.55008,"longitude":-81.98309}}(window,'GeoPostal','CA');

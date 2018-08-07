@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17727"]={"code":"17727","region":"PA","city":"Cedar Run","latitude":41.5299,"longitude":-77.4917}}(window,'GeoPostal','US');

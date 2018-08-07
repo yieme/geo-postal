@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59294"]={"code":"59294","region":"Hauts-de-France","city":"Haussy","latitude":50.2183,"longitude":3.47683}}(window,'GeoPostal','FR');

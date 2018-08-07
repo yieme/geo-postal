@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52742"]={"code":"52742","region":"IA","city":"De Witt","latitude":41.8267,"longitude":-90.5237}}(window,'GeoPostal','US');

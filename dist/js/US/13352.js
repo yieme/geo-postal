@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13352"]={"code":"13352","region":"NY","city":"Hinckley","latitude":43.3126,"longitude":-75.1169}}(window,'GeoPostal','US');

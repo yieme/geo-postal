@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91297"]={"code":"91297","region":"Vasterbottens lan","city":"Sjoberg","latitude":64.83333,"longitude":16.25}}(window,'GeoPostal','SE');

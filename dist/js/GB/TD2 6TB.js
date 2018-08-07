@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD2 6TB"]={"code":"TD2 6TB","region":"Scotland","city":"Lauder","latitude":55.71908,"longitude":-2.74755}}(window,'GeoPostal','GB');

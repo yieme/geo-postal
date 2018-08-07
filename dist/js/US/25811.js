@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25811"]={"code":"25811","region":"WV","city":"Amigo","latitude":37.5965,"longitude":-81.3209}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37614"]={"code":"37614","region":"Poltavska oblast","city":"Kamyshnya","latitude":50.18587,"longitude":33.68401}}(window,'GeoPostal','UA');

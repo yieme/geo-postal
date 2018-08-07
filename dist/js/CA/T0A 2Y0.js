@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 2Y0"]={"code":"T0A 2Y0","region":"Alberta","city":"St. Brides","latitude":53.98346,"longitude":-111.5518}}(window,'GeoPostal','CA');

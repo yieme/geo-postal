@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 7QW"]={"code":"SP11 7QW","region":"England","city":"Upper Clatford","latitude":51.18954,"longitude":-1.49268}}(window,'GeoPostal','GB');

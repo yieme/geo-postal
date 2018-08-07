@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24250"]={"code":"24250","region":"Nouvelle-Aquitaine","city":"Domme","latitude":44.80218,"longitude":1.21459}}(window,'GeoPostal','FR');

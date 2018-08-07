@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98800"]={"code":"98800","region":"Lappi","city":"Savukoski","latitude":67.2925,"longitude":28.15806}}(window,'GeoPostal','FI');

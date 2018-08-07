@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62111"]={"code":"62111","region":"Punjab","city":"Haru Zbad","latitude":29.61333,"longitude":73.13889}}(window,'GeoPostal','PK');

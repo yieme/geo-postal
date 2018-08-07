@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636071"]={"code":"636071","region":"Tomskaya oblast'","city":"Seversk","latitude":56.60056,"longitude":84.88639}}(window,'GeoPostal','RU');

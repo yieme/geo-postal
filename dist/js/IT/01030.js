@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01030"]={"code":"01030","region":"Lazio","city":"Vasanello","latitude":42.41373,"longitude":12.34657}}(window,'GeoPostal','IT');

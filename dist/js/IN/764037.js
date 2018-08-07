@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["764037"]={"code":"764037","region":"Odisha","city":"Jaypur","latitude":18.85,"longitude":82.58333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["519000"]={"code":"519000","region":"Guangdong","city":"Zhuhai","latitude":22.27694,"longitude":113.56778}}(window,'GeoPostal','CN');

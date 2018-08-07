@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38820"]={"code":"38820","region":"MS","city":"Algoma","latitude":34.1715,"longitude":-89.0328}}(window,'GeoPostal','US');

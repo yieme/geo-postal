@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 2HA"]={"code":"CB10 2HA","region":"England","city":"Ashdon","latitude":52.05496,"longitude":0.31322}}(window,'GeoPostal','GB');

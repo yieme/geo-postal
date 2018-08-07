@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462029"]={"code":"462029","region":"Orenburgskaya oblast'","city":"Tyul'gan","latitude":52.34049,"longitude":56.16604}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0A 4J0"]={"code":"A0A 4J0","region":"Newfoundland and Labrador","city":"Western Bay","latitude":47.88319,"longitude":-53.08136}}(window,'GeoPostal','CA');

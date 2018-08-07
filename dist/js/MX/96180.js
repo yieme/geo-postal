@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96180"]={"code":"96180","region":"Veracruz de Ignacio de la Llave","city":"Texistepec","latitude":17.88333,"longitude":-94.78333}}(window,'GeoPostal','MX');

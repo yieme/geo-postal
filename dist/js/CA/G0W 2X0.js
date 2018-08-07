@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 2X0"]={"code":"G0W 2X0","region":"Quebec","city":"Saint-Henri-de-Taillon","latitude":48.66679,"longitude":-71.81581}}(window,'GeoPostal','CA');

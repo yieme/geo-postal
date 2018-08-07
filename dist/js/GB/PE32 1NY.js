@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 1NY"]={"code":"PE32 1NY","region":"England","city":"East Winch","latitude":52.72039,"longitude":0.51241}}(window,'GeoPostal','GB');

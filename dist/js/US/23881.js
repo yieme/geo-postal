@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23881"]={"code":"23881","region":"VA","city":"Spring Grove","latitude":37.1901,"longitude":-76.9923}}(window,'GeoPostal','US');

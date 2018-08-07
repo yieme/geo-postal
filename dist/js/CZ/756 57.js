@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756 57"]={"code":"756 57","region":"Zlinsky kraj","city":"Horni Becva","latitude":49.43216,"longitude":18.28859}}(window,'GeoPostal','CZ');

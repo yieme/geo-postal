@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25696"]={"code":"25696","region":"West Virginia","city":"Williamson","latitude":37.68054,"longitude":-82.066}}(window,'GeoPostal','US');

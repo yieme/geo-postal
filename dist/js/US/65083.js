@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65083"]={"code":"65083","region":"Missouri","city":"Ulman","latitude":38.15306,"longitude":-92.44417}}(window,'GeoPostal','US');

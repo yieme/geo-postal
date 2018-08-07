@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["629350"]={"code":"629350","region":"Yamalo-Nenetskiy avtonomnyy okrug","city":"Tazovskiy","latitude":67.46667,"longitude":78.7}}(window,'GeoPostal','RU');

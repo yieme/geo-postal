@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78575"]={"code":"78575","region":"TX","city":"Olmito","latitude":26.0353,"longitude":-97.5496}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31392"]={"code":"31392","region":"Hallands lan","city":"Oskarstrom","latitude":56.8,"longitude":12.96667}}(window,'GeoPostal','SE');

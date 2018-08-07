@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28883"]={"code":"28883","region":"Piemonte","city":"Gravellona Toce","latitude":45.92859,"longitude":8.43209}}(window,'GeoPostal','IT');

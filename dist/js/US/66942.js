@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66942"]={"code":"66942","region":"Kansas","city":"Formoso","latitude":39.777909,"longitude":-97.993124}}(window,'GeoPostal','US');

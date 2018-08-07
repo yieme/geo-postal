@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72761"]={"code":"72761","region":"Arkansas","city":"Siloam Springs","latitude":36.181928,"longitude":-94.54033}}(window,'GeoPostal','US');

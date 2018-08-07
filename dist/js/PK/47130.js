@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47130"]={"code":"47130","region":"Punjab","city":"Murree","latitude":33.90727,"longitude":73.39295}}(window,'GeoPostal','PK');

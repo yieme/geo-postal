@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58220"]={"code":"58220","region":"Bourgogne-Franche-Comte","city":"Donzy","latitude":47.37066,"longitude":3.12548}}(window,'GeoPostal','FR');

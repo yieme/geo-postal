@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51562"]={"code":"51562","region":"Iowa","city":"Panama","latitude":41.726549,"longitude":-95.474587}}(window,'GeoPostal','US');

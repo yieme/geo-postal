@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06812"]={"code":"06812","region":"Connecticut","city":"New Fairfield","latitude":41.48514,"longitude":-73.48752}}(window,'GeoPostal','US');

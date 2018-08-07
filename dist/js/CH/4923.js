@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4923"]={"code":"4923","region":"Bern","city":"Wynau","latitude":47.2557,"longitude":7.81626}}(window,'GeoPostal','CH');

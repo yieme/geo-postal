@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07399"]={"code":"07399","region":"New Jersey","city":"Jersey City","latitude":40.728,"longitude":-74.07798}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE22 8DR"]={"code":"SE22 8DR","region":"England","city":"Dulwich","latitude":51.45,"longitude":-0.08333}}(window,'GeoPostal','GB');

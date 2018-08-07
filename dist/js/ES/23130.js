@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23130"]={"code":"23130","region":"Andalucia","city":"Campillo de Arenas","latitude":37.55535,"longitude":-3.63552}}(window,'GeoPostal','ES');

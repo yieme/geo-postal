@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8794"]={"code":"8794","region":"Steiermark","city":"Hafning bei Trofaiach","latitude":47.43333,"longitude":15}}(window,'GeoPostal','AT');

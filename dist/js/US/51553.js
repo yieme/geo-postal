@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51553"]={"code":"51553","region":"IA","city":"Minden","latitude":41.4654,"longitude":-95.5519}}(window,'GeoPostal','US');

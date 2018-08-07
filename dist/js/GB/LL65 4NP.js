@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL65 4NP"]={"code":"LL65 4NP","region":"Wales","city":"Llanfaethlu","latitude":53.3524,"longitude":-4.53418}}(window,'GeoPostal','GB');

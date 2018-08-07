@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53950"]={"code":"53950","region":"Pays-de-la-Loire","city":"Louverne","latitude":48.12178,"longitude":-0.71721}}(window,'GeoPostal','FR');

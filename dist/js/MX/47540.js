@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47540"]={"code":"47540","region":"Jalisco","city":"Ojuelos de Jalisco","latitude":21.86667,"longitude":-101.58333}}(window,'GeoPostal','MX');

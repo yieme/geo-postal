@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2201"]={"code":"2201","region":"Niederosterreich","city":"Gerasdorf bei Wien","latitude":48.29447,"longitude":16.46765}}(window,'GeoPostal','AT');

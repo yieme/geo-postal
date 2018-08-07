@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7630"]={"code":"7630","region":"Silistra","city":"Glavinitsa","latitude":43.91667,"longitude":26.83333}}(window,'GeoPostal','BG');

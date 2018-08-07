@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 2LW"]={"code":"IP12 2LW","region":"England","city":"Orford","latitude":52.09572,"longitude":1.53448}}(window,'GeoPostal','GB');

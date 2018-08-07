@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN1 1HN"]={"code":"WN1 1HN","region":"England","city":"Wigan","latitude":53.53333,"longitude":-2.61667}}(window,'GeoPostal','GB');

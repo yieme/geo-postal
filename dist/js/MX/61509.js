@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61509"]={"code":"61509","region":"Michoacan de Ocampo","city":"Vistahermosa de Negrete","latitude":20.26667,"longitude":-102.48333}}(window,'GeoPostal','MX');

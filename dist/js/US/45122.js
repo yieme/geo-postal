@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45122"]={"code":"45122","region":"OH","city":"Goshen","latitude":39.2209,"longitude":-84.1188}}(window,'GeoPostal','US');

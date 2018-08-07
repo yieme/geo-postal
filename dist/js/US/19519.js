@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19519"]={"code":"19519","region":"PA","city":"Earlville","latitude":40.319,"longitude":-75.7334}}(window,'GeoPostal','US');

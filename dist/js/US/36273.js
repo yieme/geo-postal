@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36273"]={"code":"36273","region":"AL","city":"Ranburne","latitude":33.5616,"longitude":-85.3786}}(window,'GeoPostal','US');

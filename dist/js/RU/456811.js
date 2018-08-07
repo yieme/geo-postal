@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456811"]={"code":"456811","region":"Chelyabinskaya oblast'","city":"Nizhniy Ufaley","latitude":55.91528,"longitude":59.98417}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6993"]={"code":"6993","region":"Vorarlberg","city":"Mittelberg","latitude":47.3237,"longitude":10.15463}}(window,'GeoPostal','AT');

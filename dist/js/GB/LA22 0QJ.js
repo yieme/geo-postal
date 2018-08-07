@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 0QJ"]={"code":"LA22 0QJ","region":"England","city":"Grizedale","latitude":54.34046,"longitude":-3.02306}}(window,'GeoPostal','GB');

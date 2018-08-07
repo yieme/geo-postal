@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07821"]={"code":"07821","region":"Kyivska oblast","city":"Piskivka","latitude":50.69378,"longitude":29.61934}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86538"]={"code":"86538","region":"AZ","city":"Many Farms","latitude":36.4083,"longitude":-109.634}}(window,'GeoPostal','US');

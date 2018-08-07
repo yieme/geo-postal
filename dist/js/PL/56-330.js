@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-330"]={"code":"56-330","region":"Dolnoslaskie","city":"Milicz","latitude":51.5277,"longitude":17.27137}}(window,'GeoPostal','PL');

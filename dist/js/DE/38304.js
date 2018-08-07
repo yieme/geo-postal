@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38304"]={"code":"38304","region":"Niedersachsen","city":"Wolfenbuttel","latitude":52.16442,"longitude":10.54095}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9M 1G2"]={"code":"T9M 1G2","region":"Alberta","city":"Bank Bay","latitude":54.56687,"longitude":-110.21841}}(window,'GeoPostal','CA');

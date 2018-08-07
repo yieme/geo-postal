@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80460"]={"code":"80460","region":"Sinaloa","city":"El Rosario","latitude":24.25556,"longitude":-107.18278}}(window,'GeoPostal','MX');

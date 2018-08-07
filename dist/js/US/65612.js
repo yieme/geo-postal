@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65612"]={"code":"65612","region":"MO","city":"Bois D Arc","latitude":37.2214,"longitude":-93.5447}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02-548"]={"code":"02-548","region":"Kujawsko-pomorskie","city":"Bydgoszcz","latitude":53.1235,"longitude":18.00762}}(window,'GeoPostal','PL');

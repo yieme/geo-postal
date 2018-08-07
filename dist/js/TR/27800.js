@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27800"]={"code":"27800","region":"Gaziantep","city":"Islahiye","latitude":37.025,"longitude":36.63056}}(window,'GeoPostal','TR');

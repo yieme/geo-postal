@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80160"]={"code":"80160","region":"Kainuu","city":"Joensuu","latitude":64.66667,"longitude":27.13333}}(window,'GeoPostal','FI');

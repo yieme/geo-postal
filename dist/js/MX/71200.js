@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71200"]={"code":"71200","region":"Oaxaca","city":"Zimatlan de Alvarez","latitude":16.86667,"longitude":-96.78333}}(window,'GeoPostal','MX');

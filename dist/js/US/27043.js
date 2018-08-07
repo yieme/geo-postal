@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27043"]={"code":"27043","region":"NC","city":"Pinnacle","latitude":36.3339,"longitude":-80.4391}}(window,'GeoPostal','US');

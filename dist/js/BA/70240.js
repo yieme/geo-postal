@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70240"]={"code":"70240","region":"Federacija Bosne i Hercegovine","city":"Gornji Vakuf","latitude":43.93806,"longitude":17.58833}}(window,'GeoPostal','BA');

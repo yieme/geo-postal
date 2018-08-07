@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238340"]={"code":"238340","region":"Kaliningradskaya oblast'","city":"Svetlyy","latitude":54.67501,"longitude":20.13473}}(window,'GeoPostal','RU');

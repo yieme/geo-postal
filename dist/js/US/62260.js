@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62260"]={"code":"62260","region":"IL","city":"Millstadt","latitude":38.4443,"longitude":-90.0888}}(window,'GeoPostal','US');

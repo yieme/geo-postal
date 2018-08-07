@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724318"]={"code":"724318","region":"Chuy","city":"Lebedinovka","latitude":42.88454,"longitude":74.67819}}(window,'GeoPostal','KG');

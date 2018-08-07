@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20720"]={"code":"20720","region":"Pais Vasco","city":"Azkoitia","latitude":43.17744,"longitude":-2.31129}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307200"]={"code":"307200","region":"Kurskaya oblast'","city":"Voroshnevo","latitude":51.65278,"longitude":36.01722}}(window,'GeoPostal','RU');

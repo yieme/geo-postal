@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76935"]={"code":"76935","region":"TX","city":"Christoval","latitude":31.2346,"longitude":-100.5203}}(window,'GeoPostal','US');

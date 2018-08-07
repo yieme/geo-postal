@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3162"]={"code":"3162","region":"Vestfold","city":"Andebu","latitude":59.30592,"longitude":10.17653}}(window,'GeoPostal','NO');

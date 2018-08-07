@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2417"]={"code":"2417","region":"Pangasinan","city":"Binmaley","latitude":16.0307,"longitude":120.2712}}(window,'GeoPostal','PH');

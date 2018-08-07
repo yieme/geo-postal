@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99133"]={"code":"99133","region":"Washington","city":"Grand Coulee","latitude":47.933786,"longitude":-119.000602}}(window,'GeoPostal','US');

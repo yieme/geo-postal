@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08066"]={"code":"08066","region":"New Jersey","city":"Paulsboro","latitude":39.82358,"longitude":-75.20938}}(window,'GeoPostal','US');

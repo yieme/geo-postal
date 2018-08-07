@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06850"]={"code":"06850","region":"Extremadura","city":"Arroyo de San Servan","latitude":38.85443,"longitude":-6.45402}}(window,'GeoPostal','ES');

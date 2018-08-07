@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Alto Parana","city":"Ciudad del Este","latitude":-25.516667,"longitude":-54.616667}}(window,'GeoPostal','PY');

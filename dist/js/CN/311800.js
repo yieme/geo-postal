@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311800"]={"code":"311800","region":"Zhejiang","city":"Zhuji","latitude":29.71876,"longitude":120.24233}}(window,'GeoPostal','CN');

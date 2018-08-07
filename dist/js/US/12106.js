@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12106"]={"code":"12106","region":"New York","city":"Kinderhook","latitude":42.39289,"longitude":-73.709186}}(window,'GeoPostal','US');

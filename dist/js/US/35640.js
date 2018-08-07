@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35640"]={"code":"35640","region":"Alabama","city":"Hartselle","latitude":34.444683,"longitude":-86.939326}}(window,'GeoPostal','US');

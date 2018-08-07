@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416134"]={"code":"416134","region":"Astrakhanskaya oblast'","city":"Narimanov","latitude":46.6927,"longitude":47.8498}}(window,'GeoPostal','RU');

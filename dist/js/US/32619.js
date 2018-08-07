@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32619"]={"code":"32619","region":"Florida","city":"Bell","latitude":29.615719,"longitude":-82.81369}}(window,'GeoPostal','US');

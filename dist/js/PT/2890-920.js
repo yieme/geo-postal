@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2890-920"]={"code":"2890-920","region":"Setubal","city":"Montijo","latitude":38.70675,"longitude":-8.97388}}(window,'GeoPostal','PT');

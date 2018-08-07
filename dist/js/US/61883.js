@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61883"]={"code":"61883","region":"IL","city":"Westville","latitude":40.0451,"longitude":-87.636}}(window,'GeoPostal','US');

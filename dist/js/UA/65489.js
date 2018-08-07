@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65489"]={"code":"65489","region":"Odeska oblast","city":"Yuzhne","latitude":46.62211,"longitude":31.10131}}(window,'GeoPostal','UA');

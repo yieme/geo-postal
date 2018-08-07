@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57452"]={"code":"57452","region":"SD","city":"Java","latitude":45.4492,"longitude":-99.822}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11931"]={"code":"11931","region":"NY","city":"Aquebogue","latitude":40.9445,"longitude":-72.627}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24594"]={"code":"24594","region":"Schleswig-Holstein","city":"Grauel","latitude":54.06667,"longitude":9.66667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10080"]={"code":"10080","region":"Piemonte","city":"Oglianico","latitude":45.34255,"longitude":7.69372}}(window,'GeoPostal','IT');

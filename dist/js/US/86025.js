@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86025"]={"code":"86025","region":"Arizona","city":"Holbrook","latitude":34.90225,"longitude":-110.15818}}(window,'GeoPostal','US');

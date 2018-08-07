@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50124"]={"code":"50124","region":"Iowa","city":"Huxley","latitude":41.896203,"longitude":-93.604657}}(window,'GeoPostal','US');

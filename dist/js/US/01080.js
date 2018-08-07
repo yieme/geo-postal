@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01080"]={"code":"01080","region":"MA","city":"Three Rivers","latitude":42.1819,"longitude":-72.3624}}(window,'GeoPostal','US');

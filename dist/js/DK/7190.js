@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7190"]={"code":"7190","region":"Syddanmark","city":"Billund","latitude":55.73349,"longitude":9.10785}}(window,'GeoPostal','DK');

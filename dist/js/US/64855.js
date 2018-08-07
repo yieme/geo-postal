@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64855"]={"code":"64855","region":"MO","city":"Oronogo","latitude":37.2717,"longitude":-94.4865}}(window,'GeoPostal','US');

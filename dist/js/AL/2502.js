@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2502"]={"code":"2502","region":"Tirane","city":"Kavaje","latitude":41.18556,"longitude":19.55694}}(window,'GeoPostal','AL');

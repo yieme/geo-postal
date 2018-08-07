@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4901"]={"code":"4901","region":"Szabolcs-Szatmar-Bereg","city":"Fehergyarmat","latitude":47.98333,"longitude":22.51667}}(window,'GeoPostal','HU');

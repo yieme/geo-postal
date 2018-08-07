@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1300000"]={"code":"1300000","region":"Antofagasta","city":"Taltal","latitude":-25.4,"longitude":-70.48333}}(window,'GeoPostal','CL');

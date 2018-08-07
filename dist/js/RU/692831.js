@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692831"]={"code":"692831","region":"Primorskiy kray","city":"Smolyaninovo","latitude":43.29556,"longitude":132.4675}}(window,'GeoPostal','RU');

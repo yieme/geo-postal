@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31061"]={"code":"31061","region":"Georgia","city":"Milledgeville","latitude":33.0769,"longitude":-83.3032}}(window,'GeoPostal','US');

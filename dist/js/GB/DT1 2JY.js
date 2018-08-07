@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT1 2JY"]={"code":"DT1 2JY","region":"England","city":"Dorchester","latitude":50.71667,"longitude":-2.43333}}(window,'GeoPostal','GB');

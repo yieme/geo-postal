@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306116"]={"code":"306116","region":"Rajasthan","city":"Raipur","latitude":26.05,"longitude":74.01667}}(window,'GeoPostal','IN');

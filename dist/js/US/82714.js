@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82714"]={"code":"82714","region":"WY","city":"Devils Tower","latitude":44.5248,"longitude":-104.6867}}(window,'GeoPostal','US');

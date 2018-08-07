@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682038"]={"code":"682038","region":"Khabarovskiy kray","city":"Chegdomyn","latitude":51.11667,"longitude":133.01667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83018"]={"code":"83018","region":"Campania","city":"San Martino Valle Caudina","latitude":41.02562,"longitude":14.66454}}(window,'GeoPostal','IT');

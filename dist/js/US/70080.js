@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70080"]={"code":"70080","region":"LA","city":"Paradis","latitude":29.877,"longitude":-90.4352}}(window,'GeoPostal','US');

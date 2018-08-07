@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92327"]={"code":"92327","region":"CA","city":"Daggett","latitude":34.8668,"longitude":-116.8876}}(window,'GeoPostal','US');

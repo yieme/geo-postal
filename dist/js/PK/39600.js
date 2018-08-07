@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39600"]={"code":"39600","region":"Punjab","city":"Sangla","latitude":31.71667,"longitude":73.38333}}(window,'GeoPostal','PK');

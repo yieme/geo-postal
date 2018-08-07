@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88355"]={"code":"88355","region":"NM","city":"Ruidoso","latitude":33.3305,"longitude":-105.6933}}(window,'GeoPostal','US');

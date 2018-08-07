@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 6DG"]={"code":"KA6 6DG","region":"Scotland","city":"Dalrymple","latitude":55.39757,"longitude":-4.59169}}(window,'GeoPostal','GB');

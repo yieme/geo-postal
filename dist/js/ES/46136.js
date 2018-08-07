@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46136"]={"code":"46136","region":"Valenciana, Comunidad","city":"Museros","latitude":39.56667,"longitude":-0.35}}(window,'GeoPostal','ES');

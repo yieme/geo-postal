@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23692"]={"code":"23692","region":"Virginia","city":"Yorktown","latitude":37.17834,"longitude":-76.45818}}(window,'GeoPostal','US');

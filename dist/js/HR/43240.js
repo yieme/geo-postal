@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43240"]={"code":"43240","region":"Bjelovarsko-bilogorska zupanija","city":"Cazma","latitude":45.74667,"longitude":16.62278}}(window,'GeoPostal','HR');

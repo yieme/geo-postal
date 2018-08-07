@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23359"]={"code":"23359","region":"VA","city":"Hallwood","latitude":37.8837,"longitude":-75.6041}}(window,'GeoPostal','US');

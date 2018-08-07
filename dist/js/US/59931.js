@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59931"]={"code":"59931","region":"MT","city":"Rollins","latitude":47.9182,"longitude":-114.225}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49080"]={"code":"49080","region":"Castilla y Leon","city":"Zamora","latitude":41.5,"longitude":-5.75}}(window,'GeoPostal','ES');

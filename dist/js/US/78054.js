@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78054"]={"code":"78054","region":"TX","city":"Macdona","latitude":29.3258,"longitude":-98.6911}}(window,'GeoPostal','US');

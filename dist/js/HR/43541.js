@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43541"]={"code":"43541","region":"Bjelovarsko-bilogorska zupanija","city":"Sirac","latitude":45.52333,"longitude":17.255}}(window,'GeoPostal','HR');

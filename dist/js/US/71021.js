@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71021"]={"code":"71021","region":"Louisiana","city":"Cullen","latitude":32.96903,"longitude":-93.45073}}(window,'GeoPostal','US');

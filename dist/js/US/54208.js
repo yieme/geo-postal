@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54208"]={"code":"54208","region":"WI","city":"Denmark","latitude":44.3594,"longitude":-87.827}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80606"]={"code":"80606","region":"Lvivska oblast","city":"Brody","latitude":50.08791,"longitude":25.15027}}(window,'GeoPostal','UA');

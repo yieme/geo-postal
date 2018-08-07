@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47533"]={"code":"47533","region":"Nordrhein-Westfalen","city":"Kleve","latitude":51.78826,"longitude":6.13865}}(window,'GeoPostal','DE');

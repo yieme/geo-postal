@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93933"]={"code":"93933","region":"California","city":"Marina","latitude":36.684221,"longitude":-121.793348}}(window,'GeoPostal','US');

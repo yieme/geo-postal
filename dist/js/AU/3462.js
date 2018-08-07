@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3462"]={"code":"3462","region":"Victoria","city":"Newstead","latitude":-37.10598,"longitude":144.06467}}(window,'GeoPostal','AU');

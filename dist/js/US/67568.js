@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67568"]={"code":"67568","region":"KS","city":"Plevna","latitude":37.9658,"longitude":-98.2988}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74110"]={"code":"74110","region":"Auvergne-Rhone-Alpes","city":"Montriond","latitude":46.1981,"longitude":6.695}}(window,'GeoPostal','FR');

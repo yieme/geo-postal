@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77512"]={"code":"77512","region":"Texas","city":"Alvin","latitude":29.422163,"longitude":-95.246832}}(window,'GeoPostal','US');

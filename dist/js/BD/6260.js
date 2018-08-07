@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6260"]={"code":"6260","region":"Rajshahi","city":"Pabna","latitude":24,"longitude":89.25}}(window,'GeoPostal','BD');

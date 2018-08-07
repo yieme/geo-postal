@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31061"]={"code":"31061","region":"Bayern","city":"Alfeld","latitude":49.43333,"longitude":11.55}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87029"]={"code":"87029","region":"Calabria","city":"Scalea","latitude":39.813,"longitude":15.79558}}(window,'GeoPostal','IT');

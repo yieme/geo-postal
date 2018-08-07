@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37732"]={"code":"37732","region":"TN","city":"Elgin","latitude":36.3323,"longitude":-84.6063}}(window,'GeoPostal','US');

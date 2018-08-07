@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-302"]={"code":"72-302","region":"Zachodniopomorskie","city":"Gryfice","latitude":53.9165,"longitude":15.20027}}(window,'GeoPostal','PL');

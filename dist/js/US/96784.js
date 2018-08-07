@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96784"]={"code":"96784","region":"Hawaii","city":"Puunene","latitude":20.8675,"longitude":-156.45444}}(window,'GeoPostal','US');

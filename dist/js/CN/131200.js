@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131200"]={"code":"131200","region":"Jilin","city":"Sanchahe","latitude":44.96306,"longitude":126.01532}}(window,'GeoPostal','CN');

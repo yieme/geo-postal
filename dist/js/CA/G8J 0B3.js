@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8J 0B3"]={"code":"G8J 0B3","region":"Quebec","city":"La Dore","latitude":48.71676,"longitude":-72.64904}}(window,'GeoPostal','CA');

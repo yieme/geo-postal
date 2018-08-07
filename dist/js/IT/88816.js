@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88816"]={"code":"88816","region":"Calabria","city":"Strongoli","latitude":39.2665,"longitude":17.05441}}(window,'GeoPostal','IT');

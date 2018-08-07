@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27032"]={"code":"27032","region":"Lombardia","city":"Ferrera Erbognone","latitude":45.11506,"longitude":8.86435}}(window,'GeoPostal','IT');

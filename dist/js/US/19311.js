@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19311"]={"code":"19311","region":"Pennsylvania","city":"Avondale","latitude":39.822676,"longitude":-75.7764}}(window,'GeoPostal','US');

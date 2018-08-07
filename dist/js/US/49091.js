@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49091"]={"code":"49091","region":"Michigan","city":"Sturgis","latitude":41.79922,"longitude":-85.41915}}(window,'GeoPostal','US');

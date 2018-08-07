@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-505"]={"code":"38-505","region":"Podkarpackie","city":"Bukowsko","latitude":49.48039,"longitude":22.06329}}(window,'GeoPostal','PL');

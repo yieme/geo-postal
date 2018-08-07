@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66402"]={"code":"66402","region":"KS","city":"Auburn","latitude":38.9167,"longitude":-95.8199}}(window,'GeoPostal','US');

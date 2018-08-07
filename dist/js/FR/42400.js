@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42400"]={"code":"42400","region":"Auvergne-Rhone-Alpes","city":"Saint-Chamond","latitude":45.47365,"longitude":4.52541}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01851"]={"code":"01851","region":"Auvergne-Rhone-Alpes","city":"Marboz","latitude":46.34337,"longitude":5.25978}}(window,'GeoPostal','FR');

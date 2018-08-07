@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98570"]={"code":"98570","region":"Washington","city":"Onalaska","latitude":46.575,"longitude":-122.71806}}(window,'GeoPostal','US');

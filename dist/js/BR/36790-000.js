@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36790-000"]={"code":"36790-000","region":"Minas Gerais","city":"Mirai","latitude":-21.19528,"longitude":-42.61417}}(window,'GeoPostal','BR');

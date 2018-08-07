@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74722"]={"code":"74722","region":"Baden-Wurttemberg","city":"Hainstadt","latitude":49.53952,"longitude":9.33039}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69150-000"]={"code":"69150-000","region":"Amazonas","city":"Parintins","latitude":-2.62833,"longitude":-56.73583}}(window,'GeoPostal','BR');

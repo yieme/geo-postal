@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96062"]={"code":"96062","region":"CA","city":"Millville","latitude":40.5653,"longitude":-122.1111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60035"]={"code":"60035","region":"Hauts-de-France","city":"Beauvais","latitude":49.43333,"longitude":2.08333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15827"]={"code":"15827","region":"PA","city":"Byrnedale","latitude":41.2865,"longitude":-78.5051}}(window,'GeoPostal','US');

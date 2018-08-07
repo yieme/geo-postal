@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60920"]={"code":"60920","region":"Michoacan de Ocampo","city":"Arteaga","latitude":18.46667,"longitude":-102.41667}}(window,'GeoPostal','MX');

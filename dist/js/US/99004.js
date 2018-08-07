@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99004"]={"code":"99004","region":"Washington","city":"Cheney","latitude":47.43942,"longitude":-117.62736}}(window,'GeoPostal','US');

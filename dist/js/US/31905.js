@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31905"]={"code":"31905","region":"Georgia","city":"Fort Benning","latitude":32.36611,"longitude":-84.96917}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47282"]={"code":"47282","region":"IN","city":"Vernon","latitude":38.9848,"longitude":-85.6094}}(window,'GeoPostal','US');

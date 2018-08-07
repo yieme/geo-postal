@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8DY"]={"code":"LA12 8DY","region":"England","city":"Lowick Green","latitude":54.25951,"longitude":-3.08081}}(window,'GeoPostal','GB');

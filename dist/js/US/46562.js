@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46562"]={"code":"46562","region":"IN","city":"Pierceton","latitude":41.2124,"longitude":-85.7061}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53541"]={"code":"53541","region":"Wisconsin","city":"Gratiot","latitude":42.585289,"longitude":-90.019957}}(window,'GeoPostal','US');

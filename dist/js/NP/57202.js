@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57202"]={"code":"57202","region":"Mechi","city":"Bhadrapur","latitude":26.54404,"longitude":88.09436}}(window,'GeoPostal','NP');

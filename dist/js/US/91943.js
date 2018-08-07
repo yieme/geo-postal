@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91943"]={"code":"91943","region":"CA","city":"La Mesa","latitude":32.7678,"longitude":-117.0231}}(window,'GeoPostal','US');

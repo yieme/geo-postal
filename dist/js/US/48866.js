@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48866"]={"code":"48866","region":"MI","city":"Ovid","latitude":42.9969,"longitude":-84.3649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9JN"]={"code":"NG13 9JN","region":"England","city":"Granby","latitude":52.9,"longitude":-0.88333}}(window,'GeoPostal','GB');

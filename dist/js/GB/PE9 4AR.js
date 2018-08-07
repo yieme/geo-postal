@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 4AR"]={"code":"PE9 4AR","region":"England","city":"Casterton","latitude":52.67149,"longitude":-0.5191}}(window,'GeoPostal','GB');

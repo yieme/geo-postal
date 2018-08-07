@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63814"]={"code":"63814","region":"Marche","city":"Torre San Patrizio","latitude":43.18286,"longitude":13.61278}}(window,'GeoPostal','IT');

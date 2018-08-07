@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41379"]={"code":"41379","region":"Nordrhein-Westfalen","city":"Kesseler","latitude":51.66445,"longitude":8.11018}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20560"]={"code":"20560","region":"Pais Vasco","city":"Onate","latitude":43.03262,"longitude":-2.40997}}(window,'GeoPostal','ES');

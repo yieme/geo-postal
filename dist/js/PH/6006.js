@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6006"]={"code":"6006","region":"Cebu","city":"Catmon","latitude":10.71667,"longitude":124}}(window,'GeoPostal','PH');

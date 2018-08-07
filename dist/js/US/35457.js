@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35457"]={"code":"35457","region":"AL","city":"Echola","latitude":33.294,"longitude":-87.7766}}(window,'GeoPostal','US');

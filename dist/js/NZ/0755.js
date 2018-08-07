@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0755"]={"code":"0755","region":"Auckland","city":"Albany","latitude":-36.716667,"longitude":174.7}}(window,'GeoPostal','NZ');

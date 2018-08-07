@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 1DA"]={"code":"OX17 1DA","region":"England","city":"Warmington","latitude":52.12537,"longitude":-1.40372}}(window,'GeoPostal','GB');

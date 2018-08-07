@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62994"]={"code":"62994","region":"IL","city":"Vergennes","latitude":37.9051,"longitude":-89.3269}}(window,'GeoPostal','US');

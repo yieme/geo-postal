@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95890-000"]={"code":"95890-000","region":"Rio Grande do Sul","city":"Teutonia","latitude":-29.44806,"longitude":-51.80639}}(window,'GeoPostal','BR');

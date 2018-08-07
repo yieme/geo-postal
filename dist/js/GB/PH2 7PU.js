@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 7PU"]={"code":"PH2 7PU","region":"Scotland","city":"Errol","latitude":56.39234,"longitude":-3.21275}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1C0"]={"code":"B0P 1C0","region":"Nova Scotia","city":"Aylesford","latitude":45.03345,"longitude":-64.83209}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59471"]={"code":"59471","region":"Montana","city":"Roy","latitude":47.406594,"longitude":-108.735643}}(window,'GeoPostal','US');

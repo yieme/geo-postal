@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13360-000"]={"code":"13360-000","region":"Sao Paulo","city":"Capivari","latitude":-22.995,"longitude":-47.50778}}(window,'GeoPostal','BR');

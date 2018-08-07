@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7210"]={"code":"7210","region":"Western Cape","city":"Hermanus","latitude":-34.4187,"longitude":19.23446}}(window,'GeoPostal','ZA');

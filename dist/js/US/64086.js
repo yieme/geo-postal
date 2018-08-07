@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64086"]={"code":"64086","region":"Missouri","city":"Lee's Summit","latitude":38.91918,"longitude":-94.32084}}(window,'GeoPostal','US');

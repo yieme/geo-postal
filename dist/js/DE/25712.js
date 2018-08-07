@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25712"]={"code":"25712","region":"Schleswig-Holstein","city":"Brickeln","latitude":54.01667,"longitude":9.23333}}(window,'GeoPostal','DE');

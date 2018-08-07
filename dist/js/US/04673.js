@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04673"]={"code":"04673","region":"ME","city":"Sargentville","latitude":44.3136,"longitude":-68.6863}}(window,'GeoPostal','US');

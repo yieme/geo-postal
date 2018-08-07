@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13327"]={"code":"13327","region":"NY","city":"Croghan","latitude":43.9095,"longitude":-75.3542}}(window,'GeoPostal','US');

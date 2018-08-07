@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40450"]={"code":"40450","region":"Punjab","city":"Kot Mumin","latitude":32.18954,"longitude":73.02798}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02979"]={"code":"02979","region":"Sachsen","city":"Spreewitz","latitude":51.50836,"longitude":14.40046}}(window,'GeoPostal','DE');

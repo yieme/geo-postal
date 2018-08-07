@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9740"]={"code":"9740","region":"Groningen","city":"Groningen","latitude":53.21917,"longitude":6.56667}}(window,'GeoPostal','NL');

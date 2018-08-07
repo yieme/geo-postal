@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DGL 9019"]={"code":"DGL 9019","region":"Dingli","city":"Dingli","latitude":35.86139,"longitude":14.38222}}(window,'GeoPostal','MT');

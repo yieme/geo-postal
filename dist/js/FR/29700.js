@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29700"]={"code":"29700","region":"Bretagne","city":"Pluguffan","latitude":47.98333,"longitude":-4.18333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10810"]={"code":"10810","region":"Extremadura","city":"Montehermoso","latitude":40.08796,"longitude":-6.34984}}(window,'GeoPostal','ES');

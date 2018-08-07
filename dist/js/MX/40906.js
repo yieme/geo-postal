@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40906"]={"code":"40906","region":"Guerrero","city":"Tecoanapa","latitude":16.51667,"longitude":-98.75}}(window,'GeoPostal','MX');

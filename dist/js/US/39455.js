@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39455"]={"code":"39455","region":"MS","city":"Lumberton","latitude":31.0013,"longitude":-89.4523}}(window,'GeoPostal','US');

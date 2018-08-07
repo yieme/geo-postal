@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68990"]={"code":"68990","region":"Grand-Est","city":"Heimsbrunn","latitude":47.72647,"longitude":7.22638}}(window,'GeoPostal','FR');

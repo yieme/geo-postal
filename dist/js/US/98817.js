@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98817"]={"code":"98817","region":"WA","city":"Chelan Falls","latitude":47.8015,"longitude":-119.9859}}(window,'GeoPostal','US');

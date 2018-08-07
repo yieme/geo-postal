@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8280"]={"code":"8280","region":"Thurgau","city":"Kreuzlingen","latitude":47.65,"longitude":9.18333}}(window,'GeoPostal','CH');

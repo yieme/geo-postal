@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW11 5DT"]={"code":"SW11 5DT","region":"England","city":"Chesterton","latitude":51.88741,"longitude":-1.18549}}(window,'GeoPostal','GB');

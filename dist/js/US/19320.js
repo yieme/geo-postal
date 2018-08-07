@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19320"]={"code":"19320","region":"Pennsylvania","city":"Coatesville","latitude":39.98316,"longitude":-75.82384}}(window,'GeoPostal','US');

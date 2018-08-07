@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21019"]={"code":"21019","region":"Vilniaus apskritis","city":"Rudiskes","latitude":54.51667,"longitude":24.83333}}(window,'GeoPostal','LT');

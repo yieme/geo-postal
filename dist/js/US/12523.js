@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12523"]={"code":"12523","region":"NY","city":"Elizaville","latitude":42.0902,"longitude":-73.7818}}(window,'GeoPostal','US');

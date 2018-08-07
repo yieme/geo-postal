@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 0RR"]={"code":"DG9 0RR","region":"Northern Ireland","city":"Ballyclare","latitude":54.76667,"longitude":-6.01667}}(window,'GeoPostal','GB');

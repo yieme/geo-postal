@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79383"]={"code":"79383","region":"TX","city":"New Home","latitude":33.3451,"longitude":-101.9203}}(window,'GeoPostal','US');

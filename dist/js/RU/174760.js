@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174760"]={"code":"174760","region":"Novgorodskaya oblast'","city":"Lyubytino","latitude":58.81222,"longitude":33.39222}}(window,'GeoPostal','RU');

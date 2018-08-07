@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["380"]={"code":"380","region":"Vagar","city":"Sorvagur","latitude":62.09726,"longitude":-7.3577}}(window,'GeoPostal','FO');

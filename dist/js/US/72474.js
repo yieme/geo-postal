@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72474"]={"code":"72474","region":"AR","city":"Walcott","latitude":36.0413,"longitude":-90.6718}}(window,'GeoPostal','US');

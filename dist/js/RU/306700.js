@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306700"]={"code":"306700","region":"Kurskaya oblast'","city":"Kastornoye","latitude":51.8334,"longitude":38.1302}}(window,'GeoPostal','RU');

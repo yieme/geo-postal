@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01009"]={"code":"01009","region":"MA","city":"Bondsville","latitude":42.2061,"longitude":-72.3405}}(window,'GeoPostal','US');

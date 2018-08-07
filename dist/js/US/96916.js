@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96916"]={"code":"96916","region":"GU","city":"Merizo","latitude":13.26,"longitude":144.66}}(window,'GeoPostal','US');

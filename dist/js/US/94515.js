@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94515"]={"code":"94515","region":"California","city":"Calistoga","latitude":38.583077,"longitude":-122.567567}}(window,'GeoPostal','US');

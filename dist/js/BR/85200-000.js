@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85200-000"]={"code":"85200-000","region":"Parana","city":"Pitanga","latitude":-24.75722,"longitude":-51.76139}}(window,'GeoPostal','BR');

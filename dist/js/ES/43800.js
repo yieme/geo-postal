@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43800"]={"code":"43800","region":"Catalunya","city":"Valls","latitude":41.28612,"longitude":1.24993}}(window,'GeoPostal','ES');

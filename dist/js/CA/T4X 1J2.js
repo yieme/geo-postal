@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4X 1J2"]={"code":"T4X 1J2","region":"Alberta","city":"Beaumont","latitude":53.35288,"longitude":-113.40931}}(window,'GeoPostal','CA');

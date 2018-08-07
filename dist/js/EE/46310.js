@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46310"]={"code":"46310","region":"Laane-Virumaa","city":"Rakke","latitude":58.98167,"longitude":26.25444}}(window,'GeoPostal','EE');

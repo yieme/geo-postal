@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69146"]={"code":"69146","region":"Nebraska","city":"Lemoyne","latitude":41.337609,"longitude":-101.878924}}(window,'GeoPostal','US');

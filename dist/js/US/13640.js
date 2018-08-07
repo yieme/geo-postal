@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13640"]={"code":"13640","region":"NY","city":"Wellesley Island","latitude":44.3213,"longitude":-76.0172}}(window,'GeoPostal','US');

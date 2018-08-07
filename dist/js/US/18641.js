@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18641"]={"code":"18641","region":"PA","city":"Pittston","latitude":41.3361,"longitude":-75.7304}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39030"]={"code":"39030","region":"Trentino-Alto Adige","city":"Terento","latitude":46.83053,"longitude":11.77998}}(window,'GeoPostal','IT');

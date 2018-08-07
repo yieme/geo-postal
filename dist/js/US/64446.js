@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64446"]={"code":"64446","region":"Missouri","city":"Fairfax","latitude":40.33326,"longitude":-95.38968}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47385"]={"code":"47385","region":"IN","city":"Spiceland","latitude":39.8271,"longitude":-85.445}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70180"]={"code":"70180","region":"Ratchaburi","city":"Suan Phueng","latitude":13.54472,"longitude":99.34011}}(window,'GeoPostal','TH');

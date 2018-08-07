@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84329"]={"code":"84329","region":"UT","city":"Park Valley","latitude":41.8551,"longitude":-113.3478}}(window,'GeoPostal','US');

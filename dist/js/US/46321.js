@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46321"]={"code":"46321","region":"Indiana","city":"Munster","latitude":41.55036,"longitude":-87.5025}}(window,'GeoPostal','US');

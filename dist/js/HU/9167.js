@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9167"]={"code":"9167","region":"Gyor-Moson-Sopron","city":"Bosarkany","latitude":47.6882,"longitude":17.25}}(window,'GeoPostal','HU');

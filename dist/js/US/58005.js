@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58005"]={"code":"58005","region":"ND","city":"Argusville","latitude":47.1066,"longitude":-96.9058}}(window,'GeoPostal','US');

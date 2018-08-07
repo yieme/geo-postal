@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26670"]={"code":"26670","region":"Niedersachsen","city":"Jubberde","latitude":53.28164,"longitude":7.76301}}(window,'GeoPostal','DE');

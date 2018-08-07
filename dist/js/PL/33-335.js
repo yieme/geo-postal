@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-335"]={"code":"33-335","region":"Malopolskie","city":"Nawojowa","latitude":49.56686,"longitude":20.73927}}(window,'GeoPostal','PL');

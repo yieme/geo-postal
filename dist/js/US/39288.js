@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39288"]={"code":"39288","region":"MS","city":"Pearl","latitude":32.2746,"longitude":-90.132}}(window,'GeoPostal','US');

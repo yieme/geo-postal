@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8608"]={"code":"8608","region":"Fryslan","city":"Sneek","latitude":53.03297,"longitude":5.6589}}(window,'GeoPostal','NL');

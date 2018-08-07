@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["455302"]={"code":"455302","region":"Madhya Pradesh","city":"Khategaon","latitude":22.6,"longitude":76.91667}}(window,'GeoPostal','IN');

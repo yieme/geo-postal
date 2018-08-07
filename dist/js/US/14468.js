@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14468"]={"code":"14468","region":"New York","city":"Hilton","latitude":43.29558,"longitude":-77.78995}}(window,'GeoPostal','US');

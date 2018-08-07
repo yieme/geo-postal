@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0E0"]={"code":"T0M 0E0","region":"Alberta","city":"Balzac","latitude":51.230646,"longitude":-113.973246}}(window,'GeoPostal','CA');

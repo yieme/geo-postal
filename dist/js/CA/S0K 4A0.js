@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 4A0"]={"code":"S0K 4A0","region":"Saskatchewan","city":"Scott","latitude":52.36683,"longitude":-108.83473}}(window,'GeoPostal','CA');

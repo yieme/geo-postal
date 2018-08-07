@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28147"]={"code":"28147","region":"North Carolina","city":"Salisbury","latitude":35.665164,"longitude":-80.534466}}(window,'GeoPostal','US');

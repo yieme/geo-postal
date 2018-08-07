@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 4GG"]={"code":"AB31 4GG","region":"Scotland","city":"Torphins","latitude":57.10561,"longitude":-2.62398}}(window,'GeoPostal','GB');

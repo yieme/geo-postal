@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230284"]={"code":"230284","region":"Osun","city":"Osogbo","latitude":7.76667,"longitude":4.56667}}(window,'GeoPostal','NG');

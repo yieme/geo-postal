@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2130"]={"code":"2130","region":"Niederosterreich","city":"Mistelbach","latitude":48.57,"longitude":16.57667}}(window,'GeoPostal','AT');

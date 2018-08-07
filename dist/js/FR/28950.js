@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28950"]={"code":"28950","region":"Centre-Val de Loire","city":"Chartres","latitude":48.44685,"longitude":1.48925}}(window,'GeoPostal','FR');

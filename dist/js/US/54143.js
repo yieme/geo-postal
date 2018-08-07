@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54143"]={"code":"54143","region":"Wisconsin","city":"Marinette","latitude":45.09998,"longitude":-87.63066}}(window,'GeoPostal','US');

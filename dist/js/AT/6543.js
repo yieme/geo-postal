@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6543"]={"code":"6543","region":"Tirol","city":"Nauders","latitude":46.88333,"longitude":10.51667}}(window,'GeoPostal','AT');

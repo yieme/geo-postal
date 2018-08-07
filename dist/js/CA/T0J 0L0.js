@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 0L0"]={"code":"T0J 0L0","region":"Alberta","city":"Hartshorn","latitude":51.93343,"longitude":-112.33514}}(window,'GeoPostal','CA');

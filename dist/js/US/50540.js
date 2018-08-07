@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50540"]={"code":"50540","region":"IA","city":"Fonda","latitude":42.6051,"longitude":-94.8297}}(window,'GeoPostal','US');

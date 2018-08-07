@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56510"]={"code":"56510","region":"Mykolaivska oblast","city":"Voznesensk","latitude":47.56494,"longitude":31.33078}}(window,'GeoPostal','UA');

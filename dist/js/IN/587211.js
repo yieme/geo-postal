@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["587211"]={"code":"587211","region":"Karnataka","city":"Kerur","latitude":16.01667,"longitude":75.56667}}(window,'GeoPostal','IN');

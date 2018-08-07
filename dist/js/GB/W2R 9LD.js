@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W2R 9LD"]={"code":"W2R 9LD","region":"England","city":"Hampton","latitude":51.41334,"longitude":-0.36701}}(window,'GeoPostal','GB');

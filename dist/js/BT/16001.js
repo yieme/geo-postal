@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16001"]={"code":"16001","region":"Gasa","city":"Gasa","latitude":27.90372,"longitude":89.72689}}(window,'GeoPostal','BT');

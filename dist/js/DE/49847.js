@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49847"]={"code":"49847","region":"Niedersachsen","city":"Ratzel","latitude":52.53095,"longitude":6.7703}}(window,'GeoPostal','DE');

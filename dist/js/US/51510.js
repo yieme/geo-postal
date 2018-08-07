@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51510"]={"code":"51510","region":"Iowa","city":"Carter Lake","latitude":41.292863,"longitude":-95.912704}}(window,'GeoPostal','US');

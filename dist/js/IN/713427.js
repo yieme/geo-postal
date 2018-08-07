@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713427"]={"code":"713427","region":"West Bengal","city":"Arambagh","latitude":22.88333,"longitude":87.78333}}(window,'GeoPostal','IN');

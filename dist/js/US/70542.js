@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70542"]={"code":"70542","region":"Louisiana","city":"Gueydan","latitude":30.02604,"longitude":-92.50847}}(window,'GeoPostal','US');

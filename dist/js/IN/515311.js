@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515311"]={"code":"515311","region":"Andhra Pradesh","city":"Hindupur","latitude":13.82889,"longitude":77.49333}}(window,'GeoPostal','IN');

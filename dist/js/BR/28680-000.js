@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28680-000"]={"code":"28680-000","region":"Rio de Janeiro","city":"Cachoeiras de Macacu","latitude":-22.4625,"longitude":-42.65306}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77461"]={"code":"77461","region":"TX","city":"Needville","latitude":29.4117,"longitude":-95.8273}}(window,'GeoPostal','US');

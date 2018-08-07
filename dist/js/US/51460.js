@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51460"]={"code":"51460","region":"IA","city":"Ricketts","latitude":42.1304,"longitude":-95.5746}}(window,'GeoPostal','US');

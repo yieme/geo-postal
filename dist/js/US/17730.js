@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17730"]={"code":"17730","region":"PA","city":"Dewart","latitude":41.1092,"longitude":-76.8766}}(window,'GeoPostal','US');

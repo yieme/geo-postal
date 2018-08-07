@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45642"]={"code":"45642","region":"OH","city":"Jasper","latitude":39.0523,"longitude":-83.05}}(window,'GeoPostal','US');

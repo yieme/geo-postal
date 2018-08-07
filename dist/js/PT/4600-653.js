@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4600-653"]={"code":"4600-653","region":"Porto","city":"Ferreira","latitude":41.26718,"longitude":-8.34434}}(window,'GeoPostal','PT');

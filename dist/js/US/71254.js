@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71254"]={"code":"71254","region":"Louisiana","city":"Lake Providence","latitude":32.8043,"longitude":-91.17011}}(window,'GeoPostal','US');

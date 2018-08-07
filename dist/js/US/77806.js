@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77806"]={"code":"77806","region":"TX","city":"Bryan","latitude":30.6744,"longitude":-96.37}}(window,'GeoPostal','US');

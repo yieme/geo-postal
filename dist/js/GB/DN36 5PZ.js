@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN36 5PZ"]={"code":"DN36 5PZ","region":"England","city":"Grainsby","latitude":53.47728,"longitude":-0.06639}}(window,'GeoPostal','GB');

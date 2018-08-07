@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41564"]={"code":"41564","region":"KY","city":"Sidney","latitude":37.6076,"longitude":-82.3648}}(window,'GeoPostal','US');

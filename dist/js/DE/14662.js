@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14662"]={"code":"14662","region":"Brandenburg","city":"Vietznitz","latitude":52.72844,"longitude":12.62561}}(window,'GeoPostal','DE');

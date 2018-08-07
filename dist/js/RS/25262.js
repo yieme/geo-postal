@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25262"]={"code":"25262","region":"Zapadnobacki okrug","city":"Kupusina","latitude":45.73611,"longitude":19.00972}}(window,'GeoPostal','RS');

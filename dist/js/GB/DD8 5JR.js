@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 5JR"]={"code":"DD8 5JR","region":"Scotland","city":"Balintore","latitude":56.7,"longitude":-3.15}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 6PA"]={"code":"TA3 6PA","region":"England","city":"Fivehead","latitude":51.00212,"longitude":-2.92145}}(window,'GeoPostal','GB');

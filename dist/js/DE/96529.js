@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96529"]={"code":"96529","region":"Thuringen","city":"Schwarzwald","latitude":50.39118,"longitude":11.12309}}(window,'GeoPostal','DE');

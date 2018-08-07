@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157600"]={"code":"157600","region":"Heilongjiang","city":"Linkou","latitude":45.3,"longitude":130.28333}}(window,'GeoPostal','CN');

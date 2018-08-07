@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80829"]={"code":"80829","region":"CO","city":"Manitou Springs","latitude":38.855,"longitude":-104.9058}}(window,'GeoPostal','US');

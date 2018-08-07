@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79346"]={"code":"79346","region":"Texas","city":"Morton","latitude":33.7251,"longitude":-102.75938}}(window,'GeoPostal','US');

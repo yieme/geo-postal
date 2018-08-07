@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31430"]={"code":"31430","region":"Occitanie","city":"Le Fousseret","latitude":43.28205,"longitude":1.06624}}(window,'GeoPostal','FR');

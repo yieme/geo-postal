@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX26 6WD"]={"code":"OX26 6WD","region":"England","city":"Bicester","latitude":51.89998,"longitude":-1.15357}}(window,'GeoPostal','GB');

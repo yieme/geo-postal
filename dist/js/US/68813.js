@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68813"]={"code":"68813","region":"NE","city":"Anselmo","latitude":41.6208,"longitude":-99.8644}}(window,'GeoPostal','US');

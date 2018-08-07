@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-640"]={"code":"27-640","region":"Swietokrzyskie","city":"Klimontow","latitude":50.65588,"longitude":21.45587}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80210"]={"code":"80210","region":"Hauts-de-France","city":"Chepy","latitude":50.06361,"longitude":1.64694}}(window,'GeoPostal','FR');

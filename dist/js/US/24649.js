@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24649"]={"code":"24649","region":"VA","city":"Swords Creek","latitude":37.0738,"longitude":-81.9084}}(window,'GeoPostal','US');

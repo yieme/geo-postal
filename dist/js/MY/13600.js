@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13600"]={"code":"13600","region":"Pulau Pinang","city":"Perai","latitude":5.38333,"longitude":100.38333}}(window,'GeoPostal','MY');

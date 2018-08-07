@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 1LH"]={"code":"ST10 1LH","region":"England","city":"Cheadle","latitude":52.98333,"longitude":-1.98333}}(window,'GeoPostal','GB');

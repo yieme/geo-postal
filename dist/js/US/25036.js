@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25036"]={"code":"25036","region":"WV","city":"Cannelton","latitude":38.1943,"longitude":-81.2959}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2770"]={"code":"2770","region":"Oppland","city":"Jaren","latitude":60.39273,"longitude":10.56155}}(window,'GeoPostal','NO');

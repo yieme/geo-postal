@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5680"]={"code":"5680","region":"South Australia","city":"Streaky Bay","latitude":-32.79924,"longitude":134.21159}}(window,'GeoPostal','AU');

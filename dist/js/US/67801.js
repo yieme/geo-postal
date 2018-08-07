@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67801"]={"code":"67801","region":"Kansas","city":"Dodge City","latitude":37.75906,"longitude":-100.018821}}(window,'GeoPostal','US');

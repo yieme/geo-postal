@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61814"]={"code":"61814","region":"IL","city":"Bismarck","latitude":40.2552,"longitude":-87.6138}}(window,'GeoPostal','US');

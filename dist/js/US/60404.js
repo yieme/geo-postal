@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60404"]={"code":"60404","region":"IL","city":"Shorewood","latitude":41.5076,"longitude":-88.2169}}(window,'GeoPostal','US');

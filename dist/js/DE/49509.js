@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49509"]={"code":"49509","region":"Niedersachsen","city":"Rothertshausen","latitude":52.38918,"longitude":7.77336}}(window,'GeoPostal','DE');

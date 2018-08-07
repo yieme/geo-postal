@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38140"]={"code":"38140","region":"Auvergne-Rhone-Alpes","city":"La Murette","latitude":45.38098,"longitude":5.54028}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2260"]={"code":"2260","region":"New South Wales","city":"Wamberal","latitude":-33.41554,"longitude":151.44559}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4R 4K2"]={"code":"G4R 4K2","region":"Quebec","city":"Maliotenam","latitude":50.21119,"longitude":-66.18164}}(window,'GeoPostal','CA');

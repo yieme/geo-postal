@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["576216"]={"code":"576216","region":"Karnataka","city":"Coondapoor","latitude":13.63333,"longitude":74.7}}(window,'GeoPostal','IN');

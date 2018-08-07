@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55422"]={"code":"55422","region":"Rheinland-Pfalz","city":"Nauheim","latitude":50.05706,"longitude":7.75658}}(window,'GeoPostal','DE');

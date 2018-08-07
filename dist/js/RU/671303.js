@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671303"]={"code":"671303","region":"Buryatiya, Respublika","city":"Onokhoy","latitude":51.932,"longitude":108.0747}}(window,'GeoPostal','RU');

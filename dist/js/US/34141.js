@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34141"]={"code":"34141","region":"Florida","city":"Ochopee","latitude":25.90442,"longitude":-81.30582}}(window,'GeoPostal','US');

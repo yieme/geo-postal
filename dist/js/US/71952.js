@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71952"]={"code":"71952","region":"AR","city":"Langley","latitude":34.314,"longitude":-93.8509}}(window,'GeoPostal','US');

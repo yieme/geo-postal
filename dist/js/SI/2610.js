@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2610"]={"code":"2610","region":"Maribor","city":"Maribor","latitude":46.55472,"longitude":15.64667}}(window,'GeoPostal','SI');

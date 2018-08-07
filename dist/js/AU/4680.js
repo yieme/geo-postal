@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4680"]={"code":"4680","region":"Queensland","city":"Gladstone","latitude":-23.84761,"longitude":151.25635}}(window,'GeoPostal','AU');

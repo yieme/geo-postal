@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97431"]={"code":"97431","region":"OR","city":"Dexter","latitude":43.9217,"longitude":-122.8424}}(window,'GeoPostal','US');

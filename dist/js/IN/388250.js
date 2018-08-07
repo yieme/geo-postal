@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["388250"]={"code":"388250","region":"Gujarat","city":"Thasra","latitude":22.8,"longitude":73.21667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 5AA"]={"code":"IP29 5AA","region":"England","city":"Barrow","latitude":52.24131,"longitude":0.58365}}(window,'GeoPostal','GB');

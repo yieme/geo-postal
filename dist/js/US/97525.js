@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97525"]={"code":"97525","region":"OR","city":"Gold Hill","latitude":42.4244,"longitude":-123.0854}}(window,'GeoPostal','US');

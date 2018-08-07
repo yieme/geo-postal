@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38296"]={"code":"38296","region":"Kalmar lan","city":"Nybro","latitude":56.74461,"longitude":15.90714}}(window,'GeoPostal','SE');

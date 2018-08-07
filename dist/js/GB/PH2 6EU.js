@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 6EU"]={"code":"PH2 6EU","region":"Scotland","city":"Balbeggie","latitude":56.44852,"longitude":-3.34952}}(window,'GeoPostal','GB');

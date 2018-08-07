@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55299"]={"code":"55299","region":"Rheinland-Pfalz","city":"Nackenheim","latitude":49.91528,"longitude":8.33889}}(window,'GeoPostal','DE');

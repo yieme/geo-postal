@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29479"]={"code":"29479","region":"Niedersachsen","city":"Breselenz","latitude":53.0399,"longitude":11.06038}}(window,'GeoPostal','DE');

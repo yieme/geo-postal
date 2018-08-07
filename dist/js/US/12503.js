@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12503"]={"code":"12503","region":"NY","city":"Ancramdale","latitude":42.0381,"longitude":-73.5819}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49170"]={"code":"49170","region":"Gaza","city":"Gaza","latitude":31.5,"longitude":34.46667}}(window,'GeoPostal','PS');

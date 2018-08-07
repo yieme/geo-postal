@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29461"]={"code":"29461","region":"South Carolina","city":"Moncks Corner","latitude":33.14898,"longitude":-80.027645}}(window,'GeoPostal','US');

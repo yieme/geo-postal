@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37153"]={"code":"37153","region":"Tennessee","city":"Rockvale","latitude":35.7561,"longitude":-86.5543}}(window,'GeoPostal','US');

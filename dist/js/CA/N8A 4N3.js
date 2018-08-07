@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8A 4N3"]={"code":"N8A 4N3","region":"Ontario","city":"Walpole Island","latitude":42.61678,"longitude":-82.51653}}(window,'GeoPostal','CA');

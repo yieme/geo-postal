@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12738"]={"code":"12738","region":"NY","city":"Glen Wild","latitude":41.6545,"longitude":-74.5833}}(window,'GeoPostal','US');

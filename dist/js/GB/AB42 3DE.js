@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 3DE"]={"code":"AB42 3DE","region":"Scotland","city":"Inverugie Mill","latitude":57.51667,"longitude":-1.83333}}(window,'GeoPostal','GB');

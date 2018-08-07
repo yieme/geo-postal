@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470 06"]={"code":"470 06","region":"Kraj Vysocina","city":"Lipa","latitude":49.55418,"longitude":15.54465}}(window,'GeoPostal','CZ');

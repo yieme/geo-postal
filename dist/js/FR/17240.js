@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17240"]={"code":"17240","region":"Nouvelle-Aquitaine","city":"Saint-Genis-de-Saintonge","latitude":45.48107,"longitude":-0.56848}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41521"]={"code":"41521","region":"Keski-Suomi","city":"Hankasalmi","latitude":62.38333,"longitude":26.43333}}(window,'GeoPostal','FI');

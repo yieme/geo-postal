@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17035"]={"code":"17035","region":"PA","city":"Honey Grove","latitude":40.4309,"longitude":-77.5761}}(window,'GeoPostal','US');

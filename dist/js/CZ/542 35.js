@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542 35"]={"code":"542 35","region":"Kralovehradecky kraj","city":"Velke Svatonovice","latitude":50.53164,"longitude":16.02853}}(window,'GeoPostal','CZ');

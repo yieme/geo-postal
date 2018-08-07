@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65719"]={"code":"65719","region":"Hessen","city":"Hofheim am Taunus","latitude":50.09019,"longitude":8.4493}}(window,'GeoPostal','DE');

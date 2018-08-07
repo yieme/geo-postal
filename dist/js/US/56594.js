@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56594"]={"code":"56594","region":"MN","city":"Wolverton","latitude":46.555,"longitude":-96.6149}}(window,'GeoPostal','US');

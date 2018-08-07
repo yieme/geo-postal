@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07456"]={"code":"07456","region":"NJ","city":"Ringwood","latitude":41.0928,"longitude":-74.2659}}(window,'GeoPostal','US');

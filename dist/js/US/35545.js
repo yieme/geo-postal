@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35545"]={"code":"35545","region":"AL","city":"Belk","latitude":33.6476,"longitude":-87.9314}}(window,'GeoPostal','US');

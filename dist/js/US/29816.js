@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29816"]={"code":"29816","region":"SC","city":"Bath","latitude":33.5046,"longitude":-81.869}}(window,'GeoPostal','US');

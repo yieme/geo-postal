@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89306"]={"code":"89306","region":"Zakarpatska oblast","city":"Svalyava","latitude":48.54853,"longitude":22.99578}}(window,'GeoPostal','UA');

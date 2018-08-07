@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6409"]={"code":"6409","region":"Western Australia","city":"Tammin","latitude":-31.66667,"longitude":117.5}}(window,'GeoPostal','AU');

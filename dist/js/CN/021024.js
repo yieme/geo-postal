@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["021024"]={"code":"021024","region":"Nei Mongol","city":"Yakeshi","latitude":49.28333,"longitude":120.73333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72654"]={"code":"72654","region":"Baden-Wurttemberg","city":"Neckartenzlingen","latitude":48.58981,"longitude":9.23478}}(window,'GeoPostal','DE');

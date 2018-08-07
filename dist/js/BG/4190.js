@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4190"]={"code":"4190","region":"Plovdiv","city":"Suedinenie","latitude":42.26667,"longitude":24.55}}(window,'GeoPostal','BG');

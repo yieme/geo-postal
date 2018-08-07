@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91481"]={"code":"91481","region":"Veracruz de Ignacio de la Llave","city":"Zempoala","latitude":19.45,"longitude":-96.41667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST8 7AT"]={"code":"ST8 7AT","region":"England","city":"Trent","latitude":50.96479,"longitude":-2.58047}}(window,'GeoPostal','GB');

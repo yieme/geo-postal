@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37284"]={"code":"37284","region":"Hessen","city":"Kirchhosbach","latitude":51.11788,"longitude":9.90598}}(window,'GeoPostal','DE');

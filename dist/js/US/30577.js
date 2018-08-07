@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30577"]={"code":"30577","region":"Georgia","city":"Toccoa","latitude":34.57732,"longitude":-83.33239}}(window,'GeoPostal','US');

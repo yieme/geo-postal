@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62262"]={"code":"62262","region":"Illinois","city":"Mulberry Grove","latitude":38.92444,"longitude":-89.26861}}(window,'GeoPostal','US');

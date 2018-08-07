@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44235"]={"code":"44235","region":"OH","city":"Homerville","latitude":41.0267,"longitude":-82.125}}(window,'GeoPostal','US');

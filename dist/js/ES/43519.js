@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43519"]={"code":"43519","region":"Catalunya","city":"el Perello","latitude":40.86667,"longitude":0.71667}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04956"]={"code":"04956","region":"ME","city":"New Vineyard","latitude":44.7967,"longitude":-70.122}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07802"]={"code":"07802","region":"New Jersey","city":"Dover","latitude":40.8557,"longitude":-74.5722}}(window,'GeoPostal','US');

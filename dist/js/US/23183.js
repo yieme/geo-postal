@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23183"]={"code":"23183","region":"VA","city":"White Marsh","latitude":37.3632,"longitude":-76.5325}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12855"]={"code":"12855","region":"NY","city":"North Hudson","latitude":43.9869,"longitude":-73.7121}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-588"]={"code":"58-588","region":"Dolnoslaskie","city":"Jelenia Gora","latitude":50.89973,"longitude":15.72899}}(window,'GeoPostal','PL');

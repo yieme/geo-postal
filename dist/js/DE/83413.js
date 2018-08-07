@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83413"]={"code":"83413","region":"Bayern","city":"Fridolfing","latitude":47.99773,"longitude":12.82628}}(window,'GeoPostal','DE');

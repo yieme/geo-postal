@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-440"]={"code":"06-440","region":"Mazowieckie","city":"Gasocin","latitude":52.73754,"longitude":20.7118}}(window,'GeoPostal','PL');

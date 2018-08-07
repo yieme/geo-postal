@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47589"]={"code":"47589","region":"Nordrhein-Westfalen","city":"Udemerbruch","latitude":51.65345,"longitude":6.32547}}(window,'GeoPostal','DE');

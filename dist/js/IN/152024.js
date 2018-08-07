@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152024"]={"code":"152024","region":"Punjab","city":"Jalalabad","latitude":30.61667,"longitude":74.25}}(window,'GeoPostal','IN');

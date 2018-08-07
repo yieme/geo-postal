@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73614"]={"code":"73614","region":"Baden-Wurttemberg","city":"Schorndorf","latitude":48.80537,"longitude":9.52721}}(window,'GeoPostal','DE');

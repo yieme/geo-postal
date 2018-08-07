@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91046"]={"code":"91046","region":"CA","city":"Verdugo City","latitude":34.2114,"longitude":-118.2395}}(window,'GeoPostal','US');

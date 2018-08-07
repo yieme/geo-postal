@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR7 4HG"]={"code":"HR7 4HG","region":"England","city":"Stoke Lacy","latitude":52.14954,"longitude":-2.55089}}(window,'GeoPostal','GB');

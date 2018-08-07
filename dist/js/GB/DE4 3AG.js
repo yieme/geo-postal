@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE4 3AG"]={"code":"DE4 3AG","region":"England","city":"Matlock","latitude":53.13838,"longitude":-1.5556}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83465"]={"code":"83465","region":"ID","city":"Lemhi","latitude":44.8516,"longitude":-113.6198}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52160"]={"code":"52160","region":"Iowa","city":"New Albin","latitude":43.496329,"longitude":-91.287745}}(window,'GeoPostal','US');

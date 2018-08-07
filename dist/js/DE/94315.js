@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94315"]={"code":"94315","region":"Bayern","city":"Straubing","latitude":48.88126,"longitude":12.57385}}(window,'GeoPostal','DE');

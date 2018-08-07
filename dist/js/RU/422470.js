@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422470"]={"code":"422470","region":"Tatarstan, Respublika","city":"Staroye Drozhzhanoye","latitude":54.72658,"longitude":47.56766}}(window,'GeoPostal','RU');

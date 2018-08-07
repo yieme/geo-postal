@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53968"]={"code":"53968","region":"Wisconsin","city":"Wonewoc","latitude":43.68833,"longitude":-90.25611}}(window,'GeoPostal','US');

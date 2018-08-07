@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17580-000"]={"code":"17580-000","region":"Sao Paulo","city":"Pompeia","latitude":-22.10861,"longitude":-50.17167}}(window,'GeoPostal','BR');

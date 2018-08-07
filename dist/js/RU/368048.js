@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368048"]={"code":"368048","region":"Dagestan, Respublika","city":"Novyy Kostek","latitude":43.3353,"longitude":46.82466}}(window,'GeoPostal','RU');

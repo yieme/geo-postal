@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68471"]={"code":"68471","region":"Jawa Timur","city":"Karanglo","latitude":-8.3847,"longitude":114.2778}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV2 6UE"]={"code":"IV2 6UE","region":"Scotland","city":"West Croachy","latitude":57.3,"longitude":-4.25}}(window,'GeoPostal','GB');

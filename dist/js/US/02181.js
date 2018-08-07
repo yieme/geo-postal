@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02181"]={"code":"02181","region":"Massachusetts","city":"Wellesley","latitude":42.3006,"longitude":-71.2788}}(window,'GeoPostal','US');

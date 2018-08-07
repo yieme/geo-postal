@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02562"]={"code":"02562","region":"MA","city":"Sagamore Beach","latitude":41.7933,"longitude":-70.5196}}(window,'GeoPostal','US');

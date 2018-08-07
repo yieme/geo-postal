@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39531"]={"code":"39531","region":"Mississippi","city":"Biloxi","latitude":30.403176,"longitude":-88.966125}}(window,'GeoPostal','US');

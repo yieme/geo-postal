@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96231"]={"code":"96231","region":"Bayern","city":"Bad Staffelstein","latitude":50.10199,"longitude":11.00128}}(window,'GeoPostal','DE');

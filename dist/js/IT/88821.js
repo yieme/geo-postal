@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88821"]={"code":"88821","region":"Calabria","city":"Rocca di Neto","latitude":39.1843,"longitude":17.00891}}(window,'GeoPostal','IT');

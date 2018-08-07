@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1DQ"]={"code":"SA3 1DQ","region":"Wales","city":"Llanmadoc","latitude":51.61694,"longitude":-4.2525}}(window,'GeoPostal','GB');

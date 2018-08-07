@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W2 1NB"]={"code":"W2 1NB","region":"England","city":"City of Westminster","latitude":51.5,"longitude":-0.11667}}(window,'GeoPostal','GB');

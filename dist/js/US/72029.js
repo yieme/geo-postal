@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72029"]={"code":"72029","region":"Arkansas","city":"Clarendon","latitude":34.69315,"longitude":-91.31374}}(window,'GeoPostal','US');

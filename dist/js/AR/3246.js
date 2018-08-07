@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3246"]={"code":"3246","region":"Entre Rios","city":"Dominguez","latitude":-31.9871,"longitude":-58.96197}}(window,'GeoPostal','AR');

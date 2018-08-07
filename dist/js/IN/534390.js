@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["534390"]={"code":"534390","region":"Andhra Pradesh","city":"Rajahmundry","latitude":16.98333,"longitude":81.78333}}(window,'GeoPostal','IN');

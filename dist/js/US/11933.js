@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11933"]={"code":"11933","region":"New York","city":"Calverton","latitude":40.90649,"longitude":-72.74343}}(window,'GeoPostal','US');

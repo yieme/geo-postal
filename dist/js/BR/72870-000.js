@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72870-000"]={"code":"72870-000","region":"Goias","city":"Luziania","latitude":-16.2525,"longitude":-47.95028}}(window,'GeoPostal','BR');

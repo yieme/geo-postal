@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13770"]={"code":"13770","region":"Castilla-La Mancha","city":"Viso del Marques","latitude":38.52208,"longitude":-3.56348}}(window,'GeoPostal','ES');

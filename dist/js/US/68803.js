@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68803"]={"code":"68803","region":"Nebraska","city":"Grand Island","latitude":40.925358,"longitude":-98.378963}}(window,'GeoPostal','US');

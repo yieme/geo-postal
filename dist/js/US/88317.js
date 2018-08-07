@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88317"]={"code":"88317","region":"NM","city":"Cloudcroft","latitude":32.8897,"longitude":-105.6744}}(window,'GeoPostal','US');

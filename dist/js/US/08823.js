@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08823"]={"code":"08823","region":"NJ","city":"Franklin Park","latitude":40.4421,"longitude":-74.5369}}(window,'GeoPostal','US');

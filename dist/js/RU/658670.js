@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658670"]={"code":"658670","region":"Altayskiy kray","city":"Blagoveshchenka","latitude":52.83333,"longitude":79.86667}}(window,'GeoPostal','RU');

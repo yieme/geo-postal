@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83431"]={"code":"83431","region":"ID","city":"Lewisville","latitude":43.6725,"longitude":-112.0189}}(window,'GeoPostal','US');

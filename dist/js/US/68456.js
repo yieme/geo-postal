@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68456"]={"code":"68456","region":"Nebraska","city":"Utica","latitude":40.894386,"longitude":-97.345543}}(window,'GeoPostal','US');

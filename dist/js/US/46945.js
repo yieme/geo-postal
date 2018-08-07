@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46945"]={"code":"46945","region":"IN","city":"Leiters Ford","latitude":41.1217,"longitude":-86.3858}}(window,'GeoPostal','US');

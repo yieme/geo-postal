@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02791"]={"code":"02791","region":"MA","city":"Westport Point","latitude":41.5223,"longitude":-71.0745}}(window,'GeoPostal','US');

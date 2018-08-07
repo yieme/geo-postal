@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425209"]={"code":"425209","region":"Hunan","city":"Tangdi","latitude":25.94472,"longitude":111.73056}}(window,'GeoPostal','CN');

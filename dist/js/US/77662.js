@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77662"]={"code":"77662","region":"Texas","city":"Vidor","latitude":30.1316,"longitude":-94.01545}}(window,'GeoPostal','US');

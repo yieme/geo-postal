@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["796 03"]={"code":"796 03","region":"Olomoucky kraj","city":"Prostejov","latitude":49.47188,"longitude":17.11184}}(window,'GeoPostal','CZ');

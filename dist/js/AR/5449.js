@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5449"]={"code":"5449","region":"San Juan","city":"San Agustin de Valle Fertil","latitude":-30.63353,"longitude":-67.46821}}(window,'GeoPostal','AR');

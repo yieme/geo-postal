@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652250"]={"code":"652250","region":"Kemerovskaya oblast'","city":"Tisul'","latitude":55.76111,"longitude":88.31222}}(window,'GeoPostal','RU');

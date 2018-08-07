@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682738"]={"code":"682738","region":"Khabarovskiy kray","city":"Berezovyy","latitude":51.66667,"longitude":135.7}}(window,'GeoPostal','RU');

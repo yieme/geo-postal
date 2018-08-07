@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86640"]={"code":"86640","region":"Tabasco","city":"Tecolutilla","latitude":18.28333,"longitude":-93.31667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9814"]={"code":"9814","region":"Karnten","city":"Muhldorf","latitude":46.86028,"longitude":13.35361}}(window,'GeoPostal','AT');

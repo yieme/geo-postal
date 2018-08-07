@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 0NT"]={"code":"SY21 0NT","region":"Wales","city":"Garthbeibio","latitude":52.7,"longitude":-3.5}}(window,'GeoPostal','GB');

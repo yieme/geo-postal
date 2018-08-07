@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35449"]={"code":"35449","region":"AL","city":"Coaling","latitude":33.1359,"longitude":-87.3384}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67009"]={"code":"67009","region":"KS","city":"Attica","latitude":37.2528,"longitude":-98.2264}}(window,'GeoPostal','US');

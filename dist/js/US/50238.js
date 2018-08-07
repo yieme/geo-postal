@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50238"]={"code":"50238","region":"IA","city":"Russell","latitude":40.9456,"longitude":-93.1784}}(window,'GeoPostal','US');

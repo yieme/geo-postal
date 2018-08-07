@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14016"]={"code":"14016","region":"Quiche","city":"Sacapulas","latitude":15.28667,"longitude":-91.08722}}(window,'GeoPostal','GT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53002"]={"code":"53002","region":"WI","city":"Allenton","latitude":43.4681,"longitude":-88.3539}}(window,'GeoPostal','US');

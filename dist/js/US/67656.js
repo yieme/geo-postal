@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67656"]={"code":"67656","region":"KS","city":"Ogallah","latitude":38.9914,"longitude":-99.7323}}(window,'GeoPostal','US');

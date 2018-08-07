@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97383"]={"code":"97383","region":"Oregon","city":"Stayton","latitude":44.803266,"longitude":-122.758493}}(window,'GeoPostal','US');

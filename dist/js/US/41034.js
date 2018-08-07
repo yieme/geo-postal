@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41034"]={"code":"41034","region":"Kentucky","city":"Dover","latitude":38.636978,"longitude":-83.790201}}(window,'GeoPostal','US');

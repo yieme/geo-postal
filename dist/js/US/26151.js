@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26151"]={"code":"26151","region":"WV","city":"Mount Zion","latitude":38.8286,"longitude":-81.1322}}(window,'GeoPostal','US');

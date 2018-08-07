@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39410"]={"code":"39410","region":"Bourgogne-Franche-Comte","city":"Saint-Aubin","latitude":47.03336,"longitude":5.32666}}(window,'GeoPostal','FR');

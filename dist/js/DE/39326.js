@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39326"]={"code":"39326","region":"Brandenburg","city":"Lindhorst","latitude":53.44367,"longitude":13.76918}}(window,'GeoPostal','DE');

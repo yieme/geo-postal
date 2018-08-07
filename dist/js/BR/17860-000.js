@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17860-000"]={"code":"17860-000","region":"Sao Paulo","city":"Pacaembu","latitude":-21.56222,"longitude":-51.26056}}(window,'GeoPostal','BR');

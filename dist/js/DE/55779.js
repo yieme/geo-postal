@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55779"]={"code":"55779","region":"Rheinland-Pfalz","city":"Heimbach","latitude":49.61667,"longitude":7.25}}(window,'GeoPostal','DE');

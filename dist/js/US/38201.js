@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38201"]={"code":"38201","region":"Tennessee","city":"McKenzie","latitude":36.13256,"longitude":-88.51866}}(window,'GeoPostal','US');

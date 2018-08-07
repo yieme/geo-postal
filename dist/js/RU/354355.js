@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354355"]={"code":"354355","region":"Krasnodarskiy kray","city":"Sochi","latitude":43.59917,"longitude":39.72569}}(window,'GeoPostal','RU');

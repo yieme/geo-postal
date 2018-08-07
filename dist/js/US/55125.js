@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55125"]={"code":"55125","region":"Minnesota","city":"Woodbury","latitude":44.92386,"longitude":-92.95938}}(window,'GeoPostal','US');

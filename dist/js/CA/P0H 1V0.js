@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 1V0"]={"code":"P0H 1V0","region":"Ontario","city":"Mattawa","latitude":46.31681,"longitude":-78.69957}}(window,'GeoPostal','CA');

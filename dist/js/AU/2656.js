@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2656"]={"code":"2656","region":"New South Wales","city":"Lockhart","latitude":-35.22222,"longitude":146.7242}}(window,'GeoPostal','AU');

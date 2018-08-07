@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62049"]={"code":"62049","region":"Illinois","city":"Hillsboro","latitude":39.16116,"longitude":-89.4937}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390 01"]={"code":"390 01","region":"Jihocesky kraj","city":"Tabor","latitude":49.41441,"longitude":14.6578}}(window,'GeoPostal','CZ');

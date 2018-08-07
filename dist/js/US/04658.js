@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04658"]={"code":"04658","region":"Maine","city":"Milbridge","latitude":44.53536,"longitude":-67.88083}}(window,'GeoPostal','US');

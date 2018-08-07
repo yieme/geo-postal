@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12073"]={"code":"12073","region":"NY","city":"Gallupville","latitude":42.6626,"longitude":-74.2326}}(window,'GeoPostal','US');

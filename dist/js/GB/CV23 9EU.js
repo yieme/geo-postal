@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV23 9EU"]={"code":"CV23 9EU","region":"England","city":"Long Lawford","latitude":52.38176,"longitude":-1.30716}}(window,'GeoPostal','GB');

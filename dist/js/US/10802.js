@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10802"]={"code":"10802","region":"NY","city":"New Rochelle","latitude":40.9115,"longitude":-73.7824}}(window,'GeoPostal','US');

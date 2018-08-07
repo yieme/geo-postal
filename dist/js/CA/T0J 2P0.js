@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 2P0"]={"code":"T0J 2P0","region":"Alberta","city":"Bowell","latitude":50.13337,"longitude":-110.95168}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-320"]={"code":"88-320","region":"Kujawsko-pomorskie","city":"Strzelno","latitude":52.62789,"longitude":18.17246}}(window,'GeoPostal','PL');

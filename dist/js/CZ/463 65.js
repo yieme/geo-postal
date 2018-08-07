@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463 65"]={"code":"463 65","region":"Liberecky kraj","city":"Nove Mesto pod Smrkem","latitude":50.92491,"longitude":15.22943}}(window,'GeoPostal','CZ');

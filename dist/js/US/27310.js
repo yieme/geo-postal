@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27310"]={"code":"27310","region":"NC","city":"Oak Ridge","latitude":36.1673,"longitude":-79.9804}}(window,'GeoPostal','US');

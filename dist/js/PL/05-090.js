@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-090"]={"code":"05-090","region":"Mazowieckie","city":"Raszyn","latitude":52.15603,"longitude":20.9226}}(window,'GeoPostal','PL');

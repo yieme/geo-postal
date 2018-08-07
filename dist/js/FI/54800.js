@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54800"]={"code":"54800","region":"Etela-Karjala","city":"Savitaipale","latitude":61.2,"longitude":27.7}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457044"]={"code":"457044","region":"Chelyabinskaya oblast'","city":"Yuzhnoural'sk","latitude":54.4418,"longitude":61.2536}}(window,'GeoPostal','RU');

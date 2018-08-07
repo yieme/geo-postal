@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 2AD"]={"code":"SO32 2AD","region":"England","city":"Durley","latitude":50.94312,"longitude":-1.26411}}(window,'GeoPostal','GB');

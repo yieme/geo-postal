@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65032"]={"code":"65032","region":"MO","city":"Eugene","latitude":38.3424,"longitude":-92.3823}}(window,'GeoPostal','US');

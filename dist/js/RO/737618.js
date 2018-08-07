@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737618"]={"code":"737618","region":"Covasna","city":"Covasna","latitude":45.85,"longitude":26.18333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84500"]={"code":"84500","region":"Donetska oblast","city":"Artemivs'k","latitude":48.59559,"longitude":37.99987}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19548"]={"code":"19548","region":"PA","city":"Pine Forge","latitude":40.2829,"longitude":-75.6907}}(window,'GeoPostal','US');

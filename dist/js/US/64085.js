@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64085"]={"code":"64085","region":"Missouri","city":"Richmond","latitude":39.278419,"longitude":-93.975672}}(window,'GeoPostal','US');

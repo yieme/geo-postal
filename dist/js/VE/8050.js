@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8050"]={"code":"8050","region":"Bolivar","city":"Ciudad Guayana","latitude":8.35122,"longitude":-62.64102}}(window,'GeoPostal','VE');

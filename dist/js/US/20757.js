@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20757"]={"code":"20757","region":"MD","city":"Temple Hills","latitude":38.814,"longitude":-76.9455}}(window,'GeoPostal','US');

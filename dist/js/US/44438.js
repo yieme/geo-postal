@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44438"]={"code":"44438","region":"OH","city":"Masury","latitude":41.2255,"longitude":-80.5326}}(window,'GeoPostal','US');

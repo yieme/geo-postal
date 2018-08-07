@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12766"]={"code":"12766","region":"New York","city":"North Branch","latitude":41.81014,"longitude":-74.998355}}(window,'GeoPostal','US');

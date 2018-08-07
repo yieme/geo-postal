@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01532"]={"code":"01532","region":"Massachusetts","city":"Northborough","latitude":42.314991,"longitude":-71.649251}}(window,'GeoPostal','US');

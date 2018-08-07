@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4376"]={"code":"4376","region":"New South Wales","city":"Maryland","latitude":-28.55,"longitude":152}}(window,'GeoPostal','AU');

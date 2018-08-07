@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27040"]={"code":"27040","region":"North Carolina","city":"Pfafftown","latitude":36.15333,"longitude":-80.36111}}(window,'GeoPostal','US');

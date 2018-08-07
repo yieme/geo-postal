@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 5YJ"]={"code":"AB53 5YJ","region":"Scotland","city":"Cuminestown","latitude":57.54238,"longitude":-2.33525}}(window,'GeoPostal','GB');

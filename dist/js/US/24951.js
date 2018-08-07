@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24951"]={"code":"24951","region":"WV","city":"Lindside","latitude":37.4817,"longitude":-80.6203}}(window,'GeoPostal','US');

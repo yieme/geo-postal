@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14132"]={"code":"14132","region":"New York","city":"Sanborn","latitude":43.147722,"longitude":-78.875608}}(window,'GeoPostal','US');

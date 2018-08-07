@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57769"]={"code":"57769","region":"SD","city":"Piedmont","latitude":44.2287,"longitude":-103.3688}}(window,'GeoPostal','US');

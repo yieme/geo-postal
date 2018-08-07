@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6423"]={"code":"6423","region":"Bacs-Kiskun","city":"Kelebia","latitude":46.1968,"longitude":19.61659}}(window,'GeoPostal','HU');

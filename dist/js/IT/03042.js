@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03042"]={"code":"03042","region":"Lazio","city":"Atina","latitude":41.62062,"longitude":13.79971}}(window,'GeoPostal','IT');

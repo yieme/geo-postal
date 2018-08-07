@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28990"]={"code":"28990","region":"Skane lan","city":"Knislinge","latitude":56.18333,"longitude":14.08333}}(window,'GeoPostal','SE');

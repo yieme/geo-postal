@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20032"]={"code":"20032","region":"Lombardia","city":"Cormano","latitude":45.53957,"longitude":9.17094}}(window,'GeoPostal','IT');

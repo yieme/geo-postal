@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25915"]={"code":"25915","region":"WV","city":"Rhodell","latitude":37.6254,"longitude":-81.2749}}(window,'GeoPostal','US');

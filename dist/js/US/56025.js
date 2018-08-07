@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56025"]={"code":"56025","region":"MN","city":"Easton","latitude":43.7658,"longitude":-93.9011}}(window,'GeoPostal','US');

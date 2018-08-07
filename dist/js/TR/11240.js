@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11240"]={"code":"11240","region":"Tokat","city":"Almus","latitude":40.37583,"longitude":36.90444}}(window,'GeoPostal','TR');

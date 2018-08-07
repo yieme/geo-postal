@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43750"]={"code":"43750","region":"Ohio","city":"Kipling","latitude":39.994443,"longitude":-81.505654}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["VLT 1980"]={"code":"VLT 1980","region":"Valletta","city":"Valletta","latitude":35.89972,"longitude":14.51472}}(window,'GeoPostal','MT');

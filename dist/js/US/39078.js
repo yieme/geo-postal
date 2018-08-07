@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39078"]={"code":"39078","region":"Mississippi","city":"Georgetown","latitude":31.835717,"longitude":-90.219072}}(window,'GeoPostal','US');

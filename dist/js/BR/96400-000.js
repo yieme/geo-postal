@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96400-000"]={"code":"96400-000","region":"Rio Grande do Sul","city":"Bage","latitude":-31.33139,"longitude":-54.10694}}(window,'GeoPostal','BR');

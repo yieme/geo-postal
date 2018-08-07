@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81031"]={"code":"81031","region":"Campania","city":"Aversa","latitude":40.97321,"longitude":14.20493}}(window,'GeoPostal','IT');

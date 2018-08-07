@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36110"]={"code":"36110","region":"Centre-Val de Loire","city":"Vineuil","latitude":46.90038,"longitude":1.63543}}(window,'GeoPostal','FR');

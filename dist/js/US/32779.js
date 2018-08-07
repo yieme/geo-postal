@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32779"]={"code":"32779","region":"Florida","city":"Longwood","latitude":28.702426,"longitude":-81.421344}}(window,'GeoPostal','US');

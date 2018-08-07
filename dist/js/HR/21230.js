@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21230"]={"code":"21230","region":"Splitsko-dalmatinska zupanija","city":"Brnaze","latitude":43.68,"longitude":16.64972}}(window,'GeoPostal','HR');

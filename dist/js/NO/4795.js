@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4795"]={"code":"4795","region":"Aust-Agder","city":"Birkeland","latitude":58.33091,"longitude":8.23229}}(window,'GeoPostal','NO');

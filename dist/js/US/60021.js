@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60021"]={"code":"60021","region":"IL","city":"Fox River Grove","latitude":42.1936,"longitude":-88.2205}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7590"]={"code":"7590","region":"Sor-Trondelag","city":"Stugudalen","latitude":62.90799,"longitude":11.89281}}(window,'GeoPostal','NO');

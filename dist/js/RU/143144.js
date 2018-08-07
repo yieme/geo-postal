@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143144"]={"code":"143144","region":"Moskovskaya oblast'","city":"Kolyubakino","latitude":55.668,"longitude":36.53234}}(window,'GeoPostal','RU');

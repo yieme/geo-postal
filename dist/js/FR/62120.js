@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62120"]={"code":"62120","region":"Hauts-de-France","city":"Mametz","latitude":50.63485,"longitude":2.32478}}(window,'GeoPostal','FR');

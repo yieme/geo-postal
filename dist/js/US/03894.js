@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03894"]={"code":"03894","region":"New Hampshire","city":"Wolfeboro","latitude":43.58755,"longitude":-71.221888}}(window,'GeoPostal','US');

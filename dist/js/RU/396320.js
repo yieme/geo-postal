@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396320"]={"code":"396320","region":"Voronezhskaya oblast'","city":"Somovo","latitude":51.74098,"longitude":39.36655}}(window,'GeoPostal','RU');

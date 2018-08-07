@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD8 6TZ"]={"code":"TD8 6TZ","region":"Scotland","city":"Harrietsfield","latitude":55.53333,"longitude":-2.58333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 7DR"]={"code":"PL26 7DR","region":"England","city":"St Mewan","latitude":50.3318,"longitude":-4.81808}}(window,'GeoPostal','GB');

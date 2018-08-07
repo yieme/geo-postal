@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67554"]={"code":"67554","region":"Kansas","city":"Lyons","latitude":38.345042,"longitude":-98.204689}}(window,'GeoPostal','US');

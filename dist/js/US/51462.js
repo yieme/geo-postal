@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51462"]={"code":"51462","region":"Iowa","city":"Scranton","latitude":42.023617,"longitude":-94.545499}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63001"]={"code":"63001","region":"MO","city":"Allenton","latitude":38.5,"longitude":-90.67}}(window,'GeoPostal','US');

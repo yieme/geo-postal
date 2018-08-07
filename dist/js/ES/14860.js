@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14860"]={"code":"14860","region":"Andalucia","city":"Dona Mencia","latitude":37.55346,"longitude":-4.35602}}(window,'GeoPostal','ES');

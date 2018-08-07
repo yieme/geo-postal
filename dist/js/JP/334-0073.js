@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334-0073"]={"code":"334-0073","region":"Saitama","city":"Kawaguchi","latitude":35.8,"longitude":139.717}}(window,'GeoPostal','JP');

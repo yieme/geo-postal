@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31782"]={"code":"31782","region":"GA","city":"Putney","latitude":31.5431,"longitude":-84.2196}}(window,'GeoPostal','US');

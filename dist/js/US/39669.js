@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39669"]={"code":"39669","region":"Mississippi","city":"Woodville","latitude":31.10462,"longitude":-91.29956}}(window,'GeoPostal','US');

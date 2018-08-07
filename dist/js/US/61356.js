@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61356"]={"code":"61356","region":"Illinois","city":"Princeton","latitude":41.36809,"longitude":-89.46481}}(window,'GeoPostal','US');

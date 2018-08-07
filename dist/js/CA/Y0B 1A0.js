@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0B 1A0"]={"code":"Y0B 1A0","region":"Yukon","city":"Beaver Creek","latitude":62.38266,"longitude":-140.87925}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07844"]={"code":"07844","region":"New Jersey","city":"Hope","latitude":40.91112,"longitude":-74.96772}}(window,'GeoPostal','US');

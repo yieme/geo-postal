@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0227"]={"code":"0227","region":"Aragacotn","city":"Ashtarak","latitude":40.2991,"longitude":44.36204}}(window,'GeoPostal','AM');

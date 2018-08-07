@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360480"]={"code":"360480","region":"Gujarat","city":"Jodhpur","latitude":21.88333,"longitude":70.03333}}(window,'GeoPostal','IN');

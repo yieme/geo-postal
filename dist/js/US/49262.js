@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49262"]={"code":"49262","region":"MI","city":"North Adams","latitude":41.9715,"longitude":-84.5208}}(window,'GeoPostal','US');

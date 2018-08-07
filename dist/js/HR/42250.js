@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42250"]={"code":"42250","region":"Varazdinska zupanija","city":"Lepoglava","latitude":46.21056,"longitude":16.03556}}(window,'GeoPostal','HR');

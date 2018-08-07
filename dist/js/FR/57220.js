@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57220"]={"code":"57220","region":"Grand-Est","city":"Boulay-Moselle","latitude":49.18333,"longitude":6.5}}(window,'GeoPostal','FR');

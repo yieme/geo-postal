@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36910"]={"code":"36910","region":"Alabama","city":"Lisman","latitude":32.17222,"longitude":-88.28944}}(window,'GeoPostal','US');

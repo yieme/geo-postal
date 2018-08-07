@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 2B0"]={"code":"N0M 2B0","region":"Ontario","city":"Kerwood","latitude":42.93339,"longitude":-81.74978}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48260"]={"code":"48260","region":"Koprivnicko-krizevacka zupanija","city":"Krizevci","latitude":46.02194,"longitude":16.5425}}(window,'GeoPostal','HR');

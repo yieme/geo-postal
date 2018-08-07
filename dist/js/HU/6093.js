@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6093"]={"code":"6093","region":"Bacs-Kiskun","city":"Kunszentmiklos","latitude":47.027,"longitude":19.12575}}(window,'GeoPostal','HU');

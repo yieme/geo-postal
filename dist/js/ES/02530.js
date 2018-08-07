@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02530"]={"code":"02530","region":"Castilla-La Mancha","city":"Nerpio","latitude":38.1475,"longitude":-2.30202}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641500"]={"code":"641500","region":"Sichuan","city":"Tianchi","latitude":30.28112,"longitude":105.02346}}(window,'GeoPostal','CN');

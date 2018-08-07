@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 1R0"]={"code":"N0P 1R0","region":"Ontario","city":"Florence","latitude":42.65008,"longitude":-81.99979}}(window,'GeoPostal','CA');

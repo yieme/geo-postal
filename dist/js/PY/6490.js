@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6490"]={"code":"6490","region":"Itapua","city":"Edelira","latitude":-26.75,"longitude":-55.26667}}(window,'GeoPostal','PY');

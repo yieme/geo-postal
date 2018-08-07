@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39440-000"]={"code":"39440-000","region":"Minas Gerais","city":"Janauba","latitude":-15.8025,"longitude":-43.30889}}(window,'GeoPostal','BR');

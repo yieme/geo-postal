@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353607"]={"code":"353607","region":"Krasnodarskiy kray","city":"Starominskaya","latitude":46.53,"longitude":39.04972}}(window,'GeoPostal','RU');

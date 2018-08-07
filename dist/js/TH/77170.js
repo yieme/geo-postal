@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77170"]={"code":"77170","region":"Prachuap Khiri Khan","city":"Bang Saphan Noi","latitude":11.08333,"longitude":99.45}}(window,'GeoPostal','TH');

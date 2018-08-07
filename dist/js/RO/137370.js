@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137370"]={"code":"137370","region":"Dambovita","city":"Potlogi","latitude":44.55,"longitude":25.58333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 9HN"]={"code":"CO10 9HN","region":"England","city":"Sudbury","latitude":51.55525,"longitude":-0.32358}}(window,'GeoPostal','GB');

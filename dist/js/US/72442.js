@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72442"]={"code":"72442","region":"AR","city":"Manila","latitude":35.8439,"longitude":-90.1806}}(window,'GeoPostal','US');

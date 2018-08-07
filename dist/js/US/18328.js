@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18328"]={"code":"18328","region":"Pennsylvania","city":"Dingmans Ferry","latitude":41.22,"longitude":-74.87139}}(window,'GeoPostal','US');

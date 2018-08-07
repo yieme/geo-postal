@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01509"]={"code":"01509","region":"MA","city":"Charlton Depot","latitude":42.1731,"longitude":-71.9787}}(window,'GeoPostal','US');

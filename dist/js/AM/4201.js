@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4201"]={"code":"4201","region":"Tavus","city":"Berd","latitude":40.88149,"longitude":45.38985}}(window,'GeoPostal','AM');

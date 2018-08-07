@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54660"]={"code":"54660","region":"Wisconsin","city":"Tomah","latitude":43.97858,"longitude":-90.50402}}(window,'GeoPostal','US');

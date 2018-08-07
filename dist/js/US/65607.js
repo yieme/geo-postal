@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65607"]={"code":"65607","region":"Missouri","city":"Caplinger Mills","latitude":37.794167,"longitude":-93.804167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81433"]={"code":"81433","region":"Colorado","city":"Silverton","latitude":37.81194,"longitude":-107.66451}}(window,'GeoPostal','US');

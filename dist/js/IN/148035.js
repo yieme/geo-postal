@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["148035"]={"code":"148035","region":"Punjab","city":"Dirba","latitude":30.06667,"longitude":75.98333}}(window,'GeoPostal','IN');

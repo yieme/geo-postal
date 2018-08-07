@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44839"]={"code":"44839","region":"OH","city":"Huron","latitude":41.3757,"longitude":-82.5386}}(window,'GeoPostal','US');

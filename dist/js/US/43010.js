@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43010"]={"code":"43010","region":"OH","city":"Catawba","latitude":39.9991,"longitude":-83.6222}}(window,'GeoPostal','US');

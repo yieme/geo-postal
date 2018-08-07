@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94200"]={"code":"94200","region":"Lappi","city":"Kemi","latitude":65.73641,"longitude":24.56371}}(window,'GeoPostal','FI');

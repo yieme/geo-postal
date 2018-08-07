@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8220"]={"code":"8220","region":"Midtjylland","city":"Stavtrup","latitude":56.13124,"longitude":10.11987}}(window,'GeoPostal','DK');

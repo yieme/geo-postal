@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66386"]={"code":"66386","region":"Saarland","city":"Sankt Ingbert","latitude":49.27697,"longitude":7.11672}}(window,'GeoPostal','DE');

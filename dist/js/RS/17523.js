@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17523"]={"code":"17523","region":"Pcinjski okrug","city":"Rajince","latitude":42.37917,"longitude":21.69556}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7121"]={"code":"7121","region":"Burgenland","city":"Weiden am See","latitude":47.92532,"longitude":16.86899}}(window,'GeoPostal','AT');

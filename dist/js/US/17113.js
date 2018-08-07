@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17113"]={"code":"17113","region":"PA","city":"Harrisburg","latitude":40.239,"longitude":-76.8416}}(window,'GeoPostal','US');

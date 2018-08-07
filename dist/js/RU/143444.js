@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143444"]={"code":"143444","region":"Moskovskaya oblast'","city":"Opalikha","latitude":55.82593,"longitude":37.25278}}(window,'GeoPostal','RU');

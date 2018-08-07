@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91028"]={"code":"91028","region":"Sicilia","city":"Partanna","latitude":37.72784,"longitude":12.88854}}(window,'GeoPostal','IT');

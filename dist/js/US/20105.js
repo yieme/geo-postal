@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20105"]={"code":"20105","region":"Virginia","city":"Aldie","latitude":38.9543,"longitude":-77.59794}}(window,'GeoPostal','US');

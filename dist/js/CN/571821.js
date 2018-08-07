@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571821"]={"code":"571821","region":"Hainan","city":"Lincheng","latitude":19.90778,"longitude":109.68583}}(window,'GeoPostal','CN');

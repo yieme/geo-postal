@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60986"]={"code":"60986","region":"Michoacan de Ocampo","city":"La Orilla","latitude":17.98333,"longitude":-102.23333}}(window,'GeoPostal','MX');

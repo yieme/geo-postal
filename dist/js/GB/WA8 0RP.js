@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA8 0RP"]={"code":"WA8 0RP","region":"England","city":"Widnes","latitude":53.3618,"longitude":-2.73406}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63801"]={"code":"63801","region":"Kharkivska oblast","city":"Borova","latitude":49.3777,"longitude":37.62136}}(window,'GeoPostal','UA');

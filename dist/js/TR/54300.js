@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54300"]={"code":"54300","region":"Diyarbakir","city":"Aralik","latitude":37.83,"longitude":40.67639}}(window,'GeoPostal','TR');

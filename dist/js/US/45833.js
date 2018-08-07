@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45833"]={"code":"45833","region":"Ohio","city":"Delphos","latitude":40.82335,"longitude":-84.323825}}(window,'GeoPostal','US');

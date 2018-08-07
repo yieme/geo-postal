@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43410"]={"code":"43410","region":"Auvergne-Rhone-Alpes","city":"Lempdes-sur-Allagnon","latitude":45.38333,"longitude":3.28333}}(window,'GeoPostal','FR');

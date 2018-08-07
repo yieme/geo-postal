@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12538"]={"code":"12538","region":"New York","city":"Hyde Park","latitude":41.78482,"longitude":-73.93319}}(window,'GeoPostal','US');

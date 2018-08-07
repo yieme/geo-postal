@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64506"]={"code":"64506","region":"Nouvelle-Aquitaine","city":"Saint-Jean-de-Luz","latitude":43.38908,"longitude":-1.6581}}(window,'GeoPostal','FR');

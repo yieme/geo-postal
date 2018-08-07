@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04004"]={"code":"04004","region":"ME","city":"Bar Mills","latitude":43.6131,"longitude":-70.5498}}(window,'GeoPostal','US');

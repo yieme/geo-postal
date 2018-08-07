@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94087"]={"code":"94087","region":"California","city":"Sunnyvale","latitude":37.350211,"longitude":-122.032489}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4V 6V4"]={"code":"B4V 6V4","region":"Nova Scotia","city":"Hebbville","latitude":44.35015,"longitude":-64.53207}}(window,'GeoPostal','CA');

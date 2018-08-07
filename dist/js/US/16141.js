@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16141"]={"code":"16141","region":"PA","city":"New Galilee","latitude":40.8569,"longitude":-80.3939}}(window,'GeoPostal','US');

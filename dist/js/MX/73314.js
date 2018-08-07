@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73314"]={"code":"73314","region":"Puebla","city":"Zacatlan","latitude":19.93333,"longitude":-97.96667}}(window,'GeoPostal','MX');

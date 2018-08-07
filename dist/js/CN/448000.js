@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["448000"]={"code":"448000","region":"Hubei","city":"Jingmen","latitude":31.03361,"longitude":112.20472}}(window,'GeoPostal','CN');

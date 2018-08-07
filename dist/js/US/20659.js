@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20659"]={"code":"20659","region":"Maryland","city":"Mechanicsville","latitude":38.4429,"longitude":-76.74385}}(window,'GeoPostal','US');

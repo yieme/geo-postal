@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40370"]={"code":"40370","region":"KY","city":"Sadieville","latitude":38.3908,"longitude":-84.5384}}(window,'GeoPostal','US');

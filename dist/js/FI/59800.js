@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59800"]={"code":"59800","region":"Pohjois-Karjala","city":"Kesalahti","latitude":61.89752,"longitude":29.83494}}(window,'GeoPostal','FI');

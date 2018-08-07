@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97015"]={"code":"97015","region":"Oregon","city":"Clackamas","latitude":45.415645,"longitude":-122.524277}}(window,'GeoPostal','US');

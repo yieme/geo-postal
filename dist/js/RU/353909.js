@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353909"]={"code":"353909","region":"Krasnodarskiy kray","city":"Novorossiysk","latitude":44.72439,"longitude":37.76752}}(window,'GeoPostal','RU');

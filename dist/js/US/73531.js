@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73531"]={"code":"73531","region":"OK","city":"Devol","latitude":34.1956,"longitude":-98.577}}(window,'GeoPostal','US');

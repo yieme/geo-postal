@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6150"]={"code":"6150","region":"Eastern Cape","city":"Grahamstown","latitude":-33.30422,"longitude":26.53276}}(window,'GeoPostal','ZA');

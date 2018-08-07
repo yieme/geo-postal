@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21775"]={"code":"21775","region":"Niedersachsen","city":"Suderwesterseite","latitude":53.67888,"longitude":8.85772}}(window,'GeoPostal','DE');

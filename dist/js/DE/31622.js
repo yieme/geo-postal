@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31622"]={"code":"31622","region":"Niedersachsen","city":"Lichtenmoor","latitude":52.70853,"longitude":9.30285}}(window,'GeoPostal','DE');

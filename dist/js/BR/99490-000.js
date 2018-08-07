@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99490-000"]={"code":"99490-000","region":"Rio Grande do Sul","city":"Espumoso","latitude":-28.72472,"longitude":-52.84972}}(window,'GeoPostal','BR');

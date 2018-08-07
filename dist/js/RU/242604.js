@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242604"]={"code":"242604","region":"Bryanskaya oblast'","city":"Dyat'kovo","latitude":53.59782,"longitude":34.33825}}(window,'GeoPostal','RU');

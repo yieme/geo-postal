@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8G 1C3"]={"code":"T8G 1C3","region":"Alberta","city":"Uncas","latitude":53.50014,"longitude":-113.01868}}(window,'GeoPostal','CA');

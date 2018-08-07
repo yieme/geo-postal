@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43407"]={"code":"43407","region":"OH","city":"Burgoon","latitude":41.268,"longitude":-83.2475}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-200"]={"code":"43-200","region":"Slaskie","city":"Pszczyna","latitude":49.98037,"longitude":18.95382}}(window,'GeoPostal','PL');

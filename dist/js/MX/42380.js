@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42380"]={"code":"42380","region":"Hidalgo","city":"Tasquillo","latitude":20.55,"longitude":-99.3}}(window,'GeoPostal','MX');

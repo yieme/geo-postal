@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47330"]={"code":"47330","region":"Nouvelle-Aquitaine","city":"Castillonnes","latitude":44.65215,"longitude":0.59222}}(window,'GeoPostal','FR');

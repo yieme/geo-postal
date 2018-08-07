@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694222"]={"code":"694222","region":"Primorskiy kray","city":"Trudovoye","latitude":43.30583,"longitude":132.08167}}(window,'GeoPostal','RU');

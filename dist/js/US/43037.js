@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43037"]={"code":"43037","region":"OH","city":"Martinsburg","latitude":40.268,"longitude":-82.3567}}(window,'GeoPostal','US');

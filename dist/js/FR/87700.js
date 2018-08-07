@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87700"]={"code":"87700","region":"Nouvelle-Aquitaine","city":"Saint-Priest-sous-Aixe","latitude":45.81667,"longitude":1.1}}(window,'GeoPostal','FR');

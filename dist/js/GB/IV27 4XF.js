@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV27 4XF"]={"code":"IV27 4XF","region":"Scotland","city":"Tongue","latitude":58.47629,"longitude":-4.41719}}(window,'GeoPostal','GB');

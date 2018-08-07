@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03832"]={"code":"03832","region":"New Hampshire","city":"Eaton Center","latitude":43.909167,"longitude":-71.084167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN1 1SH"]={"code":"EN1 1SH","region":"England","city":"Enfield","latitude":51.65147,"longitude":-0.08497}}(window,'GeoPostal','GB');

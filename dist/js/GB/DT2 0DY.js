@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 0DY"]={"code":"DT2 0DY","region":"England","city":"Frome Vauchurch","latitude":50.77244,"longitude":-2.5709}}(window,'GeoPostal','GB');

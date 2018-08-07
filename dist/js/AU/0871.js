@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0871"]={"code":"0871","region":"Northern Territory","city":"Alice Springs","latitude":-23.69748,"longitude":133.88362}}(window,'GeoPostal','AU');

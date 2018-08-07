@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28468"]={"code":"28468","region":"North Carolina","city":"Sunset Beach","latitude":33.88073,"longitude":-78.51223}}(window,'GeoPostal','US');

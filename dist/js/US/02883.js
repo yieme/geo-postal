@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02883"]={"code":"02883","region":"Rhode Island","city":"Peace Dale","latitude":41.45424,"longitude":-71.49708}}(window,'GeoPostal','US');

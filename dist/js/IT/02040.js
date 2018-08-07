@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02040"]={"code":"02040","region":"Lazio","city":"Poggio Catino","latitude":42.29543,"longitude":12.69218}}(window,'GeoPostal','IT');

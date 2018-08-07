@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331 44"]={"code":"331 44","region":"Plzensky kraj","city":"Kozlany","latitude":49.99389,"longitude":13.54107}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306530"]={"code":"306530","region":"Kurskaya oblast'","city":"Shchigry","latitude":51.87555,"longitude":36.90432}}(window,'GeoPostal','RU');

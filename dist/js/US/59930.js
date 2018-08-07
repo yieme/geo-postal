@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59930"]={"code":"59930","region":"MT","city":"Rexford","latitude":48.9179,"longitude":-115.2129}}(window,'GeoPostal','US');

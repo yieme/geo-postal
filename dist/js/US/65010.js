@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65010"]={"code":"65010","region":"MO","city":"Ashland","latitude":38.7878,"longitude":-92.2537}}(window,'GeoPostal','US');

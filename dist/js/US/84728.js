@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84728"]={"code":"84728","region":"UT","city":"Garrison","latitude":38.9344,"longitude":-114.033}}(window,'GeoPostal','US');

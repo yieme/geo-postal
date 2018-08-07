@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39288"]={"code":"39288","region":"Guerrero","city":"Ayutla de los Libres","latitude":16.9,"longitude":-99.21667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78347"]={"code":"78347","region":"TX","city":"Chapman Ranch","latitude":27.5988,"longitude":-97.462}}(window,'GeoPostal','US');

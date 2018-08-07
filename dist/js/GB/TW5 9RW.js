@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW5 9RW"]={"code":"TW5 9RW","region":"England","city":"Cranford","latitude":51.47695,"longitude":-0.41345}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61211"]={"code":"61211","region":"Jawa Timur","city":"Sidoarjo","latitude":-7.4478,"longitude":112.7183}}(window,'GeoPostal','ID');

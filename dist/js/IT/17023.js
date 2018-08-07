@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17023"]={"code":"17023","region":"Liguria","city":"Ceriale","latitude":44.09128,"longitude":8.22893}}(window,'GeoPostal','IT');

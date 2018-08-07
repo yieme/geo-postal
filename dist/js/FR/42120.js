@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42120"]={"code":"42120","region":"Auvergne-Rhone-Alpes","city":"Commelle-Vernay","latitude":45.99439,"longitude":4.06635}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2442"]={"code":"2442","region":"New South Wales","city":"Dondingalong","latitude":-31.13321,"longitude":152.7514}}(window,'GeoPostal','AU');

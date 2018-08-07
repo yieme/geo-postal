@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77930"]={"code":"77930","region":"Quintana Roo","city":"Bacalar","latitude":18.66667,"longitude":-88.38333}}(window,'GeoPostal','MX');

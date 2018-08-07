@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA9 1QZ"]={"code":"SA9 1QZ","region":"Wales","city":"Pen-rhos","latitude":51.78333,"longitude":-3.73333}}(window,'GeoPostal','GB');

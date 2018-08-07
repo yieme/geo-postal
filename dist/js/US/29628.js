@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29628"]={"code":"29628","region":"SC","city":"Calhoun Falls","latitude":34.0999,"longitude":-82.5805}}(window,'GeoPostal','US');

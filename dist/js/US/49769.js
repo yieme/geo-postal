@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49769"]={"code":"49769","region":"Michigan","city":"Pellston","latitude":45.55389,"longitude":-84.78444}}(window,'GeoPostal','US');

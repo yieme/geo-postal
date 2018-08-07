@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10973"]={"code":"10973","region":"NY","city":"Slate Hill","latitude":41.376,"longitude":-74.4847}}(window,'GeoPostal','US');

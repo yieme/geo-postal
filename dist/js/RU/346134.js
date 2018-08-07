@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346134"]={"code":"346134","region":"Rostovskaya oblast'","city":"Millerovo","latitude":48.92265,"longitude":40.39673}}(window,'GeoPostal','RU');

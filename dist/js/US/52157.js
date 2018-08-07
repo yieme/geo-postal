@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52157"]={"code":"52157","region":"Iowa","city":"McGregor","latitude":43.021577,"longitude":-91.181616}}(window,'GeoPostal','US');

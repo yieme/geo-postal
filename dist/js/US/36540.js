@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36540"]={"code":"36540","region":"AL","city":"Gainestown","latitude":31.4258,"longitude":-87.6822}}(window,'GeoPostal','US');

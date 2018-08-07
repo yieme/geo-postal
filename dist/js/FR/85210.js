@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85210"]={"code":"85210","region":"Pays-de-la-Loire","city":"Sainte-Hermine","latitude":46.55619,"longitude":-1.05476}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38028"]={"code":"38028","region":"Tennessee","city":"Eads","latitude":35.202447,"longitude":-89.650553}}(window,'GeoPostal','US');

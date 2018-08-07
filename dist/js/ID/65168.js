@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65168"]={"code":"65168","region":"Jawa Timur","city":"Sumbermanjing Kulon","latitude":-8.3013,"longitude":112.4948}}(window,'GeoPostal','ID');

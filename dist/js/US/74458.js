@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74458"]={"code":"74458","region":"OK","city":"Redbird","latitude":35.8836,"longitude":-95.5917}}(window,'GeoPostal','US');

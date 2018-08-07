@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77889"]={"code":"77889","region":"Baden-Wurttemberg","city":"Maisental","latitude":48.58072,"longitude":8.17209}}(window,'GeoPostal','DE');

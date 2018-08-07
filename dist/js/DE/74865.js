@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74865"]={"code":"74865","region":"Baden-Wurttemberg","city":"Hochhausen","latitude":49.32329,"longitude":9.10354}}(window,'GeoPostal','DE');

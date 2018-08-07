@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67041"]={"code":"67041","region":"Kansas","city":"Elbing","latitude":38.053719,"longitude":-97.127511}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 6DU"]={"code":"LN8 6DU","region":"England","city":"Binbrook","latitude":53.43333,"longitude":-0.18333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97540"]={"code":"97540","region":"Avtonomna Respublika Krym","city":"Rodnykove","latitude":45.04296,"longitude":33.95407}}(window,'GeoPostal','UA');

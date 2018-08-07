@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93606"]={"code":"93606","region":"CA","city":"Biola","latitude":36.8032,"longitude":-120.0185}}(window,'GeoPostal','US');

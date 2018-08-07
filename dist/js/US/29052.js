@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29052"]={"code":"29052","region":"SC","city":"Gadsden","latitude":33.8455,"longitude":-80.7532}}(window,'GeoPostal','US');

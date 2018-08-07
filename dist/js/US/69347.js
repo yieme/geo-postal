@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69347"]={"code":"69347","region":"Nebraska","city":"Hay Springs","latitude":42.68306,"longitude":-102.68944}}(window,'GeoPostal','US');

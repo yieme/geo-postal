@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17934"]={"code":"17934","region":"PA","city":"Gilberton","latitude":40.7986,"longitude":-76.2155}}(window,'GeoPostal','US');

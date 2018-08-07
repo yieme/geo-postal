@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79527"]={"code":"79527","region":"TX","city":"Ira","latitude":32.5821,"longitude":-101.0021}}(window,'GeoPostal','US');

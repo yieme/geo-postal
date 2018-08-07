@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93437"]={"code":"93437","region":"Bayern","city":"Furth im Wald","latitude":49.30955,"longitude":12.84156}}(window,'GeoPostal','DE');

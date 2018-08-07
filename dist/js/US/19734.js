@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19734"]={"code":"19734","region":"Delaware","city":"Townsend","latitude":39.38256,"longitude":-75.66528}}(window,'GeoPostal','US');

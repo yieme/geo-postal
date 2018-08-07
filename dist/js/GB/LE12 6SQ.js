@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE12 6SQ"]={"code":"LE12 6SQ","region":"England","city":"Willoughby on the Wolds","latitude":52.82199,"longitude":-1.05502}}(window,'GeoPostal','GB');

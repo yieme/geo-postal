@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28553"]={"code":"28553","region":"NC","city":"Marshallberg","latitude":34.7265,"longitude":-76.5173}}(window,'GeoPostal','US');

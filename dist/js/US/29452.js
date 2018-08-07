@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29452"]={"code":"29452","region":"SC","city":"Jacksonboro","latitude":32.7305,"longitude":-80.4609}}(window,'GeoPostal','US');

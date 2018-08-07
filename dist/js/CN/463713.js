@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463713"]={"code":"463713","region":"Henan","city":"Jialou","latitude":32.89474,"longitude":113.45072}}(window,'GeoPostal','CN');

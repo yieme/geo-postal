@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["299-5503"]={"code":"299-5503","region":"Chiba","city":"Kamogawa","latitude":35.114028,"longitude":140.09889}}(window,'GeoPostal','JP');

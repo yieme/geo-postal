@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32625"]={"code":"32625","region":"Florida","city":"Cedar Key","latitude":29.14556,"longitude":-83.04167}}(window,'GeoPostal','US');

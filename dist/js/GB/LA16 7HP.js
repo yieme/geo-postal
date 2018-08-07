@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA16 7HP"]={"code":"LA16 7HP","region":"England","city":"Askam in Furness","latitude":54.18333,"longitude":-3.21667}}(window,'GeoPostal','GB');

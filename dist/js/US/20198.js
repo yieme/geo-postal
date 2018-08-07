@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20198"]={"code":"20198","region":"Virginia","city":"The Plains","latitude":38.86277,"longitude":-77.773596}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81058"]={"code":"81058","region":"Colorado","city":"Manzanola","latitude":38.105962,"longitude":-103.871528}}(window,'GeoPostal','US');

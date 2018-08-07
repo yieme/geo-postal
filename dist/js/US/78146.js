@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78146"]={"code":"78146","region":"TX","city":"Pettus","latitude":28.6164,"longitude":-97.8082}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1B0"]={"code":"S0C 1B0","region":"Saskatchewan","city":"Glasnevin","latitude":49.55006,"longitude":-105.05109}}(window,'GeoPostal','CA');

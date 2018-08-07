@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["248148"]={"code":"248148","region":"Uttarakhand","city":"Vikasnagar","latitude":30.46833,"longitude":77.775}}(window,'GeoPostal','IN');

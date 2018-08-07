@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30104"]={"code":"30104","region":"GA","city":"Aragon","latitude":34.0666,"longitude":-85.0696}}(window,'GeoPostal','US');

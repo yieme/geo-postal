@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32170"]={"code":"32170","region":"Occitanie","city":"Mielan","latitude":43.43054,"longitude":0.30794}}(window,'GeoPostal','FR');

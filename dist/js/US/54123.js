@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54123"]={"code":"54123","region":"WI","city":"Forest Junction","latitude":44.2125,"longitude":-88.1443}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14380"]={"code":"14380","region":"Normandie","city":"Saint-Sever-Calvados","latitude":48.84035,"longitude":-1.04773}}(window,'GeoPostal','FR');

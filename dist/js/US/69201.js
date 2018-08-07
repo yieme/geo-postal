@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69201"]={"code":"69201","region":"Nebraska","city":"Valentine","latitude":42.87278,"longitude":-100.55097}}(window,'GeoPostal','US');

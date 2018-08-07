@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36080"]={"code":"36080","region":"AL","city":"Titus","latitude":32.69,"longitude":-86.2393}}(window,'GeoPostal','US');

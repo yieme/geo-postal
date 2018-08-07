@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 0K0"]={"code":"S0G 0K0","region":"Saskatchewan","city":"Broadview","latitude":50.36673,"longitude":-102.58431}}(window,'GeoPostal','CA');

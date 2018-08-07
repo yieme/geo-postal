@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96363"]={"code":"96363","region":"Gorontalo","city":"Tilamuta","latitude":0.5273,"longitude":122.3463}}(window,'GeoPostal','ID');

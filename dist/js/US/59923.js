@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59923"]={"code":"59923","region":"Montana","city":"Libby","latitude":48.38829,"longitude":-115.556}}(window,'GeoPostal','US');

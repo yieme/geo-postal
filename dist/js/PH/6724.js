@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6724"]={"code":"6724","region":"Samar","city":"Almagro","latitude":11.9109,"longitude":124.2858}}(window,'GeoPostal','PH');

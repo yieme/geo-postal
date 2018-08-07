@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44667"]={"code":"44667","region":"Ohio","city":"Andover","latitude":40.835064,"longitude":-81.769569}}(window,'GeoPostal','US');

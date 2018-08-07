@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["133500"]={"code":"133500","region":"Jilin","city":"Helong","latitude":42.53974,"longitude":128.99722}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0B 1T0"]={"code":"N0B 1T0","region":"Ontario","city":"Erin","latitude":43.7334,"longitude":-80.11637}}(window,'GeoPostal','CA');

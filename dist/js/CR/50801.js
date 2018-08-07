@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50801"]={"code":"50801","region":"Guanacaste","city":"Tilaran","latitude":10.47029,"longitude":-84.96709}}(window,'GeoPostal','CR');

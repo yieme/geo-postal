@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89202"]={"code":"89202","region":"Zakarpatska oblast","city":"Perechyn","latitude":48.73333,"longitude":22.46667}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50593"]={"code":"50593","region":"IA","city":"Varina","latitude":42.6598,"longitude":-94.8979}}(window,'GeoPostal','US');

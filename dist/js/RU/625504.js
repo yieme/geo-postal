@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625504"]={"code":"625504","region":"Tyumenskaya oblast'","city":"Borovskiy","latitude":57.04096,"longitude":65.72018}}(window,'GeoPostal','RU');

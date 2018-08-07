@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31210"]={"code":"31210","region":"Buri Ram","city":"Nong Ki","latitude":14.68679,"longitude":102.538}}(window,'GeoPostal','TH');

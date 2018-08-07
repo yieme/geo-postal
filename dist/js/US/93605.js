@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93605"]={"code":"93605","region":"California","city":"Big Creek","latitude":37.205,"longitude":-119.24583}}(window,'GeoPostal','US');

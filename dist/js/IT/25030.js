@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25030"]={"code":"25030","region":"Lombardia","city":"Castrezzato","latitude":45.51128,"longitude":9.98086}}(window,'GeoPostal','IT');

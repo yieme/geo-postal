@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73135"]={"code":"73135","region":"Kriti","city":"Chania","latitude":35.51222,"longitude":24.01556}}(window,'GeoPostal','GR');

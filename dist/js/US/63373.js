@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63373"]={"code":"63373","region":"MO","city":"Portage Des Sioux","latitude":38.9259,"longitude":-90.3863}}(window,'GeoPostal','US');

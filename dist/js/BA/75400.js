@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75400"]={"code":"75400","region":"Republika Srpska","city":"Zvornik","latitude":44.38694,"longitude":19.10139}}(window,'GeoPostal','BA');

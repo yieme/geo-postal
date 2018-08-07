@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84012"]={"code":"84012","region":"Vasternorrlands lan","city":"Fransta","latitude":62.5,"longitude":16.15}}(window,'GeoPostal','SE');

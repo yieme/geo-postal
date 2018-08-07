@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26405"]={"code":"26405","region":"WV","city":"Moatsville","latitude":39.2234,"longitude":-79.9017}}(window,'GeoPostal','US');

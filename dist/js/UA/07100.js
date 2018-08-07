@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07100"]={"code":"07100","region":"Kyivska oblast","city":"Slavutich","latitude":51.51964,"longitude":30.73434}}(window,'GeoPostal','UA');

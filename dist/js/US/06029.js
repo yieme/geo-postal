@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06029"]={"code":"06029","region":"Connecticut","city":"Ellington","latitude":41.914369,"longitude":-72.444955}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37144"]={"code":"37144","region":"Tennessee","city":"Chapel Hill","latitude":35.377232,"longitude":-86.589379}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07204"]={"code":"07204","region":"New Jersey","city":"Roselle Park","latitude":40.665505,"longitude":-74.267242}}(window,'GeoPostal','US');

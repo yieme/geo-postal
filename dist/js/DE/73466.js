@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73466"]={"code":"73466","region":"Baden-Wurttemberg","city":"Kapfenburg","latitude":48.86618,"longitude":10.22428}}(window,'GeoPostal','DE');

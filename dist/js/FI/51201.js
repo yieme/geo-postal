@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51201"]={"code":"51201","region":"Etela-Savo","city":"Kangasniemi","latitude":61.99357,"longitude":26.64785}}(window,'GeoPostal','FI');

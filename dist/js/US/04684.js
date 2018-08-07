@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04684"]={"code":"04684","region":"ME","city":"Surry","latitude":44.4883,"longitude":-68.5063}}(window,'GeoPostal','US');

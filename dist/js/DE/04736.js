@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04736"]={"code":"04736","region":"Sachsen","city":"Waldheim","latitude":51.07282,"longitude":13.02004}}(window,'GeoPostal','DE');

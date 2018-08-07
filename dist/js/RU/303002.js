@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303002"]={"code":"303002","region":"Orlovskaya oblast'","city":"Spasskoye-Lutovinovo","latitude":53.37012,"longitude":36.62297}}(window,'GeoPostal','RU');

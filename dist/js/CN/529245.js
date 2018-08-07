@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529245"]={"code":"529245","region":"Guangdong","city":"Duanfen","latitude":22.05852,"longitude":112.75421}}(window,'GeoPostal','CN');

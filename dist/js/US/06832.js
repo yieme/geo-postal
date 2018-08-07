@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06832"]={"code":"06832","region":"CT","city":"Brm","latitude":41.02,"longitude":-73.62}}(window,'GeoPostal','US');

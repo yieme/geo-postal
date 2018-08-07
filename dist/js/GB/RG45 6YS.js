@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG45 6YS"]={"code":"RG45 6YS","region":"England","city":"Crowthorne","latitude":51.37027,"longitude":-0.79219}}(window,'GeoPostal','GB');

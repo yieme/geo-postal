@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 7DW"]={"code":"DG8 7DW","region":"Scotland","city":"Carsluith","latitude":54.86513,"longitude":-4.35869}}(window,'GeoPostal','GB');

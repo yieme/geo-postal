@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4875"]={"code":"4875","region":"Queensland","city":"Boigu","latitude":-9.23333,"longitude":142.21667}}(window,'GeoPostal','AU');

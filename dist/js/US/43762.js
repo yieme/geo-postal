@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43762"]={"code":"43762","region":"Ohio","city":"New Concord","latitude":40.022415,"longitude":-81.750552}}(window,'GeoPostal','US');

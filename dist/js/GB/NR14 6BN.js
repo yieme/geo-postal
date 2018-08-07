@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR14 6BN"]={"code":"NR14 6BN","region":"England","city":"Chedgrave","latitude":52.54058,"longitude":1.48075}}(window,'GeoPostal','GB');

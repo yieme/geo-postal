@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81037"]={"code":"81037","region":"Campania","city":"Sessa Aurunca","latitude":41.24082,"longitude":13.93282}}(window,'GeoPostal','IT');

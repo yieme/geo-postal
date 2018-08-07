@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48019"]={"code":"48019","region":"Relizane","city":"Smala","latitude":35.71652,"longitude":0.75437}}(window,'GeoPostal','DZ');

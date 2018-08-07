@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70540"]={"code":"70540","region":"LA","city":"Garden City","latitude":29.7633,"longitude":-91.467}}(window,'GeoPostal','US');

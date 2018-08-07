@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30021"]={"code":"30021","region":"GA","city":"Clarkston","latitude":33.8101,"longitude":-84.2388}}(window,'GeoPostal','US');

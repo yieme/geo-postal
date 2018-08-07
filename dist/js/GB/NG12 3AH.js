@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG12 3AH"]={"code":"NG12 3AH","region":"England","city":"Cropwell Butler","latitude":52.92826,"longitude":-0.98448}}(window,'GeoPostal','GB');

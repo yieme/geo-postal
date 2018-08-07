@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63679"]={"code":"63679","region":"Hessen","city":"Schotten","latitude":50.50346,"longitude":9.12516}}(window,'GeoPostal','DE');

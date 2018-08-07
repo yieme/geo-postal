@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57127"]={"code":"57127","region":"Toscana","city":"Livorno","latitude":43.54264,"longitude":10.316}}(window,'GeoPostal','IT');

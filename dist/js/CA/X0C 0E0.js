@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0C 0E0"]={"code":"X0C 0E0","region":"Nunavut","city":"Arviat","latitude":61.10883,"longitude":-94.05848}}(window,'GeoPostal','CA');

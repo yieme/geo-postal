@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 2B0"]={"code":"J0L 2B0","region":"Quebec","city":"Saint-Jean-Baptiste","latitude":45.517,"longitude":-73.117}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1S 0A1"]={"code":"T1S 0A1","region":"Alberta","city":"Okotoks","latitude":50.72885,"longitude":-113.98281}}(window,'GeoPostal','CA');

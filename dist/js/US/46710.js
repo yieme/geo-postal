@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46710"]={"code":"46710","region":"Indiana","city":"Avilla","latitude":41.363707,"longitude":-85.237313}}(window,'GeoPostal','US');

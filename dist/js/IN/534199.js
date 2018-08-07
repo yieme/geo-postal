@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["534199"]={"code":"534199","region":"Andhra Pradesh","city":"Bhimavaram","latitude":16.53333,"longitude":81.53333}}(window,'GeoPostal','IN');

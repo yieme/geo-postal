@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44056"]={"code":"44056","region":"Ohio","city":"Macedonia","latitude":41.31372,"longitude":-81.49614}}(window,'GeoPostal','US');

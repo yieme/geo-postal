@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04870"]={"code":"04870","region":"Andalucia","city":"Purchena","latitude":37.34744,"longitude":-2.3608}}(window,'GeoPostal','ES');

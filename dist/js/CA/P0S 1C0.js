@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0S 1C0"]={"code":"P0S 1C0","region":"Ontario","city":"Echo Bay","latitude":46.48336,"longitude":-84.06663}}(window,'GeoPostal','CA');

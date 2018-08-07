@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50469"]={"code":"50469","region":"Iowa","city":"Rockwell","latitude":43.01232,"longitude":-93.31452}}(window,'GeoPostal','US');

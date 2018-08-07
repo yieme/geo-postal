@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9064-512"]={"code":"9064-512","region":"Regiao Autonoma da Madeira","city":"Funchal","latitude":32.63333,"longitude":-16.9}}(window,'GeoPostal','PT');

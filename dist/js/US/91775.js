@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91775"]={"code":"91775","region":"California","city":"San Gabriel","latitude":34.09611,"longitude":-118.10583}}(window,'GeoPostal','US');

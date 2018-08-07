@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85190"]={"code":"85190","region":"AZ","city":"Tortilla Flat","latitude":33.5264,"longitude":-111.3892}}(window,'GeoPostal','US');

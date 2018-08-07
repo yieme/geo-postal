@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4558"]={"code":"4558","region":"Queensland","city":"Maroochydore","latitude":-26.66008,"longitude":153.09953}}(window,'GeoPostal','AU');

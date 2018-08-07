@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40200"]={"code":"40200","region":"Castilla y Leon","city":"Cuellar","latitude":41.40155,"longitude":-4.31474}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 21"]={"code":"468 21","region":"Olomoucky kraj","city":"Pencin","latitude":50.68769,"longitude":15.23593}}(window,'GeoPostal','CZ');

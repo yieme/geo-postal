@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3222"]={"code":"3222","region":"Corrientes","city":"Juan Pujol","latitude":-30.41873,"longitude":-57.85612}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43043"]={"code":"43043","region":"Emilia-Romagna","city":"Borgo Val di Taro","latitude":44.48705,"longitude":9.76578}}(window,'GeoPostal','IT');

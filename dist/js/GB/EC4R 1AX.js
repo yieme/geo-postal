@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC4R 1AX"]={"code":"EC4R 1AX","region":"Scotland","city":"Thornton","latitude":56.16667,"longitude":-3.15}}(window,'GeoPostal','GB');

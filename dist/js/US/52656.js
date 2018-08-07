@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52656"]={"code":"52656","region":"IA","city":"West Point","latitude":40.715,"longitude":-91.4397}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-300"]={"code":"74-300","region":"Zachodniopomorskie","city":"Mysliborz","latitude":52.92382,"longitude":14.86785}}(window,'GeoPostal','PL');

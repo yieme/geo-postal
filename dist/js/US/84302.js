@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84302"]={"code":"84302","region":"Utah","city":"Brigham City","latitude":41.51021,"longitude":-112.0155}}(window,'GeoPostal','US');

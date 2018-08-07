@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05743"]={"code":"05743","region":"VT","city":"Fair Haven","latitude":43.6234,"longitude":-73.2701}}(window,'GeoPostal','US');

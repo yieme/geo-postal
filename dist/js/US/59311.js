@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59311"]={"code":"59311","region":"MT","city":"Alzada","latitude":45.1562,"longitude":-104.2617}}(window,'GeoPostal','US');

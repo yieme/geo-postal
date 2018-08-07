@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12136"]={"code":"12136","region":"New York","city":"Old Chatham","latitude":42.468723,"longitude":-73.554828}}(window,'GeoPostal','US');

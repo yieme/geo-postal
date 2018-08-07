@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68890"]={"code":"68890","region":"Grand-Est","city":"Reguisheim","latitude":47.9,"longitude":7.35}}(window,'GeoPostal','FR');

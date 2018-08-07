@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08260"]={"code":"08260","region":"Grand-Est","city":"Maubert-Fontaine","latitude":49.8686,"longitude":4.4294}}(window,'GeoPostal','FR');

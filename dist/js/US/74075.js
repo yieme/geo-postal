@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74075"]={"code":"74075","region":"Oklahoma","city":"Stillwater","latitude":36.140786,"longitude":-97.060403}}(window,'GeoPostal','US');

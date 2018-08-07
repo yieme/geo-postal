@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67430"]={"code":"67430","region":"Odeska oblast","city":"Stepanivka","latitude":46.79489,"longitude":29.98684}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7330-273"]={"code":"7330-273","region":"Portalegre","city":"Marvao","latitude":39.39377,"longitude":-7.37663}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMAAW03"]={"code":"JMAAW03","region":"Saint Andrew","city":"Constant Spring","latitude":18.05078,"longitude":-76.79372}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31558"]={"code":"31558","region":"Georgia","city":"Saint Marys","latitude":30.73051,"longitude":-81.54649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV15 9HJ"]={"code":"IV15 9HJ","region":"Scotland","city":"Dingwall","latitude":57.59531,"longitude":-4.42721}}(window,'GeoPostal','GB');

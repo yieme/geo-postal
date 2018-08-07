@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33930"]={"code":"33930","region":"Nouvelle-Aquitaine","city":"Vendays-Montalivet","latitude":45.3569,"longitude":-1.0592}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47018"]={"code":"47018","region":"Emilia-Romagna","city":"Santa Sofia","latitude":43.94446,"longitude":11.90873}}(window,'GeoPostal','IT');

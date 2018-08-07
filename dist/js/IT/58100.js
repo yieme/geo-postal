@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58100"]={"code":"58100","region":"Toscana","city":"Grosseto","latitude":42.77142,"longitude":11.10794}}(window,'GeoPostal','IT');

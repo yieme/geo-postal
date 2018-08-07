@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86400"]={"code":"86400","region":"Pohjois-Pohjanmaa","city":"Vihanti","latitude":65.9,"longitude":29.4}}(window,'GeoPostal','FI');

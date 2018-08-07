@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-710"]={"code":"62-710","region":"Wielkopolskie","city":"Wladyslawow","latitude":52.10313,"longitude":18.47626}}(window,'GeoPostal','PL');

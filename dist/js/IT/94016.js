@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94016"]={"code":"94016","region":"Sicilia","city":"Pietraperzia","latitude":37.41994,"longitude":14.13707}}(window,'GeoPostal','IT');

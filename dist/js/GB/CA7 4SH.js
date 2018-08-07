@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 4SH"]={"code":"CA7 4SH","region":"England","city":"Abbey Town","latitude":54.84529,"longitude":-3.28955}}(window,'GeoPostal','GB');

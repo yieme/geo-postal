@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673018"]={"code":"673018","region":"Kerala","city":"Ferokh","latitude":11.18333,"longitude":75.85}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16132"]={"code":"16132","region":"PA","city":"Hillsville","latitude":41.0113,"longitude":-80.4975}}(window,'GeoPostal','US');

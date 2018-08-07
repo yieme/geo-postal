@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437025"]={"code":"437025","region":"Maramures","city":"Baiut","latitude":47.61667,"longitude":24}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800"]={"code":"8800","region":"Concepcion","city":"Belen","latitude":-23.46611,"longitude":-57.26194}}(window,'GeoPostal','PY');

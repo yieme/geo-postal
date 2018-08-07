@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 17"]={"code":"696 17","region":"Jihomoravsky kraj","city":"Dolni Bojanovice","latitude":48.85861,"longitude":17.02859}}(window,'GeoPostal','CZ');

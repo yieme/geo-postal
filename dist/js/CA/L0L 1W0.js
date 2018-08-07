@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 1W0"]={"code":"L0L 1W0","region":"Ontario","city":"Lefroy","latitude":44.26681,"longitude":-79.56633}}(window,'GeoPostal','CA');

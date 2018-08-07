@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8072"]={"code":"8072","region":"Gelderland","city":"Nunspeet","latitude":52.37917,"longitude":5.78611}}(window,'GeoPostal','NL');

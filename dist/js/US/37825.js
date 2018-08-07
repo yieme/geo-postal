@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37825"]={"code":"37825","region":"TN","city":"New Tazewell","latitude":36.4245,"longitude":-83.6469}}(window,'GeoPostal','US');

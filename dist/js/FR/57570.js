@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57570"]={"code":"57570","region":"Grand-Est","city":"Basse-Rentgen","latitude":49.4836,"longitude":6.2039}}(window,'GeoPostal','FR');

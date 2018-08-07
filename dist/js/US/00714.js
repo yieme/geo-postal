@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00714"]={"code":"00714","region":"PR","city":"Arroyo","latitude":17.97,"longitude":-66.06}}(window,'GeoPostal','US');

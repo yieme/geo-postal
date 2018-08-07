@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463 52"]={"code":"463 52","region":"Liberecky kraj","city":"Osecna","latitude":50.69489,"longitude":14.92138}}(window,'GeoPostal','CZ');

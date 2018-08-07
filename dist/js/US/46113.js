@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46113"]={"code":"46113","region":"IN","city":"Camby","latitude":39.6405,"longitude":-86.3118}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69400"]={"code":"69400","region":"Auvergne-Rhone-Alpes","city":"Arnas","latitude":46.0239,"longitude":4.70638}}(window,'GeoPostal','FR');

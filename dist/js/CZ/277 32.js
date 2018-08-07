@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 32"]={"code":"277 32","region":"Stredocesky kraj","city":"Bysice","latitude":50.31044,"longitude":14.61136}}(window,'GeoPostal','CZ');

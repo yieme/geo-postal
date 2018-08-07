@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58884-000"]={"code":"58884-000","region":"Paraiba","city":"Catole do Rocha","latitude":-6.34389,"longitude":-37.74667}}(window,'GeoPostal','BR');

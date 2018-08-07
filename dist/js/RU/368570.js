@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368570"]={"code":"368570","region":"Dagestan, Respublika","city":"Urkarakh","latitude":42.16297,"longitude":47.63068}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV34 6RS"]={"code":"CV34 6RS","region":"England","city":"Warwick","latitude":52.28333,"longitude":-1.58333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["173104"]={"code":"173104","region":"Himachal Pradesh","city":"Rajgarh","latitude":30.85,"longitude":77.3}}(window,'GeoPostal','IN');

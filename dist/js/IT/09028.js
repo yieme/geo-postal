@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09028"]={"code":"09028","region":"Sardegna","city":"Sestu","latitude":39.30056,"longitude":9.09083}}(window,'GeoPostal','IT');

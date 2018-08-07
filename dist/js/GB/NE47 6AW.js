@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE47 6AW"]={"code":"NE47 6AW","region":"England","city":"Elrington","latitude":54.96566,"longitude":-2.21863}}(window,'GeoPostal','GB');

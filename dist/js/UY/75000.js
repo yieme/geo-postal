@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75000"]={"code":"75000","region":"Soriano","city":"Mercedes","latitude":-33.25583,"longitude":-58.01917}}(window,'GeoPostal','UY');

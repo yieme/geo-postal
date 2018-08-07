@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52562"]={"code":"52562","region":"IA","city":"Hayesville","latitude":41.3363,"longitude":-92.1784}}(window,'GeoPostal','US');

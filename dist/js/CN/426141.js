@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["426141"]={"code":"426141","region":"Hunan","city":"Bojia","latitude":26.46722,"longitude":111.96806}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40935"]={"code":"40935","region":"Kentucky","city":"Flat Lick","latitude":36.833642,"longitude":-83.759952}}(window,'GeoPostal','US');

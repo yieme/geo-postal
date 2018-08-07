@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26216"]={"code":"26216","region":"Auvergne-Rhone-Alpes","city":"Montelimar","latitude":44.55838,"longitude":4.75094}}(window,'GeoPostal','FR');

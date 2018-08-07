@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037005"]={"code":"037005","region":"Shanxi","city":"Datong","latitude":40.09361,"longitude":113.29139}}(window,'GeoPostal','CN');

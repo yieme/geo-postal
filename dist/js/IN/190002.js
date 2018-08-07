@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["190002"]={"code":"190002","region":"Jammu and Kashmir","city":"Srinagar","latitude":34.08333,"longitude":74.81667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10056"]={"code":"10056","region":"Piemonte","city":"Oulx","latitude":45.03554,"longitude":6.8338}}(window,'GeoPostal','IT');

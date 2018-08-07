@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50664"]={"code":"50664","region":"Iowa","city":"Oran","latitude":42.708165,"longitude":-91.874443}}(window,'GeoPostal','US');

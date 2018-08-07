@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["711309"]={"code":"711309","region":"West Bengal","city":"Haldia","latitude":22.06046,"longitude":88.10975}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45710-000"]={"code":"45710-000","region":"Bahia","city":"Itororo","latitude":-15.11694,"longitude":-40.07028}}(window,'GeoPostal','BR');

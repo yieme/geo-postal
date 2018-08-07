@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73772"]={"code":"73772","region":"Oklahoma","city":"Watonga","latitude":35.84477,"longitude":-98.41313}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12824"]={"code":"12824","region":"NY","city":"Diamond Point","latitude":43.5156,"longitude":-73.7001}}(window,'GeoPostal','US');

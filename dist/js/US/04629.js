@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04629"]={"code":"04629","region":"Maine","city":"East Blue Hill","latitude":44.4175,"longitude":-68.523056}}(window,'GeoPostal','US');

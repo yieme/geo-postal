@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73570"]={"code":"73570","region":"OK","city":"Tipton","latitude":34.5098,"longitude":-99.1315}}(window,'GeoPostal','US');

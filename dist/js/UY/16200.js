@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16200"]={"code":"16200","region":"Canelones","city":"La Floresta","latitude":-34.75572,"longitude":-55.68141}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08390"]={"code":"08390","region":"Sakarya","city":"Akyazi","latitude":40.685,"longitude":30.62222}}(window,'GeoPostal','TR');

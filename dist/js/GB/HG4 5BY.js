@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 5BY"]={"code":"HG4 5BY","region":"England","city":"Copt Hewick","latitude":54.13598,"longitude":-1.48188}}(window,'GeoPostal','GB');

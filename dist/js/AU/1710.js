@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1710"]={"code":"1710","region":"Victoria","city":"Epping","latitude":-37.65,"longitude":145.03333}}(window,'GeoPostal','AU');

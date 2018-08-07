@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161050"]={"code":"161050","region":"Vologodskaya oblast'","city":"Shuyskoye","latitude":59.37356,"longitude":41.03047}}(window,'GeoPostal','RU');

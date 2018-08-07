@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72039"]={"code":"72039","region":"AR","city":"Damascus","latitude":35.3673,"longitude":-92.4096}}(window,'GeoPostal','US');

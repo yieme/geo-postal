@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40813"]={"code":"40813","region":"KY","city":"Calvin","latitude":36.7223,"longitude":-83.6221}}(window,'GeoPostal','US');

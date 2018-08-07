@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6233"]={"code":"6233","region":"Tirol","city":"Kramsach","latitude":47.45,"longitude":11.86667}}(window,'GeoPostal','AT');

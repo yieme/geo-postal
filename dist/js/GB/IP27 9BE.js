@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP27 9BE"]={"code":"IP27 9BE","region":"England","city":"Eriswell","latitude":52.37473,"longitude":0.52936}}(window,'GeoPostal','GB');

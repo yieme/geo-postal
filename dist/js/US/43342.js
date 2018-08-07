@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43342"]={"code":"43342","region":"OH","city":"Prospect","latitude":40.4727,"longitude":-83.1763}}(window,'GeoPostal','US');

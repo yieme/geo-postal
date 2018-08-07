@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27891"]={"code":"27891","region":"Galicia","city":"Burela de Cabo","latitude":43.65,"longitude":-7.4}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317410"]={"code":"317410","region":"Arad","city":"Zabrani","latitude":46.06667,"longitude":21.55}}(window,'GeoPostal','RO');

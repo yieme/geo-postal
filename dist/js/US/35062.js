@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35062"]={"code":"35062","region":"AL","city":"Dora","latitude":33.7357,"longitude":-87.0546}}(window,'GeoPostal','US');

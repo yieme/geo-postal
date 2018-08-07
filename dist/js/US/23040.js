@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23040"]={"code":"23040","region":"Virginia","city":"Cumberland","latitude":37.49598,"longitude":-78.24527}}(window,'GeoPostal','US');

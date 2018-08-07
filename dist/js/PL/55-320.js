@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-320"]={"code":"55-320","region":"Dolnoslaskie","city":"Malczyce","latitude":51.22038,"longitude":16.49365}}(window,'GeoPostal','PL');

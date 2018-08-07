@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA3 4AF"]={"code":"KA3 4AF","region":"Scotland","city":"Dunlop","latitude":55.71198,"longitude":-4.53622}}(window,'GeoPostal','GB');

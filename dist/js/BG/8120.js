@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8120"]={"code":"8120","region":"Burgas","city":"Kameno","latitude":42.56667,"longitude":27.3}}(window,'GeoPostal','BG');

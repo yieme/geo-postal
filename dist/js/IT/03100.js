@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03100"]={"code":"03100","region":"Lazio","city":"Frosinone","latitude":41.64002,"longitude":13.3401}}(window,'GeoPostal','IT');

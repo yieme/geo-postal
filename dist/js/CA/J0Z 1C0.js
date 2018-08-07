@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 1C0"]={"code":"J0Z 1C0","region":"Quebec","city":"Authier","latitude":48.73348,"longitude":-78.8496}}(window,'GeoPostal','CA');

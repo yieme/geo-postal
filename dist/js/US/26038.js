@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26038"]={"code":"26038","region":"WV","city":"Glen Dale","latitude":39.9597,"longitude":-80.7323}}(window,'GeoPostal','US');

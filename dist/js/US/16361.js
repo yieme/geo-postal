@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16361"]={"code":"16361","region":"PA","city":"Tylersburg","latitude":41.3848,"longitude":-79.3223}}(window,'GeoPostal','US');

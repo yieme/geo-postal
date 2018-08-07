@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3130000"]={"code":"3130000","region":"Libertador General Bernardo O'Higgins","city":"Santa Cruz","latitude":-34.63333,"longitude":-71.36667}}(window,'GeoPostal','CL');

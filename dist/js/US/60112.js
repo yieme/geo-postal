@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60112"]={"code":"60112","region":"IL","city":"Cortland","latitude":41.92,"longitude":-88.6887}}(window,'GeoPostal','US');

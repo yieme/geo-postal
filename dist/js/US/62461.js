@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62461"]={"code":"62461","region":"IL","city":"Shumway","latitude":39.1881,"longitude":-88.6418}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64672"]={"code":"64672","region":"MO","city":"Powersville","latitude":40.5492,"longitude":-93.3002}}(window,'GeoPostal','US');

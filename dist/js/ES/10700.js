@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10700"]={"code":"10700","region":"Extremadura","city":"Hervas","latitude":40.27081,"longitude":-5.8672}}(window,'GeoPostal','ES');

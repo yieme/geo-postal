@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2274"]={"code":"2274","region":"Niederosterreich","city":"Rabensburg","latitude":48.65,"longitude":16.9}}(window,'GeoPostal','AT');

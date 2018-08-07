@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72104"]={"code":"72104","region":"Arkansas","city":"Malvern","latitude":34.40154,"longitude":-92.83632}}(window,'GeoPostal','US');

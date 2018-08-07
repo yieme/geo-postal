@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12042"]={"code":"12042","region":"Piemonte","city":"Pocapaglia","latitude":44.71524,"longitude":7.88293}}(window,'GeoPostal','IT');

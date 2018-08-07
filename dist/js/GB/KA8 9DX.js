@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA8 9DX"]={"code":"KA8 9DX","region":"Scotland","city":"Prestwick","latitude":55.48333,"longitude":-4.61667}}(window,'GeoPostal','GB');

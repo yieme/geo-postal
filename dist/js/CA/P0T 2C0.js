@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2C0"]={"code":"P0T 2C0","region":"Ontario","city":"Manitouwadge","latitude":49.12152,"longitude":-85.8403}}(window,'GeoPostal','CA');

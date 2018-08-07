@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59100"]={"code":"59100","region":"Michoacan de Ocampo","city":"Sahuayo de Jose Maria Morelos","latitude":20.06667,"longitude":-102.71667}}(window,'GeoPostal','MX');

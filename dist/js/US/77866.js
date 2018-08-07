@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77866"]={"code":"77866","region":"TX","city":"Millican","latitude":30.4491,"longitude":-96.217}}(window,'GeoPostal','US');

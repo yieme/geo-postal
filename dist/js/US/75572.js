@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75572"]={"code":"75572","region":"Texas","city":"Queen City","latitude":33.17526,"longitude":-94.1523}}(window,'GeoPostal','US');

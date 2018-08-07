@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94685"]={"code":"94685","region":"Luhanska oblast","city":"Krepenskiy","latitude":48.0771,"longitude":39.058}}(window,'GeoPostal','UA');

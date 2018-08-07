@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57793"]={"code":"57793","region":"Kalmar lan","city":"Hultsfred","latitude":57.48815,"longitude":15.84357}}(window,'GeoPostal','SE');

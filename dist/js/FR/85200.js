@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85200"]={"code":"85200","region":"Pays-de-la-Loire","city":"Pissotte","latitude":46.49725,"longitude":-0.80666}}(window,'GeoPostal','FR');

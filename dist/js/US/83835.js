@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83835"]={"code":"83835","region":"Idaho","city":"Hayden","latitude":47.79066,"longitude":-116.76438}}(window,'GeoPostal','US');

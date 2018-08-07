@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["725100"]={"code":"725100","region":"Suceava","city":"Campulung Moldovenesc","latitude":47.53333,"longitude":25.56667}}(window,'GeoPostal','RO');

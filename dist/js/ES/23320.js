@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23320"]={"code":"23320","region":"Andalucia","city":"Torreperogil","latitude":38.0354,"longitude":-3.28998}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33253"]={"code":"33253","region":"Fes-Boulemane","city":"Missour","latitude":33.04893,"longitude":-3.98946}}(window,'GeoPostal','MA');

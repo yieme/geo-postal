@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14885"]={"code":"14885","region":"New York","city":"Troupsburg","latitude":42.04972,"longitude":-77.54806}}(window,'GeoPostal','US');

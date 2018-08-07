@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 2A0"]={"code":"S0K 2A0","region":"Saskatchewan","city":"Humboldt","latitude":52.20005,"longitude":-105.1255}}(window,'GeoPostal','CA');

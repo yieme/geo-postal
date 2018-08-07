@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04735"]={"code":"04735","region":"Maine","city":"Bridgewater","latitude":46.419089,"longitude":-67.848048}}(window,'GeoPostal','US');

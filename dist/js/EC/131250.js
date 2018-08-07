@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131250"]={"code":"131250","region":"Manabi","city":"Rocafuerte","latitude":-0.91667,"longitude":-80.43333}}(window,'GeoPostal','EC');

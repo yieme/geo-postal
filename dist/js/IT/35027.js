@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35027"]={"code":"35027","region":"Veneto","city":"Noventa Padovana","latitude":45.41429,"longitude":11.95101}}(window,'GeoPostal','IT');

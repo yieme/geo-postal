@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4216"]={"code":"4216","region":"Batangas","city":"Lian","latitude":14.0381,"longitude":120.6509}}(window,'GeoPostal','PH');

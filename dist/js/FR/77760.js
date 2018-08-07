@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77760"]={"code":"77760","region":"Ile-de-France","city":"La Chapelle-la-Reine","latitude":48.31814,"longitude":2.57152}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17018"]={"code":"17018","region":"PA","city":"Dauphin","latitude":40.3846,"longitude":-76.9283}}(window,'GeoPostal','US');

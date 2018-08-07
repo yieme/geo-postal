@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6931"]={"code":"6931","region":"Csongrad","city":"Apatfalva","latitude":46.16667,"longitude":20.58333}}(window,'GeoPostal','HU');

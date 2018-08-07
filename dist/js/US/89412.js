@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89412"]={"code":"89412","region":"Nevada","city":"Gerlach","latitude":40.62278,"longitude":-119.34139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68955"]={"code":"68955","region":"Nebraska","city":"Juniata","latitude":40.58748,"longitude":-98.51676}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83980"]={"code":"83980","region":"Provence-Alpes-Cote d'Azur","city":"Le Lavandou","latitude":43.137,"longitude":6.366}}(window,'GeoPostal','FR');

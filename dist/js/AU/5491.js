@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5491"]={"code":"5491","region":"South Australia","city":"Jamestown","latitude":-33.20531,"longitude":138.60503}}(window,'GeoPostal','AU');

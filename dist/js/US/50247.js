@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50247"]={"code":"50247","region":"IA","city":"State Center","latitude":42.0109,"longitude":-93.1673}}(window,'GeoPostal','US');

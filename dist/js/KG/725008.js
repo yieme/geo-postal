@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["725008"]={"code":"725008","region":"Chuy","city":"Ivanovka","latitude":42.88778,"longitude":75.085}}(window,'GeoPostal','KG');

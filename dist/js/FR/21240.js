@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21240"]={"code":"21240","region":"Bourgogne-Franche-Comte","city":"Talant","latitude":47.33694,"longitude":5.00888}}(window,'GeoPostal','FR');

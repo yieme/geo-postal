@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49119"]={"code":"49119","region":"Pays-de-la-Loire","city":"Saint-Pierre-Montlimart","latitude":47.26976,"longitude":-1.02738}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98292"]={"code":"98292","region":"Washington","city":"Stanwood","latitude":48.17928,"longitude":-122.37144}}(window,'GeoPostal','US');

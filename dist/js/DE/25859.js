@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25859"]={"code":"25859","region":"Schleswig-Holstein","city":"Lorenzwarft","latitude":54.57003,"longitude":8.52631}}(window,'GeoPostal','DE');

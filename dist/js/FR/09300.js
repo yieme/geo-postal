@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09300"]={"code":"09300","region":"Occitanie","city":"Belesta","latitude":42.90228,"longitude":1.93325}}(window,'GeoPostal','FR');

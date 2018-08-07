@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25200"]={"code":"25200","region":"Catalunya","city":"Cervera","latitude":41.67003,"longitude":1.2721}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4330"]={"code":"4330","region":"Rogaland","city":"Algard","latitude":58.76417,"longitude":5.85253}}(window,'GeoPostal','NO');

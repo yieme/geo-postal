@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23200"]={"code":"23200","region":"Nouvelle-Aquitaine","city":"Aubusson","latitude":45.95,"longitude":2.16667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML7 5SP"]={"code":"ML7 5SP","region":"Scotland","city":"Harthill","latitude":55.86667,"longitude":-3.75}}(window,'GeoPostal','GB');

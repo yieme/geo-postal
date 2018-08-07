@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43716"]={"code":"43716","region":"Ohio","city":"Beallsville","latitude":39.84833,"longitude":-81.03528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54630"]={"code":"54630","region":"Grand-Est","city":"Flavigny-sur-Moselle","latitude":48.56412,"longitude":6.19113}}(window,'GeoPostal','FR');

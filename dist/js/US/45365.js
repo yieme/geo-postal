@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45365"]={"code":"45365","region":"Ohio","city":"Sidney","latitude":40.28422,"longitude":-84.1555}}(window,'GeoPostal','US');

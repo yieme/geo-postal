@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13134"]={"code":"13134","region":"NY","city":"Peterboro","latitude":42.9686,"longitude":-75.6794}}(window,'GeoPostal','US');

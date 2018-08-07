@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38380"]={"code":"38380","region":"Tennessee","city":"Sugar Tree","latitude":35.782194,"longitude":-87.994995}}(window,'GeoPostal','US');

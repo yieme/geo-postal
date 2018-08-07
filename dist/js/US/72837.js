@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72837"]={"code":"72837","region":"AR","city":"Dover","latitude":35.4074,"longitude":-93.1355}}(window,'GeoPostal','US');

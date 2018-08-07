@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20109"]={"code":"20109","region":"Alajuela","city":"Rio Segundo","latitude":10.24138,"longitude":-84.27933}}(window,'GeoPostal','CR');

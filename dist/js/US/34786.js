@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34786"]={"code":"34786","region":"Florida","city":"Windermere","latitude":28.499099,"longitude":-81.529545}}(window,'GeoPostal','US');

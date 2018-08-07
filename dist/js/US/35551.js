@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35551"]={"code":"35551","region":"Alabama","city":"Delmar","latitude":34.17,"longitude":-87.605833}}(window,'GeoPostal','US');

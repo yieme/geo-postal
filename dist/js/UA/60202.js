@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60202"]={"code":"60202","region":"Chernivetska oblast","city":"Sokyryany","latitude":48.44747,"longitude":27.41678}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87513"]={"code":"87513","region":"NM","city":"Arroyo Hondo","latitude":36.5796,"longitude":-105.6873}}(window,'GeoPostal','US');

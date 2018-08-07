@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50059"]={"code":"50059","region":"Toscana","city":"Vinci","latitude":43.77885,"longitude":10.92242}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8N 5B9"]={"code":"K8N 5B9","region":"Ontario","city":"Belleville","latitude":44.153374,"longitude":-77.38447}}(window,'GeoPostal','CA');

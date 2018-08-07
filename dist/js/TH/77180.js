@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77180"]={"code":"77180","region":"Prachuap Khiri Khan","city":"Prachuap Khiri Khan","latitude":11.82098,"longitude":99.7841}}(window,'GeoPostal','TH');

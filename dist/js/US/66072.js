@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66072"]={"code":"66072","region":"Kansas","city":"Parker","latitude":38.328525,"longitude":-94.991617}}(window,'GeoPostal','US');

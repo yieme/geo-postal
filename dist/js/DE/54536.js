@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54536"]={"code":"54536","region":"Rheinland-Pfalz","city":"Krov","latitude":49.98333,"longitude":7.08333}}(window,'GeoPostal','DE');

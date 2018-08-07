@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67513"]={"code":"67513","region":"Kansas","city":"Alexander","latitude":38.470948,"longitude":-99.552936}}(window,'GeoPostal','US');

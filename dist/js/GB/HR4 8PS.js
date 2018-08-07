@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR4 8PS"]={"code":"HR4 8PS","region":"England","city":"Kings Pyon","latitude":52.15,"longitude":-2.81667}}(window,'GeoPostal','GB');

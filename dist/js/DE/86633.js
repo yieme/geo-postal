@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86633"]={"code":"86633","region":"Bayern","city":"Neuburg","latitude":47.77056,"longitude":10.35563}}(window,'GeoPostal','DE');

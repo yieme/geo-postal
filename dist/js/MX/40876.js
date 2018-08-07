@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40876"]={"code":"40876","region":"Guerrero","city":"Zirandaro","latitude":18.45,"longitude":-100.98333}}(window,'GeoPostal','MX');

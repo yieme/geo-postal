@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84160"]={"code":"84160","region":"Bayern","city":"Frontenhausen","latitude":48.54628,"longitude":12.53118}}(window,'GeoPostal','DE');

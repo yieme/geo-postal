@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88240"]={"code":"88240","region":"Grand-Est","city":"Bains-les-Bains","latitude":48.00113,"longitude":6.26492}}(window,'GeoPostal','FR');

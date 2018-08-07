@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13693"]={"code":"13693","region":"NY","city":"Three Mile Bay","latitude":44.0551,"longitude":-76.2689}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3637"]={"code":"3637","region":"Victoria","city":"Yalca","latitude":-35.98333,"longitude":145.31667}}(window,'GeoPostal','AU');

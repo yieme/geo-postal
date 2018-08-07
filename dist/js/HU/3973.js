@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3973"]={"code":"3973","region":"Borsod-Abauj-Zemplen","city":"Cigand","latitude":48.25561,"longitude":21.89195}}(window,'GeoPostal','HU');

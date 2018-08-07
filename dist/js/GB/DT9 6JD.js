@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT9 6JD"]={"code":"DT9 6JD","region":"England","city":"Leigh","latitude":50.86667,"longitude":-2.55}}(window,'GeoPostal','GB');

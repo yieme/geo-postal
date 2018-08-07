@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29142"]={"code":"29142","region":"South Carolina","city":"Santee","latitude":33.483,"longitude":-80.483}}(window,'GeoPostal','US');

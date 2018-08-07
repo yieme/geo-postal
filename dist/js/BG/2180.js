@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2180"]={"code":"2180","region":"Sofia","city":"Etropole","latitude":42.83333,"longitude":24}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8HN"]={"code":"KA27 8HN","region":"Scotland","city":"Catacol","latitude":55.69535,"longitude":-5.32633}}(window,'GeoPostal','GB');

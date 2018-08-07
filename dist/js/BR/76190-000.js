@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76190-000"]={"code":"76190-000","region":"Goias","city":"Palmeiras de Goias","latitude":-16.805,"longitude":-49.92583}}(window,'GeoPostal','BR');

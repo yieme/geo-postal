@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86978"]={"code":"86978","region":"Bayern","city":"Hohenfurch","latitude":47.85,"longitude":10.9}}(window,'GeoPostal','DE');

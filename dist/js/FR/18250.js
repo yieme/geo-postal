@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18250"]={"code":"18250","region":"Centre-Val de Loire","city":"Henrichemont","latitude":47.30333,"longitude":2.52458}}(window,'GeoPostal','FR');

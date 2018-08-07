@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65082"]={"code":"65082","region":"MO","city":"Tuscumbia","latitude":38.2181,"longitude":-92.4461}}(window,'GeoPostal','US');

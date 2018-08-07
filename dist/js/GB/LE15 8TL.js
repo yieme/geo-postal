@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE15 8TL"]={"code":"LE15 8TL","region":"England","city":"Upper Hambleton","latitude":52.65853,"longitude":-0.66982}}(window,'GeoPostal','GB');

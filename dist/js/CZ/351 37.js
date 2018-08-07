@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["351 37"]={"code":"351 37","region":"Karlovarsky kraj","city":"Luby","latitude":50.25248,"longitude":12.40595}}(window,'GeoPostal','CZ');

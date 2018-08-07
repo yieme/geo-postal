@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90912"]={"code":"90912","region":"Sulawesi Selatan","city":"Sengkang","latitude":-4.1279,"longitude":120.0297}}(window,'GeoPostal','ID');

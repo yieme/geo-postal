@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD7 1NJ"]={"code":"LD7 1NJ","region":"Wales","city":"Whitton","latitude":52.3,"longitude":-3.06667}}(window,'GeoPostal','GB');

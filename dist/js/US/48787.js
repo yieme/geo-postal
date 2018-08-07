@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48787"]={"code":"48787","region":"Michigan","city":"Frankenmuth","latitude":43.33158,"longitude":-83.73798}}(window,'GeoPostal','US');

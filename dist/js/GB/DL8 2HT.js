@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 2HT"]={"code":"DL8 2HT","region":"England","city":"Burneston","latitude":54.26146,"longitude":-1.52975}}(window,'GeoPostal','GB');

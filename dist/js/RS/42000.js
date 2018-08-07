@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42000"]={"code":"42000","region":"Kosovsko-Mitrovacki okrug","city":"Vushtrri","latitude":42.82306,"longitude":20.9675}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04460"]={"code":"04460","region":"Maine","city":"Medway","latitude":45.60894,"longitude":-68.53086}}(window,'GeoPostal','US');

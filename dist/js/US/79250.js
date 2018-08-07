@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79250"]={"code":"79250","region":"TX","city":"Petersburg","latitude":33.8768,"longitude":-101.6046}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO14 9SA"]={"code":"YO14 9SA","region":"England","city":"Reighton","latitude":54.16307,"longitude":-0.27173}}(window,'GeoPostal','GB');

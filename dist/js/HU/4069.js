@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4069"]={"code":"4069","region":"Hajdu-Bihar","city":"Egyek","latitude":47.63333,"longitude":20.9}}(window,'GeoPostal','HU');

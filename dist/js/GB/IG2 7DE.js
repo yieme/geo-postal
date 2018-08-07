@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG2 7DE"]={"code":"IG2 7DE","region":"England","city":"Ilford","latitude":51.55765,"longitude":0.07278}}(window,'GeoPostal','GB');

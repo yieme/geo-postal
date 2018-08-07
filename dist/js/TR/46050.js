@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46050"]={"code":"46050","region":"Malatya","city":"Arguvan","latitude":38.76995,"longitude":38.2712}}(window,'GeoPostal','TR');

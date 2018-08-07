@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8N 1L7"]={"code":"N8N 1L7","region":"Ontario","city":"Tecumseh","latitude":42.312182,"longitude":-82.897732}}(window,'GeoPostal','CA');

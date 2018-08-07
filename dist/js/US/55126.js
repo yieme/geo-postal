@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55126"]={"code":"55126","region":"Minnesota","city":"Shoreview","latitude":45.07998,"longitude":-93.14076}}(window,'GeoPostal','US');

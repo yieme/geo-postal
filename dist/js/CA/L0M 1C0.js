@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0M 1C0"]={"code":"L0M 1C0","region":"Ontario","city":"Borden","latitude":47.90011,"longitude":-83.18309}}(window,'GeoPostal','CA');

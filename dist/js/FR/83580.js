@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83580"]={"code":"83580","region":"Provence-Alpes-Cote d'Azur","city":"Gassin","latitude":43.22874,"longitude":6.5848}}(window,'GeoPostal','FR');

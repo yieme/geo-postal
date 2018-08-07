@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7215"]={"code":"7215","region":"Tasmania","city":"Bicheno","latitude":-41.87588,"longitude":148.30452}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72615"]={"code":"72615","region":"Arkansas","city":"Bergman","latitude":36.261559,"longitude":-93.105934}}(window,'GeoPostal','US');

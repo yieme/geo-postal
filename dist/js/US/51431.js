@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51431"]={"code":"51431","region":"IA","city":"Arthur","latitude":42.3363,"longitude":-95.3675}}(window,'GeoPostal','US');

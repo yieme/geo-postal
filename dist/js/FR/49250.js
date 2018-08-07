@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49250"]={"code":"49250","region":"Pays-de-la-Loire","city":"Brion","latitude":47.44122,"longitude":-0.15616}}(window,'GeoPostal','FR');

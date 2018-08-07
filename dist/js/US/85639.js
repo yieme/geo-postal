@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85639"]={"code":"85639","region":"AZ","city":"Topawa","latitude":31.814,"longitude":-111.8257}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86325"]={"code":"86325","region":"AZ","city":"Cornville","latitude":34.7256,"longitude":-111.9086}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58644"]={"code":"58644","region":"North Dakota","city":"Marshall","latitude":47.138056,"longitude":-102.3325}}(window,'GeoPostal','US');

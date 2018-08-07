@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47362"]={"code":"47362","region":"Indiana","city":"New Castle","latitude":39.92894,"longitude":-85.37025}}(window,'GeoPostal','US');

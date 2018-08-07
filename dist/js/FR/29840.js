@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29840"]={"code":"29840","region":"Bretagne","city":"Porspoder","latitude":48.5,"longitude":-4.76667}}(window,'GeoPostal','FR');

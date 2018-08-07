@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48665"]={"code":"48665","region":"Mugla","city":"Ula","latitude":37.10491,"longitude":28.41667}}(window,'GeoPostal','TR');

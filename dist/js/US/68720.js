@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68720"]={"code":"68720","region":"Nebraska","city":"Brunswick","latitude":42.350503,"longitude":-97.950928}}(window,'GeoPostal','US');

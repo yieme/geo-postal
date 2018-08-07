@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10533"]={"code":"10533","region":"New York","city":"Irvington","latitude":41.03784,"longitude":-73.85604}}(window,'GeoPostal','US');

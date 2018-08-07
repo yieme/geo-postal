@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15741"]={"code":"15741","region":"PA","city":"Gipsy","latitude":40.8073,"longitude":-78.8764}}(window,'GeoPostal','US');

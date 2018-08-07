@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT1 1HH"]={"code":"CT1 1HH","region":"England","city":"Canterbury","latitude":51.27904,"longitude":1.07992}}(window,'GeoPostal','GB');

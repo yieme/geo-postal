@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63779"]={"code":"63779","region":"Nayarit","city":"Tepic","latitude":21.5,"longitude":-104.9}}(window,'GeoPostal','MX');

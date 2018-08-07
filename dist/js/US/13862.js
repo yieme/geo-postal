@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13862"]={"code":"13862","region":"NY","city":"Whitney Point","latitude":42.3384,"longitude":-75.9522}}(window,'GeoPostal','US');

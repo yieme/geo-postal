@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55396"]={"code":"55396","region":"Minnesota","city":"Winthrop","latitude":44.54302,"longitude":-94.36637}}(window,'GeoPostal','US');

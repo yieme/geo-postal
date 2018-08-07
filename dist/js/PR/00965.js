@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00965"]={"code":"00965","region":"Catano","city":"Catano","latitude":18.44134,"longitude":-66.11822}}(window,'GeoPostal','PR');

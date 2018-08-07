@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10960"]={"code":"10960","region":"New York","city":"Nyack","latitude":41.092804,"longitude":-73.930191}}(window,'GeoPostal','US');

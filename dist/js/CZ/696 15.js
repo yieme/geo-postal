@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 15"]={"code":"696 15","region":"Jihomoravsky kraj","city":"Cejkovice","latitude":48.90592,"longitude":16.9423}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12121"]={"code":"12121","region":"NY","city":"Melrose","latitude":42.8412,"longitude":-73.6077}}(window,'GeoPostal','US');

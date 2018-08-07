@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73506"]={"code":"73506","region":"Oklahoma","city":"Lawton","latitude":34.62357,"longitude":-98.45976}}(window,'GeoPostal','US');

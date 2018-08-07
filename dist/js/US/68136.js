@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68136"]={"code":"68136","region":"NE","city":"Omaha","latitude":41.1683,"longitude":-96.2096}}(window,'GeoPostal','US');

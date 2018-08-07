@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47305"]={"code":"47305","region":"Indiana","city":"Muncie","latitude":40.192769,"longitude":-85.386152}}(window,'GeoPostal','US');

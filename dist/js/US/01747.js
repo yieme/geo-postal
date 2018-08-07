@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01747"]={"code":"01747","region":"MA","city":"Hopedale","latitude":42.1268,"longitude":-71.5376}}(window,'GeoPostal','US');

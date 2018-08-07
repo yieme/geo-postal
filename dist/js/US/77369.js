@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77369"]={"code":"77369","region":"Texas","city":"Rye","latitude":30.4525,"longitude":-94.768611}}(window,'GeoPostal','US');

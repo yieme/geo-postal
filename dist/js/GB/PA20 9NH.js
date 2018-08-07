@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA20 9NH"]={"code":"PA20 9NH","region":"Scotland","city":"Kilchattan","latitude":55.75,"longitude":-5.03333}}(window,'GeoPostal','GB');

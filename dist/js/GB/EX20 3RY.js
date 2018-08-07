@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 3RY"]={"code":"EX20 3RY","region":"England","city":"Exbourne","latitude":50.79875,"longitude":-3.98477}}(window,'GeoPostal','GB');

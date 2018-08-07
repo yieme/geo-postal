@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94064"]={"code":"94064","region":"California","city":"Emerald Lake Hills","latitude":37.4634,"longitude":-122.25498}}(window,'GeoPostal','US');

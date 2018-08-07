@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76550-000"]={"code":"76550-000","region":"Goias","city":"Porangatu","latitude":-13.44083,"longitude":-49.14861}}(window,'GeoPostal','BR');

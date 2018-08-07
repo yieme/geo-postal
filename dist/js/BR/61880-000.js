@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61880-000"]={"code":"61880-000","region":"Ceara","city":"Itaitinga","latitude":-3.96944,"longitude":-38.52806}}(window,'GeoPostal','BR');

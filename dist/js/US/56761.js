@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56761"]={"code":"56761","region":"Minnesota","city":"Wannaska","latitude":48.629046,"longitude":-95.732915}}(window,'GeoPostal','US');

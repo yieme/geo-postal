@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-000"]={"code":"63-000","region":"Wielkopolskie","city":"Sroda Wielkopolska","latitude":52.22843,"longitude":17.27617}}(window,'GeoPostal','PL');

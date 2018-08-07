@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761010"]={"code":"761010","region":"Odisha","city":"Chikitigarh","latitude":19.2,"longitude":84.61667}}(window,'GeoPostal','IN');

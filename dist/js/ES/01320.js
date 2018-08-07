@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01320"]={"code":"01320","region":"Pais Vasco","city":"Oyon","latitude":42.50571,"longitude":-2.43638}}(window,'GeoPostal','ES');

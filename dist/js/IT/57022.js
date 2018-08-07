@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57022"]={"code":"57022","region":"Toscana","city":"Castagneto Carducci","latitude":43.16073,"longitude":10.61092}}(window,'GeoPostal','IT');

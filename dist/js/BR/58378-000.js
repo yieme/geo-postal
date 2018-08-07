@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58378-000"]={"code":"58378-000","region":"Paraiba","city":"Itatuba","latitude":-7.375,"longitude":-35.62833}}(window,'GeoPostal','BR');

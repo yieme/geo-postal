@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43502"]={"code":"43502","region":"Ohio","city":"Archbold","latitude":41.52144,"longitude":-84.30717}}(window,'GeoPostal','US');

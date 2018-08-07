@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3536"]={"code":"3536","region":"Buskerud","city":"Noresund","latitude":60.18032,"longitude":9.62312}}(window,'GeoPostal','NO');

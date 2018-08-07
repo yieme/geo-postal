@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4859"]={"code":"4859","region":"Queensland","city":"South Johnstone","latitude":-17.6,"longitude":146}}(window,'GeoPostal','AU');

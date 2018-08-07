@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150350"]={"code":"150350","region":"Napo","city":"Archidona","latitude":-0.91667,"longitude":-77.8}}(window,'GeoPostal','EC');

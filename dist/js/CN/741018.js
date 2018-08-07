@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741018"]={"code":"741018","region":"Gansu","city":"Tianshui","latitude":34.54389,"longitude":105.68972}}(window,'GeoPostal','CN');

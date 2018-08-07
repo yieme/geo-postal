@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30019"]={"code":"30019","region":"Georgia","city":"Dacula","latitude":33.97674,"longitude":-83.87482}}(window,'GeoPostal','US');

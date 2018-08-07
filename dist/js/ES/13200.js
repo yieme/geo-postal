@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13200"]={"code":"13200","region":"Castilla-La Mancha","city":"Manzanares","latitude":38.99915,"longitude":-3.36991}}(window,'GeoPostal','ES');

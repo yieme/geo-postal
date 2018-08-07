@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80454"]={"code":"80454","region":"Colorado","city":"Indian Hills","latitude":39.631866,"longitude":-105.25127}}(window,'GeoPostal','US');

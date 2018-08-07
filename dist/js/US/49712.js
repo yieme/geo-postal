@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49712"]={"code":"49712","region":"Michigan","city":"Boyne City","latitude":45.21668,"longitude":-85.01394}}(window,'GeoPostal','US');

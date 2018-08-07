@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07430"]={"code":"07430","region":"Auvergne-Rhone-Alpes","city":"Davezieux","latitude":45.25732,"longitude":4.70875}}(window,'GeoPostal','FR');

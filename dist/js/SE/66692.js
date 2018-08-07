@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66692"]={"code":"66692","region":"Vastra Gotalands lan","city":"Bengtsfors","latitude":59.02912,"longitude":12.23207}}(window,'GeoPostal','SE');

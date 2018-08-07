@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-243"]={"code":"43-243","region":"Slaskie","city":"Wisla","latitude":49.65629,"longitude":18.8591}}(window,'GeoPostal','PL');

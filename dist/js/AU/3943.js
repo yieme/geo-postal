@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3943"]={"code":"3943","region":"Victoria","city":"Sorrento","latitude":-38.31667,"longitude":144.73333}}(window,'GeoPostal','AU');

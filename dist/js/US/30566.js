@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30566"]={"code":"30566","region":"Georgia","city":"Oakwood","latitude":34.237567,"longitude":-83.895135}}(window,'GeoPostal','US');

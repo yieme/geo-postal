@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00782"]={"code":"00782","region":"PR","city":"Comerio","latitude":18.22,"longitude":-66.22}}(window,'GeoPostal','US');

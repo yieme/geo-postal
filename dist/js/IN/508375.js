@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["508375"]={"code":"508375","region":"Telangana","city":"Mirialguda","latitude":16.86667,"longitude":79.58333}}(window,'GeoPostal','IN');

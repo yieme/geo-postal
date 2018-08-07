@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 67"]={"code":"671 67","region":"Jihomoravsky kraj","city":"Hrusovany nad Jevisovkou","latitude":48.82991,"longitude":16.40271}}(window,'GeoPostal','CZ');

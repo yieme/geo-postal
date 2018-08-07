@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50680"]={"code":"50680","region":"IA","city":"Wellsburg","latitude":42.4494,"longitude":-92.9398}}(window,'GeoPostal','US');

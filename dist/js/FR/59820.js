@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59820"]={"code":"59820","region":"Hauts-de-France","city":"Gravelines","latitude":50.98651,"longitude":2.12807}}(window,'GeoPostal','FR');

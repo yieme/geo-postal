@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 9SL"]={"code":"LN11 9SL","region":"England","city":"Stenigot","latitude":53.31163,"longitude":-0.11342}}(window,'GeoPostal','GB');

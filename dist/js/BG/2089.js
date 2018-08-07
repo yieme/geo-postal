@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2089"]={"code":"2089","region":"Sofia","city":"Anton","latitude":42.75,"longitude":24.28333}}(window,'GeoPostal','BG');

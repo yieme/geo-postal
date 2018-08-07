@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-080"]={"code":"26-080","region":"Swietokrzyskie","city":"Mniow","latitude":51.01224,"longitude":20.48427}}(window,'GeoPostal','PL');

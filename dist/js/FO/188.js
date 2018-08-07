@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188"]={"code":"188","region":"Streymoy","city":"Hoyvik","latitude":62.03407,"longitude":-6.78127}}(window,'GeoPostal','FO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59147"]={"code":"59147","region":"Hauts-de-France","city":"Chemy","latitude":50.5311,"longitude":2.9892}}(window,'GeoPostal','FR');

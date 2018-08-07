@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56239"]={"code":"56239","region":"Minnesota","city":"Ghent","latitude":44.513954,"longitude":-95.892344}}(window,'GeoPostal','US');

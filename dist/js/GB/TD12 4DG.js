@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD12 4DG"]={"code":"TD12 4DG","region":"Scotland","city":"Coldstream","latitude":55.65111,"longitude":-2.25295}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171852"]={"code":"171852","region":"Tverskaya oblast'","city":"Bezhetsk","latitude":57.78506,"longitude":36.69651}}(window,'GeoPostal','RU');

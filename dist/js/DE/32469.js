@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32469"]={"code":"32469","region":"Nordrhein-Westfalen","city":"Petershagener Heide","latitude":52.4,"longitude":8.95}}(window,'GeoPostal','DE');

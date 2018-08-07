@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74871"]={"code":"74871","region":"Oklahoma","city":"Stonewall","latitude":34.651111,"longitude":-96.526667}}(window,'GeoPostal','US');

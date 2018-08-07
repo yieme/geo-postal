@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH25 3DW"]={"code":"PH25 3DW","region":"Scotland","city":"Nethy Bridge","latitude":57.26487,"longitude":-3.65609}}(window,'GeoPostal','GB');

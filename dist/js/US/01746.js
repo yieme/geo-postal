@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01746"]={"code":"01746","region":"Massachusetts","city":"Holliston","latitude":42.199627,"longitude":-71.435015}}(window,'GeoPostal','US');

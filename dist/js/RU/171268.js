@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171268"]={"code":"171268","region":"Tverskaya oblast'","city":"Radchenko","latitude":56.68027,"longitude":36.37178}}(window,'GeoPostal','RU');

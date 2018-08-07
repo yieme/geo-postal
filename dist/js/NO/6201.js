@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6201"]={"code":"6201","region":"More og Romsdal","city":"Stranda","latitude":62.30964,"longitude":6.93582}}(window,'GeoPostal','NO');

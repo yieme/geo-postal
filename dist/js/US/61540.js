@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61540"]={"code":"61540","region":"Illinois","city":"Lacon","latitude":41.02329,"longitude":-89.406203}}(window,'GeoPostal','US');

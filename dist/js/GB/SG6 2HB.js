@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG6 2HB"]={"code":"SG6 2HB","region":"England","city":"Letchworth","latitude":51.97944,"longitude":-0.2284}}(window,'GeoPostal','GB');

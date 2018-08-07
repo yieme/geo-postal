@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155362"]={"code":"155362","region":"Ivanovskaya oblast'","city":"Puchezh","latitude":56.97878,"longitude":43.16762}}(window,'GeoPostal','RU');

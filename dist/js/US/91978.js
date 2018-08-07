@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91978"]={"code":"91978","region":"California","city":"Spring Valley","latitude":32.7027,"longitude":-116.937928}}(window,'GeoPostal','US');

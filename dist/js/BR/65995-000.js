@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65995-000"]={"code":"65995-000","region":"Maranhao","city":"Bom Jardim","latitude":-7.01667,"longitude":-46.48333}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04757"]={"code":"04757","region":"ME","city":"Mapleton","latitude":46.6746,"longitude":-68.1536}}(window,'GeoPostal','US');

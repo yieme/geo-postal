@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628179"]={"code":"628179","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Berezovo","latitude":63.93806,"longitude":65.04194}}(window,'GeoPostal','RU');

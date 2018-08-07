@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89290"]={"code":"89290","region":"Bourgogne-Franche-Comte","city":"Auxerre","latitude":47.8,"longitude":3.56667}}(window,'GeoPostal','FR');

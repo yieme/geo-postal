@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 55"]={"code":"671 55","region":"Jihomoravsky kraj","city":"Blizkovice","latitude":48.99976,"longitude":15.83482}}(window,'GeoPostal','CZ');

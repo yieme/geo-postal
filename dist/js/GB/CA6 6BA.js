@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA6 6BA"]={"code":"CA6 6BA","region":"England","city":"Kirklinton","latitude":54.99425,"longitude":-2.8873}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR15 2SP"]={"code":"NR15 2SP","region":"England","city":"Shelton","latitude":52.46667,"longitude":1.26667}}(window,'GeoPostal','GB');

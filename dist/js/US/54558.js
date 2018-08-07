@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54558"]={"code":"54558","region":"Wisconsin","city":"Saint Germain","latitude":45.92917,"longitude":-89.48694}}(window,'GeoPostal','US');

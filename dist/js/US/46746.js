@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46746"]={"code":"46746","region":"Indiana","city":"Howe","latitude":41.71686,"longitude":-85.41384}}(window,'GeoPostal','US');

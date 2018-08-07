@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05640"]={"code":"05640","region":"Vermont","city":"Adamant","latitude":44.3574,"longitude":-72.5081}}(window,'GeoPostal','US');

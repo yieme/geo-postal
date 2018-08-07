@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54414"]={"code":"54414","region":"WI","city":"Birnamwood","latitude":44.9269,"longitude":-89.2124}}(window,'GeoPostal','US');

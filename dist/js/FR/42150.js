@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42150"]={"code":"42150","region":"Auvergne-Rhone-Alpes","city":"La Ricamarie","latitude":45.41684,"longitude":4.31199}}(window,'GeoPostal','FR');

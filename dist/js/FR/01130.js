@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01130"]={"code":"01130","region":"Auvergne-Rhone-Alpes","city":"Les Neyrolles","latitude":46.1425,"longitude":5.6342}}(window,'GeoPostal','FR');

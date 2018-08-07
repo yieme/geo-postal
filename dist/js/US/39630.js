@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39630"]={"code":"39630","region":"Mississippi","city":"Bude","latitude":31.46268,"longitude":-90.85002}}(window,'GeoPostal','US');

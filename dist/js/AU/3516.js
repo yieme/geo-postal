@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3516"]={"code":"3516","region":"Victoria","city":"Leichardt","latitude":-36.68333,"longitude":144.06667}}(window,'GeoPostal','AU');

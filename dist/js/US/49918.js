@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49918"]={"code":"49918","region":"Michigan","city":"Copper Harbor","latitude":47.46882,"longitude":-87.8883}}(window,'GeoPostal','US');

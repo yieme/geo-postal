@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 9DU"]={"code":"YO25 9DU","region":"England","city":"Kirkburn","latitude":53.98335,"longitude":-0.50397}}(window,'GeoPostal','GB');

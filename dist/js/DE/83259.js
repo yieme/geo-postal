@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83259"]={"code":"83259","region":"Bayern","city":"Ettenhausen","latitude":47.7098,"longitude":12.38544}}(window,'GeoPostal','DE');

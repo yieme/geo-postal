@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2980"]={"code":"2980","region":"Hovedstaden","city":"Kokkedal","latitude":55.91179,"longitude":12.49952}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32110"]={"code":"32110","region":"Occitanie","city":"Nogaro","latitude":43.75856,"longitude":-0.03293}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34730"]={"code":"34730","region":"Occitanie","city":"Prades-le-Lez","latitude":43.69754,"longitude":3.86463}}(window,'GeoPostal','FR');

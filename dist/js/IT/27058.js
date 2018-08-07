@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27058"]={"code":"27058","region":"Lombardia","city":"Voghera","latitude":44.99467,"longitude":9.00862}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48176"]={"code":"48176","region":"Michigan","city":"Saline","latitude":42.166031,"longitude":-83.789361}}(window,'GeoPostal','US');

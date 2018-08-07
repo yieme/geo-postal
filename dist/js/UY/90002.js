@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90002"]={"code":"90002","region":"Canelones","city":"San Antonio","latitude":-34.44972,"longitude":-56.07917}}(window,'GeoPostal','UY');

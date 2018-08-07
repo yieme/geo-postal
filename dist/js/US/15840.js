@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15840"]={"code":"15840","region":"Pennsylvania","city":"Falls Creek","latitude":41.14506,"longitude":-78.80447}}(window,'GeoPostal','US');

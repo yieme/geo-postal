@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46373"]={"code":"46373","region":"Indiana","city":"Saint John","latitude":41.451372,"longitude":-87.475138}}(window,'GeoPostal','US');

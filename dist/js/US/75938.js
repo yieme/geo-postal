@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75938"]={"code":"75938","region":"Texas","city":"Colmesneil","latitude":30.90833,"longitude":-94.42361}}(window,'GeoPostal','US');

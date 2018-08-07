@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24095"]={"code":"24095","region":"VA","city":"Goodview","latitude":37.2123,"longitude":-79.7429}}(window,'GeoPostal','US');

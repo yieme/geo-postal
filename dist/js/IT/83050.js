@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83050"]={"code":"83050","region":"Campania","city":"Scampitella","latitude":41.09252,"longitude":15.29995}}(window,'GeoPostal','IT');

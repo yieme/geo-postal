@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49740"]={"code":"49740","region":"MI","city":"Harbor Springs","latitude":45.5251,"longitude":-85.0062}}(window,'GeoPostal','US');

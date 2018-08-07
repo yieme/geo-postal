@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35045"]={"code":"35045","region":"Alabama","city":"Clanton","latitude":32.841767,"longitude":-86.632889}}(window,'GeoPostal','US');

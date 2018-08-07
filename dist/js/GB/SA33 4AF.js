@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 4AF"]={"code":"SA33 4AF","region":"Wales","city":"Saint Clears","latitude":51.81989,"longitude":-4.49783}}(window,'GeoPostal','GB');

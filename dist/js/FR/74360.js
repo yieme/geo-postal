@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74360"]={"code":"74360","region":"Auvergne-Rhone-Alpes","city":"Abondance","latitude":46.28031,"longitude":6.72026}}(window,'GeoPostal','FR');

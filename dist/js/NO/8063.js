@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8063"]={"code":"8063","region":"Nordland","city":"Sorland","latitude":67.66696,"longitude":12.69343}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717316"]={"code":"717316","region":"Suceava","city":"Radauti","latitude":48.23333,"longitude":26.8}}(window,'GeoPostal','RO');

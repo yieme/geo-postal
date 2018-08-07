@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22082"]={"code":"22082","region":"VA","city":"Merrifield","latitude":38.8743,"longitude":-77.2269}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74970"]={"code":"74970","region":"Auvergne-Rhone-Alpes","city":"Marignier","latitude":46.09014,"longitude":6.50004}}(window,'GeoPostal','FR');

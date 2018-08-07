@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99349"]={"code":"99349","region":"Washington","city":"Mattawa","latitude":46.73791,"longitude":-119.90282}}(window,'GeoPostal','US');

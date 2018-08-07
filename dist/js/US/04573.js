@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04573"]={"code":"04573","region":"ME","city":"Walpole","latitude":43.9462,"longitude":-69.5516}}(window,'GeoPostal','US');

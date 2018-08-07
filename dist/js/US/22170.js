@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22170"]={"code":"22170","region":"Virginia","city":"Sterling","latitude":39.0215,"longitude":-77.3986}}(window,'GeoPostal','US');

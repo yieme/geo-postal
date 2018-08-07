@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3439"]={"code":"3439","region":"Utrecht","city":"Nieuwegein","latitude":52.02917,"longitude":5.08056}}(window,'GeoPostal','NL');

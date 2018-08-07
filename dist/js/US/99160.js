@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99160"]={"code":"99160","region":"Washington","city":"Orient","latitude":48.866111,"longitude":-118.201667}}(window,'GeoPostal','US');

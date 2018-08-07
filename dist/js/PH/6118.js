@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6118"]={"code":"6118","region":"Negros Occidental","city":"Saravia","latitude":10.87754,"longitude":122.9677}}(window,'GeoPostal','PH');

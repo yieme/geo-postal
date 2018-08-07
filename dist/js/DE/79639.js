@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79639"]={"code":"79639","region":"Baden-Wurttemberg","city":"Grenzach-Wyhlen","latitude":47.55,"longitude":7.68333}}(window,'GeoPostal','DE');

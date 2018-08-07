@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35042"]={"code":"35042","region":"AL","city":"Centreville","latitude":32.9503,"longitude":-87.1192}}(window,'GeoPostal','US');

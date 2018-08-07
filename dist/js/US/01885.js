@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01885"]={"code":"01885","region":"MA","city":"West Boxford","latitude":42.707,"longitude":-71.0639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18601"]={"code":"18601","region":"PA","city":"Beach Haven","latitude":41.0684,"longitude":-76.1758}}(window,'GeoPostal','US');

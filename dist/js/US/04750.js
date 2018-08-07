@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04750"]={"code":"04750","region":"Maine","city":"Limestone","latitude":46.90866,"longitude":-67.82585}}(window,'GeoPostal','US');

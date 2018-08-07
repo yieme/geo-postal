@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06904"]={"code":"06904","region":"Connecticut","city":"Stamford","latitude":41.05371,"longitude":-73.53904}}(window,'GeoPostal','US');

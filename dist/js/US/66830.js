@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66830"]={"code":"66830","region":"KS","city":"Admire","latitude":38.6393,"longitude":-96.1017}}(window,'GeoPostal','US');

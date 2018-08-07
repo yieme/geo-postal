@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66642"]={"code":"66642","region":"KS","city":"Cancer Fund Of Amer Brm","latitude":39.06,"longitude":-95.66}}(window,'GeoPostal','US');

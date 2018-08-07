@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31275"]={"code":"31275","region":"Niedersachsen","city":"Lehrte","latitude":52.37539,"longitude":9.97155}}(window,'GeoPostal','DE');

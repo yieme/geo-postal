@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR11 5AN"]={"code":"TR11 5AN","region":"England","city":"Constantine","latitude":50.1189,"longitude":-5.17595}}(window,'GeoPostal','GB');

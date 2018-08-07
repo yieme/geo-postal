@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49233"]={"code":"49233","region":"MI","city":"Cement City","latitude":42.0604,"longitude":-84.3254}}(window,'GeoPostal','US');

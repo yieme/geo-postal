@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1Y0"]={"code":"J0J 1Y0","region":"Quebec","city":"Saint-Ignace-de-Stanbridge","latitude":45.16678,"longitude":-72.94914}}(window,'GeoPostal','CA');

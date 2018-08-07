@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9810000"]={"code":"9810000","region":"Region Metropolitana de Santiago","city":"El Monte","latitude":-33.68333,"longitude":-71.01667}}(window,'GeoPostal','CL');

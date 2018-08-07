@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3850"]={"code":"3850","region":"Limburg","city":"Nieuwerkerken","latitude":50.8638,"longitude":5.19467}}(window,'GeoPostal','BE');

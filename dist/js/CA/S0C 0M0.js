@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 0M0"]={"code":"S0C 0M0","region":"Saskatchewan","city":"Bienfait","latitude":49.15007,"longitude":-102.81761}}(window,'GeoPostal','CA');

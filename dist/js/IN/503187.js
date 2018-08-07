@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503187"]={"code":"503187","region":"Telangana","city":"Banswada","latitude":18.38333,"longitude":77.88333}}(window,'GeoPostal','IN');

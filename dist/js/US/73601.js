@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73601"]={"code":"73601","region":"Oklahoma","city":"Clinton","latitude":35.51561,"longitude":-98.96731}}(window,'GeoPostal','US');

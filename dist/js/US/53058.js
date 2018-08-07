@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53058"]={"code":"53058","region":"Wisconsin","city":"Nashotah","latitude":43.111694,"longitude":-88.403603}}(window,'GeoPostal','US');

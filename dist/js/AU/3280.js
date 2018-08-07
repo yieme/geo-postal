@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3280"]={"code":"3280","region":"Victoria","city":"Warrnambool","latitude":-38.38176,"longitude":142.48799}}(window,'GeoPostal','AU');

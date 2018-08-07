@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353676"]={"code":"353676","region":"Krasnodarskiy kray","city":"Shirochanka","latitude":46.64968,"longitude":38.39782}}(window,'GeoPostal','RU');

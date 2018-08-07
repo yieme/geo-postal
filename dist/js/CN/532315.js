@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532315"]={"code":"532315","region":"Guangxi","city":"Taocheng","latitude":22.87936,"longitude":107.15648}}(window,'GeoPostal','CN');

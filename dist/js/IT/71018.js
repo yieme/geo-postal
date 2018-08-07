@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71018"]={"code":"71018","region":"Puglia","city":"Vico del Gargano","latitude":41.89834,"longitude":15.95755}}(window,'GeoPostal','IT');

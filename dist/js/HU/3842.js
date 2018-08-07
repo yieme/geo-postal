@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3842"]={"code":"3842","region":"Borsod-Abauj-Zemplen","city":"Halmaj","latitude":48.25,"longitude":21}}(window,'GeoPostal','HU');

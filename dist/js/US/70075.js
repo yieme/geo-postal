@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70075"]={"code":"70075","region":"LA","city":"Meraux","latitude":29.9335,"longitude":-89.9214}}(window,'GeoPostal','US');

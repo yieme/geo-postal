@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-053"]={"code":"36-053","region":"Podkarpackie","city":"Kamien","latitude":50.34064,"longitude":22.13539}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86045"]={"code":"86045","region":"Arizona","city":"Tuba City","latitude":36.13499,"longitude":-111.23986}}(window,'GeoPostal','US');

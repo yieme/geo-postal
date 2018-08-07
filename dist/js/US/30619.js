@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30619"]={"code":"30619","region":"GA","city":"Arnoldsville","latitude":33.8803,"longitude":-83.2341}}(window,'GeoPostal','US');

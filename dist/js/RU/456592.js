@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456592"]={"code":"456592","region":"Chelyabinskaya oblast'","city":"Krasnogorskiy","latitude":54.6025,"longitude":61.231}}(window,'GeoPostal','RU');

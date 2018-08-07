@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35563"]={"code":"35563","region":"Alabama","city":"Guin","latitude":33.96566,"longitude":-87.91475}}(window,'GeoPostal','US');

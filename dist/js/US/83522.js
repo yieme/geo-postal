@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83522"]={"code":"83522","region":"Idaho","city":"Cottonwood","latitude":46.05222,"longitude":-116.35056}}(window,'GeoPostal','US');

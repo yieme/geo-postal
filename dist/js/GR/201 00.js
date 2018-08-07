@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["201 00"]={"code":"201 00","region":"Peloponnisos","city":"Corinth","latitude":37.94068,"longitude":22.95734}}(window,'GeoPostal','GR');

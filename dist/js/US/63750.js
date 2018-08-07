@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63750"]={"code":"63750","region":"MO","city":"Gipsy","latitude":37.147,"longitude":-90.1795}}(window,'GeoPostal','US');

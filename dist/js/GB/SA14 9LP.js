@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 9LP"]={"code":"SA14 9LP","region":"Wales","city":"Bynea","latitude":51.67396,"longitude":-4.10325}}(window,'GeoPostal','GB');

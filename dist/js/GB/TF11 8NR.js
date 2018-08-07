@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF11 8NR"]={"code":"TF11 8NR","region":"England","city":"Blymhill","latitude":52.70851,"longitude":-2.28141}}(window,'GeoPostal','GB');

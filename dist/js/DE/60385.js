@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60385"]={"code":"60385","region":"Hessen","city":"Bornheim","latitude":50.13135,"longitude":8.71251}}(window,'GeoPostal','DE');

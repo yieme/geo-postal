@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86507"]={"code":"86507","region":"AZ","city":"Lukachukai","latitude":36.4181,"longitude":-109.2446}}(window,'GeoPostal','US');

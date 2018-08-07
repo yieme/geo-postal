@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18147"]={"code":"18147","region":"Mecklenburg-Vorpommern","city":"Rostock","latitude":54.0887,"longitude":12.14049}}(window,'GeoPostal','DE');

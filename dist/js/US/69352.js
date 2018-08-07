@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69352"]={"code":"69352","region":"NE","city":"Lyman","latitude":41.8918,"longitude":-104.0066}}(window,'GeoPostal','US');

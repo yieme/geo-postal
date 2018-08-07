@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02542"]={"code":"02542","region":"MA","city":"Buzzards Bay","latitude":41.6531,"longitude":-70.5537}}(window,'GeoPostal','US');

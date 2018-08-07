@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45780"]={"code":"45780","region":"Castilla-La Mancha","city":"Tembleque","latitude":39.69541,"longitude":-3.50429}}(window,'GeoPostal','ES');

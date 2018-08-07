@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72390"]={"code":"72390","region":"Pays-de-la-Loire","city":"Le Luart","latitude":48.07053,"longitude":0.58564}}(window,'GeoPostal','FR');

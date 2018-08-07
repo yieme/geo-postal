@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 0Y0"]={"code":"S0N 0Y0","region":"Saskatchewan","city":"Golden Prairie","latitude":50.2168,"longitude":-109.63484}}(window,'GeoPostal','CA');

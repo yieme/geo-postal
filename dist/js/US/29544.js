@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29544"]={"code":"29544","region":"South Carolina","city":"Galivants Ferry","latitude":34.05639,"longitude":-79.24639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16641"]={"code":"16641","region":"PA","city":"Gallitzin","latitude":40.4823,"longitude":-78.5517}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20617"]={"code":"20617","region":"MD","city":"Bryantown","latitude":38.5426,"longitude":-76.8465}}(window,'GeoPostal','US');

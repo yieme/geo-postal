@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04700"]={"code":"04700","region":"Provence-Alpes-Cote d'Azur","city":"Oraison","latitude":43.91609,"longitude":5.91756}}(window,'GeoPostal','FR');

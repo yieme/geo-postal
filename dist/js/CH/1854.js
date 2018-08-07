@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1854"]={"code":"1854","region":"Vaud","city":"Leysin","latitude":46.34183,"longitude":7.01151}}(window,'GeoPostal','CH');

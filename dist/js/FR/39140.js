@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39140"]={"code":"39140","region":"Bourgogne-Franche-Comte","city":"Bletterans","latitude":46.74673,"longitude":5.45444}}(window,'GeoPostal','FR');

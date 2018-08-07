@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8310"]={"code":"8310","region":"Surigao del Sur","city":"Loyola","latitude":8.335,"longitude":126.33472}}(window,'GeoPostal','PH');

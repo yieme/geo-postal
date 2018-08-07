@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84562"]={"code":"84562","region":"Bayern","city":"Mettenheim","latitude":48.26667,"longitude":12.46667}}(window,'GeoPostal','DE');

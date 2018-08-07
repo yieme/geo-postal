@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01840"]={"code":"01840","region":"Massachusetts","city":"Lawrence","latitude":42.70704,"longitude":-71.16311}}(window,'GeoPostal','US');

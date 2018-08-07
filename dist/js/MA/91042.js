@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91042"]={"code":"91042","region":"Tanger-Tetouan","city":"Derdara","latitude":35.11041,"longitude":-5.29015}}(window,'GeoPostal','MA');

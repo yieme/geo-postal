@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65728-000"]={"code":"65728-000","region":"Maranhao","city":"Dom Pedro","latitude":-4.48333,"longitude":-44.45}}(window,'GeoPostal','BR');

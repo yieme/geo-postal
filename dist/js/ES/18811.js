@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18811"]={"code":"18811","region":"Andalucia","city":"Zujar","latitude":37.54285,"longitude":-2.84197}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49078"]={"code":"49078","region":"Michigan","city":"Otsego","latitude":42.46059,"longitude":-85.69641}}(window,'GeoPostal','US');

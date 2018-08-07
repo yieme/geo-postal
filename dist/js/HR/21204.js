@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21204"]={"code":"21204","region":"Splitsko-dalmatinska zupanija","city":"Dugopolje","latitude":43.58056,"longitude":16.60278}}(window,'GeoPostal','HR');

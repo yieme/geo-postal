@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68841"]={"code":"68841","region":"NE","city":"Giltner","latitude":40.7654,"longitude":-98.1434}}(window,'GeoPostal','US');

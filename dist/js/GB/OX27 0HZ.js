@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX27 0HZ"]={"code":"OX27 0HZ","region":"England","city":"Marsh Gibbon","latitude":51.90265,"longitude":-1.06115}}(window,'GeoPostal','GB');

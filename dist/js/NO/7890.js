@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7890"]={"code":"7890","region":"Nord-Trondelag","city":"Namsskogan","latitude":64.92886,"longitude":13.15954}}(window,'GeoPostal','NO');

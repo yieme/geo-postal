@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93730"]={"code":"93730","region":"Veracruz de Ignacio de la Llave","city":"Lerdo de Tejada","latitude":18.61667,"longitude":-95.51667}}(window,'GeoPostal','MX');

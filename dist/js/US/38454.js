@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38454"]={"code":"38454","region":"TN","city":"Duck River","latitude":35.748,"longitude":-87.3577}}(window,'GeoPostal','US');

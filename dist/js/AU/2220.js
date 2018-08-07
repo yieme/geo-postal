@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2220"]={"code":"2220","region":"New South Wales","city":"Hurstville","latitude":-33.966667,"longitude":151.1}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48160"]={"code":"48160","region":"Nakhon Phanom","city":"Pla Pak","latitude":17.18064,"longitude":104.52606}}(window,'GeoPostal','TH');

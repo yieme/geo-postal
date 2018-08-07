@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221 00"]={"code":"221 00","region":"Peloponnisos","city":"Tripolis","latitude":37.50889,"longitude":22.37944}}(window,'GeoPostal','GR');

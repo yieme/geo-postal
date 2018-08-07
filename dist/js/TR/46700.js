@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46700"]={"code":"46700","region":"Kahramanmaras","city":"Pazarcik","latitude":37.48685,"longitude":37.29961}}(window,'GeoPostal','TR');

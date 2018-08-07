@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS29 6NH"]={"code":"TS29 6NH","region":"England","city":"Trimdon Station","latitude":54.70107,"longitude":-1.40908}}(window,'GeoPostal','GB');

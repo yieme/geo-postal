@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6460"]={"code":"6460","region":"Tirol","city":"Imst","latitude":47.24504,"longitude":10.73974}}(window,'GeoPostal','AT');

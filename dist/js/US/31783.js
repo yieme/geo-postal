@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31783"]={"code":"31783","region":"GA","city":"Rebecca","latitude":31.7979,"longitude":-83.5235}}(window,'GeoPostal','US');

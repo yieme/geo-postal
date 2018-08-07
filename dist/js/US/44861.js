@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44861"]={"code":"44861","region":"OH","city":"Old Fort","latitude":41.2395,"longitude":-83.1479}}(window,'GeoPostal','US');

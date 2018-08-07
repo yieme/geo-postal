@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59251"]={"code":"59251","region":"Hauts-de-France","city":"Allennes-les-Marais","latitude":50.53754,"longitude":2.95361}}(window,'GeoPostal','FR');

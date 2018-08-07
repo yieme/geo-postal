@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47031"]={"code":"47031","region":"Indiana","city":"Milan","latitude":39.12117,"longitude":-85.13135}}(window,'GeoPostal','US');

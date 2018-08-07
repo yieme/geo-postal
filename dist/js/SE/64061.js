@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64061"]={"code":"64061","region":"Sodermanlands lan","city":"Stallarholmen","latitude":59.36667,"longitude":17.2}}(window,'GeoPostal','SE');

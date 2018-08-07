@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66180"]={"code":"66180","region":"Occitanie","city":"Villeneuve-de-la-Raho","latitude":42.63596,"longitude":2.91651}}(window,'GeoPostal','FR');

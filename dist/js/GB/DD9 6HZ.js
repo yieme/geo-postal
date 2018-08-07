@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 6HZ"]={"code":"DD9 6HZ","region":"Scotland","city":"Brechin","latitude":56.72993,"longitude":-2.65729}}(window,'GeoPostal','GB');

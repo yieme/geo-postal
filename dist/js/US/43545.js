@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43545"]={"code":"43545","region":"Ohio","city":"Napoleon","latitude":41.39227,"longitude":-84.12522}}(window,'GeoPostal','US');

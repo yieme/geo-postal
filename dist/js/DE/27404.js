@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27404"]={"code":"27404","region":"Niedersachsen","city":"Godenstedt","latitude":53.32616,"longitude":9.22182}}(window,'GeoPostal','DE');

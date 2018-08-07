@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N22 8HF"]={"code":"N22 8HF","region":"England","city":"Wood Green","latitude":51.6,"longitude":-0.11667}}(window,'GeoPostal','GB');

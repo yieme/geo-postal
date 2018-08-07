@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325509"]={"code":"325509","region":"Zhejiang","city":"Menlou'ao","latitude":27.43363,"longitude":119.87482}}(window,'GeoPostal','CN');

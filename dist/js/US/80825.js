@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80825"]={"code":"80825","region":"CO","city":"Kit Carson","latitude":38.804,"longitude":-102.8198}}(window,'GeoPostal','US');

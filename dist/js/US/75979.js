@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75979"]={"code":"75979","region":"Texas","city":"Woodville","latitude":30.7752,"longitude":-94.41548}}(window,'GeoPostal','US');

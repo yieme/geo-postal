@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02345"]={"code":"02345","region":"Massachusetts","city":"Plymouth","latitude":41.95844,"longitude":-70.66726}}(window,'GeoPostal','US');

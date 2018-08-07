@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 1A0"]={"code":"S0L 1A0","region":"Saskatchewan","city":"Eston","latitude":51.1501,"longitude":-108.75144}}(window,'GeoPostal','CA');

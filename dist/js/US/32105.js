@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32105"]={"code":"32105","region":"FL","city":"Barberville","latitude":29.2005,"longitude":-81.4065}}(window,'GeoPostal','US');

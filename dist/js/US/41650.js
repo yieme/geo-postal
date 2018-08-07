@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41650"]={"code":"41650","region":"Kentucky","city":"Melvin","latitude":37.350278,"longitude":-82.694167}}(window,'GeoPostal','US');

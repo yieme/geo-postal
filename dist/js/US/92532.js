@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92532"]={"code":"92532","region":"CA","city":"Lake Elsinore","latitude":33.6927,"longitude":-117.303}}(window,'GeoPostal','US');

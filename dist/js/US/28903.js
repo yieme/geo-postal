@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28903"]={"code":"28903","region":"North Carolina","city":"Culberson","latitude":34.991667,"longitude":-84.167778}}(window,'GeoPostal','US');

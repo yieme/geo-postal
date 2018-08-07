@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33493"]={"code":"33493","region":"Florida","city":"South Bay","latitude":26.66396,"longitude":-80.71617}}(window,'GeoPostal','US');

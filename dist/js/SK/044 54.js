@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["044 54"]={"code":"044 54","region":"Kosicky kraj","city":"Kosice","latitude":48.71395,"longitude":21.25808}}(window,'GeoPostal','SK');

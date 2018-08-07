@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18602"]={"code":"18602","region":"PA","city":"Bear Creek","latitude":41.1922,"longitude":-75.7161}}(window,'GeoPostal','US');

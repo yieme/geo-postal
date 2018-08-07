@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05827"]={"code":"05827","region":"Vermont","city":"Craftsbury Common","latitude":44.65,"longitude":-72.383333}}(window,'GeoPostal','US');

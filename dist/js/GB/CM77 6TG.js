@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM77 6TG"]={"code":"CM77 6TG","region":"England","city":"Braintree","latitude":51.87819,"longitude":0.55292}}(window,'GeoPostal','GB');

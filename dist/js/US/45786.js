@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45786"]={"code":"45786","region":"Ohio","city":"Waterford","latitude":39.514895,"longitude":-81.66466}}(window,'GeoPostal','US');

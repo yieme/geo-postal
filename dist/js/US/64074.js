@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64074"]={"code":"64074","region":"MO","city":"Napoleon","latitude":39.114,"longitude":-94.0709}}(window,'GeoPostal','US');

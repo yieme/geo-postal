@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11969"]={"code":"11969","region":"New York","city":"Southampton","latitude":40.968748,"longitude":-72.357782}}(window,'GeoPostal','US');

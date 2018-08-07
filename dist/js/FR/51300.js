@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51300"]={"code":"51300","region":"Grand-Est","city":"Frignicourt","latitude":48.69966,"longitude":4.59153}}(window,'GeoPostal','FR');

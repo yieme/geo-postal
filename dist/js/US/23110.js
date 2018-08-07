@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23110"]={"code":"23110","region":"Virginia","city":"Mattaponi","latitude":37.535,"longitude":-76.77278}}(window,'GeoPostal','US');

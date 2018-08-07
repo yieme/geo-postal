@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14700-000"]={"code":"14700-000","region":"Sao Paulo","city":"Bebedouro","latitude":-20.94944,"longitude":-48.47917}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-586"]={"code":"62-586","region":"Wielkopolskie","city":"Rzgow Pierwszy","latitude":52.15134,"longitude":18.04976}}(window,'GeoPostal','PL');

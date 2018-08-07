@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29688"]={"code":"29688","region":"SC","city":"Tigerville","latitude":35.0477,"longitude":-82.353}}(window,'GeoPostal','US');

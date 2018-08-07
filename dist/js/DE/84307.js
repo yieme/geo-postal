@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84307"]={"code":"84307","region":"Bayern","city":"Eggenfelden","latitude":48.40539,"longitude":12.76264}}(window,'GeoPostal','DE');

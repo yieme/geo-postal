@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27824"]={"code":"27824","region":"NC","city":"Engelhard","latitude":35.5149,"longitude":-76.0303}}(window,'GeoPostal','US');

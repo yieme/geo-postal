@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 2H0"]={"code":"G0W 2H0","region":"Quebec","city":"Mashteuiatsh","latitude":48.57604,"longitude":-72.22944}}(window,'GeoPostal','CA');

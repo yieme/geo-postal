@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42330"]={"code":"42330","region":"Auvergne-Rhone-Alpes","city":"Saint-Medard-en-Forez","latitude":45.5986,"longitude":4.3628}}(window,'GeoPostal','FR');

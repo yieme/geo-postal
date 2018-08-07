@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347219"]={"code":"347219","region":"Rostovskaya oblast'","city":"Morozovsk","latitude":48.35502,"longitude":41.82627}}(window,'GeoPostal','RU');

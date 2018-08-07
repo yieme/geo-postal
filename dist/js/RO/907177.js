@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907177"]={"code":"907177","region":"Constanta","city":"Mihail Kogalniceanu","latitude":44.36667,"longitude":28.45}}(window,'GeoPostal','RO');

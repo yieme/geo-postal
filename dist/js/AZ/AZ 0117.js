@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0117"]={"code":"AZ 0117","region":"Abseron","city":"Qobu","latitude":40.40472,"longitude":49.71306}}(window,'GeoPostal','AZ');

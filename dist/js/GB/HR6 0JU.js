@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0JU"]={"code":"HR6 0JU","region":"England","city":"Birley","latitude":52.18333,"longitude":-2.8}}(window,'GeoPostal','GB');

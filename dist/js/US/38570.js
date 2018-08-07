@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38570"]={"code":"38570","region":"Tennessee","city":"Livingston","latitude":36.3834,"longitude":-85.32302}}(window,'GeoPostal','US');

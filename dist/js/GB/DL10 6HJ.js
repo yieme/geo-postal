@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL10 6HJ"]={"code":"DL10 6HJ","region":"England","city":"Newton Morrell","latitude":54.47906,"longitude":-1.63387}}(window,'GeoPostal','GB');

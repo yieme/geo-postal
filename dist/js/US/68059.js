@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68059"]={"code":"68059","region":"Nebraska","city":"Springfield","latitude":41.08194,"longitude":-96.13446}}(window,'GeoPostal','US');

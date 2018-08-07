@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37431"]={"code":"37431","region":"Niedersachsen","city":"Barbis","latitude":51.61374,"longitude":10.42318}}(window,'GeoPostal','DE');

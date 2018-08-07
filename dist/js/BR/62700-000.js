@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62700-000"]={"code":"62700-000","region":"Ceara","city":"Caninde","latitude":-4.35889,"longitude":-39.31167}}(window,'GeoPostal','BR');

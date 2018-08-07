@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65760-000"]={"code":"65760-000","region":"Maranhao","city":"Presidente Dutra","latitude":-5.29,"longitude":-44.49}}(window,'GeoPostal','BR');

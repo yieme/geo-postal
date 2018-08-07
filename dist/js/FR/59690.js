@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59690"]={"code":"59690","region":"Hauts-de-France","city":"Vieux-Conde","latitude":50.45944,"longitude":3.56738}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90202"]={"code":"90202","region":"CA","city":"Bell","latitude":33.9775,"longitude":-118.187}}(window,'GeoPostal','US');

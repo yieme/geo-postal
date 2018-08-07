@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22246"]={"code":"22246","region":"Sremski okrug","city":"Visnjicevo","latitude":44.96583,"longitude":19.29}}(window,'GeoPostal','RS');

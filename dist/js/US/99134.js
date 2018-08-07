@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99134"]={"code":"99134","region":"Washington","city":"Harrington","latitude":47.48028,"longitude":-118.25556}}(window,'GeoPostal','US');

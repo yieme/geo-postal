@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69250"]={"code":"69250","region":"Auvergne-Rhone-Alpes","city":"Montanay","latitude":45.87818,"longitude":4.86302}}(window,'GeoPostal','FR');

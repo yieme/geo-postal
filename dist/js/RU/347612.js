@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347612"]={"code":"347612","region":"Rostovskaya oblast'","city":"Sandata","latitude":46.27081,"longitude":41.75834}}(window,'GeoPostal','RU');

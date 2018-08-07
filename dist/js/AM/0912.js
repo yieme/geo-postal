@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0912"]={"code":"0912","region":"Sirak","city":"Amasia","latitude":40.95442,"longitude":43.7872}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA1551"]={"code":"PA1551","region":"Temburong","city":"Bangar","latitude":4.71667,"longitude":115.06667}}(window,'GeoPostal','BN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA15 1LF"]={"code":"KA15 1LF","region":"Scotland","city":"Burnhouse","latitude":55.7186,"longitude":-4.57486}}(window,'GeoPostal','GB');

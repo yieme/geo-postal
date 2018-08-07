@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54529"]={"code":"54529","region":"Wisconsin","city":"Harshaw","latitude":45.67302,"longitude":-89.67156}}(window,'GeoPostal','US');

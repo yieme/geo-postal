@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42402"]={"code":"42402","region":"KY","city":"Baskett","latitude":37.8709,"longitude":-87.4625}}(window,'GeoPostal','US');

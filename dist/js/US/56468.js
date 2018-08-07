@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56468"]={"code":"56468","region":"Minnesota","city":"Nisswa","latitude":46.52052,"longitude":-94.28861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03882"]={"code":"03882","region":"NH","city":"Effingham","latitude":43.7012,"longitude":-70.9834}}(window,'GeoPostal','US');

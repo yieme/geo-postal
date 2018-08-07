@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827010"]={"code":"827010","region":"Tulcea","city":"Beidaud","latitude":44.71667,"longitude":28.56667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89832"]={"code":"89832","region":"Calabria","city":"Arena","latitude":38.56278,"longitude":16.2099}}(window,'GeoPostal','IT');

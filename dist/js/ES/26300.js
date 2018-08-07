@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26300"]={"code":"26300","region":"La Rioja","city":"Najera","latitude":42.41822,"longitude":-2.72865}}(window,'GeoPostal','ES');

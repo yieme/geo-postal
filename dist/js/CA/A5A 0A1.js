@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A5A 0A1"]={"code":"A5A 0A1","region":"Newfoundland and Labrador","city":"Clarenville","latitude":48.1666,"longitude":-53.96482}}(window,'GeoPostal','CA');

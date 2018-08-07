@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17252"]={"code":"17252","region":"Catalunya","city":"Calonge","latitude":41.85869,"longitude":3.07926}}(window,'GeoPostal','ES');

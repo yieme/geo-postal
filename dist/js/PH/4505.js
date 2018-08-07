@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4505"]={"code":"4505","region":"Albay","city":"Ligao","latitude":13.24028,"longitude":123.5325}}(window,'GeoPostal','PH');

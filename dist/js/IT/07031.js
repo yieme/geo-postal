@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07031"]={"code":"07031","region":"Sardegna","city":"Castelsardo","latitude":40.91528,"longitude":8.71028}}(window,'GeoPostal','IT');

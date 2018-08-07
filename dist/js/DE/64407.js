@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64407"]={"code":"64407","region":"Hessen","city":"Ober-Kainsbach","latitude":49.72452,"longitude":8.90186}}(window,'GeoPostal','DE');

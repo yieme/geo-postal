@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81131"]={"code":"81131","region":"Colorado","city":"Crestone","latitude":37.99632,"longitude":-105.69912}}(window,'GeoPostal','US');

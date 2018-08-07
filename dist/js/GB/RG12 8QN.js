@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG12 8QN"]={"code":"RG12 8QN","region":"England","city":"Great Hollands","latitude":51.39856,"longitude":-0.77122}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45832"]={"code":"45832","region":"Ohio","city":"Convoy","latitude":40.91672,"longitude":-84.70274}}(window,'GeoPostal','US');

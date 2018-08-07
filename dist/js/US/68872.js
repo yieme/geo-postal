@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68872"]={"code":"68872","region":"NE","city":"Saint Libory","latitude":41.0867,"longitude":-98.3589}}(window,'GeoPostal','US');

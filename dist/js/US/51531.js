@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51531"]={"code":"51531","region":"Iowa","city":"Elk Horn","latitude":41.592844,"longitude":-95.061972}}(window,'GeoPostal','US');

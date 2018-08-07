@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31603"]={"code":"31603","region":"Niedersachsen","city":"Buschort","latitude":52.45472,"longitude":8.75544}}(window,'GeoPostal','DE');

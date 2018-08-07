@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92799"]={"code":"92799","region":"California","city":"Santa Ana","latitude":33.71969,"longitude":-117.90879}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03822"]={"code":"03822","region":"NH","city":"Dover","latitude":43.1979,"longitude":-70.8737}}(window,'GeoPostal','US');

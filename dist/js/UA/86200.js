@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86200"]={"code":"86200","region":"Donetska oblast","city":"Shakhtersk","latitude":48.06252,"longitude":38.51665}}(window,'GeoPostal','UA');

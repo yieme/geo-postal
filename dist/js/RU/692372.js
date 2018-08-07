@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692372"]={"code":"692372","region":"Primorskiy kray","city":"Chernigovka","latitude":44.33889,"longitude":132.57278}}(window,'GeoPostal','RU');

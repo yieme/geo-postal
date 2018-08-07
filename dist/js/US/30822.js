@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30822"]={"code":"30822","region":"GA","city":"Perkins","latitude":32.9129,"longitude":-81.8538}}(window,'GeoPostal','US');

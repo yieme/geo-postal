@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45024"]={"code":"45024","region":"Veneto","city":"Fiesso Umbertiano","latitude":44.96258,"longitude":11.60541}}(window,'GeoPostal','IT');

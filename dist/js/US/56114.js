@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56114"]={"code":"56114","region":"MN","city":"Avoca","latitude":43.9706,"longitude":-95.6002}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68871"]={"code":"68871","region":"Nebraska","city":"Rockville","latitude":41.116393,"longitude":-98.858163}}(window,'GeoPostal','US');

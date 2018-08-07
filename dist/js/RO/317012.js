@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317012"]={"code":"317012","region":"Arad","city":"Apateu","latitude":46.61667,"longitude":21.78333}}(window,'GeoPostal','RO');

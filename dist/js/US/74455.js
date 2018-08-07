@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74455"]={"code":"74455","region":"Oklahoma","city":"Porum","latitude":35.36674,"longitude":-95.248713}}(window,'GeoPostal','US');

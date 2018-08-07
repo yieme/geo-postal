@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1742"]={"code":"1742","region":"Vlaams-Brabant","city":"Ternat","latitude":50.86654,"longitude":4.16682}}(window,'GeoPostal','BE');

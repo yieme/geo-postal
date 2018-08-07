@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["053 01"]={"code":"053 01","region":"Kosicky kraj","city":"Spisska Nova Ves","latitude":48.94464,"longitude":20.56154}}(window,'GeoPostal','SK');

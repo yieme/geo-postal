@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK14 7LW"]={"code":"FK14 7LW","region":"Scotland","city":"Powmill","latitude":56.16554,"longitude":-3.58001}}(window,'GeoPostal','GB');

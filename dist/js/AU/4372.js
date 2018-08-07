@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4372"]={"code":"4372","region":"Queensland","city":"Grayson","latitude":-28.3,"longitude":152.26667}}(window,'GeoPostal','AU');

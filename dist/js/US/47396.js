@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47396"]={"code":"47396","region":"IN","city":"Yorktown","latitude":40.1836,"longitude":-85.496}}(window,'GeoPostal','US');

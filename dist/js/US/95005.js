@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95005"]={"code":"95005","region":"California","city":"Ben Lomond","latitude":37.085982,"longitude":-122.084745}}(window,'GeoPostal','US');

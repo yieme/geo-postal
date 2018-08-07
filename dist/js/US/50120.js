@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50120"]={"code":"50120","region":"IA","city":"Haverhill","latitude":41.9337,"longitude":-92.9829}}(window,'GeoPostal','US');

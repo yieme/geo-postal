@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49282"]={"code":"49282","region":"MI","city":"Somerset Center","latitude":42.0388,"longitude":-84.406}}(window,'GeoPostal','US');

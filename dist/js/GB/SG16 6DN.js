@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG16 6DN"]={"code":"SG16 6DN","region":"England","city":"Henlow","latitude":52.03021,"longitude":-0.28599}}(window,'GeoPostal','GB');

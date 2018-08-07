@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6675"]={"code":"6675","region":"Ticino","city":"Cevio","latitude":46.31608,"longitude":8.60131}}(window,'GeoPostal','CH');

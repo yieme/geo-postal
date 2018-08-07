@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52079"]={"code":"52079","region":"IA","city":"Zwingle","latitude":42.2775,"longitude":-90.7507}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5403"]={"code":"5403","region":"San Juan","city":"Calingasta","latitude":-31.33084,"longitude":-69.40783}}(window,'GeoPostal','AR');

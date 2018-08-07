@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92659"]={"code":"92659","region":"CA","city":"Newport Beach","latitude":33.6222,"longitude":-117.9235}}(window,'GeoPostal','US');

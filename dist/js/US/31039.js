@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31039"]={"code":"31039","region":"GA","city":"Howard","latitude":32.596,"longitude":-84.3844}}(window,'GeoPostal','US');

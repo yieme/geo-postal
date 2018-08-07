@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39310"]={"code":"39310","region":"Cantabria","city":"Miengo","latitude":43.42861,"longitude":-3.99866}}(window,'GeoPostal','ES');

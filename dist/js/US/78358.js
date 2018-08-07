@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78358"]={"code":"78358","region":"TX","city":"Fulton","latitude":28.0614,"longitude":-97.0411}}(window,'GeoPostal','US');

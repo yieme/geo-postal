@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K9A 4L1"]={"code":"K9A 4L1","region":"Ontario","city":"Cobourg","latitude":43.959218,"longitude":-78.16311}}(window,'GeoPostal','CA');

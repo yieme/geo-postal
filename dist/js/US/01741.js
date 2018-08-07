@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01741"]={"code":"01741","region":"Massachusetts","city":"Carlisle","latitude":42.528798,"longitude":-71.34907}}(window,'GeoPostal','US');

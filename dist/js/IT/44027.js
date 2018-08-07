@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44027"]={"code":"44027","region":"Emilia-Romagna","city":"Migliarino","latitude":44.76988,"longitude":11.93372}}(window,'GeoPostal','IT');

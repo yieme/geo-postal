@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663147"]={"code":"663147","region":"Krasnoyarskiy kray","city":"Lesosibirsk","latitude":58.23583,"longitude":92.48278}}(window,'GeoPostal','RU');

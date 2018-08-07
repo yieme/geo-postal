@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26012"]={"code":"26012","region":"Ain Defla","city":"Theniet el Had","latitude":35.87111,"longitude":2.02806}}(window,'GeoPostal','DZ');

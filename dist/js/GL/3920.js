@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3920"]={"code":"3920","region":"Kommune Kujalleq","city":"Qaqortoq","latitude":60.71667,"longitude":-46.03333}}(window,'GeoPostal','GL');

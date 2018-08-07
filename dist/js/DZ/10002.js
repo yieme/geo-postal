@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10002"]={"code":"10002","region":"Bouira","city":"Lakhdaria","latitude":36.56463,"longitude":3.5933}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["756402"]={"code":"756402","region":"Ningxia","city":"Xingsheng","latitude":35.45,"longitude":106.33333}}(window,'GeoPostal','CN');

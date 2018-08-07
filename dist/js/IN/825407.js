@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["825407"]={"code":"825407","region":"Bihar","city":"Baruni","latitude":25.48333,"longitude":85.98333}}(window,'GeoPostal','IN');

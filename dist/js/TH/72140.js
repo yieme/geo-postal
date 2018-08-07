@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72140"]={"code":"72140","region":"Ang Thong","city":"Sam Ko","latitude":14.60735,"longitude":100.2186}}(window,'GeoPostal','TH');

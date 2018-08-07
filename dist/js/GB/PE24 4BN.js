@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE24 4BN"]={"code":"PE24 4BN","region":"England","city":"Wainfleet All Saints","latitude":53.1057,"longitude":0.23583}}(window,'GeoPostal','GB');

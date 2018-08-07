@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17810"]={"code":"17810","region":"Nouvelle-Aquitaine","city":"Nieul-les-Saintes","latitude":45.76021,"longitude":-0.73137}}(window,'GeoPostal','FR');

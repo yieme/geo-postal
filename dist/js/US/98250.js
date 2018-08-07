@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98250"]={"code":"98250","region":"Washington","city":"Friday Harbor","latitude":48.541016,"longitude":-123.065812}}(window,'GeoPostal','US');

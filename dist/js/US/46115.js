@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46115"]={"code":"46115","region":"IN","city":"Carthage","latitude":39.7466,"longitude":-85.5754}}(window,'GeoPostal','US');

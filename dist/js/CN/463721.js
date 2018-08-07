@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463721"]={"code":"463721","region":"Henan","city":"Magutian","latitude":32.67383,"longitude":113.47373}}(window,'GeoPostal','CN');

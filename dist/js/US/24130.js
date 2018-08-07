@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24130"]={"code":"24130","region":"VA","city":"Oriskany","latitude":37.6165,"longitude":-79.9837}}(window,'GeoPostal','US');

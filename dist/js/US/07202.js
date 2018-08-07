@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07202"]={"code":"07202","region":"New Jersey","city":"Elizabeth","latitude":40.6518,"longitude":-74.21718}}(window,'GeoPostal','US');

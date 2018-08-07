@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58068"]={"code":"58068","region":"North Dakota","city":"Sheldon","latitude":46.531167,"longitude":-97.412558}}(window,'GeoPostal','US');

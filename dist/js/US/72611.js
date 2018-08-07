@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72611"]={"code":"72611","region":"Arkansas","city":"Alpena","latitude":36.29361,"longitude":-93.29611}}(window,'GeoPostal','US');

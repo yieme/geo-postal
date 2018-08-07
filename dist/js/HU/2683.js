@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2683"]={"code":"2683","region":"Pest","city":"Acsa","latitude":47.79425,"longitude":19.38795}}(window,'GeoPostal','HU');

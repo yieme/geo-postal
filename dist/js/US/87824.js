@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87824"]={"code":"87824","region":"NM","city":"Luna","latitude":33.8189,"longitude":-108.9545}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61273"]={"code":"61273","region":"Hessen","city":"Wehrheim","latitude":50.3,"longitude":8.56667}}(window,'GeoPostal','DE');

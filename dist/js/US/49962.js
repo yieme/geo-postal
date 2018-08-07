@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49962"]={"code":"49962","region":"Michigan","city":"Skanee","latitude":46.86979,"longitude":-88.160742}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58370-000"]={"code":"58370-000","region":"Paraiba","city":"Salgado de Sao Felix","latitude":-7.35694,"longitude":-35.44056}}(window,'GeoPostal','BR');

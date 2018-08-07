@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59442"]={"code":"59442","region":"Montana","city":"Fort Benton","latitude":47.818763,"longitude":-110.668859}}(window,'GeoPostal','US');

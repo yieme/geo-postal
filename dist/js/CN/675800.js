@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675800"]={"code":"675800","region":"Yunnan","city":"Aihua","latitude":24.41667,"longitude":100.1}}(window,'GeoPostal','CN');

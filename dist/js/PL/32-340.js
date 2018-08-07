@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-340"]={"code":"32-340","region":"Malopolskie","city":"Wolbrom","latitude":50.37957,"longitude":19.75831}}(window,'GeoPostal','PL');

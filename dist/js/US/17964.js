@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17964"]={"code":"17964","region":"PA","city":"Pitman","latitude":40.7049,"longitude":-76.5233}}(window,'GeoPostal','US');

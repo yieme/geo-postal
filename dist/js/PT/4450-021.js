@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4450-021"]={"code":"4450-021","region":"Porto","city":"Matosinhos","latitude":41.18207,"longitude":-8.68908}}(window,'GeoPostal','PT');

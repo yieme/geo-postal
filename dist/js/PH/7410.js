@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7410"]={"code":"7410","region":"Palawan","city":"Baheli","latitude":9.996,"longitude":118.7857}}(window,'GeoPostal','PH');

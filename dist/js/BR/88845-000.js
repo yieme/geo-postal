@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88845-000"]={"code":"88845-000","region":"Santa Catarina","city":"Cocal","latitude":-28.61667,"longitude":-49.35}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12311"]={"code":"12311","region":"Sindh","city":"Karachi","latitude":24.9056,"longitude":67.0822}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76850"]={"code":"76850","region":"Pohjois-Savo","city":"Suonenjoki","latitude":62.61667,"longitude":27.13333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33313"]={"code":"33313","region":"Kepulauan Bangka Belitung","city":"Muntok","latitude":-2.06667,"longitude":105.18333}}(window,'GeoPostal','ID');

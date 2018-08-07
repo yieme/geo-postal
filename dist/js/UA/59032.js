@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59032"]={"code":"59032","region":"Chernivetska oblast","city":"Ropcha","latitude":48.11988,"longitude":25.77421}}(window,'GeoPostal','UA');

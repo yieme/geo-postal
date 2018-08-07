@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44074"]={"code":"44074","region":"Ohio","city":"Oberlin","latitude":41.2888,"longitude":-82.2345}}(window,'GeoPostal','US');

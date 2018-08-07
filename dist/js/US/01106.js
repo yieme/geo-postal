@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01106"]={"code":"01106","region":"Massachusetts","city":"Longmeadow","latitude":42.050213,"longitude":-72.567587}}(window,'GeoPostal','US');

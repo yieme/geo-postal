@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["829118"]={"code":"829118","region":"Jharkhand","city":"Ray","latitude":23.68333,"longitude":85.05}}(window,'GeoPostal','IN');

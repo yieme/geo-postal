@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-100"]={"code":"72-100","region":"Zachodniopomorskie","city":"Goleniow","latitude":53.56392,"longitude":14.82854}}(window,'GeoPostal','PL');

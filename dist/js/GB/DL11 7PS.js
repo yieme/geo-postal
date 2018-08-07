@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 7PS"]={"code":"DL11 7PS","region":"England","city":"West Layton","latitude":54.4845,"longitude":-1.78071}}(window,'GeoPostal','GB');

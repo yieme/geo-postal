@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8125"]={"code":"8125","region":"Zurich","city":"Zollikerberg","latitude":47.3451,"longitude":8.60088}}(window,'GeoPostal','CH');

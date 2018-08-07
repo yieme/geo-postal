@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456144"]={"code":"456144","region":"Chelyabinskaya oblast'","city":"Karabash","latitude":55.4808,"longitude":60.2157}}(window,'GeoPostal','RU');

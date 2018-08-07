@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77939"]={"code":"77939","region":"Ile-de-France","city":"Perthes","latitude":48.47821,"longitude":2.55509}}(window,'GeoPostal','FR');

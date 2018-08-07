@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3380"]={"code":"3380","region":"Victoria","city":"Stawell","latitude":-37.05632,"longitude":142.78088}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12173"]={"code":"12173","region":"NY","city":"Stuyvesant","latitude":42.3596,"longitude":-73.7613}}(window,'GeoPostal','US');

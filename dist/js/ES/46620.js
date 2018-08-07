@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46620"]={"code":"46620","region":"Valenciana, Comunidad","city":"Ayora","latitude":39.05852,"longitude":-1.05635}}(window,'GeoPostal','ES');

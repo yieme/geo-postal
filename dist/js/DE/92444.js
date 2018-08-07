@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92444"]={"code":"92444","region":"Bayern","city":"Retz","latitude":49.34316,"longitude":12.52963}}(window,'GeoPostal','DE');

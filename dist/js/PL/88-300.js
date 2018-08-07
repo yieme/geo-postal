@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-300"]={"code":"88-300","region":"Kujawsko-pomorskie","city":"Mogilno","latitude":52.65806,"longitude":17.95578}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR15 1EJ"]={"code":"NR15 1EJ","region":"England","city":"Seething","latitude":52.52785,"longitude":1.41791}}(window,'GeoPostal','GB');

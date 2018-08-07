@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42450"]={"code":"42450","region":"Auvergne-Rhone-Alpes","city":"Sury-le-Comtal","latitude":45.5342,"longitude":4.18642}}(window,'GeoPostal','FR');

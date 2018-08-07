@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84762"]={"code":"84762","region":"UT","city":"Duck Creek Village","latitude":37.5169,"longitude":-112.6636}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3941"]={"code":"3941","region":"Utrecht","city":"Doorn","latitude":52.03343,"longitude":5.34571}}(window,'GeoPostal','NL');

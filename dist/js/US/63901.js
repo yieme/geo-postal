@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63901"]={"code":"63901","region":"Missouri","city":"Poplar Bluff","latitude":36.757,"longitude":-90.39289}}(window,'GeoPostal','US');

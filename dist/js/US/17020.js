@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17020"]={"code":"17020","region":"PA","city":"Duncannon","latitude":40.4087,"longitude":-77.0473}}(window,'GeoPostal','US');

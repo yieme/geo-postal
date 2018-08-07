@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25111"]={"code":"25111","region":"West Virginia","city":"Indore","latitude":38.35278,"longitude":-81.14667}}(window,'GeoPostal','US');

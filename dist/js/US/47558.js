@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47558"]={"code":"47558","region":"Indiana","city":"Montgomery","latitude":38.623582,"longitude":-87.045255}}(window,'GeoPostal','US');

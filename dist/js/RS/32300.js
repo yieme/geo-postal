@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32300"]={"code":"32300","region":"Moravicki okrug","city":"Gornji Milanovac","latitude":44.03333,"longitude":20.45}}(window,'GeoPostal','RS');

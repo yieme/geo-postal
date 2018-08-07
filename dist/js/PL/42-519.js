@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-519"]={"code":"42-519","region":"Slaskie","city":"Bedzin","latitude":50.32607,"longitude":19.12565}}(window,'GeoPostal','PL');

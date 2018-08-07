@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58240"]={"code":"58240","region":"ND","city":"Hatton","latitude":47.638,"longitude":-97.4325}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["017423"]={"code":"017423","region":"Nei Mongol","city":"Bayan Gol","latitude":40.3,"longitude":106.98333}}(window,'GeoPostal','CN');

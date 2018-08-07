@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13654"]={"code":"13654","region":"New York","city":"Heuvelton","latitude":44.5821,"longitude":-75.44016}}(window,'GeoPostal','US');

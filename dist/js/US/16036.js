@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16036"]={"code":"16036","region":"Pennsylvania","city":"Foxburg","latitude":41.155167,"longitude":-79.653969}}(window,'GeoPostal','US');

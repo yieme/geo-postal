@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40806"]={"code":"40806","region":"Kentucky","city":"Baxter","latitude":36.87756,"longitude":-83.31672}}(window,'GeoPostal','US');

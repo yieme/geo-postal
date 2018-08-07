@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17640"]={"code":"17640","region":"Nouvelle-Aquitaine","city":"Vaux-sur-Mer","latitude":45.64606,"longitude":-1.05841}}(window,'GeoPostal','FR');

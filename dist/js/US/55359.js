@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55359"]={"code":"55359","region":"MN","city":"Maple Plain","latitude":44.9787,"longitude":-93.7002}}(window,'GeoPostal','US');

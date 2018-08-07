@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92359"]={"code":"92359","region":"CA","city":"Mentone","latitude":34.0774,"longitude":-117.1126}}(window,'GeoPostal','US');

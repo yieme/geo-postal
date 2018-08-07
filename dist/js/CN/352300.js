@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352300"]={"code":"352300","region":"Fujian","city":"Gufeng","latitude":26.90833,"longitude":118.98194}}(window,'GeoPostal','CN');

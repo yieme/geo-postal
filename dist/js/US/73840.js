@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73840"]={"code":"73840","region":"OK","city":"Fargo","latitude":36.3761,"longitude":-99.6237}}(window,'GeoPostal','US');

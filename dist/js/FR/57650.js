@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57650"]={"code":"57650","region":"Grand-Est","city":"Fontoy","latitude":49.35624,"longitude":5.99936}}(window,'GeoPostal','FR');

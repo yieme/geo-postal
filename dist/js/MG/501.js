@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["501"]={"code":"501","region":"Toamasina","city":"Toamasina","latitude":-18.16667,"longitude":49.38333}}(window,'GeoPostal','MG');

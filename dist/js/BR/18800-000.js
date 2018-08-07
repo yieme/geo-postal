@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18800-000"]={"code":"18800-000","region":"Sao Paulo","city":"Piraju","latitude":-23.19361,"longitude":-49.38389}}(window,'GeoPostal','BR');

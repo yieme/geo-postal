@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412478"]={"code":"412478","region":"Volgogradskaya oblast'","city":"Mikhaylovka","latitude":50.06,"longitude":43.2379}}(window,'GeoPostal','RU');

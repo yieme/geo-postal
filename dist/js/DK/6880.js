@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6880"]={"code":"6880","region":"Midtjylland","city":"Tarm","latitude":55.90862,"longitude":8.53041}}(window,'GeoPostal','DK');

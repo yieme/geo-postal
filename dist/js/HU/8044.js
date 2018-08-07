@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8044"]={"code":"8044","region":"Fejer","city":"Kincsesbanya","latitude":47.26444,"longitude":18.2779}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71937"]={"code":"71937","region":"Arkansas","city":"Cove","latitude":34.43639,"longitude":-94.41194}}(window,'GeoPostal','US');

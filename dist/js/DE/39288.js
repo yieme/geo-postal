@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39288"]={"code":"39288","region":"Brandenburg","city":"Potsdam","latitude":52.39655,"longitude":13.05794}}(window,'GeoPostal','DE');

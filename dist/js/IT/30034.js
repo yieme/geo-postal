@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30034"]={"code":"30034","region":"Veneto","city":"Mira","latitude":45.43,"longitude":12.11972}}(window,'GeoPostal','IT');

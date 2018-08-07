@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76548"]={"code":"76548","region":"TX","city":"Harker Heights","latitude":31.0286,"longitude":-97.6115}}(window,'GeoPostal','US');

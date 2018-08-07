@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95152"]={"code":"95152","region":"Bayern","city":"Dornthal","latitude":50.33074,"longitude":11.78401}}(window,'GeoPostal','DE');

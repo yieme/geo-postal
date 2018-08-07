@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4746"]={"code":"4746","region":"Queensland","city":"Middlemount","latitude":-22.81226,"longitude":148.69926}}(window,'GeoPostal','AU');

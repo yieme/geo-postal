@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72685"]={"code":"72685","region":"Arkansas","city":"Western Grove","latitude":36.041285,"longitude":-92.986548}}(window,'GeoPostal','US');

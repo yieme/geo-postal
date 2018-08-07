@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72360"]={"code":"72360","region":"Arkansas","city":"Marianna","latitude":34.77371,"longitude":-90.75761}}(window,'GeoPostal','US');

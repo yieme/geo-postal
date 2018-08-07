@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28557"]={"code":"28557","region":"North Carolina","city":"Morehead City","latitude":34.725813,"longitude":-76.760096}}(window,'GeoPostal','US');

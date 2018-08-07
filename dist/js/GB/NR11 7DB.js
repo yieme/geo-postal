@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 7DB"]={"code":"NR11 7DB","region":"England","city":"Saxthorpe","latitude":52.8303,"longitude":1.13965}}(window,'GeoPostal','GB');

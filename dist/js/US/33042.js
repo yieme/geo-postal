@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33042"]={"code":"33042","region":"FL","city":"Summerland Key","latitude":24.667,"longitude":-81.5099}}(window,'GeoPostal','US');

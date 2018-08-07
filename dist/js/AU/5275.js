@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5275"]={"code":"5275","region":"South Australia","city":"Kingston South East","latitude":-36.83073,"longitude":139.8522}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54500-000"]={"code":"54500-000","region":"Pernambuco","city":"Cabo","latitude":-8.28333,"longitude":-35.03333}}(window,'GeoPostal','BR');

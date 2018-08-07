@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27490"]={"code":"27490","region":"Normandie","city":"La Croix-Saint-Leufroy","latitude":49.11,"longitude":1.2442}}(window,'GeoPostal','FR');

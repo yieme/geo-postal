@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50673"]={"code":"50673","region":"IA","city":"Stout","latitude":42.5264,"longitude":-92.7119}}(window,'GeoPostal','US');

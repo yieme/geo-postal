@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8100"]={"code":"8100","region":"Fejer","city":"Szekesfehervar","latitude":47.18995,"longitude":18.41034}}(window,'GeoPostal','HU');

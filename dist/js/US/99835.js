@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99835"]={"code":"99835","region":"Alaska","city":"Sitka","latitude":57.05306,"longitude":-135.33}}(window,'GeoPostal','US');

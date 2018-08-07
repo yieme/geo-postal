@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58055"]={"code":"58055","region":"Toscana","city":"Semproniano","latitude":42.72923,"longitude":11.54134}}(window,'GeoPostal','IT');

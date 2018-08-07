@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57248"]={"code":"57248","region":"SD","city":"Lake Norden","latitude":44.5844,"longitude":-97.2009}}(window,'GeoPostal','US');

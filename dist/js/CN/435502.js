@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435502"]={"code":"435502","region":"Hubei","city":"Konglong","latitude":29.88668,"longitude":115.90323}}(window,'GeoPostal','CN');

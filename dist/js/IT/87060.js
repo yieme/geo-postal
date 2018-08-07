@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87060"]={"code":"87060","region":"Calabria","city":"Crosia","latitude":39.5676,"longitude":16.7728}}(window,'GeoPostal','IT');

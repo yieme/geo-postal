@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27230"]={"code":"27230","region":"Normandie","city":"Thiberville","latitude":49.13768,"longitude":0.45502}}(window,'GeoPostal','FR');

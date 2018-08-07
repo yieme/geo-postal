@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20842"]={"code":"20842","region":"MD","city":"Dickerson","latitude":39.2126,"longitude":-77.4199}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24105"]={"code":"24105","region":"VA","city":"Indian Valley","latitude":36.899,"longitude":-80.5757}}(window,'GeoPostal','US');

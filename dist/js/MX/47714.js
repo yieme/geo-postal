@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47714"]={"code":"47714","region":"Jalisco","city":"Tepatitlan de Morelos","latitude":20.81667,"longitude":-102.73333}}(window,'GeoPostal','MX');

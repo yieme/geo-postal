@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137265"]={"code":"137265","region":"Arges","city":"Hirtiesti","latitude":45.11667,"longitude":25.1}}(window,'GeoPostal','RO');

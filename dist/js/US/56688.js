@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56688"]={"code":"56688","region":"MN","city":"Wirt","latitude":47.7462,"longitude":-93.963}}(window,'GeoPostal','US');

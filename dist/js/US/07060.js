@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07060"]={"code":"07060","region":"New Jersey","city":"North Plainfield","latitude":40.6301,"longitude":-74.42737}}(window,'GeoPostal','US');

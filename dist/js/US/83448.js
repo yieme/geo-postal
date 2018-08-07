@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83448"]={"code":"83448","region":"Idaho","city":"Sugar City","latitude":43.874141,"longitude":-111.734524}}(window,'GeoPostal','US');

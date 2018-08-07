@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49065"]={"code":"49065","region":"Michigan","city":"Lawton","latitude":42.16726,"longitude":-85.84695}}(window,'GeoPostal','US');

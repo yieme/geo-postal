@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83120"]={"code":"83120","region":"Wyoming","city":"Freedom","latitude":43.044646,"longitude":-111.031246}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49200-000"]={"code":"49200-000","region":"Sergipe","city":"Estancia","latitude":-11.26833,"longitude":-37.43833}}(window,'GeoPostal','BR');

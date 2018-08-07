@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35404"]={"code":"35404","region":"Brodsko-posavska zupanija","city":"Cernik","latitude":45.28861,"longitude":17.38194}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35124"]={"code":"35124","region":"Alabama","city":"Pelham","latitude":33.28567,"longitude":-86.80999}}(window,'GeoPostal','US');

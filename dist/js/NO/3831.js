@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3831"]={"code":"3831","region":"Telemark","city":"Ulefoss","latitude":59.28382,"longitude":9.26459}}(window,'GeoPostal','NO');

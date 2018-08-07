@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0N 1M0"]={"code":"J0N 1M0","region":"Quebec","city":"Saint-Joseph-du-Lac","latitude":45.53338,"longitude":-73.9992}}(window,'GeoPostal','CA');

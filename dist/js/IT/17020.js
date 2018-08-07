@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17020"]={"code":"17020","region":"Liguria","city":"Calice Ligure","latitude":44.20493,"longitude":8.29535}}(window,'GeoPostal','IT');

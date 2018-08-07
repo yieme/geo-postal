@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98609"]={"code":"98609","region":"WA","city":"Carrolls","latitude":46.0715,"longitude":-122.8648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38720"]={"code":"38720","region":"MS","city":"Alligator","latitude":34.1294,"longitude":-90.7382}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27109"]={"code":"27109","region":"Normandie","city":"Val-de-Reuil","latitude":49.27385,"longitude":1.21021}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95043"]={"code":"95043","region":"CA","city":"Paicines","latitude":36.4985,"longitude":-120.9744}}(window,'GeoPostal','US');

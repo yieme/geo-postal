@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-310"]={"code":"84-310","region":"Pomorskie","city":"Nowa Wies Leborska","latitude":54.55878,"longitude":17.72756}}(window,'GeoPostal','PL');

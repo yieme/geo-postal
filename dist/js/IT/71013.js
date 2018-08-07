@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71013"]={"code":"71013","region":"Puglia","city":"San Giovanni Rotondo","latitude":41.70494,"longitude":15.71905}}(window,'GeoPostal','IT');

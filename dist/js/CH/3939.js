@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3939"]={"code":"3939","region":"Valais","city":"Baltschieder","latitude":46.30888,"longitude":7.8657}}(window,'GeoPostal','CH');

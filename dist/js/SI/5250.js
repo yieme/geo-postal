@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5250"]={"code":"5250","region":"Nova Gorica","city":"Solkan","latitude":45.97139,"longitude":13.64944}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44406"]={"code":"44406","region":"Ohio","city":"Canfield","latitude":41.02506,"longitude":-80.76091}}(window,'GeoPostal','US');

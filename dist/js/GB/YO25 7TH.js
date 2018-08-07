@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 7TH"]={"code":"YO25 7TH","region":"England","city":"Driffield","latitude":54.00489,"longitude":-0.43872}}(window,'GeoPostal','GB');

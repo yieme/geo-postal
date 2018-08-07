@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427990"]={"code":"427990","region":"Udmurtskaya Respublika","city":"Sigayevo","latitude":56.42163,"longitude":53.77566}}(window,'GeoPostal','RU');

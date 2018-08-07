@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG19 3SH"]={"code":"SG19 3SH","region":"England","city":"Hatley Saint George","latitude":52.14255,"longitude":-0.13879}}(window,'GeoPostal','GB');

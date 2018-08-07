@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14775"]={"code":"14775","region":"New York","city":"Ripley","latitude":42.26167,"longitude":-79.69806}}(window,'GeoPostal','US');

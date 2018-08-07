@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45729"]={"code":"45729","region":"OH","city":"Fleming","latitude":39.4136,"longitude":-81.6078}}(window,'GeoPostal','US');

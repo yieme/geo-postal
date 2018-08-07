@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68540"]={"code":"68540","region":"Oaxaca","city":"Isla Soyaltepec","latitude":18.21167,"longitude":-96.48389}}(window,'GeoPostal','MX');

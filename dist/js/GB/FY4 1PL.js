@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY4 1PL"]={"code":"FY4 1PL","region":"England","city":"South Shore","latitude":53.79061,"longitude":-3.05849}}(window,'GeoPostal','GB');

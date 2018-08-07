@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6108"]={"code":"6108","region":"Tirol","city":"Scharnitz","latitude":47.38899,"longitude":11.26455}}(window,'GeoPostal','AT');

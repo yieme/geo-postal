@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6600"]={"code":"6600","region":"Tirol","city":"Reutte","latitude":47.48333,"longitude":10.71667}}(window,'GeoPostal','AT');

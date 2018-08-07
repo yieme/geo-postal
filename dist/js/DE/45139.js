@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45139"]={"code":"45139","region":"Nordrhein-Westfalen","city":"Essen","latitude":51.45657,"longitude":7.01228}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35750"]={"code":"35750","region":"Bretagne","city":"Iffendic","latitude":48.12981,"longitude":-2.03486}}(window,'GeoPostal','FR');

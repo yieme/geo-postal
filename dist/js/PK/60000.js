@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60000"]={"code":"60000","region":"Punjab","city":"Multan","latitude":30.19556,"longitude":71.47528}}(window,'GeoPostal','PK');

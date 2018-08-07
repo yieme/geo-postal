@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-150"]={"code":"76-150","region":"Zachodniopomorskie","city":"Darlowo","latitude":54.42095,"longitude":16.4107}}(window,'GeoPostal','PL');

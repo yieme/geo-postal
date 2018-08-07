@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25506"]={"code":"25506","region":"WV","city":"Branchland","latitude":38.2694,"longitude":-82.2684}}(window,'GeoPostal','US');

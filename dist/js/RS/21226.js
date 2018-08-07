@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21226"]={"code":"21226","region":"Juznobacki okrug","city":"Backo Petrovo Selo","latitude":45.70806,"longitude":20.07528}}(window,'GeoPostal','RS');

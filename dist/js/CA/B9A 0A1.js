@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B9A 0A1"]={"code":"B9A 0A1","region":"Nova Scotia","city":"Port Hawkesbury","latitude":45.61685,"longitude":-61.34853}}(window,'GeoPostal','CA');

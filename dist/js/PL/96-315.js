@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96-315"]={"code":"96-315","region":"Mazowieckie","city":"Wiskitki","latitude":52.08831,"longitude":20.38708}}(window,'GeoPostal','PL');

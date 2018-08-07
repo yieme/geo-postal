@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1J0"]={"code":"J0T 1J0","region":"Quebec","city":"Lac-Superieur","latitude":46.20009,"longitude":-74.46593}}(window,'GeoPostal','CA');

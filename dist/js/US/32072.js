@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32072"]={"code":"32072","region":"FL","city":"Olustee","latitude":30.2041,"longitude":-82.4287}}(window,'GeoPostal','US');

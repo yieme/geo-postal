@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68309"]={"code":"68309","region":"Nebraska","city":"Wymore","latitude":40.12222,"longitude":-96.66252}}(window,'GeoPostal','US');

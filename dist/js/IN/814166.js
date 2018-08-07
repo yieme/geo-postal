@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814166"]={"code":"814166","region":"Bihar","city":"Bihar Sharif","latitude":25.18333,"longitude":85.51667}}(window,'GeoPostal','IN');

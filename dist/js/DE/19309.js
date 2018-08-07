@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19309"]={"code":"19309","region":"Niedersachsen","city":"Pretzetze","latitude":53.06907,"longitude":11.30476}}(window,'GeoPostal','DE');

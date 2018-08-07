@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15017"]={"code":"15017","region":"Pennsylvania","city":"Bridgeville","latitude":40.355734,"longitude":-80.113694}}(window,'GeoPostal','US');

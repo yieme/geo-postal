@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29447"]={"code":"29447","region":"SC","city":"Grover","latitude":33.1052,"longitude":-80.5948}}(window,'GeoPostal','US');

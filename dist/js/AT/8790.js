@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8790"]={"code":"8790","region":"Steiermark","city":"Eisenerz","latitude":47.53333,"longitude":14.88333}}(window,'GeoPostal','AT');

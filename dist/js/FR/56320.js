@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56320"]={"code":"56320","region":"Bretagne","city":"Le Faouet","latitude":48.03299,"longitude":-3.49048}}(window,'GeoPostal','FR');

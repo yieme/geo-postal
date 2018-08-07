@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250000"]={"code":"250000","region":"Thai Nguyen","city":"Thai Nguyen","latitude":21.59278,"longitude":105.84417}}(window,'GeoPostal','VN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34229"]={"code":"34229","region":"FL","city":"Osprey","latitude":27.1838,"longitude":-82.4853}}(window,'GeoPostal','US');

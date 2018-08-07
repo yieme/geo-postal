@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90028"]={"code":"90028","region":"Sicilia","city":"Polizzi Generosa","latitude":37.81185,"longitude":14.00336}}(window,'GeoPostal','IT');

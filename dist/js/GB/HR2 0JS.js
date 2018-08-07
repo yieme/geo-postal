@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 0JS"]={"code":"HR2 0JS","region":"England","city":"Michaelchurch Escley","latitude":52.00183,"longitude":-2.99771}}(window,'GeoPostal','GB');

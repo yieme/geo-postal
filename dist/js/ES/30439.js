@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30439"]={"code":"30439","region":"Murcia, Region de","city":"Caravaca","latitude":38.10558,"longitude":-1.86342}}(window,'GeoPostal','ES');

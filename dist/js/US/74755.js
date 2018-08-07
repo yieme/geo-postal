@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74755"]={"code":"74755","region":"OK","city":"Rufe","latitude":34.1272,"longitude":-95.1174}}(window,'GeoPostal','US');

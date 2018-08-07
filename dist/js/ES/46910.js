@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46910"]={"code":"46910","region":"Valenciana, Comunidad","city":"Alfafar","latitude":39.41667,"longitude":-0.38333}}(window,'GeoPostal','ES');

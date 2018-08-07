@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147227"]={"code":"147227","region":"Teleorman","city":"Necsesti","latitude":44.25,"longitude":25.15}}(window,'GeoPostal','RO');

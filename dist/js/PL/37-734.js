@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-734"]={"code":"37-734","region":"Podkarpackie","city":"Fredropol","latitude":49.69578,"longitude":22.74625}}(window,'GeoPostal','PL');

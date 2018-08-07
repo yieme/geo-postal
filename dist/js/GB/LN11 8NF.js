@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 8NF"]={"code":"LN11 8NF","region":"England","city":"Legbourne","latitude":53.33853,"longitude":0.0526}}(window,'GeoPostal','GB');

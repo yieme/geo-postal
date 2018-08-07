@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74002"]={"code":"74002","region":"Khersonska oblast","city":"Vysokopillya","latitude":47.49187,"longitude":33.53061}}(window,'GeoPostal','UA');

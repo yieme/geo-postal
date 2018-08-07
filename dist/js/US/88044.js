@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88044"]={"code":"88044","region":"NM","city":"La Mesa","latitude":32.1383,"longitude":-106.7999}}(window,'GeoPostal','US');

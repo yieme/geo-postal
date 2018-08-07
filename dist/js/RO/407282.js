@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407282"]={"code":"407282","region":"Arad","city":"Taut","latitude":46.28333,"longitude":21.91667}}(window,'GeoPostal','RO');

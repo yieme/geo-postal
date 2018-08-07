@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["689713"]={"code":"689713","region":"Kerala","city":"Kodungallur","latitude":10.21667,"longitude":76.21667}}(window,'GeoPostal','IN');

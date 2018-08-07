@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22722"]={"code":"22722","region":"VA","city":"Haywood","latitude":38.4535,"longitude":-78.2522}}(window,'GeoPostal','US');

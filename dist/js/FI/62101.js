@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62101"]={"code":"62101","region":"Etela-Pohjanmaa","city":"Lapua","latitude":62.96927,"longitude":23.0088}}(window,'GeoPostal','FI');

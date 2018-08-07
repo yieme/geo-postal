@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59380"]={"code":"59380","region":"Hauts-de-France","city":"Warhem","latitude":50.97592,"longitude":2.49303}}(window,'GeoPostal','FR');

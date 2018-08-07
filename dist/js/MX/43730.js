@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43730"]={"code":"43730","region":"Hidalgo","city":"Los Reyes","latitude":20.15,"longitude":-98.16667}}(window,'GeoPostal','MX');

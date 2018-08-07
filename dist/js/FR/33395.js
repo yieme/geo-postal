@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33395"]={"code":"33395","region":"Nouvelle-Aquitaine","city":"Blaye","latitude":45.13333,"longitude":-0.66667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10480"]={"code":"10480","region":"Extremadura","city":"Madrigal de la Vera","latitude":40.1476,"longitude":-5.36818}}(window,'GeoPostal','ES');

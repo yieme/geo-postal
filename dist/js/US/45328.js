@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45328"]={"code":"45328","region":"Ohio","city":"Gettysburg","latitude":40.113233,"longitude":-84.495002}}(window,'GeoPostal','US');

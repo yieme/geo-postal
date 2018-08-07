@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71447"]={"code":"71447","region":"LA","city":"Lena","latitude":31.4207,"longitude":-92.8312}}(window,'GeoPostal','US');

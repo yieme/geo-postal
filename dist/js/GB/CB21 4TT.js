@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB21 4TT"]={"code":"CB21 4TT","region":"England","city":"Castle Camps","latitude":52.06334,"longitude":0.37989}}(window,'GeoPostal','GB');

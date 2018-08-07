@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2703"]={"code":"2703","region":"New South Wales","city":"Yanco","latitude":-34.59827,"longitude":146.41237}}(window,'GeoPostal','AU');

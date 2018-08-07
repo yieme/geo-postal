@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83512"]={"code":"83512","region":"Nusa Tenggara Barat","city":"Kute","latitude":-8.892,"longitude":116.2776}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA2 6RQ"]={"code":"TA2 6RQ","region":"England","city":"Norton Fitzwarren","latitude":51.02662,"longitude":-3.15009}}(window,'GeoPostal','GB');

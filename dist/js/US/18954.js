@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18954"]={"code":"18954","region":"Pennsylvania","city":"Southampton","latitude":40.17417,"longitude":-75.04389}}(window,'GeoPostal','US');

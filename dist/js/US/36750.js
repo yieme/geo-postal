@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36750"]={"code":"36750","region":"Alabama","city":"Maplesville","latitude":32.79078,"longitude":-86.87166}}(window,'GeoPostal','US');

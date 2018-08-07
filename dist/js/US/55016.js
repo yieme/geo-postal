@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55016"]={"code":"55016","region":"Minnesota","city":"Cottage Grove","latitude":44.82774,"longitude":-92.94382}}(window,'GeoPostal','US');

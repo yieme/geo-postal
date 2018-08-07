@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86503"]={"code":"86503","region":"Arizona","city":"Chinle","latitude":36.15445,"longitude":-109.55261}}(window,'GeoPostal','US');

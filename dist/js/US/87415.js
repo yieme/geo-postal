@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87415"]={"code":"87415","region":"NM","city":"Flora Vista","latitude":36.8028,"longitude":-108.0827}}(window,'GeoPostal','US');

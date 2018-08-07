@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07021"]={"code":"07021","region":"Sardegna","city":"Porto Cervo","latitude":41.14063,"longitude":9.53267}}(window,'GeoPostal','IT');

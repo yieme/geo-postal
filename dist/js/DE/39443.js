@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39443"]={"code":"39443","region":"Sachsen-Anhalt","city":"Brumby","latitude":51.89635,"longitude":11.71751}}(window,'GeoPostal','DE');

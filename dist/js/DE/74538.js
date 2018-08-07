@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74538"]={"code":"74538","region":"Baden-Wurttemberg","city":"Kiesberg","latitude":49.1028,"longitude":9.68212}}(window,'GeoPostal','DE');

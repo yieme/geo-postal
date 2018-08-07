@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08770"]={"code":"08770","region":"Cusco","city":"Calca","latitude":-13.33333,"longitude":-71.95}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45000"]={"code":"45000","region":"Roi Et","city":"Thawat Buri","latitude":16.0385,"longitude":103.74647}}(window,'GeoPostal','TH');

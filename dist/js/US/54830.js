@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54830"]={"code":"54830","region":"Wisconsin","city":"Danbury","latitude":46.00611,"longitude":-92.37111}}(window,'GeoPostal','US');

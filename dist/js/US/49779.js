@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49779"]={"code":"49779","region":"Michigan","city":"Rogers City","latitude":45.4214,"longitude":-83.81833}}(window,'GeoPostal','US');

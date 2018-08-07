@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43402"]={"code":"43402","region":"Marrakech-Tensift-Al Haouz","city":"Sidi Abdallah","latitude":32.53544,"longitude":-7.83243}}(window,'GeoPostal','MA');

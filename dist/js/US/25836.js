@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25836"]={"code":"25836","region":"WV","city":"Eccles","latitude":37.7792,"longitude":-81.2635}}(window,'GeoPostal','US');

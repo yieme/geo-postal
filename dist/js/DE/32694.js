@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32694"]={"code":"32694","region":"Nordrhein-Westfalen","city":"Linderhofe","latitude":52.05571,"longitude":9.05677}}(window,'GeoPostal','DE');

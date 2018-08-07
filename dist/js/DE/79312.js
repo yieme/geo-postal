@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79312"]={"code":"79312","region":"Baden-Wurttemberg","city":"Emmendingen","latitude":48.12096,"longitude":7.85359}}(window,'GeoPostal','DE');

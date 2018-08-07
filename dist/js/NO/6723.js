@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6723"]={"code":"6723","region":"Sogn og Fjordane","city":"Svelgen","latitude":61.76852,"longitude":5.29548}}(window,'GeoPostal','NO');

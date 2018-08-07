@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33004"]={"code":"33004","region":"Rivnenska oblast","city":"Tynne","latitude":50.60145,"longitude":26.18486}}(window,'GeoPostal','UA');

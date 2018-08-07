@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4AE"]={"code":"IP21 4AE","region":"England","city":"Stuston","latitude":52.36105,"longitude":1.13227}}(window,'GeoPostal','GB');

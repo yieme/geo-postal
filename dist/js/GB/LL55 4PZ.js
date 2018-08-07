@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL55 4PZ"]={"code":"LL55 4PZ","region":"Wales","city":"Waenfawr","latitude":53.11,"longitude":-4.2012}}(window,'GeoPostal','GB');

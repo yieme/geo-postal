@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 65"]={"code":"252 65","region":"Stredocesky kraj","city":"Velke Prilepy","latitude":50.1605,"longitude":14.31447}}(window,'GeoPostal','CZ');

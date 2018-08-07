@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44403"]={"code":"44403","region":"OH","city":"Brookfield","latitude":41.248,"longitude":-80.5788}}(window,'GeoPostal','US');

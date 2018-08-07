@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16932"]={"code":"16932","region":"PA","city":"Mainesburg","latitude":41.784,"longitude":-76.9983}}(window,'GeoPostal','US');

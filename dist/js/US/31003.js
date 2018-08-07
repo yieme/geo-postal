@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31003"]={"code":"31003","region":"GA","city":"Allentown","latitude":32.6064,"longitude":-83.2095}}(window,'GeoPostal','US');

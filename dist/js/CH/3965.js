@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3965"]={"code":"3965","region":"Valais","city":"Chippis","latitude":46.28103,"longitude":7.54288}}(window,'GeoPostal','CH');

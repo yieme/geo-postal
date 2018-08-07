@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28431"]={"code":"28431","region":"NC","city":"Chadbourn","latitude":34.3223,"longitude":-78.8267}}(window,'GeoPostal','US');

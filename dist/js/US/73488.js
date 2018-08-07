@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73488"]={"code":"73488","region":"OK","city":"Tussy","latitude":34.4852,"longitude":-97.5423}}(window,'GeoPostal','US');

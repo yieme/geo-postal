@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78557-452"]={"code":"78557-452","region":"Mato Grosso","city":"Sinop","latitude":-11.848056,"longitude":-55.649167}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14880"]={"code":"14880","region":"New York","city":"Scio","latitude":42.167671,"longitude":-77.982191}}(window,'GeoPostal','US');

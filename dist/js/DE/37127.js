@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37127"]={"code":"37127","region":"Niedersachsen","city":"Ellershausen bei Munden","latitude":51.51042,"longitude":9.67962}}(window,'GeoPostal','DE');

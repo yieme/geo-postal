@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671050"]={"code":"671050","region":"Buryatiya, Respublika","city":"Ivolginsk","latitude":51.74919,"longitude":107.28374}}(window,'GeoPostal','RU');

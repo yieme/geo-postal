@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30473"]={"code":"30473","region":"Georgia","city":"Uvalda","latitude":32.038028,"longitude":-82.51425}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48445-000"]={"code":"48445-000","region":"Sergipe","city":"Poco Verde","latitude":-10.70833,"longitude":-38.18333}}(window,'GeoPostal','BR');

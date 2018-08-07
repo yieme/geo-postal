@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65013"]={"code":"65013","region":"Abruzzo","city":"Vasto","latitude":42.12434,"longitude":14.70592}}(window,'GeoPostal','IT');

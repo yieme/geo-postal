@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64492"]={"code":"64492","region":"Missouri","city":"Trimble","latitude":39.4941,"longitude":-94.5639}}(window,'GeoPostal','US');

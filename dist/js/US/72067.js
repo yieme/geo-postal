@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72067"]={"code":"72067","region":"Arkansas","city":"Higden","latitude":35.57083,"longitude":-92.20361}}(window,'GeoPostal','US');

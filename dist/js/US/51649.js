@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51649"]={"code":"51649","region":"Iowa","city":"Randolph","latitude":40.871884,"longitude":-95.566401}}(window,'GeoPostal','US');

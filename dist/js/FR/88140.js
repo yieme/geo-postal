@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88140"]={"code":"88140","region":"Grand-Est","city":"Bulgneville","latitude":48.20694,"longitude":5.8343}}(window,'GeoPostal','FR');

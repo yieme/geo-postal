@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65701"]={"code":"65701","region":"MO","city":"Mc Clurg","latitude":36.76,"longitude":-92.81}}(window,'GeoPostal','US');

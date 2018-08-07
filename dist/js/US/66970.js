@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66970"]={"code":"66970","region":"KS","city":"Webber","latitude":39.935,"longitude":-98.035}}(window,'GeoPostal','US');

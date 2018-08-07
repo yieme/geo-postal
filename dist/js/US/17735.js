@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17735"]={"code":"17735","region":"PA","city":"Grover","latitude":41.6145,"longitude":-76.8672}}(window,'GeoPostal','US');

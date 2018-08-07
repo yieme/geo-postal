@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33503"]={"code":"33503","region":"FL","city":"Balm","latitude":27.7648,"longitude":-82.2734}}(window,'GeoPostal','US');

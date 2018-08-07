@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0W0"]={"code":"T0M 0W0","region":"Alberta","city":"Didsbury","latitude":51.66681,"longitude":-114.13529}}(window,'GeoPostal','CA');

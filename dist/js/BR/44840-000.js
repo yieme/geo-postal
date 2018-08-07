@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44840-000"]={"code":"44840-000","region":"Bahia","city":"Tapiramuta","latitude":-11.84722,"longitude":-40.79139}}(window,'GeoPostal','BR');

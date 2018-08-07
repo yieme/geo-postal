@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95436"]={"code":"95436","region":"California","city":"Forestville","latitude":38.47352,"longitude":-122.89027}}(window,'GeoPostal','US');

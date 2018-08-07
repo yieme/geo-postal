@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70306"]={"code":"70306","region":"Bourgogne-Franche-Comte","city":"Luxeuil-les-Bains","latitude":47.8171,"longitude":6.365}}(window,'GeoPostal','FR');

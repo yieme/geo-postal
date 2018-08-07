@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63906"]={"code":"63906","region":"Rheinland-Pfalz","city":"Erlenbach","latitude":49.11073,"longitude":8.18715}}(window,'GeoPostal','DE');

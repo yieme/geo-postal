@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04543-011"]={"code":"04543-011","region":"Sao Paulo","city":"Sao Paulo","latitude":-23.5475,"longitude":-46.63611}}(window,'GeoPostal','BR');

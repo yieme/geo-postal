@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65757"]={"code":"65757","region":"MO","city":"Strafford","latitude":37.2797,"longitude":-93.1066}}(window,'GeoPostal','US');

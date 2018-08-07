@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51028"]={"code":"51028","region":"Toscana","city":"San Marcello Pistoiese","latitude":44.05645,"longitude":10.79191}}(window,'GeoPostal','IT');

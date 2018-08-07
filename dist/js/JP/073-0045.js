@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["073-0045"]={"code":"073-0045","region":"Hokkaido","city":"Takikawa","latitude":43.55,"longitude":141.917}}(window,'GeoPostal','JP');

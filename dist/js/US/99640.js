@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99640"]={"code":"99640","region":"Alaska","city":"Nondalton","latitude":59.966369,"longitude":-154.851614}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31500"]={"code":"31500","region":"Etela-Pohjanmaa","city":"Koski","latitude":63.27437,"longitude":23.03433}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99848"]={"code":"99848","region":"Thuringen","city":"Stockhausen","latitude":50.98983,"longitude":10.38337}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76100"]={"code":"76100","region":"HaMerkaz","city":"Rehovot","latitude":31.897964,"longitude":34.808122}}(window,'GeoPostal','IL');

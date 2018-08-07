@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56477"]={"code":"56477","region":"Minnesota","city":"Sebeka","latitude":46.627982,"longitude":-95.092051}}(window,'GeoPostal','US');

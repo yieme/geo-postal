@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["751 17"]={"code":"751 17","region":"Olomoucky kraj","city":"Horni Mostenice","latitude":49.41213,"longitude":17.45879}}(window,'GeoPostal','CZ');

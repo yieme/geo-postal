@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125079"]={"code":"125079","region":"Haryana","city":"Ratia","latitude":29.68333,"longitude":75.58333}}(window,'GeoPostal','IN');

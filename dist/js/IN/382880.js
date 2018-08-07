@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382880"]={"code":"382880","region":"Gujarat","city":"Modasa","latitude":23.46667,"longitude":73.3}}(window,'GeoPostal','IN');

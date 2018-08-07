@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56240"]={"code":"56240","region":"Bretagne","city":"Plouay","latitude":47.91444,"longitude":-3.33384}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480 62"]={"code":"480 62","region":"Ipeiros","city":"Kanallakion","latitude":39.23361,"longitude":20.6}}(window,'GeoPostal','GR');

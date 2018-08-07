@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81503"]={"code":"81503","region":"CO","city":"Grand Junction","latitude":39.0307,"longitude":-108.4361}}(window,'GeoPostal','US');

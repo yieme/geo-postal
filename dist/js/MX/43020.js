@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43020"]={"code":"43020","region":"Hidalgo","city":"Orizatlan","latitude":21.18333,"longitude":-98.61667}}(window,'GeoPostal','MX');

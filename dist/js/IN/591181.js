@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["591181"]={"code":"591181","region":"Karnataka","city":"Bail Hongal","latitude":15.81667,"longitude":74.86667}}(window,'GeoPostal','IN');

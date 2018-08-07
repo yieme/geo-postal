@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5100-381"]={"code":"5100-381","region":"Vila Real","city":"Godim","latitude":41.17104,"longitude":-7.80303}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79561"]={"code":"79561","region":"TX","city":"Trent","latitude":32.4898,"longitude":-100.1195}}(window,'GeoPostal','US');

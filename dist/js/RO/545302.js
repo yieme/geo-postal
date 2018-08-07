@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545302"]={"code":"545302","region":"Mures","city":"Reghin-Sat","latitude":46.78333,"longitude":24.71667}}(window,'GeoPostal','RO');

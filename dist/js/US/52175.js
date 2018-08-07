@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52175"]={"code":"52175","region":"Iowa","city":"West Union","latitude":42.96276,"longitude":-91.80822}}(window,'GeoPostal','US');

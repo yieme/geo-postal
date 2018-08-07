@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99752"]={"code":"99752","region":"Alaska","city":"Kotzebue","latitude":66.89833,"longitude":-162.59667}}(window,'GeoPostal','US');

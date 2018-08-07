@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 2HS"]={"code":"SO32 2HS","region":"England","city":"Shedfield","latitude":50.92265,"longitude":-1.19953}}(window,'GeoPostal','GB');

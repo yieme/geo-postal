@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6706"]={"code":"6706","region":"Vorarlberg","city":"Buers","latitude":47.14972,"longitude":9.8}}(window,'GeoPostal','AT');

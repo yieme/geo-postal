@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82061"]={"code":"82061","region":"Lvivska oblast","city":"Khyriv","latitude":49.53332,"longitude":22.85236}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51521"]={"code":"51521","region":"Primorsko-goranska zupanija","city":"Punat","latitude":45.01472,"longitude":14.62889}}(window,'GeoPostal','HR');

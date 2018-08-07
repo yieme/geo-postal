@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88321"]={"code":"88321","region":"New Mexico","city":"Encino","latitude":34.593879,"longitude":-105.498835}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 0NL"]={"code":"DL12 0NL","region":"England","city":"Holwick","latitude":54.6358,"longitude":-2.14371}}(window,'GeoPostal','GB');

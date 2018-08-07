@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 3DQ"]={"code":"DE6 3DQ","region":"England","city":"Brailsford","latitude":52.96985,"longitude":-1.62215}}(window,'GeoPostal','GB');

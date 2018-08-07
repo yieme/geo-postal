@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429530"]={"code":"429530","region":"Chuvashskaya Respublika","city":"Morgaushi","latitude":55.9643,"longitude":46.7743}}(window,'GeoPostal','RU');

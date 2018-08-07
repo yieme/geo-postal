@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04652"]={"code":"04652","region":"Maine","city":"Lubec","latitude":44.864298,"longitude":-66.993158}}(window,'GeoPostal','US');

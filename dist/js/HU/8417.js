@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8417"]={"code":"8417","region":"Veszprem","city":"Cseteny","latitude":47.31806,"longitude":17.99208}}(window,'GeoPostal','HU');

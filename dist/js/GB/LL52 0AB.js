@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL52 0AB"]={"code":"LL52 0AB","region":"Wales","city":"Criccieth","latitude":52.92053,"longitude":-4.2346}}(window,'GeoPostal','GB');

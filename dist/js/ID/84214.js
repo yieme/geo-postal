@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84214"]={"code":"84214","region":"Nusa Tenggara Barat","city":"Woro","latitude":-8.573,"longitude":118.5437}}(window,'GeoPostal','ID');

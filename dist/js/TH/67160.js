@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67160"]={"code":"67160","region":"Phetchabun","city":"Bueng Sam Phan","latitude":15.79647,"longitude":101.00853}}(window,'GeoPostal','TH');

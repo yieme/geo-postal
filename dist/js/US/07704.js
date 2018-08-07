@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07704"]={"code":"07704","region":"New Jersey","city":"Fair Haven","latitude":40.37142,"longitude":-74.03562}}(window,'GeoPostal','US');

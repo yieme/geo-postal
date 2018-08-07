@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4R 0A7"]={"code":"E4R 0A7","region":"New Brunswick","city":"Shediac Bridge","latitude":46.26771,"longitude":-64.57214}}(window,'GeoPostal','CA');

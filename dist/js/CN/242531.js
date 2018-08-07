@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242531"]={"code":"242531","region":"Anhui","city":"Aimin","latitude":30.64748,"longitude":118.61724}}(window,'GeoPostal','CN');

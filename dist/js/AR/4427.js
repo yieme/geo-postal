@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4427"]={"code":"4427","region":"Salta","city":"Cafayate","latitude":-26.07295,"longitude":-65.97614}}(window,'GeoPostal','AR');

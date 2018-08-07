@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40300"]={"code":"40300","region":"Castilla y Leon","city":"Sepulveda","latitude":41.29696,"longitude":-3.74221}}(window,'GeoPostal','ES');

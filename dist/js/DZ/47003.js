@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47003"]={"code":"47003","region":"Ghardaia","city":"Berriane","latitude":32.82648,"longitude":3.7669}}(window,'GeoPostal','DZ');

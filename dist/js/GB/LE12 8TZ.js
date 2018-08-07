@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE12 8TZ"]={"code":"LE12 8TZ","region":"England","city":"Woodhouse","latitude":52.73369,"longitude":-1.20283}}(window,'GeoPostal','GB');

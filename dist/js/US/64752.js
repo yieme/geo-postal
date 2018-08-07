@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64752"]={"code":"64752","region":"MO","city":"Hume","latitude":38.09,"longitude":-94.5838}}(window,'GeoPostal','US');

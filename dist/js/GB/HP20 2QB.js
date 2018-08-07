@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP20 2QB"]={"code":"HP20 2QB","region":"England","city":"Aylesbury","latitude":51.81665,"longitude":-0.81458}}(window,'GeoPostal','GB');

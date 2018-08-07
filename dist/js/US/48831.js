@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48831"]={"code":"48831","region":"MI","city":"Elsie","latitude":43.0886,"longitude":-84.3869}}(window,'GeoPostal','US');

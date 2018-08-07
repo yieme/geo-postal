@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 3EB"]={"code":"PO38 3EB","region":"England","city":"Wroxall","latitude":50.61625,"longitude":-1.22292}}(window,'GeoPostal','GB');

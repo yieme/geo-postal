@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2600"]={"code":"2600","region":"Australian Capital Territory","city":"Deakin","latitude":-35.31927,"longitude":149.10308}}(window,'GeoPostal','AU');

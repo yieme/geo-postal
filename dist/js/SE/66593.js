@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66593"]={"code":"66593","region":"Varmlands lan","city":"Kil","latitude":59.50722,"longitude":13.31395}}(window,'GeoPostal','SE');

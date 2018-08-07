@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-020"]={"code":"64-020","region":"Wielkopolskie","city":"Czempin","latitude":52.14404,"longitude":16.76408}}(window,'GeoPostal','PL');

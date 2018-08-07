@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85347"]={"code":"85347","region":"Herceg-Novi","city":"Igalo","latitude":42.46007,"longitude":18.50647}}(window,'GeoPostal','ME');

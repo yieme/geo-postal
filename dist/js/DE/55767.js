@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55767"]={"code":"55767","region":"Rheinland-Pfalz","city":"Huttgeswasen","latitude":49.72842,"longitude":7.12699}}(window,'GeoPostal','DE');

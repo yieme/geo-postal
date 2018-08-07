@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-652"]={"code":"22-652","region":"Lubelskie","city":"Telatyn","latitude":50.52712,"longitude":23.83956}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64756"]={"code":"64756","region":"MO","city":"Jerico Springs","latitude":37.6613,"longitude":-94.0129}}(window,'GeoPostal','US');

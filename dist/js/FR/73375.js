@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73375"]={"code":"73375","region":"Auvergne-Rhone-Alpes","city":"Le Bourget-du-Lac","latitude":45.64756,"longitude":5.86085}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31527"]={"code":"31527","region":"GA","city":"Jekyll Island","latitude":31.074,"longitude":-81.4128}}(window,'GeoPostal','US');

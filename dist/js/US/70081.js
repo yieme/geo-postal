@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70081"]={"code":"70081","region":"LA","city":"Pilottown","latitude":29.1816,"longitude":-89.2576}}(window,'GeoPostal','US');

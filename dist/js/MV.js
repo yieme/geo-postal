@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["MV"]={id:'MV',country:'Maldives', postal:{'':{code:'',region:'Maale',city:'Male',latitude:4.1748,longitude:73.50888}}};

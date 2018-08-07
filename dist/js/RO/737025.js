@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737025"]={"code":"737025","region":"Vaslui","city":"Banca","latitude":46.3,"longitude":27.8}}(window,'GeoPostal','RO');

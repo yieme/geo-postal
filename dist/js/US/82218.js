@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82218"]={"code":"82218","region":"WY","city":"Huntley","latitude":41.9327,"longitude":-104.1461}}(window,'GeoPostal','US');

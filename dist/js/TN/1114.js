@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1114"]={"code":"1114","region":"La Manouba","city":"El Battan","latitude":36.80368,"longitude":9.84424}}(window,'GeoPostal','TN');

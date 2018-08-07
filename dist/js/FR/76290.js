@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76290"]={"code":"76290","region":"Normandie","city":"Montivilliers","latitude":49.54518,"longitude":0.18769}}(window,'GeoPostal','FR');

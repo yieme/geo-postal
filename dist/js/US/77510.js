@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77510"]={"code":"77510","region":"TX","city":"Santa Fe","latitude":29.4032,"longitude":-95.0734}}(window,'GeoPostal','US');

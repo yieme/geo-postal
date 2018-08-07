@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0X 1M0"]={"code":"P0X 1M0","region":"Ontario","city":"Brinka","latitude":50.00001,"longitude":-94.30043}}(window,'GeoPostal','CA');

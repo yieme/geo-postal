@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20240"]={"code":"20240","region":"Corse","city":"Ghisonaccia","latitude":42.01621,"longitude":9.40412}}(window,'GeoPostal','FR');

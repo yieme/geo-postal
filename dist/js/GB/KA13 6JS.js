@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA13 6JS"]={"code":"KA13 6JS","region":"Scotland","city":"Kilwinning","latitude":55.65333,"longitude":-4.70666}}(window,'GeoPostal','GB');

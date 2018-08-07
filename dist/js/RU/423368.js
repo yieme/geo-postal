@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423368"]={"code":"423368","region":"Tatarstan, Respublika","city":"Dzhalil'","latitude":55.0239,"longitude":52.7358}}(window,'GeoPostal','RU');

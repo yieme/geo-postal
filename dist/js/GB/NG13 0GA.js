@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 0GA"]={"code":"NG13 0GA","region":"England","city":"Redmile","latitude":52.91069,"longitude":-0.8154}}(window,'GeoPostal','GB');

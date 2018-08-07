@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-218"]={"code":"41-218","region":"Slaskie","city":"Sosnowiec","latitude":50.28682,"longitude":19.10385}}(window,'GeoPostal','PL');

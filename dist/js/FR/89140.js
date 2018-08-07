@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89140"]={"code":"89140","region":"Bourgogne-Franche-Comte","city":"Pont-sur-Yonne","latitude":48.28297,"longitude":3.20198}}(window,'GeoPostal','FR');

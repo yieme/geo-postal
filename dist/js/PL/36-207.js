@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-207"]={"code":"36-207","region":"Podkarpackie","city":"Gorki","latitude":49.64385,"longitude":22.04304}}(window,'GeoPostal','PL');

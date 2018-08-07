@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3198"]={"code":"3198","region":"Victoria","city":"Seaford","latitude":-38.1,"longitude":145.13333}}(window,'GeoPostal','AU');

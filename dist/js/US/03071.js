@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03071"]={"code":"03071","region":"NH","city":"New Ipswich","latitude":42.7511,"longitude":-71.8703}}(window,'GeoPostal','US');

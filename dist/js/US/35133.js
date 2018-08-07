@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35133"]={"code":"35133","region":"Alabama","city":"Remlap","latitude":33.821109,"longitude":-86.621344}}(window,'GeoPostal','US');

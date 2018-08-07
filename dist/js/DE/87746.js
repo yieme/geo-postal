@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87746"]={"code":"87746","region":"Bayern","city":"Schlegelsberg","latitude":48.02559,"longitude":10.3491}}(window,'GeoPostal','DE');

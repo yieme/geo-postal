@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68710"]={"code":"68710","region":"Nebraska","city":"Allen","latitude":42.414459,"longitude":-96.842782}}(window,'GeoPostal','US');

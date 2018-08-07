@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12863"]={"code":"12863","region":"NY","city":"Rock City Falls","latitude":43.0662,"longitude":-73.9215}}(window,'GeoPostal','US');

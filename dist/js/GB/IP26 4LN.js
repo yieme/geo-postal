@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 4LN"]={"code":"IP26 4LN","region":"England","city":"Hockwold cum Wilton","latitude":52.4638,"longitude":0.54614}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07400"]={"code":"07400","region":"Auvergne-Rhone-Alpes","city":"Alba-la-Romaine","latitude":44.55537,"longitude":4.59846}}(window,'GeoPostal','FR');

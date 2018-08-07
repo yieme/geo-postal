@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P7B 5E4"]={"code":"P7B 5E4","region":"Ontario","city":"Shuniah Township","latitude":48.5242,"longitude":-89.1147}}(window,'GeoPostal','CA');

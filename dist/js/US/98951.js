@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98951"]={"code":"98951","region":"WA","city":"Wapato","latitude":46.4507,"longitude":-120.4265}}(window,'GeoPostal','US');

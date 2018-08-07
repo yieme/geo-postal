@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305601"]={"code":"305601","region":"Rajasthan","city":"Nasirabad","latitude":26.3,"longitude":74.73333}}(window,'GeoPostal','IN');

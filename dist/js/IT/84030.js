@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84030"]={"code":"84030","region":"Campania","city":"Atena Lucana","latitude":40.45511,"longitude":15.55726}}(window,'GeoPostal','IT');

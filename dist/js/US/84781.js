@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84781"]={"code":"84781","region":"UT","city":"Pine Valley","latitude":37.3898,"longitude":-113.5177}}(window,'GeoPostal','US');

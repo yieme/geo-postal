@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73739"]={"code":"73739","region":"OK","city":"Goltry","latitude":36.5314,"longitude":-98.154}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215434"]={"code":"215434","region":"Jiangsu","city":"Fuqiao","latitude":31.605,"longitude":121.20167}}(window,'GeoPostal','CN');

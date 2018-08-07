@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64380"]={"code":"64380","region":"Hessen","city":"Rossdorf","latitude":49.85972,"longitude":8.76167}}(window,'GeoPostal','DE');

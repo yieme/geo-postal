@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38930"]={"code":"38930","region":"Mississippi","city":"Greenwood","latitude":33.50418,"longitude":-90.16188}}(window,'GeoPostal','US');

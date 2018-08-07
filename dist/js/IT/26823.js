@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26823"]={"code":"26823","region":"Lombardia","city":"Castiglione d'Adda","latitude":45.21887,"longitude":9.69416}}(window,'GeoPostal','IT');

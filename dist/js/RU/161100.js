@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161100"]={"code":"161100","region":"Vologodskaya oblast'","city":"Kirillov","latitude":59.86299,"longitude":38.38128}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52404"]={"code":"52404","region":"Dnipropetrovska oblast","city":"Solone","latitude":48.20805,"longitude":34.87208}}(window,'GeoPostal','UA');

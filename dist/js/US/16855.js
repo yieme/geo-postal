@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16855"]={"code":"16855","region":"PA","city":"Mineral Springs","latitude":40.9981,"longitude":-78.3636}}(window,'GeoPostal','US');

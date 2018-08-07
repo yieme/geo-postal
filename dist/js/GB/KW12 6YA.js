@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW12 6YA"]={"code":"KW12 6YA","region":"Scotland","city":"Halkirk","latitude":58.51227,"longitude":-3.49155}}(window,'GeoPostal','GB');

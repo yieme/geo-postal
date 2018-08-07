@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26323"]={"code":"26323","region":"Juznobanatski okrug","city":"Bela Crkva","latitude":44.8975,"longitude":21.41722}}(window,'GeoPostal','RS');

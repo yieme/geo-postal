@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61744"]={"code":"61744","region":"Illinois","city":"Gridley","latitude":40.744315,"longitude":-88.880295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2001"]={"code":"2001","region":"Neuchatel","city":"Neuchatel","latitude":46.99179,"longitude":6.931}}(window,'GeoPostal','CH');

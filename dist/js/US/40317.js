@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40317"]={"code":"40317","region":"Kentucky","city":"Elliottville","latitude":38.18278,"longitude":-83.27583}}(window,'GeoPostal','US');

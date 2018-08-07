@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12886"]={"code":"12886","region":"NY","city":"Wevertown","latitude":43.6313,"longitude":-73.9364}}(window,'GeoPostal','US');

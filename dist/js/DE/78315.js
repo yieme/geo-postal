@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78315"]={"code":"78315","region":"Baden-Wurttemberg","city":"Radolfzell am Bodensee","latitude":47.74194,"longitude":8.97098}}(window,'GeoPostal','DE');

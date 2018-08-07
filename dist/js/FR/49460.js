@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49460"]={"code":"49460","region":"Pays-de-la-Loire","city":"Feneu","latitude":47.57211,"longitude":-0.59422}}(window,'GeoPostal','FR');

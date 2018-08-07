@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5420"]={"code":"5420","region":"Hordaland","city":"Rubbestadneset","latitude":59.81472,"longitude":5.26806}}(window,'GeoPostal','NO');

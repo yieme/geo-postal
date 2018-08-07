@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36851"]={"code":"36851","region":"AL","city":"Cottonton","latitude":32.1468,"longitude":-85.0738}}(window,'GeoPostal','US');

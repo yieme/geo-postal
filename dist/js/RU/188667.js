@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188667"]={"code":"188667","region":"Leningradskaya oblast'","city":"Osel'ki","latitude":60.20503,"longitude":30.49667}}(window,'GeoPostal','RU');

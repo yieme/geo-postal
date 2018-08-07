@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24110"]={"code":"24110","region":"Nouvelle-Aquitaine","city":"Saint-Astier","latitude":45.14582,"longitude":0.52898}}(window,'GeoPostal','FR');

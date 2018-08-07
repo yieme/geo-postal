@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9212"]={"code":"9212","region":"Sankt Gallen","city":"Gossau","latitude":47.41694,"longitude":9.25125}}(window,'GeoPostal','CH');

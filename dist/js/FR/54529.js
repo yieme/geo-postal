@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54529"]={"code":"54529","region":"Grand-Est","city":"Laxou","latitude":48.68315,"longitude":6.148}}(window,'GeoPostal','FR');

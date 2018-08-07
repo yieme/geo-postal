@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07086"]={"code":"07086","region":"New Jersey","city":"Weehawken","latitude":40.76955,"longitude":-74.02042}}(window,'GeoPostal','US');

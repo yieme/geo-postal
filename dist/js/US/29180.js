@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29180"]={"code":"29180","region":"SC","city":"Winnsboro","latitude":34.381,"longitude":-81.109}}(window,'GeoPostal','US');

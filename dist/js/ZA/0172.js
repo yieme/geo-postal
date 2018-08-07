@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0172"]={"code":"0172","region":"Gauteng","city":"Centurion","latitude":-25.85891,"longitude":28.18577}}(window,'GeoPostal','ZA');

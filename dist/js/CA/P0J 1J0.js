@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1J0"]={"code":"P0J 1J0","region":"Ontario","city":"Gowganda","latitude":47.65016,"longitude":-80.76647}}(window,'GeoPostal','CA');

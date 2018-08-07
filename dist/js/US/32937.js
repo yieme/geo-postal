@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32937"]={"code":"32937","region":"Florida","city":"Indian Harbour Beach","latitude":28.172978,"longitude":-80.598406}}(window,'GeoPostal','US');

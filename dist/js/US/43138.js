@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43138"]={"code":"43138","region":"Ohio","city":"Logan","latitude":39.54007,"longitude":-82.4071}}(window,'GeoPostal','US');

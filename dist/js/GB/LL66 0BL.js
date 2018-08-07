@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL66 0BL"]={"code":"LL66 0BL","region":"Wales","city":"Llanbabo","latitude":53.35342,"longitude":-4.43786}}(window,'GeoPostal','GB');

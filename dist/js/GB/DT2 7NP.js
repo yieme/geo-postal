@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 7NP"]={"code":"DT2 7NP","region":"England","city":"Cheselbourne","latitude":50.79769,"longitude":-2.33944}}(window,'GeoPostal','GB');

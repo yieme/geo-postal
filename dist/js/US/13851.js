@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13851"]={"code":"13851","region":"NY","city":"Vestal","latitude":42.0851,"longitude":-76.0538}}(window,'GeoPostal','US');

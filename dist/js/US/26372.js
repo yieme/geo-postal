@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26372"]={"code":"26372","region":"WV","city":"Horner","latitude":38.9726,"longitude":-80.3656}}(window,'GeoPostal','US');

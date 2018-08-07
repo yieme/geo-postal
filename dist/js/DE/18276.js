@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18276"]={"code":"18276","region":"Mecklenburg-Vorpommern","city":"Garden","latitude":53.68888,"longitude":12.04874}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86190"]={"code":"86190","region":"Nouvelle-Aquitaine","city":"Ayron","latitude":46.66026,"longitude":0.07545}}(window,'GeoPostal','FR');

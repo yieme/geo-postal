@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49664"]={"code":"49664","region":"Michigan","city":"Maple City","latitude":44.880007,"longitude":-85.890364}}(window,'GeoPostal','US');

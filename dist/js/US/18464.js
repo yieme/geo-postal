@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18464"]={"code":"18464","region":"Pennsylvania","city":"Tafton","latitude":41.412697,"longitude":-75.168466}}(window,'GeoPostal','US');

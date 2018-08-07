@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79787"]={"code":"79787","region":"Baden-Wurttemberg","city":"Lauchringen","latitude":47.62699,"longitude":8.31442}}(window,'GeoPostal','DE');

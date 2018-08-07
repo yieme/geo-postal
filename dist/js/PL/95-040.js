@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95-040"]={"code":"95-040","region":"Lodzkie","city":"Koluszki","latitude":51.73872,"longitude":19.81994}}(window,'GeoPostal','PL');

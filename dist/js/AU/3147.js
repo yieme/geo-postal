@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3147"]={"code":"3147","region":"Victoria","city":"Ashburton","latitude":-37.86259,"longitude":145.07936}}(window,'GeoPostal','AU');

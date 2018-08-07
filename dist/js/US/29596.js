@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29596"]={"code":"29596","region":"South Carolina","city":"Wallace","latitude":34.72028,"longitude":-79.84139}}(window,'GeoPostal','US');

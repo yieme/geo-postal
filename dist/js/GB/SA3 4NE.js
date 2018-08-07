@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 4NE"]={"code":"SA3 4NE","region":"Wales","city":"Swansea","latitude":51.62079,"longitude":-3.94323}}(window,'GeoPostal','GB');

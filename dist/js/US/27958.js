@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27958"]={"code":"27958","region":"NC","city":"Moyock","latitude":36.4871,"longitude":-76.1146}}(window,'GeoPostal','US');

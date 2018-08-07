@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25505"]={"code":"25505","region":"WV","city":"Big Creek","latitude":38.0043,"longitude":-82.0401}}(window,'GeoPostal','US');

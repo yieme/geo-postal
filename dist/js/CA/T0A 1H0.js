@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0A 1H0"]={"code":"T0A 1H0","region":"Alberta","city":"Fort Kent","latitude":54.31688,"longitude":-110.61845}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309551"]={"code":"309551","region":"Belgorodskaya oblast'","city":"Rogovatoye","latitude":51.23,"longitude":38.3818}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA7 4LW"]={"code":"KA7 4LW","region":"Scotland","city":"Dunure","latitude":55.40503,"longitude":-4.75995}}(window,'GeoPostal','GB');

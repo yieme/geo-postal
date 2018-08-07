@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37603"]={"code":"37603","region":"Niedersachsen","city":"Holzminden","latitude":51.82798,"longitude":9.4455}}(window,'GeoPostal','DE');

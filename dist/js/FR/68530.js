@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68530"]={"code":"68530","region":"Grand-Est","city":"Buhl","latitude":47.92806,"longitude":7.18719}}(window,'GeoPostal','FR');

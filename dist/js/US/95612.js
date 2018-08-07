@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95612"]={"code":"95612","region":"CA","city":"Clarksburg","latitude":38.3945,"longitude":-121.5641}}(window,'GeoPostal','US');

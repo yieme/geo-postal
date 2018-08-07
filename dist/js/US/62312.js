@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62312"]={"code":"62312","region":"Illinois","city":"Barry","latitude":39.695055,"longitude":-91.021801}}(window,'GeoPostal','US');

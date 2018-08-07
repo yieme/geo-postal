@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70052"]={"code":"70052","region":"Guelmim-Es Semara","city":"Tarfaya","latitude":27.93578,"longitude":-12.92184}}(window,'GeoPostal','MA');

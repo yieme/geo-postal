@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59242"]={"code":"59242","region":"MT","city":"Homestead","latitude":48.435,"longitude":-104.4389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26520"]={"code":"26520","region":"WV","city":"Arthurdale","latitude":39.4951,"longitude":-79.8151}}(window,'GeoPostal','US');

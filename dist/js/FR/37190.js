@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37190"]={"code":"37190","region":"Centre-Val de Loire","city":"Sache","latitude":47.24707,"longitude":0.54455}}(window,'GeoPostal','FR');

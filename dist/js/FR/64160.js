@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64160"]={"code":"64160","region":"Nouvelle-Aquitaine","city":"Buros","latitude":43.35,"longitude":-0.3}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B3L 4H9"]={"code":"B3L 4H9","region":"Nova Scotia","city":"Halifax","latitude":44.659936,"longitude":-63.628455}}(window,'GeoPostal','CA');

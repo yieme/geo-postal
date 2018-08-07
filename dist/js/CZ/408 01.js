@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["408 01"]={"code":"408 01","region":"Ustecky kraj","city":"Rumburk","latitude":50.95151,"longitude":14.55699}}(window,'GeoPostal','CZ');

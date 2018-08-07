@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27029"]={"code":"27029","region":"Lombardia","city":"Vigevano","latitude":45.31166,"longitude":8.86114}}(window,'GeoPostal','IT');

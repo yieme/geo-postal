@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32141"]={"code":"32141","region":"FL","city":"Edgewater","latitude":28.9455,"longitude":-80.8969}}(window,'GeoPostal','US');

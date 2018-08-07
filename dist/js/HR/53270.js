@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53270"]={"code":"53270","region":"Licko-senjska zupanija","city":"Senj","latitude":44.98944,"longitude":14.90583}}(window,'GeoPostal','HR');

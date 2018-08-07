@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY13 2BG"]={"code":"SY13 2BG","region":"England","city":"Lower Heath","latitude":52.89099,"longitude":-2.63243}}(window,'GeoPostal','GB');

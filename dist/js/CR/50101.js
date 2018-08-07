@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50101"]={"code":"50101","region":"Guanacaste","city":"Liberia","latitude":10.63504,"longitude":-85.43772}}(window,'GeoPostal','CR');

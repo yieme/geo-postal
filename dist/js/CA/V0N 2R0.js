@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2R0"]={"code":"V0N 2R0","region":"British Columbia","city":"Port McNeill","latitude":50.560443,"longitude":-127.009701}}(window,'GeoPostal','CA');

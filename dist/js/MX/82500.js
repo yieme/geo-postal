@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82500"]={"code":"82500","region":"Sinaloa","city":"Escuinapa de Hidalgo","latitude":22.85,"longitude":-105.8}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["644037"]={"code":"644037","region":"Altayskiy kray","city":"Barnaul","latitude":53.36056,"longitude":83.76361}}(window,'GeoPostal','RU');

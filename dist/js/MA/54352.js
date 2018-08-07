@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54352"]={"code":"54352","region":"Meknes-Tafilalet","city":"Amersid","latitude":32.74983,"longitude":-4.47063}}(window,'GeoPostal','MA');

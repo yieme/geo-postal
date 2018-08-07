@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN28 8AL"]={"code":"TN28 8AL","region":"England","city":"New Romney","latitude":50.98599,"longitude":0.94122}}(window,'GeoPostal','GB');

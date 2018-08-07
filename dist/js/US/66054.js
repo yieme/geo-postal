@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66054"]={"code":"66054","region":"KS","city":"Mc Louth","latitude":39.1668,"longitude":-95.2183}}(window,'GeoPostal','US');

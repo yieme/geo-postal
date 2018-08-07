@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96024"]={"code":"96024","region":"CA","city":"Douglas City","latitude":40.6342,"longitude":-122.9239}}(window,'GeoPostal','US');

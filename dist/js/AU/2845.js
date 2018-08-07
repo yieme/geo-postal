@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2845"]={"code":"2845","region":"New South Wales","city":"Wallerawang","latitude":-33.41096,"longitude":150.06456}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5801"]={"code":"5801","region":"Capiz","city":"Panay","latitude":11.55778,"longitude":122.79417}}(window,'GeoPostal','PH');

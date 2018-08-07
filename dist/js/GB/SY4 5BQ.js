@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 5BQ"]={"code":"SY4 5BQ","region":"England","city":"Wem","latitude":52.85835,"longitude":-2.71826}}(window,'GeoPostal','GB');

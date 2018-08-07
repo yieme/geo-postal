@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46938"]={"code":"46938","region":"IN","city":"Jonesboro","latitude":40.4815,"longitude":-85.6365}}(window,'GeoPostal','US');

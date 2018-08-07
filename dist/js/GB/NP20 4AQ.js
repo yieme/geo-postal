@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP20 4AQ"]={"code":"NP20 4AQ","region":"Wales","city":"Newport","latitude":51.58774,"longitude":-2.99835}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51465"]={"code":"51465","region":"IA","city":"Vail","latitude":42.0338,"longitude":-95.1778}}(window,'GeoPostal','US');

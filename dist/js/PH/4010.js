@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4010"]={"code":"4010","region":"Laguna","city":"Pila","latitude":14.2325,"longitude":121.3648}}(window,'GeoPostal','PH');

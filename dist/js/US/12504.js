@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12504"]={"code":"12504","region":"New York","city":"Red Hook","latitude":42.0124,"longitude":-73.8998}}(window,'GeoPostal','US');

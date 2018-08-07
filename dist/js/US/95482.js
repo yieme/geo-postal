@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95482"]={"code":"95482","region":"California","city":"Ukiah","latitude":39.152804,"longitude":-123.203431}}(window,'GeoPostal','US');

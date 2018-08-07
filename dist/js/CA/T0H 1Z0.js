@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1Z0"]={"code":"T0H 1Z0","region":"Alberta","city":"High Level","latitude":58.51688,"longitude":-117.13605}}(window,'GeoPostal','CA');

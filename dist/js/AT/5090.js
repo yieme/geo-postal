@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5090"]={"code":"5090","region":"Salzburg","city":"Lofer","latitude":47.58634,"longitude":12.6932}}(window,'GeoPostal','AT');

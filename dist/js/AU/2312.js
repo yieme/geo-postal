@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2312"]={"code":"2312","region":"New South Wales","city":"Nabiac","latitude":-32.09837,"longitude":152.37627}}(window,'GeoPostal','AU');

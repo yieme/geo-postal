@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45848-000"]={"code":"45848-000","region":"Bahia","city":"Guaratinga","latitude":-16.56667,"longitude":-39.56667}}(window,'GeoPostal','BR');

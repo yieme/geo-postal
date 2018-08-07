@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66219"]={"code":"66219","region":"Kansas","city":"Lenexa","latitude":38.965324,"longitude":-94.766364}}(window,'GeoPostal','US');

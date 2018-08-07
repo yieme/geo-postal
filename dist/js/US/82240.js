@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82240"]={"code":"82240","region":"Wyoming","city":"Torrington","latitude":42.06246,"longitude":-104.18439}}(window,'GeoPostal','US');

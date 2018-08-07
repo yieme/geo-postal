@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6RU"]={"code":"PA28 6RU","region":"Northern Ireland","city":"Kilraghts","latitude":55.06992,"longitude":-6.40932}}(window,'GeoPostal','GB');

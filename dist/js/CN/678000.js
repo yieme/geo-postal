@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678000"]={"code":"678000","region":"Yunnan","city":"Baoshan","latitude":25.116667,"longitude":99.166667}}(window,'GeoPostal','CN');

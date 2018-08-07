@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50570"]={"code":"50570","region":"Normandie","city":"Marigny","latitude":49.09952,"longitude":-1.24179}}(window,'GeoPostal','FR');

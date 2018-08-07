@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30121"]={"code":"30121","region":"Georgia","city":"Cartersville","latitude":34.2298,"longitude":-84.7891}}(window,'GeoPostal','US');

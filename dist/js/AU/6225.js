@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6225"]={"code":"6225","region":"Western Australia","city":"Collie","latitude":-33.36206,"longitude":116.15617}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64647"]={"code":"64647","region":"MO","city":"Jameson","latitude":40.0046,"longitude":-93.9597}}(window,'GeoPostal','US');

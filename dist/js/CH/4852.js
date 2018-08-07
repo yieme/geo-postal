@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4852"]={"code":"4852","region":"Aargau","city":"Rothrist","latitude":47.30508,"longitude":7.89196}}(window,'GeoPostal','CH');

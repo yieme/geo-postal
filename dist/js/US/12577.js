@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12577"]={"code":"12577","region":"NY","city":"Salisbury Mills","latitude":41.4497,"longitude":-74.1214}}(window,'GeoPostal','US');

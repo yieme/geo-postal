@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58018"]={"code":"58018","region":"ND","city":"Colfax","latitude":46.4574,"longitude":-96.8737}}(window,'GeoPostal','US');

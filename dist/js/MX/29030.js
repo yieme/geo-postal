@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29030"]={"code":"29030","region":"Chiapas","city":"Tuxtla Gutierrez","latitude":16.75,"longitude":-93.11667}}(window,'GeoPostal','MX');

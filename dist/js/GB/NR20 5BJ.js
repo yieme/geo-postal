@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR20 5BJ"]={"code":"NR20 5BJ","region":"England","city":"Wood Norton","latitude":52.81667,"longitude":0.98333}}(window,'GeoPostal','GB');

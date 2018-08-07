@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-300"]={"code":"64-300","region":"Wielkopolskie","city":"Nowy Tomysl","latitude":52.3195,"longitude":16.12844}}(window,'GeoPostal','PL');

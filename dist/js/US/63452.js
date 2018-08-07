@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63452"]={"code":"63452","region":"Missouri","city":"Lewistown","latitude":40.084933,"longitude":-91.813014}}(window,'GeoPostal','US');

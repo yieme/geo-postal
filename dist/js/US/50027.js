@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50027"]={"code":"50027","region":"IA","city":"Barnes City","latitude":41.4883,"longitude":-92.4703}}(window,'GeoPostal','US');

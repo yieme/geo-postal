@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62319"]={"code":"62319","region":"IL","city":"Camden","latitude":40.1511,"longitude":-90.7544}}(window,'GeoPostal','US');

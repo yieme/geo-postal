@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713387"]={"code":"713387","region":"West Bengal","city":"Bahula","latitude":23.65176,"longitude":87.16475}}(window,'GeoPostal','IN');

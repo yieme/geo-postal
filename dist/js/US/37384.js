@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37384"]={"code":"37384","region":"TN","city":"Soddy Daisy","latitude":35.2211,"longitude":-85.2091}}(window,'GeoPostal','US');

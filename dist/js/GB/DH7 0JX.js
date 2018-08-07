@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH7 0JX"]={"code":"DH7 0JX","region":"England","city":"Lanchester","latitude":54.82108,"longitude":-1.74256}}(window,'GeoPostal','GB');

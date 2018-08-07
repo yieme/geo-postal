@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["314500"]={"code":"314500","region":"Zhejiang","city":"Wutong","latitude":30.63288,"longitude":120.5608}}(window,'GeoPostal','CN');

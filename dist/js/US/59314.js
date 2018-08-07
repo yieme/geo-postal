@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59314"]={"code":"59314","region":"MT","city":"Biddle","latitude":45.0994,"longitude":-105.3383}}(window,'GeoPostal','US');

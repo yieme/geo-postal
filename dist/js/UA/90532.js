@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90532"]={"code":"90532","region":"Zakarpatska oblast","city":"Kalyny","latitude":48.14078,"longitude":23.8738}}(window,'GeoPostal','UA');

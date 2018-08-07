@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22621"]={"code":"22621","region":"Khyber Pakhtunkhwa","city":"Haripur","latitude":33.99997,"longitude":72.93409}}(window,'GeoPostal','PK');

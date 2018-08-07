@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98590-000"]={"code":"98590-000","region":"Rio Grande do Sul","city":"Santo Augusto","latitude":-27.85083,"longitude":-53.77722}}(window,'GeoPostal','BR');

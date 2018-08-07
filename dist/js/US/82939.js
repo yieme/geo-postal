@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82939"]={"code":"82939","region":"Wyoming","city":"Mountain View","latitude":41.26884,"longitude":-110.33988}}(window,'GeoPostal','US');

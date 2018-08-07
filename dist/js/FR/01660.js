@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01660"]={"code":"01660","region":"Auvergne-Rhone-Alpes","city":"Mezeriat","latitude":46.23431,"longitude":5.04806}}(window,'GeoPostal','FR');

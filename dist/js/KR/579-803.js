@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["579-803"]={"code":"579-803","region":"Jeollabuk-do","city":"Puan","latitude":35.72806,"longitude":126.73194}}(window,'GeoPostal','KR');

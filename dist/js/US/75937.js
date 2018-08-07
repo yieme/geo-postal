@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75937"]={"code":"75937","region":"TX","city":"Chireno","latitude":31.5119,"longitude":-94.4302}}(window,'GeoPostal','US');

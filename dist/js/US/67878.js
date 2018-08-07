@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67878"]={"code":"67878","region":"Kansas","city":"Syracuse","latitude":37.98057,"longitude":-101.75267}}(window,'GeoPostal','US');

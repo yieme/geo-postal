@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75132"]={"code":"75132","region":"TX","city":"Fate","latitude":32.9415,"longitude":-96.3814}}(window,'GeoPostal','US');

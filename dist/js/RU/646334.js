@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646334"]={"code":"646334","region":"Omskaya oblast'","city":"Tyukalinsk","latitude":55.87321,"longitude":72.19673}}(window,'GeoPostal','RU');

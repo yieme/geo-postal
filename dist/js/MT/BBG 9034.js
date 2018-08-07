@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BBG 9034"]={"code":"BBG 9034","region":"Birzebbuga","city":"Birzebbuga","latitude":35.82583,"longitude":14.52694}}(window,'GeoPostal','MT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10213"]={"code":"10213","region":"Maria Trinidad Sanchez","city":"Nagua","latitude":19.3832,"longitude":-69.8474}}(window,'GeoPostal','DO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321-0162"]={"code":"321-0162","region":"Tochigi","city":"Utsunomiya","latitude":36.55,"longitude":139.883}}(window,'GeoPostal','JP');

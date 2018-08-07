@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659070"]={"code":"659070","region":"Altayskiy kray","city":"Topchikha","latitude":52.8192,"longitude":83.1185}}(window,'GeoPostal','RU');

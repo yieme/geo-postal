@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4Z 0A1"]={"code":"G4Z 0A1","region":"Quebec","city":"Baie-Comeau","latitude":49.21679,"longitude":-68.14894}}(window,'GeoPostal','CA');

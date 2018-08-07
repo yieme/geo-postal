@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48880"]={"code":"48880","region":"Jalisco","city":"Las Juntas","latitude":19.41667,"longitude":-104.7}}(window,'GeoPostal','MX');

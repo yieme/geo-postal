@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W11 2PD"]={"code":"W11 2PD","region":"England","city":"Notting Hill","latitude":51.5115,"longitude":-0.20587}}(window,'GeoPostal','GB');

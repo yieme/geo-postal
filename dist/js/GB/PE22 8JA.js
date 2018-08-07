@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 8JA"]={"code":"PE22 8JA","region":"England","city":"Eastville","latitude":53.09111,"longitude":0.09167}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0L 2C0"]={"code":"N0L 2C0","region":"Ontario","city":"Rodney","latitude":42.56679,"longitude":-81.68306}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76537"]={"code":"76537","region":"TX","city":"Jarrell","latitude":30.8119,"longitude":-97.5942}}(window,'GeoPostal','US');

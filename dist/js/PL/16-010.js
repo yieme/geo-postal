@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-010"]={"code":"16-010","region":"Podlaskie","city":"Wasilkow","latitude":53.19909,"longitude":23.20776}}(window,'GeoPostal','PL');

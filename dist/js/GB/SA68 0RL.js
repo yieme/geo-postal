@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0RL"]={"code":"SA68 0RL","region":"Wales","city":"Broadmoor","latitude":51.71722,"longitude":-4.755}}(window,'GeoPostal','GB');

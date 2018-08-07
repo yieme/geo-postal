@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9TL"]={"code":"ZE2 9TL","region":"Scotland","city":"Mossbank","latitude":60.45,"longitude":-1.2}}(window,'GeoPostal','GB');

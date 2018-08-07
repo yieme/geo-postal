@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6LS"]={"code":"IP28 6LS","region":"England","city":"Hengrave","latitude":52.2857,"longitude":0.67557}}(window,'GeoPostal','GB');

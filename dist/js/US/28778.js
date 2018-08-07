@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28778"]={"code":"28778","region":"North Carolina","city":"Swannanoa","latitude":35.601922,"longitude":-82.409882}}(window,'GeoPostal','US');

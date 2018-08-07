@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["079-1143"]={"code":"079-1143","region":"Hokkaido","city":"Akabira","latitude":43.55,"longitude":142.05}}(window,'GeoPostal','JP');

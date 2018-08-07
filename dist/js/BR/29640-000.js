@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29640-000"]={"code":"29640-000","region":"Espirito Santo","city":"Jetiba","latitude":-20.05,"longitude":-40.66667}}(window,'GeoPostal','BR');

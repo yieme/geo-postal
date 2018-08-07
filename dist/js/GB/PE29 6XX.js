@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE29 6XX"]={"code":"PE29 6XX","region":"England","city":"Huntington","latitude":52.7,"longitude":-2.03333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42165"]={"code":"42165","region":"Banten","city":"Cikedung","latitude":-6.1322,"longitude":105.9853}}(window,'GeoPostal','ID');

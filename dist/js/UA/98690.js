@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98690"]={"code":"98690","region":"Avtonomna Respublika Krym","city":"Foros","latitude":44.39214,"longitude":33.78798}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 1L0"]={"code":"A0B 1L0","region":"Newfoundland and Labrador","city":"Chapel Arm","latitude":47.51691,"longitude":-53.66933}}(window,'GeoPostal','CA');

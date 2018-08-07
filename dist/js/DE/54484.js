@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54484"]={"code":"54484","region":"Rheinland-Pfalz","city":"Noviand","latitude":49.92967,"longitude":6.98785}}(window,'GeoPostal','DE');

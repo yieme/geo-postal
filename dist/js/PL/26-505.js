@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-505"]={"code":"26-505","region":"Mazowieckie","city":"Oronsko","latitude":51.31339,"longitude":20.99067}}(window,'GeoPostal','PL');

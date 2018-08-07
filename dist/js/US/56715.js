@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56715"]={"code":"56715","region":"Minnesota","city":"Brooks","latitude":47.803986,"longitude":-96.030942}}(window,'GeoPostal','US');

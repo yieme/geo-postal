@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68785"]={"code":"68785","region":"NE","city":"Waterbury","latitude":42.4604,"longitude":-96.7448}}(window,'GeoPostal','US');

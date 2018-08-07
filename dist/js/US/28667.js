@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28667"]={"code":"28667","region":"NC","city":"Rhodhiss","latitude":35.7772,"longitude":-81.4302}}(window,'GeoPostal','US');

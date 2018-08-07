@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86250"]={"code":"86250","region":"Nouvelle-Aquitaine","city":"Charroux","latitude":46.1441,"longitude":0.40354}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69354"]={"code":"69354","region":"NE","city":"Marsland","latitude":42.4439,"longitude":-103.2985}}(window,'GeoPostal','US');

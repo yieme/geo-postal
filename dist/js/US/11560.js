@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11560"]={"code":"11560","region":"NY","city":"Locust Valley","latitude":40.8817,"longitude":-73.5927}}(window,'GeoPostal','US');

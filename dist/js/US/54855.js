@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54855"]={"code":"54855","region":"WI","city":"Marengo","latitude":46.4071,"longitude":-90.84}}(window,'GeoPostal','US');

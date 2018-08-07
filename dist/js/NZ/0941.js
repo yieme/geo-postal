@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0941"]={"code":"0941","region":"Auckland","city":"Warkworth","latitude":-36.4,"longitude":174.66667}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625501"]={"code":"625501","region":"Tamil Nadu","city":"Melur","latitude":10.05,"longitude":78.33333}}(window,'GeoPostal','IN');

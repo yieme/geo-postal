@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN37 9NJ"]={"code":"DN37 9NJ","region":"England","city":"Great Coates","latitude":53.5707,"longitude":-0.13905}}(window,'GeoPostal','GB');

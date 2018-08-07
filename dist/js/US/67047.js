@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67047"]={"code":"67047","region":"Kansas","city":"Fall River","latitude":37.6072,"longitude":-96.0279}}(window,'GeoPostal','US');

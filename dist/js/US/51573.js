@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51573"]={"code":"51573","region":"Iowa","city":"Stanton","latitude":40.981681,"longitude":-95.102329}}(window,'GeoPostal','US');

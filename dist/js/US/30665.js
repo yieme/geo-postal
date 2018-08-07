@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30665"]={"code":"30665","region":"Georgia","city":"Siloam","latitude":33.531754,"longitude":-83.080308}}(window,'GeoPostal','US');

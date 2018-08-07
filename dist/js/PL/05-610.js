@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-610"]={"code":"05-610","region":"Mazowieckie","city":"Goszczyn","latitude":51.73187,"longitude":20.85154}}(window,'GeoPostal','PL');

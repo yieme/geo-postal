@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["528308"]={"code":"528308","region":"Guangdong","city":"Daliang","latitude":22.85042,"longitude":113.24701}}(window,'GeoPostal','CN');

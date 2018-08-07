@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70657"]={"code":"70657","region":"LA","city":"Ragley","latitude":30.4703,"longitude":-93.2337}}(window,'GeoPostal','US');

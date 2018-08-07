@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50904"]={"code":"50904","region":"Guanacaste","city":"Nandayure","latitude":10.03333,"longitude":-85.2}}(window,'GeoPostal','CR');

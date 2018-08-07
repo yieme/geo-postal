@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31250"]={"code":"31250","region":"Zlatiborski okrug","city":"Bajina Basta","latitude":43.97083,"longitude":19.5675}}(window,'GeoPostal','RS');

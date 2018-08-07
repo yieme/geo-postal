@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20615"]={"code":"20615","region":"MD","city":"Broomes Island","latitude":38.418,"longitude":-76.5478}}(window,'GeoPostal','US');

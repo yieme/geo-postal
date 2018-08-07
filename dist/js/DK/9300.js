@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Nordjylland","city":"Saeby","latitude":57.33188,"longitude":10.52251}}(window,'GeoPostal','DK');

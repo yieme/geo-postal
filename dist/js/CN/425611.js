@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425611"]={"code":"425611","region":"Hunan","city":"Renhe","latitude":25.68139,"longitude":111.9525}}(window,'GeoPostal','CN');

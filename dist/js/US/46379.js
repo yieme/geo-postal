@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46379"]={"code":"46379","region":"IN","city":"Sumava Resorts","latitude":41.1671,"longitude":-87.4335}}(window,'GeoPostal','US');

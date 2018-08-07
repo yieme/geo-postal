@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38253"]={"code":"38253","region":"Tennessee","city":"Rives","latitude":36.324247,"longitude":-89.03989}}(window,'GeoPostal','US');

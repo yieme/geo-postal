@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5660"]={"code":"5660","region":"Namur","city":"Couvin","latitude":50.05284,"longitude":4.49495}}(window,'GeoPostal','BE');

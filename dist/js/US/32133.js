@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32133"]={"code":"32133","region":"FL","city":"Eastlake Weir","latitude":29.0088,"longitude":-81.9094}}(window,'GeoPostal','US');

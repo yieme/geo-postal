@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28709"]={"code":"28709","region":"Madrid, Comunidad de","city":"Alcobendas","latitude":40.54746,"longitude":-3.64197}}(window,'GeoPostal','ES');

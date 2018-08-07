@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60421"]={"code":"60421","region":"Illinois","city":"Channahon","latitude":41.423976,"longitude":-88.084333}}(window,'GeoPostal','US');

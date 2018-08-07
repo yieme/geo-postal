@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04766"]={"code":"04766","region":"Maine","city":"Perham","latitude":46.844167,"longitude":-68.197778}}(window,'GeoPostal','US');

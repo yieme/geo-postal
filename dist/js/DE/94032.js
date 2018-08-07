@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94032"]={"code":"94032","region":"Bayern","city":"Passau","latitude":48.57116,"longitude":13.44898}}(window,'GeoPostal','DE');

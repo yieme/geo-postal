@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65929"]={"code":"65929","region":"Hessen","city":"Hochst","latitude":50.09581,"longitude":8.53861}}(window,'GeoPostal','DE');

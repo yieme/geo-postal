@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78596"]={"code":"78596","region":"Texas","city":"Weslaco","latitude":26.15952,"longitude":-97.99084}}(window,'GeoPostal','US');

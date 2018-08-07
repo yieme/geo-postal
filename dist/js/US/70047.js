@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70047"]={"code":"70047","region":"LA","city":"Destrehan","latitude":29.9642,"longitude":-90.3682}}(window,'GeoPostal','US');

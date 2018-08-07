@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78187"]={"code":"78187","region":"Baden-Wurttemberg","city":"Neudingen","latitude":47.91254,"longitude":8.57059}}(window,'GeoPostal','DE');

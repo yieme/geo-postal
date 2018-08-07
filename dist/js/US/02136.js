@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02136"]={"code":"02136","region":"Massachusetts","city":"Hyde Park","latitude":42.2523,"longitude":-71.12868}}(window,'GeoPostal','US');

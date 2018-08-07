@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38210"]={"code":"38210","region":"Auvergne-Rhone-Alpes","city":"Tullins","latitude":45.29861,"longitude":5.48608}}(window,'GeoPostal','FR');

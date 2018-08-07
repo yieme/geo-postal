@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334 52"]={"code":"334 52","region":"Plzensky kraj","city":"Merklin","latitude":49.56043,"longitude":13.1979}}(window,'GeoPostal','CZ');

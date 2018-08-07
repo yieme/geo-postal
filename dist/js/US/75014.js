@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75014"]={"code":"75014","region":"Texas","city":"Irving","latitude":32.81402,"longitude":-96.94889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3965"]={"code":"3965","region":"Victoria","city":"Port Welshpool","latitude":-38.69917,"longitude":146.45312}}(window,'GeoPostal','AU');

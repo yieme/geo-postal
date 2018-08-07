@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9SD"]={"code":"ZE2 9SD","region":"Scotland","city":"Veensgarth","latitude":60.18318,"longitude":-1.23021}}(window,'GeoPostal','GB');

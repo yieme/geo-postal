@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53347"]={"code":"53347","region":"Nordrhein-Westfalen","city":"Alfter","latitude":50.73333,"longitude":7.01667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68037"]={"code":"68037","region":"NE","city":"Louisville","latitude":40.9967,"longitude":-96.1948}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95962"]={"code":"95962","region":"California","city":"Oregon House","latitude":39.355918,"longitude":-121.260816}}(window,'GeoPostal','US');

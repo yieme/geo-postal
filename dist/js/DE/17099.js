@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17099"]={"code":"17099","region":"Mecklenburg-Vorpommern","city":"Hohenstein","latitude":53.62684,"longitude":13.58929}}(window,'GeoPostal','DE');

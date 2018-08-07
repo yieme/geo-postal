@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2R0"]={"code":"J0B 2R0","region":"Quebec","city":"Sainte-Edwidge-de-Clifton","latitude":45.20009,"longitude":-71.68237}}(window,'GeoPostal','CA');

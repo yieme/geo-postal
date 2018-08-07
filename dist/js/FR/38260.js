@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38260"]={"code":"38260","region":"Auvergne-Rhone-Alpes","city":"Penol","latitude":45.3911,"longitude":5.1917}}(window,'GeoPostal','FR');

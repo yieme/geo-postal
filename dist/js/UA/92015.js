@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92015"]={"code":"92015","region":"Luhanska oblast","city":"Beloye","latitude":48.49523,"longitude":39.05051}}(window,'GeoPostal','UA');

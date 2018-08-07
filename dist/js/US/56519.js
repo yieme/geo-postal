@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56519"]={"code":"56519","region":"MN","city":"Borup","latitude":47.1896,"longitude":-96.553}}(window,'GeoPostal','US');

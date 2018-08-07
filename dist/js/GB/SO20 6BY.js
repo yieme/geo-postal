@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 6BY"]={"code":"SO20 6BY","region":"Wales","city":"Greenfield","latitude":53.28333,"longitude":-3.21667}}(window,'GeoPostal','GB');

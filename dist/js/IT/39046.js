@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39046"]={"code":"39046","region":"Trentino-Alto Adige","city":"Ortisei","latitude":46.57432,"longitude":11.66748}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89863"]={"code":"89863","region":"Calabria","city":"Joppolo","latitude":38.58338,"longitude":15.89709}}(window,'GeoPostal','IT');

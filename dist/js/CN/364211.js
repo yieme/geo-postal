@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364211"]={"code":"364211","region":"Fujian","city":"Shaxiaba","latitude":25.32236,"longitude":116.50023}}(window,'GeoPostal','CN');

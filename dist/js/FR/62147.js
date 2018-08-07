@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62147"]={"code":"62147","region":"Hauts-de-France","city":"Graincourt-les-Havrincourt","latitude":50.1453,"longitude":3.1103}}(window,'GeoPostal','FR');

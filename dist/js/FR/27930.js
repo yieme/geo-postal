@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27930"]={"code":"27930","region":"Normandie","city":"Sacquenville","latitude":49.0842,"longitude":1.0736}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58210"]={"code":"58210","region":"ND","city":"Adams","latitude":48.4223,"longitude":-98.0867}}(window,'GeoPostal','US');

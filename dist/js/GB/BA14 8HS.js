@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA14 8HS"]={"code":"BA14 8HS","region":"England","city":"Wincanton","latitude":51.05676,"longitude":-2.40574}}(window,'GeoPostal','GB');

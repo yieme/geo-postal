@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89356"]={"code":"89356","region":"Bayern","city":"Rofingen","latitude":48.42442,"longitude":10.44268}}(window,'GeoPostal','DE');

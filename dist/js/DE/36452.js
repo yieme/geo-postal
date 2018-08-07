@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36452"]={"code":"36452","region":"Thuringen","city":"Diedorf","latitude":50.6617,"longitude":10.12472}}(window,'GeoPostal','DE');

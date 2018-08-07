@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25508"]={"code":"25508","region":"West Virginia","city":"Chapmanville","latitude":37.97371,"longitude":-82.01735}}(window,'GeoPostal','US');

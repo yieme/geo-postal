@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 1LW"]={"code":"PE32 1LW","region":"England","city":"Ashwicken","latitude":52.7463,"longitude":0.51696}}(window,'GeoPostal','GB');

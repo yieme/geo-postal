@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29646"]={"code":"29646","region":"South Carolina","city":"Greenwood","latitude":34.1954,"longitude":-82.16179}}(window,'GeoPostal','US');

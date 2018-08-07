@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BL5 3AZ"]={"code":"BL5 3AZ","region":"England","city":"Westhoughton","latitude":53.54899,"longitude":-2.52464}}(window,'GeoPostal','GB');

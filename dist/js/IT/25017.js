@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25017"]={"code":"25017","region":"Veneto","city":"Garda","latitude":45.57779,"longitude":10.71238}}(window,'GeoPostal','IT');

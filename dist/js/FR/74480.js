@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74480"]={"code":"74480","region":"Auvergne-Rhone-Alpes","city":"Passy","latitude":45.92028,"longitude":6.68765}}(window,'GeoPostal','FR');

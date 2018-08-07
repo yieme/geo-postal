@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR27 6HY"]={"code":"TR27 6HY","region":"England","city":"Saint Erth","latitude":50.16667,"longitude":-5.43333}}(window,'GeoPostal','GB');

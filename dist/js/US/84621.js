@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84621"]={"code":"84621","region":"Utah","city":"Axtell","latitude":39.115855,"longitude":-111.773419}}(window,'GeoPostal','US');

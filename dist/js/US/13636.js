@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13636"]={"code":"13636","region":"NY","city":"Ellisburg","latitude":43.7434,"longitude":-76.1165}}(window,'GeoPostal','US');

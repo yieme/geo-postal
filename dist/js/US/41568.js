@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41568"]={"code":"41568","region":"Kentucky","city":"Stopover","latitude":37.51938,"longitude":-82.0545}}(window,'GeoPostal','US');

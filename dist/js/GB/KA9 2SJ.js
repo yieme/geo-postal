@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA9 2SJ"]={"code":"KA9 2SJ","region":"Scotland","city":"Symington","latitude":55.53333,"longitude":-4.56667}}(window,'GeoPostal','GB');

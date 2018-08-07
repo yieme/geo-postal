@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12017"]={"code":"12017","region":"San Marcos","city":"Ciudad Tecun Uman","latitude":14.66667,"longitude":-92.15}}(window,'GeoPostal','GT');

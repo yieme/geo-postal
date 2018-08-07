@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671319"]={"code":"671319","region":"Kerala","city":"Nileshwar","latitude":12.25,"longitude":75.1}}(window,'GeoPostal','IN');

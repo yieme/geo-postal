@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48635"]={"code":"48635","region":"Michigan","city":"Lupton","latitude":44.43861,"longitude":-84.10944}}(window,'GeoPostal','US');

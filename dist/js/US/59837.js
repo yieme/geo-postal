@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59837"]={"code":"59837","region":"MT","city":"Hall","latitude":46.5825,"longitude":-113.2087}}(window,'GeoPostal','US');

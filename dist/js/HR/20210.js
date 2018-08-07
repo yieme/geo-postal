@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20210"]={"code":"20210","region":"Dubrovacko-neretvanska zupanija","city":"Jasenice","latitude":42.59278,"longitude":18.26917}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30002"]={"code":"30002","region":"GA","city":"Avondale Estates","latitude":33.7717,"longitude":-84.2607}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["854100"]={"code":"854100","region":"Xizang","city":"Jomda","latitude":31.5,"longitude":98.26667}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11978"]={"code":"11978","region":"New York","city":"Westhampton Beach","latitude":40.80316,"longitude":-72.61454}}(window,'GeoPostal','US');

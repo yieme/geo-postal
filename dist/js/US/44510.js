@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44510"]={"code":"44510","region":"Ohio","city":"Youngstown","latitude":41.120133,"longitude":-80.669443}}(window,'GeoPostal','US');

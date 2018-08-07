@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807"]={"code":"807","region":"Kaohsiung","city":"Kaohsiung","latitude":22.61626,"longitude":120.31333}}(window,'GeoPostal','TW');

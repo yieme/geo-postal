@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61011"]={"code":"61011","region":"Marche","city":"Gabicce","latitude":43.96471,"longitude":12.75641}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 3EG"]={"code":"CA10 3EG","region":"England","city":"Little Strickland","latitude":54.56738,"longitude":-2.67414}}(window,'GeoPostal','GB');

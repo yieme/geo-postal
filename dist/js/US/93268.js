@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93268"]={"code":"93268","region":"California","city":"Taft","latitude":35.14247,"longitude":-119.45651}}(window,'GeoPostal','US');

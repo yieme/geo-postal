@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87036"]={"code":"87036","region":"New Mexico","city":"Mountainair","latitude":34.51972,"longitude":-106.24333}}(window,'GeoPostal','US');

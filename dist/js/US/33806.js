@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33806"]={"code":"33806","region":"FL","city":"Lakeland","latitude":28.0395,"longitude":-81.9498}}(window,'GeoPostal','US');

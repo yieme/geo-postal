@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0H 2N0"]={"code":"P0H 2N0","region":"Ontario","city":"Warren","latitude":46.45009,"longitude":-80.29969}}(window,'GeoPostal','CA');

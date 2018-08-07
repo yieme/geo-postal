@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2673"]={"code":"2673","region":"Zuid-Holland","city":"Naaldwijk","latitude":51.99417,"longitude":4.20972}}(window,'GeoPostal','NL');

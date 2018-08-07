@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86130"]={"code":"86130","region":"Nouvelle-Aquitaine","city":"Dissay","latitude":46.70007,"longitude":0.43311}}(window,'GeoPostal','FR');

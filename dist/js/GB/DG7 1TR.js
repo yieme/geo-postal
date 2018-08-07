@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 1TR"]={"code":"DG7 1TR","region":"Scotland","city":"Bridge of Dee","latitude":54.91965,"longitude":-3.97847}}(window,'GeoPostal','GB');

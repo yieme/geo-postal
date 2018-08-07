@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4222"]={"code":"4222","region":"Batangas","city":"Cuenca","latitude":13.902,"longitude":121.0521}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79700"]={"code":"79700","region":"Nouvelle-Aquitaine","city":"Mauleon","latitude":46.9236,"longitude":-0.7483}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30639"]={"code":"30639","region":"Georgia","city":"Franklin Springs","latitude":34.28472,"longitude":-83.14333}}(window,'GeoPostal','US');

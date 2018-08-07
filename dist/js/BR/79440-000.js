@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79440-000"]={"code":"79440-000","region":"Mato Grosso do Sul","city":"Campo Verde","latitude":-20.41667,"longitude":-54.06667}}(window,'GeoPostal','BR');

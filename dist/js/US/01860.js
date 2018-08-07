@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01860"]={"code":"01860","region":"MA","city":"Merrimac","latitude":42.8346,"longitude":-71.0047}}(window,'GeoPostal','US');

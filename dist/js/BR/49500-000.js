@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49500-000"]={"code":"49500-000","region":"Sergipe","city":"Itabaiana","latitude":-10.685,"longitude":-37.42528}}(window,'GeoPostal','BR');

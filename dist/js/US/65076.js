@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65076"]={"code":"65076","region":"MO","city":"Saint Thomas","latitude":38.3912,"longitude":-92.1894}}(window,'GeoPostal','US');

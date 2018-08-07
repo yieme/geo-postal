@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 7JF"]={"code":"IP25 7JF","region":"England","city":"Ashill","latitude":52.6,"longitude":0.8}}(window,'GeoPostal','GB');

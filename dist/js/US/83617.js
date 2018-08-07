@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83617"]={"code":"83617","region":"Idaho","city":"Emmett","latitude":43.8685706,"longitude":-116.48911}}(window,'GeoPostal','US');

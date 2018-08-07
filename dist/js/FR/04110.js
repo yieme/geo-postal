@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04110"]={"code":"04110","region":"Provence-Alpes-Cote d'Azur","city":"Reillanne","latitude":43.88131,"longitude":5.65736}}(window,'GeoPostal','FR');

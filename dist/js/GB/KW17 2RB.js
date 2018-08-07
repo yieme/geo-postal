@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2RB"]={"code":"KW17 2RB","region":"Scotland","city":"Orphir","latitude":58.93809,"longitude":-3.13108}}(window,'GeoPostal','GB');

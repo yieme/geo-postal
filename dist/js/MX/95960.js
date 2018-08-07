@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95960"]={"code":"95960","region":"Veracruz de Ignacio de la Llave","city":"Pajapan","latitude":18.25,"longitude":-94.7}}(window,'GeoPostal','MX');

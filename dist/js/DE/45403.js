@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45403"]={"code":"45403","region":"Nordrhein-Westfalen","city":"Muelheim (Ruhr)","latitude":51.43333,"longitude":6.88333}}(window,'GeoPostal','DE');

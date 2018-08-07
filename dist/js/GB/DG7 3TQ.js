@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 3TQ"]={"code":"DG7 3TQ","region":"Scotland","city":"Carsphairn","latitude":55.21291,"longitude":-4.26322}}(window,'GeoPostal','GB');

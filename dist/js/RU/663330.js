@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663330"]={"code":"663330","region":"Krasnoyarskiy kray","city":"Talnakh","latitude":69.4865,"longitude":88.3972}}(window,'GeoPostal','RU');

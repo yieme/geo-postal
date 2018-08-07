@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0R0"]={"code":"X0E 0R0","region":"Northwest Territories","city":"Hay River","latitude":60.81555,"longitude":-115.79993}}(window,'GeoPostal','CA');

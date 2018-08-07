@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28479"]={"code":"28479","region":"Madrid, Comunidad de","city":"Cercedilla","latitude":40.74101,"longitude":-4.05644}}(window,'GeoPostal','ES');

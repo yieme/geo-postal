@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84085"]={"code":"84085","region":"UT","city":"Whiterocks","latitude":40.468,"longitude":-109.9307}}(window,'GeoPostal','US');

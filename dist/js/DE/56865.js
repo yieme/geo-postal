@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56865"]={"code":"56865","region":"Rheinland-Pfalz","city":"Walhausen","latitude":50.03333,"longitude":7.28333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38899"]={"code":"38899","region":"Sachsen-Anhalt","city":"Hasselfelde","latitude":51.69051,"longitude":10.85373}}(window,'GeoPostal','DE');

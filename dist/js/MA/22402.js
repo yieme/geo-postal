@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22402"]={"code":"22402","region":"Tadla-Azilal","city":"Isseksi","latitude":32.22981,"longitude":-6.27661}}(window,'GeoPostal','MA');

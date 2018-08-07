@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12000"]={"code":"12000","region":"Usak","city":"Banaz","latitude":38.73707,"longitude":29.75194}}(window,'GeoPostal','TR');

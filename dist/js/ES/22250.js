@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22250"]={"code":"22250","region":"Aragon","city":"Lanaja","latitude":41.77063,"longitude":-0.33096}}(window,'GeoPostal','ES');

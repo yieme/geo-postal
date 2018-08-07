@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60521"]={"code":"60521","region":"Michoacan de Ocampo","city":"Felipe Carrillo Puerto","latitude":19.15,"longitude":-102.7}}(window,'GeoPostal','MX');

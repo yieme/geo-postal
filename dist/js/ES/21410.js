@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21410"]={"code":"21410","region":"Andalucia","city":"Isla Cristina","latitude":37.2,"longitude":-7.31667}}(window,'GeoPostal','ES');

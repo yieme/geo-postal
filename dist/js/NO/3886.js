@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3886"]={"code":"3886","region":"Telemark","city":"Dalen","latitude":59.44474,"longitude":8.01168}}(window,'GeoPostal','NO');

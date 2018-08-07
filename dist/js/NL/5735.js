@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5735"]={"code":"5735","region":"Noord-Brabant","city":"Helmond","latitude":51.48167,"longitude":5.66111}}(window,'GeoPostal','NL');

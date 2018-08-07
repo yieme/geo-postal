@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33150"]={"code":"33150","region":"Si Sa Ket","city":"Khun Han","latitude":14.61739,"longitude":104.42506}}(window,'GeoPostal','TH');

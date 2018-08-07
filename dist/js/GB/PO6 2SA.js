@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO6 2SA"]={"code":"PO6 2SA","region":"England","city":"Highbury","latitude":51.55,"longitude":-0.1}}(window,'GeoPostal','GB');

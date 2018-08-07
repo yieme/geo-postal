@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29683"]={"code":"29683","region":"South Carolina","city":"Slater","latitude":35.030939,"longitude":-82.495037}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7E 0T2"]={"code":"L7E 0T2","region":"Ontario","city":"Coventry","latitude":43.90431,"longitude":-79.73073}}(window,'GeoPostal','CA');

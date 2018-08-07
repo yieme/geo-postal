@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72602"]={"code":"72602","region":"Arkansas","city":"Harrison","latitude":36.223421,"longitude":-93.115189}}(window,'GeoPostal','US');

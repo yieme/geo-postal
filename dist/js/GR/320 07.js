@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320 07"]={"code":"320 07","region":"Sterea Ellada","city":"Orchomenos","latitude":38.4929,"longitude":22.97962}}(window,'GeoPostal','GR');

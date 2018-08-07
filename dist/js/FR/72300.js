@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72300"]={"code":"72300","region":"Pays-de-la-Loire","city":"Solesmes","latitude":47.85009,"longitude":-0.29806}}(window,'GeoPostal','FR');

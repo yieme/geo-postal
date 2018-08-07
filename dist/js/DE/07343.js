@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07343"]={"code":"07343","region":"Thuringen","city":"Wurzbach","latitude":50.46356,"longitude":11.53779}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400930"]={"code":"400930","region":"Cluj","city":"Cluj-Napoca","latitude":46.76667,"longitude":23.6}}(window,'GeoPostal','RO');

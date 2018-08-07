@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15521"]={"code":"15521","region":"PA","city":"Alum Bank","latitude":40.1858,"longitude":-78.6206}}(window,'GeoPostal','US');

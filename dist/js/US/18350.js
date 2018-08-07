@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18350"]={"code":"18350","region":"PA","city":"Pocono Pines","latitude":41.1054,"longitude":-75.476}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24313"]={"code":"24313","region":"Virginia","city":"Barren Springs","latitude":36.912941,"longitude":-80.806876}}(window,'GeoPostal','US');

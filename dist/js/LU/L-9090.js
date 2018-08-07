@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-9090"]={"code":"L-9090","region":"Diekirch","city":"Warken","latitude":49.85444,"longitude":6.095}}(window,'GeoPostal','LU');

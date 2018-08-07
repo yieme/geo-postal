@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80727"]={"code":"80727","region":"Colorado","city":"Eckley","latitude":40.029915,"longitude":-102.519308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8126"]={"code":"8126","region":"Zurich","city":"Zumikon","latitude":47.33158,"longitude":8.62271}}(window,'GeoPostal','CH');

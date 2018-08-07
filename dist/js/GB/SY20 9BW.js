@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 9BW"]={"code":"SY20 9BW","region":"Wales","city":"Upper Corris","latitude":52.66134,"longitude":-3.85654}}(window,'GeoPostal','GB');

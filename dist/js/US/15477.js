@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15477"]={"code":"15477","region":"PA","city":"Roscoe","latitude":40.0787,"longitude":-79.8656}}(window,'GeoPostal','US');

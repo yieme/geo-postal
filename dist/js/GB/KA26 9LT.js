@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 9LT"]={"code":"KA26 9LT","region":"Scotland","city":"Turnberry","latitude":55.31332,"longitude":-4.82815}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61204"]={"code":"61204","region":"Illinois","city":"Rock Island","latitude":41.49158,"longitude":-90.57002}}(window,'GeoPostal','US');

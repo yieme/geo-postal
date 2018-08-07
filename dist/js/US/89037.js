@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89037"]={"code":"89037","region":"Nevada","city":"Coyote Springs","latitude":36.6591,"longitude":-114.6656}}(window,'GeoPostal','US');

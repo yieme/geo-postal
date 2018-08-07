@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29641"]={"code":"29641","region":"SC","city":"Easley","latitude":34.8135,"longitude":-82.6531}}(window,'GeoPostal','US');

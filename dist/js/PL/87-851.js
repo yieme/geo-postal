@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-851"]={"code":"87-851","region":"Kujawsko-pomorskie","city":"Boniewo","latitude":52.46532,"longitude":18.89116}}(window,'GeoPostal','PL');

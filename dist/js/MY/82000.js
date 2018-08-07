@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82000"]={"code":"82000","region":"Johor","city":"Pontian Kechil","latitude":1.4866,"longitude":103.3896}}(window,'GeoPostal','MY');

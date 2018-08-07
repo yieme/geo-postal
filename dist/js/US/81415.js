@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81415"]={"code":"81415","region":"CO","city":"Crawford","latitude":38.6941,"longitude":-107.6149}}(window,'GeoPostal','US');

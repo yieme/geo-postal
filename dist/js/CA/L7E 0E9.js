@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7E 0E9"]={"code":"L7E 0E9","region":"Ontario","city":"Ballycroy","latitude":43.97713,"longitude":-79.87215}}(window,'GeoPostal','CA');

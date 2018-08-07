@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 7DF"]={"code":"LD3 7DF","region":"Wales","city":"Brecon","latitude":51.94612,"longitude":-3.38887}}(window,'GeoPostal','GB');

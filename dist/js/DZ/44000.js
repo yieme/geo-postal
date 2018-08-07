@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44000"]={"code":"44000","region":"Ain Defla","city":"Ain Defla","latitude":36.26406,"longitude":1.9679}}(window,'GeoPostal','DZ');

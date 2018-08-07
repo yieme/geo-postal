@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17358"]={"code":"17358","region":"PA","city":"Rossville","latitude":39.973,"longitude":-76.6878}}(window,'GeoPostal','US');

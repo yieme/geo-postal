@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65706"]={"code":"65706","region":"Occitanie","city":"Maubourguet","latitude":43.46824,"longitude":0.03578}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["531055"]={"code":"531055","region":"Andhra Pradesh","city":"Elamanchili","latitude":17.55,"longitude":82.86667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80086"]={"code":"80086","region":"Lvivska oblast","city":"Selets","latitude":50.29712,"longitude":24.20462}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35270"]={"code":"35270","region":"Macvanski okrug","city":"Majur","latitude":44.76972,"longitude":19.65444}}(window,'GeoPostal','RS');

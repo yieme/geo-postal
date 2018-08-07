@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85912"]={"code":"85912","region":"Arizona","city":"Linden","latitude":34.28504,"longitude":-110.15706}}(window,'GeoPostal','US');

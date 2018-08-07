@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-607"]={"code":"38-607","region":"Podkarpackie","city":"Cisna","latitude":49.21328,"longitude":22.32795}}(window,'GeoPostal','PL');

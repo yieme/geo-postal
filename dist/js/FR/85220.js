@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85220"]={"code":"85220","region":"Pays-de-la-Loire","city":"Coex","latitude":46.69808,"longitude":-1.75956}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH33 7JG"]={"code":"PH33 7JG","region":"Scotland","city":"Corpach","latitude":56.84368,"longitude":-5.12383}}(window,'GeoPostal','GB');

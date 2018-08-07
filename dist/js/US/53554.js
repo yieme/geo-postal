@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53554"]={"code":"53554","region":"Wisconsin","city":"Livingston","latitude":42.898819,"longitude":-90.455918}}(window,'GeoPostal','US');

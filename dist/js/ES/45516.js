@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45516"]={"code":"45516","region":"Castilla-La Mancha","city":"La Puebla de Montalban","latitude":39.86297,"longitude":-4.35917}}(window,'GeoPostal','ES');

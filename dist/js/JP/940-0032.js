@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["940-0032"]={"code":"940-0032","region":"Niigata","city":"Niigata","latitude":37.91611,"longitude":139.03639}}(window,'GeoPostal','JP');

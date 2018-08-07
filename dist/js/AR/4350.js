@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4350"]={"code":"4350","region":"Santiago del Estero","city":"Suncho Corral","latitude":-27.93357,"longitude":-63.42938}}(window,'GeoPostal','AR');

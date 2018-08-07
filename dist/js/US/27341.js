@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27341"]={"code":"27341","region":"NC","city":"Seagrove","latitude":35.5283,"longitude":-79.6979}}(window,'GeoPostal','US');

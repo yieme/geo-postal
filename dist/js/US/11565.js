@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11565"]={"code":"11565","region":"New York","city":"Malverne","latitude":40.674962,"longitude":-73.673895}}(window,'GeoPostal','US');

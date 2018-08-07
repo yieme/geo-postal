@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04301"]={"code":"04301","region":"Provence-Alpes-Cote d'Azur","city":"Forcalquier","latitude":43.96667,"longitude":5.78333}}(window,'GeoPostal','FR');

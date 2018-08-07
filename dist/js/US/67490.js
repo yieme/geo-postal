@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67490"]={"code":"67490","region":"Kansas","city":"Wilson","latitude":38.822944,"longitude":-98.477391}}(window,'GeoPostal','US');

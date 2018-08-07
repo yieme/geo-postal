@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZRQ 9040"]={"code":"ZRQ 9040","region":"Zurrieq","city":"Zurrieq","latitude":35.83111,"longitude":14.47417}}(window,'GeoPostal','MT');

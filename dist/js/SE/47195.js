@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47195"]={"code":"47195","region":"Vastra Gotalands lan","city":"Skaerhamn","latitude":57.98665,"longitude":11.55742}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS27 4PW"]={"code":"TS27 4PW","region":"England","city":"Hesleden","latitude":54.73712,"longitude":-1.31706}}(window,'GeoPostal','GB');

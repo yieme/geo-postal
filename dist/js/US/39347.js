@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39347"]={"code":"39347","region":"MS","city":"Pachuta","latitude":32.0217,"longitude":-88.8851}}(window,'GeoPostal','US');

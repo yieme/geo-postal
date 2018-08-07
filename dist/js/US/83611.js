@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83611"]={"code":"83611","region":"Idaho","city":"Cascade","latitude":44.51628,"longitude":-116.0418}}(window,'GeoPostal','US');

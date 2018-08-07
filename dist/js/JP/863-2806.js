@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["863-2806"]={"code":"863-2806","region":"Kumamoto","city":"Amakusa","latitude":32.467,"longitude":130.2}}(window,'GeoPostal','JP');

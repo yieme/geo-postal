@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25020"]={"code":"25020","region":"Lombardia","city":"San Paolo","latitude":45.37058,"longitude":10.02677}}(window,'GeoPostal','IT');

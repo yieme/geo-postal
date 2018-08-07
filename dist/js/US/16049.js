@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16049"]={"code":"16049","region":"Pennsylvania","city":"Parker","latitude":41.09417,"longitude":-79.68278}}(window,'GeoPostal','US');

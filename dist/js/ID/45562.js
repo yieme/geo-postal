@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45562"]={"code":"45562","region":"Jawa Barat","city":"Darma","latitude":-7.0045,"longitude":108.4035}}(window,'GeoPostal','ID');

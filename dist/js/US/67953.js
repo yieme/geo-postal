@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67953"]={"code":"67953","region":"KS","city":"Richfield","latitude":37.2834,"longitude":-101.7004}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN9 5NX"]={"code":"LN9 5NX","region":"England","city":"Great Sturton","latitude":53.27327,"longitude":-0.17926}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43915"]={"code":"43915","region":"Ohio","city":"Clarington","latitude":39.747069,"longitude":-80.894301}}(window,'GeoPostal','US');

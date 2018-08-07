@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32890"]={"code":"32890","region":"FL","city":"J C Penney Co","latitude":28.46,"longitude":-81.38}}(window,'GeoPostal','US');

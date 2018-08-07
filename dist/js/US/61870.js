@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61870"]={"code":"61870","region":"IL","city":"Ridge Farm","latitude":39.9155,"longitude":-87.6346}}(window,'GeoPostal','US');

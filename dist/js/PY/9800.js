@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9800"]={"code":"9800","region":"Presidente Hayes","city":"Benjamin Aceval","latitude":-24.96667,"longitude":-57.56667}}(window,'GeoPostal','PY');

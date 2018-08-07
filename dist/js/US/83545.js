@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83545"]={"code":"83545","region":"ID","city":"Peck","latitude":46.4807,"longitude":-116.4114}}(window,'GeoPostal','US');

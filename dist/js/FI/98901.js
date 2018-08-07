@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98901"]={"code":"98901","region":"Lappi","city":"Salla","latitude":66.83333,"longitude":28.66667}}(window,'GeoPostal','FI');

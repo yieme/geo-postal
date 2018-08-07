@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1LN"]={"code":"SA3 1LN","region":"Wales","city":"Penrice","latitude":51.56958,"longitude":-4.17655}}(window,'GeoPostal','GB');

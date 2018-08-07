@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32037"]={"code":"32037","region":"Veneto","city":"Sospirolo","latitude":46.13944,"longitude":12.06778}}(window,'GeoPostal','IT');

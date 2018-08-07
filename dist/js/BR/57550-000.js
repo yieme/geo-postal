@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57550-000"]={"code":"57550-000","region":"Alagoas","city":"Olivenca","latitude":-9.51861,"longitude":-37.19056}}(window,'GeoPostal','BR');

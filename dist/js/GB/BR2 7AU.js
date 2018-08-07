@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR2 7AU"]={"code":"BR2 7AU","region":"England","city":"Bromley","latitude":51.40606,"longitude":0.01519}}(window,'GeoPostal','GB');

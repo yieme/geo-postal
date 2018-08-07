@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29567"]={"code":"29567","region":"Andalucia","city":"Alozaina","latitude":36.72736,"longitude":-4.85761}}(window,'GeoPostal','ES');

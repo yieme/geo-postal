@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL32 8HX"]={"code":"LL32 8HX","region":"Wales","city":"Caerhun","latitude":53.21667,"longitude":-3.83333}}(window,'GeoPostal','GB');

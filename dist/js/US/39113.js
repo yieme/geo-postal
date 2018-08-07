@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39113"]={"code":"39113","region":"Mississippi","city":"Mayersville","latitude":32.90207,"longitude":-91.05122}}(window,'GeoPostal','US');

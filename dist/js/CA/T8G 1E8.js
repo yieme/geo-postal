@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8G 1E8"]={"code":"T8G 1E8","region":"Alberta","city":"Lindbrook","latitude":53.40014,"longitude":-112.81864}}(window,'GeoPostal','CA');

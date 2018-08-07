@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35301"]={"code":"35301","region":"Pirkanmaa","city":"Orivesi","latitude":61.67766,"longitude":24.3572}}(window,'GeoPostal','FI');

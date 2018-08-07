@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54480"]={"code":"54480","region":"Grand-Est","city":"Cirey-sur-Vezouze","latitude":48.58,"longitude":6.95}}(window,'GeoPostal','FR');

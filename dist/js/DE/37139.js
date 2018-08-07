@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37139"]={"code":"37139","region":"Niedersachsen","city":"Eberhausen","latitude":51.5535,"longitude":9.71506}}(window,'GeoPostal','DE');

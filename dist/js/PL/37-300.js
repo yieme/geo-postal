@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-300"]={"code":"37-300","region":"Podkarpackie","city":"Lezajsk","latitude":50.26257,"longitude":22.41932}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6997"]={"code":"6997","region":"Luxembourg","city":"Erezee","latitude":50.29292,"longitude":5.55815}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72160"]={"code":"72160","region":"Pays-de-la-Loire","city":"Tuffe","latitude":48.11319,"longitude":0.51551}}(window,'GeoPostal','FR');

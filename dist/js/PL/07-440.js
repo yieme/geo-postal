@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-440"]={"code":"07-440","region":"Mazowieckie","city":"Goworowo","latitude":52.90083,"longitude":21.55578}}(window,'GeoPostal','PL');

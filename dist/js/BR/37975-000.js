@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37975-000"]={"code":"37975-000","region":"Minas Gerais","city":"Itau de Minas","latitude":-20.73944,"longitude":-46.75222}}(window,'GeoPostal','BR');

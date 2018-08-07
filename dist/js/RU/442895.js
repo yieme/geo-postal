@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442895"]={"code":"442895","region":"Penzenskaya oblast'","city":"Serdobsk","latitude":52.45861,"longitude":44.21689}}(window,'GeoPostal','RU');

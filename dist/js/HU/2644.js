@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2644"]={"code":"2644","region":"Nograd","city":"Retsag","latitude":47.92816,"longitude":19.1372}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13845"]={"code":"13845","region":"NY","city":"Tioga Center","latitude":42.0562,"longitude":-76.348}}(window,'GeoPostal','US');

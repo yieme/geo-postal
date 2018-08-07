@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE1 9RS"]={"code":"SE1 9RS","region":"England","city":"Bowes","latitude":54.5164,"longitude":-2.01599}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 2R0"]={"code":"S0G 2R0","region":"Saskatchewan","city":"Kennedy","latitude":50.01673,"longitude":-102.35099}}(window,'GeoPostal','CA');

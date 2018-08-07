@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16823"]={"code":"16823","region":"Pennsylvania","city":"Bellefonte","latitude":40.93806,"longitude":-77.72172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54574"]={"code":"54574","region":"Rheinland-Pfalz","city":"Birresborn","latitude":50.18333,"longitude":6.63333}}(window,'GeoPostal','DE');

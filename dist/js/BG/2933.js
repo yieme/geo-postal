@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2933"]={"code":"2933","region":"Blagoevgrad","city":"Khadzhidimovo","latitude":41.52222,"longitude":23.86861}}(window,'GeoPostal','BG');

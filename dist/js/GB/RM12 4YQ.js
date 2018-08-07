@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM12 4YQ"]={"code":"RM12 4YQ","region":"England","city":"Hornchurch","latitude":51.55685,"longitude":0.21664}}(window,'GeoPostal','GB');

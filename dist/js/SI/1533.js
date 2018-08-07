@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1533"]={"code":"1533","region":"Velike Lasce","city":"Laze","latitude":45.8572,"longitude":14.5802}}(window,'GeoPostal','SI');

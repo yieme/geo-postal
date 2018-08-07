@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47980"]={"code":"47980","region":"IN","city":"Reynolds","latitude":40.7606,"longitude":-86.8691}}(window,'GeoPostal','US');

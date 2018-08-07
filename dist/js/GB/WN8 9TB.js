@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN8 9TB"]={"code":"WN8 9TB","region":"England","city":"Skelmersdale","latitude":53.55024,"longitude":-2.77348}}(window,'GeoPostal','GB');

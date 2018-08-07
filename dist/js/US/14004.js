@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14004"]={"code":"14004","region":"New York","city":"Alden","latitude":42.90006,"longitude":-78.49197}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2281"]={"code":"2281","region":"Salovci","city":"Markovci","latitude":46.8444,"longitude":16.2336}}(window,'GeoPostal','SI');

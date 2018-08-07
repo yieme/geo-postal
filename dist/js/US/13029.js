@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13029"]={"code":"13029","region":"NY","city":"Brewerton","latitude":43.2252,"longitude":-76.1351}}(window,'GeoPostal','US');

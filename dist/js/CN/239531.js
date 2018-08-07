@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["239531"]={"code":"239531","region":"Anhui","city":"Erlangkou","latitude":31.96969,"longitude":118.12768}}(window,'GeoPostal','CN');

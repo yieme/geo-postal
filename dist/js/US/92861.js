@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92861"]={"code":"92861","region":"California","city":"Villa Park","latitude":33.8185,"longitude":-117.810321}}(window,'GeoPostal','US');

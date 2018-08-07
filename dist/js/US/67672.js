@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67672"]={"code":"67672","region":"Kansas","city":"WaKeeney","latitude":39.02501,"longitude":-99.87957}}(window,'GeoPostal','US');

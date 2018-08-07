@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88314"]={"code":"88314","region":"NM","city":"Bent","latitude":33.148,"longitude":-105.8635}}(window,'GeoPostal','US');

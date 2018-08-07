@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95225"]={"code":"95225","region":"CA","city":"Burson","latitude":38.1838,"longitude":-120.8894}}(window,'GeoPostal','US');

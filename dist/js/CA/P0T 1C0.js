@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 1C0"]={"code":"P0T 1C0","region":"Ontario","city":"Atikokan","latitude":48.75551,"longitude":-91.6216}}(window,'GeoPostal','CA');

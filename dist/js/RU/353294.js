@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353294"]={"code":"353294","region":"Krasnodarskiy kray","city":"Goryachiy Klyuch","latitude":44.63083,"longitude":39.13}}(window,'GeoPostal','RU');

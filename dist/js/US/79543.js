@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79543"]={"code":"79543","region":"TX","city":"Roby","latitude":32.722,"longitude":-100.4008}}(window,'GeoPostal','US');

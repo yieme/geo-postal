@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63401"]={"code":"63401","region":"Kharkivska oblast","city":"Zmiyev","latitude":49.69664,"longitude":36.36109}}(window,'GeoPostal','UA');

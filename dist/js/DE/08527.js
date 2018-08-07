@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08527"]={"code":"08527","region":"Sachsen","city":"Oberneundorf","latitude":50.49632,"longitude":12.08975}}(window,'GeoPostal','DE');

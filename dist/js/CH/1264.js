@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1264"]={"code":"1264","region":"Vaud","city":"Saint-Cergue","latitude":46.4459,"longitude":6.15736}}(window,'GeoPostal','CH');

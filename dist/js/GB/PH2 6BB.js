@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH2 6BB"]={"code":"PH2 6BB","region":"Scotland","city":"Old Scone","latitude":56.42539,"longitude":-3.42859}}(window,'GeoPostal','GB');

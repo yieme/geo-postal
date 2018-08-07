@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41042"]={"code":"41042","region":"Kentucky","city":"Oakbrook","latitude":38.99978,"longitude":-84.68522}}(window,'GeoPostal','US');

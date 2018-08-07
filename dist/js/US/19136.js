@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19136"]={"code":"19136","region":"PA","city":"Philadelphia","latitude":40.0422,"longitude":-75.0244}}(window,'GeoPostal','US');

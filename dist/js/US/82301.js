@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82301"]={"code":"82301","region":"Wyoming","city":"Rawlins","latitude":41.79107,"longitude":-107.23866}}(window,'GeoPostal','US');

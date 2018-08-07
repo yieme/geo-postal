@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38231"]={"code":"38231","region":"Tennessee","city":"Henry","latitude":36.20222,"longitude":-88.41833}}(window,'GeoPostal','US');

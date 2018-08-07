@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH42 1EN"]={"code":"EH42 1EN","region":"Scotland","city":"Dunbar","latitude":56.00062,"longitude":-2.51418}}(window,'GeoPostal','GB');

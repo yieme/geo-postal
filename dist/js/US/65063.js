@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65063"]={"code":"65063","region":"Missouri","city":"New Bloomfield","latitude":38.74806,"longitude":-92.08044}}(window,'GeoPostal','US');

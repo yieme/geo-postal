@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["783373"]={"code":"783373","region":"Assam","city":"Bongaigaon","latitude":26.47822,"longitude":90.55676}}(window,'GeoPostal','IN');

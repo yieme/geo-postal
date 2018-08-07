@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43510"]={"code":"43510","region":"OH","city":"Colton","latitude":41.4199,"longitude":-84.0137}}(window,'GeoPostal','US');

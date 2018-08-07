@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17032"]={"code":"17032","region":"PA","city":"Halifax","latitude":40.476,"longitude":-76.894}}(window,'GeoPostal','US');

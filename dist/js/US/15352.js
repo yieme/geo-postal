@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15352"]={"code":"15352","region":"Pennsylvania","city":"New Freeport","latitude":39.755816,"longitude":-80.459405}}(window,'GeoPostal','US');

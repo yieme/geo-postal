@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48320"]={"code":"48320","region":"Michigan","city":"Keego Harbor","latitude":42.60954,"longitude":-83.33586}}(window,'GeoPostal','US');

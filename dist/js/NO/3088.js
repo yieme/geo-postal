@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3088"]={"code":"3088","region":"Vestfold","city":"Holmestrand","latitude":59.48761,"longitude":10.31761}}(window,'GeoPostal','NO');

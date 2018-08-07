@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13842"]={"code":"13842","region":"New York","city":"South Kortright","latitude":42.378162,"longitude":-74.727096}}(window,'GeoPostal','US');

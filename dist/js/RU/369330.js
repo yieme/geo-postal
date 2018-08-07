@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369330"]={"code":"369330","region":"Karachayevo-Cherkesskaya Respublika","city":"Adyge-Khabl'","latitude":44.33434,"longitude":41.93922}}(window,'GeoPostal','RU');

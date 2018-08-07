@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243025"]={"code":"243025","region":"Bryanskaya oblast'","city":"Novozybkov","latitude":52.5396,"longitude":31.9275}}(window,'GeoPostal','RU');

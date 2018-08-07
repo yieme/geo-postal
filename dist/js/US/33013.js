@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33013"]={"code":"33013","region":"Florida","city":"Hialeah","latitude":25.860369,"longitude":-80.271448}}(window,'GeoPostal','US');

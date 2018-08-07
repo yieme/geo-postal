@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14053"]={"code":"14053","region":"Piemonte","city":"Canelli","latitude":44.72154,"longitude":8.29244}}(window,'GeoPostal','IT');

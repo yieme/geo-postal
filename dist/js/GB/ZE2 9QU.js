@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9QU"]={"code":"ZE2 9QU","region":"Scotland","city":"Burravoe","latitude":60.38333,"longitude":-1.35}}(window,'GeoPostal','GB');

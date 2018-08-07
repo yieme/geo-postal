@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95340"]={"code":"95340","region":"California","city":"Merced","latitude":37.299148,"longitude":-120.471733}}(window,'GeoPostal','US');

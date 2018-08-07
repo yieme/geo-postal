@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74549"]={"code":"74549","region":"Baden-Wurttemberg","city":"Wolpertshausen","latitude":49.1675,"longitude":9.84472}}(window,'GeoPostal','DE');

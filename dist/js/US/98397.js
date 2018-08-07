@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98397"]={"code":"98397","region":"WA","city":"Longmire","latitude":46.7498,"longitude":-121.8126}}(window,'GeoPostal','US');

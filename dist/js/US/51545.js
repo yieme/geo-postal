@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51545"]={"code":"51545","region":"Iowa","city":"Little Sioux","latitude":41.808722,"longitude":-96.02246}}(window,'GeoPostal','US');

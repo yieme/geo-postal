@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68934"]={"code":"68934","region":"NE","city":"Deweese","latitude":40.354,"longitude":-98.14}}(window,'GeoPostal','US');

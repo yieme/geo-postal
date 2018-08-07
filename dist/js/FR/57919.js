@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57919"]={"code":"57919","region":"Grand-Est","city":"Woustviller","latitude":49.07636,"longitude":7.00487}}(window,'GeoPostal','FR');

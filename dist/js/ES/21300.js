@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21300"]={"code":"21300","region":"Andalucia","city":"Calanas","latitude":37.65568,"longitude":-6.8805}}(window,'GeoPostal','ES');

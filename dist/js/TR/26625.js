@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26625"]={"code":"26625","region":"Bolu","city":"Seben","latitude":40.41134,"longitude":31.57359}}(window,'GeoPostal','TR');

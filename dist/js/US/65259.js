@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65259"]={"code":"65259","region":"Missouri","city":"Huntsville","latitude":39.44059,"longitude":-92.54518}}(window,'GeoPostal','US');

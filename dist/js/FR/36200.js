@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36200"]={"code":"36200","region":"Centre-Val de Loire","city":"Argenton-sur-Creuse","latitude":46.58997,"longitude":1.51981}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79400"]={"code":"79400","region":"Nouvelle-Aquitaine","city":"Exireuil","latitude":46.43382,"longitude":-0.19252}}(window,'GeoPostal','FR');

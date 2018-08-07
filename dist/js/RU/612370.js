@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612370"]={"code":"612370","region":"Kirovskaya oblast'","city":"Sanchursk","latitude":56.94125,"longitude":47.24987}}(window,'GeoPostal','RU');

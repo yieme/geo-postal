@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05405"]={"code":"05405","region":"Vermont","city":"Burlington","latitude":44.478158,"longitude":-73.200943}}(window,'GeoPostal','US');

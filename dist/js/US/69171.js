@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69171"]={"code":"69171","region":"NE","city":"Willow Island","latitude":40.8925,"longitude":-100.0703}}(window,'GeoPostal','US');

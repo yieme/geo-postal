@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9N 2R2"]={"code":"T9N 2R2","region":"Alberta","city":"Bonnyville","latitude":54.265919,"longitude":-110.730389}}(window,'GeoPostal','CA');

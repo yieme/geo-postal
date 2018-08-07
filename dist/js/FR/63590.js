@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63590"]={"code":"63590","region":"Auvergne-Rhone-Alpes","city":"Cunlhat","latitude":45.63348,"longitude":3.5598}}(window,'GeoPostal','FR');

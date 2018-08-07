@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE15 7QE"]={"code":"LE15 7QE","region":"England","city":"Market Overton","latitude":52.73806,"longitude":-0.6863}}(window,'GeoPostal','GB');

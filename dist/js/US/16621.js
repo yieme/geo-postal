@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16621"]={"code":"16621","region":"PA","city":"Broad Top","latitude":40.2019,"longitude":-78.1406}}(window,'GeoPostal','US');

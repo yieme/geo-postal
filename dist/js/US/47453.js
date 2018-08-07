@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47453"]={"code":"47453","region":"IN","city":"Owensburg","latitude":38.9253,"longitude":-86.7742}}(window,'GeoPostal','US');

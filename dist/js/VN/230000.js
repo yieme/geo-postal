@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230000"]={"code":"230000","region":"Bac Giang","city":"Bac Giang","latitude":21.26667,"longitude":106.2}}(window,'GeoPostal','VN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6474"]={"code":"6474","region":"Tirol","city":"Wenns","latitude":47.16667,"longitude":10.73333}}(window,'GeoPostal','AT');

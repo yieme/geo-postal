@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13417"]={"code":"13417","region":"NY","city":"New York Mills","latitude":43.1,"longitude":-75.2937}}(window,'GeoPostal','US');

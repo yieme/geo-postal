@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24851"]={"code":"24851","region":"WV","city":"Justice","latitude":37.5887,"longitude":-81.8354}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E7E 1M5"]={"code":"E7E 1M5","region":"New Brunswick","city":"Saint Leonard","latitude":47.17303,"longitude":-67.92469}}(window,'GeoPostal','CA');

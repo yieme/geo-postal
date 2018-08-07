@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2523"]={"code":"2523","region":"Komarom-Esztergom","city":"Sarisap","latitude":47.677,"longitude":18.67933}}(window,'GeoPostal','HU');

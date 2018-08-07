@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507209"]={"code":"507209","region":"Telangana","city":"Khammam","latitude":17.25,"longitude":80.15}}(window,'GeoPostal','IN');

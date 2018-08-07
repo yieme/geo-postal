@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74320"]={"code":"74320","region":"Auvergne-Rhone-Alpes","city":"Sevrier","latitude":45.86415,"longitude":6.14026}}(window,'GeoPostal','FR');

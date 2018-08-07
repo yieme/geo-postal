@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0H 1P0"]={"code":"A0H 1P0","region":"Newfoundland and Labrador","city":"Harbour Breton","latitude":47.48325,"longitude":-55.79833}}(window,'GeoPostal','CA');

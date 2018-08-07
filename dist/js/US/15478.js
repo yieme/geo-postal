@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15478"]={"code":"15478","region":"Pennsylvania","city":"Smithfield","latitude":39.79972,"longitude":-79.80833}}(window,'GeoPostal','US');

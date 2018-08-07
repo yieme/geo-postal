@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81241"]={"code":"81241","region":"CO","city":"Pitkin","latitude":38.6179,"longitude":-106.5146}}(window,'GeoPostal','US');

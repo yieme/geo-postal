@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0C 1Z0"]={"code":"G0C 1Z0","region":"Quebec","city":"New Carlisle","latitude":48.00956,"longitude":-65.33621}}(window,'GeoPostal','CA');

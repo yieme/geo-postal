@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-930"]={"code":"63-930","region":"Wielkopolskie","city":"Jutrosin","latitude":51.65009,"longitude":17.16957}}(window,'GeoPostal','PL');

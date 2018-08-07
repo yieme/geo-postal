@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75001"]={"code":"75001","region":"Texas","city":"Addison","latitude":32.960001,"longitude":-96.829187}}(window,'GeoPostal','US');

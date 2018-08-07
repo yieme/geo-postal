@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 3G0"]={"code":"K0K 3G0","region":"Ontario","city":"Roblin","latitude":44.48735,"longitude":-76.995796}}(window,'GeoPostal','CA');

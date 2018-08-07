@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6988"]={"code":"6988","region":"Sogn og Fjordane","city":"Askvoll","latitude":61.3463,"longitude":5.0704}}(window,'GeoPostal','NO');

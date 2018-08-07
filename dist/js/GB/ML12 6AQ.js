@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6AQ"]={"code":"ML12 6AQ","region":"Scotland","city":"Biggar","latitude":55.61667,"longitude":-3.51667}}(window,'GeoPostal','GB');

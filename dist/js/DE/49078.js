@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49078"]={"code":"49078","region":"Niedersachsen","city":"Horne","latitude":52.25725,"longitude":8.00443}}(window,'GeoPostal','DE');

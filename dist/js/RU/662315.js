@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662315"]={"code":"662315","region":"Krasnoyarskiy kray","city":"Sharypovo","latitude":55.54028,"longitude":89.20083}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-373"]={"code":"44-373","region":"Slaskie","city":"Wodzislaw Slaski","latitude":50.00377,"longitude":18.47205}}(window,'GeoPostal','PL');

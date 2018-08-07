@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32465"]={"code":"32465","region":"FL","city":"Wewahitchka","latitude":30.0933,"longitude":-85.2048}}(window,'GeoPostal','US');

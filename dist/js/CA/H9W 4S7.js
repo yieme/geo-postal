@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9W 4S7"]={"code":"H9W 4S7","region":"Quebec","city":"Beaconsfield","latitude":45.417784,"longitude":-73.886863}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99156"]={"code":"99156","region":"Washington","city":"Newport","latitude":48.17963,"longitude":-117.04326}}(window,'GeoPostal','US');

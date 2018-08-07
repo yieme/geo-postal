@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77562"]={"code":"77562","region":"TX","city":"Highlands","latitude":29.8296,"longitude":-95.0393}}(window,'GeoPostal','US');

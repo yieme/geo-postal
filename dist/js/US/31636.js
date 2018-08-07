@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31636"]={"code":"31636","region":"Georgia","city":"Lake Park","latitude":30.68472,"longitude":-83.18778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08004"]={"code":"08004","region":"Totonicapan","city":"San Andres Xecul","latitude":14.9,"longitude":-91.48333}}(window,'GeoPostal','GT');

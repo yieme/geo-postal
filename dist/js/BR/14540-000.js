@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14540-000"]={"code":"14540-000","region":"Sao Paulo","city":"Igarapava","latitude":-20.03833,"longitude":-47.74694}}(window,'GeoPostal','BR');

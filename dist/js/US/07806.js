@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07806"]={"code":"07806","region":"New Jersey","city":"Picatinny Arsenal","latitude":40.939389,"longitude":-74.558453}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49800"]={"code":"49800","region":"Pays-de-la-Loire","city":"Andard","latitude":47.45659,"longitude":-0.39752}}(window,'GeoPostal','FR');

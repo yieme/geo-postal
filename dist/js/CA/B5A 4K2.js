@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B5A 4K2"]={"code":"B5A 4K2","region":"Nova Scotia","city":"South Chegoggin","latitude":43.86685,"longitude":-66.13217}}(window,'GeoPostal','CA');

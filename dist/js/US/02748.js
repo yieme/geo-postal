@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02748"]={"code":"02748","region":"Massachusetts","city":"South Dartmouth","latitude":41.596357,"longitude":-70.95323}}(window,'GeoPostal','US');

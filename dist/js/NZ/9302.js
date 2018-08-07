@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9302"]={"code":"9302","region":"Otago","city":"Arrowtown","latitude":-44.93837,"longitude":168.81007}}(window,'GeoPostal','NZ');

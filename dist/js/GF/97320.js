@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97320"]={"code":"97320","region":"Guyane","city":"Saint-Laurent-du-Maroni","latitude":5.5,"longitude":-54.03333}}(window,'GeoPostal','GF');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82323"]={"code":"82323","region":"WY","city":"Dixon","latitude":41.0445,"longitude":-107.499}}(window,'GeoPostal','US');

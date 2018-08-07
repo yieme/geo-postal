@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61025"]={"code":"61025","region":"Marche","city":"Montelabbate","latitude":43.84886,"longitude":12.78796}}(window,'GeoPostal','IT');

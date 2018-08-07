@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95836"]={"code":"95836","region":"Veracruz de Ignacio de la Llave","city":"Boca del Monte","latitude":19.15,"longitude":-96.81667}}(window,'GeoPostal','MX');

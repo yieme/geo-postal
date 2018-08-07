@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22312"]={"code":"22312","region":"Virginia","city":"Alexandria","latitude":38.819898,"longitude":-77.151707}}(window,'GeoPostal','US');

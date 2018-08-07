@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61233"]={"code":"61233","region":"IL","city":"Andover","latitude":41.2954,"longitude":-90.2905}}(window,'GeoPostal','US');

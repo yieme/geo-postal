@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1Y0"]={"code":"V0J 1Y0","region":"British Columbia","city":"Hazelton","latitude":55.24973,"longitude":-127.67025}}(window,'GeoPostal','CA');

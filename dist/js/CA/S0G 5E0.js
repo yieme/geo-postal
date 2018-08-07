@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 5E0"]={"code":"S0G 5E0","region":"Saskatchewan","city":"Wilcox","latitude":50.10007,"longitude":-104.73441}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4300"]={"code":"4300","region":"Szabolcs-Szatmar-Bereg","city":"Nyirbator","latitude":47.83333,"longitude":22.13333}}(window,'GeoPostal','HU');

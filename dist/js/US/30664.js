@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30664"]={"code":"30664","region":"Georgia","city":"Sharon","latitude":33.566011,"longitude":-82.878931}}(window,'GeoPostal','US');

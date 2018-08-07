@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04995"]={"code":"04995","region":"Provence-Alpes-Cote d'Azur","city":"Digne-les-Bains","latitude":44.09252,"longitude":6.23199}}(window,'GeoPostal','FR');

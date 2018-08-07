@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47360"]={"code":"47360","region":"IN","city":"Mooreland","latitude":39.9941,"longitude":-85.2581}}(window,'GeoPostal','US');

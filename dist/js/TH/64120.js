@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64120"]={"code":"64120","region":"Sukhothai","city":"Si Samrong","latitude":17.164,"longitude":99.86222}}(window,'GeoPostal','TH');

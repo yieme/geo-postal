@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38954"]={"code":"38954","region":"Mississippi","city":"Sidon","latitude":33.458559,"longitude":-90.211039}}(window,'GeoPostal','US');

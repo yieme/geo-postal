@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["113114"]={"code":"113114","region":"Liaoning","city":"Majuanzi","latitude":41.52546,"longitude":124.36977}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36362"]={"code":"36362","region":"Alabama","city":"Fort Rucker","latitude":31.345853,"longitude":-85.718782}}(window,'GeoPostal','US');

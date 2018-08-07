@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4229"]={"code":"4229","region":"Batangas","city":"Lobo","latitude":13.6481,"longitude":121.2112}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["545-805"]={"code":"545-805","region":"Jeollanam-do","city":"Kwangyang","latitude":34.97528,"longitude":127.58917}}(window,'GeoPostal','KR');

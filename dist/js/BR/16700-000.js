@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16700-000"]={"code":"16700-000","region":"Sao Paulo","city":"Guararapes","latitude":-21.26083,"longitude":-50.64278}}(window,'GeoPostal','BR');

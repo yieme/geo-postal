@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62819"]={"code":"62819","region":"IL","city":"Buckner","latitude":37.9764,"longitude":-89.0209}}(window,'GeoPostal','US');

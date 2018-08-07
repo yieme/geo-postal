@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM0 7LG"]={"code":"CM0 7LG","region":"England","city":"Steeple","latitude":51.69278,"longitude":0.802}}(window,'GeoPostal','GB');

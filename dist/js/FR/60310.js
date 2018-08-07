@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60310"]={"code":"60310","region":"Hauts-de-France","city":"Lassigny","latitude":49.58828,"longitude":2.84289}}(window,'GeoPostal','FR');

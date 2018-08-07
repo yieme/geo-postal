@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63960"]={"code":"63960","region":"Nayarit","city":"Amatlan de Canas","latitude":20.8,"longitude":-104.4}}(window,'GeoPostal','MX');

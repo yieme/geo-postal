@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60640"]={"code":"60640","region":"Hauts-de-France","city":"Guiscard","latitude":49.6566,"longitude":3.05127}}(window,'GeoPostal','FR');

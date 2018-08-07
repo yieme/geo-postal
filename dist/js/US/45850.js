@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45850"]={"code":"45850","region":"OH","city":"Harrod","latitude":40.7177,"longitude":-83.9436}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["588 32"]={"code":"588 32","region":"Kraj Vysocina","city":"Brtnice","latitude":49.30695,"longitude":15.67642}}(window,'GeoPostal','CZ');

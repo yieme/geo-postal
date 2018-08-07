@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO7 5DS"]={"code":"PO7 5DS","region":"England","city":"Purbrook","latitude":50.86535,"longitude":-1.03411}}(window,'GeoPostal','GB');

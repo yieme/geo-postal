@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93020"]={"code":"93020","region":"California","city":"Moorpark","latitude":34.28556,"longitude":-118.88204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24467"]={"code":"24467","region":"VA","city":"Mount Sidney","latitude":38.2612,"longitude":-78.973}}(window,'GeoPostal','US');

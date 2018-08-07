@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34700"]={"code":"34700","region":"Occitanie","city":"Le Bosc","latitude":43.7081,"longitude":3.3964}}(window,'GeoPostal','FR');

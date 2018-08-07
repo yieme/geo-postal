@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54515"]={"code":"54515","region":"WI","city":"Catawba","latitude":45.5081,"longitude":-90.5146}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51910"]={"code":"51910","region":"Adana","city":"Pozanti","latitude":37.42778,"longitude":34.87167}}(window,'GeoPostal','TR');

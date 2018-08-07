@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24422"]={"code":"24422","region":"Virginia","city":"Clifton Forge","latitude":37.81624,"longitude":-79.82449}}(window,'GeoPostal','US');

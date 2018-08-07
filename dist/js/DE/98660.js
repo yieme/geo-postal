@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98660"]={"code":"98660","region":"Thuringen","city":"Themar","latitude":50.50465,"longitude":10.61536}}(window,'GeoPostal','DE');

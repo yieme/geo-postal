@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR9 6JW"]={"code":"TR9 6JW","region":"England","city":"Saint Columb Major","latitude":50.43333,"longitude":-4.93333}}(window,'GeoPostal','GB');

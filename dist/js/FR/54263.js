@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54263"]={"code":"54263","region":"Grand-Est","city":"Longuyon","latitude":49.44548,"longitude":5.60145}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71497"]={"code":"71497","region":"Louisiana","city":"Natchitoches","latitude":31.755477,"longitude":-93.097665}}(window,'GeoPostal','US');

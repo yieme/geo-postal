@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-005"]={"code":"72-005","region":"Zachodniopomorskie","city":"Przeclaw","latitude":53.37447,"longitude":14.47251}}(window,'GeoPostal','PL');

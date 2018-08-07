@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6359"]={"code":"6359","region":"Western Australia","city":"Holt Rock","latitude":-32.66667,"longitude":119.41667}}(window,'GeoPostal','AU');

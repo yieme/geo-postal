@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82497"]={"code":"82497","region":"Bayern","city":"Unterammergau","latitude":47.61658,"longitude":11.02718}}(window,'GeoPostal','DE');

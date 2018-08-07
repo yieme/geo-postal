@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71357"]={"code":"71357","region":"Republika Srpska","city":"Sokolac","latitude":43.93972,"longitude":18.80167}}(window,'GeoPostal','BA');

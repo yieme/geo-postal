@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72500"]={"code":"72500","region":"Balikesir","city":"Erdek","latitude":40.3996,"longitude":27.79348}}(window,'GeoPostal','TR');

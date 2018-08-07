@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59858"]={"code":"59858","region":"Montana","city":"Philipsburg","latitude":46.33215,"longitude":-113.29423}}(window,'GeoPostal','US');

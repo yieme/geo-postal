@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-225"]={"code":"59-225","region":"Dolnoslaskie","city":"Chojnow","latitude":51.27373,"longitude":15.93661}}(window,'GeoPostal','PL');

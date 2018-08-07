@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2830"]={"code":"2830","region":"New South Wales","city":"Dubbo","latitude":-32.24295,"longitude":148.60484}}(window,'GeoPostal','AU');

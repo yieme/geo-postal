@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0L 1Y2"]={"code":"L0L 1Y2","region":"Ontario","city":"Anten Mills","latitude":44.4815,"longitude":-79.81722}}(window,'GeoPostal','CA');

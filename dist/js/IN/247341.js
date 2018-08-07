@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247341"]={"code":"247341","region":"Uttar Pradesh","city":"Gangoh","latitude":29.76667,"longitude":77.25}}(window,'GeoPostal','IN');

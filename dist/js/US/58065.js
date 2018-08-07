@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58065"]={"code":"58065","region":"ND","city":"Pillsbury","latitude":47.1862,"longitude":-97.7605}}(window,'GeoPostal','US');

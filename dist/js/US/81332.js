@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81332"]={"code":"81332","region":"CO","city":"Rico","latitude":37.6905,"longitude":-108.0324}}(window,'GeoPostal','US');

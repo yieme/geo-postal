@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 4NQ"]={"code":"ST10 4NQ","region":"England","city":"Checkley","latitude":52.93333,"longitude":-1.95}}(window,'GeoPostal','GB');

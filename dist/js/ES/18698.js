@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18698"]={"code":"18698","region":"Andalucia","city":"Otivar","latitude":36.81582,"longitude":-3.67979}}(window,'GeoPostal','ES');

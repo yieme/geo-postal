@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["KE"]={id:'KE',country:'Kenya', postal:{'':{code:'',region:'Nairobi City',city:'Nairobi',latitude:-1.28333,longitude:36.81667}}};

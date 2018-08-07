@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA6 4TL"]={"code":"TA6 4TL","region":"England","city":"Dunball","latitude":51.163,"longitude":-2.98658}}(window,'GeoPostal','GB');

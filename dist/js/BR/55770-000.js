@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55770-000"]={"code":"55770-000","region":"Pernambuco","city":"Taquaritinga do Norte","latitude":-7.90306,"longitude":-36.04417}}(window,'GeoPostal','BR');

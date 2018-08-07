@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184230"]={"code":"184230","region":"Murmanskaya oblast'","city":"Polyarnyye Zori","latitude":67.36611,"longitude":32.49806}}(window,'GeoPostal','RU');

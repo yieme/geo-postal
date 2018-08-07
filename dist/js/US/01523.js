@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01523"]={"code":"01523","region":"MA","city":"Lancaster","latitude":42.451,"longitude":-71.6868}}(window,'GeoPostal','US');

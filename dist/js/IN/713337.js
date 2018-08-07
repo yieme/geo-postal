@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713337"]={"code":"713337","region":"West Bengal","city":"Asansol","latitude":23.68333,"longitude":86.98333}}(window,'GeoPostal','IN');

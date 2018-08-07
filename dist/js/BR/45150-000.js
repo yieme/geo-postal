@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45150-000"]={"code":"45150-000","region":"Bahia","city":"Encruzilhada","latitude":-15.53139,"longitude":-40.90944}}(window,'GeoPostal','BR');

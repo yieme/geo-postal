@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["209739"]={"code":"209739","region":"Uttar Pradesh","city":"Chhibramau","latitude":27.1483,"longitude":79.4979}}(window,'GeoPostal','IN');

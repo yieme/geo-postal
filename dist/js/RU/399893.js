@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["399893"]={"code":"399893","region":"Lipetskaya oblast'","city":"Lev Tolstoy","latitude":53.21344,"longitude":39.44604}}(window,'GeoPostal','RU');

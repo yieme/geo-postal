@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74950"]={"code":"74950","region":"Uppsala lan","city":"Dalby","latitude":59.53333,"longitude":17.35}}(window,'GeoPostal','SE');

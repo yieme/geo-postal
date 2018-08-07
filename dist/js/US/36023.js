@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36023"]={"code":"36023","region":"Alabama","city":"Tallassee","latitude":32.53597,"longitude":-85.89329}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087016"]={"code":"087016","region":"Giurgiu","city":"Bolintin Deal","latitude":44.45917,"longitude":25.82111}}(window,'GeoPostal','RO');

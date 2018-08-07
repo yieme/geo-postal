@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA7 1AE"]={"code":"WA7 1AE","region":"England","city":"Runcorn","latitude":53.34174,"longitude":-2.73124}}(window,'GeoPostal','GB');

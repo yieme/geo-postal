@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89020"]={"code":"89020","region":"Nevada","city":"Amargosa Valley","latitude":36.64389,"longitude":-116.40028}}(window,'GeoPostal','US');

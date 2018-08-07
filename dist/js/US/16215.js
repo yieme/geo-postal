@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16215"]={"code":"16215","region":"PA","city":"Alltel","latitude":40.81,"longitude":-79.52}}(window,'GeoPostal','US');

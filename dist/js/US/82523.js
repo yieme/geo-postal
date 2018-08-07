@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82523"]={"code":"82523","region":"Wyoming","city":"Pavillion","latitude":43.24278,"longitude":-108.69}}(window,'GeoPostal','US');

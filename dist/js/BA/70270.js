@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70270"]={"code":"70270","region":"Republika Srpska","city":"Sipovo","latitude":44.28139,"longitude":17.08389}}(window,'GeoPostal','BA');

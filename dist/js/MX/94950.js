@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94950"]={"code":"94950","region":"Veracruz de Ignacio de la Llave","city":"Amatlan de los Reyes","latitude":18.83333,"longitude":-96.91667}}(window,'GeoPostal','MX');

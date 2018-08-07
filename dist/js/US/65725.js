@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65725"]={"code":"65725","region":"MO","city":"Pleasant Hope","latitude":37.4615,"longitude":-93.2617}}(window,'GeoPostal','US');

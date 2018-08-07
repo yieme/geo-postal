@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61051"]={"code":"61051","region":"IL","city":"Milledgeville","latitude":41.9674,"longitude":-89.7801}}(window,'GeoPostal','US');

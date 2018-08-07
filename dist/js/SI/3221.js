@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3221"]={"code":"3221","region":"Store","city":"Store","latitude":46.22083,"longitude":15.31389}}(window,'GeoPostal','SI');

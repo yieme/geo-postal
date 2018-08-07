@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44330"]={"code":"44330","region":"Pays-de-la-Loire","city":"Vallet","latitude":47.16227,"longitude":-1.26607}}(window,'GeoPostal','FR');

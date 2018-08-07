@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16876"]={"code":"16876","region":"Pennsylvania","city":"Wallaceton","latitude":40.961525,"longitude":-78.292862}}(window,'GeoPostal','US');

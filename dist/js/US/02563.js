@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02563"]={"code":"02563","region":"Massachusetts","city":"Sandwich","latitude":41.724452,"longitude":-70.480881}}(window,'GeoPostal','US');

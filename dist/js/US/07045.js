@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07045"]={"code":"07045","region":"NJ","city":"Montville","latitude":40.9049,"longitude":-74.3646}}(window,'GeoPostal','US');

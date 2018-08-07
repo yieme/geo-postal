@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1872"]={"code":"1872","region":"Valais","city":"Troistorrents","latitude":46.2289,"longitude":6.91589}}(window,'GeoPostal','CH');

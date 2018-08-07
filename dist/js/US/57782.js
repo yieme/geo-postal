@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57782"]={"code":"57782","region":"SD","city":"Smithwick","latitude":43.3014,"longitude":-103.2183}}(window,'GeoPostal','US');

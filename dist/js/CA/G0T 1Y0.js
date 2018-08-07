@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0T 1Y0"]={"code":"G0T 1Y0","region":"Quebec","city":"Sacre-Coeur","latitude":48.2297,"longitude":-69.80061}}(window,'GeoPostal','CA');

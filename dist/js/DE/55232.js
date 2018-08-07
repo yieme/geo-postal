@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55232"]={"code":"55232","region":"Rheinland-Pfalz","city":"Alzey","latitude":49.74657,"longitude":8.11513}}(window,'GeoPostal','DE');

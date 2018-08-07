@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 3RP"]={"code":"AB45 3RP","region":"Scotland","city":"Longmanhill","latitude":57.65147,"longitude":-2.4383}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3631"]={"code":"3631","region":"Buskerud","city":"Rodberg","latitude":60.26722,"longitude":8.94721}}(window,'GeoPostal','NO');

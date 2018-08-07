@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100"]={"code":"6100","region":"Siliana","city":"Siliana","latitude":36.08497,"longitude":9.37082}}(window,'GeoPostal','TN');

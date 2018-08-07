@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8A 0A7"]={"code":"K8A 0A7","region":"Ontario","city":"Pleasant View","latitude":45.76806,"longitude":-77.22389}}(window,'GeoPostal','CA');

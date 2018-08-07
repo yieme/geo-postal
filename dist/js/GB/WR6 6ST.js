@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 6ST"]={"code":"WR6 6ST","region":"England","city":"Stanford on Teme","latitude":52.29016,"longitude":-2.43627}}(window,'GeoPostal','GB');

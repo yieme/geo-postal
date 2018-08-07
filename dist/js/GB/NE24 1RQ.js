@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE24 1RQ"]={"code":"NE24 1RQ","region":"England","city":"Cambois","latitude":55.15184,"longitude":-1.5242}}(window,'GeoPostal','GB');

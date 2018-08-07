@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4893"]={"code":"4893","region":"Oberosterreich","city":"Zell am Moos","latitude":47.9,"longitude":13.31667}}(window,'GeoPostal','AT');

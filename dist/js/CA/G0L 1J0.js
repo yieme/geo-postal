@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0L 1J0"]={"code":"G0L 1J0","region":"Quebec","city":"Pohenegamook","latitude":47.46315,"longitude":-69.22666}}(window,'GeoPostal','CA');

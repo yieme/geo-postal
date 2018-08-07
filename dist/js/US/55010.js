@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55010"]={"code":"55010","region":"MN","city":"Castle Rock","latitude":44.5472,"longitude":-93.1531}}(window,'GeoPostal','US');

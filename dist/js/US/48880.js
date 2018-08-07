@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48880"]={"code":"48880","region":"Michigan","city":"Saint Louis","latitude":43.40836,"longitude":-84.60667}}(window,'GeoPostal','US');

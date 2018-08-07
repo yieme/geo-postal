@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8970"]={"code":"8970","region":"Zurich","city":"Urdorf / Oberurdorf","latitude":47.38072,"longitude":8.42343}}(window,'GeoPostal','CH');

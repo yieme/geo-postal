@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7584"]={"code":"7584","region":"Somogy","city":"Babocsa","latitude":46.04155,"longitude":17.34332}}(window,'GeoPostal','HU');

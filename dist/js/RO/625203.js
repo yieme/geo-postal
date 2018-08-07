@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["625203"]={"code":"625203","region":"Vrancea","city":"Marasheshty","latitude":45.88333,"longitude":27.23333}}(window,'GeoPostal','RO');

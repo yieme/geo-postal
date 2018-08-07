@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06410"]={"code":"06410","region":"Extremadura","city":"Santa Amalia","latitude":39.01118,"longitude":-6.01158}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47638"]={"code":"47638","region":"Nordrhein-Westfalen","city":"Walbeck","latitude":51.49535,"longitude":6.2362}}(window,'GeoPostal','DE');

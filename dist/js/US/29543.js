@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29543"]={"code":"29543","region":"SC","city":"Fork","latitude":34.2873,"longitude":-79.2501}}(window,'GeoPostal','US');

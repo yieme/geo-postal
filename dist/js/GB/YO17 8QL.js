@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO17 8QL"]={"code":"YO17 8QL","region":"England","city":"Sherburn","latitude":54.16667,"longitude":-0.51667}}(window,'GeoPostal','GB');

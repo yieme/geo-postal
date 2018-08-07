@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15748"]={"code":"15748","region":"Brandenburg","city":"Markisch Buchholz","latitude":52.10961,"longitude":13.76536}}(window,'GeoPostal','DE');

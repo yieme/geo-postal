@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2440"]={"code":"2440","region":"Santa Fe","city":"Sastre","latitude":-31.76762,"longitude":-61.82886}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8308"]={"code":"8308","region":"Surigao del Sur","city":"Gamut","latitude":8.53028,"longitude":126.24222}}(window,'GeoPostal','PH');

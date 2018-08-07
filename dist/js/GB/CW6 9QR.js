@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW6 9QR"]={"code":"CW6 9QR","region":"England","city":"Bunbury","latitude":53.11559,"longitude":-2.65151}}(window,'GeoPostal','GB');

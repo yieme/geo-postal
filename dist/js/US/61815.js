@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61815"]={"code":"61815","region":"IL","city":"Bondville","latitude":40.1134,"longitude":-88.3695}}(window,'GeoPostal','US');

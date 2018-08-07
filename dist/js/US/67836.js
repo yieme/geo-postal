@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67836"]={"code":"67836","region":"KS","city":"Coolidge","latitude":38.0215,"longitude":-102.007}}(window,'GeoPostal','US');

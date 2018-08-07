@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 6TD"]={"code":"BA11 6TD","region":"England","city":"Beckington","latitude":51.26444,"longitude":-2.28722}}(window,'GeoPostal','GB');

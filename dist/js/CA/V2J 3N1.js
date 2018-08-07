@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2J 3N1"]={"code":"V2J 3N1","region":"British Columbia","city":"Quesnel","latitude":52.972637,"longitude":-122.471928}}(window,'GeoPostal','CA');

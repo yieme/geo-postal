@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48818"]={"code":"48818","region":"Michigan","city":"Crystal","latitude":43.270585,"longitude":-84.908996}}(window,'GeoPostal','US');

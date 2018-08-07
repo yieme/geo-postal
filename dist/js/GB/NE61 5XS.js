@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 5XS"]={"code":"NE61 5XS","region":"England","city":"Lynemouth","latitude":55.21306,"longitude":-1.5425}}(window,'GeoPostal','GB');

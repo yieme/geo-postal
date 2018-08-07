@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["507239"]={"code":"507239","region":"Sibiu","city":"Ucea de Sus","latitude":45.75,"longitude":24.68333}}(window,'GeoPostal','RO');

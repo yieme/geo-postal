@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71309"]={"code":"71309","region":"Louisiana","city":"Alexandria","latitude":31.2542,"longitude":-92.4729}}(window,'GeoPostal','US');

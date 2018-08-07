@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78310"]={"code":"78310","region":"Ile-de-France","city":"Coignieres","latitude":48.7501,"longitude":1.92082}}(window,'GeoPostal','FR');

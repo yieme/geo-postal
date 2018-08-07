@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02400"]={"code":"02400","region":"Hauts-de-France","city":"Essomes-sur-Marne","latitude":49.02881,"longitude":3.37571}}(window,'GeoPostal','FR');

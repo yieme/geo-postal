@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60022"]={"code":"60022","region":"Illinois","city":"Glencoe","latitude":42.133745,"longitude":-87.761651}}(window,'GeoPostal','US');

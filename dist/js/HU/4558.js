@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4558"]={"code":"4558","region":"Szabolcs-Szatmar-Bereg","city":"Ofeherto","latitude":47.93333,"longitude":22.05}}(window,'GeoPostal','HU');

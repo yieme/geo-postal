@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5370-599"]={"code":"5370-599","region":"Braganca","city":"Mirandela","latitude":41.48738,"longitude":-7.18695}}(window,'GeoPostal','PT');

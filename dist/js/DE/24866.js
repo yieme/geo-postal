@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24866"]={"code":"24866","region":"Schleswig-Holstein","city":"Haithabu","latitude":54.49111,"longitude":9.56528}}(window,'GeoPostal','DE');

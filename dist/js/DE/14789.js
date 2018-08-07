@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14789"]={"code":"14789","region":"Brandenburg","city":"Wusterwitz","latitude":52.38333,"longitude":12.4}}(window,'GeoPostal','DE');

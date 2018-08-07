@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45678"]={"code":"45678","region":"Ohio","city":"Scottown","latitude":38.611766,"longitude":-82.399341}}(window,'GeoPostal','US');

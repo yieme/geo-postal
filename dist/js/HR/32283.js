@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32283"]={"code":"32283","region":"Vukovarsko-srijemska zupanija","city":"Vodinci","latitude":45.27556,"longitude":18.60972}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433550"]={"code":"433550","region":"Ul'yanovskaya oblast'","city":"Mullovka","latitude":54.2,"longitude":49.4}}(window,'GeoPostal','RU');

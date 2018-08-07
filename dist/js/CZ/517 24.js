@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 24"]={"code":"517 24","region":"Kralovehradecky kraj","city":"Borohradek","latitude":50.09777,"longitude":16.09326}}(window,'GeoPostal','CZ');

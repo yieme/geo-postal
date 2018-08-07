@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32667"]={"code":"32667","region":"Florida","city":"Micanopy","latitude":29.50639,"longitude":-82.28194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03029"]={"code":"03029","region":"Lazio","city":"Veroli","latitude":41.6824,"longitude":13.41774}}(window,'GeoPostal','IT');

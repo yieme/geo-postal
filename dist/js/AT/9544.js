@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9544"]={"code":"9544","region":"Karnten","city":"Feld am See","latitude":46.77639,"longitude":13.74778}}(window,'GeoPostal','AT');

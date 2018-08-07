@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12578"]={"code":"12578","region":"NY","city":"Salt Point","latitude":41.805,"longitude":-73.8013}}(window,'GeoPostal','US');

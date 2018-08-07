@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15820"]={"code":"15820","region":"Kirsehir","city":"Mecidiye","latitude":39.60694,"longitude":34.40861}}(window,'GeoPostal','TR');

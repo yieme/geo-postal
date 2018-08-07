@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38548"]={"code":"38548","region":"TN","city":"Buffalo Valley","latitude":36.1833,"longitude":-85.7589}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 3NA"]={"code":"SO32 3NA","region":"England","city":"Meonstoke","latitude":50.97751,"longitude":-1.1276}}(window,'GeoPostal','GB');

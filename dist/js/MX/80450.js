@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80450"]={"code":"80450","region":"Sinaloa","city":"El Dorado","latitude":24.32028,"longitude":-107.36028}}(window,'GeoPostal','MX');

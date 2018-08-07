@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20351"]={"code":"20351","region":"Cherkaska oblast","city":"Babanka","latitude":48.70971,"longitude":30.44827}}(window,'GeoPostal','UA');

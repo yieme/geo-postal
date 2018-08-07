@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7580-509"]={"code":"7580-509","region":"Setubal","city":"Grandola","latitude":38.17718,"longitude":-8.56675}}(window,'GeoPostal','PT');

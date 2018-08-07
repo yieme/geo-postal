@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65160"]={"code":"65160","region":"Phitsanulok","city":"Wat Bot","latitude":16.98114,"longitude":100.33194}}(window,'GeoPostal','TH');

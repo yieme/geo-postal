@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75780"]={"code":"75780","region":"Tlaxcala","city":"Tequixquitla","latitude":19.32778,"longitude":-97.65}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7287"]={"code":"7287","region":"Western Cape","city":"Bredasdorp","latitude":-34.53215,"longitude":20.04031}}(window,'GeoPostal','ZA');

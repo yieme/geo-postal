@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21620"]={"code":"21620","region":"Baja California","city":"Puebla","latitude":32.56444,"longitude":-115.35333}}(window,'GeoPostal','MX');

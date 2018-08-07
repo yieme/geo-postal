@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737485"]={"code":"737485","region":"Vaslui","city":"Stanilesti","latitude":46.61833,"longitude":28.17139}}(window,'GeoPostal','RO');

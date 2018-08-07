@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21820"]={"code":"21820","region":"Andalucia","city":"Lucena del Puerto","latitude":37.30396,"longitude":-6.72926}}(window,'GeoPostal','ES');

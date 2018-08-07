@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17022"]={"code":"17022","region":"Liguria","city":"Borgio Verezzi","latitude":44.15906,"longitude":8.30832}}(window,'GeoPostal','IT');

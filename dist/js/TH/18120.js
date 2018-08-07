@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18120"]={"code":"18120","region":"Saraburi","city":"Phra Phutthabat","latitude":14.72526,"longitude":100.79536}}(window,'GeoPostal','TH');

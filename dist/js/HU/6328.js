@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6328"]={"code":"6328","region":"Bacs-Kiskun","city":"Dunapataj","latitude":46.644,"longitude":18.99632}}(window,'GeoPostal','HU');

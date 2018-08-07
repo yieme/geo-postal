@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["996-0078"]={"code":"996-0078","region":"Yamagata","city":"Shinjo","latitude":38.767,"longitude":140.3}}(window,'GeoPostal','JP');

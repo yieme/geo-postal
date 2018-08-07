@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56551"]={"code":"56551","region":"Minnesota","city":"Henning","latitude":46.32473,"longitude":-95.34433}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05741"]={"code":"05741","region":"VT","city":"East Poultney","latitude":43.5265,"longitude":-73.2046}}(window,'GeoPostal','US');

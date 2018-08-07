@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46140"]={"code":"46140","region":"Indiana","city":"Greenfield","latitude":39.78504,"longitude":-85.76942}}(window,'GeoPostal','US');

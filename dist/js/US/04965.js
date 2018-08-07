@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04965"]={"code":"04965","region":"Maine","city":"Palmyra","latitude":44.84645,"longitude":-69.35866}}(window,'GeoPostal','US');

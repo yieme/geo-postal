@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58048"]={"code":"58048","region":"ND","city":"Hunter","latitude":47.1905,"longitude":-97.217}}(window,'GeoPostal','US');

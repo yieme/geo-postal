@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["784110"]={"code":"784110","region":"Assam","city":"Dhekiajuli","latitude":26.7,"longitude":92.5}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76887"]={"code":"76887","region":"Texas","city":"Voca","latitude":30.985314,"longitude":-99.14609}}(window,'GeoPostal','US');

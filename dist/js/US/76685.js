@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76685"]={"code":"76685","region":"TX","city":"Satin","latitude":31.3601,"longitude":-97.0108}}(window,'GeoPostal','US');

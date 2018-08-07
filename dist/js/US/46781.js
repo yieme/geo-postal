@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46781"]={"code":"46781","region":"IN","city":"Poneto","latitude":40.6419,"longitude":-85.2562}}(window,'GeoPostal','US');

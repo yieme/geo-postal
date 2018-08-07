@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58860-000"]={"code":"58860-000","region":"Paraiba","city":"Paulista","latitude":-6.59389,"longitude":-37.62417}}(window,'GeoPostal','BR');

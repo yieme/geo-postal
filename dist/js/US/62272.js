@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62272"]={"code":"62272","region":"Illinois","city":"Percy","latitude":38.011487,"longitude":-89.635844}}(window,'GeoPostal','US');

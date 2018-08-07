@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16002"]={"code":"16002","region":"Chernihivska oblast","city":"Novhorod-Sivers'kyy","latitude":52.00577,"longitude":33.2615}}(window,'GeoPostal','UA');

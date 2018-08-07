@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16140"]={"code":"16140","region":"PA","city":"New Bedford","latitude":41.0973,"longitude":-80.5048}}(window,'GeoPostal','US');

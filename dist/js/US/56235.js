@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56235"]={"code":"56235","region":"MN","city":"Donnelly","latitude":45.7014,"longitude":-96.0649}}(window,'GeoPostal','US');

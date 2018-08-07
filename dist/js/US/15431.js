@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15431"]={"code":"15431","region":"PA","city":"Dunbar","latitude":39.9722,"longitude":-79.6431}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05700"]={"code":"05700","region":"Provence-Alpes-Cote d'Azur","city":"Serres","latitude":44.42865,"longitude":5.71581}}(window,'GeoPostal','FR');

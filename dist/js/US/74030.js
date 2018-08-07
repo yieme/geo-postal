@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74030"]={"code":"74030","region":"Oklahoma","city":"Drumright","latitude":35.9884,"longitude":-96.60113}}(window,'GeoPostal','US');

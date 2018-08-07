@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2716"]={"code":"2716","region":"New South Wales","city":"Jerilderie","latitude":-35.35664,"longitude":145.72891}}(window,'GeoPostal','AU');

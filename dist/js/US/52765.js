@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52765"]={"code":"52765","region":"IA","city":"New Liberty","latitude":41.7132,"longitude":-90.8599}}(window,'GeoPostal','US');

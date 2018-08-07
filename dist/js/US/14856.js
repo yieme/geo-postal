@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14856"]={"code":"14856","region":"New York","city":"Kanona","latitude":42.33554,"longitude":-77.31815}}(window,'GeoPostal','US');

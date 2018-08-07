@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19906"]={"code":"19906","region":"DE","city":"Dover","latitude":39.157,"longitude":-75.5294}}(window,'GeoPostal','US');

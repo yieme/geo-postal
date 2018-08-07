@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51545"]={"code":"51545","region":"Nordrhein-Westfalen","city":"Niederhausen","latitude":50.85747,"longitude":7.56982}}(window,'GeoPostal','DE');

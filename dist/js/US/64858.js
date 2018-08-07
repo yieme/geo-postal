@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64858"]={"code":"64858","region":"MO","city":"Racine","latitude":36.901,"longitude":-94.5321}}(window,'GeoPostal','US');

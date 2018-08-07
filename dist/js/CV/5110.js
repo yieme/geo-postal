@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5110"]={"code":"5110","region":"Boa Vista","city":"Sal Rei","latitude":16.18333,"longitude":-22.91667}}(window,'GeoPostal','CV');

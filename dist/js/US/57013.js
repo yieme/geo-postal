@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57013"]={"code":"57013","region":"South Dakota","city":"Canton","latitude":43.304106,"longitude":-96.594886}}(window,'GeoPostal','US');

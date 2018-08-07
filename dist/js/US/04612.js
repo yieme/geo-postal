@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04612"]={"code":"04612","region":"ME","city":"Bernard","latitude":44.2415,"longitude":-68.358}}(window,'GeoPostal','US');

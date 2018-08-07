@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15744"]={"code":"15744","region":"PA","city":"Hamilton","latitude":40.9233,"longitude":-79.0831}}(window,'GeoPostal','US');

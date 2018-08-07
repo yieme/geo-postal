@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB55 4DE"]={"code":"AB55 4DE","region":"Scotland","city":"Achnastank","latitude":57.38333,"longitude":-3.2}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07728"]={"code":"07728","region":"New Jersey","city":"Freehold","latitude":40.26011,"longitude":-74.27376}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91353"]={"code":"91353","region":"Bayern","city":"Thurn","latitude":49.68754,"longitude":11.01137}}(window,'GeoPostal','DE');

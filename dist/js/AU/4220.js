@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4220"]={"code":"4220","region":"Queensland","city":"Burleigh Heads","latitude":-28.1,"longitude":153.45}}(window,'GeoPostal','AU');

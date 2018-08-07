@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512"]={"code":"512","region":"Eysturoy","city":"Eystur","latitude":62.20907,"longitude":-6.75247}}(window,'GeoPostal','FO');

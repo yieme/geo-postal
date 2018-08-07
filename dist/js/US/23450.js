@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23450"]={"code":"23450","region":"Virginia","city":"Virginia Beach","latitude":36.85293,"longitude":-75.97798}}(window,'GeoPostal','US');

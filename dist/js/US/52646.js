@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52646"]={"code":"52646","region":"IA","city":"Oakville","latitude":41.1003,"longitude":-91.0439}}(window,'GeoPostal','US');

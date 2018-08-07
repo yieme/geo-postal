@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22552"]={"code":"22552","region":"VA","city":"Sparta","latitude":38.0094,"longitude":-77.2251}}(window,'GeoPostal','US');

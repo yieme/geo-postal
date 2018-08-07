@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91031"]={"code":"91031","region":"California","city":"South Pasadena","latitude":34.11468,"longitude":-118.1523}}(window,'GeoPostal','US');

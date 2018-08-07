@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164252"]={"code":"164252","region":"Arkhangel'skaya oblast'","city":"Yemtsa","latitude":63.07337,"longitude":40.33285}}(window,'GeoPostal','RU');

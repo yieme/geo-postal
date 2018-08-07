@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86321"]={"code":"86321","region":"Arizona","city":"Bagdad","latitude":34.58113,"longitude":-113.20464}}(window,'GeoPostal','US');

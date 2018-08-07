@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07853"]={"code":"07853","region":"NJ","city":"Long Valley","latitude":40.7878,"longitude":-74.787}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08848"]={"code":"08848","region":"New Jersey","city":"Milford","latitude":40.56871,"longitude":-75.09462}}(window,'GeoPostal','US');

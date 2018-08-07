@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2087"]={"code":"2087","region":"Sofia","city":"Chelopech","latitude":42.7,"longitude":24.08333}}(window,'GeoPostal','BG');

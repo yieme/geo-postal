@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95067"]={"code":"95067","region":"California","city":"Scotts Valley","latitude":36.974167,"longitude":-122.029722}}(window,'GeoPostal','US');

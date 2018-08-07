@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO14 0JP"]={"code":"YO14 0JP","region":"England","city":"Hunmanby","latitude":54.17957,"longitude":-0.32007}}(window,'GeoPostal','GB');

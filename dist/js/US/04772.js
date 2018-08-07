@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04772"]={"code":"04772","region":"ME","city":"Saint Agatha","latitude":47.2387,"longitude":-68.3232}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3050"]={"code":"3050","region":"Lara","city":"Carora","latitude":10.17554,"longitude":-70.08274}}(window,'GeoPostal','VE');

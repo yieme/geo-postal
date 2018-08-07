@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR13 9PW"]={"code":"TR13 9PW","region":"England","city":"Breage","latitude":50.10893,"longitude":-5.3326}}(window,'GeoPostal','GB');

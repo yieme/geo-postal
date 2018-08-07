@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182670"]={"code":"182670","region":"Pskovskaya oblast'","city":"Dno","latitude":57.82772,"longitude":29.96368}}(window,'GeoPostal','RU');

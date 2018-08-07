@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77494"]={"code":"77494","region":"Texas","city":"Katy","latitude":29.753968,"longitude":-95.810176}}(window,'GeoPostal','US');

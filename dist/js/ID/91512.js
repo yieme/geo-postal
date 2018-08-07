@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91512"]={"code":"91512","region":"Sulawesi Barat","city":"Babana","latitude":-2.0779,"longitude":119.1986}}(window,'GeoPostal','ID');

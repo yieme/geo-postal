@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-350"]={"code":"66-350","region":"Lubuskie","city":"Bledzew","latitude":52.51711,"longitude":15.41382}}(window,'GeoPostal','PL');

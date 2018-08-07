@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72173"]={"code":"72173","region":"AR","city":"Vilonia","latitude":35.0719,"longitude":-92.1832}}(window,'GeoPostal','US');

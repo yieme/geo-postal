@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58012"]={"code":"58012","region":"Toscana","city":"Isola del Giglio","latitude":42.35791,"longitude":10.90724}}(window,'GeoPostal','IT');

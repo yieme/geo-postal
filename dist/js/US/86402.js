@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86402"]={"code":"86402","region":"Arizona","city":"Kingman","latitude":35.202836,"longitude":-114.067522}}(window,'GeoPostal','US');

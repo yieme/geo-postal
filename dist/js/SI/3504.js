@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3504"]={"code":"3504","region":"Velenje","city":"Velenje","latitude":46.35917,"longitude":15.11028}}(window,'GeoPostal','SI');

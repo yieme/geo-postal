@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A8A 0A1"]={"code":"A8A 0A1","region":"Newfoundland and Labrador","city":"Deer Lake","latitude":49.16671,"longitude":-57.43163}}(window,'GeoPostal','CA');

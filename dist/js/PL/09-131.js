@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-131"]={"code":"09-131","region":"Mazowieckie","city":"Joniec","latitude":52.60128,"longitude":20.58177}}(window,'GeoPostal','PL');

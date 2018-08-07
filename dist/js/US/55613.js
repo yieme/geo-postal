@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55613"]={"code":"55613","region":"MN","city":"Schroeder","latitude":47.5422,"longitude":-90.9338}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30236"]={"code":"30236","region":"Georgia","city":"Jonesboro","latitude":33.51198,"longitude":-84.31904}}(window,'GeoPostal','US');

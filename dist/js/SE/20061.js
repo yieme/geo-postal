@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20061"]={"code":"20061","region":"Skane lan","city":"Bunkeflostrand","latitude":55.53333,"longitude":12.95}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78959"]={"code":"78959","region":"Texas","city":"Waelder","latitude":29.69329,"longitude":-97.29916}}(window,'GeoPostal','US');

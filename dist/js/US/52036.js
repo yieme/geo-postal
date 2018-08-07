@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52036"]={"code":"52036","region":"IA","city":"Delaware","latitude":42.4766,"longitude":-91.3112}}(window,'GeoPostal','US');

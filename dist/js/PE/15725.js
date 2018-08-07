@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15725"]={"code":"15725","region":"Lima","city":"San Vicente de Canete","latitude":-13.07512,"longitude":-76.38352}}(window,'GeoPostal','PE');

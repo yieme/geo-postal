@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04945"]={"code":"04945","region":"ME","city":"Jackman","latitude":45.6351,"longitude":-70.2492}}(window,'GeoPostal','US');

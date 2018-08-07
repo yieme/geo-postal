@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68461"]={"code":"68461","region":"NE","city":"Walton","latitude":40.7975,"longitude":-96.5359}}(window,'GeoPostal','US');

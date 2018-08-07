@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53559"]={"code":"53559","region":"WI","city":"Marshall","latitude":43.1636,"longitude":-89.0753}}(window,'GeoPostal','US');

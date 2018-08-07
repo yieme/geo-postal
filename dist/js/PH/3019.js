@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3019"]={"code":"3019","region":"Bulacan","city":"Marilao","latitude":14.75778,"longitude":120.94833}}(window,'GeoPostal','PH');

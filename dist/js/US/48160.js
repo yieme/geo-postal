@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48160"]={"code":"48160","region":"Michigan","city":"Milan","latitude":42.110611,"longitude":-83.682972}}(window,'GeoPostal','US');

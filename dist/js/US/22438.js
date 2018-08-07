@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22438"]={"code":"22438","region":"VA","city":"Champlain","latitude":38.0214,"longitude":-76.9719}}(window,'GeoPostal','US');

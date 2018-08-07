@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72019"]={"code":"72019","region":"Puglia","city":"San Vito dei Normanni","latitude":40.65733,"longitude":17.70721}}(window,'GeoPostal','IT');

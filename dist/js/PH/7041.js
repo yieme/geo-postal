@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7041"]={"code":"7041","region":"Zamboanga del Sur","city":"Olutanga","latitude":7.31056,"longitude":122.84639}}(window,'GeoPostal','PH');

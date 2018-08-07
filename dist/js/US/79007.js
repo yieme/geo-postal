@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79007"]={"code":"79007","region":"Texas","city":"Borger","latitude":35.67798,"longitude":-101.41638}}(window,'GeoPostal','US');

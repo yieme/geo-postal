@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45305"]={"code":"45305","region":"OH","city":"Bellbrook","latitude":39.6402,"longitude":-84.0824}}(window,'GeoPostal','US');

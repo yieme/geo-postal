@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15561"]={"code":"15561","region":"PA","city":"Sipesville","latitude":40.0964,"longitude":-79.0902}}(window,'GeoPostal','US');

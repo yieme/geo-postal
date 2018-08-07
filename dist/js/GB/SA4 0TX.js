@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA4 0TX"]={"code":"SA4 0TX","region":"Wales","city":"Fforest","latitude":51.72142,"longitude":-4.0544}}(window,'GeoPostal','GB');

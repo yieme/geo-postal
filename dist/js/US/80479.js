@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80479"]={"code":"80479","region":"CO","city":"Toponas","latitude":40.0603,"longitude":-106.8081}}(window,'GeoPostal','US');

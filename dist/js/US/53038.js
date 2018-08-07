@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53038"]={"code":"53038","region":"WI","city":"Johnson Creek","latitude":43.0751,"longitude":-88.7836}}(window,'GeoPostal','US');

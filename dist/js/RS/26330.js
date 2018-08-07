@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26330"]={"code":"26330","region":"Juznobanatski okrug","city":"Izbiste","latitude":45.01972,"longitude":21.18639}}(window,'GeoPostal','RS');

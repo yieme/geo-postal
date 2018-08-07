@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5290000"]={"code":"5290000","region":"Los Lagos","city":"Osorno","latitude":-40.56667,"longitude":-73.15}}(window,'GeoPostal','CL');

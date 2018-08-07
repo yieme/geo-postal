@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA4 0LL"]={"code":"CA4 0LL","region":"England","city":"Southwaite","latitude":54.79841,"longitude":-2.85996}}(window,'GeoPostal','GB');

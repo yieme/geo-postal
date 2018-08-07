@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14171"]={"code":"14171","region":"New York","city":"West Valley","latitude":42.40278,"longitude":-78.61}}(window,'GeoPostal','US');

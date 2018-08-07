@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7142"]={"code":"7142","region":"Burgenland","city":"Illmitz","latitude":47.76148,"longitude":16.80024}}(window,'GeoPostal','AT');

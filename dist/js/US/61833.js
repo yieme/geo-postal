@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61833"]={"code":"61833","region":"IL","city":"Tilton","latitude":40.0964,"longitude":-87.644}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61194"]={"code":"61194","region":"Hessen","city":"Bonstadt","latitude":50.28717,"longitude":8.84474}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25440"]={"code":"25440","region":"WV","city":"Ridgeway","latitude":39.2973,"longitude":-78.0717}}(window,'GeoPostal','US');

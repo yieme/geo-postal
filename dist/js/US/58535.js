@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58535"]={"code":"58535","region":"ND","city":"Flasher","latitude":46.5998,"longitude":-101.3166}}(window,'GeoPostal','US');

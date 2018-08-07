@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43986"]={"code":"43986","region":"OH","city":"Jewett","latitude":40.3745,"longitude":-81.0004}}(window,'GeoPostal','US');

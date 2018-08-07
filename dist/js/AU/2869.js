@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2869"]={"code":"2869","region":"New South Wales","city":"Peak Hill","latitude":-32.72387,"longitude":148.19052}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4352"]={"code":"4352","region":"Szabolcs-Szatmar-Bereg","city":"Merk","latitude":47.78824,"longitude":22.38038}}(window,'GeoPostal','HU');

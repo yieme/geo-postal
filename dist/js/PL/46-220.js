@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-220"]={"code":"46-220","region":"Opolskie","city":"Byczyna","latitude":51.11387,"longitude":18.21413}}(window,'GeoPostal','PL');

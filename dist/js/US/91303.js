@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91303"]={"code":"91303","region":"California","city":"Canoga Park","latitude":34.19718,"longitude":-118.60038}}(window,'GeoPostal','US');

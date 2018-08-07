@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636456"]={"code":"636456","region":"Tamil Nadu","city":"Salem","latitude":11.65,"longitude":78.16667}}(window,'GeoPostal','IN');

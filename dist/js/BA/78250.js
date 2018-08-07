@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78250"]={"code":"78250","region":"Republika Srpska","city":"Laktasi","latitude":44.90806,"longitude":17.30083}}(window,'GeoPostal','BA');

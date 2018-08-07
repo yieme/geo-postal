@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58800"]={"code":"58800","region":"Sivas","city":"Gurun","latitude":38.72225,"longitude":37.27097}}(window,'GeoPostal','TR');

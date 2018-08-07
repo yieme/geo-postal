@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28790"]={"code":"28790","region":"Niedersachsen","city":"Schwanewede","latitude":53.23333,"longitude":8.6}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27577"]={"code":"27577","region":"NC","city":"Smithfield","latitude":35.5068,"longitude":-78.3479}}(window,'GeoPostal','US');

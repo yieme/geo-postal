@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391530"]={"code":"391530","region":"Gujarat","city":"Vaghodia","latitude":22.3,"longitude":73.38333}}(window,'GeoPostal','IN');

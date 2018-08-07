@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62088"]={"code":"62088","region":"Illinois","city":"Staunton","latitude":39.01152,"longitude":-89.78922}}(window,'GeoPostal','US');

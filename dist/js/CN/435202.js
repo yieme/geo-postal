@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435202"]={"code":"435202","region":"Hubei","city":"Mugang","latitude":29.72339,"longitude":115.24621}}(window,'GeoPostal','CN');

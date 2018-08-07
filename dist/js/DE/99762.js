@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99762"]={"code":"99762","region":"Thuringen","city":"Bleicherode","latitude":51.44026,"longitude":10.57202}}(window,'GeoPostal','DE');

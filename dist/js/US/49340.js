@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49340"]={"code":"49340","region":"MI","city":"Remus","latitude":43.6032,"longitude":-85.1574}}(window,'GeoPostal','US');

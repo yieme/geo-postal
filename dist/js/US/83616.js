@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83616"]={"code":"83616","region":"Idaho","city":"Eagle","latitude":43.69544,"longitude":-116.35401}}(window,'GeoPostal','US');

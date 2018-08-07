@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3987"]={"code":"3987","region":"Victoria","city":"Nyora","latitude":-38.33364,"longitude":145.67248}}(window,'GeoPostal','AU');

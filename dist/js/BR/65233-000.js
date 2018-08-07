@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65233-000"]={"code":"65233-000","region":"Maranhao","city":"Sao Bento","latitude":-2.69583,"longitude":-44.82139}}(window,'GeoPostal','BR');

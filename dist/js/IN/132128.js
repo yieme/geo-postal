@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132128"]={"code":"132128","region":"Haryana","city":"Pehowa","latitude":29.98333,"longitude":76.58333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06387"]={"code":"06387","region":"Connecticut","city":"Wauregan","latitude":41.744504,"longitude":-71.911013}}(window,'GeoPostal','US');

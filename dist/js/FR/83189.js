@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83189"]={"code":"83189","region":"Provence-Alpes-Cote d'Azur","city":"Six-Fours-les-Plages","latitude":43.1,"longitude":5.85}}(window,'GeoPostal','FR');

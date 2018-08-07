@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN6 9HP"]={"code":"LN6 9HP","region":"England","city":"Swinderby","latitude":53.15731,"longitude":-0.68435}}(window,'GeoPostal','GB');

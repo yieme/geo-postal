@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50250"]={"code":"50250","region":"Chiang Mai","city":"Samoeng","latitude":18.84806,"longitude":98.73242}}(window,'GeoPostal','TH');

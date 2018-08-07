@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1E0"]={"code":"C0B 1E0","region":"Prince Edward Island","city":"Piusville","latitude":46.78345,"longitude":-64.19873}}(window,'GeoPostal','CA');

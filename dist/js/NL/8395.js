@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8395"]={"code":"8395","region":"Fryslan","city":"Steggerda","latitude":52.85734,"longitude":6.07548}}(window,'GeoPostal','NL');

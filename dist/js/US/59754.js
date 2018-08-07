@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59754"]={"code":"59754","region":"MT","city":"Twin Bridges","latitude":45.5311,"longitude":-112.3495}}(window,'GeoPostal','US');

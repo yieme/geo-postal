@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456870"]={"code":"456870","region":"Chelyabinskaya oblast'","city":"Kyshtym","latitude":55.714,"longitude":60.5528}}(window,'GeoPostal','RU');

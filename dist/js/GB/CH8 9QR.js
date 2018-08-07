@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 9QR"]={"code":"CH8 9QR","region":"Wales","city":"Mostyn","latitude":53.31271,"longitude":-3.26765}}(window,'GeoPostal','GB');

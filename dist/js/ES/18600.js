@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18600"]={"code":"18600","region":"Andalucia","city":"Motril","latitude":36.75066,"longitude":-3.5179}}(window,'GeoPostal','ES');

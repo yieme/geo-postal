@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18034"]={"code":"18034","region":"Pennsylvania","city":"Center Valley","latitude":40.549243,"longitude":-75.426404}}(window,'GeoPostal','US');

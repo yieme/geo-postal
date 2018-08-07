@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12110"]={"code":"12110","region":"New York","city":"Latham","latitude":42.746445,"longitude":-73.765996}}(window,'GeoPostal','US');

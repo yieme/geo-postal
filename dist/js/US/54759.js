@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54759"]={"code":"54759","region":"Wisconsin","city":"Pepin","latitude":44.442325,"longitude":-92.148722}}(window,'GeoPostal','US');

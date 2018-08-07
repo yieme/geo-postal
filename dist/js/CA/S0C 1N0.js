@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1N0"]={"code":"S0C 1N0","region":"Saskatchewan","city":"Lampman","latitude":49.38336,"longitude":-102.75092}}(window,'GeoPostal','CA');

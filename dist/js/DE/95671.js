@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95671"]={"code":"95671","region":"Bayern","city":"Naab","latitude":49.79862,"longitude":12.42907}}(window,'GeoPostal','DE');

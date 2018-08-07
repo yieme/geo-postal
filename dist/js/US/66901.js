@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66901"]={"code":"66901","region":"Kansas","city":"Concordia","latitude":39.57084,"longitude":-97.66254}}(window,'GeoPostal','US');

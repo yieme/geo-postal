@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA42 7EP"]={"code":"PA42 7EP","region":"Scotland","city":"Port Ellen","latitude":55.63333,"longitude":-6.18333}}(window,'GeoPostal','GB');

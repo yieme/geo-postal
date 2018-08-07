@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58223"]={"code":"58223","region":"ND","city":"Cummings","latitude":47.537,"longitude":-96.9913}}(window,'GeoPostal','US');

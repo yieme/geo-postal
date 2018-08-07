@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325006"]={"code":"325006","region":"Zhejiang","city":"Wenzhou","latitude":27.99942,"longitude":120.66682}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57032"]={"code":"57032","region":"SD","city":"Harrisburg","latitude":43.446,"longitude":-96.6864}}(window,'GeoPostal','US');

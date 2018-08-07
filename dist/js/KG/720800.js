@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["720800"]={"code":"720800","region":"Jalal-Abad","city":"Bazar-Kurgan","latitude":41.03432,"longitude":72.73729}}(window,'GeoPostal','KG');

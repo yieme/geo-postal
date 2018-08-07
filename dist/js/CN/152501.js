@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152501"]={"code":"152501","region":"Heilongjiang","city":"Tieli","latitude":46.95,"longitude":128.05}}(window,'GeoPostal','CN');

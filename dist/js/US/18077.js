@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18077"]={"code":"18077","region":"Pennsylvania","city":"Riegelsville","latitude":40.561162,"longitude":-75.238447}}(window,'GeoPostal','US');

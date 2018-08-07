@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 1H0"]={"code":"S0E 1H0","region":"Saskatchewan","city":"Porcupine Plain","latitude":52.6,"longitude":-103.25095}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE16 2UE"]={"code":"SE16 2UE","region":"England","city":"Surrey Quays","latitude":51.49353,"longitude":-0.04802}}(window,'GeoPostal','GB');

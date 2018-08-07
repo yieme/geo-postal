@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660074"]={"code":"660074","region":"Krasnoyarskiy kray","city":"Minusinsk","latitude":53.71028,"longitude":91.6875}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34220"]={"code":"34220","region":"Sumadijski okrug","city":"Lapovo","latitude":44.17894,"longitude":21.0965}}(window,'GeoPostal','RS');

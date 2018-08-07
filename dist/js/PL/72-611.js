@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-611"]={"code":"72-611","region":"Zachodniopomorskie","city":"Swinoujscie","latitude":53.91053,"longitude":14.24712}}(window,'GeoPostal','PL');

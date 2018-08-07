@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55032"]={"code":"55032","region":"MN","city":"Harris","latitude":45.5962,"longitude":-93.0395}}(window,'GeoPostal','US');

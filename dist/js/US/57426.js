@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57426"]={"code":"57426","region":"SD","city":"Barnard","latitude":45.7325,"longitude":-98.4965}}(window,'GeoPostal','US');

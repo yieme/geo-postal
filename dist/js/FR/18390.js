@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18390"]={"code":"18390","region":"Centre-Val de Loire","city":"Saint-Germain-du-Puy","latitude":47.1,"longitude":2.48333}}(window,'GeoPostal','FR');

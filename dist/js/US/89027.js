@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89027"]={"code":"89027","region":"Nevada","city":"Mesquite","latitude":36.8101,"longitude":-114.0778}}(window,'GeoPostal','US');

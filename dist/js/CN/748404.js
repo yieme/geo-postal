@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["748404"]={"code":"748404","region":"Gansu","city":"Hadapu Zhen","latitude":34.23132,"longitude":104.22301}}(window,'GeoPostal','CN');

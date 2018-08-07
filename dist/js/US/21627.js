@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21627"]={"code":"21627","region":"MD","city":"Crocheron","latitude":38.2426,"longitude":-76.0531}}(window,'GeoPostal','US');

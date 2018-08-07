@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58351"]={"code":"58351","region":"Jawa Tengah","city":"Cepu","latitude":-7.1475,"longitude":111.5906}}(window,'GeoPostal','ID');

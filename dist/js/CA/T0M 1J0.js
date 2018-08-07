@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1J0"]={"code":"T0M 1J0","region":"Alberta","city":"Linden","latitude":51.59181,"longitude":-113.48525}}(window,'GeoPostal','CA');

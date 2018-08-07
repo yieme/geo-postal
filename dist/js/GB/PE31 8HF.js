@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 8HF"]={"code":"PE31 8HF","region":"England","city":"Burnham Market","latitude":52.94525,"longitude":0.72608}}(window,'GeoPostal','GB');

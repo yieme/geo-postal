@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 0EB"]={"code":"IP6 0EB","region":"England","city":"Claydon","latitude":52.10672,"longitude":1.11134}}(window,'GeoPostal','GB');

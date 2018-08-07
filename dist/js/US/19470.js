@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19470"]={"code":"19470","region":"Pennsylvania","city":"Saint Peters","latitude":40.175332,"longitude":-75.732959}}(window,'GeoPostal','US');

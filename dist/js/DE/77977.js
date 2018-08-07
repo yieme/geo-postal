@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77977"]={"code":"77977","region":"Baden-Wurttemberg","city":"Rust","latitude":48.26667,"longitude":7.73333}}(window,'GeoPostal','DE');

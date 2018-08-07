@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72300"]={"code":"72300","region":"Yozgat","city":"Cekerek","latitude":40.07306,"longitude":35.49472}}(window,'GeoPostal','TR');

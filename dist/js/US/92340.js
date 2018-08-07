@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92340"]={"code":"92340","region":"California","city":"Hesperia","latitude":34.42639,"longitude":-117.30088}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58210-000"]={"code":"58210-000","region":"Paraiba","city":"Guarabira","latitude":-6.85472,"longitude":-35.49}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10500"]={"code":"10500","region":"Extremadura","city":"Valencia de Alcantara","latitude":39.41148,"longitude":-7.24435}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P8N 2Z7"]={"code":"P8N 2Z7","region":"Ontario","city":"Dryden","latitude":49.784398,"longitude":-92.834709}}(window,'GeoPostal','CA');

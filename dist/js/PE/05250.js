@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05250"]={"code":"05250","region":"Ayacucho","city":"San Miguel","latitude":-13.0125,"longitude":-73.98083}}(window,'GeoPostal','PE');

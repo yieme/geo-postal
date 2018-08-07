@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14415"]={"code":"14415","region":"New York","city":"Bellona","latitude":42.755176,"longitude":-77.020342}}(window,'GeoPostal','US');

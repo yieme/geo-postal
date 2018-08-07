@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196620"]={"code":"196620","region":"Sankt-Peterburg","city":"Pavlovsk","latitude":59.68333,"longitude":30.43472}}(window,'GeoPostal','RU');

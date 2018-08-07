@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37848"]={"code":"37848","region":"TN","city":"Powder Springs","latitude":36.2357,"longitude":-83.6801}}(window,'GeoPostal','US');

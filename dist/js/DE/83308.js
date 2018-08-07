@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83308"]={"code":"83308","region":"Bayern","city":"Deinting","latitude":48.03839,"longitude":12.57386}}(window,'GeoPostal','DE');

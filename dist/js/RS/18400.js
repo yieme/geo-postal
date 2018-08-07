@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18400"]={"code":"18400","region":"Toplicki okrug","city":"Prokuplje","latitude":43.23417,"longitude":21.58806}}(window,'GeoPostal','RS');

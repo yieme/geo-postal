@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3311"]={"code":"3311","region":"Zalec","city":"Sempeter v Savinjski dolini","latitude":46.25639,"longitude":15.12194}}(window,'GeoPostal','SI');

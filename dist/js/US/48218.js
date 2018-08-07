@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48218"]={"code":"48218","region":"MI","city":"River Rouge","latitude":42.2692,"longitude":-83.1364}}(window,'GeoPostal','US');

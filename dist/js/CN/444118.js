@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["444118"]={"code":"444118","region":"Hubei","city":"Zhanghe","latitude":30.95698,"longitude":112.07076}}(window,'GeoPostal','CN');

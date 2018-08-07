@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40150"]={"code":"40150","region":"Castilla y Leon","city":"Villacastin","latitude":40.7796,"longitude":-4.41357}}(window,'GeoPostal','ES');

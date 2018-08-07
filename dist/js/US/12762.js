@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12762"]={"code":"12762","region":"NY","city":"Mongaup Valley","latitude":41.681,"longitude":-74.8028}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59472"]={"code":"59472","region":"MT","city":"Sand Coulee","latitude":47.4021,"longitude":-111.1661}}(window,'GeoPostal','US');

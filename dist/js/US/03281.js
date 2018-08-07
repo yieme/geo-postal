@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03281"]={"code":"03281","region":"New Hampshire","city":"Weare","latitude":43.08363,"longitude":-71.726337}}(window,'GeoPostal','US');

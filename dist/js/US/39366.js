@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39366"]={"code":"39366","region":"MS","city":"Vossburg","latitude":31.9506,"longitude":-88.9707}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 2JU"]={"code":"AB45 2JU","region":"Scotland","city":"Whitehills","latitude":57.66667,"longitude":-2.58333}}(window,'GeoPostal','GB');

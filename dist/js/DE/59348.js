@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59348"]={"code":"59348","region":"Nordrhein-Westfalen","city":"Ludinghausen","latitude":51.7683,"longitude":7.44379}}(window,'GeoPostal','DE');

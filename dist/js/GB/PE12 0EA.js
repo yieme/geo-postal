@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 0EA"]={"code":"PE12 0EA","region":"England","city":"Gedney","latitude":52.79768,"longitude":0.07914}}(window,'GeoPostal','GB');

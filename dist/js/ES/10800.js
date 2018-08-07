@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10800"]={"code":"10800","region":"Extremadura","city":"Coria","latitude":39.98788,"longitude":-6.53772}}(window,'GeoPostal','ES');

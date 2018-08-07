@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62760"]={"code":"62760","region":"Hauts-de-France","city":"Pas-en-Artois","latitude":50.1556,"longitude":2.49}}(window,'GeoPostal','FR');

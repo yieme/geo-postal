@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59700"]={"code":"59700","region":"Tekirdag","city":"Muratli","latitude":41.17262,"longitude":27.49633}}(window,'GeoPostal','TR');

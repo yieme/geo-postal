@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51040"]={"code":"51040","region":"Iowa","city":"Onawa","latitude":42.02665,"longitude":-96.09724}}(window,'GeoPostal','US');

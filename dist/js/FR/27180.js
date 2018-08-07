@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27180"]={"code":"27180","region":"Normandie","city":"Le Plessis-Grohan","latitude":48.9542,"longitude":1.1239}}(window,'GeoPostal','FR');

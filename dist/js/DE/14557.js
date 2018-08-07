@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14557"]={"code":"14557","region":"Brandenburg","city":"Willichslust","latitude":52.32254,"longitude":13.03391}}(window,'GeoPostal','DE');

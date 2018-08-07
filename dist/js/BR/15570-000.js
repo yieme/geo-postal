@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15570-000"]={"code":"15570-000","region":"Sao Paulo","city":"Cardoso","latitude":-20.08194,"longitude":-49.91417}}(window,'GeoPostal','BR');

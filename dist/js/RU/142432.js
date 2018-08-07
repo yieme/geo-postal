@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142432"]={"code":"142432","region":"Moskovskaya oblast'","city":"Chernogolovka","latitude":56,"longitude":38.36667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96141"]={"code":"96141","region":"CA","city":"Homewood","latitude":39.0786,"longitude":-120.1734}}(window,'GeoPostal','US');

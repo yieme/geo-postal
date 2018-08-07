@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 1J0"]={"code":"N0G 1J0","region":"Ontario","city":"Cargill","latitude":44.20009,"longitude":-81.24974}}(window,'GeoPostal','CA');

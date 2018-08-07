@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA20 0NZ"]={"code":"SA20 0NZ","region":"Wales","city":"Myddfai","latitude":51.95571,"longitude":-3.78801}}(window,'GeoPostal','GB');

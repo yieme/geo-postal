@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50677"]={"code":"50677","region":"Iowa","city":"Waverly","latitude":42.71622,"longitude":-92.42562}}(window,'GeoPostal','US');

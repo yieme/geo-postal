@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["324212"]={"code":"324212","region":"Zhejiang","city":"Fangcun","latitude":29.05426,"longitude":118.61304}}(window,'GeoPostal','CN');

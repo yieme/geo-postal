@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89275-000"]={"code":"89275-000","region":"Santa Catarina","city":"Schroeder","latitude":-26.4125,"longitude":-49.07306}}(window,'GeoPostal','BR');

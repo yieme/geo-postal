@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2425-327"]={"code":"2425-327","region":"Leiria","city":"Monte Redondo","latitude":39.8993,"longitude":-8.83171}}(window,'GeoPostal','PT');

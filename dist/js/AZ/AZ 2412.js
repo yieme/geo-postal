@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 2412"]={"code":"AZ 2412","region":"Baki","city":"Qobustan","latitude":40.08238,"longitude":49.41205}}(window,'GeoPostal','AZ');

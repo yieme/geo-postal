@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25530"]={"code":"25530","region":"Catalunya","city":"Vielha","latitude":42.70196,"longitude":0.79556}}(window,'GeoPostal','ES');

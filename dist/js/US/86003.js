@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86003"]={"code":"86003","region":"AZ","city":"Flagstaff","latitude":35.1981,"longitude":-111.6513}}(window,'GeoPostal','US');

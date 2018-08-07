@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06131"]={"code":"06131","region":"Extremadura","city":"Alconchel","latitude":38.51648,"longitude":-7.07161}}(window,'GeoPostal','ES');

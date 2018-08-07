@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26230"]={"code":"26230","region":"Auvergne-Rhone-Alpes","city":"Grignan","latitude":44.41976,"longitude":4.90826}}(window,'GeoPostal','FR');

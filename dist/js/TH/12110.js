@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12110"]={"code":"12110","region":"Pathum Thani","city":"Pathum Thani","latitude":14.01346,"longitude":100.53049}}(window,'GeoPostal','TH');

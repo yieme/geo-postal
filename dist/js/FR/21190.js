@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21190"]={"code":"21190","region":"Bourgogne-Franche-Comte","city":"Corpeau","latitude":46.92917,"longitude":4.75226}}(window,'GeoPostal','FR');

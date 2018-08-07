@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8840"]={"code":"8840","region":"Schwyz","city":"Einsiedeln","latitude":47.11667,"longitude":8.75}}(window,'GeoPostal','CH');

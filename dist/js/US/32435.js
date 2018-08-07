@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32435"]={"code":"32435","region":"FL","city":"Defuniak Springs","latitude":30.721,"longitude":-86.1152}}(window,'GeoPostal','US');

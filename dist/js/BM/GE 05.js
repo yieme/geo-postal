@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GE 05"]={"code":"GE 05","region":"Saint George","city":"Saint George","latitude":32.38167,"longitude":-64.67806}}(window,'GeoPostal','BM');

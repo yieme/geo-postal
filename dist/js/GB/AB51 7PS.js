@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 7PS"]={"code":"AB51 7PS","region":"Scotland","city":"Comers","latitude":57.15,"longitude":-2.53333}}(window,'GeoPostal','GB');

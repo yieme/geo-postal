@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0W 1S0"]={"code":"J0W 1S0","region":"Quebec","city":"Lac-du-Cerf","latitude":46.30011,"longitude":-75.49931}}(window,'GeoPostal','CA');

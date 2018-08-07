@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO14 9PP"]={"code":"YO14 9PP","region":"England","city":"Gristhorpe","latitude":54.22148,"longitude":-0.33417}}(window,'GeoPostal','GB');

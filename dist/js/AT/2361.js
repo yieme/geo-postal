@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2361"]={"code":"2361","region":"Niederosterreich","city":"Laxenburg","latitude":48.06833,"longitude":16.35607}}(window,'GeoPostal','AT');

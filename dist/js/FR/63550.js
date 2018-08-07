@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63550"]={"code":"63550","region":"Auvergne-Rhone-Alpes","city":"Saint-Remy-sur-Durolle","latitude":45.88822,"longitude":3.59125}}(window,'GeoPostal','FR');

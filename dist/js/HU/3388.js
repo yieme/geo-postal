@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3388"]={"code":"3388","region":"Heves","city":"Poroszlo","latitude":47.65,"longitude":20.66667}}(window,'GeoPostal','HU');

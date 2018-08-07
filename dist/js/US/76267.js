@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76267"]={"code":"76267","region":"TX","city":"Slidell","latitude":33.378,"longitude":-97.3922}}(window,'GeoPostal','US');

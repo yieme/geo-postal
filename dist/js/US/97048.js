@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97048"]={"code":"97048","region":"Oregon","city":"Rainier","latitude":46.089,"longitude":-122.93594}}(window,'GeoPostal','US');

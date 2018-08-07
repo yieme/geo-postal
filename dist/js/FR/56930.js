@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56930"]={"code":"56930","region":"Bretagne","city":"Plumeliau","latitude":47.95769,"longitude":-2.97494}}(window,'GeoPostal','FR');

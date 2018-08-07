@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3898"]={"code":"3898","region":"Victoria","city":"Omeo","latitude":-37.09614,"longitude":147.59491}}(window,'GeoPostal','AU');

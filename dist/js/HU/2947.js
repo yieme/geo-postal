@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2947"]={"code":"2947","region":"Komarom-Esztergom","city":"Kisber","latitude":47.50289,"longitude":18.03665}}(window,'GeoPostal','HU');

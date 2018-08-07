@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL1 2RX"]={"code":"DL1 2RX","region":"England","city":"Haughton le Skerne","latitude":54.53849,"longitude":-1.51915}}(window,'GeoPostal','GB');

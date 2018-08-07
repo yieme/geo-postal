@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7337"]={"code":"7337","region":"Razgrad","city":"Gorichevo","latitude":43.85,"longitude":26.45}}(window,'GeoPostal','BG');

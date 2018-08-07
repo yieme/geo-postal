@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35035"]={"code":"35035","region":"Taza-Al Hoceima-Taounate","city":"Taza","latitude":34.21,"longitude":-4.01}}(window,'GeoPostal','MA');

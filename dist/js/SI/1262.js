@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1262"]={"code":"1262","region":"Domzale","city":"Domzale","latitude":46.13774,"longitude":14.59371}}(window,'GeoPostal','SI');

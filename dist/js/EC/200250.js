@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200250"]={"code":"200250","region":"Galapagos","city":"Puerto Villamil","latitude":-0.95542,"longitude":-90.96654}}(window,'GeoPostal','EC');

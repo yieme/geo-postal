@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85025"]={"code":"85025","region":"Basilicata","city":"Melfi","latitude":40.99652,"longitude":15.65136}}(window,'GeoPostal','IT');

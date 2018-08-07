@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44281"]={"code":"44281","region":"Ohio","city":"Wadsworth","latitude":41.02561,"longitude":-81.72985}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33450"]={"code":"33450","region":"Nouvelle-Aquitaine","city":"Izon","latitude":44.92416,"longitude":-0.36322}}(window,'GeoPostal','FR');

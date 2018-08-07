@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05009"]={"code":"05009","region":"Escuintla","city":"Puerto San Jose","latitude":13.92556,"longitude":-90.82444}}(window,'GeoPostal','GT');

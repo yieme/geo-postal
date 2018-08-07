@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17827"]={"code":"17827","region":"Pennsylvania","city":"Freeburg","latitude":40.76389,"longitude":-76.9375}}(window,'GeoPostal','US');

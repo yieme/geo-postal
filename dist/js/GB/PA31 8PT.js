@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA31 8PT"]={"code":"PA31 8PT","region":"Scotland","city":"Taynish","latitude":55.987,"longitude":-5.64815}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29175"]={"code":"29175","region":"South Carolina","city":"Westville","latitude":34.447525,"longitude":-80.598837}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76670"]={"code":"76670","region":"Texas","city":"Milford","latitude":32.1418,"longitude":-96.9604}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41339"]={"code":"41339","region":"Kentucky","city":"Jackson","latitude":37.539372,"longitude":-83.388715}}(window,'GeoPostal','US');

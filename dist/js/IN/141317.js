@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141317"]={"code":"141317","region":"Punjab","city":"Shahkot","latitude":31.0775,"longitude":75.33722}}(window,'GeoPostal','IN');

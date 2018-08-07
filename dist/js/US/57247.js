@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57247"]={"code":"57247","region":"South Dakota","city":"Lake City","latitude":45.69729,"longitude":-97.353408}}(window,'GeoPostal','US');

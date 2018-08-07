@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11101"]={"code":"11101","region":"Kainuu","city":"Riihimaki","latitude":64.1,"longitude":29.53333}}(window,'GeoPostal','FI');

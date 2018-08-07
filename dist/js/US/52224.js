@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52224"]={"code":"52224","region":"Iowa","city":"Dysart","latitude":42.168931,"longitude":-92.30721}}(window,'GeoPostal','US');

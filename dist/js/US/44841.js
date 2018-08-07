@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44841"]={"code":"44841","region":"OH","city":"Kansas","latitude":41.2512,"longitude":-83.306}}(window,'GeoPostal','US');

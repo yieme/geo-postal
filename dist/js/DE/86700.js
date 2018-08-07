@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86700"]={"code":"86700","region":"Bayern","city":"Rehau","latitude":48.88362,"longitude":10.84778}}(window,'GeoPostal','DE');

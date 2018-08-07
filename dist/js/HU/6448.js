@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6448"]={"code":"6448","region":"Bacs-Kiskun","city":"Csavoly","latitude":46.18917,"longitude":19.14667}}(window,'GeoPostal','HU');

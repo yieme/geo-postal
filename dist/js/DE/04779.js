@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04779"]={"code":"04779","region":"Sachsen","city":"Hubertusburg","latitude":51.27782,"longitude":12.93904}}(window,'GeoPostal','DE');

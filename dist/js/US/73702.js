@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73702"]={"code":"73702","region":"Oklahoma","city":"Enid","latitude":36.3977,"longitude":-97.8742}}(window,'GeoPostal','US');

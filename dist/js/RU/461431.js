@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461431"]={"code":"461431","region":"Orenburgskaya oblast'","city":"Tatarskaya Kargala","latitude":51.94952,"longitude":55.17314}}(window,'GeoPostal','RU');

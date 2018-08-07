@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31706"]={"code":"31706","region":"GA","city":"Albany","latitude":31.5593,"longitude":-84.1765}}(window,'GeoPostal','US');

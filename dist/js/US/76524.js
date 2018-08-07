@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76524"]={"code":"76524","region":"TX","city":"Eddy","latitude":31.3088,"longitude":-97.2774}}(window,'GeoPostal','US');

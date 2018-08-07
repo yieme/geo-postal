@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3230"]={"code":"3230","region":"Sentjur","city":"Sentjur","latitude":46.21722,"longitude":15.3975}}(window,'GeoPostal','SI');

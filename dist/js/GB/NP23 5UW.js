@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP23 5UW"]={"code":"NP23 5UW","region":"Wales","city":"Ebbw Vale","latitude":51.77714,"longitude":-3.20792}}(window,'GeoPostal','GB');

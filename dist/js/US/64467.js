@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64467"]={"code":"64467","region":"MO","city":"Martinsville","latitude":40.3662,"longitude":-94.1645}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55398"]={"code":"55398","region":"MN","city":"Zimmerman","latitude":45.4553,"longitude":-93.5879}}(window,'GeoPostal','US');

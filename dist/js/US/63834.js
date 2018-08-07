@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63834"]={"code":"63834","region":"MO","city":"Charleston","latitude":36.9213,"longitude":-89.3342}}(window,'GeoPostal','US');

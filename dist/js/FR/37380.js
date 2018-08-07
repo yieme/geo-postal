@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37380"]={"code":"37380","region":"Centre-Val de Loire","city":"Reugny","latitude":47.48208,"longitude":0.88468}}(window,'GeoPostal','FR');

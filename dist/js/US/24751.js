@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24751"]={"code":"24751","region":"WV","city":"Wolfe","latitude":37.3073,"longitude":-81.3287}}(window,'GeoPostal','US');

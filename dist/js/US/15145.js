@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15145"]={"code":"15145","region":"PA","city":"Turtle Creek","latitude":40.4113,"longitude":-79.822}}(window,'GeoPostal','US');

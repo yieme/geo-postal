@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5522"]={"code":"5522","region":"South Australia","city":"Port Broughton","latitude":-33.6007,"longitude":137.93597}}(window,'GeoPostal','AU');

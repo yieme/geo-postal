@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48050"]={"code":"48050","region":"Jalisco","city":"Ayutla","latitude":20.11667,"longitude":-104.33333}}(window,'GeoPostal','MX');

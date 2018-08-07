@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200-305"]={"code":"3200-305","region":"Coimbra","city":"Lavos","latitude":40.09363,"longitude":-8.82826}}(window,'GeoPostal','PT');

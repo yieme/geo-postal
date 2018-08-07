@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301859"]={"code":"301859","region":"Tul'skaya oblast'","city":"Yefremov","latitude":53.14806,"longitude":38.09924}}(window,'GeoPostal','RU');

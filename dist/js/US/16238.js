@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16238"]={"code":"16238","region":"PA","city":"Manorville","latitude":40.7863,"longitude":-79.5213}}(window,'GeoPostal','US');

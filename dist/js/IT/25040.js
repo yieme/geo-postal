@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25040"]={"code":"25040","region":"Lombardia","city":"Saviore dell'Adamello","latitude":46.0805,"longitude":10.39966}}(window,'GeoPostal','IT');

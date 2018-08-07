@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3313"]={"code":"3313","region":"Syunik'","city":"Agarak","latitude":39.20684,"longitude":46.5446}}(window,'GeoPostal','AM');

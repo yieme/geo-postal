@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54769"]={"code":"54769","region":"WI","city":"Stockholm","latitude":44.5084,"longitude":-92.2326}}(window,'GeoPostal','US');

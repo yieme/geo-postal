@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80135"]={"code":"80135","region":"CO","city":"Sedalia","latitude":39.3113,"longitude":-105.0676}}(window,'GeoPostal','US');

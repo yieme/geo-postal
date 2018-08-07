@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140118"]={"code":"140118","region":"Punjab","city":"Anandpur Sahib","latitude":31.25,"longitude":76.5}}(window,'GeoPostal','IN');

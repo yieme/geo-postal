@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3225"]={"code":"3225","region":"Zuid-Holland","city":"Hellevoetsluis","latitude":51.83333,"longitude":4.13333}}(window,'GeoPostal','NL');

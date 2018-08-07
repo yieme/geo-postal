@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0H 1J0"]={"code":"A0H 1J0","region":"Newfoundland and Labrador","city":"Morrisville","latitude":47.86665,"longitude":-55.76502}}(window,'GeoPostal','CA');

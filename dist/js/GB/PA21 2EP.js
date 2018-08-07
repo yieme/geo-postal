@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA21 2EP"]={"code":"PA21 2EP","region":"Scotland","city":"Kilfinan","latitude":55.95823,"longitude":-5.31017}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83622"]={"code":"83622","region":"Idaho","city":"Garden Valley","latitude":44.05572,"longitude":-115.62438}}(window,'GeoPostal','US');

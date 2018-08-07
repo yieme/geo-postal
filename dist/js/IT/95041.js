@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95041"]={"code":"95041","region":"Sicilia","city":"Caltagirone","latitude":37.23682,"longitude":14.5132}}(window,'GeoPostal','IT');

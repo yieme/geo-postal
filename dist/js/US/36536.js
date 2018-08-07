@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36536"]={"code":"36536","region":"AL","city":"Foley","latitude":30.4222,"longitude":-87.7064}}(window,'GeoPostal','US');

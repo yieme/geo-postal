@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46050"]={"code":"46050","region":"IN","city":"Kirklin","latitude":40.2031,"longitude":-86.3324}}(window,'GeoPostal','US');

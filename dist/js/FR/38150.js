@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38150"]={"code":"38150","region":"Auvergne-Rhone-Alpes","city":"Ville-sous-Anjou","latitude":45.37194,"longitude":4.85106}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW15 1TZ"]={"code":"TW15 1TZ","region":"England","city":"Sunbury Common","latitude":51.42212,"longitude":-0.44014}}(window,'GeoPostal','GB');

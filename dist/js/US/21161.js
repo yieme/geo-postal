@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21161"]={"code":"21161","region":"Maryland","city":"White Hall","latitude":39.6498,"longitude":-76.5717}}(window,'GeoPostal','US');

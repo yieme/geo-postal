@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44317"]={"code":"44317","region":"Sisacko-moslavacka zupanija","city":"Osekovo","latitude":45.51639,"longitude":16.61667}}(window,'GeoPostal','HR');

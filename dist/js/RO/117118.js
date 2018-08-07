@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117118"]={"code":"117118","region":"Arges","city":"Aninoasa","latitude":45.191586,"longitude":24.926849}}(window,'GeoPostal','RO');

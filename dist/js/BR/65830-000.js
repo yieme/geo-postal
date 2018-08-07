@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65830-000"]={"code":"65830-000","region":"Maranhao","city":"Balsas","latitude":-7.5325,"longitude":-46.03556}}(window,'GeoPostal','BR');

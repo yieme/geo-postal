@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81051"]={"code":"81051","region":"Lvivska oblast","city":"Shklo","latitude":49.95675,"longitude":23.54408}}(window,'GeoPostal','UA');

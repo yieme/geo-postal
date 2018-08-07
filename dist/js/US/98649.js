@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98649"]={"code":"98649","region":"Washington","city":"Toutle","latitude":46.318011,"longitude":-122.693267}}(window,'GeoPostal','US');

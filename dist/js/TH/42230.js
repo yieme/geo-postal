@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42230"]={"code":"42230","region":"Loei","city":"Phu Luang","latitude":17.1392,"longitude":101.66392}}(window,'GeoPostal','TH');

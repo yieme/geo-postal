@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4J 1K3"]={"code":"T4J 1K3","region":"Alberta","city":"Crestomere","latitude":52.66822,"longitude":-113.91732}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 1N0"]={"code":"S0N 1N0","region":"Saskatchewan","city":"Maple Creek","latitude":49.91678,"longitude":-109.48481}}(window,'GeoPostal','CA');

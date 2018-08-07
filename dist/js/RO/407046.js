@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407046"]={"code":"407046","region":"Cluj","city":"Aschileu Dorna","latitude":46.98333,"longitude":23.48333}}(window,'GeoPostal','RO');

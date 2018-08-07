@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59121"]={"code":"59121","region":"Michoacan de Ocampo","city":"Brisenas","latitude":20.26667,"longitude":-102.56667}}(window,'GeoPostal','MX');

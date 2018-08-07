@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46504"]={"code":"46504","region":"IN","city":"Bourbon","latitude":41.3098,"longitude":-86.1174}}(window,'GeoPostal','US');

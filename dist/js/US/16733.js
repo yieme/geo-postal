@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16733"]={"code":"16733","region":"PA","city":"Hazel Hurst","latitude":41.7059,"longitude":-78.5825}}(window,'GeoPostal','US');

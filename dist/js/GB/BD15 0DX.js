@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD15 0DX"]={"code":"BD15 0DX","region":"England","city":"Wilsden","latitude":53.82084,"longitude":-1.85959}}(window,'GeoPostal','GB');

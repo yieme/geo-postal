@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83300-000"]={"code":"83300-000","region":"Parana","city":"Piraquara","latitude":-25.44167,"longitude":-49.06333}}(window,'GeoPostal','BR');

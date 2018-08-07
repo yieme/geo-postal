@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91245"]={"code":"91245","region":"Bayern","city":"Simmelsdorf","latitude":49.59775,"longitude":11.33901}}(window,'GeoPostal','DE');

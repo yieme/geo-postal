@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6863"]={"code":"6863","region":"Sogn og Fjordane","city":"Hermansverk","latitude":61.18461,"longitude":6.85016}}(window,'GeoPostal','NO');

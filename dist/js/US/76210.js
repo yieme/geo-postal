@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76210"]={"code":"76210","region":"Texas","city":"Corinth","latitude":33.14796,"longitude":-97.08446}}(window,'GeoPostal','US');

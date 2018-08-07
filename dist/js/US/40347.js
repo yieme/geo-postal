@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40347"]={"code":"40347","region":"Kentucky","city":"Wilmore","latitude":38.143437,"longitude":-84.693243}}(window,'GeoPostal','US');

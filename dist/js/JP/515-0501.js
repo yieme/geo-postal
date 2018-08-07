@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515-0501"]={"code":"515-0501","region":"Mie","city":"Ise","latitude":34.483,"longitude":136.717}}(window,'GeoPostal','JP');

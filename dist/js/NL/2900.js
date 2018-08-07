@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Zuid-Holland","city":"Capelle aan den IJssel","latitude":51.92917,"longitude":4.57778}}(window,'GeoPostal','NL');

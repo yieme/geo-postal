@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96712"]={"code":"96712","region":"HI","city":"Haleiwa","latitude":21.6312,"longitude":-158.0693}}(window,'GeoPostal','US');

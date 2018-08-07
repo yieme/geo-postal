@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14893"]={"code":"14893","region":"New York","city":"Wayne","latitude":42.466053,"longitude":-77.109403}}(window,'GeoPostal','US');

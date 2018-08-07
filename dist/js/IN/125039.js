@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125039"]={"code":"125039","region":"Haryana","city":"Jind","latitude":29.31667,"longitude":76.31667}}(window,'GeoPostal','IN');

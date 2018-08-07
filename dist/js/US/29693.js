@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29693"]={"code":"29693","region":"South Carolina","city":"Westminster","latitude":34.66482,"longitude":-83.09654}}(window,'GeoPostal','US');

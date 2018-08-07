@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-504"]={"code":"38-504","region":"Podkarpackie","city":"Niebieszczany","latitude":49.50348,"longitude":22.15651}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43345"]={"code":"43345","region":"OH","city":"Ridgeway","latitude":40.5209,"longitude":-83.5702}}(window,'GeoPostal','US');

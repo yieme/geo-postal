@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27713"]={"code":"27713","region":"North Carolina","city":"Durham","latitude":35.916462,"longitude":-78.917695}}(window,'GeoPostal','US');

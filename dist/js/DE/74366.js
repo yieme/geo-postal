@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74366"]={"code":"74366","region":"Baden-Wurttemberg","city":"Kirchheim am Neckar","latitude":49.045,"longitude":9.14222}}(window,'GeoPostal','DE');

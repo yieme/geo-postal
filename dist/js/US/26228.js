@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26228"]={"code":"26228","region":"WV","city":"Kanawha Head","latitude":38.7618,"longitude":-80.3727}}(window,'GeoPostal','US');

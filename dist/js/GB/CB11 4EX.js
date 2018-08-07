@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 4EX"]={"code":"CB11 4EX","region":"England","city":"Arkesden","latitude":51.98837,"longitude":0.15874}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78567"]={"code":"78567","region":"TX","city":"Los Indios","latitude":26.0492,"longitude":-97.745}}(window,'GeoPostal','US');

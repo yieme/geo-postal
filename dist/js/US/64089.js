@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64089"]={"code":"64089","region":"Missouri","city":"Smithville","latitude":39.39816,"longitude":-94.53978}}(window,'GeoPostal','US');

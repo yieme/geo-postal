@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85017"]={"code":"85017","region":"Auvergne-Rhone-Alpes","city":"Roche","latitude":45.58709,"longitude":5.15965}}(window,'GeoPostal','FR');

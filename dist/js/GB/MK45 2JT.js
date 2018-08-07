@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK45 2JT"]={"code":"MK45 2JT","region":"England","city":"Ampthill","latitude":52.02694,"longitude":-0.49567}}(window,'GeoPostal','GB');

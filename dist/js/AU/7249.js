@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7249"]={"code":"7249","region":"Tasmania","city":"Norwood","latitude":-41.4592,"longitude":147.18077}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91748"]={"code":"91748","region":"California","city":"Rowland Heights","latitude":33.98268,"longitude":-117.89802}}(window,'GeoPostal','US');

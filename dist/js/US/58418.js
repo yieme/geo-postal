@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58418"]={"code":"58418","region":"ND","city":"Bowdon","latitude":47.4343,"longitude":-99.7015}}(window,'GeoPostal','US');

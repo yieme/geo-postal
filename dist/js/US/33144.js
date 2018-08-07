@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33144"]={"code":"33144","region":"Florida","city":"Sweetwater","latitude":25.76343,"longitude":-80.37311}}(window,'GeoPostal','US');

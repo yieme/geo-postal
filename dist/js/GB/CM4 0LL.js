@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM4 0LL"]={"code":"CM4 0LL","region":"England","city":"Norton Heath","latitude":51.71667,"longitude":0.31667}}(window,'GeoPostal','GB');

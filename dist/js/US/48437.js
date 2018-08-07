@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48437"]={"code":"48437","region":"MI","city":"Genesee","latitude":43.1123,"longitude":-83.6154}}(window,'GeoPostal','US');

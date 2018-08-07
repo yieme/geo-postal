@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87402"]={"code":"87402","region":"New Mexico","city":"Farmington","latitude":36.773316,"longitude":-108.141797}}(window,'GeoPostal','US');

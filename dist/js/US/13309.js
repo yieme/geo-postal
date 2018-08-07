@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13309"]={"code":"13309","region":"New York","city":"Boonville","latitude":43.48368,"longitude":-75.33656}}(window,'GeoPostal','US');

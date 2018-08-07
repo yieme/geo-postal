@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63534"]={"code":"63534","region":"Missouri","city":"Callao","latitude":39.73945,"longitude":-92.645338}}(window,'GeoPostal','US');

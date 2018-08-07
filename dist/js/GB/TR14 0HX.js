@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR14 0HX"]={"code":"TR14 0HX","region":"England","city":"Tuckingmill","latitude":50.23333,"longitude":-5.28333}}(window,'GeoPostal','GB');

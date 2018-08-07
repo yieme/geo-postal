@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45160"]={"code":"45160","region":"Roi Et","city":"At Samat","latitude":15.84308,"longitude":103.87839}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16029"]={"code":"16029","region":"PA","city":"East Butler","latitude":40.8778,"longitude":-79.8464}}(window,'GeoPostal','US');

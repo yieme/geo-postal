@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17545"]={"code":"17545","region":"PA","city":"Manheim","latitude":40.1702,"longitude":-76.4168}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86418"]={"code":"86418","region":"Tabasco","city":"Villa La Venta","latitude":18.1,"longitude":-94.05}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1G 0E2"]={"code":"E1G 0E2","region":"New Brunswick","city":"Berry Mills","latitude":46.11685,"longitude":-64.94877}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38822"]={"code":"38822","region":"Sachsen-Anhalt","city":"Gross Quenstedt","latitude":51.93333,"longitude":11.11667}}(window,'GeoPostal','DE');

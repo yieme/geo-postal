@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27711"]={"code":"27711","region":"Niedersachsen","city":"Lange Heide","latitude":53.25306,"longitude":8.7118}}(window,'GeoPostal','DE');

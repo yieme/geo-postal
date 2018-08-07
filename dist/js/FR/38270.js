@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38270"]={"code":"38270","region":"Auvergne-Rhone-Alpes","city":"Beaurepaire","latitude":45.33674,"longitude":5.05525}}(window,'GeoPostal','FR');

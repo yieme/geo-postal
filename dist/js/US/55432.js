@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55432"]={"code":"55432","region":"Minnesota","city":"Fridley","latitude":45.09498,"longitude":-93.25716}}(window,'GeoPostal','US');

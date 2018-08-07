@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13355"]={"code":"13355","region":"NY","city":"Hubbardsville","latitude":42.8237,"longitude":-75.4367}}(window,'GeoPostal','US');

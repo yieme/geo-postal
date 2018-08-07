@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44300"]={"code":"44300","region":"Aragon","city":"Monreal del Campo","latitude":40.788,"longitude":-1.35541}}(window,'GeoPostal','ES');

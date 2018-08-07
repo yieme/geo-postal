@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 3T0"]={"code":"S0H 3T0","region":"Saskatchewan","city":"Maxstone","latitude":49.50006,"longitude":-106.03446}}(window,'GeoPostal','CA');

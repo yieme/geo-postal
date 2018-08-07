@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-400"]={"code":"97-400","region":"Lodzkie","city":"Belchatow","latitude":51.36883,"longitude":19.35671}}(window,'GeoPostal','PL');

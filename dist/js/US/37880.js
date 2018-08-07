@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37880"]={"code":"37880","region":"Tennessee","city":"Ten Mile","latitude":35.666,"longitude":-84.664}}(window,'GeoPostal','US');

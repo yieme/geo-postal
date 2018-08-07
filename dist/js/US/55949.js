@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55949"]={"code":"55949","region":"Minnesota","city":"Lanesboro","latitude":43.7175,"longitude":-91.975}}(window,'GeoPostal','US');

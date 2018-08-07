@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69620"]={"code":"69620","region":"Auvergne-Rhone-Alpes","city":"Letra","latitude":45.9631,"longitude":4.525}}(window,'GeoPostal','FR');

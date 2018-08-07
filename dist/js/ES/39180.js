@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39180"]={"code":"39180","region":"Cantabria","city":"Noja","latitude":43.48917,"longitude":-3.52306}}(window,'GeoPostal','ES');

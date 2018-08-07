@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96093"]={"code":"96093","region":"California","city":"Weaverville","latitude":40.73098,"longitude":-122.94197}}(window,'GeoPostal','US');

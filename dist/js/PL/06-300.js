@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-300"]={"code":"06-300","region":"Mazowieckie","city":"Przasnysz","latitude":53.01907,"longitude":20.88029}}(window,'GeoPostal','PL');

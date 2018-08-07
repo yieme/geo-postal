@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL5 1RF"]={"code":"GL5 1RF","region":"England","city":"Stroud","latitude":51.75,"longitude":-2.2}}(window,'GeoPostal','GB');

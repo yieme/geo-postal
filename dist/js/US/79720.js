@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79720"]={"code":"79720","region":"Texas","city":"Big Spring","latitude":32.51461,"longitude":-101.57574}}(window,'GeoPostal','US');

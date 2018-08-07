@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2159"]={"code":"2159","region":"New South Wales","city":"Galston","latitude":-33.65297,"longitude":151.04713}}(window,'GeoPostal','AU');

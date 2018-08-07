@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE34 6NX"]={"code":"NE34 6NX","region":"England","city":"Harton","latitude":54.96667,"longitude":-1.4}}(window,'GeoPostal','GB');

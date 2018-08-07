@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97839"]={"code":"97839","region":"Oregon","city":"Lexington","latitude":45.38947,"longitude":-119.80674}}(window,'GeoPostal','US');

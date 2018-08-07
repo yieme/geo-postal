@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452860"]={"code":"452860","region":"Bashkortostan, Respublika","city":"Kaltasy","latitude":55.96926,"longitude":54.80321}}(window,'GeoPostal','RU');

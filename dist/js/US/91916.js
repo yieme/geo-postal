@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91916"]={"code":"91916","region":"CA","city":"Descanso","latitude":32.873,"longitude":-116.6027}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH47 2EE"]={"code":"CH47 2EE","region":"England","city":"Hoylake","latitude":53.39046,"longitude":-3.18066}}(window,'GeoPostal','GB');

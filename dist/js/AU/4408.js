@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4408"]={"code":"4408","region":"Queensland","city":"Bell","latitude":-26.93543,"longitude":151.45097}}(window,'GeoPostal','AU');

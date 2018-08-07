@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38001"]={"code":"38001","region":"Canarias","city":"Santa Cruz de Tenerife","latitude":28.46824,"longitude":-16.25462}}(window,'GeoPostal','ES');

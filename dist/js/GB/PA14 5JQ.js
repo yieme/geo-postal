@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA14 5JQ"]={"code":"PA14 5JQ","region":"Scotland","city":"Port Glasgow","latitude":55.93464,"longitude":-4.6895}}(window,'GeoPostal','GB');

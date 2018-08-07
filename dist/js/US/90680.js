@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90680"]={"code":"90680","region":"California","city":"Stanton","latitude":33.80252,"longitude":-117.99312}}(window,'GeoPostal','US');

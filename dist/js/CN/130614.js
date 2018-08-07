@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130614"]={"code":"130614","region":"Jilin","city":"Shuangyang","latitude":43.52417,"longitude":125.67361}}(window,'GeoPostal','CN');

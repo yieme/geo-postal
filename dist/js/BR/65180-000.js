@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65180-000"]={"code":"65180-000","region":"Maranhao","city":"Humberto de Campos","latitude":-2.59833,"longitude":-43.46111}}(window,'GeoPostal','BR');

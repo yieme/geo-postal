@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23606"]={"code":"23606","region":"Vinnytska oblast","city":"Tul'chyn","latitude":48.67448,"longitude":28.84641}}(window,'GeoPostal','UA');

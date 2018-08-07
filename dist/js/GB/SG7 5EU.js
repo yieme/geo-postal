@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG7 5EU"]={"code":"SG7 5EU","region":"England","city":"Radwell","latitude":52.01849,"longitude":-0.20127}}(window,'GeoPostal','GB');

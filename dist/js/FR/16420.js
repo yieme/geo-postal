@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16420"]={"code":"16420","region":"Nouvelle-Aquitaine","city":"Brigueuil","latitude":45.95337,"longitude":0.86065}}(window,'GeoPostal','FR');

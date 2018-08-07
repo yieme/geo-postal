@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41360"]={"code":"41360","region":"Centre-Val de Loire","city":"Savigny-sur-Braye","latitude":47.87923,"longitude":0.80981}}(window,'GeoPostal','FR');

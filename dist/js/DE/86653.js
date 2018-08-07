@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86653"]={"code":"86653","region":"Bayern","city":"Monheim","latitude":48.84389,"longitude":10.85834}}(window,'GeoPostal','DE');

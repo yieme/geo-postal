@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60441"]={"code":"60441","region":"Illinois","city":"Lockport","latitude":41.58948,"longitude":-88.05784}}(window,'GeoPostal','US');

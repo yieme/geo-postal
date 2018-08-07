@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["767039"]={"code":"767039","region":"Odisha","city":"Kantabanji","latitude":20.48333,"longitude":82.91667}}(window,'GeoPostal','IN');

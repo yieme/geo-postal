@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61454"]={"code":"61454","region":"Illinois","city":"Lomax","latitude":40.67972,"longitude":-91.07222}}(window,'GeoPostal','US');

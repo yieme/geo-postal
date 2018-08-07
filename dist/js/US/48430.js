@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48430"]={"code":"48430","region":"Michigan","city":"Fenton","latitude":42.79781,"longitude":-83.70495}}(window,'GeoPostal','US');

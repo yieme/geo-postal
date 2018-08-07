@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27877"]={"code":"27877","region":"NC","city":"Severn","latitude":36.5152,"longitude":-77.1897}}(window,'GeoPostal','US');

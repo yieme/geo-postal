@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98600-000"]={"code":"98600-000","region":"Rio Grande do Sul","city":"Tres Passos","latitude":-27.45556,"longitude":-53.93194}}(window,'GeoPostal','BR');

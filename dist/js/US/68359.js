@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68359"]={"code":"68359","region":"Nebraska","city":"Friend","latitude":40.65362,"longitude":-97.28616}}(window,'GeoPostal','US');

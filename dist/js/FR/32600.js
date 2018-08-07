@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32600"]={"code":"32600","region":"Occitanie","city":"L'Isle-Jourdain","latitude":43.6144,"longitude":1.0817}}(window,'GeoPostal','FR');

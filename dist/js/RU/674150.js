@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674150"]={"code":"674150","region":"Zabaykal'skiy kray","city":"Chara","latitude":56.90639,"longitude":118.26306}}(window,'GeoPostal','RU');

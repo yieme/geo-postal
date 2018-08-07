@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92398"]={"code":"92398","region":"CA","city":"Yermo","latitude":34.905,"longitude":-116.8203}}(window,'GeoPostal','US');

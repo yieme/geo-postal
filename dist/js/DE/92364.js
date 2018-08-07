@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92364"]={"code":"92364","region":"Bayern","city":"Unterbuchfeld","latitude":49.23744,"longitude":11.56002}}(window,'GeoPostal','DE');

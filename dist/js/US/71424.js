@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71424"]={"code":"71424","region":"LA","city":"Elmer","latitude":31.1465,"longitude":-92.7171}}(window,'GeoPostal','US');

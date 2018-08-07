@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2670"]={"code":"2670","region":"Cordoba","city":"La Carlota","latitude":-33.41993,"longitude":-63.29769}}(window,'GeoPostal','AR');

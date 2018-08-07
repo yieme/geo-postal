@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5661"]={"code":"5661","region":"Bekes","city":"Ujkigyos","latitude":46.58333,"longitude":21.03333}}(window,'GeoPostal','HU');

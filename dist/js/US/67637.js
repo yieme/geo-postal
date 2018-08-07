@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67637"]={"code":"67637","region":"KS","city":"Ellis","latitude":38.9471,"longitude":-99.5285}}(window,'GeoPostal','US');

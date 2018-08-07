@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["723500"]={"code":"723500","region":"Osh","city":"Osh","latitude":40.52944,"longitude":72.79}}(window,'GeoPostal','KG');

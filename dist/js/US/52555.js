@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52555"]={"code":"52555","region":"Iowa","city":"Exline","latitude":40.64828,"longitude":-92.844164}}(window,'GeoPostal','US');

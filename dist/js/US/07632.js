@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07632"]={"code":"07632","region":"New Jersey","city":"Englewood Cliffs","latitude":40.884785,"longitude":-73.950647}}(window,'GeoPostal','US');

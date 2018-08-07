@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE21 6JF"]={"code":"PE21 6JF","region":"England","city":"Boston","latitude":52.97633,"longitude":-0.02664}}(window,'GeoPostal','GB');

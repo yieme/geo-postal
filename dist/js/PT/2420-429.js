@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2420-429"]={"code":"2420-429","region":"Leiria","city":"Pombal","latitude":39.91674,"longitude":-8.62847}}(window,'GeoPostal','PT');

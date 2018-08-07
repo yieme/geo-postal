@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88194"]={"code":"88194","region":"Vasternorrlands lan","city":"Solleftea","latitude":63.16667,"longitude":17.26667}}(window,'GeoPostal','SE');

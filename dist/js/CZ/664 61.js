@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 61"]={"code":"664 61","region":"Jihomoravsky kraj","city":"Blucina","latitude":49.05497,"longitude":16.6445}}(window,'GeoPostal','CZ');

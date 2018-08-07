@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5502"]={"code":"5502","region":"Bekes","city":"Gyomaendrod","latitude":46.93333,"longitude":20.83333}}(window,'GeoPostal','HU');

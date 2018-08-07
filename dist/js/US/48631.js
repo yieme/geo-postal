@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48631"]={"code":"48631","region":"MI","city":"Kawkawlin","latitude":43.6794,"longitude":-83.9927}}(window,'GeoPostal','US');

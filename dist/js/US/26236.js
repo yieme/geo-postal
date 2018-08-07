@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26236"]={"code":"26236","region":"West Virginia","city":"Selbyville","latitude":38.717747,"longitude":-80.309842}}(window,'GeoPostal','US');

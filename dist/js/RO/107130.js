@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107130"]={"code":"107130","region":"Prahova","city":"Ceptura de Sus","latitude":45.01667,"longitude":26.31667}}(window,'GeoPostal','RO');

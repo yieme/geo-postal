@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46044"]={"code":"46044","region":"IN","city":"Frankton","latitude":40.2285,"longitude":-85.7791}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA18 3SZ"]={"code":"SA18 3SZ","region":"Wales","city":"Saron","latitude":51.79194,"longitude":-4.02833}}(window,'GeoPostal','GB');

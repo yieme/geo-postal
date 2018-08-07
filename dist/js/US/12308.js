@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12308"]={"code":"12308","region":"New York","city":"Schenectady","latitude":42.818675,"longitude":-73.921368}}(window,'GeoPostal','US');

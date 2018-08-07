@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60055"]={"code":"60055","region":"IL","city":"Palatine","latitude":42.098,"longitude":-88.0141}}(window,'GeoPostal','US');

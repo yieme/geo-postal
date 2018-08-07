@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4011"]={"code":"4011","region":"Queensland","city":"Hendra","latitude":-27.41775,"longitude":153.07025}}(window,'GeoPostal','AU');

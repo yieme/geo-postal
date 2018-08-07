@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54974"]={"code":"54974","region":"WI","city":"Rosendale","latitude":43.7889,"longitude":-88.6417}}(window,'GeoPostal','US');

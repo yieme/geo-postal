@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54600"]={"code":"54600","region":"Sakarya","city":"Sapanca","latitude":40.69141,"longitude":30.26738}}(window,'GeoPostal','TR');

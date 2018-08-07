@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 8EP"]={"code":"ML11 8EP","region":"Scotland","city":"Wilsontown","latitude":55.77902,"longitude":-3.67754}}(window,'GeoPostal','GB');

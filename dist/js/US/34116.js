@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34116"]={"code":"34116","region":"Florida","city":"Golden Gate","latitude":26.18787,"longitude":-81.69509}}(window,'GeoPostal','US');

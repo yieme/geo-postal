@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02668"]={"code":"02668","region":"Massachusetts","city":"West Barnstable","latitude":41.70606,"longitude":-70.36644}}(window,'GeoPostal','US');

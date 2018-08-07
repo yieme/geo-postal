@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69640"]={"code":"69640","region":"Auvergne-Rhone-Alpes","city":"Cogny","latitude":45.98732,"longitude":4.62501}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["504 00"]={"code":"504 00","region":"Dytiki Makedonia","city":"Velventos","latitude":40.25167,"longitude":22.06306}}(window,'GeoPostal','GR');

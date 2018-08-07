@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19405"]={"code":"19405","region":"Pennsylvania","city":"Upper Merion","latitude":40.083333,"longitude":-75.349722}}(window,'GeoPostal','US');

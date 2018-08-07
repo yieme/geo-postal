@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13739"]={"code":"13739","region":"New York","city":"Bloomville","latitude":42.36432,"longitude":-74.8059}}(window,'GeoPostal','US');

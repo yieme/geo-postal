@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23125"]={"code":"23125","region":"VA","city":"New Point","latitude":37.3438,"longitude":-76.2878}}(window,'GeoPostal','US');

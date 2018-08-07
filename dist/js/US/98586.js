@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98586"]={"code":"98586","region":"Washington","city":"South Bend","latitude":46.661365,"longitude":-123.809702}}(window,'GeoPostal','US');

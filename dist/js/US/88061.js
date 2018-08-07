@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88061"]={"code":"88061","region":"New Mexico","city":"Silver City","latitude":32.776302,"longitude":-108.268087}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62961"]={"code":"62961","region":"IL","city":"Millcreek","latitude":37.3409,"longitude":-89.2542}}(window,'GeoPostal','US');

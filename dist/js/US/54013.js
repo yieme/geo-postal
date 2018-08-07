@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54013"]={"code":"54013","region":"Wisconsin","city":"Emerald","latitude":45.08194,"longitude":-92.32694}}(window,'GeoPostal','US');

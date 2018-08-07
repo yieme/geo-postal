@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99901"]={"code":"99901","region":"Alaska","city":"Ketchikan","latitude":55.34222,"longitude":-131.64611}}(window,'GeoPostal','US');

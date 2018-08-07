@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49440"]={"code":"49440","region":"Pays-de-la-Loire","city":"Cande","latitude":47.56158,"longitude":-1.03619}}(window,'GeoPostal','FR');

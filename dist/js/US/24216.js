@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24216"]={"code":"24216","region":"Virginia","city":"Appalachia","latitude":36.90676,"longitude":-82.78183}}(window,'GeoPostal','US');

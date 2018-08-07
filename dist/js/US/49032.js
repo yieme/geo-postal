@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49032"]={"code":"49032","region":"MI","city":"Centreville","latitude":41.9217,"longitude":-85.4963}}(window,'GeoPostal','US');

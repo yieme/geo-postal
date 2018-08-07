@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45840"]={"code":"45840","region":"Ohio","city":"Findlay","latitude":41.04052,"longitude":-83.644115}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64325-000"]={"code":"64325-000","region":"Piaui","city":"Elesbao Veloso","latitude":-6.20194,"longitude":-42.14028}}(window,'GeoPostal','BR');

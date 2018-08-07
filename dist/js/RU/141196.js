@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141196"]={"code":"141196","region":"Moskovskaya oblast'","city":"Fryazino","latitude":55.96056,"longitude":38.04556}}(window,'GeoPostal','RU');

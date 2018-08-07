@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682709"]={"code":"682709","region":"Khabarovskiy kray","city":"Gornyy","latitude":50.75,"longitude":136.4}}(window,'GeoPostal','RU');

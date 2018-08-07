@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71999"]={"code":"71999","region":"Arkansas","city":"Arkadelphia","latitude":34.123759,"longitude":-93.070631}}(window,'GeoPostal','US');

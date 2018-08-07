@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79865"]={"code":"79865","region":"Baden-Wurttemberg","city":"Grafenhausen","latitude":47.76667,"longitude":8.26667}}(window,'GeoPostal','DE');

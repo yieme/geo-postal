@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48131"]={"code":"48131","region":"Michigan","city":"Dundee","latitude":41.963699,"longitude":-83.667175}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56754"]={"code":"56754","region":"Minnesota","city":"Saint Hilaire","latitude":48.001664,"longitude":-96.276113}}(window,'GeoPostal','US');

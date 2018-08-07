@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71322"]={"code":"71322","region":"Federacija Bosne i Hercegovine","city":"Vogosca","latitude":43.90194,"longitude":18.34806}}(window,'GeoPostal','BA');

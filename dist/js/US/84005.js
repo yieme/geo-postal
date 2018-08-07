@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84005"]={"code":"84005","region":"Utah","city":"Lehi","latitude":40.39162,"longitude":-111.85077}}(window,'GeoPostal','US');

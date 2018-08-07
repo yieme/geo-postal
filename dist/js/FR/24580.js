@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24580"]={"code":"24580","region":"Nouvelle-Aquitaine","city":"Rouffignac-Saint-Cernin-de-Reilhac","latitude":45.05,"longitude":0.96667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 3EN"]={"code":"AB42 3EN","region":"Scotland","city":"Saint Fergus","latitude":57.55,"longitude":-1.83333}}(window,'GeoPostal','GB');

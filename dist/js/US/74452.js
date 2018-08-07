@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74452"]={"code":"74452","region":"OK","city":"Peggs","latitude":36.1154,"longitude":-95.1199}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE12 7TZ"]={"code":"LE12 7TZ","region":"England","city":"Loughborough","latitude":52.76667,"longitude":-1.2}}(window,'GeoPostal','GB');

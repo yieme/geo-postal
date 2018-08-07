@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4824"]={"code":"4824","region":"Szabolcs-Szatmar-Bereg","city":"Szamosszeg","latitude":48.04561,"longitude":22.36582}}(window,'GeoPostal','HU');

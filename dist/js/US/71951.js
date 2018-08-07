@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71951"]={"code":"71951","region":"AR","city":"Hot Springs","latitude":34.5,"longitude":-93.05}}(window,'GeoPostal','US');

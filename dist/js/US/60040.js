@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60040"]={"code":"60040","region":"Illinois","city":"Highwood","latitude":42.202362,"longitude":-87.812706}}(window,'GeoPostal','US');

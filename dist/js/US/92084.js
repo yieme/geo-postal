@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92084"]={"code":"92084","region":"California","city":"Vista","latitude":33.213118,"longitude":-117.214871}}(window,'GeoPostal','US');

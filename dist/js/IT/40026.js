@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40026"]={"code":"40026","region":"Emilia-Romagna","city":"Imola","latitude":44.35227,"longitude":11.71582}}(window,'GeoPostal','IT');

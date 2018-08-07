@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-340"]={"code":"26-340","region":"Lodzkie","city":"Drzewica","latitude":51.45085,"longitude":20.47701}}(window,'GeoPostal','PL');

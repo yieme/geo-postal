@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13650"]={"code":"13650","region":"Provence-Alpes-Cote d'Azur","city":"Meyrargues","latitude":43.63806,"longitude":5.52611}}(window,'GeoPostal','FR');

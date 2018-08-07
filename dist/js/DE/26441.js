@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26441"]={"code":"26441","region":"Niedersachsen","city":"Jever","latitude":53.57368,"longitude":7.89806}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49116"]={"code":"49116","region":"Michigan","city":"Lakeside","latitude":41.848661,"longitude":-86.669622}}(window,'GeoPostal','US');

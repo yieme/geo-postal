@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57501"]={"code":"57501","region":"South Dakota","city":"Pierre","latitude":44.36832,"longitude":-100.35097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98589"]={"code":"98589","region":"Washington","city":"Tenino","latitude":46.85677,"longitude":-122.85291}}(window,'GeoPostal','US');

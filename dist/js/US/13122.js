@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13122"]={"code":"13122","region":"NY","city":"New Woodstock","latitude":42.8441,"longitude":-75.8635}}(window,'GeoPostal','US');

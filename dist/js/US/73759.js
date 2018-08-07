@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73759"]={"code":"73759","region":"OK","city":"Medford","latitude":36.8142,"longitude":-97.7202}}(window,'GeoPostal','US');

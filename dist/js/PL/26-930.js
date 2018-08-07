@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-930"]={"code":"26-930","region":"Mazowieckie","city":"Garbatka-Letnisko","latitude":51.4832,"longitude":21.61079}}(window,'GeoPostal','PL');

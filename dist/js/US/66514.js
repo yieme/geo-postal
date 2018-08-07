@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66514"]={"code":"66514","region":"KS","city":"Milford","latitude":39.1692,"longitude":-96.91}}(window,'GeoPostal','US');

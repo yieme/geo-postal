@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["660 33"]={"code":"660 33","region":"Anatoliki Makedonia kai Thraki","city":"Volax","latitude":41.31667,"longitude":24}}(window,'GeoPostal','GR');

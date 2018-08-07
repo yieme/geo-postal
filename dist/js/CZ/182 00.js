@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182 00"]={"code":"182 00","region":"Praha, Hlavni mesto","city":"Karlin","latitude":50.09272,"longitude":14.44711}}(window,'GeoPostal','CZ');

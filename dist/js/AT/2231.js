@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2231"]={"code":"2231","region":"Niederosterreich","city":"Strasshof an der Nordbahn","latitude":48.31667,"longitude":16.66667}}(window,'GeoPostal','AT');

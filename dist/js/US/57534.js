@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57534"]={"code":"57534","region":"South Dakota","city":"Hamill","latitude":43.670326,"longitude":-99.700873}}(window,'GeoPostal','US');

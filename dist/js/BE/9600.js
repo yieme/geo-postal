@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9600"]={"code":"9600","region":"Oost-Vlaanderen","city":"Ronse","latitude":50.74574,"longitude":3.6005}}(window,'GeoPostal','BE');

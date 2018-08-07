@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68706"]={"code":"68706","region":"Odeska oblast","city":"Bolhrad","latitude":45.68262,"longitude":28.61487}}(window,'GeoPostal','UA');

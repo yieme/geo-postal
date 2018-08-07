@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8833"]={"code":"8833","region":"Zurich","city":"Richterswil / Burghalde","latitude":47.20973,"longitude":8.69133}}(window,'GeoPostal','CH');

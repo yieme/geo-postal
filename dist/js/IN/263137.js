@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263137"]={"code":"263137","region":"Uttarakhand","city":"Almora","latitude":29.61667,"longitude":79.66667}}(window,'GeoPostal','IN');

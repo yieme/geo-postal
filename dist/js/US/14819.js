@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14819"]={"code":"14819","region":"New York","city":"Cameron","latitude":42.199782,"longitude":-77.464879}}(window,'GeoPostal','US');

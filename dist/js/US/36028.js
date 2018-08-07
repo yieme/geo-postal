@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36028"]={"code":"36028","region":"Alabama","city":"Dozier","latitude":31.495,"longitude":-86.36639}}(window,'GeoPostal','US');

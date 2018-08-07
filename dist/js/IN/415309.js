@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415309"]={"code":"415309","region":"Maharashtra","city":"Karad","latitude":17.28333,"longitude":74.2}}(window,'GeoPostal','IN');

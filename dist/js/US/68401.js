@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68401"]={"code":"68401","region":"Nebraska","city":"McCool Junction","latitude":40.743675,"longitude":-97.596085}}(window,'GeoPostal','US');

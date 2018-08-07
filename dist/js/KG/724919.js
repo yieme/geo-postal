@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724919"]={"code":"724919","region":"Chuy","city":"Staraya Pokrovka","latitude":42.81973,"longitude":75.28233}}(window,'GeoPostal','KG');

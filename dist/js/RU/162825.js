@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162825"]={"code":"162825","region":"Vologodskaya oblast'","city":"Imeni Zhelyabova","latitude":58.9544,"longitude":36.5956}}(window,'GeoPostal','RU');

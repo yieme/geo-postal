@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41776"]={"code":"41776","region":"Kentucky","city":"Wooton","latitude":37.198143,"longitude":-83.300502}}(window,'GeoPostal','US');

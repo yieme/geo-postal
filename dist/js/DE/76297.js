@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76297"]={"code":"76297","region":"Baden-Wurttemberg","city":"Staffort","latitude":49.0913,"longitude":8.50888}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66523"]={"code":"66523","region":"KS","city":"Osage City","latitude":38.6269,"longitude":-95.8303}}(window,'GeoPostal','US');

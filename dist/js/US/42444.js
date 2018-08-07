@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42444"]={"code":"42444","region":"Kentucky","city":"Poole","latitude":37.640278,"longitude":-87.644167}}(window,'GeoPostal','US');

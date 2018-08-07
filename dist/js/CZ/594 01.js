@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["594 01"]={"code":"594 01","region":"Kraj Vysocina","city":"Velke Mezirici","latitude":49.35522,"longitude":16.01224}}(window,'GeoPostal','CZ');

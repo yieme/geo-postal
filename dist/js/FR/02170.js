@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02170"]={"code":"02170","region":"Hauts-de-France","city":"Le Nouvion-en-Thierache","latitude":50.01625,"longitude":3.78509}}(window,'GeoPostal','FR');

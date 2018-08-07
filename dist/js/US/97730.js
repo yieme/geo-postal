@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97730"]={"code":"97730","region":"Oregon","city":"Camp Sherman","latitude":44.444857,"longitude":-121.658828}}(window,'GeoPostal','US');

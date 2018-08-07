@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01027"]={"code":"01027","region":"Lazio","city":"Montefiascone","latitude":42.53933,"longitude":12.03616}}(window,'GeoPostal','IT');

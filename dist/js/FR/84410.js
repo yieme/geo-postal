@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84410"]={"code":"84410","region":"Provence-Alpes-Cote d'Azur","city":"Bedoin","latitude":44.12432,"longitude":5.1804}}(window,'GeoPostal','FR');

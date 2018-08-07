@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17777"]={"code":"17777","region":"PA","city":"Watsontown","latitude":41.102,"longitude":-76.8532}}(window,'GeoPostal','US');

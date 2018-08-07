@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627285"]={"code":"627285","region":"Vrancea","city":"Reghiu","latitude":45.78333,"longitude":26.83333}}(window,'GeoPostal','RO');

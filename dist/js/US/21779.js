@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21779"]={"code":"21779","region":"MD","city":"Rohrersville","latitude":39.4431,"longitude":-77.658}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L43 0TT"]={"code":"L43 0TT","region":"England","city":"Birkenhead","latitude":53.39337,"longitude":-3.01479}}(window,'GeoPostal','GB');

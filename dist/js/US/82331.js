@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82331"]={"code":"82331","region":"Wyoming","city":"Saratoga","latitude":41.32134,"longitude":-106.50271}}(window,'GeoPostal','US');

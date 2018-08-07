@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73425"]={"code":"73425","region":"OK","city":"Countyline","latitude":34.4487,"longitude":-97.5628}}(window,'GeoPostal','US');

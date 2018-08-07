@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301333"]={"code":"301333","region":"Moskovskaya oblast'","city":"Klin","latitude":56.33333,"longitude":36.73333}}(window,'GeoPostal','RU');

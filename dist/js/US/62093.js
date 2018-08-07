@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62093"]={"code":"62093","region":"IL","city":"Wilsonville","latitude":39.0695,"longitude":-89.8565}}(window,'GeoPostal','US');

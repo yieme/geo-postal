@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 3AW"]={"code":"IP12 3AW","region":"England","city":"Bawdsey","latitude":52.00908,"longitude":1.41852}}(window,'GeoPostal','GB');

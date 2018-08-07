@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471421"]={"code":"471421","region":"Henan","city":"Checun","latitude":33.79631,"longitude":112.11666}}(window,'GeoPostal','CN');

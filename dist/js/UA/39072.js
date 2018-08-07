@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39072"]={"code":"39072","region":"Poltavska oblast","city":"Gradizhsk","latitude":49.23458,"longitude":33.13613}}(window,'GeoPostal','UA');

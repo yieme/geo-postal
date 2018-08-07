@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97013"]={"code":"97013","region":"Oregon","city":"Canby","latitude":45.24137,"longitude":-122.676587}}(window,'GeoPostal','US');

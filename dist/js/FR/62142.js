@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62142"]={"code":"62142","region":"Hauts-de-France","city":"Colembert","latitude":50.7472,"longitude":1.8425}}(window,'GeoPostal','FR');

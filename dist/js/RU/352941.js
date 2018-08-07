@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352941"]={"code":"352941","region":"Krasnodarskiy kray","city":"Staraya Stanitsa","latitude":45.0098,"longitude":41.1512}}(window,'GeoPostal','RU');

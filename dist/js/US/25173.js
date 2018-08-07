@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25173"]={"code":"25173","region":"WV","city":"Robson","latitude":38.0973,"longitude":-81.2488}}(window,'GeoPostal','US');

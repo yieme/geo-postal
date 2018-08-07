@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33982"]={"code":"33982","region":"Florida","city":"Punta Gorda","latitude":26.971274,"longitude":-81.964093}}(window,'GeoPostal','US');

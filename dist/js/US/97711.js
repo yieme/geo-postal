@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97711"]={"code":"97711","region":"Oregon","city":"Ashwood","latitude":44.69202,"longitude":-120.65458}}(window,'GeoPostal','US');

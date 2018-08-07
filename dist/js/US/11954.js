@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11954"]={"code":"11954","region":"New York","city":"Montauk","latitude":41.03594,"longitude":-71.95451}}(window,'GeoPostal','US');

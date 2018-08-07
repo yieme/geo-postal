@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 56"]={"code":"262 56","region":"Stredocesky kraj","city":"Krasna Hora nad Vltavou","latitude":49.60461,"longitude":14.27742}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32538"]={"code":"32538","region":"FL","city":"Paxton","latitude":30.9709,"longitude":-86.3111}}(window,'GeoPostal','US');

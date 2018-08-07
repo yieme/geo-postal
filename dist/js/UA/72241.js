@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72241"]={"code":"72241","region":"Zaporizka oblast","city":"Vesele","latitude":47.01479,"longitude":34.91504}}(window,'GeoPostal','UA');

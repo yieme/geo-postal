@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97762"]={"code":"97762","region":"Bayern","city":"Hammelburg","latitude":50.11632,"longitude":9.89143}}(window,'GeoPostal','DE');

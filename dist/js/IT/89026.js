@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89026"]={"code":"89026","region":"Calabria","city":"San Ferdinando","latitude":38.48558,"longitude":15.9189}}(window,'GeoPostal','IT');

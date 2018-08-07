@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06247"]={"code":"06247","region":"CT","city":"Hampton","latitude":41.7671,"longitude":-72.0662}}(window,'GeoPostal','US');

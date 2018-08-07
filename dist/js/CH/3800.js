@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3800"]={"code":"3800","region":"Bern","city":"Unterseen","latitude":46.6853,"longitude":7.84722}}(window,'GeoPostal','CH');

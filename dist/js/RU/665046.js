@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665046"]={"code":"665046","region":"Irkutskaya oblast'","city":"Yurty","latitude":56.0498,"longitude":97.6348}}(window,'GeoPostal','RU');

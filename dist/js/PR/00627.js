@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00627"]={"code":"00627","region":"Camuy","city":"Camuy","latitude":18.48383,"longitude":-66.8449}}(window,'GeoPostal','PR');

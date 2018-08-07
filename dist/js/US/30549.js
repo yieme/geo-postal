@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30549"]={"code":"30549","region":"Georgia","city":"Jefferson","latitude":34.112346,"longitude":-83.578168}}(window,'GeoPostal','US');

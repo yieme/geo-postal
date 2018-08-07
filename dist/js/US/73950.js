@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73950"]={"code":"73950","region":"Oklahoma","city":"Turpin","latitude":36.8675,"longitude":-100.8775}}(window,'GeoPostal','US');

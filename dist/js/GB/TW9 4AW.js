@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW9 4AW"]={"code":"TW9 4AW","region":"England","city":"Uxbridge","latitude":51.54619,"longitude":-0.47961}}(window,'GeoPostal','GB');

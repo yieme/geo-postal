@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE27 9RD"]={"code":"SE27 9RD","region":"England","city":"Kingswood","latitude":51.29327,"longitude":-0.20891}}(window,'GeoPostal','GB');

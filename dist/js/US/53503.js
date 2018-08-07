@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53503"]={"code":"53503","region":"Wisconsin","city":"Arena","latitude":43.14028,"longitude":-89.93139}}(window,'GeoPostal','US');

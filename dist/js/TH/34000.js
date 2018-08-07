@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34000"]={"code":"34000","region":"Surin","city":"Lamduan","latitude":14.72205,"longitude":103.66934}}(window,'GeoPostal','TH');

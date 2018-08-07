@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39540"]={"code":"39540","region":"Mississippi","city":"D'Iberville","latitude":30.4422,"longitude":-88.8935}}(window,'GeoPostal','US');

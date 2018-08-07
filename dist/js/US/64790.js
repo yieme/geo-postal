@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64790"]={"code":"64790","region":"Missouri","city":"Walker","latitude":37.891031,"longitude":-94.232774}}(window,'GeoPostal','US');

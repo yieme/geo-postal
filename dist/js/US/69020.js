@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69020"]={"code":"69020","region":"NE","city":"Bartley","latitude":40.2581,"longitude":-100.2908}}(window,'GeoPostal','US');

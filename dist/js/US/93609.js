@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93609"]={"code":"93609","region":"CA","city":"Caruthers","latitude":36.5358,"longitude":-119.8446}}(window,'GeoPostal','US');

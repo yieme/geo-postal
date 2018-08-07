@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20081"]={"code":"20081","region":"Lombardia","city":"Abbiategrasso","latitude":45.39821,"longitude":8.91678}}(window,'GeoPostal','IT');

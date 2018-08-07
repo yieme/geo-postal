@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07142"]={"code":"07142","region":"Illes Balears","city":"Santa Eugenia","latitude":39.62361,"longitude":2.83864}}(window,'GeoPostal','ES');

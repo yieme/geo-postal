@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4204"]={"code":"4204","region":"Solothurn","city":"Himmelried","latitude":47.42111,"longitude":7.59659}}(window,'GeoPostal','CH');

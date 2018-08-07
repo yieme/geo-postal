@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23924"]={"code":"23924","region":"Virginia","city":"Chase City","latitude":36.79931,"longitude":-78.45833}}(window,'GeoPostal','US');

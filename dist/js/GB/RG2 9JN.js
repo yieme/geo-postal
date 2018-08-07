@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG2 9JN"]={"code":"RG2 9JN","region":"England","city":"Arborfield","latitude":51.40143,"longitude":-0.92006}}(window,'GeoPostal','GB');

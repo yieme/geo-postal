@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO6 2QY"]={"code":"PO6 2QY","region":"England","city":"Cosham","latitude":50.84654,"longitude":-1.06344}}(window,'GeoPostal','GB');

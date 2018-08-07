@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45500"]={"code":"45500","region":"Centre-Val de Loire","city":"Nevoy","latitude":47.71591,"longitude":2.57791}}(window,'GeoPostal','FR');

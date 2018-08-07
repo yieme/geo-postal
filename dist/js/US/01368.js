@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01368"]={"code":"01368","region":"MA","city":"Royalston","latitude":42.6722,"longitude":-72.1964}}(window,'GeoPostal','US');

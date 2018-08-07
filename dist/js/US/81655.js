@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81655"]={"code":"81655","region":"Colorado","city":"Wolcott","latitude":39.684405,"longitude":-106.672319}}(window,'GeoPostal','US');

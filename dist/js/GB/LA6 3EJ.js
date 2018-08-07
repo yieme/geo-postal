@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA6 3EJ"]={"code":"LA6 3EJ","region":"England","city":"Ingleton","latitude":54.15392,"longitude":-2.46849}}(window,'GeoPostal','GB');

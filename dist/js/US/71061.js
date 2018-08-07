@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71061"]={"code":"71061","region":"LA","city":"Oil City","latitude":32.7451,"longitude":-93.9838}}(window,'GeoPostal','US');

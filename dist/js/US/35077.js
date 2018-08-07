@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35077"]={"code":"35077","region":"Alabama","city":"Hanceville","latitude":34.06065,"longitude":-86.7675}}(window,'GeoPostal','US');

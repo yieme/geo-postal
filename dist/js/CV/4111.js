@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4111"]={"code":"4111","region":"Sal","city":"Santa Maria","latitude":16.6,"longitude":-22.9}}(window,'GeoPostal','CV');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95701"]={"code":"95701","region":"California","city":"Alta","latitude":39.213775,"longitude":-120.799941}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0V 1S0"]={"code":"G0V 1S0","region":"Quebec","city":"Saint-Fulgence","latitude":48.45008,"longitude":-70.89905}}(window,'GeoPostal','CA');

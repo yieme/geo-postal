@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8062"]={"code":"8062","region":"Fejer","city":"Mor","latitude":47.37787,"longitude":18.20353}}(window,'GeoPostal','HU');

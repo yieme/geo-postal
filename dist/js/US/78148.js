@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78148"]={"code":"78148","region":"Texas","city":"Live Oak","latitude":29.56523,"longitude":-98.3364}}(window,'GeoPostal','US');

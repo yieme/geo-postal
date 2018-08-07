@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300"]={"code":"5300","region":"La Rioja","city":"La Rioja","latitude":-29.41105,"longitude":-66.85067}}(window,'GeoPostal','AR');

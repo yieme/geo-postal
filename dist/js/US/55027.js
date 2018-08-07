@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55027"]={"code":"55027","region":"Minnesota","city":"Goodhue","latitude":44.40052,"longitude":-92.6238}}(window,'GeoPostal','US');

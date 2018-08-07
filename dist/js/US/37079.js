@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37079"]={"code":"37079","region":"TN","city":"Indian Mound","latitude":36.4946,"longitude":-87.6804}}(window,'GeoPostal','US');

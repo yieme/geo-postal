@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83546"]={"code":"83546","region":"Idaho","city":"Pierce","latitude":46.48842,"longitude":-115.79988}}(window,'GeoPostal','US');

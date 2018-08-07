@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA15 5YR"]={"code":"SA15 5YR","region":"Wales","city":"Five Roads","latitude":51.72639,"longitude":-4.18861}}(window,'GeoPostal','GB');

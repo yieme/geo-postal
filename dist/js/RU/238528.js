@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238528"]={"code":"238528","region":"Kaliningradskaya oblast'","city":"Baltiysk","latitude":54.65382,"longitude":19.91104}}(window,'GeoPostal','RU');

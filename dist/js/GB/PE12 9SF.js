@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 9SF"]={"code":"PE12 9SF","region":"England","city":"Sutton Bridge","latitude":52.76995,"longitude":0.1855}}(window,'GeoPostal','GB');

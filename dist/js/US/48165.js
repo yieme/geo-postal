@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48165"]={"code":"48165","region":"Michigan","city":"New Hudson","latitude":42.5057,"longitude":-83.625877}}(window,'GeoPostal','US');

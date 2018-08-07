@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33391"]={"code":"33391","region":"Jonkopings lan","city":"Smalandsstenar","latitude":57.16667,"longitude":13.4}}(window,'GeoPostal','SE');

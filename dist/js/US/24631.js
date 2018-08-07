@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24631"]={"code":"24631","region":"VA","city":"Oakwood","latitude":37.2138,"longitude":-81.9917}}(window,'GeoPostal','US');

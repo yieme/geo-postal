@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 3P0"]={"code":"T0J 3P0","region":"Alberta","city":"Youngstown","latitude":51.53342,"longitude":-111.21843}}(window,'GeoPostal','CA');

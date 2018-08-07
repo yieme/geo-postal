@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46067"]={"code":"46067","region":"IN","city":"Sedalia","latitude":40.4156,"longitude":-86.5147}}(window,'GeoPostal','US');

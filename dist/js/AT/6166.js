@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6166"]={"code":"6166","region":"Tirol","city":"Fulpmes","latitude":47.16667,"longitude":11.35}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61060"]={"code":"61060","region":"IL","city":"Orangeville","latitude":42.4728,"longitude":-89.6448}}(window,'GeoPostal','US');

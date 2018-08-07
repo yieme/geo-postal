@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70149"]={"code":"70149","region":"LA","city":"Naval Reserve Pers Ctr","latitude":29.95,"longitude":-90.07}}(window,'GeoPostal','US');

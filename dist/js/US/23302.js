@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23302"]={"code":"23302","region":"Virginia","city":"Assawoman","latitude":37.857478,"longitude":-75.51739}}(window,'GeoPostal','US');

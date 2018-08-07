@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07435"]={"code":"07435","region":"New Jersey","city":"West Milford","latitude":41.13121,"longitude":-74.36737}}(window,'GeoPostal','US');

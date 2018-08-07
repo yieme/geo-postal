@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14660"]={"code":"14660","region":"Andalucia","city":"Canete de las Torres","latitude":37.86717,"longitude":-4.31835}}(window,'GeoPostal','ES');

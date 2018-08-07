@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP28 6PU"]={"code":"IP28 6PU","region":"England","city":"Icklingham","latitude":52.32729,"longitude":0.59627}}(window,'GeoPostal','GB');

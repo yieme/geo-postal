@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143700"]={"code":"143700","region":"Moskovskaya oblast'","city":"Shakhovskaya","latitude":56.02833,"longitude":35.50972}}(window,'GeoPostal','RU');

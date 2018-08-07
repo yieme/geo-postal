@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62908"]={"code":"62908","region":"IL","city":"Belknap","latitude":37.3266,"longitude":-88.9507}}(window,'GeoPostal','US');

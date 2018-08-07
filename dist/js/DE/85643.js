@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85643"]={"code":"85643","region":"Bayern","city":"Steinhoring","latitude":48.08679,"longitude":12.0314}}(window,'GeoPostal','DE');

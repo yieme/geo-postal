@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95254"]={"code":"95254","region":"California","city":"Wallace","latitude":38.170708,"longitude":-120.935475}}(window,'GeoPostal','US');

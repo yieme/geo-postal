@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71002"]={"code":"71002","region":"LA","city":"Ashland","latitude":32.1378,"longitude":-93.0906}}(window,'GeoPostal','US');

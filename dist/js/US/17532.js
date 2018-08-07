@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17532"]={"code":"17532","region":"PA","city":"Holtwood","latitude":39.8631,"longitude":-76.3008}}(window,'GeoPostal','US');

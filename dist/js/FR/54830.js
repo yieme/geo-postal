@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54830"]={"code":"54830","region":"Grand-Est","city":"Gerbeviller","latitude":48.49462,"longitude":6.51006}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86504"]={"code":"86504","region":"Arizona","city":"Fort Defiance","latitude":35.74446,"longitude":-109.07648}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8754"]={"code":"8754","region":"Glarus","city":"Netstal","latitude":47.06197,"longitude":9.05534}}(window,'GeoPostal','CH');

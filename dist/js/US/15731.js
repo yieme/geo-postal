@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15731"]={"code":"15731","region":"PA","city":"Coral","latitude":40.4992,"longitude":-79.1739}}(window,'GeoPostal','US');

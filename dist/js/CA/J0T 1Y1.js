@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1Y1"]={"code":"J0T 1Y1","region":"Quebec","city":"Lac-des-Seize-Iles","latitude":45.90009,"longitude":-74.46594}}(window,'GeoPostal','CA');

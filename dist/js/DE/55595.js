@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55595"]={"code":"55595","region":"Rheinland-Pfalz","city":"Allenfeld","latitude":49.86667,"longitude":7.66667}}(window,'GeoPostal','DE');

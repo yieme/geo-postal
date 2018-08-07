@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50026"]={"code":"50026","region":"Iowa","city":"Bagley","latitude":41.820019,"longitude":-94.454502}}(window,'GeoPostal','US');

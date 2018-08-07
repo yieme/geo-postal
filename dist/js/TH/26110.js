@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26110"]={"code":"26110","region":"Nakhon Nayok","city":"Ban Na","latitude":14.26238,"longitude":101.07111}}(window,'GeoPostal','TH');

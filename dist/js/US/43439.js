@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43439"]={"code":"43439","region":"OH","city":"Lacarne","latitude":41.5181,"longitude":-83.0413}}(window,'GeoPostal','US');

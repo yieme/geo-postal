@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35765"]={"code":"35765","region":"Alabama","city":"Pisgah","latitude":34.685,"longitude":-85.84667}}(window,'GeoPostal','US');

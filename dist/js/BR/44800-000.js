@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44800-000"]={"code":"44800-000","region":"Bahia","city":"Mundo Novo","latitude":-11.85889,"longitude":-40.4725}}(window,'GeoPostal','BR');

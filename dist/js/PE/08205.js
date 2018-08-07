@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08205"]={"code":"08205","region":"Cusco","city":"Oropesa","latitude":-13.59278,"longitude":-71.77194}}(window,'GeoPostal','PE');

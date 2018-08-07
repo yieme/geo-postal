@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5724"]={"code":"5724","region":"Aargau","city":"Durrenasch","latitude":47.31812,"longitude":8.1585}}(window,'GeoPostal','CH');

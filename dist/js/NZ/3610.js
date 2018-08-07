@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3610"]={"code":"3610","region":"Waikato","city":"Waihi","latitude":-37.38333,"longitude":175.83333}}(window,'GeoPostal','NZ');

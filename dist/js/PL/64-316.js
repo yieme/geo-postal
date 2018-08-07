@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-316"]={"code":"64-316","region":"Wielkopolskie","city":"Kuslin","latitude":52.36386,"longitude":16.31538}}(window,'GeoPostal','PL');

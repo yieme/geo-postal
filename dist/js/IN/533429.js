@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533429"]={"code":"533429","region":"Andhra Pradesh","city":"Chodavaram","latitude":17.45,"longitude":81.76667}}(window,'GeoPostal','IN');

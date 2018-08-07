@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53962"]={"code":"53962","region":"WI","city":"Union Center","latitude":43.6853,"longitude":-90.2668}}(window,'GeoPostal','US');

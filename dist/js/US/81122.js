@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81122"]={"code":"81122","region":"Colorado","city":"Pagosa Springs","latitude":37.26945,"longitude":-107.00976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH41 3AF"]={"code":"EH41 3AF","region":"Scotland","city":"Haddington","latitude":55.95612,"longitude":-2.78332}}(window,'GeoPostal','GB');

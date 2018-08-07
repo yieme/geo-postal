@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34287"]={"code":"34287","region":"Florida","city":"North Port","latitude":27.0783,"longitude":-82.18116}}(window,'GeoPostal','US');

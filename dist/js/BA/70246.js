@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70246"]={"code":"70246","region":"Federacija Bosne i Hercegovine","city":"Voljevac","latitude":43.87861,"longitude":17.65917}}(window,'GeoPostal','BA');

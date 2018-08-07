@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 3AW"]={"code":"NE61 3AW","region":"England","city":"Ulgham","latitude":55.22474,"longitude":-1.63636}}(window,'GeoPostal','GB');

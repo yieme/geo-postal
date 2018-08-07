@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 5C0"]={"code":"A0K 5C0","region":"Newfoundland and Labrador","city":"St. Barbe North Sandy Cove","latitude":51.35009,"longitude":-56.66478}}(window,'GeoPostal','CA');

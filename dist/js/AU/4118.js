@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4118"]={"code":"4118","region":"Queensland","city":"Browns Plains","latitude":-27.65,"longitude":153.03333}}(window,'GeoPostal','AU');

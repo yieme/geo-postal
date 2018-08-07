@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61771"]={"code":"61771","region":"IL","city":"Secor","latitude":40.7224,"longitude":-89.1271}}(window,'GeoPostal','US');

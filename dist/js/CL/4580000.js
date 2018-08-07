@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4580000"]={"code":"4580000","region":"Biobio","city":"Yumbel","latitude":-37.08333,"longitude":-72.56667}}(window,'GeoPostal','CL');

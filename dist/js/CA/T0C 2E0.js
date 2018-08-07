@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 2E0"]={"code":"T0C 2E0","region":"Alberta","city":"Nevis","latitude":52.33342,"longitude":-113.01864}}(window,'GeoPostal','CA');

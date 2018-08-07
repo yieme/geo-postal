@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362226"]={"code":"362226","region":"Gujarat","city":"Keshod","latitude":21.3,"longitude":70.25}}(window,'GeoPostal','IN');

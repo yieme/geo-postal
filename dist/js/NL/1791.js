@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1791"]={"code":"1791","region":"Noord-Holland","city":"Den Burg","latitude":53.05417,"longitude":4.79722}}(window,'GeoPostal','NL');

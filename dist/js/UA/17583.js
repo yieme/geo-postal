@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17583"]={"code":"17583","region":"Chernihivska oblast","city":"Ladan","latitude":50.51959,"longitude":32.58178}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46064"]={"code":"46064","region":"IN","city":"Pendleton","latitude":39.9975,"longitude":-85.7466}}(window,'GeoPostal','US');

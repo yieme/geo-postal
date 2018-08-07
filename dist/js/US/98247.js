@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98247"]={"code":"98247","region":"WA","city":"Everson","latitude":48.9045,"longitude":-122.3325}}(window,'GeoPostal','US');

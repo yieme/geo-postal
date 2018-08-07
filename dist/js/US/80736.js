@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80736"]={"code":"80736","region":"Colorado","city":"Iliff","latitude":40.806462,"longitude":-103.044922}}(window,'GeoPostal','US');

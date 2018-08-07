@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91608"]={"code":"91608","region":"California","city":"Universal City","latitude":34.1367,"longitude":-118.35366}}(window,'GeoPostal','US');

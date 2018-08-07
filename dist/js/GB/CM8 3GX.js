@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 3GX"]={"code":"CM8 3GX","region":"England","city":"Rivenhall End","latitude":51.81938,"longitude":0.6718}}(window,'GeoPostal','GB');

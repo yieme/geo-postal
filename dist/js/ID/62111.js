@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62111"]={"code":"62111","region":"Jawa Timur","city":"Bojonegoro","latitude":-7.1502,"longitude":111.8817}}(window,'GeoPostal','ID');

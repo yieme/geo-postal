@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE19 2AQ"]={"code":"NE19 2AQ","region":"England","city":"Capheaton","latitude":55.11735,"longitude":-1.94761}}(window,'GeoPostal','GB');

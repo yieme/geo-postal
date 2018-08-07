@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412950"]={"code":"412950","region":"Saratovskaya oblast'","city":"Shikhany","latitude":52.11667,"longitude":47.21667}}(window,'GeoPostal','RU');

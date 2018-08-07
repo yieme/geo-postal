@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-820"]={"code":"62-820","region":"Wielkopolskie","city":"Stawiszyn","latitude":51.91786,"longitude":18.11171}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571346"]={"code":"571346","region":"Hainan","city":"Huiwen","latitude":19.46337,"longitude":110.72464}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45320-000"]={"code":"45320-000","region":"Bahia","city":"Santa Ines","latitude":-13.29222,"longitude":-39.81889}}(window,'GeoPostal','BR');

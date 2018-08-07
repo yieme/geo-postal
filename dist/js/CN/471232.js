@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471232"]={"code":"471232","region":"Henan","city":"Muzhijie","latitude":33.96221,"longitude":112.16524}}(window,'GeoPostal','CN');

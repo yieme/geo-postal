@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0TE"]={"code":"SA68 0TE","region":"Wales","city":"Cresswell Quay","latitude":51.72472,"longitude":-4.825}}(window,'GeoPostal','GB');

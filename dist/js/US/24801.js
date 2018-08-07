@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24801"]={"code":"24801","region":"West Virginia","city":"Welch","latitude":37.43289,"longitude":-81.58455}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08040"]={"code":"08040","region":"Sardegna","city":"Cardedu","latitude":39.79667,"longitude":9.62528}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94505"]={"code":"94505","region":"California","city":"Discovery Bay","latitude":37.90854,"longitude":-121.60023}}(window,'GeoPostal','US');

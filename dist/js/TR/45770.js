@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45770"]={"code":"45770","region":"Tokat","city":"Turhal","latitude":40.3875,"longitude":36.08111}}(window,'GeoPostal','TR');

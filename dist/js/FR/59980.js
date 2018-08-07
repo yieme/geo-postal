@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59980"]={"code":"59980","region":"Hauts-de-France","city":"Bertry","latitude":50.08718,"longitude":3.44298}}(window,'GeoPostal','FR');

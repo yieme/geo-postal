@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88047"]={"code":"88047","region":"New Mexico","city":"Mesilla Park","latitude":32.238302,"longitude":-106.737932}}(window,'GeoPostal','US');

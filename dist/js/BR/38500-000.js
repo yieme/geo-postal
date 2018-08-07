@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38500-000"]={"code":"38500-000","region":"Minas Gerais","city":"Monte Carmelo","latitude":-18.72472,"longitude":-47.49861}}(window,'GeoPostal','BR');

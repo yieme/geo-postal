@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["029-2208"]={"code":"029-2208","region":"Iwate","city":"Rikuzentakata","latitude":39.017,"longitude":141.633}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86556"]={"code":"86556","region":"Arizona","city":"Tsaile","latitude":36.3033,"longitude":-109.21566}}(window,'GeoPostal','US');

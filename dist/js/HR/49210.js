@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49210"]={"code":"49210","region":"Krapinsko-zagorska zupanija","city":"Zabok","latitude":46.02944,"longitude":15.915}}(window,'GeoPostal','HR');

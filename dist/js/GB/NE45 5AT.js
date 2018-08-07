@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE45 5AT"]={"code":"NE45 5AT","region":"England","city":"Corbridge","latitude":54.97365,"longitude":-2.01798}}(window,'GeoPostal','GB');

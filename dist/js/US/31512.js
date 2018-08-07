@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31512"]={"code":"31512","region":"Georgia","city":"Ambrose","latitude":31.511136,"longitude":-83.014136}}(window,'GeoPostal','US');

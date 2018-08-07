@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84083"]={"code":"84083","region":"Campania","city":"Castel San Giorgio","latitude":40.78371,"longitude":14.69884}}(window,'GeoPostal','IT');

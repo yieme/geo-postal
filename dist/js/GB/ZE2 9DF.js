@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE2 9DF"]={"code":"ZE2 9DF","region":"Scotland","city":"Gutcher","latitude":60.66667,"longitude":-1}}(window,'GeoPostal','GB');

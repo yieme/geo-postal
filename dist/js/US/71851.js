@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71851"]={"code":"71851","region":"AR","city":"Mineral Springs","latitude":33.8639,"longitude":-93.9188}}(window,'GeoPostal','US');

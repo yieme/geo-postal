@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7320"]={"code":"7320","region":"Tasmania","city":"Burnie","latitude":-41.05584,"longitude":145.90375}}(window,'GeoPostal','AU');

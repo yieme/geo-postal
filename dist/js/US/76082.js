@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76082"]={"code":"76082","region":"TX","city":"Springtown","latitude":32.966,"longitude":-97.6836}}(window,'GeoPostal','US');

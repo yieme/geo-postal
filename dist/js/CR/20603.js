@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20603"]={"code":"20603","region":"Alajuela","city":"San Jose","latitude":10.95173,"longitude":-85.1361}}(window,'GeoPostal','CR');

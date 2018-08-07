@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325500"]={"code":"325500","region":"Caras-Severin","city":"Moldova Noua","latitude":44.7375,"longitude":21.66694}}(window,'GeoPostal','RO');

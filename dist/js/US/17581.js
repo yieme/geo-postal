@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17581"]={"code":"17581","region":"PA","city":"Terre Hill","latitude":40.1585,"longitude":-76.0511}}(window,'GeoPostal','US');

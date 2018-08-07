@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79210"]={"code":"79210","region":"Nouvelle-Aquitaine","city":"Mauze-sur-le-Mignon","latitude":46.19516,"longitude":-0.67032}}(window,'GeoPostal','FR');

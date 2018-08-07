@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN18 6HA"]={"code":"DN18 6HA","region":"England","city":"South Ferriby","latitude":53.67603,"longitude":-0.50474}}(window,'GeoPostal','GB');

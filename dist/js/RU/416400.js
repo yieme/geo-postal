@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416400"]={"code":"416400","region":"Astrakhanskaya oblast'","city":"Zenzeli","latitude":45.92407,"longitude":47.04739}}(window,'GeoPostal','RU');

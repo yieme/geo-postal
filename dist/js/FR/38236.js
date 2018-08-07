@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38236"]={"code":"38236","region":"Auvergne-Rhone-Alpes","city":"Pont-de-Cheruy","latitude":45.75166,"longitude":5.18488}}(window,'GeoPostal','FR');

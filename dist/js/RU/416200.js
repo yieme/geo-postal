@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416200"]={"code":"416200","region":"Astrakhanskaya oblast'","city":"Yenotayevka","latitude":47.24559,"longitude":47.02814}}(window,'GeoPostal','RU');

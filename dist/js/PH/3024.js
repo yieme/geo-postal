@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3024"]={"code":"3024","region":"Bulacan","city":"Obando","latitude":14.7098,"longitude":120.9362}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-501"]={"code":"06-501","region":"Warminsko-mazurskie","city":"Ilowo -Osada","latitude":53.16808,"longitude":20.29295}}(window,'GeoPostal','PL');

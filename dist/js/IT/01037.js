@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01037"]={"code":"01037","region":"Lazio","city":"Ronciglione","latitude":42.29042,"longitude":12.21327}}(window,'GeoPostal','IT');

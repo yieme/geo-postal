@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01985"]={"code":"01985","region":"MA","city":"West Newbury","latitude":42.7949,"longitude":-70.9778}}(window,'GeoPostal','US');

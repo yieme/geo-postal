@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16127"]={"code":"16127","region":"Pennsylvania","city":"Grove City","latitude":41.164184,"longitude":-80.086789}}(window,'GeoPostal','US');

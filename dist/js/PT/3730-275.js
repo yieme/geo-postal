@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3730-275"]={"code":"3730-275","region":"Aveiro","city":"Beduido","latitude":40.76427,"longitude":-8.5611}}(window,'GeoPostal','PT');

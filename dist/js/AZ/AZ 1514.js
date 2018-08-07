@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 1514"]={"code":"AZ 1514","region":"Calilabad","city":"Prishibinskoye","latitude":39.11958,"longitude":48.59361}}(window,'GeoPostal','AZ');

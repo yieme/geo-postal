@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65077"]={"code":"65077","region":"MO","city":"Steedman","latitude":38.7566,"longitude":-91.7888}}(window,'GeoPostal','US');

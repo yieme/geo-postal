@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40019"]={"code":"40019","region":"KY","city":"Eminence","latitude":38.3696,"longitude":-85.1782}}(window,'GeoPostal','US');

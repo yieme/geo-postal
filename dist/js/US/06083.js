@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06083"]={"code":"06083","region":"CT","city":"Enfield","latitude":41.9762,"longitude":-72.5918}}(window,'GeoPostal','US');

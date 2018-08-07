@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56123"]={"code":"56123","region":"Minnesota","city":"Currie","latitude":44.042105,"longitude":-95.433585}}(window,'GeoPostal','US');

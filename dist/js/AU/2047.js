@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2047"]={"code":"2047","region":"New South Wales","city":"Drummoyne","latitude":-33.85361,"longitude":151.15417}}(window,'GeoPostal','AU');

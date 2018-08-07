@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54000"]={"code":"54000","region":"Sakarya","city":"Adapazari","latitude":40.78056,"longitude":30.40333}}(window,'GeoPostal','TR');

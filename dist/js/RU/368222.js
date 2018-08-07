@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368222"]={"code":"368222","region":"Dagestan, Respublika","city":"Buynaksk","latitude":42.819,"longitude":47.1192}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32925"]={"code":"32925","region":"Florida","city":"Patrick Air Force Base","latitude":28.230556,"longitude":-80.622811}}(window,'GeoPostal','US');

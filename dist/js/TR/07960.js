@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07960"]={"code":"07960","region":"Amasya","city":"Amasya","latitude":40.65333,"longitude":35.83306}}(window,'GeoPostal','TR');

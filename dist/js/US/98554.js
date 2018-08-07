@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98554"]={"code":"98554","region":"WA","city":"Lebam","latitude":46.5614,"longitude":-123.5479}}(window,'GeoPostal','US');

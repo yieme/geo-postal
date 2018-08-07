@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83735"]={"code":"83735","region":"Bayern","city":"Hochkreut","latitude":47.68498,"longitude":12.00299}}(window,'GeoPostal','DE');

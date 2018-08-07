@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4874"]={"code":"4874","region":"Queensland","city":"Weipa","latitude":-12.62346,"longitude":141.87883}}(window,'GeoPostal','AU');

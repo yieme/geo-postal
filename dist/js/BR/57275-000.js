@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57275-000"]={"code":"57275-000","region":"Alagoas","city":"Sao Sebastiao","latitude":-9.93361,"longitude":-36.55417}}(window,'GeoPostal','BR');

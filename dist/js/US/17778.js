@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17778"]={"code":"17778","region":"Pennsylvania","city":"Westport","latitude":41.309298,"longitude":-77.969319}}(window,'GeoPostal','US');

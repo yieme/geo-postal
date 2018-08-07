@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88324"]={"code":"88324","region":"New Mexico","city":"Glencoe","latitude":33.403356,"longitude":-105.515732}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8142"]={"code":"8142","region":"Zurich","city":"Uitikon","latitude":47.36911,"longitude":8.45699}}(window,'GeoPostal','CH');

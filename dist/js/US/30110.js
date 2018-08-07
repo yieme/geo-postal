@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30110"]={"code":"30110","region":"Georgia","city":"Bremen","latitude":33.740445,"longitude":-85.13631}}(window,'GeoPostal','US');

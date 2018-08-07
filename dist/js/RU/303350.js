@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303350"]={"code":"303350","region":"Orlovskaya oblast'","city":"Glazunovka","latitude":52.50057,"longitude":36.31996}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06787"]={"code":"06787","region":"CT","city":"Thomaston","latitude":41.6786,"longitude":-73.0886}}(window,'GeoPostal','US');

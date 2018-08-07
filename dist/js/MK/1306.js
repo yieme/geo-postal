@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1306"]={"code":"1306","region":"Lipkovo","city":"Matejche","latitude":42.12556,"longitude":21.59778}}(window,'GeoPostal','MK');

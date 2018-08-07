@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59955"]={"code":"59955","region":"Nordrhein-Westfalen","city":"Winterberg","latitude":51.19248,"longitude":8.53468}}(window,'GeoPostal','DE');

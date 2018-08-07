@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12300"]={"code":"12300","region":"Valenciana, Comunidad","city":"Morella","latitude":40.61966,"longitude":-0.09892}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3640"]={"code":"3640","region":"Victoria","city":"Katunga","latitude":-36.01667,"longitude":145.46667}}(window,'GeoPostal','AU');

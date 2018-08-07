@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626240"]={"code":"626240","region":"Tyumenskaya oblast'","city":"Vagay","latitude":57.9375,"longitude":69.02167}}(window,'GeoPostal','RU');

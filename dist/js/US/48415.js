@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48415"]={"code":"48415","region":"MI","city":"Birch Run","latitude":43.2649,"longitude":-83.7903}}(window,'GeoPostal','US');

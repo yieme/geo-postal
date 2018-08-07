@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08340"]={"code":"08340","region":"Sachsen","city":"Schwarzenberg","latitude":50.53791,"longitude":12.78522}}(window,'GeoPostal','DE');

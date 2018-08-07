@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91018"]={"code":"91018","region":"Sicilia","city":"Salemi","latitude":37.82314,"longitude":12.80564}}(window,'GeoPostal','IT');

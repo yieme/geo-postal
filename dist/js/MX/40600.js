@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40600"]={"code":"40600","region":"Guerrero","city":"Tlapehuala","latitude":18.21667,"longitude":-100.51667}}(window,'GeoPostal','MX');

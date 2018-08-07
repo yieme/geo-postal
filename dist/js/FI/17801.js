@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17801"]={"code":"17801","region":"Keski-Suomi","city":"Kuhmoinen","latitude":61.56667,"longitude":25.18333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99660"]={"code":"99660","region":"AK","city":"Saint Paul Island","latitude":57.1842,"longitude":-170.2764}}(window,'GeoPostal','US');

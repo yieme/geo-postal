@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49871"]={"code":"49871","region":"MI","city":"Palmer","latitude":46.4416,"longitude":-87.5764}}(window,'GeoPostal','US');

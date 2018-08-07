@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89168"]={"code":"89168","region":"Bayern","city":"Riedhausen bei Gunzburg","latitude":48.50773,"longitude":10.25187}}(window,'GeoPostal','DE');

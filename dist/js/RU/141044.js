@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141044"]={"code":"141044","region":"Kaluzhskaya oblast'","city":"Kremenki","latitude":54.885,"longitude":37.12611}}(window,'GeoPostal','RU');

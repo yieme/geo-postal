@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["066600"]={"code":"066600","region":"Hebei","city":"Changli","latitude":39.70417,"longitude":119.15056}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57700-000"]={"code":"57700-000","region":"Alagoas","city":"Vicosa","latitude":-9.37139,"longitude":-36.24083}}(window,'GeoPostal','BR');

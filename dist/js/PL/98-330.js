@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-330"]={"code":"98-330","region":"Lodzkie","city":"Pajeczno","latitude":51.14449,"longitude":18.99612}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67600"]={"code":"67600","region":"Grand-Est","city":"Mussig","latitude":48.22993,"longitude":7.51963}}(window,'GeoPostal','FR');

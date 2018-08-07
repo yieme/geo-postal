@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61752"]={"code":"61752","region":"Illinois","city":"Le Roy","latitude":40.35198,"longitude":-88.76424}}(window,'GeoPostal','US');

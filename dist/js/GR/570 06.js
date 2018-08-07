@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 06"]={"code":"570 06","region":"Kentriki Makedonia","city":"Souroti","latitude":40.47274,"longitude":23.09197}}(window,'GeoPostal','GR');

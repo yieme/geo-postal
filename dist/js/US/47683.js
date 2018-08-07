@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47683"]={"code":"47683","region":"IN","city":"Somerville","latitude":38.2764,"longitude":-87.3778}}(window,'GeoPostal','US');

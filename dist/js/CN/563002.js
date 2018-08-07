@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["563002"]={"code":"563002","region":"Guizhou","city":"Zunyi","latitude":27.68667,"longitude":106.90722}}(window,'GeoPostal','CN');

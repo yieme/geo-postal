@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85250"]={"code":"85250","region":"Pays-de-la-Loire","city":"Vendrennes","latitude":46.82523,"longitude":-1.12357}}(window,'GeoPostal','FR');

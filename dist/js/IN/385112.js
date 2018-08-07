@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385112"]={"code":"385112","region":"Gujarat","city":"Palanpur","latitude":24.16667,"longitude":72.43333}}(window,'GeoPostal','IN');

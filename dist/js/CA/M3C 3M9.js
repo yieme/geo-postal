@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M3C 3M9"]={"code":"M3C 3M9","region":"Ontario","city":"Don Mills","latitude":43.732089,"longitude":-79.342155}}(window,'GeoPostal','CA');

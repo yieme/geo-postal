@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3400"]={"code":"3400","region":"Buskerud","city":"Tranby","latitude":59.81667,"longitude":10.25}}(window,'GeoPostal','NO');

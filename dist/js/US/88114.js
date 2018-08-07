@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88114"]={"code":"88114","region":"New Mexico","city":"Crossroads","latitude":33.50828,"longitude":-103.33885}}(window,'GeoPostal','US');

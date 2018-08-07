@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59597"]={"code":"59597","region":"Nordrhein-Westfalen","city":"Erwitte","latitude":51.6127,"longitude":8.3384}}(window,'GeoPostal','DE');

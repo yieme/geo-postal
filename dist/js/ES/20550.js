@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20550"]={"code":"20550","region":"Pais Vasco","city":"Aretxabaleta","latitude":43.03414,"longitude":-2.50456}}(window,'GeoPostal','ES');

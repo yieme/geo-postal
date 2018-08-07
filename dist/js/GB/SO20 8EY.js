@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 8EY"]={"code":"SO20 8EY","region":"England","city":"Nether Wallop","latitude":51.12589,"longitude":-1.56455}}(window,'GeoPostal','GB');

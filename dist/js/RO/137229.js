@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137229"]={"code":"137229","region":"Dambovita","city":"Glodeni","latitude":45.01667,"longitude":25.46667}}(window,'GeoPostal','RO');

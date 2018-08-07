@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23846"]={"code":"23846","region":"Lombardia","city":"Garbagnate Monastero","latitude":45.77338,"longitude":9.30144}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56760"]={"code":"56760","region":"MN","city":"Viking","latitude":48.2349,"longitude":-96.4749}}(window,'GeoPostal','US');

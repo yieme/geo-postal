@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04352"]={"code":"04352","region":"ME","city":"Mount Vernon","latitude":44.4993,"longitude":-69.9903}}(window,'GeoPostal','US');

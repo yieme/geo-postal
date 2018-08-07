@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59925"]={"code":"59925","region":"Montana","city":"Marion","latitude":48.11043,"longitude":-114.757863}}(window,'GeoPostal','US');

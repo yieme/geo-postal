@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8634"]={"code":"8634","region":"Somogy","city":"Balatonboglar","latitude":46.77525,"longitude":17.64414}}(window,'GeoPostal','HU');

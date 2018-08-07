@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15075"]={"code":"15075","region":"PA","city":"Rural Ridge","latitude":40.5856,"longitude":-79.8287}}(window,'GeoPostal','US');

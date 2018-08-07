@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13420"]={"code":"13420","region":"New York","city":"Old Forge","latitude":43.71,"longitude":-74.97333}}(window,'GeoPostal','US');

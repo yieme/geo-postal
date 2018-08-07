@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24008"]={"code":"24008","region":"Guelma","city":"Heliopolis","latitude":36.50361,"longitude":7.44278}}(window,'GeoPostal','DZ');

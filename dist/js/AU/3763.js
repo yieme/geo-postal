@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3763"]={"code":"3763","region":"Victoria","city":"Castella","latitude":-37.51667,"longitude":145.43333}}(window,'GeoPostal','AU');

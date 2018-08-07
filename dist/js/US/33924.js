@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33924"]={"code":"33924","region":"FL","city":"Captiva","latitude":26.5215,"longitude":-82.1802}}(window,'GeoPostal','US');

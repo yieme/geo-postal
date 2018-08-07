@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41745"]={"code":"41745","region":"KY","city":"Gays Creek","latitude":37.3353,"longitude":-83.4347}}(window,'GeoPostal','US');

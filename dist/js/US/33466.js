@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33466"]={"code":"33466","region":"FL","city":"Lake Worth","latitude":26.6171,"longitude":-80.0723}}(window,'GeoPostal','US');

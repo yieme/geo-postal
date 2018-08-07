@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43035"]={"code":"43035","region":"Ohio","city":"Lewis Center","latitude":40.181461,"longitude":-83.01017}}(window,'GeoPostal','US');

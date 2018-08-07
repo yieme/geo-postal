@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74427"]={"code":"74427","region":"OK","city":"Cookson","latitude":35.7116,"longitude":-94.9132}}(window,'GeoPostal','US');

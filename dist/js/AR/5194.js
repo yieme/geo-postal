@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5194"]={"code":"5194","region":"Cordoba","city":"Villa General Belgrano","latitude":-31.97542,"longitude":-64.5559}}(window,'GeoPostal','AR');

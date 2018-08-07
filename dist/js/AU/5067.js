@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5067"]={"code":"5067","region":"South Australia","city":"Kent Town","latitude":-34.92155,"longitude":138.62009}}(window,'GeoPostal','AU');

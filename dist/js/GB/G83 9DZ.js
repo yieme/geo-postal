@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 9DZ"]={"code":"G83 9DZ","region":"Scotland","city":"Bonhill","latitude":55.97944,"longitude":-4.5638}}(window,'GeoPostal','GB');

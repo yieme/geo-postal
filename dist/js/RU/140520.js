@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140520"]={"code":"140520","region":"Moskovskaya oblast'","city":"Beloomut","latitude":54.94478,"longitude":39.33941}}(window,'GeoPostal','RU');

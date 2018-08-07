@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65870-000"]={"code":"65870-000","region":"Maranhao","city":"Pastos Bons","latitude":-6.60167,"longitude":-44.07667}}(window,'GeoPostal','BR');

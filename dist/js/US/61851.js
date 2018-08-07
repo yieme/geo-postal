@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61851"]={"code":"61851","region":"IL","city":"Ivesdale","latitude":39.9502,"longitude":-88.4451}}(window,'GeoPostal','US');

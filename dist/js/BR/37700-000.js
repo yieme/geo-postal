@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37700-000"]={"code":"37700-000","region":"Minas Gerais","city":"Pocos de Caldas","latitude":-21.78778,"longitude":-46.56139}}(window,'GeoPostal','BR');

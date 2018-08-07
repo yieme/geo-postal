@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01430"]={"code":"01430","region":"Auvergne-Rhone-Alpes","city":"Saint-Martin-du-Frene","latitude":46.13857,"longitude":5.55302}}(window,'GeoPostal','FR');

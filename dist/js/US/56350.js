@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56350"]={"code":"56350","region":"Minnesota","city":"McGrath","latitude":46.288698,"longitude":-93.242346}}(window,'GeoPostal','US');

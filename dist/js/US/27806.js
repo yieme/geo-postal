@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27806"]={"code":"27806","region":"NC","city":"Aurora","latitude":35.3023,"longitude":-76.7994}}(window,'GeoPostal','US');

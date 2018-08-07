@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25591"]={"code":"25591","region":"Schleswig-Holstein","city":"Edendorf","latitude":53.95205,"longitude":9.49868}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 2NH"]={"code":"CO9 2NH","region":"England","city":"Pebmarsh","latitude":51.9687,"longitude":0.69609}}(window,'GeoPostal','GB');

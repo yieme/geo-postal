@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62366"]={"code":"62366","region":"Illinois","city":"Pleasant Hill","latitude":39.442848,"longitude":-90.873525}}(window,'GeoPostal','US');

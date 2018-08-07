@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0G 2K0"]={"code":"A0G 2K0","region":"Newfoundland and Labrador","city":"Glenwood","latitude":48.98322,"longitude":-54.88146}}(window,'GeoPostal','CA');

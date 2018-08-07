@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48886"]={"code":"48886","region":"MI","city":"Six Lakes","latitude":43.4337,"longitude":-85.1416}}(window,'GeoPostal','US');

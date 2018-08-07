@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2E0"]={"code":"P0T 2E0","region":"Ontario","city":"Marathon","latitude":48.75,"longitude":-86.367}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174210"]={"code":"174210","region":"Novgorodskaya oblast'","city":"Chudovo","latitude":59.11667,"longitude":31.68333}}(window,'GeoPostal','RU');

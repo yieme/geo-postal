@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79689"]={"code":"79689","region":"Baden-Wurttemberg","city":"Maulburg","latitude":47.64631,"longitude":7.7821}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32868"]={"code":"32868","region":"Galicia","city":"Entrimo","latitude":41.93297,"longitude":-8.11725}}(window,'GeoPostal','ES');

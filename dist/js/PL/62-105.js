@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-105"]={"code":"62-105","region":"Wielkopolskie","city":"Wagrowiec","latitude":52.80842,"longitude":17.19961}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85460"]={"code":"85460","region":"Pays-de-la-Loire","city":"L'Aiguillon-sur-Mer","latitude":46.33,"longitude":-1.3}}(window,'GeoPostal','FR');

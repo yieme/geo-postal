@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76409"]={"code":"76409","region":"Normandie","city":"Fecamp","latitude":49.75787,"longitude":0.37457}}(window,'GeoPostal','FR');

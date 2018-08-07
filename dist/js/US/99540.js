@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99540"]={"code":"99540","region":"AK","city":"Indian","latitude":61.1089,"longitude":-149.4403}}(window,'GeoPostal','US');

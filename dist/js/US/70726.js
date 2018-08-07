@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70726"]={"code":"70726","region":"Louisiana","city":"Denham Springs","latitude":30.493584,"longitude":-90.923117}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98326"]={"code":"98326","region":"WA","city":"Clallam Bay","latitude":48.2255,"longitude":-124.2015}}(window,'GeoPostal','US');

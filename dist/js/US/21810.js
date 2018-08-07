@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21810"]={"code":"21810","region":"MD","city":"Allen","latitude":38.2873,"longitude":-75.688}}(window,'GeoPostal','US');

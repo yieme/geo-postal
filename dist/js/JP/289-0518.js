@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289-0518"]={"code":"289-0518","region":"Chiba","city":"Asahi","latitude":35.717,"longitude":140.65}}(window,'GeoPostal','JP');

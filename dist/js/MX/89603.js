@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89603"]={"code":"89603","region":"Tamaulipas","city":"Altamira","latitude":22.4,"longitude":-97.91667}}(window,'GeoPostal','MX');

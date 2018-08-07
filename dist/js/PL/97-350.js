@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-350"]={"code":"97-350","region":"Lodzkie","city":"Gorzkowice","latitude":51.21533,"longitude":19.59626}}(window,'GeoPostal','PL');

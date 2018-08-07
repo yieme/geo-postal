@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27920"]={"code":"27920","region":"North Carolina","city":"Buxton","latitude":35.26768,"longitude":-75.54237}}(window,'GeoPostal','US');

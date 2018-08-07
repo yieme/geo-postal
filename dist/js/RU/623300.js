@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623300"]={"code":"623300","region":"Sverdlovskaya oblast'","city":"Krasnoufimsk","latitude":56.60585,"longitude":57.76686}}(window,'GeoPostal','RU');

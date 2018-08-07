@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63530"]={"code":"63530","region":"MO","city":"Atlanta","latitude":39.9146,"longitude":-92.475}}(window,'GeoPostal','US');

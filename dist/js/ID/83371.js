@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83371"]={"code":"83371","region":"Nusa Tenggara Barat","city":"Selat","latitude":-8.5816,"longitude":116.2101}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87230"]={"code":"87230","region":"Nouvelle-Aquitaine","city":"Bussiere-Galant","latitude":45.62702,"longitude":1.0364}}(window,'GeoPostal','FR');

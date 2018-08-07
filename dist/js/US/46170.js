@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46170"]={"code":"46170","region":"IN","city":"Putnamville","latitude":39.5742,"longitude":-86.8653}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8377"]={"code":"8377","region":"West-Vlaanderen","city":"Zuienkerke","latitude":51.26511,"longitude":3.15506}}(window,'GeoPostal','BE');

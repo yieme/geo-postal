@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8531"]={"code":"8531","region":"Nordland","city":"Bjorkvang","latitude":68.55972,"longitude":17.51889}}(window,'GeoPostal','NO');

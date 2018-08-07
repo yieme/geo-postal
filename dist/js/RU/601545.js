@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601545"]={"code":"601545","region":"Vladimirskaya oblast'","city":"Zolotkovo","latitude":55.5281,"longitude":41.1053}}(window,'GeoPostal','RU');

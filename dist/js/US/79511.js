@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79511"]={"code":"79511","region":"TX","city":"Coahoma","latitude":32.2942,"longitude":-101.3197}}(window,'GeoPostal','US');

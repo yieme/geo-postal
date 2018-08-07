@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 2B0"]={"code":"T0G 2B0","region":"Alberta","city":"Smith","latitude":55.16686,"longitude":-114.03548}}(window,'GeoPostal','CA');

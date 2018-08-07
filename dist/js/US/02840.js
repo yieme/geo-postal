@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02840"]={"code":"02840","region":"Rhode Island","city":"Newport","latitude":41.4901,"longitude":-71.31283}}(window,'GeoPostal','US');

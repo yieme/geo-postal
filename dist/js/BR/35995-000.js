@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35995-000"]={"code":"35995-000","region":"Minas Gerais","city":"Sao Domingos do Prata","latitude":-19.865,"longitude":-42.96833}}(window,'GeoPostal','BR');

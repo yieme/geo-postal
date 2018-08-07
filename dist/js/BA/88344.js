@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88344"]={"code":"88344","region":"Federacija Bosne i Hercegovine","city":"Drinovci","latitude":43.355,"longitude":17.35389}}(window,'GeoPostal','BA');

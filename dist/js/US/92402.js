@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92402"]={"code":"92402","region":"CA","city":"San Bernardino","latitude":34.1083,"longitude":-117.2898}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88052"]={"code":"88052","region":"NM","city":"Organ","latitude":32.4259,"longitude":-106.6136}}(window,'GeoPostal','US');

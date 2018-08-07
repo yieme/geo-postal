@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6481"]={"code":"6481","region":"More og Romsdal","city":"Falkhytta","latitude":62.805,"longitude":6.88722}}(window,'GeoPostal','NO');

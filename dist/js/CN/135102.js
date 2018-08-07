@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135102"]={"code":"135102","region":"Jilin","city":"Huinan","latitude":42.6225,"longitude":126.26139}}(window,'GeoPostal','CN');

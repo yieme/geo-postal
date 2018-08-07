@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43200"]={"code":"43200","region":"Auvergne-Rhone-Alpes","city":"Lapte","latitude":45.18562,"longitude":4.21705}}(window,'GeoPostal','FR');

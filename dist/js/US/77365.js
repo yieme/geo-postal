@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77365"]={"code":"77365","region":"Texas","city":"Porter","latitude":30.104937,"longitude":-95.258334}}(window,'GeoPostal','US');

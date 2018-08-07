@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24567"]={"code":"24567","region":"Castilla y Leon","city":"Sobrado","latitude":42.51667,"longitude":-6.85}}(window,'GeoPostal','ES');

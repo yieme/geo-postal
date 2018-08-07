@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3163"]={"code":"3163","region":"Vestfold","city":"Borgheim","latitude":59.22716,"longitude":10.40785}}(window,'GeoPostal','NO');

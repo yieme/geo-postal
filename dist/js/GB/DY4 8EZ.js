@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY4 8EZ"]={"code":"DY4 8EZ","region":"England","city":"Tipton","latitude":52.52956,"longitude":-2.06773}}(window,'GeoPostal','GB');

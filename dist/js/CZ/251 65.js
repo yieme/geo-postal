@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 65"]={"code":"251 65","region":"Stredocesky kraj","city":"Ondrejov","latitude":49.90461,"longitude":14.7842}}(window,'GeoPostal','CZ');

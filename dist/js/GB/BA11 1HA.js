@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 1HA"]={"code":"BA11 1HA","region":"England","city":"Frome","latitude":51.22834,"longitude":-2.32211}}(window,'GeoPostal','GB');

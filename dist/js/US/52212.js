@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52212"]={"code":"52212","region":"IA","city":"Center Junction","latitude":42.1161,"longitude":-91.0871}}(window,'GeoPostal','US');

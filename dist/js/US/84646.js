@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84646"]={"code":"84646","region":"UT","city":"Moroni","latitude":39.525,"longitude":-111.5905}}(window,'GeoPostal','US');

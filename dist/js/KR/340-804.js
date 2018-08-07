@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340-804"]={"code":"340-804","region":"Chungcheongnam-do","city":"Yesan","latitude":36.67756,"longitude":126.84272}}(window,'GeoPostal','KR');

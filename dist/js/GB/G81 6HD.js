@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G81 6HD"]={"code":"G81 6HD","region":"Scotland","city":"Duntocher","latitude":55.92437,"longitude":-4.41545}}(window,'GeoPostal','GB');

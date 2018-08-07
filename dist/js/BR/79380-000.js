@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79380-000"]={"code":"79380-000","region":"Mato Grosso do Sul","city":"Miranda","latitude":-20.24056,"longitude":-56.37833}}(window,'GeoPostal','BR');

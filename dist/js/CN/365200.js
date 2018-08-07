@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365200"]={"code":"365200","region":"Fujian","city":"Xuefeng","latitude":26.35722,"longitude":117.19778}}(window,'GeoPostal','CN');

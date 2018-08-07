@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF11 8LB"]={"code":"TF11 8LB","region":"England","city":"Weston under Lizard","latitude":52.69491,"longitude":-2.28918}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20733"]={"code":"20733","region":"MD","city":"Churchton","latitude":38.8018,"longitude":-76.5248}}(window,'GeoPostal','US');

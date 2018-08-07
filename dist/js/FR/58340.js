@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58340"]={"code":"58340","region":"Bourgogne-Franche-Comte","city":"Cercy-la-Tour","latitude":46.86203,"longitude":3.64652}}(window,'GeoPostal','FR');

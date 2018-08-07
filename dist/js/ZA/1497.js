@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1497"]={"code":"1497","region":"Gauteng","city":"Germiston","latitude":-26.217778,"longitude":28.167222}}(window,'GeoPostal','ZA');

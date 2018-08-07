@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84035"]={"code":"84035","region":"Campania","city":"Polla","latitude":40.51711,"longitude":15.49796}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA45 7QS"]={"code":"PA45 7QS","region":"Scotland","city":"Ballygrant","latitude":55.81904,"longitude":-6.15927}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95486"]={"code":"95486","region":"CA","city":"Villa Grande","latitude":38.4741,"longitude":-123.0242}}(window,'GeoPostal','US');

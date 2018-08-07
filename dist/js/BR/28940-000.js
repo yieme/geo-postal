@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28940-000"]={"code":"28940-000","region":"Rio de Janeiro","city":"Sao Pedro da Aldeia","latitude":-22.83917,"longitude":-42.10278}}(window,'GeoPostal','BR');

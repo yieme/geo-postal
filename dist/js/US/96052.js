@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96052"]={"code":"96052","region":"CA","city":"Lewiston","latitude":40.746,"longitude":-122.8426}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH21 5RF"]={"code":"BH21 5RF","region":"England","city":"Edmondsham","latitude":50.90255,"longitude":-1.91285}}(window,'GeoPostal','GB');

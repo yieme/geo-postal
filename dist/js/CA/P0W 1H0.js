@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0W 1H0"]={"code":"P0W 1H0","region":"Ontario","city":"Farrington","latitude":48.76656,"longitude":-92.83357}}(window,'GeoPostal','CA');

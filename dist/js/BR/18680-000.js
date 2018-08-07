@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18680-000"]={"code":"18680-000","region":"Sao Paulo","city":"Lencois Paulista","latitude":-22.59861,"longitude":-48.80028}}(window,'GeoPostal','BR');

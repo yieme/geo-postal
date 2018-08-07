@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20838"]={"code":"20838","region":"MD","city":"Barnesville","latitude":39.2233,"longitude":-77.3764}}(window,'GeoPostal','US');

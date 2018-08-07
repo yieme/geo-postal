@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65608"]={"code":"65608","region":"Missouri","city":"Ava","latitude":36.952,"longitude":-92.66045}}(window,'GeoPostal','US');

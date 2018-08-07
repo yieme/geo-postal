@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM13 3QZ"]={"code":"CM13 3QZ","region":"England","city":"Ingrave","latitude":51.60416,"longitude":0.34058}}(window,'GeoPostal','GB');

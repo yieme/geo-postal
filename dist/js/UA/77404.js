@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77404"]={"code":"77404","region":"Ivano-Frankivska oblast","city":"Tysmenytsya","latitude":48.90219,"longitude":24.84482}}(window,'GeoPostal','UA');

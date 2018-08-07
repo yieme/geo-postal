@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["012000"]={"code":"012000","region":"Nei Mongol","city":"Ulanqab","latitude":41,"longitude":113.133333}}(window,'GeoPostal','CN');

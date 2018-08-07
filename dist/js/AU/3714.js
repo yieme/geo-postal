@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3714"]={"code":"3714","region":"Victoria","city":"Acheron","latitude":-37.25,"longitude":145.7}}(window,'GeoPostal','AU');

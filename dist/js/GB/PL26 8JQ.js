@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 8JQ"]={"code":"PL26 8JQ","region":"England","city":"Roche","latitude":50.40808,"longitude":-4.83373}}(window,'GeoPostal','GB');

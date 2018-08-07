@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85077"]={"code":"85077","region":"AZ","city":"Greyhound Dial Corp","latitude":33.45,"longitude":-111.97}}(window,'GeoPostal','US');

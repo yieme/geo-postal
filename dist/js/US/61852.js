@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61852"]={"code":"61852","region":"IL","city":"Longview","latitude":39.9012,"longitude":-88.0753}}(window,'GeoPostal','US');

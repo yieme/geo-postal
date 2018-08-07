@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["335600"]={"code":"335600","region":"Hunedoara","city":"Lupeni","latitude":45.36029,"longitude":23.23832}}(window,'GeoPostal','RO');

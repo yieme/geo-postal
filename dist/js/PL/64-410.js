@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-410"]={"code":"64-410","region":"Wielkopolskie","city":"Sierakow","latitude":52.65134,"longitude":16.08047}}(window,'GeoPostal','PL');

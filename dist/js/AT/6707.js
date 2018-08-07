@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6707"]={"code":"6707","region":"Vorarlberg","city":"Buerserberg","latitude":47.14644,"longitude":9.77736}}(window,'GeoPostal','AT');

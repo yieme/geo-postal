@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["059 86"]={"code":"059 86","region":"Presovsky kraj","city":"Nova Lesna","latitude":49.12253,"longitude":20.26737}}(window,'GeoPostal','SK');

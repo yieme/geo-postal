@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353539"]={"code":"353539","region":"Krasnodarskiy kray","city":"Strelka","latitude":45.20633,"longitude":37.2865}}(window,'GeoPostal','RU');

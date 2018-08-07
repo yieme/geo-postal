@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08311"]={"code":"08311","region":"NJ","city":"Cedarville","latitude":39.337,"longitude":-75.1994}}(window,'GeoPostal','US');

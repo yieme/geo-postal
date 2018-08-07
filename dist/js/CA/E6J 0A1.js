@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E6J 0A1"]={"code":"E6J 0A1","region":"New Brunswick","city":"McAdam","latitude":45.59232,"longitude":-67.307}}(window,'GeoPostal','CA');

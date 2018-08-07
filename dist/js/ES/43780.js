@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43780"]={"code":"43780","region":"Catalunya","city":"Gandesa","latitude":41.05375,"longitude":0.4385}}(window,'GeoPostal','ES');

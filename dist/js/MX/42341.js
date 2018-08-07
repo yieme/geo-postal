@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42341"]={"code":"42341","region":"Hidalgo","city":"Ciudad Sahagun","latitude":19.76667,"longitude":-98.58333}}(window,'GeoPostal','MX');

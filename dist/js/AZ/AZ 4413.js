@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4413"]={"code":"AZ 4413","region":"Masalli","city":"Boradigah","latitude":38.93389,"longitude":48.70375}}(window,'GeoPostal','AZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34340"]={"code":"34340","region":"Castilla y Leon","city":"Villada","latitude":42.25111,"longitude":-4.96708}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43757"]={"code":"43757","region":"OH","city":"Malaga","latitude":39.8594,"longitude":-81.1516}}(window,'GeoPostal','US');

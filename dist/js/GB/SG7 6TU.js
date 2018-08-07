@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG7 6TU"]={"code":"SG7 6TU","region":"England","city":"Baldock","latitude":51.98781,"longitude":-0.18835}}(window,'GeoPostal','GB');

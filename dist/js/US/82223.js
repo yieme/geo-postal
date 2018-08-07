@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82223"]={"code":"82223","region":"Wyoming","city":"Lingle","latitude":42.1375,"longitude":-104.34639}}(window,'GeoPostal','US');

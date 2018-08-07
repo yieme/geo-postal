@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-008"]={"code":"66-008","region":"Lubuskie","city":"Swidnica","latitude":51.88836,"longitude":15.39013}}(window,'GeoPostal','PL');

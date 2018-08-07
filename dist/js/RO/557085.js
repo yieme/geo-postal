@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557085"]={"code":"557085","region":"Brasov","city":"Cristian","latitude":45.61667,"longitude":25.46667}}(window,'GeoPostal','RO');

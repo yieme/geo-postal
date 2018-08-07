@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2901"]={"code":"2901","region":"New South Wales","city":"Googong","latitude":-35.43873,"longitude":149.2131}}(window,'GeoPostal','AU');

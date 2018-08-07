@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28755"]={"code":"28755","region":"NC","city":"Micaville","latitude":35.9096,"longitude":-82.2132}}(window,'GeoPostal','US');

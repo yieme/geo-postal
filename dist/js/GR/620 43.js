@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 43"]={"code":"620 43","region":"Kentriki Makedonia","city":"Neon Petritsion","latitude":41.28333,"longitude":23.3}}(window,'GeoPostal','GR');

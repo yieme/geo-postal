@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727265"]={"code":"727265","region":"Suceava","city":"Fundu Moldovei","latitude":47.53333,"longitude":25.4}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17857"]={"code":"17857","region":"Pennsylvania","city":"Northumberland","latitude":40.895905,"longitude":-76.797262}}(window,'GeoPostal','US');

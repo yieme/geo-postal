@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94512"]={"code":"94512","region":"California","city":"Suisun City","latitude":38.245,"longitude":-122.01694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61537"]={"code":"61537","region":"Illinois","city":"Henry","latitude":41.11142,"longitude":-89.35648}}(window,'GeoPostal','US');

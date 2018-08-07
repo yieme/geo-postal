@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55566"]={"code":"55566","region":"Rheinland-Pfalz","city":"Bad Sobernheim","latitude":49.78636,"longitude":7.65146}}(window,'GeoPostal','DE');

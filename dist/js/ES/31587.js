@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31587"]={"code":"31587","region":"Navarra, Comunidad Foral de","city":"Mendavia","latitude":42.44335,"longitude":-2.20087}}(window,'GeoPostal','ES');

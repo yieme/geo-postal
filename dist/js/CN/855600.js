@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["855600"]={"code":"855600","region":"Xizang","city":"Racaka","latitude":31.4,"longitude":96.51667}}(window,'GeoPostal','CN');

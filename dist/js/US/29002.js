@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29002"]={"code":"29002","region":"SC","city":"Ballentine","latitude":34.1265,"longitude":-81.2348}}(window,'GeoPostal','US');

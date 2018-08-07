@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36515"]={"code":"36515","region":"AL","city":"Carlton","latitude":31.34,"longitude":-87.84}}(window,'GeoPostal','US');

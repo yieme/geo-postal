@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4610"]={"code":"4610","region":"Queensland","city":"Kingaroy","latitude":-26.53994,"longitude":151.8373}}(window,'GeoPostal','AU');

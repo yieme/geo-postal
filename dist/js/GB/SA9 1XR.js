@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA9 1XR"]={"code":"SA9 1XR","region":"Wales","city":"Abercraf","latitude":51.80094,"longitude":-3.71126}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6283"]={"code":"6283","region":"Tirol","city":"Hippach","latitude":47.20435,"longitude":11.86523}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56151"]={"code":"56151","region":"Minnesota","city":"Slayton","latitude":43.98774,"longitude":-95.75585}}(window,'GeoPostal','US');

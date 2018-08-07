@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24015"]={"code":"24015","region":"Guelma","city":"Guelma","latitude":36.46214,"longitude":7.42608}}(window,'GeoPostal','DZ');

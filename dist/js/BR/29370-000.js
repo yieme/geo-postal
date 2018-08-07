@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29370-000"]={"code":"29370-000","region":"Espirito Santo","city":"Conceicao do Castelo","latitude":-20.36833,"longitude":-41.24389}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6127"]={"code":"6127","region":"Negros Occidental","city":"Punao","latitude":10.56667,"longitude":123.4}}(window,'GeoPostal','PH');

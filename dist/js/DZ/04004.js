@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04004"]={"code":"04004","region":"Oum el Bouaghi","city":"Meskiana","latitude":35.63058,"longitude":7.66606}}(window,'GeoPostal','DZ');

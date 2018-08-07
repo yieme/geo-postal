@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55766"]={"code":"55766","region":"MN","city":"Melrude","latitude":47.2496,"longitude":-92.4123}}(window,'GeoPostal','US');

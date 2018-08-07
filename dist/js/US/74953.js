@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74953"]={"code":"74953","region":"Oklahoma","city":"Poteau","latitude":35.05371,"longitude":-94.62356}}(window,'GeoPostal','US');

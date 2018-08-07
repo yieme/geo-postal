@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV56 8FA"]={"code":"IV56 8FA","region":"Scotland","city":"Bracadale","latitude":57.35959,"longitude":-6.4067}}(window,'GeoPostal','GB');

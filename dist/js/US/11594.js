@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11594"]={"code":"11594","region":"NY","city":"115 Firms","latitude":40.75,"longitude":-73.58}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02557"]={"code":"02557","region":"Massachusetts","city":"Oak Bluffs","latitude":41.453989,"longitude":-70.562087}}(window,'GeoPostal','US');

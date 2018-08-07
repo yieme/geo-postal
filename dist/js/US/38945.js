@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38945"]={"code":"38945","region":"Mississippi","city":"Money","latitude":33.52013,"longitude":-90.18}}(window,'GeoPostal','US');

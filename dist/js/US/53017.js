@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53017"]={"code":"53017","region":"Wisconsin","city":"Colgate","latitude":43.20398,"longitude":-88.242522}}(window,'GeoPostal','US');

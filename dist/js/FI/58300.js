@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58300"]={"code":"58300","region":"Etela-Savo","city":"Savonranta","latitude":62.18333,"longitude":29.2}}(window,'GeoPostal','FI');

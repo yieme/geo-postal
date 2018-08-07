@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4100"]={"code":"4100","region":"Medenine","city":"Medenine","latitude":33.35495,"longitude":10.50548}}(window,'GeoPostal','TN');

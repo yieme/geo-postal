@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38668"]={"code":"38668","region":"Mississippi","city":"Senatobia","latitude":34.65318,"longitude":-89.86986}}(window,'GeoPostal','US');

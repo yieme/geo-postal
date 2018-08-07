@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12751"]={"code":"12751","region":"NY","city":"Kiamesha Lake","latitude":41.6838,"longitude":-74.6724}}(window,'GeoPostal','US');

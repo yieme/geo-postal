@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98238"]={"code":"98238","region":"Washington","city":"Conway","latitude":48.340733,"longitude":-122.345626}}(window,'GeoPostal','US');

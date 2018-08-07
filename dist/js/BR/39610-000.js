@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39610-000"]={"code":"39610-000","region":"Minas Gerais","city":"Itinga","latitude":-16.61306,"longitude":-41.76528}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 9NE"]={"code":"HR6 9NE","region":"England","city":"Shobdon","latitude":52.25116,"longitude":-2.88325}}(window,'GeoPostal','GB');

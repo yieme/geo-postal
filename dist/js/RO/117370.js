@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117370"]={"code":"117370","region":"Constanta","city":"Cogealac","latitude":44.55,"longitude":28.56667}}(window,'GeoPostal','RO');

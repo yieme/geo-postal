@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["018-5141"]={"code":"018-5141","region":"Akita","city":"Kazuno","latitude":40.215806,"longitude":140.788361}}(window,'GeoPostal','JP');

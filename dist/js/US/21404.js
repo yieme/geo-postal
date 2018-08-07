@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21404"]={"code":"21404","region":"MD","city":"Annapolis","latitude":38.9784,"longitude":-76.4922}}(window,'GeoPostal','US');

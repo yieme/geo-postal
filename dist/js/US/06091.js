@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06091"]={"code":"06091","region":"CT","city":"West Hartland","latitude":42.0076,"longitude":-72.9707}}(window,'GeoPostal','US');

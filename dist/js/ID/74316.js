@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74316"]={"code":"74316","region":"Kalimantan Tengah","city":"Sampit","latitude":-2.53333,"longitude":112.95}}(window,'GeoPostal','ID');

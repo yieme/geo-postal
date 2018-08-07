@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43408"]={"code":"43408","region":"OH","city":"Clay Center","latitude":41.5686,"longitude":-83.3632}}(window,'GeoPostal','US');

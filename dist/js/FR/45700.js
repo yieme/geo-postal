@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45700"]={"code":"45700","region":"Centre-Val de Loire","city":"Pannes","latitude":48.01937,"longitude":2.66755}}(window,'GeoPostal','FR');

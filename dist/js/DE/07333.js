@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07333"]={"code":"07333","region":"Thuringen","city":"Unterwellenborn","latitude":50.65,"longitude":11.43333}}(window,'GeoPostal','DE');

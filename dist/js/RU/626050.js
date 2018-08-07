@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626050"]={"code":"626050","region":"Tyumenskaya oblast'","city":"Yarkovo","latitude":57.40278,"longitude":67.07861}}(window,'GeoPostal','RU');

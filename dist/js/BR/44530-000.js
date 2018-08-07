@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44530-000"]={"code":"44530-000","region":"Bahia","city":"Conceicao do Almeida","latitude":-12.77944,"longitude":-39.17}}(window,'GeoPostal','BR');

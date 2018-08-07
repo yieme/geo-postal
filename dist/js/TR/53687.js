@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53687"]={"code":"53687","region":"Rize","city":"Ikizdere","latitude":40.77913,"longitude":40.55888}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0JH"]={"code":"CA11 0JH","region":"England","city":"Watermillock","latitude":54.59436,"longitude":-2.85877}}(window,'GeoPostal','GB');

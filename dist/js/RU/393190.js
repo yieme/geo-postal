@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393190"]={"code":"393190","region":"Tambovskaya oblast'","city":"Kotovsk","latitude":52.58861,"longitude":41.50944}}(window,'GeoPostal','RU');

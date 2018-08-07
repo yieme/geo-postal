@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38316"]={"code":"38316","region":"Tennessee","city":"Bradford","latitude":36.07645,"longitude":-88.81006}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628450"]={"code":"628450","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Barsovo","latitude":61.16667,"longitude":73.16667}}(window,'GeoPostal','RU');

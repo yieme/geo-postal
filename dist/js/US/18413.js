@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18413"]={"code":"18413","region":"PA","city":"Clifford","latitude":41.649,"longitude":-75.5988}}(window,'GeoPostal','US');

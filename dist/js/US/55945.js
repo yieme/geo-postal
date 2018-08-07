@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55945"]={"code":"55945","region":"MN","city":"Kellogg","latitude":44.2739,"longitude":-92.1095}}(window,'GeoPostal','US');

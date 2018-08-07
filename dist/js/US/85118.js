@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85118"]={"code":"85118","region":"AZ","city":"Gold Canyon","latitude":33.3284,"longitude":-111.3502}}(window,'GeoPostal','US');

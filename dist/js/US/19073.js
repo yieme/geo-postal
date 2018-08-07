@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19073"]={"code":"19073","region":"Pennsylvania","city":"Newtown Square","latitude":39.983484,"longitude":-75.414006}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 03"]={"code":"262 03","region":"Stredocesky kraj","city":"Novy Knin","latitude":49.788,"longitude":14.29355}}(window,'GeoPostal','CZ');

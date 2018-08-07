@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64130"]={"code":"64130","region":"Nouvelle-Aquitaine","city":"Mauleon-Licharre","latitude":43.22684,"longitude":-0.88038}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO22 5HD"]={"code":"YO22 5HD","region":"England","city":"Sleights","latitude":54.45506,"longitude":-0.66484}}(window,'GeoPostal','GB');

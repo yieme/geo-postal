@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58021"]={"code":"58021","region":"ND","city":"Davenport","latitude":46.6968,"longitude":-97.0871}}(window,'GeoPostal','US');

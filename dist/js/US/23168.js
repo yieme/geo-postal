@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23168"]={"code":"23168","region":"Virginia","city":"Toano","latitude":37.38,"longitude":-76.80417}}(window,'GeoPostal','US');

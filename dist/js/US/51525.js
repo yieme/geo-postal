@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51525"]={"code":"51525","region":"IA","city":"Carson","latitude":41.2367,"longitude":-95.4181}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16858"]={"code":"16858","region":"PA","city":"Morrisdale","latitude":41.0001,"longitude":-78.2357}}(window,'GeoPostal','US');

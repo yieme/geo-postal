@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48160"]={"code":"48160","region":"Occitanie","city":"Le Collet-de-Deze","latitude":44.2464,"longitude":3.9242}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51490"]={"code":"51490","region":"Grand-Est","city":"Saint-Masmes","latitude":49.3125,"longitude":4.2631}}(window,'GeoPostal','FR');

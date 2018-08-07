@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IG2 6HW"]={"code":"IG2 6HW","region":"England","city":"Ilford","latitude":51.55765,"longitude":0.07278}}(window,'GeoPostal','GB');

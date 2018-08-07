@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311 00"]={"code":"311 00","region":"Ipeiros","city":"Nidri","latitude":38.70708,"longitude":20.70983}}(window,'GeoPostal','GR');

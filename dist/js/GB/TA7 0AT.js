@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 0AT"]={"code":"TA7 0AT","region":"England","city":"Northmoor Green or Moorland","latitude":51.08417,"longitude":-2.94889}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98242"]={"code":"98242","region":"Avtonomna Respublika Krym","city":"Pryozerne","latitude":45.26976,"longitude":36.33025}}(window,'GeoPostal','UA');

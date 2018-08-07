@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 4BQ"]={"code":"PE28 4BQ","region":"England","city":"Little Stukeley","latitude":52.36465,"longitude":-0.22625}}(window,'GeoPostal','GB');

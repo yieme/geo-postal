@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13137"]={"code":"13137","region":"NY","city":"Plainville","latitude":43.1577,"longitude":-76.447}}(window,'GeoPostal','US');

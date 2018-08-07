@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43127"]={"code":"43127","region":"OH","city":"Haydenville","latitude":39.4766,"longitude":-82.3281}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-415"]={"code":"37-415","region":"Podkarpackie","city":"Radomysl","latitude":50.68101,"longitude":21.94365}}(window,'GeoPostal','PL');

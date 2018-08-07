@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64152"]={"code":"64152","region":"Kharkivska oblast","city":"Krasnopavlivka","latitude":49.13643,"longitude":36.31911}}(window,'GeoPostal','UA');

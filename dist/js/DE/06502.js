@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06502"]={"code":"06502","region":"Sachsen-Anhalt","city":"Thale","latitude":51.75257,"longitude":11.03988}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74577"]={"code":"74577","region":"OK","city":"Whitesboro","latitude":34.6926,"longitude":-94.8852}}(window,'GeoPostal','US');

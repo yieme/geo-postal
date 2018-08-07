@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43821"]={"code":"43821","region":"OH","city":"Dresden","latitude":40.1069,"longitude":-81.9998}}(window,'GeoPostal','US');

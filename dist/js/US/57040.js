@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57040"]={"code":"57040","region":"South Dakota","city":"Lesterville","latitude":43.074092,"longitude":-97.545778}}(window,'GeoPostal','US');

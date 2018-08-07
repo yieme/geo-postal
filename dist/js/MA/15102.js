@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15102"]={"code":"15102","region":"Rabat-Sale-Zemmour-Zaer","city":"Oulmes","latitude":33.42585,"longitude":-6.00137}}(window,'GeoPostal','MA');

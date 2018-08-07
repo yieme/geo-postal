@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184200"]={"code":"184200","region":"Murmanskaya oblast'","city":"Apatity","latitude":67.56414,"longitude":33.4031}}(window,'GeoPostal','RU');

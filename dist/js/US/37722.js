@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37722"]={"code":"37722","region":"TN","city":"Cosby","latitude":35.8347,"longitude":-83.2187}}(window,'GeoPostal','US');

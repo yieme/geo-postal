@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04105"]={"code":"04105","region":"Maine","city":"Falmouth","latitude":43.74296,"longitude":-70.28274}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37888"]={"code":"37888","region":"Guanajuato","city":"Celaya","latitude":20.51667,"longitude":-100.81667}}(window,'GeoPostal','MX');

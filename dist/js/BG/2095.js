@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2095"]={"code":"2095","region":"Sofia","city":"Mirkovo","latitude":42.7,"longitude":23.98333}}(window,'GeoPostal','BG');

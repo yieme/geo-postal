@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76890"]={"code":"76890","region":"TX","city":"Zephyr","latitude":31.6694,"longitude":-98.8182}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01001"]={"code":"01001","region":"Adrar","city":"Timimoun","latitude":29.26388,"longitude":0.23098}}(window,'GeoPostal','DZ');

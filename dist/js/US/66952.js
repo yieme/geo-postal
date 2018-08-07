@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66952"]={"code":"66952","region":"KS","city":"Lebanon","latitude":39.8077,"longitude":-98.556}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50225"]={"code":"50225","region":"IA","city":"Pleasantville","latitude":41.3738,"longitude":-93.2712}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62535"]={"code":"62535","region":"Illinois","city":"Forsyth","latitude":39.931008,"longitude":-88.951265}}(window,'GeoPostal','US');

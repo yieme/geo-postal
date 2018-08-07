@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8592"]={"code":"8592","region":"Thurgau","city":"Uttwil","latitude":47.5836,"longitude":9.3424}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11751"]={"code":"11751","region":"New York","city":"Islip","latitude":40.733601,"longitude":-73.21486}}(window,'GeoPostal','US');

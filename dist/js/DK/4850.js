@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4850"]={"code":"4850","region":"Sjelland","city":"Stubbekobing","latitude":54.88875,"longitude":12.04102}}(window,'GeoPostal','DK');

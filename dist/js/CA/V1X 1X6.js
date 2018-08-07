@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1X 1X6"]={"code":"V1X 1X6","region":"British Columbia","city":"Rutland","latitude":49.88892,"longitude":-119.387736}}(window,'GeoPostal','CA');

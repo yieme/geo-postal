@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37033"]={"code":"37033","region":"Tennessee","city":"Centerville","latitude":35.66847,"longitude":-87.69903}}(window,'GeoPostal','US');

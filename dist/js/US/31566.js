@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31566"]={"code":"31566","region":"Georgia","city":"Waynesville","latitude":31.248056,"longitude":-81.821468}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2594"]={"code":"2594","region":"New South Wales","city":"Young","latitude":-34.3135,"longitude":148.30107}}(window,'GeoPostal','AU');

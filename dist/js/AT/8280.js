@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8280"]={"code":"8280","region":"Steiermark","city":"Furstenfeld","latitude":47.05,"longitude":16.08333}}(window,'GeoPostal','AT');

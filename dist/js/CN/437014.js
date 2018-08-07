@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437014"]={"code":"437014","region":"Hubei","city":"Shuangxiqiao","latitude":29.927,"longitude":114.48085}}(window,'GeoPostal','CN');

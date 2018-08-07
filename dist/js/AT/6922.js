@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6922"]={"code":"6922","region":"Vorarlberg","city":"Schwarzach","latitude":47.44904,"longitude":9.76213}}(window,'GeoPostal','AT');

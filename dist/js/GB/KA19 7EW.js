@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA19 7EW"]={"code":"KA19 7EW","region":"Scotland","city":"Maybole","latitude":55.35503,"longitude":-4.68026}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23443"]={"code":"23443","region":"VA","city":"Townsend","latitude":37.1882,"longitude":-75.969}}(window,'GeoPostal','US');

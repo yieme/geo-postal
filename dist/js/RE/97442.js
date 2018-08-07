@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97442"]={"code":"97442","region":"Reunion","city":"Saint-Philippe","latitude":-21.35852,"longitude":55.76795}}(window,'GeoPostal','RE');

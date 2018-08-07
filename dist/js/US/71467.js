@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71467"]={"code":"71467","region":"LA","city":"Pollock","latitude":31.5,"longitude":-92.4005}}(window,'GeoPostal','US');

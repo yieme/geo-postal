@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56565"]={"code":"56565","region":"Minnesota","city":"Nashua","latitude":46.059904,"longitude":-96.346043}}(window,'GeoPostal','US');

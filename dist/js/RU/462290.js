@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462290"]={"code":"462290","region":"Orenburgskaya oblast'","city":"Mednogorsk","latitude":51.4128,"longitude":57.595}}(window,'GeoPostal','RU');

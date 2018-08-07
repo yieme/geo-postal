@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO12 5JH"]={"code":"CO12 5JH","region":"England","city":"Little Oakley","latitude":51.91584,"longitude":1.2227}}(window,'GeoPostal','GB');

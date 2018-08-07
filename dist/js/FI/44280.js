@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44280"]={"code":"44280","region":"Keski-Suomi","city":"Sumiainen","latitude":62.65736,"longitude":26.04642}}(window,'GeoPostal','FI');

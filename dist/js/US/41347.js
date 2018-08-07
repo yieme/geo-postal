@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41347"]={"code":"41347","region":"Kentucky","city":"Lone","latitude":37.53,"longitude":-83.603889}}(window,'GeoPostal','US');

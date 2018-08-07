@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64015"]={"code":"64015","region":"Abruzzo","city":"Nereto","latitude":42.81905,"longitude":13.81599}}(window,'GeoPostal','IT');

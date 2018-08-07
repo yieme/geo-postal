@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21830"]={"code":"21830","region":"Andalucia","city":"Bonares","latitude":37.32423,"longitude":-6.68073}}(window,'GeoPostal','ES');

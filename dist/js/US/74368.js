@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74368"]={"code":"74368","region":"OK","city":"Twin Oaks","latitude":36.2054,"longitude":-94.8513}}(window,'GeoPostal','US');

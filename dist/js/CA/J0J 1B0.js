@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1B0"]={"code":"J0J 1B0","region":"Quebec","city":"Saint-Georges-de-Clarenceville","latitude":45.06678,"longitude":-73.24915}}(window,'GeoPostal','CA');

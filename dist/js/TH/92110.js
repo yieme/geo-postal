@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92110"]={"code":"92110","region":"Trang","city":"Kantang","latitude":7.40542,"longitude":99.51561}}(window,'GeoPostal','TH');

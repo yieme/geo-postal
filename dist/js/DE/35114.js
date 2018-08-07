@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35114"]={"code":"35114","region":"Hessen","city":"Herbelhausen","latitude":51.00415,"longitude":8.97826}}(window,'GeoPostal','DE');

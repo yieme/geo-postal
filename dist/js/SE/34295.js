@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34295"]={"code":"34295","region":"Kronobergs lan","city":"Alvesta","latitude":56.89935,"longitude":14.55559}}(window,'GeoPostal','SE');

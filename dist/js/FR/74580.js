@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74580"]={"code":"74580","region":"Auvergne-Rhone-Alpes","city":"Viry","latitude":46.11717,"longitude":6.03717}}(window,'GeoPostal','FR');

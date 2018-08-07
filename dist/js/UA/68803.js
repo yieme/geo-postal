@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68803"]={"code":"68803","region":"Odeska oblast","city":"Reni","latitude":45.45727,"longitude":28.29317}}(window,'GeoPostal','UA');

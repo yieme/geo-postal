@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3020"]={"code":"3020","region":"Kwazulu-Natal","city":"Ekuvukeni","latitude":-28.46752,"longitude":30.15513}}(window,'GeoPostal','ZA');

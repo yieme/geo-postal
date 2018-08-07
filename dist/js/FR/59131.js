@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59131"]={"code":"59131","region":"Hauts-de-France","city":"Rousies","latitude":50.27346,"longitude":4.00382}}(window,'GeoPostal','FR');

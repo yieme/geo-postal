@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2194"]={"code":"2194","region":"Gauteng","city":"Randburg","latitude":-26.093611,"longitude":28.006389}}(window,'GeoPostal','ZA');

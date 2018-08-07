@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97439"]={"code":"97439","region":"Oregon","city":"Florence","latitude":43.98262,"longitude":-124.09984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87375"]={"code":"87375","region":"NM","city":"Yatahey","latitude":35.4809,"longitude":-108.1767}}(window,'GeoPostal','US');

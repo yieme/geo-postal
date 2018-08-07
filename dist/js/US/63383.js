@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63383"]={"code":"63383","region":"Missouri","city":"Warrenton","latitude":38.81144,"longitude":-91.14154}}(window,'GeoPostal','US');

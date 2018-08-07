@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-290"]={"code":"98-290","region":"Lodzkie","city":"Warta","latitude":51.71049,"longitude":18.62483}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17091"]={"code":"17091","region":"Mecklenburg-Vorpommern","city":"Wildberg","latitude":53.65,"longitude":13.11667}}(window,'GeoPostal','DE');

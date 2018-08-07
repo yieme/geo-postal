@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18972"]={"code":"18972","region":"PA","city":"Upper Black Eddy","latitude":40.5411,"longitude":-75.1259}}(window,'GeoPostal','US');

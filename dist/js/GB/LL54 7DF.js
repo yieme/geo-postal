@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL54 7DF"]={"code":"LL54 7DF","region":"Wales","city":"Groeslon","latitude":53.07871,"longitude":-4.28061}}(window,'GeoPostal','GB');

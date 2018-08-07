@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61007"]={"code":"61007","region":"IL","city":"Baileyville","latitude":42.1905,"longitude":-89.5939}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23837"]={"code":"23837","region":"Virginia","city":"Courtland","latitude":36.71626,"longitude":-77.06802}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56729"]={"code":"56729","region":"MN","city":"Halma","latitude":48.6669,"longitude":-96.5969}}(window,'GeoPostal','US');

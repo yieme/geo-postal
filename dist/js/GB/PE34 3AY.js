@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 3AY"]={"code":"PE34 3AY","region":"England","city":"Wiggenhall Saint Peter","latitude":52.68333,"longitude":0.36667}}(window,'GeoPostal','GB');

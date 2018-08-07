@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40801"]={"code":"40801","region":"Kentucky","city":"Ages Brookside","latitude":36.859167,"longitude":-83.249444}}(window,'GeoPostal','US');

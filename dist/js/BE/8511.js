@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8511"]={"code":"8511","region":"West-Vlaanderen","city":"Kortrijk","latitude":50.82803,"longitude":3.26487}}(window,'GeoPostal','BE');

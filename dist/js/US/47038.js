@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47038"]={"code":"47038","region":"Indiana","city":"Patriot","latitude":38.8365,"longitude":-84.8436}}(window,'GeoPostal','US');

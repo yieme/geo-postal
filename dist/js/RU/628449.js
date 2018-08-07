@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628449"]={"code":"628449","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Lyantor","latitude":61.61945,"longitude":72.15546}}(window,'GeoPostal','RU');

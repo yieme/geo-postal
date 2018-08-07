@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59735"]={"code":"59735","region":"Montana","city":"Harrison","latitude":45.731886,"longitude":-111.802444}}(window,'GeoPostal','US');

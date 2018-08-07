@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4703"]={"code":"4703","region":"Vest-Agder","city":"Vennesla","latitude":58.26936,"longitude":7.97413}}(window,'GeoPostal','NO');

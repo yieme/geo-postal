@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45677"]={"code":"45677","region":"OH","city":"Scioto Furnace","latitude":38.7941,"longitude":-82.7555}}(window,'GeoPostal','US');

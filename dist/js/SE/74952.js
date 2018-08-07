@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74952"]={"code":"74952","region":"Uppsala lan","city":"Grillby","latitude":59.61667,"longitude":17.25}}(window,'GeoPostal','SE');

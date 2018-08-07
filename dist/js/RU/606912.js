@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606912"]={"code":"606912","region":"Nizhegorodskaya oblast'","city":"Shakhun'ya","latitude":57.67579,"longitude":46.61136}}(window,'GeoPostal','RU');

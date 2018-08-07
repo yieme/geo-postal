@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM12 0EQ"]={"code":"CM12 0EQ","region":"England","city":"Billericay","latitude":51.62867,"longitude":0.41963}}(window,'GeoPostal','GB');

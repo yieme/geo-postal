@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 2RS"]={"code":"CB10 2RS","region":"England","city":"Great Sampford","latitude":51.99225,"longitude":0.39139}}(window,'GeoPostal','GB');

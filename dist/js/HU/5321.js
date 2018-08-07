@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5321"]={"code":"5321","region":"Jasz-Nagykun-Szolnok","city":"Kunmadaras","latitude":47.43333,"longitude":20.8}}(window,'GeoPostal','HU');

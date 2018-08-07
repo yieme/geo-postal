@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0T 1L0"]={"code":"B0T 1L0","region":"Nova Scotia","city":"Lockeport","latitude":43.70016,"longitude":-65.1155}}(window,'GeoPostal','CA');

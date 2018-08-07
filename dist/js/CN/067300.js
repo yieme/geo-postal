@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["067300"]={"code":"067300","region":"Hebei","city":"Xinglong","latitude":40.466667,"longitude":117.466667}}(window,'GeoPostal','CN');

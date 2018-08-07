@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7009"]={"code":"7009","region":"Tasmania","city":"Moonah","latitude":-42.85,"longitude":147.3}}(window,'GeoPostal','AU');

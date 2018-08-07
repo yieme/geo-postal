@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62820"]={"code":"62820","region":"IL","city":"Burnt Prairie","latitude":38.2082,"longitude":-88.2147}}(window,'GeoPostal','US');

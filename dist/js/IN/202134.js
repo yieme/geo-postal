@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202134"]={"code":"202134","region":"Uttar Pradesh","city":"Kasganj","latitude":27.81667,"longitude":78.65}}(window,'GeoPostal','IN');

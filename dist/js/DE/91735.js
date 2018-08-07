@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91735"]={"code":"91735","region":"Bayern","city":"Oberhambach","latitude":49.12516,"longitude":10.66895}}(window,'GeoPostal','DE');

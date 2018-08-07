@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16-060"]={"code":"16-060","region":"Podlaskie","city":"Zabludow","latitude":53.01442,"longitude":23.33831}}(window,'GeoPostal','PL');

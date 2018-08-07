@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47369"]={"code":"47369","region":"IN","city":"Pennville","latitude":40.5082,"longitude":-85.1492}}(window,'GeoPostal','US');

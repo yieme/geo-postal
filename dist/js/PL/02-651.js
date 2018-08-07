@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02-651"]={"code":"02-651","region":"Lubelskie","city":"Radzyn Podlaski","latitude":51.78333,"longitude":22.61667}}(window,'GeoPostal','PL');

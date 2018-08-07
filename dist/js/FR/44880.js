@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44880"]={"code":"44880","region":"Pays-de-la-Loire","city":"Sautron","latitude":47.26274,"longitude":-1.67107}}(window,'GeoPostal','FR');

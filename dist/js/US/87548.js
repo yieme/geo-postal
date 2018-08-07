@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87548"]={"code":"87548","region":"New Mexico","city":"Medanales","latitude":36.154602,"longitude":-106.236105}}(window,'GeoPostal','US');

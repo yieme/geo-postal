@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08020"]={"code":"08020","region":"Sardegna","city":"Posada","latitude":40.63197,"longitude":9.71644}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39603"]={"code":"39603","region":"MS","city":"Brookhaven","latitude":31.6123,"longitude":-90.4467}}(window,'GeoPostal','US');

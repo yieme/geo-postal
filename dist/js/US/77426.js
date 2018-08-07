@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77426"]={"code":"77426","region":"TX","city":"Chappell Hill","latitude":30.1833,"longitude":-96.2347}}(window,'GeoPostal','US');

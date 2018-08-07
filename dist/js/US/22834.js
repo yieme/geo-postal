@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22834"]={"code":"22834","region":"VA","city":"Linville","latitude":38.5557,"longitude":-78.8961}}(window,'GeoPostal','US');

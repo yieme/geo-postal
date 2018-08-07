@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["TL"]={id:'TL',country:'Timor-Leste', postal:{'':{code:'',region:'Dili',city:'Dili',latitude:-8.55861,longitude:125.57361}}};

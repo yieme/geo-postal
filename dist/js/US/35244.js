@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35244"]={"code":"35244","region":"Alabama","city":"Hoover","latitude":33.363685,"longitude":-86.787766}}(window,'GeoPostal','US');

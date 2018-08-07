@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29541"]={"code":"29541","region":"South Carolina","city":"Effingham","latitude":34.118063,"longitude":-79.773139}}(window,'GeoPostal','US');

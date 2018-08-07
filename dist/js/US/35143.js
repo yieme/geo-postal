@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35143"]={"code":"35143","region":"AL","city":"Shelby","latitude":33.0785,"longitude":-86.5536}}(window,'GeoPostal','US');

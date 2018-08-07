@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453856"]={"code":"453856","region":"Bashkortostan, Respublika","city":"Meleuz","latitude":52.96667,"longitude":55.91667}}(window,'GeoPostal','RU');

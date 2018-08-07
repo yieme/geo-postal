@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907230"]={"code":"907230","region":"Ilfov","city":"Pantelimon","latitude":44.45,"longitude":26.2}}(window,'GeoPostal','RO');

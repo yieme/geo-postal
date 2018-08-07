@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12546"]={"code":"12546","region":"NY","city":"Millerton","latitude":41.9536,"longitude":-73.5287}}(window,'GeoPostal','US');

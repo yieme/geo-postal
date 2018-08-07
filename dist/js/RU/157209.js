@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157209"]={"code":"157209","region":"Kostromskaya oblast'","city":"Galich","latitude":58.37884,"longitude":42.34633}}(window,'GeoPostal','RU');

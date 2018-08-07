@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55481"]={"code":"55481","region":"Rheinland-Pfalz","city":"Kirchberg","latitude":49.94395,"longitude":7.407}}(window,'GeoPostal','DE');

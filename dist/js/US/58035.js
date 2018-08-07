@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58035"]={"code":"58035","region":"ND","city":"Galesburg","latitude":47.27,"longitude":-97.4065}}(window,'GeoPostal','US');

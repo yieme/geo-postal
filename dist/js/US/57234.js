@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57234"]={"code":"57234","region":"SD","city":"Estelline","latitude":44.6029,"longitude":-96.8928}}(window,'GeoPostal','US');

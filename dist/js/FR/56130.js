@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56130"]={"code":"56130","region":"Bretagne","city":"Nivillac","latitude":47.53371,"longitude":-2.28298}}(window,'GeoPostal','FR');

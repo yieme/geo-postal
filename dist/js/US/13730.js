@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13730"]={"code":"13730","region":"NY","city":"Afton","latitude":42.2417,"longitude":-75.5366}}(window,'GeoPostal','US');

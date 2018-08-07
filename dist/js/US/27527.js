@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27527"]={"code":"27527","region":"NC","city":"Clayton","latitude":35.6577,"longitude":-78.3837}}(window,'GeoPostal','US');

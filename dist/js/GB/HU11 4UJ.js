@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU11 4UJ"]={"code":"HU11 4UJ","region":"England","city":"Great Cowden","latitude":53.86553,"longitude":-0.13479}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06847"]={"code":"06847","region":"Sachsen-Anhalt","city":"Dessau","latitude":51.83864,"longitude":12.24555}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125300"]={"code":"125300","region":"Buzau","city":"Rimnicu Sarat","latitude":45.38333,"longitude":27.05}}(window,'GeoPostal','RO');

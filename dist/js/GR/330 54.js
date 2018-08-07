@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 54"]={"code":"330 54","region":"Sterea Ellada","city":"Dhelfoi","latitude":38.48333,"longitude":22.5}}(window,'GeoPostal','GR');

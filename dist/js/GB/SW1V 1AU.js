@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SW1V 1AU"]={"code":"SW1V 1AU","region":"Scotland","city":"Wilton","latitude":55.43333,"longitude":-2.78333}}(window,'GeoPostal','GB');

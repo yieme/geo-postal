@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72040"]={"code":"72040","region":"AR","city":"Des Arc","latitude":34.9751,"longitude":-91.5113}}(window,'GeoPostal','US');

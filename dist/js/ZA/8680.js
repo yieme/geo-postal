@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8680"]={"code":"8680","region":"North-West","city":"Vryburg","latitude":-26.95659,"longitude":24.7284}}(window,'GeoPostal','ZA');

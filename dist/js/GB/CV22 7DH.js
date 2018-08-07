@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV22 7DH"]={"code":"CV22 7DH","region":"England","city":"Rugby","latitude":52.37092,"longitude":-1.26417}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55002"]={"code":"55002","region":"MN","city":"Almelund","latitude":45.5134,"longitude":-92.8942}}(window,'GeoPostal','US');

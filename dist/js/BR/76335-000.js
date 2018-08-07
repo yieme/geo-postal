@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76335-000"]={"code":"76335-000","region":"Goias","city":"Uruana","latitude":-15.49806,"longitude":-49.6875}}(window,'GeoPostal','BR');

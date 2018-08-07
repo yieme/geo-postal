@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26386"]={"code":"26386","region":"WV","city":"Lumberport","latitude":39.3781,"longitude":-80.3676}}(window,'GeoPostal','US');

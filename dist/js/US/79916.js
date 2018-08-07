@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79916"]={"code":"79916","region":"TX","city":"Fort Bliss","latitude":31.8136,"longitude":-106.4122}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9860"]={"code":"9860","region":"Oost-Vlaanderen","city":"Oosterzele","latitude":50.95261,"longitude":3.79826}}(window,'GeoPostal','BE');

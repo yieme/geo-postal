@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91757"]={"code":"91757","region":"Bayern","city":"Treuchtlingen","latitude":48.95473,"longitude":10.90833}}(window,'GeoPostal','DE');

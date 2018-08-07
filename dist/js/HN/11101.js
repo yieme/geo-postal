@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11101"]={"code":"11101","region":"Francisco Morazan","city":"Tegucigalpa","latitude":14.0818,"longitude":-87.20681}}(window,'GeoPostal','HN');

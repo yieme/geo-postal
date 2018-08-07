@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6215-175"]={"code":"6215-175","region":"Castelo Branco","city":"Covilha","latitude":40.28601,"longitude":-7.50396}}(window,'GeoPostal','PT');

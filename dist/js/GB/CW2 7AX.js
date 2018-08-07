@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW2 7AX"]={"code":"CW2 7AX","region":"England","city":"Crewe","latitude":53.09787,"longitude":-2.44161}}(window,'GeoPostal','GB');

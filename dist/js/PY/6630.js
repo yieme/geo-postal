@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6630"]={"code":"6630","region":"Itapua","city":"Arquitecto Tomas Romero Pereira","latitude":-26.48333,"longitude":-55.25}}(window,'GeoPostal','PY');

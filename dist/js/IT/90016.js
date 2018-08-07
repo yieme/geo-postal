@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90016"]={"code":"90016","region":"Sicilia","city":"Collesano","latitude":37.91835,"longitude":13.93566}}(window,'GeoPostal','IT');

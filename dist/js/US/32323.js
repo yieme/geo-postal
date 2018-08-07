@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32323"]={"code":"32323","region":"FL","city":"Lanark Village","latitude":29.8826,"longitude":-84.5964}}(window,'GeoPostal','US');

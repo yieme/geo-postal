@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18720-000"]={"code":"18720-000","region":"Sao Paulo","city":"Paranapanema","latitude":-23.38861,"longitude":-48.72278}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 4JJ"]={"code":"CA7 4JJ","region":"Scotland","city":"Blitterlees","latitude":54.85744,"longitude":-3.38842}}(window,'GeoPostal','GB');

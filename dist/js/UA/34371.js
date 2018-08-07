@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34371"]={"code":"34371","region":"Rivnenska oblast","city":"Kuznetsovs'k","latitude":51.68333,"longitude":25.86667}}(window,'GeoPostal','UA');

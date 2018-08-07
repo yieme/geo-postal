@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659417"]={"code":"659417","region":"Altayskiy kray","city":"Sokolovo","latitude":52.5318,"longitude":84.7896}}(window,'GeoPostal','RU');

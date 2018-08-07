@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56160"]={"code":"56160","region":"Bretagne","city":"Guemene-sur-Scorff","latitude":48.06667,"longitude":-3.2}}(window,'GeoPostal','FR');

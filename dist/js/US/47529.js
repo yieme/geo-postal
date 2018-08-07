@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47529"]={"code":"47529","region":"Indiana","city":"Elnora","latitude":38.876339,"longitude":-87.084985}}(window,'GeoPostal','US');

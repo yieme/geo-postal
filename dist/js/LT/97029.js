@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97029"]={"code":"97029","region":"Klaipedos apskritis","city":"Sventoji","latitude":56.03333,"longitude":21.08333}}(window,'GeoPostal','LT');

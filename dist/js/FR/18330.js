@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18330"]={"code":"18330","region":"Centre-Val de Loire","city":"Neuvy-sur-Barangeon","latitude":47.31495,"longitude":2.25343}}(window,'GeoPostal','FR');

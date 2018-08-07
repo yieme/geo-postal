@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B49 5QG"]={"code":"B49 5QG","region":"England","city":"Alcester","latitude":52.21667,"longitude":-1.86667}}(window,'GeoPostal','GB');

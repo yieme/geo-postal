@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH38 5YN"]={"code":"EH38 5YN","region":"Scotland","city":"Heriot","latitude":55.77993,"longitude":-2.9545}}(window,'GeoPostal','GB');

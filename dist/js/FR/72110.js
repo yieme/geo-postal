@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72110"]={"code":"72110","region":"Pays-de-la-Loire","city":"Bonnetable","latitude":48.17908,"longitude":0.4257}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31420"]={"code":"31420","region":"Occitanie","city":"Aurignac","latitude":43.21695,"longitude":0.88176}}(window,'GeoPostal','FR');

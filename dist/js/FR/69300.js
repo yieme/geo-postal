@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69300"]={"code":"69300","region":"Auvergne-Rhone-Alpes","city":"Caluire-et-Cuire","latitude":45.79041,"longitude":4.84112}}(window,'GeoPostal','FR');

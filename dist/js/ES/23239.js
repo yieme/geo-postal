@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23239"]={"code":"23239","region":"Andalucia","city":"Navas de San Juan","latitude":38.18382,"longitude":-3.31598}}(window,'GeoPostal','ES');

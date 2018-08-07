@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68170-000"]={"code":"68170-000","region":"Para","city":"Oriximina","latitude":-1.76556,"longitude":-55.86611}}(window,'GeoPostal','BR');

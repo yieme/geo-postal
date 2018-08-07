@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15362"]={"code":"15362","region":"Sremski okrug","city":"Ravnje","latitude":44.94361,"longitude":19.42167}}(window,'GeoPostal','RS');

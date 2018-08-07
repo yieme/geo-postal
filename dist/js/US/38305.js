@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38305"]={"code":"38305","region":"Tennessee","city":"Jackson","latitude":35.68323,"longitude":-88.823987}}(window,'GeoPostal','US');

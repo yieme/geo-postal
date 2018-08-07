@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3606"]={"code":"3606","region":"Vayoc Jor","city":"Getap'","latitude":39.76306,"longitude":45.30664}}(window,'GeoPostal','AM');

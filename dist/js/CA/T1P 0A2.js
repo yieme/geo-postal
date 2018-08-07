@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1P 0A2"]={"code":"T1P 0A2","region":"Alberta","city":"Strathmore","latitude":51.05011,"longitude":-113.38523}}(window,'GeoPostal','CA');

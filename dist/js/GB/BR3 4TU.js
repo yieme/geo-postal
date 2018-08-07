@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR3 4TU"]={"code":"BR3 4TU","region":"England","city":"Beckenham","latitude":51.40878,"longitude":-0.02526}}(window,'GeoPostal','GB');

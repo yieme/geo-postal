@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3351"]={"code":"3351","region":"Buskerud","city":"Prestfoss","latitude":60.04223,"longitude":9.63022}}(window,'GeoPostal','NO');

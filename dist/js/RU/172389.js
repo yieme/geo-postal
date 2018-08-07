@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172389"]={"code":"172389","region":"Tverskaya oblast'","city":"Rzhev","latitude":56.26241,"longitude":34.32817}}(window,'GeoPostal','RU');

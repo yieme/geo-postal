@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 6612"]={"code":"AZ 6612","region":"Yevlax","city":"Yevlakh","latitude":40.61832,"longitude":47.15014}}(window,'GeoPostal','AZ');

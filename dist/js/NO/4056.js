@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4056"]={"code":"4056","region":"Rogaland","city":"Tananger","latitude":58.93333,"longitude":5.6}}(window,'GeoPostal','NO');

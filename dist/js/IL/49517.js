@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49517"]={"code":"49517","region":"HaMerkaz","city":"Petah Tikva","latitude":32.09174,"longitude":34.88503}}(window,'GeoPostal','IL');

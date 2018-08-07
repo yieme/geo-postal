@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412457"]={"code":"412457","region":"Saratovskaya oblast'","city":"Yekaterinovka","latitude":52.05083,"longitude":44.34515}}(window,'GeoPostal','RU');

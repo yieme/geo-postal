@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61748"]={"code":"61748","region":"IL","city":"Hudson","latitude":40.6205,"longitude":-88.9759}}(window,'GeoPostal','US');

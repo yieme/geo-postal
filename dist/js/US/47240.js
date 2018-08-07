@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47240"]={"code":"47240","region":"Indiana","city":"Greensburg","latitude":39.33696,"longitude":-85.45392}}(window,'GeoPostal','US');

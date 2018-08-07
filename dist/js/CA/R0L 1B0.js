@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1B0"]={"code":"R0L 1B0","region":"Manitoba","city":"Mafeking","latitude":52.68365,"longitude":-101.11088}}(window,'GeoPostal','CA');

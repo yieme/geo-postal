@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28819"]={"code":"28819","region":"Piemonte","city":"Vignone","latitude":45.96118,"longitude":8.56372}}(window,'GeoPostal','IT');

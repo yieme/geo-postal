@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447260"]={"code":"447260","region":"Satu Mare","city":"Sanislau","latitude":47.63333,"longitude":22.33333}}(window,'GeoPostal','RO');

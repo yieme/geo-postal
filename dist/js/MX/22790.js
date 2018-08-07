@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22790"]={"code":"22790","region":"Baja California","city":"Maneadero","latitude":31.71667,"longitude":-116.56667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64850"]={"code":"64850","region":"Hessen","city":"Schaafheim","latitude":49.92417,"longitude":9.00944}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572332"]={"code":"572332","region":"Hainan","city":"Baocheng","latitude":18.64028,"longitude":109.69944}}(window,'GeoPostal','CN');

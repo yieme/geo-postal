@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84510"]={"code":"84510","region":"UT","city":"Aneth","latitude":37.2161,"longitude":-109.1871}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49088"]={"code":"49088","region":"MI","city":"Scotts","latitude":42.1819,"longitude":-85.4685}}(window,'GeoPostal','US');

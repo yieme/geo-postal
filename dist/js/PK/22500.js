@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22500"]={"code":"22500","region":"Khyber Pakhtunkhwa","city":"Havelian","latitude":34.0536,"longitude":73.16571}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63746"]={"code":"63746","region":"MO","city":"Farrar","latitude":37.7078,"longitude":-89.6948}}(window,'GeoPostal','US');

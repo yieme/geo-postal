@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU35 9QE"]={"code":"GU35 9QE","region":"England","city":"Bordon","latitude":51.11357,"longitude":-0.86245}}(window,'GeoPostal','GB');

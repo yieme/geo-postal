@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1B0"]={"code":"T0M 1B0","region":"Alberta","city":"Irricana","latitude":51.32372,"longitude":-113.60475}}(window,'GeoPostal','CA');

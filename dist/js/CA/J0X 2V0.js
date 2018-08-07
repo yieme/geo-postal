@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 2V0"]={"code":"J0X 2V0","region":"Quebec","city":"Pontiac","latitude":45.58341,"longitude":-76.13267}}(window,'GeoPostal','CA');

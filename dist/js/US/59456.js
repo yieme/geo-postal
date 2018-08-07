@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59456"]={"code":"59456","region":"MT","city":"Ledger","latitude":48.2643,"longitude":-111.3886}}(window,'GeoPostal','US');

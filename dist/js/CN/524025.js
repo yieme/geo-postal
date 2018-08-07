@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524025"]={"code":"524025","region":"Guangdong","city":"Xiashan","latitude":23.24981,"longitude":116.42712}}(window,'GeoPostal','CN');

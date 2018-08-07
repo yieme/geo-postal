@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352100"]={"code":"352100","region":"Fujian","city":"Ningde","latitude":26.66167,"longitude":119.52278}}(window,'GeoPostal','CN');

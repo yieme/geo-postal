@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW1 0QG"]={"code":"NW1 0QG","region":"England","city":"Kings Cross","latitude":51.54299,"longitude":-0.13081}}(window,'GeoPostal','GB');

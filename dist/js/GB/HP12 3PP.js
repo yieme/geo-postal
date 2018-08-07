@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP12 3PP"]={"code":"HP12 3PP","region":"England","city":"High Wycombe","latitude":51.62907,"longitude":-0.74934}}(window,'GeoPostal','GB');

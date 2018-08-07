@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99143"]={"code":"99143","region":"Washington","city":"Lacrosse","latitude":46.77354,"longitude":-117.86316}}(window,'GeoPostal','US');

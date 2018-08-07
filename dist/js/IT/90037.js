@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90037"]={"code":"90037","region":"Basilicata","city":"Scanzano","latitude":40.24982,"longitude":16.69839}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50130"]={"code":"50130","region":"IA","city":"Jewell","latitude":42.3139,"longitude":-93.6428}}(window,'GeoPostal','US');

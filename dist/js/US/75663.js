@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75663"]={"code":"75663","region":"Texas","city":"Kilgore","latitude":32.377765,"longitude":-94.864261}}(window,'GeoPostal','US');

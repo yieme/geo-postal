@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48180-000"]={"code":"48180-000","region":"Bahia","city":"Entre Rios","latitude":-11.94194,"longitude":-38.08444}}(window,'GeoPostal','BR');

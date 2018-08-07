@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88524"]={"code":"88524","region":"Baden-Wurttemberg","city":"Uttenweiler","latitude":48.15,"longitude":9.61667}}(window,'GeoPostal','DE');

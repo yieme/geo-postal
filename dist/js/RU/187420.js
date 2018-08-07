@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187420"]={"code":"187420","region":"Leningradskaya oblast'","city":"Syas'stroy","latitude":60.13669,"longitude":32.56906}}(window,'GeoPostal','RU');

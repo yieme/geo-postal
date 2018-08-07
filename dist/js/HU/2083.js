@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2083"]={"code":"2083","region":"Pest","city":"Solymar","latitude":47.59246,"longitude":18.93212}}(window,'GeoPostal','HU');

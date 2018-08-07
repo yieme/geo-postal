@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B67 6LE"]={"code":"B67 6LE","region":"England","city":"Smethwick","latitude":52.49699,"longitude":-1.97305}}(window,'GeoPostal','GB');

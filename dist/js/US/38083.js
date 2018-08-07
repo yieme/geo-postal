@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38083"]={"code":"38083","region":"TN","city":"Millington","latitude":35.2017,"longitude":-89.9715}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-830"]={"code":"64-830","region":"Wielkopolskie","city":"Margonin","latitude":52.97335,"longitude":17.09464}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617160"]={"code":"617160","region":"Neamt","city":"Doljesti","latitude":47.03333,"longitude":26.98333}}(window,'GeoPostal','RO');

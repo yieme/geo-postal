@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40560"]={"code":"40560","region":"Nouvelle-Aquitaine","city":"Vielle-Saint-Girons","latitude":43.95,"longitude":-1.3}}(window,'GeoPostal','FR');

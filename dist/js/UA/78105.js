@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78105"]={"code":"78105","region":"Ivano-Frankivska oblast","city":"Horodenka","latitude":48.67274,"longitude":25.50163}}(window,'GeoPostal','UA');

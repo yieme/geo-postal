@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48013"]={"code":"48013","region":"Emilia-Romagna","city":"Brisighella","latitude":44.22166,"longitude":11.77483}}(window,'GeoPostal','IT');

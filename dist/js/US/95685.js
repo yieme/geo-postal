@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95685"]={"code":"95685","region":"California","city":"Sutter Creek","latitude":38.39297,"longitude":-120.80244}}(window,'GeoPostal','US');

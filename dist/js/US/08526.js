@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08526"]={"code":"08526","region":"NJ","city":"Imlaystown","latitude":40.1623,"longitude":-74.4759}}(window,'GeoPostal','US');

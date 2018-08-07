@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98545"]={"code":"98545","region":"Avtonomna Respublika Krym","city":"Partenit","latitude":44.578,"longitude":34.34464}}(window,'GeoPostal','UA');

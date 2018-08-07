@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25438"]={"code":"25438","region":"West Virginia","city":"Ranson","latitude":39.2951,"longitude":-77.86055}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN8 4LY"]={"code":"BN8 4LY","region":"England","city":"Newick","latitude":50.97518,"longitude":0.01579}}(window,'GeoPostal','GB');

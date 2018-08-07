@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 5LP"]={"code":"EX39 5LP","region":"England","city":"Buckland Brewer","latitude":50.96548,"longitude":-4.25274}}(window,'GeoPostal','GB');

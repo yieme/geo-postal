@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5069"]={"code":"5069","region":"South Australia","city":"St Peters","latitude":-34.90498,"longitude":138.62255}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74365"]={"code":"74365","region":"Oklahoma","city":"Salina","latitude":36.294906,"longitude":-95.153273}}(window,'GeoPostal','US');

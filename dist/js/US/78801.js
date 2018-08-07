@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78801"]={"code":"78801","region":"Texas","city":"Uvalde","latitude":29.20968,"longitude":-99.78617}}(window,'GeoPostal','US');

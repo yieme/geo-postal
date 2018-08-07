@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84304"]={"code":"84304","region":"Sonora","city":"Agua Prieta","latitude":31.3,"longitude":-109.56667}}(window,'GeoPostal','MX');

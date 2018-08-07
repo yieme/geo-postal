@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14400-000"]={"code":"14400-000","region":"Sao Paulo","city":"Franca","latitude":-20.53861,"longitude":-47.40083}}(window,'GeoPostal','BR');

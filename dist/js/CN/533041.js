@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533041"]={"code":"533041","region":"Guangxi","city":"Baise","latitude":23.9,"longitude":106.616667}}(window,'GeoPostal','CN');

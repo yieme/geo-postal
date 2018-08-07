@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11007"]={"code":"11007","region":"Retalhuleu","city":"Champerico","latitude":14.3,"longitude":-91.91667}}(window,'GeoPostal','GT');

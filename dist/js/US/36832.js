@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36832"]={"code":"36832","region":"Alabama","city":"Auburn","latitude":32.5929,"longitude":-85.480322}}(window,'GeoPostal','US');

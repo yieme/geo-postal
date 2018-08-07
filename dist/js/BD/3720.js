@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3720"]={"code":"3720","region":"Chittagong","city":"Ramganj","latitude":23.1,"longitude":90.85}}(window,'GeoPostal','BD');

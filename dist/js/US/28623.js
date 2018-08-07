@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28623"]={"code":"28623","region":"North Carolina","city":"Ennice","latitude":36.52932,"longitude":-80.96922}}(window,'GeoPostal','US');

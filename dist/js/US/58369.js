@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58369"]={"code":"58369","region":"ND","city":"Saint John","latitude":48.9366,"longitude":-99.7648}}(window,'GeoPostal','US');

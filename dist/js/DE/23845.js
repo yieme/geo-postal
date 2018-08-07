@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23845"]={"code":"23845","region":"Sachsen-Anhalt","city":"Borstel","latitude":52.64134,"longitude":11.83517}}(window,'GeoPostal','DE');

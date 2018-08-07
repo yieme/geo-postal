@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0X0"]={"code":"T0B 0X0","region":"Alberta","city":"Rusylvia","latitude":53.61686,"longitude":-110.83499}}(window,'GeoPostal','CA');

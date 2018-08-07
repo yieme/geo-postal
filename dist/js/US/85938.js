@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85938"]={"code":"85938","region":"Arizona","city":"Springerville","latitude":34.13338,"longitude":-109.28592}}(window,'GeoPostal','US');

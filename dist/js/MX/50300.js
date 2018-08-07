@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50300"]={"code":"50300","region":"Mexico","city":"Acambay","latitude":19.95583,"longitude":-99.84167}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35491"]={"code":"35491","region":"AL","city":"West Greene","latitude":32.9237,"longitude":-88.0853}}(window,'GeoPostal','US');

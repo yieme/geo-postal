@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH47 9LP"]={"code":"EH47 9LP","region":"Scotland","city":"Fauldhouse","latitude":55.82749,"longitude":-3.70741}}(window,'GeoPostal','GB');

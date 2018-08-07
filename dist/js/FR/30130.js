@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30130"]={"code":"30130","region":"Occitanie","city":"Saint-Paulet-de-Caisson","latitude":44.26055,"longitude":4.59785}}(window,'GeoPostal','FR');

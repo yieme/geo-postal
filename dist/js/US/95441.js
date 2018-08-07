@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95441"]={"code":"95441","region":"California","city":"Geyserville","latitude":38.705819,"longitude":-122.885982}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2440"]={"code":"2440","region":"Hedmark","city":"Engerdal","latitude":61.75832,"longitude":11.95985}}(window,'GeoPostal','NO');

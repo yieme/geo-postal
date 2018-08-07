@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80650"]={"code":"80650","region":"CO","city":"Pierce","latitude":40.6359,"longitude":-104.7638}}(window,'GeoPostal','US');

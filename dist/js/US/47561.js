@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47561"]={"code":"47561","region":"IN","city":"Oaktown","latitude":38.8579,"longitude":-87.3879}}(window,'GeoPostal','US');

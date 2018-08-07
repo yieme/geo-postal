@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29922"]={"code":"29922","region":"SC","city":"Garnett","latitude":32.6007,"longitude":-81.2396}}(window,'GeoPostal','US');

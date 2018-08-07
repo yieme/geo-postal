@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68413"]={"code":"68413","region":"NE","city":"Nehawka","latitude":40.833,"longitude":-95.993}}(window,'GeoPostal','US');

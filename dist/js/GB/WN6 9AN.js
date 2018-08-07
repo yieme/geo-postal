@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN6 9AN"]={"code":"WN6 9AN","region":"England","city":"Appley Bridge","latitude":53.57781,"longitude":-2.7209}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3900"]={"code":"3900","region":"Kwazulu-Natal","city":"Richards Bay","latitude":-28.78301,"longitude":32.03768}}(window,'GeoPostal','ZA');

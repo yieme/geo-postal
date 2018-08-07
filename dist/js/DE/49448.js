@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49448"]={"code":"49448","region":"Niedersachsen","city":"Hagewede","latitude":52.48249,"longitude":8.38589}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24440"]={"code":"24440","region":"Nouvelle-Aquitaine","city":"Saint-Avit-Senieur","latitude":44.7756,"longitude":0.8172}}(window,'GeoPostal','FR');

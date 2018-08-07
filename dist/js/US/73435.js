@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73435"]={"code":"73435","region":"OK","city":"Fox","latitude":34.3488,"longitude":-97.4924}}(window,'GeoPostal','US');

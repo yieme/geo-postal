@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05837"]={"code":"05837","region":"VT","city":"East Haven","latitude":44.6517,"longitude":-71.8675}}(window,'GeoPostal','US');

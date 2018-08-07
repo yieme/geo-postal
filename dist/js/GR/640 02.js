@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640 02"]={"code":"640 02","region":"Anatoliki Makedonia kai Thraki","city":"Limenaria","latitude":40.62607,"longitude":24.57856}}(window,'GeoPostal','GR');

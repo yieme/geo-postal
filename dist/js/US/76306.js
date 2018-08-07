@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76306"]={"code":"76306","region":"Texas","city":"Wichita Falls","latitude":33.978459,"longitude":-98.521274}}(window,'GeoPostal','US');

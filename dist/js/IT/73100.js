@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73100"]={"code":"73100","region":"Puglia","city":"Lecce","latitude":40.35703,"longitude":18.17202}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56373"]={"code":"56373","region":"MN","city":"Royalton","latitude":45.8589,"longitude":-94.2211}}(window,'GeoPostal','US');

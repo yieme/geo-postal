@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38683"]={"code":"38683","region":"Mississippi","city":"Walnut","latitude":34.94412,"longitude":-88.9032}}(window,'GeoPostal','US');

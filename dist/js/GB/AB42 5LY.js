@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB42 5LY"]={"code":"AB42 5LY","region":"Scotland","city":"Maud","latitude":57.52165,"longitude":-2.1257}}(window,'GeoPostal','GB');

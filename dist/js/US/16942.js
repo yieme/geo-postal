@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16942"]={"code":"16942","region":"Pennsylvania","city":"Osceola","latitude":41.985292,"longitude":-77.347784}}(window,'GeoPostal','US');

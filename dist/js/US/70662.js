@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70662"]={"code":"70662","region":"Louisiana","city":"Sugartown","latitude":30.833067,"longitude":-93.019993}}(window,'GeoPostal','US');

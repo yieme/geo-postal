@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92282"]={"code":"92282","region":"CA","city":"Whitewater","latitude":33.989,"longitude":-116.6566}}(window,'GeoPostal','US');

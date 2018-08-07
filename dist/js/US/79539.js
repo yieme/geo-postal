@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79539"]={"code":"79539","region":"TX","city":"O Brien","latitude":33.3749,"longitude":-99.8473}}(window,'GeoPostal','US');

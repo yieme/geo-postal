@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08120"]={"code":"08120","region":"Grand-Est","city":"Bogny-sur-Meuse","latitude":49.8508,"longitude":4.7678}}(window,'GeoPostal','FR');

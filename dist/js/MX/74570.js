@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74570"]={"code":"74570","region":"Puebla","city":"Izucar de Matamoros","latitude":18.6,"longitude":-98.46667}}(window,'GeoPostal','MX');

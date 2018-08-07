@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67563"]={"code":"67563","region":"Kansas","city":"Offerle","latitude":37.89111,"longitude":-99.55972}}(window,'GeoPostal','US');

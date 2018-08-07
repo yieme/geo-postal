@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40370"]={"code":"40370","region":"Castilla y Leon","city":"Turegano","latitude":41.1561,"longitude":-4.00696}}(window,'GeoPostal','ES');

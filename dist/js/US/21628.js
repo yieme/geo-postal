@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21628"]={"code":"21628","region":"MD","city":"Crumpton","latitude":39.233,"longitude":-75.9195}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6265"]={"code":"6265","region":"More og Romsdal","city":"Vatne","latitude":62.56667,"longitude":6.65}}(window,'GeoPostal','NO');

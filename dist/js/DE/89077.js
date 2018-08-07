@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89077"]={"code":"89077","region":"Baden-Wurttemberg","city":"Ulm","latitude":48.39841,"longitude":9.99155}}(window,'GeoPostal','DE');

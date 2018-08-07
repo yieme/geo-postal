@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70637"]={"code":"70637","region":"Louisiana","city":"Dry Creek","latitude":30.78055,"longitude":-92.954382}}(window,'GeoPostal','US');

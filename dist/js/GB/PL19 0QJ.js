@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 0QJ"]={"code":"PL19 0QJ","region":"England","city":"Dunterton","latitude":50.59125,"longitude":-4.29457}}(window,'GeoPostal','GB');

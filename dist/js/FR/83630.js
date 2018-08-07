@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83630"]={"code":"83630","region":"Provence-Alpes-Cote d'Azur","city":"Moissac-Bellevue","latitude":43.6536,"longitude":6.1672}}(window,'GeoPostal','FR');

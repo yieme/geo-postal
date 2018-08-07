@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39177"]={"code":"39177","region":"MS","city":"Valley Park","latitude":32.6323,"longitude":-90.8542}}(window,'GeoPostal','US');

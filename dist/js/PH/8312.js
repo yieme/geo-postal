@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8312"]={"code":"8312","region":"Davao Oriental","city":"Cateel","latitude":7.79139,"longitude":126.45333}}(window,'GeoPostal','PH');

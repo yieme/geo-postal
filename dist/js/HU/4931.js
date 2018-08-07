@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4931"]={"code":"4931","region":"Szabolcs-Szatmar-Bereg","city":"Tarpa","latitude":48.1048,"longitude":22.53744}}(window,'GeoPostal','HU');

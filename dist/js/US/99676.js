@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99676"]={"code":"99676","region":"Alaska","city":"Talkeetna","latitude":62.173952,"longitude":-149.900167}}(window,'GeoPostal','US');

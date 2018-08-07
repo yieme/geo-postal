@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17225"]={"code":"17225","region":"Pennsylvania","city":"Greencastle","latitude":39.7883,"longitude":-77.7509}}(window,'GeoPostal','US');

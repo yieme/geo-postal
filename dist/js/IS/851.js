@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851"]={"code":"851","region":"Sudurland","city":"Vestmannaeyjar","latitude":63.44273,"longitude":-20.27339}}(window,'GeoPostal','IS');

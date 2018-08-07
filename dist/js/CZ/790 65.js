@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790 65"]={"code":"790 65","region":"Olomoucky kraj","city":"Zulova","latitude":50.30933,"longitude":17.09871}}(window,'GeoPostal','CZ');

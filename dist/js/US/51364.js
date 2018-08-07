@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51364"]={"code":"51364","region":"Iowa","city":"Terril","latitude":43.300885,"longitude":-94.970933}}(window,'GeoPostal','US');

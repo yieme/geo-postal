@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85261"]={"code":"85261","region":"Arizona","city":"Scottsdale","latitude":33.49521,"longitude":-111.92175}}(window,'GeoPostal','US');

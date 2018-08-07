@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47580"]={"code":"47580","region":"IN","city":"Schnellville","latitude":38.3414,"longitude":-86.7565}}(window,'GeoPostal','US');

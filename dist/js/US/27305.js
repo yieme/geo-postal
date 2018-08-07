@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27305"]={"code":"27305","region":"North Carolina","city":"Milton","latitude":36.512765,"longitude":-79.21831}}(window,'GeoPostal','US');

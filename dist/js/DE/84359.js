@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84359"]={"code":"84359","region":"Bayern","city":"Simbach am Inn","latitude":48.26548,"longitude":13.02309}}(window,'GeoPostal','DE');

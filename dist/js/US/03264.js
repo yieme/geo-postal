@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03264"]={"code":"03264","region":"New Hampshire","city":"Plymouth","latitude":43.75702,"longitude":-71.68813}}(window,'GeoPostal','US');

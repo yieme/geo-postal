@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27424"]={"code":"27424","region":"Kirovohradska oblast","city":"Dmytrivka","latitude":48.7969,"longitude":32.71645}}(window,'GeoPostal','UA');

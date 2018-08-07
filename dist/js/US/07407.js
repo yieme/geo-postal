@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07407"]={"code":"07407","region":"New Jersey","city":"Elmwood Park","latitude":40.904729,"longitude":-74.119442}}(window,'GeoPostal','US');

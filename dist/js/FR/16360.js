@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16360"]={"code":"16360","region":"Nouvelle-Aquitaine","city":"Baignes-Sainte-Radegonde","latitude":45.38333,"longitude":-0.23333}}(window,'GeoPostal','FR');

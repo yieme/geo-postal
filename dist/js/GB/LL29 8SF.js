@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL29 8SF"]={"code":"LL29 8SF","region":"Wales","city":"Llysfaen","latitude":53.28333,"longitude":-3.66667}}(window,'GeoPostal','GB');

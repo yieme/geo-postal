@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188502"]={"code":"188502","region":"Leningradskaya oblast'","city":"Ol'gino","latitude":59.83702,"longitude":29.92266}}(window,'GeoPostal','RU');

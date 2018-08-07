@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93235"]={"code":"93235","region":"Ile-de-France","city":"Romainville","latitude":48.8854,"longitude":2.43482}}(window,'GeoPostal','FR');

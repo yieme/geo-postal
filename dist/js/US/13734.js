@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13734"]={"code":"13734","region":"NY","city":"Barton","latitude":42.0695,"longitude":-76.3983}}(window,'GeoPostal','US');

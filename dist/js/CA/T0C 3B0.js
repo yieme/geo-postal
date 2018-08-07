@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 3B0"]={"code":"T0C 3B0","region":"Alberta","city":"Rochon Sands","latitude":52.45012,"longitude":-112.88524}}(window,'GeoPostal','CA');

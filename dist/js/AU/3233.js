@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3233"]={"code":"3233","region":"Victoria","city":"Marengo","latitude":-38.77834,"longitude":143.65552}}(window,'GeoPostal','AU');

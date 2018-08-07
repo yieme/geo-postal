@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24377"]={"code":"24377","region":"VA","city":"Tannersville","latitude":36.9763,"longitude":-81.628}}(window,'GeoPostal','US');

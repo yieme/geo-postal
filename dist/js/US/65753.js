@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65753"]={"code":"65753","region":"Missouri","city":"Sparta","latitude":36.96468,"longitude":-93.1272}}(window,'GeoPostal','US');

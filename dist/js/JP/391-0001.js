@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391-0001"]={"code":"391-0001","region":"Nagano","city":"Chino","latitude":36,"longitude":138.167}}(window,'GeoPostal','JP');

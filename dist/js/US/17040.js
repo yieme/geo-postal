@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17040"]={"code":"17040","region":"PA","city":"Landisburg","latitude":40.3326,"longitude":-77.3191}}(window,'GeoPostal','US');

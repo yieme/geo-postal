@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66907"]={"code":"66907","region":"Rheinland-Pfalz","city":"Glan-Munchweiler","latitude":49.47222,"longitude":7.44204}}(window,'GeoPostal','DE');

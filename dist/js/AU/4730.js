@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4730"]={"code":"4730","region":"Queensland","city":"Longreach","latitude":-23.44212,"longitude":144.24921}}(window,'GeoPostal','AU');

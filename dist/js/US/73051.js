@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73051"]={"code":"73051","region":"OK","city":"Lexington","latitude":35.0377,"longitude":-97.2609}}(window,'GeoPostal','US');

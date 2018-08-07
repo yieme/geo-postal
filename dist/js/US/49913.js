@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49913"]={"code":"49913","region":"Michigan","city":"Calumet","latitude":47.24722,"longitude":-88.45444}}(window,'GeoPostal','US');

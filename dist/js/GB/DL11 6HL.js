@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 6HL"]={"code":"DL11 6HL","region":"England","city":"Grinton","latitude":54.38026,"longitude":-1.93359}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31073"]={"code":"31073","region":"Niedersachsen","city":"Delligsen","latitude":51.9412,"longitude":9.80272}}(window,'GeoPostal','DE');

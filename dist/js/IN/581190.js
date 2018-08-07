@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581190"]={"code":"581190","region":"Karnataka","city":"Hubli","latitude":15.35,"longitude":75.16667}}(window,'GeoPostal','IN');

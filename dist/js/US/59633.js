@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59633"]={"code":"59633","region":"MT","city":"Canyon Creek","latitude":46.7627,"longitude":-112.2795}}(window,'GeoPostal','US');

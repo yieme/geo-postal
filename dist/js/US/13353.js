@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13353"]={"code":"13353","region":"NY","city":"Hoffmeister","latitude":43.3915,"longitude":-74.74}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4364"]={"code":"4364","region":"Queensland","city":"Tummaville","latitude":-27.86667,"longitude":151.5}}(window,'GeoPostal','AU');

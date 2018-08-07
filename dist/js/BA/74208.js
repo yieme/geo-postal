@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74208"]={"code":"74208","region":"Republika Srpska","city":"Stanari","latitude":44.74722,"longitude":17.82944}}(window,'GeoPostal','BA');

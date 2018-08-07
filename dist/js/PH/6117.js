@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6117"]={"code":"6117","region":"Negros Occidental","city":"Antipolo","latitude":10.3565,"longitude":122.9646}}(window,'GeoPostal','PH');

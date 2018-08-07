@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22960"]={"code":"22960","region":"Virginia","city":"Orange","latitude":38.24541,"longitude":-78.11083}}(window,'GeoPostal','US');

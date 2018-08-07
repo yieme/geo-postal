@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30183"]={"code":"30183","region":"Georgia","city":"Waleska","latitude":34.3346,"longitude":-84.5912}}(window,'GeoPostal','US');

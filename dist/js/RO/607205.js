@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607205"]={"code":"607205","region":"Bacau","city":"Ghimes-Faget","latitude":46.58333,"longitude":26.06667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76493"]={"code":"76493","region":"Ivano-Frankivska oblast","city":"Ivano-Frankivs'k","latitude":48.9215,"longitude":24.70972}}(window,'GeoPostal','UA');

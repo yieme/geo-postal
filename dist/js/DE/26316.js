@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26316"]={"code":"26316","region":"Niedersachsen","city":"Tweehorn","latitude":53.38333,"longitude":8.15}}(window,'GeoPostal','DE');

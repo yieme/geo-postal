@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85500"]={"code":"85500","region":"Pays-de-la-Loire","city":"Les Herbiers","latitude":46.86667,"longitude":-1.01667}}(window,'GeoPostal','FR');

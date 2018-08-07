@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56175"]={"code":"56175","region":"Minnesota","city":"Tracy","latitude":44.23329,"longitude":-95.61918}}(window,'GeoPostal','US');

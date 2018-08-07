@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE5 1RT"]={"code":"LE5 1RT","region":"Scotland","city":"Hamilton","latitude":55.76667,"longitude":-4.03333}}(window,'GeoPostal','GB');

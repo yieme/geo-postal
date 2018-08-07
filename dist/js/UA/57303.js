@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57303"]={"code":"57303","region":"Mykolaivska oblast","city":"Snihurivka","latitude":47.07579,"longitude":32.80516}}(window,'GeoPostal','UA');

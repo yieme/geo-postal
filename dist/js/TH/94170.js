@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94170"]={"code":"94170","region":"Pattani","city":"Pattani","latitude":6.86814,"longitude":101.25009}}(window,'GeoPostal','TH');

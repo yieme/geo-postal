@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3733"]={"code":"3733","region":"Victoria","city":"Whitfield","latitude":-36.78333,"longitude":146.41667}}(window,'GeoPostal','AU');

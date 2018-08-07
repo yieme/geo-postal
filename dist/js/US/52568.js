@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52568"]={"code":"52568","region":"IA","city":"Martinsburg","latitude":41.1948,"longitude":-92.2715}}(window,'GeoPostal','US');

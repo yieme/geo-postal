@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71243"]={"code":"71243","region":"Federacija Bosne i Hercegovine","city":"Pazaric","latitude":43.78861,"longitude":18.16083}}(window,'GeoPostal','BA');

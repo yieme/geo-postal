@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6383"]={"code":"6383","region":"Tirol","city":"Kirchdorf in Tirol","latitude":47.56667,"longitude":12.45}}(window,'GeoPostal','AT');

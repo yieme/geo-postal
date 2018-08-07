@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46170-000"]={"code":"46170-000","region":"Bahia","city":"Livramento do Brumado","latitude":-13.64306,"longitude":-41.84056}}(window,'GeoPostal','BR');

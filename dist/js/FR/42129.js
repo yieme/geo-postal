@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42129"]={"code":"42129","region":"Auvergne-Rhone-Alpes","city":"Le Coteau","latitude":46.02706,"longitude":4.0869}}(window,'GeoPostal','FR');

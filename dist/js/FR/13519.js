@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13519"]={"code":"13519","region":"Provence-Alpes-Cote d'Azur","city":"Port-Saint-Louis-du-Rhone","latitude":43.38734,"longitude":4.82609}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP6 3AZ"]={"code":"SP6 3AZ","region":"England","city":"Alderholt","latitude":50.91667,"longitude":-1.83333}}(window,'GeoPostal','GB');

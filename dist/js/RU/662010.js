@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662010"]={"code":"662010","region":"Krasnoyarskiy kray","city":"Tyukhtet","latitude":56.53889,"longitude":89.30111}}(window,'GeoPostal','RU');

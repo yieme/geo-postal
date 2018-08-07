@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80510"]={"code":"80510","region":"CO","city":"Allenspark","latitude":40.2268,"longitude":-105.5201}}(window,'GeoPostal','US');

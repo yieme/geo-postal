@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-9440"]={"code":"L-9440","region":"Diekirch","city":"Vianden","latitude":49.935,"longitude":6.20889}}(window,'GeoPostal','LU');

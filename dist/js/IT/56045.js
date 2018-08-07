@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56045"]={"code":"56045","region":"Toscana","city":"Pomarance","latitude":43.29894,"longitude":10.87282}}(window,'GeoPostal','IT');

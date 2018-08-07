@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25469"]={"code":"25469","region":"Bourgogne-Franche-Comte","city":"Etupes","latitude":47.50525,"longitude":6.87075}}(window,'GeoPostal','FR');

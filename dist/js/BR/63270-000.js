@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63270-000"]={"code":"63270-000","region":"Ceara","city":"Brejo Santo","latitude":-7.49333,"longitude":-38.98722}}(window,'GeoPostal','BR');

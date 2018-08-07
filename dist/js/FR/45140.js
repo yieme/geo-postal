@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45140"]={"code":"45140","region":"Centre-Val de Loire","city":"Ormes","latitude":47.94152,"longitude":1.81823}}(window,'GeoPostal','FR');

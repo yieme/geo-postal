@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92342"]={"code":"92342","region":"CA","city":"Helendale","latitude":34.7499,"longitude":-117.3367}}(window,'GeoPostal','US');

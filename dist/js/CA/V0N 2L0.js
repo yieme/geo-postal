@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2L0"]={"code":"V0N 2L0","region":"British Columbia","city":"Pemberton","latitude":50.31641,"longitude":-122.80273}}(window,'GeoPostal','CA');

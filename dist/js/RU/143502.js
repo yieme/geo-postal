@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143502"]={"code":"143502","region":"Moskovskaya oblast'","city":"Istra","latitude":55.91997,"longitude":36.86867}}(window,'GeoPostal','RU');

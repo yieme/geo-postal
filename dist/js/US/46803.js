@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46803"]={"code":"46803","region":"Indiana","city":"Fort Wayne","latitude":41.070125,"longitude":-85.10247}}(window,'GeoPostal','US');

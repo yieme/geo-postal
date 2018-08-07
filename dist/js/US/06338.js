@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06338"]={"code":"06338","region":"CT","city":"Mashantucket","latitude":41.4757,"longitude":-71.9574}}(window,'GeoPostal','US');

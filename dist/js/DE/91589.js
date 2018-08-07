@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91589"]={"code":"91589","region":"Bayern","city":"Gindelbach","latitude":49.22095,"longitude":10.38098}}(window,'GeoPostal','DE');

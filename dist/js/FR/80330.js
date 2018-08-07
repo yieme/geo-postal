@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80330"]={"code":"80330","region":"Hauts-de-France","city":"Cagny","latitude":49.86217,"longitude":2.34266}}(window,'GeoPostal','FR');

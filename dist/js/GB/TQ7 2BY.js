@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ7 2BY"]={"code":"TQ7 2BY","region":"England","city":"East Prawle","latitude":50.21531,"longitude":-3.70892}}(window,'GeoPostal','GB');

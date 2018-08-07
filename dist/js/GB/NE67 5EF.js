@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE67 5EF"]={"code":"NE67 5EF","region":"England","city":"Chathill","latitude":55.53482,"longitude":-1.70752}}(window,'GeoPostal','GB');

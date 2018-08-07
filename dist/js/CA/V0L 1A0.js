@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0L 1A0"]={"code":"V0L 1A0","region":"British Columbia","city":"Alexis Creek","latitude":52.08311,"longitude":-123.28621}}(window,'GeoPostal','CA');

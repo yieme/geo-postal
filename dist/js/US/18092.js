@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18092"]={"code":"18092","region":"PA","city":"Zionsville","latitude":40.4734,"longitude":-75.5261}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68437"]={"code":"68437","region":"Nebraska","city":"Shubert","latitude":40.23694,"longitude":-95.68361}}(window,'GeoPostal','US');

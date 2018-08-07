@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24977"]={"code":"24977","region":"Schleswig-Holstein","city":"Langballigkaten","latitude":54.81667,"longitude":9.63333}}(window,'GeoPostal','DE');

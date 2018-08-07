@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31048"]={"code":"31048","region":"Veneto","city":"San Biagio di Callalta","latitude":45.68361,"longitude":12.37722}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 03"]={"code":"267 03","region":"Stredocesky kraj","city":"Hudlice","latitude":49.96096,"longitude":13.97063}}(window,'GeoPostal','CZ');

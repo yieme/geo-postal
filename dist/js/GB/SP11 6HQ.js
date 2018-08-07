@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 6HQ"]={"code":"SP11 6HQ","region":"England","city":"Enham-Alamein","latitude":51.23965,"longitude":-1.47474}}(window,'GeoPostal','GB');

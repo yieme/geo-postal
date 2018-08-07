@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38311"]={"code":"38311","region":"Tennessee","city":"Bath Springs","latitude":35.44089,"longitude":-88.105513}}(window,'GeoPostal','US');

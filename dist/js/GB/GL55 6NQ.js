@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL55 6NQ"]={"code":"GL55 6NQ","region":"England","city":"Ebrington","latitude":52.05826,"longitude":-1.73217}}(window,'GeoPostal','GB');

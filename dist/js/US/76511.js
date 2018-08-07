@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76511"]={"code":"76511","region":"TX","city":"Bartlett","latitude":30.7991,"longitude":-97.4263}}(window,'GeoPostal','US');

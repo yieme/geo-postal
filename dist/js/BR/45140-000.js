@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45140-000"]={"code":"45140-000","region":"Bahia","city":"Itambe","latitude":-15.245,"longitude":-40.62444}}(window,'GeoPostal','BR');

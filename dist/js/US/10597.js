@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10597"]={"code":"10597","region":"NY","city":"Waccabuc","latitude":41.3032,"longitude":-73.6032}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21160"]={"code":"21160","region":"Maryland","city":"Whiteford","latitude":39.70889,"longitude":-76.34556}}(window,'GeoPostal','US');

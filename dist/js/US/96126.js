@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96126"]={"code":"96126","region":"California","city":"Sierraville","latitude":39.593722,"longitude":-120.281127}}(window,'GeoPostal','US');

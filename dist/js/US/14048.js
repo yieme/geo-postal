@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14048"]={"code":"14048","region":"New York","city":"Dunkirk","latitude":42.4795,"longitude":-79.33393}}(window,'GeoPostal','US');

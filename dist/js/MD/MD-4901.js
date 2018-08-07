@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4901"]={"code":"MD-4901","region":"Glodeni","city":"Glodeni","latitude":47.77083,"longitude":27.51444}}(window,'GeoPostal','MD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52020"]={"code":"52020","region":"Toscana","city":"Pergine Valdarno","latitude":43.47028,"longitude":11.68552}}(window,'GeoPostal','IT');

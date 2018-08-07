@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10042"]={"code":"10042","region":"Piemonte","city":"Nichelino","latitude":44.99404,"longitude":7.64182}}(window,'GeoPostal','IT');

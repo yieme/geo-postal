@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61334"]={"code":"61334","region":"IL","city":"Lostant","latitude":41.145,"longitude":-89.075}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1S0"]={"code":"B0M 1S0","region":"Nova Scotia","city":"Parrsboro","latitude":45.40015,"longitude":-64.33205}}(window,'GeoPostal','CA');

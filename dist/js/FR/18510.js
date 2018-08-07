@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18510"]={"code":"18510","region":"Centre-Val de Loire","city":"Menetou-Salon","latitude":47.23172,"longitude":2.48715}}(window,'GeoPostal','FR');

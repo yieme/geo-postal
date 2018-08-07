@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU8 5SG"]={"code":"GU8 5SG","region":"England","city":"Witley","latitude":51.14845,"longitude":-0.64691}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53566"]={"code":"53566","region":"Wisconsin","city":"Monroe","latitude":42.598368,"longitude":-89.639444}}(window,'GeoPostal','US');

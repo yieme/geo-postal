@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR23 1QQ"]={"code":"NR23 1QQ","region":"England","city":"Stiffkey","latitude":52.9491,"longitude":0.93281}}(window,'GeoPostal','GB');

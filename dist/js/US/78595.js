@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78595"]={"code":"78595","region":"TX","city":"Sullivan City","latitude":26.272,"longitude":-98.5627}}(window,'GeoPostal','US');

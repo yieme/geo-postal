@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03247"]={"code":"03247","region":"NH","city":"Laconia","latitude":43.589,"longitude":-71.4455}}(window,'GeoPostal','US');

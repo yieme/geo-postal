@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92702"]={"code":"92702","region":"Bayern","city":"Kohlberg","latitude":49.59121,"longitude":12.01948}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24225"]={"code":"24225","region":"VA","city":"Cleveland","latitude":36.9502,"longitude":-82.1318}}(window,'GeoPostal','US');

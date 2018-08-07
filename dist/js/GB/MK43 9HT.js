@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK43 9HT"]={"code":"MK43 9HT","region":"England","city":"Wootton","latitude":50.72847,"longitude":-1.23536}}(window,'GeoPostal','GB');

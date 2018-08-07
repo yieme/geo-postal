@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47924"]={"code":"47924","region":"IN","city":"Buck Creek","latitude":40.4876,"longitude":-86.7631}}(window,'GeoPostal','US');

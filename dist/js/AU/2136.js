@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2136"]={"code":"2136","region":"Victoria","city":"Enfield","latitude":-37.72815,"longitude":143.7945}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363308"]={"code":"363308","region":"Fujian","city":"Chendai","latitude":23.79465,"longitude":117.40133}}(window,'GeoPostal','CN');

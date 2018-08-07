@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62451"]={"code":"62451","region":"Illinois","city":"Palestine","latitude":39.00365,"longitude":-87.6128}}(window,'GeoPostal','US');

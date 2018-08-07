@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41004"]={"code":"41004","region":"Kentucky","city":"Brooksville","latitude":38.68257,"longitude":-84.06576}}(window,'GeoPostal','US');

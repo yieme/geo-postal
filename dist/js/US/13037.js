@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13037"]={"code":"13037","region":"NY","city":"Chittenango","latitude":43.0552,"longitude":-75.8768}}(window,'GeoPostal','US');

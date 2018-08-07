@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51453"]={"code":"51453","region":"IA","city":"Lohrville","latitude":42.2619,"longitude":-94.5566}}(window,'GeoPostal','US');

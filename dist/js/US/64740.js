@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64740"]={"code":"64740","region":"Missouri","city":"Deepwater","latitude":38.26028,"longitude":-93.77528}}(window,'GeoPostal','US');

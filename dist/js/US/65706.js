@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65706"]={"code":"65706","region":"Missouri","city":"Marshfield","latitude":37.339613,"longitude":-92.906956}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35040"]={"code":"35040","region":"Alabama","city":"Calera","latitude":33.154974,"longitude":-86.717473}}(window,'GeoPostal','US');

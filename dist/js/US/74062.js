@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74062"]={"code":"74062","region":"OK","city":"Ripley","latitude":35.9985,"longitude":-96.8967}}(window,'GeoPostal','US');

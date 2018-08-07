@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32220"]={"code":"32220","region":"Occitanie","city":"Lombez","latitude":43.475,"longitude":0.91119}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04026"]={"code":"04026","region":"Oum el Bouaghi","city":"El Aouinet","latitude":35.86691,"longitude":7.88672}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71715"]={"code":"71715","region":"Zaporizka oblast","city":"Tokmak","latitude":47.25522,"longitude":35.71238}}(window,'GeoPostal','UA');

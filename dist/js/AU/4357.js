@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4357"]={"code":"4357","region":"Queensland","city":"Turallin","latitude":-27.83333,"longitude":151.21667}}(window,'GeoPostal','AU');

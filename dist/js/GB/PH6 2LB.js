@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH6 2LB"]={"code":"PH6 2LB","region":"Scotland","city":"Dunira","latitude":56.38333,"longitude":-4.03333}}(window,'GeoPostal','GB');

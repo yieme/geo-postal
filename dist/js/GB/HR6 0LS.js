@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 0LS"]={"code":"HR6 0LS","region":"England","city":"Steens Bridge","latitude":52.21667,"longitude":-2.66667}}(window,'GeoPostal','GB');

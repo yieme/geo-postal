@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75926"]={"code":"75926","region":"TX","city":"Apple Springs","latitude":31.2269,"longitude":-94.9812}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09709"]={"code":"09709","region":"AE","city":"Apo","latitude":67.017,"longitude":-50.6893}}(window,'GeoPostal','US');

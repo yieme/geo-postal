@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP11 0SS"]={"code":"IP11 0SS","region":"England","city":"Trimley Heath","latitude":51.98333,"longitude":1.31667}}(window,'GeoPostal','GB');

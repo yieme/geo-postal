@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97877"]={"code":"97877","region":"Oregon","city":"Sumpter","latitude":44.730822,"longitude":-118.264551}}(window,'GeoPostal','US');

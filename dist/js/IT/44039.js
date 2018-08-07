@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44039"]={"code":"44039","region":"Emilia-Romagna","city":"Tresigallo","latitude":44.81598,"longitude":11.89472}}(window,'GeoPostal','IT');

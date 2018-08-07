@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317335"]={"code":"317335","region":"Arad","city":"Simand","latitude":46.43333,"longitude":21.45}}(window,'GeoPostal','RO');

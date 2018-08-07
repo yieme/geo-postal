@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21601"]={"code":"21601","region":"Varsinais-Suomi","city":"Pargas","latitude":60.30672,"longitude":22.30097}}(window,'GeoPostal','FI');

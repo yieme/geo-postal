@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88214"]={"code":"88214","region":"Grand-Est","city":"Remiremont","latitude":48.01754,"longitude":6.5882}}(window,'GeoPostal','FR');

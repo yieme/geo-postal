@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 7PJ"]={"code":"LE7 7PJ","region":"England","city":"Rothley","latitude":52.70916,"longitude":-1.13739}}(window,'GeoPostal','GB');

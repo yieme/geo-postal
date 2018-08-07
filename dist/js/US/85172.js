@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85172"]={"code":"85172","region":"AZ","city":"Stanfield","latitude":32.8823,"longitude":-111.966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68570"]={"code":"68570","region":"Pohjanmaa","city":"Larsmo","latitude":63.75388,"longitude":22.74728}}(window,'GeoPostal','FI');

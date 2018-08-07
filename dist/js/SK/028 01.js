@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["028 01"]={"code":"028 01","region":"Zilinsky kraj","city":"Trstena","latitude":49.36101,"longitude":19.61249}}(window,'GeoPostal','SK');

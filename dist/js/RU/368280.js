@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368280"]={"code":"368280","region":"Dagestan, Respublika","city":"Akusha","latitude":42.26885,"longitude":47.34114}}(window,'GeoPostal','RU');

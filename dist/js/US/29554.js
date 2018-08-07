@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29554"]={"code":"29554","region":"South Carolina","city":"Hemingway","latitude":33.75333,"longitude":-79.44583}}(window,'GeoPostal','US');

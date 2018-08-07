@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53949"]={"code":"53949","region":"Nordrhein-Westfalen","city":"Dahlem","latitude":50.38333,"longitude":6.55}}(window,'GeoPostal','DE');

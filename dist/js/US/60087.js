@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60087"]={"code":"60087","region":"Illinois","city":"Waukegan","latitude":42.40379,"longitude":-87.862101}}(window,'GeoPostal','US');

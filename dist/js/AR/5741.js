@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5741"]={"code":"5741","region":"San Luis","city":"La Punta","latitude":-33.18368,"longitude":-66.3127}}(window,'GeoPostal','AR');
