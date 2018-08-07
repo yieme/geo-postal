@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22150"]={"code":"22150","region":"Bretagne","city":"Plouguenast","latitude":48.28208,"longitude":-2.70442}}(window,'GeoPostal','FR');

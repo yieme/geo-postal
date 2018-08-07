@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 1W0"]={"code":"T0C 1W0","region":"Alberta","city":"Berrymoor","latitude":53.28342,"longitude":-114.75212}}(window,'GeoPostal','CA');

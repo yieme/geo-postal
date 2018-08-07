@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761107"]={"code":"761107","region":"Odisha","city":"Hinjilikatu","latitude":19.48333,"longitude":84.75}}(window,'GeoPostal','IN');

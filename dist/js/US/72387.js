@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72387"]={"code":"72387","region":"AR","city":"Vanndale","latitude":35.3245,"longitude":-90.7712}}(window,'GeoPostal','US');

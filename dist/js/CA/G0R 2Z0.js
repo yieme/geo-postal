@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 2Z0"]={"code":"G0R 2Z0","region":"Quebec","city":"Sainte-Euphemie-sur-Riviere-du-Sud","latitude":46.77352,"longitude":-70.44052}}(window,'GeoPostal','CA');

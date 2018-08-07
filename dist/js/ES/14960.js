@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14960"]={"code":"14960","region":"Andalucia","city":"Rute","latitude":37.3269,"longitude":-4.36827}}(window,'GeoPostal','ES');

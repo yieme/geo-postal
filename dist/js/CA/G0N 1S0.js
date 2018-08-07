@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0N 1S0"]={"code":"G0N 1S0","region":"Quebec","city":"Adstock","latitude":46.05007,"longitude":-71.08235}}(window,'GeoPostal','CA');

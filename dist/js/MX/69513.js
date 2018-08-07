@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69513"]={"code":"69513","region":"Oaxaca","city":"Tamazulapan del Progreso","latitude":17.68056,"longitude":-97.56889}}(window,'GeoPostal','MX');

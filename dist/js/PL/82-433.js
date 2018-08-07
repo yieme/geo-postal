@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-433"]={"code":"82-433","region":"Pomorskie","city":"Mikolajki Pomorskie","latitude":53.85131,"longitude":19.16574}}(window,'GeoPostal','PL');

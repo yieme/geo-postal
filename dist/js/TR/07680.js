@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07680"]={"code":"07680","region":"Konya","city":"Cumra","latitude":37.5732,"longitude":32.77446}}(window,'GeoPostal','TR');

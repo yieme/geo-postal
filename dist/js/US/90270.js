@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90270"]={"code":"90270","region":"California","city":"Maywood","latitude":33.98668,"longitude":-118.18535}}(window,'GeoPostal','US');

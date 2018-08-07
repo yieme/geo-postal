@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13620"]={"code":"13620","region":"La Libertad","city":"Viru","latitude":-8.41667,"longitude":-78.75}}(window,'GeoPostal','PE');

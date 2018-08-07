@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18013"]={"code":"18013","region":"Liguria","city":"Diano Marina","latitude":43.91032,"longitude":8.07925}}(window,'GeoPostal','IT');

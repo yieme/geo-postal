@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62919"]={"code":"62919","region":"IL","city":"Cave In Rock","latitude":37.4692,"longitude":-88.1653}}(window,'GeoPostal','US');

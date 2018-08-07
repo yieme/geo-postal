@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87528"]={"code":"87528","region":"New Mexico","city":"Dulce","latitude":36.93362,"longitude":-106.99893}}(window,'GeoPostal','US');

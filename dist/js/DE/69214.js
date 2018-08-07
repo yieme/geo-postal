@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69214"]={"code":"69214","region":"Baden-Wurttemberg","city":"Wieblingen","latitude":49.42532,"longitude":8.64236}}(window,'GeoPostal','DE');

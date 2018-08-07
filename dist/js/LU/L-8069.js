@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-8069"]={"code":"L-8069","region":"Luxembourg","city":"Strassen","latitude":49.62056,"longitude":6.07333}}(window,'GeoPostal','LU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB52 6TR"]={"code":"AB52 6TR","region":"Scotland","city":"Colpy","latitude":57.38046,"longitude":-2.59578}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 6PX"]={"code":"NG23 6PX","region":"England","city":"Sutton on Trent","latitude":53.18437,"longitude":-0.81091}}(window,'GeoPostal','GB');

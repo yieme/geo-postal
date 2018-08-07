@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 5AN"]={"code":"DL8 5AN","region":"England","city":"Leyburn","latitude":54.31004,"longitude":-1.83041}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8PX"]={"code":"KA27 8PX","region":"Scotland","city":"Whiting Bay","latitude":55.49234,"longitude":-5.09723}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5160"]={"code":"5160","region":"South Australia","city":"Lonsdale","latitude":-35.10677,"longitude":138.49288}}(window,'GeoPostal','AU');

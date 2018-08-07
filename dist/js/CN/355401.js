@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["355401"]={"code":"355401","region":"Fujian","city":"Xiancun","latitude":26.93861,"longitude":119.36028}}(window,'GeoPostal','CN');

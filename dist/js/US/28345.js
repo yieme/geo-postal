@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28345"]={"code":"28345","region":"North Carolina","city":"Hamlet","latitude":34.889778,"longitude":-79.708081}}(window,'GeoPostal','US');

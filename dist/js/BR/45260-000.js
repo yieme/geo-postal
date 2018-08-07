@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45260-000"]={"code":"45260-000","region":"Bahia","city":"Pocoes","latitude":-14.52972,"longitude":-40.36528}}(window,'GeoPostal','BR');

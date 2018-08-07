@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54962"]={"code":"54962","region":"WI","city":"Ogdensburg","latitude":44.4268,"longitude":-88.9932}}(window,'GeoPostal','US');

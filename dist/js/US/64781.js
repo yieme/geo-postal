@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64781"]={"code":"64781","region":"MO","city":"Roscoe","latitude":37.9728,"longitude":-93.8122}}(window,'GeoPostal','US');

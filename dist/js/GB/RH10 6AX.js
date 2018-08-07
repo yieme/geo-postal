@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH10 6AX"]={"code":"RH10 6AX","region":"England","city":"Southgate","latitude":51.10821,"longitude":-0.19168}}(window,'GeoPostal','GB');

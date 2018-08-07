@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46266"]={"code":"46266","region":"Jawa Barat","city":"Warudoyong","latitude":-7.1258,"longitude":108.2206}}(window,'GeoPostal','ID');

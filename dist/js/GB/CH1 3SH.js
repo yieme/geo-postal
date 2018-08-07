@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH1 3SH"]={"code":"CH1 3SH","region":"England","city":"Chester","latitude":53.1905,"longitude":-2.89189}}(window,'GeoPostal','GB');

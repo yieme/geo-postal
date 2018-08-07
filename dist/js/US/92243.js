@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92243"]={"code":"92243","region":"California","city":"El Centro","latitude":32.792,"longitude":-115.56305}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61735"]={"code":"61735","region":"IL","city":"Dewitt","latitude":40.1848,"longitude":-88.7637}}(window,'GeoPostal','US');

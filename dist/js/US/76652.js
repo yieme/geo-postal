@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76652"]={"code":"76652","region":"TX","city":"Kopperl","latitude":32.1035,"longitude":-97.5421}}(window,'GeoPostal','US');

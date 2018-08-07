@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83121"]={"code":"83121","region":"Wyoming","city":"Frontier","latitude":41.81417,"longitude":-110.53722}}(window,'GeoPostal','US');

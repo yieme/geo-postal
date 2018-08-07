@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94864"]={"code":"94864","region":"Luhanska oblast","city":"Biryukove","latitude":47.95631,"longitude":39.73843}}(window,'GeoPostal','UA');

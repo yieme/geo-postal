@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67300"]={"code":"67300","region":"Grand-Est","city":"Schiltigheim","latitude":48.60749,"longitude":7.74931}}(window,'GeoPostal','FR');

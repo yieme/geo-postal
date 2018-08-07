@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46991"]={"code":"46991","region":"IN","city":"Van Buren","latitude":40.6174,"longitude":-85.5148}}(window,'GeoPostal','US');

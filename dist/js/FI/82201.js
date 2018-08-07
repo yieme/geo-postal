@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82201"]={"code":"82201","region":"Pohjois-Karjala","city":"Pyhaselka","latitude":62.43333,"longitude":29.96667}}(window,'GeoPostal','FI');

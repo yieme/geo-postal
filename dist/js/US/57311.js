@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57311"]={"code":"57311","region":"South Dakota","city":"Alexandria","latitude":43.65359,"longitude":-97.78285}}(window,'GeoPostal','US');

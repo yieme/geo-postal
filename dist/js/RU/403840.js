@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403840"]={"code":"403840","region":"Volgogradskaya oblast'","city":"Petrov Val","latitude":50.14337,"longitude":45.20958}}(window,'GeoPostal','RU');

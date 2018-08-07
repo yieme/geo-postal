@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8700"]={"code":"8700","region":"Concepcion","city":"Concepcion","latitude":-23.40639,"longitude":-57.43444}}(window,'GeoPostal','PY');

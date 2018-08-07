@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53126"]={"code":"53126","region":"Wisconsin","city":"Franksville","latitude":42.781006,"longitude":-87.959606}}(window,'GeoPostal','US');

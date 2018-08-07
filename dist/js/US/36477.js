@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36477"]={"code":"36477","region":"AL","city":"Samson","latitude":31.1049,"longitude":-86.0674}}(window,'GeoPostal','US');

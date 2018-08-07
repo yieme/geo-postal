@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07203"]={"code":"07203","region":"New Jersey","city":"Roselle","latitude":40.66427,"longitude":-74.2632}}(window,'GeoPostal','US');

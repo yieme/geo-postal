@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09220"]={"code":"09220","region":"Etela-Pohjanmaa","city":"Sammatti","latitude":62.36859,"longitude":23.22889}}(window,'GeoPostal','FI');

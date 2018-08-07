@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202"]={"code":"202","region":"Hofudborgarsvaedi","city":"Kopavogur","latitude":64.11234,"longitude":-21.91298}}(window,'GeoPostal','IS');

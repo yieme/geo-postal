@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN15 9NP"]={"code":"DN15 9NP","region":"England","city":"Winteringham","latitude":53.68727,"longitude":-0.59183}}(window,'GeoPostal','GB');

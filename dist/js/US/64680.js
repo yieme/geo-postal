@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64680"]={"code":"64680","region":"MO","city":"Stet","latitude":39.4231,"longitude":-93.7588}}(window,'GeoPostal','US');

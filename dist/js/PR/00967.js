@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00967"]={"code":"00967","region":"Guaynabo","city":"Guaynabo","latitude":18.35745,"longitude":-66.111}}(window,'GeoPostal','PR');

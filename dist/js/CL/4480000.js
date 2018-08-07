@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4480000"]={"code":"4480000","region":"Biobio","city":"Canete","latitude":-37.8,"longitude":-73.4}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41015"]={"code":"41015","region":"KY","city":"Latonia","latitude":39.0217,"longitude":-84.4989}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77431"]={"code":"77431","region":"TX","city":"Danciger","latitude":29.1737,"longitude":-95.8207}}(window,'GeoPostal','US');

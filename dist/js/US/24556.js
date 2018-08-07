@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24556"]={"code":"24556","region":"VA","city":"Goode","latitude":37.3755,"longitude":-79.4039}}(window,'GeoPostal','US');

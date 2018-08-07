@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6760"]={"code":"6760","region":"Western Australia","city":"Moolyella","latitude":-21.13333,"longitude":119.9}}(window,'GeoPostal','AU');

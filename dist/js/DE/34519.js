@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34519"]={"code":"34519","region":"Hessen","city":"Heringhausen","latitude":51.36485,"longitude":8.73216}}(window,'GeoPostal','DE');

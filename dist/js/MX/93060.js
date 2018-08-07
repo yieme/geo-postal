@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93060"]={"code":"93060","region":"Veracruz de Ignacio de la Llave","city":"Coxquihui","latitude":20.18333,"longitude":-97.58333}}(window,'GeoPostal','MX');

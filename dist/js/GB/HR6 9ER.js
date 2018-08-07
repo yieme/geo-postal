@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 9ER"]={"code":"HR6 9ER","region":"England","city":"Pembridge","latitude":52.2183,"longitude":-2.89261}}(window,'GeoPostal','GB');

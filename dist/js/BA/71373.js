@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71373"]={"code":"71373","region":"Federacija Bosne i Hercegovine","city":"Mahala","latitude":44.01194,"longitude":18.25528}}(window,'GeoPostal','BA');

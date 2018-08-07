@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16666"]={"code":"16666","region":"Pennsylvania","city":"Osceola Mills","latitude":40.852681,"longitude":-78.270542}}(window,'GeoPostal','US');

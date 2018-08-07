@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347120"]={"code":"347120","region":"Rostovskaya oblast'","city":"Milyutinskaya","latitude":48.62788,"longitude":41.66788}}(window,'GeoPostal','RU');

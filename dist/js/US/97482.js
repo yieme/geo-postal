@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97482"]={"code":"97482","region":"OR","city":"Thurston","latitude":44.05,"longitude":-122.91}}(window,'GeoPostal','US');

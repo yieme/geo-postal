@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV25 3QG"]={"code":"IV25 3QG","region":"Scotland","city":"Skelbo","latitude":57.93333,"longitude":-4.05}}(window,'GeoPostal','GB');

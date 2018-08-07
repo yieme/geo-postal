@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98385"]={"code":"98385","region":"WA","city":"South Prairie","latitude":47.1383,"longitude":-122.0968}}(window,'GeoPostal','US');

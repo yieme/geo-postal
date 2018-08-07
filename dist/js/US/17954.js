@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17954"]={"code":"17954","region":"PA","city":"Minersville","latitude":40.6904,"longitude":-76.2597}}(window,'GeoPostal','US');

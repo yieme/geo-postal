@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 5SQ"]={"code":"DD11 5SQ","region":"Scotland","city":"Auchmithie","latitude":56.58997,"longitude":-2.52151}}(window,'GeoPostal','GB');

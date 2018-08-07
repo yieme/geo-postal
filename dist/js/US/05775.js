@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05775"]={"code":"05775","region":"VT","city":"West Pawlet","latitude":43.3667,"longitude":-73.2313}}(window,'GeoPostal','US');

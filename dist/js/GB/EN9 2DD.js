@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN9 2DD"]={"code":"EN9 2DD","region":"England","city":"Nazeing","latitude":51.74032,"longitude":0.04712}}(window,'GeoPostal','GB');

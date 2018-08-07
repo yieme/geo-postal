@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5204"]={"code":"5204","region":"Salzburg","city":"Strasswalchen","latitude":47.98333,"longitude":13.25}}(window,'GeoPostal','AT');

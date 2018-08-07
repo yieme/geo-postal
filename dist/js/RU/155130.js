@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155130"]={"code":"155130","region":"Ivanovskaya oblast'","city":"Pistsovo","latitude":57.17904,"longitude":40.52983}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21092"]={"code":"21092","region":"MD","city":"Long Green","latitude":39.4729,"longitude":-76.523}}(window,'GeoPostal','US');

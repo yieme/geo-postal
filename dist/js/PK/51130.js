@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51130"]={"code":"51130","region":"Punjab","city":"Bhopalwala","latitude":32.42888,"longitude":74.3633}}(window,'GeoPostal','PK');

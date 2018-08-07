@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15723"]={"code":"15723","region":"PA","city":"Chambersville","latitude":40.7056,"longitude":-79.1615}}(window,'GeoPostal','US');

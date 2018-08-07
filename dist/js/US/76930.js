@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76930"]={"code":"76930","region":"TX","city":"Barnhart","latitude":31.1596,"longitude":-101.1918}}(window,'GeoPostal','US');

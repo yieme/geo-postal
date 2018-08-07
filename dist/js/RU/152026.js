@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152026"]={"code":"152026","region":"Yaroslavskaya oblast'","city":"Pereslavl'-Zalesskiy","latitude":56.73934,"longitude":38.85626}}(window,'GeoPostal','RU');

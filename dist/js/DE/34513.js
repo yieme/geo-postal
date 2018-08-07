@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34513"]={"code":"34513","region":"Hessen","city":"Nieder-Werbe","latitude":51.21112,"longitude":9.00726}}(window,'GeoPostal','DE');

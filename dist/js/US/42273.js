@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42273"]={"code":"42273","region":"Kentucky","city":"Rochester","latitude":37.217066,"longitude":-86.868585}}(window,'GeoPostal','US');

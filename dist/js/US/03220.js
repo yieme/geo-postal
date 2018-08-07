@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03220"]={"code":"03220","region":"New Hampshire","city":"Belmont","latitude":43.469929,"longitude":-71.475376}}(window,'GeoPostal','US');

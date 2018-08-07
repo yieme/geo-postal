@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22481"]={"code":"22481","region":"VA","city":"Jersey","latitude":38.2115,"longitude":-77.1394}}(window,'GeoPostal','US');

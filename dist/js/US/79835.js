@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79835"]={"code":"79835","region":"TX","city":"Canutillo","latitude":31.9344,"longitude":-106.5929}}(window,'GeoPostal','US');

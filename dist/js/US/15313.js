@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15313"]={"code":"15313","region":"PA","city":"Beallsville","latitude":40.0655,"longitude":-80.0221}}(window,'GeoPostal','US');

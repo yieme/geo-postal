@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17868"]={"code":"17868","region":"Pennsylvania","city":"Riverside","latitude":40.95536,"longitude":-76.62885}}(window,'GeoPostal','US');

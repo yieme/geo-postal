@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03320"]={"code":"03320","region":"Auvergne-Rhone-Alpes","city":"Lurcy-Levis","latitude":46.73056,"longitude":2.93876}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6DD"]={"code":"PE31 6DD","region":"England","city":"Hillington","latitude":52.80006,"longitude":0.54906}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35690"]={"code":"35690","region":"Bretagne","city":"Acigne","latitude":48.13333,"longitude":-1.53704}}(window,'GeoPostal','FR');

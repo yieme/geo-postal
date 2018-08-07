@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61064"]={"code":"61064","region":"IL","city":"Polo","latitude":41.989,"longitude":-89.5984}}(window,'GeoPostal','US');

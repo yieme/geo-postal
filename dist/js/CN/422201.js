@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422201"]={"code":"422201","region":"Hunan","city":"Hengbanqiao","latitude":27.17167,"longitude":110.86528}}(window,'GeoPostal','CN');

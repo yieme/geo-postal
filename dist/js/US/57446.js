@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57446"]={"code":"57446","region":"South Dakota","city":"Hecla","latitude":45.882611,"longitude":-98.148468}}(window,'GeoPostal','US');

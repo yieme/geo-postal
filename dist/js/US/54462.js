@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54462"]={"code":"54462","region":"Wisconsin","city":"Pearson","latitude":45.391156,"longitude":-89.085774}}(window,'GeoPostal','US');

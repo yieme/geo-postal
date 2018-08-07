@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53894"]={"code":"53894","region":"Nordrhein-Westfalen","city":"Mechernich","latitude":50.59304,"longitude":6.65224}}(window,'GeoPostal','DE');

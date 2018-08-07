@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25830"]={"code":"25830","region":"Kayseri","city":"Yesilhisar","latitude":38.34972,"longitude":35.08667}}(window,'GeoPostal','TR');

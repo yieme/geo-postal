@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36038"]={"code":"36038","region":"Alabama","city":"Gantt","latitude":31.4075,"longitude":-86.483333}}(window,'GeoPostal','US');

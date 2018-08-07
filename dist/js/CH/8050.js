@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8050"]={"code":"8050","region":"Zurich","city":"Zuerich (Kreis 11) / Oerlikon","latitude":47.40823,"longitude":8.54258}}(window,'GeoPostal','CH');

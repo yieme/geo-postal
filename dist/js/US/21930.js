@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21930"]={"code":"21930","region":"Maryland","city":"Georgetown","latitude":39.365856,"longitude":-75.886405}}(window,'GeoPostal','US');

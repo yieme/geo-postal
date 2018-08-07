@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35044"]={"code":"35044","region":"AL","city":"Childersburg","latitude":33.2459,"longitude":-86.3641}}(window,'GeoPostal','US');

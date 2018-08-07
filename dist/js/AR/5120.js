@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5120"]={"code":"5120","region":"Cordoba","city":"Laboulaye","latitude":-34.12662,"longitude":-63.39119}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54589"]={"code":"54589","region":"Rheinland-Pfalz","city":"Stadtkyll","latitude":50.35,"longitude":6.53333}}(window,'GeoPostal','DE');

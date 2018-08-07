@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51063"]={"code":"51063","region":"Iowa","city":"Whiting","latitude":42.125254,"longitude":-96.15174}}(window,'GeoPostal','US');

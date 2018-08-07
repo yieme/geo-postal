@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15350"]={"code":"15350","region":"PA","city":"Muse","latitude":40.2928,"longitude":-80.2003}}(window,'GeoPostal','US');

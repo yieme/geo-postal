@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99583"]={"code":"99583","region":"AK","city":"False Pass","latitude":54.8542,"longitude":-163.4113}}(window,'GeoPostal','US');

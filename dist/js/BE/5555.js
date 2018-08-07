@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5555"]={"code":"5555","region":"Namur","city":"Bievre","latitude":49.94086,"longitude":5.01592}}(window,'GeoPostal','BE');

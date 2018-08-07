@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6765"]={"code":"6765","region":"Csongrad","city":"Csengele","latitude":46.54234,"longitude":19.86358}}(window,'GeoPostal','HU');

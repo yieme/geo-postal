@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV36 5DJ"]={"code":"CV36 5DJ","region":"England","city":"Halford","latitude":52.10735,"longitude":-1.61877}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 7YB"]={"code":"LD3 7YB","region":"Wales","city":"Llanhamlach","latitude":51.93039,"longitude":-3.32468}}(window,'GeoPostal','GB');

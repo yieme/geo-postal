@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35620"]={"code":"35620","region":"AL","city":"Elkmont","latitude":34.929,"longitude":-86.9739}}(window,'GeoPostal','US');

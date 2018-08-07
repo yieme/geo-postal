@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27801"]={"code":"27801","region":"Niedersachsen","city":"Hespenbusch","latitude":52.93566,"longitude":8.3059}}(window,'GeoPostal','DE');

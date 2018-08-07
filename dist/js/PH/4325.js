@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4325"]={"code":"4325","region":"Quezon","city":"Bungoy","latitude":13.99444,"longitude":121.36611}}(window,'GeoPostal','PH');

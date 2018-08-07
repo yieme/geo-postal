@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59229"]={"code":"59229","region":"Nordrhein-Westfalen","city":"Ahlen","latitude":51.76338,"longitude":7.8887}}(window,'GeoPostal','DE');

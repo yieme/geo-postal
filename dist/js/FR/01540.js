@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01540"]={"code":"01540","region":"Auvergne-Rhone-Alpes","city":"Vonnas","latitude":46.21867,"longitude":4.99161}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30120"]={"code":"30120","region":"Occitanie","city":"Aulas","latitude":44.0011,"longitude":3.5872}}(window,'GeoPostal','FR');

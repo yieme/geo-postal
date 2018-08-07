@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44360-000"]={"code":"44360-000","region":"Bahia","city":"Cachoeira","latitude":-12.61833,"longitude":-38.95583}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263 34"]={"code":"263 34","region":"Dytiki Ellada","city":"Ovria","latitude":38.18333,"longitude":21.71667}}(window,'GeoPostal','GR');

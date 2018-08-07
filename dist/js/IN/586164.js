@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["586164"]={"code":"586164","region":"Karnataka","city":"Bijapur","latitude":16.83333,"longitude":75.7}}(window,'GeoPostal','IN');

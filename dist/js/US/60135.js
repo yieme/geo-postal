@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60135"]={"code":"60135","region":"Illinois","city":"Genoa","latitude":42.1052,"longitude":-88.6672}}(window,'GeoPostal','US');

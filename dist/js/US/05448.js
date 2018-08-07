@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05448"]={"code":"05448","region":"Vermont","city":"Colchester","latitude":44.801034,"longitude":-72.916975}}(window,'GeoPostal','US');

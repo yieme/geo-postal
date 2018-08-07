@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27939"]={"code":"27939","region":"Normandie","city":"Gravigny","latitude":49.0531,"longitude":1.16962}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53102"]={"code":"53102","region":"Meknes-Tafilalet","city":"Azrou","latitude":33.43443,"longitude":-5.22126}}(window,'GeoPostal','MA');

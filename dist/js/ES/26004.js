@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26004"]={"code":"26004","region":"La Rioja","city":"Logrono","latitude":42.46667,"longitude":-2.45}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8270"]={"code":"8270","region":"Krsko","city":"Krsko","latitude":45.95915,"longitude":15.49167}}(window,'GeoPostal','SI');

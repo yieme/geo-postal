@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31822"]={"code":"31822","region":"Georgia","city":"Pine Mountain","latitude":32.8981,"longitude":-84.923847}}(window,'GeoPostal','US');

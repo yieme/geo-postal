@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16682"]={"code":"16682","region":"PA","city":"Sproul","latitude":40.2711,"longitude":-78.4588}}(window,'GeoPostal','US');

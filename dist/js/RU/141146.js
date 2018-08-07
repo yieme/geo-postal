@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141146"]={"code":"141146","region":"Moskovskaya oblast'","city":"Fryanovo","latitude":56.13333,"longitude":38.45}}(window,'GeoPostal','RU');

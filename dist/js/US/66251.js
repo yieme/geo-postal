@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66251"]={"code":"66251","region":"Kansas","city":"Overland Park","latitude":38.9729,"longitude":-94.8801}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77710"]={"code":"77710","region":"Texas","city":"Beaumont","latitude":30.071705,"longitude":-94.099982}}(window,'GeoPostal','US');

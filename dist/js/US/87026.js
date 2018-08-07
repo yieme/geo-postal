@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87026"]={"code":"87026","region":"New Mexico","city":"Laguna","latitude":34.87386,"longitude":-107.28432}}(window,'GeoPostal','US');

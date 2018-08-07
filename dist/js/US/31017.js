@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31017"]={"code":"31017","region":"GA","city":"Danville","latitude":32.6057,"longitude":-83.2454}}(window,'GeoPostal','US');

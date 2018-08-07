@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15378"]={"code":"15378","region":"PA","city":"Westland","latitude":40.2775,"longitude":-80.2731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 0TQ"]={"code":"HU12 0TQ","region":"England","city":"Easington","latitude":53.65359,"longitude":0.11501}}(window,'GeoPostal','GB');

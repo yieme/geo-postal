@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7562"]={"code":"7562","region":"Somogy","city":"Segesd","latitude":46.34142,"longitude":17.35132}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02100"]={"code":"02100","region":"Lazio","city":"Rieti","latitude":42.40723,"longitude":12.85918}}(window,'GeoPostal','IT');

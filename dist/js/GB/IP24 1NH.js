@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP24 1NH"]={"code":"IP24 1NH","region":"England","city":"Hockham","latitude":52.49574,"longitude":0.87599}}(window,'GeoPostal','GB');

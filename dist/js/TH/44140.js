@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44140"]={"code":"44140","region":"Maha Sarakham","city":"Kosum Phisai","latitude":16.24858,"longitude":103.06739}}(window,'GeoPostal','TH');

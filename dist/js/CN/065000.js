@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["065000"]={"code":"065000","region":"Hebei","city":"Langfang","latitude":39.50972,"longitude":116.69472}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68774"]={"code":"68774","region":"Nebraska","city":"Saint Helena","latitude":42.82021,"longitude":-97.340494}}(window,'GeoPostal','US');

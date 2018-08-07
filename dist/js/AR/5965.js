@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5965"]={"code":"5965","region":"Cordoba","city":"Las Junturas","latitude":-31.83125,"longitude":-63.45016}}(window,'GeoPostal','AR');

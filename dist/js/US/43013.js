@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43013"]={"code":"43013","region":"OH","city":"Croton","latitude":40.2376,"longitude":-82.6989}}(window,'GeoPostal','US');

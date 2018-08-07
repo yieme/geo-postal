@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL1 3NE"]={"code":"DL1 3NE","region":"England","city":"High Beaumont Hill","latitude":54.56288,"longitude":-1.54741}}(window,'GeoPostal','GB');

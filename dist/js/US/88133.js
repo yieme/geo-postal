@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88133"]={"code":"88133","region":"NM","city":"Saint Vrain","latitude":34.4756,"longitude":-103.4669}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44880-000"]={"code":"44880-000","region":"Bahia","city":"Cafarnaum","latitude":-11.69361,"longitude":-41.46833}}(window,'GeoPostal','BR');

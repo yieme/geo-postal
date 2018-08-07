@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81479"]={"code":"81479","region":"Bayern","city":"Obersendling","latitude":48.09012,"longitude":11.52758}}(window,'GeoPostal','DE');

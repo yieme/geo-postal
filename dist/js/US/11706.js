@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11706"]={"code":"11706","region":"New York","city":"Bay Shore","latitude":40.636111,"longitude":-73.197222}}(window,'GeoPostal','US');

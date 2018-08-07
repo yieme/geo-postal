@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1S0"]={"code":"J0V 1S0","region":"Quebec","city":"Plaisance","latitude":45.6168,"longitude":-75.116}}(window,'GeoPostal','CA');

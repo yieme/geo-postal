@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55971"]={"code":"55971","region":"Minnesota","city":"Rushford","latitude":43.798657,"longitude":-91.754796}}(window,'GeoPostal','US');

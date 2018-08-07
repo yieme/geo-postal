@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37061"]={"code":"37061","region":"Tennessee","city":"Erin","latitude":36.31839,"longitude":-87.69474}}(window,'GeoPostal','US');

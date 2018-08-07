@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49056"]={"code":"49056","region":"Michigan","city":"Grand Junction","latitude":42.375726,"longitude":-86.059161}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42644"]={"code":"42644","region":"Konya","city":"Ahirli","latitude":37.23874,"longitude":32.11881}}(window,'GeoPostal','TR');

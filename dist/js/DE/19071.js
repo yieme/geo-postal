@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19071"]={"code":"19071","region":"Mecklenburg-Vorpommern","city":"Dalberg","latitude":53.72472,"longitude":11.28593}}(window,'GeoPostal','DE');

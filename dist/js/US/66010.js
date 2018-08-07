@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66010"]={"code":"66010","region":"Kansas","city":"Blue Mound","latitude":38.095544,"longitude":-95.004951}}(window,'GeoPostal','US');

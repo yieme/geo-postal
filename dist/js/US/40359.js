@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40359"]={"code":"40359","region":"Kentucky","city":"Owenton","latitude":38.4786,"longitude":-84.81408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32131"]={"code":"32131","region":"FL","city":"East Palatka","latitude":29.6609,"longitude":-81.5879}}(window,'GeoPostal','US');

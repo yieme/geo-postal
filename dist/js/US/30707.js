@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30707"]={"code":"30707","region":"Georgia","city":"Chickamauga","latitude":34.846084,"longitude":-85.328228}}(window,'GeoPostal','US');

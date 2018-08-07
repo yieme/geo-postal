@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98200"]={"code":"98200","region":"Zacatecas","city":"Concepcion del Oro","latitude":24.63333,"longitude":-101.41667}}(window,'GeoPostal','MX');

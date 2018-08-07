@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65658"]={"code":"65658","region":"Missouri","city":"Golden","latitude":36.52417,"longitude":-93.65389}}(window,'GeoPostal','US');

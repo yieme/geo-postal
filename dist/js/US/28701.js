@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28701"]={"code":"28701","region":"NC","city":"Alexander","latitude":35.7064,"longitude":-82.6311}}(window,'GeoPostal','US');

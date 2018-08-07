@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61081"]={"code":"61081","region":"Illinois","city":"Sterling","latitude":41.78864,"longitude":-89.69622}}(window,'GeoPostal','US');

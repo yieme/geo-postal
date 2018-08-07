@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15067"]={"code":"15067","region":"PA","city":"New Eagle","latitude":40.2066,"longitude":-79.9534}}(window,'GeoPostal','US');

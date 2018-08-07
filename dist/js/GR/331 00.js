@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331 00"]={"code":"331 00","region":"Sterea Ellada","city":"Amfissa","latitude":38.525,"longitude":22.37306}}(window,'GeoPostal','GR');

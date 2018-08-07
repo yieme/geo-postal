@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B9A 1E4"]={"code":"B9A 1E4","region":"Nova Scotia","city":"Troy","latitude":45.70014,"longitude":-61.43184}}(window,'GeoPostal','CA');

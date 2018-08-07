@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59089"]={"code":"59089","region":"MT","city":"Wyola","latitude":45.1089,"longitude":-107.4303}}(window,'GeoPostal','US');

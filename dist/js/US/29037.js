@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29037"]={"code":"29037","region":"SC","city":"Chappells","latitude":34.1856,"longitude":-81.8644}}(window,'GeoPostal','US');

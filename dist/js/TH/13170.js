@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13170"]={"code":"13170","region":"Phra Nakhon Si Ayutthaya","city":"Wang Noi","latitude":14.22689,"longitude":100.7155}}(window,'GeoPostal','TH');

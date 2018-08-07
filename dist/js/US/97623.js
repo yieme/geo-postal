@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97623"]={"code":"97623","region":"Oregon","city":"Bonanza","latitude":42.29443,"longitude":-121.185097}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62840"]={"code":"62840","region":"IL","city":"Frankfort Heights","latitude":37.9943,"longitude":-88.9417}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4623"]={"code":"4623","region":"Oberosterreich","city":"Wels","latitude":48.16667,"longitude":14.03333}}(window,'GeoPostal','AT');

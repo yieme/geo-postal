@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49425"]={"code":"49425","region":"MI","city":"Holton","latitude":43.4415,"longitude":-86.1509}}(window,'GeoPostal','US');

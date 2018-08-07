@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62884"]={"code":"62884","region":"Illinois","city":"Sesser","latitude":38.091614,"longitude":-89.050493}}(window,'GeoPostal','US');

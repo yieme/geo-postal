@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4178"]={"code":"4178","region":"Tucuman","city":"Alderetes","latitude":-26.81667,"longitude":-65.13333}}(window,'GeoPostal','AR');

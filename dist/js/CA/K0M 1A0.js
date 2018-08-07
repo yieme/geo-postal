@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 1A0"]={"code":"K0M 1A0","region":"Ontario","city":"Bobcaygeon","latitude":44.5462,"longitude":-78.54203}}(window,'GeoPostal','CA');

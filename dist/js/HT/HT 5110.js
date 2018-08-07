@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 5110"]={"code":"HT 5110","region":"Centre","city":"Hinche","latitude":19.15,"longitude":-72.01667}}(window,'GeoPostal','HT');

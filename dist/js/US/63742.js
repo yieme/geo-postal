@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63742"]={"code":"63742","region":"MO","city":"Commerce","latitude":37.157,"longitude":-89.4484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G83 0QD"]={"code":"G83 0QD","region":"Scotland","city":"Alexandria","latitude":55.99379,"longitude":-4.5864}}(window,'GeoPostal','GB');

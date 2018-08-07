@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70541"]={"code":"70541","region":"LA","city":"Grand Coteau","latitude":30.4201,"longitude":-92.0462}}(window,'GeoPostal','US');

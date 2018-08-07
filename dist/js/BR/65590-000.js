@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65590-000"]={"code":"65590-000","region":"Maranhao","city":"Barreirinhas","latitude":-2.74694,"longitude":-42.82639}}(window,'GeoPostal','BR');

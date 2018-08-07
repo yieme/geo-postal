@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["542400"]={"code":"542400","region":"Xizang","city":"Nagqu","latitude":31.5,"longitude":92}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["232 00"]={"code":"232 00","region":"Peloponnisos","city":"Gytheion","latitude":36.755,"longitude":22.56417}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 3LX"]={"code":"NG32 3LX","region":"England","city":"Welby","latitude":52.93312,"longitude":-0.55069}}(window,'GeoPostal','GB');

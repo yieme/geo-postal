@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247050"]={"code":"247050","region":"Valcea","city":"Boisoara","latitude":45.43333,"longitude":24.38333}}(window,'GeoPostal','RO');

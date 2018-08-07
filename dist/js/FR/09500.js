@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09500"]={"code":"09500","region":"Occitanie","city":"Mirepoix","latitude":43.08773,"longitude":1.8735}}(window,'GeoPostal','FR');

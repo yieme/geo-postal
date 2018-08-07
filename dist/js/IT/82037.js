@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82037"]={"code":"82037","region":"Campania","city":"Telese","latitude":41.21732,"longitude":14.52773}}(window,'GeoPostal','IT');

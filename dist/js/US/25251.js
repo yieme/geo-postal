@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25251"]={"code":"25251","region":"West Virginia","city":"Left Hand","latitude":38.61861,"longitude":-81.245}}(window,'GeoPostal','US');

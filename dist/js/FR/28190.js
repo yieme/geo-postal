@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28190"]={"code":"28190","region":"Centre-Val de Loire","city":"Pontgouin","latitude":48.4811,"longitude":1.1619}}(window,'GeoPostal','FR');

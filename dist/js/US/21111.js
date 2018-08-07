@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21111"]={"code":"21111","region":"MD","city":"Monkton","latitude":39.5662,"longitude":-76.5979}}(window,'GeoPostal','US');

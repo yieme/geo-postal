@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15100"]={"code":"15100","region":"Burdur","city":"Burdur","latitude":37.72028,"longitude":30.29083}}(window,'GeoPostal','TR');

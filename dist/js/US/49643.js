@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49643"]={"code":"49643","region":"Michigan","city":"Interlochen","latitude":44.64472,"longitude":-85.76722}}(window,'GeoPostal','US');

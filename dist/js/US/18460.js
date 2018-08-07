@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18460"]={"code":"18460","region":"PA","city":"South Sterling","latitude":41.2643,"longitude":-75.348}}(window,'GeoPostal','US');

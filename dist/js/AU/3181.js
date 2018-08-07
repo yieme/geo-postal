@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3181"]={"code":"3181","region":"Victoria","city":"Prahran","latitude":-37.85114,"longitude":144.99318}}(window,'GeoPostal','AU');

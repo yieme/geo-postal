@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17763"]={"code":"17763","region":"PA","city":"Ralston","latitude":41.5038,"longitude":-76.9583}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV55 8WA"]={"code":"IV55 8WA","region":"Scotland","city":"Dunvegan","latitude":57.43504,"longitude":-6.57923}}(window,'GeoPostal','GB');

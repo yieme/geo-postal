@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54824"]={"code":"54824","region":"Wisconsin","city":"Centuria","latitude":45.44972,"longitude":-92.55333}}(window,'GeoPostal','US');

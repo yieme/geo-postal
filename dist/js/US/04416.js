@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04416"]={"code":"04416","region":"Maine","city":"Bucksport","latitude":44.57369,"longitude":-68.79559}}(window,'GeoPostal','US');

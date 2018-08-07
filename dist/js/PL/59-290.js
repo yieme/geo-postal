@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-290"]={"code":"59-290","region":"Dolnoslaskie","city":"Legnica","latitude":51.21006,"longitude":16.1619}}(window,'GeoPostal','PL');

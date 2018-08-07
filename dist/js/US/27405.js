@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27405"]={"code":"27405","region":"North Carolina","city":"Greensboro","latitude":36.11058,"longitude":-79.7406}}(window,'GeoPostal','US');

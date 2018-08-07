@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04487"]={"code":"04487","region":"ME","city":"Springfield","latitude":45.4264,"longitude":-68.1108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62760-000"]={"code":"62760-000","region":"Ceara","city":"Baturite","latitude":-4.32861,"longitude":-38.88472}}(window,'GeoPostal','BR');

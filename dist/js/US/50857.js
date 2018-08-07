@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50857"]={"code":"50857","region":"IA","city":"Nodaway","latitude":40.954,"longitude":-94.8731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74875"]={"code":"74875","region":"OK","city":"Tryon","latitude":35.8759,"longitude":-96.9623}}(window,'GeoPostal','US');

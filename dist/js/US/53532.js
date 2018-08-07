@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53532"]={"code":"53532","region":"WI","city":"De Forest","latitude":43.2478,"longitude":-89.3437}}(window,'GeoPostal','US');

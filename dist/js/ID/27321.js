@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27321"]={"code":"27321","region":"Sumatera Barat","city":"Solok","latitude":-0.79183,"longitude":100.65932}}(window,'GeoPostal','ID');

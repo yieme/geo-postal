@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE7 3PA"]={"code":"PE7 3PA","region":"England","city":"Holme","latitude":52.47585,"longitude":-0.24535}}(window,'GeoPostal','GB');

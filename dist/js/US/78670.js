@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78670"]={"code":"78670","region":"TX","city":"Staples","latitude":29.7706,"longitude":-97.8186}}(window,'GeoPostal','US');

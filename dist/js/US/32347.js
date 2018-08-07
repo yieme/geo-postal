@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32347"]={"code":"32347","region":"Florida","city":"Perry","latitude":30.11744,"longitude":-83.58181}}(window,'GeoPostal','US');

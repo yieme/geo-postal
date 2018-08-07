@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49024"]={"code":"49024","region":"Michigan","city":"Portage","latitude":42.201383,"longitude":-85.590555}}(window,'GeoPostal','US');

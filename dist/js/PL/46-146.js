@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-146"]={"code":"46-146","region":"Opolskie","city":"Domaszowice","latitude":51.0429,"longitude":17.88875}}(window,'GeoPostal','PL');

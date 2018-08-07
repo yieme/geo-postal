@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134700"]={"code":"134700","region":"Jilin","city":"Sanchazi","latitude":42.08167,"longitude":126.60028}}(window,'GeoPostal','CN');

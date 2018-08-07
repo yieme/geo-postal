@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15137"]={"code":"15137","region":"Pennsylvania","city":"North Versailles","latitude":40.39138,"longitude":-79.836879}}(window,'GeoPostal','US');

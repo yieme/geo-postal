@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66775"]={"code":"66775","region":"Kansas","city":"Stark","latitude":37.686983,"longitude":-95.129293}}(window,'GeoPostal','US');

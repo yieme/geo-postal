@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17890"]={"code":"17890","region":"Stockholms lan","city":"Ekeroe","latitude":59.291,"longitude":17.81212}}(window,'GeoPostal','SE');

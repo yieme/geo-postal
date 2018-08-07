@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-404"]={"code":"28-404","region":"Swietokrzyskie","city":"Kije","latitude":50.60721,"longitude":20.57121}}(window,'GeoPostal','PL');

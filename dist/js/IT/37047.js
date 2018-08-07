@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37047"]={"code":"37047","region":"Veneto","city":"San Bonifacio","latitude":45.39689,"longitude":11.2844}}(window,'GeoPostal','IT');

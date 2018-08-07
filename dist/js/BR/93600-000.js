@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93600-000"]={"code":"93600-000","region":"Rio Grande do Sul","city":"Novo Hamburgo","latitude":-29.67833,"longitude":-51.13056}}(window,'GeoPostal','BR');

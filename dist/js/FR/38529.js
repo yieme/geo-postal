@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38529"]={"code":"38529","region":"Auvergne-Rhone-Alpes","city":"Saint-Egreve","latitude":45.23333,"longitude":5.68333}}(window,'GeoPostal','FR');

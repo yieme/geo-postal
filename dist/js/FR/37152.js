@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37152"]={"code":"37152","region":"Centre-Val de Loire","city":"Blere","latitude":47.32738,"longitude":0.99186}}(window,'GeoPostal','FR');

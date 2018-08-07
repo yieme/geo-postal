@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37773"]={"code":"37773","region":"TN","city":"Lone Mountain","latitude":36.3906,"longitude":-83.5849}}(window,'GeoPostal','US');

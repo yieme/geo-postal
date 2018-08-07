@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-354"]={"code":"98-354","region":"Lodzkie","city":"Siemkowice","latitude":51.20194,"longitude":18.8988}}(window,'GeoPostal','PL');

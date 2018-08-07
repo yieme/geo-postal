@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51591"]={"code":"51591","region":"IA","city":"Red Oak","latitude":41.0303,"longitude":-95.1562}}(window,'GeoPostal','US');

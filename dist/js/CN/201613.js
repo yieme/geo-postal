@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["201613"]={"code":"201613","region":"Shanghai","city":"Songjiang","latitude":31.03595,"longitude":121.2146}}(window,'GeoPostal','CN');

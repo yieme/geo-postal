@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34142"]={"code":"34142","region":"Florida","city":"Immokalee","latitude":26.33068,"longitude":-81.31493}}(window,'GeoPostal','US');

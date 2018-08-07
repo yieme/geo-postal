@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO41 9AJ"]={"code":"SO41 9AJ","region":"England","city":"Lymington","latitude":50.75767,"longitude":-1.5443}}(window,'GeoPostal','GB');

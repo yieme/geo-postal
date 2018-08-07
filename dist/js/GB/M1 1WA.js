@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M1 1WA"]={"code":"M1 1WA","region":"England","city":"Manchester City Centre","latitude":53.48189,"longitude":-2.23889}}(window,'GeoPostal','GB');

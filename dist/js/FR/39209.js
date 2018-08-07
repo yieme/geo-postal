@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39209"]={"code":"39209","region":"Bourgogne-Franche-Comte","city":"Saint-Claude","latitude":46.39164,"longitude":5.8643}}(window,'GeoPostal','FR');

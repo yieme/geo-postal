@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61462"]={"code":"61462","region":"Illinois","city":"Monmouth","latitude":40.855,"longitude":-90.613056}}(window,'GeoPostal','US');

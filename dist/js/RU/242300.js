@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242300"]={"code":"242300","region":"Bryanskaya oblast'","city":"Lokot'","latitude":52.565,"longitude":34.5776}}(window,'GeoPostal','RU');

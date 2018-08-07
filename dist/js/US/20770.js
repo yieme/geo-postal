@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20770"]={"code":"20770","region":"Maryland","city":"Greenbelt","latitude":38.997395,"longitude":-76.881846}}(window,'GeoPostal','US');

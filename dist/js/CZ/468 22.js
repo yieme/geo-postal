@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 22"]={"code":"468 22","region":"Liberecky kraj","city":"Zelezny Brod","latitude":50.64274,"longitude":15.25408}}(window,'GeoPostal','CZ');

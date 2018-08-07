@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2388"]={"code":"2388","region":"New South Wales","city":"Wee Waa","latitude":-30.2266,"longitude":149.44041}}(window,'GeoPostal','AU');

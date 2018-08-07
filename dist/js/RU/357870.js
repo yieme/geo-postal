@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357870"]={"code":"357870","region":"Stavropol'skiy kray","city":"Edissiya","latitude":44.05111,"longitude":44.54083}}(window,'GeoPostal','RU');

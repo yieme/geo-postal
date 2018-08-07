@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77693"]={"code":"77693","region":"Dalarnas lan","city":"Hedemora","latitude":60.27973,"longitude":15.98855}}(window,'GeoPostal','SE');

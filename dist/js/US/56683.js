@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56683"]={"code":"56683","region":"Minnesota","city":"Tenstrike","latitude":47.660298,"longitude":-94.683818}}(window,'GeoPostal','US');

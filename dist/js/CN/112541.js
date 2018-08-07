@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["112541"]={"code":"112541","region":"Liaoning","city":"Ertaizi","latitude":42.87324,"longitude":124.05192}}(window,'GeoPostal','CN');

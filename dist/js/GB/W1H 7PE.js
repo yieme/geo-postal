@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W1H 7PE"]={"code":"W1H 7PE","region":"Scotland","city":"Craig","latitude":56.65,"longitude":-3.2}}(window,'GeoPostal','GB');

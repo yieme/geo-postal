@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3601"]={"code":"3601","region":"Formosa","city":"San Francisco de Laishi","latitude":-26.24262,"longitude":-58.63039}}(window,'GeoPostal','AR');

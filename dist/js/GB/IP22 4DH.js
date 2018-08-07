@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP22 4DH"]={"code":"IP22 4DH","region":"England","city":"Diss","latitude":52.37675,"longitude":1.1091}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42413"]={"code":"42413","region":"KY","city":"Hanson","latitude":37.4382,"longitude":-87.4751}}(window,'GeoPostal','US');

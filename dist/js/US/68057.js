@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68057"]={"code":"68057","region":"NE","city":"Scribner","latitude":41.663,"longitude":-96.6441}}(window,'GeoPostal','US');

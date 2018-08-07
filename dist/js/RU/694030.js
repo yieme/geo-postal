@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694030"]={"code":"694030","region":"Sakhalinskaya oblast'","city":"Aniva","latitude":46.71444,"longitude":142.52939}}(window,'GeoPostal','RU');

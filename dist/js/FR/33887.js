@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33887"]={"code":"33887","region":"Nouvelle-Aquitaine","city":"Villenave-d'Ornon","latitude":44.77327,"longitude":-0.5442}}(window,'GeoPostal','FR');

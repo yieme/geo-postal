@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 1Z0"]={"code":"N0G 1Z0","region":"Ontario","city":"Minto","latitude":43.917,"longitude":-80.867}}(window,'GeoPostal','CA');

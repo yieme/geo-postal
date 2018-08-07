@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54221"]={"code":"54221","region":"Wisconsin","city":"Manitowoc","latitude":44.129721,"longitude":-87.60597}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98391"]={"code":"98391","region":"WA","city":"Bonney Lake","latitude":47.143,"longitude":-122.1644}}(window,'GeoPostal','US');

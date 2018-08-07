@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78606"]={"code":"78606","region":"Texas","city":"Blanco","latitude":30.09799,"longitude":-98.42141}}(window,'GeoPostal','US');

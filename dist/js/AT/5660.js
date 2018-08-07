@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5660"]={"code":"5660","region":"Salzburg","city":"Lend","latitude":47.29856,"longitude":13.05176}}(window,'GeoPostal','AT');

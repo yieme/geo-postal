@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77510"]={"code":"77510","region":"Ile-de-France","city":"Rebais","latitude":48.84721,"longitude":3.23232}}(window,'GeoPostal','FR');

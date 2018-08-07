@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518470"]={"code":"518470","region":"Andhra Pradesh","city":"Emmiganuru","latitude":15.73333,"longitude":77.48333}}(window,'GeoPostal','IN');

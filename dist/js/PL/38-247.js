@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-247"]={"code":"38-247","region":"Malopolskie","city":"Olpiny","latitude":49.80686,"longitude":21.20464}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3230"]={"code":"3230","region":"Corrientes","city":"Paso de los Libres","latitude":-29.71311,"longitude":-57.08991}}(window,'GeoPostal','AR');

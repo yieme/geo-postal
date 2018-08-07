@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 3NJ"]={"code":"SY11 3NJ","region":"England","city":"Gobowen","latitude":52.89615,"longitude":-3.03686}}(window,'GeoPostal','GB');

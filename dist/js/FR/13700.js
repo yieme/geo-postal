@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13700"]={"code":"13700","region":"Provence-Alpes-Cote d'Azur","city":"Marignane","latitude":43.41604,"longitude":5.21453}}(window,'GeoPostal','FR');

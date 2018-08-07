@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249841"]={"code":"249841","region":"Kaluzhskaya oblast'","city":"Zhiletovo","latitude":54.69216,"longitude":36.02225}}(window,'GeoPostal','RU');

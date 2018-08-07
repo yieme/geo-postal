@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX19 8BG"]={"code":"EX19 8BG","region":"England","city":"Iddesleigh","latitude":50.8555,"longitude":-4.03308}}(window,'GeoPostal','GB');

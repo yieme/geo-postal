@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["015 01"]={"code":"015 01","region":"Zilinsky kraj","city":"Rajec","latitude":49.08898,"longitude":18.64007}}(window,'GeoPostal','SK');

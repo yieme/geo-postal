@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93444"]={"code":"93444","region":"Bayern","city":"Bad Koetzting","latitude":49.17194,"longitude":12.85675}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 78"]={"code":"630 78","region":"Kriti","city":"Ayios Nikolaos","latitude":40.25,"longitude":23.7}}(window,'GeoPostal','GR');

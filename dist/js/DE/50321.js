@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50321"]={"code":"50321","region":"Nordrhein-Westfalen","city":"Bruhl","latitude":50.82928,"longitude":6.90499}}(window,'GeoPostal','DE');

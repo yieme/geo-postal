@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66751"]={"code":"66751","region":"Kansas","city":"La Harpe","latitude":37.916345,"longitude":-95.312646}}(window,'GeoPostal','US');

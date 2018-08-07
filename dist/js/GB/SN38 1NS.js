@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN38 1NS"]={"code":"SN38 1NS","region":"England","city":"Swindon","latitude":51.55797,"longitude":-1.78116}}(window,'GeoPostal','GB');

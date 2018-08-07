@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41568"]={"code":"41568","region":"Andalucia","city":"El Rubio","latitude":37.35617,"longitude":-4.98896}}(window,'GeoPostal','ES');

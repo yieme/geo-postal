@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25-363"]={"code":"25-363","region":"Podkarpackie","city":"Wesola","latitude":49.79977,"longitude":22.10029}}(window,'GeoPostal','PL');

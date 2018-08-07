@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49260"]={"code":"49260","region":"Pays-de-la-Loire","city":"Vaudelnay","latitude":47.13812,"longitude":-0.20677}}(window,'GeoPostal','FR');

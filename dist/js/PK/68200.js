@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68200"]={"code":"68200","region":"Sindh","city":"Shahpur Chakar","latitude":26.15497,"longitude":68.65093}}(window,'GeoPostal','PK');

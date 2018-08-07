@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86032"]={"code":"86032","region":"Arizona","city":"Joseph City","latitude":34.95586,"longitude":-110.33401}}(window,'GeoPostal','US');

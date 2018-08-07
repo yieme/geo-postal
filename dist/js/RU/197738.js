@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["197738"]={"code":"197738","region":"Sankt-Peterburg","city":"Repino","latitude":60.17217,"longitude":29.86908}}(window,'GeoPostal','RU');

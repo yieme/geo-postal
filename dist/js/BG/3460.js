@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3460"]={"code":"3460","region":"Montana","city":"Chiprovtsi","latitude":43.38417,"longitude":22.88083}}(window,'GeoPostal','BG');

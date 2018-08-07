@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21659"]={"code":"21659","region":"MD","city":"Rhodesdale","latitude":38.603,"longitude":-75.7749}}(window,'GeoPostal','US');

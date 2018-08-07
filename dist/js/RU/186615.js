@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186615"]={"code":"186615","region":"Kareliya, Respublika","city":"Kem'","latitude":64.95546,"longitude":34.57929}}(window,'GeoPostal','RU');

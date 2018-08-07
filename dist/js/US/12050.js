@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12050"]={"code":"12050","region":"NY","city":"Columbiaville","latitude":42.3172,"longitude":-73.7486}}(window,'GeoPostal','US');

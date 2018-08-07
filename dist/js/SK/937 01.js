@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["937 01"]={"code":"937 01","region":"Nitriansky kraj","city":"Zeliezovce","latitude":48.05075,"longitude":18.65421}}(window,'GeoPostal','SK');

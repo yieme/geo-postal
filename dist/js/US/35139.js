@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35139"]={"code":"35139","region":"AL","city":"Sayre","latitude":33.7111,"longitude":-86.9759}}(window,'GeoPostal','US');

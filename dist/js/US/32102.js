@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32102"]={"code":"32102","region":"Florida","city":"Astor","latitude":29.156264,"longitude":-81.546215}}(window,'GeoPostal','US');

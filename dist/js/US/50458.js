@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50458"]={"code":"50458","region":"Iowa","city":"Nora Springs","latitude":43.126582,"longitude":-92.996626}}(window,'GeoPostal','US');

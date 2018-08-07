@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63538"]={"code":"63538","region":"Bayern","city":"Emmerichshofen","latitude":50.09454,"longitude":9.00754}}(window,'GeoPostal','DE');

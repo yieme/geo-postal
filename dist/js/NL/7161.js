@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7161"]={"code":"7161","region":"Gelderland","city":"Neede","latitude":52.13417,"longitude":6.61389}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58623"]={"code":"58623","region":"North Dakota","city":"Bowman","latitude":46.18306,"longitude":-103.39491}}(window,'GeoPostal','US');

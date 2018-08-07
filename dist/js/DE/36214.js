@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36214"]={"code":"36214","region":"Hessen","city":"Bauhaus","latitude":50.99288,"longitude":9.94343}}(window,'GeoPostal','DE');

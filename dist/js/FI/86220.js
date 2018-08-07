@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86220"]={"code":"86220","region":"Pohjois-Pohjanmaa","city":"Merijarvi","latitude":64.3,"longitude":24.45}}(window,'GeoPostal','FI');

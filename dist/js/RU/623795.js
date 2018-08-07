@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623795"]={"code":"623795","region":"Sverdlovskaya oblast'","city":"Pokrovskoye","latitude":56.4704,"longitude":61.6092}}(window,'GeoPostal','RU');

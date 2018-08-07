@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20637"]={"code":"20637","region":"Maryland","city":"Hughesville","latitude":38.523933,"longitude":-76.774897}}(window,'GeoPostal','US');

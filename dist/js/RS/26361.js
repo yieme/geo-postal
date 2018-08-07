@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26361"]={"code":"26361","region":"Juznobanatski okrug","city":"Lokve","latitude":45.15278,"longitude":21.03111}}(window,'GeoPostal','RS');

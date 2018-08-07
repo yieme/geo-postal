@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27841"]={"code":"27841","region":"NC","city":"Hassell","latitude":35.9086,"longitude":-77.2763}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57913"]={"code":"57913","region":"Grand-Est","city":"Hambach","latitude":49.06263,"longitude":7.04246}}(window,'GeoPostal','FR');

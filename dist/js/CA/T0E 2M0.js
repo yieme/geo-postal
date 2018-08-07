@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 2M0"]={"code":"T0E 2M0","region":"Alberta","city":"Wildwood","latitude":53.61684,"longitude":-115.23545}}(window,'GeoPostal','CA');

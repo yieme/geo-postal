@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35473"]={"code":"35473","region":"Alabama","city":"Northport","latitude":33.22901,"longitude":-87.57723}}(window,'GeoPostal','US');

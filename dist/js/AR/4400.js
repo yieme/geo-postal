@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4400"]={"code":"4400","region":"Salta","city":"Salta","latitude":-24.7859,"longitude":-65.41166}}(window,'GeoPostal','AR');

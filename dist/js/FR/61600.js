@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61600"]={"code":"61600","region":"Normandie","city":"Magny-le-Desert","latitude":48.57015,"longitude":-0.32732}}(window,'GeoPostal','FR');

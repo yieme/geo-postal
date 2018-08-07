@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66490"]={"code":"66490","region":"Occitanie","city":"Sant Joan de Pladecorts","latitude":42.51069,"longitude":2.79091}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG9 1UH"]={"code":"RG9 1UH","region":"England","city":"Henley","latitude":51.01667,"longitude":-0.73333}}(window,'GeoPostal','GB');

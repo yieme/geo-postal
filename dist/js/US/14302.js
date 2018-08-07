@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14302"]={"code":"14302","region":"NY","city":"Niagara Falls","latitude":43.0945,"longitude":-79.0567}}(window,'GeoPostal','US');

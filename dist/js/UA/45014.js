@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45014"]={"code":"45014","region":"Volynska oblast","city":"Kovel'","latitude":51.21526,"longitude":24.70867}}(window,'GeoPostal','UA');

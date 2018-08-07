@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2480"]={"code":"2480","region":"New South Wales","city":"Lismore","latitude":-28.81354,"longitude":153.2773}}(window,'GeoPostal','AU');

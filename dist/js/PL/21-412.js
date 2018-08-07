@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-412"]={"code":"21-412","region":"Lubelskie","city":"Adamow","latitude":51.74335,"longitude":22.26414}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70032"]={"code":"70032","region":"Louisiana","city":"Arabi","latitude":29.958641,"longitude":-89.998522}}(window,'GeoPostal','US');

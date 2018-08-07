@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58579"]={"code":"58579","region":"Michoacan de Ocampo","city":"Panindicuaro de la Reforma","latitude":19.96667,"longitude":-101.76667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88814"]={"code":"88814","region":"Calabria","city":"Melissa","latitude":39.3086,"longitude":17.02981}}(window,'GeoPostal','IT');

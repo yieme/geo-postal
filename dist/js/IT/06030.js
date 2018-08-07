@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06030"]={"code":"06030","region":"Umbria","city":"Sellano","latitude":42.88874,"longitude":12.92707}}(window,'GeoPostal','IT');

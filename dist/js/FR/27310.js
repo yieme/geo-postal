@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27310"]={"code":"27310","region":"Normandie","city":"Bourg-Achard","latitude":49.35322,"longitude":0.81623}}(window,'GeoPostal','FR');

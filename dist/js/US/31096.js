@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31096"]={"code":"31096","region":"GA","city":"Wrightsville","latitude":32.7219,"longitude":-82.7262}}(window,'GeoPostal','US');

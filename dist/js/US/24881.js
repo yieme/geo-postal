@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24881"]={"code":"24881","region":"WV","city":"Roderfield","latitude":37.4504,"longitude":-81.7057}}(window,'GeoPostal','US');

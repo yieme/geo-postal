@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO8 3TH"]={"code":"YO8 3TH","region":"England","city":"Cawood","latitude":53.83303,"longitude":-1.12962}}(window,'GeoPostal','GB');

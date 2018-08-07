@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61254"]={"code":"61254","region":"Illinois","city":"Geneseo","latitude":41.459373,"longitude":-90.162801}}(window,'GeoPostal','US');

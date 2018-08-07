@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35125"]={"code":"35125","region":"Alabama","city":"Pell City","latitude":33.573262,"longitude":-86.277295}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17883"]={"code":"17883","region":"PA","city":"Vicksburg","latitude":40.9387,"longitude":-76.988}}(window,'GeoPostal','US');

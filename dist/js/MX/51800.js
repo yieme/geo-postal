@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51800"]={"code":"51800","region":"Mexico","city":"Zacualpan","latitude":18.71667,"longitude":-99.78333}}(window,'GeoPostal','MX');

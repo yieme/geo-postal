@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245100"]={"code":"245100","region":"Anhui","city":"Qili","latitude":30.19906,"longitude":117.47798}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07320"]={"code":"07320","region":"Auvergne-Rhone-Alpes","city":"Saint-Agreve","latitude":45.00993,"longitude":4.39375}}(window,'GeoPostal','FR');

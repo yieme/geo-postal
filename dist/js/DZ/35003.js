@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35003"]={"code":"35003","region":"Boumerdes","city":"Boudouaou","latitude":36.72735,"longitude":3.40995}}(window,'GeoPostal','DZ');

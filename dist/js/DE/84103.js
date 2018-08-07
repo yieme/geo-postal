@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84103"]={"code":"84103","region":"Bayern","city":"Postau","latitude":48.65,"longitude":12.33333}}(window,'GeoPostal','DE');

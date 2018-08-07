@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78628"]={"code":"78628","region":"Baden-Wurttemberg","city":"Rottweil","latitude":48.16783,"longitude":8.62719}}(window,'GeoPostal','DE');

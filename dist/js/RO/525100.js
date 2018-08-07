@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["525100"]={"code":"525100","region":"Covasna","city":"Baraolt","latitude":46.07514,"longitude":25.60029}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25927"]={"code":"25927","region":"Schleswig-Holstein","city":"Fegetasch","latitude":54.86667,"longitude":8.73333}}(window,'GeoPostal','DE');

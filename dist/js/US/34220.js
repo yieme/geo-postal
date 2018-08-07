@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34220"]={"code":"34220","region":"FL","city":"Palmetto","latitude":27.5214,"longitude":-82.5723}}(window,'GeoPostal','US');

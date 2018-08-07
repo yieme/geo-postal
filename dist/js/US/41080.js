@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41080"]={"code":"41080","region":"KY","city":"Petersburg","latitude":39.0416,"longitude":-84.8371}}(window,'GeoPostal','US');

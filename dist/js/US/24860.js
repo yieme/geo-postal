@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24860"]={"code":"24860","region":"WV","city":"Matheny","latitude":37.6624,"longitude":-81.607}}(window,'GeoPostal','US');

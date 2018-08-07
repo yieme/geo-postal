@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67015"]={"code":"67015","region":"Abruzzo","city":"Montereale","latitude":42.52184,"longitude":13.24758}}(window,'GeoPostal','IT');

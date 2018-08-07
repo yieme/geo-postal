@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99037"]={"code":"99037","region":"Washington","city":"Veradale","latitude":47.643461,"longitude":-117.197732}}(window,'GeoPostal','US');

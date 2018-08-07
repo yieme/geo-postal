@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56041"]={"code":"56041","region":"MN","city":"Hanska","latitude":44.1527,"longitude":-94.4933}}(window,'GeoPostal','US');

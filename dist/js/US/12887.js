@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12887"]={"code":"12887","region":"New York","city":"Whitehall","latitude":43.55562,"longitude":-73.40372}}(window,'GeoPostal','US');

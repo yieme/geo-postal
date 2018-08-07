@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85038"]={"code":"85038","region":"Basilicata","city":"Senise","latitude":40.14711,"longitude":16.28888}}(window,'GeoPostal','IT');

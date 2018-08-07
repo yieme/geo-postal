@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247271"]={"code":"247271","region":"Anhui","city":"Makeng","latitude":29.92468,"longitude":117.08471}}(window,'GeoPostal','CN');

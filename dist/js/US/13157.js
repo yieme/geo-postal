@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13157"]={"code":"13157","region":"New York","city":"Sylvan Beach","latitude":42.46479,"longitude":-77.1083}}(window,'GeoPostal','US');

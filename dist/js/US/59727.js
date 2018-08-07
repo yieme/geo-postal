@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59727"]={"code":"59727","region":"MT","city":"Divide","latitude":45.803,"longitude":-112.809}}(window,'GeoPostal','US');

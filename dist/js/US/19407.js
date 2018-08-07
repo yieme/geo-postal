@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19407"]={"code":"19407","region":"PA","city":"Audubon","latitude":40.2119,"longitude":-75.3559}}(window,'GeoPostal','US');

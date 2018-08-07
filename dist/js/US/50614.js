@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50614"]={"code":"50614","region":"Iowa","city":"Cedar Falls","latitude":42.51211,"longitude":-92.45907}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31625"]={"code":"31625","region":"GA","city":"Barney","latitude":31.0074,"longitude":-83.5219}}(window,'GeoPostal','US');

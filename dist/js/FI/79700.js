@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79700"]={"code":"79700","region":"Etela-Savo","city":"Heinavesi","latitude":62.43333,"longitude":28.6}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45300"]={"code":"45300","region":"Castilla-La Mancha","city":"Ocana","latitude":39.95785,"longitude":-3.4982}}(window,'GeoPostal','ES');

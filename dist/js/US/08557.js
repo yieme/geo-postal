@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08557"]={"code":"08557","region":"NJ","city":"Sergeantsville","latitude":40.4459,"longitude":-74.9435}}(window,'GeoPostal','US');

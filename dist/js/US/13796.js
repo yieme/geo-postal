@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13796"]={"code":"13796","region":"New York","city":"Laurens","latitude":42.54372,"longitude":-75.1407}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2M 4X9"]={"code":"E2M 4X9","region":"New Brunswick","city":"Saint John","latitude":45.259599,"longitude":-66.097733}}(window,'GeoPostal','CA');

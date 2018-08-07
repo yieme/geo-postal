@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96170"]={"code":"96170","region":"Bayern","city":"Kirchaich","latitude":49.91778,"longitude":10.68168}}(window,'GeoPostal','DE');

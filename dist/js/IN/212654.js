@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["212654"]={"code":"212654","region":"Uttar Pradesh","city":"Bindki","latitude":26.03333,"longitude":80.6}}(window,'GeoPostal','IN');

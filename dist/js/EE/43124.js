@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43124"]={"code":"43124","region":"Ida-Virumaa","city":"Kivioli","latitude":59.35306,"longitude":26.97111}}(window,'GeoPostal','EE');

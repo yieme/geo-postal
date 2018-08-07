@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["267 62"]={"code":"267 62","region":"Stredocesky kraj","city":"Komarov","latitude":49.8065,"longitude":13.85636}}(window,'GeoPostal','CZ');

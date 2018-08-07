@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20891"]={"code":"20891","region":"MD","city":"Kensington","latitude":39.0257,"longitude":-77.0764}}(window,'GeoPostal','US');

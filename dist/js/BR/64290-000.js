@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64290-000"]={"code":"64290-000","region":"Piaui","city":"Altos","latitude":-5.03806,"longitude":-42.46}}(window,'GeoPostal','BR');

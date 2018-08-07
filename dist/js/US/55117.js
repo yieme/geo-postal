@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55117"]={"code":"55117","region":"Minnesota","city":"Little Canada","latitude":45.000144,"longitude":-93.083067}}(window,'GeoPostal','US');

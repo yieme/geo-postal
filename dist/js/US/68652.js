@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68652"]={"code":"68652","region":"Nebraska","city":"Petersburg","latitude":41.857337,"longitude":-98.147856}}(window,'GeoPostal','US');

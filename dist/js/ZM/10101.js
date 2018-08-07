@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10101"]={"code":"10101","region":"Lusaka","city":"Lusaka","latitude":-15.40669,"longitude":28.28713}}(window,'GeoPostal','ZM');

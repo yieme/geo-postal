@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1L 5S7"]={"code":"V1L 5S7","region":"British Columbia","city":"Nelson","latitude":49.495228,"longitude":-117.296381}}(window,'GeoPostal','CA');

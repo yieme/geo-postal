@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14009"]={"code":"14009","region":"New York","city":"Arcade","latitude":42.53395,"longitude":-78.42307}}(window,'GeoPostal','US');

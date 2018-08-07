@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4902"]={"code":"4902","region":"Aust-Agder","city":"Tvedestrand","latitude":58.62203,"longitude":8.93147}}(window,'GeoPostal','NO');

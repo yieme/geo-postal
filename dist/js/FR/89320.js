@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89320"]={"code":"89320","region":"Bourgogne-Franche-Comte","city":"Arces-Dilo","latitude":48.0917,"longitude":3.5983}}(window,'GeoPostal','FR');

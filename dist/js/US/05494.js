@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05494"]={"code":"05494","region":"VT","city":"Westford","latitude":44.6182,"longitude":-73.006}}(window,'GeoPostal','US');

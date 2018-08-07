@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626600"]={"code":"626600","region":"Sichuan","city":"Seke","latitude":32.27146,"longitude":100.33316}}(window,'GeoPostal','CN');

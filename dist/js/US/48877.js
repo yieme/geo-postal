@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48877"]={"code":"48877","region":"MI","city":"Riverdale","latitude":43.4017,"longitude":-84.8429}}(window,'GeoPostal','US');

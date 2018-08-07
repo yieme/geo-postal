@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397815"]={"code":"397815","region":"Voronezhskaya oblast'","city":"Devitsa","latitude":51.6352,"longitude":38.945}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29933"]={"code":"29933","region":"SC","city":"Miley","latitude":32.9479,"longitude":-81.0318}}(window,'GeoPostal','US');

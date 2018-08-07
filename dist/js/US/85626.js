@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85626"]={"code":"85626","region":"AZ","city":"Pirtleville","latitude":31.3572,"longitude":-109.5635}}(window,'GeoPostal','US');

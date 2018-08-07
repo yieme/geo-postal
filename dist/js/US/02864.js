@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02864"]={"code":"02864","region":"Rhode Island","city":"Cumberland","latitude":41.90328,"longitude":-71.39238}}(window,'GeoPostal','US');

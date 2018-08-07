@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45680"]={"code":"45680","region":"Castilla-La Mancha","city":"Cebolla","latitude":39.94897,"longitude":-4.57175}}(window,'GeoPostal','ES');

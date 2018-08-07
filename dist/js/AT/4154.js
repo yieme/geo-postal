@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4154"]={"code":"4154","region":"Oberosterreich","city":"Nebelberg","latitude":48.62854,"longitude":13.84629}}(window,'GeoPostal','AT');

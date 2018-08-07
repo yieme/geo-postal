@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61360"]={"code":"61360","region":"Illinois","city":"Seneca","latitude":41.327334,"longitude":-88.609726}}(window,'GeoPostal','US');

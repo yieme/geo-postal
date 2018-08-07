@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107515"]={"code":"107515","region":"Mures","city":"Singeru","latitude":45.13333,"longitude":26.35}}(window,'GeoPostal','RO');

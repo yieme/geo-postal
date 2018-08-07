@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95679"]={"code":"95679","region":"CA","city":"Rumsey","latitude":38.8953,"longitude":-122.3079}}(window,'GeoPostal','US');

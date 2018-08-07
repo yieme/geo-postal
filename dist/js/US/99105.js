@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99105"]={"code":"99105","region":"WA","city":"Benge","latitude":46.8591,"longitude":-118.1611}}(window,'GeoPostal','US');

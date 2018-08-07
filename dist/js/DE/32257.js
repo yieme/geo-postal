@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32257"]={"code":"32257","region":"Nordrhein-Westfalen","city":"Buende","latitude":52.19837,"longitude":8.58644}}(window,'GeoPostal','DE');

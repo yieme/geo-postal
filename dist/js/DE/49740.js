@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49740"]={"code":"49740","region":"Niedersachsen","city":"Haselunne","latitude":52.67412,"longitude":7.4846}}(window,'GeoPostal','DE');

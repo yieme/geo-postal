@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 2P0"]={"code":"J0B 2P0","region":"Quebec","city":"Saint-Denis-de-Brompton","latitude":45.45008,"longitude":-72.08239}}(window,'GeoPostal','CA');

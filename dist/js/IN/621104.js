@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["621104"]={"code":"621104","region":"Tamil Nadu","city":"Kanniyakumari","latitude":8.08333,"longitude":77.56667}}(window,'GeoPostal','IN');

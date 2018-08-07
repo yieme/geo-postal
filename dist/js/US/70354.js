@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70354"]={"code":"70354","region":"LA","city":"Galliano","latitude":29.4311,"longitude":-90.2981}}(window,'GeoPostal','US');

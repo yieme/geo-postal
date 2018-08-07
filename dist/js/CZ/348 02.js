@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["348 02"]={"code":"348 02","region":"Plzensky kraj","city":"Bor","latitude":49.71159,"longitude":12.77516}}(window,'GeoPostal','CZ');

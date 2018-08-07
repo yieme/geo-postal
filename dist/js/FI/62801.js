@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62801"]={"code":"62801","region":"Kainuu","city":"Vimpeli","latitude":64.15,"longitude":27.16667}}(window,'GeoPostal','FI');

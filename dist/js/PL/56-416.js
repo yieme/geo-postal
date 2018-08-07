@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56-416"]={"code":"56-416","region":"Dolnoslaskie","city":"Twardogora","latitude":51.36487,"longitude":17.46878}}(window,'GeoPostal','PL');

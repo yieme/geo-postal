@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01998"]={"code":"01998","region":"Brandenburg","city":"Klettwitz","latitude":51.54216,"longitude":13.89266}}(window,'GeoPostal','DE');

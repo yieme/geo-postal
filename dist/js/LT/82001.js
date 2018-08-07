@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82001"]={"code":"82001","region":"Siauliu apskritis","city":"Radviliskis","latitude":55.81667,"longitude":23.53333}}(window,'GeoPostal','LT');

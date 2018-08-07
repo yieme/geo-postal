@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3529"]={"code":"3529","region":"Victoria","city":"Nullawil","latitude":-35.85,"longitude":143.18333}}(window,'GeoPostal','AU');

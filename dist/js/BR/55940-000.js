@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55940-000"]={"code":"55940-000","region":"Pernambuco","city":"Condado","latitude":-7.58583,"longitude":-35.10583}}(window,'GeoPostal','BR');

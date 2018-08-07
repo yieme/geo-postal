@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74829"]={"code":"74829","region":"OK","city":"Boley","latitude":35.4913,"longitude":-96.4704}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53400-000"]={"code":"53400-000","region":"Pernambuco","city":"Paulista","latitude":-7.94083,"longitude":-34.87306}}(window,'GeoPostal','BR');

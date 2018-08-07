@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64648"]={"code":"64648","region":"Missouri","city":"Jamesport","latitude":40.010637,"longitude":-93.789769}}(window,'GeoPostal','US');

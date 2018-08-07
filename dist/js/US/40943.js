@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40943"]={"code":"40943","region":"KY","city":"Girdler","latitude":36.9691,"longitude":-83.8539}}(window,'GeoPostal','US');

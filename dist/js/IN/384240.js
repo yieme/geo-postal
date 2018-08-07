@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["384240"]={"code":"384240","region":"Gujarat","city":"Harij","latitude":23.7,"longitude":71.9}}(window,'GeoPostal','IN');

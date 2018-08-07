@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24533"]={"code":"24533","region":"VA","city":"Clifford","latitude":37.538,"longitude":-78.9463}}(window,'GeoPostal','US');

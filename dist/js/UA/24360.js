@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24360"]={"code":"24360","region":"Vinnytska oblast","city":"Tsybulevka","latitude":48.38719,"longitude":29.10288}}(window,'GeoPostal','UA');

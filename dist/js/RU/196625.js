@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["196625"]={"code":"196625","region":"Sankt-Peterburg","city":"Tyarlevo","latitude":59.70056,"longitude":30.45639}}(window,'GeoPostal','RU');

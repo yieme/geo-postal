@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447330"]={"code":"447330","region":"Satu Mare","city":"Turt","latitude":47.98333,"longitude":23.21667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93450"]={"code":"93450","region":"CA","city":"San Ardo","latitude":35.9857,"longitude":-120.8612}}(window,'GeoPostal','US');

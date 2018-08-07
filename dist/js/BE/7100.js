@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7100"]={"code":"7100","region":"Hainaut","city":"Binche","latitude":50.41155,"longitude":4.16469}}(window,'GeoPostal','BE');

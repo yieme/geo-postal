@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43764"]={"code":"43764","region":"Konya","city":"Aksehir","latitude":38.3575,"longitude":31.41639}}(window,'GeoPostal','TR');

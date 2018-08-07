@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["ST"]={id:'ST',country:'Sao Tome and Principe', postal:{'':{code:'',region:'Sao Tome',city:'Sao Tome',latitude:0.33654,longitude:6.72732}}};

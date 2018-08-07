@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147426"]={"code":"147426","region":"Teleorman","city":"Virtoapele de Jos","latitude":44.18333,"longitude":25.2}}(window,'GeoPostal','RO');

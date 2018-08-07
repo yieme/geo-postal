@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 1BT"]={"code":"IP9 1BT","region":"England","city":"Harkstead","latitude":51.96854,"longitude":1.18266}}(window,'GeoPostal','GB');

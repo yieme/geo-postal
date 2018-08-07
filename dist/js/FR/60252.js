@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60252"]={"code":"60252","region":"Hauts-de-France","city":"Mouy","latitude":49.31535,"longitude":2.31954}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09200"]={"code":"09200","region":"Castilla y Leon","city":"Miranda de Ebro","latitude":42.6865,"longitude":-2.94695}}(window,'GeoPostal','ES');

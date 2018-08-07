@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39460"]={"code":"39460","region":"MS","city":"Moss","latitude":31.8152,"longitude":-89.1778}}(window,'GeoPostal','US');

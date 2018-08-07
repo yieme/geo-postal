@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77986"]={"code":"77986","region":"TX","city":"Sublime","latitude":29.4876,"longitude":-96.7946}}(window,'GeoPostal','US');

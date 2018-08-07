@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63845"]={"code":"63845","region":"MO","city":"East Prairie","latitude":36.7776,"longitude":-89.3726}}(window,'GeoPostal','US');

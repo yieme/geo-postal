@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-402"]={"code":"62-402","region":"Wielkopolskie","city":"Ostrowite","latitude":52.38199,"longitude":18.0447}}(window,'GeoPostal','PL');

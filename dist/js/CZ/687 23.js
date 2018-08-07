@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["687 23"]={"code":"687 23","region":"Zlinsky kraj","city":"Ostrozska Lhota","latitude":48.97559,"longitude":17.46751}}(window,'GeoPostal','CZ');

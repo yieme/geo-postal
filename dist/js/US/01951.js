@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01951"]={"code":"01951","region":"Massachusetts","city":"Newbury","latitude":42.789959,"longitude":-70.844019}}(window,'GeoPostal','US');

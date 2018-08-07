@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55780"]={"code":"55780","region":"MN","city":"Sawyer","latitude":46.6831,"longitude":-92.6927}}(window,'GeoPostal','US');

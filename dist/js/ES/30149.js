@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30149"]={"code":"30149","region":"Murcia, Region de","city":"Santomera","latitude":38.06147,"longitude":-1.04877}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60770"]={"code":"60770","region":"Amasya","city":"Merzifon","latitude":40.87333,"longitude":35.46306}}(window,'GeoPostal','TR');

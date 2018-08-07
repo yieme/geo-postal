@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80014"]={"code":"80014","region":"Colorado","city":"Centennial","latitude":39.57916,"longitude":-104.87692}}(window,'GeoPostal','US');

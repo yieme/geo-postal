@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5C 0A9"]={"code":"E5C 0A9","region":"New Brunswick","city":"St. George","latitude":45.12654,"longitude":-66.83138}}(window,'GeoPostal','CA');

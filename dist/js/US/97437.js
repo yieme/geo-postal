@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97437"]={"code":"97437","region":"OR","city":"Elmira","latitude":44.0873,"longitude":-123.3671}}(window,'GeoPostal','US');

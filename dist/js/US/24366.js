@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24366"]={"code":"24366","region":"Virginia","city":"Rocky Gap","latitude":37.229264,"longitude":-81.193379}}(window,'GeoPostal','US');

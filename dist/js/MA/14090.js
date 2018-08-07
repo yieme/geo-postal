@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14090"]={"code":"14090","region":"Gharb-Chrarda-Beni Hssen","city":"Kenitra","latitude":34.26101,"longitude":-6.5802}}(window,'GeoPostal','MA');

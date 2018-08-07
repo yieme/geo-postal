@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20611"]={"code":"20611","region":"Maryland","city":"Bel Alton","latitude":38.4751,"longitude":-76.9786}}(window,'GeoPostal','US');

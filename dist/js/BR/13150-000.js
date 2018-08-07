@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13150-000"]={"code":"13150-000","region":"Sao Paulo","city":"Cosmopolis","latitude":-22.64583,"longitude":-47.19611}}(window,'GeoPostal','BR');

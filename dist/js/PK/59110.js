@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59110"]={"code":"59110","region":"Punjab","city":"Dunyapur","latitude":29.7995,"longitude":71.71958}}(window,'GeoPostal','PK');

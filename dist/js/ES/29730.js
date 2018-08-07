@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29730"]={"code":"29730","region":"Andalucia","city":"Montejicar","latitude":37.57224,"longitude":-3.50527}}(window,'GeoPostal','ES');

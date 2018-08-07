@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38016"]={"code":"38016","region":"Trentino-Alto Adige","city":"Mezzocorona","latitude":46.21341,"longitude":11.11868}}(window,'GeoPostal','IT');

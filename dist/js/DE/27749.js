@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27749"]={"code":"27749","region":"Niedersachsen","city":"Delmenhorst","latitude":53.0511,"longitude":8.63091}}(window,'GeoPostal','DE');

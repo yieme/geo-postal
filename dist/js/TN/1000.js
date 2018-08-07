@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1000"]={"code":"1000","region":"Tunis","city":"Tunis","latitude":36.81897,"longitude":10.16579}}(window,'GeoPostal','TN');

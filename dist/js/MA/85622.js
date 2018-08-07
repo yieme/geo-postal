@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85622"]={"code":"85622","region":"Souss-Massa-Draa","city":"Aoulouz","latitude":30.67307,"longitude":-8.18087}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23110"]={"code":"23110","region":"Nouvelle-Aquitaine","city":"Evaux-les-Bains","latitude":46.17346,"longitude":2.48463}}(window,'GeoPostal','FR');

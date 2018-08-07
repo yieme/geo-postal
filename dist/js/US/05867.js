@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05867"]={"code":"05867","region":"VT","city":"Sutton","latitude":44.6465,"longitude":-72.0211}}(window,'GeoPostal','US');

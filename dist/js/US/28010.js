@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28010"]={"code":"28010","region":"NC","city":"Barium Springs","latitude":35.7192,"longitude":-80.8991}}(window,'GeoPostal','US');

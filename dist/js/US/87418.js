@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87418"]={"code":"87418","region":"NM","city":"La Plata","latitude":36.9576,"longitude":-108.1792}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8590"]={"code":"8590","region":"Thurgau","city":"Romanshorn","latitude":47.56586,"longitude":9.37869}}(window,'GeoPostal','CH');

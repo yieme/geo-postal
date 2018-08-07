@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130301"]={"code":"130301","region":"Manabi","city":"Chone","latitude":-0.68333,"longitude":-80.1}}(window,'GeoPostal','EC');

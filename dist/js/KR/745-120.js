@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745-120"]={"code":"745-120","region":"Gyeongsangbuk-do","city":"Mungyeong","latitude":36.59458,"longitude":128.19946}}(window,'GeoPostal','KR');

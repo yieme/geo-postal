@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14874"]={"code":"14874","region":"New York","city":"Pulteney","latitude":42.53266,"longitude":-77.168989}}(window,'GeoPostal','US');

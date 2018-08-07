@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2C 1A9"]={"code":"V2C 1A9","region":"British Columbia","city":"Kamloops","latitude":50.685047,"longitude":-120.380499}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN13 1TP"]={"code":"TN13 1TP","region":"England","city":"Weald","latitude":51.24784,"longitude":0.1878}}(window,'GeoPostal','GB');

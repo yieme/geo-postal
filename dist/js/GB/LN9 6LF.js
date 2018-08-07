@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN9 6LF"]={"code":"LN9 6LF","region":"England","city":"Belchford","latitude":53.26003,"longitude":-0.06017}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30527"]={"code":"30527","region":"GA","city":"Clermont","latitude":34.4761,"longitude":-83.7853}}(window,'GeoPostal','US');

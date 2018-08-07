@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7500"]={"code":"7500","region":"Midtjylland","city":"Holstebro","latitude":56.36009,"longitude":8.61607}}(window,'GeoPostal','DK');

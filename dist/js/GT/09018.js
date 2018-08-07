@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09018"]={"code":"09018","region":"Quetzaltenango","city":"San Francisco La Union","latitude":14.91667,"longitude":-91.53333}}(window,'GeoPostal','GT');

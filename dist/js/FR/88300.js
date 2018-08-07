@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88300"]={"code":"88300","region":"Grand-Est","city":"Beaufremont","latitude":48.2575,"longitude":5.7553}}(window,'GeoPostal','FR');

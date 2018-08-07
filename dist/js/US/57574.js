@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57574"]={"code":"57574","region":"South Dakota","city":"Tuthill","latitude":43.09763,"longitude":-101.439618}}(window,'GeoPostal','US');

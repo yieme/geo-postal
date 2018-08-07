@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6173"]={"code":"6173","region":"Tirol","city":"Oberperfuss","latitude":47.23333,"longitude":11.25}}(window,'GeoPostal','AT');

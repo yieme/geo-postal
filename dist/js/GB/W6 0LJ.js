@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W6 0LJ"]={"code":"W6 0LJ","region":"England","city":"Malden","latitude":51.4,"longitude":-0.25}}(window,'GeoPostal','GB');

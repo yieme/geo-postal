@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00738"]={"code":"00738","region":"PR","city":"Fajardo","latitude":18.33,"longitude":-65.65}}(window,'GeoPostal','US');

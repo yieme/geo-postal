@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-220"]={"code":"18-220","region":"Podlaskie","city":"Czyzew","latitude":52.79768,"longitude":22.31237}}(window,'GeoPostal','PL');

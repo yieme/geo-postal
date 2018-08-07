@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["FK"]={id:'FK',country:'Falkland Islands (Malvinas)', postal:{'':{code:'',region:'Falkland Islands',city:'Stanley',latitude:-51.7,longitude:-57.85}}};

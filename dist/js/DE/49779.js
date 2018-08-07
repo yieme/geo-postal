@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49779"]={"code":"49779","region":"Niedersachsen","city":"Oberlanger Tenge","latitude":52.84015,"longitude":7.21636}}(window,'GeoPostal','DE');

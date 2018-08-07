@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42220"]={"code":"42220","region":"Auvergne-Rhone-Alpes","city":"Saint-Julien-Molin-Molette","latitude":45.32335,"longitude":4.61394}}(window,'GeoPostal','FR');

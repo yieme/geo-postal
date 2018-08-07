@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62257"]={"code":"62257","region":"IL","city":"Marissa","latitude":38.2455,"longitude":-89.7501}}(window,'GeoPostal','US');

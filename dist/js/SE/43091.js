@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43091"]={"code":"43091","region":"Vastra Gotalands lan","city":"Hono","latitude":57.68972,"longitude":11.64972}}(window,'GeoPostal','SE');

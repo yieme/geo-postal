@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3830"]={"code":"3830","region":"Niederosterreich","city":"Waidhofen an der Thaya","latitude":48.81667,"longitude":15.28333}}(window,'GeoPostal','AT');

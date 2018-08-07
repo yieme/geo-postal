@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37900-000"]={"code":"37900-000","region":"Minas Gerais","city":"Passos","latitude":-20.71889,"longitude":-46.60972}}(window,'GeoPostal','BR');

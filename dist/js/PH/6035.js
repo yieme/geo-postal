@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6035"]={"code":"6035","region":"Cebu","city":"Tubod-dugoan","latitude":10.0443,"longitude":123.4994}}(window,'GeoPostal','PH');

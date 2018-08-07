@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE37 2SH"]={"code":"NE37 2SH","region":"England","city":"Washington","latitude":50.90487,"longitude":-0.40649}}(window,'GeoPostal','GB');

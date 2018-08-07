@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97752"]={"code":"97752","region":"OR","city":"Post","latitude":44.0793,"longitude":-120.2998}}(window,'GeoPostal','US');

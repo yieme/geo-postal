@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73102"]={"code":"73102","region":"Baden-Wurttemberg","city":"Lerchenberg","latitude":48.73086,"longitude":9.68329}}(window,'GeoPostal','DE');

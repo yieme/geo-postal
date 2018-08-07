@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26509"]={"code":"26509","region":"Auvergne-Rhone-Alpes","city":"Bourg-les-Valence","latitude":44.95601,"longitude":4.91023}}(window,'GeoPostal','FR');

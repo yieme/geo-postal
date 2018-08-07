@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35965"]={"code":"35965","region":"Bilecik","city":"Inhisar","latitude":40.04932,"longitude":30.38521}}(window,'GeoPostal','TR');

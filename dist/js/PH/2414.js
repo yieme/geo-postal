@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2414"]={"code":"2414","region":"Pangasinan","city":"Bacnar","latitude":15.88333,"longitude":120.33333}}(window,'GeoPostal','PH');

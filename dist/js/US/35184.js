@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35184"]={"code":"35184","region":"AL","city":"West Blocton","latitude":33.1424,"longitude":-87.1369}}(window,'GeoPostal','US');

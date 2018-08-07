@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69427"]={"code":"69427","region":"Baden-Wurttemberg","city":"Mudau","latitude":49.53444,"longitude":9.20444}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27837"]={"code":"27837","region":"North Carolina","city":"Grimesland","latitude":35.576367,"longitude":-77.233426}}(window,'GeoPostal','US');

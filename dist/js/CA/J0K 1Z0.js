@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1Z0"]={"code":"J0K 1Z0","region":"Quebec","city":"Saint-Calixte","latitude":45.95008,"longitude":-73.84919}}(window,'GeoPostal','CA');

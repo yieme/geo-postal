@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37297"]={"code":"37297","region":"Hessen","city":"Hitzerode","latitude":51.24054,"longitude":9.95811}}(window,'GeoPostal','DE');

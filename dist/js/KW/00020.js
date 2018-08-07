@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00020"]={"code":"00020","region":"Al Jahra","city":"Al Jahra'","latitude":29.3375,"longitude":47.65806}}(window,'GeoPostal','KW');

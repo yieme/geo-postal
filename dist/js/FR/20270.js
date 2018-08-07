@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20270"]={"code":"20270","region":"Corse","city":"Casevecchie","latitude":42.13333,"longitude":9.35}}(window,'GeoPostal','FR');

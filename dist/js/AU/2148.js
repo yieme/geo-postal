@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2148"]={"code":"2148","region":"New South Wales","city":"Blacktown","latitude":-33.76667,"longitude":150.91667}}(window,'GeoPostal','AU');

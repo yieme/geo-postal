@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652100"]={"code":"652100","region":"Kemerovskaya oblast'","city":"Yaya","latitude":56.206,"longitude":86.44}}(window,'GeoPostal','RU');

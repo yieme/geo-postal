@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3860-999"]={"code":"3860-999","region":"Aveiro","city":"Avanca","latitude":40.80771,"longitude":-8.5722}}(window,'GeoPostal','PT');

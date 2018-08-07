@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15907"]={"code":"15907","region":"Brandenburg","city":"Lubben","latitude":51.93814,"longitude":13.88826}}(window,'GeoPostal','DE');

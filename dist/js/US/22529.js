@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22529"]={"code":"22529","region":"VA","city":"Oldhams","latitude":38.0181,"longitude":-76.6861}}(window,'GeoPostal','US');

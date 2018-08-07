@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62640-000"]={"code":"62640-000","region":"Ceara","city":"Pentecoste","latitude":-3.79278,"longitude":-39.27028}}(window,'GeoPostal','BR');

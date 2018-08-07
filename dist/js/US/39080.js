@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39080"]={"code":"39080","region":"Mississippi","city":"Harperville","latitude":32.49408,"longitude":-89.4894}}(window,'GeoPostal','US');

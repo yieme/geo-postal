@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72600"]={"code":"72600","region":"Pays-de-la-Loire","city":"Mamers","latitude":48.35,"longitude":0.38333}}(window,'GeoPostal','FR');

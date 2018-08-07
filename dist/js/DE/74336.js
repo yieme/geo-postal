@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74336"]={"code":"74336","region":"Hessen","city":"Hausen","latitude":50.08181,"longitude":8.86482}}(window,'GeoPostal','DE');

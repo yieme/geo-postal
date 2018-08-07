@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29379"]={"code":"29379","region":"Niedersachsen","city":"Glusingen","latitude":52.72954,"longitude":10.70678}}(window,'GeoPostal','DE');

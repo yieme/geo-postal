@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56792"]={"code":"56792","region":"Jonkopings lan","city":"Vaggeryd","latitude":57.49807,"longitude":14.14842}}(window,'GeoPostal','SE');

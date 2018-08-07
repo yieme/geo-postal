@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95542"]={"code":"95542","region":"California","city":"Garberville","latitude":40.10028,"longitude":-123.795}}(window,'GeoPostal','US');

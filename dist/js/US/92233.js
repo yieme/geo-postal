@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92233"]={"code":"92233","region":"California","city":"Calipatria","latitude":33.132572,"longitude":-115.509855}}(window,'GeoPostal','US');

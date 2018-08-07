@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["400102"]={"code":"400102","region":"Enugu","city":"Enugu","latitude":6.4402,"longitude":7.4943}}(window,'GeoPostal','NG');

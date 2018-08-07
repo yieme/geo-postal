@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42510"]={"code":"42510","region":"Auvergne-Rhone-Alpes","city":"Balbigny","latitude":45.81928,"longitude":4.18756}}(window,'GeoPostal','FR');

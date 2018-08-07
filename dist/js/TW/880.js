@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["880"]={"code":"880","region":"Penghu","city":"Magong","latitude":23.5654,"longitude":119.58627}}(window,'GeoPostal','TW');

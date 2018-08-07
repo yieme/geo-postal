@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624000"]={"code":"624000","region":"Sverdlovskaya oblast'","city":"Aramil'","latitude":56.6977,"longitude":60.8369}}(window,'GeoPostal','RU');

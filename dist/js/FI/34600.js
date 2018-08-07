@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34600"]={"code":"34600","region":"Pirkanmaa","city":"Mantta","latitude":62.03014,"longitude":24.62791}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63666"]={"code":"63666","region":"MO","city":"Reynolds","latitude":37.4009,"longitude":-91.0735}}(window,'GeoPostal','US');

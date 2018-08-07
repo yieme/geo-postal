@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73568"]={"code":"73568","region":"OK","city":"Temple","latitude":34.2607,"longitude":-98.2371}}(window,'GeoPostal','US');

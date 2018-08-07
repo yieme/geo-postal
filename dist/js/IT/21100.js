@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21100"]={"code":"21100","region":"Lombardia","city":"Varese","latitude":45.82908,"longitude":8.82193}}(window,'GeoPostal','IT');

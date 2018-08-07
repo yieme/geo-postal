@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2372"]={"code":"2372","region":"New South Wales","city":"Tenterfield","latitude":-29.04946,"longitude":152.01952}}(window,'GeoPostal','AU');

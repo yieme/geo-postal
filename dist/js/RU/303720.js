@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303720"]={"code":"303720","region":"Orlovskaya oblast'","city":"Verkhov'ye","latitude":52.81165,"longitude":37.24215}}(window,'GeoPostal','RU');

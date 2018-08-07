@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35004"]={"code":"35004","region":"Alabama","city":"Moody","latitude":33.59142,"longitude":-86.50002}}(window,'GeoPostal','US');

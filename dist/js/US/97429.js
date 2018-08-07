@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97429"]={"code":"97429","region":"OR","city":"Days Creek","latitude":42.9819,"longitude":-123.1439}}(window,'GeoPostal','US');

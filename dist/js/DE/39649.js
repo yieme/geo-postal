@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39649"]={"code":"39649","region":"Sachsen-Anhalt","city":"Himmelreich","latitude":52.4934,"longitude":11.17736}}(window,'GeoPostal','DE');

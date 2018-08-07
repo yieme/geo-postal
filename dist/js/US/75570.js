@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75570"]={"code":"75570","region":"TX","city":"New Boston","latitude":33.4619,"longitude":-94.4375}}(window,'GeoPostal','US');

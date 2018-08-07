@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66115"]={"code":"66115","region":"Saarland","city":"Saarbrucken","latitude":49.2354,"longitude":6.98165}}(window,'GeoPostal','DE');

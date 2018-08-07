@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66016"]={"code":"66016","region":"KS","city":"Cummings","latitude":39.483,"longitude":-95.2863}}(window,'GeoPostal','US');

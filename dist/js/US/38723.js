@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38723"]={"code":"38723","region":"MS","city":"Avon","latitude":33.2301,"longitude":-91.0473}}(window,'GeoPostal','US');

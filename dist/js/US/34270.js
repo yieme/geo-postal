@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34270"]={"code":"34270","region":"FL","city":"Tallevast","latitude":27.4054,"longitude":-82.5435}}(window,'GeoPostal','US');

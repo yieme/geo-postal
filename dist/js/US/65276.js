@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65276"]={"code":"65276","region":"MO","city":"Pilot Grove","latitude":38.8712,"longitude":-92.9305}}(window,'GeoPostal','US');

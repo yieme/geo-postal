@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28115"]={"code":"28115","region":"North Carolina","city":"Mooresville","latitude":35.58486,"longitude":-80.81007}}(window,'GeoPostal','US');

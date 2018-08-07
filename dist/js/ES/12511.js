@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12511"]={"code":"12511","region":"Valenciana, Comunidad","city":"Rosell","latitude":40.61792,"longitude":0.22133}}(window,'GeoPostal','ES');

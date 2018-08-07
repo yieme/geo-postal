@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73530"]={"code":"73530","region":"OK","city":"Davidson","latitude":34.2514,"longitude":-99.064}}(window,'GeoPostal','US');

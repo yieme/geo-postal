@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2833"]={"code":"2833","region":"New South Wales","city":"Collarenebri","latitude":-29.54379,"longitude":148.57587}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37509"]={"code":"37509","region":"Poltavska oblast","city":"Lubny","latitude":50.01625,"longitude":32.99694}}(window,'GeoPostal','UA');

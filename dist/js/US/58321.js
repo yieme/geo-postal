@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58321"]={"code":"58321","region":"North Dakota","city":"Brocket","latitude":48.23757,"longitude":-98.35699}}(window,'GeoPostal','US');

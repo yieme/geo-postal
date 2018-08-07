@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08551"]={"code":"08551","region":"Kyivska oblast","city":"Kozhanka","latitude":49.97933,"longitude":29.73806}}(window,'GeoPostal','UA');

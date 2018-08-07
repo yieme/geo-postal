@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48990"]={"code":"48990","region":"Mugla","city":"Yalikavak","latitude":37.105956,"longitude":27.294204}}(window,'GeoPostal','TR');

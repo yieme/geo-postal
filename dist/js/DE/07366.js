@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07366"]={"code":"07366","region":"Thuringen","city":"Goritz","latitude":50.43111,"longitude":11.79425}}(window,'GeoPostal','DE');

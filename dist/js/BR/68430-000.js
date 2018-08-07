@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68430-000"]={"code":"68430-000","region":"Para","city":"Igarape Miri","latitude":-1.975,"longitude":-48.95972}}(window,'GeoPostal','BR');

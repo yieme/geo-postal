@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15314"]={"code":"15314","region":"PA","city":"Bentleyville","latitude":40.1187,"longitude":-80.007}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WC2H 9BJ"]={"code":"WC2H 9BJ","region":"England","city":"Covent Garden","latitude":51.51424,"longitude":-0.12471}}(window,'GeoPostal','GB');

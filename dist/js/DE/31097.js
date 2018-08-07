@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31097"]={"code":"31097","region":"Niedersachsen","city":"Netze","latitude":51.98095,"longitude":9.97302}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55718"]={"code":"55718","region":"MN","city":"Carlton","latitude":46.6484,"longitude":-92.471}}(window,'GeoPostal','US');

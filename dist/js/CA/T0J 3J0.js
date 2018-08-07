@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 3J0"]={"code":"T0J 3J0","region":"Alberta","city":"Carolside","latitude":51.21681,"longitude":-111.63507}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84052"]={"code":"84052","region":"Utah","city":"Myton","latitude":40.19639,"longitude":-110.06417}}(window,'GeoPostal','US');

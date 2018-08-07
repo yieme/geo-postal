@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66901"]={"code":"66901","region":"Rheinland-Pfalz","city":"Kubelberg","latitude":49.4,"longitude":7.36667}}(window,'GeoPostal','DE');

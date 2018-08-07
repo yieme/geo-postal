@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43063"]={"code":"43063","region":"Vastra Gotalands lan","city":"Hindas","latitude":57.7,"longitude":12.45}}(window,'GeoPostal','SE');

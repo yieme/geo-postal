@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-600"]={"code":"42-600","region":"Slaskie","city":"Tarnowskie Gory","latitude":50.44548,"longitude":18.86147}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24-123"]={"code":"24-123","region":"Lubelskie","city":"Janowiec","latitude":51.32359,"longitude":21.8894}}(window,'GeoPostal','PL');

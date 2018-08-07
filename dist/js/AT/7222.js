@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7222"]={"code":"7222","region":"Burgenland","city":"Marz","latitude":47.71667,"longitude":16.41667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3250"]={"code":"3250","region":"Victoria","city":"Colac","latitude":-38.339,"longitude":143.58488}}(window,'GeoPostal','AU');

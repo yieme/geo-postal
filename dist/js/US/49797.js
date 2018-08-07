@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49797"]={"code":"49797","region":"Michigan","city":"Waters","latitude":44.90361,"longitude":-84.67056}}(window,'GeoPostal','US');

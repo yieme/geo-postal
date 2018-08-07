@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44470"]={"code":"44470","region":"Jalisco","city":"Cocula","latitude":20.36517,"longitude":-103.82215}}(window,'GeoPostal','MX');

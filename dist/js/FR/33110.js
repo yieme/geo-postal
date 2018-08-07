@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33110"]={"code":"33110","region":"Nouvelle-Aquitaine","city":"Le Bouscat","latitude":44.866,"longitude":-0.59411}}(window,'GeoPostal','FR');

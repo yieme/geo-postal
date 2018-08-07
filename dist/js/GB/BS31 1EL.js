@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS31 1EL"]={"code":"BS31 1EL","region":"England","city":"Keynsham","latitude":51.41387,"longitude":-2.4978}}(window,'GeoPostal','GB');

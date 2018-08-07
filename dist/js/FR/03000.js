@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03000"]={"code":"03000","region":"Auvergne-Rhone-Alpes","city":"Neuvy","latitude":46.56037,"longitude":3.2899}}(window,'GeoPostal','FR');

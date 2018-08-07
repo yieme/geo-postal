@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11518"]={"code":"11518","region":"New York","city":"East Rockaway","latitude":40.64136,"longitude":-73.668}}(window,'GeoPostal','US');

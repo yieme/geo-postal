@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68130"]={"code":"68130","region":"Grand-Est","city":"Aspach","latitude":47.64173,"longitude":7.23324}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79772"]={"code":"79772","region":"Texas","city":"Pecos","latitude":31.42291,"longitude":-103.49323}}(window,'GeoPostal','US');

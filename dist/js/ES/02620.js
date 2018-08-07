@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02620"]={"code":"02620","region":"Castilla-La Mancha","city":"Minaya","latitude":39.27052,"longitude":-2.32176}}(window,'GeoPostal','ES');

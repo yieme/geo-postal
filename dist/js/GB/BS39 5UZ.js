@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS39 5UZ"]={"code":"BS39 5UZ","region":"England","city":"Bishop Sutton","latitude":51.33444,"longitude":-2.59472}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54481"]={"code":"54481","region":"Wisconsin","city":"Stevens Point","latitude":44.52358,"longitude":-89.57456}}(window,'GeoPostal','US');

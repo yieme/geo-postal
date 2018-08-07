@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14827"]={"code":"14827","region":"Brandenburg","city":"Wiesenburg","latitude":52.11456,"longitude":12.45534}}(window,'GeoPostal','DE');

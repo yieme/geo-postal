@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70774"]={"code":"70774","region":"Louisiana","city":"Saint Amant","latitude":30.22472,"longitude":-90.86889}}(window,'GeoPostal','US');

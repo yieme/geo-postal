@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28793"]={"code":"28793","region":"Kronobergs lan","city":"Stromsnasbruk","latitude":56.55,"longitude":13.71667}}(window,'GeoPostal','SE');

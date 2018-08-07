@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742309"]={"code":"742309","region":"Gansu","city":"Fujia","latitude":33.81889,"longitude":105.95361}}(window,'GeoPostal','CN');

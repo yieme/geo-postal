@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 46"]={"code":"277 46","region":"Stredocesky kraj","city":"Veltrusy","latitude":50.27046,"longitude":14.32857}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42140"]={"code":"42140","region":"Auvergne-Rhone-Alpes","city":"Chazelles-sur-Lyon","latitude":45.63806,"longitude":4.3913}}(window,'GeoPostal','FR');

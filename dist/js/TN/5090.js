@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5090"]={"code":"5090","region":"Monastir","city":"Al Baqalitah","latitude":35.61739,"longitude":10.99466}}(window,'GeoPostal','TN');

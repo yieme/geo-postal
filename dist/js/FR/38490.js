@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38490"]={"code":"38490","region":"Auvergne-Rhone-Alpes","city":"Chimilin","latitude":45.57754,"longitude":5.59819}}(window,'GeoPostal','FR');

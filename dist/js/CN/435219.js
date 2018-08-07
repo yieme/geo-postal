@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435219"]={"code":"435219","region":"Hubei","city":"Huangsangkou","latitude":30.01418,"longitude":115.32795}}(window,'GeoPostal','CN');

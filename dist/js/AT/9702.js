@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9702"]={"code":"9702","region":"Karnten","city":"Ferndorf","latitude":46.73972,"longitude":13.6375}}(window,'GeoPostal','AT');

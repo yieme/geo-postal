@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 9RF"]={"code":"PE14 9RF","region":"England","city":"Welney","latitude":52.52291,"longitude":0.24829}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3764"]={"code":"3764","region":"Victoria","city":"Kilmore","latitude":-37.29577,"longitude":144.95252}}(window,'GeoPostal','AU');

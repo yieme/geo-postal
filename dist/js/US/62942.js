@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62942"]={"code":"62942","region":"IL","city":"Grand Tower","latitude":37.6322,"longitude":-89.4999}}(window,'GeoPostal','US');

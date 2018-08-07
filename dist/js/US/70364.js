@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70364"]={"code":"70364","region":"LA","city":"Houma","latitude":29.6299,"longitude":-90.7268}}(window,'GeoPostal','US');

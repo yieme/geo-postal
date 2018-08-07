@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2QZ"]={"code":"NR16 2QZ","region":"England","city":"Larling","latitude":52.46531,"longitude":0.90848}}(window,'GeoPostal','GB');

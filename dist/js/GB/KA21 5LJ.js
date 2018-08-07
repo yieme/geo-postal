@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA21 5LJ"]={"code":"KA21 5LJ","region":"Scotland","city":"Saltcoats","latitude":55.63616,"longitude":-4.78588}}(window,'GeoPostal','GB');

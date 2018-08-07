@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80512"]={"code":"80512","region":"Colorado","city":"Bellvue","latitude":40.62556,"longitude":-105.17111}}(window,'GeoPostal','US');

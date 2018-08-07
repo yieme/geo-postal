@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31807"]={"code":"31807","region":"GA","city":"Ellerslie","latitude":32.6312,"longitude":-84.7895}}(window,'GeoPostal','US');

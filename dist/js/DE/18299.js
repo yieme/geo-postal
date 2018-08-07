@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18299"]={"code":"18299","region":"Mecklenburg-Vorpommern","city":"Subzin","latitude":53.89962,"longitude":12.35133}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28573"]={"code":"28573","region":"NC","city":"Pollocksville","latitude":35.0151,"longitude":-77.2287}}(window,'GeoPostal','US');

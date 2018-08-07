@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369394"]={"code":"369394","region":"Karachayevo-Cherkesskaya Respublika","city":"Pervomayskoye","latitude":43.93847,"longitude":42.476}}(window,'GeoPostal','RU');

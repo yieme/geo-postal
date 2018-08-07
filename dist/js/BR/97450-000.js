@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97450-000"]={"code":"97450-000","region":"Rio Grande do Sul","city":"Cacequi","latitude":-29.88361,"longitude":-54.825}}(window,'GeoPostal','BR');

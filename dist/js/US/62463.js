@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62463"]={"code":"62463","region":"IL","city":"Stewardson","latitude":39.272,"longitude":-88.6319}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38963"]={"code":"38963","region":"MS","city":"Tutwiler","latitude":34.0148,"longitude":-90.4318}}(window,'GeoPostal','US');

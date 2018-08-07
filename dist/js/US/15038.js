@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15038"]={"code":"15038","region":"PA","city":"Elrama","latitude":40.2521,"longitude":-79.9252}}(window,'GeoPostal','US');

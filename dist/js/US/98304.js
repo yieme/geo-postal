@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98304"]={"code":"98304","region":"Washington","city":"Ashford","latitude":46.75583,"longitude":-122.01917}}(window,'GeoPostal','US');

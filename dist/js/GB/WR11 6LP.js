@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR11 6LP"]={"code":"WR11 6LP","region":"England","city":"Evesham","latitude":52.09237,"longitude":-1.94887}}(window,'GeoPostal','GB');

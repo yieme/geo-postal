@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92323"]={"code":"92323","region":"CA","city":"Cima","latitude":35.2378,"longitude":-115.4992}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2N 6K6"]={"code":"V2N 6K6","region":"British Columbia","city":"Mud River","latitude":53.76659,"longitude":-123.01972}}(window,'GeoPostal','CA');

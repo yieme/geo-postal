@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-7342"]={"code":"MD-7342","region":"Cantemir","city":"Visniovca","latitude":46.33333,"longitude":28.44944}}(window,'GeoPostal','MD');

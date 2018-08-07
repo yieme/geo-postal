@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92708"]={"code":"92708","region":"Bayern","city":"Mantel","latitude":49.65412,"longitude":12.04074}}(window,'GeoPostal','DE');

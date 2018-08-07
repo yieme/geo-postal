@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88337"]={"code":"88337","region":"NM","city":"La Luz","latitude":32.9774,"longitude":-105.9534}}(window,'GeoPostal','US');

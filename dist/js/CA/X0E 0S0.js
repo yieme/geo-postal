@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0S0"]={"code":"X0E 0S0","region":"Northwest Territories","city":"Holman","latitude":70.73418,"longitude":-117.75457}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15784"]={"code":"15784","region":"PA","city":"Worthville","latitude":41.0238,"longitude":-79.1387}}(window,'GeoPostal','US');

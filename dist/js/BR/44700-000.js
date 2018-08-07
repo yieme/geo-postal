@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44700-000"]={"code":"44700-000","region":"Bahia","city":"Jacobina","latitude":-11.18056,"longitude":-40.51833}}(window,'GeoPostal','BR');

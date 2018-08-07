@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04643"]={"code":"04643","region":"Maine","city":"Harrington","latitude":44.59917,"longitude":-67.82528}}(window,'GeoPostal','US');

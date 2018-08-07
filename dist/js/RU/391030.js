@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391030"]={"code":"391030","region":"Ryazanskaya oblast'","city":"Spas-Klepiki","latitude":55.13472,"longitude":40.17673}}(window,'GeoPostal','RU');

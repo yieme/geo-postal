@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4211"]={"code":"4211","region":"Hajdu-Bihar","city":"Ebes","latitude":47.46667,"longitude":21.5}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05851"]={"code":"05851","region":"Vermont","city":"Lyndonville","latitude":44.53367,"longitude":-72.00315}}(window,'GeoPostal','US');

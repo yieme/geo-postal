@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607228"]={"code":"607228","region":"Nizhegorodskaya oblast'","city":"Arzamas","latitude":55.39485,"longitude":43.83992}}(window,'GeoPostal','RU');

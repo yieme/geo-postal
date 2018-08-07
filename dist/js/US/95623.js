@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95623"]={"code":"95623","region":"CA","city":"El Dorado","latitude":38.633,"longitude":-120.8498}}(window,'GeoPostal','US');

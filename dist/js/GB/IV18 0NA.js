@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV18 0NA"]={"code":"IV18 0NA","region":"Scotland","city":"Barbaraville","latitude":57.72262,"longitude":-4.10268}}(window,'GeoPostal','GB');

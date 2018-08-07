@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4671"]={"code":"4671","region":"Queensland","city":"Gillens Siding","latitude":-25.01667,"longitude":151.76667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8360"]={"code":"8360","region":"Zuzemberk","city":"Zuzemberk","latitude":45.83389,"longitude":14.92917}}(window,'GeoPostal','SI');

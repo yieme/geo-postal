@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49350"]={"code":"49350","region":"Pays-de-la-Loire","city":"Saint-Clement-des-Levees","latitude":47.33333,"longitude":-0.18222}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65385"]={"code":"65385","region":"Rheinland-Pfalz","city":"Gaulsheim","latitude":49.96638,"longitude":7.95869}}(window,'GeoPostal','DE');

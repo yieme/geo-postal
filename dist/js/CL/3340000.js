@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3340000"]={"code":"3340000","region":"Maule","city":"Curico","latitude":-34.98333,"longitude":-71.23333}}(window,'GeoPostal','CL');

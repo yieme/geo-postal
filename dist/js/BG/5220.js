@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5220"]={"code":"5220","region":"Veliko Tarnovo","city":"Byala Cherkva","latitude":43.2,"longitude":25.3}}(window,'GeoPostal','BG');

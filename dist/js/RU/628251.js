@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628251"]={"code":"628251","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Malinovskiy","latitude":61.19528,"longitude":62.83972}}(window,'GeoPostal','RU');

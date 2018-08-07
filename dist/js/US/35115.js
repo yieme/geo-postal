@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35115"]={"code":"35115","region":"Alabama","city":"Montevallo","latitude":33.10067,"longitude":-86.86416}}(window,'GeoPostal','US');

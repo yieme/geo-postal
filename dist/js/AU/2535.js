@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2535"]={"code":"2535","region":"New South Wales","city":"Shoalhaven Heads","latitude":-34.85086,"longitude":150.74512}}(window,'GeoPostal','AU');

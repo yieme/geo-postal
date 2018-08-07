@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74726"]={"code":"74726","region":"OK","city":"Bokchito","latitude":33.9859,"longitude":-96.1621}}(window,'GeoPostal','US');

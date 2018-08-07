@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR4 8NE"]={"code":"TR4 8NE","region":"England","city":"Chacewater","latitude":50.25,"longitude":-5.16667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37270-000"]={"code":"37270-000","region":"Minas Gerais","city":"Campo Belo","latitude":-20.89722,"longitude":-45.27722}}(window,'GeoPostal','BR');

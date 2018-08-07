@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35482"]={"code":"35482","region":"AL","city":"Samantha","latitude":33.3066,"longitude":-87.4532}}(window,'GeoPostal','US');

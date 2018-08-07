@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-610"]={"code":"27-610","region":"Swietokrzyskie","city":"Sandomierz","latitude":50.68265,"longitude":21.74898}}(window,'GeoPostal','PL');

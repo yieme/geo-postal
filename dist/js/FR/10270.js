@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10270"]={"code":"10270","region":"Grand-Est","city":"Lusigny-sur-Barse","latitude":48.25451,"longitude":4.2689}}(window,'GeoPostal','FR');

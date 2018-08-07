@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8212"]={"code":"8212","region":"Zurich","city":"Dachsen","latitude":47.66515,"longitude":8.6179}}(window,'GeoPostal','CH');

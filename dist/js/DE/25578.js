@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25578"]={"code":"25578","region":"Schleswig-Holstein","city":"Dageling","latitude":53.88333,"longitude":9.53333}}(window,'GeoPostal','DE');

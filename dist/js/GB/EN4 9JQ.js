@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN4 9JQ"]={"code":"EN4 9JQ","region":"England","city":"Cockfosters","latitude":51.64926,"longitude":-0.14823}}(window,'GeoPostal','GB');

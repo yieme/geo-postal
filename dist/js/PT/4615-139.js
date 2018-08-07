@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4615-139"]={"code":"4615-139","region":"Porto","city":"Leca da Palmeira","latitude":41.191,"longitude":-8.70027}}(window,'GeoPostal','PT');

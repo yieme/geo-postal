@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97246"]={"code":"97246","region":"Bayern","city":"Eibelstadt","latitude":49.72392,"longitude":9.99962}}(window,'GeoPostal','DE');

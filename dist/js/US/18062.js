@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18062"]={"code":"18062","region":"Pennsylvania","city":"Macungie","latitude":40.528946,"longitude":-75.561977}}(window,'GeoPostal','US');

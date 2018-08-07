@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7740"]={"code":"7740","region":"Western Cape","city":"Claremont","latitude":-33.98056,"longitude":18.46528}}(window,'GeoPostal','ZA');

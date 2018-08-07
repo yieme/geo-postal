@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8400-999"]={"code":"8400-999","region":"Faro","city":"Carvoeiro","latitude":37.10147,"longitude":-8.46979}}(window,'GeoPostal','PT');

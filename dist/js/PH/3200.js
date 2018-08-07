@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Aurora","city":"Baler","latitude":15.7589,"longitude":121.5607}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 1G0"]={"code":"V0J 1G0","region":"British Columbia","city":"Gitanyow","latitude":55.26641,"longitude":-128.07027}}(window,'GeoPostal','CA');

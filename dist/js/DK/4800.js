@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4800"]={"code":"4800","region":"Sjelland","city":"Nykobing Falster","latitude":54.76906,"longitude":11.87425}}(window,'GeoPostal','DK');

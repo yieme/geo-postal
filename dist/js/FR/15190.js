@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15190"]={"code":"15190","region":"Auvergne-Rhone-Alpes","city":"Condat","latitude":45.34093,"longitude":2.75791}}(window,'GeoPostal','FR');

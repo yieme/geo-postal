@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99104"]={"code":"99104","region":"Zacatecas","city":"Jalpa","latitude":21.63333,"longitude":-102.96667}}(window,'GeoPostal','MX');

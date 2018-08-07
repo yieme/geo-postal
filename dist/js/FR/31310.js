@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31310"]={"code":"31310","region":"Occitanie","city":"Montesquieu-Volvestre","latitude":43.20724,"longitude":1.22862}}(window,'GeoPostal','FR');

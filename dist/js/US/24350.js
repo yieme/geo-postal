@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24350"]={"code":"24350","region":"Virginia","city":"Ivanhoe","latitude":36.819281,"longitude":-81.00595}}(window,'GeoPostal','US');

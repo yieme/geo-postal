@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9505"]={"code":"9505","region":"Free State","city":"Kroonstad","latitude":-27.65036,"longitude":27.23488}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84039"]={"code":"84039","region":"Utah","city":"Lapoint","latitude":40.38583,"longitude":-109.79627}}(window,'GeoPostal','US');

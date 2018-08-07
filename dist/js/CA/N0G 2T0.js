@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2T0"]={"code":"N0G 2T0","region":"Ontario","city":"Tiverton","latitude":44.268559,"longitude":-81.543274}}(window,'GeoPostal','CA');

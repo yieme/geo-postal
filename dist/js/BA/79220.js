@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79220"]={"code":"79220","region":"Republika Srpska","city":"Bosanski Novi","latitude":45.04583,"longitude":16.38028}}(window,'GeoPostal','BA');

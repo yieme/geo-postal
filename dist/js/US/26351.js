@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26351"]={"code":"26351","region":"West Virginia","city":"Glenville","latitude":38.936257,"longitude":-80.835117}}(window,'GeoPostal','US');

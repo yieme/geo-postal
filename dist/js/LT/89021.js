@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89021"]={"code":"89021","region":"Telsiu apskritis","city":"Mazeikiai","latitude":56.31667,"longitude":22.33333}}(window,'GeoPostal','LT');

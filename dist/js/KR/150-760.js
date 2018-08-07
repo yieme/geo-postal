@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150-760"]={"code":"150-760","region":"Gyeongsangbuk-do","city":"Andong","latitude":36.56556,"longitude":128.725}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 5JU"]={"code":"NG23 5JU","region":"England","city":"Cotham","latitude":53.01667,"longitude":-0.81667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04076"]={"code":"04076","region":"ME","city":"Shapleigh","latitude":43.5674,"longitude":-70.8286}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59216"]={"code":"59216","region":"Chernivetska oblast","city":"Banyliv","latitude":48.36612,"longitude":25.34549}}(window,'GeoPostal','UA');

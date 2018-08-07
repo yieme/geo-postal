@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27235"]={"code":"27235","region":"Galicia","city":"Friol","latitude":43.03213,"longitude":-7.79514}}(window,'GeoPostal','ES');

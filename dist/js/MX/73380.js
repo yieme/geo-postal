@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73380"]={"code":"73380","region":"Puebla","city":"Zongozotla","latitude":19.98333,"longitude":-97.73333}}(window,'GeoPostal','MX');

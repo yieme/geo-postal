@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA15 7PX"]={"code":"CA15 7PX","region":"England","city":"Ellenborough","latitude":54.70755,"longitude":-3.48368}}(window,'GeoPostal','GB');

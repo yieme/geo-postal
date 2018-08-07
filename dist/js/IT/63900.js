@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63900"]={"code":"63900","region":"Marche","city":"Fermo","latitude":43.16466,"longitude":13.72329}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38783"]={"code":"38783","region":"Guanajuato","city":"Acambaro","latitude":20.03333,"longitude":-100.73333}}(window,'GeoPostal','MX');

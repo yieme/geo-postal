@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11305"]={"code":"11305","region":"Zhytomyrska oblast","city":"Luhyny","latitude":51.08202,"longitude":28.40057}}(window,'GeoPostal','UA');

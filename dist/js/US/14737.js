@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14737"]={"code":"14737","region":"New York","city":"Franklinville","latitude":42.33701,"longitude":-78.45808}}(window,'GeoPostal','US');

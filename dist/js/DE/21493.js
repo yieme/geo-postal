@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21493"]={"code":"21493","region":"Schleswig-Holstein","city":"Schwarzenbek","latitude":53.50303,"longitude":10.48055}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["637700"]={"code":"637700","region":"Sichuan","city":"Langchi","latitude":31.07952,"longitude":106.56514}}(window,'GeoPostal','CN');

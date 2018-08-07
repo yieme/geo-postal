@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81052"]={"code":"81052","region":"Colorado","city":"Lamar","latitude":38.08723,"longitude":-102.62075}}(window,'GeoPostal','US');

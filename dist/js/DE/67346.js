@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67346"]={"code":"67346","region":"Rheinland-Pfalz","city":"Speyer","latitude":49.32083,"longitude":8.43111}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53911"]={"code":"53911","region":"Wisconsin","city":"Arlington","latitude":43.28591,"longitude":-89.386629}}(window,'GeoPostal','US');

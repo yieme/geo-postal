@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB25 9AU"]={"code":"CB25 9AU","region":"England","city":"Stow cum Quy","latitude":52.22317,"longitude":0.22522}}(window,'GeoPostal','GB');

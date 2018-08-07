@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3951"]={"code":"3951","region":"Kommune Qeqertalik","city":"Qasigiannguit","latitude":68.81926,"longitude":-51.19221}}(window,'GeoPostal','GL');

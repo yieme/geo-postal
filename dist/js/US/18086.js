@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18086"]={"code":"18086","region":"PA","city":"Treichlers","latitude":40.7361,"longitude":-75.5449}}(window,'GeoPostal','US');

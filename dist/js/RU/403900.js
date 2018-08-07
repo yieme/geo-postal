@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403900"]={"code":"403900","region":"Volgogradskaya oblast'","city":"Novonikolayevskiy","latitude":50.9738,"longitude":42.3649}}(window,'GeoPostal','RU');

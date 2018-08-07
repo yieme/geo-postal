@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-240"]={"code":"89-240","region":"Kujawsko-pomorskie","city":"Kcynia","latitude":52.99192,"longitude":17.4883}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50101"]={"code":"50101","region":"IA","city":"Galt","latitude":42.6912,"longitude":-93.6035}}(window,'GeoPostal','US');

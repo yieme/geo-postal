@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45710"]={"code":"45710","region":"Castilla-La Mancha","city":"Madridejos","latitude":39.46823,"longitude":-3.53196}}(window,'GeoPostal','ES');

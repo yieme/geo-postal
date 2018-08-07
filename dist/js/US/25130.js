@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25130"]={"code":"25130","region":"WV","city":"Madison","latitude":38.0444,"longitude":-81.7938}}(window,'GeoPostal','US');

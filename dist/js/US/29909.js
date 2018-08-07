@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29909"]={"code":"29909","region":"South Carolina","city":"Okatie","latitude":32.3283,"longitude":-80.8483}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235604"]={"code":"235604","region":"Timis","city":"Racovita","latitude":45.3,"longitude":27.45}}(window,'GeoPostal','RO');

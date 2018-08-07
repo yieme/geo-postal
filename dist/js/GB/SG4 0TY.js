@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG4 0TY"]={"code":"SG4 0TY","region":"England","city":"Hitchin","latitude":51.95314,"longitude":-0.26519}}(window,'GeoPostal','GB');

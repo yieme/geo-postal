@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30110"]={"code":"30110","region":"Nakhon Ratchasima","city":"Phimai","latitude":15.22324,"longitude":102.49472}}(window,'GeoPostal','TH');

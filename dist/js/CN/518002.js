@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["518002"]={"code":"518002","region":"Guangxi","city":"Tongle","latitude":24.84757,"longitude":106.5764}}(window,'GeoPostal','CN');

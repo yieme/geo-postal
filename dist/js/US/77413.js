@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77413"]={"code":"77413","region":"Texas","city":"Barker","latitude":29.771579,"longitude":-95.701043}}(window,'GeoPostal','US');

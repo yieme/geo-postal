@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS27 3YP"]={"code":"BS27 3YP","region":"England","city":"Bradley Cross","latitude":51.27488,"longitude":-2.76256}}(window,'GeoPostal','GB');

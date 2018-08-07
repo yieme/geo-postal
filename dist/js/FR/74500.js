@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74500"]={"code":"74500","region":"Auvergne-Rhone-Alpes","city":"Thollon-les-Memises","latitude":46.3889,"longitude":6.6997}}(window,'GeoPostal','FR');

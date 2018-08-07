@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11850-000"]={"code":"11850-000","region":"Sao Paulo","city":"Miracatu","latitude":-24.28139,"longitude":-47.45972}}(window,'GeoPostal','BR');

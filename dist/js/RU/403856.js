@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403856"]={"code":"403856","region":"Volgogradskaya oblast'","city":"Antipovka","latitude":49.82994,"longitude":45.31216}}(window,'GeoPostal','RU');

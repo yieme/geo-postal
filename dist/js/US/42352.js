@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42352"]={"code":"42352","region":"KY","city":"Livermore","latitude":37.5045,"longitude":-87.1239}}(window,'GeoPostal','US');

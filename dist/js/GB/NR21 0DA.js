@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0DA"]={"code":"NR21 0DA","region":"England","city":"Kettlestone","latitude":52.84736,"longitude":0.91839}}(window,'GeoPostal','GB');

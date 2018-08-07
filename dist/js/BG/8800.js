@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8800"]={"code":"8800","region":"Sliven","city":"Sliven","latitude":42.68583,"longitude":26.32917}}(window,'GeoPostal','BG');

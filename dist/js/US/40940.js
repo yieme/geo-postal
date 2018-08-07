@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40940"]={"code":"40940","region":"KY","city":"Frakes","latitude":36.607,"longitude":-83.9484}}(window,'GeoPostal','US');

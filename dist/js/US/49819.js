@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49819"]={"code":"49819","region":"MI","city":"Arnold","latitude":46.0508,"longitude":-87.4921}}(window,'GeoPostal','US');

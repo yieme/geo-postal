@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Z 1B0"]={"code":"G0Z 1B0","region":"Quebec","city":"Saint-Louis-de-Blandford","latitude":46.25006,"longitude":-71.99909}}(window,'GeoPostal','CA');

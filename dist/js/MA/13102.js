@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13102"]={"code":"13102","region":"Chaouia-Ouardigha","city":"Bouznika","latitude":33.78942,"longitude":-7.15968}}(window,'GeoPostal','MA');

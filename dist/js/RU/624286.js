@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624286"]={"code":"624286","region":"Sverdlovskaya oblast'","city":"Malysheva","latitude":57.11851,"longitude":61.40345}}(window,'GeoPostal','RU');

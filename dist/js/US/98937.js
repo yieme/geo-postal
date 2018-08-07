@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98937"]={"code":"98937","region":"Washington","city":"Naches","latitude":46.766804,"longitude":-120.784065}}(window,'GeoPostal','US');

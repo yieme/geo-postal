@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10604"]={"code":"10604","region":"New York","city":"White Plains","latitude":41.03502,"longitude":-73.7436}}(window,'GeoPostal','US');

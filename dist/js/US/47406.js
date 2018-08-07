@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47406"]={"code":"47406","region":"IN","city":"Bloomington","latitude":39.1745,"longitude":-86.5183}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-052"]={"code":"26-052","region":"Swietokrzyskie","city":"Brzeziny","latitude":50.77273,"longitude":20.57319}}(window,'GeoPostal','PL');

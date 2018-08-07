@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95519"]={"code":"95519","region":"California","city":"McKinleyville","latitude":40.8726,"longitude":-124.07064}}(window,'GeoPostal','US');

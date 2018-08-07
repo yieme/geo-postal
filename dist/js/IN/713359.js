@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["713359"]={"code":"713359","region":"West Bengal","city":"Kulti","latitude":23.73333,"longitude":86.85}}(window,'GeoPostal','IN');

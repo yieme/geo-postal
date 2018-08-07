@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40460"]={"code":"40460","region":"Nouvelle-Aquitaine","city":"Sanguinet","latitude":44.4832,"longitude":-1.07457}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61536"]={"code":"61536","region":"IL","city":"Hanna City","latitude":40.6798,"longitude":-89.7952}}(window,'GeoPostal','US');

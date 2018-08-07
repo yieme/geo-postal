@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P2A 0A2"]={"code":"P2A 0A2","region":"Ontario","city":"Falding","latitude":45.3015,"longitude":-79.91076}}(window,'GeoPostal','CA');

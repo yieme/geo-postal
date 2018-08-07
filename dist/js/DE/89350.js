@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89350"]={"code":"89350","region":"Bayern","city":"Durrlauingen","latitude":48.46666,"longitude":10.4286}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84051"]={"code":"84051","region":"Campania","city":"Centola","latitude":40.0665,"longitude":15.31196}}(window,'GeoPostal','IT');

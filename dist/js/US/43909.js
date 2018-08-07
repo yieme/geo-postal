@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43909"]={"code":"43909","region":"OH","city":"Blaine","latitude":40.0701,"longitude":-80.8176}}(window,'GeoPostal','US');

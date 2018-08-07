@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85420"]={"code":"85420","region":"Pays-de-la-Loire","city":"Maillezais","latitude":46.37267,"longitude":-0.73963}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38862"]={"code":"38862","region":"MS","city":"Plantersville","latitude":34.2011,"longitude":-88.6335}}(window,'GeoPostal','US');

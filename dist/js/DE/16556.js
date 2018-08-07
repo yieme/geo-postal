@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16556"]={"code":"16556","region":"Brandenburg","city":"Borgsdorf","latitude":52.71293,"longitude":13.2767}}(window,'GeoPostal','DE');

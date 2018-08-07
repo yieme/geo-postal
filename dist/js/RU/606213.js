@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606213"]={"code":"606213","region":"Nizhegorodskaya oblast'","city":"Lyskovo","latitude":56.03282,"longitude":45.0422}}(window,'GeoPostal','RU');

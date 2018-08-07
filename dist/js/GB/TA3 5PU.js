@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA3 5PU"]={"code":"TA3 5PU","region":"England","city":"Creech Saint Michael","latitude":51.02333,"longitude":-3.03833}}(window,'GeoPostal','GB');

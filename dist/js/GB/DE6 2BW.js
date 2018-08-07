@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2BW"]={"code":"DE6 2BW","region":"England","city":"Blore","latitude":53.03333,"longitude":-1.81667}}(window,'GeoPostal','GB');

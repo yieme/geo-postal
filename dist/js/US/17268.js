@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17268"]={"code":"17268","region":"Pennsylvania","city":"Waynesboro","latitude":39.763343,"longitude":-77.571725}}(window,'GeoPostal','US');

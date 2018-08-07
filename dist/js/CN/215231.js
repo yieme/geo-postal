@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215231"]={"code":"215231","region":"Jiangsu","city":"Zhenze","latitude":30.91571,"longitude":120.50005}}(window,'GeoPostal','CN');

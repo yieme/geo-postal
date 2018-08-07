@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40524"]={"code":"40524","region":"Jawa Barat","city":"Cimahi","latitude":-6.87222,"longitude":107.5425}}(window,'GeoPostal','ID');

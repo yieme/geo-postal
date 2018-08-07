@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["020350"]={"code":"020350","region":"Bolivar","city":"San Miguel","latitude":-1.7,"longitude":-79.03333}}(window,'GeoPostal','EC');

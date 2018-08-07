@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["631-130"]={"code":"631-130","region":"Gyeongsangnam-do","city":"Masan","latitude":35.20806,"longitude":128.5725}}(window,'GeoPostal','KR');

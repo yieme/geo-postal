@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL30 3PP"]={"code":"LL30 3PP","region":"Wales","city":"Penrhyn Bay","latitude":53.31736,"longitude":-3.76531}}(window,'GeoPostal','GB');

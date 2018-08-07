@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6GY"]={"code":"PE31 6GY","region":"England","city":"Dersingham","latitude":52.84549,"longitude":0.50339}}(window,'GeoPostal','GB');

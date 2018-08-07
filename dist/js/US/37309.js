@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37309"]={"code":"37309","region":"TN","city":"Calhoun","latitude":35.3228,"longitude":-84.7364}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07462"]={"code":"07462","region":"NJ","city":"Vernon","latitude":41.185,"longitude":-74.5332}}(window,'GeoPostal','US');

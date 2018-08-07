@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1779"]={"code":"1779","region":"Noord-Holland","city":"Den Oever","latitude":52.93353,"longitude":5.03079}}(window,'GeoPostal','NL');

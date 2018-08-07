@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0DW"]={"code":"LL13 0DW","region":"Wales","city":"Erbistock","latitude":52.97277,"longitude":-2.9664}}(window,'GeoPostal','GB');

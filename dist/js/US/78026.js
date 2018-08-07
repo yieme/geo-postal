@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78026"]={"code":"78026","region":"Texas","city":"Jourdanton","latitude":28.919522,"longitude":-98.543919}}(window,'GeoPostal','US');

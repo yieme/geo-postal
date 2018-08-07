@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12537"]={"code":"12537","region":"NY","city":"Hughsonville","latitude":41.5824,"longitude":-73.9363}}(window,'GeoPostal','US');

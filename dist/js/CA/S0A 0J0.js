@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 0J0"]={"code":"S0A 0J0","region":"Saskatchewan","city":"Buchanan","latitude":51.69998,"longitude":-102.75096}}(window,'GeoPostal','CA');

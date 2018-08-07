@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36-206"]={"code":"36-206","region":"Podkarpackie","city":"Jablonka","latitude":49.69417,"longitude":22.11565}}(window,'GeoPostal','PL');

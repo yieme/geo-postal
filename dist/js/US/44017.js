@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44017"]={"code":"44017","region":"Ohio","city":"Berea","latitude":41.369037,"longitude":-81.858513}}(window,'GeoPostal','US');

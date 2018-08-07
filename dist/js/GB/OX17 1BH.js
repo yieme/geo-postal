@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 1BH"]={"code":"OX17 1BH","region":"England","city":"Mollington","latitude":52.12348,"longitude":-1.35999}}(window,'GeoPostal','GB');

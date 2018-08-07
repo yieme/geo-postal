@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67492"]={"code":"67492","region":"KS","city":"Woodbine","latitude":38.8131,"longitude":-96.9619}}(window,'GeoPostal','US');

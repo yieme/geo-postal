@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47661"]={"code":"47661","region":"Nordrhein-Westfalen","city":"Issum","latitude":51.53333,"longitude":6.43333}}(window,'GeoPostal','DE');

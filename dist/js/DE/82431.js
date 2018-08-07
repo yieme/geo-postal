@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82431"]={"code":"82431","region":"Bayern","city":"Kochel","latitude":47.65926,"longitude":11.36827}}(window,'GeoPostal','DE');

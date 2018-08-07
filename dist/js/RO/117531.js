@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117531"]={"code":"117531","region":"Ilfov","city":"Domnesti","latitude":45.2,"longitude":24.83333}}(window,'GeoPostal','RO');

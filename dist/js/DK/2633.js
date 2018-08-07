@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2633"]={"code":"2633","region":"Hovedstaden","city":"Taastrup","latitude":55.65173,"longitude":12.29216}}(window,'GeoPostal','DK');

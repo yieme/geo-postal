@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3018"]={"code":"3018","region":"Bulacan","city":"Santa Maria","latitude":14.82083,"longitude":120.96361}}(window,'GeoPostal','PH');

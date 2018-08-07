@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00703"]={"code":"00703","region":"PR","city":"Aguas Buenas","latitude":18.25,"longitude":-66.1}}(window,'GeoPostal','US');

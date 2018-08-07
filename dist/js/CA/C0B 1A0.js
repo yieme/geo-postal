@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1A0"]={"code":"C0B 1A0","region":"Prince Edward Island","city":"Albany","latitude":46.28343,"longitude":-63.64872}}(window,'GeoPostal','CA');

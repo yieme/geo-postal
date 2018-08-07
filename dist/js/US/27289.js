@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27289"]={"code":"27289","region":"NC","city":"Eden","latitude":36.3921,"longitude":-79.7731}}(window,'GeoPostal','US');

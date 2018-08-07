@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31130"]={"code":"31130","region":"Occitanie","city":"Quint-Fonsegrives","latitude":43.5858,"longitude":1.5269}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46743"]={"code":"46743","region":"IN","city":"Harlan","latitude":41.2285,"longitude":-84.8386}}(window,'GeoPostal','US');

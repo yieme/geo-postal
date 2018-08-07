@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["386001"]={"code":"386001","region":"Ingushetiya, Respublika","city":"Magas","latitude":43.22257,"longitude":44.77261}}(window,'GeoPostal','RU');

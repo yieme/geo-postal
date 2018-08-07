@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171260"]={"code":"171260","region":"Tverskaya oblast'","city":"Redkino","latitude":56.64754,"longitude":36.29674}}(window,'GeoPostal','RU');

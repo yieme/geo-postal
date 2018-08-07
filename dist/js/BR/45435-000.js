@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45435-000"]={"code":"45435-000","region":"Bahia","city":"Itubera","latitude":-13.73222,"longitude":-39.14917}}(window,'GeoPostal','BR');

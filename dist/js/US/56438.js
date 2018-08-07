@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56438"]={"code":"56438","region":"Minnesota","city":"Browerville","latitude":46.08472,"longitude":-94.86833}}(window,'GeoPostal','US');

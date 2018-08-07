@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0851"]={"code":"0851","region":"Northern Territory","city":"Uralla","latitude":-14.49114,"longitude":132.29835}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-120"]={"code":"66-120","region":"Lubuskie","city":"Kargowa","latitude":52.0714,"longitude":15.86138}}(window,'GeoPostal','PL');

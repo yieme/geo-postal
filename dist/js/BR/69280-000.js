@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69280-000"]={"code":"69280-000","region":"Amazonas","city":"Manicore","latitude":-5.80917,"longitude":-61.30028}}(window,'GeoPostal','BR');

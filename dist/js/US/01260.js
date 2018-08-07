@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01260"]={"code":"01260","region":"MA","city":"South Lee","latitude":42.2779,"longitude":-73.2773}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH23 3AS"]={"code":"PH23 3AS","region":"Scotland","city":"Carrbridge","latitude":57.28248,"longitude":-3.81455}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14160"]={"code":"14160","region":"Ciudad de Mexico","city":"Magdalena Contreras","latitude":19.28333,"longitude":-99.23333}}(window,'GeoPostal','MX');

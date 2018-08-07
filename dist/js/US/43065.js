@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43065"]={"code":"43065","region":"Ohio","city":"Powell","latitude":40.15784,"longitude":-83.07519}}(window,'GeoPostal','US');

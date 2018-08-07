@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97039"]={"code":"97039","region":"Oregon","city":"Moro","latitude":45.48401,"longitude":-120.73117}}(window,'GeoPostal','US');

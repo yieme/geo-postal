@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49443"]={"code":"49443","region":"Michigan","city":"Muskegon","latitude":43.2128,"longitude":-86.22675}}(window,'GeoPostal','US');

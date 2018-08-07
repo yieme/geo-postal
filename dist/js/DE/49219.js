@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49219"]={"code":"49219","region":"Niedersachsen","city":"Glandorf","latitude":52.08333,"longitude":8.01667}}(window,'GeoPostal','DE');

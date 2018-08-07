@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607120"]={"code":"607120","region":"Bacau","city":"Corbasca","latitude":46.28333,"longitude":27.16667}}(window,'GeoPostal','RO');

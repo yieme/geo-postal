@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14424"]={"code":"14424","region":"New York","city":"Canandaigua","latitude":42.87423,"longitude":-77.28804}}(window,'GeoPostal','US');

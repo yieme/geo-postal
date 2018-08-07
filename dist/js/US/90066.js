@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90066"]={"code":"90066","region":"California","city":"Los Angeles","latitude":33.99657,"longitude":-118.43053}}(window,'GeoPostal','US');

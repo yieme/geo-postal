@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2675-432"]={"code":"2675-432","region":"Lisboa","city":"Odivelas","latitude":38.79269,"longitude":-9.1838}}(window,'GeoPostal','PT');

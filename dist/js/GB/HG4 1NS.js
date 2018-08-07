@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 1NS"]={"code":"HG4 1NS","region":"England","city":"Ripon","latitude":54.13521,"longitude":-1.52122}}(window,'GeoPostal','GB');

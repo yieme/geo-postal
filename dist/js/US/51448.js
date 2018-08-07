@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51448"]={"code":"51448","region":"IA","city":"Kiron","latitude":42.1794,"longitude":-95.3115}}(window,'GeoPostal','US');

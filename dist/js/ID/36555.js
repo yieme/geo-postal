@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36555"]={"code":"36555","region":"Jambi","city":"Mandahara","latitude":-1.03333,"longitude":103.58333}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02637"]={"code":"02637","region":"MA","city":"Cummaquid","latitude":41.7014,"longitude":-70.2772}}(window,'GeoPostal','US');

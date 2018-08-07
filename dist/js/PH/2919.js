@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2919"]={"code":"2919","region":"Ilocos Norte","city":"Pagudpud","latitude":18.5616,"longitude":120.7868}}(window,'GeoPostal','PH');

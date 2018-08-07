@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 4M0"]={"code":"A0K 4M0","region":"Newfoundland and Labrador","city":"River of Ponds","latitude":50.53336,"longitude":-57.39823}}(window,'GeoPostal','CA');

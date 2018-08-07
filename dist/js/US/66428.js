@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66428"]={"code":"66428","region":"KS","city":"Goff","latitude":39.6654,"longitude":-95.9574}}(window,'GeoPostal','US');

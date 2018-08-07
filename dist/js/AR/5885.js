@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5885"]={"code":"5885","region":"Cordoba","city":"Villa Las Rosas","latitude":-31.95021,"longitude":-65.05354}}(window,'GeoPostal','AR');

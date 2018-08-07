@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15378"]={"code":"15378","region":"Brandenburg","city":"Torfhaus","latitude":52.51647,"longitude":13.84226}}(window,'GeoPostal','DE');

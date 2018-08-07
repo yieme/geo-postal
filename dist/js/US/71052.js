@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71052"]={"code":"71052","region":"Louisiana","city":"Mansfield","latitude":32.03766,"longitude":-93.70018}}(window,'GeoPostal','US');

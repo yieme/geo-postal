@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41727"]={"code":"41727","region":"Kentucky","city":"Chavies","latitude":37.360163,"longitude":-83.323324}}(window,'GeoPostal','US');

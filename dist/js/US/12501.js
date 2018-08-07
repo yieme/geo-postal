@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12501"]={"code":"12501","region":"NY","city":"Amenia","latitude":41.8447,"longitude":-73.5542}}(window,'GeoPostal','US');

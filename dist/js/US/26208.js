@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26208"]={"code":"26208","region":"WV","city":"Camden On Gauley","latitude":38.3871,"longitude":-80.5907}}(window,'GeoPostal','US');

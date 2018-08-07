@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13439"]={"code":"13439","region":"New York","city":"Richfield Springs","latitude":42.8529,"longitude":-74.98812}}(window,'GeoPostal','US');

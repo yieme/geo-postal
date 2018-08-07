@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35645"]={"code":"35645","region":"Alabama","city":"Killen","latitude":34.916787,"longitude":-87.503521}}(window,'GeoPostal','US');

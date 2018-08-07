@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD1 3NA"]={"code":"TD1 3NA","region":"Scotland","city":"Clovenfords","latitude":55.61823,"longitude":-2.87689}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16450"]={"code":"16450","region":"Kelantan","city":"Peringat","latitude":6.03333,"longitude":102.28333}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 8AP"]={"code":"PE31 8AP","region":"England","city":"Brancaster","latitude":52.96327,"longitude":0.6403}}(window,'GeoPostal','GB');

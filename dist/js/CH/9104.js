@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9104"]={"code":"9104","region":"Appenzell Ausserrhoden","city":"Waldstatt","latitude":47.35627,"longitude":9.28345}}(window,'GeoPostal','CH');

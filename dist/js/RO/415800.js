@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415800"]={"code":"415800","region":"Bihor","city":"Vascau","latitude":46.46667,"longitude":22.46667}}(window,'GeoPostal','RO');

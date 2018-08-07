@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56860"]={"code":"56860","region":"Bretagne","city":"Sene","latitude":47.619,"longitude":-2.737}}(window,'GeoPostal','FR');

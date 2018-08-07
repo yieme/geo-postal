@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06140"]={"code":"06140","region":"Extremadura","city":"Talavera La Real","latitude":38.87794,"longitude":-6.76856}}(window,'GeoPostal','ES');

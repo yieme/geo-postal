@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 7NT"]={"code":"IP13 7NT","region":"England","city":"Worlingworth","latitude":52.27026,"longitude":1.26995}}(window,'GeoPostal','GB');

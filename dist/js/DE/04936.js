@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04936"]={"code":"04936","region":"Brandenburg","city":"Kolochau","latitude":51.72679,"longitude":13.31771}}(window,'GeoPostal','DE');

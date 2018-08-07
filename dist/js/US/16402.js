@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16402"]={"code":"16402","region":"PA","city":"Bear Lake","latitude":41.9701,"longitude":-79.4614}}(window,'GeoPostal','US');

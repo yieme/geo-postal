@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40353"]={"code":"40353","region":"Kentucky","city":"Mount Sterling","latitude":38.05647,"longitude":-83.94326}}(window,'GeoPostal','US');

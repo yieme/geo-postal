@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3323"]={"code":"3323","region":"Isabela","city":"Quirino","latitude":17.13333,"longitude":121.7}}(window,'GeoPostal','PH');

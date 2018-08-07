@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12850"]={"code":"12850","region":"NY","city":"Middle Grove","latitude":43.0975,"longitude":-74.0167}}(window,'GeoPostal','US');

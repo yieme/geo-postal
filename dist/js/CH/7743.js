@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7743"]={"code":"7743","region":"Graubunden","city":"Brusio","latitude":46.25767,"longitude":10.12604}}(window,'GeoPostal','CH');

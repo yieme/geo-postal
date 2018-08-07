@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33126"]={"code":"33126","region":"Nouvelle-Aquitaine","city":"Fronsac","latitude":44.91667,"longitude":-0.26667}}(window,'GeoPostal','FR');

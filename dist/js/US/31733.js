@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31733"]={"code":"31733","region":"GA","city":"Chula","latitude":31.5439,"longitude":-83.5509}}(window,'GeoPostal','US');

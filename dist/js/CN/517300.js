@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517300"]={"code":"517300","region":"Guangdong","city":"Laolong","latitude":24.10727,"longitude":115.23688}}(window,'GeoPostal','CN');

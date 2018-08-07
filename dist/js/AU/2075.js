@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2075"]={"code":"2075","region":"Western Australia","city":"Ives","latitude":-26.91667,"longitude":120.76667}}(window,'GeoPostal','AU');

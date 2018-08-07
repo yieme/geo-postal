@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585308"]={"code":"585308","region":"Karnataka","city":"Afzalpur","latitude":17.2,"longitude":76.35}}(window,'GeoPostal','IN');

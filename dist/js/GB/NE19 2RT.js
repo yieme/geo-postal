@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE19 2RT"]={"code":"NE19 2RT","region":"England","city":"Kirkwhelpington","latitude":55.15465,"longitude":-2.00625}}(window,'GeoPostal','GB');

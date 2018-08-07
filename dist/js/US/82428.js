@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82428"]={"code":"82428","region":"WY","city":"Hyattville","latitude":44.2507,"longitude":-107.6053}}(window,'GeoPostal','US');

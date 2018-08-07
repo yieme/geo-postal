@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 9HP"]={"code":"NG13 9HP","region":"England","city":"Nottingham","latitude":52.9536,"longitude":-1.15047}}(window,'GeoPostal','GB');

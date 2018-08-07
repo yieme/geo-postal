@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6070"]={"code":"6070","region":"Bacs-Kiskun","city":"Izsak","latitude":46.80454,"longitude":19.35172}}(window,'GeoPostal','HU');

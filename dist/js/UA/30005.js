@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30005"]={"code":"30005","region":"Khmelnytska oblast","city":"Slavuta","latitude":50.30155,"longitude":26.86506}}(window,'GeoPostal','UA');

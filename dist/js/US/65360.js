@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65360"]={"code":"65360","region":"MO","city":"Windsor","latitude":38.5272,"longitude":-93.5269}}(window,'GeoPostal','US');

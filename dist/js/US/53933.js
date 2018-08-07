@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53933"]={"code":"53933","region":"WI","city":"Fox Lake","latitude":43.5815,"longitude":-88.9041}}(window,'GeoPostal','US');

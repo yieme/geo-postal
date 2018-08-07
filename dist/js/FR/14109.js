@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14109"]={"code":"14109","region":"Normandie","city":"Lisieux","latitude":49.1466,"longitude":0.22925}}(window,'GeoPostal','FR');

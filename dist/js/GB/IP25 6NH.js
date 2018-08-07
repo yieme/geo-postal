@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP25 6NH"]={"code":"IP25 6NH","region":"England","city":"Great Cressingham","latitude":52.58197,"longitude":0.73177}}(window,'GeoPostal','GB');

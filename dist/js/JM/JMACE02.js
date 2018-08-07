@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMACE02"]={"code":"JMACE02","region":"Saint Elizabeth","city":"Maggotty","latitude":18.16069,"longitude":-77.76349}}(window,'GeoPostal','JM');

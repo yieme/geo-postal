@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59016"]={"code":"59016","region":"Toscana","city":"Poggio a Caiano","latitude":43.81365,"longitude":11.05072}}(window,'GeoPostal','IT');

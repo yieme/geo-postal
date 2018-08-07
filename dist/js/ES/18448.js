@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18448"]={"code":"18448","region":"Andalucia","city":"Cadiar","latitude":36.94591,"longitude":-3.1802}}(window,'GeoPostal','ES');

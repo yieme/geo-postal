@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 1W0"]={"code":"T0B 1W0","region":"Alberta","city":"Hay Lakes","latitude":53.20013,"longitude":-113.05198}}(window,'GeoPostal','CA');

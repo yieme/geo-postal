@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73021"]={"code":"73021","region":"OK","city":"Colony","latitude":35.3448,"longitude":-98.6707}}(window,'GeoPostal','US');

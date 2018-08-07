@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16725"]={"code":"16725","region":"Pennsylvania","city":"Custer City","latitude":41.905833,"longitude":-78.651944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07300"]={"code":"07300","region":"Istanbul","city":"Umraniye","latitude":41.01643,"longitude":29.12476}}(window,'GeoPostal','TR');

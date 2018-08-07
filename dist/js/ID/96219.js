@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96219"]={"code":"96219","region":"Gorontalo","city":"Limboto","latitude":0.627,"longitude":122.9778}}(window,'GeoPostal','ID');

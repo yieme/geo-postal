@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087 01"]={"code":"087 01","region":"Presovsky kraj","city":"Giraltovce","latitude":49.11398,"longitude":21.51731}}(window,'GeoPostal','SK');

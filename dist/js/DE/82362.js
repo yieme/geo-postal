@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82362"]={"code":"82362","region":"Bayern","city":"Weilheim in Oberbayern","latitude":47.84147,"longitude":11.15484}}(window,'GeoPostal','DE');

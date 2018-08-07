@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19409"]={"code":"19409","region":"PA","city":"Fairview Village","latitude":40.1579,"longitude":-75.3871}}(window,'GeoPostal','US');

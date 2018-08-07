@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67639"]={"code":"67639","region":"KS","city":"Glade","latitude":39.6704,"longitude":-99.2996}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42631"]={"code":"42631","region":"Kentucky","city":"Marshes Siding","latitude":36.743611,"longitude":-84.480833}}(window,'GeoPostal','US');

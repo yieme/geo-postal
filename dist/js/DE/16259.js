@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16259"]={"code":"16259","region":"Brandenburg","city":"Bad Freienwalde","latitude":52.7873,"longitude":14.0304}}(window,'GeoPostal','DE');

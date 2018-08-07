@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 6DA"]={"code":"BD23 6DA","region":"England","city":"Appletreewick","latitude":54.03694,"longitude":-1.91919}}(window,'GeoPostal','GB');

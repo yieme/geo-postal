@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04063"]={"code":"04063","region":"ME","city":"Ocean Park","latitude":43.5006,"longitude":-70.3862}}(window,'GeoPostal','US');

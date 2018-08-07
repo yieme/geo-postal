@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48600"]={"code":"48600","region":"Jalisco","city":"Juchitlan","latitude":20.08333,"longitude":-104.11667}}(window,'GeoPostal','MX');

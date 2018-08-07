@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24110"]={"code":"24110","region":"Chachoengsao","city":"Bang Khla","latitude":13.72144,"longitude":101.20814}}(window,'GeoPostal','TH');

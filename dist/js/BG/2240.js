@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2240"]={"code":"2240","region":"Sofia","city":"Godech","latitude":43.015,"longitude":23.04417}}(window,'GeoPostal','BG');

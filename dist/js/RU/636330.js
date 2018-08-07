@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636330"]={"code":"636330","region":"Tomskaya oblast'","city":"Molchanovo","latitude":57.58167,"longitude":83.76917}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84037"]={"code":"84037","region":"Utah","city":"Kaysville","latitude":41.03522,"longitude":-111.93855}}(window,'GeoPostal','US');

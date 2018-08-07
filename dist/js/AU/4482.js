@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4482"]={"code":"4482","region":"Queensland","city":"Birdsville","latitude":-25.9,"longitude":139.36667}}(window,'GeoPostal','AU');

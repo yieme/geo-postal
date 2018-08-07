@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT10 2EH"]={"code":"DT10 2EH","region":"England","city":"Mappowder","latitude":50.85458,"longitude":-2.37747}}(window,'GeoPostal','GB');

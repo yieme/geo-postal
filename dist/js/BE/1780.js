@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1780"]={"code":"1780","region":"Vlaams-Brabant","city":"Wemmel","latitude":50.90812,"longitude":4.30613}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 8PQ"]={"code":"TD5 8PQ","region":"Scotland","city":"Kirk Yetholm","latitude":55.54711,"longitude":-2.27558}}(window,'GeoPostal','GB');

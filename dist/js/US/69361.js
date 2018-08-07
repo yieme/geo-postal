@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69361"]={"code":"69361","region":"Nebraska","city":"Scottsbluff","latitude":41.86663,"longitude":-103.66717}}(window,'GeoPostal','US');

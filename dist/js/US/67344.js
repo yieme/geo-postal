@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67344"]={"code":"67344","region":"Kansas","city":"Elk City","latitude":37.29028,"longitude":-95.91028}}(window,'GeoPostal','US');

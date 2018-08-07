@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77515"]={"code":"77515","region":"Ile-de-France","city":"Faremoutiers","latitude":48.79962,"longitude":2.99607}}(window,'GeoPostal','FR');

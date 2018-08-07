@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A1V 2R2"]={"code":"A1V 2R2","region":"Newfoundland and Labrador","city":"Monchy","latitude":48.96662,"longitude":-54.79815}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94160"]={"code":"94160","region":"Veracruz de Ignacio de la Llave","city":"Chocaman","latitude":19.01667,"longitude":-97.01667}}(window,'GeoPostal','MX');

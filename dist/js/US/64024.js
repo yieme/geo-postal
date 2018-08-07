@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64024"]={"code":"64024","region":"Missouri","city":"Excelsior Springs","latitude":39.340952,"longitude":-94.233566}}(window,'GeoPostal','US');

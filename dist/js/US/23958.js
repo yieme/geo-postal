@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23958"]={"code":"23958","region":"VA","city":"Pamplin","latitude":37.2653,"longitude":-78.6517}}(window,'GeoPostal','US');

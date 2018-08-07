@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08904"]={"code":"08904","region":"New Jersey","city":"Highland Park","latitude":40.49594,"longitude":-74.42432}}(window,'GeoPostal','US');

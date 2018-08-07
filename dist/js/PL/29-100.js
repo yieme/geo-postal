@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29-100"]={"code":"29-100","region":"Swietokrzyskie","city":"Wloszczowa","latitude":50.85256,"longitude":19.96593}}(window,'GeoPostal','PL');

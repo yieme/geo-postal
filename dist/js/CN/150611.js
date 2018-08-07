@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150611"]={"code":"150611","region":"Heilongjiang","city":"Mao'ershan","latitude":45.27555,"longitude":127.50285}}(window,'GeoPostal','CN');

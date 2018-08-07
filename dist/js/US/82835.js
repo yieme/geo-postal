@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82835"]={"code":"82835","region":"Wyoming","city":"Clearmont","latitude":44.670991,"longitude":-106.422563}}(window,'GeoPostal','US');

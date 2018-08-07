@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71725"]={"code":"71725","region":"AR","city":"Carthage","latitude":34.0751,"longitude":-92.5554}}(window,'GeoPostal','US');

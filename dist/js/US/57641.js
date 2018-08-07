@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57641"]={"code":"57641","region":"South Dakota","city":"McIntosh","latitude":45.92139,"longitude":-101.34958}}(window,'GeoPostal','US');

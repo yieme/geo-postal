@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75792"]={"code":"75792","region":"TX","city":"Winona","latitude":32.4662,"longitude":-95.1246}}(window,'GeoPostal','US');

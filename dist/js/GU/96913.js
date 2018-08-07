@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96913"]={"code":"96913","region":"Barrigada Municipality","city":"Barrigada Village","latitude":13.46913,"longitude":144.79901}}(window,'GeoPostal','GU');

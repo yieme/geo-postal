@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE14 8DA"]={"code":"PE14 8DA","region":"England","city":"Emneth","latitude":52.64244,"longitude":0.20857}}(window,'GeoPostal','GB');

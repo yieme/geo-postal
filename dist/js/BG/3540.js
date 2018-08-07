@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3540"]={"code":"3540","region":"Montana","city":"Vurshets","latitude":43.19528,"longitude":23.28611}}(window,'GeoPostal','BG');

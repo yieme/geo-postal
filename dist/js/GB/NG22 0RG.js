@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 0RG"]={"code":"NG22 0RG","region":"England","city":"East Markham","latitude":53.25221,"longitude":-0.89385}}(window,'GeoPostal','GB');

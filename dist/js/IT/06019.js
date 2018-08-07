@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06019"]={"code":"06019","region":"Umbria","city":"Umbertide","latitude":43.30555,"longitude":12.33655}}(window,'GeoPostal','IT');

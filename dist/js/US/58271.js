@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58271"]={"code":"58271","region":"North Dakota","city":"Pembina","latitude":48.818056,"longitude":-97.227222}}(window,'GeoPostal','US');

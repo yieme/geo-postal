@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67024"]={"code":"67024","region":"Abruzzo","city":"Castelvecchio Subequo","latitude":42.13023,"longitude":13.7278}}(window,'GeoPostal','IT');

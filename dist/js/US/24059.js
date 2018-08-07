@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24059"]={"code":"24059","region":"VA","city":"Bent Mountain","latitude":37.1549,"longitude":-80.1215}}(window,'GeoPostal','US');

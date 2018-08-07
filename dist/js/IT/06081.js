@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06081"]={"code":"06081","region":"Umbria","city":"Assisi","latitude":43.06914,"longitude":12.61646}}(window,'GeoPostal','IT');

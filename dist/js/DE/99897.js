@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99897"]={"code":"99897","region":"Thuringen","city":"Tambach-Dietharz","latitude":50.79245,"longitude":10.61568}}(window,'GeoPostal','DE');

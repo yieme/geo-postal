@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58273"]={"code":"58273","region":"North Dakota","city":"Pisek","latitude":48.282083,"longitude":-97.70846}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50530"]={"code":"50530","region":"IA","city":"Dayton","latitude":42.2594,"longitude":-94.061}}(window,'GeoPostal','US');

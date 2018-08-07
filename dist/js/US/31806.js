@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31806"]={"code":"31806","region":"Georgia","city":"Ellaville","latitude":32.298906,"longitude":-84.064067}}(window,'GeoPostal','US');

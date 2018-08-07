@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49963"]={"code":"49963","region":"Michigan","city":"South Range","latitude":47.071094,"longitude":-88.643728}}(window,'GeoPostal','US');

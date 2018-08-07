@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646672"]={"code":"646672","region":"Omskaya oblast'","city":"Bol'sherech'ye","latitude":56.09252,"longitude":74.62716}}(window,'GeoPostal','RU');

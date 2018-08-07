@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD1 2PS"]={"code":"TD1 2PS","region":"Scotland","city":"Blainslie","latitude":55.68333,"longitude":-2.73333}}(window,'GeoPostal','GB');

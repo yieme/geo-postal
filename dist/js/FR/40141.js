@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40141"]={"code":"40141","region":"Nouvelle-Aquitaine","city":"Soustons","latitude":43.75328,"longitude":-1.3278}}(window,'GeoPostal','FR');

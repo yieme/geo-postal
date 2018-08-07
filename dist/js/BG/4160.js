@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4160"]={"code":"4160","region":"Plovdiv","city":"Brezovo","latitude":42.35,"longitude":25.08333}}(window,'GeoPostal','BG');

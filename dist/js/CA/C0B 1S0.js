@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0B 1S0"]={"code":"C0B 1S0","region":"Prince Edward Island","city":"Miminegash","latitude":46.88345,"longitude":-64.23203}}(window,'GeoPostal','CA');

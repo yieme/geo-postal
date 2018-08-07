@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613641"]={"code":"613641","region":"Kirovskaya oblast'","city":"Murygino","latitude":58.73831,"longitude":49.45822}}(window,'GeoPostal','RU');

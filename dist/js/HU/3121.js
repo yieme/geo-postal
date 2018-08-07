@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3121"]={"code":"3121","region":"Nograd","city":"Somoskoujfalu","latitude":48.16374,"longitude":19.82303}}(window,'GeoPostal','HU');

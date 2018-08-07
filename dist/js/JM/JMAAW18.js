@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMAAW18"]={"code":"JMAAW18","region":"Saint Andrew","city":"Stony Hill","latitude":18.07537,"longitude":-76.79109}}(window,'GeoPostal','JM');

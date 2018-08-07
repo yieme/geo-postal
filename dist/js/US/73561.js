@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73561"]={"code":"73561","region":"OK","city":"Oscar","latitude":34.0313,"longitude":-97.6481}}(window,'GeoPostal','US');

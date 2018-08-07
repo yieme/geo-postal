@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92091"]={"code":"92091","region":"CA","city":"Rancho Santa Fe","latitude":32.9623,"longitude":-117.0462}}(window,'GeoPostal','US');

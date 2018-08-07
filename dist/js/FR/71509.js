@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71509"]={"code":"71509","region":"Bourgogne-Franche-Comte","city":"Louhans","latitude":46.63333,"longitude":5.21667}}(window,'GeoPostal','FR');

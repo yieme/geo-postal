@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673390"]={"code":"673390","region":"Zabaykal'skiy kray","city":"Pervomayskiy","latitude":51.67013,"longitude":115.62543}}(window,'GeoPostal','RU');

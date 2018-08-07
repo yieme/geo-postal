@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628110"]={"code":"628110","region":"Sichuan","city":"Banqiao","latitude":32.6227,"longitude":105.34494}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 8BF"]={"code":"LA12 8BF","region":"England","city":"Haverthwaite","latitude":54.24579,"longitude":-3.01334}}(window,'GeoPostal','GB');

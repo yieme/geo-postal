@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV4 7AD"]={"code":"IV4 7AD","region":"Scotland","city":"Crask Of Aigas","latitude":57.44518,"longitude":-4.55598}}(window,'GeoPostal','GB');

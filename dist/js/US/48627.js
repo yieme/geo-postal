@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48627"]={"code":"48627","region":"Michigan","city":"Higgins Lake","latitude":44.444928,"longitude":-84.745073}}(window,'GeoPostal','US');

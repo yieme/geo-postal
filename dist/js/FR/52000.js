@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52000"]={"code":"52000","region":"Grand-Est","city":"Chamarandes-Choignes","latitude":48.08333,"longitude":5.15}}(window,'GeoPostal','FR');

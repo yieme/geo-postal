@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2040"]={"code":"2040","region":"Pest","city":"Budaors","latitude":47.46181,"longitude":18.95845}}(window,'GeoPostal','HU');

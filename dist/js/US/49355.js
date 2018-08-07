@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49355"]={"code":"49355","region":"Michigan","city":"Ada","latitude":42.95533,"longitude":-85.47979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17890"]={"code":"17890","region":"Nouvelle-Aquitaine","city":"Chaillevette","latitude":45.7303,"longitude":-1.0581}}(window,'GeoPostal','FR');

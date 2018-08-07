@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36000-000"]={"code":"36000-000","region":"Minas Gerais","city":"Juiz de Fora","latitude":-21.76417,"longitude":-43.35028}}(window,'GeoPostal','BR');

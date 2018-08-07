@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["164010"]={"code":"164010","region":"Arkhangel'skaya oblast'","city":"Konosha","latitude":60.9736,"longitude":40.257}}(window,'GeoPostal','RU');

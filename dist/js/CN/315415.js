@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315415"]={"code":"315415","region":"Zhejiang","city":"Linshan","latitude":30.15395,"longitude":120.99182}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37804"]={"code":"37804","region":"Poltavska oblast","city":"Khorol","latitude":49.78367,"longitude":33.27833}}(window,'GeoPostal','UA');

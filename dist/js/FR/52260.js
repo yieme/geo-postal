@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52260"]={"code":"52260","region":"Grand-Est","city":"Rolampont","latitude":47.94952,"longitude":5.2856}}(window,'GeoPostal','FR');

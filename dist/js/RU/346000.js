@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346000"]={"code":"346000","region":"Rostovskaya oblast'","city":"Chertkovo","latitude":49.3847,"longitude":40.15471}}(window,'GeoPostal','RU');

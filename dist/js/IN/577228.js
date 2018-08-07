@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577228"]={"code":"577228","region":"Karnataka","city":"Tarikere","latitude":13.71667,"longitude":75.81667}}(window,'GeoPostal','IN');

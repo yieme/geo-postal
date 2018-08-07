@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49238"]={"code":"49238","region":"MI","city":"Deerfield","latitude":41.8909,"longitude":-83.7847}}(window,'GeoPostal','US');

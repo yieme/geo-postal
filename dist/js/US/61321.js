@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61321"]={"code":"61321","region":"IL","city":"Dana","latitude":40.9547,"longitude":-88.9628}}(window,'GeoPostal','US');

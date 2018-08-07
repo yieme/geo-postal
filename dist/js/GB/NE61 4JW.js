@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 4JW"]={"code":"NE61 4JW","region":"England","city":"Longwitton","latitude":55.19351,"longitude":-1.88263}}(window,'GeoPostal','GB');

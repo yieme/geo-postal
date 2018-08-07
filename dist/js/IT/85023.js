@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85023"]={"code":"85023","region":"Basilicata","city":"Forenza","latitude":40.86041,"longitude":15.85457}}(window,'GeoPostal','IT');

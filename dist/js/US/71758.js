@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71758"]={"code":"71758","region":"AR","city":"Mount Holly","latitude":33.3085,"longitude":-92.9443}}(window,'GeoPostal','US');

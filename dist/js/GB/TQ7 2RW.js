@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TQ7 2RW"]={"code":"TQ7 2RW","region":"England","city":"South Pool","latitude":50.24942,"longitude":-3.7186}}(window,'GeoPostal','GB');

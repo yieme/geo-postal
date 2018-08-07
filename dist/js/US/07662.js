@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07662"]={"code":"07662","region":"New Jersey","city":"Rochelle Park","latitude":40.905128,"longitude":-74.090563}}(window,'GeoPostal','US');

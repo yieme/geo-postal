@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9224"]={"code":"9224","region":"Khulna","city":"Bhatpara Abhaynagar","latitude":23.01531,"longitude":89.4432}}(window,'GeoPostal','BD');

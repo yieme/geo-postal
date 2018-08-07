@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21022"]={"code":"21022","region":"Maryland","city":"Brooklandville","latitude":39.407273,"longitude":-76.668381}}(window,'GeoPostal','US');

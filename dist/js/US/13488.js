@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13488"]={"code":"13488","region":"NY","city":"Westford","latitude":42.6809,"longitude":-74.7653}}(window,'GeoPostal','US');

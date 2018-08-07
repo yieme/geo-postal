@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64843"]={"code":"64843","region":"MO","city":"Goodman","latitude":36.7323,"longitude":-94.3986}}(window,'GeoPostal','US');

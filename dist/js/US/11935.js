@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11935"]={"code":"11935","region":"NY","city":"Cutchogue","latitude":41.0139,"longitude":-72.4803}}(window,'GeoPostal','US');

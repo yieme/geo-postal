@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49958"]={"code":"49958","region":"Michigan","city":"Pelkie","latitude":46.729829,"longitude":-88.641907}}(window,'GeoPostal','US');

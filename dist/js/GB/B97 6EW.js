@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B97 6EW"]={"code":"B97 6EW","region":"England","city":"Redditch","latitude":52.3065,"longitude":-1.94569}}(window,'GeoPostal','GB');

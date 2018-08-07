@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13040"]={"code":"13040","region":"Piemonte","city":"Alice Castello","latitude":45.36516,"longitude":8.07292}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24260"]={"code":"24260","region":"Nouvelle-Aquitaine","city":"Le Bugue","latitude":44.91847,"longitude":0.92714}}(window,'GeoPostal','FR');

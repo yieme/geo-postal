@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA73 1NP"]={"code":"SA73 1NP","region":"Wales","city":"Houghton","latitude":51.72889,"longitude":-4.92083}}(window,'GeoPostal','GB');

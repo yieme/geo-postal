@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0C 2C0"]={"code":"T0C 2C0","region":"Alberta","city":"Argentia Beach","latitude":53.05012,"longitude":-114.01874}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH48 2HZ"]={"code":"CH48 2HZ","region":"England","city":"Caldy","latitude":53.35832,"longitude":-3.16384}}(window,'GeoPostal','GB');

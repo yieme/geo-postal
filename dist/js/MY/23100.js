@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23100"]={"code":"23100","region":"Terengganu","city":"Paka","latitude":4.6374,"longitude":103.4368}}(window,'GeoPostal','MY');

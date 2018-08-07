@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84560"]={"code":"84560","region":"Sonora","city":"Moctezuma","latitude":29.8,"longitude":-109.66667}}(window,'GeoPostal','MX');

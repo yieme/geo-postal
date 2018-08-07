@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11796"]={"code":"11796","region":"NY","city":"West Sayville","latitude":40.732,"longitude":-73.1}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4338"]={"code":"4338","region":"Zeeland","city":"Middelburg","latitude":51.5,"longitude":3.61389}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03159"]={"code":"03159","region":"Brandenburg","city":"Preschen","latitude":51.64738,"longitude":14.65864}}(window,'GeoPostal','DE');

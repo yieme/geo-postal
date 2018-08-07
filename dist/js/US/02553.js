@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02553"]={"code":"02553","region":"MA","city":"Monument Beach","latitude":41.7196,"longitude":-70.612}}(window,'GeoPostal','US');

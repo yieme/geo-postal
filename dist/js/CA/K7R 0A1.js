@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7R 0A1"]={"code":"K7R 0A1","region":"Ontario","city":"Napanee","latitude":44.25012,"longitude":-76.94944}}(window,'GeoPostal','CA');

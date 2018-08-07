@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29130"]={"code":"29130","region":"Coahuila de Zaragoza","city":"Ciudad Acuna","latitude":29.32322,"longitude":-100.95217}}(window,'GeoPostal','MX');

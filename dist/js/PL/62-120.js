@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-120"]={"code":"62-120","region":"Wielkopolskie","city":"Wapno","latitude":52.90804,"longitude":17.47504}}(window,'GeoPostal','PL');

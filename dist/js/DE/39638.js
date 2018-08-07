@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39638"]={"code":"39638","region":"Sachsen-Anhalt","city":"Schwiesau","latitude":52.59769,"longitude":11.25828}}(window,'GeoPostal','DE');

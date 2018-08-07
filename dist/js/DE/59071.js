@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59071"]={"code":"59071","region":"Nordrhein-Westfalen","city":"Uentrop","latitude":51.40338,"longitude":8.0913}}(window,'GeoPostal','DE');

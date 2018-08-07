@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17031"]={"code":"17031","region":"Liguria","city":"Albenga","latitude":44.04997,"longitude":8.21829}}(window,'GeoPostal','IT');

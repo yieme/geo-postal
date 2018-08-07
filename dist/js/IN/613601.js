@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613601"]={"code":"613601","region":"Tamil Nadu","city":"Kuttanallur","latitude":10.7,"longitude":79.53333}}(window,'GeoPostal','IN');

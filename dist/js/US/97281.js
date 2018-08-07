@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97281"]={"code":"97281","region":"Oregon","city":"Tigard","latitude":45.44055,"longitude":-122.77804}}(window,'GeoPostal','US');

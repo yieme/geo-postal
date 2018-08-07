@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21420"]={"code":"21420","region":"Splitsko-dalmatinska zupanija","city":"Bol","latitude":43.26194,"longitude":16.655}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142172"]={"code":"142172","region":"Moskovskaya oblast'","city":"Shcherbinka","latitude":55.49972,"longitude":37.55972}}(window,'GeoPostal','RU');

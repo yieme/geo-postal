@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71031"]={"code":"71031","region":"LA","city":"Goldonna","latitude":32,"longitude":-92.9611}}(window,'GeoPostal','US');

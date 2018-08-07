@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13630"]={"code":"13630","region":"Provence-Alpes-Cote d'Azur","city":"Eyragues","latitude":43.84103,"longitude":4.84231}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60145"]={"code":"60145","region":"IL","city":"Kingston","latitude":42.1057,"longitude":-88.7695}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55130"]={"code":"55130","region":"Nan","city":"Chaloem Phra Kiat","latitude":19.57881,"longitude":101.08011}}(window,'GeoPostal','TH');

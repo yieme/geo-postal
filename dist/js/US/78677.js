@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78677"]={"code":"78677","region":"TX","city":"Wrightsboro","latitude":29.3739,"longitude":-97.565}}(window,'GeoPostal','US');

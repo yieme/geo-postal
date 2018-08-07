@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2601"]={"code":"2601","region":"Nangarhar","city":"Jalalabad","latitude":34.42647,"longitude":70.45153}}(window,'GeoPostal','AF');

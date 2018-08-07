@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30900"]={"code":"30900","region":"Occitanie","city":"Nimes","latitude":43.83333,"longitude":4.35}}(window,'GeoPostal','FR');

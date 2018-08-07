@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-230"]={"code":"33-230","region":"Malopolskie","city":"Szczucin","latitude":50.30957,"longitude":21.07444}}(window,'GeoPostal','PL');

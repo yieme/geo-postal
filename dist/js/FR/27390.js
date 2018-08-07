@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27390"]={"code":"27390","region":"Normandie","city":"Montreuil-l'Argille","latitude":48.9394,"longitude":0.4814}}(window,'GeoPostal','FR');

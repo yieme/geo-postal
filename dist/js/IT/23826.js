@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23826"]={"code":"23826","region":"Lombardia","city":"Mandello del Lario","latitude":45.91918,"longitude":9.31934}}(window,'GeoPostal','IT');

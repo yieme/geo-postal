@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162139"]={"code":"162139","region":"Vologodskaya oblast'","city":"Sokol","latitude":59.46167,"longitude":40.12056}}(window,'GeoPostal','RU');

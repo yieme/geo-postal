@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99763"]={"code":"99763","region":"Alaska","city":"Noorvik","latitude":66.83722,"longitude":-161.03667}}(window,'GeoPostal','US');

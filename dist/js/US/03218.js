@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03218"]={"code":"03218","region":"NH","city":"Barnstead","latitude":43.3349,"longitude":-71.2887}}(window,'GeoPostal','US');

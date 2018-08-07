@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["089 01"]={"code":"089 01","region":"Presovsky kraj","city":"Svidnik","latitude":49.30819,"longitude":21.5703}}(window,'GeoPostal','SK');

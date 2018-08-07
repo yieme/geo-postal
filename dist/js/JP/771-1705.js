@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["771-1705"]={"code":"771-1705","region":"Tokushima","city":"Awa","latitude":34.07889,"longitude":134.23833}}(window,'GeoPostal','JP');

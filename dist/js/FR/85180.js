@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85180"]={"code":"85180","region":"Pays-de-la-Loire","city":"Chateau-d'Olonne","latitude":46.50382,"longitude":-1.74096}}(window,'GeoPostal','FR');

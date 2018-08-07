@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24270"]={"code":"24270","region":"Nouvelle-Aquitaine","city":"Payzac","latitude":45.4,"longitude":1.21667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90850"]={"code":"90850","region":"Bourgogne-Franche-Comte","city":"Essert","latitude":47.63254,"longitude":6.81539}}(window,'GeoPostal','FR');

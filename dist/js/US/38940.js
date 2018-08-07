@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38940"]={"code":"38940","region":"Mississippi","city":"Holcomb","latitude":33.76111,"longitude":-89.97583}}(window,'GeoPostal','US');

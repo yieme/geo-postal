@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74116"]={"code":"74116","region":"Harjumaa","city":"Maardu","latitude":59.47667,"longitude":25.025}}(window,'GeoPostal','EE');

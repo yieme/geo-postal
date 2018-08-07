@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1506"]={"code":"1506","region":"Gegark'unik'","city":"Gagarin","latitude":40.54031,"longitude":44.86918}}(window,'GeoPostal','AM');

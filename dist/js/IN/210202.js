@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210202"]={"code":"210202","region":"Uttar Pradesh","city":"Oran","latitude":25.38333,"longitude":80.75}}(window,'GeoPostal','IN');

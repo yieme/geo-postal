@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57764"]={"code":"57764","region":"South Dakota","city":"Oglala","latitude":43.18859,"longitude":-102.73962}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20613"]={"code":"20613","region":"MD","city":"Brandywine","latitude":38.6922,"longitude":-76.832}}(window,'GeoPostal','US');

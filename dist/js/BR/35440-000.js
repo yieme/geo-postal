@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35440-000"]={"code":"35440-000","region":"Minas Gerais","city":"Alvinopolis","latitude":-20.10667,"longitude":-43.04889}}(window,'GeoPostal','BR');

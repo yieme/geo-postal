@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83868"]={"code":"83868","region":"ID","city":"Smelterville","latitude":47.5362,"longitude":-116.2062}}(window,'GeoPostal','US');

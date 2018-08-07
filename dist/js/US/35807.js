@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35807"]={"code":"35807","region":"Alabama","city":"Huntsville","latitude":34.71199,"longitude":-86.654669}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86690-000"]={"code":"86690-000","region":"Parana","city":"Colorado","latitude":-22.8375,"longitude":-51.97306}}(window,'GeoPostal','BR');

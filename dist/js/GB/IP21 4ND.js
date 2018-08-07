@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4ND"]={"code":"IP21 4ND","region":"England","city":"Billingford","latitude":52.36318,"longitude":1.17974}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38366"]={"code":"38366","region":"TN","city":"Pinson","latitude":35.4781,"longitude":-88.7304}}(window,'GeoPostal','US');

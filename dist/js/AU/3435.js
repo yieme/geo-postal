@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3435"]={"code":"3435","region":"Victoria","city":"Lancefield","latitude":-37.27733,"longitude":144.73596}}(window,'GeoPostal','AU');

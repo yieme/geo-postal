@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85534"]={"code":"85534","region":"Arizona","city":"Duncan","latitude":32.72583,"longitude":-109.09778}}(window,'GeoPostal','US');

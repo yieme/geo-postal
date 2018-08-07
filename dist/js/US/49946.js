@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49946"]={"code":"49946","region":"Michigan","city":"L'Anse","latitude":46.7566,"longitude":-88.45291}}(window,'GeoPostal','US');

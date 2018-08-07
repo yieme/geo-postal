@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4762"]={"code":"4762","region":"Szabolcs-Szatmar-Bereg","city":"Tyukod","latitude":47.85378,"longitude":22.5633}}(window,'GeoPostal','HU');

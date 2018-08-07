@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34900"]={"code":"34900","region":"Perak","city":"Pantai Remis","latitude":4.4557,"longitude":100.6288}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78594"]={"code":"78594","region":"TX","city":"Sebastian","latitude":26.344,"longitude":-97.8123}}(window,'GeoPostal','US');

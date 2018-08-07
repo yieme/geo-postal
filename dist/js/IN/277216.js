@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277216"]={"code":"277216","region":"Uttar Pradesh","city":"Antu","latitude":26.05,"longitude":81.91667}}(window,'GeoPostal','IN');

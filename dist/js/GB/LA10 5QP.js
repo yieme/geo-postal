@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA10 5QP"]={"code":"LA10 5QP","region":"England","city":"Dent","latitude":54.27775,"longitude":-2.45476}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74045"]={"code":"74045","region":"OK","city":"Maramec","latitude":36.242,"longitude":-96.6803}}(window,'GeoPostal','US');

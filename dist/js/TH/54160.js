@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54160"]={"code":"54160","region":"Phrae","city":"Wang Chin","latitude":17.89978,"longitude":99.60328}}(window,'GeoPostal','TH');

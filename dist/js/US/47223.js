@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47223"]={"code":"47223","region":"IN","city":"Butlerville","latitude":39.0491,"longitude":-85.4789}}(window,'GeoPostal','US');

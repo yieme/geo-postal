@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47112"]={"code":"47112","region":"Indiana","city":"Corydon","latitude":38.206455,"longitude":-86.125447}}(window,'GeoPostal','US');

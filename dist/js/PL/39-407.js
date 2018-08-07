@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-407"]={"code":"39-407","region":"Podkarpackie","city":"Tarnobrzeg","latitude":50.57304,"longitude":21.67937}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70000"]={"code":"70000","region":"Ratchaburi","city":"Ratchaburi","latitude":13.53671,"longitude":99.81712}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1701"]={"code":"1701","region":"Balkh","city":"Mazar-e Sharif","latitude":36.70904,"longitude":67.11087}}(window,'GeoPostal','AF');

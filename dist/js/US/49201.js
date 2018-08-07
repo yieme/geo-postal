@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49201"]={"code":"49201","region":"Michigan","city":"Jackson","latitude":42.24587,"longitude":-84.40135}}(window,'GeoPostal','US');

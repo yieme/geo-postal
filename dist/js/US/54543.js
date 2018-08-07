@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54543"]={"code":"54543","region":"Wisconsin","city":"McNaughton","latitude":45.763483,"longitude":-89.513866}}(window,'GeoPostal','US');

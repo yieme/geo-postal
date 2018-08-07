@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31300"]={"code":"31300","region":"Osjecko-baranjska zupanija","city":"Beli Manastir","latitude":45.77,"longitude":18.60361}}(window,'GeoPostal','HR');

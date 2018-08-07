@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41502"]={"code":"41502","region":"Al 'Asimah","city":"Amman","latitude":31.95522,"longitude":35.94503}}(window,'GeoPostal','JO');

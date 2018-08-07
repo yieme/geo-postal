@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174262"]={"code":"174262","region":"Novgorodskaya oblast'","city":"Malaya Vishera","latitude":58.84538,"longitude":32.22218}}(window,'GeoPostal','RU');

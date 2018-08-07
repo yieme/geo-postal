@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281305"]={"code":"281305","region":"Uttar Pradesh","city":"Mahaban","latitude":27.43333,"longitude":77.75}}(window,'GeoPostal','IN');

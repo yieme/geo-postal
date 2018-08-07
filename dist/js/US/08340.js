@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08340"]={"code":"08340","region":"NJ","city":"Milmay","latitude":39.4451,"longitude":-74.8667}}(window,'GeoPostal','US');

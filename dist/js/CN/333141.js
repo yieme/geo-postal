@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333141"]={"code":"333141","region":"Anhui","city":"Longquan","latitude":29.64007,"longitude":116.81353}}(window,'GeoPostal','CN');

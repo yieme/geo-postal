@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077085"]={"code":"077085","region":"Ilfov","city":"Dobroesti","latitude":44.45,"longitude":26.18333}}(window,'GeoPostal','RO');

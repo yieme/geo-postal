@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46156"]={"code":"46156","region":"IN","city":"Milroy","latitude":39.4955,"longitude":-85.5044}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07004"]={"code":"07004","region":"New Jersey","city":"Fairfield","latitude":40.8841,"longitude":-74.3074}}(window,'GeoPostal','US');

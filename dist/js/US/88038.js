@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88038"]={"code":"88038","region":"NM","city":"Gila","latitude":32.9659,"longitude":-108.5767}}(window,'GeoPostal','US');

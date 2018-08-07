@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53944"]={"code":"53944","region":"Wisconsin","city":"Lyndon Station","latitude":43.71167,"longitude":-89.89778}}(window,'GeoPostal','US');

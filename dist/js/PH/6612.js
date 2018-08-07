@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6612"]={"code":"6612","region":"Cebu","city":"Compostela","latitude":10.455,"longitude":124.0106}}(window,'GeoPostal','PH');

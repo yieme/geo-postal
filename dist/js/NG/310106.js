@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["310106"]={"code":"310106","region":"Edo","city":"Ekpoma","latitude":6.74206,"longitude":6.139}}(window,'GeoPostal','NG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36570-000"]={"code":"36570-000","region":"Minas Gerais","city":"Vicosa","latitude":-20.75389,"longitude":-42.88194}}(window,'GeoPostal','BR');

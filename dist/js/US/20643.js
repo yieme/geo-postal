@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20643"]={"code":"20643","region":"Maryland","city":"Ironsides","latitude":38.491667,"longitude":-77.16}}(window,'GeoPostal','US');

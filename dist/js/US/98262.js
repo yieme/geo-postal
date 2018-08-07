@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98262"]={"code":"98262","region":"WA","city":"Lummi Island","latitude":48.7128,"longitude":-122.6823}}(window,'GeoPostal','US');

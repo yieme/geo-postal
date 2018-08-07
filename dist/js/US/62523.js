@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62523"]={"code":"62523","region":"Illinois","city":"Decatur","latitude":39.844018,"longitude":-88.951566}}(window,'GeoPostal','US');

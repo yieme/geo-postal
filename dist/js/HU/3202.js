@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3202"]={"code":"3202","region":"Heves","city":"Gyongyos","latitude":47.78257,"longitude":19.928}}(window,'GeoPostal','HU');

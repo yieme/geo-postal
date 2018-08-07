@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB31 4QG"]={"code":"AB31 4QG","region":"Scotland","city":"Lumphanan","latitude":57.12655,"longitude":-2.68839}}(window,'GeoPostal','GB');

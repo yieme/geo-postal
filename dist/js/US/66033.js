@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66033"]={"code":"66033","region":"Kansas","city":"Greeley","latitude":38.36817,"longitude":-95.126323}}(window,'GeoPostal','US');

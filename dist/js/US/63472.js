@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63472"]={"code":"63472","region":"Missouri","city":"Wayland","latitude":40.3959,"longitude":-91.581642}}(window,'GeoPostal','US');

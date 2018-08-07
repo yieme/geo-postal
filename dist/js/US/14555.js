@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14555"]={"code":"14555","region":"New York","city":"Sodus Point","latitude":43.264655,"longitude":-76.988314}}(window,'GeoPostal','US');

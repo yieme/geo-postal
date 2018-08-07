@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50143"]={"code":"50143","region":"IA","city":"Leighton","latitude":41.3647,"longitude":-92.8081}}(window,'GeoPostal','US');

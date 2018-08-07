@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28112"]={"code":"28112","region":"NC","city":"Monroe","latitude":34.8946,"longitude":-80.554}}(window,'GeoPostal','US');

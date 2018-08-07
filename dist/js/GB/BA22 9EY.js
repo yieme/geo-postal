@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA22 9EY"]={"code":"BA22 9EY","region":"England","city":"Chinnock","latitude":50.91667,"longitude":-2.73333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2530-079"]={"code":"2530-079","region":"Lisboa","city":"Lourinha","latitude":39.23333,"longitude":-9.31667}}(window,'GeoPostal','PT');

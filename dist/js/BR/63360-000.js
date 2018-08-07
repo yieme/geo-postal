@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63360-000"]={"code":"63360-000","region":"Ceara","city":"Aurora","latitude":-6.9425,"longitude":-38.9675}}(window,'GeoPostal','BR');

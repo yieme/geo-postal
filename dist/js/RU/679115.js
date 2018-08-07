@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["679115"]={"code":"679115","region":"Yevreyskaya avtonomnaya oblast'","city":"Londoko","latitude":49.03333,"longitude":131.98333}}(window,'GeoPostal','RU');

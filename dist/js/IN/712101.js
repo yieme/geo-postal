@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712101"]={"code":"712101","region":"West Bengal","city":"Kalaikunda","latitude":22.35,"longitude":87.25}}(window,'GeoPostal','IN');

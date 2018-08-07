@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46037"]={"code":"46037","region":"Lombardia","city":"Roncoferraro","latitude":45.14058,"longitude":10.93949}}(window,'GeoPostal','IT');

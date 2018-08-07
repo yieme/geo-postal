@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72921"]={"code":"72921","region":"Arkansas","city":"Alma","latitude":35.488197,"longitude":-94.227356}}(window,'GeoPostal','US');

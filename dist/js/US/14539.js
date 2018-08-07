@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14539"]={"code":"14539","region":"NY","city":"Retsof","latitude":42.8343,"longitude":-77.8779}}(window,'GeoPostal','US');

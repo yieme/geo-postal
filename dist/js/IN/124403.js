@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124403"]={"code":"124403","region":"Haryana","city":"Sonipat","latitude":28.98333,"longitude":77.01667}}(window,'GeoPostal','IN');

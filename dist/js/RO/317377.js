@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317377"]={"code":"317377","region":"Arad","city":"Dorgos","latitude":46.05,"longitude":21.83333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91399"]={"code":"91399","region":"CA","city":"Lockheed Corp","latitude":34.16,"longitude":-118.6}}(window,'GeoPostal','US');

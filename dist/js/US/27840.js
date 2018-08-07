@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27840"]={"code":"27840","region":"NC","city":"Hamilton","latitude":35.9446,"longitude":-77.2097}}(window,'GeoPostal','US');

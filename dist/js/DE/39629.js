@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39629"]={"code":"39629","region":"Sachsen-Anhalt","city":"Bismark","latitude":52.66195,"longitude":11.55638}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6024"]={"code":"6024","region":"Cebu","city":"El Pardo","latitude":9.66,"longitude":123.4944}}(window,'GeoPostal','PH');

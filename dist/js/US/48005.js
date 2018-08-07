@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48005"]={"code":"48005","region":"MI","city":"Armada","latitude":42.8409,"longitude":-82.8899}}(window,'GeoPostal','US');

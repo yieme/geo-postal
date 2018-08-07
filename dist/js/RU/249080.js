@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249080"]={"code":"249080","region":"Kaluzhskaya oblast'","city":"Detchino","latitude":54.80923,"longitude":36.3075}}(window,'GeoPostal','RU');

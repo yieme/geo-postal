@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95024"]={"code":"95024","region":"Sicilia","city":"Acireale","latitude":37.60666,"longitude":15.16279}}(window,'GeoPostal','IT');

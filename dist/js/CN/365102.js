@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["365102"]={"code":"365102","region":"Fujian","city":"Tadou","latitude":26.37157,"longitude":118.22972}}(window,'GeoPostal','CN');

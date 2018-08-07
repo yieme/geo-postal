@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9EH"]={"code":"PE33 9EH","region":"England","city":"Fincham","latitude":52.62968,"longitude":0.49473}}(window,'GeoPostal','GB');

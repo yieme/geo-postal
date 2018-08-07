@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4160"]={"code":"4160","region":"Queensland","city":"Wellington Point","latitude":-27.48333,"longitude":153.25}}(window,'GeoPostal','AU');

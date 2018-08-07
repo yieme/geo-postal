@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63211"]={"code":"63211","region":"Punjab","city":"Yazman Mandi","latitude":29.12122,"longitude":71.74459}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84013"]={"code":"84013","region":"Utah","city":"Cedar Valley","latitude":40.24758,"longitude":-112.06206}}(window,'GeoPostal','US');

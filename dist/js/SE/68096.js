@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68096"]={"code":"68096","region":"Varmlands lan","city":"Lesjofors","latitude":59.98333,"longitude":14.18333}}(window,'GeoPostal','SE');

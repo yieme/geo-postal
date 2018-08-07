@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37186"]={"code":"37186","region":"Niedersachsen","city":"Schnedinghausen","latitude":51.6899,"longitude":9.91178}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127005"]={"code":"127005","region":"Buzau","city":"Amaru","latitude":44.93333,"longitude":26.58333}}(window,'GeoPostal','RO');

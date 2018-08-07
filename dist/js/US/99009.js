@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99009"]={"code":"99009","region":"WA","city":"Elk","latitude":48.0205,"longitude":-117.2963}}(window,'GeoPostal','US');

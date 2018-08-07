@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38761"]={"code":"38761","region":"Mississippi","city":"Moorhead","latitude":33.45012,"longitude":-90.50564}}(window,'GeoPostal','US');

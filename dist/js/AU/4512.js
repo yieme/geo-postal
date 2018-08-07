@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4512"]={"code":"4512","region":"Queensland","city":"Wamuran","latitude":-27.03909,"longitude":152.86542}}(window,'GeoPostal','AU');

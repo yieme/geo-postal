@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59256"]={"code":"59256","region":"MT","city":"Raymond","latitude":48.8764,"longitude":-104.5802}}(window,'GeoPostal','US');

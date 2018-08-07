@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR2 7BQ"]={"code":"BR2 7BQ","region":"England","city":"Hayes","latitude":51.37778,"longitude":0.01905}}(window,'GeoPostal','GB');

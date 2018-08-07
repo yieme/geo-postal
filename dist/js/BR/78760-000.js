@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78760-000"]={"code":"78760-000","region":"Mato Grosso","city":"Guiratinga","latitude":-16.34944,"longitude":-53.75833}}(window,'GeoPostal','BR');

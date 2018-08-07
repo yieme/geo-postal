@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85264"]={"code":"85264","region":"AZ","city":"Fort Mcdowell","latitude":33.6118,"longitude":-111.6806}}(window,'GeoPostal','US');

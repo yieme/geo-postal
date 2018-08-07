@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227383"]={"code":"227383","region":"Prahova","city":"Lipanesti","latitude":45.05,"longitude":26.01667}}(window,'GeoPostal','RO');

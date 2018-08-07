@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF15 7SS"]={"code":"CF15 7SS","region":"Wales","city":"Nantgarw","latitude":51.55995,"longitude":-3.27155}}(window,'GeoPostal','GB');

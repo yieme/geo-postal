@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 34"]={"code":"664 34","region":"Jihomoravsky kraj","city":"Kurim","latitude":49.29852,"longitude":16.53144}}(window,'GeoPostal','CZ');

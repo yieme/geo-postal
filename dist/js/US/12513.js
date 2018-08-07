@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12513"]={"code":"12513","region":"NY","city":"Claverack","latitude":42.2251,"longitude":-73.7346}}(window,'GeoPostal','US');

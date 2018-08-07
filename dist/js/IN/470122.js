@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470122"]={"code":"470122","region":"Madhya Pradesh","city":"Begamganj","latitude":23.6,"longitude":78.33333}}(window,'GeoPostal','IN');

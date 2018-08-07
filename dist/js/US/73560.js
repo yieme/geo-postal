@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73560"]={"code":"73560","region":"OK","city":"Olustee","latitude":34.5496,"longitude":-99.4287}}(window,'GeoPostal','US');

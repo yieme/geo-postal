@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47521"]={"code":"47521","region":"Indiana","city":"Celestine","latitude":38.392971,"longitude":-86.736243}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24077"]={"code":"24077","region":"Virginia","city":"Cloverdale","latitude":37.364535,"longitude":-79.905532}}(window,'GeoPostal','US');

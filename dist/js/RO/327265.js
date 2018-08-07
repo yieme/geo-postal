@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327265"]={"code":"327265","region":"Caras-Severin","city":"Maureni","latitude":45.40389,"longitude":21.5025}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09739"]={"code":"09739","region":"Ciudad de Mexico","city":"Iztapalapa","latitude":19.35111,"longitude":-99.05194}}(window,'GeoPostal','MX');

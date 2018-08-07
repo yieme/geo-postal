@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33000"]={"code":"33000","region":"Perak","city":"Kuala Kangsar","latitude":4.76667,"longitude":100.93333}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18326"]={"code":"18326","region":"Pennsylvania","city":"Cresco","latitude":41.15389,"longitude":-75.28056}}(window,'GeoPostal','US');

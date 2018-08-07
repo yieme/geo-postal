@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97918"]={"code":"97918","region":"OR","city":"Vale","latitude":44.0039,"longitude":-117.2674}}(window,'GeoPostal','US');

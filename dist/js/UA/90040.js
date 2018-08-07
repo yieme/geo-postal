@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90040"]={"code":"90040","region":"Zakarpatska oblast","city":"Synevyrs'ka Polyana","latitude":48.58484,"longitude":23.6891}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45585-000"]={"code":"45585-000","region":"Bahia","city":"Itagiba","latitude":-14.28361,"longitude":-39.84278}}(window,'GeoPostal','BR');

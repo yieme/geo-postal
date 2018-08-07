@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84758"]={"code":"84758","region":"UT","city":"Orderville","latitude":37.2744,"longitude":-112.642}}(window,'GeoPostal','US');

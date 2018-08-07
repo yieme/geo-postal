@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29128"]={"code":"29128","region":"SC","city":"Rembert","latitude":34.1085,"longitude":-80.4945}}(window,'GeoPostal','US');

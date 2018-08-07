@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14105"]={"code":"14105","region":"NY","city":"Middleport","latitude":43.2183,"longitude":-78.4841}}(window,'GeoPostal','US');

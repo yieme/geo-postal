@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18-200"]={"code":"18-200","region":"Podlaskie","city":"Wysokie Mazowieckie","latitude":52.91661,"longitude":22.51712}}(window,'GeoPostal','PL');

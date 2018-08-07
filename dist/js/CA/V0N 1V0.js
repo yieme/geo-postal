@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1V0"]={"code":"V0N 1V0","region":"British Columbia","city":"Gibsons","latitude":49.39965,"longitude":-123.50268}}(window,'GeoPostal','CA');

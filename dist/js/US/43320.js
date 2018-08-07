@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43320"]={"code":"43320","region":"OH","city":"Edison","latitude":40.5905,"longitude":-82.9023}}(window,'GeoPostal','US');

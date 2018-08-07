@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237441"]={"code":"237441","region":"Giurgiu","city":"Colibasi","latitude":44.20222,"longitude":26.19472}}(window,'GeoPostal','RO');

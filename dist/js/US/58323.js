@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58323"]={"code":"58323","region":"ND","city":"Calvin","latitude":48.851,"longitude":-98.8808}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33033"]={"code":"33033","region":"Jonkopings lan","city":"Hillerstorp","latitude":57.31667,"longitude":13.86667}}(window,'GeoPostal','SE');

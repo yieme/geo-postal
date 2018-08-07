@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15210"]={"code":"15210","region":"Auvergne-Rhone-Alpes","city":"Ydes","latitude":45.33333,"longitude":2.46667}}(window,'GeoPostal','FR');

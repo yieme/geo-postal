@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97144"]={"code":"97144","region":"OR","city":"Timber","latitude":45.727,"longitude":-123.3119}}(window,'GeoPostal','US');

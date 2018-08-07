@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50642"]={"code":"50642","region":"IA","city":"Holland","latitude":42.4011,"longitude":-92.7999}}(window,'GeoPostal','US');

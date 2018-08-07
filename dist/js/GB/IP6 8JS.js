@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 8JS"]={"code":"IP6 8JS","region":"England","city":"Baylham","latitude":52.12176,"longitude":1.07072}}(window,'GeoPostal','GB');

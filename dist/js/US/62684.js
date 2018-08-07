@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62684"]={"code":"62684","region":"IL","city":"Sherman","latitude":39.9121,"longitude":-89.5877}}(window,'GeoPostal','US');

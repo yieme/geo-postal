@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24486"]={"code":"24486","region":"VA","city":"Weyers Cave","latitude":38.2931,"longitude":-78.9235}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA10 5HR"]={"code":"LA10 5HR","region":"England","city":"Ingmire Hall","latitude":54.32231,"longitude":-2.55797}}(window,'GeoPostal','GB');

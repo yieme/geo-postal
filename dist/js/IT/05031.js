@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05031"]={"code":"05031","region":"Umbria","city":"Arrone","latitude":42.58264,"longitude":12.77647}}(window,'GeoPostal','IT');

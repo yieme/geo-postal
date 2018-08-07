@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22290"]={"code":"22290","region":"Bretagne","city":"Pleguien","latitude":48.63525,"longitude":-2.94001}}(window,'GeoPostal','FR');

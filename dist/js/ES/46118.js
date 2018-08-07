@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46118"]={"code":"46118","region":"Valenciana, Comunidad","city":"Serra","latitude":39.68333,"longitude":-0.43333}}(window,'GeoPostal','ES');

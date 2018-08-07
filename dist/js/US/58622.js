@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58622"]={"code":"58622","region":"North Dakota","city":"Belfield","latitude":46.88472,"longitude":-103.1808}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50854"]={"code":"50854","region":"Iowa","city":"Mount Ayr","latitude":40.71471,"longitude":-94.23523}}(window,'GeoPostal','US');

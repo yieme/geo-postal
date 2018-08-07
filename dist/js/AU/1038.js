@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1038"]={"code":"1038","region":"Queensland","city":"Caloundra","latitude":-26.79709,"longitude":153.13771}}(window,'GeoPostal','AU');

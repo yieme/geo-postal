@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3675"]={"code":"3675","region":"Victoria","city":"Glenrowan","latitude":-36.46348,"longitude":146.22449}}(window,'GeoPostal','AU');

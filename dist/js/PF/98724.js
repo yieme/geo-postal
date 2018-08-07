@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98724"]={"code":"98724","region":"Iles du Vent","city":"Tohautu","latitude":-17.75,"longitude":-149.31667}}(window,'GeoPostal','PF');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35290"]={"code":"35290","region":"Bretagne","city":"Saint-Meen-le-Grand","latitude":48.18971,"longitude":-2.19486}}(window,'GeoPostal','FR');

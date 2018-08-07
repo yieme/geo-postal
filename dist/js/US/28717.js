@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28717"]={"code":"28717","region":"North Carolina","city":"Cashiers","latitude":35.080583,"longitude":-83.081188}}(window,'GeoPostal','US');

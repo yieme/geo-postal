@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA42 0NT"]={"code":"SA42 0NT","region":"Wales","city":"Morfa","latitude":52.05,"longitude":-4.85}}(window,'GeoPostal','GB');

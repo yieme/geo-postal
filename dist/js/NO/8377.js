@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8377"]={"code":"8377","region":"Nordland","city":"Gravdal","latitude":68.12139,"longitude":13.50306}}(window,'GeoPostal','NO');

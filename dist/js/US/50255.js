@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50255"]={"code":"50255","region":"IA","city":"Thornburg","latitude":41.4547,"longitude":-92.3357}}(window,'GeoPostal','US');

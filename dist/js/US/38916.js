@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38916"]={"code":"38916","region":"Mississippi","city":"Calhoun City","latitude":33.85539,"longitude":-89.31146}}(window,'GeoPostal','US');

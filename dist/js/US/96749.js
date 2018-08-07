@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96749"]={"code":"96749","region":"Hawaii","city":"Keaau","latitude":19.573814,"longitude":-154.962152}}(window,'GeoPostal','US');

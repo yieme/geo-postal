@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59468"]={"code":"59468","region":"MT","city":"Power","latitude":47.6798,"longitude":-111.7169}}(window,'GeoPostal','US');

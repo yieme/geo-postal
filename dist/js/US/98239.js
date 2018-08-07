@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98239"]={"code":"98239","region":"Washington","city":"Coupeville","latitude":48.21982,"longitude":-122.68628}}(window,'GeoPostal','US');

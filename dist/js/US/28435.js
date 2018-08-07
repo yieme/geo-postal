@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28435"]={"code":"28435","region":"NC","city":"Currie","latitude":34.4497,"longitude":-78.0925}}(window,'GeoPostal','US');

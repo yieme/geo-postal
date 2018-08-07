@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40815"]={"code":"40815","region":"Kentucky","city":"Cawood","latitude":36.749669,"longitude":-83.268949}}(window,'GeoPostal','US');

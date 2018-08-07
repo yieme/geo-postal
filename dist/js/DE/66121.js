@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66121"]={"code":"66121","region":"Saarland","city":"Sankt Johann","latitude":49.22886,"longitude":7.01126}}(window,'GeoPostal','DE');

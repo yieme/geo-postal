@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68502"]={"code":"68502","region":"Odeska oblast","city":"Tarutyne","latitude":46.18583,"longitude":29.15056}}(window,'GeoPostal','UA');

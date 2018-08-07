@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50457"]={"code":"50457","region":"IA","city":"Meservey","latitude":42.9137,"longitude":-93.4773}}(window,'GeoPostal','US');

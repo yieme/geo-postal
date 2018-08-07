@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49337"]={"code":"49337","region":"MI","city":"Newaygo","latitude":43.4198,"longitude":-85.7594}}(window,'GeoPostal','US');

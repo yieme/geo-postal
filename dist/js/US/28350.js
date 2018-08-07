@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28350"]={"code":"28350","region":"NC","city":"Lakeview","latitude":35.2438,"longitude":-79.3086}}(window,'GeoPostal','US');

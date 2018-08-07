@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1 6AF"]={"code":"L1 6AF","region":"Scotland","city":"Stanley","latitude":56.46667,"longitude":-3.45}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57365"]={"code":"57365","region":"Grand-Est","city":"Ennery","latitude":49.22621,"longitude":6.21805}}(window,'GeoPostal','FR');

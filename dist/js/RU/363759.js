@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363759"]={"code":"363759","region":"Severnaya Osetiya, Respublika","city":"Mozdok","latitude":43.74917,"longitude":44.68806}}(window,'GeoPostal','RU');

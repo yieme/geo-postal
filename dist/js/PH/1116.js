@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1116"]={"code":"1116","region":"Pampanga","city":"Santo Tomas","latitude":14.9923,"longitude":120.7057}}(window,'GeoPostal','PH');

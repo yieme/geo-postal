@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23700"]={"code":"23700","region":"Andalucia","city":"Linares","latitude":38.09519,"longitude":-3.63602}}(window,'GeoPostal','ES');

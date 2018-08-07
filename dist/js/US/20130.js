@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20130"]={"code":"20130","region":"VA","city":"Paris","latitude":39.0048,"longitude":-77.9546}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0S 1N0"]={"code":"L0S 1N0","region":"Ontario","city":"Ridgeway","latitude":42.88342,"longitude":-79.04957}}(window,'GeoPostal','CA');

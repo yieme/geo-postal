@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12605"]={"code":"12605","region":"Zhytomyrska oblast","city":"Brusyliv","latitude":50.28449,"longitude":29.52626}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25220"]={"code":"25220","region":"Nakhon Ratchasima","city":"Wang Nam Khiao","latitude":14.41801,"longitude":101.86113}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1E0"]={"code":"J0J 1E0","region":"Quebec","city":"Henryville","latitude":45.13338,"longitude":-73.18245}}(window,'GeoPostal','CA');

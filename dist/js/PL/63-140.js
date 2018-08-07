@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-140"]={"code":"63-140","region":"Wielkopolskie","city":"Dolsk","latitude":51.9818,"longitude":17.06273}}(window,'GeoPostal','PL');

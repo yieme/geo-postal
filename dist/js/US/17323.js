@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17323"]={"code":"17323","region":"PA","city":"Franklintown","latitude":40.075,"longitude":-77.0279}}(window,'GeoPostal','US');

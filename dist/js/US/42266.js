@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42266"]={"code":"42266","region":"Kentucky","city":"Pembroke","latitude":36.776893,"longitude":-87.363294}}(window,'GeoPostal','US');

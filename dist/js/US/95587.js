@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95587"]={"code":"95587","region":"CA","city":"Piercy","latitude":39.9465,"longitude":-123.7552}}(window,'GeoPostal','US');

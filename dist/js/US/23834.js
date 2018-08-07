@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23834"]={"code":"23834","region":"Virginia","city":"Colonial Heights","latitude":37.26804,"longitude":-77.40726}}(window,'GeoPostal','US');

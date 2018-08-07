@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 7SH"]={"code":"PA23 7SH","region":"Scotland","city":"Innellan","latitude":55.89195,"longitude":-4.9616}}(window,'GeoPostal','GB');

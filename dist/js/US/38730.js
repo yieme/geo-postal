@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38730"]={"code":"38730","region":"MS","city":"Boyle","latitude":33.6891,"longitude":-90.7838}}(window,'GeoPostal','US');

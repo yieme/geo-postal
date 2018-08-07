@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2G0"]={"code":"V0N 2G0","region":"British Columbia","city":"Lund","latitude":49.97375,"longitude":-124.74508}}(window,'GeoPostal','CA');

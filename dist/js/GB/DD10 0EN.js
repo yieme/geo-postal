@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 0EN"]={"code":"DD10 0EN","region":"Scotland","city":"Johnshaven","latitude":56.79427,"longitude":-2.33624}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20180"]={"code":"20180","region":"Chon Buri","city":"Sattahip","latitude":12.66644,"longitude":100.90073}}(window,'GeoPostal','TH');

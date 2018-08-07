@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2153"]={"code":"2153","region":"Niederosterreich","city":"Stronsdorf","latitude":48.65,"longitude":16.28333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9L 6B1"]={"code":"V9L 6B1","region":"British Columbia","city":"Duncan","latitude":48.834104,"longitude":-123.712054}}(window,'GeoPostal','CA');

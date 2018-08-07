@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["229402"]={"code":"229402","region":"Uttar Pradesh","city":"Salon","latitude":26.03333,"longitude":81.45}}(window,'GeoPostal','IN');

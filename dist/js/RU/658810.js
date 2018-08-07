@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658810"]={"code":"658810","region":"Altayskiy kray","city":"Burla","latitude":53.3362,"longitude":78.3301}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3564"]={"code":"3564","region":"Victoria","city":"Echuca","latitude":-36.14057,"longitude":144.75185}}(window,'GeoPostal','AU');

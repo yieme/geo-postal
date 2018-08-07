@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307275"]={"code":"307275","region":"Timis","city":"Manastiur","latitude":45.81667,"longitude":22.06667}}(window,'GeoPostal','RO');

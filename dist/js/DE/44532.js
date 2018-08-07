@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44532"]={"code":"44532","region":"Nordrhein-Westfalen","city":"Lunen","latitude":51.61634,"longitude":7.52872}}(window,'GeoPostal','DE');

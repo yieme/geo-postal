@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 1Z0"]={"code":"G0R 1Z0","region":"Quebec","city":"La Pocatiere","latitude":47.34836,"longitude":-70.06186}}(window,'GeoPostal','CA');

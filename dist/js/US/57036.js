@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57036"]={"code":"57036","region":"South Dakota","city":"Hurley","latitude":43.28724,"longitude":-97.16034}}(window,'GeoPostal','US');

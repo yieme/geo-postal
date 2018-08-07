@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43961"]={"code":"43961","region":"Hidalgo","city":"Tula de Allende","latitude":20.05,"longitude":-99.35}}(window,'GeoPostal','MX');

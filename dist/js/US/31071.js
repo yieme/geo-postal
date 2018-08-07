@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31071"]={"code":"31071","region":"Georgia","city":"Pineview","latitude":32.078002,"longitude":-83.501659}}(window,'GeoPostal','US');

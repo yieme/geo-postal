@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89423"]={"code":"89423","region":"Nevada","city":"Minden","latitude":39.004849,"longitude":-119.737775}}(window,'GeoPostal','US');

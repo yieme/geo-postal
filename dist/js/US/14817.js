@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14817"]={"code":"14817","region":"NY","city":"Brooktondale","latitude":42.3765,"longitude":-76.3668}}(window,'GeoPostal','US');

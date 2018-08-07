@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH8 8RD"]={"code":"CH8 8RD","region":"Wales","city":"Whitford","latitude":53.28333,"longitude":-3.28333}}(window,'GeoPostal','GB');

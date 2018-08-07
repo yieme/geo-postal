@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63851"]={"code":"63851","region":"Missouri","city":"Hayti","latitude":36.233952,"longitude":-89.75118}}(window,'GeoPostal','US');

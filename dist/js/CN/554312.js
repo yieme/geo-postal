@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["554312"]={"code":"554312","region":"Guizhou","city":"Tongren","latitude":27.71722,"longitude":109.18528}}(window,'GeoPostal','CN');

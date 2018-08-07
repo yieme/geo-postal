@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9708"]={"code":"9708","region":"Cotabato","city":"Tamontaka","latitude":7.18056,"longitude":124.22556}}(window,'GeoPostal','PH');

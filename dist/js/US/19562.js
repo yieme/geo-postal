@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19562"]={"code":"19562","region":"PA","city":"Topton","latitude":40.5029,"longitude":-75.7015}}(window,'GeoPostal','US');

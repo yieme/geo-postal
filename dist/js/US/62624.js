@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62624"]={"code":"62624","region":"IL","city":"Browning","latitude":40.1289,"longitude":-90.3721}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572169"]={"code":"572169","region":"Karnataka","city":"Hiriyur","latitude":13.94556,"longitude":76.61917}}(window,'GeoPostal','IN');

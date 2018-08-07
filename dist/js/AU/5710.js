@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5710"]={"code":"5710","region":"South Australia","city":"Stirling North","latitude":-32.47986,"longitude":137.83804}}(window,'GeoPostal','AU');

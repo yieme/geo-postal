@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4100"]={"code":"4100","region":"Sjelland","city":"Ringsted","latitude":55.4426,"longitude":11.79011}}(window,'GeoPostal','DK');

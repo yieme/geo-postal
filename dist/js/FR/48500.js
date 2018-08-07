@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48500"]={"code":"48500","region":"Occitanie","city":"La Canourgue","latitude":44.43133,"longitude":3.21584}}(window,'GeoPostal','FR');

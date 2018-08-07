@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0420"]={"code":"0420","region":"Northland","city":"Taipa","latitude":-34.98333,"longitude":173.46667}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45788"]={"code":"45788","region":"Ohio","city":"Whipple","latitude":39.471944,"longitude":-81.411389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58646"]={"code":"58646","region":"ND","city":"Mott","latitude":46.3696,"longitude":-102.327}}(window,'GeoPostal','US');

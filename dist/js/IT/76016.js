@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76016"]={"code":"76016","region":"Puglia","city":"Margherita di Savoia","latitude":41.37424,"longitude":16.15017}}(window,'GeoPostal','IT');

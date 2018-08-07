@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50503"]={"code":"50503","region":"Guanacaste","city":"Sardinal","latitude":10.51674,"longitude":-85.64748}}(window,'GeoPostal','CR');

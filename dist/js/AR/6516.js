@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6516"]={"code":"6516","region":"Buenos Aires","city":"Nueve de Julio","latitude":-35.44437,"longitude":-60.88313}}(window,'GeoPostal','AR');

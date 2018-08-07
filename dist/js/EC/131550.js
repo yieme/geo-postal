@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131550"]={"code":"131550","region":"Manabi","city":"Tosagua","latitude":-0.78333,"longitude":-80.25}}(window,'GeoPostal','EC');

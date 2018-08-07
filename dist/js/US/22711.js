@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22711"]={"code":"22711","region":"VA","city":"Banco","latitude":38.4512,"longitude":-78.2817}}(window,'GeoPostal','US');

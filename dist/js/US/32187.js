@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32187"]={"code":"32187","region":"FL","city":"San Mateo","latitude":29.5888,"longitude":-81.5921}}(window,'GeoPostal','US');

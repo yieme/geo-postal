@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40180"]={"code":"40180","region":"Nouvelle-Aquitaine","city":"Hinx","latitude":43.7019,"longitude":-0.92591}}(window,'GeoPostal','FR');

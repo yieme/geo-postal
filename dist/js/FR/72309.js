@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72309"]={"code":"72309","region":"Pays-de-la-Loire","city":"Sable-sur-Sarthe","latitude":47.83765,"longitude":-0.33294}}(window,'GeoPostal','FR');

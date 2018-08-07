@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66500"]={"code":"66500","region":"Occitanie","city":"Ria-Sirach","latitude":42.61667,"longitude":2.4}}(window,'GeoPostal','FR');

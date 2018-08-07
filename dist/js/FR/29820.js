@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29820"]={"code":"29820","region":"Bretagne","city":"Bohars","latitude":48.42984,"longitude":-4.51292}}(window,'GeoPostal','FR');

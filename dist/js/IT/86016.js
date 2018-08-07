@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86016"]={"code":"86016","region":"Molise","city":"Riccia","latitude":41.48193,"longitude":14.83324}}(window,'GeoPostal','IT');

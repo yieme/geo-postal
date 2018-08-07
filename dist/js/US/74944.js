@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74944"]={"code":"74944","region":"Oklahoma","city":"McCurtain","latitude":35.130699,"longitude":-95.023901}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89750"]={"code":"89750","region":"Tamaulipas","city":"Xicotencatl","latitude":23.01667,"longitude":-98.88333}}(window,'GeoPostal','MX');

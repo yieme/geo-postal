@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR14 6AS"]={"code":"NR14 6AS","region":"England","city":"Thurton","latitude":52.55655,"longitude":1.43313}}(window,'GeoPostal','GB');

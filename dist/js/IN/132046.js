@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132046"]={"code":"132046","region":"Haryana","city":"Asandh","latitude":29.51667,"longitude":76.6}}(window,'GeoPostal','IN');

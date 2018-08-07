@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72082"]={"code":"72082","region":"AR","city":"Kensett","latitude":35.2388,"longitude":-91.6731}}(window,'GeoPostal','US');

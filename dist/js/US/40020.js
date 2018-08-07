@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40020"]={"code":"40020","region":"KY","city":"Fairfield","latitude":37.934,"longitude":-85.3862}}(window,'GeoPostal','US');

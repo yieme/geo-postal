@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01330"]={"code":"01330","region":"Auvergne-Rhone-Alpes","city":"Villars-les-Dombes","latitude":46.00227,"longitude":5.02905}}(window,'GeoPostal','FR');

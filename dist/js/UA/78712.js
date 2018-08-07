@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78712"]={"code":"78712","region":"Ivano-Frankivska oblast","city":"Verkhniy Yasenov","latitude":48.16156,"longitude":24.94532}}(window,'GeoPostal','UA');

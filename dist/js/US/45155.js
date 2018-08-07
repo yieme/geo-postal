@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45155"]={"code":"45155","region":"Ohio","city":"Mowrystown","latitude":39.038897,"longitude":-83.751904}}(window,'GeoPostal','US');

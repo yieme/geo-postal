@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40023"]={"code":"40023","region":"Kentucky","city":"Fisherville","latitude":38.188295,"longitude":-85.441475}}(window,'GeoPostal','US');

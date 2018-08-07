@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67319"]={"code":"67319","region":"Grand-Est","city":"Wasselonne","latitude":48.63723,"longitude":7.44731}}(window,'GeoPostal','FR');

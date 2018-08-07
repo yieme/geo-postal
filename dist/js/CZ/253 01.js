@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["253 01"]={"code":"253 01","region":"Stredocesky kraj","city":"Hostivice","latitude":50.08158,"longitude":14.25856}}(window,'GeoPostal','CZ');

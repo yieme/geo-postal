@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37779"]={"code":"37779","region":"TN","city":"Luttrell","latitude":36.2001,"longitude":-83.76}}(window,'GeoPostal','US');

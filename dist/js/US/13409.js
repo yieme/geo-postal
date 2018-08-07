@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13409"]={"code":"13409","region":"NY","city":"Munnsville","latitude":42.9863,"longitude":-75.594}}(window,'GeoPostal','US');

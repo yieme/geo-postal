@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2460"]={"code":"2460","region":"Antwerpen","city":"Kasterlee","latitude":51.24118,"longitude":4.96651}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0C 1C0"]={"code":"K0C 1C0","region":"Ontario","city":"Avonmore","latitude":45.14399,"longitude":-75.08633}}(window,'GeoPostal','CA');

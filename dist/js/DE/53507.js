@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53507"]={"code":"53507","region":"Rheinland-Pfalz","city":"Dernau","latitude":50.53333,"longitude":7.05}}(window,'GeoPostal','DE');

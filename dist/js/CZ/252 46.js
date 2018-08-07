@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 46"]={"code":"252 46","region":"Stredocesky kraj","city":"Vrane nad Vltavou","latitude":49.93585,"longitude":14.37706}}(window,'GeoPostal','CZ');

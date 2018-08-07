@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55956"]={"code":"55956","region":"MN","city":"Mazeppa","latitude":44.2646,"longitude":-92.5207}}(window,'GeoPostal','US');

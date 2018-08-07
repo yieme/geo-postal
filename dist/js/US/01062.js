@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01062"]={"code":"01062","region":"MA","city":"Florence","latitude":42.3219,"longitude":-72.6928}}(window,'GeoPostal','US');

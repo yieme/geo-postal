@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57065"]={"code":"57065","region":"SD","city":"Trent","latitude":43.8942,"longitude":-96.6326}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73559"]={"code":"73559","region":"OK","city":"Mountain Park","latitude":34.7032,"longitude":-98.9591}}(window,'GeoPostal','US');

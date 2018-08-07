@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04037"]={"code":"04037","region":"Maine","city":"Fryeburg","latitude":44.01646,"longitude":-70.98062}}(window,'GeoPostal','US');

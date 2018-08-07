@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6765"]={"code":"6765","region":"Western Australia","city":"Fitzroy Crossing","latitude":-18.19714,"longitude":125.56663}}(window,'GeoPostal','AU');

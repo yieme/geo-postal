@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72532"]={"code":"72532","region":"AR","city":"Evening Shade","latitude":36.0855,"longitude":-91.598}}(window,'GeoPostal','US');

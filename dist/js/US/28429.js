@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28429"]={"code":"28429","region":"NC","city":"Castle Hayne","latitude":34.3236,"longitude":-77.9108}}(window,'GeoPostal','US');

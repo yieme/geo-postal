@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38759"]={"code":"38759","region":"MS","city":"Merigold","latitude":33.8373,"longitude":-90.7256}}(window,'GeoPostal','US');

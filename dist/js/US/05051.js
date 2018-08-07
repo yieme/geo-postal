@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05051"]={"code":"05051","region":"Vermont","city":"Newbury","latitude":44.046111,"longitude":-72.085278}}(window,'GeoPostal','US');

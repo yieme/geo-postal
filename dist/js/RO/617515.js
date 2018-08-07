@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617515"]={"code":"617515","region":"Neamt","city":"Zanesti","latitude":46.81667,"longitude":26.55}}(window,'GeoPostal','RO');

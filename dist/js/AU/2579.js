@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2579"]={"code":"2579","region":"New South Wales","city":"Marulan","latitude":-34.70836,"longitude":150.00966}}(window,'GeoPostal','AU');

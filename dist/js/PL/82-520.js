@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82-520"]={"code":"82-520","region":"Pomorskie","city":"Gardeja","latitude":53.61125,"longitude":18.94687}}(window,'GeoPostal','PL');

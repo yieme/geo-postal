@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54402"]={"code":"54402","region":"Wisconsin","city":"Wausau","latitude":45.020766,"longitude":-89.650019}}(window,'GeoPostal','US');

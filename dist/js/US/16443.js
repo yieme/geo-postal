@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16443"]={"code":"16443","region":"PA","city":"West Springfield","latitude":41.9465,"longitude":-80.465}}(window,'GeoPostal','US');

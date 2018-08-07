@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77320"]={"code":"77320","region":"Ile-de-France","city":"Choisy-en-Brie","latitude":48.75867,"longitude":3.21705}}(window,'GeoPostal','FR');

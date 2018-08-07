@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413500"]={"code":"413500","region":"Saratovskaya oblast'","city":"Yershov","latitude":51.3513,"longitude":48.2766}}(window,'GeoPostal','RU');

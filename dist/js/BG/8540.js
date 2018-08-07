@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8540"]={"code":"8540","region":"Burgas","city":"Ruen","latitude":42.8,"longitude":27.28333}}(window,'GeoPostal','BG');

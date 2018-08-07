@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39643"]={"code":"39643","region":"Mississippi","city":"Kokomo","latitude":31.175395,"longitude":-89.986045}}(window,'GeoPostal','US');

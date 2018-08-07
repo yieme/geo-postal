@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80074"]={"code":"80074","region":"Campania","city":"Casamicciola Terme","latitude":40.7466,"longitude":13.91202}}(window,'GeoPostal','IT');

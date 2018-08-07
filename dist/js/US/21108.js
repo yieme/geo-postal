@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21108"]={"code":"21108","region":"Maryland","city":"Millersville","latitude":39.095641,"longitude":-76.621233}}(window,'GeoPostal','US');

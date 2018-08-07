@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38019"]={"code":"38019","region":"Tennessee","city":"Covington","latitude":35.559873,"longitude":-89.659003}}(window,'GeoPostal','US');

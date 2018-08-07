@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65280"]={"code":"65280","region":"MO","city":"Rush Hill","latitude":39.21,"longitude":-91.7216}}(window,'GeoPostal','US');

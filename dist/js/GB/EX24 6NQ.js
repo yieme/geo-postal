@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX24 6NQ"]={"code":"EX24 6NQ","region":"England","city":"Colyton","latitude":50.74006,"longitude":-3.07021}}(window,'GeoPostal','GB');

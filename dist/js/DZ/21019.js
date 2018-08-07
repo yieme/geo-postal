@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21019"]={"code":"21019","region":"Skikda","city":"Kerkera","latitude":36.92917,"longitude":6.58556}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1J0"]={"code":"N0N 1J0","region":"Ontario","city":"Forest","latitude":43.10008,"longitude":-81.9998}}(window,'GeoPostal','CA');

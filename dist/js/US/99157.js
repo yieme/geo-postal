@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99157"]={"code":"99157","region":"WA","city":"Northport","latitude":48.9247,"longitude":-117.7931}}(window,'GeoPostal','US');

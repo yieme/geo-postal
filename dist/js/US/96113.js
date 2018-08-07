@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96113"]={"code":"96113","region":"California","city":"Herlong","latitude":40.14361,"longitude":-120.13472}}(window,'GeoPostal','US');

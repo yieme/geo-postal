@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6221"]={"code":"6221","region":"La Pampa","city":"Intendente Alvear","latitude":-35.23383,"longitude":-63.59205}}(window,'GeoPostal','AR');

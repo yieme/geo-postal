@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0B 1A0"]={"code":"A0B 1A0","region":"Newfoundland and Labrador","city":"Arnold's Cove","latitude":47.7693,"longitude":-53.98703}}(window,'GeoPostal','CA');

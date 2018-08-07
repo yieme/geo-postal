@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78861"]={"code":"78861","region":"Texas","city":"Hondo","latitude":29.35692,"longitude":-99.10158}}(window,'GeoPostal','US');

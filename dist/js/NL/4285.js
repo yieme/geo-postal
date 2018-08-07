@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4285"]={"code":"4285","region":"Noord-Brabant","city":"Woudrichem","latitude":51.815,"longitude":5.00139}}(window,'GeoPostal','NL');

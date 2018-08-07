@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62670-000"]={"code":"62670-000","region":"Ceara","city":"Sao Goncalo do Amarante","latitude":-3.60722,"longitude":-38.96833}}(window,'GeoPostal','BR');

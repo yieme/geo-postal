@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53969"]={"code":"53969","region":"WI","city":"Wyocena","latitude":43.4989,"longitude":-89.305}}(window,'GeoPostal','US');

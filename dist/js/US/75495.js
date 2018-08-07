@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75495"]={"code":"75495","region":"TX","city":"Van Alstyne","latitude":33.4292,"longitude":-96.5486}}(window,'GeoPostal','US');

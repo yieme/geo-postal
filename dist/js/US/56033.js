@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56033"]={"code":"56033","region":"Minnesota","city":"Frost","latitude":43.586869,"longitude":-93.92293}}(window,'GeoPostal','US');

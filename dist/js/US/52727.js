@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52727"]={"code":"52727","region":"IA","city":"Bryant","latitude":41.9629,"longitude":-90.3388}}(window,'GeoPostal','US');

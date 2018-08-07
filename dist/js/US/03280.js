@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03280"]={"code":"03280","region":"NH","city":"Washington","latitude":43.1747,"longitude":-72.0824}}(window,'GeoPostal','US');

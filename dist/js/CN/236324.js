@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["236324"]={"code":"236324","region":"Anhui","city":"Funan","latitude":32.63678,"longitude":115.61494}}(window,'GeoPostal','CN');

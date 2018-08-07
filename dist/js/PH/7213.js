@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7213"]={"code":"7213","region":"Negros Oriental","city":"Bais","latitude":9.59111,"longitude":123.12278}}(window,'GeoPostal','PH');

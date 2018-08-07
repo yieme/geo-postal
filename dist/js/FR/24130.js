@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24130"]={"code":"24130","region":"Nouvelle-Aquitaine","city":"Le Fleix","latitude":44.86667,"longitude":0.25}}(window,'GeoPostal','FR');

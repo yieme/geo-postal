@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301913"]={"code":"301913","region":"Tul'skaya oblast'","city":"Kurkino","latitude":53.42568,"longitude":38.65824}}(window,'GeoPostal','RU');

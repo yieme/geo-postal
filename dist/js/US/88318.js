@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88318"]={"code":"88318","region":"New Mexico","city":"Corona","latitude":34.25056,"longitude":-105.59556}}(window,'GeoPostal','US');

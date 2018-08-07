@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45646"]={"code":"45646","region":"OH","city":"Latham","latitude":39.0804,"longitude":-83.3283}}(window,'GeoPostal','US');

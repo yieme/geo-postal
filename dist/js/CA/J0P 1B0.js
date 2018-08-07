@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1B0"]={"code":"J0P 1B0","region":"Quebec","city":"Coteau-du-Lac","latitude":45.30008,"longitude":-74.18253}}(window,'GeoPostal','CA');

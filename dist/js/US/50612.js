@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50612"]={"code":"50612","region":"IA","city":"Buckingham","latitude":42.2552,"longitude":-92.4098}}(window,'GeoPostal','US');

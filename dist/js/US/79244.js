@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79244"]={"code":"79244","region":"Texas","city":"Matador","latitude":34.01202,"longitude":-100.82208}}(window,'GeoPostal','US');

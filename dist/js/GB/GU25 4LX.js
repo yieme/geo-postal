@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU25 4LX"]={"code":"GU25 4LX","region":"England","city":"Virginia Water","latitude":51.40343,"longitude":-0.56651}}(window,'GeoPostal','GB');

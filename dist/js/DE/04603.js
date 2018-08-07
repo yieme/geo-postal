@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04603"]={"code":"04603","region":"Thuringen","city":"Windischleuba","latitude":51.03333,"longitude":12.48333}}(window,'GeoPostal','DE');

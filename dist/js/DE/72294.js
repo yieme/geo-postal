@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72294"]={"code":"72294","region":"Baden-Wurttemberg","city":"Grombach","latitude":48.58333,"longitude":8.55}}(window,'GeoPostal','DE');

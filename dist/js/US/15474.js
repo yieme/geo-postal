@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15474"]={"code":"15474","region":"Pennsylvania","city":"Point Marion","latitude":39.73897,"longitude":-79.89867}}(window,'GeoPostal','US');

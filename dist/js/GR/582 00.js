@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["582 00"]={"code":"582 00","region":"Kentriki Makedonia","city":"Edessa","latitude":40.80056,"longitude":22.04722}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY6 8JT"]={"code":"FY6 8JT","region":"England","city":"Blackpool","latitude":53.81667,"longitude":-3.05}}(window,'GeoPostal','GB');

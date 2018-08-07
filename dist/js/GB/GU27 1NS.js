@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU27 1NS"]={"code":"GU27 1NS","region":"England","city":"Shottermill","latitude":51.08676,"longitude":-0.73643}}(window,'GeoPostal','GB');

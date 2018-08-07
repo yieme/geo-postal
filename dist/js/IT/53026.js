@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53026"]={"code":"53026","region":"Toscana","city":"Pienza","latitude":43.07784,"longitude":11.67794}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G9X 3Z9"]={"code":"G9X 3Z9","region":"Quebec","city":"La Tuque","latitude":47.421897,"longitude":-72.785097}}(window,'GeoPostal','CA');

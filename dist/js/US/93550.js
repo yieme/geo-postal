@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93550"]={"code":"93550","region":"California","city":"Palmdale","latitude":34.57943,"longitude":-118.11646}}(window,'GeoPostal','US');

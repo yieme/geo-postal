@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347037"]={"code":"347037","region":"Volgogradskaya oblast'","city":"Nekhayevskiy","latitude":50.4106,"longitude":41.7561}}(window,'GeoPostal','RU');

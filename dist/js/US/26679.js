@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26679"]={"code":"26679","region":"WV","city":"Mount Nebo","latitude":38.1653,"longitude":-80.7976}}(window,'GeoPostal','US');

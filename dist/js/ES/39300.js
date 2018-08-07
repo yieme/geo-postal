@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39300"]={"code":"39300","region":"Cantabria","city":"Torrelavega","latitude":43.34944,"longitude":-4.04785}}(window,'GeoPostal','ES');

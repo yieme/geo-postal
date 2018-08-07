@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95984"]={"code":"95984","region":"California","city":"Twain","latitude":40.04328,"longitude":-121.11258}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28626"]={"code":"28626","region":"North Carolina","city":"Fleetwood","latitude":36.40556,"longitude":-81.491317}}(window,'GeoPostal','US');

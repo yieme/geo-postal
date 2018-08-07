@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396530"]={"code":"396530","region":"Gujarat","city":"Khambhat","latitude":22.3,"longitude":72.61667}}(window,'GeoPostal','IN');

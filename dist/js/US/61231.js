@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61231"]={"code":"61231","region":"Illinois","city":"Aledo","latitude":41.19976,"longitude":-90.74931}}(window,'GeoPostal','US');

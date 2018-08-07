@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5038"]={"code":"5038","region":"South Australia","city":"Plympton","latitude":-34.95,"longitude":138.55}}(window,'GeoPostal','AU');

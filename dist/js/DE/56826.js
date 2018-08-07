@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56826"]={"code":"56826","region":"Rheinland-Pfalz","city":"Driesch","latitude":50.13434,"longitude":7.02107}}(window,'GeoPostal','DE');

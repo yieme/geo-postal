@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-513"]={"code":"06-513","region":"Mazowieckie","city":"Wieczfnia Koscielna","latitude":53.19534,"longitude":20.47637}}(window,'GeoPostal','PL');

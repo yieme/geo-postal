@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33740"]={"code":"33740","region":"Malatya","city":"Darende","latitude":38.54583,"longitude":37.50583}}(window,'GeoPostal','TR');

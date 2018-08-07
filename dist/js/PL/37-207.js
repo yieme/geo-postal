@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-207"]={"code":"37-207","region":"Podkarpackie","city":"Gac","latitude":50.02693,"longitude":22.35898}}(window,'GeoPostal','PL');

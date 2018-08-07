@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13669"]={"code":"13669","region":"Provence-Alpes-Cote d'Azur","city":"Salon-de-Provence","latitude":43.64074,"longitude":5.09545}}(window,'GeoPostal','FR');

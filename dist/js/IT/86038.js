@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86038"]={"code":"86038","region":"Molise","city":"Petacciato","latitude":42.01144,"longitude":14.86093}}(window,'GeoPostal','IT');

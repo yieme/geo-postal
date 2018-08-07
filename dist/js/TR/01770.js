@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01770"]={"code":"01770","region":"Adana","city":"Karaisali","latitude":37.25667,"longitude":35.05889}}(window,'GeoPostal','TR');

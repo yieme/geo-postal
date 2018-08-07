@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47838"]={"code":"47838","region":"Emilia-Romagna","city":"Riccione Marina","latitude":43.99942,"longitude":12.65689}}(window,'GeoPostal','IT');

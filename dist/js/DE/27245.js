@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27245"]={"code":"27245","region":"Niedersachsen","city":"Scharringhausen","latitude":52.59366,"longitude":8.80812}}(window,'GeoPostal','DE');

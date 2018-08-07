@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL51 4US"]={"code":"GL51 4US","region":"England","city":"Shurdington","latitude":51.86264,"longitude":-2.1206}}(window,'GeoPostal','GB');

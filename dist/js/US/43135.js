@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43135"]={"code":"43135","region":"OH","city":"Laurelville","latitude":39.4757,"longitude":-82.7212}}(window,'GeoPostal','US');

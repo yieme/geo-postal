@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07360"]={"code":"07360","region":"Antalya","city":"Kemer","latitude":36.59778,"longitude":30.56056}}(window,'GeoPostal','TR');

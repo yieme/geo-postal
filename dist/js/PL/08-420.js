@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-420"]={"code":"08-420","region":"Mazowieckie","city":"Sulbiny Gorne","latitude":51.87321,"longitude":21.63174}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94146"]={"code":"94146","region":"Bayern","city":"Hinterschmiding","latitude":48.81667,"longitude":13.6}}(window,'GeoPostal','DE');

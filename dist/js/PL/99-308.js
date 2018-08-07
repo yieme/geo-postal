@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-308"]={"code":"99-308","region":"Lodzkie","city":"Kutno","latitude":52.23064,"longitude":19.36409}}(window,'GeoPostal','PL');

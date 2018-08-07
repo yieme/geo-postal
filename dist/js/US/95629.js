@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95629"]={"code":"95629","region":"California","city":"Fiddletown","latitude":38.50389,"longitude":-120.75556}}(window,'GeoPostal','US');

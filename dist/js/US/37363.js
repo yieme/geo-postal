@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37363"]={"code":"37363","region":"Tennessee","city":"Ooltewah","latitude":35.086788,"longitude":-85.059933}}(window,'GeoPostal','US');

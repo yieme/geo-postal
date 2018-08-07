@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17368"]={"code":"17368","region":"PA","city":"Wrightsville","latitude":39.9966,"longitude":-76.527}}(window,'GeoPostal','US');

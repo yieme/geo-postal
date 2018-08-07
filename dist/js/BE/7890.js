@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7890"]={"code":"7890","region":"Hainaut","city":"Frasnes-lez-Buissenal","latitude":50.66783,"longitude":3.62047}}(window,'GeoPostal','BE');

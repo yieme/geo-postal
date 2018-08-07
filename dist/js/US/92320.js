@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92320"]={"code":"92320","region":"CA","city":"Calimesa","latitude":33.9946,"longitude":-117.043}}(window,'GeoPostal','US');

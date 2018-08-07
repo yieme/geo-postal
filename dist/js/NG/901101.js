@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["901101"]={"code":"901101","region":"Abuja Federal Capital Territory","city":"Abuja","latitude":9.05735,"longitude":7.48976}}(window,'GeoPostal','NG');

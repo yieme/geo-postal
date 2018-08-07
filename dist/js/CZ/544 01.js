@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["544 01"]={"code":"544 01","region":"Kralovehradecky kraj","city":"Dvur Kralove nad Labem","latitude":50.43172,"longitude":15.81402}}(window,'GeoPostal','CZ');

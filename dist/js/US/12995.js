@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12995"]={"code":"12995","region":"New York","city":"Whippleville","latitude":44.81002,"longitude":-74.26139}}(window,'GeoPostal','US');

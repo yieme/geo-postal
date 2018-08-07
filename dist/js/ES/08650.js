@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08650"]={"code":"08650","region":"Catalunya","city":"Sallent","latitude":41.82602,"longitude":1.8955}}(window,'GeoPostal','ES');

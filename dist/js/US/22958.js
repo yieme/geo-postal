@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22958"]={"code":"22958","region":"Virginia","city":"Nellysford","latitude":37.86318,"longitude":-78.87108}}(window,'GeoPostal','US');

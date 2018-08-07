@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01490"]={"code":"01490","region":"Kayseri","city":"Tomarza","latitude":38.44722,"longitude":35.79917}}(window,'GeoPostal','TR');

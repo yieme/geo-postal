@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 2PE"]={"code":"ST10 2PE","region":"England","city":"Dilhorne","latitude":52.98999,"longitude":-2.04045}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18240"]={"code":"18240","region":"Andalucia","city":"Pinos Puente","latitude":37.2511,"longitude":-3.74967}}(window,'GeoPostal','ES');

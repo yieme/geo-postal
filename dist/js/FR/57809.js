@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57809"]={"code":"57809","region":"Grand-Est","city":"Freyming-Merlebach","latitude":49.15,"longitude":6.78333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23523"]={"code":"23523","region":"Tadla-Azilal","city":"El Ksiba","latitude":32.57286,"longitude":-6.01947}}(window,'GeoPostal','MA');

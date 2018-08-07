@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1670"]={"code":"1670","region":"New South Wales","city":"Ryde","latitude":-33.81667,"longitude":151.1}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61731"]={"code":"61731","region":"IL","city":"Cropsey","latitude":40.603,"longitude":-88.4943}}(window,'GeoPostal','US');

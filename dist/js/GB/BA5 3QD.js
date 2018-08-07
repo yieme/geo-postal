@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA5 3QD"]={"code":"BA5 3QD","region":"England","city":"Croscombe","latitude":51.19667,"longitude":-2.58889}}(window,'GeoPostal','GB');

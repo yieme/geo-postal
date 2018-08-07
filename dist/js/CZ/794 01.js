@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["794 01"]={"code":"794 01","region":"Moravskoslezsky kraj","city":"Krnov","latitude":50.08967,"longitude":17.70385}}(window,'GeoPostal','CZ');

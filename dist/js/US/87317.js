@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87317"]={"code":"87317","region":"NM","city":"Gamerco","latitude":35.5763,"longitude":-108.7626}}(window,'GeoPostal','US');

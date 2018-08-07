@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32082"]={"code":"32082","region":"Florida","city":"Ponte Vedra Beach","latitude":30.17256,"longitude":-81.39636}}(window,'GeoPostal','US');

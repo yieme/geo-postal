@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO22 9DT"]={"code":"PO22 9DT","region":"England","city":"Bersted","latitude":50.7966,"longitude":-0.68888}}(window,'GeoPostal','GB');

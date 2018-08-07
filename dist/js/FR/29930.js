@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29930"]={"code":"29930","region":"Bretagne","city":"Pont-Aven","latitude":47.85,"longitude":-3.75}}(window,'GeoPostal','FR');

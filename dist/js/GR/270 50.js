@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 50"]={"code":"270 50","region":"Dytiki Ellada","city":"Kyllini","latitude":37.93333,"longitude":21.15}}(window,'GeoPostal','GR');

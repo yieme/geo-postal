@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237266"]={"code":"237266","region":"Prahova","city":"Urlati","latitude":44.98333,"longitude":26.23333}}(window,'GeoPostal','RO');

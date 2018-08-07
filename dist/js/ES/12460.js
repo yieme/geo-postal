@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12460"]={"code":"12460","region":"Valenciana, Comunidad","city":"Viver","latitude":39.91667,"longitude":-0.6}}(window,'GeoPostal','ES');

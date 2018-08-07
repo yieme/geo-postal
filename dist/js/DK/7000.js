@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7000"]={"code":"7000","region":"Syddanmark","city":"Fredericia","latitude":55.56568,"longitude":9.75257}}(window,'GeoPostal','DK');

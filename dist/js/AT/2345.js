@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2345"]={"code":"2345","region":"Niederosterreich","city":"Brunn am Gebirge","latitude":48.10697,"longitude":16.28466}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5500"]={"code":"5500","region":"Mendoza","city":"Mendoza","latitude":-32.89084,"longitude":-68.82717}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60475"]={"code":"60475","region":"IL","city":"Steger","latitude":41.4686,"longitude":-87.6386}}(window,'GeoPostal','US');

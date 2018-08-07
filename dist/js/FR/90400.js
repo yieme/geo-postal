@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90400"]={"code":"90400","region":"Bourgogne-Franche-Comte","city":"Moval","latitude":47.5875,"longitude":6.8822}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3N 0A2"]={"code":"E3N 0A2","region":"New Brunswick","city":"Campbellton","latitude":48.00751,"longitude":-66.67272}}(window,'GeoPostal','CA');

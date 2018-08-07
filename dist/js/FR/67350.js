@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67350"]={"code":"67350","region":"Grand-Est","city":"Dauendorf","latitude":48.82987,"longitude":7.65532}}(window,'GeoPostal','FR');

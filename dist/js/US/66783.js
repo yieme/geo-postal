@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66783"]={"code":"66783","region":"Kansas","city":"Yates Center","latitude":37.88115,"longitude":-95.73332}}(window,'GeoPostal','US');

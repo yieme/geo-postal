@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25083"]={"code":"25083","region":"WV","city":"Gallagher","latitude":38.0704,"longitude":-81.3625}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-450"]={"code":"78-450","region":"Zachodniopomorskie","city":"Grzmiaca","latitude":53.83734,"longitude":16.43512}}(window,'GeoPostal','PL');

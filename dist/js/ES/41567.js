@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41567"]={"code":"41567","region":"Andalucia","city":"Herrera","latitude":37.36396,"longitude":-4.84979}}(window,'GeoPostal','ES');

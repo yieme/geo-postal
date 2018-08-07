@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA6 7ET"]={"code":"PA6 7ET","region":"Scotland","city":"Houston","latitude":55.86859,"longitude":-4.55201}}(window,'GeoPostal','GB');

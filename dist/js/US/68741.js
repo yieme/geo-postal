@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68741"]={"code":"68741","region":"Nebraska","city":"Hubbard","latitude":42.406482,"longitude":-96.619763}}(window,'GeoPostal','US');

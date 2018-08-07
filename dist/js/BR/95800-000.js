@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95800-000"]={"code":"95800-000","region":"Rio Grande do Sul","city":"Venancio Aires","latitude":-29.60639,"longitude":-52.19194}}(window,'GeoPostal','BR');

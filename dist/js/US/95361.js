@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95361"]={"code":"95361","region":"California","city":"Oakdale","latitude":37.76659,"longitude":-120.84715}}(window,'GeoPostal','US');

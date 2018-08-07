@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82443"]={"code":"82443","region":"Wyoming","city":"Thermopolis","latitude":43.77251,"longitude":-108.57515}}(window,'GeoPostal','US');

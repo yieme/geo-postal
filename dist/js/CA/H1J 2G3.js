@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H1J 2G3"]={"code":"H1J 2G3","region":"Quebec","city":"Montreal","latitude":45.613942,"longitude":-73.578564}}(window,'GeoPostal','CA');

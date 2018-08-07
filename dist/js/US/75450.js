@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75450"]={"code":"75450","region":"TX","city":"Lake Creek","latitude":33.4116,"longitude":-95.4551}}(window,'GeoPostal','US');

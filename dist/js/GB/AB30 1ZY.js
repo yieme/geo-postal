@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB30 1ZY"]={"code":"AB30 1ZY","region":"Scotland","city":"Laurencekirk","latitude":56.83338,"longitude":-2.4654}}(window,'GeoPostal','GB');

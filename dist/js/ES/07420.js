@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07420"]={"code":"07420","region":"Illes Balears","city":"sa Pobla","latitude":39.7692,"longitude":3.02394}}(window,'GeoPostal','ES');

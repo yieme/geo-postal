@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26160"]={"code":"26160","region":"Auvergne-Rhone-Alpes","city":"La Batie-Rolland","latitude":44.555,"longitude":4.8658}}(window,'GeoPostal','FR');

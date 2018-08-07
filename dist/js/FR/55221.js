@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55221"]={"code":"55221","region":"Grand-Est","city":"Verdun","latitude":49.16667,"longitude":5.38333}}(window,'GeoPostal','FR');

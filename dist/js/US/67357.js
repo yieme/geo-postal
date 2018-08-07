@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67357"]={"code":"67357","region":"Kansas","city":"Parsons","latitude":37.34034,"longitude":-95.26108}}(window,'GeoPostal','US');

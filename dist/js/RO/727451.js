@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727451"]={"code":"727451","region":"Suceava","city":"Preutesti","latitude":47.45,"longitude":26.41667}}(window,'GeoPostal','RO');

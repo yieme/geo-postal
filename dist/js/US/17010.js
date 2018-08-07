@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17010"]={"code":"17010","region":"PA","city":"Campbelltown","latitude":40.2776,"longitude":-76.5852}}(window,'GeoPostal','US');

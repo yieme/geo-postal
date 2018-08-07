@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33544"]={"code":"33544","region":"FL","city":"Wesley Chapel","latitude":28.2397,"longitude":-82.3279}}(window,'GeoPostal','US');

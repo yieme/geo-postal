@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57063"]={"code":"57063","region":"South Dakota","city":"Tabor","latitude":42.94778,"longitude":-97.65806}}(window,'GeoPostal','US');

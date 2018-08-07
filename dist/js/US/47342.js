@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47342"]={"code":"47342","region":"IN","city":"Gaston","latitude":40.2948,"longitude":-85.4898}}(window,'GeoPostal','US');

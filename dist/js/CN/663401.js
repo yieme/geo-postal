@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663401"]={"code":"663401","region":"Guangxi","city":"Napo","latitude":23.47944,"longitude":105.79157}}(window,'GeoPostal','CN');

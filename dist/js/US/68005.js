@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68005"]={"code":"68005","region":"Nebraska","city":"Bellevue","latitude":41.13667,"longitude":-95.89084}}(window,'GeoPostal','US');

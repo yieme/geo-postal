@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40465"]={"code":"40465","region":"Nouvelle-Aquitaine","city":"Pontonx-sur-l'Adour","latitude":43.7889,"longitude":-0.925}}(window,'GeoPostal','FR');

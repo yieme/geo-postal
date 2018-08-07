@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2430-399"]={"code":"2430-399","region":"Leiria","city":"Marinha Grande","latitude":39.74769,"longitude":-8.93228}}(window,'GeoPostal','PT');

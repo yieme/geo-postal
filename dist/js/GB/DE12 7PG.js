@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE12 7PG"]={"code":"DE12 7PG","region":"England","city":"Donisthorpe","latitude":52.72401,"longitude":-1.538}}(window,'GeoPostal','GB');

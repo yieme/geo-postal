@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658510"]={"code":"658510","region":"Altayskiy kray","city":"Bayevo","latitude":53.28333,"longitude":80.76667}}(window,'GeoPostal','RU');

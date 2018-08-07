@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1G0"]={"code":"B0P 1G0","region":"Nova Scotia","city":"Cambridge","latitude":45.20015,"longitude":-64.11544}}(window,'GeoPostal','CA');

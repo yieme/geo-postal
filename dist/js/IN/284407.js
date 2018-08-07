@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["284407"]={"code":"284407","region":"Uttar Pradesh","city":"Lalitpur","latitude":24.68333,"longitude":78.41667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL5 7BH"]={"code":"SL5 7BH","region":"England","city":"Sunninghill","latitude":51.40135,"longitude":-0.65557}}(window,'GeoPostal','GB');

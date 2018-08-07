@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 83"]={"code":"793 83","region":"Liberecky kraj","city":"Jindrichov","latitude":50.25184,"longitude":17.51903}}(window,'GeoPostal','CZ');

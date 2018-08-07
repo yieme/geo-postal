@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 08"]={"code":"338 08","region":"Plzensky kraj","city":"Zbiroh","latitude":49.86024,"longitude":13.77262}}(window,'GeoPostal','CZ');

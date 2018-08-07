@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81115"]={"code":"81115","region":"Occitanie","city":"Castres","latitude":43.6,"longitude":2.25}}(window,'GeoPostal','FR');

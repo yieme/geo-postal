@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40052"]={"code":"40052","region":"KY","city":"New Hope","latitude":37.632,"longitude":-85.5083}}(window,'GeoPostal','US');

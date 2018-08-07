@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24376"]={"code":"24376","region":"Schleswig-Holstein","city":"Gundelsby","latitude":54.72083,"longitude":9.95032}}(window,'GeoPostal','DE');

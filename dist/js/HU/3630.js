@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3630"]={"code":"3630","region":"Borsod-Abauj-Zemplen","city":"Putnok","latitude":48.3,"longitude":20.43333}}(window,'GeoPostal','HU');

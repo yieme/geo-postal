@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["200350"]={"code":"200350","region":"Galapagos","city":"Puerto Ayora","latitude":-0.73931,"longitude":-90.35176}}(window,'GeoPostal','EC');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65049"]={"code":"65049","region":"Missouri","city":"Lake Ozark","latitude":38.19864,"longitude":-92.6388}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517592"]={"code":"517592","region":"Andhra Pradesh","city":"Nagari","latitude":13.33333,"longitude":79.58333}}(window,'GeoPostal','IN');

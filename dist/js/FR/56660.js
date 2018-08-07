@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56660"]={"code":"56660","region":"Bretagne","city":"Saint-Jean-Brevelay","latitude":47.84497,"longitude":-2.72231}}(window,'GeoPostal','FR');

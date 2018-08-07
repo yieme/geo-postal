@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57560-000"]={"code":"57560-000","region":"Alagoas","city":"Dois Riachos","latitude":-9.3925,"longitude":-37.10056}}(window,'GeoPostal','BR');

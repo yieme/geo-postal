@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56455"]={"code":"56455","region":"Minnesota","city":"Ironton","latitude":46.478386,"longitude":-93.975687}}(window,'GeoPostal','US');

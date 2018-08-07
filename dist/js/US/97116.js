@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97116"]={"code":"97116","region":"Oregon","city":"Forest Grove","latitude":45.51984,"longitude":-123.11066}}(window,'GeoPostal','US');

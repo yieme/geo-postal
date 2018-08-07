@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626716"]={"code":"626716","region":"Tamil Nadu","city":"Kallupatti","latitude":9.71667,"longitude":77.86667}}(window,'GeoPostal','IN');

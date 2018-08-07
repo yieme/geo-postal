@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62840"]={"code":"62840","region":"Hauts-de-France","city":"Fleurbaix","latitude":50.65061,"longitude":2.83305}}(window,'GeoPostal','FR');

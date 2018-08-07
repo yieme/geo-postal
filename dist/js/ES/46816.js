@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46816"]={"code":"46816","region":"Valenciana, Comunidad","city":"Llanera de Ranes","latitude":38.99507,"longitude":-0.57534}}(window,'GeoPostal','ES');

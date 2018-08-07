@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71201"]={"code":"71201","region":"Pohjois-Savo","city":"Tuusniemi","latitude":62.81667,"longitude":28.5}}(window,'GeoPostal','FI');

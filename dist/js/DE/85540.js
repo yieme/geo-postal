@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85540"]={"code":"85540","region":"Niedersachsen","city":"Haar","latitude":52.35916,"longitude":7.07757}}(window,'GeoPostal','DE');

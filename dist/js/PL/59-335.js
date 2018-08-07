@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-335"]={"code":"59-335","region":"Dolnoslaskie","city":"Lubin","latitude":51.40089,"longitude":16.20149}}(window,'GeoPostal','PL');

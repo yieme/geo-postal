@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04958"]={"code":"04958","region":"Maine","city":"North Anson","latitude":44.855,"longitude":-69.899722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05150"]={"code":"05150","region":"Vermont","city":"North Springfield","latitude":43.33278,"longitude":-72.52528}}(window,'GeoPostal','US');

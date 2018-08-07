@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4700"]={"code":"4700","region":"Sorsogon","city":"Abuyog","latitude":12.94667,"longitude":124.05528}}(window,'GeoPostal','PH');

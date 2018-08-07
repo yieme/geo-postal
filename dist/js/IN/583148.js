@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["583148"]={"code":"583148","region":"Karnataka","city":"Bellary","latitude":15.15,"longitude":76.93333}}(window,'GeoPostal','IN');

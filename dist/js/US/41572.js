@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41572"]={"code":"41572","region":"Kentucky","city":"Virgie","latitude":37.335,"longitude":-82.57972}}(window,'GeoPostal','US');

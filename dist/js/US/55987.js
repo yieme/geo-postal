@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55987"]={"code":"55987","region":"Minnesota","city":"Winona","latitude":44.03766,"longitude":-91.6749}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25958"]={"code":"25958","region":"West Virginia","city":"Charmco","latitude":38.00222,"longitude":-80.73694}}(window,'GeoPostal','US');

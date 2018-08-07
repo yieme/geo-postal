@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47490"]={"code":"47490","region":"IN","city":"Blmgtn","latitude":39.09,"longitude":-86.46}}(window,'GeoPostal','US');

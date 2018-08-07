@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88279"]={"code":"88279","region":"Baden-Wurttemberg","city":"Schomburg","latitude":47.68205,"longitude":9.75714}}(window,'GeoPostal','DE');

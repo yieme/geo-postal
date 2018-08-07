@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3821"]={"code":"3821","region":"Victoria","city":"Lillico","latitude":-38.13333,"longitude":145.95}}(window,'GeoPostal','AU');

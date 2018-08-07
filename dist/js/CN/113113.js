@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["113113"]={"code":"113113","region":"Liaoning","city":"Hou'an","latitude":41.70417,"longitude":124.21392}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["781-5310"]={"code":"781-5310","region":"Kochi","city":"Konan","latitude":33.567,"longitude":133.7}}(window,'GeoPostal','JP');

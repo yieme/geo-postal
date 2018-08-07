@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68725"]={"code":"68725","region":"Oaxaca","city":"San Francisco Telixtlahuaca","latitude":17.3,"longitude":-96.9}}(window,'GeoPostal','MX');

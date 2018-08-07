@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71253"]={"code":"71253","region":"LA","city":"Kilbourne","latitude":32.9946,"longitude":-91.3162}}(window,'GeoPostal','US');

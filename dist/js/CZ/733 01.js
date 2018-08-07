@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["733 01"]={"code":"733 01","region":"Moravskoslezsky kraj","city":"Karvina","latitude":49.854,"longitude":18.54169}}(window,'GeoPostal','CZ');

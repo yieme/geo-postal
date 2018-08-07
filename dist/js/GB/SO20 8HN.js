@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 8HN"]={"code":"SO20 8HN","region":"England","city":"Middle Wallop","latitude":51.14035,"longitude":-1.58428}}(window,'GeoPostal','GB');

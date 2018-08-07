@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42721"]={"code":"42721","region":"KY","city":"Caneyville","latitude":37.4222,"longitude":-86.4702}}(window,'GeoPostal','US');

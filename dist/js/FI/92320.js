@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92320"]={"code":"92320","region":"Pohjois-Pohjanmaa","city":"Siikajoki","latitude":64.81455,"longitude":24.75924}}(window,'GeoPostal','FI');

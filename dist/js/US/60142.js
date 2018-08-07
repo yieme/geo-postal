@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60142"]={"code":"60142","region":"Illinois","city":"Huntley","latitude":42.16808,"longitude":-88.42814}}(window,'GeoPostal','US');

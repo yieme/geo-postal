@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24270"]={"code":"24270","region":"VA","city":"Mendota","latitude":36.7223,"longitude":-82.2649}}(window,'GeoPostal','US');

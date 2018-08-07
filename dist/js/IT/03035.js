@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03035"]={"code":"03035","region":"Lazio","city":"Fontana Liri","latitude":41.61002,"longitude":13.5503}}(window,'GeoPostal','IT');

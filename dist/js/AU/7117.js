@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7117"]={"code":"7117","region":"Tasmania","city":"Lune River","latitude":-43.41667,"longitude":146.9}}(window,'GeoPostal','AU');

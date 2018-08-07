@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78636"]={"code":"78636","region":"Texas","city":"Johnson City","latitude":30.27687,"longitude":-98.41197}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32550"]={"code":"32550","region":"Occitanie","city":"Pavie","latitude":43.60969,"longitude":0.59143}}(window,'GeoPostal','FR');

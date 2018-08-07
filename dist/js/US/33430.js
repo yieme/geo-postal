@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33430"]={"code":"33430","region":"Florida","city":"Belle Glade","latitude":26.68451,"longitude":-80.66756}}(window,'GeoPostal','US');

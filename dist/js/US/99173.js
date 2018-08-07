@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99173"]={"code":"99173","region":"Washington","city":"Springdale","latitude":48.060262,"longitude":-117.741786}}(window,'GeoPostal','US');

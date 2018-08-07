@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92019"]={"code":"92019","region":"Sicilia","city":"Sciacca","latitude":37.50693,"longitude":13.08399}}(window,'GeoPostal','IT');

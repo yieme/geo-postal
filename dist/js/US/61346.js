@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61346"]={"code":"61346","region":"Illinois","city":"New Bedford","latitude":41.534532,"longitude":-89.754276}}(window,'GeoPostal','US');

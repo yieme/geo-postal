@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3620"]={"code":"3620","region":"Formosa","city":"Comandante Fontana","latitude":-25.33453,"longitude":-59.68212}}(window,'GeoPostal','AR');

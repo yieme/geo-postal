@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24194"]={"code":"24194","region":"Skane lan","city":"Eslov","latitude":55.83928,"longitude":13.30393}}(window,'GeoPostal','SE');

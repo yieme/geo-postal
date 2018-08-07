@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61049"]={"code":"61049","region":"Marche","city":"Urbania","latitude":43.66966,"longitude":12.52005}}(window,'GeoPostal','IT');

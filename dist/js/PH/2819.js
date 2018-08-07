@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2819"]={"code":"2819","region":"Nueva Vizcaya","city":"Salinas","latitude":16.3695,"longitude":121.0188}}(window,'GeoPostal','PH');

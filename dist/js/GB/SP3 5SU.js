@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP3 5SU"]={"code":"SP3 5SU","region":"England","city":"Chicklade","latitude":51.10917,"longitude":-2.12667}}(window,'GeoPostal','GB');

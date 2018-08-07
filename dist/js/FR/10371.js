@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10371"]={"code":"10371","region":"Grand-Est","city":"Villenauxe-la-Grande","latitude":48.58333,"longitude":3.55}}(window,'GeoPostal','FR');

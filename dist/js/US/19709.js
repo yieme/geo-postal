@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19709"]={"code":"19709","region":"Delaware","city":"Middletown","latitude":39.487097,"longitude":-75.68584}}(window,'GeoPostal','US');

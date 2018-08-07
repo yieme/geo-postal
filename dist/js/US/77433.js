@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77433"]={"code":"77433","region":"Texas","city":"Cypress","latitude":29.9155,"longitude":-95.7331}}(window,'GeoPostal','US');

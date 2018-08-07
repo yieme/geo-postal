@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0BJ"]={"code":"NR21 0BJ","region":"England","city":"Thursford","latitude":52.86472,"longitude":0.96125}}(window,'GeoPostal','GB');

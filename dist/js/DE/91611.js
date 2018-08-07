@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91611"]={"code":"91611","region":"Bayern","city":"Lehrberg","latitude":49.34568,"longitude":10.51101}}(window,'GeoPostal','DE');

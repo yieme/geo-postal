@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["699-1251"]={"code":"699-1251","region":"Shimane","city":"Unnan","latitude":35.283,"longitude":132.9}}(window,'GeoPostal','JP');

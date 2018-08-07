@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34460"]={"code":"34460","region":"Florida","city":"Lecanto","latitude":28.85165,"longitude":-82.4876}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10693"]={"code":"10693","region":"Extremadura","city":"Riolobos","latitude":39.92074,"longitude":-6.30397}}(window,'GeoPostal','ES');

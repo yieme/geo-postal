@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92012"]={"code":"92012","region":"Sicilia","city":"Cianciana","latitude":37.52024,"longitude":13.43355}}(window,'GeoPostal','IT');

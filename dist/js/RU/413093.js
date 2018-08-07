@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413093"]={"code":"413093","region":"Saratovskaya oblast'","city":"Marks","latitude":51.71111,"longitude":46.74861}}(window,'GeoPostal','RU');

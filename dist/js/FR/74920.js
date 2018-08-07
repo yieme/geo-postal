@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74920"]={"code":"74920","region":"Auvergne-Rhone-Alpes","city":"Combloux","latitude":45.89669,"longitude":6.63444}}(window,'GeoPostal','FR');

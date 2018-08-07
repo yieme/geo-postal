@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67543"]={"code":"67543","region":"KS","city":"Haven","latitude":37.8989,"longitude":-97.7828}}(window,'GeoPostal','US');

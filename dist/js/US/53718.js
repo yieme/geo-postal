@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53718"]={"code":"53718","region":"Wisconsin","city":"Madison","latitude":43.15016,"longitude":-89.408864}}(window,'GeoPostal','US');

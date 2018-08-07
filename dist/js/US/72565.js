@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72565"]={"code":"72565","region":"Arkansas","city":"Oxford","latitude":36.214559,"longitude":-91.919757}}(window,'GeoPostal','US');

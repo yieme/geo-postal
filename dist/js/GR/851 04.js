@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["851 04"]={"code":"851 04","region":"Notio Aigaio","city":"Kremasti","latitude":36.4,"longitude":28.11667}}(window,'GeoPostal','GR');

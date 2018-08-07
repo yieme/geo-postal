@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19027"]={"code":"19027","region":"PA","city":"Elkins Park","latitude":40.075,"longitude":-75.1315}}(window,'GeoPostal','US');

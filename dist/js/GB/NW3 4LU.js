@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NW3 4LU"]={"code":"NW3 4LU","region":"England","city":"Primrose Hill","latitude":51.53934,"longitude":-0.16102}}(window,'GeoPostal','GB');

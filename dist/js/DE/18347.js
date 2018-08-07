@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18347"]={"code":"18347","region":"Mecklenburg-Vorpommern","city":"Bollhagen","latitude":54.26667,"longitude":12.35}}(window,'GeoPostal','DE');

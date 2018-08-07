@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13170-000"]={"code":"13170-000","region":"Sao Paulo","city":"Sumare","latitude":-22.82194,"longitude":-47.26694}}(window,'GeoPostal','BR');

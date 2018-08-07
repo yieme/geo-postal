@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31549"]={"code":"31549","region":"Georgia","city":"Lumber City","latitude":31.92935,"longitude":-82.67958}}(window,'GeoPostal','US');

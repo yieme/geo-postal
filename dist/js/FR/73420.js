@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73420"]={"code":"73420","region":"Auvergne-Rhone-Alpes","city":"Mery","latitude":45.64325,"longitude":5.93782}}(window,'GeoPostal','FR');

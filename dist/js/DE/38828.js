@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38828"]={"code":"38828","region":"Sachsen-Anhalt","city":"Wegeleben","latitude":51.88376,"longitude":11.17347}}(window,'GeoPostal','DE');

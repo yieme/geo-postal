@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81049"]={"code":"81049","region":"CO","city":"Kim","latitude":37.3328,"longitude":-103.3736}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70462"]={"code":"70462","region":"LA","city":"Springfield","latitude":30.4157,"longitude":-90.5775}}(window,'GeoPostal','US');

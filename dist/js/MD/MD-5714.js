@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-5714"]={"code":"MD-5714","region":"Causeni","city":"Chitcani","latitude":46.78296,"longitude":29.61682}}(window,'GeoPostal','MD');

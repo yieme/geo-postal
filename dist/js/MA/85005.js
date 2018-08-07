@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85005"]={"code":"85005","region":"Souss-Massa-Draa","city":"Tiznit","latitude":29.69742,"longitude":-9.73162}}(window,'GeoPostal','MA');

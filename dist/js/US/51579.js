@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51579"]={"code":"51579","region":"Iowa","city":"Woodbine","latitude":41.73832,"longitude":-95.70278}}(window,'GeoPostal','US');

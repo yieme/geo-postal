@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09020"]={"code":"09020","region":"Sardegna","city":"Villanovafranca","latitude":39.64556,"longitude":9.00222}}(window,'GeoPostal','IT');

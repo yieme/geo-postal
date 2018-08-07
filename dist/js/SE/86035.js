@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86035"]={"code":"86035","region":"Vasternorrlands lan","city":"Soraker","latitude":62.505,"longitude":17.51333}}(window,'GeoPostal','SE');

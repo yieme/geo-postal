@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94362"]={"code":"94362","region":"Bayern","city":"Haggn","latitude":48.97289,"longitude":12.76337}}(window,'GeoPostal','DE');

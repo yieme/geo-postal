@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09030"]={"code":"09030","region":"Sardegna","city":"Sardara","latitude":39.61444,"longitude":8.82167}}(window,'GeoPostal','IT');

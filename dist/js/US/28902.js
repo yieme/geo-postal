@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28902"]={"code":"28902","region":"North Carolina","city":"Brasstown","latitude":34.99444,"longitude":-83.89306}}(window,'GeoPostal','US');

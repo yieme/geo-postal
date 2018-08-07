@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M5V 1C9"]={"code":"M5V 1C9","region":"Ontario","city":"Toronto","latitude":43.642298,"longitude":-79.407086}}(window,'GeoPostal','CA');

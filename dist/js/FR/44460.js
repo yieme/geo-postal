@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44460"]={"code":"44460","region":"Pays-de-la-Loire","city":"Avessac","latitude":47.65324,"longitude":-1.98962}}(window,'GeoPostal','FR');

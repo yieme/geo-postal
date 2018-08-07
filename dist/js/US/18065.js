@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18065"]={"code":"18065","region":"PA","city":"Neffs","latitude":40.6967,"longitude":-75.6116}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-254"]={"code":"43-254","region":"Slaskie","city":"Krzyzowice","latitude":49.98528,"longitude":18.67281}}(window,'GeoPostal','PL');

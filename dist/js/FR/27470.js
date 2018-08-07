@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27470"]={"code":"27470","region":"Normandie","city":"Serquigny","latitude":49.10943,"longitude":0.71016}}(window,'GeoPostal','FR');

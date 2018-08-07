@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["772-0060"]={"code":"772-0060","region":"Tokushima","city":"Naruto","latitude":34.167,"longitude":134.617}}(window,'GeoPostal','JP');

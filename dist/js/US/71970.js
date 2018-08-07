@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71970"]={"code":"71970","region":"Arkansas","city":"Story","latitude":34.677626,"longitude":-93.560304}}(window,'GeoPostal','US');

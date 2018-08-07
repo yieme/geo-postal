@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06530"]={"code":"06530","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Cezaire-sur-Siagne","latitude":43.64884,"longitude":6.79384}}(window,'GeoPostal','FR');

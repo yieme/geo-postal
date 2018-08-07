@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17839"]={"code":"17839","region":"Pennsylvania","city":"Light Street","latitude":41.0362,"longitude":-76.42356}}(window,'GeoPostal','US');

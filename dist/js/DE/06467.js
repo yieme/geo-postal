@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06467"]={"code":"06467","region":"Sachsen-Anhalt","city":"Nachterstedt","latitude":51.80081,"longitude":11.33489}}(window,'GeoPostal','DE');

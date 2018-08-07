@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18038"]={"code":"18038","region":"PA","city":"Danielsville","latitude":40.7866,"longitude":-75.5186}}(window,'GeoPostal','US');

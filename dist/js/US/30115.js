@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30115"]={"code":"30115","region":"Georgia","city":"Canton","latitude":34.2069,"longitude":-84.4004}}(window,'GeoPostal','US');

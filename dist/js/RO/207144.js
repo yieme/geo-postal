@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207144"]={"code":"207144","region":"Dolj","city":"Bulzesti","latitude":44.53333,"longitude":23.88333}}(window,'GeoPostal','RO');

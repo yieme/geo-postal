@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68470"]={"code":"68470","region":"Grand-Est","city":"Husseren-Wesserling","latitude":47.88297,"longitude":6.99388}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97007"]={"code":"97007","region":"Oregon","city":"Beaverton","latitude":45.472666,"longitude":-122.856983}}(window,'GeoPostal','US');

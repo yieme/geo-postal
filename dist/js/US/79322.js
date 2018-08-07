@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79322"]={"code":"79322","region":"Texas","city":"Crosbyton","latitude":33.66008,"longitude":-101.23793}}(window,'GeoPostal','US');

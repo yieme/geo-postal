@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78532"]={"code":"78532","region":"Baden-Wurttemberg","city":"Tuttlingen","latitude":47.98464,"longitude":8.8177}}(window,'GeoPostal','DE');

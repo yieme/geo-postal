@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49720"]={"code":"49720","region":"Jalisco","city":"Poncitlan","latitude":20.36667,"longitude":-102.91667}}(window,'GeoPostal','MX');

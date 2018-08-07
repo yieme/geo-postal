@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11755"]={"code":"11755","region":"NY","city":"Lake Grove","latitude":40.8567,"longitude":-73.1168}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82899"]={"code":"82899","region":"Gavleborgs lan","city":"Edsbyn","latitude":61.37692,"longitude":15.81747}}(window,'GeoPostal','SE');

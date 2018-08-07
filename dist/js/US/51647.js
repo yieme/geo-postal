@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51647"]={"code":"51647","region":"Iowa","city":"Northboro","latitude":40.608006,"longitude":-95.290241}}(window,'GeoPostal','US');

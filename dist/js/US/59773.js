@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59773"]={"code":"59773","region":"MT","city":"Bozeman","latitude":45.67,"longitude":-111.03}}(window,'GeoPostal','US');

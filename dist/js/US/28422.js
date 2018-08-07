@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28422"]={"code":"28422","region":"NC","city":"Bolivia","latitude":34.026,"longitude":-78.1681}}(window,'GeoPostal','US');

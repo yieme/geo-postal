@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 55"]={"code":"471 55","region":"Liberecky kraj","city":"Cvikov","latitude":50.77668,"longitude":14.63298}}(window,'GeoPostal','CZ');

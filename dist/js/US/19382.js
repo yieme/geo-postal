@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19382"]={"code":"19382","region":"Pennsylvania","city":"West Chester","latitude":39.942576,"longitude":-75.595534}}(window,'GeoPostal','US');

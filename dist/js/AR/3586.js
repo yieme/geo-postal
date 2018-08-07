@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3586"]={"code":"3586","region":"Santa Fe","city":"Las Toscas","latitude":-28.3529,"longitude":-59.25795}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150501"]={"code":"150501","region":"Yaroslavskaya oblast'","city":"Tunoshna","latitude":57.54589,"longitude":40.12543}}(window,'GeoPostal','RU');

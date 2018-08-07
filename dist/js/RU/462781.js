@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462781"]={"code":"462781","region":"Orenburgskaya oblast'","city":"Yasnyy","latitude":51.0333,"longitude":59.8742}}(window,'GeoPostal','RU');

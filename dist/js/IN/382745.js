@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382745"]={"code":"382745","region":"Gujarat","city":"Dhrangadhra","latitude":22.98333,"longitude":71.46667}}(window,'GeoPostal','IN');

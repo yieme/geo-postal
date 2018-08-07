@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62086"]={"code":"62086","region":"IL","city":"Sorento","latitude":38.9693,"longitude":-89.5653}}(window,'GeoPostal','US');

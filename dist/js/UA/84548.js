@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84548"]={"code":"84548","region":"Donetska oblast","city":"Soledar","latitude":48.67935,"longitude":38.08902}}(window,'GeoPostal','UA');

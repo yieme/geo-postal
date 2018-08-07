@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98581"]={"code":"98581","region":"WA","city":"Ryderwood","latitude":46.3752,"longitude":-123.0431}}(window,'GeoPostal','US');

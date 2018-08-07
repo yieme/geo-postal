@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15008"]={"code":"15008","region":"Galicia","city":"Pereiro de Aguiar","latitude":42.34524,"longitude":-7.80008}}(window,'GeoPostal','ES');

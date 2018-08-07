@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02025"]={"code":"02025","region":"Massachusetts","city":"Cohasset","latitude":42.240889,"longitude":-70.811979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3757"]={"code":"3757","region":"Victoria","city":"Pheasant Creek","latitude":-37.48333,"longitude":145.28333}}(window,'GeoPostal','AU');

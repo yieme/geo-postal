@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92100"]={"code":"92100","region":"Sicilia","city":"Agrigento","latitude":37.32084,"longitude":13.58876}}(window,'GeoPostal','IT');

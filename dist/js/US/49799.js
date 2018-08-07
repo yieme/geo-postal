@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49799"]={"code":"49799","region":"Michigan","city":"Wolverine","latitude":45.26838,"longitude":-84.590918}}(window,'GeoPostal','US');

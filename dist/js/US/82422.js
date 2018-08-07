@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82422"]={"code":"82422","region":"WY","city":"Emblem","latitude":44.5058,"longitude":-108.3918}}(window,'GeoPostal','US');

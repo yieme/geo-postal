@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34286"]={"code":"34286","region":"Hessen","city":"Spangenberg","latitude":51.11644,"longitude":9.6627}}(window,'GeoPostal','DE');

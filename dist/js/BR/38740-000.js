@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38740-000"]={"code":"38740-000","region":"Minas Gerais","city":"Patrocinio","latitude":-18.94389,"longitude":-46.9925}}(window,'GeoPostal','BR');

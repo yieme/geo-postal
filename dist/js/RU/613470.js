@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613470"]={"code":"613470","region":"Kirovskaya oblast'","city":"Nema","latitude":57.50675,"longitude":50.50115}}(window,'GeoPostal','RU');

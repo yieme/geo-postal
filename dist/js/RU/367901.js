@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["367901"]={"code":"367901","region":"Dagestan, Respublika","city":"Leninkent","latitude":42.96895,"longitude":47.35202}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05838"]={"code":"05838","region":"VT","city":"East Saint Johnsbury","latitude":44.4387,"longitude":-71.9456}}(window,'GeoPostal','US');

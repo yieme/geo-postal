@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39338"]={"code":"39338","region":"MS","city":"Louin","latitude":32.0997,"longitude":-89.2199}}(window,'GeoPostal','US');

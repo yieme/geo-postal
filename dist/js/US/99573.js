@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99573"]={"code":"99573","region":"AK","city":"Copper Center","latitude":61.977,"longitude":-145.3297}}(window,'GeoPostal','US');

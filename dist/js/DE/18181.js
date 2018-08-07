@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18181"]={"code":"18181","region":"Mecklenburg-Vorpommern","city":"Graal","latitude":54.24913,"longitude":12.23568}}(window,'GeoPostal','DE');

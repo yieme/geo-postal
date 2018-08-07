@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76790"]={"code":"76790","region":"Normandie","city":"Les Loges","latitude":49.6986,"longitude":0.28404}}(window,'GeoPostal','FR');

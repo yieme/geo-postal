@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 3L0"]={"code":"A0K 3L0","region":"Newfoundland and Labrador","city":"L'Anse-au-Loup","latitude":51.5168,"longitude":-56.83139}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9316"]={"code":"9316","region":"Troms","city":"Brostadbotn","latitude":69.08873,"longitude":17.69489}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31500"]={"code":"31500","region":"Navarra, Comunidad Foral de","city":"Tudela","latitude":42.06166,"longitude":-1.60452}}(window,'GeoPostal','ES');

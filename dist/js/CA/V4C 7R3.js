@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V4C 7R3"]={"code":"V4C 7R3","region":"British Columbia","city":"Delta","latitude":49.142482,"longitude":-122.915641}}(window,'GeoPostal','CA');

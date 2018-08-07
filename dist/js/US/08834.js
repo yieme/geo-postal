@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08834"]={"code":"08834","region":"New Jersey","city":"Little York","latitude":40.60669,"longitude":-75.05559}}(window,'GeoPostal','US');

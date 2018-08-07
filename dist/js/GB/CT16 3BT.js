@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT16 3BT"]={"code":"CT16 3BT","region":"England","city":"Kearsney","latitude":51.14952,"longitude":1.27647}}(window,'GeoPostal','GB');

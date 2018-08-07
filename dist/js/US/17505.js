@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17505"]={"code":"17505","region":"PA","city":"Bird In Hand","latitude":40.0561,"longitude":-76.183}}(window,'GeoPostal','US');

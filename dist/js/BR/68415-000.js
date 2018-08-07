@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68415-000"]={"code":"68415-000","region":"Para","city":"Limoeiro do Ajuru","latitude":-1.89528,"longitude":-49.38056}}(window,'GeoPostal','BR');

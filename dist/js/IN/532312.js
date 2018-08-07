@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["532312"]={"code":"532312","region":"Andhra Pradesh","city":"Ichchapuram","latitude":19.11667,"longitude":84.7}}(window,'GeoPostal','IN');

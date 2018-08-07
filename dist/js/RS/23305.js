@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23305"]={"code":"23305","region":"Severnobanatski okrug","city":"Mokrin","latitude":45.93583,"longitude":20.40722}}(window,'GeoPostal','RS');

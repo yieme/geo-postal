@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6642"]={"code":"6642","region":"Western Australia","city":"Meekatharra","latitude":-26.59524,"longitude":118.49393}}(window,'GeoPostal','AU');

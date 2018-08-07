@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42154"]={"code":"42154","region":"KY","city":"Knob Lick","latitude":37.0556,"longitude":-85.6985}}(window,'GeoPostal','US');

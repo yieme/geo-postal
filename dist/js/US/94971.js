@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94971"]={"code":"94971","region":"CA","city":"Tomales","latitude":38.2427,"longitude":-122.9145}}(window,'GeoPostal','US');

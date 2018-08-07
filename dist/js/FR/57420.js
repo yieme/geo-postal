@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57420"]={"code":"57420","region":"Grand-Est","city":"Cuvry","latitude":49.0439,"longitude":6.16}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25918"]={"code":"25918","region":"WV","city":"Shady Spring","latitude":37.7416,"longitude":-81.0149}}(window,'GeoPostal','US');

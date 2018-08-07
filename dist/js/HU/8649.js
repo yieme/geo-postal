@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8649"]={"code":"8649","region":"Somogy","city":"Balatonbereny","latitude":46.70702,"longitude":17.32013}}(window,'GeoPostal','HU');

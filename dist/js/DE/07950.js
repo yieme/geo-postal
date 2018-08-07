@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07950"]={"code":"07950","region":"Thuringen","city":"Triebes","latitude":50.68489,"longitude":12.02042}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0P 0E0"]={"code":"S0P 0E0","region":"Saskatchewan","city":"Pelican Narrows","latitude":55.16685,"longitude":-102.9341}}(window,'GeoPostal','CA');

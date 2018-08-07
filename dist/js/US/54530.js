@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54530"]={"code":"54530","region":"WI","city":"Hawkins","latitude":45.5241,"longitude":-90.7114}}(window,'GeoPostal','US');

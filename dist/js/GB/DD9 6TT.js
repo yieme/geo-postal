@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 6TT"]={"code":"DD9 6TT","region":"Scotland","city":"Careston","latitude":56.73516,"longitude":-2.76379}}(window,'GeoPostal','GB');

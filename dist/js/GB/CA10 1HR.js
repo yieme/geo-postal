@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 1HR"]={"code":"CA10 1HR","region":"England","city":"Gamblesby","latitude":54.74821,"longitude":-2.60786}}(window,'GeoPostal','GB');

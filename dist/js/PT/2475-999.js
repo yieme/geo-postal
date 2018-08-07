@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2475-999"]={"code":"2475-999","region":"Leiria","city":"Benedita","latitude":39.4247,"longitude":-8.96996}}(window,'GeoPostal','PT');

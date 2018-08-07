@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["189-0001"]={"code":"189-0001","region":"Tokyo","city":"Higashimurayama","latitude":35.75,"longitude":139.467}}(window,'GeoPostal','JP');

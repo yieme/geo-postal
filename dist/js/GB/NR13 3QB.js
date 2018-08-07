@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 3QB"]={"code":"NR13 3QB","region":"England","city":"Halvergate","latitude":52.60631,"longitude":1.57602}}(window,'GeoPostal','GB');

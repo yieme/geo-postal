@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49063"]={"code":"49063","region":"MI","city":"Lacota","latitude":42.4136,"longitude":-86.1298}}(window,'GeoPostal','US');

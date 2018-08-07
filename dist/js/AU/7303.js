@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7303"]={"code":"7303","region":"Tasmania","city":"Westbury","latitude":-41.52588,"longitude":146.84374}}(window,'GeoPostal','AU');

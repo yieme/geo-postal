@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN37 0RF"]={"code":"DN37 0RF","region":"England","city":"Brigsley","latitude":53.5009,"longitude":-0.11026}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL19 9JR"]={"code":"PL19 9JR","region":"England","city":"Petertavy","latitude":50.56667,"longitude":-4.1}}(window,'GeoPostal','GB');

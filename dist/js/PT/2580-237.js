@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2580-237"]={"code":"2580-237","region":"Lisboa","city":"Aveiras de Cima","latitude":39.13796,"longitude":-8.89932}}(window,'GeoPostal','PT');

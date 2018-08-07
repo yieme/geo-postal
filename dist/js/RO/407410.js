@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407410"]={"code":"407410","region":"Cluj","city":"Mintiu Gherlii","latitude":47.05,"longitude":23.95}}(window,'GeoPostal','RO');

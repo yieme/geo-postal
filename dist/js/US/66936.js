@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66936"]={"code":"66936","region":"KS","city":"Burr Oak","latitude":39.8932,"longitude":-98.3499}}(window,'GeoPostal','US');

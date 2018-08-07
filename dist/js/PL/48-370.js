@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-370"]={"code":"48-370","region":"Opolskie","city":"Paczkow","latitude":50.46395,"longitude":17.00658}}(window,'GeoPostal','PL');

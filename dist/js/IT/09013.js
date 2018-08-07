@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09013"]={"code":"09013","region":"Sardegna","city":"Carbonia","latitude":39.16722,"longitude":8.52222}}(window,'GeoPostal','IT');

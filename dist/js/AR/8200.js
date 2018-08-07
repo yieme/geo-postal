@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200"]={"code":"8200","region":"La Pampa","city":"General Acha","latitude":-37.37698,"longitude":-64.60431}}(window,'GeoPostal','AR');

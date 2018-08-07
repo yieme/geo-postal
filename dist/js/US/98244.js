@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98244"]={"code":"98244","region":"Washington","city":"Deming","latitude":48.82422,"longitude":-121.95834}}(window,'GeoPostal','US');

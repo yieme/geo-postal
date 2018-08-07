@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA20 1HU"]={"code":"CA20 1HU","region":"England","city":"Gosforth","latitude":54.41718,"longitude":-3.43366}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68864"]={"code":"68864","region":"NE","city":"Palmer","latitude":41.1788,"longitude":-98.2411}}(window,'GeoPostal','US');

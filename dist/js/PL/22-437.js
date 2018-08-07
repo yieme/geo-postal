@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-437"]={"code":"22-437","region":"Lubelskie","city":"Labunie","latitude":50.65517,"longitude":23.3662}}(window,'GeoPostal','PL');

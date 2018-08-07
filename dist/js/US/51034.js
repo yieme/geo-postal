@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51034"]={"code":"51034","region":"Iowa","city":"Mapleton","latitude":42.15975,"longitude":-95.803308}}(window,'GeoPostal','US');

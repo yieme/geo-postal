@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1433"]={"code":"1433","region":"Radece","city":"Radece","latitude":46.06806,"longitude":15.18389}}(window,'GeoPostal','SI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT7 0SR"]={"code":"KT7 0SR","region":"England","city":"Thames Ditton","latitude":51.38964,"longitude":-0.33928}}(window,'GeoPostal','GB');

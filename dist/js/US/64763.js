@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64763"]={"code":"64763","region":"Missouri","city":"Lowry City","latitude":38.139466,"longitude":-93.726802}}(window,'GeoPostal','US');

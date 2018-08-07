@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00851"]={"code":"00851","region":"VI","city":"Kingshill","latitude":17.73,"longitude":-64.8}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62626"]={"code":"62626","region":"Illinois","city":"Carlinville","latitude":39.27977,"longitude":-89.88177}}(window,'GeoPostal','US');

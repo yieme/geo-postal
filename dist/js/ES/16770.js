@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16770"]={"code":"16770","region":"Castilla-La Mancha","city":"San Lorenzo de la Parrilla","latitude":39.85129,"longitude":-2.36079}}(window,'GeoPostal','ES');

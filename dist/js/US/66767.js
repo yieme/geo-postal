@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66767"]={"code":"66767","region":"Kansas","city":"Prescott","latitude":38.179486,"longitude":-94.705197}}(window,'GeoPostal','US');

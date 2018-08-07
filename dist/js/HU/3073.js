@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3073"]={"code":"3073","region":"Nograd","city":"Tar","latitude":47.95371,"longitude":19.7461}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 3E0"]={"code":"S0G 3E0","region":"Saskatchewan","city":"McLean","latitude":50.51678,"longitude":-104.06777}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39560-000"]={"code":"39560-000","region":"Minas Gerais","city":"Salinas","latitude":-16.17028,"longitude":-42.29028}}(window,'GeoPostal','BR');

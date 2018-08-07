@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06094"]={"code":"06094","region":"Bejaia","city":"Bejaia","latitude":36.75587,"longitude":5.08433}}(window,'GeoPostal','DZ');

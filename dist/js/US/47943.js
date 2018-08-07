@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47943"]={"code":"47943","region":"IN","city":"Fair Oaks","latitude":41.075,"longitude":-87.2575}}(window,'GeoPostal','US');

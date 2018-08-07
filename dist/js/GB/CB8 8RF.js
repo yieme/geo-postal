@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 8RF"]={"code":"CB8 8RF","region":"England","city":"Gazeley","latitude":52.24872,"longitude":0.51782}}(window,'GeoPostal','GB');

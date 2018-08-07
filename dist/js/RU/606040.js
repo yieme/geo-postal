@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606040"]={"code":"606040","region":"Nizhegorodskaya oblast'","city":"Gorbatovka","latitude":56.25306,"longitude":43.7475}}(window,'GeoPostal','RU');

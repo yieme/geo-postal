@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415805"]={"code":"415805","region":"Maharashtra","city":"Satara","latitude":17.68333,"longitude":73.98333}}(window,'GeoPostal','IN');

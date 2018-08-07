@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE42 5PZ"]={"code":"NE42 5PZ","region":"England","city":"Prudhoe","latitude":54.96154,"longitude":-1.85168}}(window,'GeoPostal','GB');

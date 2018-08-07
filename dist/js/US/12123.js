@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12123"]={"code":"12123","region":"New York","city":"Nassau","latitude":42.51591,"longitude":-73.61012}}(window,'GeoPostal','US');

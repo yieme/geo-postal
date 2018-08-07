@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0112"]={"code":"AZ 0112","region":"Abseron","city":"Ceyranbatan","latitude":40.54083,"longitude":49.65972}}(window,'GeoPostal','AZ');

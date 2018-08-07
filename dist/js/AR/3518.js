@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3518"]={"code":"3518","region":"Chaco","city":"La Leonesa","latitude":-27.03786,"longitude":-58.70347}}(window,'GeoPostal','AR');

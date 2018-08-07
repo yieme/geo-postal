@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["079-0177"]={"code":"079-0177","region":"Hokkaido","city":"Bibai","latitude":43.333,"longitude":141.85}}(window,'GeoPostal','JP');

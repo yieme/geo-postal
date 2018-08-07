@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86732"]={"code":"86732","region":"Bayern","city":"Oettingen in Bayern","latitude":48.95274,"longitude":10.60465}}(window,'GeoPostal','DE');

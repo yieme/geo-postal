@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45690-000"]={"code":"45690-000","region":"Bahia","city":"Una","latitude":-15.29333,"longitude":-39.07528}}(window,'GeoPostal','BR');

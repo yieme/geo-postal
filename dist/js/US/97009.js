@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97009"]={"code":"97009","region":"Oregon","city":"Boring","latitude":45.426594,"longitude":-122.381695}}(window,'GeoPostal','US');

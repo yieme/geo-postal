@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11507"]={"code":"11507","region":"New York","city":"Albertson","latitude":40.7711,"longitude":-73.653}}(window,'GeoPostal','US');

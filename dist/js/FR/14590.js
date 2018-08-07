@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14590"]={"code":"14590","region":"Normandie","city":"Moyaux","latitude":49.19511,"longitude":0.35603}}(window,'GeoPostal','FR');

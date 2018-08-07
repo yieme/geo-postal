@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29200"]={"code":"29200","region":"Andalucia","city":"Antequera","latitude":37.01938,"longitude":-4.56123}}(window,'GeoPostal','ES');

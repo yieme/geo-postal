@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06447"]={"code":"06447","region":"CT","city":"Marlborough","latitude":41.6412,"longitude":-72.4609}}(window,'GeoPostal','US');

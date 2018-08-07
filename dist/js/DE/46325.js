@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46325"]={"code":"46325","region":"Nordrhein-Westfalen","city":"Borken","latitude":51.84382,"longitude":6.85774}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55939"]={"code":"55939","region":"Minnesota","city":"Harmony","latitude":43.55524,"longitude":-92.01016}}(window,'GeoPostal','US');

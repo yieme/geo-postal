@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68210-000"]={"code":"68210-000","region":"Para","city":"Abidos","latitude":-1.9175,"longitude":-55.51806}}(window,'GeoPostal','BR');

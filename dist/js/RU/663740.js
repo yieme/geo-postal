@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663740"]={"code":"663740","region":"Krasnoyarskiy kray","city":"Aban","latitude":56.67,"longitude":96.06}}(window,'GeoPostal','RU');

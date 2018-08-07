@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72823"]={"code":"72823","region":"AR","city":"Atkins","latitude":35.2449,"longitude":-92.9507}}(window,'GeoPostal','US');

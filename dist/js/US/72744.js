@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72744"]={"code":"72744","region":"AR","city":"Lincoln","latitude":35.9569,"longitude":-94.4272}}(window,'GeoPostal','US');

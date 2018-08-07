@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3290"]={"code":"3290","region":"Cordillera","city":"Altos","latitude":-25.2634,"longitude":-57.24916}}(window,'GeoPostal','PY');

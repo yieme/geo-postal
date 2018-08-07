@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06295"]={"code":"06295","region":"Sachsen-Anhalt","city":"Neustadt","latitude":51.52776,"longitude":11.53925}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77368"]={"code":"77368","region":"TX","city":"Romayor","latitude":30.4513,"longitude":-94.8433}}(window,'GeoPostal','US');

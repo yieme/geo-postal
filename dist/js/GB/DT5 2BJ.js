@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT5 2BJ"]={"code":"DT5 2BJ","region":"England","city":"Easton","latitude":50.53333,"longitude":-2.45}}(window,'GeoPostal','GB');

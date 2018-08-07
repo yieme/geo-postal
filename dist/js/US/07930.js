@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07930"]={"code":"07930","region":"New Jersey","city":"Chester","latitude":40.791278,"longitude":-74.67774}}(window,'GeoPostal','US');

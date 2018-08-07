@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311812"]={"code":"311812","region":"Zhejiang","city":"Datang'an","latitude":29.69222,"longitude":120.16389}}(window,'GeoPostal','CN');

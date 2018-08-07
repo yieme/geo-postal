@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07586"]={"code":"07586","region":"Thuringen","city":"Kraftsdorf","latitude":50.88333,"longitude":11.91667}}(window,'GeoPostal','DE');

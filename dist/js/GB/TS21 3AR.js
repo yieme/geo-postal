@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS21 3AR"]={"code":"TS21 3AR","region":"England","city":"Sedgefield","latitude":54.65329,"longitude":-1.44952}}(window,'GeoPostal','GB');

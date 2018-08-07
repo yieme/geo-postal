@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226409"]={"code":"226409","region":"Jiangsu","city":"Juzhen","latitude":32.41352,"longitude":121.19427}}(window,'GeoPostal','CN');

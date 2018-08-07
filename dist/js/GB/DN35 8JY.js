@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN35 8JY"]={"code":"DN35 8JY","region":"England","city":"Cleethorpes","latitude":53.56047,"longitude":-0.03225}}(window,'GeoPostal','GB');

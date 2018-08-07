@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79738"]={"code":"79738","region":"Texas","city":"Gail","latitude":32.77038,"longitude":-101.44541}}(window,'GeoPostal','US');

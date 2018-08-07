@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["086 45"]={"code":"086 45","region":"Zilinsky kraj","city":"Kysucke Nove Mesto","latitude":49.3,"longitude":18.78333}}(window,'GeoPostal','SK');

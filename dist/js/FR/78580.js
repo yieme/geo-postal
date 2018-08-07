@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78580"]={"code":"78580","region":"Ile-de-France","city":"Bazemont","latitude":48.92726,"longitude":1.86651}}(window,'GeoPostal','FR');

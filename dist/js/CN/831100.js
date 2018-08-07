@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831100"]={"code":"831100","region":"Xinjiang","city":"Shihezi","latitude":44.3,"longitude":86.03333}}(window,'GeoPostal','CN');

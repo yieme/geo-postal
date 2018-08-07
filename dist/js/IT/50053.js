@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50053"]={"code":"50053","region":"Toscana","city":"Empoli","latitude":43.71754,"longitude":10.94142}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8734"]={"code":"8734","region":"Steiermark","city":"Apfelberg","latitude":47.2,"longitude":14.83333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 1K0"]={"code":"A0N 1K0","region":"Newfoundland and Labrador","city":"Channel-Port aux Basques","latitude":47.57021,"longitude":-59.13674}}(window,'GeoPostal','CA');

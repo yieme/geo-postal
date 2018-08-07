@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22520"]={"code":"22520","region":"Virginia","city":"Montross","latitude":38.09513,"longitude":-76.82746}}(window,'GeoPostal','US');

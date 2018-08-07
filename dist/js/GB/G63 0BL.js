@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 0BL"]={"code":"G63 0BL","region":"Scotland","city":"Drymen","latitude":56.06582,"longitude":-4.45273}}(window,'GeoPostal','GB');

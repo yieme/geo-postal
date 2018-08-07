@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55124"]={"code":"55124","region":"Minnesota","city":"Apple Valley","latitude":44.73191,"longitude":-93.21772}}(window,'GeoPostal','US');

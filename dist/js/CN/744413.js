@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744413"]={"code":"744413","region":"Gansu","city":"Puwo","latitude":34.97379,"longitude":107.52179}}(window,'GeoPostal','CN');

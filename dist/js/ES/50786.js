@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50786"]={"code":"50786","region":"Aragon","city":"Gelsa","latitude":41.40766,"longitude":-0.46158}}(window,'GeoPostal','ES');

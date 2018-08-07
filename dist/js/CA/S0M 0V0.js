@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 0V0"]={"code":"S0M 0V0","region":"Saskatchewan","city":"Edam","latitude":53.18347,"longitude":-108.76811}}(window,'GeoPostal','CA');

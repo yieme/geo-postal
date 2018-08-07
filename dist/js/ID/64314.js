@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64314"]={"code":"64314","region":"Jawa Timur","city":"Mojosawit","latitude":-7.2477,"longitude":111.7131}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78380"]={"code":"78380","region":"TX","city":"Robstown","latitude":27.7984,"longitude":-97.6995}}(window,'GeoPostal','US');

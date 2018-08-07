@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53410"]={"code":"53410","region":"Pays-de-la-Loire","city":"Saint-Pierre-la-Cour","latitude":48.11258,"longitude":-1.02496}}(window,'GeoPostal','FR');

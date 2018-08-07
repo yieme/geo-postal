@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88535-000"]={"code":"88535-000","region":"Santa Catarina","city":"Correia Pinto","latitude":-27.58472,"longitude":-50.36111}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84173"]={"code":"84173","region":"Nusa Tenggara Barat","city":"Tolotangga","latitude":-8.7642,"longitude":118.6353}}(window,'GeoPostal','ID');

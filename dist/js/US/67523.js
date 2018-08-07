@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67523"]={"code":"67523","region":"KS","city":"Burdett","latitude":38.2104,"longitude":-99.5275}}(window,'GeoPostal','US');

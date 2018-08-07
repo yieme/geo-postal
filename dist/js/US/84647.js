@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84647"]={"code":"84647","region":"Utah","city":"Mount Pleasant","latitude":39.556825,"longitude":-111.492995}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40476"]={"code":"40476","region":"KY","city":"Richmond","latitude":37.7479,"longitude":-84.2947}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37260"]={"code":"37260","region":"Centre-Val de Loire","city":"Thilouze","latitude":47.22415,"longitude":0.57963}}(window,'GeoPostal','FR');

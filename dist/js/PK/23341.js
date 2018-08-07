@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23341"]={"code":"23341","region":"Punjab","city":"Sahiwal","latitude":31.97446,"longitude":72.33087}}(window,'GeoPostal','PK');

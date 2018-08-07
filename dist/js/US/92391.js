@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92391"]={"code":"92391","region":"CA","city":"Twin Peaks","latitude":34.2379,"longitude":-117.2348}}(window,'GeoPostal','US');

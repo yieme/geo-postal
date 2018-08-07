@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63260"]={"code":"63260","region":"Auvergne-Rhone-Alpes","city":"Aigueperse","latitude":46.02284,"longitude":3.20231}}(window,'GeoPostal','FR');

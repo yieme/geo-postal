@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36590"]={"code":"36590","region":"Alabama","city":"Theodore","latitude":30.535982,"longitude":-88.18539}}(window,'GeoPostal','US');

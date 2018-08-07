@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03045"]={"code":"03045","region":"NH","city":"Goffstown","latitude":43.0201,"longitude":-71.5697}}(window,'GeoPostal','US');

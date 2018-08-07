@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88260"]={"code":"88260","region":"New Mexico","city":"Lovington","latitude":32.93112,"longitude":-103.31346}}(window,'GeoPostal','US');

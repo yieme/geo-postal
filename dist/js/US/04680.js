@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04680"]={"code":"04680","region":"Maine","city":"Steuben","latitude":44.51063,"longitude":-67.96528}}(window,'GeoPostal','US');

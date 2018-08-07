@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS27 4NB"]={"code":"TS27 4NB","region":"England","city":"Blackhall Colliery","latitude":54.74841,"longitude":-1.29468}}(window,'GeoPostal','GB');

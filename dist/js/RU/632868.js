@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632868"]={"code":"632868","region":"Novosibirskaya oblast'","city":"Karasuk","latitude":53.73772,"longitude":78.04026}}(window,'GeoPostal','RU');

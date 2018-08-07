@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-300"]={"code":"98-300","region":"Lodzkie","city":"Wielun","latitude":51.22097,"longitude":18.56964}}(window,'GeoPostal','PL');

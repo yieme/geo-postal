@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90041"]={"code":"90041","region":"Zakarpatska oblast","city":"Synevyr","latitude":48.48745,"longitude":23.62575}}(window,'GeoPostal','UA');

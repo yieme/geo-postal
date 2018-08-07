@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4413"]={"code":"4413","region":"Camarines Sur","city":"Capucnasan","latitude":13.6,"longitude":123.21667}}(window,'GeoPostal','PH');

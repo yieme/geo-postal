@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110"]={"code":"110","region":"Hofudborgarsvaedi","city":"Hafnarfjordur","latitude":64.0671,"longitude":-21.93774}}(window,'GeoPostal','IS');

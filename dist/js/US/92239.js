@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92239"]={"code":"92239","region":"California","city":"Desert Center","latitude":33.7125,"longitude":-115.401389}}(window,'GeoPostal','US');

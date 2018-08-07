@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84360"]={"code":"84360","region":"Provence-Alpes-Cote d'Azur","city":"Lauris","latitude":43.74799,"longitude":5.31518}}(window,'GeoPostal','FR');

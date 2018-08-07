@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70569"]={"code":"70569","region":"LA","city":"Lydia","latitude":29.9239,"longitude":-91.7831}}(window,'GeoPostal','US');

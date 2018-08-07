@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445359"]={"code":"445359","region":"Samarskaya oblast'","city":"Zhigulevsk","latitude":53.39972,"longitude":49.49528}}(window,'GeoPostal','RU');

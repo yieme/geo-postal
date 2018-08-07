@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 2HQ"]={"code":"SY8 2HQ","region":"England","city":"Elton","latitude":52.33333,"longitude":-2.8}}(window,'GeoPostal','GB');

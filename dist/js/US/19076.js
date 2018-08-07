@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19076"]={"code":"19076","region":"Pennsylvania","city":"Prospect Park","latitude":39.884781,"longitude":-75.307568}}(window,'GeoPostal','US');

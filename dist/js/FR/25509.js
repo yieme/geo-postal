@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25509"]={"code":"25509","region":"Bourgogne-Franche-Comte","city":"Morteau","latitude":47.05784,"longitude":6.60716}}(window,'GeoPostal','FR');

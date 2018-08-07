@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS26 2TE"]={"code":"BS26 2TE","region":"England","city":"Rooks Bridge","latitude":51.26722,"longitude":-2.90583}}(window,'GeoPostal','GB');

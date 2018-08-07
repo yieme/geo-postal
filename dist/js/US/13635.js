@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13635"]={"code":"13635","region":"New York","city":"Edwards","latitude":44.32,"longitude":-75.249444}}(window,'GeoPostal','US');

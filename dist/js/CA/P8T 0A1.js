@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P8T 0A1"]={"code":"P8T 0A1","region":"Ontario","city":"Sioux Lookout","latitude":50.06676,"longitude":-91.98358}}(window,'GeoPostal','CA');

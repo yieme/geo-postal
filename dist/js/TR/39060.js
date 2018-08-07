@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39060"]={"code":"39060","region":"Kirklareli","city":"Kirklareli","latitude":41.73508,"longitude":27.22521}}(window,'GeoPostal','TR');

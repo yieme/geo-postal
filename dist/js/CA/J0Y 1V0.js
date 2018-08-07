@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 1V0"]={"code":"J0Y 1V0","region":"Quebec","city":"Landrienne","latitude":48.55018,"longitude":-77.94952}}(window,'GeoPostal','CA');

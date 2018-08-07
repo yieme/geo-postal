@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79838"]={"code":"79838","region":"TX","city":"Fabens","latitude":31.4745,"longitude":-106.1589}}(window,'GeoPostal','US');

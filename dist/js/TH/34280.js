@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34280"]={"code":"34280","region":"Surin","city":"Kap Choeng","latitude":14.47486,"longitude":103.59439}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06483"]={"code":"06483","region":"CT","city":"Seymour","latitude":41.3862,"longitude":-73.0817}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140506"]={"code":"140506","region":"Punjab","city":"Morinda","latitude":30.79194,"longitude":76.49639}}(window,'GeoPostal','IN');

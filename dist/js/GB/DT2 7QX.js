@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 7QX"]={"code":"DT2 7QX","region":"England","city":"Piddletrenthide","latitude":50.80014,"longitude":-2.42238}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62100"]={"code":"62100","region":"Marche","city":"Macerata","latitude":43.29816,"longitude":13.44108}}(window,'GeoPostal','IT');

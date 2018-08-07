@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71240"]={"code":"71240","region":"Federacija Bosne i Hercegovine","city":"Hadzici","latitude":43.82222,"longitude":18.20667}}(window,'GeoPostal','BA');

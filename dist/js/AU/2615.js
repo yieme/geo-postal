@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2615"]={"code":"2615","region":"New South Wales","city":"Wallaroo","latitude":-35.14677,"longitude":149.0128}}(window,'GeoPostal','AU');

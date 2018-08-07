@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80532"]={"code":"80532","region":"Colorado","city":"Glen Haven","latitude":40.459407,"longitude":-105.444209}}(window,'GeoPostal','US');

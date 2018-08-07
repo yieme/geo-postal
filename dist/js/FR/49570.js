@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49570"]={"code":"49570","region":"Pays-de-la-Loire","city":"Montjean-sur-Loire","latitude":47.38842,"longitude":-0.85873}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98862"]={"code":"98862","region":"Washington","city":"Winthrop","latitude":48.475669,"longitude":-120.17875}}(window,'GeoPostal','US');

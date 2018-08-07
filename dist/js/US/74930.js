@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74930"]={"code":"74930","region":"Oklahoma","city":"Bokoshe","latitude":35.18806,"longitude":-94.79056}}(window,'GeoPostal','US');

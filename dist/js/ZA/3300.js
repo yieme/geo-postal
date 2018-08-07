@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3300"]={"code":"3300","region":"Kwazulu-Natal","city":"Mooirivier","latitude":-29.20824,"longitude":29.9946}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617079"]={"code":"617079","region":"Maramures","city":"Farcasa","latitude":47.16667,"longitude":25.83333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59016"]={"code":"59016","region":"Ostergotlands lan","city":"Boxholm","latitude":58.19719,"longitude":15.05376}}(window,'GeoPostal','SE');

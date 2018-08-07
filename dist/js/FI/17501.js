@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17501"]={"code":"17501","region":"Paijat-Hame","city":"Padasjoki","latitude":61.35,"longitude":25.28333}}(window,'GeoPostal','FI');

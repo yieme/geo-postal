@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75930"]={"code":"75930","region":"TX","city":"Bronson","latitude":31.3391,"longitude":-93.9993}}(window,'GeoPostal','US');

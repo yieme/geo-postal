@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11005"]={"code":"11005","region":"Santiago","city":"San Jose de Las Matas","latitude":19.33915,"longitude":-70.93819}}(window,'GeoPostal','DO');

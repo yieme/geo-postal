@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28757"]={"code":"28757","region":"NC","city":"Montreat","latitude":35.6415,"longitude":-82.3156}}(window,'GeoPostal','US');

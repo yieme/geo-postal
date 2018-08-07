@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD6 5BU"]={"code":"LD6 5BU","region":"Wales","city":"Rhayader","latitude":52.30154,"longitude":-3.51146}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628200"]={"code":"628200","region":"Sichuan","city":"Donghe","latitude":32.23341,"longitude":106.30126}}(window,'GeoPostal','CN');

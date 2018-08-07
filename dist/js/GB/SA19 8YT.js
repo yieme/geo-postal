@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 8YT"]={"code":"SA19 8YT","region":"Wales","city":"Pumpsaint","latitude":52.0479,"longitude":-3.96143}}(window,'GeoPostal','GB');

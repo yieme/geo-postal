@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200"]={"code":"8200","region":"Pafos","city":"Khlorakas","latitude":34.80417,"longitude":32.40833}}(window,'GeoPostal','CY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273 06"]={"code":"273 06","region":"Stredocesky kraj","city":"Libusin","latitude":50.16819,"longitude":14.05458}}(window,'GeoPostal','CZ');

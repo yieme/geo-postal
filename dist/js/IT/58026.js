@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58026"]={"code":"58026","region":"Toscana","city":"Montieri","latitude":43.13113,"longitude":11.01663}}(window,'GeoPostal','IT');

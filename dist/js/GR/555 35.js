@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["555 35"]={"code":"555 35","region":"Kentriki Makedonia","city":"Pylaia","latitude":40.60056,"longitude":22.9875}}(window,'GeoPostal','GR');

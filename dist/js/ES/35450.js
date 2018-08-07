@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35450"]={"code":"35450","region":"Canarias","city":"Guia","latitude":28.13974,"longitude":-15.63294}}(window,'GeoPostal','ES');

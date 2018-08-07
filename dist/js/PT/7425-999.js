@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7425-999"]={"code":"7425-999","region":"Portalegre","city":"Vale da Amoreira","latitude":39.06969,"longitude":-7.69849}}(window,'GeoPostal','PT');

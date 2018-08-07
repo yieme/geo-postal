@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5200"]={"code":"5200","region":"Cordoba","city":"Dean Funes","latitude":-30.42036,"longitude":-64.34984}}(window,'GeoPostal','AR');

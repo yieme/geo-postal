@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79758"]={"code":"79758","region":"TX","city":"Gardendale","latitude":32.0245,"longitude":-102.3572}}(window,'GeoPostal','US');

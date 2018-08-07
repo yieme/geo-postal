@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71406"]={"code":"71406","region":"LA","city":"Belmont","latitude":31.71,"longitude":-93.4959}}(window,'GeoPostal','US');

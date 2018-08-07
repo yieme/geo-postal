@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68739"]={"code":"68739","region":"Nebraska","city":"Hartington","latitude":42.6225,"longitude":-97.2645}}(window,'GeoPostal','US');

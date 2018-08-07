@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49221"]={"code":"49221","region":"Krapinsko-zagorska zupanija","city":"Bedekovcina","latitude":46.04111,"longitude":15.99639}}(window,'GeoPostal','HR');

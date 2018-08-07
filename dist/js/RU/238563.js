@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238563"]={"code":"238563","region":"Kaliningradskaya oblast'","city":"Svetlogorsk","latitude":54.93987,"longitude":20.15479}}(window,'GeoPostal','RU');

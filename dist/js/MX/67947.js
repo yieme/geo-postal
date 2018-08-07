@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67947"]={"code":"67947","region":"Nuevo Leon","city":"La Reforma","latitude":24.69722,"longitude":-99.53917}}(window,'GeoPostal','MX');

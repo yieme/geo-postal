@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70310"]={"code":"70310","region":"LA","city":"Thibodaux","latitude":29.8033,"longitude":-90.8169}}(window,'GeoPostal','US');

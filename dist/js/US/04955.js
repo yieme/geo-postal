@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04955"]={"code":"04955","region":"ME","city":"New Sharon","latitude":44.6458,"longitude":-70.0139}}(window,'GeoPostal','US');

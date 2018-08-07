@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-850"]={"code":"64-850","region":"Wielkopolskie","city":"Ujscie","latitude":53.05339,"longitude":16.73201}}(window,'GeoPostal','PL');

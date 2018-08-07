@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210507"]={"code":"210507","region":"Uttar Pradesh","city":"Banda","latitude":25.48333,"longitude":80.33333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432712"]={"code":"432712","region":"Hubei","city":"Caihe","latitude":31.72546,"longitude":113.813}}(window,'GeoPostal','CN');

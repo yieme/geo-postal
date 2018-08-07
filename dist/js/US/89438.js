@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89438"]={"code":"89438","region":"Nevada","city":"Valmy","latitude":40.792778,"longitude":-117.125833}}(window,'GeoPostal','US');

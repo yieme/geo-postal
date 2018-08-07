@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08401"]={"code":"08401","region":"New Jersey","city":"Atlantic City","latitude":39.363284,"longitude":-74.439656}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44479"]={"code":"44479","region":"Aragon","city":"Olba","latitude":40.13333,"longitude":-0.61667}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23015"]={"code":"23015","region":"Lombardia","city":"Dubino","latitude":46.17179,"longitude":9.43014}}(window,'GeoPostal','IT');

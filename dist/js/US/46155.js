@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46155"]={"code":"46155","region":"IN","city":"Mays","latitude":39.7437,"longitude":-85.43}}(window,'GeoPostal','US');

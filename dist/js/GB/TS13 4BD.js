@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 4BD"]={"code":"TS13 4BD","region":"England","city":"Skinningrove","latitude":54.56908,"longitude":-0.89869}}(window,'GeoPostal','GB');

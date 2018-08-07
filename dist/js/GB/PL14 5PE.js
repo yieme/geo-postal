@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL14 5PE"]={"code":"PL14 5PE","region":"England","city":"Pensilva","latitude":50.50302,"longitude":-4.41491}}(window,'GeoPostal','GB');

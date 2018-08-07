@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53900-000"]={"code":"53900-000","region":"Pernambuco","city":"Itapissuma","latitude":-7.77639,"longitude":-34.89222}}(window,'GeoPostal','BR');

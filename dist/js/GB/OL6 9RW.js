@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OL6 9RW"]={"code":"OL6 9RW","region":"Scotland","city":"Lyne","latitude":57.33333,"longitude":-3.4}}(window,'GeoPostal','GB');

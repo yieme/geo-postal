@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12601"]={"code":"12601","region":"Junin","city":"Jauja","latitude":-11.77584,"longitude":-75.49656}}(window,'GeoPostal','PE');

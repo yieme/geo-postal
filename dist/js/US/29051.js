@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29051"]={"code":"29051","region":"SC","city":"Gable","latitude":33.8644,"longitude":-80.1276}}(window,'GeoPostal','US');

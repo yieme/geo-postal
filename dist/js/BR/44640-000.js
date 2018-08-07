@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44640-000"]={"code":"44640-000","region":"Bahia","city":"Riachao do Jacuipe","latitude":-11.80694,"longitude":-39.38556}}(window,'GeoPostal','BR');

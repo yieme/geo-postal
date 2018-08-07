@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["217-600"]={"code":"217-600","region":"Gangwon-do","city":"Sogcho","latitude":38.20833,"longitude":128.59111}}(window,'GeoPostal','KR');

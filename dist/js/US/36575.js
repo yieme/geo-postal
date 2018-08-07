@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36575"]={"code":"36575","region":"Alabama","city":"Semmes","latitude":31.28556,"longitude":-88.41917}}(window,'GeoPostal','US');

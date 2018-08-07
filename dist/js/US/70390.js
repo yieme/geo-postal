@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70390"]={"code":"70390","region":"Louisiana","city":"Napoleonville","latitude":29.94048,"longitude":-91.02482}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7BB"]={"code":"BA12 7BB","region":"England","city":"Norton Bavant","latitude":51.18696,"longitude":-2.13059}}(window,'GeoPostal','GB');

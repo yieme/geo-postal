@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46055"]={"code":"46055","region":"IN","city":"Mc Cordsville","latitude":39.9081,"longitude":-85.9228}}(window,'GeoPostal','US');

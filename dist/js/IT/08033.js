@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08033"]={"code":"08033","region":"Sardegna","city":"Isili","latitude":39.73972,"longitude":9.10611}}(window,'GeoPostal','IT');

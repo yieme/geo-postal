@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5410"]={"code":"5410","region":"Rajshahi","city":"Gaibandha","latitude":25.3293,"longitude":89.5438}}(window,'GeoPostal','BD');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76471"]={"code":"76471","region":"TX","city":"Rising Star","latitude":32.128,"longitude":-98.9859}}(window,'GeoPostal','US');

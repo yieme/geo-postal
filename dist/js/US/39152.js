@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39152"]={"code":"39152","region":"MS","city":"Pulaski","latitude":32.2745,"longitude":-89.5627}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 0H0"]={"code":"S0G 0H0","region":"Saskatchewan","city":"Bethune","latitude":50.71677,"longitude":-105.21783}}(window,'GeoPostal','CA');

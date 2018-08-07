@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10053"]={"code":"10053","region":"Piemonte","city":"Bussoleno","latitude":45.14034,"longitude":7.14641}}(window,'GeoPostal','IT');

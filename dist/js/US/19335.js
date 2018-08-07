@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19335"]={"code":"19335","region":"Pennsylvania","city":"Downingtown","latitude":40.017999,"longitude":-75.714919}}(window,'GeoPostal','US');

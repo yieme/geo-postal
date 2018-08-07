@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20825"]={"code":"20825","region":"MD","city":"Chevy Chase","latitude":39.0029,"longitude":-77.0712}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27876"]={"code":"27876","region":"NC","city":"Seaboard","latitude":36.4886,"longitude":-77.4113}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR13 5PW"]={"code":"WR13 5PW","region":"England","city":"Mathon","latitude":52.10995,"longitude":-2.39085}}(window,'GeoPostal','GB');

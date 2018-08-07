@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89318"]={"code":"89318","region":"Nevada","city":"McGill","latitude":39.40494,"longitude":-114.77863}}(window,'GeoPostal','US');

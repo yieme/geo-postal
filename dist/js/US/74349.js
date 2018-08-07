@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74349"]={"code":"74349","region":"Oklahoma","city":"Ketchum","latitude":36.52556,"longitude":-95.02583}}(window,'GeoPostal','US');

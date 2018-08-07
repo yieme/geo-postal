@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24603"]={"code":"24603","region":"Virginia","city":"Big Rock","latitude":37.352222,"longitude":-82.211944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14114"]={"code":"14114","region":"Normandie","city":"Ver-sur-Mer","latitude":49.32987,"longitude":-0.53118}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36700-000"]={"code":"36700-000","region":"Minas Gerais","city":"Leopoldina","latitude":-21.53194,"longitude":-42.64306}}(window,'GeoPostal','BR');

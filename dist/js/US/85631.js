@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85631"]={"code":"85631","region":"AZ","city":"San Manuel","latitude":32.6209,"longitude":-110.5992}}(window,'GeoPostal','US');

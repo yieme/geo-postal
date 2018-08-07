@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366317"]={"code":"366317","region":"Chechenskaya Respublika","city":"Alleroy","latitude":43.21,"longitude":46.28}}(window,'GeoPostal','RU');

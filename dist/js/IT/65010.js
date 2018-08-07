@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65010"]={"code":"65010","region":"Abruzzo","city":"Montebello di Bertona","latitude":42.41794,"longitude":13.8719}}(window,'GeoPostal','IT');

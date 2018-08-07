@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20149"]={"code":"20149","region":"VA","city":"Ashburn","latitude":39.0437,"longitude":-77.4875}}(window,'GeoPostal','US');

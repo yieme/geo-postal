@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69026"]={"code":"69026","region":"Nebraska","city":"Danbury","latitude":40.045331,"longitude":-100.41991}}(window,'GeoPostal','US');

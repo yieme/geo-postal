@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80821"]={"code":"80821","region":"Colorado","city":"Hugo","latitude":38.94289,"longitude":-103.26991}}(window,'GeoPostal','US');

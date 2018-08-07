@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54641"]={"code":"54641","region":"Wisconsin","city":"Mather","latitude":44.142778,"longitude":-90.308611}}(window,'GeoPostal','US');

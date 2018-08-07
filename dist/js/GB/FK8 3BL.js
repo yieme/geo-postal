@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK8 3BL"]={"code":"FK8 3BL","region":"Scotland","city":"Gargunnock","latitude":56.12474,"longitude":-4.08319}}(window,'GeoPostal','GB');

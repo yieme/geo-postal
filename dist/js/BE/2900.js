@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2900"]={"code":"2900","region":"Antwerpen","city":"Schoten","latitude":51.25251,"longitude":4.50268}}(window,'GeoPostal','BE');

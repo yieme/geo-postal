@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["650000"]={"code":"650000","region":"Xinjiang","city":"Urumqi","latitude":43.80096,"longitude":87.60046}}(window,'GeoPostal','CN');

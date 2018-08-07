@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206-0041"]={"code":"206-0041","region":"Tokyo","city":"Tama","latitude":35.637003,"longitude":139.446306}}(window,'GeoPostal','JP');

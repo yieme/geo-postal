@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572022"]={"code":"572022","region":"Hainan","city":"Sanya","latitude":18.24306,"longitude":109.505}}(window,'GeoPostal','CN');

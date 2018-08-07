@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7Z 1Z9"]={"code":"T7Z 1Z9","region":"Alberta","city":"Genesee","latitude":53.35013,"longitude":-114.33538}}(window,'GeoPostal','CA');

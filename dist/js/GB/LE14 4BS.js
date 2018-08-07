@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4BS"]={"code":"LE14 4BS","region":"England","city":"Harby","latitude":52.87296,"longitude":-0.89573}}(window,'GeoPostal','GB');

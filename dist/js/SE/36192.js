@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36192"]={"code":"36192","region":"Kalmar lan","city":"Emmaboda","latitude":56.63268,"longitude":15.53648}}(window,'GeoPostal','SE');

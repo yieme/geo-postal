@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0E 0A0"]={"code":"S0E 0A0","region":"Saskatchewan","city":"Arborfield","latitude":53.10006,"longitude":-103.65092}}(window,'GeoPostal','CA');

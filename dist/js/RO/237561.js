@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237561"]={"code":"237561","region":"Alba","city":"Blaj","latitude":46.18333,"longitude":23.91667}}(window,'GeoPostal','RO');

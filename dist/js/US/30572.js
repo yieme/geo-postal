@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30572"]={"code":"30572","region":"GA","city":"Suches","latitude":34.7253,"longitude":-84.0496}}(window,'GeoPostal','US');

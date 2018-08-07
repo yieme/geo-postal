@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23059"]={"code":"23059","region":"Virginia","city":"Glen Allen","latitude":37.7172,"longitude":-77.5767}}(window,'GeoPostal','US');

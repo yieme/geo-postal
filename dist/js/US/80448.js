@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80448"]={"code":"80448","region":"Colorado","city":"Grant","latitude":39.484944,"longitude":-105.742675}}(window,'GeoPostal','US');

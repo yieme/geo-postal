@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624473"]={"code":"624473","region":"Sverdlovskaya oblast'","city":"Tretiy Severnyy","latitude":60.20861,"longitude":59.96111}}(window,'GeoPostal','RU');

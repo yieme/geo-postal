@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27466"]={"code":"27466","region":"Galicia","city":"Sober","latitude":42.46127,"longitude":-7.5864}}(window,'GeoPostal','ES');

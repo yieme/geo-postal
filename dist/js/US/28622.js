@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28622"]={"code":"28622","region":"North Carolina","city":"Elk Park","latitude":36.17472,"longitude":-81.9567}}(window,'GeoPostal','US');

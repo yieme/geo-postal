@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49074"]={"code":"49074","region":"MI","city":"Nazareth","latitude":42.2454,"longitude":-85.5299}}(window,'GeoPostal','US');

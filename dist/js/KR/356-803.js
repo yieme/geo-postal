@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356-803"]={"code":"356-803","region":"Chungcheongnam-do","city":"Suisan","latitude":36.78167,"longitude":126.45222}}(window,'GeoPostal','KR');

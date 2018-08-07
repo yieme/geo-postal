@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1C 2H5"]={"code":"V1C 2H5","region":"British Columbia","city":"Cranbrook","latitude":49.509347,"longitude":-115.773298}}(window,'GeoPostal','CA');

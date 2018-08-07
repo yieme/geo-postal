@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59436"]={"code":"59436","region":"Montana","city":"Fairfield","latitude":47.616687,"longitude":-112.098741}}(window,'GeoPostal','US');

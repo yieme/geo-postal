@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7630"]={"code":"7630","region":"Buenos Aires","city":"Necochea","latitude":-38.54726,"longitude":-58.73675}}(window,'GeoPostal','AR');

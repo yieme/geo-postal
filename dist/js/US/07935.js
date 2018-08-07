@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07935"]={"code":"07935","region":"NJ","city":"Green Village","latitude":40.7416,"longitude":-74.4517}}(window,'GeoPostal','US');

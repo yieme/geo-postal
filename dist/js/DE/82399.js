@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82399"]={"code":"82399","region":"Bayern","city":"Raisting","latitude":47.91667,"longitude":11.1}}(window,'GeoPostal','DE');

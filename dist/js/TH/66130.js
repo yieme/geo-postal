@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66130"]={"code":"66130","region":"Phichit","city":"Pho Thale","latitude":16.0927,"longitude":100.26089}}(window,'GeoPostal','TH');

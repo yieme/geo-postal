@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65611"]={"code":"65611","region":"Missouri","city":"Blue Eye","latitude":36.5,"longitude":-93.39667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98547"]={"code":"98547","region":"Thuringen","city":"Kuhndorf","latitude":50.61667,"longitude":10.48333}}(window,'GeoPostal','DE');

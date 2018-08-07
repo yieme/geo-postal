@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88260"]={"code":"88260","region":"Federacija Bosne i Hercegovine","city":"Citluk","latitude":43.22861,"longitude":17.70083}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15470"]={"code":"15470","region":"Ciudad de Mexico","city":"Miguel Hidalgo","latitude":19.4225,"longitude":-99.20278}}(window,'GeoPostal','MX');

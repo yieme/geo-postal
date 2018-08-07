@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5641"]={"code":"5641","region":"Lovech","city":"Apriltsi","latitude":42.84142,"longitude":24.91759}}(window,'GeoPostal','BG');

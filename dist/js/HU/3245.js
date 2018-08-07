@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3245"]={"code":"3245","region":"Heves","city":"Recsk","latitude":47.93333,"longitude":20.11667}}(window,'GeoPostal','HU');

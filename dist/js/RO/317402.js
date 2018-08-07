@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317402"]={"code":"317402","region":"Arad","city":"Vinga","latitude":46.01667,"longitude":21.2}}(window,'GeoPostal','RO');

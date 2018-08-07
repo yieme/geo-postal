@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["683 21"]={"code":"683 21","region":"Jihomoravsky kraj","city":"Pustimer","latitude":49.32251,"longitude":17.02792}}(window,'GeoPostal','CZ');

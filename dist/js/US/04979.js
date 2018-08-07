@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04979"]={"code":"04979","region":"Maine","city":"Solon","latitude":44.94056,"longitude":-69.8075}}(window,'GeoPostal','US');

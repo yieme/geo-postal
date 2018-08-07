@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3702"]={"code":"3702","region":"Laguna","city":"Taytay","latitude":14.1122,"longitude":121.4157}}(window,'GeoPostal','PH');

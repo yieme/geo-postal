@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36075"]={"code":"36075","region":"Veneto","city":"Montecchio Maggiore","latitude":45.50369,"longitude":11.412}}(window,'GeoPostal','IT');

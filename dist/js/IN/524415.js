@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524415"]={"code":"524415","region":"Andhra Pradesh","city":"Tirupati","latitude":13.65,"longitude":79.41667}}(window,'GeoPostal','IN');

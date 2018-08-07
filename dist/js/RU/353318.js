@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353318"]={"code":"353318","region":"Moskovskaya oblast'","city":"Sverdlovskiy","latitude":55.91083,"longitude":38.15361}}(window,'GeoPostal','RU');

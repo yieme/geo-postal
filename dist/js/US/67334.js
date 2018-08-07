@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67334"]={"code":"67334","region":"KS","city":"Chautauqua","latitude":37.0262,"longitude":-96.1783}}(window,'GeoPostal','US');

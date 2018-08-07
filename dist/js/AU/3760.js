@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3760"]={"code":"3760","region":"Victoria","city":"Smith Gully Road","latitude":-37.61667,"longitude":145.26667}}(window,'GeoPostal','AU');

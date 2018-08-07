@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54409"]={"code":"54409","region":"Wisconsin","city":"Antigo","latitude":45.14024,"longitude":-89.15234}}(window,'GeoPostal','US');

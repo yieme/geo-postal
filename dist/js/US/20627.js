@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20627"]={"code":"20627","region":"Maryland","city":"Compton","latitude":38.305009,"longitude":-76.633837}}(window,'GeoPostal','US');

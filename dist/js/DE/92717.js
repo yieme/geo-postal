@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92717"]={"code":"92717","region":"Bayern","city":"Thumsenreuth","latitude":49.85449,"longitude":12.10686}}(window,'GeoPostal','DE');

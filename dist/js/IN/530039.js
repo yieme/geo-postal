@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530039"]={"code":"530039","region":"Andhra Pradesh","city":"Anakapalle","latitude":17.68333,"longitude":83.01667}}(window,'GeoPostal','IN');

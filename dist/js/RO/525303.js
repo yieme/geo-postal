@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["525303"]={"code":"525303","region":"Covasna","city":"Intorsura Buzaului","latitude":45.68333,"longitude":26.03333}}(window,'GeoPostal','RO');

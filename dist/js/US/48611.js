@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48611"]={"code":"48611","region":"Michigan","city":"Auburn","latitude":43.618219,"longitude":-84.088957}}(window,'GeoPostal','US');

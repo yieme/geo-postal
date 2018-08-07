@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18150"]={"code":"18150","region":"Saraburi","city":"Wihan Daeng","latitude":14.34586,"longitude":100.98942}}(window,'GeoPostal','TH');

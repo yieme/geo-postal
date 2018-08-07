@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77977"]={"code":"77977","region":"TX","city":"Placedo","latitude":28.6923,"longitude":-96.8254}}(window,'GeoPostal','US');

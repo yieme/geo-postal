@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["755 01"]={"code":"755 01","region":"Zlinsky kraj","city":"Vsetin","latitude":49.33871,"longitude":17.99619}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23501"]={"code":"23501","region":"Varsinais-Suomi","city":"Uusikaupunki","latitude":60.80043,"longitude":21.40841}}(window,'GeoPostal','FI');

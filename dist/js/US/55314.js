@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55314"]={"code":"55314","region":"Minnesota","city":"Buffalo Lake","latitude":44.73667,"longitude":-94.61833}}(window,'GeoPostal','US');

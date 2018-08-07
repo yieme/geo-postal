@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13011"]={"code":"13011","region":"Piemonte","city":"Borgosesia","latitude":45.71447,"longitude":8.27992}}(window,'GeoPostal','IT');

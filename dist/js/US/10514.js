@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10514"]={"code":"10514","region":"New York","city":"Chappaqua","latitude":41.170754,"longitude":-73.76998}}(window,'GeoPostal','US');

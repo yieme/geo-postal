@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69029"]={"code":"69029","region":"NE","city":"Farnam","latitude":40.7129,"longitude":-100.2069}}(window,'GeoPostal','US');

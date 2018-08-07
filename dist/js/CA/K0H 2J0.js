@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0H 2J0"]={"code":"K0H 2J0","region":"Ontario","city":"Ompah","latitude":45.01681,"longitude":-76.83273}}(window,'GeoPostal','CA');

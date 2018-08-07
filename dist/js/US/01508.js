@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01508"]={"code":"01508","region":"Massachusetts","city":"Charlton City","latitude":42.153167,"longitude":-71.990577}}(window,'GeoPostal','US');

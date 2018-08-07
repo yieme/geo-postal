@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65704-000"]={"code":"65704-000","region":"Maranhao","city":"Vitorino Freire","latitude":-4.06667,"longitude":-45.16667}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99104"]={"code":"99104","region":"WA","city":"Belmont","latitude":47.0793,"longitude":-117.177}}(window,'GeoPostal','US');

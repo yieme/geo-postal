@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141303"]={"code":"141303","region":"Punjab","city":"Jandiala","latitude":31.16667,"longitude":75.61667}}(window,'GeoPostal','IN');

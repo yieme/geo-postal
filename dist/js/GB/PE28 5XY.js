@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 5XY"]={"code":"PE28 5XY","region":"England","city":"Coppingford","latitude":52.4,"longitude":-0.28333}}(window,'GeoPostal','GB');

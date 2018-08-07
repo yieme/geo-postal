@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96185"]={"code":"96185","region":"Bayern","city":"Oberneuses","latitude":49.86356,"longitude":10.66692}}(window,'GeoPostal','DE');

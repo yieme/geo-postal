@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427958"]={"code":"427958","region":"Udmurtskaya Respublika","city":"Kama","latitude":56.30512,"longitude":54.09362}}(window,'GeoPostal','RU');

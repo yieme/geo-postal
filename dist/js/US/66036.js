@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66036"]={"code":"66036","region":"KS","city":"Hillsdale","latitude":38.6581,"longitude":-94.8521}}(window,'GeoPostal','US');

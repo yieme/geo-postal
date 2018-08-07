@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["963 01"]={"code":"963 01","region":"Banskobystricky kraj","city":"Krupina","latitude":48.3554,"longitude":19.06474}}(window,'GeoPostal','SK');

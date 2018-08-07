@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14526"]={"code":"14526","region":"New York","city":"Penfield","latitude":43.142446,"longitude":-77.457373}}(window,'GeoPostal','US');

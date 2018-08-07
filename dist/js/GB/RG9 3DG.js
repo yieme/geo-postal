@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG9 3DG"]={"code":"RG9 3DG","region":"England","city":"Aston","latitude":51.55122,"longitude":-0.87028}}(window,'GeoPostal','GB');

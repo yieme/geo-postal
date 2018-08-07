@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22513"]={"code":"22513","region":"Vinnytska oblast","city":"Turbiv","latitude":49.34788,"longitude":28.72117}}(window,'GeoPostal','UA');

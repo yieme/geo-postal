@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 3E1"]={"code":"V0R 3E1","region":"British Columbia","city":"Youbou","latitude":48.86632,"longitude":-124.20271}}(window,'GeoPostal','CA');

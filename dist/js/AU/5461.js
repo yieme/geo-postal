@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5461"]={"code":"5461","region":"South Australia","city":"Balaklava","latitude":-34.14542,"longitude":138.41148}}(window,'GeoPostal','AU');

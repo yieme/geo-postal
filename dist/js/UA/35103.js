@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35103"]={"code":"35103","region":"Rivnenska oblast","city":"Mlyniv","latitude":50.509,"longitude":25.61675}}(window,'GeoPostal','UA');

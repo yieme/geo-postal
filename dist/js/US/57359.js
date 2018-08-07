@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57359"]={"code":"57359","region":"SD","city":"Letcher","latitude":43.8923,"longitude":-98.1743}}(window,'GeoPostal','US');

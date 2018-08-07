@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403381"]={"code":"403381","region":"Volgogradskaya oblast'","city":"Danilovka","latitude":50.35573,"longitude":44.11681}}(window,'GeoPostal','RU');

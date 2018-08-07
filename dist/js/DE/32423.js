@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32423"]={"code":"32423","region":"Nordrhein-Westfalen","city":"Minden","latitude":52.28953,"longitude":8.91455}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80-871"]={"code":"80-871","region":"Mazowieckie","city":"Ciechanow","latitude":52.88141,"longitude":20.61996}}(window,'GeoPostal','PL');

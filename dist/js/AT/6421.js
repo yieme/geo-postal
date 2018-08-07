@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6421"]={"code":"6421","region":"Tirol","city":"Rietz","latitude":47.28333,"longitude":11.05}}(window,'GeoPostal','AT');

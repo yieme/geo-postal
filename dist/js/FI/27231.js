@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27231"]={"code":"27231","region":"Pohjois-Pohjanmaa","city":"Lappi","latitude":64.85973,"longitude":25.14616}}(window,'GeoPostal','FI');

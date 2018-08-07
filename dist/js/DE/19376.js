@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19376"]={"code":"19376","region":"Mecklenburg-Vorpommern","city":"Mentin","latitude":53.29549,"longitude":11.9545}}(window,'GeoPostal','DE');

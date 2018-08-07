@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59880"]={"code":"59880","region":"Hauts-de-France","city":"Saint-Saulve","latitude":50.37141,"longitude":3.55612}}(window,'GeoPostal','FR');

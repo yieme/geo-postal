@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6347"]={"code":"6347","region":"La Union","city":"San Fernando","latitude":16.61591,"longitude":120.31663}}(window,'GeoPostal','PH');

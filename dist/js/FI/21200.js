@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21200"]={"code":"21200","region":"Varsinais-Suomi","city":"Raisio","latitude":60.48592,"longitude":22.16895}}(window,'GeoPostal','FI');

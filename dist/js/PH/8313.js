@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8313"]={"code":"8313","region":"Aklan","city":"Lalab","latitude":11.5749,"longitude":122.4284}}(window,'GeoPostal','PH');

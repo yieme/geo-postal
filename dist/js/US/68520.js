@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68520"]={"code":"68520","region":"Nebraska","city":"Lincoln","latitude":40.795301,"longitude":-96.585029}}(window,'GeoPostal','US');

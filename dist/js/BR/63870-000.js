@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63870-000"]={"code":"63870-000","region":"Ceara","city":"Boa Viagem","latitude":-5.1275,"longitude":-39.73222}}(window,'GeoPostal','BR');

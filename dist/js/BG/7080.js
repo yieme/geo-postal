@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7080"]={"code":"7080","region":"Ruse","city":"Vetovo","latitude":43.7,"longitude":26.26667}}(window,'GeoPostal','BG');

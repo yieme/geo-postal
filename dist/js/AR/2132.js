@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2132"]={"code":"2132","region":"Santa Fe","city":"Funes","latitude":-32.91568,"longitude":-60.80995}}(window,'GeoPostal','AR');

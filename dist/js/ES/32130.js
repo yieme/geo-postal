@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32130"]={"code":"32130","region":"Galicia","city":"Cea","latitude":42.4749,"longitude":-7.98739}}(window,'GeoPostal','ES');

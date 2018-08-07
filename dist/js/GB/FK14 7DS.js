@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK14 7DS"]={"code":"FK14 7DS","region":"Scotland","city":"Dollar","latitude":56.16245,"longitude":-3.67135}}(window,'GeoPostal','GB');

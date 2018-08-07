@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67017"]={"code":"67017","region":"KS","city":"Benton","latitude":37.7946,"longitude":-97.0971}}(window,'GeoPostal','US');

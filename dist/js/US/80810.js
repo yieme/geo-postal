@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80810"]={"code":"80810","region":"Colorado","city":"Cheyenne Wells","latitude":38.84911,"longitude":-102.380204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13825"]={"code":"13825","region":"New York","city":"Otego","latitude":42.3973,"longitude":-75.1735}}(window,'GeoPostal','US');

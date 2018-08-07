@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27268"]={"code":"27268","region":"Galicia","city":"Mos","latitude":43.15667,"longitude":-7.55047}}(window,'GeoPostal','ES');

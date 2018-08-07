@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307380"]={"code":"307380","region":"Timis","city":"Sanmihaiu Roman","latitude":45.70444,"longitude":21.08889}}(window,'GeoPostal','RO');

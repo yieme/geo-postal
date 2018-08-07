@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63580-000"]={"code":"63580-000","region":"Ceara","city":"Jucas","latitude":-6.52528,"longitude":-39.5275}}(window,'GeoPostal','BR');

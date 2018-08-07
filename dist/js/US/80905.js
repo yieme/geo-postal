@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80905"]={"code":"80905","region":"CO","city":"Colorado Springs","latitude":38.8377,"longitude":-104.837}}(window,'GeoPostal','US');

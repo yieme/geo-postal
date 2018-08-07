@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["207541"]={"code":"207541","region":"Arges","city":"Bascov","latitude":44.9,"longitude":24.81667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35172"]={"code":"35172","region":"AL","city":"Trafford","latitude":33.819,"longitude":-86.7434}}(window,'GeoPostal','US');

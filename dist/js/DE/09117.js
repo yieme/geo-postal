@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09117"]={"code":"09117","region":"Sachsen","city":"Rabenstein","latitude":50.82442,"longitude":12.84399}}(window,'GeoPostal','DE');

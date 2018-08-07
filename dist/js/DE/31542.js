@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31542"]={"code":"31542","region":"Niedersachsen","city":"Nenndorf","latitude":52.82811,"longitude":8.95174}}(window,'GeoPostal','DE');

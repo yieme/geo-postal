@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07000"]={"code":"07000","region":"El Callao","city":"Callao","latitude":-12.06667,"longitude":-77.15}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20912"]={"code":"20912","region":"Maryland","city":"Silver Spring","latitude":38.98236,"longitude":-77.00358}}(window,'GeoPostal','US');

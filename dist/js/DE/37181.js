@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37181"]={"code":"37181","region":"Niedersachsen","city":"Hardegsen","latitude":51.65227,"longitude":9.8305}}(window,'GeoPostal','DE');

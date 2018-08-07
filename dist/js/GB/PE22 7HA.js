@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 7HA"]={"code":"PE22 7HA","region":"England","city":"Frithville","latitude":53.0374,"longitude":-0.03874}}(window,'GeoPostal','GB');

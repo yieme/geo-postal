@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57025"]={"code":"57025","region":"Toscana","city":"Piombino","latitude":42.93482,"longitude":10.52212}}(window,'GeoPostal','IT');

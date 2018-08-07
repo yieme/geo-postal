@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74949"]={"code":"74949","region":"Oklahoma","city":"Muse","latitude":34.678447,"longitude":-94.692439}}(window,'GeoPostal','US');

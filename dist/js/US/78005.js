@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78005"]={"code":"78005","region":"TX","city":"Bigfoot","latitude":29.0531,"longitude":-98.8582}}(window,'GeoPostal','US');

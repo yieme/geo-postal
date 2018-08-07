@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0R 1R0"]={"code":"N0R 1R0","region":"Ontario","city":"Lakeshore","latitude":42.23338,"longitude":-82.64982}}(window,'GeoPostal','CA');

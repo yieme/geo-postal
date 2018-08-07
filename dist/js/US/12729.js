@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12729"]={"code":"12729","region":"NY","city":"Cuddebackville","latitude":41.4776,"longitude":-74.5976}}(window,'GeoPostal','US');

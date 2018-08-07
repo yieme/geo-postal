@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19933"]={"code":"19933","region":"Delaware","city":"Bridgeville","latitude":38.737324,"longitude":-75.592786}}(window,'GeoPostal','US');

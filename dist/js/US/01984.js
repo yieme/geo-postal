@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01984"]={"code":"01984","region":"Massachusetts","city":"Wenham","latitude":42.603641,"longitude":-70.889279}}(window,'GeoPostal','US');

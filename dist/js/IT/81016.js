@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81016"]={"code":"81016","region":"Campania","city":"San Potito Sannitico","latitude":41.33852,"longitude":14.39213}}(window,'GeoPostal','IT');

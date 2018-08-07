@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20159"]={"code":"20159","region":"VA","city":"Hamilton","latitude":39.1339,"longitude":-77.6621}}(window,'GeoPostal','US');

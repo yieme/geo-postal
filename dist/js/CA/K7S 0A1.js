@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K7S 0A1"]={"code":"K7S 0A1","region":"Ontario","city":"Arnprior","latitude":45.43341,"longitude":-76.34939}}(window,'GeoPostal','CA');

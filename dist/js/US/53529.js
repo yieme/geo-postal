@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53529"]={"code":"53529","region":"WI","city":"Dane","latitude":43.2424,"longitude":-89.5117}}(window,'GeoPostal','US');

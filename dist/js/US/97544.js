@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97544"]={"code":"97544","region":"OR","city":"Williams","latitude":42.223,"longitude":-123.2829}}(window,'GeoPostal','US');

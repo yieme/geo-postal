@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 3ES"]={"code":"BB7 3ES","region":"England","city":"Slaidburn","latitude":53.96618,"longitude":-2.4383}}(window,'GeoPostal','GB');

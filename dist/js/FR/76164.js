@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76164"]={"code":"76164","region":"Normandie","city":"Darnetal","latitude":49.44533,"longitude":1.15144}}(window,'GeoPostal','FR');

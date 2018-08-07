@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52499"]={"code":"52499","region":"Nordrhein-Westfalen","city":"Baesweiler","latitude":50.90964,"longitude":6.18874}}(window,'GeoPostal','DE');

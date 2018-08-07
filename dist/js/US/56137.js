@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56137"]={"code":"56137","region":"Minnesota","city":"Heron Lake","latitude":43.792886,"longitude":-95.319093}}(window,'GeoPostal','US');

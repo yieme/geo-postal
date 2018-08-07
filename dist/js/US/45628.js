@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45628"]={"code":"45628","region":"OH","city":"Frankfort","latitude":39.391,"longitude":-83.2034}}(window,'GeoPostal','US');

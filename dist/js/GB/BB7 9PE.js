@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 9PE"]={"code":"BB7 9PE","region":"England","city":"Clitheroe","latitude":53.86667,"longitude":-2.4}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1408"]={"code":"1408","region":"Gegark'unik'","city":"T'azagyugh","latitude":40.1382,"longitude":45.19096}}(window,'GeoPostal','AM');

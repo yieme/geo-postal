@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41338"]={"code":"41338","region":"Kentucky","city":"Island City","latitude":37.389926,"longitude":-83.717513}}(window,'GeoPostal','US');

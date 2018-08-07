@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63563"]={"code":"63563","region":"MO","city":"Rutledge","latitude":40.329,"longitude":-92.0976}}(window,'GeoPostal','US');

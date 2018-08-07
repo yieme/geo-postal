@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96944"]={"code":"96944","region":"FM","city":"Kosrae","latitude":5.29,"longitude":162.97}}(window,'GeoPostal','US');

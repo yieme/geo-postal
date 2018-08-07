@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175207"]={"code":"175207","region":"Novgorodskaya oblast'","city":"Staraya Russa","latitude":57.99439,"longitude":31.36081}}(window,'GeoPostal','RU');

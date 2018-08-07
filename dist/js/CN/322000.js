@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["322000"]={"code":"322000","region":"Zhejiang","city":"Yiwu","latitude":29.31506,"longitude":120.07676}}(window,'GeoPostal','CN');

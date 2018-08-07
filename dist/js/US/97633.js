@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97633"]={"code":"97633","region":"OR","city":"Merrill","latitude":42.0295,"longitude":-121.5985}}(window,'GeoPostal','US');

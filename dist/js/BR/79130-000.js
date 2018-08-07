@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79130-000"]={"code":"79130-000","region":"Mato Grosso do Sul","city":"Rio Brilhante","latitude":-21.80194,"longitude":-54.54639}}(window,'GeoPostal','BR');

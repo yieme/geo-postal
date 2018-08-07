@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671 25"]={"code":"671 25","region":"Jihomoravsky kraj","city":"Hodonice","latitude":48.8368,"longitude":16.16337}}(window,'GeoPostal','CZ');

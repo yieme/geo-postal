@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL68 9AN"]={"code":"LL68 9AN","region":"Wales","city":"Amlwch","latitude":53.40986,"longitude":-4.34712}}(window,'GeoPostal','GB');

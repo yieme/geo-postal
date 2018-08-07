@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69510"]={"code":"69510","region":"Keski-Pohjanmaa","city":"Halsua","latitude":63.46667,"longitude":24.16667}}(window,'GeoPostal','FI');

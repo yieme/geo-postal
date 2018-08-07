@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26615"]={"code":"26615","region":"WV","city":"Copen","latitude":38.8376,"longitude":-80.7295}}(window,'GeoPostal','US');

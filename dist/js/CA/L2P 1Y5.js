@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L2P 1Y5"]={"code":"L2P 1Y5","region":"Ontario","city":"Port Weller","latitude":43.15789,"longitude":-79.208012}}(window,'GeoPostal','CA');

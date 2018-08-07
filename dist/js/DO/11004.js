@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11004"]={"code":"11004","region":"Dajabon","city":"Partido","latitude":19.48403,"longitude":-71.5473}}(window,'GeoPostal','DO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27542"]={"code":"27542","region":"North Carolina","city":"Kenly","latitude":35.59627,"longitude":-78.12416}}(window,'GeoPostal','US');

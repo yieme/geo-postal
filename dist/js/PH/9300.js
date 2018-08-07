@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9300"]={"code":"9300","region":"Lanao del Sur","city":"Malabang","latitude":7.59028,"longitude":124.07028}}(window,'GeoPostal','PH');

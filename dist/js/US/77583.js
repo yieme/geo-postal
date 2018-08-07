@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77583"]={"code":"77583","region":"TX","city":"Rosharon","latitude":29.4203,"longitude":-95.4537}}(window,'GeoPostal','US');

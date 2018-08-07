@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69168"]={"code":"69168","region":"NE","city":"Venango","latitude":40.8073,"longitude":-101.9839}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38790"]={"code":"38790","region":"Auvergne-Rhone-Alpes","city":"Saint-Georges-d'Esperanche","latitude":45.5567,"longitude":5.0783}}(window,'GeoPostal','FR');

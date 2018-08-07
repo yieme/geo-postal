@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81100"]={"code":"81100","region":"Erzurum","city":"Erzurum","latitude":39.90861,"longitude":41.27694}}(window,'GeoPostal','TR');

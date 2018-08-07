@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59824"]={"code":"59824","region":"Montana","city":"Charlo","latitude":47.44,"longitude":-114.17306}}(window,'GeoPostal','US');

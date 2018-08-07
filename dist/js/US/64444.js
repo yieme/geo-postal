@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64444"]={"code":"64444","region":"MO","city":"Edgerton","latitude":39.4742,"longitude":-94.6352}}(window,'GeoPostal','US');

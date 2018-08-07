@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36043"]={"code":"36043","region":"Alabama","city":"Hope Hull","latitude":32.232264,"longitude":-86.3675}}(window,'GeoPostal','US');

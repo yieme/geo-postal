@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51801"]={"code":"51801","region":"Grand-Est","city":"Sainte-Menehould","latitude":49.08333,"longitude":4.9}}(window,'GeoPostal','FR');

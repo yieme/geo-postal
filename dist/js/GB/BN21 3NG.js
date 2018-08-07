@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN21 3NG"]={"code":"BN21 3NG","region":"England","city":"Eastbourne","latitude":50.76871,"longitude":0.28453}}(window,'GeoPostal','GB');

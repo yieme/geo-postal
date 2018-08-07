@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55120"]={"code":"55120","region":"Nan","city":"Pua","latitude":19.17503,"longitude":100.91622}}(window,'GeoPostal','TH');

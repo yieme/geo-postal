@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64060"]={"code":"64060","region":"Sodermanlands lan","city":"Akers Styckebruk","latitude":59.25,"longitude":17.08333}}(window,'GeoPostal','SE');

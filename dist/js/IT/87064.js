@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87064"]={"code":"87064","region":"Calabria","city":"Corigliano Calabro","latitude":39.595,"longitude":16.5177}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33240"]={"code":"33240","region":"Nouvelle-Aquitaine","city":"Verac","latitude":44.9922,"longitude":-0.34}}(window,'GeoPostal','FR');

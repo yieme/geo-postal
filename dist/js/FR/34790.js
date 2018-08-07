@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34790"]={"code":"34790","region":"Occitanie","city":"Grabels","latitude":43.64797,"longitude":3.79864}}(window,'GeoPostal','FR');

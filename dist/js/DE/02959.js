@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02959"]={"code":"02959","region":"Sachsen","city":"Schleife","latitude":51.53333,"longitude":14.53333}}(window,'GeoPostal','DE');

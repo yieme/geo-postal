@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157460"]={"code":"157460","region":"Kostromskaya oblast'","city":"Makar'yev","latitude":57.88501,"longitude":43.8049}}(window,'GeoPostal','RU');

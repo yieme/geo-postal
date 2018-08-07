@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39189"]={"code":"39189","region":"Mississippi","city":"Walnut Grove","latitude":32.59042,"longitude":-89.4584}}(window,'GeoPostal','US');

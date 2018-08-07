@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89447"]={"code":"89447","region":"Nevada","city":"Yerington","latitude":38.98575,"longitude":-119.16293}}(window,'GeoPostal','US');

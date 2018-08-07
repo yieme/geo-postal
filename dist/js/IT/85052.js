@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85052"]={"code":"85052","region":"Basilicata","city":"Marsico Nuovo","latitude":40.42301,"longitude":15.73487}}(window,'GeoPostal','IT');

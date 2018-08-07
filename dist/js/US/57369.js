@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57369"]={"code":"57369","region":"South Dakota","city":"Platte","latitude":43.38694,"longitude":-98.84453}}(window,'GeoPostal','US');

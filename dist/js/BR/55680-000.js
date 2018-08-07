@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55680-000"]={"code":"55680-000","region":"Pernambuco","city":"Bonito","latitude":-8.47028,"longitude":-35.72861}}(window,'GeoPostal','BR');

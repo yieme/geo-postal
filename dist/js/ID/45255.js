@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45255"]={"code":"45255","region":"Jawa Barat","city":"Masjid Jamie Baitul Muttaqien","latitude":-6.36836,"longitude":107.9558}}(window,'GeoPostal','ID');

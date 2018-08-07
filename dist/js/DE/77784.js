@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77784"]={"code":"77784","region":"Baden-Wurttemberg","city":"Oberharmersbach","latitude":48.37358,"longitude":8.12542}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34685"]={"code":"34685","region":"Florida","city":"Palm Harbor","latitude":28.1041,"longitude":-82.6789}}(window,'GeoPostal','US');

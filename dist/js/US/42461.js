@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42461"]={"code":"42461","region":"KY","city":"Uniontown","latitude":37.7677,"longitude":-87.9263}}(window,'GeoPostal','US');

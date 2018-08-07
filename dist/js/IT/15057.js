@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15057"]={"code":"15057","region":"Piemonte","city":"Tortona","latitude":44.89784,"longitude":8.86374}}(window,'GeoPostal','IT');

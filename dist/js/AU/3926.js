@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3926"]={"code":"3926","region":"Victoria","city":"Balnarring","latitude":-38.36667,"longitude":145.13333}}(window,'GeoPostal','AU');

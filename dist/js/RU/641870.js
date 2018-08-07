@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641870"]={"code":"641870","region":"Bryanskaya oblast'","city":"Star'","latitude":53.62362,"longitude":34.15183}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32970"]={"code":"32970","region":"FL","city":"Wabasso","latitude":27.7484,"longitude":-80.4362}}(window,'GeoPostal','US');

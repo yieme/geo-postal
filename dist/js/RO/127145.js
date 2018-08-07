@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127145"]={"code":"127145","region":"Buzau","city":"Catina","latitude":45.3,"longitude":26.25}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37501"]={"code":"37501","region":"Pirkanmaa","city":"Lempaala","latitude":61.31667,"longitude":23.75}}(window,'GeoPostal','FI');

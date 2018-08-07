@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1682"]={"code":"1682","region":"Ostfold","city":"Skjaerhalden","latitude":59.02526,"longitude":11.03685}}(window,'GeoPostal','NO');

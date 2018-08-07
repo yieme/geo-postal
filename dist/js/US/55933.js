@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55933"]={"code":"55933","region":"MN","city":"Elkton","latitude":43.6348,"longitude":-92.7104}}(window,'GeoPostal','US');

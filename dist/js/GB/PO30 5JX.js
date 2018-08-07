@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 5JX"]={"code":"PO30 5JX","region":"England","city":"Carisbrooke","latitude":50.69276,"longitude":-1.3175}}(window,'GeoPostal','GB');

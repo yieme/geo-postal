@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78623"]={"code":"78623","region":"TX","city":"Fischer","latitude":29.9627,"longitude":-98.2088}}(window,'GeoPostal','US');

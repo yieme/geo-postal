@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80812"]={"code":"80812","region":"Colorado","city":"Cope","latitude":39.689287,"longitude":-102.877868}}(window,'GeoPostal','US');

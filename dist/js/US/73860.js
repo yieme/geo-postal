@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73860"]={"code":"73860","region":"Oklahoma","city":"Waynoka","latitude":36.584644,"longitude":-98.878531}}(window,'GeoPostal','US');

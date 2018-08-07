@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["750 02"]={"code":"750 02","region":"Olomoucky kraj","city":"Prerov","latitude":49.45511,"longitude":17.4509}}(window,'GeoPostal','CZ');

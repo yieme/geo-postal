@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26736"]={"code":"26736","region":"Niedersachsen","city":"Jennelt","latitude":53.46218,"longitude":7.13167}}(window,'GeoPostal','DE');

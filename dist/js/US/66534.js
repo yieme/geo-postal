@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66534"]={"code":"66534","region":"Kansas","city":"Sabetha","latitude":39.90222,"longitude":-95.80082}}(window,'GeoPostal','US');

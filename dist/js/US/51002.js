@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51002"]={"code":"51002","region":"Iowa","city":"Alta","latitude":42.670687,"longitude":-95.304332}}(window,'GeoPostal','US');

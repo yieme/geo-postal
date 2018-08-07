@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15229"]={"code":"15229","region":"Auvergne-Rhone-Alpes","city":"Saint-Mamet-la-Salvetat","latitude":44.85765,"longitude":2.30616}}(window,'GeoPostal','FR');

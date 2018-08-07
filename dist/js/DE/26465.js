@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26465"]={"code":"26465","region":"Niedersachsen","city":"Langeoog","latitude":53.75,"longitude":7.48333}}(window,'GeoPostal','DE');

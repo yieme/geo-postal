@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49965"]={"code":"49965","region":"Michigan","city":"Toivola","latitude":46.938161,"longitude":-88.851786}}(window,'GeoPostal','US');

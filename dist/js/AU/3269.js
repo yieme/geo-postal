@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3269"]={"code":"3269","region":"Victoria","city":"Port Campbell","latitude":-38.61919,"longitude":142.99583}}(window,'GeoPostal','AU');

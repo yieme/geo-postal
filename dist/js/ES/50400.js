@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50400"]={"code":"50400","region":"Aragon","city":"Carinena","latitude":41.33733,"longitude":-1.22444}}(window,'GeoPostal','ES');

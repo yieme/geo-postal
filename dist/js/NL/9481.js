@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9481"]={"code":"9481","region":"Drenthe","city":"Vries","latitude":53.07417,"longitude":6.57778}}(window,'GeoPostal','NL');

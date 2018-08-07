@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["272302"]={"code":"272302","region":"Uttar Pradesh","city":"Tanda","latitude":26.55,"longitude":82.65}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37315"]={"code":"37315","region":"Tennessee","city":"Collegedale","latitude":35.046596,"longitude":-85.044662}}(window,'GeoPostal','US');

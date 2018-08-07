@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["074-0001"]={"code":"074-0001","region":"Hokkaido","city":"Fukagawa","latitude":43.71778,"longitude":142.04028}}(window,'GeoPostal','JP');

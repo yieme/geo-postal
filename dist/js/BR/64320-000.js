@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64320-000"]={"code":"64320-000","region":"Piaui","city":"Pimenteiras","latitude":-6.24528,"longitude":-41.41917}}(window,'GeoPostal','BR');

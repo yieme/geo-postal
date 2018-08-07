@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145022"]={"code":"145022","region":"Punjab","city":"Bakloh","latitude":32.46667,"longitude":75.91667}}(window,'GeoPostal','IN');

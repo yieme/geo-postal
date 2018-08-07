@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH62 2DN"]={"code":"CH62 2DN","region":"England","city":"Wirral","latitude":53.37616,"longitude":-3.10501}}(window,'GeoPostal','GB');

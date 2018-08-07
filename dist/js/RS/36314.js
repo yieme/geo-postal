@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36314"]={"code":"36314","region":"Toplicki okrug","city":"Sokolovica","latitude":43.21528,"longitude":20.31556}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["882-0845"]={"code":"882-0845","region":"Miyazaki","city":"Nobeoka","latitude":32.583,"longitude":131.667}}(window,'GeoPostal','JP');

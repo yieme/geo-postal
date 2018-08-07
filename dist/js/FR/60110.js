@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60110"]={"code":"60110","region":"Hauts-de-France","city":"Esches","latitude":49.22086,"longitude":2.16595}}(window,'GeoPostal','FR');

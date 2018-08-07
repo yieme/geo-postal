@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2919"]={"code":"2919","region":"Santa Fe","city":"Villa Constitucion","latitude":-33.22778,"longitude":-60.3297}}(window,'GeoPostal','AR');

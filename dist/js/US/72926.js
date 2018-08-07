@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72926"]={"code":"72926","region":"Arkansas","city":"Boles","latitude":34.714234,"longitude":-94.025589}}(window,'GeoPostal','US');

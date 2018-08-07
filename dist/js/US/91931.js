@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91931"]={"code":"91931","region":"CA","city":"Guatay","latitude":32.8497,"longitude":-116.5583}}(window,'GeoPostal','US');

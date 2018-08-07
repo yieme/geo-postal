@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368260"]={"code":"368260","region":"Dagestan, Respublika","city":"Khunzakh","latitude":42.53944,"longitude":46.705}}(window,'GeoPostal','RU');

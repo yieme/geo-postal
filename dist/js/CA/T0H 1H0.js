@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1H0"]={"code":"T0H 1H0","region":"Alberta","city":"Eaglesham","latitude":55.78336,"longitude":-117.88599}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01477"]={"code":"01477","region":"MA","city":"Winchendon Springs","latitude":42.69,"longitude":-72.01}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV22 2JA"]={"code":"IV22 2JA","region":"Scotland","city":"Aultbea","latitude":57.84027,"longitude":-5.58475}}(window,'GeoPostal','GB');

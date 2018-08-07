@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2R 3W6"]={"code":"V2R 3W6","region":"British Columbia","city":"Chilliwack","latitude":49.099586,"longitude":-121.93093}}(window,'GeoPostal','CA');

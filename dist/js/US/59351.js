@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59351"]={"code":"59351","region":"Montana","city":"Volborg","latitude":46.034592,"longitude":-105.623546}}(window,'GeoPostal','US');

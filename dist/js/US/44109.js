@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44109"]={"code":"44109","region":"Ohio","city":"Brooklyn Heights","latitude":41.448051,"longitude":-81.69938}}(window,'GeoPostal','US');

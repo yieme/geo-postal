@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94138"]={"code":"94138","region":"CA","city":"Wells Fargo Bank","latitude":37.79,"longitude":-122.4}}(window,'GeoPostal','US');

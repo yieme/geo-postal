@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4753"]={"code":"4753","region":"Queensland","city":"Marian","latitude":-21.14386,"longitude":148.94209}}(window,'GeoPostal','AU');

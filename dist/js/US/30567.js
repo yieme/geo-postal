@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30567"]={"code":"30567","region":"GA","city":"Pendergrass","latitude":34.1796,"longitude":-83.6634}}(window,'GeoPostal','US');

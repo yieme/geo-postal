@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5631"]={"code":"5631","region":"Bekes","city":"Bekes","latitude":46.76667,"longitude":21.13333}}(window,'GeoPostal','HU');

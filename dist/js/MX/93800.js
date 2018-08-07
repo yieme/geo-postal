@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93800"]={"code":"93800","region":"Veracruz de Ignacio de la Llave","city":"Nautla","latitude":20.21667,"longitude":-96.78333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 4C0"]={"code":"S0H 4C0","region":"Saskatchewan","city":"Parkview","latitude":50.61676,"longitude":-105.45115}}(window,'GeoPostal','CA');

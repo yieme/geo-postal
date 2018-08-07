@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17410"]={"code":"17410","region":"Catalunya","city":"Sils","latitude":41.80842,"longitude":2.74508}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["087200"]={"code":"087200","region":"Olt","city":"Schitu","latitude":44.14083,"longitude":25.83667}}(window,'GeoPostal','RO');

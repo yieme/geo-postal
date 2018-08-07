@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24090"]={"code":"24090","region":"VA","city":"Fincastle","latitude":37.4911,"longitude":-79.8511}}(window,'GeoPostal','US');

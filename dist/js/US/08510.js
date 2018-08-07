@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08510"]={"code":"08510","region":"New Jersey","city":"Clarksburg","latitude":40.1898,"longitude":-74.4414}}(window,'GeoPostal','US');

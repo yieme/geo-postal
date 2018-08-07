@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 87"]={"code":"747 87","region":"Moravskoslezsky kraj","city":"Budisov nad Budisovkou","latitude":49.79511,"longitude":17.62969}}(window,'GeoPostal','CZ');

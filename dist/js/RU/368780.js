@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368780"]={"code":"368780","region":"Dagestan, Respublika","city":"Magaramkent","latitude":41.61586,"longitude":48.34796}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 1A0"]={"code":"R0E 1A0","region":"Manitoba","city":"Lac du Bonnet","latitude":50.2536,"longitude":-96.06116}}(window,'GeoPostal','CA');

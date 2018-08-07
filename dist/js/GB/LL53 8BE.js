@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 8BE"]={"code":"LL53 8BE","region":"Wales","city":"Aberdaron","latitude":52.80449,"longitude":-4.71164}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69336"]={"code":"69336","region":"Nebraska","city":"Bridgeport","latitude":41.66525,"longitude":-103.0991}}(window,'GeoPostal','US');

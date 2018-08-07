@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 4UJ"]={"code":"DD11 4UJ","region":"Scotland","city":"Kinnell","latitude":56.64405,"longitude":-2.6377}}(window,'GeoPostal','GB');

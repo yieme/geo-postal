@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72532"]={"code":"72532","region":"Baden-Wurttemberg","city":"Gomadingen","latitude":48.3998,"longitude":9.39065}}(window,'GeoPostal','DE');

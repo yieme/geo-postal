@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49653"]={"code":"49653","region":"MI","city":"Lake Leelanau","latitude":44.9856,"longitude":-85.7329}}(window,'GeoPostal','US');

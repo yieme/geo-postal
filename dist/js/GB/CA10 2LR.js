@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA10 2LR"]={"code":"CA10 2LR","region":"England","city":"Keldhead","latitude":54.63333,"longitude":-2.8}}(window,'GeoPostal','GB');

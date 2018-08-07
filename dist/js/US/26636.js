@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26636"]={"code":"26636","region":"WV","city":"Rosedale","latitude":38.7393,"longitude":-80.9429}}(window,'GeoPostal','US');

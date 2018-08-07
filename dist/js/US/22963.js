@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22963"]={"code":"22963","region":"Virginia","city":"Palmyra","latitude":37.86097,"longitude":-78.26334}}(window,'GeoPostal','US');

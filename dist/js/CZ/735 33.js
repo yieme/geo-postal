@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735 33"]={"code":"735 33","region":"Moravskoslezsky kraj","city":"Doubrava","latitude":49.85873,"longitude":18.48018}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57563"]={"code":"57563","region":"SD","city":"Okreek","latitude":43.3633,"longitude":-100.3809}}(window,'GeoPostal','US');

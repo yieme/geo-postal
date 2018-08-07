@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39039"]={"code":"39039","region":"Bourgogne-Franche-Comte","city":"Lons-le-Saunier","latitude":46.66667,"longitude":5.55}}(window,'GeoPostal','FR');

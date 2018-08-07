@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94120"]={"code":"94120","region":"Ile-de-France","city":"Fontenay-sous-Bois","latitude":48.85442,"longitude":2.48268}}(window,'GeoPostal','FR');

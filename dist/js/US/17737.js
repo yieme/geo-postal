@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17737"]={"code":"17737","region":"PA","city":"Hughesville","latitude":41.256,"longitude":-76.7141}}(window,'GeoPostal','US');

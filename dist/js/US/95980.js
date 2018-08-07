@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95980"]={"code":"95980","region":"CA","city":"Storrie","latitude":39.9175,"longitude":-121.3222}}(window,'GeoPostal','US');

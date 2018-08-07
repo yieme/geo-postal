@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86072"]={"code":"86072","region":"Molise","city":"Cerro al Volturno","latitude":41.65592,"longitude":14.10232}}(window,'GeoPostal','IT');

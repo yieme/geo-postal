@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237200"]={"code":"237200","region":"Anhui","city":"Hengshan","latitude":31.40802,"longitude":116.31866}}(window,'GeoPostal','CN');

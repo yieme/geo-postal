@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05015"]={"code":"05015","region":"Umbria","city":"Fabro","latitude":42.87524,"longitude":12.01715}}(window,'GeoPostal','IT');

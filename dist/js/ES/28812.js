@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28812"]={"code":"28812","region":"Madrid, Comunidad de","city":"Pezuela de las Torres","latitude":40.41613,"longitude":-3.17363}}(window,'GeoPostal','ES');

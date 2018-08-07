@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07825"]={"code":"07825","region":"New Jersey","city":"Blairstown","latitude":40.97802,"longitude":-74.95776}}(window,'GeoPostal','US');

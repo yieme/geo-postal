@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56128"]={"code":"56128","region":"Minnesota","city":"Edgerton","latitude":43.87247,"longitude":-96.12864}}(window,'GeoPostal','US');

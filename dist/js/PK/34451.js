@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34451"]={"code":"34451","region":"Punjab","city":"Alipur","latitude":29.38464,"longitude":70.91157}}(window,'GeoPostal','PK');

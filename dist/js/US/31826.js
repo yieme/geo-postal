@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31826"]={"code":"31826","region":"GA","city":"Shiloh","latitude":32.8101,"longitude":-84.696}}(window,'GeoPostal','US');

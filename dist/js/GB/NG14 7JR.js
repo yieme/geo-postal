@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG14 7JR"]={"code":"NG14 7JR","region":"England","city":"Hoveringham","latitude":53.01289,"longitude":-0.95941}}(window,'GeoPostal','GB');

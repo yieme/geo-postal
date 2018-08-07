@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 1TU"]={"code":"CB10 1TU","region":"England","city":"Little Chesterford","latitude":52.05392,"longitude":0.21054}}(window,'GeoPostal','GB');

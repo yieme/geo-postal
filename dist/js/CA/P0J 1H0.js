@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1H0"]={"code":"P0J 1H0","region":"Ontario","city":"Englehart","latitude":47.81686,"longitude":-79.8664}}(window,'GeoPostal','CA');

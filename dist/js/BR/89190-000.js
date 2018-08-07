@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89190-000"]={"code":"89190-000","region":"Santa Catarina","city":"Taio","latitude":-27.115982,"longitude":-49.99624}}(window,'GeoPostal','BR');

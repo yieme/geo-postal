@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28500"]={"code":"28500","region":"Centre-Val de Loire","city":"Crecy-Couve","latitude":48.6697,"longitude":1.2822}}(window,'GeoPostal','FR');

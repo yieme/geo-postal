@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24089"]={"code":"24089","region":"Virginia","city":"Fieldale","latitude":36.704328,"longitude":-79.940917}}(window,'GeoPostal','US');

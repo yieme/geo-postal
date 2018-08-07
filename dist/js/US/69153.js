@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69153"]={"code":"69153","region":"Nebraska","city":"Ogallala","latitude":41.12805,"longitude":-101.71962}}(window,'GeoPostal','US');

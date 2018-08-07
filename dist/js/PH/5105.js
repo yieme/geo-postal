@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5105"]={"code":"5105","region":"Laguna","city":"Maulawin","latitude":14.26667,"longitude":121.43333}}(window,'GeoPostal','PH');

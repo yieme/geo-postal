@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27342"]={"code":"27342","region":"NC","city":"Sedalia","latitude":36.0756,"longitude":-79.6206}}(window,'GeoPostal','US');

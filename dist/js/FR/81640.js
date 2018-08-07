@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81640"]={"code":"81640","region":"Occitanie","city":"Monesties","latitude":44.06667,"longitude":2.1}}(window,'GeoPostal','FR');

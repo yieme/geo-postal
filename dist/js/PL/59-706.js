@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-706"]={"code":"59-706","region":"Dolnoslaskie","city":"Gromadka","latitude":51.36063,"longitude":15.76452}}(window,'GeoPostal','PL');

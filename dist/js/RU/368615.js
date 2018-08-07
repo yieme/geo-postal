@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368615"]={"code":"368615","region":"Dagestan, Respublika","city":"Belidzhi","latitude":41.89184,"longitude":48.41247}}(window,'GeoPostal','RU');

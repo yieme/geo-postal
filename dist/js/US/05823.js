@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05823"]={"code":"05823","region":"VT","city":"Beebe Plain","latitude":45.0058,"longitude":-72.1383}}(window,'GeoPostal','US');

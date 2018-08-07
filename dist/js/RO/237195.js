@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237195"]={"code":"237195","region":"Vaslui","city":"Islaz","latitude":43.73333,"longitude":24.75}}(window,'GeoPostal','RO');

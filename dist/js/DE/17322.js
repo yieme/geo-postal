@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17322"]={"code":"17322","region":"Mecklenburg-Vorpommern","city":"Gorkow","latitude":53.48713,"longitude":14.1715}}(window,'GeoPostal','DE');

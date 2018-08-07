@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["021318"]={"code":"021318","region":"Nei Mongol","city":"Altan Emel","latitude":48.66667,"longitude":116.83333}}(window,'GeoPostal','CN');

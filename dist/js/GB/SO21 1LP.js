@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO21 1LP"]={"code":"SO21 1LP","region":"England","city":"Owslebury","latitude":51.00857,"longitude":-1.26738}}(window,'GeoPostal','GB');

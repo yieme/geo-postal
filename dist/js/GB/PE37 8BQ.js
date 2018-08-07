@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE37 8BQ"]={"code":"PE37 8BQ","region":"England","city":"Beachamwell","latitude":52.61792,"longitude":0.58428}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WD7 8EN"]={"code":"WD7 8EN","region":"England","city":"Leavesden Green","latitude":51.69022,"longitude":-0.33405}}(window,'GeoPostal','GB');

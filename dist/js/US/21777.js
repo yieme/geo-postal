@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21777"]={"code":"21777","region":"Maryland","city":"Point of Rocks","latitude":39.27594,"longitude":-77.53915}}(window,'GeoPostal','US');

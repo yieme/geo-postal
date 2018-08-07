@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3505-539"]={"code":"3505-539","region":"Viseu","city":"Rio de Loba","latitude":40.66596,"longitude":-7.87781}}(window,'GeoPostal','PT');

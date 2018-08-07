@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 5NR"]={"code":"NG23 5NR","region":"England","city":"Elston","latitude":53.01667,"longitude":-0.86667}}(window,'GeoPostal','GB');

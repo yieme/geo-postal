@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98647"]={"code":"98647","region":"WA","city":"Skamokawa","latitude":46.2952,"longitude":-123.4332}}(window,'GeoPostal','US');

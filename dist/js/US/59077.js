@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59077"]={"code":"59077","region":"MT","city":"Sand Springs","latitude":47.1008,"longitude":-107.4856}}(window,'GeoPostal','US');

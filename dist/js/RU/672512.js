@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["672512"]={"code":"672512","region":"Zabaykal'skiy kray","city":"Smolenka","latitude":52.13523,"longitude":113.4974}}(window,'GeoPostal','RU');

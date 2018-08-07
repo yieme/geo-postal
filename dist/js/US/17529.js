@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17529"]={"code":"17529","region":"PA","city":"Gordonville","latitude":40.0353,"longitude":-76.1106}}(window,'GeoPostal','US');

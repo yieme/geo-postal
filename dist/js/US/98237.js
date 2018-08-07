@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98237"]={"code":"98237","region":"Washington","city":"Concrete","latitude":48.53917,"longitude":-121.74722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6674"]={"code":"6674","region":"Luxembourg","city":"Gouvy","latitude":50.186,"longitude":5.93918}}(window,'GeoPostal','BE');

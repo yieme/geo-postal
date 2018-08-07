@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97503"]={"code":"97503","region":"OR","city":"White City","latitude":42.4319,"longitude":-122.8296}}(window,'GeoPostal','US');

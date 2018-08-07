@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA5 4PR"]={"code":"WA5 4PR","region":"England","city":"Burtonwood","latitude":53.42948,"longitude":-2.65852}}(window,'GeoPostal','GB');

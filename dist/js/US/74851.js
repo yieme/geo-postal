@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74851"]={"code":"74851","region":"Oklahoma","city":"McLoud","latitude":35.4255,"longitude":-97.1046}}(window,'GeoPostal','US');

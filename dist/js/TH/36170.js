@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36170"]={"code":"36170","region":"Chaiyaphum","city":"Chaiyaphum","latitude":15.81047,"longitude":102.02881}}(window,'GeoPostal','TH');

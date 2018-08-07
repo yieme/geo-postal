@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22729"]={"code":"22729","region":"Aragon","city":"Fago","latitude":42.7344,"longitude":-0.88131}}(window,'GeoPostal','ES');

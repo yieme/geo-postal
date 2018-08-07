@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 0QB"]={"code":"DN20 0QB","region":"England","city":"Saxby All Saints","latitude":53.63726,"longitude":-0.503}}(window,'GeoPostal','GB');

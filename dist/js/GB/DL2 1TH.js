@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 1TH"]={"code":"DL2 1TH","region":"England","city":"Long Newton","latitude":54.53333,"longitude":-1.41667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735122"]={"code":"735122","region":"West Bengal","city":"Haldibari","latitude":26.33333,"longitude":88.76667}}(window,'GeoPostal','IN');

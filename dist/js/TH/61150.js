@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61150"]={"code":"61150","region":"Uthai Thani","city":"Sawang Arom","latitude":15.58394,"longitude":99.86089}}(window,'GeoPostal','TH');

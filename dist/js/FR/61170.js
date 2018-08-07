@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61170"]={"code":"61170","region":"Normandie","city":"Le Mele-sur-Sarthe","latitude":48.5119,"longitude":0.3556}}(window,'GeoPostal','FR');

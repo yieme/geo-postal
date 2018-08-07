@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63019"]={"code":"63019","region":"MO","city":"Crystal City","latitude":38.23,"longitude":-90.3825}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54024"]={"code":"54024","region":"Meknes-Tafilalet","city":"Khenifra","latitude":32.9391,"longitude":-5.6686}}(window,'GeoPostal','MA');

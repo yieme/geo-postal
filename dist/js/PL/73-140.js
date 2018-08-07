@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-140"]={"code":"73-140","region":"Zachodniopomorskie","city":"Insko","latitude":53.43613,"longitude":15.5502}}(window,'GeoPostal','PL');

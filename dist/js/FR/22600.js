@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22600"]={"code":"22600","region":"Bretagne","city":"Treve","latitude":48.21147,"longitude":-2.79317}}(window,'GeoPostal','FR');

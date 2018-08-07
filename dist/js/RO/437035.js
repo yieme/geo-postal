@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437035"]={"code":"437035","region":"Maramures","city":"Birsana","latitude":47.81667,"longitude":24.06667}}(window,'GeoPostal','RO');

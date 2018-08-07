@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO18 7QX"]={"code":"YO18 7QX","region":"England","city":"Thornton Dale","latitude":54.23333,"longitude":-0.71667}}(window,'GeoPostal','GB');

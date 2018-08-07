@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76329"]={"code":"76329","region":"Republika Srpska","city":"Velika Obarska","latitude":44.80528,"longitude":19.16417}}(window,'GeoPostal','BA');

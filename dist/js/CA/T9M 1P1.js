@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T9M 1P1"]={"code":"T9M 1P1","region":"Alberta","city":"Cold Lake","latitude":54.414303,"longitude":-110.209389}}(window,'GeoPostal','CA');

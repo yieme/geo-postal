@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64660-000"]={"code":"64660-000","region":"Piaui","city":"Pio IX","latitude":-6.8375,"longitude":-40.57917}}(window,'GeoPostal','BR');

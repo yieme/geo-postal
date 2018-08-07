@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3442"]={"code":"3442","region":"Victoria","city":"Woodend","latitude":-37.35469,"longitude":144.52902}}(window,'GeoPostal','AU');

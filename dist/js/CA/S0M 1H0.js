@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 1H0"]={"code":"S0M 1H0","region":"Saskatchewan","city":"Lashburn","latitude":53.13346,"longitude":-109.60151}}(window,'GeoPostal','CA');

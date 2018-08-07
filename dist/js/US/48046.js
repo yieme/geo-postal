@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48046"]={"code":"48046","region":"Michigan","city":"Mount Clemens","latitude":42.59142,"longitude":-82.88058}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26310"]={"code":"26310","region":"Juznobanatski okrug","city":"Alibunar","latitude":45.08083,"longitude":20.96583}}(window,'GeoPostal','RS');

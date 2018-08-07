@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5R 4V5"]={"code":"J5R 4V5","region":"Quebec","city":"Candiac","latitude":45.376968,"longitude":-73.504161}}(window,'GeoPostal','CA');

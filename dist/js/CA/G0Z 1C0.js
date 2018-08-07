@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Z 1C0"]={"code":"G0Z 1C0","region":"Quebec","city":"Daveluyville","latitude":46.20006,"longitude":-72.13239}}(window,'GeoPostal','CA');

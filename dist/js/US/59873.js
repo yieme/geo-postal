@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59873"]={"code":"59873","region":"Montana","city":"Thompson Falls","latitude":47.59716,"longitude":-115.34432}}(window,'GeoPostal','US');

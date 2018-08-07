@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18110"]={"code":"18110","region":"Saraburi","city":"Kaeng Khoi","latitude":14.58617,"longitude":100.99758}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77338"]={"code":"77338","region":"Texas","city":"Humble","latitude":30.0041,"longitude":-95.2778}}(window,'GeoPostal','US');

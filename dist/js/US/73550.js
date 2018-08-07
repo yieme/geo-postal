@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73550"]={"code":"73550","region":"Oklahoma","city":"Hollis","latitude":34.68839,"longitude":-99.91205}}(window,'GeoPostal','US');

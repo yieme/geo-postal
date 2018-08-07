@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22063"]={"code":"22063","region":"Lombardia","city":"Cantu","latitude":45.72938,"longitude":9.14054}}(window,'GeoPostal','IT');

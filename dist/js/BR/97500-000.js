@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97500-000"]={"code":"97500-000","region":"Rio Grande do Sul","city":"Uruguaiana","latitude":-29.75472,"longitude":-57.08833}}(window,'GeoPostal','BR');

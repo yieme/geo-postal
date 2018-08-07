@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27017"]={"code":"27017","region":"North Carolina","city":"Dobson","latitude":36.39569,"longitude":-80.72257}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 3AG"]={"code":"IP17 3AG","region":"England","city":"Westleton","latitude":52.26469,"longitude":1.57456}}(window,'GeoPostal','GB');

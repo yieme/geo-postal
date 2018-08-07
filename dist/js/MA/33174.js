@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33174"]={"code":"33174","region":"Fes-Boulemane","city":"Almis Marmoucha","latitude":33.32,"longitude":-4.18}}(window,'GeoPostal','MA');

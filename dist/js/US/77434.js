@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77434"]={"code":"77434","region":"Texas","city":"Eagle Lake","latitude":29.58968,"longitude":-96.33358}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263638"]={"code":"263638","region":"Uttarakhand","city":"Ranikhet","latitude":29.65,"longitude":79.41667}}(window,'GeoPostal','IN');

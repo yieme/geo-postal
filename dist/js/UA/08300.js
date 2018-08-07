@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08300"]={"code":"08300","region":"Kyivska oblast","city":"Boryspil'","latitude":50.35269,"longitude":30.95501}}(window,'GeoPostal','UA');

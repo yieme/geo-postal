@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19530"]={"code":"19530","region":"Pennsylvania","city":"Kutztown","latitude":40.53378,"longitude":-75.78954}}(window,'GeoPostal','US');

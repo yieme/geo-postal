@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["066-0015"]={"code":"066-0015","region":"Hokkaido","city":"Chitose","latitude":42.817,"longitude":141.65}}(window,'GeoPostal','JP');

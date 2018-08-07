@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47336"]={"code":"47336","region":"Jalisco","city":"Teocaltiche","latitude":21.43333,"longitude":-102.58333}}(window,'GeoPostal','MX');

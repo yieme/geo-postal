@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44966"]={"code":"44966","region":"Pays-de-la-Loire","city":"Nantes","latitude":47.21725,"longitude":-1.55336}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50099"]={"code":"50099","region":"IA","city":"Boone","latitude":42.0597,"longitude":-93.8802}}(window,'GeoPostal','US');

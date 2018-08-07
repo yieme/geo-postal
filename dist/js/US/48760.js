@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48760"]={"code":"48760","region":"Michigan","city":"Silverwood","latitude":43.32333,"longitude":-83.24806}}(window,'GeoPostal','US');

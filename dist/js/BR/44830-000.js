@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44830-000"]={"code":"44830-000","region":"Bahia","city":"Piritiba","latitude":-11.73028,"longitude":-40.55528}}(window,'GeoPostal','BR');

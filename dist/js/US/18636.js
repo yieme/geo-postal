@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18636"]={"code":"18636","region":"PA","city":"Noxen","latitude":41.4181,"longitude":-76.046}}(window,'GeoPostal','US');

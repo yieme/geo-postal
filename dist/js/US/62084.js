@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62084"]={"code":"62084","region":"Illinois","city":"Roxana","latitude":38.84838,"longitude":-90.07622}}(window,'GeoPostal','US');

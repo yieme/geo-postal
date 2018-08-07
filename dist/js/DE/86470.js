@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86470"]={"code":"86470","region":"Bayern","city":"Thannhausen","latitude":48.28334,"longitude":10.46917}}(window,'GeoPostal','DE');

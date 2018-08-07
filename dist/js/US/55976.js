@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55976"]={"code":"55976","region":"MN","city":"Stewartville","latitude":43.8555,"longitude":-92.4885}}(window,'GeoPostal','US');

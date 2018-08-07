@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45930"]={"code":"45930","region":"Castilla-La Mancha","city":"Mentrida","latitude":40.23899,"longitude":-4.19337}}(window,'GeoPostal','ES');

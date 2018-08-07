@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82433"]={"code":"82433","region":"Bayern","city":"Guggenberg","latitude":47.66186,"longitude":11.04951}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-371"]={"code":"34-371","region":"Slaskie","city":"Ujsoly","latitude":49.4829,"longitude":19.13801}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612"]={"code":"612","region":"Toliara","city":"Anakao","latitude":-23.66667,"longitude":43.65}}(window,'GeoPostal','MG');

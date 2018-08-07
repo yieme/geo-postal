@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04571"]={"code":"04571","region":"ME","city":"Trevett","latitude":43.8826,"longitude":-69.6801}}(window,'GeoPostal','US');

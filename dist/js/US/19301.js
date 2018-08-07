@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19301"]={"code":"19301","region":"Pennsylvania","city":"Paoli","latitude":40.041365,"longitude":-75.486671}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83627"]={"code":"83627","region":"Idaho","city":"Hammett","latitude":42.979271,"longitude":-115.560998}}(window,'GeoPostal','US');

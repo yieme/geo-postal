@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28979"]={"code":"28979","region":"Chihuahua","city":"Ciudad Juarez","latitude":31.73333,"longitude":-106.48333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["351 00"]={"code":"351 00","region":"Sterea Ellada","city":"Lamia","latitude":38.9,"longitude":22.43333}}(window,'GeoPostal','GR');

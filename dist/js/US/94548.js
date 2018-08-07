@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94548"]={"code":"94548","region":"CA","city":"Knightsen","latitude":37.9726,"longitude":-121.6652}}(window,'GeoPostal','US');

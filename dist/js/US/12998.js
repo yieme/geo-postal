@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12998"]={"code":"12998","region":"NY","city":"Witherbee","latitude":44.0827,"longitude":-73.5306}}(window,'GeoPostal','US');

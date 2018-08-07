@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36061"]={"code":"36061","region":"Alabama","city":"Inverness","latitude":32.01488,"longitude":-85.74606}}(window,'GeoPostal','US');

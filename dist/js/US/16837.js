@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16837"]={"code":"16837","region":"PA","city":"Glen Richey","latitude":40.9458,"longitude":-78.475}}(window,'GeoPostal','US');

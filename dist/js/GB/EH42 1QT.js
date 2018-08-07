@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH42 1QT"]={"code":"EH42 1QT","region":"Scotland","city":"Innerwick","latitude":55.95,"longitude":-2.41667}}(window,'GeoPostal','GB');

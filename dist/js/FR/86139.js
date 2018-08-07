@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86139"]={"code":"86139","region":"Nouvelle-Aquitaine","city":"Jaunay-Clan","latitude":46.68452,"longitude":0.37128}}(window,'GeoPostal','FR');

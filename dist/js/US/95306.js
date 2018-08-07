@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95306"]={"code":"95306","region":"CA","city":"Catheys Valley","latitude":37.4404,"longitude":-120.1438}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45157"]={"code":"45157","region":"OH","city":"New Richmond","latitude":38.9537,"longitude":-84.2379}}(window,'GeoPostal','US');

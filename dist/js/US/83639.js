@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83639"]={"code":"83639","region":"ID","city":"Marsing","latitude":43.5399,"longitude":-116.824}}(window,'GeoPostal','US');

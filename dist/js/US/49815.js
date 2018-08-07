@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49815"]={"code":"49815","region":"Michigan","city":"Channing","latitude":46.154497,"longitude":-88.074278}}(window,'GeoPostal','US');

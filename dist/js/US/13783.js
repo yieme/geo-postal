@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13783"]={"code":"13783","region":"New York","city":"Hancock","latitude":41.95398,"longitude":-75.28045}}(window,'GeoPostal','US');

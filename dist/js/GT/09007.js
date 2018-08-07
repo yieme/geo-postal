@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09007"]={"code":"09007","region":"Quetzaltenango","city":"San Miguel Siguila","latitude":14.9,"longitude":-91.61667}}(window,'GeoPostal','GT');

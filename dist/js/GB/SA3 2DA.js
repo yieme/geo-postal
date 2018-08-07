@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 2DA"]={"code":"SA3 2DA","region":"Wales","city":"Southgate","latitude":51.56944,"longitude":-4.08972}}(window,'GeoPostal','GB');

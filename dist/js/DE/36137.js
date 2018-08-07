@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36137"]={"code":"36137","region":"Hessen","city":"Mus","latitude":50.59294,"longitude":9.50472}}(window,'GeoPostal','DE');

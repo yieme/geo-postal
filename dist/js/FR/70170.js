@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70170"]={"code":"70170","region":"Bourgogne-Franche-Comte","city":"Port-sur-Saone","latitude":47.68774,"longitude":6.05011}}(window,'GeoPostal','FR');

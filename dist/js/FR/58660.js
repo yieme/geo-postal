@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58660"]={"code":"58660","region":"Bourgogne-Franche-Comte","city":"Coulanges-les-Nevers","latitude":47.00509,"longitude":3.18756}}(window,'GeoPostal','FR');

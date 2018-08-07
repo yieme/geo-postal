@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29698"]={"code":"29698","region":"SC","city":"Bmg Columbia Hse Music Club","latitude":34.91,"longitude":-82.09}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8301"]={"code":"8301","region":"West-Vlaanderen","city":"Knokke-Heist","latitude":51.35,"longitude":3.26667}}(window,'GeoPostal','BE');

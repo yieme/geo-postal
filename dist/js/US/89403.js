@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89403"]={"code":"89403","region":"Nevada","city":"Dayton","latitude":39.272629,"longitude":-119.53627}}(window,'GeoPostal','US');

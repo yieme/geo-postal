@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-242"]={"code":"84-242","region":"Pomorskie","city":"Luzino","latitude":54.56604,"longitude":18.10907}}(window,'GeoPostal','PL');

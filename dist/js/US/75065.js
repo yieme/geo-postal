@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75065"]={"code":"75065","region":"Texas","city":"Lake Dallas","latitude":33.1237,"longitude":-97.0259}}(window,'GeoPostal','US');

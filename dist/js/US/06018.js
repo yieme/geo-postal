@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06018"]={"code":"06018","region":"Connecticut","city":"Canaan","latitude":42.02731,"longitude":-73.32928}}(window,'GeoPostal','US');

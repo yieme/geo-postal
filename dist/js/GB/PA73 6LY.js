@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA73 6LY"]={"code":"PA73 6LY","region":"Scotland","city":"Lagganulva","latitude":56.48333,"longitude":-6.13333}}(window,'GeoPostal','GB');

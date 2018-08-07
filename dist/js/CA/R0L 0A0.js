@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 0A0"]={"code":"R0L 0A0","region":"Manitoba","city":"Ashville","latitude":51.17501,"longitude":-100.29664}}(window,'GeoPostal','CA');

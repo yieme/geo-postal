@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["586237"]={"code":"586237","region":"Karnataka","city":"Basavana Bagevadi","latitude":16.58333,"longitude":75.96667}}(window,'GeoPostal','IN');

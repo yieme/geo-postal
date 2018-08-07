@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82434"]={"code":"82434","region":"Lvivska oblast","city":"Duliby","latitude":49.23134,"longitude":23.81532}}(window,'GeoPostal','UA');

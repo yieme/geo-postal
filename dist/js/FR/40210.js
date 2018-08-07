@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40210"]={"code":"40210","region":"Nouvelle-Aquitaine","city":"Labouheyre","latitude":44.21297,"longitude":-0.92062}}(window,'GeoPostal','FR');

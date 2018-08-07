@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66038"]={"code":"66038","region":"Abruzzo","city":"San Vito Chietino","latitude":42.29604,"longitude":14.44452}}(window,'GeoPostal','IT');

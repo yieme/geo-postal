@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13126"]={"code":"13126","region":"New York","city":"Oswego","latitude":43.45535,"longitude":-76.5105}}(window,'GeoPostal','US');

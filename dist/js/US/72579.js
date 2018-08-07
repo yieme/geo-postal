@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72579"]={"code":"72579","region":"Arkansas","city":"Sulphur Rock","latitude":35.799544,"longitude":-91.475407}}(window,'GeoPostal','US');

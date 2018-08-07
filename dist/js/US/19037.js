@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19037"]={"code":"19037","region":"Pennsylvania","city":"Lima","latitude":39.903644,"longitude":-75.444147}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8713"]={"code":"8713","region":"Bukidnon","city":"Kadingilan","latitude":7.60111,"longitude":124.90861}}(window,'GeoPostal','PH');

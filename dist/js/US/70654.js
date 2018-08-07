@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70654"]={"code":"70654","region":"Louisiana","city":"Mittie","latitude":30.67645,"longitude":-92.934041}}(window,'GeoPostal','US');

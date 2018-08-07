@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88069"]={"code":"88069","region":"Baden-Wurttemberg","city":"Tettnang","latitude":47.66857,"longitude":9.59132}}(window,'GeoPostal','DE');

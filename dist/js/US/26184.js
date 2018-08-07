@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26184"]={"code":"26184","region":"WV","city":"Waverly","latitude":39.3157,"longitude":-81.3819}}(window,'GeoPostal','US');

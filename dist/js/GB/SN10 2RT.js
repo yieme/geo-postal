@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN10 2RT"]={"code":"SN10 2RT","region":"England","city":"Oakford","latitude":50.98333,"longitude":-3.55}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1C 1W3"]={"code":"B1C 1W3","region":"Nova Scotia","city":"Main-a-Dieu","latitude":46.00014,"longitude":-59.84843}}(window,'GeoPostal','CA');

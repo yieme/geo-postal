@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46501"]={"code":"46501","region":"IN","city":"Argos","latitude":41.2308,"longitude":-86.2506}}(window,'GeoPostal','US');

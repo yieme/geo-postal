@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62358"]={"code":"62358","region":"Illinois","city":"Niota","latitude":40.616001,"longitude":-91.287374}}(window,'GeoPostal','US');

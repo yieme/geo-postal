@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85662"]={"code":"85662","region":"Bayern","city":"Hohenbrunn","latitude":48.04785,"longitude":11.70224}}(window,'GeoPostal','DE');

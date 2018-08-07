@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416323"]={"code":"416323","region":"Astrakhanskaya oblast'","city":"Kirovskiy","latitude":45.84639,"longitude":48.12472}}(window,'GeoPostal','RU');

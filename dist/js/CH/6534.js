@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6534"]={"code":"6534","region":"Ticino","city":"Lumino","latitude":46.23072,"longitude":9.06634}}(window,'GeoPostal','CH');

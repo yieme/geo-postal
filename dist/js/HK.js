@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["HK"]={id:'HK',country:'Hong Kong', postal:{'':{code:'',region:'Hong Kong (SAR)',city:'Hong Kong',latitude:22.28552,longitude:114.15769}}};

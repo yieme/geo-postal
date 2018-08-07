@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281 63"]={"code":"281 63","region":"Stredocesky kraj","city":"Kostelec nad Cernymi Lesy","latitude":49.99403,"longitude":14.85922}}(window,'GeoPostal','CZ');

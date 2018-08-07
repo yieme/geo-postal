@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23660"]={"code":"23660","region":"Andalucia","city":"Alcaudete","latitude":37.59091,"longitude":-4.08237}}(window,'GeoPostal','ES');

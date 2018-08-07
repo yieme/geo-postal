@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 3XX"]={"code":"PO20 3XX","region":"England","city":"Woodgate","latitude":50.8325,"longitude":-0.67368}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 0TE"]={"code":"DD10 0TE","region":"Scotland","city":"Kinneff","latitude":56.88099,"longitude":-2.25648}}(window,'GeoPostal','GB');

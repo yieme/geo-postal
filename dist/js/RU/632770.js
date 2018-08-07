@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632770"]={"code":"632770","region":"Novosibirskaya oblast'","city":"Bagan","latitude":54.10014,"longitude":77.66462}}(window,'GeoPostal','RU');

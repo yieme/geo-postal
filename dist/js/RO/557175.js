@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557175"]={"code":"557175","region":"Sibiu","city":"Pauca","latitude":46.01667,"longitude":23.9}}(window,'GeoPostal','RO');

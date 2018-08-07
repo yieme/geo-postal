@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SK10 4NL"]={"code":"SK10 4NL","region":"England","city":"Adlington","latitude":53.32042,"longitude":-2.13658}}(window,'GeoPostal','GB');

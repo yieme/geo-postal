@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX19 8AE"]={"code":"EX19 8AE","region":"England","city":"Roborough","latitude":50.93333,"longitude":-4.03333}}(window,'GeoPostal','GB');

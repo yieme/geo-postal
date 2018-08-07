@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07023"]={"code":"07023","region":"Sardegna","city":"Calangianus","latitude":40.91977,"longitude":9.19482}}(window,'GeoPostal','IT');

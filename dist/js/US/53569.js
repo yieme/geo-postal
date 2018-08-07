@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53569"]={"code":"53569","region":"WI","city":"Montfort","latitude":42.9757,"longitude":-90.4447}}(window,'GeoPostal','US');

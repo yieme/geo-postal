@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39423"]={"code":"39423","region":"MS","city":"Beaumont","latitude":31.1693,"longitude":-88.92}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 2DT"]={"code":"DE6 2DT","region":"England","city":"Yeaveley","latitude":52.96017,"longitude":-1.72278}}(window,'GeoPostal','GB');

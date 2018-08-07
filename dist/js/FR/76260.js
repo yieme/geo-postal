@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76260"]={"code":"76260","region":"Normandie","city":"Eu","latitude":50.04606,"longitude":1.42079}}(window,'GeoPostal','FR');

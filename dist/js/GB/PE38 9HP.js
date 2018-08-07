@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE38 9HP"]={"code":"PE38 9HP","region":"England","city":"Downham Market","latitude":52.60289,"longitude":0.37899}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3112"]={"code":"3112","region":"Lemesos","city":"Pano Polemidhia","latitude":34.7,"longitude":33}}(window,'GeoPostal','CY');

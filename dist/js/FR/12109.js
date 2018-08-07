@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12109"]={"code":"12109","region":"Occitanie","city":"Millau","latitude":44.1,"longitude":3.08333}}(window,'GeoPostal','FR');

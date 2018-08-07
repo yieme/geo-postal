@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53205"]={"code":"53205","region":"Pays-de-la-Loire","city":"Chateau-Gontier","latitude":47.83333,"longitude":-0.7}}(window,'GeoPostal','FR');

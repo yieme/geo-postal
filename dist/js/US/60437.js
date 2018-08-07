@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60437"]={"code":"60437","region":"IL","city":"Kinsman","latitude":41.1631,"longitude":-88.5535}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9M 1R3"]={"code":"L9M 1R3","region":"Ontario","city":"Lafontaine Beach","latitude":44.7429,"longitude":-80.09468}}(window,'GeoPostal','CA');

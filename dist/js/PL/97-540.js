@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97-540"]={"code":"97-540","region":"Lodzkie","city":"Gidle","latitude":50.96199,"longitude":19.47181}}(window,'GeoPostal','PL');

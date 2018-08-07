@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83299"]={"code":"83299","region":"Sonora","city":"Hermosillo","latitude":29.06667,"longitude":-110.96667}}(window,'GeoPostal','MX');

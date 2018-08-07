@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93257"]={"code":"93257","region":"California","city":"Porterville","latitude":36.06523,"longitude":-119.01677}}(window,'GeoPostal','US');

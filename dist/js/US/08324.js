@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08324"]={"code":"08324","region":"NJ","city":"Heislerville","latitude":39.224,"longitude":-74.9942}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37240"]={"code":"37240","region":"Pirkanmaa","city":"Nokia","latitude":61.46667,"longitude":23.5}}(window,'GeoPostal','FI');

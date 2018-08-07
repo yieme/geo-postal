@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4530"]={"code":"4530","region":"Liege","city":"Villers-le-Bouillet","latitude":50.57708,"longitude":5.25945}}(window,'GeoPostal','BE');

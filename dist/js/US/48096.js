@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48096"]={"code":"48096","region":"MI","city":"Ray","latitude":42.754,"longitude":-82.9163}}(window,'GeoPostal','US');

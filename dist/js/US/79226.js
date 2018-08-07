@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79226"]={"code":"79226","region":"Texas","city":"Clarendon","latitude":34.93783,"longitude":-100.8882}}(window,'GeoPostal','US');

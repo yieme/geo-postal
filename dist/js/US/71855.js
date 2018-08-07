@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71855"]={"code":"71855","region":"AR","city":"Ozan","latitude":33.9028,"longitude":-93.7714}}(window,'GeoPostal','US');

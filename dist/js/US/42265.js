@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42265"]={"code":"42265","region":"Kentucky","city":"Olmstead","latitude":36.720513,"longitude":-86.98829}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 2EF"]={"code":"DL2 2EF","region":"England","city":"Hurworth","latitude":54.49008,"longitude":-1.53294}}(window,'GeoPostal','GB');

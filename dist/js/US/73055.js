@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73055"]={"code":"73055","region":"Oklahoma","city":"Marlow","latitude":34.647933,"longitude":-97.959394}}(window,'GeoPostal','US');

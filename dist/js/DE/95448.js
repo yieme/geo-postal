@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95448"]={"code":"95448","region":"Bayern","city":"Spinnerei","latitude":49.96667,"longitude":11.63333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3280"]={"code":"3280","region":"Cordillera","city":"Atyra","latitude":-25.25,"longitude":-57.16667}}(window,'GeoPostal','PY');

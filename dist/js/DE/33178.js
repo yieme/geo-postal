@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33178"]={"code":"33178","region":"Nordrhein-Westfalen","city":"Etteln","latitude":51.62903,"longitude":8.76087}}(window,'GeoPostal','DE');

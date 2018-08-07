@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23486"]={"code":"23486","region":"Virginia","city":"Willis Wharf","latitude":37.508311,"longitude":-75.870379}}(window,'GeoPostal','US');

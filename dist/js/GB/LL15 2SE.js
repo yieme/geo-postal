@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL15 2SE"]={"code":"LL15 2SE","region":"Wales","city":"Llanfair-Dyffryn-Clwyd","latitude":53.08333,"longitude":-3.3}}(window,'GeoPostal','GB');

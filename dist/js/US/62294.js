@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62294"]={"code":"62294","region":"IL","city":"Troy","latitude":38.7243,"longitude":-89.8708}}(window,'GeoPostal','US');

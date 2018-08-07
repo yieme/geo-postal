@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4322"]={"code":"4322","region":"Quezon","city":"Sariaya","latitude":13.96444,"longitude":121.53}}(window,'GeoPostal','PH');

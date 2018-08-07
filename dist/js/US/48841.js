@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48841"]={"code":"48841","region":"Michigan","city":"Owosso","latitude":42.9978,"longitude":-84.17664}}(window,'GeoPostal','US');

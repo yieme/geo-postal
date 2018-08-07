@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24224"]={"code":"24224","region":"VA","city":"Castlewood","latitude":36.8764,"longitude":-82.2876}}(window,'GeoPostal','US');

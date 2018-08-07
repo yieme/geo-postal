@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62801"]={"code":"62801","region":"Illinois","city":"Centralia","latitude":38.52505,"longitude":-89.1334}}(window,'GeoPostal','US');

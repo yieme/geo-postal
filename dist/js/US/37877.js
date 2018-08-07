@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37877"]={"code":"37877","region":"TN","city":"Talbott","latitude":36.16,"longitude":-83.4129}}(window,'GeoPostal','US');

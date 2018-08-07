@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78180"]={"code":"78180","region":"Ile-de-France","city":"Montigny-le-Bretonneux","latitude":48.76636,"longitude":2.03405}}(window,'GeoPostal','FR');

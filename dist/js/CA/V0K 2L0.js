@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 2L0"]={"code":"V0K 2L0","region":"British Columbia","city":"Spences Bridge","latitude":50.241086,"longitude":-121.931365}}(window,'GeoPostal','CA');

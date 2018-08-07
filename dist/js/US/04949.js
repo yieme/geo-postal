@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04949"]={"code":"04949","region":"ME","city":"Liberty","latitude":44.3741,"longitude":-69.3306}}(window,'GeoPostal','US');

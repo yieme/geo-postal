@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89390"]={"code":"89390","region":"Bourgogne-Franche-Comte","city":"Nuits","latitude":47.7319,"longitude":4.2139}}(window,'GeoPostal','FR');

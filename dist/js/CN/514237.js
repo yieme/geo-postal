@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["514237"]={"code":"514237","region":"Guangdong","city":"Huliao","latitude":24.38089,"longitude":116.64932}}(window,'GeoPostal','CN');

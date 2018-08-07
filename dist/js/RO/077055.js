@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077055"]={"code":"077055","region":"Ilfov","city":"Ciorogarla","latitude":44.4425,"longitude":25.88333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75424"]={"code":"75424","region":"TX","city":"Blue Ridge","latitude":33.3061,"longitude":-96.3901}}(window,'GeoPostal','US');

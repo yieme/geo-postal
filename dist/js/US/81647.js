@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81647"]={"code":"81647","region":"Colorado","city":"New Castle","latitude":39.57276,"longitude":-107.53644}}(window,'GeoPostal','US');

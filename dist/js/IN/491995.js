@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491995"]={"code":"491995","region":"Chhattisgarh","city":"Kawardha","latitude":22.01667,"longitude":81.25}}(window,'GeoPostal','IN');

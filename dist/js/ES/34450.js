@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34450"]={"code":"34450","region":"Castilla y Leon","city":"Astudillo","latitude":42.1933,"longitude":-4.29394}}(window,'GeoPostal','ES');

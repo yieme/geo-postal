@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-416"]={"code":"99-416","region":"Lodzkie","city":"Nieborow","latitude":52.07771,"longitude":20.06902}}(window,'GeoPostal','PL');

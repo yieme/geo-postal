@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8007"]={"code":"8007","region":"Davao del Sur","city":"Hagonoy","latitude":6.68333,"longitude":125.32556}}(window,'GeoPostal','PH');

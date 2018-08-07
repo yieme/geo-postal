@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62450"]={"code":"62450","region":"Illinois","city":"Olney","latitude":38.73088,"longitude":-88.08532}}(window,'GeoPostal','US');

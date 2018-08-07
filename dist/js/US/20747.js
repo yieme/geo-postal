@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20747"]={"code":"20747","region":"MD","city":"District Heights","latitude":38.8539,"longitude":-76.8891}}(window,'GeoPostal','US');

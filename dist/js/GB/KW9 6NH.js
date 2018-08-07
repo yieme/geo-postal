@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW9 6NH"]={"code":"KW9 6NH","region":"Scotland","city":"Clynekirkton","latitude":58.03333,"longitude":-3.88333}}(window,'GeoPostal','GB');

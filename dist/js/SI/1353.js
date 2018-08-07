@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1353"]={"code":"1353","region":"Borovnica","city":"Borovnica","latitude":45.91583,"longitude":14.36306}}(window,'GeoPostal','SI');

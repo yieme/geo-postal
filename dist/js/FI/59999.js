@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59999"]={"code":"59999","region":"Etela-Karjala","city":"Parikkala","latitude":61.55,"longitude":29.5}}(window,'GeoPostal','FI');

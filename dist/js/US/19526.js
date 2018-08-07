@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19526"]={"code":"19526","region":"Pennsylvania","city":"Hamburg","latitude":40.55565,"longitude":-75.98188}}(window,'GeoPostal','US');

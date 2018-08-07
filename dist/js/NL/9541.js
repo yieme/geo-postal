@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9541"]={"code":"9541","region":"Groningen","city":"Vlagtwedde","latitude":53.0275,"longitude":7.10833}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92533"]={"code":"92533","region":"Bayern","city":"Damelsdorf","latitude":49.51889,"longitude":12.15076}}(window,'GeoPostal','DE');

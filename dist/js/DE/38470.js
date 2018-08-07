@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38470"]={"code":"38470","region":"Niedersachsen","city":"Croya","latitude":52.54713,"longitude":10.90479}}(window,'GeoPostal','DE');

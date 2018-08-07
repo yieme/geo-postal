@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 2A0"]={"code":"C0A 2A0","region":"Prince Edward Island","city":"Southampton","latitude":46.3834,"longitude":-62.58195}}(window,'GeoPostal','CA');

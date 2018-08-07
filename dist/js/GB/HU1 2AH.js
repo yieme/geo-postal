@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU1 2AH"]={"code":"HU1 2AH","region":"England","city":"Hull","latitude":53.7446,"longitude":-0.33525}}(window,'GeoPostal','GB');

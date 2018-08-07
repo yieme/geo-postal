@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39700"]={"code":"39700","region":"Bourgogne-Franche-Comte","city":"Orchamps","latitude":47.14752,"longitude":5.65873}}(window,'GeoPostal','FR');

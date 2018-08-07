@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84152"]={"code":"84152","region":"Bayern","city":"Honigsbach","latitude":48.72138,"longitude":12.42055}}(window,'GeoPostal','DE');

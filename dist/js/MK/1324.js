@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1324"]={"code":"1324","region":"Lipkovo","city":"Lojane","latitude":42.23333,"longitude":21.665}}(window,'GeoPostal','MK');

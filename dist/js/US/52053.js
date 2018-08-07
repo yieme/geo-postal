@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52053"]={"code":"52053","region":"IA","city":"Holy Cross","latitude":42.5808,"longitude":-90.973}}(window,'GeoPostal','US');

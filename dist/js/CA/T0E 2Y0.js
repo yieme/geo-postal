@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 2Y0"]={"code":"T0E 2Y0","region":"Alberta","city":"Smithfield","latitude":53.56684,"longitude":-114.35208}}(window,'GeoPostal','CA');

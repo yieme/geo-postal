@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-421"]={"code":"63-421","region":"Wielkopolskie","city":"Jankow Przygodzki","latitude":51.59808,"longitude":17.78824}}(window,'GeoPostal','PL');

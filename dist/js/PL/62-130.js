@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-130"]={"code":"62-130","region":"Wielkopolskie","city":"Golancz","latitude":52.94326,"longitude":17.29995}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU47 8HN"]={"code":"GU47 8HN","region":"England","city":"Sandhurst","latitude":51.0266,"longitude":0.56228}}(window,'GeoPostal','GB');

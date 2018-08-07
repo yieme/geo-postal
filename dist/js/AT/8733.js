@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8733"]={"code":"8733","region":"Steiermark","city":"Feistritz bei Knittelfeld","latitude":47.26667,"longitude":14.88333}}(window,'GeoPostal','AT');

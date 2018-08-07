@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12940-000"]={"code":"12940-000","region":"Sao Paulo","city":"Atibaia","latitude":-23.11694,"longitude":-46.55028}}(window,'GeoPostal','BR');

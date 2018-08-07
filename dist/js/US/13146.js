@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13146"]={"code":"13146","region":"NY","city":"Savannah","latitude":43.0934,"longitude":-76.7565}}(window,'GeoPostal','US');

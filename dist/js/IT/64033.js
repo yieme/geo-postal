@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64033"]={"code":"64033","region":"Abruzzo","city":"Bisenti","latitude":42.52874,"longitude":13.8005}}(window,'GeoPostal','IT');

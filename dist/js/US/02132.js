@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02132"]={"code":"02132","region":"Massachusetts","city":"West Roxbury","latitude":42.27917,"longitude":-71.14944}}(window,'GeoPostal','US');

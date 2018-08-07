@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68852"]={"code":"68852","region":"NE","city":"Litchfield","latitude":41.1686,"longitude":-99.1415}}(window,'GeoPostal','US');

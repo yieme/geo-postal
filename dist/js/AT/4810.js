@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4810"]={"code":"4810","region":"Oberosterreich","city":"Gmunden","latitude":47.91887,"longitude":13.79754}}(window,'GeoPostal','AT');

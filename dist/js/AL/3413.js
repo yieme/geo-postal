@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3413"]={"code":"3413","region":"Elbasan","city":"Perrenjas-Fshat","latitude":41.06667,"longitude":20.53528}}(window,'GeoPostal','AL');

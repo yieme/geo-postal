@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72250"]={"code":"72250","region":"Federacija Bosne i Hercegovine","city":"Vitez","latitude":44.15444,"longitude":17.79028}}(window,'GeoPostal','BA');

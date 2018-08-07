@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27055"]={"code":"27055","region":"North Carolina","city":"Yadkinville","latitude":36.13458,"longitude":-80.65951}}(window,'GeoPostal','US');

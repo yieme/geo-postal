@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42050"]={"code":"42050","region":"Kentucky","city":"Hickman","latitude":36.57117,"longitude":-89.18618}}(window,'GeoPostal','US');

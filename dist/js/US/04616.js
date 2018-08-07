@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04616"]={"code":"04616","region":"ME","city":"Brooklin","latitude":44.2541,"longitude":-68.5565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43779"]={"code":"43779","region":"OH","city":"Sarahsville","latitude":39.8162,"longitude":-81.4243}}(window,'GeoPostal','US');

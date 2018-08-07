@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50133"]={"code":"50133","region":"IA","city":"Kellerton","latitude":40.6861,"longitude":-94.0607}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415519"]={"code":"415519","region":"Maharashtra","city":"Rahimatpur","latitude":17.6,"longitude":74.2}}(window,'GeoPostal','IN');

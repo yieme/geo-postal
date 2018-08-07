@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26327"]={"code":"26327","region":"WV","city":"Berea","latitude":39.1365,"longitude":-80.9337}}(window,'GeoPostal','US');

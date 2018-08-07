@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72140"]={"code":"72140","region":"Pays-de-la-Loire","city":"Sille-le-Guillaume","latitude":48.18266,"longitude":-0.12642}}(window,'GeoPostal','FR');

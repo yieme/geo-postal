@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40239"]={"code":"40239","region":"Nouvelle-Aquitaine","city":"Saint-Vincent-de-Tyrosse","latitude":43.66031,"longitude":-1.30799}}(window,'GeoPostal','FR');

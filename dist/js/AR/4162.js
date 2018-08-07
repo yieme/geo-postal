@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4162"]={"code":"4162","region":"Tucuman","city":"La Cocha","latitude":-27.77729,"longitude":-65.57035}}(window,'GeoPostal','AR');

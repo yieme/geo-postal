@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84743"]={"code":"84743","region":"UT","city":"Kingston","latitude":38.2158,"longitude":-112.2049}}(window,'GeoPostal','US');

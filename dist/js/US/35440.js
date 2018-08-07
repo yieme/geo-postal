@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35440"]={"code":"35440","region":"AL","city":"Abernant","latitude":33.311,"longitude":-87.1898}}(window,'GeoPostal','US');

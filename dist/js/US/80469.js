@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80469"]={"code":"80469","region":"Colorado","city":"Phippsburg","latitude":40.216489,"longitude":-106.965435}}(window,'GeoPostal','US');

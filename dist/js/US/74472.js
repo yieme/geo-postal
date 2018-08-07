@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74472"]={"code":"74472","region":"Oklahoma","city":"Whitefield","latitude":35.24765,"longitude":-95.227678}}(window,'GeoPostal','US');

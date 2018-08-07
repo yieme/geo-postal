@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN18 0ET"]={"code":"BN18 0ET","region":"England","city":"Yapton","latitude":50.8209,"longitude":-0.613}}(window,'GeoPostal','GB');

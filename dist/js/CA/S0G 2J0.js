@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 2J0"]={"code":"S0G 2J0","region":"Saskatchewan","city":"Imperial","latitude":51.35007,"longitude":-105.43448}}(window,'GeoPostal','CA');

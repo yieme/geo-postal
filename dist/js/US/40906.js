@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40906"]={"code":"40906","region":"Kentucky","city":"Barbourville","latitude":36.86648,"longitude":-83.88881}}(window,'GeoPostal','US');

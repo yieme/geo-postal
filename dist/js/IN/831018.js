@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831018"]={"code":"831018","region":"Jharkhand","city":"Jamshedpur","latitude":22.8,"longitude":86.18333}}(window,'GeoPostal','IN');

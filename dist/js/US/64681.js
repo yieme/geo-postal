@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64681"]={"code":"64681","region":"MO","city":"Sumner","latitude":39.655,"longitude":-93.2241}}(window,'GeoPostal','US');

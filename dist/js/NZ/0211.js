@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0211"]={"code":"0211","region":"Northland","city":"Moerewa","latitude":-35.38333,"longitude":174.03333}}(window,'GeoPostal','NZ');

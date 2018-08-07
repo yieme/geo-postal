@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32040"]={"code":"32040","region":"Veneto","city":"Domegge di Cadore","latitude":46.46028,"longitude":12.41722}}(window,'GeoPostal','IT');

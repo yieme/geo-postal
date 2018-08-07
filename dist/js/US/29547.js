@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29547"]={"code":"29547","region":"South Carolina","city":"Hamer","latitude":34.511303,"longitude":-79.403924}}(window,'GeoPostal','US');

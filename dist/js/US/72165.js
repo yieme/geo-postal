@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72165"]={"code":"72165","region":"AR","city":"Thida","latitude":35.5762,"longitude":-91.4539}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46407"]={"code":"46407","region":"IN","city":"Gary","latitude":41.5804,"longitude":-87.335}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89024"]={"code":"89024","region":"Calabria","city":"Polistena","latitude":38.40598,"longitude":16.08}}(window,'GeoPostal','IT');

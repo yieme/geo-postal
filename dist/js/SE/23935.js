@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23935"]={"code":"23935","region":"Skane lan","city":"Skanor med Falsterbo","latitude":55.4,"longitude":12.85}}(window,'GeoPostal','SE');

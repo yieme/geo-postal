@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78040"]={"code":"78040","region":"Dalarnas lan","city":"Mockfjard","latitude":60.5,"longitude":14.96667}}(window,'GeoPostal','SE');

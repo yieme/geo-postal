@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28260"]={"code":"28260","region":"Chihuahua","city":"Madera","latitude":29.2,"longitude":-108.11667}}(window,'GeoPostal','MX');

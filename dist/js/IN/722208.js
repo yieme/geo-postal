@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722208"]={"code":"722208","region":"West Bengal","city":"Patrasaer","latitude":23.21667,"longitude":87.51667}}(window,'GeoPostal','IN');

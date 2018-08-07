@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42324"]={"code":"42324","region":"Kentucky","city":"Belton","latitude":37.143653,"longitude":-86.965686}}(window,'GeoPostal','US');

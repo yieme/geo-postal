@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50132"]={"code":"50132","region":"IA","city":"Kamrar","latitude":42.3945,"longitude":-93.7279}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1423"]={"code":"1423","region":"Noord-Holland","city":"Uithoorn","latitude":52.2375,"longitude":4.82639}}(window,'GeoPostal','NL');

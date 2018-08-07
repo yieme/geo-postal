@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13429"]={"code":"13429","region":"Castilla-La Mancha","city":"Fuencaliente","latitude":39.18624,"longitude":-4.02576}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-330"]={"code":"14-330","region":"Warminsko-mazurskie","city":"Maldyty","latitude":53.91981,"longitude":19.74398}}(window,'GeoPostal','PL');

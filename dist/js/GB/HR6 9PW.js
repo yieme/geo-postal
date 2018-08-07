@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 9PW"]={"code":"HR6 9PW","region":"England","city":"Croft","latitude":52.28333,"longitude":-2.8}}(window,'GeoPostal','GB');

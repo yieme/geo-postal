@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56742"]={"code":"56742","region":"Minnesota","city":"Oklee","latitude":47.8375,"longitude":-95.85333}}(window,'GeoPostal','US');

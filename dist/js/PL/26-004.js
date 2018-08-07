@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-004"]={"code":"26-004","region":"Swietokrzyskie","city":"Bieliny","latitude":50.84947,"longitude":20.94149}}(window,'GeoPostal','PL');

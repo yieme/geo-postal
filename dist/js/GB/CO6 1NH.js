@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO6 1NH"]={"code":"CO6 1NH","region":"England","city":"Coggeshall","latitude":51.87077,"longitude":0.68536}}(window,'GeoPostal','GB');

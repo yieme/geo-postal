@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2540"]={"code":"2540","region":"Hedmark","city":"Tolga","latitude":62.40898,"longitude":10.99883}}(window,'GeoPostal','NO');

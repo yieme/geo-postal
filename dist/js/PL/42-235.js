@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-235"]={"code":"42-235","region":"Slaskie","city":"Lelow","latitude":50.68335,"longitude":19.62562}}(window,'GeoPostal','PL');

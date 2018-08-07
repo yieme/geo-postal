@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02875"]={"code":"02875","region":"RI","city":"Shannock","latitude":41.456,"longitude":-71.6355}}(window,'GeoPostal','US');

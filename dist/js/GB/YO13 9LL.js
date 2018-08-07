@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO13 9LL"]={"code":"YO13 9LL","region":"England","city":"Hutton Bushel","latitude":54.24216,"longitude":-0.50606}}(window,'GeoPostal','GB');

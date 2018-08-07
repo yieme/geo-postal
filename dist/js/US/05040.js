@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05040"]={"code":"05040","region":"Vermont","city":"East Corinth","latitude":44.02778,"longitude":-72.27694}}(window,'GeoPostal','US');

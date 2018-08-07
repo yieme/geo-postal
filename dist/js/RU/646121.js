@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646121"]={"code":"646121","region":"Omskaya oblast'","city":"Rostovka","latitude":55.3842,"longitude":71.88913}}(window,'GeoPostal','RU');

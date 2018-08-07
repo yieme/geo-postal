@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4813"]={"code":"4813","region":"Queensland","city":"Murray","latitude":-19.3323,"longitude":146.79172}}(window,'GeoPostal','AU');

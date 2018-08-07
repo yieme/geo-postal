@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98321"]={"code":"98321","region":"Washington","city":"Buckley","latitude":47.154214,"longitude":-122.074625}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47520"]={"code":"47520","region":"Nouvelle-Aquitaine","city":"Le Passage","latitude":44.20143,"longitude":0.60275}}(window,'GeoPostal','FR');

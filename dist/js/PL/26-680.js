@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-680"]={"code":"26-680","region":"Mazowieckie","city":"Wierzbica","latitude":51.2494,"longitude":21.08259}}(window,'GeoPostal','PL');

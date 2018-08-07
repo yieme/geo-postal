@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL70 9HJ"]={"code":"LL70 9HJ","region":"Wales","city":"Penrhos-Lligwy","latitude":53.35,"longitude":-4.26667}}(window,'GeoPostal','GB');

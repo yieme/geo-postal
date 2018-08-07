@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77140"]={"code":"77140","region":"Ile-de-France","city":"Saint-Pierre-les-Nemours","latitude":48.26733,"longitude":2.67966}}(window,'GeoPostal','FR');

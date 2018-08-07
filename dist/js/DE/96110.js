@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96110"]={"code":"96110","region":"Bayern","city":"Schesslitz","latitude":49.97568,"longitude":11.03299}}(window,'GeoPostal','DE');

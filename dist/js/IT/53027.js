@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53027"]={"code":"53027","region":"Toscana","city":"San Quirico d'Orcia","latitude":43.05664,"longitude":11.60484}}(window,'GeoPostal','IT');

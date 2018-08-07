@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28855"]={"code":"28855","region":"Piemonte","city":"Masera","latitude":46.13998,"longitude":8.32342}}(window,'GeoPostal','IT');

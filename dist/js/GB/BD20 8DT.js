@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 8DT"]={"code":"BD20 8DT","region":"England","city":"Keighley","latitude":53.86791,"longitude":-1.90664}}(window,'GeoPostal','GB');

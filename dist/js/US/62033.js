@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62033"]={"code":"62033","region":"IL","city":"Gillespie","latitude":39.1341,"longitude":-89.8442}}(window,'GeoPostal','US');

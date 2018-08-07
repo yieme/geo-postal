@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61447"]={"code":"61447","region":"IL","city":"Kirkwood","latitude":40.8638,"longitude":-90.7457}}(window,'GeoPostal','US');

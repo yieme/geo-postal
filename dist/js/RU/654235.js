@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["654235"]={"code":"654235","region":"Kemerovskaya oblast'","city":"Chistogorskiy","latitude":53.9835,"longitude":87.3843}}(window,'GeoPostal','RU');

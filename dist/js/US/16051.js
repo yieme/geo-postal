@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16051"]={"code":"16051","region":"Pennsylvania","city":"Portersville","latitude":40.92528,"longitude":-80.14417}}(window,'GeoPostal','US');

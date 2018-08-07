@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62240"]={"code":"62240","region":"Hauts-de-France","city":"Desvres","latitude":50.66884,"longitude":1.83478}}(window,'GeoPostal','FR');

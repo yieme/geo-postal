@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71401"]={"code":"71401","region":"LA","city":"Aimwell","latitude":31.7835,"longitude":-91.9935}}(window,'GeoPostal','US');

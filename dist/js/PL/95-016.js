@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95-016"]={"code":"95-016","region":"Lodzkie","city":"Glowno","latitude":51.96463,"longitude":19.71565}}(window,'GeoPostal','PL');

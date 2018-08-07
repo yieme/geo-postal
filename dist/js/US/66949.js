@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66949"]={"code":"66949","region":"Kansas","city":"Jewell","latitude":39.67218,"longitude":-98.10882}}(window,'GeoPostal','US');

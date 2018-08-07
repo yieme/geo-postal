@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36700"]={"code":"36700","region":"Yozgat","city":"Cayiralan","latitude":39.30278,"longitude":35.64389}}(window,'GeoPostal','TR');

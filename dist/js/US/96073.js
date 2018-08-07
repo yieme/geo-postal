@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96073"]={"code":"96073","region":"California","city":"Palo Cedro","latitude":40.567799,"longitude":-122.234018}}(window,'GeoPostal','US');

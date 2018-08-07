@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22000"]={"code":"22000","region":"San Martin","city":"Moyobamba","latitude":-6.05,"longitude":-76.96667}}(window,'GeoPostal','PE');

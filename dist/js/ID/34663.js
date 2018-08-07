@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34663"]={"code":"34663","region":"Lampung","city":"Terbanggi-besar","latitude":-4.86667,"longitude":105.23333}}(window,'GeoPostal','ID');

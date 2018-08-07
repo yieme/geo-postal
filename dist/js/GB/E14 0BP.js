@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E14 0BP"]={"code":"E14 0BP","region":"England","city":"Poplar","latitude":51.51113,"longitude":-0.01565}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76253"]={"code":"76253","region":"TX","city":"Myra","latitude":33.6178,"longitude":-97.309}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 1A0"]={"code":"A0K 1A0","region":"Newfoundland and Labrador","city":"Anchor Point","latitude":51.23339,"longitude":-56.7981}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8360"]={"code":"8360","region":"Nordland","city":"Evjen","latitude":68.26667,"longitude":13.73333}}(window,'GeoPostal','NO');

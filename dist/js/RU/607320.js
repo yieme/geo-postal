@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607320"]={"code":"607320","region":"Nizhegorodskaya oblast'","city":"Diveyevo","latitude":55.04329,"longitude":43.24178}}(window,'GeoPostal','RU');

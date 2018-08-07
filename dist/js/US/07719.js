@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07719"]={"code":"07719","region":"New Jersey","city":"Wall","latitude":40.1673,"longitude":-74.096089}}(window,'GeoPostal','US');

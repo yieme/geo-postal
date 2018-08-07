@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23085"]={"code":"23085","region":"Virginia","city":"King and Queen Court House","latitude":37.66986,"longitude":-76.87746}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-110"]={"code":"39-110","region":"Podkarpackie","city":"Wielopole Skrzynskie","latitude":49.94564,"longitude":21.61491}}(window,'GeoPostal','PL');

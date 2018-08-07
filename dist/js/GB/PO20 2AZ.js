@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 2AZ"]={"code":"PO20 2AZ","region":"England","city":"Oving","latitude":50.83803,"longitude":-0.72201}}(window,'GeoPostal','GB');

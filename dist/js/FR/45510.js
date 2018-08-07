@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45510"]={"code":"45510","region":"Centre-Val de Loire","city":"Tigy","latitude":47.79365,"longitude":2.19766}}(window,'GeoPostal','FR');

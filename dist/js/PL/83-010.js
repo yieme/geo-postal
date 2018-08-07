@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-010"]={"code":"83-010","region":"Pomorskie","city":"Straszyn","latitude":54.27214,"longitude":18.58114}}(window,'GeoPostal','PL');

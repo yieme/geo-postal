@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352410"]={"code":"352410","region":"Rostovskaya oblast'","city":"Konstantinovsk","latitude":47.58278,"longitude":41.09222}}(window,'GeoPostal','RU');

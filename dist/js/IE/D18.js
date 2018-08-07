@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["D18"]={"code":"D18","region":"Wicklow","city":"Bray","latitude":53.20278,"longitude":-6.09833}}(window,'GeoPostal','IE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80807"]={"code":"80807","region":"Colorado","city":"Burlington","latitude":39.30611,"longitude":-102.26936}}(window,'GeoPostal','US');

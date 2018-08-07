@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 2WE"]={"code":"PR4 2WE","region":"England","city":"Wrea Green","latitude":53.77651,"longitude":-2.91573}}(window,'GeoPostal','GB');

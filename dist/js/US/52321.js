@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52321"]={"code":"52321","region":"Iowa","city":"Onslow","latitude":42.10556,"longitude":-91.01528}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3730"]={"code":"3730","region":"Chaco","city":"Charata","latitude":-27.21438,"longitude":-61.18795}}(window,'GeoPostal','AR');

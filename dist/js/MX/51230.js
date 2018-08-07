@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51230"]={"code":"51230","region":"Mexico","city":"Colorines","latitude":19.2,"longitude":-100.16667}}(window,'GeoPostal','MX');

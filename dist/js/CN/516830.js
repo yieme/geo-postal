@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516830"]={"code":"516830","region":"Guangdong","city":"Longjiang","latitude":23.60943,"longitude":114.28935}}(window,'GeoPostal','CN');

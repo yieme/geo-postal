@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437627"]={"code":"437627","region":"Hubei","city":"Jiugongshan","latitude":29.5188,"longitude":114.6814}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32693"]={"code":"32693","region":"Florida","city":"Trenton","latitude":29.611727,"longitude":-82.813931}}(window,'GeoPostal','US');

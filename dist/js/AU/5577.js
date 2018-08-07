@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5577"]={"code":"5577","region":"South Australia","city":"Warooka","latitude":-34.99031,"longitude":137.40115}}(window,'GeoPostal','AU');

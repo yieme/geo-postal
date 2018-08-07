@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07014"]={"code":"07014","region":"Sardegna","city":"Ozieri","latitude":40.58596,"longitude":9.00122}}(window,'GeoPostal','IT');

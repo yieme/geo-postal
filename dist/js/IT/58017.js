@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58017"]={"code":"58017","region":"Toscana","city":"Pitigliano","latitude":42.63483,"longitude":11.67355}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["657500"]={"code":"657500","region":"Yunnan","city":"Yanjing","latitude":28.07207,"longitude":104.189}}(window,'GeoPostal','CN');

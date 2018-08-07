@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8417"]={"code":"8417","region":"Surigao del Norte","city":"Pilar","latitude":9.865,"longitude":126.09944}}(window,'GeoPostal','PH');

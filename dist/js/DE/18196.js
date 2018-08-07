@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18196"]={"code":"18196","region":"Mecklenburg-Vorpommern","city":"Dummerstorf","latitude":54.01667,"longitude":12.23333}}(window,'GeoPostal','DE');

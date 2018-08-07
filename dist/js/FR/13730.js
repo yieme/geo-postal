@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13730"]={"code":"13730","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Victoret","latitude":43.41957,"longitude":5.23396}}(window,'GeoPostal','FR');

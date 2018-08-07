@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8305"]={"code":"8305","region":"Nordland","city":"Svolvaer","latitude":68.23417,"longitude":14.56834}}(window,'GeoPostal','NO');

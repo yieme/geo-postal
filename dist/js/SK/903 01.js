@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["903 01"]={"code":"903 01","region":"Bratislavsky kraj","city":"Senec","latitude":48.21951,"longitude":17.40043}}(window,'GeoPostal','SK');

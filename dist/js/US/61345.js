@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61345"]={"code":"61345","region":"Illinois","city":"Neponset","latitude":41.300103,"longitude":-89.79305}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-071"]={"code":"05-071","region":"Mazowieckie","city":"Sulejowek","latitude":52.25221,"longitude":21.26902}}(window,'GeoPostal','PL');

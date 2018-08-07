@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["549 31"]={"code":"549 31","region":"Kralovehradecky kraj","city":"Hronov","latitude":50.47968,"longitude":16.1823}}(window,'GeoPostal','CZ');

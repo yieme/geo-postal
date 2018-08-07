@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50501"]={"code":"50501","region":"Iowa","city":"Fort Dodge","latitude":42.49747,"longitude":-94.16802}}(window,'GeoPostal','US');

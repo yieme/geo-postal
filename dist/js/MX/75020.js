@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75020"]={"code":"75020","region":"Puebla","city":"Oriental","latitude":19.36667,"longitude":-97.61667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF63 4TF"]={"code":"CF63 4TF","region":"England","city":"Holton","latitude":51.04111,"longitude":-2.44722}}(window,'GeoPostal','GB');

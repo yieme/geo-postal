@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25727"]={"code":"25727","region":"Schleswig-Holstein","city":"Krumstedt","latitude":54.06667,"longitude":9.18333}}(window,'GeoPostal','DE');

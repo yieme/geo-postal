@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["398 06"]={"code":"398 06","region":"Jihocesky kraj","city":"Mirovice","latitude":49.51555,"longitude":14.03582}}(window,'GeoPostal','CZ');

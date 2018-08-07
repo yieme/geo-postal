@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54304"]={"code":"54304","region":"Wisconsin","city":"Ashwaubenon","latitude":44.48221,"longitude":-88.0701}}(window,'GeoPostal','US');

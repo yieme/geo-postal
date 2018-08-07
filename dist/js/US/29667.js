@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29667"]={"code":"29667","region":"SC","city":"Norris","latitude":34.7648,"longitude":-82.7567}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59932"]={"code":"59932","region":"MT","city":"Somers","latitude":48.0793,"longitude":-114.2355}}(window,'GeoPostal','US');

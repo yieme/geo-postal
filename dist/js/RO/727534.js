@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727534"]={"code":"727534","region":"Iasi","city":"Bivolari","latitude":47.53333,"longitude":27.43333}}(window,'GeoPostal','RO');

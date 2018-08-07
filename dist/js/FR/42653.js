@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42653"]={"code":"42653","region":"Auvergne-Rhone-Alpes","city":"Saint-Jean-Bonnefonds","latitude":45.45294,"longitude":4.45057}}(window,'GeoPostal','FR');

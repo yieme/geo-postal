@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9Z 0X5"]={"code":"V9Z 0X5","region":"British Columbia","city":"Sooke","latitude":48.483668,"longitude":-123.900941}}(window,'GeoPostal','CA');

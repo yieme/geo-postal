@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99610"]={"code":"99610","region":"Thuringen","city":"Sprotau","latitude":51.11667,"longitude":11.2}}(window,'GeoPostal','DE');

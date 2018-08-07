@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73434"]={"code":"73434","region":"OK","city":"Foster","latitude":34.6379,"longitude":-97.5455}}(window,'GeoPostal','US');

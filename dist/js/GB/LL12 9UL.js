@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL12 9UL"]={"code":"LL12 9UL","region":"Wales","city":"Cefn-y-bedd","latitude":53.09935,"longitude":-3.03125}}(window,'GeoPostal','GB');

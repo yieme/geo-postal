@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL13 3NW"]={"code":"DL13 3NW","region":"England","city":"Bedburn","latitude":54.67929,"longitude":-1.84508}}(window,'GeoPostal','GB');

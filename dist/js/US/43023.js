@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43023"]={"code":"43023","region":"Ohio","city":"Granville","latitude":40.069833,"longitude":-82.52685}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3510"]={"code":"3510","region":"Bern","city":"Konolfingen","latitude":46.87909,"longitude":7.62013}}(window,'GeoPostal','CH');

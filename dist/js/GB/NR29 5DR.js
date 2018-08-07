@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 5DR"]={"code":"NR29 5DR","region":"England","city":"Rollesby","latitude":52.68752,"longitude":1.62053}}(window,'GeoPostal','GB');

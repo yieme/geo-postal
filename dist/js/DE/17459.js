@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17459"]={"code":"17459","region":"Mecklenburg-Vorpommern","city":"Loddin","latitude":54.03333,"longitude":14.01667}}(window,'GeoPostal','DE');

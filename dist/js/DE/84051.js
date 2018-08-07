@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84051"]={"code":"84051","region":"Bayern","city":"Mettenbach","latitude":48.64481,"longitude":12.26322}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2046"]={"code":"2046","region":"New South Wales","city":"Chatswood","latitude":-33.8,"longitude":151.18333}}(window,'GeoPostal','AU');

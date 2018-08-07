@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49968"]={"code":"49968","region":"MI","city":"Wakefield","latitude":46.4752,"longitude":-89.9424}}(window,'GeoPostal','US');

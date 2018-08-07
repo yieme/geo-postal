@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341804"]={"code":"341804","region":"Jiangxi","city":"Quannan Xian","latitude":24.74636,"longitude":114.52491}}(window,'GeoPostal','CN');

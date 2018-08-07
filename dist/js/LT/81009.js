@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81009"]={"code":"81009","region":"Siauliu apskritis","city":"Kursenai","latitude":55.985,"longitude":22.91889}}(window,'GeoPostal','LT');

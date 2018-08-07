@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4490"]={"code":"4490","region":"Queensland","city":"Cunnamulla","latitude":-28.06766,"longitude":145.68439}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48728"]={"code":"48728","region":"Michigan","city":"Curran","latitude":44.71389,"longitude":-83.79861}}(window,'GeoPostal','US');

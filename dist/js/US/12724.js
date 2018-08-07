@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12724"]={"code":"12724","region":"New York","city":"Callicoon Center","latitude":41.83662,"longitude":-74.9469}}(window,'GeoPostal','US');

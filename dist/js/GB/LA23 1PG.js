@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA23 1PG"]={"code":"LA23 1PG","region":"England","city":"Troutbeck","latitude":54.41713,"longitude":-2.91481}}(window,'GeoPostal','GB');

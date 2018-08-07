@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63688"]={"code":"63688","region":"Hessen","city":"Gedern","latitude":50.42482,"longitude":9.1984}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67062"]={"code":"67062","region":"Abruzzo","city":"Magliano de' Marsi","latitude":42.09153,"longitude":13.36379}}(window,'GeoPostal','IT');

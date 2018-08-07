@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29650-000"]={"code":"29650-000","region":"Espirito Santo","city":"Santa Teresa","latitude":-19.93556,"longitude":-40.60028}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100"]={"code":"6100","region":"Tirol","city":"Seefeld in Tirol","latitude":47.33016,"longitude":11.18786}}(window,'GeoPostal','AT');

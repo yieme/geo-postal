@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30760"]={"code":"30760","region":"Occitanie","city":"Saint-Julien-de-Peyrolas","latitude":44.28837,"longitude":4.56507}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38118"]={"code":"38118","region":"Niedersachsen","city":"Braunschweig","latitude":52.26594,"longitude":10.52673}}(window,'GeoPostal','DE');

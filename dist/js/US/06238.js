@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06238"]={"code":"06238","region":"Connecticut","city":"Coventry","latitude":41.780623,"longitude":-72.330099}}(window,'GeoPostal','US');

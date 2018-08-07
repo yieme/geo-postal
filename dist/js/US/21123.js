@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21123"]={"code":"21123","region":"MD","city":"Pasadena","latitude":38.9742,"longitude":-76.5949}}(window,'GeoPostal','US');

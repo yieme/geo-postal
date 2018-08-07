@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480000"]={"code":"480000","region":"Ha Tinh","city":"Ha Tinh","latitude":18.33333,"longitude":105.9}}(window,'GeoPostal','VN');

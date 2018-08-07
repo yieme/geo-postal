@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68435"]={"code":"68435","region":"Oaxaca","city":"Ayotzintepec","latitude":17.66667,"longitude":-96.13333}}(window,'GeoPostal','MX');

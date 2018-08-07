@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 4BL"]={"code":"BD23 4BL","region":"England","city":"Kirkby Malham","latitude":54.04468,"longitude":-2.162}}(window,'GeoPostal','GB');

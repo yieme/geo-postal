@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA7 7EJ"]={"code":"LA7 7EJ","region":"England","city":"Heversham","latitude":54.24217,"longitude":-2.7742}}(window,'GeoPostal','GB');

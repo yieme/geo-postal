@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85540"]={"code":"85540","region":"Arizona","city":"Morenci","latitude":33.07867,"longitude":-109.36535}}(window,'GeoPostal','US');

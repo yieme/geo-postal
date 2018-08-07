@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27879"]={"code":"27879","region":"NC","city":"Simpson","latitude":35.5752,"longitude":-77.2786}}(window,'GeoPostal','US');

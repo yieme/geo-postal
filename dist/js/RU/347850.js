@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347850"]={"code":"347850","region":"Rostovskaya oblast'","city":"Glubokiy","latitude":48.52759,"longitude":40.32792}}(window,'GeoPostal','RU');

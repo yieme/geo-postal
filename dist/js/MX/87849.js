@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87849"]={"code":"87849","region":"Tamaulipas","city":"Guillermo Zuniga","latitude":24.01667,"longitude":-99.2}}(window,'GeoPostal','MX');

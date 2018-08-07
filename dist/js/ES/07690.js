@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07690"]={"code":"07690","region":"Illes Balears","city":"Santanyi","latitude":39.35461,"longitude":3.12907}}(window,'GeoPostal','ES');

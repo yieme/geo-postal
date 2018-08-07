@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24069"]={"code":"24069","region":"VA","city":"Cascade","latitude":36.5927,"longitude":-79.6574}}(window,'GeoPostal','US');

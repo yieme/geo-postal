@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95452"]={"code":"95452","region":"CA","city":"Kenwood","latitude":38.4168,"longitude":-122.5547}}(window,'GeoPostal','US');

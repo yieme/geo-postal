@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78253"]={"code":"78253","region":"Baden-Wurttemberg","city":"Eigeltingen","latitude":47.86667,"longitude":8.9}}(window,'GeoPostal','DE');

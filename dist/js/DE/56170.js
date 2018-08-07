@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56170"]={"code":"56170","region":"Schleswig-Holstein","city":"Bendorf","latitude":54.08333,"longitude":9.38333}}(window,'GeoPostal','DE');

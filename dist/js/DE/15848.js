@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15848"]={"code":"15848","region":"Brandenburg","city":"Tauche","latitude":52.15,"longitude":14.16667}}(window,'GeoPostal','DE');

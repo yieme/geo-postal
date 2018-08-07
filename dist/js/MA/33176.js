@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33176"]={"code":"33176","region":"Fes-Boulemane","city":"Talzemt","latitude":33.59,"longitude":-4.19}}(window,'GeoPostal','MA');

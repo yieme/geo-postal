@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95974"]={"code":"95974","region":"CA","city":"Richvale","latitude":39.4959,"longitude":-121.748}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56726"]={"code":"56726","region":"Minnesota","city":"Greenbush","latitude":48.69917,"longitude":-96.18306}}(window,'GeoPostal','US');

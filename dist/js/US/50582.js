@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50582"]={"code":"50582","region":"IA","city":"Rutland","latitude":42.7635,"longitude":-94.2719}}(window,'GeoPostal','US');

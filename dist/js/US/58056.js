@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58056"]={"code":"58056","region":"ND","city":"Luverne","latitude":47.2319,"longitude":-97.9314}}(window,'GeoPostal','US');

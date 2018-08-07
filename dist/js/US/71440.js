@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71440"]={"code":"71440","region":"LA","city":"Joyce","latitude":31.9393,"longitude":-92.5988}}(window,'GeoPostal','US');

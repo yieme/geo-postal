@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 8NF"]={"code":"DG8 8NF","region":"Scotland","city":"Carleton","latitude":54.7,"longitude":-4.5}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 5AQ"]={"code":"CA7 5AQ","region":"England","city":"Cardurnock","latitude":54.91456,"longitude":-3.28629}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44822"]={"code":"44822","region":"OH","city":"Butler","latitude":40.5438,"longitude":-82.399}}(window,'GeoPostal','US');

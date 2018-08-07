@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391964"]={"code":"391964","region":"Ryazanskaya oblast'","city":"Ryazhsk","latitude":53.7038,"longitude":40.1109}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24830"]={"code":"24830","region":"WV","city":"Elbert","latitude":37.3354,"longitude":-81.5393}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47359"]={"code":"47359","region":"IN","city":"Montpelier","latitude":40.5577,"longitude":-85.2513}}(window,'GeoPostal','US');

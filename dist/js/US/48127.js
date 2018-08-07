@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48127"]={"code":"48127","region":"Michigan","city":"Dearborn Heights","latitude":42.336128,"longitude":-83.281272}}(window,'GeoPostal','US');

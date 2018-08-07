@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4453"]={"code":"4453","region":"Plovdiv","city":"Stamboliyski","latitude":42.13333,"longitude":24.53333}}(window,'GeoPostal','BG');

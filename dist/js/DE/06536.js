@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06536"]={"code":"06536","region":"Sachsen-Anhalt","city":"Dietersdorf","latitude":51.52905,"longitude":11.04881}}(window,'GeoPostal','DE');

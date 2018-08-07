@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620 41"]={"code":"620 41","region":"Kentriki Makedonia","city":"Palaiokomi","latitude":40.86667,"longitude":23.9}}(window,'GeoPostal','GR');

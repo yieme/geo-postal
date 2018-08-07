@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83302"]={"code":"83302","region":"ID","city":"Rogerson","latitude":42.218,"longitude":-114.5942}}(window,'GeoPostal','US');

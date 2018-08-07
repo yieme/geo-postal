@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98361"]={"code":"98361","region":"Washington","city":"Packwood","latitude":46.60389,"longitude":-121.67778}}(window,'GeoPostal','US');

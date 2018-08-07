@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69273"]={"code":"69273","region":"Jawa Timur","city":"Sampang","latitude":-7.1872,"longitude":113.2394}}(window,'GeoPostal','ID');

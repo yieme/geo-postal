@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11000"]={"code":"11000","region":"Occitanie","city":"Carcassonne","latitude":43.21667,"longitude":2.35}}(window,'GeoPostal','FR');

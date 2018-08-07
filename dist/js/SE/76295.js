@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76295"]={"code":"76295","region":"Stockholms lan","city":"Rimbo","latitude":59.75,"longitude":18.36667}}(window,'GeoPostal','SE');

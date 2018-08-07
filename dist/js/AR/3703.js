@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3703"]={"code":"3703","region":"Chaco","city":"Tres Isletas","latitude":-26.34066,"longitude":-60.43207}}(window,'GeoPostal','AR');

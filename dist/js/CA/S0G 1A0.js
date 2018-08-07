@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 1A0"]={"code":"S0G 1A0","region":"Saskatchewan","city":"Davidson","latitude":51.26676,"longitude":-105.98449}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07023"]={"code":"07023","region":"NJ","city":"Fanwood","latitude":40.6419,"longitude":-74.3868}}(window,'GeoPostal','US');

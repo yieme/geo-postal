@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-244"]={"code":"42-244","region":"Slaskie","city":"Mstow","latitude":50.82969,"longitude":19.28547}}(window,'GeoPostal','PL');

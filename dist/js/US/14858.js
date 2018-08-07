@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14858"]={"code":"14858","region":"NY","city":"Lindley","latitude":42.0284,"longitude":-77.1397}}(window,'GeoPostal','US');

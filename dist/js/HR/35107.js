@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35107"]={"code":"35107","region":"Brodsko-posavska zupanija","city":"Podvinje","latitude":45.19028,"longitude":18.02694}}(window,'GeoPostal','HR');

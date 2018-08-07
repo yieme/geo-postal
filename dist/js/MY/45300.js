@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45300"]={"code":"45300","region":"Selangor","city":"Sungai Besar","latitude":3.6746,"longitude":100.9867}}(window,'GeoPostal','MY');

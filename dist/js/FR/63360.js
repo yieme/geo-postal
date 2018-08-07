@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63360"]={"code":"63360","region":"Auvergne-Rhone-Alpes","city":"Gerzat","latitude":45.82432,"longitude":3.14404}}(window,'GeoPostal','FR');

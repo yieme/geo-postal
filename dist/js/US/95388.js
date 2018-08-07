@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95388"]={"code":"95388","region":"CA","city":"Winton","latitude":37.4014,"longitude":-120.6045}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22528"]={"code":"22528","region":"VA","city":"Nuttsville","latitude":37.7935,"longitude":-76.5508}}(window,'GeoPostal','US');

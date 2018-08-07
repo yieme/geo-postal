@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW12 6UP"]={"code":"KW12 6UP","region":"Scotland","city":"Westerdale","latitude":58.45,"longitude":-3.5}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR14 7BL"]={"code":"NR14 7BL","region":"England","city":"Claxton","latitude":52.56667,"longitude":1.43333}}(window,'GeoPostal','GB');

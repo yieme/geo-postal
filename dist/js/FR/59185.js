@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59185"]={"code":"59185","region":"Hauts-de-France","city":"Provin","latitude":50.5143,"longitude":2.90794}}(window,'GeoPostal','FR');

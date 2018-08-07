@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40900"]={"code":"40900","region":"Keski-Suomi","city":"Saynatsalo","latitude":62.14025,"longitude":25.76948}}(window,'GeoPostal','FI');

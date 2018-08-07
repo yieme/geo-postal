@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["696 32"]={"code":"696 32","region":"Jihomoravsky kraj","city":"Zdanice","latitude":49.06729,"longitude":17.02751}}(window,'GeoPostal','CZ');

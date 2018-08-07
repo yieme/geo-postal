@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172749"]={"code":"172749","region":"Tverskaya oblast'","city":"Ostashkov","latitude":57.14667,"longitude":33.10753}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07090"]={"code":"07090","region":"Zonguldak","city":"Eregli","latitude":41.28262,"longitude":31.41806}}(window,'GeoPostal','TR');

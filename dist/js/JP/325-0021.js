@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325-0021"]={"code":"325-0021","region":"Tochigi","city":"Nasushiobara","latitude":36.967,"longitude":140.05}}(window,'GeoPostal','JP');

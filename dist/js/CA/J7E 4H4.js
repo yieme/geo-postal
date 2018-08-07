@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7E 4H4"]={"code":"J7E 4H4","region":"Quebec","city":"Boisbriand","latitude":45.610831,"longitude":-73.866029}}(window,'GeoPostal','CA');

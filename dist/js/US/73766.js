@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73766"]={"code":"73766","region":"OK","city":"Pond Creek","latitude":36.6643,"longitude":-97.8019}}(window,'GeoPostal','US');

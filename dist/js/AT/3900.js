@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3900"]={"code":"3900","region":"Niederosterreich","city":"Schwarzenau","latitude":48.74436,"longitude":15.25838}}(window,'GeoPostal','AT');

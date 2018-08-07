@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 9SP"]={"code":"LN13 9SP","region":"England","city":"Mumby","latitude":53.24533,"longitude":0.26931}}(window,'GeoPostal','GB');

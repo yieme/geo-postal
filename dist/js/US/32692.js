@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32692"]={"code":"32692","region":"Florida","city":"Suwannee","latitude":29.32943,"longitude":-83.14374}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA33 4TY"]={"code":"SA33 4TY","region":"Wales","city":"Llanmiloe","latitude":51.75,"longitude":-4.5325}}(window,'GeoPostal','GB');

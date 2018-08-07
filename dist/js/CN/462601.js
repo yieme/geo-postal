@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["462601"]={"code":"462601","region":"Henan","city":"Juling","latitude":33.8622,"longitude":113.96004}}(window,'GeoPostal','CN');

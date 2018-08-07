@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115226"]={"code":"115226","region":"Liaoning","city":"Shuangtai","latitude":40.21774,"longitude":122.27405}}(window,'GeoPostal','CN');

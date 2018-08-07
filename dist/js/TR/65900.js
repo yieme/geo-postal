@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65900"]={"code":"65900","region":"Hatay","city":"Reyhanli","latitude":36.26917,"longitude":36.56722}}(window,'GeoPostal','TR');

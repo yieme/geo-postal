@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55110"]={"code":"55110","region":"Grand-Est","city":"Dun-sur-Meuse","latitude":49.3867,"longitude":5.1839}}(window,'GeoPostal','FR');

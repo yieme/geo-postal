@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2941"]={"code":"2941","region":"Komarom-Esztergom","city":"Acs","latitude":47.71231,"longitude":18.01131}}(window,'GeoPostal','HU');

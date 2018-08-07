@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43806"]={"code":"43806","region":"Hidalgo","city":"Tizayuca","latitude":19.83333,"longitude":-98.98333}}(window,'GeoPostal','MX');

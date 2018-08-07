@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE11 0XA"]={"code":"NE11 0XA","region":"England","city":"Gateshead","latitude":54.96209,"longitude":-1.60168}}(window,'GeoPostal','GB');

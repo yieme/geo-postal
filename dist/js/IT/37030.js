@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37030"]={"code":"37030","region":"Veneto","city":"Colognola ai Colli","latitude":45.43369,"longitude":11.18429}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63079"]={"code":"63079","region":"MO","city":"Stanton","latitude":38.2745,"longitude":-91.1057}}(window,'GeoPostal','US');

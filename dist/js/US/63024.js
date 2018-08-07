@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63024"]={"code":"63024","region":"MO","city":"Ballwin","latitude":38.5951,"longitude":-90.5462}}(window,'GeoPostal','US');

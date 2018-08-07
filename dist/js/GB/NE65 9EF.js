@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9EF"]={"code":"NE65 9EF","region":"England","city":"West Thirston","latitude":55.29494,"longitude":-1.70926}}(window,'GeoPostal','GB');

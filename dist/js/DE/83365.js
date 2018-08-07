@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83365"]={"code":"83365","region":"Bayern","city":"Wang","latitude":47.89698,"longitude":12.6054}}(window,'GeoPostal','DE');

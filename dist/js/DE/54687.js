@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54687"]={"code":"54687","region":"Rheinland-Pfalz","city":"Arzfeld","latitude":50.08333,"longitude":6.26667}}(window,'GeoPostal','DE');

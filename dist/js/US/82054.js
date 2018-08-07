@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82054"]={"code":"82054","region":"WY","city":"Carpenter","latitude":41.0428,"longitude":-104.2765}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175039"]={"code":"175039","region":"Himachal Pradesh","city":"Sarka Ghat","latitude":31.7,"longitude":76.73333}}(window,'GeoPostal','IN');

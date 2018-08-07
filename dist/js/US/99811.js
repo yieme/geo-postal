@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99811"]={"code":"99811","region":"Alaska","city":"Juneau","latitude":58.47763,"longitude":-134.15779}}(window,'GeoPostal','US');

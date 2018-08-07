@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94136"]={"code":"94136","region":"Bayern","city":"Thyrnau","latitude":48.61667,"longitude":13.53333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2537"]={"code":"2537","region":"Komarom-Esztergom","city":"Nyergesujfalu","latitude":47.76027,"longitude":18.55694}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9500"]={"code":"9500","region":"Nordjylland","city":"Hobro","latitude":56.64306,"longitude":9.79029}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77372"]={"code":"77372","region":"Texas","city":"Splendora","latitude":30.220286,"longitude":-95.158358}}(window,'GeoPostal','US');

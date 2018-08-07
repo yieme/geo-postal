@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24149"]={"code":"24149","region":"VA","city":"Riner","latitude":37.0322,"longitude":-80.4353}}(window,'GeoPostal','US');

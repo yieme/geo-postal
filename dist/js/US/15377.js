@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15377"]={"code":"15377","region":"PA","city":"West Finley","latitude":39.9914,"longitude":-80.4408}}(window,'GeoPostal','US');

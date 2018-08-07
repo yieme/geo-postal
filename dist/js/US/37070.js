@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37070"]={"code":"37070","region":"Tennessee","city":"Goodlettsville","latitude":36.32311,"longitude":-86.71333}}(window,'GeoPostal','US');

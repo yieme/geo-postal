@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71209"]={"code":"71209","region":"Bourgogne-Franche-Comte","city":"Le Creusot","latitude":46.80714,"longitude":4.41632}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98558"]={"code":"98558","region":"WA","city":"Mckenna","latitude":46.9348,"longitude":-122.5565}}(window,'GeoPostal','US');

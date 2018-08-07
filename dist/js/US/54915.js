@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54915"]={"code":"54915","region":"Wisconsin","city":"Appleton","latitude":44.279669,"longitude":-88.409341}}(window,'GeoPostal','US');

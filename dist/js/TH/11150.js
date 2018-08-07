@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11150"]={"code":"11150","region":"Nonthaburi","city":"Sai Noi","latitude":13.97915,"longitude":100.31209}}(window,'GeoPostal','TH');

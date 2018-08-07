@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646400"]={"code":"646400","region":"Omskaya oblast'","city":"Sargatskoye","latitude":55.61006,"longitude":73.49716}}(window,'GeoPostal','RU');

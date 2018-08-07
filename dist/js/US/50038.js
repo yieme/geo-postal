@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50038"]={"code":"50038","region":"IA","city":"Booneville","latitude":41.5242,"longitude":-93.8838}}(window,'GeoPostal','US');

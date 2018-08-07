@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72540"]={"code":"72540","region":"Pays-de-la-Loire","city":"Loue","latitude":47.99575,"longitude":-0.1545}}(window,'GeoPostal','FR');

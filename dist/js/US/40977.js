@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40977"]={"code":"40977","region":"Kentucky","city":"Pineville","latitude":36.76203,"longitude":-83.69492}}(window,'GeoPostal','US');

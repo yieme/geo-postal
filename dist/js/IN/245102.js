@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245102"]={"code":"245102","region":"Uttar Pradesh","city":"Gulaothi","latitude":28.6,"longitude":77.78333}}(window,'GeoPostal','IN');

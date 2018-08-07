@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65756"]={"code":"65756","region":"Missouri","city":"Stotts City","latitude":37.111536,"longitude":-93.957762}}(window,'GeoPostal','US');

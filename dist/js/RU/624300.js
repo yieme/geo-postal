@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624300"]={"code":"624300","region":"Sverdlovskaya oblast'","city":"Kushva","latitude":58.29056,"longitude":59.75917}}(window,'GeoPostal','RU');

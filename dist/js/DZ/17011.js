@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17011"]={"code":"17011","region":"Djelfa","city":"'Ain el Bell","latitude":34.3438,"longitude":3.22475}}(window,'GeoPostal','DZ');

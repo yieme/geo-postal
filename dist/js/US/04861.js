@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04861"]={"code":"04861","region":"Maine","city":"Thomaston","latitude":44.07897,"longitude":-69.18171}}(window,'GeoPostal','US');

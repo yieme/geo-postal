@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 2L0"]={"code":"V0B 2L0","region":"British Columbia","city":"Windermere","latitude":50.46665,"longitude":-115.98537}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39490"]={"code":"39490","region":"Cantabria","city":"Santiurde de Reinosa","latitude":43.06145,"longitude":-4.084239}}(window,'GeoPostal','ES');

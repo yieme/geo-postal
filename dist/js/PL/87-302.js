@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-302"]={"code":"87-302","region":"Kujawsko-pomorskie","city":"Brodnica","latitude":53.25967,"longitude":19.39653}}(window,'GeoPostal','PL');

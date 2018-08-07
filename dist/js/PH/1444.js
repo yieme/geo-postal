@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1444"]={"code":"1444","region":"Marinduque","city":"Buyabod","latitude":13.4666,"longitude":122.0526}}(window,'GeoPostal','PH');

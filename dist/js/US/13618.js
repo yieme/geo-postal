@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13618"]={"code":"13618","region":"NY","city":"Cape Vincent","latitude":44.1244,"longitude":-76.3164}}(window,'GeoPostal','US');

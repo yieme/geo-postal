@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21398"]={"code":"21398","region":"Niedersachsen","city":"Neetze","latitude":53.26521,"longitude":10.62134}}(window,'GeoPostal','DE');

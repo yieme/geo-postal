@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2334"]={"code":"2334","region":"Niederosterreich","city":"Wiener Neudorf","latitude":48.08278,"longitude":16.31384}}(window,'GeoPostal','AT');

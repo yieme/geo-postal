@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0S 1S0"]={"code":"L0S 1S0","region":"Ontario","city":"Crystal Beach","latitude":42.94451,"longitude":-79.056749}}(window,'GeoPostal','CA');

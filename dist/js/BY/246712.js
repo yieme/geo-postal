@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246712"]={"code":"246712","region":"Brestskaya voblasts'","city":"Brest","latitude":52.09755,"longitude":23.68775}}(window,'GeoPostal','BY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 9QA"]={"code":"HR2 9QA","region":"England","city":"Eaton Bishop","latitude":52.04568,"longitude":-2.81314}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13800-000"]={"code":"13800-000","region":"Sao Paulo","city":"Mogi Guacu","latitude":-22.37222,"longitude":-46.94222}}(window,'GeoPostal','BR');

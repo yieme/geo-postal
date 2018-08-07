@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2H0"]={"code":"N0G 2H0","region":"Ontario","city":"Lucknow","latitude":43.95009,"longitude":-81.51647}}(window,'GeoPostal','CA');

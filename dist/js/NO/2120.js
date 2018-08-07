@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2120"]={"code":"2120","region":"Hedmark","city":"Sand","latitude":60.3922,"longitude":11.5403}}(window,'GeoPostal','NO');

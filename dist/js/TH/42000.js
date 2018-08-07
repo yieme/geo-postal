@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42000"]={"code":"42000","region":"Loei","city":"Loei","latitude":17.49052,"longitude":101.72749}}(window,'GeoPostal','TH');

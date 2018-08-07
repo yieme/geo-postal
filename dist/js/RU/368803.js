@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368803"]={"code":"368803","region":"Dagestan, Respublika","city":"Pervomayskoye","latitude":43.91904,"longitude":46.71019}}(window,'GeoPostal','RU');

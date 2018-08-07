@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64575-000"]={"code":"64575-000","region":"Piaui","city":"Jaicos","latitude":-7.35917,"longitude":-41.13778}}(window,'GeoPostal','BR');

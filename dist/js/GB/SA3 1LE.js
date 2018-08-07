@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA3 1LE"]={"code":"SA3 1LE","region":"Wales","city":"Horton","latitude":51.55167,"longitude":-4.20278}}(window,'GeoPostal','GB');

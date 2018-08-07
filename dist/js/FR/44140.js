@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44140"]={"code":"44140","region":"Pays-de-la-Loire","city":"Remouille","latitude":47.05587,"longitude":-1.37682}}(window,'GeoPostal','FR');

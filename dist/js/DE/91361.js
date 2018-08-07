@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91361"]={"code":"91361","region":"Bayern","city":"Sigritzau","latitude":49.69808,"longitude":11.08177}}(window,'GeoPostal','DE');

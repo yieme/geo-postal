@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13740"]={"code":"13740","region":"La Libertad","city":"Santiago de Cao","latitude":-7.95889,"longitude":-79.23917}}(window,'GeoPostal','PE');

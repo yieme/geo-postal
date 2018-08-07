@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46940"]={"code":"46940","region":"Valenciana, Comunidad","city":"Manises","latitude":39.49139,"longitude":-0.46349}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34390"]={"code":"34390","region":"Occitanie","city":"Premian","latitude":43.525,"longitude":2.8311}}(window,'GeoPostal','FR');

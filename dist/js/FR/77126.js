@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77126"]={"code":"77126","region":"Ile-de-France","city":"Chatenay-sur-Seine","latitude":48.41839,"longitude":3.09474}}(window,'GeoPostal','FR');

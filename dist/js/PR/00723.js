@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00723"]={"code":"00723","region":"Patillas","city":"Patillas","latitude":18.00635,"longitude":-66.01572}}(window,'GeoPostal','PR');

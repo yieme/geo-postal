@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07416"]={"code":"07416","region":"NJ","city":"Franklin","latitude":41.1164,"longitude":-74.5865}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46509"]={"code":"46509","region":"Nordrhein-Westfalen","city":"Xanten","latitude":51.65877,"longitude":6.45297}}(window,'GeoPostal','DE');

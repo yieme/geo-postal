@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16258"]={"code":"16258","region":"Pennsylvania","city":"Strattanville","latitude":41.2025,"longitude":-79.32889}}(window,'GeoPostal','US');

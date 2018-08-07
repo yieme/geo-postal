@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04488"]={"code":"04488","region":"ME","city":"Stetson","latitude":44.8843,"longitude":-69.1069}}(window,'GeoPostal','US');

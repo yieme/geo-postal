@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88440"]={"code":"88440","region":"Federacija Bosne i Hercegovine","city":"Prozor","latitude":43.82222,"longitude":17.60917}}(window,'GeoPostal','BA');

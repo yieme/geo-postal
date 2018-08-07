@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71933"]={"code":"71933","region":"AR","city":"Bonnerdale","latitude":34.3848,"longitude":-93.3819}}(window,'GeoPostal','US');

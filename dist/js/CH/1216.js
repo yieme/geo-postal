@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1216"]={"code":"1216","region":"Geneve","city":"Les Avanchets","latitude":46.22168,"longitude":6.10814}}(window,'GeoPostal','CH');

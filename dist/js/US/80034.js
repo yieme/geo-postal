@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80034"]={"code":"80034","region":"Colorado","city":"Wheat Ridge","latitude":39.77442,"longitude":-105.08082}}(window,'GeoPostal','US');

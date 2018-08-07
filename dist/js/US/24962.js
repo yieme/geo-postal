@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24962"]={"code":"24962","region":"WV","city":"Pence Springs","latitude":37.6621,"longitude":-80.7202}}(window,'GeoPostal','US');

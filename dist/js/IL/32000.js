@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32000"]={"code":"32000","region":"Hefa","city":"Haifa","latitude":32.81556,"longitude":34.98917}}(window,'GeoPostal','IL');

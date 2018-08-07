@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301 00"]={"code":"301 00","region":"Plzensky kraj","city":"Plzen","latitude":49.74747,"longitude":13.37759}}(window,'GeoPostal','CZ');

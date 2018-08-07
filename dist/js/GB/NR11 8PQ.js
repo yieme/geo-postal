@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 8PQ"]={"code":"NR11 8PQ","region":"England","city":"Felbrigg","latitude":52.90877,"longitude":1.27991}}(window,'GeoPostal','GB');

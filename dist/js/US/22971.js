@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22971"]={"code":"22971","region":"VA","city":"Shipman","latitude":37.76,"longitude":-78.8105}}(window,'GeoPostal','US');

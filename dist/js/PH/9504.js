@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9504"]={"code":"9504","region":"South Cotabato","city":"Glamang","latitude":6.16255,"longitude":125.08392}}(window,'GeoPostal','PH');

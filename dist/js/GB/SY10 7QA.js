@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 7QA"]={"code":"SY10 7QA","region":"Wales","city":"Llansilin","latitude":52.84574,"longitude":-3.17576}}(window,'GeoPostal','GB');

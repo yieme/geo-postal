@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["668510"]={"code":"668510","region":"Tyva, Respublika","city":"Turan","latitude":52.14528,"longitude":93.91917}}(window,'GeoPostal','RU');

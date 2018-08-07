@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61500"]={"code":"61500","region":"Normandie","city":"Sees","latitude":48.60403,"longitude":0.17244}}(window,'GeoPostal','FR');

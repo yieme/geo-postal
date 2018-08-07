@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 0M0"]={"code":"S0A 0M0","region":"Saskatchewan","city":"Churchbridge","latitude":50.9,"longitude":-101.90094}}(window,'GeoPostal','CA');

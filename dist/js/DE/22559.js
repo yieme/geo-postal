@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22559"]={"code":"22559","region":"Hamburg","city":"Rissen","latitude":53.58453,"longitude":9.76594}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS29 6PB"]={"code":"TS29 6PB","region":"England","city":"Trimdon Grange","latitude":54.71414,"longitude":-1.42611}}(window,'GeoPostal','GB');

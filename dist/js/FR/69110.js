@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69110"]={"code":"69110","region":"Auvergne-Rhone-Alpes","city":"Sainte-Foy-les-Lyon","latitude":45.73692,"longitude":4.79688}}(window,'GeoPostal','FR');

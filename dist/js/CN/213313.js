@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213313"]={"code":"213313","region":"Jiangsu","city":"Nandu","latitude":31.42773,"longitude":119.37282}}(window,'GeoPostal','CN');

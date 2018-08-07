@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82222"]={"code":"82222","region":"WY","city":"Lance Creek","latitude":43.0325,"longitude":-104.6419}}(window,'GeoPostal','US');

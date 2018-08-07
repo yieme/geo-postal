@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3191"]={"code":"3191","region":"Entre Rios","city":"San Gustavo","latitude":-30.68961,"longitude":-59.3984}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 5BY"]={"code":"CA7 5BY","region":"England","city":"Port Carlisle","latitude":54.94844,"longitude":-3.18878}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0P 1P0"]={"code":"P0P 1P0","region":"Ontario","city":"Massey","latitude":46.20007,"longitude":-82.08312}}(window,'GeoPostal','CA');

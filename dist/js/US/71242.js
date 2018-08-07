@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71242"]={"code":"71242","region":"LA","city":"Forest","latitude":32.8239,"longitude":-91.3989}}(window,'GeoPostal','US');

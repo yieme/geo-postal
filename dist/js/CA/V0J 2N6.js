@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0J 2N6"]={"code":"V0J 2N6","region":"British Columbia","city":"Lake Kathlyn","latitude":54.81646,"longitude":-127.22019}}(window,'GeoPostal','CA');

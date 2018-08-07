@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09039"]={"code":"09039","region":"Sardegna","city":"Villacidro","latitude":39.45778,"longitude":8.74056}}(window,'GeoPostal','IT');

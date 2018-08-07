@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5418"]={"code":"5418","region":"Masbate","city":"San Jacinto","latitude":12.5677,"longitude":123.7337}}(window,'GeoPostal','PH');

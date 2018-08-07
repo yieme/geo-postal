@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68321"]={"code":"68321","region":"NE","city":"Brownville","latitude":40.3994,"longitude":-95.6935}}(window,'GeoPostal','US');

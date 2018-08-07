@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23023"]={"code":"23023","region":"Lombardia","city":"Chiesa in Valmalenco","latitude":46.2651,"longitude":9.84865}}(window,'GeoPostal','IT');

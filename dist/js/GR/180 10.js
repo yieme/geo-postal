@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180 10"]={"code":"180 10","region":"Sterea Ellada","city":"Vathi","latitude":37.76567,"longitude":23.4812}}(window,'GeoPostal','GR');

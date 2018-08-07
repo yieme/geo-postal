@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16134"]={"code":"16134","region":"Pennsylvania","city":"Jamestown","latitude":41.48639,"longitude":-80.43833}}(window,'GeoPostal','US');

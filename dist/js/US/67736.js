@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67736"]={"code":"67736","region":"KS","city":"Gove","latitude":38.887,"longitude":-100.4867}}(window,'GeoPostal','US');

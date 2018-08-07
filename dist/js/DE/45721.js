@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45721"]={"code":"45721","region":"Bayern","city":"Am See","latitude":47.73788,"longitude":11.7376}}(window,'GeoPostal','DE');

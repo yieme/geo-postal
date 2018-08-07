@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80863"]={"code":"80863","region":"Colorado","city":"Monument","latitude":38.995606,"longitude":-105.073256}}(window,'GeoPostal','US');

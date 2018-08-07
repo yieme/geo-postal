@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21680"]={"code":"21680","region":"Niedersachsen","city":"Stade","latitude":53.59337,"longitude":9.47629}}(window,'GeoPostal','DE');

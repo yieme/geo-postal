@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62570-000"]={"code":"62570-000","region":"Ceara","city":"Bela Cruz","latitude":-3.05056,"longitude":-40.16778}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["661300"]={"code":"661300","region":"Yunnan","city":"Hekou","latitude":22.53851,"longitude":104.01109}}(window,'GeoPostal','CN');

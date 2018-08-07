@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29666"]={"code":"29666","region":"SC","city":"Ninety Six","latitude":34.1652,"longitude":-82.0292}}(window,'GeoPostal','US');

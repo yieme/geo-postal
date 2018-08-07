@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36318"]={"code":"36318","region":"AL","city":"Coffee Springs","latitude":31.1388,"longitude":-85.9182}}(window,'GeoPostal','US');

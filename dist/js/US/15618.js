@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15618"]={"code":"15618","region":"PA","city":"Avonmore","latitude":40.5221,"longitude":-79.4853}}(window,'GeoPostal','US');

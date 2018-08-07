@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3105"]={"code":"3105","region":"Entre Rios","city":"Diamante","latitude":-32.06641,"longitude":-60.63836}}(window,'GeoPostal','AR');

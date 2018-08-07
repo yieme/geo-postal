@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25981"]={"code":"25981","region":"WV","city":"Quinwood","latitude":38.0576,"longitude":-80.7068}}(window,'GeoPostal','US');

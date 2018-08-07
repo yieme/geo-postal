@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12912"]={"code":"12912","region":"NY","city":"Au Sable Forks","latitude":44.4499,"longitude":-73.6857}}(window,'GeoPostal','US');

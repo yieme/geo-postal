@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95920"]={"code":"95920","region":"CA","city":"Butte City","latitude":39.4568,"longitude":-121.9515}}(window,'GeoPostal','US');

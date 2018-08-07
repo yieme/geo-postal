@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29151"]={"code":"29151","region":"Riau","city":"Kijang","latitude":0.9,"longitude":104.63333}}(window,'GeoPostal','ID');

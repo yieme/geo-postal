@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["350 02"]={"code":"350 02","region":"Sterea Ellada","city":"Amfiklia","latitude":38.63333,"longitude":22.58333}}(window,'GeoPostal','GR');

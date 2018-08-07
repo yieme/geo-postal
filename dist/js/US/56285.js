@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56285"]={"code":"56285","region":"Minnesota","city":"Sacred Heart","latitude":44.78639,"longitude":-95.35083}}(window,'GeoPostal','US');

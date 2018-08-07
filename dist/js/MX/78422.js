@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78422"]={"code":"78422","region":"San Luis Potosi","city":"La Pila","latitude":22.05,"longitude":-100.86667}}(window,'GeoPostal','MX');

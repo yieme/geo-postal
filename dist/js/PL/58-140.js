@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-140"]={"code":"58-140","region":"Dolnoslaskie","city":"Jaworzyna Slaska","latitude":50.9134,"longitude":16.43241}}(window,'GeoPostal','PL');

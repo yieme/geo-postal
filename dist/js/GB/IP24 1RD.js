@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP24 1RD"]={"code":"IP24 1RD","region":"England","city":"East Wretham","latitude":52.47552,"longitude":0.82089}}(window,'GeoPostal','GB');

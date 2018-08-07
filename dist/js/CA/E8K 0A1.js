@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8K 0A1"]={"code":"E8K 0A1","region":"New Brunswick","city":"Beresford","latitude":47.69128,"longitude":-65.69893}}(window,'GeoPostal','CA');

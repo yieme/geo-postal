@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67609"]={"code":"67609","region":"Grand-Est","city":"Selestat","latitude":48.26667,"longitude":7.45}}(window,'GeoPostal','FR');

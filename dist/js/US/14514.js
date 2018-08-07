@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14514"]={"code":"14514","region":"NY","city":"North Chili","latitude":43.1186,"longitude":-77.8005}}(window,'GeoPostal','US');

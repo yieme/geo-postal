@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56335"]={"code":"56335","region":"MN","city":"Greenwald","latitude":45.5971,"longitude":-94.8515}}(window,'GeoPostal','US');

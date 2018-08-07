@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4157"]={"code":"4157","region":"Queensland","city":"Capalaba","latitude":-27.51667,"longitude":153.18333}}(window,'GeoPostal','AU');

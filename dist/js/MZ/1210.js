@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1210"]={"code":"1210","region":"Gaza","city":"Manjacaze","latitude":-24.71167,"longitude":33.88278}}(window,'GeoPostal','MZ');

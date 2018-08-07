@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34230"]={"code":"34230","region":"Occitanie","city":"Paulhan","latitude":43.53944,"longitude":3.4576}}(window,'GeoPostal','FR');

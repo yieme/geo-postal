@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535504"]={"code":"535504","region":"Harghita","city":"Gheorgheni","latitude":46.71667,"longitude":25.61667}}(window,'GeoPostal','RO');

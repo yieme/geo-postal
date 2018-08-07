@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31417"]={"code":"31417","region":"Osjecko-baranjska zupanija","city":"Piskorevci","latitude":45.25528,"longitude":18.40417}}(window,'GeoPostal','HR');

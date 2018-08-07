@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15936"]={"code":"15936","region":"PA","city":"Hooversville","latitude":40.1488,"longitude":-78.9141}}(window,'GeoPostal','US');

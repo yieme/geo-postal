@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69689"]={"code":"69689","region":"Auvergne-Rhone-Alpes","city":"Chassieu","latitude":45.74584,"longitude":4.97088}}(window,'GeoPostal','FR');

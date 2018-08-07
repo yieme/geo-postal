@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01018"]={"code":"01018","region":"Lazio","city":"Valentano","latitude":42.56453,"longitude":11.82605}}(window,'GeoPostal','IT');

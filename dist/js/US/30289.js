@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30289"]={"code":"30289","region":"GA","city":"Turin","latitude":33.326,"longitude":-84.6371}}(window,'GeoPostal','US');

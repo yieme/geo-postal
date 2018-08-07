@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29-105"]={"code":"29-105","region":"Swietokrzyskie","city":"Krasocin","latitude":50.88874,"longitude":20.11863}}(window,'GeoPostal','PL');

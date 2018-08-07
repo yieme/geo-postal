@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35091"]={"code":"35091","region":"AL","city":"Kimberly","latitude":33.7684,"longitude":-86.8084}}(window,'GeoPostal','US');

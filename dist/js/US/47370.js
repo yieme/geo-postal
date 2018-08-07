@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47370"]={"code":"47370","region":"Indiana","city":"Pershing","latitude":39.812799,"longitude":-85.13714}}(window,'GeoPostal','US');

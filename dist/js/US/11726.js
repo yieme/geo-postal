@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11726"]={"code":"11726","region":"New York","city":"Copiague","latitude":40.680994,"longitude":-73.395062}}(window,'GeoPostal','US');

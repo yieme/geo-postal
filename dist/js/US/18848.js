@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18848"]={"code":"18848","region":"Pennsylvania","city":"Towanda","latitude":41.76758,"longitude":-76.44272}}(window,'GeoPostal','US');

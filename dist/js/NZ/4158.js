@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4158"]={"code":"4158","region":"Hawke's Bay","city":"Hastings","latitude":-39.6381,"longitude":176.84918}}(window,'GeoPostal','NZ');

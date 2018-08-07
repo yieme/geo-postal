@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4B 1E6"]={"code":"L4B 1E6","region":"Ontario","city":"Richmond Hill","latitude":43.849154,"longitude":-79.381807}}(window,'GeoPostal','CA');

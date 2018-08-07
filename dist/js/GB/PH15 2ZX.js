@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH15 2ZX"]={"code":"PH15 2ZX","region":"Scotland","city":"Aberfeldy","latitude":56.62,"longitude":-3.86453}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46041"]={"code":"46041","region":"Indiana","city":"Frankfort","latitude":40.26462,"longitude":-86.52846}}(window,'GeoPostal','US');

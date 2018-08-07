@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99668"]={"code":"99668","region":"Alaska","city":"Sleetmute","latitude":61.68389,"longitude":-157.15194}}(window,'GeoPostal','US');

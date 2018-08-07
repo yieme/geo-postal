@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MXK 9065"]={"code":"MXK 9065","region":"Marsaxlokk","city":"Marsaxlokk","latitude":35.84194,"longitude":14.54306}}(window,'GeoPostal','MT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36120"]={"code":"36120","region":"Chaiyaphum","city":"Kaset Sombun","latitude":16.28053,"longitude":101.95422}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530 70"]={"code":"530 70","region":"Dytiki Makedonia","city":"Filotas","latitude":40.63333,"longitude":21.7}}(window,'GeoPostal','GR');

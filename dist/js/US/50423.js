@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50423"]={"code":"50423","region":"Iowa","city":"Britt","latitude":43.09774,"longitude":-93.80189}}(window,'GeoPostal','US');

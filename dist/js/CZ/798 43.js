@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["798 43"]={"code":"798 43","region":"Olomoucky kraj","city":"Premyslovice","latitude":49.55637,"longitude":16.95581}}(window,'GeoPostal','CZ');

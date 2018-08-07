@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368546"]={"code":"368546","region":"Dagestan, Respublika","city":"Gubden","latitude":42.56808,"longitude":47.56579}}(window,'GeoPostal','RU');

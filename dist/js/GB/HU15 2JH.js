@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU15 2JH"]={"code":"HU15 2JH","region":"England","city":"Everthorpe","latitude":53.76855,"longitude":-0.63686}}(window,'GeoPostal','GB');

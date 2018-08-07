@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54455"]={"code":"54455","region":"Wisconsin","city":"Mosinee","latitude":44.79302,"longitude":-89.70318}}(window,'GeoPostal','US');

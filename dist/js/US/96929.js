@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96929"]={"code":"96929","region":"GU","city":"Yigo","latitude":13.53,"longitude":144.88}}(window,'GeoPostal','US');

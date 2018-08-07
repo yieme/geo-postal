@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49314"]={"code":"49314","region":"MI","city":"Burnips","latitude":42.7312,"longitude":-85.8404}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456049"]={"code":"456049","region":"Chelyabinskaya oblast'","city":"Ust'-Katav","latitude":54.9366,"longitude":58.1757}}(window,'GeoPostal','RU');

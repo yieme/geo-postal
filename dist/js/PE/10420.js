@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10420"]={"code":"10420","region":"Huanuco","city":"Ambo","latitude":-10.13083,"longitude":-76.20472}}(window,'GeoPostal','PE');

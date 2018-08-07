@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48167"]={"code":"48167","region":"Michigan","city":"Northville","latitude":42.421951,"longitude":-83.472076}}(window,'GeoPostal','US');

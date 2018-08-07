@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29451"]={"code":"29451","region":"South Carolina","city":"Isle of Palms","latitude":32.794627,"longitude":-79.770914}}(window,'GeoPostal','US');

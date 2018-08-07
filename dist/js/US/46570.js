@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46570"]={"code":"46570","region":"Indiana","city":"Tippecanoe","latitude":41.211845,"longitude":-86.123511}}(window,'GeoPostal','US');

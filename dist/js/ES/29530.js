@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29530"]={"code":"29530","region":"Andalucia","city":"Alameda","latitude":37.2087,"longitude":-4.6586}}(window,'GeoPostal','ES');

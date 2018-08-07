@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0M 2S0"]={"code":"N0M 2S0","region":"Ontario","city":"Watford","latitude":42.95008,"longitude":-81.88309}}(window,'GeoPostal','CA');

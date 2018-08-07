@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98562"]={"code":"98562","region":"WA","city":"Moclips","latitude":47.2387,"longitude":-124.2039}}(window,'GeoPostal','US');

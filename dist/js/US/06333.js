@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06333"]={"code":"06333","region":"Connecticut","city":"East Lyme","latitude":41.376134,"longitude":-72.231152}}(window,'GeoPostal','US');

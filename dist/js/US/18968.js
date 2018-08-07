@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18968"]={"code":"18968","region":"PA","city":"Spinnerstown","latitude":40.439,"longitude":-75.4371}}(window,'GeoPostal','US');

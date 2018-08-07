@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461369"]={"code":"461369","region":"Orenburgskaya oblast'","city":"Ilek","latitude":51.52709,"longitude":53.38306}}(window,'GeoPostal','RU');

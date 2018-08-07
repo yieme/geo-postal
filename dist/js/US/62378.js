@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62378"]={"code":"62378","region":"Illinois","city":"Versailles","latitude":39.88389,"longitude":-90.6575}}(window,'GeoPostal','US');

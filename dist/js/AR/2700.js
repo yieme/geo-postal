@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2700"]={"code":"2700","region":"Buenos Aires","city":"Pergamino","latitude":-33.88995,"longitude":-60.57357}}(window,'GeoPostal','AR');

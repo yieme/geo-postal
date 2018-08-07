@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70442"]={"code":"70442","region":"LA","city":"Husser","latitude":30.692,"longitude":-90.339}}(window,'GeoPostal','US');

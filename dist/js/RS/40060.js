@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40060"]={"code":"40060","region":"Prizrenski okrug","city":"Mitrovice","latitude":42.88333,"longitude":20.86667}}(window,'GeoPostal','RS');

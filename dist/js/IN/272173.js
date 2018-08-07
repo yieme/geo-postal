@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["272173"]={"code":"272173","region":"Uttar Pradesh","city":"Khalilabad","latitude":26.775,"longitude":83.07361}}(window,'GeoPostal','IN');

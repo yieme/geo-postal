@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411041"]={"code":"411041","region":"Maharashtra","city":"Phaltan","latitude":17.98333,"longitude":74.43333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49942"]={"code":"49942","region":"MI","city":"Kearsarge","latitude":47.2694,"longitude":-88.4184}}(window,'GeoPostal','US');

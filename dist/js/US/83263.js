@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83263"]={"code":"83263","region":"Idaho","city":"Preston","latitude":42.09631,"longitude":-111.87662}}(window,'GeoPostal','US');

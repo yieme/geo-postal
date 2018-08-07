@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19110"]={"code":"19110","region":"Paijat-Hame","city":"Heinola","latitude":61.20564,"longitude":26.03811}}(window,'GeoPostal','FI');

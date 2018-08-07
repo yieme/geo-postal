@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62244"]={"code":"62244","region":"IL","city":"Fults","latitude":38.1797,"longitude":-90.1974}}(window,'GeoPostal','US');

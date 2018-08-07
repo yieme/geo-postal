@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83750-000"]={"code":"83750-000","region":"Parana","city":"Lapa","latitude":-25.76972,"longitude":-49.71583}}(window,'GeoPostal','BR');

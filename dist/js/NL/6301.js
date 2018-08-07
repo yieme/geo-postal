@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6301"]={"code":"6301","region":"Limburg","city":"Valkenburg","latitude":50.86417,"longitude":5.83056}}(window,'GeoPostal','NL');

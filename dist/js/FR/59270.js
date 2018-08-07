@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59270"]={"code":"59270","region":"Hauts-de-France","city":"Bailleul","latitude":50.73592,"longitude":2.73594}}(window,'GeoPostal','FR');

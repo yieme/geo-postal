@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04066"]={"code":"04066","region":"ME","city":"Orrs Island","latitude":43.7727,"longitude":-69.9668}}(window,'GeoPostal','US');

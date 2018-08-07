@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01060"]={"code":"01060","region":"Massachusetts","city":"Northampton","latitude":42.32509,"longitude":-72.6412}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B4H 4C2"]={"code":"B4H 4C2","region":"Nova Scotia","city":"Fort Lawrence","latitude":45.85015,"longitude":-64.24874}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33038"]={"code":"33038","region":"Friuli-Venezia Giulia","city":"San Daniele del Friuli","latitude":46.16139,"longitude":13.01417}}(window,'GeoPostal','IT');

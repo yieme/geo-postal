@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87022"]={"code":"87022","region":"NM","city":"Isleta","latitude":34.9073,"longitude":-106.6892}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471-0052"]={"code":"471-0052","region":"Aichi","city":"Toyota","latitude":35.083,"longitude":137.15}}(window,'GeoPostal','JP');

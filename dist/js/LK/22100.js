@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22100"]={"code":"22100","region":"Central Province","city":"Talawakele","latitude":6.9371,"longitude":80.6581}}(window,'GeoPostal','LK');

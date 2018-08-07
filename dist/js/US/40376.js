@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40376"]={"code":"40376","region":"Kentucky","city":"Campton","latitude":37.73425,"longitude":-83.54741}}(window,'GeoPostal','US');

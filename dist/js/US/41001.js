@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41001"]={"code":"41001","region":"KY","city":"Alexandria","latitude":38.9406,"longitude":-84.3943}}(window,'GeoPostal','US');

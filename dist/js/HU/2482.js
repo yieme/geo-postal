@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2482"]={"code":"2482","region":"Fejer","city":"Velence","latitude":47.23855,"longitude":18.65484}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91284"]={"code":"91284","region":"Bayern","city":"Finstermuhle","latitude":49.62116,"longitude":11.55213}}(window,'GeoPostal','DE');

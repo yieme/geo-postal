@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37135"]={"code":"37135","region":"TN","city":"Nolensville","latitude":35.9307,"longitude":-86.6829}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09573"]={"code":"09573","region":"Sachsen","city":"Hennersdorf","latitude":50.79357,"longitude":13.0828}}(window,'GeoPostal','DE');

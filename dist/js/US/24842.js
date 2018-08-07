@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24842"]={"code":"24842","region":"WV","city":"Hemphill","latitude":37.44,"longitude":-81.59}}(window,'GeoPostal','US');

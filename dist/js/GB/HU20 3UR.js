@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU20 3UR"]={"code":"HU20 3UR","region":"England","city":"High Hunsley","latitude":53.80405,"longitude":-0.55219}}(window,'GeoPostal','GB');

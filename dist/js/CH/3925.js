@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3925"]={"code":"3925","region":"Valais","city":"Grachen","latitude":46.19636,"longitude":7.8395}}(window,'GeoPostal','CH');

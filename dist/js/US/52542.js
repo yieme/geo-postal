@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52542"]={"code":"52542","region":"Iowa","city":"Cantril","latitude":40.643623,"longitude":-92.068829}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1128"]={"code":"1128","region":"Aragacotn","city":"Doghs","latitude":40.22373,"longitude":44.27171}}(window,'GeoPostal','AM');

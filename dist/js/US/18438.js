@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18438"]={"code":"18438","region":"Pennsylvania","city":"Lakeville","latitude":41.475833,"longitude":-75.1825}}(window,'GeoPostal','US');

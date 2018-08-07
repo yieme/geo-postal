@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["526-0126"]={"code":"526-0126","region":"Shiga","city":"Nagahama","latitude":35.383,"longitude":136.283}}(window,'GeoPostal','JP');

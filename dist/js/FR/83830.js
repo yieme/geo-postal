@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83830"]={"code":"83830","region":"Provence-Alpes-Cote d'Azur","city":"Bargemon","latitude":43.61899,"longitude":6.54957}}(window,'GeoPostal','FR');

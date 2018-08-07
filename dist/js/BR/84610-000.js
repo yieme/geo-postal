@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84610-000"]={"code":"84610-000","region":"Santa Catarina","city":"Porto Uniao","latitude":-26.23806,"longitude":-51.07833}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98352"]={"code":"98352","region":"WA","city":"Sumner","latitude":47.0662,"longitude":-122.1132}}(window,'GeoPostal','US');

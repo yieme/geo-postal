@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64112"]={"code":"64112","region":"Jawa Timur","city":"Gampengrejo","latitude":-7.76667,"longitude":112.01667}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37410-000"]={"code":"37410-000","region":"Minas Gerais","city":"Tres Coracoes","latitude":-21.69694,"longitude":-45.25333}}(window,'GeoPostal','BR');

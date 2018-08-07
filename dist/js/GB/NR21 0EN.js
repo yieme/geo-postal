@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 0EN"]={"code":"NR21 0EN","region":"England","city":"Stibbard","latitude":52.81542,"longitude":0.93923}}(window,'GeoPostal','GB');

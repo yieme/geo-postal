@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23738"]={"code":"23738","region":"Schleswig-Holstein","city":"Gosdorf","latitude":54.21941,"longitude":10.97384}}(window,'GeoPostal','DE');

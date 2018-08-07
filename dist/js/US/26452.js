@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26452"]={"code":"26452","region":"West Virginia","city":"Weston","latitude":39.043045,"longitude":-80.467826}}(window,'GeoPostal','US');

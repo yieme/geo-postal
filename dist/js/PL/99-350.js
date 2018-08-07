@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-350"]={"code":"99-350","region":"Lodzkie","city":"Nowe Ostrowy","latitude":52.30318,"longitude":19.19217}}(window,'GeoPostal','PL');

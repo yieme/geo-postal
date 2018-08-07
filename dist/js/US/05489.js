@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05489"]={"code":"05489","region":"Vermont","city":"Underhill","latitude":44.5389,"longitude":-72.92058}}(window,'GeoPostal','US');

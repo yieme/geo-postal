@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60529"]={"code":"60529","region":"Hessen","city":"Frankfurt am Main","latitude":50.11552,"longitude":8.68417}}(window,'GeoPostal','DE');

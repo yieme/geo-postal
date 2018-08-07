@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21875"]={"code":"21875","region":"MD","city":"Delmar","latitude":38.4445,"longitude":-75.5583}}(window,'GeoPostal','US');

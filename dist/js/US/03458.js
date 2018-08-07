@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03458"]={"code":"03458","region":"New Hampshire","city":"Peterborough","latitude":42.888498,"longitude":-71.943723}}(window,'GeoPostal','US');

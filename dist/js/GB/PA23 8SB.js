@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA23 8SB"]={"code":"PA23 8SB","region":"Scotland","city":"Kilmun","latitude":55.99225,"longitude":-4.93238}}(window,'GeoPostal','GB');

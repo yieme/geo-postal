@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530011"]={"code":"530011","region":"Guangxi","city":"Nanning","latitude":22.81667,"longitude":108.31667}}(window,'GeoPostal','CN');

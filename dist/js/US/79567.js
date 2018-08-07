@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79567"]={"code":"79567","region":"Texas","city":"Winters","latitude":31.95653,"longitude":-99.96231}}(window,'GeoPostal','US');

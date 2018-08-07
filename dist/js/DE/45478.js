@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45478"]={"code":"45478","region":"Nordrhein-Westfalen","city":"Speldorf","latitude":51.42977,"longitude":6.82859}}(window,'GeoPostal','DE');

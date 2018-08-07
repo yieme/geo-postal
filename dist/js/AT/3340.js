@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3340"]={"code":"3340","region":"Niederosterreich","city":"Waidhofen an der Ybbs","latitude":47.96004,"longitude":14.77361}}(window,'GeoPostal','AT');

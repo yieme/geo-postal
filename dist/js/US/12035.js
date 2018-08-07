@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12035"]={"code":"12035","region":"NY","city":"Central Bridge","latitude":42.737,"longitude":-74.3451}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663981"]={"code":"663981","region":"Krasnoyarskiy kray","city":"Borodino","latitude":55.91056,"longitude":94.89833}}(window,'GeoPostal','RU');

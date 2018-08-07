@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97112"]={"code":"97112","region":"Guadeloupe","city":"Grand-Bourg","latitude":15.88346,"longitude":-61.31484}}(window,'GeoPostal','GP');

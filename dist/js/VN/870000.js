@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["870000"]={"code":"870000","region":"Dong Thap","city":"Cao Lanh","latitude":10.45,"longitude":105.63333}}(window,'GeoPostal','VN');

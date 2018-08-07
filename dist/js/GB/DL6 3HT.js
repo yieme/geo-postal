@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL6 3HT"]={"code":"DL6 3HT","region":"England","city":"Whorlton","latitude":54.41667,"longitude":-1.25}}(window,'GeoPostal','GB');

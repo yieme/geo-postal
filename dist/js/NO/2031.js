@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2031"]={"code":"2031","region":"Akershus","city":"Teigebyen","latitude":60.22155,"longitude":11.01867}}(window,'GeoPostal','NO');

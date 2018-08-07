@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38344"]={"code":"38344","region":"Tennessee","city":"Huntingdon","latitude":36.00062,"longitude":-88.42811}}(window,'GeoPostal','US');

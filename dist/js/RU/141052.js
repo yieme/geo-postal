@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141052"]={"code":"141052","region":"Moskovskaya oblast'","city":"Lugovaya","latitude":56.05,"longitude":37.48333}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61278"]={"code":"61278","region":"IL","city":"Rapids City","latitude":41.5817,"longitude":-90.3435}}(window,'GeoPostal','US');

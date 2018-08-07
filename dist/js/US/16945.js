@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16945"]={"code":"16945","region":"Pennsylvania","city":"Sylvania","latitude":41.805038,"longitude":-76.857523}}(window,'GeoPostal','US');

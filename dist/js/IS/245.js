@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245"]={"code":"245","region":"Sudurnes","city":"Keflavik","latitude":64.00492,"longitude":-22.56242}}(window,'GeoPostal','IS');

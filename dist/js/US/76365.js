@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76365"]={"code":"76365","region":"TX","city":"Henrietta","latitude":33.8196,"longitude":-98.26}}(window,'GeoPostal','US');

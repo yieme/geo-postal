@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 2B0"]={"code":"S0G 2B0","region":"Saskatchewan","city":"Grenfell","latitude":50.41674,"longitude":-102.93432}}(window,'GeoPostal','CA');

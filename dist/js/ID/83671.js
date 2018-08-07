@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83671"]={"code":"83671","region":"Nusa Tenggara Barat","city":"Kampungmasjid","latitude":-8.5984,"longitude":116.4498}}(window,'GeoPostal','ID');

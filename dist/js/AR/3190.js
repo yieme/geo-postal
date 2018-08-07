@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3190"]={"code":"3190","region":"Entre Rios","city":"La Paz","latitude":-30.74485,"longitude":-59.64566}}(window,'GeoPostal','AR');

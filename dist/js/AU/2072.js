@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2072"]={"code":"2072","region":"Victoria","city":"Gordon","latitude":-37.5823,"longitude":144.10925}}(window,'GeoPostal','AU');

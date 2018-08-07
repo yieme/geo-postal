@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92366"]={"code":"92366","region":"California","city":"Mountain Pass","latitude":35.47275,"longitude":-115.52886}}(window,'GeoPostal','US');

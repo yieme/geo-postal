@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["389 01"]={"code":"389 01","region":"Jihocesky kraj","city":"Vodnany","latitude":49.14789,"longitude":14.17513}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56369"]={"code":"56369","region":"MN","city":"Rockville","latitude":45.4719,"longitude":-94.3408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38610"]={"code":"38610","region":"Auvergne-Rhone-Alpes","city":"Gieres","latitude":45.18273,"longitude":5.79179}}(window,'GeoPostal','FR');

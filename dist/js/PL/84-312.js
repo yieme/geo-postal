@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-312"]={"code":"84-312","region":"Pomorskie","city":"Cewice","latitude":54.43551,"longitude":17.73485}}(window,'GeoPostal','PL');

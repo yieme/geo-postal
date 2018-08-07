@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67290"]={"code":"67290","region":"Grand-Est","city":"La Petite-Pierre","latitude":48.86,"longitude":7.32}}(window,'GeoPostal','FR');

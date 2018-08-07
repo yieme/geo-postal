@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH10 7NJ"]={"code":"PH10 7NJ","region":"Scotland","city":"Ballintuim","latitude":56.67826,"longitude":-3.46839}}(window,'GeoPostal','GB');

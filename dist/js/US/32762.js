@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32762"]={"code":"32762","region":"Florida","city":"Oviedo","latitude":28.67,"longitude":-81.20812}}(window,'GeoPostal','US');

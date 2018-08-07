@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4642"]={"code":"4642","region":"Szabolcs-Szatmar-Bereg","city":"Tornyospalca","latitude":48.26667,"longitude":22.18333}}(window,'GeoPostal','HU');

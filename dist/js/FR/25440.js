@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25440"]={"code":"25440","region":"Bourgogne-Franche-Comte","city":"Samson","latitude":47.0542,"longitude":5.8797}}(window,'GeoPostal','FR');

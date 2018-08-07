@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1602"]={"code":"1602","region":"Ostfold","city":"Fredrikstad","latitude":59.2181,"longitude":10.9298}}(window,'GeoPostal','NO');

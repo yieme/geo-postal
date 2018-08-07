@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90507"]={"code":"90507","region":"Laanemaa","city":"Haapsalu","latitude":58.94306,"longitude":23.54139}}(window,'GeoPostal','EE');

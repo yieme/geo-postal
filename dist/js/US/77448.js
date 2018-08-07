@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77448"]={"code":"77448","region":"TX","city":"Hungerford","latitude":29.4137,"longitude":-96.0929}}(window,'GeoPostal','US');

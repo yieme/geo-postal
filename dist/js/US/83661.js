@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83661"]={"code":"83661","region":"Idaho","city":"Payette","latitude":44.07822,"longitude":-116.93377}}(window,'GeoPostal','US');

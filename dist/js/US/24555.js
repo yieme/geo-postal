@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24555"]={"code":"24555","region":"VA","city":"Glasgow","latitude":37.643,"longitude":-79.459}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36072"]={"code":"36072","region":"AL","city":"Eufaula","latitude":31.8913,"longitude":-85.1455}}(window,'GeoPostal','US');

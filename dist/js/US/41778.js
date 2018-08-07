@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41778"]={"code":"41778","region":"Kentucky","city":"Yerkes","latitude":37.27843,"longitude":-83.30084}}(window,'GeoPostal','US');

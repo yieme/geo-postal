@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12472"]={"code":"12472","region":"NY","city":"Rosendale","latitude":41.8402,"longitude":-74.073}}(window,'GeoPostal','US');

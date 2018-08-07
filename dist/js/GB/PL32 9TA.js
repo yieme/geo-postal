@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL32 9TA"]={"code":"PL32 9TA","region":"England","city":"Otterham","latitude":50.68777,"longitude":-4.59544}}(window,'GeoPostal','GB');

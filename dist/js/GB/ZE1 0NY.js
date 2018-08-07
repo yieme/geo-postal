@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ZE1 0NY"]={"code":"ZE1 0NY","region":"Scotland","city":"Lerwick","latitude":60.15453,"longitude":-1.14941}}(window,'GeoPostal','GB');

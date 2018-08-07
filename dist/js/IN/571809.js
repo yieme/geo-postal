@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571809"]={"code":"571809","region":"Karnataka","city":"Malavalli","latitude":12.38333,"longitude":77.08333}}(window,'GeoPostal','IN');

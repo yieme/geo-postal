@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74100"]={"code":"74100","region":"Pohjois-Savo","city":"Iisalmi","latitude":63.55915,"longitude":27.19067}}(window,'GeoPostal','FI');

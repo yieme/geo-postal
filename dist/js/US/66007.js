@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66007"]={"code":"66007","region":"KS","city":"Basehor","latitude":39.1281,"longitude":-94.957}}(window,'GeoPostal','US');

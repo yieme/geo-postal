@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97290"]={"code":"97290","region":"Martinique","city":"Le Marin","latitude":14.47212,"longitude":-60.86973}}(window,'GeoPostal','MQ');

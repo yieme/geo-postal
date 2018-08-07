@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6332"]={"code":"6332","region":"Western Australia","city":"Centennial Park","latitude":-35.0118,"longitude":117.87942}}(window,'GeoPostal','AU');

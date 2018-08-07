@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73450"]={"code":"73450","region":"Baden-Wurttemberg","city":"Neresheim","latitude":48.75511,"longitude":10.33041}}(window,'GeoPostal','DE');

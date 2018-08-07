@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503"]={"code":"503","region":"Toamasina","city":"Ambatondrazaka","latitude":-17.83333,"longitude":48.41667}}(window,'GeoPostal','MG');

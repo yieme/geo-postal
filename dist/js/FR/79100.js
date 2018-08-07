@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79100"]={"code":"79100","region":"Nouvelle-Aquitaine","city":"Sainte-Verge","latitude":47.00818,"longitude":-0.21033}}(window,'GeoPostal','FR');

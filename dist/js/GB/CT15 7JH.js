@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 7JH"]={"code":"CT15 7JH","region":"England","city":"Barfreston","latitude":51.20592,"longitude":1.24025}}(window,'GeoPostal','GB');

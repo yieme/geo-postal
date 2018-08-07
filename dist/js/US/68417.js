@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68417"]={"code":"68417","region":"NE","city":"Otoe","latitude":40.7355,"longitude":-96.1329}}(window,'GeoPostal','US');

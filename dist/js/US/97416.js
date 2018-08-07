@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97416"]={"code":"97416","region":"OR","city":"Camas Valley","latitude":43.0557,"longitude":-123.6655}}(window,'GeoPostal','US');

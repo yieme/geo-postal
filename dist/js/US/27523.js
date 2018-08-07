@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27523"]={"code":"27523","region":"NC","city":"Apex","latitude":35.7225,"longitude":-78.8408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07604"]={"code":"07604","region":"Kyivska oblast","city":"Zhurivka","latitude":50.50276,"longitude":31.78492}}(window,'GeoPostal','UA');

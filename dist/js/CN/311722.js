@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311722"]={"code":"311722","region":"Zhejiang","city":"Guocun","latitude":29.55479,"longitude":118.63296}}(window,'GeoPostal','CN');

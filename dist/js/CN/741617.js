@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["741617"]={"code":"741617","region":"Gansu","city":"Wangyin","latitude":34.83389,"longitude":105.76167}}(window,'GeoPostal','CN');

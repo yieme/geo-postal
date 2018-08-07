@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7800"]={"code":"7800","region":"Hainaut","city":"Ath","latitude":50.62937,"longitude":3.77801}}(window,'GeoPostal','BE');

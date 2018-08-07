@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38645"]={"code":"38645","region":"MS","city":"Lyon","latitude":34.2474,"longitude":-90.4981}}(window,'GeoPostal','US');

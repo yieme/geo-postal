@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75010"]={"code":"75010","region":"Basilicata","city":"San Mauro Forte","latitude":40.48712,"longitude":16.24808}}(window,'GeoPostal','IT');

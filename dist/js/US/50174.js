@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50174"]={"code":"50174","region":"Iowa","city":"Murray","latitude":41.041903,"longitude":-93.949952}}(window,'GeoPostal','US');

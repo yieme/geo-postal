@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU13 8AE"]={"code":"GU13 8AE","region":"England","city":"Harlington","latitude":51.48566,"longitude":-0.43362}}(window,'GeoPostal','GB');

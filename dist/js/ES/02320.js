@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02320"]={"code":"02320","region":"Castilla-La Mancha","city":"Balazote","latitude":38.88444,"longitude":-2.1518}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175040"]={"code":"175040","region":"Novgorodskaya oblast'","city":"Sol'tsy","latitude":58.12387,"longitude":30.32377}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7110"]={"code":"7110","region":"Le Kef","city":"Nibbar","latitude":36.29411,"longitude":8.76657}}(window,'GeoPostal','TN');

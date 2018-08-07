@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41240"]={"code":"41240","region":"Guerrero","city":"Xochihuehuetlan","latitude":17.91667,"longitude":-98.43333}}(window,'GeoPostal','MX');

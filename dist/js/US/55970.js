@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55970"]={"code":"55970","region":"MN","city":"Rose Creek","latitude":43.6036,"longitude":-92.8319}}(window,'GeoPostal','US');

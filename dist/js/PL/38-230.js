@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-230"]={"code":"38-230","region":"Dolnoslaskie","city":"Zmigrod","latitude":51.46672,"longitude":16.90564}}(window,'GeoPostal','PL');

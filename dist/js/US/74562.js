@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74562"]={"code":"74562","region":"Oklahoma","city":"Rattan","latitude":34.307595,"longitude":-95.267187}}(window,'GeoPostal','US');

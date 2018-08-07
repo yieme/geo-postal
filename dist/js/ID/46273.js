@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46273"]={"code":"46273","region":"Jawa Barat","city":"Jatinagara","latitude":-7.1735,"longitude":108.4028}}(window,'GeoPostal','ID');

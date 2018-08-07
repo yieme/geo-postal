@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13600"]={"code":"13600","region":"Castilla-La Mancha","city":"Alcazar de San Juan","latitude":39.39011,"longitude":-3.20827}}(window,'GeoPostal','ES');

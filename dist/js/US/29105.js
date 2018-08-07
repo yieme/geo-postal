@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29105"]={"code":"29105","region":"SC","city":"Monetta","latitude":33.8084,"longitude":-81.5956}}(window,'GeoPostal','US');

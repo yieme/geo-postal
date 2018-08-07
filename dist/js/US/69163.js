@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69163"]={"code":"69163","region":"NE","city":"Stapleton","latitude":41.4888,"longitude":-100.4831}}(window,'GeoPostal','US');

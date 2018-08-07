@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65351"]={"code":"65351","region":"MO","city":"Sweet Springs","latitude":38.966,"longitude":-93.4247}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87005"]={"code":"87005","region":"New Mexico","city":"Bluewater","latitude":35.174252,"longitude":-107.894282}}(window,'GeoPostal','US');

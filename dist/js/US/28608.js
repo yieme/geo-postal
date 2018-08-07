@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28608"]={"code":"28608","region":"North Carolina","city":"Boone","latitude":36.209499,"longitude":-81.669862}}(window,'GeoPostal','US');

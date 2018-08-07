@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26209"]={"code":"26209","region":"Niedersachsen","city":"Barel","latitude":52.98536,"longitude":8.43278}}(window,'GeoPostal','DE');

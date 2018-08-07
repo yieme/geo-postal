@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1100000"]={"code":"1100000","region":"Tarapaca","city":"Iquique","latitude":-20.22083,"longitude":-70.14306}}(window,'GeoPostal','CL');

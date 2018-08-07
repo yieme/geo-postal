@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76470"]={"code":"76470","region":"Normandie","city":"Le Treport","latitude":50.05979,"longitude":1.37583}}(window,'GeoPostal','FR');

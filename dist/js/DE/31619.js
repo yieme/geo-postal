@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31619"]={"code":"31619","region":"Niedersachsen","city":"Binnen","latitude":52.61667,"longitude":9.13333}}(window,'GeoPostal','DE');

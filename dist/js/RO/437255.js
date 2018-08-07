@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437255"]={"code":"437255","region":"Maramures","city":"Rozavlea","latitude":47.73333,"longitude":24.21667}}(window,'GeoPostal','RO');

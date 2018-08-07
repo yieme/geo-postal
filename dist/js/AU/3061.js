@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3061"]={"code":"3061","region":"Victoria","city":"Campbellfield","latitude":-37.68333,"longitude":144.95}}(window,'GeoPostal','AU');

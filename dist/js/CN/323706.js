@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323706"]={"code":"323706","region":"Zhejiang","city":"Badu","latitude":27.97639,"longitude":118.93528}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23421"]={"code":"23421","region":"Virginia","city":"Parksley","latitude":37.787674,"longitude":-75.657024}}(window,'GeoPostal','US');

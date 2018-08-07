@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 75"]={"code":"630 75","region":"Kentriki Makedonia","city":"Ouranopolis","latitude":40.33333,"longitude":23.98333}}(window,'GeoPostal','GR');

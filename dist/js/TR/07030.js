@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07030"]={"code":"07030","region":"Giresun","city":"Dogankent","latitude":40.8075,"longitude":38.91722}}(window,'GeoPostal','TR');

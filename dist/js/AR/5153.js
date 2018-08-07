@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5153"]={"code":"5153","region":"Cordoba","city":"Villa Carlos Paz","latitude":-31.42414,"longitude":-64.49778}}(window,'GeoPostal','AR');

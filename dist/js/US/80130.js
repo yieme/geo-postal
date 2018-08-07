@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80130"]={"code":"80130","region":"Colorado","city":"Highlands Ranch","latitude":39.546,"longitude":-104.9175}}(window,'GeoPostal','US');

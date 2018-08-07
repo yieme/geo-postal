@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71133"]={"code":"71133","region":"Oaxaca","city":"Santa Maria Asuncion Tlaxiaco","latitude":17.26667,"longitude":-97.68333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73010"]={"code":"73010","region":"Oklahoma","city":"Blanchard","latitude":35.13784,"longitude":-97.65809}}(window,'GeoPostal','US');

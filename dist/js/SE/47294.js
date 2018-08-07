@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47294"]={"code":"47294","region":"Vastra Gotalands lan","city":"Svanesund","latitude":58.13333,"longitude":11.83333}}(window,'GeoPostal','SE');

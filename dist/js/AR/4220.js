@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4220"]={"code":"4220","region":"Santiago del Estero","city":"Termas de Rio Hondo","latitude":-27.49983,"longitude":-64.86042}}(window,'GeoPostal','AR');

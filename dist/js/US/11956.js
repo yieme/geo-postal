@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11956"]={"code":"11956","region":"NY","city":"New Suffolk","latitude":40.9915,"longitude":-72.4759}}(window,'GeoPostal','US');

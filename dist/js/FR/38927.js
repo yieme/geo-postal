@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38927"]={"code":"38927","region":"Auvergne-Rhone-Alpes","city":"Crolles","latitude":45.28198,"longitude":5.87824}}(window,'GeoPostal','FR');

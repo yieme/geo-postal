@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20849"]={"code":"20849","region":"MD","city":"Rockville","latitude":39.084,"longitude":-77.1528}}(window,'GeoPostal','US');

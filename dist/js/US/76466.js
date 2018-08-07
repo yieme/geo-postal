@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76466"]={"code":"76466","region":"TX","city":"Olden","latitude":32.4421,"longitude":-98.7342}}(window,'GeoPostal','US');

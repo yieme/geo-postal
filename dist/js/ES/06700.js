@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06700"]={"code":"06700","region":"Extremadura","city":"Villanueva de la Serena","latitude":38.97655,"longitude":-5.7974}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99730"]={"code":"99730","region":"Alaska","city":"Central","latitude":65.344042,"longitude":-145.138344}}(window,'GeoPostal','US');

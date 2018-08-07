@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01057"]={"code":"01057","region":"Guatemala","city":"Mixco","latitude":14.63333,"longitude":-90.60639}}(window,'GeoPostal','GT');

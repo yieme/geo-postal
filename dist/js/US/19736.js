@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19736"]={"code":"19736","region":"DE","city":"Yorklyn","latitude":39.8082,"longitude":-75.6755}}(window,'GeoPostal','US');

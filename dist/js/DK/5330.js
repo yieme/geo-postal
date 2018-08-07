@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5330"]={"code":"5330","region":"Syddanmark","city":"Munkebo","latitude":55.46184,"longitude":10.55577}}(window,'GeoPostal','DK');

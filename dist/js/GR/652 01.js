@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652 01"]={"code":"652 01","region":"Anatoliki Makedonia kai Thraki","city":"Nea Karvali","latitude":40.96167,"longitude":24.51}}(window,'GeoPostal','GR');

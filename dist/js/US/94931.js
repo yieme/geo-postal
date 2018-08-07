@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94931"]={"code":"94931","region":"CA","city":"Cotati","latitude":38.3259,"longitude":-122.7048}}(window,'GeoPostal','US');

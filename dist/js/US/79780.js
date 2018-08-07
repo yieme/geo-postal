@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79780"]={"code":"79780","region":"TX","city":"Saragosa","latitude":31.0428,"longitude":-103.6364}}(window,'GeoPostal','US');

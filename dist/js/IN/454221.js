@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["454221"]={"code":"454221","region":"Madhya Pradesh","city":"Kukshi","latitude":22.2,"longitude":74.75}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29702"]={"code":"29702","region":"SC","city":"Blacksburg","latitude":35.1095,"longitude":-81.4942}}(window,'GeoPostal','US');

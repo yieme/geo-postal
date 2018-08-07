@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98576"]={"code":"98576","region":"Washington","city":"Rainier","latitude":46.881751,"longitude":-122.679098}}(window,'GeoPostal','US');

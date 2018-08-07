@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35007"]={"code":"35007","region":"Alabama","city":"Alabaster","latitude":33.24428,"longitude":-86.81638}}(window,'GeoPostal','US');

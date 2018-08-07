@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G81 4HP"]={"code":"G81 4HP","region":"Scotland","city":"Dalmuir","latitude":55.91089,"longitude":-4.42918}}(window,'GeoPostal','GB');

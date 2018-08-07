@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70786"]={"code":"70786","region":"LA","city":"Watson","latitude":30.5502,"longitude":-90.9582}}(window,'GeoPostal','US');

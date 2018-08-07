@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08402"]={"code":"08402","region":"NJ","city":"Margate City","latitude":39.3286,"longitude":-74.509}}(window,'GeoPostal','US');

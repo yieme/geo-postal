@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28140"]={"code":"28140","region":"Centre-Val de Loire","city":"Orgeres-en-Beauce","latitude":48.14636,"longitude":1.6838}}(window,'GeoPostal','FR');

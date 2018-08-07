@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58702"]={"code":"58702","region":"Michoacan de Ocampo","city":"Zacapu","latitude":19.83333,"longitude":-101.71667}}(window,'GeoPostal','MX');

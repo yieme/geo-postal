@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5006"]={"code":"5006","region":"Iloilo","city":"Dumangas","latitude":10.825,"longitude":122.713}}(window,'GeoPostal','PH');

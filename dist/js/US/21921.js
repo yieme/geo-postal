@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21921"]={"code":"21921","region":"Maryland","city":"Elkton","latitude":39.60678,"longitude":-75.83327}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49000"]={"code":"49000","region":"Krapinsko-zagorska zupanija","city":"Krapina","latitude":46.16083,"longitude":15.87889}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT16 1JT"]={"code":"CT16 1JT","region":"England","city":"Dover","latitude":51.13333,"longitude":1.3}}(window,'GeoPostal','GB');

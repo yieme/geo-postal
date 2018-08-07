@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28525"]={"code":"28525","region":"NC","city":"Deep Run","latitude":35.163,"longitude":-77.6928}}(window,'GeoPostal','US');

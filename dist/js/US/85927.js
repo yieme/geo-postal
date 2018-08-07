@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85927"]={"code":"85927","region":"AZ","city":"Greer","latitude":34.0052,"longitude":-109.4664}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 5FX"]={"code":"NG23 5FX","region":"England","city":"Long Bennington","latitude":52.99314,"longitude":-0.75803}}(window,'GeoPostal','GB');

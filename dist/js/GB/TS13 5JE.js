@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS13 5JE"]={"code":"TS13 5JE","region":"England","city":"Runswick","latitude":54.53353,"longitude":-0.75617}}(window,'GeoPostal','GB');

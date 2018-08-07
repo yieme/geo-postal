@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["811 05"]={"code":"811 05","region":"Voreio Aigaio","city":"Eresos","latitude":39.16667,"longitude":25.93333}}(window,'GeoPostal','GR');

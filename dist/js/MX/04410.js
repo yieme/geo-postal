@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04410"]={"code":"04410","region":"Ciudad de Mexico","city":"Tlalpan","latitude":19.28333,"longitude":-99.16667}}(window,'GeoPostal','MX');

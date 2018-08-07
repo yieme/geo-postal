@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4702"]={"code":"4702","region":"Solothurn","city":"Oensingen","latitude":47.28639,"longitude":7.72305}}(window,'GeoPostal','CH');

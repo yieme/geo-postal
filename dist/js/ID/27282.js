@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27282"]={"code":"27282","region":"Sumatera Barat","city":"Tanjung Mas","latitude":-0.49128,"longitude":100.75411}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88350"]={"code":"88350","region":"NM","city":"Timberon","latitude":32.6295,"longitude":-105.6945}}(window,'GeoPostal','US');

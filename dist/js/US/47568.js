@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47568"]={"code":"47568","region":"IN","city":"Plainville","latitude":38.8062,"longitude":-87.1522}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41053"]={"code":"41053","region":"KY","city":"Kenton","latitude":38.8684,"longitude":-84.4561}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J4S 1K1"]={"code":"J4S 1K1","region":"Quebec","city":"Saint-Lambert","latitude":45.483102,"longitude":-73.499382}}(window,'GeoPostal','CA');

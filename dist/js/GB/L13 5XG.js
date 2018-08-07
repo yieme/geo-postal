@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L13 5XG"]={"code":"L13 5XG","region":"England","city":"Old Swan","latitude":53.41392,"longitude":-2.90889}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18225"]={"code":"18225","region":"Mecklenburg-Vorpommern","city":"Ostseebad Kuhlungsborn","latitude":54.15035,"longitude":11.75994}}(window,'GeoPostal','DE');

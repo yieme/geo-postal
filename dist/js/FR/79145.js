@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79145"]={"code":"79145","region":"Nouvelle-Aquitaine","city":"Cerizay","latitude":46.82154,"longitude":-0.66726}}(window,'GeoPostal','FR');

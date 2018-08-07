@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["438213"]={"code":"438213","region":"Hubei","city":"Tuanbei","latitude":30.72869,"longitude":115.22768}}(window,'GeoPostal','CN');

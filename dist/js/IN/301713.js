@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301713"]={"code":"301713","region":"Rajasthan","city":"Alwar","latitude":27.56667,"longitude":76.6}}(window,'GeoPostal','IN');

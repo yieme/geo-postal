@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42277"]={"code":"42277","region":"Banten","city":"Kebon","latitude":-6.473,"longitude":105.8782}}(window,'GeoPostal','ID');

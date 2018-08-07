@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05672"]={"code":"05672","region":"Vermont","city":"Stowe","latitude":44.500373,"longitude":-72.64628}}(window,'GeoPostal','US');

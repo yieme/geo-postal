@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40002"]={"code":"40002","region":"Sumska oblast","city":"Sumy","latitude":50.9216,"longitude":34.80029}}(window,'GeoPostal','UA');

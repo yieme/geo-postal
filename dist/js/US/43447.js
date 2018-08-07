@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43447"]={"code":"43447","region":"Ohio","city":"Millbury","latitude":41.561114,"longitude":-83.449083}}(window,'GeoPostal','US');

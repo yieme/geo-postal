@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57033"]={"code":"57033","region":"Toscana","city":"Marciana Marina","latitude":42.80272,"longitude":10.19632}}(window,'GeoPostal','IT');

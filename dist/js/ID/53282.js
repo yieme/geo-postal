@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53282"]={"code":"53282","region":"Jawa Tengah","city":"Kroya","latitude":-7.63306,"longitude":109.24611}}(window,'GeoPostal','ID');

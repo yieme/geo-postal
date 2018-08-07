@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH16 6JD"]={"code":"BH16 6JD","region":"England","city":"Lytchett Minster","latitude":50.73502,"longitude":-2.05736}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 51"]={"code":"793 51","region":"Moravskoslezsky kraj","city":"Bridlicna","latitude":49.91167,"longitude":17.37107}}(window,'GeoPostal','CZ');

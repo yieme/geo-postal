@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02037"]={"code":"02037","region":"Lazio","city":"Poggio Moiano","latitude":42.20263,"longitude":12.87938}}(window,'GeoPostal','IT');

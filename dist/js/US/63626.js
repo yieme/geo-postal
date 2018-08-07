@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63626"]={"code":"63626","region":"Missouri","city":"Blackwell","latitude":38.071834,"longitude":-90.709112}}(window,'GeoPostal','US');

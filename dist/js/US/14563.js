@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14563"]={"code":"14563","region":"NY","city":"Union Hill","latitude":43.2228,"longitude":-77.3717}}(window,'GeoPostal','US');

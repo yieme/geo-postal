@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70559"]={"code":"70559","region":"Louisiana","city":"Morse","latitude":30.12167,"longitude":-92.49861}}(window,'GeoPostal','US');

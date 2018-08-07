@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 0H0"]={"code":"T0E 0H0","region":"Alberta","city":"Manly Corner","latitude":53.56683,"longitude":-114.21877}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43174"]={"code":"43174","region":"Jawa Barat","city":"Ciseuseupan","latitude":-7.1344,"longitude":106.6979}}(window,'GeoPostal','ID');

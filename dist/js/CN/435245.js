@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435245"]={"code":"435245","region":"Hubei","city":"Paishi","latitude":29.722,"longitude":115.05451}}(window,'GeoPostal','CN');

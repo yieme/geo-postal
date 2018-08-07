@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["686333"]={"code":"686333","region":"Magadanskaya oblast'","city":"Kholodnyy","latitude":62.71667,"longitude":147.95}}(window,'GeoPostal','RU');

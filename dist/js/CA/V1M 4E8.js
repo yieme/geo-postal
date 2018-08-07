@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1M 4E8"]={"code":"V1M 4E8","region":"British Columbia","city":"Fort Langley","latitude":49.16812,"longitude":-122.58004}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29651"]={"code":"29651","region":"South Carolina","city":"Greer","latitude":34.966641,"longitude":-82.257536}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03259"]={"code":"03259","region":"NH","city":"North Sandwich","latitude":43.8452,"longitude":-71.385}}(window,'GeoPostal','US');

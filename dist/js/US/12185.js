@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12185"]={"code":"12185","region":"NY","city":"Valley Falls","latitude":42.8855,"longitude":-73.5437}}(window,'GeoPostal','US');

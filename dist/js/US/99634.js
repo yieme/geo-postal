@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99634"]={"code":"99634","region":"AK","city":"Napakiak","latitude":60.6967,"longitude":-161.9519}}(window,'GeoPostal','US');

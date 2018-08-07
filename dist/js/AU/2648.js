@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2648"]={"code":"2648","region":"New South Wales","city":"Wentworth","latitude":-34.10726,"longitude":141.91315}}(window,'GeoPostal','AU');

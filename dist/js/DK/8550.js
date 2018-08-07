@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8550"]={"code":"8550","region":"Midtjylland","city":"Ryomgard","latitude":56.3843,"longitude":10.50295}}(window,'GeoPostal','DK');

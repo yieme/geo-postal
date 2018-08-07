@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45681"]={"code":"45681","region":"OH","city":"South Salem","latitude":39.3021,"longitude":-83.272}}(window,'GeoPostal','US');

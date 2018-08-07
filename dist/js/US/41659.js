@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41659"]={"code":"41659","region":"KY","city":"Stanville","latitude":37.5741,"longitude":-82.6271}}(window,'GeoPostal','US');

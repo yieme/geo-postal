@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8405"]={"code":"8405","region":"Nordland","city":"Sortland","latitude":68.69494,"longitude":15.41618}}(window,'GeoPostal','NO');

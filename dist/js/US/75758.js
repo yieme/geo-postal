@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75758"]={"code":"75758","region":"Texas","city":"Chandler","latitude":32.2406,"longitude":-95.5345}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63830"]={"code":"63830","region":"Missouri","city":"Caruthersville","latitude":36.19312,"longitude":-89.65564}}(window,'GeoPostal','US');

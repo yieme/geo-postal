@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-440"]={"code":"63-440","region":"Wielkopolskie","city":"Raszkow","latitude":51.71828,"longitude":17.72571}}(window,'GeoPostal','PL');

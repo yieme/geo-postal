@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88340"]={"code":"88340","region":"New Mexico","city":"Mescalero","latitude":33.263635,"longitude":-105.727424}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61031"]={"code":"61031","region":"IL","city":"Franklin Grove","latitude":41.858,"longitude":-89.3171}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57635"]={"code":"57635","region":"Grand-Est","city":"Lixheim","latitude":48.7756,"longitude":7.1428}}(window,'GeoPostal','FR');

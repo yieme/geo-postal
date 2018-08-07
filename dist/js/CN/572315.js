@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572315"]={"code":"572315","region":"Hainan","city":"Sandao","latitude":18.46699,"longitude":109.66436}}(window,'GeoPostal','CN');

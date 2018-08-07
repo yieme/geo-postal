@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA3 7WD"]={"code":"WA3 7WD","region":"England","city":"Warrington","latitude":52.18446,"longitude":-0.68759}}(window,'GeoPostal','GB');

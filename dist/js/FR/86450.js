@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86450"]={"code":"86450","region":"Nouvelle-Aquitaine","city":"Pleumartin","latitude":46.73786,"longitude":0.769}}(window,'GeoPostal','FR');

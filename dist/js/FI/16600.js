@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16600"]={"code":"16600","region":"Paijat-Hame","city":"Hameenkoski","latitude":61.02222,"longitude":25.15417}}(window,'GeoPostal','FI');

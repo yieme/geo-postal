@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446416"]={"code":"446416","region":"Samarskaya oblast'","city":"Georgiyevka","latitude":53.27438,"longitude":50.99848}}(window,'GeoPostal','RU');

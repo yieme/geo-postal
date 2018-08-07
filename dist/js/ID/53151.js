@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53151"]={"code":"53151","region":"Jawa Tengah","city":"Baturaden","latitude":-7.3,"longitude":109.21667}}(window,'GeoPostal','ID');

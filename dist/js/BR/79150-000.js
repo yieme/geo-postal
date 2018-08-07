@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79150-000"]={"code":"79150-000","region":"Mato Grosso do Sul","city":"Maracaju","latitude":-21.61444,"longitude":-55.16833}}(window,'GeoPostal','BR');

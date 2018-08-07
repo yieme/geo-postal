@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25400"]={"code":"25400","region":"Erzurum","city":"Oltu","latitude":40.54983,"longitude":42.00126}}(window,'GeoPostal','TR');

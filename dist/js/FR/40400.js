@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40400"]={"code":"40400","region":"Nouvelle-Aquitaine","city":"Tartas","latitude":43.83248,"longitude":-0.80895}}(window,'GeoPostal','FR');

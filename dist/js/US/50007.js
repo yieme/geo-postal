@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50007"]={"code":"50007","region":"IA","city":"Alleman","latitude":41.8159,"longitude":-93.6063}}(window,'GeoPostal','US');

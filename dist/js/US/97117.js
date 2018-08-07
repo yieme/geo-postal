@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97117"]={"code":"97117","region":"OR","city":"Gales Creek","latitude":45.5957,"longitude":-123.234}}(window,'GeoPostal','US');

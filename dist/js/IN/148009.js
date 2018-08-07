@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["148009"]={"code":"148009","region":"Punjab","city":"Sangrur","latitude":30.23333,"longitude":75.83333}}(window,'GeoPostal','IN');

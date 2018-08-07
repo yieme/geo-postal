@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75859"]={"code":"75859","region":"TX","city":"Streetman","latitude":31.8885,"longitude":-96.2988}}(window,'GeoPostal','US');

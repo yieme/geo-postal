@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51340"]={"code":"51340","region":"Grand-Est","city":"Pargny-sur-Saulx","latitude":48.76866,"longitude":4.83758}}(window,'GeoPostal','FR');

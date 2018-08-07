@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15314"]={"code":"15314","region":"Macvanski okrug","city":"Krupanj","latitude":44.36556,"longitude":19.36194}}(window,'GeoPostal','RS');

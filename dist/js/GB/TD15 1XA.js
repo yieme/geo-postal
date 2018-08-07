@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 1XA"]={"code":"TD15 1XA","region":"Scotland","city":"Mordington Mains","latitude":55.8,"longitude":-2.08333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-480"]={"code":"38-480","region":"Podkarpackie","city":"Rymanow","latitude":49.57649,"longitude":21.86811}}(window,'GeoPostal','PL');

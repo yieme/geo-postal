@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E2L 4R5"]={"code":"E2L 4R5","region":"New Brunswick","city":"Saint John","latitude":45.279714,"longitude":-66.050667}}(window,'GeoPostal','CA');

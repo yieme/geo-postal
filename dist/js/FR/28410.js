@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28410"]={"code":"28410","region":"Centre-Val de Loire","city":"Broue","latitude":48.7489,"longitude":1.5228}}(window,'GeoPostal','FR');

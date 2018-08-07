@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19082"]={"code":"19082","region":"Pennsylvania","city":"Upper Darby","latitude":39.9591,"longitude":-75.27246}}(window,'GeoPostal','US');

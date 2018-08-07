@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU51 4BB"]={"code":"GU51 4BB","region":"England","city":"Harlington","latitude":51.48566,"longitude":-0.43362}}(window,'GeoPostal','GB');

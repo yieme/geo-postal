@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2070000"]={"code":"2070000","region":"Valparaiso","city":"La Ligua","latitude":-32.45242,"longitude":-71.23106}}(window,'GeoPostal','CL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17760-000"]={"code":"17760-000","region":"Sao Paulo","city":"Lucelia","latitude":-21.72028,"longitude":-51.01889}}(window,'GeoPostal','BR');

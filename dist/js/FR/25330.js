@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25330"]={"code":"25330","region":"Bourgogne-Franche-Comte","city":"Amancey","latitude":47.0386,"longitude":6.0722}}(window,'GeoPostal','FR');

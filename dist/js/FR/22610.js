@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22610"]={"code":"22610","region":"Bretagne","city":"Pleubian","latitude":48.84267,"longitude":-3.139}}(window,'GeoPostal','FR');

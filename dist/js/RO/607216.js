@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607216"]={"code":"607216","region":"Bacau","city":"Glavanesti","latitude":46.25,"longitude":27.38333}}(window,'GeoPostal','RO');

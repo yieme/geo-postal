@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437210"]={"code":"437210","region":"Maramures","city":"Petrova","latitude":47.82981,"longitude":24.21533}}(window,'GeoPostal','RO');

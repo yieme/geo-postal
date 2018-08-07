@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77960"]={"code":"77960","region":"TX","city":"Fannin","latitude":28.6955,"longitude":-97.2358}}(window,'GeoPostal','US');

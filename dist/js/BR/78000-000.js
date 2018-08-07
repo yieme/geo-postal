@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78000-000"]={"code":"78000-000","region":"Mato Grosso","city":"Chapada dos Guimaraes","latitude":-15.46056,"longitude":-55.74972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59520-000"]={"code":"59520-000","region":"Rio Grande do Norte","city":"Santana do Matos","latitude":-5.9575,"longitude":-36.65556}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435 33"]={"code":"435 33","region":"Ustecky kraj","city":"Lom u Mostu","latitude":50.59328,"longitude":13.65729}}(window,'GeoPostal','CZ');

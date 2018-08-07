@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72810"]={"code":"72810","region":"Baden-Wurttemberg","city":"Gomaringen","latitude":48.45349,"longitude":9.09582}}(window,'GeoPostal','DE');

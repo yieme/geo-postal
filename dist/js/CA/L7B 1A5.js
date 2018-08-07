@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7B 1A5"]={"code":"L7B 1A5","region":"Ontario","city":"King City","latitude":43.928144,"longitude":-79.526902}}(window,'GeoPostal','CA');

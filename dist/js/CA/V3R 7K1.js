@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3R 7K1"]={"code":"V3R 7K1","region":"British Columbia","city":"Surrey","latitude":49.188867,"longitude":-122.79672}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9160"]={"code":"9160","region":"Oost-Vlaanderen","city":"Lokeren","latitude":51.10364,"longitude":3.99339}}(window,'GeoPostal','BE');

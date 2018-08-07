@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63056"]={"code":"63056","region":"Missouri","city":"Leslie","latitude":38.445313,"longitude":-91.220553}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81024"]={"code":"81024","region":"Campania","city":"Maddaloni","latitude":41.04001,"longitude":14.37683}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46391"]={"code":"46391","region":"Jawa Barat","city":"Limusnunggal","latitude":-7.5039,"longitude":108.4022}}(window,'GeoPostal','ID');

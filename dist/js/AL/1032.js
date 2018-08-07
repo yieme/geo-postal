@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1032"]={"code":"1032","region":"Tirane","city":"Vore","latitude":41.39083,"longitude":19.655}}(window,'GeoPostal','AL');

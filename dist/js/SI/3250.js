@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3250"]={"code":"3250","region":"Rogaska Slatina","city":"Rogaska Slatina","latitude":46.2375,"longitude":15.63972}}(window,'GeoPostal','SI');

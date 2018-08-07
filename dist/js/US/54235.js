@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54235"]={"code":"54235","region":"Wisconsin","city":"Sturgeon Bay","latitude":44.83416,"longitude":-87.37704}}(window,'GeoPostal','US');

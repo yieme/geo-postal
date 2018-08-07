@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97053"]={"code":"97053","region":"OR","city":"Warren","latitude":45.826,"longitude":-122.8634}}(window,'GeoPostal','US');

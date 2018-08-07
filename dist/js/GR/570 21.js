@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570 21"]={"code":"570 21","region":"Kentriki Makedonia","city":"Asprovalta","latitude":40.71667,"longitude":23.7}}(window,'GeoPostal','GR');

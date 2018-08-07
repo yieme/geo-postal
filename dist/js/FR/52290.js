@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52290"]={"code":"52290","region":"Grand-Est","city":"Eclaron-Braucourt-Sainte-Liviere","latitude":48.5917,"longitude":4.8669}}(window,'GeoPostal','FR');

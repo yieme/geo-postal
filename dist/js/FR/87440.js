@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87440"]={"code":"87440","region":"Nouvelle-Aquitaine","city":"Saint-Mathieu","latitude":45.70674,"longitude":0.75908}}(window,'GeoPostal','FR');

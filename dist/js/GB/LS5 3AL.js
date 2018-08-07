@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS5 3AL"]={"code":"LS5 3AL","region":"England","city":"Kirkstall","latitude":53.81581,"longitude":-1.60215}}(window,'GeoPostal','GB');

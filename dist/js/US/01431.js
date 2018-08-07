@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01431"]={"code":"01431","region":"MA","city":"Ashby","latitude":42.6745,"longitude":-71.8174}}(window,'GeoPostal','US');

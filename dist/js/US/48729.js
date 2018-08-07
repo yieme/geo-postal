@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48729"]={"code":"48729","region":"Michigan","city":"Deford","latitude":43.493365,"longitude":-83.182639}}(window,'GeoPostal','US');

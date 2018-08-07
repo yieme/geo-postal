@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-500"]={"code":"09-500","region":"Mazowieckie","city":"Gostynin","latitude":52.42938,"longitude":19.46194}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["734429"]={"code":"734429","region":"West Bengal","city":"Naksalbari","latitude":26.68333,"longitude":88.21667}}(window,'GeoPostal','IN');

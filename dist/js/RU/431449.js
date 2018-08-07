@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431449"]={"code":"431449","region":"Mordoviya, Respublika","city":"Ruzayevka","latitude":54.06387,"longitude":44.9509}}(window,'GeoPostal','RU');

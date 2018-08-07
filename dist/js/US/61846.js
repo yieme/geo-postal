@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61846"]={"code":"61846","region":"Illinois","city":"Georgetown","latitude":39.980745,"longitude":-87.63504}}(window,'GeoPostal','US');

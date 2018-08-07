@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28580"]={"code":"28580","region":"North Carolina","city":"Snow Hill","latitude":35.447154,"longitude":-77.678263}}(window,'GeoPostal','US');

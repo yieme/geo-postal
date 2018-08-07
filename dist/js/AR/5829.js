@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5829"]={"code":"5829","region":"Cordoba","city":"Sampacho","latitude":-33.3839,"longitude":-64.72211}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84084"]={"code":"84084","region":"Utah","city":"Taylorsville","latitude":40.66772,"longitude":-111.93883}}(window,'GeoPostal','US');

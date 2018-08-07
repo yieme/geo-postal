@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84529"]={"code":"84529","region":"Bayern","city":"Dandlberg","latitude":48.0621,"longitude":12.75772}}(window,'GeoPostal','DE');

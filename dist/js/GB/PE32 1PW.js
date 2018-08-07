@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 1PW"]={"code":"PE32 1PW","region":"England","city":"East Walton","latitude":52.71896,"longitude":0.58082}}(window,'GeoPostal','GB');

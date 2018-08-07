@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3758"]={"code":"3758","region":"Victoria","city":"Wandong","latitude":-37.3719,"longitude":145.03207}}(window,'GeoPostal','AU');

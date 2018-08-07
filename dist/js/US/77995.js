@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77995"]={"code":"77995","region":"Texas","city":"Yoakum","latitude":29.3208,"longitude":-97.12536}}(window,'GeoPostal','US');

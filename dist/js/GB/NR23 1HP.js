@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR23 1HP"]={"code":"NR23 1HP","region":"England","city":"Wells-next-the-Sea","latitude":52.95164,"longitude":0.8511}}(window,'GeoPostal','GB');

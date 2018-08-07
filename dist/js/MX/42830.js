@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42830"]={"code":"42830","region":"Hidalgo","city":"El Llano","latitude":20.05,"longitude":-99.3}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23828"]={"code":"23828","region":"VA","city":"Branchville","latitude":36.5787,"longitude":-77.2704}}(window,'GeoPostal','US');

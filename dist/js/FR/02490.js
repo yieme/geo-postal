@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02490"]={"code":"02490","region":"Hauts-de-France","city":"Vermand","latitude":49.8755,"longitude":3.14959}}(window,'GeoPostal','FR');

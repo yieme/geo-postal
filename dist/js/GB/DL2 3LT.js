@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 3LT"]={"code":"DL2 3LT","region":"England","city":"Staindrop","latitude":54.58102,"longitude":-1.80708}}(window,'GeoPostal','GB');

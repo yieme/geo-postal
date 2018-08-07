@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36190"]={"code":"36190","region":"Chaiyaphum","city":"Ban Thaen","latitude":16.40506,"longitude":102.34239}}(window,'GeoPostal','TH');

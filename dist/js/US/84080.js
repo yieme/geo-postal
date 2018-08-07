@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84080"]={"code":"84080","region":"UT","city":"Vernon","latitude":40.0826,"longitude":-112.426}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84701"]={"code":"84701","region":"Utah","city":"Richfield","latitude":38.77247,"longitude":-112.08409}}(window,'GeoPostal','US');

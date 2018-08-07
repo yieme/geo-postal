@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62879"]={"code":"62879","region":"IL","city":"Sailor Springs","latitude":38.7639,"longitude":-88.3631}}(window,'GeoPostal','US');

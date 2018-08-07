@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57058"]={"code":"57058","region":"South Dakota","city":"Salem","latitude":43.73724,"longitude":-97.38444}}(window,'GeoPostal','US');

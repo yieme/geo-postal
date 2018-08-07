@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95560"]={"code":"95560","region":"Ile-de-France","city":"Maffliers","latitude":49.07758,"longitude":2.30768}}(window,'GeoPostal','FR');

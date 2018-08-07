@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80232"]={"code":"80232","region":"Lvivska oblast","city":"Mykolayiv","latitude":49.52372,"longitude":23.98522}}(window,'GeoPostal','UA');

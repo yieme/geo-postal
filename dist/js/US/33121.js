@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33121"]={"code":"33121","region":"FL","city":"Flagship Banks Of Miami","latitude":25.79,"longitude":-80.31}}(window,'GeoPostal','US');

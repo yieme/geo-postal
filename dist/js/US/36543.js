@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36543"]={"code":"36543","region":"Alabama","city":"Huxford","latitude":31.22048,"longitude":-87.46132}}(window,'GeoPostal','US');

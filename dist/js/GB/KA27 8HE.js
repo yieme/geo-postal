@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA27 8HE"]={"code":"KA27 8HE","region":"Scotland","city":"Torbeg","latitude":55.51356,"longitude":-5.32782}}(window,'GeoPostal','GB');

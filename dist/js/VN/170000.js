@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["170000"]={"code":"170000","region":"Hai Duong","city":"Hai Duong","latitude":20.93333,"longitude":106.31667}}(window,'GeoPostal','VN');

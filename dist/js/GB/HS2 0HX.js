@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 0HX"]={"code":"HS2 0HX","region":"Scotland","city":"Aird Tong","latitude":58.24739,"longitude":-6.34186}}(window,'GeoPostal','GB');

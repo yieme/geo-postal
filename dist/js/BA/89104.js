@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89104"]={"code":"89104","region":"Republika Srpska","city":"Trebinje","latitude":42.71194,"longitude":18.34417}}(window,'GeoPostal','BA');

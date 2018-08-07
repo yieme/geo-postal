@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE67 1BX"]={"code":"LE67 1BX","region":"England","city":"Bagworth","latitude":52.67265,"longitude":-1.34274}}(window,'GeoPostal','GB');

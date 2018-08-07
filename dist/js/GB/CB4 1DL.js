@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB4 1DL"]={"code":"CB4 1DL","region":"England","city":"Cambridge","latitude":51.73333,"longitude":-2.36667}}(window,'GeoPostal','GB');

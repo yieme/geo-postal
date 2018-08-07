@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01662"]={"code":"01662","region":"Sachsen","city":"Meissen","latitude":51.16158,"longitude":13.4737}}(window,'GeoPostal','DE');

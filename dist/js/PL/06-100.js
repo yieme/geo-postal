@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-100"]={"code":"06-100","region":"Mazowieckie","city":"Pultusk","latitude":52.7025,"longitude":21.08276}}(window,'GeoPostal','PL');

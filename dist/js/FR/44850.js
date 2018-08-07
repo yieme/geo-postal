@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44850"]={"code":"44850","region":"Pays-de-la-Loire","city":"Ligne","latitude":47.41096,"longitude":-1.37726}}(window,'GeoPostal','FR');

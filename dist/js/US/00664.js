@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00664"]={"code":"00664","region":"PR","city":"Jayuya","latitude":18.22,"longitude":-66.59}}(window,'GeoPostal','US');

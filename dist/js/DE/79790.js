@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79790"]={"code":"79790","region":"Baden-Wurttemberg","city":"Dangstetten","latitude":47.59667,"longitude":8.32406}}(window,'GeoPostal','DE');

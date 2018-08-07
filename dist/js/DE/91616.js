@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91616"]={"code":"91616","region":"Bayern","city":"Wachsenberg","latitude":49.38174,"longitude":10.24207}}(window,'GeoPostal','DE');

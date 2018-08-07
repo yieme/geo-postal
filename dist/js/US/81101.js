@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81101"]={"code":"81101","region":"Colorado","city":"Alamosa","latitude":37.46945,"longitude":-105.87002}}(window,'GeoPostal','US');

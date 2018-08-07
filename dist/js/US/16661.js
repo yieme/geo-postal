@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16661"]={"code":"16661","region":"PA","city":"Madera","latitude":40.8271,"longitude":-78.4275}}(window,'GeoPostal','US');

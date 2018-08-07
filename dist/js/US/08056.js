@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08056"]={"code":"08056","region":"NJ","city":"Mickleton","latitude":39.7857,"longitude":-75.2498}}(window,'GeoPostal','US');

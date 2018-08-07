@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["148029"]={"code":"148029","region":"Punjab","city":"Dhuri","latitude":30.36667,"longitude":75.86667}}(window,'GeoPostal','IN');

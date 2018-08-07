@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4841"]={"code":"4841","region":"Liege","city":"Welkenraedt","latitude":50.6605,"longitude":5.97034}}(window,'GeoPostal','BE');

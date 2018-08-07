@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33997"]={"code":"33997","region":"Asturias, Principado de","city":"Campo de Caso","latitude":43.1831,"longitude":-5.34476}}(window,'GeoPostal','ES');

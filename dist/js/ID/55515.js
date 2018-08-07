@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55515"]={"code":"55515","region":"Yogyakarta","city":"Srandakan","latitude":-7.93861,"longitude":110.25056}}(window,'GeoPostal','ID');

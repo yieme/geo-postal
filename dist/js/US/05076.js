@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05076"]={"code":"05076","region":"VT","city":"Topsham","latitude":43.7982,"longitude":-72.4008}}(window,'GeoPostal','US');

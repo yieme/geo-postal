@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01236"]={"code":"01236","region":"MA","city":"Housatonic","latitude":42.2653,"longitude":-73.3745}}(window,'GeoPostal','US');

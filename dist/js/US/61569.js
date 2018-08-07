@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61569"]={"code":"61569","region":"IL","city":"Trivoli","latitude":40.6795,"longitude":-89.9135}}(window,'GeoPostal','US');

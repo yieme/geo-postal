@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15922"]={"code":"15922","region":"PA","city":"Belsano","latitude":40.5176,"longitude":-78.8767}}(window,'GeoPostal','US');

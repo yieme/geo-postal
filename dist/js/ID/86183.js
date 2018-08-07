@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86183"]={"code":"86183","region":"Nusa Tenggara Timur","city":"Palue","latitude":-8.4691,"longitude":122.707}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1A0"]={"code":"V0N 1A0","region":"British Columbia","city":"Alert Bay","latitude":50.58293,"longitude":-126.91979}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23011"]={"code":"23011","region":"Virginia","city":"Barhamsville","latitude":37.4628,"longitude":-76.8167}}(window,'GeoPostal','US');

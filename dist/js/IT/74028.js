@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74028"]={"code":"74028","region":"Puglia","city":"Sava","latitude":40.40342,"longitude":17.55841}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00698"]={"code":"00698","region":"PR","city":"Yauco","latitude":18.03,"longitude":-66.86}}(window,'GeoPostal','US');

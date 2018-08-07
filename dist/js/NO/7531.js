@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7531"]={"code":"7531","region":"Nord-Trondelag","city":"Meraker","latitude":63.41406,"longitude":11.74298}}(window,'GeoPostal','NO');

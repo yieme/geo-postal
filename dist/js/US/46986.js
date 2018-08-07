@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46986"]={"code":"46986","region":"Indiana","city":"Swayzee","latitude":40.507357,"longitude":-85.821428}}(window,'GeoPostal','US');

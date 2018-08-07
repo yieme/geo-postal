@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85340"]={"code":"85340","region":"Herceg-Novi","city":"Herceg-Novi","latitude":42.45306,"longitude":18.5375}}(window,'GeoPostal','ME');

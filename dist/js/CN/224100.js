@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224100"]={"code":"224100","region":"Jiangsu","city":"Dazhong","latitude":33.19973,"longitude":120.4578}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14224"]={"code":"14224","region":"New York","city":"West Seneca","latitude":42.841518,"longitude":-78.761265}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188760"]={"code":"188760","region":"Leningradskaya oblast'","city":"Priozersk","latitude":61.03928,"longitude":30.12907}}(window,'GeoPostal','RU');

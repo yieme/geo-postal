@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21716"]={"code":"21716","region":"Maryland","city":"Brunswick","latitude":39.31427,"longitude":-77.62777}}(window,'GeoPostal','US');

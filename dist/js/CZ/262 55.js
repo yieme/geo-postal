@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 55"]={"code":"262 55","region":"Stredocesky kraj","city":"Petrovice","latitude":49.55426,"longitude":14.33737}}(window,'GeoPostal','CZ');

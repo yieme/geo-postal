@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77535"]={"code":"77535","region":"Texas","city":"Dayton","latitude":29.99778,"longitude":-94.91832}}(window,'GeoPostal','US');

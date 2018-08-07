@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56041"]={"code":"56041","region":"Toscana","city":"Castelnuovo di Val di Cecina","latitude":43.21093,"longitude":10.90182}}(window,'GeoPostal','IT');

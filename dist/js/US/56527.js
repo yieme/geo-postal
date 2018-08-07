@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56527"]={"code":"56527","region":"Minnesota","city":"Deer Creek","latitude":46.412629,"longitude":-95.281006}}(window,'GeoPostal','US');

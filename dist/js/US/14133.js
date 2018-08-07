@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14133"]={"code":"14133","region":"NY","city":"Sandusky","latitude":42.4891,"longitude":-78.367}}(window,'GeoPostal','US');

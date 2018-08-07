@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SS17 0NW"]={"code":"SS17 0NW","region":"England","city":"Stanford-le-Hope","latitude":51.52274,"longitude":0.43422}}(window,'GeoPostal','GB');

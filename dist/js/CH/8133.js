@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8133"]={"code":"8133","region":"Zurich","city":"Esslingen","latitude":47.28325,"longitude":8.71038}}(window,'GeoPostal','CH');

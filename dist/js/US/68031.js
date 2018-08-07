@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68031"]={"code":"68031","region":"NE","city":"Hooper","latitude":41.6414,"longitude":-96.5232}}(window,'GeoPostal','US');

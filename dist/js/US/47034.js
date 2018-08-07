@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47034"]={"code":"47034","region":"Indiana","city":"Napoleon","latitude":39.20472,"longitude":-85.3308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13426"]={"code":"13426","region":"NY","city":"Orwell","latitude":43.5628,"longitude":-75.9968}}(window,'GeoPostal','US');

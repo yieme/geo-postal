@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64780"]={"code":"64780","region":"Missouri","city":"Rockville","latitude":38.07552,"longitude":-94.14732}}(window,'GeoPostal','US');

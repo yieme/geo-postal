@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-502"]={"code":"26-502","region":"Mazowieckie","city":"Jastrzab","latitude":51.24725,"longitude":20.94758}}(window,'GeoPostal','PL');

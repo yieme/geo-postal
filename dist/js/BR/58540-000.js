@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58540-000"]={"code":"58540-000","region":"Paraiba","city":"Sume","latitude":-7.67167,"longitude":-36.88}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58706"]={"code":"58706","region":"Nordrhein-Westfalen","city":"Menden","latitude":50.78976,"longitude":7.16287}}(window,'GeoPostal','DE');

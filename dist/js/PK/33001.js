@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33001"]={"code":"33001","region":"Punjab","city":"Jampur","latitude":29.64414,"longitude":70.59544}}(window,'GeoPostal','PK');

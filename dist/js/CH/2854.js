@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2854"]={"code":"2854","region":"Jura","city":"Bassecourt","latitude":47.33829,"longitude":7.24494}}(window,'GeoPostal','CH');

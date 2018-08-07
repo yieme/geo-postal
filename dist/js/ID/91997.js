@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91997"]={"code":"91997","region":"Sulawesi Tenggara","city":"Lasusua","latitude":-3.5105,"longitude":120.8844}}(window,'GeoPostal','ID');

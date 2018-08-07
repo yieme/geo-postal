@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87014"]={"code":"87014","region":"New Mexico","city":"Cubero","latitude":35.201111,"longitude":-107.388611}}(window,'GeoPostal','US');

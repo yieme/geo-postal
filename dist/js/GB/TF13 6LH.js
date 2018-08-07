@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF13 6LH"]={"code":"TF13 6LH","region":"England","city":"Stanton Long","latitude":52.51188,"longitude":-2.63105}}(window,'GeoPostal','GB');

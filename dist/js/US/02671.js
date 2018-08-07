@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02671"]={"code":"02671","region":"MA","city":"West Harwich","latitude":41.6694,"longitude":-70.1135}}(window,'GeoPostal','US');

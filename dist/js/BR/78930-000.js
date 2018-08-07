@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78930-000"]={"code":"78930-000","region":"Rondonia","city":"Ariquemes","latitude":-9.91333,"longitude":-63.04083}}(window,'GeoPostal','BR');

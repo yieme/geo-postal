@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0H 1K0"]={"code":"J0H 1K0","region":"Quebec","city":"Saint-Denis-sur-Richelieu","latitude":45.78338,"longitude":-73.14915}}(window,'GeoPostal','CA');

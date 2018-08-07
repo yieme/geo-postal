@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43450"]={"code":"43450","region":"Ohio","city":"Pemberville","latitude":41.410813,"longitude":-83.476725}}(window,'GeoPostal','US');

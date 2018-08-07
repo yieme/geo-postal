@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 8HL"]={"code":"PE31 8HL","region":"England","city":"Burnham Thorpe","latitude":52.93775,"longitude":0.7564}}(window,'GeoPostal','GB');

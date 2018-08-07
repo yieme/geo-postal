@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["122002"]={"code":"122002","region":"Haryana","city":"Gurgaon","latitude":28.46667,"longitude":77.03333}}(window,'GeoPostal','IN');

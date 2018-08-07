@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81420"]={"code":"81420","region":"CO","city":"Lazear","latitude":38.7817,"longitude":-107.7808}}(window,'GeoPostal','US');

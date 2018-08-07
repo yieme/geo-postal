@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91413"]={"code":"91413","region":"Bayern","city":"Neustadt an der Aisch","latitude":49.57953,"longitude":10.61126}}(window,'GeoPostal','DE');

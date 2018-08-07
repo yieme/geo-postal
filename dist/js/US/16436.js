@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16436"]={"code":"16436","region":"PA","city":"Spring Creek","latitude":41.92,"longitude":-79.4482}}(window,'GeoPostal','US');

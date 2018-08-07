@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75800-000"]={"code":"75800-000","region":"Goias","city":"Jatai","latitude":-17.88139,"longitude":-51.71444}}(window,'GeoPostal','BR');

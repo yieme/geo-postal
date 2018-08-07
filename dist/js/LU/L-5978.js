@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-5978"]={"code":"L-5978","region":"Luxembourg","city":"Itzig","latitude":49.58417,"longitude":6.17361}}(window,'GeoPostal','LU');

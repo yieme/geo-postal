@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21209"]={"code":"21209","region":"Juznobacki okrug","city":"Petrovaradin","latitude":45.24667,"longitude":19.87944}}(window,'GeoPostal','RS');

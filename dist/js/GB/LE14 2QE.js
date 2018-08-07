@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 2QE"]={"code":"LE14 2QE","region":"England","city":"Somerby","latitude":52.68741,"longitude":-0.85007}}(window,'GeoPostal','GB');

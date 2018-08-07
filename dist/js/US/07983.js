@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07983"]={"code":"07983","region":"NJ","city":"Corporate Mailings","latitude":40.82,"longitude":-74.41}}(window,'GeoPostal','US');

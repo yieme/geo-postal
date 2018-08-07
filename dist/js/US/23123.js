@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23123"]={"code":"23123","region":"VA","city":"New Canton","latitude":37.6645,"longitude":-78.3112}}(window,'GeoPostal','US');

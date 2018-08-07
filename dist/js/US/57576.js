@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57576"]={"code":"57576","region":"South Dakota","city":"Vivian","latitude":44.020776,"longitude":-100.306473}}(window,'GeoPostal','US');

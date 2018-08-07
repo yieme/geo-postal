@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 4DR"]={"code":"PE23 4DR","region":"England","city":"Raithby","latitude":53.18258,"longitude":0.05459}}(window,'GeoPostal','GB');

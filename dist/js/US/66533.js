@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66533"]={"code":"66533","region":"KS","city":"Rossville","latitude":39.1451,"longitude":-95.9553}}(window,'GeoPostal','US');

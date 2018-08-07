@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33785"]={"code":"33785","region":"FL","city":"Indian Rocks Beach","latitude":27.8868,"longitude":-82.8435}}(window,'GeoPostal','US');

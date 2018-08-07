@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364265"]={"code":"364265","region":"Gujarat","city":"Dungarpur","latitude":21.28333,"longitude":71.73333}}(window,'GeoPostal','IN');

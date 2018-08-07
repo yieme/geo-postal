@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT3 1HF"]={"code":"CT3 1HF","region":"England","city":"Elmstone","latitude":51.2973,"longitude":1.24094}}(window,'GeoPostal','GB');

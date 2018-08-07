@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36470"]={"code":"36470","region":"Guanajuato","city":"Ciudad Manuel Doblado","latitude":20.73333,"longitude":-101.93333}}(window,'GeoPostal','MX');

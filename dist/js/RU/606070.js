@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606070"]={"code":"606070","region":"Nizhegorodskaya oblast'","city":"Volodarsk","latitude":56.22611,"longitude":43.18611}}(window,'GeoPostal','RU');

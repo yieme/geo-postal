@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45600"]={"code":"45600","region":"Manisa","city":"Alasehir","latitude":38.35083,"longitude":28.51718}}(window,'GeoPostal','TR');

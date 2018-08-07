@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15045"]={"code":"15045","region":"Piemonte","city":"Sale","latitude":44.98066,"longitude":8.80935}}(window,'GeoPostal','IT');

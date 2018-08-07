@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2A0"]={"code":"T0B 2A0","region":"Alberta","city":"Heisler","latitude":52.68344,"longitude":-112.21852}}(window,'GeoPostal','CA');

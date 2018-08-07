@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB34 5HS"]={"code":"AB34 5HS","region":"Scotland","city":"Aboyne","latitude":57.07546,"longitude":-2.78023}}(window,'GeoPostal','GB');

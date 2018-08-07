@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23867"]={"code":"23867","region":"VA","city":"Jarratt","latitude":36.8191,"longitude":-77.4832}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21676"]={"code":"21676","region":"MD","city":"Wittman","latitude":38.7846,"longitude":-76.3001}}(window,'GeoPostal','US');

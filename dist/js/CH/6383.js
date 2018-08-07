@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6383"]={"code":"6383","region":"Nidwalden","city":"Dallenwil","latitude":46.9242,"longitude":8.38785}}(window,'GeoPostal','CH');

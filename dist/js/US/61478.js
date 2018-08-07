@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61478"]={"code":"61478","region":"IL","city":"Smithshire","latitude":40.7579,"longitude":-90.7606}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24607"]={"code":"24607","region":"VA","city":"Breaks","latitude":37.2959,"longitude":-82.281}}(window,'GeoPostal','US');

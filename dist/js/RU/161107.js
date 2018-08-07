@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["161107"]={"code":"161107","region":"Vologodskaya oblast'","city":"Goritsy","latitude":59.86949,"longitude":38.26016}}(window,'GeoPostal','RU');

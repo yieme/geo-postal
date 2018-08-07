@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38662"]={"code":"38662","region":"Mississippi","city":"New Albany","latitude":34.3929,"longitude":-90.4893}}(window,'GeoPostal','US');

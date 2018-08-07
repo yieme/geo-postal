@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3US"]={"code":"PE9 3US","region":"England","city":"Tinwell","latitude":52.64629,"longitude":-0.51498}}(window,'GeoPostal','GB');

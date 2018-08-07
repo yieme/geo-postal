@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99040"]={"code":"99040","region":"Washington","city":"Wellpinit","latitude":47.880948,"longitude":-118.030426}}(window,'GeoPostal','US');

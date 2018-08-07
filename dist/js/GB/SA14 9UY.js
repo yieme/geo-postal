@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 9UY"]={"code":"SA14 9UY","region":"Wales","city":"Trostre","latitude":51.67598,"longitude":-4.13667}}(window,'GeoPostal','GB');

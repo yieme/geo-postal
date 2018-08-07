@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3Z 2K6"]={"code":"E3Z 2K6","region":"New Brunswick","city":"Grand Falls","latitude":47.048673,"longitude":-67.738922}}(window,'GeoPostal','CA');

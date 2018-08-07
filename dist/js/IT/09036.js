@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09036"]={"code":"09036","region":"Sardegna","city":"Guspini","latitude":39.54056,"longitude":8.62944}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38866"]={"code":"38866","region":"Mississippi","city":"Saltillo","latitude":34.374898,"longitude":-88.688231}}(window,'GeoPostal','US');

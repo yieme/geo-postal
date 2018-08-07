@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41037"]={"code":"41037","region":"KY","city":"Elizaville","latitude":38.4195,"longitude":-83.8255}}(window,'GeoPostal','US');

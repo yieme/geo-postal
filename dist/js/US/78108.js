@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78108"]={"code":"78108","region":"TX","city":"Cibolo","latitude":29.575,"longitude":-98.228}}(window,'GeoPostal','US');

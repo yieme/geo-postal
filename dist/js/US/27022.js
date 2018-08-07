@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27022"]={"code":"27022","region":"NC","city":"Lawsonville","latitude":36.5132,"longitude":-80.2103}}(window,'GeoPostal','US');

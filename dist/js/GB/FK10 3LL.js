@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK10 3LL"]={"code":"FK10 3LL","region":"Scotland","city":"Sauchie","latitude":56.12869,"longitude":-3.76611}}(window,'GeoPostal','GB');

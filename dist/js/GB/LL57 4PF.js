@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL57 4PF"]={"code":"LL57 4PF","region":"Wales","city":"Tregarth","latitude":53.19012,"longitude":-4.0878}}(window,'GeoPostal','GB');

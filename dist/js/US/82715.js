@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82715"]={"code":"82715","region":"WY","city":"Four Corners","latitude":44.0775,"longitude":-104.1383}}(window,'GeoPostal','US');

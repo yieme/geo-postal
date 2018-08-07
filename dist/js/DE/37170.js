@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37170"]={"code":"37170","region":"Niedersachsen","city":"Uslar","latitude":51.6569,"longitude":9.63501}}(window,'GeoPostal','DE');

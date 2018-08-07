@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74445"]={"code":"74445","region":"OK","city":"Morris","latitude":35.6619,"longitude":-95.8319}}(window,'GeoPostal','US');

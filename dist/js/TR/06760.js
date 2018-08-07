@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06760"]={"code":"06760","region":"Karabuk","city":"Karabuk","latitude":41.20488,"longitude":32.62768}}(window,'GeoPostal','TR');

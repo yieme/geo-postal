@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9754"]={"code":"9754","region":"Eastern Cape","city":"Aliwal North","latitude":-30.69366,"longitude":26.71141}}(window,'GeoPostal','ZA');

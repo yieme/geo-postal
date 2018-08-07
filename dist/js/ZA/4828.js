@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4828"]={"code":"4828","region":"Eastern Cape","city":"Port Saint John's","latitude":-31.62291,"longitude":29.54477}}(window,'GeoPostal','ZA');

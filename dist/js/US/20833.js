@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20833"]={"code":"20833","region":"MD","city":"Brookeville","latitude":39.1871,"longitude":-77.0603}}(window,'GeoPostal','US');

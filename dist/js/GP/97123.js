@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97123"]={"code":"97123","region":"Guadeloupe","city":"Baillif","latitude":16.02018,"longitude":-61.74632}}(window,'GeoPostal','GP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05480"]={"code":"05480","region":"Castilla y Leon","city":"Candeleda","latitude":40.15521,"longitude":-5.24046}}(window,'GeoPostal','ES');

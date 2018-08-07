@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473865"]={"code":"473865","region":"Madhya Pradesh","city":"Bhitarwar","latitude":25.8,"longitude":78.11667}}(window,'GeoPostal','IN');

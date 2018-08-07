@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY16 8SZ"]={"code":"KY16 8SZ","region":"Scotland","city":"Kingsbarns","latitude":56.29858,"longitude":-2.6594}}(window,'GeoPostal','GB');

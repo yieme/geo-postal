@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25969"]={"code":"25969","region":"WV","city":"Jumping Branch","latitude":37.6188,"longitude":-81.0018}}(window,'GeoPostal','US');

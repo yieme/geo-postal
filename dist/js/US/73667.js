@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73667"]={"code":"73667","region":"Oklahoma","city":"Taloga","latitude":36.03865,"longitude":-98.96371}}(window,'GeoPostal','US');

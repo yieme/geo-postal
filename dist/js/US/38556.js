@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38556"]={"code":"38556","region":"Tennessee","city":"Jamestown","latitude":36.42757,"longitude":-84.93189}}(window,'GeoPostal','US');

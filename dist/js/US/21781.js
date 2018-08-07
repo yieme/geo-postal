@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21781"]={"code":"21781","region":"MD","city":"Saint James","latitude":39.5699,"longitude":-77.7607}}(window,'GeoPostal','US');

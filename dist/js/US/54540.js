@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54540"]={"code":"54540","region":"Wisconsin","city":"Land O Lakes","latitude":46.156027,"longitude":-89.31406}}(window,'GeoPostal','US');

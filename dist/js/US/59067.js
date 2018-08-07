@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59067"]={"code":"59067","region":"MT","city":"Rapelje","latitude":45.9795,"longitude":-109.2761}}(window,'GeoPostal','US');

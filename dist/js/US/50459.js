@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50459"]={"code":"50459","region":"IA","city":"Northwood","latitude":43.4506,"longitude":-93.2419}}(window,'GeoPostal','US');

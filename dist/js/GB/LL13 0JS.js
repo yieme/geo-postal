@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL13 0JS"]={"code":"LL13 0JS","region":"Wales","city":"Penley","latitude":52.95338,"longitude":-2.87027}}(window,'GeoPostal','GB');

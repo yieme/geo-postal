@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57265"]={"code":"57265","region":"SD","city":"Strandburg","latitude":45.0389,"longitude":-96.7901}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16918"]={"code":"16918","region":"PA","city":"Cowanesque","latitude":41.93,"longitude":-77.49}}(window,'GeoPostal','US');

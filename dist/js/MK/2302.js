@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2302"]={"code":"2302","region":"Kocani","city":"Orizari","latitude":41.92278,"longitude":22.44694}}(window,'GeoPostal','MK');

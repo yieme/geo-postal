@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02043"]={"code":"02043","region":"Lazio","city":"Contigliano","latitude":42.41153,"longitude":12.76788}}(window,'GeoPostal','IT');

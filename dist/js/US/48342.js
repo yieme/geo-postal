@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48342"]={"code":"48342","region":"Michigan","city":"Pontiac","latitude":42.644038,"longitude":-83.273839}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34317"]={"code":"34317","region":"Sachsen","city":"Grund","latitude":50.99362,"longitude":13.47167}}(window,'GeoPostal','DE');

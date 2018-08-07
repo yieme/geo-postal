@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89910"]={"code":"89910","region":"Tamaulipas","city":"El Mante","latitude":22.73333,"longitude":-98.96667}}(window,'GeoPostal','MX');

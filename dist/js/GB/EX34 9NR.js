@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX34 9NR"]={"code":"EX34 9NR","region":"England","city":"Ilfracombe","latitude":51.2093,"longitude":-4.11344}}(window,'GeoPostal','GB');

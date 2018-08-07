@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80514"]={"code":"80514","region":"Colorado","city":"Erie","latitude":40.05026,"longitude":-105.04998}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 7LQ"]={"code":"KA6 7LQ","region":"Scotland","city":"Patna","latitude":55.3637,"longitude":-4.50457}}(window,'GeoPostal','GB');

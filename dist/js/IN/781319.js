@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["781319"]={"code":"781319","region":"Assam","city":"Barpeta Road","latitude":26.50284,"longitude":90.96937}}(window,'GeoPostal','IN');

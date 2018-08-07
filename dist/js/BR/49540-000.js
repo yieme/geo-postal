@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49540-000"]={"code":"49540-000","region":"Sergipe","city":"Nossa Senhora da Gloria","latitude":-10.21833,"longitude":-37.42028}}(window,'GeoPostal','BR');

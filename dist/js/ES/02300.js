@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02300"]={"code":"02300","region":"Castilla-La Mancha","city":"Alcaraz","latitude":38.6668,"longitude":-2.49106}}(window,'GeoPostal','ES');

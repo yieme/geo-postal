@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3342"]={"code":"3342","region":"Corrientes","city":"Gobernador Ingeniero Valentin Virasoro","latitude":-28.05,"longitude":-56.03333}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58602"]={"code":"58602","region":"North Dakota","city":"Dickinson","latitude":46.884811,"longitude":-102.785008}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15066"]={"code":"15066","region":"PA","city":"New Brighton","latitude":40.7393,"longitude":-80.2972}}(window,'GeoPostal','US');

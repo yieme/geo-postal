@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G6Z 1A7"]={"code":"G6Z 1A7","region":"Quebec","city":"Breakeyville","latitude":46.737657,"longitude":-71.206998}}(window,'GeoPostal','CA');

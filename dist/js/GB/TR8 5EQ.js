@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR8 5EQ"]={"code":"TR8 5EQ","region":"England","city":"Cubert","latitude":50.37887,"longitude":-5.11509}}(window,'GeoPostal','GB');

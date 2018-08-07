@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67-400"]={"code":"67-400","region":"Lubuskie","city":"Wschowa","latitude":51.80705,"longitude":16.31663}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6167"]={"code":"6167","region":"Tirol","city":"Neustift im Stubaital","latitude":47.11667,"longitude":11.31667}}(window,'GeoPostal','AT');

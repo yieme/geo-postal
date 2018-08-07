@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52326"]={"code":"52326","region":"IA","city":"Quasqueton","latitude":42.3956,"longitude":-91.7679}}(window,'GeoPostal','US');

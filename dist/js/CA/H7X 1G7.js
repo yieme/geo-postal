@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H7X 1G7"]={"code":"H7X 1G7","region":"Quebec","city":"Sainte-Dorothee","latitude":45.526867,"longitude":-73.819023}}(window,'GeoPostal','CA');

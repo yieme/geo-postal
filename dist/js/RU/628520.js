@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628520"]={"code":"628520","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Gornopravdinsk","latitude":60.05,"longitude":69.9}}(window,'GeoPostal','RU');

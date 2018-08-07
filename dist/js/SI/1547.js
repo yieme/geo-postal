@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1547"]={"code":"1547","region":"Ig","city":"Ig","latitude":45.96028,"longitude":14.52889}}(window,'GeoPostal','SI');

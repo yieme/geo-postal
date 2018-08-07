@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347025"]={"code":"347025","region":"Rostovskaya oblast'","city":"Gornyatskiy","latitude":48.29147,"longitude":40.9575}}(window,'GeoPostal','RU');

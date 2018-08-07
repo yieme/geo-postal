@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7C 0K4"]={"code":"L7C 0K4","region":"Ontario","city":"Rockside","latitude":43.75011,"longitude":-79.96635}}(window,'GeoPostal','CA');

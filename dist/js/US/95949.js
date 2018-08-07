@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95949"]={"code":"95949","region":"California","city":"Grass Valley","latitude":39.120062,"longitude":-121.080202}}(window,'GeoPostal','US');

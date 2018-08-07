@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65779"]={"code":"65779","region":"Missouri","city":"Wheatland","latitude":37.94333,"longitude":-93.40306}}(window,'GeoPostal','US');

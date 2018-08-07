@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238630"]={"code":"238630","region":"Kaliningradskaya oblast'","city":"Polessk","latitude":54.86205,"longitude":21.10279}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78056"]={"code":"78056","region":"TX","city":"Mico","latitude":29.5441,"longitude":-98.9231}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35662"]={"code":"35662","region":"AL","city":"Muscle Shoals","latitude":34.7448,"longitude":-87.6675}}(window,'GeoPostal','US');

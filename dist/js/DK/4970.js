@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4970"]={"code":"4970","region":"Sjelland","city":"Rodby","latitude":54.69495,"longitude":11.38885}}(window,'GeoPostal','DK');

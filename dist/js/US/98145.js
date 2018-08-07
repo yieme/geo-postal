@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98145"]={"code":"98145","region":"Washington","city":"Mercer Island","latitude":47.65952,"longitude":-122.31347}}(window,'GeoPostal','US');

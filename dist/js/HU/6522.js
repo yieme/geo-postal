@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6522"]={"code":"6522","region":"Bacs-Kiskun","city":"Gara","latitude":46.03194,"longitude":19.04278}}(window,'GeoPostal','HU');

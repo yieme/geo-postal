@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG12 5AQ"]={"code":"DG12 5AQ","region":"Scotland","city":"Annan","latitude":54.98839,"longitude":-3.25647}}(window,'GeoPostal','GB');

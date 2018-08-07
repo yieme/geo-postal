@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26576"]={"code":"26576","region":"WV","city":"Idamay","latitude":39.4877,"longitude":-80.2666}}(window,'GeoPostal','US');

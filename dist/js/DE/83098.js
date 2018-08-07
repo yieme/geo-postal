@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83098"]={"code":"83098","region":"Bayern","city":"Brannenburg","latitude":47.73996,"longitude":12.09166}}(window,'GeoPostal','DE');

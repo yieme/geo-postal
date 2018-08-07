@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42047"]={"code":"42047","region":"KY","city":"Hampton","latitude":37.2831,"longitude":-88.3714}}(window,'GeoPostal','US');

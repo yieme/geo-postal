@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74522"]={"code":"74522","region":"OK","city":"Alderson","latitude":34.9001,"longitude":-95.6919}}(window,'GeoPostal','US');

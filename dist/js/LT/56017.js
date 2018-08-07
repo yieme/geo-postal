@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56017"]={"code":"56017","region":"Kauno apskritis","city":"Ziezmariai","latitude":54.8,"longitude":24.45}}(window,'GeoPostal','LT');

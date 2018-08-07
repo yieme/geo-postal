@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21228"]={"code":"21228","region":"Maryland","city":"Catonsville","latitude":39.3279,"longitude":-76.74396}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70150"]={"code":"70150","region":"Ratchaburi","city":"Chom Bueng","latitude":13.61964,"longitude":99.59186}}(window,'GeoPostal','TH');

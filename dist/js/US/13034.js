@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13034"]={"code":"13034","region":"NY","city":"Cayuga","latitude":42.9142,"longitude":-76.7024}}(window,'GeoPostal','US');

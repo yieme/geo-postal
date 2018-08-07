@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29069"]={"code":"29069","region":"SC","city":"Lamar","latitude":34.1862,"longitude":-80.0963}}(window,'GeoPostal','US');

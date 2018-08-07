@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8322"]={"code":"8322","region":"Flevoland","city":"Urk","latitude":52.6625,"longitude":5.60139}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18220"]={"code":"18220","region":"Andalucia","city":"Albolote","latitude":37.23088,"longitude":-3.6551}}(window,'GeoPostal','ES');

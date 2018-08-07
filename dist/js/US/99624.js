@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99624"]={"code":"99624","region":"Alaska","city":"Larsen Bay","latitude":57.415129,"longitude":-153.53204}}(window,'GeoPostal','US');

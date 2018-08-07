@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64240-000"]={"code":"64240-000","region":"Piaui","city":"Piracuruca","latitude":-3.92806,"longitude":-41.70917}}(window,'GeoPostal','BR');

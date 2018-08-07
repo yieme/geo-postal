@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16230"]={"code":"16230","region":"Brandenburg","city":"Trampe","latitude":52.77629,"longitude":13.83685}}(window,'GeoPostal','DE');

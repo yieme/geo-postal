@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89434"]={"code":"89434","region":"Nevada","city":"Sparks","latitude":39.552,"longitude":-119.716774}}(window,'GeoPostal','US');

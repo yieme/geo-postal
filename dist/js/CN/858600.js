@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["858600"]={"code":"858600","region":"Xizang","city":"Saga","latitude":29.32367,"longitude":85.22601}}(window,'GeoPostal','CN');

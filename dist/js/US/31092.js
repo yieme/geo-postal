@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31092"]={"code":"31092","region":"GA","city":"Vienna","latitude":32.0913,"longitude":-83.7922}}(window,'GeoPostal','US');

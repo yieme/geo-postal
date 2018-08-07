@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62434"]={"code":"62434","region":"Illinois","city":"Ingraham","latitude":38.841692,"longitude":-88.310231}}(window,'GeoPostal','US');

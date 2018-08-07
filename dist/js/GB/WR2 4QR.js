@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR2 4QR"]={"code":"WR2 4QR","region":"England","city":"Powick","latitude":52.16667,"longitude":-2.25}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6805"]={"code":"6805","region":"Eastern Samar","city":"General MacArthur","latitude":11.24639,"longitude":125.53944}}(window,'GeoPostal','PH');

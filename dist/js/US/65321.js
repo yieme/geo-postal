@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65321"]={"code":"65321","region":"MO","city":"Blackburn","latitude":39.0988,"longitude":-93.4281}}(window,'GeoPostal','US');

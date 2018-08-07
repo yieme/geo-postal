@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57018"]={"code":"57018","region":"SD","city":"Colton","latitude":43.7951,"longitude":-96.9572}}(window,'GeoPostal','US');

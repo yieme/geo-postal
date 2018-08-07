@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88422"]={"code":"88422","region":"Baden-Wurttemberg","city":"Bad Buchau","latitude":48.06231,"longitude":9.61244}}(window,'GeoPostal','DE');

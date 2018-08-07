@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX34 7DR"]={"code":"EX34 7DR","region":"England","city":"Mortehoe","latitude":51.18544,"longitude":-4.20806}}(window,'GeoPostal','GB');

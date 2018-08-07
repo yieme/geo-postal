@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20018"]={"code":"20018","region":"Pais Vasco","city":"San Sebastian","latitude":43.31283,"longitude":-1.97499}}(window,'GeoPostal','ES');

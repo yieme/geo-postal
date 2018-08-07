@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15469"]={"code":"15469","region":"Pennsylvania","city":"Normalville","latitude":40.028619,"longitude":-79.406276}}(window,'GeoPostal','US');

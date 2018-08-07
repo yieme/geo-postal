@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76557"]={"code":"76557","region":"TX","city":"Moody","latitude":31.2533,"longitude":-97.41}}(window,'GeoPostal','US');

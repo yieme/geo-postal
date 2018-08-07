@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97735"]={"code":"97735","region":"Oregon","city":"Fort Rock","latitude":43.524719,"longitude":-121.169942}}(window,'GeoPostal','US');

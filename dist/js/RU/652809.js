@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652809"]={"code":"652809","region":"Kemerovskaya oblast'","city":"Osinniki","latitude":53.6239,"longitude":87.3598}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84320-000"]={"code":"84320-000","region":"Parana","city":"Reserva","latitude":-24.65028,"longitude":-50.85056}}(window,'GeoPostal','BR');

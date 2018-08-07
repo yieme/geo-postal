@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R6M 1C9"]={"code":"R6M 1C9","region":"Manitoba","city":"Morden","latitude":49.191341,"longitude":-98.098029}}(window,'GeoPostal','CA');

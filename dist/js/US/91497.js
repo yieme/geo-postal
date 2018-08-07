@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91497"]={"code":"91497","region":"CA","city":"Southern California Gas Comp","latitude":34.2,"longitude":-118.47}}(window,'GeoPostal','US');

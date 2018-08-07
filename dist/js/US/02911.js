@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02911"]={"code":"02911","region":"Rhode Island","city":"North Providence","latitude":41.851609,"longitude":-71.46948}}(window,'GeoPostal','US');

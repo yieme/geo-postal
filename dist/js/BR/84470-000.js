@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84470-000"]={"code":"84470-000","region":"Parana","city":"Candido de Abreu","latitude":-24.56694,"longitude":-51.33333}}(window,'GeoPostal','BR');

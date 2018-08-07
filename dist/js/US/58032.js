@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58032"]={"code":"58032","region":"ND","city":"Forman","latitude":46.0721,"longitude":-97.6986}}(window,'GeoPostal','US');

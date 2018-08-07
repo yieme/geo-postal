@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59487"]={"code":"59487","region":"MT","city":"Vaughn","latitude":47.5624,"longitude":-111.577}}(window,'GeoPostal','US');

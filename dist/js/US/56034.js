@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56034"]={"code":"56034","region":"MN","city":"Garden City","latitude":44.0467,"longitude":-94.1791}}(window,'GeoPostal','US');

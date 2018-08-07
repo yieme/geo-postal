@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["664 48"]={"code":"664 48","region":"Jihomoravsky kraj","city":"Moravany","latitude":49.1478,"longitude":16.58026}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA5 5HW"]={"code":"KA5 5HW","region":"Scotland","city":"Stair","latitude":55.48002,"longitude":-4.47178}}(window,'GeoPostal','GB');

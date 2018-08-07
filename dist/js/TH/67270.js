@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67270"]={"code":"67270","region":"Phetchabun","city":"Khao Kho","latitude":16.65791,"longitude":101.02208}}(window,'GeoPostal','TH');

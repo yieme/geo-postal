@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37136"]={"code":"37136","region":"TN","city":"Norene","latitude":36.1562,"longitude":-86.3049}}(window,'GeoPostal','US');

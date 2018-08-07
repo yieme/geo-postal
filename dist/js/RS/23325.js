@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23325"]={"code":"23325","region":"Severnobanatski okrug","city":"Padej","latitude":45.82889,"longitude":20.16611}}(window,'GeoPostal','RS');

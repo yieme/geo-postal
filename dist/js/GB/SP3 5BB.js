@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP3 5BB"]={"code":"SP3 5BB","region":"England","city":"Chilmark","latitude":51.0918,"longitude":-2.04379}}(window,'GeoPostal','GB');

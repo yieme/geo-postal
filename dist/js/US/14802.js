@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14802"]={"code":"14802","region":"New York","city":"Alfred","latitude":42.25424,"longitude":-77.79055}}(window,'GeoPostal','US');

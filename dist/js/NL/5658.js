@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5658"]={"code":"5658","region":"Noord-Brabant","city":"Eindhoven","latitude":51.44083,"longitude":5.47778}}(window,'GeoPostal','NL');

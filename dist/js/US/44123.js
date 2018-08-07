@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44123"]={"code":"44123","region":"Ohio","city":"Euclid","latitude":41.593056,"longitude":-81.526944}}(window,'GeoPostal','US');

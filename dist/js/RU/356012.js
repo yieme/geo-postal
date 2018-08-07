@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356012"]={"code":"356012","region":"Stavropol'skiy kray","city":"Rasshevatskaya","latitude":45.5748,"longitude":41.03496}}(window,'GeoPostal','RU');

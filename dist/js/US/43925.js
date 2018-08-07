@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43925"]={"code":"43925","region":"OH","city":"East Springfield","latitude":40.4506,"longitude":-80.8604}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347272"]={"code":"347272","region":"Rostovskaya oblast'","city":"Nikolayevskaya","latitude":47.61391,"longitude":41.5023}}(window,'GeoPostal','RU');

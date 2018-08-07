@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74194"]={"code":"74194","region":"OK","city":"First Natl Bank Mail Service","latitude":36.15,"longitude":-95.99}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA67 7AU"]={"code":"SA67 7AU","region":"Wales","city":"Narberth","latitude":51.79784,"longitude":-4.74275}}(window,'GeoPostal','GB');

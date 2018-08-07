@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85240"]={"code":"85240","region":"Pays-de-la-Loire","city":"Foussais-Payre","latitude":46.53333,"longitude":-0.68333}}(window,'GeoPostal','FR');

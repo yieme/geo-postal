@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24311"]={"code":"24311","region":"Virginia","city":"Atkins","latitude":36.86734,"longitude":-81.42344}}(window,'GeoPostal','US');

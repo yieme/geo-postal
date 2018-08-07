@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59010"]={"code":"59010","region":"MT","city":"Bighorn","latitude":45.997,"longitude":-107.31}}(window,'GeoPostal','US');

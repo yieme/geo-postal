@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58155-000"]={"code":"58155-000","region":"Paraiba","city":"Soledade","latitude":-7.05722,"longitude":-36.36278}}(window,'GeoPostal','BR');

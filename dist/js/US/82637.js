@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82637"]={"code":"82637","region":"WY","city":"Glenrock","latitude":42.7803,"longitude":-105.8719}}(window,'GeoPostal','US');

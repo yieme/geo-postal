@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-119"]={"code":"05-119","region":"Mazowieckie","city":"Michalow-Reginow","latitude":52.41711,"longitude":20.96595}}(window,'GeoPostal','PL');

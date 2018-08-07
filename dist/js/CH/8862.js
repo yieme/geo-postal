@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8862"]={"code":"8862","region":"Schwyz","city":"Schubelbach","latitude":47.17326,"longitude":8.92811}}(window,'GeoPostal','CH');

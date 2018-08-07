@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15801"]={"code":"15801","region":"Pennsylvania","city":"Du Bois","latitude":41.11923,"longitude":-78.76003}}(window,'GeoPostal','US');

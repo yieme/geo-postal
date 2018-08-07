@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34628"]={"code":"34628","region":"Hessen","city":"Loshausen","latitude":50.88491,"longitude":9.25057}}(window,'GeoPostal','DE');

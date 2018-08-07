@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8391"]={"code":"8391","region":"Zala","city":"Sarmellek","latitude":46.71221,"longitude":17.16865}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87310"]={"code":"87310","region":"NM","city":"Brimhall","latitude":35.8005,"longitude":-108.5815}}(window,'GeoPostal','US');

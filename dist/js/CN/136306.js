@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["136306"]={"code":"136306","region":"Jilin","city":"Dongfeng","latitude":42.64031,"longitude":125.51176}}(window,'GeoPostal','CN');

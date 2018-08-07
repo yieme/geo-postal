@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["068-0010"]={"code":"068-0010","region":"Hokkaido","city":"Iwamizawa","latitude":43.2,"longitude":141.783}}(window,'GeoPostal','JP');

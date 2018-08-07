@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0W 1M0"]={"code":"G0W 1M0","region":"Quebec","city":"Saint-Francois-de-Sales","latitude":48.31679,"longitude":-72.13244}}(window,'GeoPostal','CA');

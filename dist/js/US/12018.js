@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12018"]={"code":"12018","region":"NY","city":"Averill Park","latitude":42.6365,"longitude":-73.5504}}(window,'GeoPostal','US');

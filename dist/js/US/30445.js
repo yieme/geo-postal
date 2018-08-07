@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30445"]={"code":"30445","region":"Georgia","city":"Mount Vernon","latitude":32.17851,"longitude":-82.59458}}(window,'GeoPostal','US');

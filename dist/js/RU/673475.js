@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["673475"]={"code":"673475","region":"Zabaykal'skiy kray","city":"Chernyshevsk","latitude":52.5243,"longitude":117.0174}}(window,'GeoPostal','RU');

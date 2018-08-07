@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5419"]={"code":"5419","region":"Hordaland","city":"Fitjar","latitude":59.91845,"longitude":5.3192}}(window,'GeoPostal','NO');

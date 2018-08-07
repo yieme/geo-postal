@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68403"]={"code":"68403","region":"NE","city":"Manley","latitude":40.9207,"longitude":-96.168}}(window,'GeoPostal','US');

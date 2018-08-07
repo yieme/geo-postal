@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70104"]={"code":"70104","region":"Bourgogne-Franche-Comte","city":"Gray","latitude":47.44575,"longitude":5.59215}}(window,'GeoPostal','FR');

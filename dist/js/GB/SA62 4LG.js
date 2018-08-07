@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 4LG"]={"code":"SA62 4LG","region":"Wales","city":"Freystrop","latitude":51.76333,"longitude":-4.96028}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44630-000"]={"code":"44630-000","region":"Bahia","city":"Mairi","latitude":-11.71139,"longitude":-40.14889}}(window,'GeoPostal','BR');

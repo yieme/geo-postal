@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20676"]={"code":"20676","region":"Maryland","city":"Port Republic","latitude":38.49341,"longitude":-76.531389}}(window,'GeoPostal','US');

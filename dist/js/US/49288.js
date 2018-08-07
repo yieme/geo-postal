@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49288"]={"code":"49288","region":"Michigan","city":"Waldron","latitude":41.732681,"longitude":-84.438066}}(window,'GeoPostal','US');

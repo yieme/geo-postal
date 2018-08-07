@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2460"]={"code":"2460","region":"Pernik","city":"Trun","latitude":42.83528,"longitude":22.65167}}(window,'GeoPostal','BG');

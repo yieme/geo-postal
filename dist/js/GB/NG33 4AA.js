@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 4AA"]={"code":"NG33 4AA","region":"England","city":"Old Somerby","latitude":52.89461,"longitude":-0.5682}}(window,'GeoPostal','GB');

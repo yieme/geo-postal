@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23419"]={"code":"23419","region":"VA","city":"Oyster","latitude":37.3074,"longitude":-75.9269}}(window,'GeoPostal','US');

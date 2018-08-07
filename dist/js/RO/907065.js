@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907065"]={"code":"907065","region":"Constanta","city":"Cobadin","latitude":44.08333,"longitude":28.21667}}(window,'GeoPostal','RO');

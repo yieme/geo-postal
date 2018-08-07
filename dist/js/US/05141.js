@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05141"]={"code":"05141","region":"VT","city":"Cambridgeport","latitude":43.1515,"longitude":-72.5604}}(window,'GeoPostal','US');

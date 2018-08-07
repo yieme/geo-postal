@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70467"]={"code":"70467","region":"Louisiana","city":"Varnado","latitude":30.8938,"longitude":-89.82952}}(window,'GeoPostal','US');

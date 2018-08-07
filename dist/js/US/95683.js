@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95683"]={"code":"95683","region":"California","city":"Rancho Murieta","latitude":38.49618,"longitude":-121.12728}}(window,'GeoPostal','US');

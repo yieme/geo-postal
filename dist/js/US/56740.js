@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56740"]={"code":"56740","region":"MN","city":"Noyes","latitude":48.9975,"longitude":-97.2045}}(window,'GeoPostal','US');

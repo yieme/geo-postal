@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66892"]={"code":"66892","region":"Rheinland-Pfalz","city":"Bruchmuhlbach-Miesau","latitude":49.38333,"longitude":7.43333}}(window,'GeoPostal','DE');

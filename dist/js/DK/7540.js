@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7540"]={"code":"7540","region":"Midtjylland","city":"Karup","latitude":56.30673,"longitude":9.16835}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31563"]={"code":"31563","region":"Georgia","city":"Surrency","latitude":31.72417,"longitude":-82.19861}}(window,'GeoPostal','US');

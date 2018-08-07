@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91174"]={"code":"91174","region":"Gharb-Chrarda-Beni Hssen","city":"Ouazzane","latitude":34.79711,"longitude":-5.58224}}(window,'GeoPostal','MA');

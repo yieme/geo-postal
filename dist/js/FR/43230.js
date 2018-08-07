@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43230"]={"code":"43230","region":"Auvergne-Rhone-Alpes","city":"Paulhaguet","latitude":45.20782,"longitude":3.51416}}(window,'GeoPostal','FR');

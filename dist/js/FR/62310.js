@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62310"]={"code":"62310","region":"Hauts-de-France","city":"Fruges","latitude":50.51501,"longitude":2.13292}}(window,'GeoPostal','FR');

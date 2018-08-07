@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HT 6119"]={"code":"HT 6119","region":"Ouest","city":"Port-au-Prince","latitude":18.53917,"longitude":-72.335}}(window,'GeoPostal','HT');

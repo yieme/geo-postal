@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38368"]={"code":"38368","region":"Tennessee","city":"Reagan","latitude":35.510772,"longitude":-88.355378}}(window,'GeoPostal','US');

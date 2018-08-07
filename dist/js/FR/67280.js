@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67280"]={"code":"67280","region":"Grand-Est","city":"Urmatt","latitude":48.52752,"longitude":7.32565}}(window,'GeoPostal','FR');

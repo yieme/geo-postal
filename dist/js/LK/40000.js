@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40000"]={"code":"40000","region":"Northern Province","city":"Jaffna","latitude":9.66845,"longitude":80.00742}}(window,'GeoPostal','LK');

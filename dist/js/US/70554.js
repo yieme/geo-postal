@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70554"]={"code":"70554","region":"LA","city":"Mamou","latitude":30.6496,"longitude":-92.4196}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63945"]={"code":"63945","region":"MO","city":"Harviell","latitude":36.6723,"longitude":-90.5583}}(window,'GeoPostal','US');

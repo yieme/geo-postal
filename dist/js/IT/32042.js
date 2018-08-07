@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32042"]={"code":"32042","region":"Veneto","city":"Calalzo","latitude":46.44,"longitude":12.38333}}(window,'GeoPostal','IT');

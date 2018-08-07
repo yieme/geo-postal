@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22504"]={"code":"22504","region":"VA","city":"Laneview","latitude":37.7681,"longitude":-76.7117}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67547"]={"code":"67547","region":"Kansas","city":"Kinsley","latitude":37.92307,"longitude":-99.40984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226335"]={"code":"226335","region":"Jiangsu","city":"Dingdian","latitude":32.22353,"longitude":121.29807}}(window,'GeoPostal','CN');

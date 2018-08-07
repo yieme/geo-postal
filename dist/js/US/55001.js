@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55001"]={"code":"55001","region":"Minnesota","city":"Afton","latitude":44.9035,"longitude":-92.8193}}(window,'GeoPostal','US');

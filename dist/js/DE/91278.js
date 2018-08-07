@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91278"]={"code":"91278","region":"Bayern","city":"Pottenstein","latitude":49.77131,"longitude":11.40784}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88120"]={"code":"88120","region":"NM","city":"Grady","latitude":34.8107,"longitude":-103.298}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0M 2R0"]={"code":"S0M 2R0","region":"Saskatchewan","city":"Rockhaven","latitude":52.66684,"longitude":-108.86812}}(window,'GeoPostal','CA');

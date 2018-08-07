@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH7 4LT"]={"code":"CH7 4LT","region":"Wales","city":"Treuddyn","latitude":53.1148,"longitude":-3.12003}}(window,'GeoPostal','GB');

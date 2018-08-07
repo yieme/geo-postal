@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63471"]={"code":"63471","region":"MO","city":"Taylor","latitude":39.9145,"longitude":-91.5278}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-385"]={"code":"48-385","region":"Opolskie","city":"Otmuchow","latitude":50.46627,"longitude":17.17348}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12579"]={"code":"12579","region":"Valenciana, Comunidad","city":"Alcoceber","latitude":40.25142,"longitude":0.28433}}(window,'GeoPostal','ES');

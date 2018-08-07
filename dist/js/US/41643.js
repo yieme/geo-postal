@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41643"]={"code":"41643","region":"KY","city":"Lackey","latitude":37.471,"longitude":-82.8294}}(window,'GeoPostal','US');

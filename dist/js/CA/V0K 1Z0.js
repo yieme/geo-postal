@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0K 1Z0"]={"code":"V0K 1Z0","region":"British Columbia","city":"Lytton","latitude":50.224415,"longitude":-121.577587}}(window,'GeoPostal','CA');

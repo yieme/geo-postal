@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393670"]={"code":"393670","region":"Tambovskaya oblast'","city":"Zherdevka","latitude":51.84861,"longitude":41.46056}}(window,'GeoPostal','RU');

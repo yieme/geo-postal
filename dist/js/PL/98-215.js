@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98-215"]={"code":"98-215","region":"Lodzkie","city":"Goszczanow","latitude":51.79163,"longitude":18.5057}}(window,'GeoPostal','PL');

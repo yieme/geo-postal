@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40132"]={"code":"40132","region":"Jawa Barat","city":"Bandung","latitude":-7.3993,"longitude":108.2607}}(window,'GeoPostal','ID');

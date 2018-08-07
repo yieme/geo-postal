@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83374"]={"code":"83374","region":"Bayern","city":"Traunreut","latitude":47.96269,"longitude":12.59231}}(window,'GeoPostal','DE');

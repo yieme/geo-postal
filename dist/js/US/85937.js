@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85937"]={"code":"85937","region":"Arizona","city":"Snowflake","latitude":34.51337,"longitude":-110.07845}}(window,'GeoPostal','US');

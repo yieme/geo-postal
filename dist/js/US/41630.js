@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41630"]={"code":"41630","region":"Kentucky","city":"Garrett","latitude":37.486327,"longitude":-82.855837}}(window,'GeoPostal','US');

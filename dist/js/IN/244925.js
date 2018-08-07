@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["244925"]={"code":"244925","region":"Uttar Pradesh","city":"Seohara","latitude":29.21667,"longitude":78.58333}}(window,'GeoPostal','IN');

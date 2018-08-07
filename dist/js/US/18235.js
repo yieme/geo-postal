@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18235"]={"code":"18235","region":"Pennsylvania","city":"Lehighton","latitude":40.8337,"longitude":-75.7138}}(window,'GeoPostal','US');

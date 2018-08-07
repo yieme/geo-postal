@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77950"]={"code":"77950","region":"Ile-de-France","city":"Montereau-sur-le-Jard","latitude":48.5901,"longitude":2.6676}}(window,'GeoPostal','FR');

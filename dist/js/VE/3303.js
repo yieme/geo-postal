@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3303"]={"code":"3303","region":"Portuguesa","city":"Araure","latitude":9.56009,"longitude":-69.21475}}(window,'GeoPostal','VE');

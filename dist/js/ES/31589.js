@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31589"]={"code":"31589","region":"Navarra, Comunidad Foral de","city":"Sartaguda","latitude":42.38333,"longitude":-2.05709}}(window,'GeoPostal','ES');

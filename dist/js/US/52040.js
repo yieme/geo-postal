@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52040"]={"code":"52040","region":"Iowa","city":"Dyersville","latitude":42.48444,"longitude":-91.12291}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3P 0A1"]={"code":"J3P 0A1","region":"Quebec","city":"Sorel-Tracy","latitude":46.03336,"longitude":-73.11585}}(window,'GeoPostal','CA');

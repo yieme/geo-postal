@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41128"]={"code":"41128","region":"Kentucky","city":"Carter","latitude":38.428889,"longitude":-83.120833}}(window,'GeoPostal','US');

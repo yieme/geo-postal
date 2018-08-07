@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08032"]={"code":"08032","region":"NJ","city":"Grenloch","latitude":39.7788,"longitude":-75.0601}}(window,'GeoPostal','US');

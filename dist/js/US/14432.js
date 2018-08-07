@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14432"]={"code":"14432","region":"New York","city":"Clifton Springs","latitude":42.96173,"longitude":-77.13998}}(window,'GeoPostal','US');

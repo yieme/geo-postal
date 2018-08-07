@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827009"]={"code":"827009","region":"Suceava","city":"Baia","latitude":44.71667,"longitude":28.66667}}(window,'GeoPostal','RO');

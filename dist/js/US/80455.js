@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80455"]={"code":"80455","region":"CO","city":"Jamestown","latitude":40.1155,"longitude":-105.3886}}(window,'GeoPostal','US');

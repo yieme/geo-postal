@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57648"]={"code":"57648","region":"South Dakota","city":"Pollock","latitude":45.861421,"longitude":-100.320262}}(window,'GeoPostal','US');

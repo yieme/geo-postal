@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5123"]={"code":"5123","region":"Jasz-Nagykun-Szolnok","city":"Jaszarokszallas","latitude":47.64238,"longitude":19.98038}}(window,'GeoPostal','HU');

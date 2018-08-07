@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0M 1L0"]={"code":"J0M 1L0","region":"Quebec","city":"Wemindji","latitude":52.91693,"longitude":-78.78294}}(window,'GeoPostal','CA');

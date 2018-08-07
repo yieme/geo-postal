@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13889"]={"code":"13889","region":"Provence-Alpes-Cote d'Azur","city":"Gemenos","latitude":43.29751,"longitude":5.62843}}(window,'GeoPostal','FR');

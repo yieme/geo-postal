@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["957 01"]={"code":"957 01","region":"Nitriansky kraj","city":"Banovce nad Bebravou","latitude":48.7213,"longitude":18.25754}}(window,'GeoPostal','SK');

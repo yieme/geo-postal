@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08800"]={"code":"08800","region":"Kyivska oblast","city":"Myronivka","latitude":49.66007,"longitude":30.98225}}(window,'GeoPostal','UA');

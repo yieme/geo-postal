@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92033"]={"code":"92033","region":"CA","city":"Escondido","latitude":33.1192,"longitude":-117.0864}}(window,'GeoPostal','US');

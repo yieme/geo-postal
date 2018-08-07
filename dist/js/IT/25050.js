@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25050"]={"code":"25050","region":"Lombardia","city":"Niardo","latitude":45.97599,"longitude":10.33326}}(window,'GeoPostal','IT');

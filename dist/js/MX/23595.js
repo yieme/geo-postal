@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23595"]={"code":"23595","region":"Baja California Sur","city":"Cabo San Lucas","latitude":22.89088,"longitude":-109.91238}}(window,'GeoPostal','MX');

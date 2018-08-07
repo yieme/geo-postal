@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65075"]={"code":"65075","region":"MO","city":"Saint Elizabeth","latitude":38.2712,"longitude":-92.2635}}(window,'GeoPostal','US');

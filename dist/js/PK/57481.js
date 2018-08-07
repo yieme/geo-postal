@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57481"]={"code":"57481","region":"Punjab","city":"Arifwala","latitude":30.29399,"longitude":73.07354}}(window,'GeoPostal','PK');

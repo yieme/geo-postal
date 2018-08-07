@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1428"]={"code":"1428","region":"Neuchatel","city":"Saint-Aubin-Sauges","latitude":46.89419,"longitude":6.77251}}(window,'GeoPostal','CH');

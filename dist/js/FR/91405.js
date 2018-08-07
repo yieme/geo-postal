@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91405"]={"code":"91405","region":"Ile-de-France","city":"Orsay","latitude":48.69572,"longitude":2.18727}}(window,'GeoPostal','FR');

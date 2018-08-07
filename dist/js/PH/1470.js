@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1470"]={"code":"1470","region":"Zambales","city":"Malabon","latitude":15.6361,"longitude":119.9379}}(window,'GeoPostal','PH');

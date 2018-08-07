@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7052"]={"code":"7052","region":"Tasman","city":"Wakefield","latitude":-41.4,"longitude":173.05}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50431"]={"code":"50431","region":"IA","city":"Coulter","latitude":42.7382,"longitude":-93.37}}(window,'GeoPostal','US');

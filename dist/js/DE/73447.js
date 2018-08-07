@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73447"]={"code":"73447","region":"Baden-Wurttemberg","city":"Oberkochen","latitude":48.78379,"longitude":10.10519}}(window,'GeoPostal','DE');

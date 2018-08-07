@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81040"]={"code":"81040","region":"Campania","city":"Liberi","latitude":41.22782,"longitude":14.29003}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-140"]={"code":"88-140","region":"Kujawsko-pomorskie","city":"Gniewkowo","latitude":52.89461,"longitude":18.40785}}(window,'GeoPostal','PL');

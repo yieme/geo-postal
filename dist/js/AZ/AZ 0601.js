@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 0601"]={"code":"AZ 0601","region":"Agsu","city":"Aghsu","latitude":40.57028,"longitude":48.40087}}(window,'GeoPostal','AZ');

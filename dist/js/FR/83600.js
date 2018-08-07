@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83600"]={"code":"83600","region":"Provence-Alpes-Cote d'Azur","city":"Bagnols-en-Foret","latitude":43.53666,"longitude":6.7019}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32240"]={"code":"32240","region":"FL","city":"Jacksonville Beach","latitude":30.2947,"longitude":-81.3931}}(window,'GeoPostal','US');

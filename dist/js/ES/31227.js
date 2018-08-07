@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31227"]={"code":"31227","region":"Navarra, Comunidad Foral de","city":"Genevilla","latitude":42.6452,"longitude":-2.39021}}(window,'GeoPostal','ES');

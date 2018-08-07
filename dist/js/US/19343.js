@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19343"]={"code":"19343","region":"Pennsylvania","city":"Glenmoore","latitude":40.093662,"longitude":-75.749859}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2501"]={"code":"2501","region":"Khost","city":"Khost","latitude":33.33951,"longitude":69.92041}}(window,'GeoPostal','AF');

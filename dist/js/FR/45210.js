@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45210"]={"code":"45210","region":"Centre-Val de Loire","city":"Ferrieres-en-Gatinais","latitude":48.0931,"longitude":2.7903}}(window,'GeoPostal','FR');

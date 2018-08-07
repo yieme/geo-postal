@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3219"]={"code":"3219","region":"Victoria","city":"Thomson","latitude":-38.16984,"longitude":144.3789}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9202"]={"code":"9202","region":"Lanao del Norte","city":"Kauswagan","latitude":8.19167,"longitude":124.08472}}(window,'GeoPostal','PH');

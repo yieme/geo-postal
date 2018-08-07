@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75650"]={"code":"75650","region":"Texas","city":"Hallsville","latitude":32.500141,"longitude":-94.575349}}(window,'GeoPostal','US');

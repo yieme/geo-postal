@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43702"]={"code":"43702","region":"OH","city":"Zanesville","latitude":39.9403,"longitude":-82.0132}}(window,'GeoPostal','US');

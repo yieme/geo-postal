@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-205"]={"code":"33-205","region":"Malopolskie","city":"Gruszow Wielki","latitude":50.19163,"longitude":21.03144}}(window,'GeoPostal','PL');

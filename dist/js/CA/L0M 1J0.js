@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0M 1J0"]={"code":"L0M 1J0","region":"Ontario","city":"Everett","latitude":44.18341,"longitude":-79.94966}}(window,'GeoPostal','CA');

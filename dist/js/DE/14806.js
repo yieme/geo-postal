@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14806"]={"code":"14806","region":"Brandenburg","city":"Niemegk","latitude":52.07388,"longitude":12.68947}}(window,'GeoPostal','DE');

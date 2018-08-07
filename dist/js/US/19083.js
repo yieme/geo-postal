@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19083"]={"code":"19083","region":"PA","city":"Havertown","latitude":39.9774,"longitude":-75.3106}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15473"]={"code":"15473","region":"PA","city":"Perryopolis","latitude":40.0646,"longitude":-79.7756}}(window,'GeoPostal','US');

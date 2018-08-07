@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237240"]={"code":"237240","region":"Olt","city":"Leleasca","latitude":44.78333,"longitude":24.43333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56864"]={"code":"56864","region":"Rheinland-Pfalz","city":"Bad Bertrich","latitude":50.06667,"longitude":7.03333}}(window,'GeoPostal','DE');

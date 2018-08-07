@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["168030"]={"code":"168030","region":"Komi, Respublika","city":"Mordino","latitude":61.35327,"longitude":51.89574}}(window,'GeoPostal','RU');

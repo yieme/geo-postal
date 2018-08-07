@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX7 6UJ"]={"code":"OX7 6UJ","region":"England","city":"Kingham","latitude":51.91527,"longitude":-1.62246}}(window,'GeoPostal','GB');

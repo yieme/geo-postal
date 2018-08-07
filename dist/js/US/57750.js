@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57750"]={"code":"57750","region":"South Dakota","city":"Interior","latitude":43.72528,"longitude":-101.98306}}(window,'GeoPostal','US');

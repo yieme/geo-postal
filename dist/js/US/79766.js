@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79766"]={"code":"79766","region":"Texas","city":"Odessa","latitude":31.809573,"longitude":-102.336577}}(window,'GeoPostal','US');

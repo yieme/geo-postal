@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-834"]={"code":"62-834","region":"Wielkopolskie","city":"Malanow","latitude":51.95358,"longitude":18.39128}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55191"]={"code":"55191","region":"MN","city":"New Brighton Boxes","latitude":45.07,"longitude":-93.19}}(window,'GeoPostal','US');

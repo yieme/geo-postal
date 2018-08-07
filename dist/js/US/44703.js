@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44703"]={"code":"44703","region":"OH","city":"Canton","latitude":40.8098,"longitude":-81.3814}}(window,'GeoPostal','US');

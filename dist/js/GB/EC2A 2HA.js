@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC2A 2HA"]={"code":"EC2A 2HA","region":"England","city":"Ashurst","latitude":50.93236,"longitude":-0.32375}}(window,'GeoPostal','GB');

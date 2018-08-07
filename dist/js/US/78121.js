@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78121"]={"code":"78121","region":"Texas","city":"La Vernia","latitude":29.336135,"longitude":-98.095702}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6098"]={"code":"6098","region":"Bacs-Kiskun","city":"Tass","latitude":47.02095,"longitude":19.02988}}(window,'GeoPostal','HU');

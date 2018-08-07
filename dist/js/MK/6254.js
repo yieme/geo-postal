@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6254"]={"code":"6254","region":"Skopje","city":"Tuin","latitude":41.61944,"longitude":21.04528}}(window,'GeoPostal','MK');

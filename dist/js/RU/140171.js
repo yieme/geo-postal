@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140171"]={"code":"140171","region":"Moskovskaya oblast'","city":"Bronnitsy","latitude":55.42112,"longitude":38.26188}}(window,'GeoPostal','RU');

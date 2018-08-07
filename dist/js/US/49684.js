@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49684"]={"code":"49684","region":"Michigan","city":"Traverse City","latitude":44.76306,"longitude":-85.62063}}(window,'GeoPostal','US');

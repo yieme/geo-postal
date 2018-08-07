@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97466"]={"code":"97466","region":"Oregon","city":"Powers","latitude":42.883132,"longitude":-124.071912}}(window,'GeoPostal','US');

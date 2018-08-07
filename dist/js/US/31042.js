@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31042"]={"code":"31042","region":"GA","city":"Irwinton","latitude":32.8088,"longitude":-83.174}}(window,'GeoPostal','US');

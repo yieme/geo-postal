@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29031"]={"code":"29031","region":"South Carolina","city":"Carlisle","latitude":34.59167,"longitude":-81.46444}}(window,'GeoPostal','US');

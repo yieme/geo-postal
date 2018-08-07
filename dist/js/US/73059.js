@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73059"]={"code":"73059","region":"OK","city":"Minco","latitude":35.3067,"longitude":-97.9664}}(window,'GeoPostal','US');

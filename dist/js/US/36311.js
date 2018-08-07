@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36311"]={"code":"36311","region":"AL","city":"Ariton","latitude":31.583,"longitude":-85.7077}}(window,'GeoPostal','US');

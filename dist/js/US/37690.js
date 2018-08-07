@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37690"]={"code":"37690","region":"TN","city":"Telford","latitude":36.2451,"longitude":-82.5369}}(window,'GeoPostal','US');

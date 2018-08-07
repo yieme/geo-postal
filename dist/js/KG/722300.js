@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722300"]={"code":"722300","region":"Ysyk-Kol","city":"Bokonbayevo","latitude":42.11768,"longitude":76.99332}}(window,'GeoPostal','KG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19007"]={"code":"19007","region":"Pennsylvania","city":"Bristol","latitude":40.11179,"longitude":-74.861748}}(window,'GeoPostal','US');

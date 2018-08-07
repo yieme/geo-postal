@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1P0"]={"code":"T0H 1P0","region":"Alberta","city":"Fox Creek","latitude":54.40007,"longitude":-116.80238}}(window,'GeoPostal','CA');

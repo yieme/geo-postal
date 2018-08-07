@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6887"]={"code":"6887","region":"Sogn og Fjordane","city":"Laerdalsoyri","latitude":61.09805,"longitude":7.48158}}(window,'GeoPostal','NO');

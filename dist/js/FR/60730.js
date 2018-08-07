@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60730"]={"code":"60730","region":"Hauts-de-France","city":"Ully-Saint-Georges","latitude":49.27914,"longitude":2.28094}}(window,'GeoPostal','FR');

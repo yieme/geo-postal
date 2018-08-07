@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4602"]={"code":"4602","region":"Lezhe","city":"Rreshen","latitude":41.7675,"longitude":19.87556}}(window,'GeoPostal','AL');

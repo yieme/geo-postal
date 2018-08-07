@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29644"]={"code":"29644","region":"South Carolina","city":"Fountain Inn","latitude":34.681492,"longitude":-82.220824}}(window,'GeoPostal','US');

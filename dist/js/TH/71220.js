@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71220"]={"code":"71220","region":"Kanchanaburi","city":"Nong Prue","latitude":14.61144,"longitude":99.45033}}(window,'GeoPostal','TH');

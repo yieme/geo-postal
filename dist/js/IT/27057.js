@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27057"]={"code":"27057","region":"Lombardia","city":"Varzi","latitude":44.82297,"longitude":9.19762}}(window,'GeoPostal','IT');

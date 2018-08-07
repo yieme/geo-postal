@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12070"]={"code":"12070","region":"Western Province","city":"Beruwala","latitude":6.4788,"longitude":79.9828}}(window,'GeoPostal','LK');

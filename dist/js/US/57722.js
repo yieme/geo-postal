@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57722"]={"code":"57722","region":"SD","city":"Buffalo Gap","latitude":43.4958,"longitude":-103.3157}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57399"]={"code":"57399","region":"Jonkopings lan","city":"Tranas","latitude":58.03717,"longitude":14.9782}}(window,'GeoPostal','SE');

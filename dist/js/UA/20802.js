@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20802"]={"code":"20802","region":"Cherkaska oblast","city":"Kamianka","latitude":49.0318,"longitude":32.10396}}(window,'GeoPostal','UA');

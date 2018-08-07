@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5829"]={"code":"5829","region":"Ammochostos","city":"Leonarisso","latitude":35.47083,"longitude":34.14167}}(window,'GeoPostal','CY');

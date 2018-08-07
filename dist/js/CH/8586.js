@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8586"]={"code":"8586","region":"Thurgau","city":"Erlen","latitude":47.54832,"longitude":9.23366}}(window,'GeoPostal','CH');

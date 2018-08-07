@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96746"]={"code":"96746","region":"Hawaii","city":"Wailua Homesteads","latitude":22.06693,"longitude":-159.37802}}(window,'GeoPostal','US');

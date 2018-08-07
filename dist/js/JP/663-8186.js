@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663-8186"]={"code":"663-8186","region":"Hyogo","city":"Nishinomiya","latitude":34.737597,"longitude":135.341564}}(window,'GeoPostal','JP');

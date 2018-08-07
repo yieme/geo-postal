@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52041"]={"code":"52041","region":"Toscana","city":"Civitella in Val di Chiana","latitude":43.41764,"longitude":11.72334}}(window,'GeoPostal','IT');

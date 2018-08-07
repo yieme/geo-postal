@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74424"]={"code":"74424","region":"Baden-Wurttemberg","city":"Buhlertann","latitude":49.04167,"longitude":9.90861}}(window,'GeoPostal','DE');

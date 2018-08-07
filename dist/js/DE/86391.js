@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86391"]={"code":"86391","region":"Bayern","city":"Bayern","latitude":47.795,"longitude":12.53381}}(window,'GeoPostal','DE');

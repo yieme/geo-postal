@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52202"]={"code":"52202","region":"IA","city":"Alburnett","latitude":42.1583,"longitude":-91.6392}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06070"]={"code":"06070","region":"Connecticut","city":"Simsbury","latitude":41.875779,"longitude":-72.82221}}(window,'GeoPostal','US');

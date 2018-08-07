@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27854"]={"code":"27854","region":"NC","city":"Milwaukee","latitude":36.4,"longitude":-77.23}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01945"]={"code":"01945","region":"Brandenburg","city":"Schwarzheide","latitude":51.47671,"longitude":13.8556}}(window,'GeoPostal','DE');

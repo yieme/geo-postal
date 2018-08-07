@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68751"]={"code":"68751","region":"NE","city":"Maskell","latitude":42.6905,"longitude":-96.9809}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31630"]={"code":"31630","region":"GA","city":"Du Pont","latitude":30.9885,"longitude":-82.8715}}(window,'GeoPostal','US');

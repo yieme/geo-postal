@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537350"]={"code":"537350","region":"Harghita","city":"Varsag","latitude":46.51667,"longitude":25.35}}(window,'GeoPostal','RO');

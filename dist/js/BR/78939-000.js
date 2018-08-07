@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78939-000"]={"code":"78939-000","region":"Rondonia","city":"Guajara Mirim","latitude":-10.78278,"longitude":-65.33944}}(window,'GeoPostal','BR');

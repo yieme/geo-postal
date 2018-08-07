@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56637"]={"code":"56637","region":"MN","city":"Talmoon","latitude":47.5888,"longitude":-93.7749}}(window,'GeoPostal','US');

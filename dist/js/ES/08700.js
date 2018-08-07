@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08700"]={"code":"08700","region":"Catalunya","city":"Igualada","latitude":41.58098,"longitude":1.6172}}(window,'GeoPostal','ES');

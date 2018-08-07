@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL10 0LF"]={"code":"AL10 0LF","region":"England","city":"Hatfield","latitude":51.76338,"longitude":-0.22419}}(window,'GeoPostal','GB');

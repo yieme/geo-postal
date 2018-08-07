@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15022"]={"code":"15022","region":"PA","city":"Charleroi","latitude":40.1404,"longitude":-79.92}}(window,'GeoPostal','US');

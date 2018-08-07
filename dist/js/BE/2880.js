@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2880"]={"code":"2880","region":"Antwerpen","city":"Bornem","latitude":51.09716,"longitude":4.24364}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6015"]={"code":"6015","region":"Western Australia","city":"Floreat","latitude":-31.93862,"longitude":115.79211}}(window,'GeoPostal','AU');

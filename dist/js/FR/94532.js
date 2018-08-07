@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94532"]={"code":"94532","region":"Ile-de-France","city":"Thiais","latitude":48.76496,"longitude":2.3961}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29000"]={"code":"29000","region":"Bretagne","city":"Quimper","latitude":48,"longitude":-4.1}}(window,'GeoPostal','FR');

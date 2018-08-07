@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38390"]={"code":"38390","region":"Auvergne-Rhone-Alpes","city":"Porcieu-Amblagnieu","latitude":45.83443,"longitude":5.40218}}(window,'GeoPostal','FR');

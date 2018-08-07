@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2740"]={"code":"2740","region":"Bern","city":"Moutier","latitude":47.27818,"longitude":7.36951}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 3LF"]={"code":"PE34 3LF","region":"England","city":"West Lynn","latitude":52.75063,"longitude":0.38521}}(window,'GeoPostal','GB');

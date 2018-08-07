@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28024"]={"code":"28024","region":"NC","city":"Cliffside","latitude":35.2416,"longitude":-81.7755}}(window,'GeoPostal','US');

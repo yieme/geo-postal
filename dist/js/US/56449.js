@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56449"]={"code":"56449","region":"Minnesota","city":"Fort Ripley","latitude":46.204464,"longitude":-94.228108}}(window,'GeoPostal','US');

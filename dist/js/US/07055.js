@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07055"]={"code":"07055","region":"New Jersey","city":"Passaic","latitude":40.85677,"longitude":-74.12848}}(window,'GeoPostal','US');

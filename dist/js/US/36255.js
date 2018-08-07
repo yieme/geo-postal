@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36255"]={"code":"36255","region":"AL","city":"Cragford","latitude":33.2171,"longitude":-85.7108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77780"]={"code":"77780","region":"Quintana Roo","city":"Tulum","latitude":20.21667,"longitude":-87.46667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61013"]={"code":"61013","region":"Orhon","city":"Erdenet","latitude":49.03333,"longitude":104.08333}}(window,'GeoPostal','MN');

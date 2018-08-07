@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 7DF"]={"code":"CT15 7DF","region":"England","city":"Alkham","latitude":51.13515,"longitude":1.22317}}(window,'GeoPostal','GB');

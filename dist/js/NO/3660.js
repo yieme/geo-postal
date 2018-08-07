@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3660"]={"code":"3660","region":"Telemark","city":"Rjukan","latitude":59.87891,"longitude":8.59411}}(window,'GeoPostal','NO');

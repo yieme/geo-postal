@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26347"]={"code":"26347","region":"WV","city":"Flemington","latitude":39.2665,"longitude":-80.132}}(window,'GeoPostal','US');

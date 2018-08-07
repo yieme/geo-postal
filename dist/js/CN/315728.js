@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315728"]={"code":"315728","region":"Zhejiang","city":"Dingtang","latitude":29.23033,"longitude":121.84217}}(window,'GeoPostal','CN');

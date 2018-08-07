@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77290"]={"code":"77290","region":"Ile-de-France","city":"Compans","latitude":48.9942,"longitude":2.6644}}(window,'GeoPostal','FR');

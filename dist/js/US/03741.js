@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03741"]={"code":"03741","region":"New Hampshire","city":"Canaan","latitude":43.66302,"longitude":-72.003436}}(window,'GeoPostal','US');

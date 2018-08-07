@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 2Y0"]={"code":"S0G 2Y0","region":"Saskatchewan","city":"Lebret","latitude":50.75007,"longitude":-103.70103}}(window,'GeoPostal','CA');

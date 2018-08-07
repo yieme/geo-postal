@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64469"]={"code":"64469","region":"MO","city":"Maysville","latitude":39.9112,"longitude":-94.3548}}(window,'GeoPostal','US');

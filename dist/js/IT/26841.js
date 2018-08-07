@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26841"]={"code":"26841","region":"Lombardia","city":"Casalpusterlengo","latitude":45.17687,"longitude":9.64906}}(window,'GeoPostal','IT');

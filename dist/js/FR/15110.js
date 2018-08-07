@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15110"]={"code":"15110","region":"Auvergne-Rhone-Alpes","city":"Chaudes-Aigues","latitude":44.85344,"longitude":3.00364}}(window,'GeoPostal','FR');

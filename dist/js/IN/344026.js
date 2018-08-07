@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344026"]={"code":"344026","region":"Rajasthan","city":"Siwana","latitude":25.63333,"longitude":72.41667}}(window,'GeoPostal','IN');

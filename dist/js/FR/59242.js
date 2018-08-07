@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59242"]={"code":"59242","region":"Hauts-de-France","city":"Genech","latitude":50.53122,"longitude":3.21651}}(window,'GeoPostal','FR');

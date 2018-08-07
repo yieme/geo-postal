@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56750"]={"code":"56750","region":"Bretagne","city":"Damgan","latitude":47.51799,"longitude":-2.57698}}(window,'GeoPostal','FR');

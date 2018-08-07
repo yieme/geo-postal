@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89048"]={"code":"89048","region":"Calabria","city":"Siderno Marina","latitude":38.27788,"longitude":16.302}}(window,'GeoPostal','IT');

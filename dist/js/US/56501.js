@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56501"]={"code":"56501","region":"Minnesota","city":"Detroit Lakes","latitude":46.81718,"longitude":-95.84533}}(window,'GeoPostal','US');

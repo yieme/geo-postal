@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80078"]={"code":"80078","region":"Campania","city":"Pozzuoli","latitude":40.83196,"longitude":14.11001}}(window,'GeoPostal','IT');

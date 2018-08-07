@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35447"]={"code":"35447","region":"Hessen","city":"Reiskirchen","latitude":50.50404,"longitude":8.51046}}(window,'GeoPostal','DE');

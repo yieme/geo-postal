@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69600-000"]={"code":"69600-000","region":"Amazonas","city":"Benjamin Constant","latitude":-4.38306,"longitude":-70.03111}}(window,'GeoPostal','BR');

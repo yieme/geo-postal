@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77617"]={"code":"77617","region":"TX","city":"Gilchrist","latitude":29.523,"longitude":-94.4755}}(window,'GeoPostal','US');

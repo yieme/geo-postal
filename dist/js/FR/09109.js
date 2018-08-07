@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09109"]={"code":"09109","region":"Occitanie","city":"Pamiers","latitude":43.11667,"longitude":1.6}}(window,'GeoPostal','FR');

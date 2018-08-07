@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79021"]={"code":"79021","region":"TX","city":"Cotton Center","latitude":33.9753,"longitude":-102.0314}}(window,'GeoPostal','US');

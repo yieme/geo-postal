@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 1AF"]={"code":"IP9 1AF","region":"England","city":"Freston","latitude":52.00771,"longitude":1.15992}}(window,'GeoPostal','GB');

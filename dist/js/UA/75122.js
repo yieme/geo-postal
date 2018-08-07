@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75122"]={"code":"75122","region":"Khersonska oblast","city":"Nova Mayachka","latitude":46.59996,"longitude":33.22707}}(window,'GeoPostal','UA');

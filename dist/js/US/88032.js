@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88032"]={"code":"88032","region":"NM","city":"Dona Ana","latitude":32.3895,"longitude":-106.8139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4120"]={"code":"4120","region":"Oberosterreich","city":"Kleinzell im Muehlkreis","latitude":48.45585,"longitude":13.99195}}(window,'GeoPostal','AT');

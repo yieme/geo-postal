@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66430"]={"code":"66430","region":"Occitanie","city":"Bompas","latitude":42.73333,"longitude":2.93333}}(window,'GeoPostal','FR');

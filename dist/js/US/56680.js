@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56680"]={"code":"56680","region":"Minnesota","city":"Spring Lake","latitude":47.633333,"longitude":-93.966667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26524"]={"code":"26524","region":"WV","city":"Bretz","latitude":39.5423,"longitude":-79.8006}}(window,'GeoPostal','US');

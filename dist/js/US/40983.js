@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40983"]={"code":"40983","region":"KY","city":"Sextons Creek","latitude":37.333,"longitude":-83.7666}}(window,'GeoPostal','US');

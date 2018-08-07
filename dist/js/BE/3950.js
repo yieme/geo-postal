@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3950"]={"code":"3950","region":"Limburg","city":"Bocholt","latitude":51.17337,"longitude":5.57994}}(window,'GeoPostal','BE');

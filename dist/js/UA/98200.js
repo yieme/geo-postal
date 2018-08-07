@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98200"]={"code":"98200","region":"Avtonomna Respublika Krym","city":"Lenine","latitude":45.29857,"longitude":35.77708}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6469"]={"code":"6469","region":"Limburg","city":"Kerkrade","latitude":50.86583,"longitude":6.0625}}(window,'GeoPostal','NL');

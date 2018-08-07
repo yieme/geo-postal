@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2778"]={"code":"2778","region":"New South Wales","city":"Woodford","latitude":-33.73333,"longitude":150.48333}}(window,'GeoPostal','AU');

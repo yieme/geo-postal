@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["BI"]={id:'BI',country:'Burundi', postal:{'':{code:'',region:'Bujumbura Mairie',city:'Bujumbura',latitude:-3.3822,longitude:29.3644}}};

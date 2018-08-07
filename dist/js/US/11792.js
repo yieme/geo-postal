@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11792"]={"code":"11792","region":"New York","city":"Wading River","latitude":40.94555,"longitude":-72.8209}}(window,'GeoPostal','US');

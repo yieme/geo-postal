@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30323"]={"code":"30323","region":"Ida-Virumaa","city":"Kohtla-Jarve","latitude":59.39861,"longitude":27.27306}}(window,'GeoPostal','EE');

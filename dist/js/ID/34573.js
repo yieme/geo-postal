@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34573"]={"code":"34573","region":"Lampung","city":"Liwa","latitude":-5.03554,"longitude":104.07595}}(window,'GeoPostal','ID');

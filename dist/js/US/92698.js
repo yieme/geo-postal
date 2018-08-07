@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92698"]={"code":"92698","region":"CA","city":"Aliso Viejo","latitude":33.6686,"longitude":-117.8386}}(window,'GeoPostal','US');

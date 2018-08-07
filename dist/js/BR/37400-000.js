@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37400-000"]={"code":"37400-000","region":"Minas Gerais","city":"Campanha","latitude":-21.83611,"longitude":-45.40056}}(window,'GeoPostal','BR');

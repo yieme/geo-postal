@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142672"]={"code":"142672","region":"Moskovskaya oblast'","city":"Likino-Dulevo","latitude":55.7083,"longitude":38.9542}}(window,'GeoPostal','RU');

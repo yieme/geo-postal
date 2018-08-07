@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34295"]={"code":"34295","region":"Tokat","city":"Sulusaray","latitude":39.99389,"longitude":36.08404}}(window,'GeoPostal','TR');

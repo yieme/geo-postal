@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EN3 4EB"]={"code":"EN3 4EB","region":"England","city":"Ponders End","latitude":51.6445,"longitude":-0.04652}}(window,'GeoPostal','GB');

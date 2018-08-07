@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80005"]={"code":"80005","region":"Lvivska oblast","city":"Sokal'","latitude":50.47438,"longitude":24.28288}}(window,'GeoPostal','UA');

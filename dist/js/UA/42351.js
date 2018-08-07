@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42351"]={"code":"42351","region":"Sumska oblast","city":"Verkhnyaya Syrovatka","latitude":50.82902,"longitude":34.95861}}(window,'GeoPostal','UA');

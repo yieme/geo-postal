@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08190"]={"code":"08190","region":"Grand-Est","city":"Asfeld","latitude":49.4697,"longitude":4.1192}}(window,'GeoPostal','FR');

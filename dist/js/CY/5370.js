@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5370"]={"code":"5370","region":"Ammochostos","city":"Dherinia","latitude":35.06667,"longitude":33.95833}}(window,'GeoPostal','CY');

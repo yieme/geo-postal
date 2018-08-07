@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96943"]={"code":"96943","region":"Yap","city":"Colonia","latitude":9.51638,"longitude":138.12167}}(window,'GeoPostal','FM');

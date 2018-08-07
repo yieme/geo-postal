@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29233"]={"code":"29233","region":"Bretagne","city":"Cleder","latitude":48.663,"longitude":-4.102}}(window,'GeoPostal','FR');

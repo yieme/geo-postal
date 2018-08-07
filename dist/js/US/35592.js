@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35592"]={"code":"35592","region":"Alabama","city":"Vernon","latitude":33.754608,"longitude":-88.119072}}(window,'GeoPostal','US');

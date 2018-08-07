@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6600"]={"code":"6600","region":"Kardzhali","city":"Kurdzhali","latitude":41.65,"longitude":25.36667}}(window,'GeoPostal','BG');

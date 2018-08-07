@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24468"]={"code":"24468","region":"VA","city":"Mustoe","latitude":38.386,"longitude":-79.5592}}(window,'GeoPostal','US');

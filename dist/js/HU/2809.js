@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2809"]={"code":"2809","region":"Komarom-Esztergom","city":"Tatabanya","latitude":47.58494,"longitude":18.39325}}(window,'GeoPostal','HU');

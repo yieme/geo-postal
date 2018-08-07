@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4560000"]={"code":"4560000","region":"Biobio","city":"La Laja","latitude":-37.26667,"longitude":-72.7}}(window,'GeoPostal','CL');

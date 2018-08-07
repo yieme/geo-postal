@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4830"]={"code":"4830","region":"Queensland","city":"Doomadgee","latitude":-17.9435,"longitude":138.82719}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99830"]={"code":"99830","region":"Lappi","city":"Ivalo","latitude":68.65986,"longitude":27.53891}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23429"]={"code":"23429","region":"VA","city":"Seaview","latitude":37.2711,"longitude":-75.9536}}(window,'GeoPostal','US');

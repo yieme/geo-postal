@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64235-000"]={"code":"64235-000","region":"Piaui","city":"Cocal","latitude":-3.47194,"longitude":-41.5575}}(window,'GeoPostal','BR');

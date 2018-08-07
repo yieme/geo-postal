@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71455"]={"code":"71455","region":"LA","city":"Mora","latitude":31.4016,"longitude":-92.974}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52000"]={"code":"52000","region":"Istarska zupanija","city":"Pazin","latitude":45.24028,"longitude":13.93667}}(window,'GeoPostal','HR');

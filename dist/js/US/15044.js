@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15044"]={"code":"15044","region":"Pennsylvania","city":"Gibsonia","latitude":40.624963,"longitude":-79.953216}}(window,'GeoPostal','US');

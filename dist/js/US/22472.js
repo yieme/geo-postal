@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22472"]={"code":"22472","region":"VA","city":"Haynesville","latitude":37.9505,"longitude":-76.6367}}(window,'GeoPostal','US');

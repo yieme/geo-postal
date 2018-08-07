@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR12 7NL"]={"code":"WR12 7NL","region":"England","city":"Wormington","latitude":52.02636,"longitude":-1.94122}}(window,'GeoPostal','GB');

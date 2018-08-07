@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04280"]={"code":"04280","region":"Provence-Alpes-Cote d'Azur","city":"Cereste","latitude":43.85567,"longitude":5.58452}}(window,'GeoPostal','FR');

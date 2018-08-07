@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75704"]={"code":"75704","region":"Khersonska oblast","city":"Skadovsk","latitude":46.1161,"longitude":32.91124}}(window,'GeoPostal','UA');

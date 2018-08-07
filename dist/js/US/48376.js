@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48376"]={"code":"48376","region":"Michigan","city":"Novi","latitude":42.48708,"longitude":-83.47602}}(window,'GeoPostal','US');

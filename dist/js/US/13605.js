@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13605"]={"code":"13605","region":"NY","city":"Adams","latitude":43.8062,"longitude":-76.049}}(window,'GeoPostal','US');

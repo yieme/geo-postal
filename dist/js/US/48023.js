@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48023"]={"code":"48023","region":"MI","city":"Fair Haven","latitude":42.7023,"longitude":-82.6688}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7472"]={"code":"7472","region":"Overijssel","city":"Goor","latitude":52.23333,"longitude":6.58611}}(window,'GeoPostal','NL');

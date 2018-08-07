@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35509"]={"code":"35509","region":"Bretagne","city":"Vitre","latitude":48.11776,"longitude":-1.20577}}(window,'GeoPostal','FR');

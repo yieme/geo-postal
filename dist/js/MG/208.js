@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["208"]={"code":"208","region":"Antsiranana","city":"Sambava","latitude":-14.26667,"longitude":50.16667}}(window,'GeoPostal','MG');

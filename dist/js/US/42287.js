@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42287"]={"code":"42287","region":"KY","city":"Welchs Creek","latitude":37.31,"longitude":-86.52}}(window,'GeoPostal','US');

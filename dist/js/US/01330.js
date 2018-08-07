@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01330"]={"code":"01330","region":"MA","city":"Ashfield","latitude":42.5232,"longitude":-72.811}}(window,'GeoPostal','US');

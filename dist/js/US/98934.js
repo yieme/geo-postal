@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98934"]={"code":"98934","region":"WA","city":"Kittitas","latitude":46.9806,"longitude":-120.4163}}(window,'GeoPostal','US');

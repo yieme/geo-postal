@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58375-000"]={"code":"58375-000","region":"Paraiba","city":"Mogeiro","latitude":-7.29944,"longitude":-35.47944}}(window,'GeoPostal','BR');

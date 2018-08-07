@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76629"]={"code":"76629","region":"Texas","city":"Bremond","latitude":31.1493,"longitude":-96.67632}}(window,'GeoPostal','US');

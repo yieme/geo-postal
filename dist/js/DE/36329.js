@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36329"]={"code":"36329","region":"Hessen","city":"Ober Breidenbach","latitude":50.67766,"longitude":9.23055}}(window,'GeoPostal','DE');

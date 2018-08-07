@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67035"]={"code":"67035","region":"Kansas","city":"Cunningham","latitude":37.66674,"longitude":-98.40258}}(window,'GeoPostal','US');

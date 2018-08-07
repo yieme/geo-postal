@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42419"]={"code":"42419","region":"Kentucky","city":"Henderson","latitude":37.83615,"longitude":-87.59001}}(window,'GeoPostal','US');

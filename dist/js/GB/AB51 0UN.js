@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB51 0UN"]={"code":"AB51 0UN","region":"Scotland","city":"Wester Fintrae","latitude":57.2381,"longitude":-2.31408}}(window,'GeoPostal','GB');

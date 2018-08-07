@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65760"]={"code":"65760","region":"Missouri","city":"Tecumseh","latitude":36.59142,"longitude":-92.2611}}(window,'GeoPostal','US');

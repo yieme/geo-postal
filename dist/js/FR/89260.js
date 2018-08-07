@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89260"]={"code":"89260","region":"Bourgogne-Franche-Comte","city":"Perceneige","latitude":48.3536,"longitude":3.4083}}(window,'GeoPostal','FR');

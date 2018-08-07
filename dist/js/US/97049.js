@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97049"]={"code":"97049","region":"Oregon","city":"Rhododendron","latitude":45.329563,"longitude":-121.911191}}(window,'GeoPostal','US');

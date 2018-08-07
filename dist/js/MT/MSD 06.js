@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MSD 06"]={"code":"MSD 06","region":"Msida","city":"Msida","latitude":35.8925,"longitude":14.48278}}(window,'GeoPostal','MT');

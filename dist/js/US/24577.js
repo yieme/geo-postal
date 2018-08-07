@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24577"]={"code":"24577","region":"Virginia","city":"Nathalie","latitude":36.935,"longitude":-78.94722}}(window,'GeoPostal','US');

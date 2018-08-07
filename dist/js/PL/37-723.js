@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-723"]={"code":"37-723","region":"Podkarpackie","city":"Stubno","latitude":49.89806,"longitude":22.95602}}(window,'GeoPostal','PL');

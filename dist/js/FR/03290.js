@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03290"]={"code":"03290","region":"Auvergne-Rhone-Alpes","city":"Diou","latitude":46.53333,"longitude":3.75}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 2HG"]={"code":"CM6 2HG","region":"England","city":"Great Easton","latitude":51.90447,"longitude":0.3339}}(window,'GeoPostal','GB');

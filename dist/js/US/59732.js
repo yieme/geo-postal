@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59732"]={"code":"59732","region":"MT","city":"Glen","latitude":45.4766,"longitude":-112.6906}}(window,'GeoPostal','US');

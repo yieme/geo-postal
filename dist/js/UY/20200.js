@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20200"]={"code":"20200","region":"Maldonado","city":"Piriapolis","latitude":-34.86819,"longitude":-55.27436}}(window,'GeoPostal','UY');

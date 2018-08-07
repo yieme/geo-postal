@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17834"]={"code":"17834","region":"Pennsylvania","city":"Kulpmont","latitude":40.79342,"longitude":-76.47245}}(window,'GeoPostal','US');

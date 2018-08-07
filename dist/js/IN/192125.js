@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192125"]={"code":"192125","region":"Jammu and Kashmir","city":"Anantnag","latitude":33.73333,"longitude":75.15}}(window,'GeoPostal','IN');

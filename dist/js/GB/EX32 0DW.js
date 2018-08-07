@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX32 0DW"]={"code":"EX32 0DW","region":"England","city":"Bishops Tawton","latitude":51.05,"longitude":-4.05}}(window,'GeoPostal','GB');

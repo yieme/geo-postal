@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67404"]={"code":"67404","region":"Odeska oblast","city":"Rozdil'na","latitude":46.84334,"longitude":30.07919}}(window,'GeoPostal','UA');

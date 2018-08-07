@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557241"]={"code":"557241","region":"Vrancea","city":"Slimnic","latitude":45.91667,"longitude":24.16667}}(window,'GeoPostal','RO');

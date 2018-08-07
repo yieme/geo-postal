@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["573 00"]={"code":"573 00","region":"Kentriki Makedonia","city":"Pyrgos","latitude":40.62861,"longitude":22.73278}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12025"]={"code":"12025","region":"NY","city":"Broadalbin","latitude":43.0727,"longitude":-74.1684}}(window,'GeoPostal','US');

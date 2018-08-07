@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76034"]={"code":"76034","region":"Texas","city":"Colleyville","latitude":32.88096,"longitude":-97.15501}}(window,'GeoPostal','US');

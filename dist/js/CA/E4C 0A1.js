@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4C 0A1"]={"code":"E4C 0A1","region":"New Brunswick","city":"Cambridge-Narrows","latitude":45.81204,"longitude":-65.96415}}(window,'GeoPostal','CA');

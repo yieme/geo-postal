@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2556"]={"code":"2556","region":"New South Wales","city":"Bringelly","latitude":-33.93333,"longitude":150.73333}}(window,'GeoPostal','AU');

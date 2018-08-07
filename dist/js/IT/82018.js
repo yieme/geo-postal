@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82018"]={"code":"82018","region":"Campania","city":"San Giorgio del Sannio","latitude":41.06962,"longitude":14.85224}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30449"]={"code":"30449","region":"GA","city":"Oliver","latitude":32.5281,"longitude":-81.5332}}(window,'GeoPostal','US');

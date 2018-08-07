@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["419202"]={"code":"419202","region":"Hunan","city":"Bozhou","latitude":27.37889,"longitude":109.27778}}(window,'GeoPostal','CN');

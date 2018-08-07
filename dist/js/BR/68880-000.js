@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68880-000"]={"code":"68880-000","region":"Para","city":"Tucuma","latitude":-0.18333,"longitude":-50.05}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457185"]={"code":"457185","region":"Salaj","city":"Horoatu Crasnei","latitude":47.13333,"longitude":22.88333}}(window,'GeoPostal','RO');

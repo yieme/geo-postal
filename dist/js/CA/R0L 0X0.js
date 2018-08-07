@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 0X0"]={"code":"R0L 0X0","region":"Manitoba","city":"Dutton","latitude":51.1483,"longitude":-100.58586}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58900"]={"code":"58900","region":"Ankara","city":"Nallihan","latitude":40.18593,"longitude":31.35179}}(window,'GeoPostal','TR');

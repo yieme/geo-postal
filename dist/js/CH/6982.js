@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6982"]={"code":"6982","region":"Ticino","city":"Agno","latitude":45.98333,"longitude":8.85}}(window,'GeoPostal','CH');

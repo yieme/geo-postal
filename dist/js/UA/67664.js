@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67664"]={"code":"67664","region":"Odeska oblast","city":"Usatove","latitude":46.53296,"longitude":30.6596}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25928"]={"code":"25928","region":"WV","city":"Stephenson","latitude":37.5798,"longitude":-81.3339}}(window,'GeoPostal','US');

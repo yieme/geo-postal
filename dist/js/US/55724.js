@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55724"]={"code":"55724","region":"Minnesota","city":"Cotton","latitude":47.154803,"longitude":-92.57617}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84095"]={"code":"84095","region":"Campania","city":"San Giovanni a Piro","latitude":40.0503,"longitude":15.45097}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29376"]={"code":"29376","region":"South Carolina","city":"Roebuck","latitude":34.858283,"longitude":-81.950945}}(window,'GeoPostal','US');

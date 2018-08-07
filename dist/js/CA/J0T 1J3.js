@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 1J3"]={"code":"J0T 1J3","region":"Quebec","city":"Saint-Faustin--Lac-Carre","latitude":46.11679,"longitude":-74.48253}}(window,'GeoPostal','CA');

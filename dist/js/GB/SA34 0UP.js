@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA34 0UP"]={"code":"SA34 0UP","region":"Wales","city":"Llanfallteg West","latitude":51.84104,"longitude":-4.68958}}(window,'GeoPostal','GB');

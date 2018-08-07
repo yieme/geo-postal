@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86209"]={"code":"86209","region":"Nouvelle-Aquitaine","city":"Loudun","latitude":47.00788,"longitude":0.08296}}(window,'GeoPostal','FR');

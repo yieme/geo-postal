@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01014"]={"code":"01014","region":"Lazio","city":"Montalto di Castro","latitude":42.35042,"longitude":11.60695}}(window,'GeoPostal','IT');

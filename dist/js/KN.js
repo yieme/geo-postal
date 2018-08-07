@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["KN"]={id:'KN',country:'Saint Kitts and Nevis', postal:{'':{code:'',region:'Saint George Basseterre',city:'Basseterre',latitude:17.29484,longitude:-62.7261}}};

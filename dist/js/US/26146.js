@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26146"]={"code":"26146","region":"West Virginia","city":"Friendly","latitude":39.490194,"longitude":-81.012764}}(window,'GeoPostal','US');

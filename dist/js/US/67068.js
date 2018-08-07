@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67068"]={"code":"67068","region":"Kansas","city":"Kingman","latitude":37.64585,"longitude":-98.11367}}(window,'GeoPostal','US');

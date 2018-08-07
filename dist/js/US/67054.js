@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67054"]={"code":"67054","region":"Kansas","city":"Greensburg","latitude":37.6028,"longitude":-99.29261}}(window,'GeoPostal','US');

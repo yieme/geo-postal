@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55008"]={"code":"55008","region":"Grand-Est","city":"Bar-le-Duc","latitude":48.78333,"longitude":5.16667}}(window,'GeoPostal','FR');

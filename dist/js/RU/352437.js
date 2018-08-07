@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352437"]={"code":"352437","region":"Krasnodarskiy kray","city":"Kurganinsk","latitude":44.88,"longitude":40.59861}}(window,'GeoPostal','RU');

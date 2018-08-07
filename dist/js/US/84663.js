@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84663"]={"code":"84663","region":"Utah","city":"Springville","latitude":40.161841,"longitude":-111.602596}}(window,'GeoPostal','US');

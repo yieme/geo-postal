@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58856"]={"code":"58856","region":"ND","city":"Zahl","latitude":48.5787,"longitude":-103.6599}}(window,'GeoPostal','US');

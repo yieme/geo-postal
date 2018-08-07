@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3970"]={"code":"3970","region":"Valais","city":"Salgesch","latitude":46.31056,"longitude":7.56954}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-100"]={"code":"14-100","region":"Warminsko-mazurskie","city":"Ostroda","latitude":53.69671,"longitude":19.96486}}(window,'GeoPostal','PL');

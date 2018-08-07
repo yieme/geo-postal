@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 4TA"]={"code":"IP29 4TA","region":"England","city":"Whepstead","latitude":52.19209,"longitude":0.68158}}(window,'GeoPostal','GB');

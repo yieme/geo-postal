@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["230155"]={"code":"230155","region":"Pichincha","city":"Santo Domingo de los Colorados","latitude":-0.25,"longitude":-79.15}}(window,'GeoPostal','EC');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7131"]={"code":"7131","region":"Burgenland","city":"Halbturn","latitude":47.87019,"longitude":16.97542}}(window,'GeoPostal','AT');

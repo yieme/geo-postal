@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA14 3BD"]={"code":"LA14 3BD","region":"England","city":"Vickerstown","latitude":54.10481,"longitude":-3.24948}}(window,'GeoPostal','GB');

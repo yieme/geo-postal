@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08280"]={"code":"08280","region":"Sachsen","city":"Aue","latitude":50.59034,"longitude":12.70657}}(window,'GeoPostal','DE');

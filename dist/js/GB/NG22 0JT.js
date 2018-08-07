@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG22 0JT"]={"code":"NG22 0JT","region":"England","city":"Tuxford","latitude":53.23004,"longitude":-0.89325}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28520"]={"code":"28520","region":"North Carolina","city":"Cedar Island","latitude":34.94196,"longitude":-76.33561}}(window,'GeoPostal','US');

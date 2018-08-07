@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32627"]={"code":"32627","region":"Galicia","city":"Verin","latitude":41.94149,"longitude":-7.43809}}(window,'GeoPostal','ES');

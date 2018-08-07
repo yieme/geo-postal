@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 9PN"]={"code":"HS2 9PN","region":"Scotland","city":"Balallan","latitude":58.08333,"longitude":-6.58333}}(window,'GeoPostal','GB');

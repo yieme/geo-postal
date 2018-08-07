@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15226"]={"code":"15226","region":"Macvanski okrug","city":"Draginje","latitude":44.53361,"longitude":19.75944}}(window,'GeoPostal','RS');

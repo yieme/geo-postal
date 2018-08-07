@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0H 1H0"]={"code":"B0H 1H0","region":"Nova Scotia","city":"Canso","latitude":45.33345,"longitude":-60.99851}}(window,'GeoPostal','CA');

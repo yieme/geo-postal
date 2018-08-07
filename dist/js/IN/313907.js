@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313907"]={"code":"313907","region":"Rajasthan","city":"Salumbar","latitude":24.13333,"longitude":74.05}}(window,'GeoPostal','IN');

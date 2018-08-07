@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72065"]={"code":"72065","region":"AR","city":"Hensley","latitude":34.5208,"longitude":-92.2758}}(window,'GeoPostal','US');

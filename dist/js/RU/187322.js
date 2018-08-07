@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187322"]={"code":"187322","region":"Leningradskaya oblast'","city":"Sinyavino","latitude":59.90781,"longitude":31.0711}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26330"]={"code":"26330","region":"Auvergne-Rhone-Alpes","city":"Chateauneuf-de-Galaure","latitude":45.23096,"longitude":4.9568}}(window,'GeoPostal','FR');

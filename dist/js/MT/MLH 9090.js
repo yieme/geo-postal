@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MLH 9090"]={"code":"MLH 9090","region":"Mellieha","city":"Mellieha","latitude":35.95639,"longitude":14.36222}}(window,'GeoPostal','MT');

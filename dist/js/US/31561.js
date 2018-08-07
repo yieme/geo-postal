@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31561"]={"code":"31561","region":"Georgia","city":"Sea Island","latitude":31.205555,"longitude":-81.329738}}(window,'GeoPostal','US');

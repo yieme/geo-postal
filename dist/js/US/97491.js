@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97491"]={"code":"97491","region":"Oregon","city":"Wedderburn","latitude":42.459799,"longitude":-124.401025}}(window,'GeoPostal','US');

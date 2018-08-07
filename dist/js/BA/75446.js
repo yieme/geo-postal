@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75446"]={"code":"75446","region":"Republika Srpska","city":"Milici","latitude":44.17111,"longitude":19.09028}}(window,'GeoPostal','BA');

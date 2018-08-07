@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO22 7RH"]={"code":"PO22 7RH","region":"England","city":"Middleton-on-Sea","latitude":50.79357,"longitude":-0.62004}}(window,'GeoPostal','GB');

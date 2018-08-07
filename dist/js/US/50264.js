@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50264"]={"code":"50264","region":"Iowa","city":"Weldon","latitude":40.855922,"longitude":-93.72877}}(window,'GeoPostal','US');

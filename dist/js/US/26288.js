@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26288"]={"code":"26288","region":"West Virginia","city":"Webster Springs","latitude":38.47927,"longitude":-80.41342}}(window,'GeoPostal','US');

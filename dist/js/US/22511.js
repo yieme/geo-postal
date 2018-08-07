@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22511"]={"code":"22511","region":"VA","city":"Lottsburg","latitude":37.9792,"longitude":-76.5018}}(window,'GeoPostal','US');

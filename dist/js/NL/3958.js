@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3958"]={"code":"3958","region":"Utrecht","city":"Amerongen","latitude":52.0025,"longitude":5.45972}}(window,'GeoPostal','NL');

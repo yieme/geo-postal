@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84034"]={"code":"84034","region":"UT","city":"Ibapah","latitude":40.0366,"longitude":-113.9853}}(window,'GeoPostal','US');

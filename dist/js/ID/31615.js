@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31615"]={"code":"31615","region":"Sumatera Selatan","city":"Lubuklinggau","latitude":-3.3,"longitude":102.86667}}(window,'GeoPostal','ID');

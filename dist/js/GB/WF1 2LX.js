@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WF1 2LX"]={"code":"WF1 2LX","region":"England","city":"Outwood","latitude":53.71195,"longitude":-1.50126}}(window,'GeoPostal','GB');

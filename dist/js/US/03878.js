@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03878"]={"code":"03878","region":"NH","city":"Somersworth","latitude":43.2525,"longitude":-70.8756}}(window,'GeoPostal','US');

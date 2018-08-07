@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21723"]={"code":"21723","region":"MD","city":"Cooksville","latitude":39.3211,"longitude":-77.0051}}(window,'GeoPostal','US');

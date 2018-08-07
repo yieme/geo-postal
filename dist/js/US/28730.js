@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28730"]={"code":"28730","region":"North Carolina","city":"Fairview","latitude":35.522927,"longitude":-82.410655}}(window,'GeoPostal','US');

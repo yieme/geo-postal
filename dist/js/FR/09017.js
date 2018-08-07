@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09017"]={"code":"09017","region":"Occitanie","city":"Foix","latitude":42.96667,"longitude":1.6}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04013"]={"code":"04013","region":"ME","city":"Bustins Island","latitude":43.799,"longitude":-70.0698}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0S 1S0"]={"code":"G0S 1S0","region":"Quebec","city":"Lotbiniere","latitude":46.61675,"longitude":-71.93239}}(window,'GeoPostal','CA');

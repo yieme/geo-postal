@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-110"]={"code":"73-110","region":"Zachodniopomorskie","city":"Stargard Szczecinski","latitude":53.33672,"longitude":15.0499}}(window,'GeoPostal','PL');

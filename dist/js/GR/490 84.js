@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["490 84"]={"code":"490 84","region":"Ionia Nisia","city":"Agios Matthaios","latitude":39.49583,"longitude":19.87306}}(window,'GeoPostal','GR');

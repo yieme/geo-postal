@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52552"]={"code":"52552","region":"IA","city":"Drakesville","latitude":40.8253,"longitude":-92.5051}}(window,'GeoPostal','US');

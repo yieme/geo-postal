@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"Tirol","city":"Kufstein","latitude":47.58333,"longitude":12.16667}}(window,'GeoPostal','AT');

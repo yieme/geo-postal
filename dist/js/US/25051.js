@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25051"]={"code":"25051","region":"WV","city":"Costa","latitude":38.1591,"longitude":-81.7092}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04073"]={"code":"04073","region":"Maine","city":"Sanford","latitude":43.435856,"longitude":-70.761319}}(window,'GeoPostal','US');

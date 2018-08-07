@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE45 5PL"]={"code":"NE45 5PL","region":"England","city":"Aydon","latitude":54.98868,"longitude":-1.98872}}(window,'GeoPostal','GB');

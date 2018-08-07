@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68370"]={"code":"68370","region":"Grand-Est","city":"Orbey","latitude":48.12651,"longitude":7.16455}}(window,'GeoPostal','FR');

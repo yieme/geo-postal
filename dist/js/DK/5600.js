@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"Syddanmark","city":"Faaborg","latitude":55.0951,"longitude":10.24226}}(window,'GeoPostal','DK');

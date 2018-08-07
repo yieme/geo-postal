@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71130"]={"code":"71130","region":"Bourgogne-Franche-Comte","city":"Gueugnon","latitude":46.60357,"longitude":4.06286}}(window,'GeoPostal','FR');

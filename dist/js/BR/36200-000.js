@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36200-000"]={"code":"36200-000","region":"Minas Gerais","city":"Barbacena","latitude":-21.22583,"longitude":-43.77361}}(window,'GeoPostal','BR');

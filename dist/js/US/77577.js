@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77577"]={"code":"77577","region":"TX","city":"Liverpool","latitude":29.2667,"longitude":-95.2889}}(window,'GeoPostal','US');

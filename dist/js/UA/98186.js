@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98186"]={"code":"98186","region":"Avtonomna Respublika Krym","city":"Koktebel'","latitude":44.96154,"longitude":35.2466}}(window,'GeoPostal','UA');

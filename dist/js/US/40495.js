@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40495"]={"code":"40495","region":"KY","city":"Winston","latitude":37.7,"longitude":-84.08}}(window,'GeoPostal','US');

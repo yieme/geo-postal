@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL19 7ES"]={"code":"LL19 7ES","region":"Wales","city":"Prestatyn","latitude":53.33748,"longitude":-3.40776}}(window,'GeoPostal','GB');

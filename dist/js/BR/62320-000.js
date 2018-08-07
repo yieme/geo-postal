@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62320-000"]={"code":"62320-000","region":"Ceara","city":"Tiangua","latitude":-3.73222,"longitude":-40.99167}}(window,'GeoPostal','BR');

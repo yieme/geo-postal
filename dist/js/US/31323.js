@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31323"]={"code":"31323","region":"GA","city":"Riceboro","latitude":31.7357,"longitude":-81.4671}}(window,'GeoPostal','US');

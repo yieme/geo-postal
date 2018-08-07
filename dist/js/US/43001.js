@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43001"]={"code":"43001","region":"OH","city":"Alexandria","latitude":40.106,"longitude":-82.6077}}(window,'GeoPostal','US');

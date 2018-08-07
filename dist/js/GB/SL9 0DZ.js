@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL9 0DZ"]={"code":"SL9 0DZ","region":"England","city":"Gerrards Cross","latitude":51.5861,"longitude":-0.55543}}(window,'GeoPostal','GB');

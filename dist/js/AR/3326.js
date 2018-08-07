@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3326"]={"code":"3326","region":"Misiones","city":"Santo Pipo","latitude":-27.14132,"longitude":-55.40867}}(window,'GeoPostal','AR');

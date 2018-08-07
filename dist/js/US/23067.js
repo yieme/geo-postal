@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23067"]={"code":"23067","region":"VA","city":"Hadensville","latitude":37.8252,"longitude":-77.9899}}(window,'GeoPostal','US');

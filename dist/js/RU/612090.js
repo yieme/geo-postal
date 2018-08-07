@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612090"]={"code":"612090","region":"Kirovskaya oblast'","city":"Strizhi","latitude":58.45758,"longitude":49.28667}}(window,'GeoPostal','RU');

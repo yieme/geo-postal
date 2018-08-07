@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08879"]={"code":"08879","region":"New Jersey","city":"South Amboy","latitude":40.46082,"longitude":-74.2698}}(window,'GeoPostal','US');

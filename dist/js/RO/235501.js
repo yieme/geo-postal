@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235501"]={"code":"235501","region":"Olt","city":"Piatra Olt","latitude":44.36667,"longitude":24.26667}}(window,'GeoPostal','RO');

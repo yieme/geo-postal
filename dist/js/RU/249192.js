@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249192"]={"code":"249192","region":"Kaluzhskaya oblast'","city":"Zhukovo","latitude":55.03178,"longitude":36.74402}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["479-0814"]={"code":"479-0814","region":"Aichi","city":"Tokoname","latitude":34.883,"longitude":136.833}}(window,'GeoPostal','JP');

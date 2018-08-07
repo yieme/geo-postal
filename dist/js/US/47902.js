@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47902"]={"code":"47902","region":"IN","city":"Lafayette","latitude":40.3887,"longitude":-86.8949}}(window,'GeoPostal','US');

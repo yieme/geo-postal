@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97377"]={"code":"97377","region":"OR","city":"Shedd","latitude":44.453,"longitude":-123.1065}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK8 8DF"]={"code":"MK8 8DF","region":"England","city":"Ingram","latitude":55.44022,"longitude":-1.97453}}(window,'GeoPostal','GB');

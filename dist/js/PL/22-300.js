@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-300"]={"code":"22-300","region":"Lubelskie","city":"Krasnystaw","latitude":50.98464,"longitude":23.1742}}(window,'GeoPostal','PL');

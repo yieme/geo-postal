@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62580"]={"code":"62580","region":"Hauts-de-France","city":"Vimy","latitude":50.37243,"longitude":2.81034}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35289"]={"code":"35289","region":"AL","city":"Assc Doctors Ins","latitude":33.51,"longitude":-86.8}}(window,'GeoPostal','US');

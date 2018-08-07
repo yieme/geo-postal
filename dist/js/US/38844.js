@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38844"]={"code":"38844","region":"MS","city":"Gattman","latitude":33.8742,"longitude":-88.2588}}(window,'GeoPostal','US');

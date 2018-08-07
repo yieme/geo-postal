@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28868"]={"code":"28868","region":"Piemonte","city":"Varzo","latitude":46.20668,"longitude":8.25241}}(window,'GeoPostal','IT');

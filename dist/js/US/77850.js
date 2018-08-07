@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77850"]={"code":"77850","region":"Texas","city":"Concord","latitude":31.25718,"longitude":-96.11622}}(window,'GeoPostal','US');

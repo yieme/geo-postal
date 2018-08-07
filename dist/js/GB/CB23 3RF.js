@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB23 3RF"]={"code":"CB23 3RF","region":"England","city":"Papworth Everard","latitude":52.24893,"longitude":-0.11827}}(window,'GeoPostal','GB');

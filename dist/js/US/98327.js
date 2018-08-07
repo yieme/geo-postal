@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98327"]={"code":"98327","region":"Washington","city":"DuPont","latitude":47.094671,"longitude":-122.641391}}(window,'GeoPostal','US');

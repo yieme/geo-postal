@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68720"]={"code":"68720","region":"Grand-Est","city":"Flaxlanden","latitude":47.69493,"longitude":7.31343}}(window,'GeoPostal','FR');

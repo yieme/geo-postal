@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715100"]={"code":"715100","region":"Shaanxi","city":"Dali","latitude":34.79586,"longitude":109.93895}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11500"]={"code":"11500","region":"Andalucia","city":"El Puerto de Santa Maria","latitude":36.59389,"longitude":-6.23298}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12979"]={"code":"12979","region":"NY","city":"Rouses Point","latitude":44.9884,"longitude":-73.3691}}(window,'GeoPostal','US');

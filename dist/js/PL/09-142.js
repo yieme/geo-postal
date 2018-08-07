@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-142"]={"code":"09-142","region":"Mazowieckie","city":"Zaluski","latitude":52.51152,"longitude":20.52864}}(window,'GeoPostal','PL');

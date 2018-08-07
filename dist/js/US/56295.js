@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56295"]={"code":"56295","region":"MN","city":"Watson","latitude":45.0412,"longitude":-95.834}}(window,'GeoPostal','US');

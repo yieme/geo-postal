@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8300-011"]={"code":"8300-011","region":"Faro","city":"Silves","latitude":37.18921,"longitude":-8.43822}}(window,'GeoPostal','PT');

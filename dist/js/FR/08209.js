@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08209"]={"code":"08209","region":"Grand-Est","city":"Sedan","latitude":49.7,"longitude":4.95}}(window,'GeoPostal','FR');

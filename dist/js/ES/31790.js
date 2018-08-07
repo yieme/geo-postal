@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31790"]={"code":"31790","region":"Navarra, Comunidad Foral de","city":"Igantzi","latitude":43.225643,"longitude":-1.700978}}(window,'GeoPostal','ES');

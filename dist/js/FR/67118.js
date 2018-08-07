@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67118"]={"code":"67118","region":"Grand-Est","city":"Geispolsheim","latitude":48.51658,"longitude":7.64667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H8T 3H4"]={"code":"H8T 3H4","region":"Quebec","city":"Lachine","latitude":45.466279,"longitude":-73.713834}}(window,'GeoPostal','CA');

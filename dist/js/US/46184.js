@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46184"]={"code":"46184","region":"Indiana","city":"Whiteland","latitude":39.555508,"longitude":-86.091336}}(window,'GeoPostal','US');

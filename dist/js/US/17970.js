@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17970"]={"code":"17970","region":"PA","city":"Saint Clair","latitude":40.7193,"longitude":-76.1924}}(window,'GeoPostal','US');

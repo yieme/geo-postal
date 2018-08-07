@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35541"]={"code":"35541","region":"Canarias","city":"Haria","latitude":29.14553,"longitude":-13.49986}}(window,'GeoPostal','ES');

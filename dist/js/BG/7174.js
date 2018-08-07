@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7174"]={"code":"7174","region":"Ruse","city":"Borovo","latitude":43.5,"longitude":25.8}}(window,'GeoPostal','BG');

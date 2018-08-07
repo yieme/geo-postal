@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA4 4QX"]={"code":"BA4 4QX","region":"England","city":"Chesterblade","latitude":51.16944,"longitude":-2.48556}}(window,'GeoPostal','GB');

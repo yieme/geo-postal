@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4367"]={"code":"4367","region":"Rogaland","city":"Naerbo","latitude":58.66667,"longitude":5.65}}(window,'GeoPostal','NO');

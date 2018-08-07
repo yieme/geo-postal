@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH3 9BQ"]={"code":"CH3 9BQ","region":"England","city":"Huxley","latitude":53.14812,"longitude":-2.7311}}(window,'GeoPostal','GB');

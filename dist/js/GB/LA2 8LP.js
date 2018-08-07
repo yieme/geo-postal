@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA2 8LP"]={"code":"LA2 8LP","region":"England","city":"Gressingham","latitude":54.12415,"longitude":-2.65775}}(window,'GeoPostal','GB');

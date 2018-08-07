@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04040"]={"code":"04040","region":"ME","city":"Harrison","latitude":44.1071,"longitude":-70.6539}}(window,'GeoPostal','US');

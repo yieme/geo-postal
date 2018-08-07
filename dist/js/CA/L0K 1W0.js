@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0K 1W0"]={"code":"L0K 1W0","region":"Ontario","city":"Head Lake","latitude":44.71682,"longitude":-78.93289}}(window,'GeoPostal','CA');

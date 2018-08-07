@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141115"]={"code":"141115","region":"Punjab","city":"Machhiwara","latitude":30.91472,"longitude":76.19833}}(window,'GeoPostal','IN');

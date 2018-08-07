@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08318"]={"code":"08318","region":"New Jersey","city":"Elmer","latitude":39.56862,"longitude":-75.18186}}(window,'GeoPostal','US');

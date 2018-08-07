@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15672"]={"code":"15672","region":"PA","city":"New Stanton","latitude":40.2192,"longitude":-79.6095}}(window,'GeoPostal','US');

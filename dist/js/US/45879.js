@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45879"]={"code":"45879","region":"Ohio","city":"Paulding","latitude":41.13811,"longitude":-84.58051}}(window,'GeoPostal','US');

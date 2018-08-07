@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54533"]={"code":"54533","region":"Rheinland-Pfalz","city":"Gipperath","latitude":50.03333,"longitude":6.86667}}(window,'GeoPostal','DE');

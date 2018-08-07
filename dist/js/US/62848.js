@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62848"]={"code":"62848","region":"IL","city":"Irvington","latitude":38.4366,"longitude":-89.1648}}(window,'GeoPostal','US');

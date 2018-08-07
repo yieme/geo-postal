@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61413"]={"code":"61413","region":"IL","city":"Alpha","latitude":41.193,"longitude":-90.3821}}(window,'GeoPostal','US');

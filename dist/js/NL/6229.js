@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6229"]={"code":"6229","region":"Limburg","city":"Maastricht","latitude":50.84833,"longitude":5.68889}}(window,'GeoPostal','NL');

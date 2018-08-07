@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR33 9NA"]={"code":"NR33 9NA","region":"England","city":"Lowestoft","latitude":52.4752,"longitude":1.75159}}(window,'GeoPostal','GB');

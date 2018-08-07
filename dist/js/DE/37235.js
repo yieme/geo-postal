@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37235"]={"code":"37235","region":"Hessen","city":"Hessisch Lichtenau","latitude":51.19954,"longitude":9.71857}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO6 3NL"]={"code":"CO6 3NL","region":"England","city":"Fordham","latitude":51.91667,"longitude":0.8}}(window,'GeoPostal','GB');

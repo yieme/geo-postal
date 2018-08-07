@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63341"]={"code":"63341","region":"MO","city":"Defiance","latitude":38.6616,"longitude":-90.8302}}(window,'GeoPostal','US');

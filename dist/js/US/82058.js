@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82058"]={"code":"82058","region":"Wyoming","city":"Rock River","latitude":41.74083,"longitude":-105.97472}}(window,'GeoPostal','US');

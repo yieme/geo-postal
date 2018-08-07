@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30265"]={"code":"30265","region":"Georgia","city":"Newnan","latitude":33.402738,"longitude":-84.706897}}(window,'GeoPostal','US');

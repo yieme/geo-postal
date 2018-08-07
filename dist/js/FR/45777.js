@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45777"]={"code":"45777","region":"Centre-Val de Loire","city":"Saran","latitude":47.95013,"longitude":1.87601}}(window,'GeoPostal','FR');

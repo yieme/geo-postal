@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22215"]={"code":"22215","region":"Sibensko-kninska zupanija","city":"Zaton","latitude":43.78944,"longitude":15.82528}}(window,'GeoPostal','HR');

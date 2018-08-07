@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59064"]={"code":"59064","region":"MT","city":"Pompeys Pillar","latitude":45.9838,"longitude":-107.9154}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29015"]={"code":"29015","region":"SC","city":"Blair","latitude":34.4967,"longitude":-81.3459}}(window,'GeoPostal','US');

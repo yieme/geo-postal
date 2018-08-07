@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44142"]={"code":"44142","region":"Ohio","city":"Brook Park","latitude":41.39838,"longitude":-81.80458}}(window,'GeoPostal','US');

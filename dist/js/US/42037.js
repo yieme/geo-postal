@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42037"]={"code":"42037","region":"KY","city":"Dycusburg","latitude":37.1595,"longitude":-88.1845}}(window,'GeoPostal','US');

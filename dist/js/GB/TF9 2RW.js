@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF9 2RW"]={"code":"TF9 2RW","region":"England","city":"Cheswardine","latitude":52.86503,"longitude":-2.4184}}(window,'GeoPostal','GB');

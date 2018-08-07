@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95346"]={"code":"95346","region":"Bayern","city":"Stadtsteinach","latitude":50.16433,"longitude":11.50349}}(window,'GeoPostal','DE');

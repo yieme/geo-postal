@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 9QT"]={"code":"CA11 9QT","region":"England","city":"Calthwaite","latitude":54.75347,"longitude":-2.82748}}(window,'GeoPostal','GB');

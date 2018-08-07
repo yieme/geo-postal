@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347460"]={"code":"347460","region":"Rostovskaya oblast'","city":"Zimovniki","latitude":47.1474,"longitude":42.4721}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13814"]={"code":"13814","region":"New York","city":"North Norwich","latitude":42.616944,"longitude":-75.527222}}(window,'GeoPostal','US');

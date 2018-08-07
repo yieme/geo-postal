@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88169"]={"code":"88169","region":"Grand-Est","city":"Le Thillot","latitude":47.87941,"longitude":6.7628}}(window,'GeoPostal','FR');

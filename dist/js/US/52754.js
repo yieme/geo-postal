@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52754"]={"code":"52754","region":"IA","city":"Letts","latitude":41.293,"longitude":-91.204}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87711"]={"code":"87711","region":"NM","city":"Anton Chico","latitude":35.2001,"longitude":-105.1422}}(window,'GeoPostal','US');

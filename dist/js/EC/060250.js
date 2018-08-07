@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["060250"]={"code":"060250","region":"Chimborazo","city":"Alausi","latitude":-2.2,"longitude":-78.83333}}(window,'GeoPostal','EC');

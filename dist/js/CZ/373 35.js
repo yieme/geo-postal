@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["373 35"]={"code":"373 35","region":"Jihocesky kraj","city":"Horni Stropnice","latitude":48.76124,"longitude":14.73502}}(window,'GeoPostal','CZ');

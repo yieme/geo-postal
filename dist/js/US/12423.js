@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12423"]={"code":"12423","region":"New York","city":"East Durham","latitude":42.390898,"longitude":-74.137585}}(window,'GeoPostal','US');

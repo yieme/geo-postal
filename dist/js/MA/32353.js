@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32353"]={"code":"32353","region":"Taza-Al Hoceima-Taounate","city":"Targuist","latitude":34.93769,"longitude":-4.31856}}(window,'GeoPostal','MA');

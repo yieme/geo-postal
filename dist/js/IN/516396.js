@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516396"]={"code":"516396","region":"Andhra Pradesh","city":"Pulivendla","latitude":14.41667,"longitude":78.23333}}(window,'GeoPostal','IN');

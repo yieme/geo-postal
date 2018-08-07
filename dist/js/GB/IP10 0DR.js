@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP10 0DR"]={"code":"IP10 0DR","region":"England","city":"Bucklesham","latitude":52.03011,"longitude":1.26926}}(window,'GeoPostal','GB');

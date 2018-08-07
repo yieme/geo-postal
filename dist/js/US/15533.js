@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15533"]={"code":"15533","region":"Pennsylvania","city":"Breezewood","latitude":39.99694,"longitude":-78.24056}}(window,'GeoPostal','US');

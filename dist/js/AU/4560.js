@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4560"]={"code":"4560","region":"Queensland","city":"Burnside","latitude":-26.63255,"longitude":152.94063}}(window,'GeoPostal','AU');

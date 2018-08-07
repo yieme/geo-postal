@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65667"]={"code":"65667","region":"Missouri","city":"Hartville","latitude":37.25088,"longitude":-92.51044}}(window,'GeoPostal','US');

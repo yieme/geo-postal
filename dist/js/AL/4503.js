@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4503"]={"code":"4503","region":"Lezhe","city":"Shengjin","latitude":41.81361,"longitude":19.59389}}(window,'GeoPostal','AL');

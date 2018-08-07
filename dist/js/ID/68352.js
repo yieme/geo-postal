@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68352"]={"code":"68352","region":"Jawa Timur","city":"Balung","latitude":-7.73333,"longitude":113.91667}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35309"]={"code":"35309","region":"Bretagne","city":"Fougeres","latitude":48.35,"longitude":-1.2}}(window,'GeoPostal','FR');

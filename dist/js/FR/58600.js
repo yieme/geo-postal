@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58600"]={"code":"58600","region":"Bourgogne-Franche-Comte","city":"Garchizy","latitude":47.04786,"longitude":3.09625}}(window,'GeoPostal','FR');

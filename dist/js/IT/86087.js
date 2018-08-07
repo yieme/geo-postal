@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86087"]={"code":"86087","region":"Molise","city":"Rionero Sannitico","latitude":41.71193,"longitude":14.13862}}(window,'GeoPostal','IT');

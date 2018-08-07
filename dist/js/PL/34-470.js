@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-470"]={"code":"34-470","region":"Malopolskie","city":"Czarny Dunajec","latitude":49.43663,"longitude":19.85161}}(window,'GeoPostal','PL');

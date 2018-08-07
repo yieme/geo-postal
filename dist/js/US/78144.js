@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78144"]={"code":"78144","region":"TX","city":"Panna Maria","latitude":28.9562,"longitude":-97.8982}}(window,'GeoPostal','US');

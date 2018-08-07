@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83489"]={"code":"83489","region":"Provence-Alpes-Cote d'Azur","city":"Puget-sur-Argens","latitude":43.45,"longitude":6.68333}}(window,'GeoPostal','FR');

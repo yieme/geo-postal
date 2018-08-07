@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4297"]={"code":"4297","region":"Rogaland","city":"Skudeneshavn","latitude":59.14856,"longitude":5.25687}}(window,'GeoPostal','NO');

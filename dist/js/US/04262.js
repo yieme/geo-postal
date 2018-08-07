@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04262"]={"code":"04262","region":"ME","city":"North Jay","latitude":44.5473,"longitude":-70.2381}}(window,'GeoPostal','US');

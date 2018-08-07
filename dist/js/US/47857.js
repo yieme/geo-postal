@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47857"]={"code":"47857","region":"IN","city":"Knightsville","latitude":39.5269,"longitude":-87.0869}}(window,'GeoPostal','US');

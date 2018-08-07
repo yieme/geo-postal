@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3200"]={"code":"3200","region":"Entre Rios","city":"Concordia","latitude":-31.39296,"longitude":-58.02089}}(window,'GeoPostal','AR');

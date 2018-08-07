@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29691"]={"code":"29691","region":"South Carolina","city":"Walhalla","latitude":34.76482,"longitude":-83.06404}}(window,'GeoPostal','US');

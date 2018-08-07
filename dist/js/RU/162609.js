@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162609"]={"code":"162609","region":"Vologodskaya oblast'","city":"Cherepovets","latitude":59.13333,"longitude":37.9}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4419"]={"code":"4419","region":"Queensland","city":"Clonduff","latitude":-25.83333,"longitude":149.9}}(window,'GeoPostal','AU');

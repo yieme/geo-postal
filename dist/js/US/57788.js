@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57788"]={"code":"57788","region":"South Dakota","city":"Vale","latitude":44.628082,"longitude":-103.366639}}(window,'GeoPostal','US');

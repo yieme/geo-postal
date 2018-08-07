@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08875"]={"code":"08875","region":"New Jersey","city":"Somerset","latitude":40.486,"longitude":-74.465}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6422"]={"code":"6422","region":"Bacs-Kiskun","city":"Tompa","latitude":46.20605,"longitude":19.5391}}(window,'GeoPostal','HU');

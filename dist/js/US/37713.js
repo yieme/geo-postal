@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37713"]={"code":"37713","region":"TN","city":"Bybee","latitude":36.0482,"longitude":-83.1793}}(window,'GeoPostal','US');

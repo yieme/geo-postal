@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67849"]={"code":"67849","region":"Kansas","city":"Hanston","latitude":38.121417,"longitude":-99.710937}}(window,'GeoPostal','US');

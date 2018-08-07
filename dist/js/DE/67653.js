@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67653"]={"code":"67653","region":"Sachsen-Anhalt","city":"Gutenberg","latitude":51.5471,"longitude":11.97181}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3520-099"]={"code":"3520-099","region":"Viseu","city":"Nelas","latitude":40.53216,"longitude":-7.85152}}(window,'GeoPostal','PT');

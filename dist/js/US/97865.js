@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97865"]={"code":"97865","region":"Oregon","city":"Mount Vernon","latitude":44.41806,"longitude":-119.11278}}(window,'GeoPostal','US');

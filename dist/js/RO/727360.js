@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727360"]={"code":"727360","region":"Suceava","city":"Milisauti","latitude":47.78333,"longitude":26}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3730"]={"code":"3730","region":"New South Wales","city":"Mulwala","latitude":-35.99161,"longitude":146.00114}}(window,'GeoPostal','AU');

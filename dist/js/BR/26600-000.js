@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26600-000"]={"code":"26600-000","region":"Rio de Janeiro","city":"Paracambi","latitude":-22.60861,"longitude":-43.71278}}(window,'GeoPostal','BR');

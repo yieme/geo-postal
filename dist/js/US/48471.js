@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48471"]={"code":"48471","region":"Michigan","city":"Sandusky","latitude":43.4203,"longitude":-82.82966}}(window,'GeoPostal','US');

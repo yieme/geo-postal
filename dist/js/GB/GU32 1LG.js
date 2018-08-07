@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU32 1LG"]={"code":"GU32 1LG","region":"England","city":"West Meon","latitude":51.0124,"longitude":-1.08833}}(window,'GeoPostal','GB');

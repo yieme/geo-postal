@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5137"]={"code":"5137","region":"Jasz-Nagykun-Szolnok","city":"Jaszkiser","latitude":47.45,"longitude":20.21667}}(window,'GeoPostal','HU');

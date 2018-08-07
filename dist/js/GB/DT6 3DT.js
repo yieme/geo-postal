@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 3DT"]={"code":"DT6 3DT","region":"England","city":"Bridport","latitude":50.7338,"longitude":-2.75831}}(window,'GeoPostal','GB');

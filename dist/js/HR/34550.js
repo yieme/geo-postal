@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34550"]={"code":"34550","region":"Pozesko-slavonska zupanija","city":"Pakrac","latitude":45.43639,"longitude":17.18889}}(window,'GeoPostal','HR');

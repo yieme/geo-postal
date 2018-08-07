@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364620"]={"code":"364620","region":"Gujarat","city":"Amreli","latitude":21.61667,"longitude":71.23333}}(window,'GeoPostal','IN');

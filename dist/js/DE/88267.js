@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88267"]={"code":"88267","region":"Baden-Wurttemberg","city":"Kuchel","latitude":47.78333,"longitude":9.76667}}(window,'GeoPostal','DE');

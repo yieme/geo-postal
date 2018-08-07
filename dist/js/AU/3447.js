@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3447"]={"code":"3447","region":"Victoria","city":"Taradale","latitude":-37.15,"longitude":144.36667}}(window,'GeoPostal','AU');

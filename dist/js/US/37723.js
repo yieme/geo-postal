@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37723"]={"code":"37723","region":"Tennessee","city":"Crab Orchard","latitude":35.895539,"longitude":-84.845935}}(window,'GeoPostal','US');

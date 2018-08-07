@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["480224"]={"code":"480224","region":"Madhya Pradesh","city":"Harrai","latitude":22.61667,"longitude":79.21667}}(window,'GeoPostal','IN');

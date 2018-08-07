@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38625"]={"code":"38625","region":"MS","city":"Dumas","latitude":34.6491,"longitude":-88.8072}}(window,'GeoPostal','US');

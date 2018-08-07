@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38389"]={"code":"38389","region":"TN","city":"Yorkville","latitude":36.1354,"longitude":-89.1117}}(window,'GeoPostal','US');

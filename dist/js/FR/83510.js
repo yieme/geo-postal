@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83510"]={"code":"83510","region":"Provence-Alpes-Cote d'Azur","city":"Lorgues","latitude":43.49361,"longitude":6.3611}}(window,'GeoPostal','FR');

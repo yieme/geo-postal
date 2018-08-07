@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10537"]={"code":"10537","region":"New York","city":"Lake Peekskill","latitude":41.336812,"longitude":-73.88549}}(window,'GeoPostal','US');

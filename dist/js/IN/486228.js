@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486228"]={"code":"486228","region":"Madhya Pradesh","city":"Sohagi","latitude":24.98333,"longitude":81.7}}(window,'GeoPostal','IN');

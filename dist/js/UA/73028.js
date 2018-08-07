@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73028"]={"code":"73028","region":"Khersonska oblast","city":"Kherson","latitude":46.65581,"longitude":32.6178}}(window,'GeoPostal','UA');

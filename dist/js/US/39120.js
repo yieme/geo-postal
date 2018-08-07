@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39120"]={"code":"39120","region":"Mississippi","city":"Natchez","latitude":31.56044,"longitude":-91.40317}}(window,'GeoPostal','US');

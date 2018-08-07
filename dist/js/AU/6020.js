@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6020"]={"code":"6020","region":"Western Australia","city":"Carine","latitude":-31.8523,"longitude":115.78258}}(window,'GeoPostal','AU');

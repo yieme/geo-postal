@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["445092"]={"code":"445092","region":"Samarskaya oblast'","city":"Povolzhskiy","latitude":53.5854,"longitude":49.7629}}(window,'GeoPostal','RU');

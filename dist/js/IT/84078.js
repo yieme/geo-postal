@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84078"]={"code":"84078","region":"Campania","city":"Vallo della Lucania","latitude":40.2297,"longitude":15.26576}}(window,'GeoPostal','IT');

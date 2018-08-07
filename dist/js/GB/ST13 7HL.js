@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST13 7HL"]={"code":"ST13 7HL","region":"England","city":"Cheddleton","latitude":53.0691,"longitude":-2.04228}}(window,'GeoPostal','GB');

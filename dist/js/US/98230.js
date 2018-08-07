@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98230"]={"code":"98230","region":"Washington","city":"Blaine","latitude":48.958579,"longitude":-122.740097}}(window,'GeoPostal','US');

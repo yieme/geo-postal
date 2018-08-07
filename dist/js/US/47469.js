@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47469"]={"code":"47469","region":"Indiana","city":"West Baden Springs","latitude":38.57838,"longitude":-86.61}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20851"]={"code":"20851","region":"Piura","city":"Mancora","latitude":-4.10778,"longitude":-81.0475}}(window,'GeoPostal','PE');

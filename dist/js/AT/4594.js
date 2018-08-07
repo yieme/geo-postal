@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4594"]={"code":"4594","region":"Oberosterreich","city":"Gruenburg","latitude":47.97234,"longitude":14.26472}}(window,'GeoPostal','AT');

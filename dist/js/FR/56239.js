@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56239"]={"code":"56239","region":"Bretagne","city":"Questembert","latitude":47.66296,"longitude":-2.4522}}(window,'GeoPostal','FR');

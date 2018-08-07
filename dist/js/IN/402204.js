@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["402204"]={"code":"402204","region":"Maharashtra","city":"Revadanda","latitude":18.55028,"longitude":72.92778}}(window,'GeoPostal','IN');

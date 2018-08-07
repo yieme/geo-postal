@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75756"]={"code":"75756","region":"TX","city":"Brownsboro","latitude":32.304,"longitude":-95.6}}(window,'GeoPostal','US');

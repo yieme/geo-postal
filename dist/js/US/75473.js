@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75473"]={"code":"75473","region":"TX","city":"Powderly","latitude":33.7779,"longitude":-95.5307}}(window,'GeoPostal','US');

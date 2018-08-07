@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2020"]={"code":"2020","region":"Niederosterreich","city":"Hollabrunn","latitude":48.55,"longitude":16.08333}}(window,'GeoPostal','AT');

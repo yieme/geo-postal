@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18310"]={"code":"18310","region":"Centre-Val de Loire","city":"Gracay","latitude":47.14371,"longitude":1.84734}}(window,'GeoPostal','FR');

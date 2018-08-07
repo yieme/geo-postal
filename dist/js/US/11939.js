@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11939"]={"code":"11939","region":"NY","city":"East Marion","latitude":41.1264,"longitude":-72.3419}}(window,'GeoPostal','US');

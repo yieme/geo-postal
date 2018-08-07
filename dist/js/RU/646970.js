@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646970"]={"code":"646970","region":"Omskaya oblast'","city":"Kormilovka","latitude":55.00264,"longitude":74.10281}}(window,'GeoPostal','RU');

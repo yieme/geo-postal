@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50472"]={"code":"50472","region":"IA","city":"Saint Ansgar","latitude":43.4061,"longitude":-92.9235}}(window,'GeoPostal','US');

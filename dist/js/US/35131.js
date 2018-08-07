@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35131"]={"code":"35131","region":"Alabama","city":"Ragland","latitude":33.74316,"longitude":-86.51611}}(window,'GeoPostal','US');

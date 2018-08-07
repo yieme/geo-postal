@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77600"]={"code":"77600","region":"Pirkanmaa","city":"Kouvola","latitude":61.04056,"longitude":22.99517}}(window,'GeoPostal','FI');

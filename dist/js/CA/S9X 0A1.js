@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S9X 0A1"]={"code":"S9X 0A1","region":"Saskatchewan","city":"Meadow Lake","latitude":54.13348,"longitude":-108.43471}}(window,'GeoPostal','CA');

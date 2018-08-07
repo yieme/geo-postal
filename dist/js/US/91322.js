@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91322"]={"code":"91322","region":"CA","city":"Newhall","latitude":34.3847,"longitude":-118.5309}}(window,'GeoPostal','US');

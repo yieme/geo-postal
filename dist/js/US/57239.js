@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57239"]={"code":"57239","region":"SD","city":"Grenville","latitude":45.5097,"longitude":-97.3092}}(window,'GeoPostal','US');

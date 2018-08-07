@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52399"]={"code":"52399","region":"Nordrhein-Westfalen","city":"Girbelsrath","latitude":50.81185,"longitude":6.55163}}(window,'GeoPostal','DE');

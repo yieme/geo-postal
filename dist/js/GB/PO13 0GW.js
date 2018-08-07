@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO13 0GW"]={"code":"PO13 0GW","region":"England","city":"Gosport","latitude":50.79509,"longitude":-1.12902}}(window,'GeoPostal','GB');

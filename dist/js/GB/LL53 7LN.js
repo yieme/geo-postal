@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 7LN"]={"code":"LL53 7LN","region":"Wales","city":"Llangian","latitude":52.83067,"longitude":-4.53199}}(window,'GeoPostal','GB');

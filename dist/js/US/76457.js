@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76457"]={"code":"76457","region":"TX","city":"Hico","latitude":31.9597,"longitude":-98.0249}}(window,'GeoPostal','US');

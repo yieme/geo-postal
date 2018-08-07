@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612180"]={"code":"612180","region":"Kirovskaya oblast'","city":"Arbazh","latitude":57.6804,"longitude":48.30647}}(window,'GeoPostal','RU');

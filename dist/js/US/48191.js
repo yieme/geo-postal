@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48191"]={"code":"48191","region":"Michigan","city":"Willis","latitude":42.132924,"longitude":-83.572089}}(window,'GeoPostal','US');

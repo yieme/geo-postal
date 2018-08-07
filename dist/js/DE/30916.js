@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30916"]={"code":"30916","region":"Niedersachsen","city":"Altwarmbuchen","latitude":52.43439,"longitude":9.8561}}(window,'GeoPostal','DE');

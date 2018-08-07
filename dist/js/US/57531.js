@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57531"]={"code":"57531","region":"SD","city":"Draper","latitude":43.926,"longitude":-100.5085}}(window,'GeoPostal','US');

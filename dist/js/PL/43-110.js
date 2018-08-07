@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-110"]={"code":"43-110","region":"Slaskie","city":"Tychy","latitude":50.13717,"longitude":18.96641}}(window,'GeoPostal','PL');

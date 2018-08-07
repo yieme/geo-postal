@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19060"]={"code":"19060","region":"Sivas","city":"Golova","latitude":40.06194,"longitude":38.60667}}(window,'GeoPostal','TR');

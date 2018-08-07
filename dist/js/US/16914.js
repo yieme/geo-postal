@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16914"]={"code":"16914","region":"Pennsylvania","city":"Columbia Cross Roads","latitude":41.849547,"longitude":-76.792872}}(window,'GeoPostal','US');

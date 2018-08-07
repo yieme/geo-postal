@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-550"]={"code":"21-550","region":"Lubelskie","city":"Terespol","latitude":52.0755,"longitude":23.61614}}(window,'GeoPostal','PL');

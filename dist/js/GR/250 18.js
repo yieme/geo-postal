@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250 18"]={"code":"250 18","region":"Dytiki Ellada","city":"Kato Mazarakion","latitude":38.06667,"longitude":21.65}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06233"]={"code":"06233","region":"CT","city":"Ballouville","latitude":41.8768,"longitude":-71.8612}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84180"]={"code":"84180","region":"Surat Thani","city":"Khiri Rat Nikhom","latitude":9.0302,"longitude":98.95286}}(window,'GeoPostal','TH');

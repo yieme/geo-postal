@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE6 5PD"]={"code":"DE6 5PD","region":"England","city":"Somersal Herbert","latitude":52.91399,"longitude":-1.79655}}(window,'GeoPostal','GB');

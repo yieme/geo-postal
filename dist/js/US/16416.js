@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16416"]={"code":"16416","region":"Pennsylvania","city":"Garland","latitude":41.816111,"longitude":-79.444167}}(window,'GeoPostal','US');

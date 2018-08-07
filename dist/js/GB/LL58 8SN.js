@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL58 8SN"]={"code":"LL58 8SN","region":"Wales","city":"Penmon","latitude":53.30448,"longitude":-4.05773}}(window,'GeoPostal','GB');

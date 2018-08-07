@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62912"]={"code":"62912","region":"IL","city":"Buncombe","latitude":37.4637,"longitude":-88.9806}}(window,'GeoPostal','US');

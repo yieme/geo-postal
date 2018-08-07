@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68833"]={"code":"68833","region":"NE","city":"Dunning","latitude":41.8131,"longitude":-100.0873}}(window,'GeoPostal','US');

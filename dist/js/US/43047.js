@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43047"]={"code":"43047","region":"OH","city":"Mingo","latitude":40.2049,"longitude":-83.6466}}(window,'GeoPostal','US');

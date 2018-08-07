@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95300-000"]={"code":"95300-000","region":"Rio Grande do Sul","city":"Lagoa Vermelha","latitude":-28.20861,"longitude":-51.52583}}(window,'GeoPostal','BR');

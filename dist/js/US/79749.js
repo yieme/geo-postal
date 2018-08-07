@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79749"]={"code":"79749","region":"TX","city":"Lenorah","latitude":32.3046,"longitude":-101.8762}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65626"]={"code":"65626","region":"Missouri","city":"Caulfield","latitude":36.61444,"longitude":-92.105}}(window,'GeoPostal','US');

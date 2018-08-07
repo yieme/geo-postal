@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48-250"]={"code":"48-250","region":"Opolskie","city":"Glogowek","latitude":50.35355,"longitude":17.86405}}(window,'GeoPostal','PL');

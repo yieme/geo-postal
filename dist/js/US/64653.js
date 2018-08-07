@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64653"]={"code":"64653","region":"Missouri","city":"Linneus","latitude":39.87863,"longitude":-93.18882}}(window,'GeoPostal','US');

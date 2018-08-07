@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87420"]={"code":"87420","region":"New Mexico","city":"Shiprock","latitude":36.78555,"longitude":-108.68703}}(window,'GeoPostal','US');

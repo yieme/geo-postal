@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155412"]={"code":"155412","region":"Ivanovskaya oblast'","city":"Zavolzhsk","latitude":57.4823,"longitude":42.13779}}(window,'GeoPostal','RU');

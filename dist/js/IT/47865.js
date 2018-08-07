@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47865"]={"code":"47865","region":"Emilia-Romagna","city":"San Leo","latitude":43.89696,"longitude":12.34364}}(window,'GeoPostal','IT');

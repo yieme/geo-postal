@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38220"]={"code":"38220","region":"TN","city":"Atwood","latitude":35.9663,"longitude":-88.6247}}(window,'GeoPostal','US');

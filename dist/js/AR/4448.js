@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4448"]={"code":"4448","region":"Salta","city":"Joaquin V. Gonzalez","latitude":-25.08333,"longitude":-64.18333}}(window,'GeoPostal','AR');

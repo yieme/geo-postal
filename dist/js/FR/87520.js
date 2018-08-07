@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87520"]={"code":"87520","region":"Nouvelle-Aquitaine","city":"Oradour-sur-Glane","latitude":45.93405,"longitude":1.0317}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79400-000"]={"code":"79400-000","region":"Mato Grosso do Sul","city":"Coxim","latitude":-18.50667,"longitude":-54.76}}(window,'GeoPostal','BR');

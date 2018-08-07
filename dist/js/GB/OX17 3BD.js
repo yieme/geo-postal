@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 3BD"]={"code":"OX17 3BD","region":"England","city":"Aynho","latitude":51.99466,"longitude":-1.25218}}(window,'GeoPostal','GB');

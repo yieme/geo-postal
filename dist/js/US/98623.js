@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98623"]={"code":"98623","region":"Washington","city":"Husum","latitude":45.79917,"longitude":-121.48694}}(window,'GeoPostal','US');

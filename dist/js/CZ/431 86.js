@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431 86"]={"code":"431 86","region":"Ustecky kraj","city":"Kovarska","latitude":50.43821,"longitude":13.05388}}(window,'GeoPostal','CZ');

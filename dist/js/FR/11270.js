@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11270"]={"code":"11270","region":"Occitanie","city":"Saint-Amans","latitude":43.2278,"longitude":1.8872}}(window,'GeoPostal','FR');

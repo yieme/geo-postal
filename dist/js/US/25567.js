@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25567"]={"code":"25567","region":"WV","city":"Sumerco","latitude":38.2312,"longitude":-81.9115}}(window,'GeoPostal','US');

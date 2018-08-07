@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8708"]={"code":"8708","region":"Zurich","city":"Maennedorf / Dorfkern","latitude":47.25612,"longitude":8.69161}}(window,'GeoPostal','CH');

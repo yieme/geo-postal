@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52170"]={"code":"52170","region":"Iowa","city":"Waterville","latitude":43.269481,"longitude":-91.256466}}(window,'GeoPostal','US');

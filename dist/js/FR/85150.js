@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85150"]={"code":"85150","region":"Pays-de-la-Loire","city":"Vaire","latitude":46.60104,"longitude":-1.75538}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-331"]={"code":"78-331","region":"Zachodniopomorskie","city":"Rabino","latitude":53.8663,"longitude":15.94485}}(window,'GeoPostal','PL');

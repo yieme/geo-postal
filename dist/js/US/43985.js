@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43985"]={"code":"43985","region":"OH","city":"Holloway","latitude":40.1623,"longitude":-81.1326}}(window,'GeoPostal','US');

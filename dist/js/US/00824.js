@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00824"]={"code":"00824","region":"VI","city":"Christiansted","latitude":17.74,"longitude":-64.7}}(window,'GeoPostal','US');

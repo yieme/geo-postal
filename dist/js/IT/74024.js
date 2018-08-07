@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74024"]={"code":"74024","region":"Puglia","city":"Manduria","latitude":40.40182,"longitude":17.63351}}(window,'GeoPostal','IT');

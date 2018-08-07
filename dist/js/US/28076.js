@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28076"]={"code":"28076","region":"NC","city":"Henrietta","latitude":35.2579,"longitude":-81.7962}}(window,'GeoPostal','US');

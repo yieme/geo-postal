@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368107"]={"code":"368107","region":"Dagestan, Respublika","city":"Novyy Sulak","latitude":43.21167,"longitude":46.815}}(window,'GeoPostal','RU');

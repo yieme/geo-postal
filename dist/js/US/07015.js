@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07015"]={"code":"07015","region":"NJ","city":"Clifton","latitude":40.8584,"longitude":-74.1638}}(window,'GeoPostal','US');

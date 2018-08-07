@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28540-000"]={"code":"28540-000","region":"Rio de Janeiro","city":"Cordeiro","latitude":-22.02861,"longitude":-42.36083}}(window,'GeoPostal','BR');

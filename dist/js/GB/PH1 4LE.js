@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 4LE"]={"code":"PH1 4LE","region":"Scotland","city":"Delvine","latitude":56.54586,"longitude":-3.42962}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J6V 1S5"]={"code":"J6V 1S5","region":"Quebec","city":"Lachenaie","latitude":45.73692,"longitude":-73.532345}}(window,'GeoPostal','CA');

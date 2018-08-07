@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59069"]={"code":"59069","region":"MT","city":"Reed Point","latitude":45.7439,"longitude":-109.5224}}(window,'GeoPostal','US');

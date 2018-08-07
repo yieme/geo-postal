@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80301"]={"code":"80301","region":"Sinaloa","city":"La Cruz","latitude":23.91667,"longitude":-106.9}}(window,'GeoPostal','MX');

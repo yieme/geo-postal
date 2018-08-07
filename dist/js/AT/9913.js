@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9913"]={"code":"9913","region":"Tirol","city":"Abfaltersbach","latitude":46.76028,"longitude":12.54194}}(window,'GeoPostal','AT');

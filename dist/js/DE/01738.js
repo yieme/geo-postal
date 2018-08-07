@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01738"]={"code":"01738","region":"Sachsen","city":"Klingenberg","latitude":50.9191,"longitude":13.53348}}(window,'GeoPostal','DE');

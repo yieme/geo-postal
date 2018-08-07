@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE65 1WJ"]={"code":"LE65 1WJ","region":"England","city":"Packington","latitude":52.72855,"longitude":-1.46616}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 9AF"]={"code":"DN22 9AF","region":"England","city":"Clayworth","latitude":53.3859,"longitude":-0.90681}}(window,'GeoPostal','GB');

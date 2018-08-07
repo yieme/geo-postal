@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73012"]={"code":"73012","region":"Puglia","city":"Campi Salentina","latitude":40.39944,"longitude":18.01861}}(window,'GeoPostal','IT');

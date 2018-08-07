@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8345"]={"code":"8345","region":"Neuquen","city":"Alumine","latitude":-39.23686,"longitude":-70.9197}}(window,'GeoPostal','AR');

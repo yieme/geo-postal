@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55013"]={"code":"55013","region":"MN","city":"Chisago City","latitude":45.3611,"longitude":-92.8921}}(window,'GeoPostal','US');

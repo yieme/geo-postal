@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83553"]={"code":"83553","region":"Idaho","city":"Weippe","latitude":46.37833,"longitude":-115.93972}}(window,'GeoPostal','US');

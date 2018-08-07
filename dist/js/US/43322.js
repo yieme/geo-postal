@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43322"]={"code":"43322","region":"OH","city":"Green Camp","latitude":40.5322,"longitude":-83.2078}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22200"]={"code":"22200","region":"Aragon","city":"Sarinena","latitude":41.79128,"longitude":-0.15804}}(window,'GeoPostal','ES');

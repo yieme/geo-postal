@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55313"]={"code":"55313","region":"Minnesota","city":"Buffalo","latitude":45.17191,"longitude":-93.87469}}(window,'GeoPostal','US');

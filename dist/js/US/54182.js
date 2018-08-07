@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54182"]={"code":"54182","region":"WI","city":"Zachow","latitude":44.7315,"longitude":-88.3698}}(window,'GeoPostal','US');

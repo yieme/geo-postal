@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98345"]={"code":"98345","region":"Washington","city":"Keyport","latitude":47.703141,"longitude":-122.625384}}(window,'GeoPostal','US');

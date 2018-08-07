@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0M 0N0"]={"code":"R0M 0N0","region":"Manitoba","city":"Elkhorn","latitude":49.9756,"longitude":-101.24034}}(window,'GeoPostal','CA');

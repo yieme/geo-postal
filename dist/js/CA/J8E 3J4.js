@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J8E 3J4"]={"code":"J8E 3J4","region":"Quebec","city":"Saint-Jovite","latitude":46.11864,"longitude":-74.59657}}(window,'GeoPostal','CA');

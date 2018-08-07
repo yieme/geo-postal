@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429720"]={"code":"429720","region":"Tatarstan, Respublika","city":"Buinsk","latitude":54.95,"longitude":48.28333}}(window,'GeoPostal','RU');

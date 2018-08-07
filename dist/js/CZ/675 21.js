@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 21"]={"code":"675 21","region":"Kraj Vysocina","city":"Okrisky","latitude":49.24539,"longitude":15.76959}}(window,'GeoPostal','CZ');

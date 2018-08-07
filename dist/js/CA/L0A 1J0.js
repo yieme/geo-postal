@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0A 1J0"]={"code":"L0A 1J0","region":"Ontario","city":"Pontypool","latitude":44.089462,"longitude":-78.556338}}(window,'GeoPostal','CA');

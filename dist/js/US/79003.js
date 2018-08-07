@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79003"]={"code":"79003","region":"Texas","city":"Allison","latitude":35.547229,"longitude":-100.144425}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14867"]={"code":"14867","region":"NY","city":"Newfield","latitude":42.3621,"longitude":-76.592}}(window,'GeoPostal','US');

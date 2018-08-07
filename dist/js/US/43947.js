@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43947"]={"code":"43947","region":"OH","city":"Shadyside","latitude":39.9675,"longitude":-80.7643}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48212"]={"code":"48212","region":"Jalisco","city":"Talpa de Allende","latitude":20.38333,"longitude":-104.81667}}(window,'GeoPostal','MX');

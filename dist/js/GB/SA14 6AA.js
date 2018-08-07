@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 6AA"]={"code":"SA14 6AA","region":"Wales","city":"Llannon","latitude":51.75519,"longitude":-4.11752}}(window,'GeoPostal','GB');

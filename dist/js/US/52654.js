@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52654"]={"code":"52654","region":"Iowa","city":"Wayland","latitude":41.146283,"longitude":-91.664624}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["525200"]={"code":"525200","region":"Harghita","city":"Miercurea-Ciuc","latitude":46.35,"longitude":25.8}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72139"]={"code":"72139","region":"AR","city":"Russell","latitude":35.3609,"longitude":-91.5071}}(window,'GeoPostal','US');

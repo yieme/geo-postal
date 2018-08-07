@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57460"]={"code":"57460","region":"Grand-Est","city":"Etzling","latitude":49.17856,"longitude":6.96138}}(window,'GeoPostal','FR');

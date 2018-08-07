@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22742"]={"code":"22742","region":"VA","city":"Sumerduck","latitude":38.4674,"longitude":-77.7044}}(window,'GeoPostal','US');

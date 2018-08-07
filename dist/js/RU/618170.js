@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["618170"]={"code":"618170","region":"Permskiy kray","city":"Yelovo","latitude":57.05381,"longitude":54.9207}}(window,'GeoPostal','RU');

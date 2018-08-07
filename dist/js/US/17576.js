@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17576"]={"code":"17576","region":"PA","city":"Smoketown","latitude":40.0376,"longitude":-76.1969}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76950"]={"code":"76950","region":"Texas","city":"Sonora","latitude":30.56685,"longitude":-100.64343}}(window,'GeoPostal','US');

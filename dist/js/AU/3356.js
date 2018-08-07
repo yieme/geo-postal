@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3356"]={"code":"3356","region":"Victoria","city":"Sebastopol","latitude":-37.58532,"longitude":143.83953}}(window,'GeoPostal','AU');

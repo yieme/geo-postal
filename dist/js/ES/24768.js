@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24768"]={"code":"24768","region":"Castilla y Leon","city":"Soto de la Vega","latitude":42.33227,"longitude":-5.88225}}(window,'GeoPostal','ES');

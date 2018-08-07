@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1H 0A1"]={"code":"T1H 0A1","region":"Alberta","city":"Lethbridge","latitude":49.69999,"longitude":-112.81856}}(window,'GeoPostal','CA');

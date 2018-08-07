@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91830"]={"code":"91830","region":"Ile-de-France","city":"Le Coudray-Montceaux","latitude":48.56376,"longitude":2.50012}}(window,'GeoPostal','FR');

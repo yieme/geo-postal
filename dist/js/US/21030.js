@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21030"]={"code":"21030","region":"Maryland","city":"Cockeysville","latitude":39.49152,"longitude":-76.66086}}(window,'GeoPostal','US');

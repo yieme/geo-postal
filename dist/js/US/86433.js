@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86433"]={"code":"86433","region":"AZ","city":"Oatman","latitude":35.0285,"longitude":-114.3837}}(window,'GeoPostal','US');

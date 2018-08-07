@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14450"]={"code":"14450","region":"Normandie","city":"Grandcamp-Maisy","latitude":49.38333,"longitude":-1.03333}}(window,'GeoPostal','FR');

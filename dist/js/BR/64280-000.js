@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64280-000"]={"code":"64280-000","region":"Piaui","city":"Campo Maior","latitude":-4.82778,"longitude":-42.16861}}(window,'GeoPostal','BR');

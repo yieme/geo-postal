@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78223"]={"code":"78223","region":"Republika Srpska","city":"Maslovare","latitude":44.56556,"longitude":17.53361}}(window,'GeoPostal','BA');

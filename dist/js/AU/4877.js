@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4877"]={"code":"4877","region":"Queensland","city":"Craiglie","latitude":-16.51331,"longitude":145.46437}}(window,'GeoPostal','AU');

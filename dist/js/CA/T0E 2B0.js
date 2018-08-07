@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 2B0"]={"code":"T0E 2B0","region":"Alberta","city":"Seba Beach","latitude":53.55013,"longitude":-114.73541}}(window,'GeoPostal','CA');

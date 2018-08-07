@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65729"]={"code":"65729","region":"MO","city":"Pontiac","latitude":36.5156,"longitude":-92.6038}}(window,'GeoPostal','US');

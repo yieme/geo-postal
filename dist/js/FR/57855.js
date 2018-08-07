@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57855"]={"code":"57855","region":"Grand-Est","city":"Saint-Privat-la-Montagne","latitude":49.18789,"longitude":6.03832}}(window,'GeoPostal','FR');

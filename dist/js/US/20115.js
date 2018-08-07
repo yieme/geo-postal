@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20115"]={"code":"20115","region":"VA","city":"Marshall","latitude":38.8405,"longitude":-77.8911}}(window,'GeoPostal','US');

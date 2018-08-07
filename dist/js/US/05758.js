@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05758"]={"code":"05758","region":"VT","city":"Mount Holly","latitude":43.4487,"longitude":-72.7956}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93237"]={"code":"93237","region":"CA","city":"Kaweah","latitude":36.4727,"longitude":-118.9029}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9691"]={"code":"9691","region":"Finnmark","city":"Havoysund","latitude":70.99634,"longitude":24.66217}}(window,'GeoPostal','NO');

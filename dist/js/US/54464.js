@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54464"]={"code":"54464","region":"WI","city":"Phlox","latitude":45.0511,"longitude":-89.0143}}(window,'GeoPostal','US');

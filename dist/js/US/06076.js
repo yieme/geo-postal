@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06076"]={"code":"06076","region":"Connecticut","city":"Stafford Springs","latitude":41.98512,"longitude":-72.25566}}(window,'GeoPostal','US');

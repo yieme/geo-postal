@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 8QN"]={"code":"NR12 8QN","region":"England","city":"Norwich","latitude":52.62783,"longitude":1.29834}}(window,'GeoPostal','GB');

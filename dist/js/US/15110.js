@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15110"]={"code":"15110","region":"PA","city":"Duquesne","latitude":40.3704,"longitude":-79.8522}}(window,'GeoPostal','US');

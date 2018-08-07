@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2950"]={"code":"2950","region":"Hovedstaden","city":"Vedbaek","latitude":55.853,"longitude":12.565}}(window,'GeoPostal','DK');

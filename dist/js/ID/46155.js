@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46155"]={"code":"46155","region":"Jawa Barat","city":"Kebonbencoy","latitude":-7.2535,"longitude":108.1874}}(window,'GeoPostal','ID');

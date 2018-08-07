@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21509"]={"code":"21509","region":"Bourgogne-Franche-Comte","city":"Montbard","latitude":47.61667,"longitude":4.33333}}(window,'GeoPostal','FR');

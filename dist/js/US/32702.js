@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32702"]={"code":"32702","region":"Florida","city":"Altoona","latitude":28.96583,"longitude":-81.64833}}(window,'GeoPostal','US');

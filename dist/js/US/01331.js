@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01331"]={"code":"01331","region":"Massachusetts","city":"Athol","latitude":42.59592,"longitude":-72.22675}}(window,'GeoPostal','US');

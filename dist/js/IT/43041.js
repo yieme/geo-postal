@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43041"]={"code":"43041","region":"Emilia-Romagna","city":"Bedonia","latitude":44.49805,"longitude":9.63277}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20620"]={"code":"20620","region":"Maryland","city":"Callaway","latitude":38.237296,"longitude":-76.523972}}(window,'GeoPostal','US');

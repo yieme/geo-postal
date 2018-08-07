@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0H 0X0"]={"code":"R0H 0X0","region":"Manitoba","city":"Curtis","latitude":49.94142,"longitude":-98.14632}}(window,'GeoPostal','CA');

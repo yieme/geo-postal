@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61285"]={"code":"61285","region":"Illinois","city":"Thomson","latitude":41.96508,"longitude":-90.1032}}(window,'GeoPostal','US');

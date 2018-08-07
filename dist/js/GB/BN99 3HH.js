@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN99 3HH"]={"code":"BN99 3HH","region":"England","city":"Worthing","latitude":50.81448,"longitude":-0.37126}}(window,'GeoPostal','GB');

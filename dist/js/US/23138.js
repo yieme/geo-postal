@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23138"]={"code":"23138","region":"VA","city":"Port Haywood","latitude":37.386,"longitude":-76.3172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06660"]={"code":"06660","region":"Extremadura","city":"Fuenlabrada de los Montes","latitude":39.13288,"longitude":-4.93513}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6041"]={"code":"6041","region":"Western Australia","city":"Gabbadah","latitude":-31.292,"longitude":115.50593}}(window,'GeoPostal','AU');

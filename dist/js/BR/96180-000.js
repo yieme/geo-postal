@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96180-000"]={"code":"96180-000","region":"Rio Grande do Sul","city":"Camaqua","latitude":-30.85111,"longitude":-51.81222}}(window,'GeoPostal','BR');

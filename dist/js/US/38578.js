@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38578"]={"code":"38578","region":"TN","city":"Pleasant Hill","latitude":35.9813,"longitude":-85.1984}}(window,'GeoPostal','US');

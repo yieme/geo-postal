@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT9 2NY"]={"code":"KT9 2NY","region":"England","city":"Chessington","latitude":51.3624,"longitude":-0.30427}}(window,'GeoPostal','GB');

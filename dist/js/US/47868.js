@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47868"]={"code":"47868","region":"IN","city":"Poland","latitude":39.4462,"longitude":-86.9631}}(window,'GeoPostal','US');

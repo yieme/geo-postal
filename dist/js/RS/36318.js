@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36318"]={"code":"36318","region":"Raski okrug","city":"Novi Pazar","latitude":43.13667,"longitude":20.51222}}(window,'GeoPostal','RS');

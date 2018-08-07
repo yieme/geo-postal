@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG7 1PS"]={"code":"DG7 1PS","region":"Scotland","city":"Palnackie","latitude":54.89196,"longitude":-3.8413}}(window,'GeoPostal','GB');

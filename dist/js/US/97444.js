@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97444"]={"code":"97444","region":"Oregon","city":"Gold Beach","latitude":42.40733,"longitude":-124.42177}}(window,'GeoPostal','US');

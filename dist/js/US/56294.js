@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56294"]={"code":"56294","region":"MN","city":"Wanda","latitude":44.3149,"longitude":-95.213}}(window,'GeoPostal','US');

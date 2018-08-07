@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87731"]={"code":"87731","region":"New Mexico","city":"Montezuma","latitude":35.65222,"longitude":-105.27639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["787-0007"]={"code":"787-0007","region":"Kochi","city":"Shimanto","latitude":33,"longitude":132.933333}}(window,'GeoPostal','JP');

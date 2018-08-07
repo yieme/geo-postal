@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12019"]={"code":"12019","region":"Piemonte","city":"Vernante","latitude":44.24503,"longitude":7.53383}}(window,'GeoPostal','IT');

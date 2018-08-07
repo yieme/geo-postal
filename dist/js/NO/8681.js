@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8681"]={"code":"8681","region":"Nordland","city":"Trofors","latitude":65.53335,"longitude":13.40631}}(window,'GeoPostal','NO');

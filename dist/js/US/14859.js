@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14859"]={"code":"14859","region":"NY","city":"Lockwood","latitude":42.1149,"longitude":-76.5366}}(window,'GeoPostal','US');

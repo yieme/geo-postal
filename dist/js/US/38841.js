@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38841"]={"code":"38841","region":"MS","city":"Ecru","latitude":34.3366,"longitude":-89.0109}}(window,'GeoPostal','US');

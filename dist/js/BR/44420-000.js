@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44420-000"]={"code":"44420-000","region":"Bahia","city":"Maragogipe","latitude":-12.77778,"longitude":-38.91944}}(window,'GeoPostal','BR');

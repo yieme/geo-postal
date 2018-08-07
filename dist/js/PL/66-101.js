@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-101"]={"code":"66-101","region":"Lubuskie","city":"Sulechow","latitude":52.08362,"longitude":15.62513}}(window,'GeoPostal','PL');

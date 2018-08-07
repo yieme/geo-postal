@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81067"]={"code":"81067","region":"Colorado","city":"Rocky Ford","latitude":38.05251,"longitude":-103.72023}}(window,'GeoPostal','US');

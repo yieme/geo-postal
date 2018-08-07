@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07837"]={"code":"07837","region":"NJ","city":"Glasser","latitude":41.1283,"longitude":-74.679}}(window,'GeoPostal','US');

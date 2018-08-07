@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17419"]={"code":"17419","region":"Nouvelle-Aquitaine","city":"Saint-Jean-d'Angely","latitude":45.95,"longitude":-0.51667}}(window,'GeoPostal','FR');

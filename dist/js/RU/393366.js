@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393366"]={"code":"393366","region":"Tambovskaya oblast'","city":"Kirsanov","latitude":52.65494,"longitude":42.72236}}(window,'GeoPostal','RU');

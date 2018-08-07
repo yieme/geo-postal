@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["494111"]={"code":"494111","region":"Chhattisgarh","city":"Malkangiri","latitude":18.35,"longitude":81.9}}(window,'GeoPostal','IN');

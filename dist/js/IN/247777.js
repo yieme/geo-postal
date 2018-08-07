@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247777"]={"code":"247777","region":"Uttar Pradesh","city":"Thana Bhawan","latitude":29.58639,"longitude":77.41667}}(window,'GeoPostal','IN');

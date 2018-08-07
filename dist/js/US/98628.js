@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98628"]={"code":"98628","region":"Washington","city":"Klickitat","latitude":45.823897,"longitude":-121.125588}}(window,'GeoPostal','US');

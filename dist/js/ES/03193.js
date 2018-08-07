@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03193"]={"code":"03193","region":"Valenciana, Comunidad","city":"San Miguel de Salinas","latitude":37.97972,"longitude":-0.78904}}(window,'GeoPostal','ES');

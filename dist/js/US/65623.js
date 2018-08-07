@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65623"]={"code":"65623","region":"Missouri","city":"Cassville","latitude":36.67701,"longitude":-93.86881}}(window,'GeoPostal','US');

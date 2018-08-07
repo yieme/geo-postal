@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK5 3LA"]={"code":"FK5 3LA","region":"Scotland","city":"Larbert","latitude":56.02246,"longitude":-3.82872}}(window,'GeoPostal','GB');

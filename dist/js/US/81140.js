@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81140"]={"code":"81140","region":"Colorado","city":"La Jara","latitude":37.30896,"longitude":-106.03524}}(window,'GeoPostal','US');

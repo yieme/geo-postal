@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85342"]={"code":"85342","region":"Pays-de-la-Loire","city":"Les Sables-d'Olonne","latitude":46.5,"longitude":-1.78333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 2X0"]={"code":"S0J 2X0","region":"Saskatchewan","city":"Pascal","latitude":53.51681,"longitude":-107.13447}}(window,'GeoPostal','CA');

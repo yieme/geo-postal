@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71463"]={"code":"71463","region":"Louisiana","city":"Oakdale","latitude":30.80547,"longitude":-92.62153}}(window,'GeoPostal','US');

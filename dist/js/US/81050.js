@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81050"]={"code":"81050","region":"Colorado","city":"La Junta","latitude":37.98501,"longitude":-103.54383}}(window,'GeoPostal','US');

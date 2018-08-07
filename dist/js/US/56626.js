@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56626"]={"code":"56626","region":"Minnesota","city":"Bena","latitude":47.34111,"longitude":-94.20806}}(window,'GeoPostal','US');

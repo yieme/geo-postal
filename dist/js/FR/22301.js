@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22301"]={"code":"22301","region":"Bretagne","city":"Lannion","latitude":48.73333,"longitude":-3.46667}}(window,'GeoPostal','FR');

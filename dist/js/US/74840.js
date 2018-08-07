@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74840"]={"code":"74840","region":"OK","city":"Earlsboro","latitude":35.2628,"longitude":-96.8041}}(window,'GeoPostal','US');

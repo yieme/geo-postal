@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA3 6BY"]={"code":"KA3 6BY","region":"Scotland","city":"Fenwick","latitude":55.65,"longitude":-4.43333}}(window,'GeoPostal','GB');

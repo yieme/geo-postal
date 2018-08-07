@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6305"]={"code":"6305","region":"Tirol","city":"Itter","latitude":47.46667,"longitude":12.13333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00656"]={"code":"00656","region":"Guayanilla","city":"Magas Arriba","latitude":18.01746,"longitude":-66.76906}}(window,'GeoPostal','PR');

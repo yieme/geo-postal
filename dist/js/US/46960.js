@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46960"]={"code":"46960","region":"Indiana","city":"Monterey","latitude":41.128117,"longitude":-86.525213}}(window,'GeoPostal','US');

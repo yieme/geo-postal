@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24413"]={"code":"24413","region":"VA","city":"Blue Grass","latitude":38.5152,"longitude":-79.5613}}(window,'GeoPostal','US');

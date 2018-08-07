@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 3Y0"]={"code":"G0A 3Y0","region":"Quebec","city":"Saint-Joseph-de-la-Rive","latitude":47.45665,"longitude":-70.36782}}(window,'GeoPostal','CA');

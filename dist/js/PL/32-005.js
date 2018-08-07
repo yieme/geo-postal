@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-005"]={"code":"32-005","region":"Malopolskie","city":"Niepolomice","latitude":50.04066,"longitude":20.22257}}(window,'GeoPostal','PL');

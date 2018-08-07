@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99697"]={"code":"99697","region":"AK","city":"Kodiak","latitude":57.79,"longitude":-152.4072}}(window,'GeoPostal','US');

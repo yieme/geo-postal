@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2308"]={"code":"2308","region":"New South Wales","city":"Callaghan","latitude":-32.89205,"longitude":151.70531}}(window,'GeoPostal','AU');

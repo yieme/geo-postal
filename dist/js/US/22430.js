@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22430"]={"code":"22430","region":"VA","city":"Brooke","latitude":38.3857,"longitude":-77.3743}}(window,'GeoPostal','US');

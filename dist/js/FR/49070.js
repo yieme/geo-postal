@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49070"]={"code":"49070","region":"Pays-de-la-Loire","city":"Beaucouze","latitude":47.47444,"longitude":-0.63016}}(window,'GeoPostal','FR');

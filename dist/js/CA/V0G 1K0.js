@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1K0"]={"code":"V0G 1K0","region":"British Columbia","city":"Applegrove","latitude":49.78317,"longitude":-118.08557}}(window,'GeoPostal','CA');

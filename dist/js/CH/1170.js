@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1170"]={"code":"1170","region":"Vaud","city":"Aubonne","latitude":46.49514,"longitude":6.39155}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63769"]={"code":"63769","region":"MO","city":"Oak Ridge","latitude":37.5258,"longitude":-89.7508}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27230"]={"code":"27230","region":"NC","city":"Cedar Falls","latitude":35.8028,"longitude":-79.8797}}(window,'GeoPostal','US');

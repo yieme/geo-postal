@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95233"]={"code":"95233","region":"Bayern","city":"Kleinschwarzenbach","latitude":50.24733,"longitude":11.70522}}(window,'GeoPostal','DE');

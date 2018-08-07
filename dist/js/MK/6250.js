@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6250"]={"code":"6250","region":"Kicevo","city":"Kicevo","latitude":41.51444,"longitude":20.96333}}(window,'GeoPostal','MK');

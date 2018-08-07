@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15566"]={"code":"15566","region":"Berlin","city":"Westend","latitude":52.45,"longitude":13.6}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06537"]={"code":"06537","region":"Sachsen-Anhalt","city":"Kelbra","latitude":51.43528,"longitude":11.04143}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66711"]={"code":"66711","region":"KS","city":"Arcadia","latitude":37.6341,"longitude":-94.6548}}(window,'GeoPostal','US');

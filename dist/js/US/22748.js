@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22748"]={"code":"22748","region":"VA","city":"Wolftown","latitude":38.3557,"longitude":-78.3475}}(window,'GeoPostal','US');

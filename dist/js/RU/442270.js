@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442270"]={"code":"442270","region":"Penzenskaya oblast'","city":"Poim","latitude":53.02639,"longitude":43.18721}}(window,'GeoPostal','RU');

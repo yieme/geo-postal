@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15890"]={"code":"15890","region":"Brandenburg","city":"Pohlitz","latitude":52.18414,"longitude":14.57804}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68316"]={"code":"68316","region":"NE","city":"Benedict","latitude":41.0033,"longitude":-97.6029}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13350"]={"code":"13350","region":"Castilla-La Mancha","city":"Moral de Calatrava","latitude":38.82989,"longitude":-3.57813}}(window,'GeoPostal','ES');

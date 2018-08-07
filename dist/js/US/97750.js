@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97750"]={"code":"97750","region":"Oregon","city":"Mitchell","latitude":44.544414,"longitude":-120.008646}}(window,'GeoPostal','US');

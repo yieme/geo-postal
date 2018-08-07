@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 4C0"]={"code":"T0B 4C0","region":"Alberta","city":"Sedgewick","latitude":52.76685,"longitude":-111.68504}}(window,'GeoPostal','CA');

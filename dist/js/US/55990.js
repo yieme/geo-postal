@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55990"]={"code":"55990","region":"MN","city":"Wykoff","latitude":43.7146,"longitude":-92.2679}}(window,'GeoPostal','US');

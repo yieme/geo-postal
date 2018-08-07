@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61638"]={"code":"61638","region":"IL","city":"Peoria","latitude":40.7969,"longitude":-89.6111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR31 6BL"]={"code":"NR31 6BL","region":"England","city":"Gorleston-on-Sea","latitude":52.57301,"longitude":1.73069}}(window,'GeoPostal','GB');

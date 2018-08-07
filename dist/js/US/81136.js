@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81136"]={"code":"81136","region":"Colorado","city":"Hooper","latitude":37.74216,"longitude":-105.904358}}(window,'GeoPostal','US');

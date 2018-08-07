@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63303"]={"code":"63303","region":"Missouri","city":"Saint Charles","latitude":38.7522,"longitude":-90.53772}}(window,'GeoPostal','US');

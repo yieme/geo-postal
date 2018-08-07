@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["940000"]={"code":"940000","region":"Tra Vinh","city":"Tra Vinh","latitude":9.93472,"longitude":106.34528}}(window,'GeoPostal','VN');

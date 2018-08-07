@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17066"]={"code":"17066","region":"PA","city":"Mount Union","latitude":40.3901,"longitude":-77.8637}}(window,'GeoPostal','US');

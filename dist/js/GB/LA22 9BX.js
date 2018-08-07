@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA22 9BX"]={"code":"LA22 9BX","region":"England","city":"Ambleside","latitude":54.43261,"longitude":-2.96167}}(window,'GeoPostal','GB');

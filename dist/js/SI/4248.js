@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4248"]={"code":"4248","region":"Radovljica","city":"Lesce","latitude":46.36111,"longitude":14.15778}}(window,'GeoPostal','SI');

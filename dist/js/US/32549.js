@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32549"]={"code":"32549","region":"Florida","city":"Fort Walton Beach","latitude":30.4125,"longitude":-86.615}}(window,'GeoPostal','US');

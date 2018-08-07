@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23022"]={"code":"23022","region":"Lombardia","city":"Chiavenna","latitude":46.32159,"longitude":9.39864}}(window,'GeoPostal','IT');

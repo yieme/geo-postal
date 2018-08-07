@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80476"]={"code":"80476","region":"CO","city":"Silver Plume","latitude":39.6996,"longitude":-105.7507}}(window,'GeoPostal','US');

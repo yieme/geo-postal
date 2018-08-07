@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57201"]={"code":"57201","region":"South Dakota","city":"Watertown","latitude":44.89941,"longitude":-97.11507}}(window,'GeoPostal','US');

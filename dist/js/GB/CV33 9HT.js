@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV33 9HT"]={"code":"CV33 9HT","region":"England","city":"Harbury","latitude":52.23537,"longitude":-1.45706}}(window,'GeoPostal','GB');

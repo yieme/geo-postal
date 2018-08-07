@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86906"]={"code":"86906","region":"Tabasco","city":"Tenosique de Pino Suarez","latitude":17.48333,"longitude":-91.43333}}(window,'GeoPostal','MX');

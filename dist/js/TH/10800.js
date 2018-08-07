@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10800"]={"code":"10800","region":"Krung Thep Maha Nakhon","city":"Chatuchak","latitude":13.82893,"longitude":100.55985}}(window,'GeoPostal','TH');

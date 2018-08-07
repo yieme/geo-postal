@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["426053"]={"code":"426053","region":"Udmurtskaya Respublika","city":"Izhevsk","latitude":56.85,"longitude":53.23333}}(window,'GeoPostal','RU');

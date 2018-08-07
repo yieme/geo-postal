@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14070"]={"code":"14070","region":"NY","city":"Gowanda","latitude":42.4712,"longitude":-78.9339}}(window,'GeoPostal','US');

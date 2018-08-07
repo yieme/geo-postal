@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141560"]={"code":"141560","region":"Moskovskaya oblast'","city":"Chashnikovo","latitude":56.03333,"longitude":37.16667}}(window,'GeoPostal','RU');

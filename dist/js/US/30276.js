@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30276"]={"code":"30276","region":"Georgia","city":"Senoia","latitude":33.286801,"longitude":-84.591543}}(window,'GeoPostal','US');

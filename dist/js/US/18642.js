@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18642"]={"code":"18642","region":"PA","city":"Duryea","latitude":41.3486,"longitude":-75.7611}}(window,'GeoPostal','US');

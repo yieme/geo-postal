@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31154"]={"code":"31154","region":"Navarra, Comunidad Foral de","city":"Tirapu","latitude":42.656802,"longitude":-1.702497}}(window,'GeoPostal','ES');

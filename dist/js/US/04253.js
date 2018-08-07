@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04253"]={"code":"04253","region":"ME","city":"Livermore","latitude":44.4079,"longitude":-70.215}}(window,'GeoPostal','US');

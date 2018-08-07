@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79807"]={"code":"79807","region":"Baden-Wurttemberg","city":"Nack","latitude":47.60682,"longitude":8.57806}}(window,'GeoPostal','DE');

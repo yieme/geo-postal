@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62498"]={"code":"62498","region":"Kharkivska oblast","city":"Vasyshcheve","latitude":49.82852,"longitude":36.32691}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15059"]={"code":"15059","region":"Piemonte","city":"Volpedo","latitude":44.89026,"longitude":8.98185}}(window,'GeoPostal','IT');

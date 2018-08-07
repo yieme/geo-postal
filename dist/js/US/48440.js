@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48440"]={"code":"48440","region":"MI","city":"Hadley","latitude":42.9545,"longitude":-83.4033}}(window,'GeoPostal','US');

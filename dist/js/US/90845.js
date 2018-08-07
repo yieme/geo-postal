@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90845"]={"code":"90845","region":"CA","city":"Buffums","latitude":33.77,"longitude":-118.18}}(window,'GeoPostal','US');

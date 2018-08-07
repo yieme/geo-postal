@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20145"]={"code":"20145","region":"Corse","city":"Sari-Solenzara","latitude":41.83519,"longitude":9.3747}}(window,'GeoPostal','FR');

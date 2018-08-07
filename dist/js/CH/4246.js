@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4246"]={"code":"4246","region":"Basel-Landschaft","city":"Wahlen","latitude":47.40226,"longitude":7.51511}}(window,'GeoPostal','CH');

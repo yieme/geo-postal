@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63052"]={"code":"63052","region":"L'Oriental","city":"Ahfir","latitude":34.95368,"longitude":-2.10027}}(window,'GeoPostal','MA');

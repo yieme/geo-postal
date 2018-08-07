@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG9 8UB"]={"code":"DG9 8UB","region":"Scotland","city":"Enoch","latitude":54.85,"longitude":-5.11667}}(window,'GeoPostal','GB');

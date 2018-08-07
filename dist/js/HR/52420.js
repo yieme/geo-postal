@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52420"]={"code":"52420","region":"Istarska zupanija","city":"Buzet","latitude":45.40944,"longitude":13.96667}}(window,'GeoPostal','HR');

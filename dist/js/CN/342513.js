@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342513"]={"code":"342513","region":"Jiangxi","city":"Rentian","latitude":25.98727,"longitude":116.11661}}(window,'GeoPostal','CN');

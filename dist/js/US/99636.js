@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99636"]={"code":"99636","region":"AK","city":"New Stuyahok","latitude":59.4882,"longitude":-157.2905}}(window,'GeoPostal','US');

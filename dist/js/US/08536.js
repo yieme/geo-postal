@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08536"]={"code":"08536","region":"New Jersey","city":"Plainsboro","latitude":40.334575,"longitude":-74.579381}}(window,'GeoPostal','US');

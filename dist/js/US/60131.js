@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60131"]={"code":"60131","region":"Illinois","city":"Franklin Park","latitude":41.934273,"longitude":-87.876442}}(window,'GeoPostal','US');

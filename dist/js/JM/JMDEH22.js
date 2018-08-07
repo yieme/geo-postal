@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMDEH22"]={"code":"JMDEH22","region":"Saint Elizabeth","city":"Siloah","latitude":18.16709,"longitude":-77.70348}}(window,'GeoPostal','JM');

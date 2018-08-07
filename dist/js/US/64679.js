@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64679"]={"code":"64679","region":"Missouri","city":"Spickard","latitude":40.232393,"longitude":-93.501605}}(window,'GeoPostal','US');

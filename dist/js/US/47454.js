@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47454"]={"code":"47454","region":"Indiana","city":"Paoli","latitude":38.55617,"longitude":-86.46832}}(window,'GeoPostal','US');

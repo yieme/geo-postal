@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H7V 4A7"]={"code":"H7V 4A7","region":"Quebec","city":"Laval","latitude":45.5504,"longitude":-73.728619}}(window,'GeoPostal','CA');

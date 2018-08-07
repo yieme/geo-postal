@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71710"]={"code":"71710","region":"Bourgogne-Franche-Comte","city":"Montcenis","latitude":46.78785,"longitude":4.38738}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["483222"]={"code":"483222","region":"Madhya Pradesh","city":"Sihora","latitude":23.48333,"longitude":80.11667}}(window,'GeoPostal','IN');

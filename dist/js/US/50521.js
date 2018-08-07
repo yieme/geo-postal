@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50521"]={"code":"50521","region":"IA","city":"Burnside","latitude":42.3413,"longitude":-94.1143}}(window,'GeoPostal','US');

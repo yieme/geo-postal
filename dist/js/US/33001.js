@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33001"]={"code":"33001","region":"Florida","city":"Long Key","latitude":24.816667,"longitude":-80.816667}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71944"]={"code":"71944","region":"AR","city":"Grannis","latitude":34.237,"longitude":-94.3255}}(window,'GeoPostal','US');

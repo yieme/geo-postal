@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06042"]={"code":"06042","region":"Umbria","city":"Campello sul Clitunno","latitude":42.82514,"longitude":12.77377}}(window,'GeoPostal','IT');

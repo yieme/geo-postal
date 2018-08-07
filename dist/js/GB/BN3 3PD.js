@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN3 3PD"]={"code":"BN3 3PD","region":"England","city":"Hove","latitude":50.83088,"longitude":-0.1672}}(window,'GeoPostal','GB');

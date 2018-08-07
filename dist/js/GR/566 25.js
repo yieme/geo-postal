@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["566 25"]={"code":"566 25","region":"Kentriki Makedonia","city":"Pefka","latitude":40.65722,"longitude":22.99028}}(window,'GeoPostal','GR');

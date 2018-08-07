@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132412"]={"code":"132412","region":"Jilin","city":"Erdaodianzi","latitude":43.14232,"longitude":127.14257}}(window,'GeoPostal','CN');

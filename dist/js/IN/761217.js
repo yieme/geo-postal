@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761217"]={"code":"761217","region":"Odisha","city":"Asika","latitude":19.6,"longitude":84.65}}(window,'GeoPostal','IN');

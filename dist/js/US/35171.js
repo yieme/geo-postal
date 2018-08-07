@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35171"]={"code":"35171","region":"AL","city":"Thorsby","latitude":32.9157,"longitude":-86.7158}}(window,'GeoPostal','US');

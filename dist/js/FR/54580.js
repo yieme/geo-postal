@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54580"]={"code":"54580","region":"Grand-Est","city":"Auboue","latitude":49.21309,"longitude":5.978}}(window,'GeoPostal','FR');

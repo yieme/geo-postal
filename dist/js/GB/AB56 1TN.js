@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 1TN"]={"code":"AB56 1TN","region":"Scotland","city":"Portessie","latitude":57.68376,"longitude":-2.94079}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01971"]={"code":"01971","region":"MA","city":"Salem","latitude":42.6354,"longitude":-70.8791}}(window,'GeoPostal','US');

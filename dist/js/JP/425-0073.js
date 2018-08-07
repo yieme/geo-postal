@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425-0073"]={"code":"425-0073","region":"Shizuoka","city":"Shizuoka","latitude":34.983,"longitude":138.383}}(window,'GeoPostal','JP');

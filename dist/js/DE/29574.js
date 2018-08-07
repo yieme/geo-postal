@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29574"]={"code":"29574","region":"Niedersachsen","city":"Ebstorf","latitude":53.02785,"longitude":10.41839}}(window,'GeoPostal','DE');

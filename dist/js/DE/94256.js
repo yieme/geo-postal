@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94256"]={"code":"94256","region":"Bayern","city":"Haberbuhl","latitude":49.08843,"longitude":13.04309}}(window,'GeoPostal','DE');

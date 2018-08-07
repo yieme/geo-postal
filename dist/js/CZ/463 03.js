@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["463 03"]={"code":"463 03","region":"Liberecky kraj","city":"Liberec","latitude":50.76711,"longitude":15.05619}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70648"]={"code":"70648","region":"LA","city":"Kinder","latitude":30.4607,"longitude":-92.8693}}(window,'GeoPostal','US');

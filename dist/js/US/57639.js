@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57639"]={"code":"57639","region":"SD","city":"Little Eagle","latitude":45.6758,"longitude":-100.8043}}(window,'GeoPostal','US');

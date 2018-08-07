@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99702"]={"code":"99702","region":"Alaska","city":"Eielson Air Force Base","latitude":64.66327,"longitude":-147.05442}}(window,'GeoPostal','US');

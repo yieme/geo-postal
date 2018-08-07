@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42733"]={"code":"42733","region":"Kentucky","city":"Elk Horn","latitude":37.331553,"longitude":-85.198692}}(window,'GeoPostal','US');

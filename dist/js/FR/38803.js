@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38803"]={"code":"38803","region":"Auvergne-Rhone-Alpes","city":"Le Pont-de-Claix","latitude":45.12443,"longitude":5.7064}}(window,'GeoPostal','FR');

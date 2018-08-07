@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3660-136"]={"code":"3660-136","region":"Viseu","city":"Abraveses","latitude":40.68137,"longitude":-7.92102}}(window,'GeoPostal','PT');

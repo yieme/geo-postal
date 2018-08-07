@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK19 8QE"]={"code":"FK19 8QE","region":"Scotland","city":"Ardvorlich","latitude":56.36667,"longitude":-4.21667}}(window,'GeoPostal','GB');

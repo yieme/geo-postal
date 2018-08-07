@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13649"]={"code":"13649","region":"NY","city":"Helena","latitude":44.9217,"longitude":-74.7068}}(window,'GeoPostal','US');

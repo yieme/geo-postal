@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82055"]={"code":"82055","region":"Wyoming","city":"Centennial","latitude":41.303987,"longitude":-106.135244}}(window,'GeoPostal','US');

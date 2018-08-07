@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83149"]={"code":"83149","region":"Provence-Alpes-Cote d'Azur","city":"Bras","latitude":43.47183,"longitude":5.95672}}(window,'GeoPostal','FR');

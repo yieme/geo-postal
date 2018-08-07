@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55304"]={"code":"55304","region":"Mykolaivska oblast","city":"Arbuzynka","latitude":47.90972,"longitude":31.31963}}(window,'GeoPostal','UA');

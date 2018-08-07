@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43-374"]={"code":"43-374","region":"Slaskie","city":"Wilkowice","latitude":49.76282,"longitude":19.08973}}(window,'GeoPostal','PL');

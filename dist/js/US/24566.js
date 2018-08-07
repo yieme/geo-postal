@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24566"]={"code":"24566","region":"VA","city":"Keeling","latitude":36.7156,"longitude":-79.2783}}(window,'GeoPostal','US');

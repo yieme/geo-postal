@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-425"]={"code":"78-425","region":"Zachodniopomorskie","city":"Bialy Bor","latitude":53.8967,"longitude":16.83543}}(window,'GeoPostal','PL');

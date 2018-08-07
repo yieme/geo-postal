@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81040"]={"code":"81040","region":"Colorado","city":"Gardner","latitude":37.786528,"longitude":-105.182499}}(window,'GeoPostal','US');

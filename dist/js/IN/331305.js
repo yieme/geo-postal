@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331305"]={"code":"331305","region":"Rajasthan","city":"Taranagar","latitude":28.6709,"longitude":75.0351}}(window,'GeoPostal','IN');

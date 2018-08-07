@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6566"]={"code":"6566","region":"Western Australia","city":"West Toodyay","latitude":-31.53333,"longitude":116.41667}}(window,'GeoPostal','AU');

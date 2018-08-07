@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32764"]={"code":"32764","region":"FL","city":"Osteen","latitude":28.8426,"longitude":-81.1562}}(window,'GeoPostal','US');

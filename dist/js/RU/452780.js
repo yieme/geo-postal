@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452780"]={"code":"452780","region":"Bashkortostan, Respublika","city":"Serafimovskiy","latitude":54.42408,"longitude":53.7964}}(window,'GeoPostal','RU');

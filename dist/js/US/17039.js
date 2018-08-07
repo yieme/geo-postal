@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17039"]={"code":"17039","region":"PA","city":"Kleinfeltersville","latitude":40.3005,"longitude":-76.2584}}(window,'GeoPostal','US');

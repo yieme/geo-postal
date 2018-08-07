@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1315"]={"code":"1315","region":"Brabant wallon","city":"Incourt","latitude":50.69151,"longitude":4.79816}}(window,'GeoPostal','BE');

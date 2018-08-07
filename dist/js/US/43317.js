@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43317"]={"code":"43317","region":"OH","city":"Chesterville","latitude":40.4789,"longitude":-82.6828}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93458"]={"code":"93458","region":"CA","city":"Santa Maria","latitude":34.9535,"longitude":-120.4957}}(window,'GeoPostal','US');

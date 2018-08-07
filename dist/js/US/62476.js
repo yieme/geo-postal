@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62476"]={"code":"62476","region":"Illinois","city":"West Salem","latitude":38.52111,"longitude":-88.00889}}(window,'GeoPostal','US');

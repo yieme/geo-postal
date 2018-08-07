@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3304"]={"code":"3304","region":"Queensland","city":"Newmarket","latitude":-27.43333,"longitude":153.01667}}(window,'GeoPostal','AU');

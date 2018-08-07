@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA15 6ZN"]={"code":"TA15 6ZN","region":"England","city":"Stoke-sub-Hamdon","latitude":50.95397,"longitude":-2.74971}}(window,'GeoPostal','GB');

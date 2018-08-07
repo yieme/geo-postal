@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443309"]={"code":"443309","region":"Hubei","city":"Panjiawan","latitude":30.22109,"longitude":111.19919}}(window,'GeoPostal','CN');

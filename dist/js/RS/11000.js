@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11000"]={"code":"11000","region":"Prizrenski okrug","city":"Podujeva","latitude":42.91056,"longitude":21.19306}}(window,'GeoPostal','RS');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55020"]={"code":"55020","region":"MN","city":"Elko New Market","latitude":44.5647,"longitude":-93.3269}}(window,'GeoPostal','US');

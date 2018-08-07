@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95319"]={"code":"95319","region":"CA","city":"Empire","latitude":37.6382,"longitude":-120.9005}}(window,'GeoPostal','US');

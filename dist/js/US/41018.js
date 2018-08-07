@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41018"]={"code":"41018","region":"Kentucky","city":"Erlanger","latitude":39.01332,"longitude":-84.60492}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA20 6DX"]={"code":"LA20 6DX","region":"England","city":"Ulpha","latitude":54.33134,"longitude":-3.23539}}(window,'GeoPostal','GB');

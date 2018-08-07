@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81331"]={"code":"81331","region":"Colorado","city":"Pleasant View","latitude":37.552029,"longitude":-108.806466}}(window,'GeoPostal','US');

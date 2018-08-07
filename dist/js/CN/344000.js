@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344000"]={"code":"344000","region":"Jiangxi","city":"Shangdundu","latitude":27.93827,"longitude":116.29269}}(window,'GeoPostal','CN');

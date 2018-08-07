@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188832"]={"code":"188832","region":"Leningradskaya oblast'","city":"Korobitsyno","latitude":60.51523,"longitude":29.72437}}(window,'GeoPostal','RU');

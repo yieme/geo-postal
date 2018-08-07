@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-213"]={"code":"66-213","region":"Lubuskie","city":"Skape","latitude":52.15292,"longitude":15.45845}}(window,'GeoPostal','PL');

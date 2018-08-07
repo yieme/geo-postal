@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BB7 4HA"]={"code":"BB7 4HA","region":"England","city":"Gisburn","latitude":53.93494,"longitude":-2.26347}}(window,'GeoPostal','GB');

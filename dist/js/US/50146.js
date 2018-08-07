@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50146"]={"code":"50146","region":"Iowa","city":"Linden","latitude":41.643074,"longitude":-94.270675}}(window,'GeoPostal','US');

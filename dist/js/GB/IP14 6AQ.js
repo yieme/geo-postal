@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 6AQ"]={"code":"IP14 6AQ","region":"England","city":"Stonham Aspall","latitude":52.19104,"longitude":1.12258}}(window,'GeoPostal','GB');

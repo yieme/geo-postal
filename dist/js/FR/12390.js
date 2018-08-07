@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12390"]={"code":"12390","region":"Occitanie","city":"Rignac","latitude":44.41,"longitude":2.2903}}(window,'GeoPostal','FR');

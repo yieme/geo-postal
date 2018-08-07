@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56208"]={"code":"56208","region":"MN","city":"Appleton","latitude":45.2054,"longitude":-95.9949}}(window,'GeoPostal','US');

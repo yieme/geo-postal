@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83080"]={"code":"83080","region":"Bayern","city":"Oberaudorf","latitude":47.64822,"longitude":12.17242}}(window,'GeoPostal','DE');

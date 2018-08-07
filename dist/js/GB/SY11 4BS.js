@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY11 4BS"]={"code":"SY11 4BS","region":"England","city":"Whittington","latitude":51.88333,"longitude":-1.96667}}(window,'GeoPostal','GB');

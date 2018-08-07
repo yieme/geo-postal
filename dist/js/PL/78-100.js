@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-100"]={"code":"78-100","region":"Zachodniopomorskie","city":"Kolobrzeg","latitude":54.17565,"longitude":15.58342}}(window,'GeoPostal','PL');

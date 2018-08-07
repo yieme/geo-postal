@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174409"]={"code":"174409","region":"Novgorodskaya oblast'","city":"Borovichi","latitude":58.38778,"longitude":33.91546}}(window,'GeoPostal','RU');

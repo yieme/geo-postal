@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP29 4NJ"]={"code":"IP29 4NJ","region":"England","city":"Hawkedon","latitude":52.14608,"longitude":0.62425}}(window,'GeoPostal','GB');

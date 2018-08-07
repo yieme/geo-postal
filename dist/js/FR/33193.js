@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33193"]={"code":"33193","region":"Nouvelle-Aquitaine","city":"La Reole","latitude":44.58201,"longitude":-0.03691}}(window,'GeoPostal','FR');

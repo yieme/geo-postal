@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412580"]={"code":"412580","region":"Saratovskaya oblast'","city":"Novyye Burasy","latitude":52.13236,"longitude":46.07144}}(window,'GeoPostal','RU');

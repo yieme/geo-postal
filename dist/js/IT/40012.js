@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40012"]={"code":"40012","region":"Emilia-Romagna","city":"Calderara di Reno","latitude":44.56307,"longitude":11.27111}}(window,'GeoPostal','IT');

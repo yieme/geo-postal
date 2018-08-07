@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09301"]={"code":"09301","region":"Occitanie","city":"Lavelanet","latitude":42.93127,"longitude":1.84656}}(window,'GeoPostal','FR');

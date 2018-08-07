@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["468 61"]={"code":"468 61","region":"Liberecky kraj","city":"Desna","latitude":50.75987,"longitude":15.30284}}(window,'GeoPostal','CZ');

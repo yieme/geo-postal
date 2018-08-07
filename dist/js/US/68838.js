@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68838"]={"code":"68838","region":"NE","city":"Farwell","latitude":41.2204,"longitude":-98.6481}}(window,'GeoPostal','US');

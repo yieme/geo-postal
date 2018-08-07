@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54410"]={"code":"54410","region":"WI","city":"Arpin","latitude":44.5419,"longitude":-90.037}}(window,'GeoPostal','US');

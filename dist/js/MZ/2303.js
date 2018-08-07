@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2303"]={"code":"2303","region":"Tete","city":"Tete","latitude":-16.15639,"longitude":33.58667}}(window,'GeoPostal','MZ');

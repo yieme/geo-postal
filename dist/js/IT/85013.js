@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85013"]={"code":"85013","region":"Basilicata","city":"Genzano di Lucania","latitude":40.84792,"longitude":16.03077}}(window,'GeoPostal','IT');

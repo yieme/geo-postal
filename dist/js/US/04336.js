@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04336"]={"code":"04336","region":"Maine","city":"Augusta","latitude":44.33629,"longitude":-69.74469}}(window,'GeoPostal','US');

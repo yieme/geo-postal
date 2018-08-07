@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71419"]={"code":"71419","region":"Louisiana","city":"Converse","latitude":31.723495,"longitude":-93.637806}}(window,'GeoPostal','US');

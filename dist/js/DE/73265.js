@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73265"]={"code":"73265","region":"Baden-Wurttemberg","city":"Dettingen","latitude":47.73367,"longitude":9.11647}}(window,'GeoPostal','DE');

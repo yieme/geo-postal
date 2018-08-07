@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40045"]={"code":"40045","region":"Kentucky","city":"Milton","latitude":38.71,"longitude":-85.375}}(window,'GeoPostal','US');

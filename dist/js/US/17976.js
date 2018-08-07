@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17976"]={"code":"17976","region":"PA","city":"Shenandoah","latitude":40.8167,"longitude":-76.2035}}(window,'GeoPostal','US');

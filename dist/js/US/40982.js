@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40982"]={"code":"40982","region":"KY","city":"Scalf","latitude":36.9327,"longitude":-83.6901}}(window,'GeoPostal','US');

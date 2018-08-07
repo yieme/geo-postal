@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88354"]={"code":"88354","region":"NM","city":"Weed","latitude":32.8052,"longitude":-105.5063}}(window,'GeoPostal','US');

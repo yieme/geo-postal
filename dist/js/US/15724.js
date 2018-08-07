@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15724"]={"code":"15724","region":"PA","city":"Cherry Tree","latitude":40.7554,"longitude":-78.8474}}(window,'GeoPostal','US');

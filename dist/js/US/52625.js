@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52625"]={"code":"52625","region":"Iowa","city":"Donnellson","latitude":40.64333,"longitude":-91.565}}(window,'GeoPostal','US');

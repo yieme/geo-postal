@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6753"]={"code":"6753","region":"Western Australia","city":"Newman","latitude":-23.35644,"longitude":119.73553}}(window,'GeoPostal','AU');

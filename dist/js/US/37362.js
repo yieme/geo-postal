@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37362"]={"code":"37362","region":"TN","city":"Old Fort","latitude":35.2829,"longitude":-85.2568}}(window,'GeoPostal','US');

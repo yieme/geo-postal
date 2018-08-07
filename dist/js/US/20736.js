@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20736"]={"code":"20736","region":"MD","city":"Owings","latitude":38.6955,"longitude":-76.6061}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74531"]={"code":"74531","region":"Oklahoma","city":"Calvin","latitude":34.834218,"longitude":-96.292154}}(window,'GeoPostal','US');

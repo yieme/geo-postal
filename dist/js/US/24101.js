@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24101"]={"code":"24101","region":"Virginia","city":"Hardy","latitude":37.23194,"longitude":-79.81056}}(window,'GeoPostal','US');

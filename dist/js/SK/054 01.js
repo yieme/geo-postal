@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["054 01"]={"code":"054 01","region":"Presovsky kraj","city":"Levoca","latitude":49.02173,"longitude":20.59212}}(window,'GeoPostal','SK');

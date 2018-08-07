@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69040"]={"code":"69040","region":"Nebraska","city":"Palisade","latitude":40.34833,"longitude":-101.10722}}(window,'GeoPostal','US');

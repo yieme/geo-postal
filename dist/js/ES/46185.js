@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46185"]={"code":"46185","region":"Valenciana, Comunidad","city":"La Pobla de Vallbona","latitude":39.6,"longitude":-0.55}}(window,'GeoPostal','ES');

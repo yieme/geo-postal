@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00795"]={"code":"00795","region":"PR","city":"Juana Diaz","latitude":18.05,"longitude":-66.5}}(window,'GeoPostal','US');

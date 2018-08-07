@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18225"]={"code":"18225","region":"PA","city":"Harleigh","latitude":40.9806,"longitude":-75.9713}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["145"]={"code":"145","region":"Bolivar","city":"Cartagena","latitude":10.39972,"longitude":-75.51444}}(window,'GeoPostal','CO');

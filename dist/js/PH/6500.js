@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6500"]={"code":"6500","region":"Leyte","city":"Panalanoy","latitude":11.25111,"longitude":125.00639}}(window,'GeoPostal','PH');

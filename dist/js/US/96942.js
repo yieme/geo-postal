@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96942"]={"code":"96942","region":"FM","city":"Chuuk","latitude":7.33,"longitude":151.8}}(window,'GeoPostal','US');

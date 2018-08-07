@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67576"]={"code":"67576","region":"Kansas","city":"Saint John","latitude":38.00224,"longitude":-98.76009}}(window,'GeoPostal','US');

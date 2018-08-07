@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21617"]={"code":"21617","region":"Maryland","city":"Centreville","latitude":39.04397,"longitude":-76.067016}}(window,'GeoPostal','US');

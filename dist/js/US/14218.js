@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14218"]={"code":"14218","region":"New York","city":"Lackawanna","latitude":42.82561,"longitude":-78.82337}}(window,'GeoPostal','US');

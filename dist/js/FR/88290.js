@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88290"]={"code":"88290","region":"Grand-Est","city":"Saulxures-sur-Moselotte","latitude":47.94894,"longitude":6.7704}}(window,'GeoPostal','FR');

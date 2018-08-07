@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57003"]={"code":"57003","region":"Jonkopings lan","city":"Vrigstad","latitude":57.35,"longitude":14.46667}}(window,'GeoPostal','SE');

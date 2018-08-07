@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71210"]={"code":"71210","region":"Bourgogne-Franche-Comte","city":"Montchanin","latitude":46.74964,"longitude":4.4707}}(window,'GeoPostal','FR');

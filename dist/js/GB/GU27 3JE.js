@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU27 3JE"]={"code":"GU27 3JE","region":"England","city":"Fernhurst","latitude":51.04873,"longitude":-0.71789}}(window,'GeoPostal','GB');

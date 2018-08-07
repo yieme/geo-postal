@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39422"]={"code":"39422","region":"Mississippi","city":"Bay Springs","latitude":31.943484,"longitude":-89.199967}}(window,'GeoPostal','US');

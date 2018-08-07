@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6410"]={"code":"6410","region":"Western Australia","city":"Yoting","latitude":-31.96667,"longitude":117.61667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0V0"]={"code":"T0B 0V0","region":"Alberta","city":"Chauvin","latitude":52.70015,"longitude":-110.11826}}(window,'GeoPostal','CA');

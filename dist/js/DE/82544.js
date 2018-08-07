@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82544"]={"code":"82544","region":"Bayern","city":"Neufahrn","latitude":47.91513,"longitude":11.4808}}(window,'GeoPostal','DE');

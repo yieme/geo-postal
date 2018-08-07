@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73028"]={"code":"73028","region":"Taurages apskritis","city":"Skaudvile","latitude":55.41667,"longitude":22.61667}}(window,'GeoPostal','LT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56089"]={"code":"56089","region":"MN","city":"Twin Lakes","latitude":43.5593,"longitude":-93.4206}}(window,'GeoPostal','US');

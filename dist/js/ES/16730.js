@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16730"]={"code":"16730","region":"Castilla-La Mancha","city":"Honrubia","latitude":39.61358,"longitude":-2.28077}}(window,'GeoPostal','ES');

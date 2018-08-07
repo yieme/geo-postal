@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16017"]={"code":"16017","region":"Boumerdes","city":"Reghaia","latitude":36.73587,"longitude":3.34018}}(window,'GeoPostal','DZ');

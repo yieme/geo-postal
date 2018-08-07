@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76111"]={"code":"76111","region":"Texas","city":"Haltom City","latitude":32.79957,"longitude":-97.26918}}(window,'GeoPostal','US');

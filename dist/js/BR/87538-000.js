@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87538-000"]={"code":"87538-000","region":"Parana","city":"Alto Piquiri","latitude":-24.02806,"longitude":-53.44056}}(window,'GeoPostal','BR');

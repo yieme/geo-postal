@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62500"]={"code":"62500","region":"Hauts-de-France","city":"Saint-Martin-au-Laert","latitude":50.75179,"longitude":2.24051}}(window,'GeoPostal','FR');

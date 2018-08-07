@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33593"]={"code":"33593","region":"FL","city":"Trilby","latitude":28.4625,"longitude":-82.1948}}(window,'GeoPostal','US');

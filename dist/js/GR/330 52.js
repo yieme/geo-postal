@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 52"]={"code":"330 52","region":"Sterea Ellada","city":"Itea","latitude":38.43333,"longitude":22.41667}}(window,'GeoPostal','GR');

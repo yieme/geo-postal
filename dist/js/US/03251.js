@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03251"]={"code":"03251","region":"New Hampshire","city":"Lincoln","latitude":44.045,"longitude":-71.67056}}(window,'GeoPostal','US');

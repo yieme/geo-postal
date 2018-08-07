@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3163"]={"code":"3163","region":"Victoria","city":"Carnegie","latitude":-37.88867,"longitude":145.05713}}(window,'GeoPostal','AU');

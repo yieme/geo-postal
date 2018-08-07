@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08924"]={"code":"08924","region":"Catalunya","city":"Sant Marti","latitude":41.41814,"longitude":2.19933}}(window,'GeoPostal','ES');

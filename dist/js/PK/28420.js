@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28420"]={"code":"28420","region":"Khyber Pakhtunkhwa","city":"Lakki Marwat","latitude":32.60795,"longitude":70.91142}}(window,'GeoPostal','PK');

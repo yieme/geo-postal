@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 15"]={"code":"763 15","region":"Zlinsky kraj","city":"Vsemina","latitude":49.281,"longitude":17.87682}}(window,'GeoPostal','CZ');

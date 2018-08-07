@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN13 0DT"]={"code":"LN13 0DT","region":"England","city":"Aby","latitude":53.2841,"longitude":0.11484}}(window,'GeoPostal','GB');

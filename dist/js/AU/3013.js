@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3013"]={"code":"3013","region":"Victoria","city":"Yarraville","latitude":-37.81667,"longitude":144.9}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37247"]={"code":"37247","region":"TN","city":"Tn Dept Of Health Environ","latitude":36.16,"longitude":-86.78}}(window,'GeoPostal','US');

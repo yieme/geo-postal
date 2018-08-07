@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO2 0RH"]={"code":"PO2 0RH","region":"England","city":"Mayfield","latitude":51.02013,"longitude":0.25844}}(window,'GeoPostal','GB');

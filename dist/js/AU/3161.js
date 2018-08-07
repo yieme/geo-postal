@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3161"]={"code":"3161","region":"Victoria","city":"Caulfield North","latitude":-37.87255,"longitude":145.02262}}(window,'GeoPostal','AU');

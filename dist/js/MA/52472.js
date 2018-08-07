@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52472"]={"code":"52472","region":"Taza-Al Hoceima-Taounate","city":"Galaz","latitude":34.54424,"longitude":-4.80355}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO18 0NT"]={"code":"PO18 0NT","region":"England","city":"Westhampnett","latitude":50.84811,"longitude":-0.75033}}(window,'GeoPostal','GB');

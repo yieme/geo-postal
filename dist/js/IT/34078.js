@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34078"]={"code":"34078","region":"Friuli-Venezia Giulia","city":"Fogliano Redipuglia","latitude":45.86556,"longitude":13.48222}}(window,'GeoPostal','IT');

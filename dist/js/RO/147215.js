@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147215"]={"code":"147215","region":"Teleorman","city":"Nanov","latitude":44,"longitude":25.3}}(window,'GeoPostal','RO');

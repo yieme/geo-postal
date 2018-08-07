@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24000"]={"code":"24000","region":"Tumbes","city":"Tumbes","latitude":-3.56667,"longitude":-80.44139}}(window,'GeoPostal','PE');

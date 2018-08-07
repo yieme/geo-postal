@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188422"]={"code":"188422","region":"Pskovskaya oblast'","city":"Seredka","latitude":58.15838,"longitude":28.18576}}(window,'GeoPostal','RU');

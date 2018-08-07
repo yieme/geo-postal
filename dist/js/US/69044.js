@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69044"]={"code":"69044","region":"Nebraska","city":"Trenton","latitude":40.17555,"longitude":-101.01294}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84100"]={"code":"84100","region":"Bayern","city":"Niederaichbach","latitude":48.6,"longitude":12.31667}}(window,'GeoPostal','DE');

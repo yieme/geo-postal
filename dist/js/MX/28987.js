@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28987"]={"code":"28987","region":"Chihuahua","city":"Chihuahua","latitude":28.63333,"longitude":-106.08333}}(window,'GeoPostal','MX');

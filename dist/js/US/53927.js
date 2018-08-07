@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53927"]={"code":"53927","region":"WI","city":"Dellwood","latitude":43.9555,"longitude":-89.9418}}(window,'GeoPostal','US');

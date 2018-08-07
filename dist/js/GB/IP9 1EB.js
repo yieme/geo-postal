@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 1EB"]={"code":"IP9 1EB","region":"England","city":"Chelmondiston","latitude":51.98932,"longitude":1.21141}}(window,'GeoPostal','GB');

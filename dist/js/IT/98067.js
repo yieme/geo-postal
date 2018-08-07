@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98067"]={"code":"98067","region":"Sicilia","city":"Raccuia","latitude":38.05526,"longitude":14.90958}}(window,'GeoPostal','IT');

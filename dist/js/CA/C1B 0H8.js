@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1B 0H8"]={"code":"C1B 0H8","region":"Prince Edward Island","city":"Alexandra","latitude":46.19592,"longitude":-63.03058}}(window,'GeoPostal','CA');

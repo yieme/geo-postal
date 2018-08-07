@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43537"]={"code":"43537","region":"Ohio","city":"Maumee","latitude":41.578111,"longitude":-83.664156}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171205"]={"code":"171205","region":"Himachal Pradesh","city":"Jubbal","latitude":31.11667,"longitude":77.66667}}(window,'GeoPostal','IN');

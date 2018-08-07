@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83525"]={"code":"83525","region":"ID","city":"Elk City","latitude":45.7896,"longitude":-115.5024}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77600"]={"code":"77600","region":"Edirne","city":"Kesan","latitude":40.85583,"longitude":26.63028}}(window,'GeoPostal','TR');

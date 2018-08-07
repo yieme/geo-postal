@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["997-1205"]={"code":"997-1205","region":"Yamagata","city":"Tsuruoka","latitude":38.717,"longitude":139.817}}(window,'GeoPostal','JP');

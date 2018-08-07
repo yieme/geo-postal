@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40311"]={"code":"40311","region":"KY","city":"Carlisle","latitude":38.3212,"longitude":-84.0279}}(window,'GeoPostal','US');

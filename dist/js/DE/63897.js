@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63897"]={"code":"63897","region":"Bayern","city":"Miltenberg","latitude":49.70452,"longitude":9.26725}}(window,'GeoPostal','DE');

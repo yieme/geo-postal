@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1H0"]={"code":"K0J 1H0","region":"Ontario","city":"Cobden","latitude":45.63341,"longitude":-76.88273}}(window,'GeoPostal','CA');

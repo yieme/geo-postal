@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37682"]={"code":"37682","region":"Tennessee","city":"Milligan College","latitude":36.3023,"longitude":-82.29676}}(window,'GeoPostal','US');

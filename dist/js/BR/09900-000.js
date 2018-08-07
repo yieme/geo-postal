@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09900-000"]={"code":"09900-000","region":"Sao Paulo","city":"Sao Bernardo do Campo","latitude":-23.69389,"longitude":-46.565}}(window,'GeoPostal','BR');

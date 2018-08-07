@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59926"]={"code":"59926","region":"MT","city":"Martin City","latitude":48.3916,"longitude":-114.0382}}(window,'GeoPostal','US');

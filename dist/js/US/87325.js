@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87325"]={"code":"87325","region":"NM","city":"Tohatchi","latitude":36.0021,"longitude":-108.6229}}(window,'GeoPostal','US');

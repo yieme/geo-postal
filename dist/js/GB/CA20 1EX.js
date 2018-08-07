@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA20 1EX"]={"code":"CA20 1EX","region":"England","city":"Wasdale Head","latitude":54.46951,"longitude":-3.25573}}(window,'GeoPostal','GB');

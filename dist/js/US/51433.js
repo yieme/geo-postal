@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51433"]={"code":"51433","region":"Iowa","city":"Auburn","latitude":42.2712,"longitude":-94.89174}}(window,'GeoPostal','US');

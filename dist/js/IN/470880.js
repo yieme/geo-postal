@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["470880"]={"code":"470880","region":"Madhya Pradesh","city":"Deori Khas","latitude":23.4,"longitude":79.01667}}(window,'GeoPostal','IN');

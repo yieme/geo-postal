@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241500"]={"code":"241500","region":"Moskovskaya oblast'","city":"Krasnyy Tkach","latitude":55.4721,"longitude":39.08017}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["421131"]={"code":"421131","region":"Hunan","city":"Yunji","latitude":26.6932,"longitude":112.66748}}(window,'GeoPostal','CN');

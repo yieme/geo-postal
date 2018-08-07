@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX2 9PQ"]={"code":"OX2 9PQ","region":"England","city":"Cumnor","latitude":51.73442,"longitude":-1.33304}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93497"]={"code":"93497","region":"Bayern","city":"Rhanwalting","latitude":49.25641,"longitude":12.64917}}(window,'GeoPostal','DE');

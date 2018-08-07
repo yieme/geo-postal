@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8330"]={"code":"8330","region":"Metlika","city":"Metlika","latitude":45.64722,"longitude":15.31417}}(window,'GeoPostal','SI');

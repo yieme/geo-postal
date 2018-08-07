@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7712"]={"code":"7712","region":"Hainaut","city":"Mouscron","latitude":50.74497,"longitude":3.20639}}(window,'GeoPostal','BE');

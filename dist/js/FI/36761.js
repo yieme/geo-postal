@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36761"]={"code":"36761","region":"Pirkanmaa","city":"Luopioinen","latitude":61.36293,"longitude":24.66781}}(window,'GeoPostal','FI');

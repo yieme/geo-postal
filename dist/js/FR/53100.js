@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53100"]={"code":"53100","region":"Pays-de-la-Loire","city":"Saint-Georges-Buttavent","latitude":48.31018,"longitude":-0.69372}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28300"]={"code":"28300","region":"Centre-Val de Loire","city":"Jouy","latitude":48.51005,"longitude":1.54501}}(window,'GeoPostal','FR');

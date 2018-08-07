@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5103"]={"code":"5103","region":"Aargau","city":"Birr","latitude":47.43333,"longitude":8.2}}(window,'GeoPostal','CH');

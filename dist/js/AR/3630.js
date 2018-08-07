@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3630"]={"code":"3630","region":"Formosa","city":"Las Lomitas","latitude":-24.70955,"longitude":-60.59303}}(window,'GeoPostal','AR');

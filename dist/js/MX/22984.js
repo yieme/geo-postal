@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22984"]={"code":"22984","region":"Baja California","city":"San Luis","latitude":28.43333,"longitude":-113.75}}(window,'GeoPostal','MX');

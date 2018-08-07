@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88131"]={"code":"88131","region":"Bayern","city":"Hoyren","latitude":47.56419,"longitude":9.68292}}(window,'GeoPostal','DE');

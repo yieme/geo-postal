@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917-0037"]={"code":"917-0037","region":"Fukui","city":"Obama","latitude":35.5,"longitude":135.75}}(window,'GeoPostal','JP');

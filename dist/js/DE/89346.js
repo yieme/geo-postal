@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89346"]={"code":"89346","region":"Bayern","city":"Hetschwang","latitude":48.37393,"longitude":10.20287}}(window,'GeoPostal','DE');

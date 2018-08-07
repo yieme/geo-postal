@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30730"]={"code":"30730","region":"GA","city":"Lyerly","latitude":34.403,"longitude":-85.4038}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00060"]={"code":"00060","region":"Lazio","city":"Nazzano","latitude":42.23113,"longitude":12.59628}}(window,'GeoPostal','IT');

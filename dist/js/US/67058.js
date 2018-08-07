@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67058"]={"code":"67058","region":"Kansas","city":"Harper","latitude":37.285266,"longitude":-98.02549}}(window,'GeoPostal','US');

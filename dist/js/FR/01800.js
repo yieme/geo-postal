@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01800"]={"code":"01800","region":"Auvergne-Rhone-Alpes","city":"Meximieux","latitude":45.90841,"longitude":5.19527}}(window,'GeoPostal','FR');

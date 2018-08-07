@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19435"]={"code":"19435","region":"Pennsylvania","city":"New Hanover","latitude":40.325278,"longitude":-75.548056}}(window,'GeoPostal','US');

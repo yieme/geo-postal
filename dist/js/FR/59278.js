@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59278"]={"code":"59278","region":"Hauts-de-France","city":"Escautpont","latitude":50.41875,"longitude":3.55341}}(window,'GeoPostal','FR');

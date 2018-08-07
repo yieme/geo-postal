@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11577"]={"code":"11577","region":"New York","city":"Roslyn Heights","latitude":40.784659,"longitude":-73.639497}}(window,'GeoPostal','US');

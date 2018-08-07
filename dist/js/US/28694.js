@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28694"]={"code":"28694","region":"North Carolina","city":"West Jefferson","latitude":36.40374,"longitude":-81.49288}}(window,'GeoPostal','US');

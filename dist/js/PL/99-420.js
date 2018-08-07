@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99-420"]={"code":"99-420","region":"Lodzkie","city":"Lyszkowice","latitude":51.98551,"longitude":19.90654}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75641"]={"code":"75641","region":"TX","city":"Easton","latitude":32.3874,"longitude":-94.583}}(window,'GeoPostal','US');

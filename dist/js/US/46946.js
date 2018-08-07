@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46946"]={"code":"46946","region":"IN","city":"Liberty Mills","latitude":41.0356,"longitude":-85.7358}}(window,'GeoPostal','US');

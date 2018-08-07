@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96061"]={"code":"96061","region":"California","city":"Mill Creek","latitude":40.32639,"longitude":-121.52278}}(window,'GeoPostal','US');

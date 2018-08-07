@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["574 00"]={"code":"574 00","region":"Kentriki Makedonia","city":"Sindos","latitude":40.66972,"longitude":22.80472}}(window,'GeoPostal','GR');

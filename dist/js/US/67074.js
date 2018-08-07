@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67074"]={"code":"67074","region":"Kansas","city":"Leon","latitude":37.68944,"longitude":-96.78306}}(window,'GeoPostal','US');

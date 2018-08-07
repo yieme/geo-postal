@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68047"]={"code":"68047","region":"Nebraska","city":"Pender","latitude":42.11416,"longitude":-96.70726}}(window,'GeoPostal','US');

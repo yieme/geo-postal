@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04072"]={"code":"04072","region":"Maine","city":"Saco","latitude":43.50092,"longitude":-70.44283}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["295 01"]={"code":"295 01","region":"Stredocesky kraj","city":"Mnichovo Hradiste","latitude":50.5272,"longitude":14.97134}}(window,'GeoPostal','CZ');

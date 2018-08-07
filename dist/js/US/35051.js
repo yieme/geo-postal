@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35051"]={"code":"35051","region":"Alabama","city":"Columbiana","latitude":33.182252,"longitude":-86.607192}}(window,'GeoPostal','US');

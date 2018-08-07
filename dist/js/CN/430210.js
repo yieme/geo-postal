@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["430210"]={"code":"430210","region":"Hubei","city":"Fasi","latitude":30.1564,"longitude":114.1564}}(window,'GeoPostal','CN');

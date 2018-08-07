@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["223800"]={"code":"223800","region":"Jiangsu","city":"Suqian","latitude":33.933333,"longitude":118.283333}}(window,'GeoPostal','CN');

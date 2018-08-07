@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02149"]={"code":"02149","region":"Massachusetts","city":"Everett","latitude":42.40843,"longitude":-71.05366}}(window,'GeoPostal','US');

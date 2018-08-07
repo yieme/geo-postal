@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69850"]={"code":"69850","region":"Auvergne-Rhone-Alpes","city":"Saint-Martin-en-Haut","latitude":45.65969,"longitude":4.56153}}(window,'GeoPostal','FR');

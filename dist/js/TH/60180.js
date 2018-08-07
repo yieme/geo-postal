@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60180"]={"code":"60180","region":"Nakhon Sawan","city":"Banphot Phisai","latitude":15.93094,"longitude":99.9816}}(window,'GeoPostal','TH');

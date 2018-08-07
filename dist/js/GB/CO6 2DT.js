@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO6 2DT"]={"code":"CO6 2DT","region":"England","city":"Chappel","latitude":51.92126,"longitude":0.75342}}(window,'GeoPostal','GB');

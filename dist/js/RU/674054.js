@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674054"]={"code":"674054","region":"Zabaykal'skiy kray","city":"Drovyanaya","latitude":51.58333,"longitude":113.03333}}(window,'GeoPostal','RU');

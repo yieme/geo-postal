@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54319"]={"code":"54319","region":"Grand-Est","city":"Homecourt","latitude":49.22111,"longitude":5.98445}}(window,'GeoPostal','FR');

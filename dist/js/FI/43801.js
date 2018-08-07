@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43801"]={"code":"43801","region":"Pohjanmaa","city":"Kivijarvi","latitude":63.63829,"longitude":23.31163}}(window,'GeoPostal','FI');

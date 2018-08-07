@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56528"]={"code":"56528","region":"Minnesota","city":"Dent","latitude":46.55444,"longitude":-95.71833}}(window,'GeoPostal','US');

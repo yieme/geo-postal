@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 1H0"]={"code":"T0M 1H0","region":"Alberta","city":"Leslieville","latitude":52.38341,"longitude":-114.60203}}(window,'GeoPostal','CA');

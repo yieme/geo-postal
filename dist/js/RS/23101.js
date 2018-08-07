@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23101"]={"code":"23101","region":"Srednjebanatski okrug","city":"Zrenjanin","latitude":45.38361,"longitude":20.38194}}(window,'GeoPostal','RS');

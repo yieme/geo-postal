@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG32 3NH"]={"code":"NG32 3NH","region":"England","city":"Culverthorpe","latitude":52.9499,"longitude":-0.47674}}(window,'GeoPostal','GB');

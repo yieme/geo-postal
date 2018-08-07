@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB7 5RT"]={"code":"CB7 5RT","region":"England","city":"Isleham","latitude":52.34289,"longitude":0.41212}}(window,'GeoPostal','GB');

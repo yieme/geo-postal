@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79350"]={"code":"79350","region":"Dalarnas lan","city":"Leksand","latitude":60.73387,"longitude":15.00316}}(window,'GeoPostal','SE');

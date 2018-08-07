@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64570"]={"code":"64570","region":"Nouvelle-Aquitaine","city":"Arette","latitude":43.1,"longitude":-0.71667}}(window,'GeoPostal','FR');

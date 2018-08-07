@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238000"]={"code":"238000","region":"Anhui","city":"Chaohu","latitude":31.6,"longitude":117.86667}}(window,'GeoPostal','CN');

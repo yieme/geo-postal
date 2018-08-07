@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99352"]={"code":"99352","region":"Washington","city":"Richland","latitude":46.28569,"longitude":-119.28446}}(window,'GeoPostal','US');

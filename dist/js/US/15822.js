@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15822"]={"code":"15822","region":"PA","city":"Brandy Camp","latitude":41.3209,"longitude":-78.6875}}(window,'GeoPostal','US');

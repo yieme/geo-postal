@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37301"]={"code":"37301","region":"Tennessee","city":"Altamont","latitude":35.42952,"longitude":-85.72303}}(window,'GeoPostal','US');

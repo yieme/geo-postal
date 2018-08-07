@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G9T 3N7"]={"code":"G9T 3N7","region":"Quebec","city":"Sainte-Flore","latitude":46.61395,"longitude":-72.73693}}(window,'GeoPostal','CA');

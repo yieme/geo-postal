@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5662"]={"code":"5662","region":"Salzburg","city":"Taxenbach","latitude":47.28333,"longitude":12.96667}}(window,'GeoPostal','AT');

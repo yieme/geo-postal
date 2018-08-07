@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55082"]={"code":"55082","region":"Minnesota","city":"Stillwater","latitude":45.05636,"longitude":-92.80604}}(window,'GeoPostal','US');

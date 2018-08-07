@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08220"]={"code":"08220","region":"Grand-Est","city":"Saint-Quentin-le-Petit","latitude":49.5844,"longitude":4.0797}}(window,'GeoPostal','FR');

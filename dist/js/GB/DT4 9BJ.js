@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT4 9BJ"]={"code":"DT4 9BJ","region":"England","city":"Weymouth","latitude":50.61136,"longitude":-2.45334}}(window,'GeoPostal','GB');

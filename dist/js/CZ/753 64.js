@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["753 64"]={"code":"753 64","region":"Olomoucky kraj","city":"Belotin","latitude":49.5912,"longitude":17.80654}}(window,'GeoPostal','CZ');

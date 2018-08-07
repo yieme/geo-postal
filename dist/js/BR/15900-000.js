@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15900-000"]={"code":"15900-000","region":"Sao Paulo","city":"Taquaritinga","latitude":-21.40611,"longitude":-48.50472}}(window,'GeoPostal','BR');

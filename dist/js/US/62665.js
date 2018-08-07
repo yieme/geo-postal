@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62665"]={"code":"62665","region":"IL","city":"Meredosia","latitude":39.8173,"longitude":-90.5339}}(window,'GeoPostal','US');

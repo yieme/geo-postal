@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47390"]={"code":"47390","region":"Punjab","city":"Chakwal","latitude":32.93338,"longitude":72.85853}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412400"]={"code":"412400","region":"Hunan","city":"Chaling","latitude":26.78932,"longitude":113.57592}}(window,'GeoPostal','CN');

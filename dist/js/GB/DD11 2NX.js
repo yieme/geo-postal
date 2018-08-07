@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD11 2NX"]={"code":"DD11 2NX","region":"Scotland","city":"Arbirlot","latitude":56.55477,"longitude":-2.65067}}(window,'GeoPostal','GB');

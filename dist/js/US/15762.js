@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15762"]={"code":"15762","region":"PA","city":"Nicktown","latitude":40.6016,"longitude":-78.8114}}(window,'GeoPostal','US');

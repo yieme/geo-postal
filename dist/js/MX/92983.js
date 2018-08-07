@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92983"]={"code":"92983","region":"Veracruz de Ignacio de la Llave","city":"Alto Lucero","latitude":19.61667,"longitude":-96.71667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54295"]={"code":"54295","region":"Vastra Gotalands lan","city":"Mariestad","latitude":58.70971,"longitude":13.82367}}(window,'GeoPostal','SE');

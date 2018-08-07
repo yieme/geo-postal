@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM20 3NL"]={"code":"RM20 3NL","region":"England","city":"Stanton","latitude":52,"longitude":-1.9}}(window,'GeoPostal','GB');

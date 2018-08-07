@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28367"]={"code":"28367","region":"NC","city":"Norman","latitude":35.1704,"longitude":-79.7228}}(window,'GeoPostal','US');

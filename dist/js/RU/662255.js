@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662255"]={"code":"662255","region":"Krasnoyarskiy kray","city":"Uzhur","latitude":55.30361,"longitude":89.83389}}(window,'GeoPostal','RU');

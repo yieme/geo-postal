@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54626"]={"code":"54626","region":"WI","city":"Eastman","latitude":43.1959,"longitude":-91.0193}}(window,'GeoPostal','US');

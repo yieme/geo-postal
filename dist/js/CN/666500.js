@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666500"]={"code":"666500","region":"Yunnan","city":"Enle","latitude":23.96049,"longitude":101.08265}}(window,'GeoPostal','CN');

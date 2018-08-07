@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX37 9AX"]={"code":"EX37 9AX","region":"England","city":"High Bickington","latitude":50.9673,"longitude":-3.99425}}(window,'GeoPostal','GB');

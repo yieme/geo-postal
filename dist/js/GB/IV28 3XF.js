@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV28 3XF"]={"code":"IV28 3XF","region":"Scotland","city":"Rogart","latitude":58.00794,"longitude":-4.14749}}(window,'GeoPostal','GB');

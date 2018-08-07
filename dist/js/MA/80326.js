@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80326"]={"code":"80326","region":"Tadla-Azilal","city":"Ifrane","latitude":31.70217,"longitude":-6.3494}}(window,'GeoPostal','MA');

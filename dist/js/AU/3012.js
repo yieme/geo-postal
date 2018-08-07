@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3012"]={"code":"3012","region":"Victoria","city":"Tottenham","latitude":-37.79853,"longitude":144.86263}}(window,'GeoPostal','AU');

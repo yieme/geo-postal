@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224233"]={"code":"224233","region":"Jiangsu","city":"Tangyang","latitude":32.65,"longitude":120.7}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08835"]={"code":"08835","region":"NJ","city":"Manville","latitude":40.5399,"longitude":-74.5934}}(window,'GeoPostal','US');

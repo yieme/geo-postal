@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391201"]={"code":"391201","region":"Ryazanskaya oblast'","city":"Korablino","latitude":53.91639,"longitude":40.01333}}(window,'GeoPostal','RU');

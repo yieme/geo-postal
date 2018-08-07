@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76400"]={"code":"76400","region":"Normandie","city":"Epreville","latitude":49.7078,"longitude":0.3675}}(window,'GeoPostal','FR');

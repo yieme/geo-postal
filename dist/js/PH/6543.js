@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6543"]={"code":"6543","region":"Leyte","city":"Catmon","latitude":11.5238,"longitude":124.423}}(window,'GeoPostal','PH');

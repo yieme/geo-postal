@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74638"]={"code":"74638","region":"Baden-Wurttemberg","city":"Streithof","latitude":49.18389,"longitude":9.63042}}(window,'GeoPostal','DE');

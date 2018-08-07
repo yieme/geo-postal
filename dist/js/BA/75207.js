@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75207"]={"code":"75207","region":"Federacija Bosne i Hercegovine","city":"Tojsici","latitude":44.50111,"longitude":18.78556}}(window,'GeoPostal','BA');

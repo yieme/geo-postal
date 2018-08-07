@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY24 5DP"]={"code":"SY24 5DP","region":"Wales","city":"Elerch","latitude":52.46008,"longitude":-3.93922}}(window,'GeoPostal','GB');

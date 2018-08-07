@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18458"]={"code":"18458","region":"Pennsylvania","city":"Shohola","latitude":41.418948,"longitude":-74.910748}}(window,'GeoPostal','US');

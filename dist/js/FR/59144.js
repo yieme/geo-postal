@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59144"]={"code":"59144","region":"Hauts-de-France","city":"Jenlain","latitude":50.31164,"longitude":3.62872}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39170"]={"code":"39170","region":"Cantabria","city":"San Miguel de Meruelo","latitude":43.46211,"longitude":-3.58877}}(window,'GeoPostal','ES');

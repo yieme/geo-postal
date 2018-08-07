@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249895"]={"code":"249895","region":"Kaluzhskaya oblast'","city":"Iznoski","latitude":54.98806,"longitude":35.31083}}(window,'GeoPostal','RU');

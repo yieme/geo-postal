@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3020"]={"code":"3020","region":"Santa Fe","city":"Laguna Paiva","latitude":-31.30391,"longitude":-60.65894}}(window,'GeoPostal','AR');

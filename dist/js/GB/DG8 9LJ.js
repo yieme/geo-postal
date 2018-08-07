@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 9LJ"]={"code":"DG8 9LJ","region":"Scotland","city":"Monreith","latitude":54.73669,"longitude":-4.5488}}(window,'GeoPostal','GB');

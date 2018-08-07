@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87525"]={"code":"87525","region":"New Mexico","city":"Taos Ski Valley","latitude":36.40635,"longitude":-105.576125}}(window,'GeoPostal','US');

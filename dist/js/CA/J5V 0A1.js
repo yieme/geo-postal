@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J5V 0A1"]={"code":"J5V 0A1","region":"Quebec","city":"Louiseville","latitude":46.25594,"longitude":-72.94145}}(window,'GeoPostal','CA');

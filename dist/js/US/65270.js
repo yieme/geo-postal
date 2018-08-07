@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65270"]={"code":"65270","region":"Missouri","city":"Moberly","latitude":39.41837,"longitude":-92.43824}}(window,'GeoPostal','US');

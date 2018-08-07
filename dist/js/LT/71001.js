@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71001"]={"code":"71001","region":"Marijampoles apskritis","city":"Sakiai","latitude":54.95472,"longitude":23.03583}}(window,'GeoPostal','LT');

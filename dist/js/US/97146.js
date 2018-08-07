@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97146"]={"code":"97146","region":"Oregon","city":"Warrenton","latitude":46.1651,"longitude":-123.92376}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["831 03"]={"code":"831 03","region":"Voreio Aigaio","city":"Pythagoreion","latitude":37.69194,"longitude":26.94833}}(window,'GeoPostal','GR');

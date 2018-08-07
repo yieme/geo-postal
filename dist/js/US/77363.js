@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77363"]={"code":"77363","region":"TX","city":"Plantersville","latitude":30.2969,"longitude":-95.8498}}(window,'GeoPostal','US');

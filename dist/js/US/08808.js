@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08808"]={"code":"08808","region":"New Jersey","city":"Broadway","latitude":40.724923,"longitude":-75.047808}}(window,'GeoPostal','US');

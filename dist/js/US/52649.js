@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52649"]={"code":"52649","region":"Iowa","city":"Salem","latitude":40.853876,"longitude":-91.619471}}(window,'GeoPostal','US');

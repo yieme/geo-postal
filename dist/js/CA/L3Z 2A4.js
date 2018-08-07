@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L3Z 2A4"]={"code":"L3Z 2A4","region":"Ontario","city":"Bradford West Gwillimbury","latitude":44.11681,"longitude":-79.61633}}(window,'GeoPostal','CA');

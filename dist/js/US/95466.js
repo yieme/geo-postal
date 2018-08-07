@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95466"]={"code":"95466","region":"CA","city":"Philo","latitude":39.0657,"longitude":-123.445}}(window,'GeoPostal','US');

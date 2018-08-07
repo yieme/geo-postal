@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07735"]={"code":"07735","region":"New Jersey","city":"Union Beach","latitude":40.4382,"longitude":-74.20194}}(window,'GeoPostal','US');

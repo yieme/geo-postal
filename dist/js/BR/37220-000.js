@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37220-000"]={"code":"37220-000","region":"Minas Gerais","city":"Bom Sucesso","latitude":-21.03306,"longitude":-44.75806}}(window,'GeoPostal','BR');

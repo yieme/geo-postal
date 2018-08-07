@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98251"]={"code":"98251","region":"WA","city":"Gold Bar","latitude":47.8331,"longitude":-121.6365}}(window,'GeoPostal','US');

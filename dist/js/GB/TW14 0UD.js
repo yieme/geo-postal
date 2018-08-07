@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW14 0UD"]={"code":"TW14 0UD","region":"England","city":"Feltham","latitude":50.96667,"longitude":-3.1}}(window,'GeoPostal','GB');

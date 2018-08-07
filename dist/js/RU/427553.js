@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427553"]={"code":"427553","region":"Udmurtskaya Respublika","city":"Balezino","latitude":57.97963,"longitude":53.01057}}(window,'GeoPostal','RU');

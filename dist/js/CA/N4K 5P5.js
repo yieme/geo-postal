@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4K 5P5"]={"code":"N4K 5P5","region":"Ontario","city":"Owen Sound","latitude":44.566101,"longitude":-80.940868}}(window,'GeoPostal','CA');

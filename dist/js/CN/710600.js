@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["710600"]={"code":"710600","region":"Shaanxi","city":"Lintong","latitude":34.37803,"longitude":109.20892}}(window,'GeoPostal','CN');

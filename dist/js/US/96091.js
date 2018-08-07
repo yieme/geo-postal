@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96091"]={"code":"96091","region":"California","city":"Trinity Center","latitude":40.98417,"longitude":-122.70833}}(window,'GeoPostal','US');

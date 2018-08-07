@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45014"]={"code":"45014","region":"Veneto","city":"Porto Viro","latitude":45.01667,"longitude":12.21667}}(window,'GeoPostal','IT');

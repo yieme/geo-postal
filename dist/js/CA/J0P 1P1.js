@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1P1"]={"code":"J0P 1P1","region":"Quebec","city":"Tres-Saint-Redempteur","latitude":45.49944,"longitude":-74.29952}}(window,'GeoPostal','CA');

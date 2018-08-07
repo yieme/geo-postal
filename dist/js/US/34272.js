@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34272"]={"code":"34272","region":"FL","city":"Laurel","latitude":27.147,"longitude":-82.4255}}(window,'GeoPostal','US');

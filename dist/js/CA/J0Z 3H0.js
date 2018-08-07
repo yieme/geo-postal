@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 3H0"]={"code":"J0Z 3H0","region":"Quebec","city":"Remigny","latitude":47.76686,"longitude":-79.19964}}(window,'GeoPostal','CA');

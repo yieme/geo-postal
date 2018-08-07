@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86092"]={"code":"86092","region":"Molise","city":"Roccamandolfi","latitude":41.49712,"longitude":14.35382}}(window,'GeoPostal','IT');

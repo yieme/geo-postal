@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75689"]={"code":"75689","region":"TX","city":"Selman City","latitude":32.1826,"longitude":-94.9355}}(window,'GeoPostal','US');

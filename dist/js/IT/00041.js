@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00041"]={"code":"00041","region":"Lazio","city":"Albano Laziale","latitude":41.72873,"longitude":12.6608}}(window,'GeoPostal','IT');

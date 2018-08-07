@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV8 8PF"]={"code":"IV8 8PF","region":"Scotland","city":"Belmaduthy","latitude":57.56667,"longitude":-4.26667}}(window,'GeoPostal','GB');

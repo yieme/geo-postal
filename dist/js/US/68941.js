@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68941"]={"code":"68941","region":"NE","city":"Glenvil","latitude":40.4931,"longitude":-98.2465}}(window,'GeoPostal','US');

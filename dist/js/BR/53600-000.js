@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53600-000"]={"code":"53600-000","region":"Pernambuco","city":"Igarassu","latitude":-7.83417,"longitude":-34.90639}}(window,'GeoPostal','BR');

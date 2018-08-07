@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79036"]={"code":"79036","region":"Texas","city":"Fritch","latitude":35.63977,"longitude":-101.60323}}(window,'GeoPostal','US');

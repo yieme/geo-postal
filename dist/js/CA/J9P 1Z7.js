@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9P 1Z7"]={"code":"J9P 1Z7","region":"Quebec","city":"Bourlamaque","latitude":48.10018,"longitude":-77.76619}}(window,'GeoPostal','CA');

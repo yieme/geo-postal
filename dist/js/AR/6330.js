@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"La Pampa","city":"Catrilo","latitude":-36.40598,"longitude":-63.42168}}(window,'GeoPostal','AR');

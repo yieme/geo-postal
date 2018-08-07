@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67111"]={"code":"67111","region":"Kansas","city":"Murdock","latitude":37.604212,"longitude":-97.971881}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68317"]={"code":"68317","region":"Grand-Est","city":"Illzach","latitude":47.78088,"longitude":7.34662}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1655"]={"code":"1655","region":"New South Wales","city":"Manly","latitude":-33.79798,"longitude":151.28826}}(window,'GeoPostal','AU');

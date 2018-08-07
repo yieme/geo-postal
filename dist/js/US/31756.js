@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31756"]={"code":"31756","region":"GA","city":"Hartsfield","latitude":31.2173,"longitude":-83.9704}}(window,'GeoPostal','US');

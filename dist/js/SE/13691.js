@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13691"]={"code":"13691","region":"Stockholms lan","city":"Haninge","latitude":59.16775,"longitude":18.14478}}(window,'GeoPostal','SE');

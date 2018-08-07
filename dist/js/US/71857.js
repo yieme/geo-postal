@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71857"]={"code":"71857","region":"Arkansas","city":"Prescott","latitude":33.80261,"longitude":-93.38101}}(window,'GeoPostal','US');

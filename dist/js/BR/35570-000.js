@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35570-000"]={"code":"35570-000","region":"Minas Gerais","city":"Formiga","latitude":-20.46444,"longitude":-45.42639}}(window,'GeoPostal','BR');

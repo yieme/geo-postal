@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["412415"]={"code":"412415","region":"Maharashtra","city":"Pune","latitude":18.51957,"longitude":73.85535}}(window,'GeoPostal','IN');

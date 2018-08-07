@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04019"]={"code":"04019","region":"Lazio","city":"Terracina","latitude":41.28967,"longitude":13.24127}}(window,'GeoPostal','IT');

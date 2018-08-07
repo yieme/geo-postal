@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98711"]={"code":"98711","region":"Thuringen","city":"Vesser","latitude":50.59519,"longitude":10.78953}}(window,'GeoPostal','DE');

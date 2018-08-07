@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["116"]={"code":"116","region":"Antananarivo","city":"Manjakandriana","latitude":-18.91667,"longitude":47.8}}(window,'GeoPostal','MG');

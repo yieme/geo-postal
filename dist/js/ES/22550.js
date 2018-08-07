@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22550"]={"code":"22550","region":"Aragon","city":"Tamarit de Llitera / Tamarite de Litera","latitude":41.8691,"longitude":0.42214}}(window,'GeoPostal','ES');

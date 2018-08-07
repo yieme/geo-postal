@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67859"]={"code":"67859","region":"KS","city":"Kismet","latitude":37.2042,"longitude":-100.7014}}(window,'GeoPostal','US');

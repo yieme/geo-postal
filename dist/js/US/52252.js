@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52252"]={"code":"52252","region":"IA","city":"Langworthy","latitude":42.192,"longitude":-91.2258}}(window,'GeoPostal','US');

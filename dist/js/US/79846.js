@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79846"]={"code":"79846","region":"TX","city":"Redford","latitude":29.4702,"longitude":-104.0055}}(window,'GeoPostal','US');

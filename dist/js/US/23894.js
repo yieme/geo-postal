@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23894"]={"code":"23894","region":"Virginia","city":"Wilsons","latitude":37.1305,"longitude":-77.8521}}(window,'GeoPostal','US');

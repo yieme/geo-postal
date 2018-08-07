@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15764"]={"code":"15764","region":"PA","city":"Oliveburg","latitude":40.9926,"longitude":-79.0291}}(window,'GeoPostal','US');

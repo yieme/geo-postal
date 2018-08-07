@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456449"]={"code":"456449","region":"Chelyabinskaya oblast'","city":"Chebarkul'","latitude":54.9749,"longitude":60.3633}}(window,'GeoPostal','RU');

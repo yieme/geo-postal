@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78024"]={"code":"78024","region":"Ivano-Frankivska oblast","city":"Dolyna","latitude":48.9733,"longitude":24.00944}}(window,'GeoPostal','UA');

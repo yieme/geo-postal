@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL16 4DA"]={"code":"LL16 4DA","region":"Wales","city":"Bodfari","latitude":53.2199,"longitude":-3.36092}}(window,'GeoPostal','GB');

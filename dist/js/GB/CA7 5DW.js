@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA7 5DW"]={"code":"CA7 5DW","region":"England","city":"Drumburgh","latitude":54.92842,"longitude":-3.15016}}(window,'GeoPostal','GB');

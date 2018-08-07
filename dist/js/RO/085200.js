@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["085200"]={"code":"085200","region":"Giurgiu","city":"Mihailesti","latitude":44.32667,"longitude":25.90833}}(window,'GeoPostal','RO');

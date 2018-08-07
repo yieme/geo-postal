@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37116"]={"code":"37116","region":"TN","city":"Madison","latitude":36.1866,"longitude":-86.7852}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663977"]={"code":"663977","region":"Krasnoyarskiy kray","city":"Ural","latitude":55.90778,"longitude":94.74639}}(window,'GeoPostal','RU');

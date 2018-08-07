@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20213"]={"code":"20213","region":"Corse","city":"Penta-di-Casinca","latitude":42.46687,"longitude":9.45902}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16059"]={"code":"16059","region":"Ciudad de Mexico","city":"Xochimilco","latitude":19.26222,"longitude":-99.1075}}(window,'GeoPostal','MX');

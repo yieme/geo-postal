@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41030"]={"code":"41030","region":"KY","city":"Crittenden","latitude":38.7741,"longitude":-84.5982}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96720"]={"code":"96720","region":"Hawaii","city":"Hilo","latitude":19.72972,"longitude":-155.09}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68842"]={"code":"68842","region":"Nebraska","city":"Greeley","latitude":41.550463,"longitude":-98.534196}}(window,'GeoPostal','US');

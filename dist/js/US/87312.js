@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87312"]={"code":"87312","region":"NM","city":"Continental Divide","latitude":35.4226,"longitude":-108.323}}(window,'GeoPostal','US');

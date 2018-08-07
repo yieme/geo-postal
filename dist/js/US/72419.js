@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72419"]={"code":"72419","region":"AR","city":"Caraway","latitude":35.759,"longitude":-90.3358}}(window,'GeoPostal','US');

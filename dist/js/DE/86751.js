@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86751"]={"code":"86751","region":"Bayern","city":"Monchsdeggingen","latitude":48.77605,"longitude":10.58043}}(window,'GeoPostal','DE');

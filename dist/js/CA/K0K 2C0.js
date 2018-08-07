@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 2C0"]={"code":"K0K 2C0","region":"Ontario","city":"Frankford","latitude":44.20012,"longitude":-77.59948}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68924"]={"code":"68924","region":"NE","city":"Axtell","latitude":40.5269,"longitude":-99.1169}}(window,'GeoPostal','US');

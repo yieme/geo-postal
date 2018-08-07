@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96931"]={"code":"96931","region":"GU","city":"Tamuning","latitude":13.48,"longitude":144.77}}(window,'GeoPostal','US');

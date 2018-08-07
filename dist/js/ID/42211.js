@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42211"]={"code":"42211","region":"Banten","city":"Pandeglang","latitude":-6.3084,"longitude":106.1067}}(window,'GeoPostal','ID');

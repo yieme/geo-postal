@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68002"]={"code":"68002","region":"NE","city":"Arlington","latitude":41.4417,"longitude":-96.307}}(window,'GeoPostal','US');

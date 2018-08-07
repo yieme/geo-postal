@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59427"]={"code":"59427","region":"Montana","city":"Cut Bank","latitude":48.63304,"longitude":-112.32616}}(window,'GeoPostal','US');

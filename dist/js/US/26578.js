@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26578"]={"code":"26578","region":"WV","city":"Kingmont","latitude":39.4466,"longitude":-80.1762}}(window,'GeoPostal','US');

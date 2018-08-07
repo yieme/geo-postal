@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14610"]={"code":"14610","region":"Normandie","city":"Thaon","latitude":49.25796,"longitude":-0.45605}}(window,'GeoPostal','FR');

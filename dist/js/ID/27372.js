@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27372"]={"code":"27372","region":"Sumatera Barat","city":"Alahanpanjang","latitude":-1.07491,"longitude":100.79354}}(window,'GeoPostal','ID');

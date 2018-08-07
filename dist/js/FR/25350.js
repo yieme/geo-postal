@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25350"]={"code":"25350","region":"Bourgogne-Franche-Comte","city":"Mandeure","latitude":47.44921,"longitude":6.80762}}(window,'GeoPostal','FR');

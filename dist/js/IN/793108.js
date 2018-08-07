@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793108"]={"code":"793108","region":"Meghalaya","city":"Cherrapunji","latitude":25.3,"longitude":91.7}}(window,'GeoPostal','IN');

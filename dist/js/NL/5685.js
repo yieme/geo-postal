@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5685"]={"code":"5685","region":"Noord-Brabant","city":"Best","latitude":51.5075,"longitude":5.39028}}(window,'GeoPostal','NL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92399"]={"code":"92399","region":"Vasterbottens lan","city":"Storuman","latitude":65.0959,"longitude":17.11731}}(window,'GeoPostal','SE');

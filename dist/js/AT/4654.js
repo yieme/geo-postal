@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4654"]={"code":"4654","region":"Oberosterreich","city":"Bad Wimsbach-Neydharting","latitude":48.06667,"longitude":13.9}}(window,'GeoPostal','AT');

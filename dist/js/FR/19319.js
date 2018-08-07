@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19319"]={"code":"19319","region":"Nouvelle-Aquitaine","city":"Brive-la-Gaillarde","latitude":45.15,"longitude":1.53333}}(window,'GeoPostal','FR');

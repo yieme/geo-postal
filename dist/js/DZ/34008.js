@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34008"]={"code":"34008","region":"Bordj Bou Arreridj","city":"Mansourah","latitude":36.08725,"longitude":4.45192}}(window,'GeoPostal','DZ');

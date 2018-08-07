@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52052"]={"code":"52052","region":"Iowa","city":"Guttenberg","latitude":42.711,"longitude":-91.07868}}(window,'GeoPostal','US');

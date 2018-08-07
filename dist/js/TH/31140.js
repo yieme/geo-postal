@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31140"]={"code":"31140","region":"Surin","city":"Phanom Dong Rak","latitude":14.44575,"longitude":103.30508}}(window,'GeoPostal','TH');

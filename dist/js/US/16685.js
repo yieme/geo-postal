@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16685"]={"code":"16685","region":"PA","city":"Todd","latitude":40.271,"longitude":-78.0772}}(window,'GeoPostal','US');

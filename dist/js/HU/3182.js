@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3182"]={"code":"3182","region":"Nograd","city":"Karancslapujto","latitude":48.15,"longitude":19.73333}}(window,'GeoPostal','HU');

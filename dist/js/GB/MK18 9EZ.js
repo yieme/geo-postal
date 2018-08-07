@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK18 9EZ"]={"code":"MK18 9EZ","region":"Wales","city":"Newport","latitude":51.58774,"longitude":-2.99835}}(window,'GeoPostal','GB');

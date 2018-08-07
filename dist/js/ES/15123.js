@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15123"]={"code":"15123","region":"Galicia","city":"Camarinas","latitude":43.13115,"longitude":-9.18172}}(window,'GeoPostal','ES');

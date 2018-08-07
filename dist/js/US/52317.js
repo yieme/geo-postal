@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52317"]={"code":"52317","region":"Iowa","city":"North Liberty","latitude":41.743015,"longitude":-91.601356}}(window,'GeoPostal','US');

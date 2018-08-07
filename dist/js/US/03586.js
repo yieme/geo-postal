@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03586"]={"code":"03586","region":"New Hampshire","city":"Sugar Hill","latitude":44.2267,"longitude":-71.7965}}(window,'GeoPostal','US');

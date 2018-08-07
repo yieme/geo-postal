@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37680"]={"code":"37680","region":"TN","city":"Laurel Bloomery","latitude":36.5793,"longitude":-81.7254}}(window,'GeoPostal','US');

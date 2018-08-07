@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36318"]={"code":"36318","region":"Hessen","city":"Brauerschwend","latitude":50.69685,"longitude":9.32557}}(window,'GeoPostal','DE');

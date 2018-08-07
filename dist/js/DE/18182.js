@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18182"]={"code":"18182","region":"Mecklenburg-Vorpommern","city":"Oberhagen","latitude":54.17357,"longitude":12.26554}}(window,'GeoPostal','DE');

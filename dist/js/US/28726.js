@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28726"]={"code":"28726","region":"NC","city":"East Flat Rock","latitude":35.2799,"longitude":-82.4204}}(window,'GeoPostal','US');

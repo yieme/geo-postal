@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3144"]={"code":"3144","region":"Victoria","city":"Malvern","latitude":-37.86259,"longitude":145.02811}}(window,'GeoPostal','AU');

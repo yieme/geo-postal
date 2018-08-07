@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04260"]={"code":"04260","region":"Maine","city":"New Gloucester","latitude":43.97358,"longitude":-70.32534}}(window,'GeoPostal','US');

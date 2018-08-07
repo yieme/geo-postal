@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77585"]={"code":"77585","region":"Texas","city":"Saratoga","latitude":30.360646,"longitude":-94.557546}}(window,'GeoPostal','US');

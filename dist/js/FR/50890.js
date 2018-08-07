@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50890"]={"code":"50890","region":"Normandie","city":"Conde-sur-Vire","latitude":49.05,"longitude":-1.03333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0B 1A0"]={"code":"K0B 1A0","region":"Ontario","city":"Alfred","latitude":45.559,"longitude":-74.87738}}(window,'GeoPostal','CA');

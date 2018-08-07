@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36301"]={"code":"36301","region":"Punjab","city":"Pir Mahal","latitude":30.76667,"longitude":72.43333}}(window,'GeoPostal','PK');

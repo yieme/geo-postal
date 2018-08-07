@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1882"]={"code":"1882","region":"Vaud","city":"Gryon","latitude":46.27377,"longitude":7.05975}}(window,'GeoPostal','CH');

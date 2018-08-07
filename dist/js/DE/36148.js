@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36148"]={"code":"36148","region":"Hessen","city":"Oberkalbach","latitude":50.40485,"longitude":9.67492}}(window,'GeoPostal','DE');

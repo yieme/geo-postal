@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52650"]={"code":"52650","region":"IA","city":"Sperry","latitude":40.9419,"longitude":-91.185}}(window,'GeoPostal','US');

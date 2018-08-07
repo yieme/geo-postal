@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN37 7AP"]={"code":"DN37 7AP","region":"England","city":"Aylesby","latitude":53.55103,"longitude":-0.18064}}(window,'GeoPostal','GB');

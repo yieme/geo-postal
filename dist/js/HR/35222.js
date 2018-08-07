@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35222"]={"code":"35222","region":"Brodsko-posavska zupanija","city":"Gundinci","latitude":45.15833,"longitude":18.49139}}(window,'GeoPostal','HR');

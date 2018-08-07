@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60545"]={"code":"60545","region":"IL","city":"Plano","latitude":41.667,"longitude":-88.5384}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81075"]={"code":"81075","region":"CO","city":"Stonington","latitude":37.29,"longitude":-102.18}}(window,'GeoPostal','US');

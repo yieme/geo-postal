@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23680"]={"code":"23680","region":"Andalucia","city":"Alcala la Real","latitude":37.4614,"longitude":-3.92301}}(window,'GeoPostal','ES');

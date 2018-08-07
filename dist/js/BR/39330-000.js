@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39330-000"]={"code":"39330-000","region":"Minas Gerais","city":"Brasilia de Minas","latitude":-16.20639,"longitude":-44.43333}}(window,'GeoPostal','BR');

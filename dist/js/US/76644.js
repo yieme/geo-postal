@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76644"]={"code":"76644","region":"TX","city":"Laguna Park","latitude":31.8593,"longitude":-97.3797}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12500"]={"code":"12500","region":"Ciudad de Mexico","city":"Milpa Alta","latitude":19.19194,"longitude":-99.02361}}(window,'GeoPostal','MX');

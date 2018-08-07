@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60650"]={"code":"60650","region":"Hauts-de-France","city":"Lachapelle-aux-Pots","latitude":49.44905,"longitude":1.90228}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65251"]={"code":"65251","region":"Missouri","city":"Fulton","latitude":38.852729,"longitude":-91.948614}}(window,'GeoPostal','US');

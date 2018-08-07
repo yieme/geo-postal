@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56542"]={"code":"56542","region":"Minnesota","city":"Fosston","latitude":47.57635,"longitude":-95.75142}}(window,'GeoPostal','US');

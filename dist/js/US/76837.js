@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76837"]={"code":"76837","region":"Texas","city":"Eden","latitude":31.21628,"longitude":-99.84563}}(window,'GeoPostal','US');

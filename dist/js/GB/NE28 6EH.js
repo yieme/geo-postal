@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE28 6EH"]={"code":"NE28 6EH","region":"England","city":"Wallsend","latitude":54.99111,"longitude":-1.53397}}(window,'GeoPostal','GB');

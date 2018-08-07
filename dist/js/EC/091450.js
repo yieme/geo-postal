@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["091450"]={"code":"091450","region":"Guayas","city":"Pedro Carbo","latitude":-1.83333,"longitude":-80.23333}}(window,'GeoPostal','EC');

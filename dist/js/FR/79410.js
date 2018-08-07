@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79410"]={"code":"79410","region":"Nouvelle-Aquitaine","city":"Echire","latitude":46.38748,"longitude":-0.41511}}(window,'GeoPostal','FR');

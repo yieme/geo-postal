@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95490"]={"code":"95490","region":"California","city":"Willits","latitude":39.40961,"longitude":-123.35557}}(window,'GeoPostal','US');

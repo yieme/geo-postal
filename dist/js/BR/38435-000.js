@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38435-000"]={"code":"38435-000","region":"Goias","city":"Itumbiara","latitude":-18.41917,"longitude":-49.21528}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57045"]={"code":"57045","region":"South Dakota","city":"Menno","latitude":43.23778,"longitude":-97.5775}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641530"]={"code":"641530","region":"Kurganskaya oblast'","city":"Mokrousovo","latitude":55.81028,"longitude":66.76528}}(window,'GeoPostal','RU');

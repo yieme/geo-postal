@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19946"]={"code":"19946","region":"DE","city":"Frederica","latitude":39.0342,"longitude":-75.4545}}(window,'GeoPostal','US');

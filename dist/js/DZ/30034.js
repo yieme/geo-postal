@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30034"]={"code":"30034","region":"Ouargla","city":"Djamaa","latitude":33.53388,"longitude":5.99306}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24579"]={"code":"24579","region":"VA","city":"Natural Bridge Station","latitude":37.598,"longitude":-79.525}}(window,'GeoPostal','US');

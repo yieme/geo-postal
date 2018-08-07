@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31305"]={"code":"31305","region":"Georgia","city":"Darien","latitude":31.37023,"longitude":-81.43399}}(window,'GeoPostal','US');

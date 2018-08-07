@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74740"]={"code":"74740","region":"Baden-Wurttemberg","city":"Sennfeld","latitude":49.38014,"longitude":9.38284}}(window,'GeoPostal','DE');

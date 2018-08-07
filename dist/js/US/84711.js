@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84711"]={"code":"84711","region":"Utah","city":"Annabella","latitude":38.707541,"longitude":-112.062638}}(window,'GeoPostal','US');

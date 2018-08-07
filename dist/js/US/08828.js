@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08828"]={"code":"08828","region":"NJ","city":"Helmetta","latitude":40.3777,"longitude":-74.4204}}(window,'GeoPostal','US');

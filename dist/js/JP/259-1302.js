@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["259-1302"]={"code":"259-1302","region":"Kanagawa","city":"Hadano","latitude":35.367,"longitude":139.217}}(window,'GeoPostal','JP');

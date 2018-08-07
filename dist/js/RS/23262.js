@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23262"]={"code":"23262","region":"Srednjebanatski okrug","city":"Tomasevac","latitude":45.26778,"longitude":20.62083}}(window,'GeoPostal','RS');

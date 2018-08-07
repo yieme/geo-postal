@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8980"]={"code":"8980","region":"Nordland","city":"Gladstad","latitude":65.67732,"longitude":11.96137}}(window,'GeoPostal','NO');

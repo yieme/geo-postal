@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61830"]={"code":"61830","region":"IL","city":"Cisco","latitude":39.9972,"longitude":-88.6962}}(window,'GeoPostal','US');

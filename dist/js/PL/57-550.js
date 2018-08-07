@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-550"]={"code":"57-550","region":"Dolnoslaskie","city":"Stronie Slaskie","latitude":50.29554,"longitude":16.87397}}(window,'GeoPostal','PL');

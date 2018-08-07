@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19101"]={"code":"19101","region":"Khyber Pakhtunkhwa","city":"Timurgara","latitude":34.82636,"longitude":71.84149}}(window,'GeoPostal','PK');

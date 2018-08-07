@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN28 8NH"]={"code":"TN28 8NH","region":"England","city":"Littlestone-on-Sea","latitude":50.98324,"longitude":0.96328}}(window,'GeoPostal','GB');

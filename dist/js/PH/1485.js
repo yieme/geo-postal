@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1485"]={"code":"1485","region":"Rizal","city":"Navotas","latitude":14.4167,"longitude":121.2268}}(window,'GeoPostal','PH');

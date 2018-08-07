@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["X0E 0P0"]={"code":"X0E 0P0","region":"Northwest Territories","city":"Fort Smith","latitude":60.00029,"longitude":-111.88543}}(window,'GeoPostal','CA');

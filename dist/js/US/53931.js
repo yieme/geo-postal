@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53931"]={"code":"53931","region":"WI","city":"Fairwater","latitude":43.7475,"longitude":-88.8665}}(window,'GeoPostal','US');

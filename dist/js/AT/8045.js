@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8045"]={"code":"8045","region":"Steiermark","city":"Graz","latitude":47.06667,"longitude":15.45}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79532"]={"code":"79532","region":"TX","city":"Loraine","latitude":32.4112,"longitude":-100.7123}}(window,'GeoPostal','US');

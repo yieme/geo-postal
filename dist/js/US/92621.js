@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92621"]={"code":"92621","region":"California","city":"Brea","latitude":33.9227,"longitude":-117.8891}}(window,'GeoPostal','US');

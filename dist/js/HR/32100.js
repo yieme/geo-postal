@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32100"]={"code":"32100","region":"Vukovarsko-srijemska zupanija","city":"Mirkovci","latitude":45.26972,"longitude":18.85111}}(window,'GeoPostal','HR');

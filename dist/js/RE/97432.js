@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97432"]={"code":"97432","region":"Reunion","city":"Saint-Pierre","latitude":-21.3393,"longitude":55.47811}}(window,'GeoPostal','RE');

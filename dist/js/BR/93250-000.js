@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93250-000"]={"code":"93250-000","region":"Rio Grande do Sul","city":"Esteio","latitude":-29.86139,"longitude":-51.17917}}(window,'GeoPostal','BR');

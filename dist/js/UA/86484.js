@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86484"]={"code":"86484","region":"Donetska oblast","city":"Yenakiyeve","latitude":48.23331,"longitude":38.21137}}(window,'GeoPostal','UA');

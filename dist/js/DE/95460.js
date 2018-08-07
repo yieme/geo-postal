@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95460"]={"code":"95460","region":"Bayern","city":"Hermersreuth","latitude":50.06276,"longitude":11.72057}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13337"]={"code":"13337","region":"New York","city":"Fly Creek","latitude":42.71833,"longitude":-74.983333}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59129"]={"code":"59129","region":"Hauts-de-France","city":"Avesnes-les-Aubert","latitude":50.2,"longitude":3.38333}}(window,'GeoPostal','FR');

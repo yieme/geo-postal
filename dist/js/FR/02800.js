@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02800"]={"code":"02800","region":"Hauts-de-France","city":"La Fere","latitude":49.66286,"longitude":3.36631}}(window,'GeoPostal','FR');

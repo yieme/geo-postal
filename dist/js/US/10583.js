@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10583"]={"code":"10583","region":"New York","city":"Scarsdale","latitude":40.989587,"longitude":-73.799444}}(window,'GeoPostal','US');

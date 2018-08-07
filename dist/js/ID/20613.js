@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20613"]={"code":"20613","region":"Sumatera Utara","city":"Tebingtinggi","latitude":3.3285,"longitude":99.1625}}(window,'GeoPostal','ID');

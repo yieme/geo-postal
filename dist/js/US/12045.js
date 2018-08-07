@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12045"]={"code":"12045","region":"NY","city":"Coeymans","latitude":42.4757,"longitude":-73.7977}}(window,'GeoPostal','US');

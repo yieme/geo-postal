@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57358"]={"code":"57358","region":"South Dakota","city":"Lane","latitude":44.0703,"longitude":-98.40288}}(window,'GeoPostal','US');

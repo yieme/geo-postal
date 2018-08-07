@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS2 9NP"]={"code":"HS2 9NP","region":"Scotland","city":"Crossbost","latitude":58.11667,"longitude":-6.43333}}(window,'GeoPostal','GB');

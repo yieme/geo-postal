@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62231"]={"code":"62231","region":"Hauts-de-France","city":"Sangatte","latitude":50.94564,"longitude":1.75321}}(window,'GeoPostal','FR');

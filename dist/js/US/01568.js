@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01568"]={"code":"01568","region":"Massachusetts","city":"Upton","latitude":42.17688,"longitude":-71.59842}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0378"]={"code":"0378","region":"North-West","city":"Rustenburg","latitude":-25.66756,"longitude":27.24208}}(window,'GeoPostal','ZA');

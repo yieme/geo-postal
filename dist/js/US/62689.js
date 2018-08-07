@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62689"]={"code":"62689","region":"IL","city":"Thayer","latitude":39.5394,"longitude":-89.7621}}(window,'GeoPostal','US');

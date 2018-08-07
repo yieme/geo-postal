@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12510"]={"code":"12510","region":"Occitanie","city":"Druelle","latitude":44.36006,"longitude":2.50505}}(window,'GeoPostal','FR');

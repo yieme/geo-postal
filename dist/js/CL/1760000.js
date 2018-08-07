@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1760000"]={"code":"1760000","region":"Coquimbo","city":"Vicuna","latitude":-30.03194,"longitude":-70.70806}}(window,'GeoPostal','CL');

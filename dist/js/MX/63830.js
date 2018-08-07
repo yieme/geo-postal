@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63830"]={"code":"63830","region":"Nayarit","city":"Santa Maria del Oro","latitude":21.33333,"longitude":-104.58333}}(window,'GeoPostal','MX');

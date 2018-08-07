@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69168"]={"code":"69168","region":"Baden-Wurttemberg","city":"Wiesloch","latitude":49.29504,"longitude":8.69846}}(window,'GeoPostal','DE');

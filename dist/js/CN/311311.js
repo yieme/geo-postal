@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311311"]={"code":"311311","region":"Zhejiang","city":"Xitianmu","latitude":30.26577,"longitude":119.47223}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84050"]={"code":"84050","region":"Utah","city":"Morgan","latitude":41.02986,"longitude":-111.73188}}(window,'GeoPostal','US');

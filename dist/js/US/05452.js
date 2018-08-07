@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05452"]={"code":"05452","region":"Vermont","city":"Essex Junction","latitude":44.502351,"longitude":-73.089204}}(window,'GeoPostal','US');

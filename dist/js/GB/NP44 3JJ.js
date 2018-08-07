@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP44 3JJ"]={"code":"NP44 3JJ","region":"Wales","city":"Llantarnam","latitude":51.63323,"longitude":-3.00311}}(window,'GeoPostal','GB');

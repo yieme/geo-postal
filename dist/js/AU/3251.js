@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3251"]={"code":"3251","region":"Victoria","city":"Eurack","latitude":-38.15,"longitude":143.7}}(window,'GeoPostal','AU');

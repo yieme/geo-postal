@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56466"]={"code":"56466","region":"Minnesota","city":"Motley","latitude":46.32696,"longitude":-94.62486}}(window,'GeoPostal','US');

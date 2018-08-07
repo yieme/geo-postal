@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66539"]={"code":"66539","region":"Kansas","city":"Silver Lake","latitude":39.139844,"longitude":-95.867732}}(window,'GeoPostal','US');

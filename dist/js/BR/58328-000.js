@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58328-000"]={"code":"58328-000","region":"Paraiba","city":"Pedras de Fogo","latitude":-7.40194,"longitude":-35.11639}}(window,'GeoPostal','BR');

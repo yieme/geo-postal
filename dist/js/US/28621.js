@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28621"]={"code":"28621","region":"North Carolina","city":"Elkin","latitude":36.2443,"longitude":-80.8484}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48400"]={"code":"48400","region":"Occitanie","city":"Florac","latitude":44.31667,"longitude":3.6}}(window,'GeoPostal','FR');

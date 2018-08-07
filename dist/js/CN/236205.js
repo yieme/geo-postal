@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["236205"]={"code":"236205","region":"Anhui","city":"Yingshang","latitude":32.62945,"longitude":116.27014}}(window,'GeoPostal','CN');

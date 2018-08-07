@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36350"]={"code":"36350","region":"AL","city":"Midland City","latitude":31.3191,"longitude":-85.4938}}(window,'GeoPostal','US');

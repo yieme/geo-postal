@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA75 6PT"]={"code":"PA75 6PT","region":"Scotland","city":"Tobermory","latitude":56.62489,"longitude":-6.06943}}(window,'GeoPostal','GB');

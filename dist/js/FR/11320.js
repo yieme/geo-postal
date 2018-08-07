@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11320"]={"code":"11320","region":"Occitanie","city":"Soupex","latitude":43.3794,"longitude":1.8961}}(window,'GeoPostal','FR');

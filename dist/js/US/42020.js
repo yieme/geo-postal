@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42020"]={"code":"42020","region":"KY","city":"Almo","latitude":36.6923,"longitude":-88.2929}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15066"]={"code":"15066","region":"Piemonte","city":"Gavi","latitude":44.68765,"longitude":8.80935}}(window,'GeoPostal','IT');

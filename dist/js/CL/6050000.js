@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6050000"]={"code":"6050000","region":"Aisen del General Carlos Ibanez del Campo","city":"Chile Chico","latitude":-46.55,"longitude":-71.73333}}(window,'GeoPostal','CL');

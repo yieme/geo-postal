@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171649"]={"code":"171649","region":"Tverskaya oblast'","city":"Kashin","latitude":57.35917,"longitude":37.60806}}(window,'GeoPostal','RU');

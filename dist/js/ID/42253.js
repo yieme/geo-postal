@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42253"]={"code":"42253","region":"Banten","city":"Garawati","latitude":-6.3636,"longitude":106.1193}}(window,'GeoPostal','ID');

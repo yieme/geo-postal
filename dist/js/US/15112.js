@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15112"]={"code":"15112","region":"Pennsylvania","city":"Chalfont","latitude":40.403155,"longitude":-79.838238}}(window,'GeoPostal','US');

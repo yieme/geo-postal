@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN8 5NN"]={"code":"BN8 5NN","region":"England","city":"Ringmer","latitude":50.89307,"longitude":0.05545}}(window,'GeoPostal','GB');

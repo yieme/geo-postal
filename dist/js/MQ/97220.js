@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97220"]={"code":"97220","region":"Martinique","city":"La Trinite","latitude":14.73758,"longitude":-60.96286}}(window,'GeoPostal','MQ');

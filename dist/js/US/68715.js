@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68715"]={"code":"68715","region":"NE","city":"Battle Creek","latitude":41.9943,"longitude":-97.5982}}(window,'GeoPostal','US');

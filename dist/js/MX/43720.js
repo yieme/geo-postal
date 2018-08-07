@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43720"]={"code":"43720","region":"Hidalgo","city":"Acaxochitlan","latitude":20.16667,"longitude":-98.2}}(window,'GeoPostal','MX');

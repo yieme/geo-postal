@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97506"]={"code":"97506","region":"Bayern","city":"Grafenrheinfeld","latitude":50,"longitude":10.2}}(window,'GeoPostal','DE');

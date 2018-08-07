@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 8RL"]={"code":"NE65 8RL","region":"England","city":"Wingates","latitude":55.25,"longitude":-1.85}}(window,'GeoPostal','GB');

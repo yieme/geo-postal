@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0J 2M0"]={"code":"B0J 2M0","region":"Nova Scotia","city":"New Ross","latitude":44.73345,"longitude":-64.44876}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["456222"]={"code":"456222","region":"Madhya Pradesh","city":"Gogapur","latitude":23.55,"longitude":75.51667}}(window,'GeoPostal','IN');

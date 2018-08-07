@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53019"]={"code":"53019","region":"Toscana","city":"Castelnuovo Berardenga","latitude":43.34634,"longitude":11.50333}}(window,'GeoPostal','IT');

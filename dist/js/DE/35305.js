@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35305"]={"code":"35305","region":"Hessen","city":"Beltershain","latitude":50.61884,"longitude":8.93622}}(window,'GeoPostal','DE');

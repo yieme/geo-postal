@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-360"]={"code":"42-360","region":"Slaskie","city":"Poraj","latitude":50.67797,"longitude":19.21509}}(window,'GeoPostal','PL');

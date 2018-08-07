@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4Y 0B1"]={"code":"E4Y 0B1","region":"New Brunswick","city":"Kent Junction","latitude":46.58342,"longitude":-65.33205}}(window,'GeoPostal','CA');

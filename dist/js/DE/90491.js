@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90491"]={"code":"90491","region":"Bayern","city":"Erlenstegen","latitude":49.47487,"longitude":11.13786}}(window,'GeoPostal','DE');

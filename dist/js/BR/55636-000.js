@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55636-000"]={"code":"55636-000","region":"Pernambuco","city":"Cha Grande","latitude":-8.23833,"longitude":-35.46167}}(window,'GeoPostal','BR');

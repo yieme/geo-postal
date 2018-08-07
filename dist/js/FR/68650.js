@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68650"]={"code":"68650","region":"Grand-Est","city":"Lapoutroie","latitude":48.15323,"longitude":7.16696}}(window,'GeoPostal','FR');

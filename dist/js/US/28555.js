@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28555"]={"code":"28555","region":"NC","city":"Maysville","latitude":34.8691,"longitude":-77.2315}}(window,'GeoPostal','US');

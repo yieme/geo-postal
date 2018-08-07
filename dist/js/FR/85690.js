@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85690"]={"code":"85690","region":"Pays-de-la-Loire","city":"Notre-Dame-de-Monts","latitude":46.831,"longitude":-2.131}}(window,'GeoPostal','FR');

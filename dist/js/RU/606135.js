@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606135"]={"code":"606135","region":"Nizhegorodskaya oblast'","city":"Taremskoye","latitude":55.92889,"longitude":43.04433}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL23 7NT"]={"code":"LL23 7NT","region":"Wales","city":"Frongoch","latitude":52.93333,"longitude":-3.63333}}(window,'GeoPostal','GB');

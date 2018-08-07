@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42590"]={"code":"42590","region":"Auvergne-Rhone-Alpes","city":"Neulise","latitude":45.90279,"longitude":4.18094}}(window,'GeoPostal','FR');

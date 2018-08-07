@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735300"]={"code":"735300","region":"Gansu","city":"Jinta","latitude":39.98333,"longitude":98.86667}}(window,'GeoPostal','CN');

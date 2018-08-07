@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646700"]={"code":"646700","region":"Omskaya oblast'","city":"Sherbakul'","latitude":54.63158,"longitude":72.39635}}(window,'GeoPostal','RU');

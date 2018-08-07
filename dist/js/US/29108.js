@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29108"]={"code":"29108","region":"South Carolina","city":"Newberry","latitude":34.27865,"longitude":-81.616205}}(window,'GeoPostal','US');

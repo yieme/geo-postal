@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64437"]={"code":"64437","region":"Missouri","city":"Craig","latitude":40.154884,"longitude":-95.355466}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV4 7LZ"]={"code":"IV4 7LZ","region":"Scotland","city":"Tomich","latitude":57.30409,"longitude":-4.81287}}(window,'GeoPostal','GB');

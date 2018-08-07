@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 8BS"]={"code":"HR2 8BS","region":"England","city":"Callow","latitude":52.01667,"longitude":-2.73333}}(window,'GeoPostal','GB');

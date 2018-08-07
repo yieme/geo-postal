@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5743"]={"code":"5743","region":"Bekes","city":"Lokoshaza","latitude":46.43333,"longitude":21.23333}}(window,'GeoPostal','HU');

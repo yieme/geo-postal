@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29692"]={"code":"29692","region":"SC","city":"Ware Shoals","latitude":34.4025,"longitude":-82.2678}}(window,'GeoPostal','US');

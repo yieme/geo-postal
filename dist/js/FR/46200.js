@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46200"]={"code":"46200","region":"Occitanie","city":"Souillac","latitude":44.8972,"longitude":1.47224}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98847"]={"code":"98847","region":"WA","city":"Peshastin","latitude":47.5458,"longitude":-120.5961}}(window,'GeoPostal','US');

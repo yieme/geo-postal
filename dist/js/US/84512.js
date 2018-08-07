@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84512"]={"code":"84512","region":"Utah","city":"Bluff","latitude":37.28175,"longitude":-109.56681}}(window,'GeoPostal','US');

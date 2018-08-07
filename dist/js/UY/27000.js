@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27000"]={"code":"27000","region":"Rocha","city":"Rocha","latitude":-34.48333,"longitude":-54.33333}}(window,'GeoPostal','UY');

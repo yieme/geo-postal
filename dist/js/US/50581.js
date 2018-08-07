@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50581"]={"code":"50581","region":"Iowa","city":"Rolfe","latitude":42.81446,"longitude":-94.52995}}(window,'GeoPostal','US');

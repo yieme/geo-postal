@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78830"]={"code":"78830","region":"Texas","city":"Big Wells","latitude":28.552851,"longitude":-99.557773}}(window,'GeoPostal','US');

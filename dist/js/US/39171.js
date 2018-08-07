@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39171"]={"code":"39171","region":"MS","city":"Thomastown","latitude":32.864,"longitude":-89.6695}}(window,'GeoPostal','US');

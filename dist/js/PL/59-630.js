@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-630"]={"code":"59-630","region":"Dolnoslaskie","city":"Mirsk","latitude":50.97054,"longitude":15.38567}}(window,'GeoPostal','PL');

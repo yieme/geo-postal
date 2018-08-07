@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721160"]={"code":"721160","region":"West Bengal","city":"Medinipur","latitude":22.43333,"longitude":87.33333}}(window,'GeoPostal','IN');

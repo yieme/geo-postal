@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67340"]={"code":"67340","region":"Kansas","city":"Dearing","latitude":37.05858,"longitude":-95.71302}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32757"]={"code":"32757","region":"Florida","city":"Mount Dora","latitude":28.7736,"longitude":-81.6279}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110037"]={"code":"110037","region":"Delhi","city":"Delhi","latitude":28.66667,"longitude":77.21667}}(window,'GeoPostal','IN');

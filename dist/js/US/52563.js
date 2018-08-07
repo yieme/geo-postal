@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52563"]={"code":"52563","region":"IA","city":"Hedrick","latitude":41.1826,"longitude":-92.3097}}(window,'GeoPostal','US');

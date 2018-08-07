@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20144"]={"code":"20144","region":"VA","city":"Delaplane","latitude":38.9113,"longitude":-77.9674}}(window,'GeoPostal','US');

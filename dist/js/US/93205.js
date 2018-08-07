@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93205"]={"code":"93205","region":"California","city":"Bodfish","latitude":35.58801,"longitude":-118.49203}}(window,'GeoPostal','US');

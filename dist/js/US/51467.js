@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51467"]={"code":"51467","region":"IA","city":"Westside","latitude":42.1084,"longitude":-95.1273}}(window,'GeoPostal','US');

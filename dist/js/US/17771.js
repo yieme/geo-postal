@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17771"]={"code":"17771","region":"PA","city":"Trout Run","latitude":41.4125,"longitude":-77.0098}}(window,'GeoPostal','US');

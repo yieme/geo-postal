@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81084"]={"code":"81084","region":"CO","city":"Two Buttes","latitude":37.5214,"longitude":-102.4332}}(window,'GeoPostal','US');

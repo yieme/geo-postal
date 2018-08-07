@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49970"]={"code":"49970","region":"Michigan","city":"Watton","latitude":46.498925,"longitude":-88.620438}}(window,'GeoPostal','US');

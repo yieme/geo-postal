@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403708"]={"code":"403708","region":"Goa","city":"Colva","latitude":15.26667,"longitude":73.91667}}(window,'GeoPostal','IN');

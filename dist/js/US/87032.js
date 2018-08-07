@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87032"]={"code":"87032","region":"New Mexico","city":"McIntosh","latitude":34.86478,"longitude":-106.05169}}(window,'GeoPostal','US');

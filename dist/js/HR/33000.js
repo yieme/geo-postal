@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33000"]={"code":"33000","region":"Viroviticko-podravska zupanija","city":"Virovitica","latitude":45.83194,"longitude":17.38389}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98051"]={"code":"98051","region":"Sicilia","city":"Terme Vigliatore","latitude":38.13586,"longitude":15.15658}}(window,'GeoPostal','IT');

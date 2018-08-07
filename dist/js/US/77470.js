@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77470"]={"code":"77470","region":"Texas","city":"Rock Island","latitude":29.530833,"longitude":-96.575}}(window,'GeoPostal','US');

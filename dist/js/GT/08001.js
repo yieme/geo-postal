@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08001"]={"code":"08001","region":"Totonicapan","city":"Totonicapan","latitude":14.91667,"longitude":-91.36667}}(window,'GeoPostal','GT');

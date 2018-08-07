@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77863"]={"code":"77863","region":"TX","city":"Lyons","latitude":30.3863,"longitude":-96.5633}}(window,'GeoPostal','US');

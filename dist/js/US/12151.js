@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12151"]={"code":"12151","region":"NY","city":"Round Lake","latitude":42.9247,"longitude":-73.7859}}(window,'GeoPostal','US');

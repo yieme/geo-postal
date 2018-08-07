@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18501"]={"code":"18501","region":"Pennsylvania","city":"Scranton","latitude":41.37312,"longitude":-75.68412}}(window,'GeoPostal','US');

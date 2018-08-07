@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["185212"]={"code":"185212","region":"Jammu and Kashmir","city":"Rajauri","latitude":33.38333,"longitude":74.3}}(window,'GeoPostal','IN');

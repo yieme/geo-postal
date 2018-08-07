@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["744018"]={"code":"744018","region":"Ningxia","city":"Honghe","latitude":35.76667,"longitude":106.7}}(window,'GeoPostal','CN');

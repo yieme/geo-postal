@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75441"]={"code":"75441","region":"TX","city":"Enloe","latitude":33.4291,"longitude":-95.6518}}(window,'GeoPostal','US');

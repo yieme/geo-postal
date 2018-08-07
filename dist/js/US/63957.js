@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63957"]={"code":"63957","region":"Missouri","city":"Piedmont","latitude":37.15449,"longitude":-90.69567}}(window,'GeoPostal','US');

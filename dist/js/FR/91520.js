@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91520"]={"code":"91520","region":"Ile-de-France","city":"Egly","latitude":48.57828,"longitude":2.22416}}(window,'GeoPostal','FR');

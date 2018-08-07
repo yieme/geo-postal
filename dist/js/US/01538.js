@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01538"]={"code":"01538","region":"MA","city":"North Uxbridge","latitude":42.0876,"longitude":-71.6412}}(window,'GeoPostal','US');

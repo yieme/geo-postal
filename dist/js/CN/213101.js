@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["213101"]={"code":"213101","region":"Sichuan","city":"Wujin","latitude":30.41131,"longitude":103.81302}}(window,'GeoPostal','CN');

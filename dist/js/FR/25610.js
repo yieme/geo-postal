@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25610"]={"code":"25610","region":"Bourgogne-Franche-Comte","city":"Arc-et-Senans","latitude":47.03127,"longitude":5.77027}}(window,'GeoPostal','FR');

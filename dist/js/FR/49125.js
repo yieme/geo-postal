@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49125"]={"code":"49125","region":"Pays-de-la-Loire","city":"Tierce","latitude":47.61587,"longitude":-0.46609}}(window,'GeoPostal','FR');

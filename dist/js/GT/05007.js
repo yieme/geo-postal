@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05007"]={"code":"05007","region":"Escuintla","city":"La Gomera","latitude":14.08333,"longitude":-91.05}}(window,'GeoPostal','GT');

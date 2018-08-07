@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60487"]={"code":"60487","region":"Illinois","city":"Tinley Park","latitude":41.5674,"longitude":-87.792}}(window,'GeoPostal','US');

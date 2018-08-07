@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11901"]={"code":"11901","region":"New York","city":"Riverhead","latitude":40.92924,"longitude":-72.64752}}(window,'GeoPostal','US');

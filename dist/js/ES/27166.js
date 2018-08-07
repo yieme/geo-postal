@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27166"]={"code":"27166","region":"Galicia","city":"Paramo","latitude":42.95,"longitude":-7.3}}(window,'GeoPostal','ES');

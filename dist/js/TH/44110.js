@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44110"]={"code":"44110","region":"Maha Sarakham","city":"Phayakkhaphum Phisai","latitude":15.51631,"longitude":103.19367}}(window,'GeoPostal','TH');

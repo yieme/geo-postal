@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47030"]={"code":"47030","region":"Jalisco","city":"San Juan de los Lagos","latitude":21.25,"longitude":-102.3}}(window,'GeoPostal','MX');

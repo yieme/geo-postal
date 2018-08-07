@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56410"]={"code":"56410","region":"Bretagne","city":"Etel","latitude":47.65614,"longitude":-3.20018}}(window,'GeoPostal','FR');

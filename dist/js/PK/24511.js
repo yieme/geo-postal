@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24511"]={"code":"24511","region":"Sindh","city":"Khairpur","latitude":28.06526,"longitude":69.70076}}(window,'GeoPostal','PK');

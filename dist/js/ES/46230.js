@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46230"]={"code":"46230","region":"Valenciana, Comunidad","city":"Alginet","latitude":39.26667,"longitude":-0.46667}}(window,'GeoPostal','ES');

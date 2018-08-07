@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59402"]={"code":"59402","region":"Montana","city":"Malmstrom Air Force Base","latitude":47.511421,"longitude":-111.195419}}(window,'GeoPostal','US');

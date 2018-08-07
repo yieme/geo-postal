@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42633"]={"code":"42633","region":"Kentucky","city":"Monticello","latitude":36.836915,"longitude":-84.847354}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442680"]={"code":"442680","region":"Penzenskaya oblast'","city":"Nikol'sk","latitude":53.71886,"longitude":46.07118}}(window,'GeoPostal','RU');

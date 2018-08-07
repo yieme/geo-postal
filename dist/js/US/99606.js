@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99606"]={"code":"99606","region":"Alaska","city":"Iliamna","latitude":59.765,"longitude":-154.84028}}(window,'GeoPostal','US');

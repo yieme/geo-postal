@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21640"]={"code":"21640","region":"Maryland","city":"Henderson","latitude":39.07389,"longitude":-75.76639}}(window,'GeoPostal','US');

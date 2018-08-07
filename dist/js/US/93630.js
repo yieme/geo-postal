@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93630"]={"code":"93630","region":"California","city":"Kerman","latitude":36.739028,"longitude":-120.075649}}(window,'GeoPostal','US');

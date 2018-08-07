@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30559"]={"code":"30559","region":"Georgia","city":"Mineral Bluff","latitude":34.941494,"longitude":-84.264749}}(window,'GeoPostal','US');

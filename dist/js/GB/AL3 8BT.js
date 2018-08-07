@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL3 8BT"]={"code":"AL3 8BT","region":"England","city":"Flamstead","latitude":51.81971,"longitude":-0.43707}}(window,'GeoPostal','GB');

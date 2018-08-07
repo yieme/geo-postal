@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38559"]={"code":"38559","region":"TN","city":"Doyle","latitude":35.8356,"longitude":-85.5191}}(window,'GeoPostal','US');

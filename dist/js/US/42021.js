@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42021"]={"code":"42021","region":"Kentucky","city":"Arlington","latitude":36.79139,"longitude":-89.01139}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26461"]={"code":"26461","region":"WV","city":"Clarksburg","latitude":39.29,"longitude":-80.39}}(window,'GeoPostal','US');

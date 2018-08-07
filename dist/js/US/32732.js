@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32732"]={"code":"32732","region":"FL","city":"Geneva","latitude":28.7503,"longitude":-81.1114}}(window,'GeoPostal','US');

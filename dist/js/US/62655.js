@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62655"]={"code":"62655","region":"Illinois","city":"Kilbourne","latitude":40.153171,"longitude":-90.008327}}(window,'GeoPostal','US');

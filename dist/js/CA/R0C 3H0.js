@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 3H0"]={"code":"R0C 3H0","region":"Manitoba","city":"Woodlands","latitude":50.20721,"longitude":-97.66069}}(window,'GeoPostal','CA');

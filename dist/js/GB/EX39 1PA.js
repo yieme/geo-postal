@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 1PA"]={"code":"EX39 1PA","region":"England","city":"Appledore","latitude":51.05,"longitude":-4.2}}(window,'GeoPostal','GB');

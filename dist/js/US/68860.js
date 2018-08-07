@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68860"]={"code":"68860","region":"NE","city":"Oconto","latitude":41.1411,"longitude":-99.7632}}(window,'GeoPostal','US');

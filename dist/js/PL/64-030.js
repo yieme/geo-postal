@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-030"]={"code":"64-030","region":"Wielkopolskie","city":"Smigiel","latitude":52.01339,"longitude":16.52704}}(window,'GeoPostal','PL');

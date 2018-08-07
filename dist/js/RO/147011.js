@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147011"]={"code":"147011","region":"Buzau","city":"Magura","latitude":44.03333,"longitude":25.4}}(window,'GeoPostal','RO');

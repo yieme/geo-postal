@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45530-000"]={"code":"45530-000","region":"Bahia","city":"Itacare","latitude":-14.2775,"longitude":-38.99667}}(window,'GeoPostal','BR');

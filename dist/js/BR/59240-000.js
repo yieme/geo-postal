@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59240-000"]={"code":"59240-000","region":"Rio Grande do Norte","city":"Tangara","latitude":-6.19944,"longitude":-35.80167}}(window,'GeoPostal','BR');

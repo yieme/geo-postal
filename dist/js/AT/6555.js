@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6555"]={"code":"6555","region":"Tirol","city":"See","latitude":47.08333,"longitude":10.46667}}(window,'GeoPostal','AT');

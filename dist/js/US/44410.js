@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44410"]={"code":"44410","region":"Ohio","city":"Cortland","latitude":41.329538,"longitude":-80.731053}}(window,'GeoPostal','US');

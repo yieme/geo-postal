@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49196"]={"code":"49196","region":"Niedersachsen","city":"Bad Laer","latitude":52.1,"longitude":8.08333}}(window,'GeoPostal','DE');

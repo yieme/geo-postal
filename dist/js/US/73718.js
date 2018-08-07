@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73718"]={"code":"73718","region":"OK","city":"Ames","latitude":36.2423,"longitude":-98.182}}(window,'GeoPostal','US');

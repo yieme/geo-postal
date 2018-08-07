@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 4AW"]={"code":"IP21 4AW","region":"England","city":"Brockdish","latitude":52.36989,"longitude":1.24879}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57572"]={"code":"57572","region":"Rheinland-Pfalz","city":"Fischbacherhutte","latitude":50.85596,"longitude":7.86578}}(window,'GeoPostal','DE');

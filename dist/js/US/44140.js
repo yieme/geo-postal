@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44140"]={"code":"44140","region":"Ohio","city":"Bay Village","latitude":41.48982,"longitude":-81.92148}}(window,'GeoPostal','US');

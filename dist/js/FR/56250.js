@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56250"]={"code":"56250","region":"Bretagne","city":"Sulniac","latitude":47.67375,"longitude":-2.57136}}(window,'GeoPostal','FR');

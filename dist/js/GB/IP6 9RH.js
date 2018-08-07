@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9RH"]={"code":"IP6 9RH","region":"England","city":"Hemingstone","latitude":52.14014,"longitude":1.14211}}(window,'GeoPostal','GB');

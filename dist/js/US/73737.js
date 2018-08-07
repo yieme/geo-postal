@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73737"]={"code":"73737","region":"Oklahoma","city":"Fairview","latitude":36.26892,"longitude":-98.4798}}(window,'GeoPostal','US');

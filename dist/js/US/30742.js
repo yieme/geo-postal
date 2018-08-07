@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30742"]={"code":"30742","region":"Georgia","city":"Fort Oglethorpe","latitude":34.9529,"longitude":-85.244589}}(window,'GeoPostal','US');

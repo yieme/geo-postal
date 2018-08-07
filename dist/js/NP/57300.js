@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57300"]={"code":"57300","region":"Mechi","city":"Ilam","latitude":26.90943,"longitude":87.92824}}(window,'GeoPostal','NP');

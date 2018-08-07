@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72369"]={"code":"72369","region":"AR","city":"Oneida","latitude":34.4542,"longitude":-90.7684}}(window,'GeoPostal','US');

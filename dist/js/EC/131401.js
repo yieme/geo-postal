@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131401"]={"code":"131401","region":"Manabi","city":"Bahia de Caraquez","latitude":-0.6,"longitude":-80.41667}}(window,'GeoPostal','EC');

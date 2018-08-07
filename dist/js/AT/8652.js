@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8652"]={"code":"8652","region":"Steiermark","city":"Kindberg","latitude":47.5,"longitude":15.45}}(window,'GeoPostal','AT');

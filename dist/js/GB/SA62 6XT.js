@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6XT"]={"code":"SA62 6XT","region":"Wales","city":"Carnhedryn","latitude":51.90603,"longitude":-5.1982}}(window,'GeoPostal','GB');

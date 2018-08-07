@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50538"]={"code":"50538","region":"IA","city":"Farnhamville","latitude":42.2692,"longitude":-94.4226}}(window,'GeoPostal','US');

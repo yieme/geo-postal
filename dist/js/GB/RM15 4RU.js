@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM15 4RU"]={"code":"RM15 4RU","region":"England","city":"Aveley","latitude":51.49987,"longitude":0.25174}}(window,'GeoPostal','GB');

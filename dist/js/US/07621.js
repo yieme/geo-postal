@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07621"]={"code":"07621","region":"New Jersey","city":"Bergenfield","latitude":40.9276,"longitude":-73.99736}}(window,'GeoPostal','US');

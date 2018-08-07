@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9HH"]={"code":"TD6 9HH","region":"Scotland","city":"Newtown Saint Boswells","latitude":55.58333,"longitude":-2.68333}}(window,'GeoPostal','GB');

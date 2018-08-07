@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63849"]={"code":"63849","region":"Bayern","city":"Soden","latitude":49.92636,"longitude":9.21672}}(window,'GeoPostal','DE');

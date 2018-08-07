@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35740-000"]={"code":"35740-000","region":"Minas Gerais","city":"Esmeraldas","latitude":-19.7625,"longitude":-44.31389}}(window,'GeoPostal','BR');

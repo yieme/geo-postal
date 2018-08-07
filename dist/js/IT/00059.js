@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00059"]={"code":"00059","region":"Lazio","city":"Tolfa","latitude":42.15142,"longitude":11.93646}}(window,'GeoPostal','IT');

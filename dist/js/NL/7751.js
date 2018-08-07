@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7751"]={"code":"7751","region":"Drenthe","city":"Dalen","latitude":52.69917,"longitude":6.75556}}(window,'GeoPostal','NL');

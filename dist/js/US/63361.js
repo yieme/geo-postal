@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63361"]={"code":"63361","region":"Missouri","city":"Montgomery City","latitude":38.97754,"longitude":-91.50488}}(window,'GeoPostal','US');

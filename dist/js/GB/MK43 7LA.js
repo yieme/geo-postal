@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MK43 7LA"]={"code":"MK43 7LA","region":"England","city":"Carlton","latitude":52.18801,"longitude":-0.60704}}(window,'GeoPostal','GB');

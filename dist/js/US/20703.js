@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20703"]={"code":"20703","region":"Maryland","city":"Lanham","latitude":38.96706,"longitude":-76.86192}}(window,'GeoPostal','US');

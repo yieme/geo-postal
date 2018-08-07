@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06029"]={"code":"06029","region":"Umbria","city":"Valfabbrica","latitude":43.15925,"longitude":12.60306}}(window,'GeoPostal','IT');

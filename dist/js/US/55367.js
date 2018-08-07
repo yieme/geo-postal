@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55367"]={"code":"55367","region":"MN","city":"New Germany","latitude":44.8994,"longitude":-93.9701}}(window,'GeoPostal','US');

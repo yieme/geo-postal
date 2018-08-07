@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-233"]={"code":"63-233","region":"Wielkopolskie","city":"Jaraczewo","latitude":51.96854,"longitude":17.29707}}(window,'GeoPostal','PL');

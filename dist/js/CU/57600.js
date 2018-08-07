@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57600"]={"code":"57600","region":"Cienfuegos","city":"Cumanayagua","latitude":22.14944,"longitude":-80.20222}}(window,'GeoPostal','CU');

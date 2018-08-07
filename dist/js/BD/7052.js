@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7052"]={"code":"7052","region":"Khulna","city":"Kushtia","latitude":23.90105,"longitude":89.12207}}(window,'GeoPostal','BD');

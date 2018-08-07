@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20851"]={"code":"20851","region":"Lombardia","city":"Lissone","latitude":45.61236,"longitude":9.23985}}(window,'GeoPostal','IT');

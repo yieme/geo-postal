@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83957"]={"code":"83957","region":"Provence-Alpes-Cote d'Azur","city":"La Garde","latitude":43.12277,"longitude":6.00745}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64501"]={"code":"64501","region":"Polvamaa","city":"Rapina","latitude":58.09806,"longitude":27.46361}}(window,'GeoPostal','EE');

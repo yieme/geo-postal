@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43500"]={"code":"43500","region":"Keski-Suomi","city":"Karstula","latitude":62.86667,"longitude":24.78333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38343"]={"code":"38343","region":"Tennessee","city":"Humboldt","latitude":35.839341,"longitude":-88.909636}}(window,'GeoPostal','US');

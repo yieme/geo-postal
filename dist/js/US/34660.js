@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34660"]={"code":"34660","region":"Florida","city":"Ozona","latitude":28.067393,"longitude":-82.779167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76061"]={"code":"76061","region":"TX","city":"Lillian","latitude":32.5065,"longitude":-97.1875}}(window,'GeoPostal','US');

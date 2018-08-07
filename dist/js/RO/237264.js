@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237264"]={"code":"237264","region":"Bacau","city":"Onesti","latitude":46.258611,"longitude":26.769167}}(window,'GeoPostal','RO');

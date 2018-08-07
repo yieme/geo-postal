@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08370"]={"code":"08370","region":"New Jersey","city":"Edison","latitude":39.8624,"longitude":-74.7251}}(window,'GeoPostal','US');

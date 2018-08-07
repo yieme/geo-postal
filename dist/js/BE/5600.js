@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5600"]={"code":"5600","region":"Namur","city":"Philippeville","latitude":50.19612,"longitude":4.54374}}(window,'GeoPostal','BE');

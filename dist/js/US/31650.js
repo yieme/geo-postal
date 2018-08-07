@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31650"]={"code":"31650","region":"Georgia","city":"Willacoochee","latitude":31.34076,"longitude":-83.04598}}(window,'GeoPostal','US');

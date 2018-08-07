@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8T 1A1"]={"code":"E8T 1A1","region":"New Brunswick","city":"Lameque","latitude":47.79361,"longitude":-64.6475}}(window,'GeoPostal','CA');

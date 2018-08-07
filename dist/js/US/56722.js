@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56722"]={"code":"56722","region":"MN","city":"Euclid","latitude":47.9845,"longitude":-96.6428}}(window,'GeoPostal','US');

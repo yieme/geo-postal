@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45882"]={"code":"45882","region":"OH","city":"Rockford","latitude":40.6771,"longitude":-84.6642}}(window,'GeoPostal','US');

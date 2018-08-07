@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65001"]={"code":"65001","region":"Rio Negro","city":"San Javier","latitude":-32.68333,"longitude":-58.13333}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["814 00"]={"code":"814 00","region":"Voreio Aigaio","city":"Myrina","latitude":39.87972,"longitude":25.07417}}(window,'GeoPostal','GR');

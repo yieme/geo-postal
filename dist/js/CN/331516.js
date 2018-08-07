@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331516"]={"code":"331516","region":"Jiangxi","city":"Junbu","latitude":26.70452,"longitude":115.66564}}(window,'GeoPostal','CN');

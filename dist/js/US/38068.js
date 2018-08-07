@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38068"]={"code":"38068","region":"TN","city":"Somerville","latitude":35.2772,"longitude":-89.3918}}(window,'GeoPostal','US');

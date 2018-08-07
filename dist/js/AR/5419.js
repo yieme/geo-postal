@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5419"]={"code":"5419","region":"San Juan","city":"Albardon","latitude":-31.43722,"longitude":-68.52556}}(window,'GeoPostal','AR');

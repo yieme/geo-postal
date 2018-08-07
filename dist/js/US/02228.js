@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02228"]={"code":"02228","region":"MA","city":"East Boston","latitude":42.35,"longitude":-71.06}}(window,'GeoPostal','US');

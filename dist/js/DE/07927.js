@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07927"]={"code":"07927","region":"Thuringen","city":"Hirschberg","latitude":50.40538,"longitude":11.81829}}(window,'GeoPostal','DE');

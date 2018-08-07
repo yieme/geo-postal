@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45331"]={"code":"45331","region":"Centre-Val de Loire","city":"Malesherbes","latitude":48.29566,"longitude":2.40935}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19980"]={"code":"19980","region":"DE","city":"Woodside","latitude":39.0724,"longitude":-75.5711}}(window,'GeoPostal','US');

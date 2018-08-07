@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19940"]={"code":"19940","region":"Delaware","city":"Delmar","latitude":38.45651,"longitude":-75.57715}}(window,'GeoPostal','US');

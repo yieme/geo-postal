@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97844"]={"code":"97844","region":"Oregon","city":"Irrigon","latitude":45.89569,"longitude":-119.49141}}(window,'GeoPostal','US');

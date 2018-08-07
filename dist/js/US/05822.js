@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05822"]={"code":"05822","region":"Vermont","city":"Barton","latitude":44.76361,"longitude":-72.18667}}(window,'GeoPostal','US');

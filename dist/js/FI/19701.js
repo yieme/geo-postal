@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19701"]={"code":"19701","region":"Paijat-Hame","city":"Sysma","latitude":61.5,"longitude":25.68333}}(window,'GeoPostal','FI');

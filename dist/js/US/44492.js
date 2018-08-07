@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44492"]={"code":"44492","region":"OH","city":"West Point","latitude":40.7093,"longitude":-80.7014}}(window,'GeoPostal','US');

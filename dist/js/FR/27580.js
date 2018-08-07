@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27580"]={"code":"27580","region":"Normandie","city":"Bourth","latitude":48.76846,"longitude":0.80911}}(window,'GeoPostal','FR');

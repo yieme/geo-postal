@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80570"]={"code":"80570","region":"Hauts-de-France","city":"Dargnies","latitude":50.04144,"longitude":1.52526}}(window,'GeoPostal','FR');

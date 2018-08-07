@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70426"]={"code":"70426","region":"Louisiana","city":"Angie","latitude":30.96444,"longitude":-89.81361}}(window,'GeoPostal','US');

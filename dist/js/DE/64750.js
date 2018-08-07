@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64750"]={"code":"64750","region":"Hessen","city":"Lutzel-Wiebelsbach","latitude":49.78586,"longitude":9.07804}}(window,'GeoPostal','DE');

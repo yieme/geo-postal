@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19303"]={"code":"19303","region":"Mecklenburg-Vorpommern","city":"Benz","latitude":53.24621,"longitude":11.11542}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49406"]={"code":"49406","region":"Niedersachsen","city":"Dorpel","latitude":52.67159,"longitude":8.58513}}(window,'GeoPostal','DE');

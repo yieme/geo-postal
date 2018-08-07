@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77430"]={"code":"77430","region":"Ile-de-France","city":"Champagne-sur-Seine","latitude":48.39794,"longitude":2.79785}}(window,'GeoPostal','FR');

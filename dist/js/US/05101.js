@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05101"]={"code":"05101","region":"Vermont","city":"Bellows Falls","latitude":43.13341,"longitude":-72.44398}}(window,'GeoPostal','US');

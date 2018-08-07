@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47336"]={"code":"47336","region":"IN","city":"Dunkirk","latitude":40.3883,"longitude":-85.2255}}(window,'GeoPostal','US');

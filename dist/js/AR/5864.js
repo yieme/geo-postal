@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5864"]={"code":"5864","region":"Cordoba","city":"Villa del Dique","latitude":-32.17667,"longitude":-64.45543}}(window,'GeoPostal','AR');

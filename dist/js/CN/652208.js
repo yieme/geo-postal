@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652208"]={"code":"652208","region":"Yunnan","city":"Beidacun Xiaozhai","latitude":24.85789,"longitude":103.35988}}(window,'GeoPostal','CN');

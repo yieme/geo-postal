@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49328"]={"code":"49328","region":"MI","city":"Hopkins","latitude":42.6421,"longitude":-85.7322}}(window,'GeoPostal','US');

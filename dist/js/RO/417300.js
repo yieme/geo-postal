@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417300"]={"code":"417300","region":"Bihor","city":"Lazuri de Beius","latitude":46.58333,"longitude":22.4}}(window,'GeoPostal','RO');

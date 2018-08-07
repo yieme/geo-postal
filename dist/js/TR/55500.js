@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55500"]={"code":"55500","region":"Samsun","city":"Carsamba","latitude":41.19889,"longitude":36.72194}}(window,'GeoPostal','TR');

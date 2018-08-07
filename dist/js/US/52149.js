@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52149"]={"code":"52149","region":"Iowa","city":"Highlandville","latitude":43.30578,"longitude":-91.79238}}(window,'GeoPostal','US');

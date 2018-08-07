@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01016"]={"code":"01016","region":"Lazio","city":"Tarquinia","latitude":42.25419,"longitude":11.75657}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8600"]={"code":"8600","region":"Yambol","city":"Yambol","latitude":42.48333,"longitude":26.5}}(window,'GeoPostal','BG');

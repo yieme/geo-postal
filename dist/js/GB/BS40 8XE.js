@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 8XE"]={"code":"BS40 8XE","region":"England","city":"Chew Stoke","latitude":51.35365,"longitude":-2.63266}}(window,'GeoPostal','GB');

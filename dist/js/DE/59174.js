@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59174"]={"code":"59174","region":"Nordrhein-Westfalen","city":"Kamen","latitude":51.59231,"longitude":7.6638}}(window,'GeoPostal','DE');

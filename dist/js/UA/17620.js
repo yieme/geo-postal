@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17620"]={"code":"17620","region":"Chernihivska oblast","city":"Zhuravka","latitude":50.48108,"longitude":32.5949}}(window,'GeoPostal','UA');

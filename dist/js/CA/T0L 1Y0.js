@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 1Y0"]={"code":"T0L 1Y0","region":"Alberta","city":"Ardenville","latitude":49.54999,"longitude":-113.45189}}(window,'GeoPostal','CA');

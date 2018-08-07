@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92610"]={"code":"92610","region":"California","city":"Foothill Ranch","latitude":33.68178,"longitude":-117.63198}}(window,'GeoPostal','US');

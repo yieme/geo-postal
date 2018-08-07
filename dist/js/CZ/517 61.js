@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 61"]={"code":"517 61","region":"Kralovehradecky kraj","city":"Rokytnice v Orlickych Horach","latitude":50.16473,"longitude":16.46567}}(window,'GeoPostal','CZ');

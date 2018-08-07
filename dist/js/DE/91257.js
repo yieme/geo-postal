@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91257"]={"code":"91257","region":"Bayern","city":"Pegnitz","latitude":49.75216,"longitude":11.54187}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68323"]={"code":"68323","region":"Odeska oblast","city":"Kiliya","latitude":45.45518,"longitude":29.26367}}(window,'GeoPostal','UA');

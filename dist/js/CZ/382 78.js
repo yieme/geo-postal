@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 78"]={"code":"382 78","region":"Jihocesky kraj","city":"Loucovice","latitude":48.6209,"longitude":14.24976}}(window,'GeoPostal','CZ');

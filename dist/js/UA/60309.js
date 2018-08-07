@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60309"]={"code":"60309","region":"Chernivetska oblast","city":"Marshintsy","latitude":48.21751,"longitude":26.29133}}(window,'GeoPostal','UA');

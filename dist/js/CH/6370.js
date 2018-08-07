@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6370"]={"code":"6370","region":"Nidwalden","city":"Stans","latitude":46.95845,"longitude":8.366}}(window,'GeoPostal','CH');

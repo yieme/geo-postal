@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6061"]={"code":"6061","region":"Western Australia","city":"Westminster","latitude":-31.86744,"longitude":115.83919}}(window,'GeoPostal','AU');

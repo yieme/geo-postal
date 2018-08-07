@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 0T0"]={"code":"R0L 0T0","region":"Manitoba","city":"Ethelbert","latitude":51.52921,"longitude":-100.39417}}(window,'GeoPostal','CA');

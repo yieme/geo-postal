@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["437151"]={"code":"437151","region":"Cluj","city":"Unguras","latitude":47.11667,"longitude":24.05}}(window,'GeoPostal','RO');

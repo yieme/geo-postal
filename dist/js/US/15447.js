@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15447"]={"code":"15447","region":"PA","city":"Isabella","latitude":39.946,"longitude":-79.9393}}(window,'GeoPostal','US');

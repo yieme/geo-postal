@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86430-000"]={"code":"86430-000","region":"Parana","city":"Santo Antonio da Platina","latitude":-23.295,"longitude":-50.07722}}(window,'GeoPostal','BR');

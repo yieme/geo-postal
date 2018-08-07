@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76230-000"]={"code":"76230-000","region":"Goias","city":"Piranhas","latitude":-16.42694,"longitude":-51.82222}}(window,'GeoPostal','BR');

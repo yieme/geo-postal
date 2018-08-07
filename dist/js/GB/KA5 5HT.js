@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA5 5HT"]={"code":"KA5 5HT","region":"Scotland","city":"Trabboch","latitude":55.46509,"longitude":-4.47118}}(window,'GeoPostal','GB');

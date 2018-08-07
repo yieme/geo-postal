@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48021"]={"code":"48021","region":"Michigan","city":"Eastpointe","latitude":42.46837,"longitude":-82.95547}}(window,'GeoPostal','US');

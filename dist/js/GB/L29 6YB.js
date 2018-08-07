@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L29 6YB"]={"code":"L29 6YB","region":"England","city":"Sefton","latitude":53.50407,"longitude":-2.97196}}(window,'GeoPostal','GB');

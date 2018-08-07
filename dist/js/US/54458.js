@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54458"]={"code":"54458","region":"WI","city":"Nelsonville","latitude":44.495,"longitude":-89.3098}}(window,'GeoPostal','US');

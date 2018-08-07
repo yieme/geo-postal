@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL60 6HY"]={"code":"LL60 6HY","region":"Wales","city":"Pentre Berw","latitude":53.2252,"longitude":-4.29171}}(window,'GeoPostal','GB');

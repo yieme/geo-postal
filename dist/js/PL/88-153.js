@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-153"]={"code":"88-153","region":"Kujawsko-pomorskie","city":"Kruszwica","latitude":52.67562,"longitude":18.33131}}(window,'GeoPostal','PL');

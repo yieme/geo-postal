@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12468"]={"code":"12468","region":"NY","city":"Prattsville","latitude":42.2979,"longitude":-74.3895}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242556"]={"code":"242556","region":"Anhui","city":"Xinhua","latitude":30.44823,"longitude":118.0393}}(window,'GeoPostal','CN');

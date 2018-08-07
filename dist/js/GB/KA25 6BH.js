@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA25 6BH"]={"code":"KA25 6BH","region":"Scotland","city":"Kilbirnie","latitude":55.75082,"longitude":-4.68791}}(window,'GeoPostal','GB');

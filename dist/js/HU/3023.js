@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3023"]={"code":"3023","region":"Heves","city":"Petofibanya","latitude":47.77942,"longitude":19.7055}}(window,'GeoPostal','HU');

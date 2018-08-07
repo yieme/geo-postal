@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02012"]={"code":"02012","region":"Lazio","city":"Amatrice","latitude":42.62664,"longitude":13.29508}}(window,'GeoPostal','IT');

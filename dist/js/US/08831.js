@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08831"]={"code":"08831","region":"New Jersey","city":"Jamesburg","latitude":40.349004,"longitude":-74.441702}}(window,'GeoPostal','US');

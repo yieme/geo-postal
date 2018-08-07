@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["743300"]={"code":"743300","region":"Gansu","city":"Pingxiang","latitude":35.2079,"longitude":105.25058}}(window,'GeoPostal','CN');

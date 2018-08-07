@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4569"]={"code":"4569","region":"Queensland","city":"Federal","latitude":-26.39421,"longitude":152.80759}}(window,'GeoPostal','AU');

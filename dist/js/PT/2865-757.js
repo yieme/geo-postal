@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2865-757"]={"code":"2865-757","region":"Setubal","city":"Moita","latitude":38.65078,"longitude":-8.99038}}(window,'GeoPostal','PT');

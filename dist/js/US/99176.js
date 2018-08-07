@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99176"]={"code":"99176","region":"WA","city":"Thornton","latitude":47.1253,"longitude":-117.3864}}(window,'GeoPostal','US');

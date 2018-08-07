@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78341"]={"code":"78341","region":"TX","city":"Benavides","latitude":27.5925,"longitude":-98.4142}}(window,'GeoPostal','US');

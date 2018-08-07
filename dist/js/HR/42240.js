@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42240"]={"code":"42240","region":"Varazdinska zupanija","city":"Ivanec","latitude":46.22306,"longitude":16.12}}(window,'GeoPostal','HR');

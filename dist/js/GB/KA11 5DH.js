@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA11 5DH"]={"code":"KA11 5DH","region":"Scotland","city":"Irvine","latitude":55.6194,"longitude":-4.65508}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364545"]={"code":"364545","region":"Gujarat","city":"Kundla","latitude":21.33333,"longitude":71.3}}(window,'GeoPostal','IN');

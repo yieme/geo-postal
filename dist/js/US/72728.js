@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72728"]={"code":"72728","region":"AR","city":"Elm Springs","latitude":36.21,"longitude":-94.2546}}(window,'GeoPostal','US');

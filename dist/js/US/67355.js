@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67355"]={"code":"67355","region":"Kansas","city":"Niotaze","latitude":37.01078,"longitude":-95.926709}}(window,'GeoPostal','US');

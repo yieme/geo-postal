@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54690"]={"code":"54690","region":"Grand-Est","city":"Eulmont","latitude":48.75174,"longitude":6.22593}}(window,'GeoPostal','FR');

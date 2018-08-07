@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55910"]={"code":"55910","region":"MN","city":"Altura","latitude":44.1361,"longitude":-91.9745}}(window,'GeoPostal','US');

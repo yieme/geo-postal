@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72501"]={"code":"72501","region":"Arkansas","city":"Batesville","latitude":35.771968,"longitude":-91.637407}}(window,'GeoPostal','US');

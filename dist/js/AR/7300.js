@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300"]={"code":"7300","region":"Buenos Aires","city":"Azul","latitude":-36.77698,"longitude":-59.85854}}(window,'GeoPostal','AR');

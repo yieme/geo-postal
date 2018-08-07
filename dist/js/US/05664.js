@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05664"]={"code":"05664","region":"Vermont","city":"Northfield Falls","latitude":44.171944,"longitude":-72.651389}}(window,'GeoPostal','US');

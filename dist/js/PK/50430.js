@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50430"]={"code":"50430","region":"Punjab","city":"Phalia","latitude":32.42973,"longitude":73.57745}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66835"]={"code":"66835","region":"KS","city":"Americus","latitude":38.5098,"longitude":-96.2608}}(window,'GeoPostal','US');

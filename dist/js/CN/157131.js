@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157131"]={"code":"157131","region":"Heilongjiang","city":"Chaihe","latitude":44.76667,"longitude":129.7}}(window,'GeoPostal','CN');

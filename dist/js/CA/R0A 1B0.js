@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1B0"]={"code":"R0A 1B0","region":"Manitoba","city":"Middlebro","latitude":49.01968,"longitude":-95.4419}}(window,'GeoPostal','CA');

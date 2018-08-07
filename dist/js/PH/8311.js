@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8311"]={"code":"8311","region":"Leyte","city":"Tanauan","latitude":11.10944,"longitude":125.01556}}(window,'GeoPostal','PH');

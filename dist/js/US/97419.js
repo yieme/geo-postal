@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97419"]={"code":"97419","region":"OR","city":"Cheshire","latitude":44.1782,"longitude":-123.3715}}(window,'GeoPostal','US');

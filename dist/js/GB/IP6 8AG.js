@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 8AG"]={"code":"IP6 8AG","region":"England","city":"Needham Market","latitude":52.1555,"longitude":1.0516}}(window,'GeoPostal','GB');

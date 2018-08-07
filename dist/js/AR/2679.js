@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2679"]={"code":"2679","region":"Cordoba","city":"Pascanas","latitude":-33.1255,"longitude":-63.04084}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4260000"]={"code":"4260000","region":"Biobio","city":"Talcahuano","latitude":-36.71667,"longitude":-73.11667}}(window,'GeoPostal','CL');

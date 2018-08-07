@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96272"]={"code":"96272","region":"Bayern","city":"Wolfsloch","latitude":50.14212,"longitude":11.1818}}(window,'GeoPostal','DE');

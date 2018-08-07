@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB25 0JS"]={"code":"CB25 0JS","region":"England","city":"Swaffham Prior","latitude":52.25245,"longitude":0.30066}}(window,'GeoPostal','GB');

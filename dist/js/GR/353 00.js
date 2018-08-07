@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353 00"]={"code":"353 00","region":"Sterea Ellada","city":"Stilis","latitude":38.91667,"longitude":22.61667}}(window,'GeoPostal','GR');

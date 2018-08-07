@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18209"]={"code":"18209","region":"Mecklenburg-Vorpommern","city":"Stulow","latitude":54.08744,"longitude":11.88459}}(window,'GeoPostal','DE');

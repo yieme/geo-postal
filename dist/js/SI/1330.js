@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1330"]={"code":"1330","region":"Kocevje","city":"Kocevje","latitude":45.64333,"longitude":14.86333}}(window,'GeoPostal','SI');

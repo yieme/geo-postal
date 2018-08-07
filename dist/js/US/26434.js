@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26434"]={"code":"26434","region":"WV","city":"Shirley","latitude":39.3981,"longitude":-80.7651}}(window,'GeoPostal','US');

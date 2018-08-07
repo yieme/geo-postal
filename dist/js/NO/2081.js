@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2081"]={"code":"2081","region":"Akershus","city":"Eidsvoll","latitude":60.33046,"longitude":11.26161}}(window,'GeoPostal','NO');

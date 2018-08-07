@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93640"]={"code":"93640","region":"California","city":"Mendota","latitude":36.75356,"longitude":-120.38156}}(window,'GeoPostal','US');

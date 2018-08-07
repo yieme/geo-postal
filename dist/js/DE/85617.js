@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85617"]={"code":"85617","region":"Bayern","city":"Assling","latitude":47.99297,"longitude":12.00643}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["536-807"]={"code":"536-807","region":"Jeollanam-do","city":"Haenam","latitude":34.57111,"longitude":126.59889}}(window,'GeoPostal','KR');

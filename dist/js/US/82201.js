@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82201"]={"code":"82201","region":"Wyoming","city":"Wheatland","latitude":42.05441,"longitude":-104.95275}}(window,'GeoPostal','US');

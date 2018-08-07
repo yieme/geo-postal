@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93627"]={"code":"93627","region":"CA","city":"Helm","latitude":36.5316,"longitude":-120.0982}}(window,'GeoPostal','US');

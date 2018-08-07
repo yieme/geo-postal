@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22210"]={"code":"22210","region":"Virginia","city":"Arlington","latitude":38.88753,"longitude":-77.0927}}(window,'GeoPostal','US');

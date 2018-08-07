@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19273"]={"code":"19273","region":"Mecklenburg-Vorpommern","city":"Neuhaus","latitude":53.28641,"longitude":10.92831}}(window,'GeoPostal','DE');

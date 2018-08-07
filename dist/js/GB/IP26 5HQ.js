@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP26 5HQ"]={"code":"IP26 5HQ","region":"England","city":"Mundford","latitude":52.51246,"longitude":0.65682}}(window,'GeoPostal','GB');

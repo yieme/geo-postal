@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA38 4BW"]={"code":"PA38 4BW","region":"Scotland","city":"Acharra","latitude":56.63333,"longitude":-5.28333}}(window,'GeoPostal','GB');

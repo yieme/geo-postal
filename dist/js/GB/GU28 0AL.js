@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 0AL"]={"code":"GU28 0AL","region":"England","city":"Petworth","latitude":50.98669,"longitude":-0.61}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6150"]={"code":"6150","region":"Tirol","city":"Steinach am Brenner","latitude":47.08333,"longitude":11.46667}}(window,'GeoPostal','AT');

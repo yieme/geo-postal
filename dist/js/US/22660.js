@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22660"]={"code":"22660","region":"VA","city":"Toms Brook","latitude":38.9476,"longitude":-78.4331}}(window,'GeoPostal','US');

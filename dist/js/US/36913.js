@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36913"]={"code":"36913","region":"AL","city":"Melvin","latitude":31.9304,"longitude":-88.4589}}(window,'GeoPostal','US');

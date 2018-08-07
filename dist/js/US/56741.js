@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56741"]={"code":"56741","region":"Minnesota","city":"Warroad","latitude":48.90527,"longitude":-95.3144}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0J 1M0"]={"code":"S0J 1M0","region":"Saskatchewan","city":"Damour","latitude":53.0668,"longitude":-107.00116}}(window,'GeoPostal','CA');

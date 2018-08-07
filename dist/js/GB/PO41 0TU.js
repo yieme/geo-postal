@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO41 0TU"]={"code":"PO41 0TU","region":"England","city":"Newbridge","latitude":50.68689,"longitude":-1.41932}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2777"]={"code":"2777","region":"North-West","city":"Mmabatho","latitude":-25.85,"longitude":25.63333}}(window,'GeoPostal','ZA');

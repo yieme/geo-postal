@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59217"]={"code":"59217","region":"Montana","city":"Crane","latitude":47.711365,"longitude":-104.1832}}(window,'GeoPostal','US');

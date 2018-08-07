@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88307"]={"code":"88307","region":"Grand-Est","city":"Neufchateau","latitude":48.35,"longitude":5.7}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140168"]={"code":"140168","region":"Moskovskaya oblast'","city":"Troitskoye","latitude":55.3,"longitude":38.53333}}(window,'GeoPostal','RU');

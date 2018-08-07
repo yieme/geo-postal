@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9426"]={"code":"9426","region":"Vlore","city":"Orikum","latitude":40.32528,"longitude":19.47139}}(window,'GeoPostal','AL');

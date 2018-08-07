@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1929"]={"code":"1929","region":"Akershus","city":"Auli","latitude":60.0345,"longitude":11.36046}}(window,'GeoPostal','NO');

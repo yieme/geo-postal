@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75082"]={"code":"75082","region":"Texas","city":"Richardson","latitude":32.992399,"longitude":-96.682108}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303580"]={"code":"303580","region":"Orlovskaya oblast'","city":"Korsakovo","latitude":53.26766,"longitude":37.35689}}(window,'GeoPostal','RU');

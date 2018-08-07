@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62538"]={"code":"62538","region":"IL","city":"Harvel","latitude":39.3719,"longitude":-89.538}}(window,'GeoPostal','US');

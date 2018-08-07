@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43106"]={"code":"43106","region":"OH","city":"Bloomingburg","latitude":39.6286,"longitude":-83.4095}}(window,'GeoPostal','US');

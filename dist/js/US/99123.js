@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99123"]={"code":"99123","region":"Washington","city":"Electric City","latitude":47.93083,"longitude":-119.03611}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3260-505"]={"code":"3260-505","region":"Leiria","city":"Lourical","latitude":40.0039,"longitude":-8.73736}}(window,'GeoPostal','PT');

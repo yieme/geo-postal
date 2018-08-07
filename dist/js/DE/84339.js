@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84339"]={"code":"84339","region":"Bayern","city":"Huldsessen","latitude":48.39668,"longitude":12.69629}}(window,'GeoPostal','DE');

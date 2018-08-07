@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11595"]={"code":"11595","region":"NY","city":"Cheeselovers","latitude":40.75,"longitude":-73.58}}(window,'GeoPostal','US');

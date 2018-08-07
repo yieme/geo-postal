@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8591"]={"code":"8591","region":"Nordland","city":"Kjopsvik","latitude":68.09696,"longitude":16.37416}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2463"]={"code":"2463","region":"New South Wales","city":"Maclean","latitude":-29.4581,"longitude":153.19752}}(window,'GeoPostal','AU');

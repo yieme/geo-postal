@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54921"]={"code":"54921","region":"WI","city":"Bancroft","latitude":44.3065,"longitude":-89.5304}}(window,'GeoPostal','US');

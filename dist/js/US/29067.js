@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29067"]={"code":"29067","region":"South Carolina","city":"Kershaw","latitude":34.55182,"longitude":-80.58368}}(window,'GeoPostal','US');

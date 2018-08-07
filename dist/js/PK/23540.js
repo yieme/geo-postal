@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23540"]={"code":"23540","region":"Khyber Pakhtunkhwa","city":"Zaida","latitude":34.06028,"longitude":72.46778}}(window,'GeoPostal','PK');

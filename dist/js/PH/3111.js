@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3111"]={"code":"3111","region":"Nueva Ecija","city":"Santo Rosario","latitude":15.434,"longitude":120.8913}}(window,'GeoPostal','PH');

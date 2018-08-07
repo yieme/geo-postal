@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393400"]={"code":"393400","region":"Tambovskaya oblast'","city":"Znamenka","latitude":52.4167,"longitude":41.43108}}(window,'GeoPostal','RU');

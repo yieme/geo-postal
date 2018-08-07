@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13770-000"]={"code":"13770-000","region":"Sao Paulo","city":"Caconde","latitude":-21.52944,"longitude":-46.64389}}(window,'GeoPostal','BR');

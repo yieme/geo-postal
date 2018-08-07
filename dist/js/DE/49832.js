@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49832"]={"code":"49832","region":"Niedersachsen","city":"Freren","latitude":52.487,"longitude":7.54313}}(window,'GeoPostal','DE');

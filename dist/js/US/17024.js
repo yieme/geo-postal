@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17024"]={"code":"17024","region":"PA","city":"Elliottsburg","latitude":40.4096,"longitude":-77.3121}}(window,'GeoPostal','US');

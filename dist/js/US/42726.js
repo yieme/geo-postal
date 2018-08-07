@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42726"]={"code":"42726","region":"KY","city":"Clarkson","latitude":37.4336,"longitude":-86.2083}}(window,'GeoPostal','US');

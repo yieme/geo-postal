@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79834"]={"code":"79834","region":"Texas","city":"Big Bend National Park","latitude":29.25,"longitude":-103.25}}(window,'GeoPostal','US');

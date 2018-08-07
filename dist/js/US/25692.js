@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25692"]={"code":"25692","region":"WV","city":"Red Jacket","latitude":37.6484,"longitude":-82.1401}}(window,'GeoPostal','US');

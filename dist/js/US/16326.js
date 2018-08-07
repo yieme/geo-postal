@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16326"]={"code":"16326","region":"PA","city":"Fryburg","latitude":41.3717,"longitude":-79.4134}}(window,'GeoPostal','US');

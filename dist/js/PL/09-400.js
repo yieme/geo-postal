@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09-400"]={"code":"09-400","region":"Mazowieckie","city":"Plock","latitude":52.54682,"longitude":19.70638}}(window,'GeoPostal','PL');

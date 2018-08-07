@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["920 41"]={"code":"920 41","region":"Trnavsky kraj","city":"Leopoldov","latitude":48.44575,"longitude":17.76458}}(window,'GeoPostal','SK');

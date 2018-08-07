@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627129"]={"code":"627129","region":"Tamil Nadu","city":"Vadakku Valliyur","latitude":8.38333,"longitude":77.65}}(window,'GeoPostal','IN');

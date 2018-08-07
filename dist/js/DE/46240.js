@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46240"]={"code":"46240","region":"Nordrhein-Westfalen","city":"Bottrop","latitude":51.52392,"longitude":6.9285}}(window,'GeoPostal','DE');

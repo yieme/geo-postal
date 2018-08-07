@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34880"]={"code":"34880","region":"Castilla y Leon","city":"Guardo","latitude":42.78966,"longitude":-4.84823}}(window,'GeoPostal','ES');

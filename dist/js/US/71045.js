@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71045"]={"code":"71045","region":"Louisiana","city":"Jamestown","latitude":32.377789,"longitude":-93.183376}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25044"]={"code":"25044","region":"WV","city":"Clear Creek","latitude":37.9162,"longitude":-81.3443}}(window,'GeoPostal','US');

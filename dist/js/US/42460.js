@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42460"]={"code":"42460","region":"Kentucky","city":"Sullivan","latitude":37.4975,"longitude":-87.945278}}(window,'GeoPostal','US');

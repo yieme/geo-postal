@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88200"]={"code":"88200","region":"Sabah","city":"Kinarut","latitude":5.8231,"longitude":116.0466}}(window,'GeoPostal','MY');

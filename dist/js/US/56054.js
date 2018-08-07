@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56054"]={"code":"56054","region":"Minnesota","city":"Lafayette","latitude":44.446904,"longitude":-94.394351}}(window,'GeoPostal','US');

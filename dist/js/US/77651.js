@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77651"]={"code":"77651","region":"Texas","city":"Port Neches","latitude":29.979432,"longitude":-93.960228}}(window,'GeoPostal','US');

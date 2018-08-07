@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 9PT"]={"code":"HR2 9PT","region":"England","city":"Tyberton","latitude":52.05213,"longitude":-2.90287}}(window,'GeoPostal','GB');

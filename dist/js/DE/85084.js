@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85084"]={"code":"85084","region":"Bayern","city":"Baar","latitude":48.67215,"longitude":11.46646}}(window,'GeoPostal','DE');

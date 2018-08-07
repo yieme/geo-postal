@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6541"]={"code":"6541","region":"Leyte","city":"Ormoc","latitude":11.00639,"longitude":124.6075}}(window,'GeoPostal','PH');

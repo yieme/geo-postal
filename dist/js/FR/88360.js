@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88360"]={"code":"88360","region":"Grand-Est","city":"Rupt-sur-Moselle","latitude":47.92271,"longitude":6.66291}}(window,'GeoPostal','FR');

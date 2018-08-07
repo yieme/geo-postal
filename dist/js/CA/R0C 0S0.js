@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 0S0"]={"code":"R0C 0S0","region":"Manitoba","city":"Dallas","latitude":51.39221,"longitude":-97.48568}}(window,'GeoPostal','CA');

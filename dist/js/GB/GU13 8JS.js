@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU13 8JS"]={"code":"GU13 8JS","region":"England","city":"Branksome","latitude":50.7321,"longitude":-1.92344}}(window,'GeoPostal','GB');

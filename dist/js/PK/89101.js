@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89101"]={"code":"89101","region":"Balochistan","city":"Surab","latitude":28.49139,"longitude":66.2585}}(window,'GeoPostal','PK');

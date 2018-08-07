@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72074"]={"code":"72074","region":"AR","city":"Hunter","latitude":35.0529,"longitude":-91.1262}}(window,'GeoPostal','US');

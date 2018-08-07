@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29101"]={"code":"29101","region":"South Carolina","city":"McBee","latitude":34.4892,"longitude":-80.2482}}(window,'GeoPostal','US');

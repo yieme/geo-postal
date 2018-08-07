@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52225"]={"code":"52225","region":"IA","city":"Elberon","latitude":42.0088,"longitude":-92.3314}}(window,'GeoPostal','US');

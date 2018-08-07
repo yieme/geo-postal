@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82336"]={"code":"82336","region":"Wyoming","city":"Wamsutter","latitude":41.67083,"longitude":-107.9775}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0J 1V0"]={"code":"A0J 1V0","region":"Newfoundland and Labrador","city":"Triton","latitude":49.51664,"longitude":-55.61489}}(window,'GeoPostal','CA');

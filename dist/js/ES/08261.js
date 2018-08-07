@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08261"]={"code":"08261","region":"Catalunya","city":"Cardona","latitude":41.91371,"longitude":1.67855}}(window,'GeoPostal','ES');

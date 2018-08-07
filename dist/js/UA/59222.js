@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59222"]={"code":"59222","region":"Chernivetska oblast","city":"Ispas","latitude":48.29734,"longitude":25.27406}}(window,'GeoPostal','UA');

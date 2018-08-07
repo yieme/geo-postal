@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2843"]={"code":"2843","region":"Entre Rios","city":"General Galarza","latitude":-32.72034,"longitude":-59.39615}}(window,'GeoPostal','AR');

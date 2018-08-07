@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5139"]={"code":"5139","region":"Cordoba","city":"Marull","latitude":-30.99471,"longitude":-62.82576}}(window,'GeoPostal','AR');

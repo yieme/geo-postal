@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94624"]={"code":"94624","region":"Luhanska oblast","city":"Kamennoye","latitude":48.16928,"longitude":39.16565}}(window,'GeoPostal','UA');

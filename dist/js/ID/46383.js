@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46383"]={"code":"46383","region":"Jawa Barat","city":"Cikabuyutan Barat","latitude":-7.3785,"longitude":108.5422}}(window,'GeoPostal','ID');

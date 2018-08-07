@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08022"]={"code":"08022","region":"Sardegna","city":"Dorgali","latitude":40.29256,"longitude":9.58814}}(window,'GeoPostal','IT');

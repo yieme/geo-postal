@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68974"]={"code":"68974","region":"Nebraska","city":"Ruskin","latitude":40.132677,"longitude":-97.877225}}(window,'GeoPostal','US');

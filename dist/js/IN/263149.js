@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["263149"]={"code":"263149","region":"Uttarakhand","city":"Kaladhungi","latitude":29.28333,"longitude":79.35}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74820"]={"code":"74820","region":"Puebla","city":"Santa Ines Ahuatempan","latitude":18.41667,"longitude":-98.01667}}(window,'GeoPostal','MX');

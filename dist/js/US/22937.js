@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22937"]={"code":"22937","region":"VA","city":"Esmont","latitude":37.8125,"longitude":-78.6106}}(window,'GeoPostal','US');

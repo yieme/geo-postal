@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14744"]={"code":"14744","region":"NY","city":"Houghton","latitude":42.4228,"longitude":-78.2063}}(window,'GeoPostal','US');

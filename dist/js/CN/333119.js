@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333119"]={"code":"333119","region":"Jiangxi","city":"Youdunjie","latitude":29.377,"longitude":116.63742}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 62"]={"code":"763 62","region":"Zlinsky kraj","city":"Tlumacov","latitude":49.25351,"longitude":17.49559}}(window,'GeoPostal','CZ');

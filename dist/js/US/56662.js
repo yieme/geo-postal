@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56662"]={"code":"56662","region":"Minnesota","city":"Outing","latitude":46.82056,"longitude":-93.94806}}(window,'GeoPostal','US');

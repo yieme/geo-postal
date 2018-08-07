@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40818"]={"code":"40818","region":"Kentucky","city":"Coalgood","latitude":36.809141,"longitude":-83.238136}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68719-000"]={"code":"68719-000","region":"Para","city":"Sao Joao de Pirabas","latitude":-0.77472,"longitude":-47.17722}}(window,'GeoPostal','BR');

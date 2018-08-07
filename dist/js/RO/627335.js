@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627335"]={"code":"627335","region":"Vrancea","city":"Tanasoaia","latitude":46.1,"longitude":27.36667}}(window,'GeoPostal','RO');

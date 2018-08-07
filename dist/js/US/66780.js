@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66780"]={"code":"66780","region":"KS","city":"Walnut","latitude":37.5967,"longitude":-95.0455}}(window,'GeoPostal','US');

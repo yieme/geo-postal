@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49340"]={"code":"49340","region":"Pays-de-la-Loire","city":"Vezins","latitude":47.12015,"longitude":-0.70971}}(window,'GeoPostal','FR');

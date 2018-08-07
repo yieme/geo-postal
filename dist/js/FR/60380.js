@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60380"]={"code":"60380","region":"Hauts-de-France","city":"Songeons","latitude":49.54916,"longitude":1.85361}}(window,'GeoPostal','FR');

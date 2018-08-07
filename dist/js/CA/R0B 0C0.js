@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0B 0C0"]={"code":"R0B 0C0","region":"Manitoba","city":"Bakers Narrows","latitude":54.67733,"longitude":-101.66108}}(window,'GeoPostal','CA');

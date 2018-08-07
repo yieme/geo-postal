@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67119"]={"code":"67119","region":"Jawa Timur","city":"Purworejo","latitude":-8.2685,"longitude":112.3227}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11420"]={"code":"11420","region":"Ica","city":"Minas de Marcona","latitude":-15.21194,"longitude":-75.11028}}(window,'GeoPostal','PE');

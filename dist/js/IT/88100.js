@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88100"]={"code":"88100","region":"Calabria","city":"Catanzaro","latitude":38.89079,"longitude":16.5987}}(window,'GeoPostal','IT');

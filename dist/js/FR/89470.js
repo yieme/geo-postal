@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89470"]={"code":"89470","region":"Bourgogne-Franche-Comte","city":"Moneteau","latitude":47.84923,"longitude":3.58178}}(window,'GeoPostal','FR');

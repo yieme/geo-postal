@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98151"]={"code":"98151","region":"WA","city":"Goodwill Games 1990","latitude":47.6,"longitude":-122.33}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5254"]={"code":"5254","region":"Wellington","city":"Paraparaumu","latitude":-40.91667,"longitude":175.01667}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2275"]={"code":"2275","region":"Niederosterreich","city":"Bernhardsthal","latitude":48.69158,"longitude":16.86951}}(window,'GeoPostal','AT');

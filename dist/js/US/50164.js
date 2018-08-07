@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50164"]={"code":"50164","region":"Iowa","city":"Menlo","latitude":41.555792,"longitude":-94.419683}}(window,'GeoPostal','US');

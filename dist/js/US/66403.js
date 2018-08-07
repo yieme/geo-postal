@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66403"]={"code":"66403","region":"Kansas","city":"Axtell","latitude":39.871535,"longitude":-96.257224}}(window,'GeoPostal','US');

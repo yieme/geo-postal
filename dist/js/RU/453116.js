@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453116"]={"code":"453116","region":"Bashkortostan, Respublika","city":"Sterlitamak","latitude":53.62462,"longitude":55.95015}}(window,'GeoPostal','RU');

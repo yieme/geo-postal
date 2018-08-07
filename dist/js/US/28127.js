@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28127"]={"code":"28127","region":"North Carolina","city":"New London","latitude":35.398028,"longitude":-80.206134}}(window,'GeoPostal','US');

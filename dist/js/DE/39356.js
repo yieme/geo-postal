@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39356"]={"code":"39356","region":"Sachsen-Anhalt","city":"Ribbensdorf","latitude":52.32632,"longitude":11.1034}}(window,'GeoPostal','DE');

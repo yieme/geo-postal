@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1432"]={"code":"1432","region":"Noord-Holland","city":"Aalsmeer","latitude":52.25917,"longitude":4.75972}}(window,'GeoPostal','NL');

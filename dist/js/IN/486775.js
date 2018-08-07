@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486775"]={"code":"486775","region":"Madhya Pradesh","city":"Sidhi","latitude":24.41667,"longitude":81.88333}}(window,'GeoPostal','IN');

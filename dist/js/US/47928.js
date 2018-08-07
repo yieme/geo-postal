@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47928"]={"code":"47928","region":"Indiana","city":"Cayuga","latitude":39.94865,"longitude":-87.45974}}(window,'GeoPostal','US');

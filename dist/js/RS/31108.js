@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31108"]={"code":"31108","region":"Zlatiborski okrug","city":"Uzice","latitude":43.85861,"longitude":19.84878}}(window,'GeoPostal','RS');

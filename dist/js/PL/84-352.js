@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84-352"]={"code":"84-352","region":"Pomorskie","city":"Leba","latitude":54.76099,"longitude":17.55547}}(window,'GeoPostal','PL');

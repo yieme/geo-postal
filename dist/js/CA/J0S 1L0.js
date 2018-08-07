@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0S 1L0"]={"code":"J0S 1L0","region":"Quebec","city":"Saint-Anicet","latitude":45.11679,"longitude":-74.34925}}(window,'GeoPostal','CA');

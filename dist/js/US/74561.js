@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74561"]={"code":"74561","region":"OK","city":"Quinton","latitude":35.1547,"longitude":-95.4671}}(window,'GeoPostal','US');

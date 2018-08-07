@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333300"]={"code":"333300","region":"Jiangxi","city":"Leping","latitude":28.96667,"longitude":117.11667}}(window,'GeoPostal','CN');

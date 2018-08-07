@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["019 01"]={"code":"019 01","region":"Nitriansky kraj","city":"Ilava","latitude":48.99769,"longitude":18.2353}}(window,'GeoPostal','SK');

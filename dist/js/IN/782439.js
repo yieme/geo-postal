@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["782439"]={"code":"782439","region":"Assam","city":"Hojai","latitude":26,"longitude":92.86667}}(window,'GeoPostal','IN');

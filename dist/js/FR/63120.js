@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63120"]={"code":"63120","region":"Auvergne-Rhone-Alpes","city":"Courpiere","latitude":45.75689,"longitude":3.54216}}(window,'GeoPostal','FR');

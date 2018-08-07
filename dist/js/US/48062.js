@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48062"]={"code":"48062","region":"MI","city":"Richmond","latitude":42.8389,"longitude":-82.7996}}(window,'GeoPostal','US');

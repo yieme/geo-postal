@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72543"]={"code":"72543","region":"Arkansas","city":"Heber Springs","latitude":35.496066,"longitude":-92.033374}}(window,'GeoPostal','US');

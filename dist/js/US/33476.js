@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33476"]={"code":"33476","region":"Florida","city":"Pahokee","latitude":26.82006,"longitude":-80.66534}}(window,'GeoPostal','US');

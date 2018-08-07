@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE68 7TT"]={"code":"NE68 7TT","region":"England","city":"North Sunderland","latitude":55.57688,"longitude":-1.66436}}(window,'GeoPostal','GB');

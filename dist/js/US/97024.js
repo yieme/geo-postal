@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97024"]={"code":"97024","region":"Oregon","city":"Fairview","latitude":45.537854,"longitude":-122.436019}}(window,'GeoPostal','US');

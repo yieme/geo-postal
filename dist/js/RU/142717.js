@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142717"]={"code":"142717","region":"Moskovskaya oblast'","city":"Razvilka","latitude":55.59209,"longitude":37.74085}}(window,'GeoPostal','RU');

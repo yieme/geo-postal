@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25379"]={"code":"25379","region":"Schleswig-Holstein","city":"Herzhorn","latitude":53.78333,"longitude":9.48333}}(window,'GeoPostal','DE');

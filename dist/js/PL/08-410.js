@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-410"]={"code":"08-410","region":"Mazowieckie","city":"Mietne","latitude":51.92135,"longitude":21.57457}}(window,'GeoPostal','PL');

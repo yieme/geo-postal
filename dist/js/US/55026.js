@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55026"]={"code":"55026","region":"MN","city":"Frontenac","latitude":44.52,"longitude":-92.3582}}(window,'GeoPostal','US');

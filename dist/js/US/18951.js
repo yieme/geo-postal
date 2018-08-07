@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18951"]={"code":"18951","region":"Pennsylvania","city":"Quakertown","latitude":40.445267,"longitude":-75.354473}}(window,'GeoPostal','US');

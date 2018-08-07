@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6921"]={"code":"6921","region":"Vorarlberg","city":"Kennelbach","latitude":47.48306,"longitude":9.76667}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU4 8EP"]={"code":"GU4 8EP","region":"England","city":"Shalford","latitude":51.21581,"longitude":-0.5658}}(window,'GeoPostal','GB');

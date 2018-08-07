@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06340"]={"code":"06340","region":"Provence-Alpes-Cote d'Azur","city":"Drap","latitude":43.75614,"longitude":7.3206}}(window,'GeoPostal','FR');

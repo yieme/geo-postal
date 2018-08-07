@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-304"]={"code":"23-304","region":"Lubelskie","city":"Dzwola","latitude":50.69657,"longitude":22.56729}}(window,'GeoPostal','PL');

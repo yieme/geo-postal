@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6970"]={"code":"6970","region":"Haskovo","city":"Ivaylovgrad","latitude":41.53333,"longitude":26.13333}}(window,'GeoPostal','BG');

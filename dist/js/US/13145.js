@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13145"]={"code":"13145","region":"New York","city":"Sandy Creek","latitude":43.653641,"longitude":-76.116382}}(window,'GeoPostal','US');

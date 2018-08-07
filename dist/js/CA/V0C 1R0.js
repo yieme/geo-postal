@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 1R0"]={"code":"V0C 1R0","region":"British Columbia","city":"Fort Nelson","latitude":58.80533,"longitude":-122.7002}}(window,'GeoPostal','CA');

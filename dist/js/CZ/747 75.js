@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 75"]={"code":"747 75","region":"Moravskoslezsky kraj","city":"Velke Heraltice","latitude":49.97493,"longitude":17.72879}}(window,'GeoPostal','CZ');

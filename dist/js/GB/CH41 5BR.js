@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH41 5BR"]={"code":"CH41 5BR","region":"England","city":"Birkenhead","latitude":53.39337,"longitude":-3.01479}}(window,'GeoPostal','GB');

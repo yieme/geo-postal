@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87067"]={"code":"87067","region":"Calabria","city":"Rossano","latitude":39.5751,"longitude":16.6349}}(window,'GeoPostal','IT');

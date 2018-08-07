@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246762"]={"code":"246762","region":"Uttar Pradesh","city":"Nagina","latitude":29.45,"longitude":78.45}}(window,'GeoPostal','IN');

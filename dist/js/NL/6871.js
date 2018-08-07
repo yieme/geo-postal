@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6871"]={"code":"6871","region":"Gelderland","city":"Renkum","latitude":51.97667,"longitude":5.73333}}(window,'GeoPostal','NL');

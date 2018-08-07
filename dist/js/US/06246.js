@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06246"]={"code":"06246","region":"CT","city":"Grosvenor Dale","latitude":41.9711,"longitude":-71.8917}}(window,'GeoPostal','US');

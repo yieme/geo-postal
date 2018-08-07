@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1041"]={"code":"1041","region":"Ilinden","city":"Kadino","latitude":41.96889,"longitude":21.60139}}(window,'GeoPostal','MK');

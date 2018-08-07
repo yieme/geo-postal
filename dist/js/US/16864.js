@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16864"]={"code":"16864","region":"PA","city":"Orviston","latitude":40.9722,"longitude":-77.7602}}(window,'GeoPostal','US');

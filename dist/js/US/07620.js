@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07620"]={"code":"07620","region":"NJ","city":"Alpine","latitude":40.9511,"longitude":-73.9308}}(window,'GeoPostal','US');

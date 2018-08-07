@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA16 8QZ"]={"code":"WA16 8QZ","region":"England","city":"Knutsford","latitude":53.30289,"longitude":-2.37482}}(window,'GeoPostal','GB');

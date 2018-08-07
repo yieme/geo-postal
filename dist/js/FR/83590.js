@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83590"]={"code":"83590","region":"Provence-Alpes-Cote d'Azur","city":"Gonfaron","latitude":43.32067,"longitude":6.28806}}(window,'GeoPostal','FR');

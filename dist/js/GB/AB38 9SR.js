@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB38 9SR"]={"code":"AB38 9SR","region":"Scotland","city":"Craigellachie","latitude":57.48989,"longitude":-3.18836}}(window,'GeoPostal','GB');

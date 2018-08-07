@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11965"]={"code":"11965","region":"NY","city":"Shelter Island Heights","latitude":41.084,"longitude":-72.3559}}(window,'GeoPostal','US');

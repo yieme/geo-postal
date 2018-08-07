@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["632959"]={"code":"632959","region":"Novosibirskaya oblast'","city":"Zdvinsk","latitude":54.70206,"longitude":78.66105}}(window,'GeoPostal','RU');

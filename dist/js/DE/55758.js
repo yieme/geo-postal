@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55758"]={"code":"55758","region":"Rheinland-Pfalz","city":"Hammerbirkenfeld","latitude":49.81137,"longitude":7.24146}}(window,'GeoPostal','DE');

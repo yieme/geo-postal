@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55089"]={"code":"55089","region":"MN","city":"Welch","latitude":44.603,"longitude":-92.7263}}(window,'GeoPostal','US');

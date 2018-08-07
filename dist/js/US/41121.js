@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41121"]={"code":"41121","region":"KY","city":"Argillite","latitude":38.4322,"longitude":-82.8094}}(window,'GeoPostal','US');

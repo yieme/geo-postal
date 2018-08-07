@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80044"]={"code":"80044","region":"Campania","city":"Ottaviano","latitude":40.84981,"longitude":14.49014}}(window,'GeoPostal','IT');

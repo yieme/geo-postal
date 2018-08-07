@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55031"]={"code":"55031","region":"MN","city":"Hampton","latitude":44.6028,"longitude":-92.9467}}(window,'GeoPostal','US');

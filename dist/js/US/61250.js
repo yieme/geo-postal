@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61250"]={"code":"61250","region":"IL","city":"Erie","latitude":41.656,"longitude":-90.0843}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67660"]={"code":"67660","region":"Sakarya","city":"Karasu","latitude":41.07096,"longitude":30.78543}}(window,'GeoPostal','TR');

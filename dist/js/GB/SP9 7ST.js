@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP9 7ST"]={"code":"SP9 7ST","region":"England","city":"Tidworth","latitude":51.23142,"longitude":-1.66324}}(window,'GeoPostal','GB');

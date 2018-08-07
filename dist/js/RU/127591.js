@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127591"]={"code":"127591","region":"Voronezhskaya oblast'","city":"Voronezh","latitude":51.67204,"longitude":39.1843}}(window,'GeoPostal','RU');

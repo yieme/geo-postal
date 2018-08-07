@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59173"]={"code":"59173","region":"Hauts-de-France","city":"Renescure","latitude":50.72754,"longitude":2.36801}}(window,'GeoPostal','FR');

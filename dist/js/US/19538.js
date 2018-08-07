@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19538"]={"code":"19538","region":"PA","city":"Maxatawny","latitude":40.5426,"longitude":-75.6888}}(window,'GeoPostal','US');

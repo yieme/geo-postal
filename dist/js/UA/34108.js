@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34108"]={"code":"34108","region":"Rivnenska oblast","city":"Dubrovytsya","latitude":51.57438,"longitude":26.56503}}(window,'GeoPostal','UA');

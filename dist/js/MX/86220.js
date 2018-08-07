@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86220"]={"code":"86220","region":"Tabasco","city":"Nacajuca","latitude":18.13333,"longitude":-93.01667}}(window,'GeoPostal','MX');

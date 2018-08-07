@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36600-000"]={"code":"36600-000","region":"Minas Gerais","city":"Bicas","latitude":-21.72528,"longitude":-43.05944}}(window,'GeoPostal','BR');

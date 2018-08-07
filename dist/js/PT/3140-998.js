@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3140-998"]={"code":"3140-998","region":"Coimbra","city":"Arazede","latitude":40.28627,"longitude":-8.64999}}(window,'GeoPostal','PT');

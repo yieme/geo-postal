@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93647"]={"code":"93647","region":"California","city":"Orosi","latitude":36.550504,"longitude":-119.26141}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27302"]={"code":"27302","region":"North Carolina","city":"Mebane","latitude":36.091271,"longitude":-79.286133}}(window,'GeoPostal','US');

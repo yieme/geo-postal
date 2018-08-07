@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 0PE"]={"code":"NR12 0PE","region":"England","city":"Walcott","latitude":52.83333,"longitude":1.5}}(window,'GeoPostal','GB');

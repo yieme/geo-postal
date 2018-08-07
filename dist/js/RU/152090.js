@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152090"]={"code":"152090","region":"Yaroslavskaya oblast'","city":"Pesochnoye","latitude":58.00597,"longitude":39.17717}}(window,'GeoPostal','RU');

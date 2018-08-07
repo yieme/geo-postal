@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0M 2S0"]={"code":"K0M 2S0","region":"Ontario","city":"Kennisis Lake","latitude":45.21682,"longitude":-78.59956}}(window,'GeoPostal','CA');

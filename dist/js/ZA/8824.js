@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8824"]={"code":"8824","region":"Northern Cape","city":"Upington","latitude":-28.44776,"longitude":21.25612}}(window,'GeoPostal','ZA');

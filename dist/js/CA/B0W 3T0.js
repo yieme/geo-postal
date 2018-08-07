@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 3T0"]={"code":"B0W 3T0","region":"Nova Scotia","city":"Weymouth","latitude":44.41685,"longitude":-65.99886}}(window,'GeoPostal','CA');

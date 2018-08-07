@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658860"]={"code":"658860","region":"Altayskiy kray","city":"Tabuny","latitude":52.7773,"longitude":78.7896}}(window,'GeoPostal','RU');

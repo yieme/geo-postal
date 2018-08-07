@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03455"]={"code":"03455","region":"NH","city":"Marlborough","latitude":42.8988,"longitude":-72.2013}}(window,'GeoPostal','US');

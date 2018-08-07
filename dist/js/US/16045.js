@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16045"]={"code":"16045","region":"PA","city":"Lyndora","latitude":40.8528,"longitude":-79.9167}}(window,'GeoPostal','US');

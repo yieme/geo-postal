@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73376"]={"code":"73376","region":"Puebla","city":"Tepango de Rodriguez","latitude":20,"longitude":-97.81667}}(window,'GeoPostal','MX');

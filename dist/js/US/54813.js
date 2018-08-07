@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54813"]={"code":"54813","region":"WI","city":"Barronett","latitude":45.619,"longitude":-92.0196}}(window,'GeoPostal','US');

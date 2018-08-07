@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43324"]={"code":"43324","region":"OH","city":"Huntsville","latitude":40.4413,"longitude":-83.7927}}(window,'GeoPostal','US');

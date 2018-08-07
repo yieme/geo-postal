@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47120"]={"code":"47120","region":"Sakon Nakhon","city":"Wanon Niwat","latitude":17.63391,"longitude":103.75241}}(window,'GeoPostal','TH');

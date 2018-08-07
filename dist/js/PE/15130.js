@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15130"]={"code":"15130","region":"Lima","city":"Chancay","latitude":-11.57139,"longitude":-77.26722}}(window,'GeoPostal','PE');

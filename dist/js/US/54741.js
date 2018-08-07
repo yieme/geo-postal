@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54741"]={"code":"54741","region":"Wisconsin","city":"Fairchild","latitude":44.62528,"longitude":-91.00056}}(window,'GeoPostal','US');

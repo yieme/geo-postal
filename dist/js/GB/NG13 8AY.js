@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG13 8AY"]={"code":"NG13 8AY","region":"England","city":"Saxondale","latitude":52.9534,"longitude":-0.98619}}(window,'GeoPostal','GB');

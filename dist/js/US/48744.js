@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48744"]={"code":"48744","region":"MI","city":"Mayville","latitude":43.3562,"longitude":-83.3725}}(window,'GeoPostal','US');

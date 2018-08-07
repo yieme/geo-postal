@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80480"]={"code":"80480","region":"Sinaloa","city":"Quila","latitude":24.42278,"longitude":-107.22}}(window,'GeoPostal','MX');

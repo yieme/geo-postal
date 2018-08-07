@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08553"]={"code":"08553","region":"NJ","city":"Rocky Hill","latitude":40.401,"longitude":-74.64}}(window,'GeoPostal','US');

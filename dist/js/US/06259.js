@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06259"]={"code":"06259","region":"CT","city":"Pomfret Center","latitude":41.8697,"longitude":-71.982}}(window,'GeoPostal','US');

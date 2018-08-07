@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57787"]={"code":"57787","region":"South Dakota","city":"Union Center","latitude":44.733611,"longitude":-102.654167}}(window,'GeoPostal','US');

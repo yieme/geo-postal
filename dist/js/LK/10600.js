@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10600"]={"code":"10600","region":"Western Province","city":"Colombo","latitude":6.93194,"longitude":79.84778}}(window,'GeoPostal','LK');

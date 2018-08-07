@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61747"]={"code":"61747","region":"IL","city":"Hopedale","latitude":40.4273,"longitude":-89.4214}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31798"]={"code":"31798","region":"GA","city":"Wray","latitude":31.5952,"longitude":-83.1075}}(window,'GeoPostal','US');

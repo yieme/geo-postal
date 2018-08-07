@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307374"]={"code":"307374","region":"Kurskaya oblast'","city":"Ryl'sk","latitude":51.5655,"longitude":34.6822}}(window,'GeoPostal','RU');

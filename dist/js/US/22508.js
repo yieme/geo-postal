@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22508"]={"code":"22508","region":"VA","city":"Locust Grove","latitude":38.3352,"longitude":-77.7709}}(window,'GeoPostal','US');

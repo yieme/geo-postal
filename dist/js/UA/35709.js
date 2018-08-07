@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35709"]={"code":"35709","region":"Rivnenska oblast","city":"Zdovbytsya","latitude":50.49607,"longitude":26.24111}}(window,'GeoPostal','UA');

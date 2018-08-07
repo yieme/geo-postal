@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98595"]={"code":"98595","region":"Washington","city":"Westport","latitude":46.89009,"longitude":-124.10406}}(window,'GeoPostal','US');

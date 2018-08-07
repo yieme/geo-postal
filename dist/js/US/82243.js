@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82243"]={"code":"82243","region":"WY","city":"Veteran","latitude":41.9821,"longitude":-104.3709}}(window,'GeoPostal','US');

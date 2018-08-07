@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29945"]={"code":"29945","region":"South Carolina","city":"Yemassee","latitude":32.69018,"longitude":-80.85066}}(window,'GeoPostal','US');

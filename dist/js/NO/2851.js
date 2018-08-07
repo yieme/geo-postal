@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2851"]={"code":"2851","region":"Oppland","city":"Lena","latitude":60.67467,"longitude":10.81325}}(window,'GeoPostal','NO');

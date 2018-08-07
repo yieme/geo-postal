@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64009"]={"code":"64009","region":"Alytaus apskritis","city":"Daugai","latitude":54.36667,"longitude":24.33333}}(window,'GeoPostal','LT');

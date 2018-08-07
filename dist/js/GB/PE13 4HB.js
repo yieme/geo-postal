@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 4HB"]={"code":"PE13 4HB","region":"England","city":"Murrow","latitude":52.64257,"longitude":0.02738}}(window,'GeoPostal','GB');

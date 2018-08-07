@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61280"]={"code":"61280","region":"Michoacan de Ocampo","city":"Irimbo","latitude":19.7,"longitude":-100.47917}}(window,'GeoPostal','MX');

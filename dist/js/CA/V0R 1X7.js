@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 1X7"]={"code":"V0R 1X7","region":"British Columbia","city":"Silva Bay","latitude":49.14964,"longitude":-123.70269}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83355"]={"code":"83355","region":"ID","city":"Wendell","latitude":42.7579,"longitude":-114.7154}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43011"]={"code":"43011","region":"Emilia-Romagna","city":"Busseto","latitude":44.98057,"longitude":10.04208}}(window,'GeoPostal','IT');

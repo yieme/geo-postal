@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2898"]={"code":"2898","region":"Komarom-Esztergom","city":"Kocs","latitude":47.6075,"longitude":18.21517}}(window,'GeoPostal','HU');

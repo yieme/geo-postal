@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59030"]={"code":"59030","region":"Montana","city":"Gardiner","latitude":45.036,"longitude":-110.7059}}(window,'GeoPostal','US');

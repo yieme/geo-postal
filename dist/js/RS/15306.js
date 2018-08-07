@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15306"]={"code":"15306","region":"Macvanski okrug","city":"Petkovica","latitude":44.66556,"longitude":19.43917}}(window,'GeoPostal','RS');

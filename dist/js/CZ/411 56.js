@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 56"]={"code":"411 56","region":"Ustecky kraj","city":"Bohusovice nad Ohri","latitude":50.49316,"longitude":14.15048}}(window,'GeoPostal','CZ');

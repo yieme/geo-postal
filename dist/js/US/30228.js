@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30228"]={"code":"30228","region":"Georgia","city":"Hampton","latitude":33.401476,"longitude":-84.281284}}(window,'GeoPostal','US');

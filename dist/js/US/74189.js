@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74189"]={"code":"74189","region":"OK","city":"Abumps","latitude":36.15,"longitude":-95.99}}(window,'GeoPostal','US');

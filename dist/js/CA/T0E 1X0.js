@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0E 1X0"]={"code":"T0E 1X0","region":"Alberta","city":"Embarras","latitude":53.30009,"longitude":-116.90229}}(window,'GeoPostal','CA');

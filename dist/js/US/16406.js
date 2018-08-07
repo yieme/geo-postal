@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16406"]={"code":"16406","region":"Pennsylvania","city":"Conneautville","latitude":41.75806,"longitude":-80.36944}}(window,'GeoPostal','US');

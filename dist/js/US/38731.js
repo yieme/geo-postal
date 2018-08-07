@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38731"]={"code":"38731","region":"MS","city":"Chatham","latitude":33.1007,"longitude":-91.0979}}(window,'GeoPostal','US');

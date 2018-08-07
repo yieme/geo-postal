@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26366"]={"code":"26366","region":"WV","city":"Haywood","latitude":39.3812,"longitude":-80.3359}}(window,'GeoPostal','US');

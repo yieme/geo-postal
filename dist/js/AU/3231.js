@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3231"]={"code":"3231","region":"Victoria","city":"Aireys Inlet","latitude":-38.464,"longitude":144.10394}}(window,'GeoPostal','AU');

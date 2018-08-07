@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88598-000"]={"code":"88598-000","region":"Santa Catarina","city":"Celso Ramos","latitude":-27.63444,"longitude":-51.33639}}(window,'GeoPostal','BR');

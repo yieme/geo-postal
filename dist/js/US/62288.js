@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62288"]={"code":"62288","region":"Illinois","city":"Steeleville","latitude":38.007562,"longitude":-89.660763}}(window,'GeoPostal','US');

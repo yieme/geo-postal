@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44610-000"]={"code":"44610-000","region":"Bahia","city":"Pintadas","latitude":-11.812778,"longitude":-39.908889}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-106"]={"code":"58-106","region":"Dolnoslaskie","city":"Swidnica","latitude":50.84378,"longitude":16.48859}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06482"]={"code":"06482","region":"Connecticut","city":"Sandy Hook","latitude":41.411504,"longitude":-73.249289}}(window,'GeoPostal','US');

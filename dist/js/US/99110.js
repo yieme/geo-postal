@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99110"]={"code":"99110","region":"Washington","city":"Clayton","latitude":48.012028,"longitude":-117.523687}}(window,'GeoPostal','US');

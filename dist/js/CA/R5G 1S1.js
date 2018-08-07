@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R5G 1S1"]={"code":"R5G 1S1","region":"Manitoba","city":"Steinbach","latitude":49.51009,"longitude":-96.742129}}(window,'GeoPostal','CA');

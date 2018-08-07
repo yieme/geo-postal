@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70585"]={"code":"70585","region":"LA","city":"Turkey Creek","latitude":30.8707,"longitude":-92.404}}(window,'GeoPostal','US');

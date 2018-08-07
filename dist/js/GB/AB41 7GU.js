@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 7GU"]={"code":"AB41 7GU","region":"Scotland","city":"Tarves","latitude":57.37079,"longitude":-2.22195}}(window,'GeoPostal','GB');

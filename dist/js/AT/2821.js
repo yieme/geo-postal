@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2821"]={"code":"2821","region":"Niederosterreich","city":"Lanzenkirchen","latitude":47.73333,"longitude":16.23333}}(window,'GeoPostal','AT');

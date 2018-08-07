@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40442"]={"code":"40442","region":"Kentucky","city":"Kings Mountain","latitude":37.36506,"longitude":-84.700843}}(window,'GeoPostal','US');

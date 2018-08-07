@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15019"]={"code":"15019","region":"PA","city":"Bulger","latitude":40.4051,"longitude":-80.3622}}(window,'GeoPostal','US');

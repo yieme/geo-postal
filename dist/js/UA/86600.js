@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86600"]={"code":"86600","region":"Donetska oblast","city":"Torez","latitude":48.03876,"longitude":38.59685}}(window,'GeoPostal','UA');

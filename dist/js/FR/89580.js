@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89580"]={"code":"89580","region":"Bourgogne-Franche-Comte","city":"Val-de-Mercy","latitude":47.6767,"longitude":3.5894}}(window,'GeoPostal','FR');

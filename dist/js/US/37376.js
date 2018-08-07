@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37376"]={"code":"37376","region":"TN","city":"Sherwood","latitude":35.0452,"longitude":-85.9302}}(window,'GeoPostal','US');

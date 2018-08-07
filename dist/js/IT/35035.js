@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35035"]={"code":"35035","region":"Veneto","city":"Mestrino","latitude":45.44089,"longitude":11.7605}}(window,'GeoPostal','IT');

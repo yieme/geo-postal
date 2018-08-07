@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06251"]={"code":"06251","region":"CT","city":"Mansfield Depot","latitude":41.7993,"longitude":-72.3065}}(window,'GeoPostal','US');

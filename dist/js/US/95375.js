@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95375"]={"code":"95375","region":"CA","city":"Strawberry","latitude":38.2042,"longitude":-120.0101}}(window,'GeoPostal','US');

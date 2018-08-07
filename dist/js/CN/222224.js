@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["222224"]={"code":"222224","region":"Jiangsu","city":"Tuhe","latitude":34.33333,"longitude":119.55}}(window,'GeoPostal','CN');

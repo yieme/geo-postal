@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26621"]={"code":"26621","region":"West Virginia","city":"Flatwoods","latitude":38.7282,"longitude":-80.63058}}(window,'GeoPostal','US');

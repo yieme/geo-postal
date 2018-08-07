@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01470"]={"code":"01470","region":"Auvergne-Rhone-Alpes","city":"Serrieres-de-Briord","latitude":45.8086,"longitude":5.455}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85611"]={"code":"85611","region":"AZ","city":"Elgin","latitude":31.6598,"longitude":-110.5254}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21914"]={"code":"21914","region":"Maryland","city":"Charlestown","latitude":39.57373,"longitude":-75.97495}}(window,'GeoPostal','US');

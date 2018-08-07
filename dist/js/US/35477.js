@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35477"]={"code":"35477","region":"AL","city":"Panola","latitude":32.8726,"longitude":-88.2374}}(window,'GeoPostal','US');

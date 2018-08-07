@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23120"]={"code":"23120","region":"VA","city":"Moseley","latitude":37.426,"longitude":-77.7585}}(window,'GeoPostal','US');

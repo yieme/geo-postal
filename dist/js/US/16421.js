@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16421"]={"code":"16421","region":"PA","city":"Harborcreek","latitude":42.1767,"longitude":-79.9416}}(window,'GeoPostal','US');

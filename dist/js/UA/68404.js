@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68404"]={"code":"68404","region":"Odeska oblast","city":"Artsyz","latitude":45.99194,"longitude":29.41824}}(window,'GeoPostal','UA');

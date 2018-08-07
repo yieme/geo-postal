@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11958"]={"code":"11958","region":"New York","city":"Peconic","latitude":41.042036,"longitude":-72.459167}}(window,'GeoPostal','US');

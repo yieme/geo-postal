@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42347"]={"code":"42347","region":"KY","city":"Hartford","latitude":37.4785,"longitude":-86.918}}(window,'GeoPostal','US');

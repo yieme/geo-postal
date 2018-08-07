@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31012"]={"code":"31012","region":"GA","city":"Chester","latitude":32.3982,"longitude":-83.174}}(window,'GeoPostal','US');

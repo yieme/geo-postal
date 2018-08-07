@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99918"]={"code":"99918","region":"Alaska","city":"Coffman Cove","latitude":56.01222,"longitude":-132.82889}}(window,'GeoPostal','US');

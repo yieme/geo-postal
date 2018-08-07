@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92341"]={"code":"92341","region":"CA","city":"Green Valley Lake","latitude":34.2348,"longitude":-117.066}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17250"]={"code":"17250","region":"PA","city":"Rouzerville","latitude":39.7364,"longitude":-77.5247}}(window,'GeoPostal','US');

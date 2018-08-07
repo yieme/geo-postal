@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237274"]={"code":"237274","region":"Dolj","city":"Poiana Mare","latitude":43.91667,"longitude":23.06667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12808"]={"code":"12808","region":"NY","city":"Adirondack","latitude":43.7165,"longitude":-73.7825}}(window,'GeoPostal','US');

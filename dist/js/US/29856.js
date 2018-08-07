@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29856"]={"code":"29856","region":"SC","city":"Windsor","latitude":33.4674,"longitude":-81.5136}}(window,'GeoPostal','US');

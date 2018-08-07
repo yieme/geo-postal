@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0P 1K0"]={"code":"V0P 1K0","region":"British Columbia","city":"Mansons Landing","latitude":50.06634,"longitude":-124.98617}}(window,'GeoPostal','CA');

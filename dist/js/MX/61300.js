@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61300"]={"code":"61300","region":"Michoacan de Ocampo","city":"Charo","latitude":19.75,"longitude":-101.05}}(window,'GeoPostal','MX');

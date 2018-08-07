@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92016"]={"code":"92016","region":"Sicilia","city":"Ribera","latitude":37.49844,"longitude":13.26415}}(window,'GeoPostal','IT');

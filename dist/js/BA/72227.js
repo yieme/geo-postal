@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72227"]={"code":"72227","region":"Federacija Bosne i Hercegovine","city":"Vozuca","latitude":44.36139,"longitude":18.35778}}(window,'GeoPostal','BA');

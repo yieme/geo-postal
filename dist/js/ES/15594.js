@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15594"]={"code":"15594","region":"Galicia","city":"Ferrol","latitude":43.48321,"longitude":-8.23689}}(window,'GeoPostal','ES');

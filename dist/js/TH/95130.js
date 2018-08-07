@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95130"]={"code":"95130","region":"Yala","city":"Ban Nang Sata","latitude":6.26638,"longitude":101.26461}}(window,'GeoPostal','TH');

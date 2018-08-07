@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79839"]={"code":"79839","region":"TX","city":"Fort Hancock","latitude":31.2985,"longitude":-105.8452}}(window,'GeoPostal','US');

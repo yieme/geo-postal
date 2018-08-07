@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24328"]={"code":"24328","region":"Virginia","city":"Fancy Gap","latitude":36.67,"longitude":-80.70083}}(window,'GeoPostal','US');

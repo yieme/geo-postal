@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97464"]={"code":"97464","region":"OR","city":"Ophir","latitude":42.5632,"longitude":-124.3829}}(window,'GeoPostal','US');

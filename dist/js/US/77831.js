@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77831"]={"code":"77831","region":"TX","city":"Bedias","latitude":30.7065,"longitude":-95.9546}}(window,'GeoPostal','US');

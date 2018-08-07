@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00692"]={"code":"00692","region":"PR","city":"Vega Alta","latitude":18.41,"longitude":-66.32}}(window,'GeoPostal','US');

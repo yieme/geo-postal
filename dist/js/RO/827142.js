@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827142"]={"code":"827142","region":"Cluj","city":"Turda","latitude":46.56667,"longitude":23.78333}}(window,'GeoPostal','RO');

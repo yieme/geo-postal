@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80749"]={"code":"80749","region":"CO","city":"Sedgwick","latitude":40.9103,"longitude":-102.5291}}(window,'GeoPostal','US');

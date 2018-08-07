@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW6 0EN"]={"code":"CW6 0EN","region":"England","city":"Duddon","latitude":53.17737,"longitude":-2.73059}}(window,'GeoPostal','GB');

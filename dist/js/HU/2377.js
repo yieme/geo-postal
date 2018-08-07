@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2377"]={"code":"2377","region":"Pest","city":"Orkeny","latitude":47.12991,"longitude":19.43324}}(window,'GeoPostal','HU');

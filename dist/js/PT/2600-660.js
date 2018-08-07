@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2600-660"]={"code":"2600-660","region":"Lisboa","city":"Castanheira do Ribatejo","latitude":38.99298,"longitude":-8.97346}}(window,'GeoPostal','PT');

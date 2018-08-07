@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65470"]={"code":"65470","region":"Missouri","city":"Falcon","latitude":37.61142,"longitude":-92.3505}}(window,'GeoPostal','US');

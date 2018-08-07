@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6640"]={"code":"6640","region":"Luxembourg","city":"Vaux-sur-Sure","latitude":49.911,"longitude":5.57848}}(window,'GeoPostal','BE');

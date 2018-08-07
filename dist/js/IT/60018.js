@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60018"]={"code":"60018","region":"Marche","city":"Montemarciano","latitude":43.63886,"longitude":13.30747}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64511"]={"code":"64511","region":"Nouvelle-Aquitaine","city":"Bordes","latitude":43.23333,"longitude":-0.28333}}(window,'GeoPostal','FR');

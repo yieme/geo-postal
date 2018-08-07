@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127227"]={"code":"127227","region":"Olt","city":"Bals","latitude":44.35,"longitude":24.1}}(window,'GeoPostal','RO');

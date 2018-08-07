@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69104"]={"code":"69104","region":"Viljandimaa","city":"Karksi-Nuia","latitude":58.10333,"longitude":25.56278}}(window,'GeoPostal','EE');

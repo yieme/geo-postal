@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9205"]={"code":"9205","region":"Negros Occidental","city":"Mansilingan","latitude":10.63111,"longitude":122.97889}}(window,'GeoPostal','PH');

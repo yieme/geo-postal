@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59722"]={"code":"59722","region":"MT","city":"Deer Lodge","latitude":46.3881,"longitude":-112.7476}}(window,'GeoPostal','US');

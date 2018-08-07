@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["616350"]={"code":"616350","region":"Sichuan","city":"Temuli","latitude":27.70795,"longitude":102.80768}}(window,'GeoPostal','CN');

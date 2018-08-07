@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4312"]={"code":"4312","region":"Queensland","city":"Esk","latitude":-27.23895,"longitude":152.42223}}(window,'GeoPostal','AU');

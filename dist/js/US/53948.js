@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53948"]={"code":"53948","region":"Wisconsin","city":"Mauston","latitude":43.79719,"longitude":-90.07735}}(window,'GeoPostal','US');

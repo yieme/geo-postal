@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04621"]={"code":"04621","region":"Andalucia","city":"Antas","latitude":37.24536,"longitude":-1.9176}}(window,'GeoPostal','ES');

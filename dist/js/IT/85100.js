@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85100"]={"code":"85100","region":"Basilicata","city":"Potenza","latitude":40.64432,"longitude":15.80857}}(window,'GeoPostal','IT');

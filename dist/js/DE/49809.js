@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49809"]={"code":"49809","region":"Niedersachsen","city":"Lingen","latitude":52.52143,"longitude":7.31845}}(window,'GeoPostal','DE');

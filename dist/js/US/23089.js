@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23089"]={"code":"23089","region":"VA","city":"Lanexa","latitude":37.4194,"longitude":-76.9027}}(window,'GeoPostal','US');

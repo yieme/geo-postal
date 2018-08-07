@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96110"]={"code":"96110","region":"CA","city":"Eagleville","latitude":41.3163,"longitude":-120.1158}}(window,'GeoPostal','US');

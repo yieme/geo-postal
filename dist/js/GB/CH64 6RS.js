@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CH64 6RS"]={"code":"CH64 6RS","region":"England","city":"Parkgate","latitude":53.29798,"longitude":-3.08428}}(window,'GeoPostal','GB');

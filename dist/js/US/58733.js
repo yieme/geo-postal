@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58733"]={"code":"58733","region":"ND","city":"Des Lacs","latitude":48.2557,"longitude":-101.5672}}(window,'GeoPostal','US');

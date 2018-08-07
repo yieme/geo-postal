@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56362"]={"code":"56362","region":"MN","city":"Paynesville","latitude":45.3988,"longitude":-94.7157}}(window,'GeoPostal','US');

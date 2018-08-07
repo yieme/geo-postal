@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3180"]={"code":"3180","region":"Entre Rios","city":"Federal","latitude":-30.95465,"longitude":-58.78326}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652301"]={"code":"652301","region":"Yunnan","city":"Daxinshao","latitude":24.24052,"longitude":103.45153}}(window,'GeoPostal','CN');

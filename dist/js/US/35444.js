@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35444"]={"code":"35444","region":"AL","city":"Brookwood","latitude":33.2775,"longitude":-87.309}}(window,'GeoPostal','US');

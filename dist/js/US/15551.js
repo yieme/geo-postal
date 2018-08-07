@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15551"]={"code":"15551","region":"Pennsylvania","city":"Markleton","latitude":39.8702,"longitude":-79.293983}}(window,'GeoPostal','US');

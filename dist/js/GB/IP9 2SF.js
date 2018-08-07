@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP9 2SF"]={"code":"IP9 2SF","region":"England","city":"Stutton","latitude":51.97039,"longitude":1.13176}}(window,'GeoPostal','GB');

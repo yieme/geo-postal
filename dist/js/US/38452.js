@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38452"]={"code":"38452","region":"Tennessee","city":"Cypress Inn","latitude":35.01194,"longitude":-87.816667}}(window,'GeoPostal','US');

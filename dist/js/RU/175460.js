@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175460"]={"code":"175460","region":"Novgorodskaya oblast'","city":"Kresttsy","latitude":58.2452,"longitude":32.51648}}(window,'GeoPostal','RU');

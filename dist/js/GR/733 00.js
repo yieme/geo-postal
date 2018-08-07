@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["733 00"]={"code":"733 00","region":"Kriti","city":"Perivolia","latitude":35.48333,"longitude":23.98333}}(window,'GeoPostal','GR');

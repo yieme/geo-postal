@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93800-000"]={"code":"93800-000","region":"Rio Grande do Sul","city":"Sapiranga","latitude":-29.63806,"longitude":-51.00694}}(window,'GeoPostal','BR');

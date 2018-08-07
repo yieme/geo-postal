@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15931"]={"code":"15931","region":"Pennsylvania","city":"Ebensburg","latitude":40.484953,"longitude":-78.729537}}(window,'GeoPostal','US');

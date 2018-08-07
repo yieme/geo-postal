@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3700"]={"code":"3700","region":"Limburg","city":"Tongeren","latitude":50.78054,"longitude":5.46484}}(window,'GeoPostal','BE');

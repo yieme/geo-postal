@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6285"]={"code":"6285","region":"Luzern","city":"Hitzkirch","latitude":47.22403,"longitude":8.26425}}(window,'GeoPostal','CH');

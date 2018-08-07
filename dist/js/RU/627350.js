@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627350"]={"code":"627350","region":"Tyumenskaya oblast'","city":"Aromashevo","latitude":56.86018,"longitude":68.63754}}(window,'GeoPostal','RU');

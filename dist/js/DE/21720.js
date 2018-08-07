@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21720"]={"code":"21720","region":"Niedersachsen","city":"Guderhandviertel","latitude":53.54919,"longitude":9.6096}}(window,'GeoPostal','DE');

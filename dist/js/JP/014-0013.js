@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["014-0013"]={"code":"014-0013","region":"Akita","city":"Daisen","latitude":39.45,"longitude":140.483}}(window,'GeoPostal','JP');

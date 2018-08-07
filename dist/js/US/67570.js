@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67570"]={"code":"67570","region":"KS","city":"Pretty Prairie","latitude":37.7783,"longitude":-97.9886}}(window,'GeoPostal','US');

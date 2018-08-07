@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37052"]={"code":"37052","region":"TN","city":"Cunningham","latitude":36.3789,"longitude":-87.4245}}(window,'GeoPostal','US');

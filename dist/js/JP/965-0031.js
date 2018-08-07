@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["965-0031"]={"code":"965-0031","region":"Fukushima","city":"Aizuwakamatsu","latitude":37.3,"longitude":139.55}}(window,'GeoPostal','JP');

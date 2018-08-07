@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346550"]={"code":"346550","region":"Rostovskaya oblast'","city":"Ust'-Donetskiy","latitude":47.6419,"longitude":40.87182}}(window,'GeoPostal','RU');

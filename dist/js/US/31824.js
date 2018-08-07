@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31824"]={"code":"31824","region":"GA","city":"Preston","latitude":32.074,"longitude":-84.5489}}(window,'GeoPostal','US');

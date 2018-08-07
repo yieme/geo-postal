@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97653"]={"code":"97653","region":"Bayern","city":"Unterweissenbrunn","latitude":50.39654,"longitude":10.03408}}(window,'GeoPostal','DE');

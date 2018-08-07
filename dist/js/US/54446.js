@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54446"]={"code":"54446","region":"WI","city":"Loyal","latitude":44.7272,"longitude":-90.4922}}(window,'GeoPostal','US');

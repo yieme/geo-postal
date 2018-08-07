@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO43 3AH"]={"code":"YO43 3AH","region":"England","city":"Market Weighton","latitude":53.8631,"longitude":-0.66505}}(window,'GeoPostal','GB');

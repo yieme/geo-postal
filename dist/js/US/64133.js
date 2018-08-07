@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64133"]={"code":"64133","region":"Missouri","city":"Raytown","latitude":39.02202,"longitude":-94.46454}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69230"]={"code":"69230","region":"Sindh","city":"Kadhan","latitude":24.48102,"longitude":68.9859}}(window,'GeoPostal','PK');

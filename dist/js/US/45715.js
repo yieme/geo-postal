@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45715"]={"code":"45715","region":"Ohio","city":"Beverly","latitude":39.57024,"longitude":-81.63552}}(window,'GeoPostal','US');

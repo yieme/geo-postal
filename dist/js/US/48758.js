@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48758"]={"code":"48758","region":"MI","city":"Richville","latitude":43.4073,"longitude":-83.6762}}(window,'GeoPostal','US');

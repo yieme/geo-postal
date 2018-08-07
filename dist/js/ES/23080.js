@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23080"]={"code":"23080","region":"Andalucia","city":"Jaen","latitude":37.76667,"longitude":-3.78333}}(window,'GeoPostal','ES');

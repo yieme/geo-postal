@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22060"]={"code":"22060","region":"Virginia","city":"Fort Belvoir","latitude":38.7119,"longitude":-77.14589}}(window,'GeoPostal','US');

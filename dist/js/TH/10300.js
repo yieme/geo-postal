@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10300"]={"code":"10300","region":"Krung Thep Maha Nakhon","city":"Dusit","latitude":13.7775,"longitude":100.51977}}(window,'GeoPostal','TH');

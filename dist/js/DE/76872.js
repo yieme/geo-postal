@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76872"]={"code":"76872","region":"Rheinland-Pfalz","city":"Minfeld","latitude":49.07167,"longitude":8.14528}}(window,'GeoPostal','DE');

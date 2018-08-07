@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38541"]={"code":"38541","region":"TN","city":"Allons","latitude":36.497,"longitude":-85.3197}}(window,'GeoPostal','US');

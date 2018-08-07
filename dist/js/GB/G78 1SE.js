@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G78 1SE"]={"code":"G78 1SE","region":"Scotland","city":"Barrhead","latitude":55.79916,"longitude":-4.39285}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5710000"]={"code":"5710000","region":"Los Lagos","city":"Ancud","latitude":-41.86972,"longitude":-73.82028}}(window,'GeoPostal','CL');

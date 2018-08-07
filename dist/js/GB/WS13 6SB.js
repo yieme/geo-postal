@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WS13 6SB"]={"code":"WS13 6SB","region":"England","city":"Lichfield","latitude":52.68154,"longitude":-1.82549}}(window,'GeoPostal','GB');

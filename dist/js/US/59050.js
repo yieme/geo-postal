@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59050"]={"code":"59050","region":"MT","city":"Lodge Grass","latitude":45.3166,"longitude":-107.3675}}(window,'GeoPostal','US');

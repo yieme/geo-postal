@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56448"]={"code":"56448","region":"MN","city":"Fifty Lakes","latitude":46.747,"longitude":-94.0656}}(window,'GeoPostal','US');

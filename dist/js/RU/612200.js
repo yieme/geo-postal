@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["612200"]={"code":"612200","region":"Kirovskaya oblast'","city":"Tuzha","latitude":57.60615,"longitude":47.93597}}(window,'GeoPostal','RU');

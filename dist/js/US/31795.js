@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31795"]={"code":"31795","region":"GA","city":"Ty Ty","latitude":31.4718,"longitude":-83.6468}}(window,'GeoPostal','US');

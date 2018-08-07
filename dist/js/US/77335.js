@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77335"]={"code":"77335","region":"Texas","city":"Goodrich","latitude":30.551433,"longitude":-94.877978}}(window,'GeoPostal','US');

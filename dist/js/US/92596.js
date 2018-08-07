@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92596"]={"code":"92596","region":"California","city":"Winchester","latitude":33.627106,"longitude":-117.069163}}(window,'GeoPostal','US');

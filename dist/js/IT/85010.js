@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85010"]={"code":"85010","region":"Basilicata","city":"Cancellara","latitude":40.73022,"longitude":15.92577}}(window,'GeoPostal','IT');

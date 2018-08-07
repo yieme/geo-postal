@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89452"]={"code":"89452","region":"Zakarpatska oblast","city":"Sredneye","latitude":48.54043,"longitude":22.50696}}(window,'GeoPostal','UA');

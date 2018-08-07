@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34376"]={"code":"34376","region":"Hessen","city":"Immenhausen","latitude":51.42763,"longitude":9.48017}}(window,'GeoPostal','DE');

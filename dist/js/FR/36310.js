@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36310"]={"code":"36310","region":"Centre-Val de Loire","city":"Chaillac","latitude":46.43382,"longitude":1.29889}}(window,'GeoPostal','FR');

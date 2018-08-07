@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55980"]={"code":"55980","region":"Mexico","city":"Temascalapa","latitude":19.83333,"longitude":-98.9}}(window,'GeoPostal','MX');

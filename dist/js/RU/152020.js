@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152020"]={"code":"152020","region":"Yaroslavskaya oblast'","city":"Yaroslavl'","latitude":57.62987,"longitude":39.87368}}(window,'GeoPostal','RU');

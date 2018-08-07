@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["621121"]={"code":"621121","region":"Tamil Nadu","city":"Turaiyur","latitude":11.16667,"longitude":78.61667}}(window,'GeoPostal','IN');

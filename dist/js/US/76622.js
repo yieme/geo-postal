@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76622"]={"code":"76622","region":"TX","city":"Aquilla","latitude":31.8589,"longitude":-97.2258}}(window,'GeoPostal','US');

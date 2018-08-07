@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44307"]={"code":"44307","region":"Laane-Virumaa","city":"Rakvere","latitude":59.34639,"longitude":26.35583}}(window,'GeoPostal','EE');

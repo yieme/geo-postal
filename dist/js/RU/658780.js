@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658780"]={"code":"658780","region":"Altayskiy kray","city":"Khabary","latitude":53.62588,"longitude":79.5345}}(window,'GeoPostal','RU');

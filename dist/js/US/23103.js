@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23103"]={"code":"23103","region":"VA","city":"Manakin Sabot","latitude":37.638,"longitude":-77.7077}}(window,'GeoPostal','US');

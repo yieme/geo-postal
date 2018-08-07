@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63828"]={"code":"63828","region":"Bayern","city":"Kleinkahl","latitude":50.11667,"longitude":9.26667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97441"]={"code":"97441","region":"OR","city":"Gardiner","latitude":43.7301,"longitude":-124.1104}}(window,'GeoPostal','US');

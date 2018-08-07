@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE22 0LE"]={"code":"PE22 0LE","region":"England","city":"Freiston","latitude":52.97434,"longitude":0.04934}}(window,'GeoPostal','GB');

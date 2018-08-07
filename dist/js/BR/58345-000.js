@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58345-000"]={"code":"58345-000","region":"Paraiba","city":"Mari","latitude":-7.06,"longitude":-35.31944}}(window,'GeoPostal','BR');

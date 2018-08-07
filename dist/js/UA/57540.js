@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57540"]={"code":"57540","region":"Mykolaivska oblast","city":"Parutyne","latitude":46.70538,"longitude":31.89709}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["434243"]={"code":"434243","region":"Anambra","city":"Onitsha","latitude":6.14543,"longitude":6.78845}}(window,'GeoPostal','NG');

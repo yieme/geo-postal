@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY7 8AU"]={"code":"SY7 8AU","region":"England","city":"Lydbury North","latitude":52.46764,"longitude":-2.95705}}(window,'GeoPostal','GB');

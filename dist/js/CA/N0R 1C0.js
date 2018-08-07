@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0R 1C0"]={"code":"N0R 1C0","region":"Ontario","city":"Belle River","latitude":42.297487,"longitude":-82.759711}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50570"]={"code":"50570","region":"IA","city":"Ottosen","latitude":42.8764,"longitude":-94.3786}}(window,'GeoPostal','US');

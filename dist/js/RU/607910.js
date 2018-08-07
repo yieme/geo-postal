@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607910"]={"code":"607910","region":"Nizhegorodskaya oblast'","city":"Pochinki","latitude":54.69875,"longitude":44.86678}}(window,'GeoPostal','RU');

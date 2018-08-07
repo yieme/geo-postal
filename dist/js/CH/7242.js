@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7242"]={"code":"7242","region":"Graubunden","city":"Luzein","latitude":46.91957,"longitude":9.7608}}(window,'GeoPostal','CH');

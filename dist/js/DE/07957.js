@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07957"]={"code":"07957","region":"Thuringen","city":"Hungriger Wolf","latitude":50.67442,"longitude":12.1035}}(window,'GeoPostal','DE');

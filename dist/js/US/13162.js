@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13162"]={"code":"13162","region":"NY","city":"Verona Beach","latitude":43.1885,"longitude":-75.7126}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04634"]={"code":"04634","region":"ME","city":"Franklin","latitude":44.6087,"longitude":-68.2417}}(window,'GeoPostal','US');

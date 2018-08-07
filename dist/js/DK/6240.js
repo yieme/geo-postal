@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6240"]={"code":"6240","region":"Syddanmark","city":"Logumkloster","latitude":55.05941,"longitude":8.95508}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93962"]={"code":"93962","region":"California","city":"Spreckels","latitude":36.677778,"longitude":-121.654444}}(window,'GeoPostal','US');

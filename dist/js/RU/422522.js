@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422522"]={"code":"422522","region":"Tatarstan, Respublika","city":"Aysha","latitude":55.87035,"longitude":48.63187}}(window,'GeoPostal','RU');

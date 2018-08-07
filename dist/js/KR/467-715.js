@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["467-715"]={"code":"467-715","region":"Gyeonggi-do","city":"Incheon","latitude":37.27917,"longitude":127.4425}}(window,'GeoPostal','KR');

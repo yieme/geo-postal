@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["106101"]={"code":"106101","region":"Lagos","city":"Epe","latitude":6.58412,"longitude":3.98336}}(window,'GeoPostal','NG');

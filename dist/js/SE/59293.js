@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59293"]={"code":"59293","region":"Ostergotlands lan","city":"Herrestad","latitude":58.38333,"longitude":14.8}}(window,'GeoPostal','SE');

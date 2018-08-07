@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H1P 1X8"]={"code":"H1P 1X8","region":"Quebec","city":"Saint-Leonard-d'Aston","latitude":45.595372,"longitude":-73.576185}}(window,'GeoPostal','CA');

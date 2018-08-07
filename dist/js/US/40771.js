@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40771"]={"code":"40771","region":"KY","city":"Woodbine","latitude":36.8586,"longitude":-84.0347}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR3 5DU"]={"code":"HR3 5DU","region":"Wales","city":"Hay","latitude":52.07049,"longitude":-3.12741}}(window,'GeoPostal','GB');

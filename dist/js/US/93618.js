@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93618"]={"code":"93618","region":"California","city":"Dinuba","latitude":36.54328,"longitude":-119.38707}}(window,'GeoPostal','US');

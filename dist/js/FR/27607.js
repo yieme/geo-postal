@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27607"]={"code":"27607","region":"Normandie","city":"Gaillon","latitude":49.16104,"longitude":1.34016}}(window,'GeoPostal','FR');

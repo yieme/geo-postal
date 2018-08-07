@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65712"]={"code":"65712","region":"Missouri","city":"Mount Vernon","latitude":37.10367,"longitude":-93.81854}}(window,'GeoPostal','US');

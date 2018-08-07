@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99111"]={"code":"99111","region":"Washington","city":"Colfax","latitude":46.87983,"longitude":-117.356599}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11150"]={"code":"11150","region":"Occitanie","city":"Villepinte","latitude":43.28213,"longitude":2.0876}}(window,'GeoPostal','FR');

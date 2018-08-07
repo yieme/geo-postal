@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60031"]={"code":"60031","region":"Illinois","city":"Gurnee","latitude":42.3703,"longitude":-87.90202}}(window,'GeoPostal','US');

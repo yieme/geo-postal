@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97875"]={"code":"97875","region":"Oregon","city":"Stanfield","latitude":45.78041,"longitude":-119.21724}}(window,'GeoPostal','US');

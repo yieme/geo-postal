@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97110"]={"code":"97110","region":"Oregon","city":"Cannon Beach","latitude":45.89177,"longitude":-123.96153}}(window,'GeoPostal','US');

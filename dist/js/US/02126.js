@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02126"]={"code":"02126","region":"MA","city":"Mattapan","latitude":42.2739,"longitude":-71.0939}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35579"]={"code":"35579","region":"Bretagne","city":"Chantepie","latitude":48.08885,"longitude":-1.61524}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9210"]={"code":"9210","region":"Lanao del Norte","city":"Tubod","latitude":8.0555,"longitude":123.7904}}(window,'GeoPostal','PH');

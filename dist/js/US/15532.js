@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15532"]={"code":"15532","region":"PA","city":"Boynton","latitude":39.7673,"longitude":-79.062}}(window,'GeoPostal','US');

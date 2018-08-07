@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68-212"]={"code":"68-212","region":"Lubuskie","city":"Trzebiel","latitude":51.63496,"longitude":14.81609}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656-1742"]={"code":"656-1742","region":"Hyogo","city":"Awaji","latitude":34.433,"longitude":134.917}}(window,'GeoPostal','JP');

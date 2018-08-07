@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3904"]={"code":"3904","region":"Valais","city":"Naters","latitude":46.32536,"longitude":7.98912}}(window,'GeoPostal','CH');

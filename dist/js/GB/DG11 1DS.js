@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 1DS"]={"code":"DG11 1DS","region":"Scotland","city":"Dalton","latitude":55.05,"longitude":-3.38333}}(window,'GeoPostal','GB');

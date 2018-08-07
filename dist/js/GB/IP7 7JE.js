@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP7 7JE"]={"code":"IP7 7JE","region":"England","city":"Monks Eleigh","latitude":52.09174,"longitude":0.86831}}(window,'GeoPostal','GB');

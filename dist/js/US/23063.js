@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23063"]={"code":"23063","region":"Virginia","city":"Goochland","latitude":37.68431,"longitude":-77.88527}}(window,'GeoPostal','US');

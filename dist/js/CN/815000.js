@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["815000"]={"code":"815000","region":"Qinghai","city":"Yushu","latitude":33,"longitude":97}}(window,'GeoPostal','CN');

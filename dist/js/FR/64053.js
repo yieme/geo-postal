@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64053"]={"code":"64053","region":"Nouvelle-Aquitaine","city":"Pau","latitude":43.3,"longitude":-0.36667}}(window,'GeoPostal','FR');

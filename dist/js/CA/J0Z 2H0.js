@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Z 2H0"]={"code":"J0Z 2H0","region":"Quebec","city":"Kipawa","latitude":46.78343,"longitude":-78.98291}}(window,'GeoPostal','CA');

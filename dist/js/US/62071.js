@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62071"]={"code":"62071","region":"IL","city":"National Stock Yards","latitude":38.6516,"longitude":-90.1639}}(window,'GeoPostal','US');

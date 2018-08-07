@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07950"]={"code":"07950","region":"New Jersey","city":"Morris Plains","latitude":40.8432,"longitude":-74.48244}}(window,'GeoPostal','US');

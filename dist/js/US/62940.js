@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62940"]={"code":"62940","region":"IL","city":"Gorham","latitude":37.7406,"longitude":-89.444}}(window,'GeoPostal','US');

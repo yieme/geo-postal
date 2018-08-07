@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49594"]={"code":"49594","region":"Niedersachsen","city":"Alfhausen","latitude":52.5,"longitude":7.95}}(window,'GeoPostal','DE');

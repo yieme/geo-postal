@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03262"]={"code":"03262","region":"New Hampshire","city":"North Woodstock","latitude":44.03028,"longitude":-71.68583}}(window,'GeoPostal','US');

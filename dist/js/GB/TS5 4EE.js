@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS5 4EE"]={"code":"TS5 4EE","region":"England","city":"Middlesbrough","latitude":54.57623,"longitude":-1.23483}}(window,'GeoPostal','GB');

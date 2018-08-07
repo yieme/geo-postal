@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22970"]={"code":"22970","region":"Bretagne","city":"Ploumagoar","latitude":48.54509,"longitude":-3.13233}}(window,'GeoPostal','FR');

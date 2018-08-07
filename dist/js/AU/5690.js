@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5690"]={"code":"5690","region":"South Australia","city":"Ceduna","latitude":-32.12156,"longitude":133.67866}}(window,'GeoPostal','AU');

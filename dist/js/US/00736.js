@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00736"]={"code":"00736","region":"PR","city":"Cayey","latitude":18.11,"longitude":-66.16}}(window,'GeoPostal','US');

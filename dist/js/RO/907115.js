@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907115"]={"code":"907115","region":"Constanta","city":"Dobromir","latitude":44.01667,"longitude":27.78333}}(window,'GeoPostal','RO');

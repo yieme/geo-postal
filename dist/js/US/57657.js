@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57657"]={"code":"57657","region":"South Dakota","city":"Trail City","latitude":45.415401,"longitude":-100.703237}}(window,'GeoPostal','US');

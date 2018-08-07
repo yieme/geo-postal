@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67452"]={"code":"67452","region":"KS","city":"Hunter","latitude":39.243,"longitude":-98.4017}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61775"]={"code":"61775","region":"Illinois","city":"Strawn","latitude":40.65278,"longitude":-88.3975}}(window,'GeoPostal','US');

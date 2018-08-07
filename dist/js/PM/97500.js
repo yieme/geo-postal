@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97500"]={"code":"97500","region":"Saint Pierre and Miquelon","city":"Saint-Pierre","latitude":46.76544,"longitude":-56.16949}}(window,'GeoPostal','PM');

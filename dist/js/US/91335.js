@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91335"]={"code":"91335","region":"California","city":"Reseda","latitude":34.20024,"longitude":-118.53942}}(window,'GeoPostal','US');

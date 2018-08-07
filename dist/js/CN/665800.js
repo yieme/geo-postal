@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665800"]={"code":"665800","region":"Yunnan","city":"Nayun","latitude":22.33196,"longitude":99.56132}}(window,'GeoPostal','CN');

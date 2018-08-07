@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6395"]={"code":"6395","region":"Tirol","city":"Hochfilzen","latitude":47.46667,"longitude":12.61667}}(window,'GeoPostal','AT');

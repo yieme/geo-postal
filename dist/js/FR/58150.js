@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58150"]={"code":"58150","region":"Bourgogne-Franche-Comte","city":"Pouilly-sur-Loire","latitude":47.28377,"longitude":2.95442}}(window,'GeoPostal','FR');

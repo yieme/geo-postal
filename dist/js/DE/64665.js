@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64665"]={"code":"64665","region":"Rheinland-Pfalz","city":"Alsbach","latitude":50.46667,"longitude":7.66667}}(window,'GeoPostal','DE');

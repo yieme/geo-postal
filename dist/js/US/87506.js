@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87506"]={"code":"87506","region":"New Mexico","city":"Santa Fe","latitude":35.58495,"longitude":-106.02158}}(window,'GeoPostal','US');

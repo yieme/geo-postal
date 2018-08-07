@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66087"]={"code":"66087","region":"Kansas","city":"Troy","latitude":39.78305,"longitude":-95.08997}}(window,'GeoPostal','US');

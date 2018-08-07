@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4014"]={"code":"4014","region":"Laguna","city":"Wawa","latitude":14.3019,"longitude":121.4595}}(window,'GeoPostal','PH');

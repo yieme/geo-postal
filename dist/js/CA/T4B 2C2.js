@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4B 2C2"]={"code":"T4B 2C2","region":"Alberta","city":"Airdrie","latitude":51.290058,"longitude":-114.001943}}(window,'GeoPostal','CA');

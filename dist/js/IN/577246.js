@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["577246"]={"code":"577246","region":"Karnataka","city":"Bhadravati","latitude":13.86667,"longitude":75.71667}}(window,'GeoPostal','IN');

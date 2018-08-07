@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79847"]={"code":"79847","region":"Texas","city":"Salt Flat","latitude":31.820395,"longitude":-105.308821}}(window,'GeoPostal','US');

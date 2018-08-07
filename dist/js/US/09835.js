@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09835"]={"code":"09835","region":"AE","city":"Fpo","latitude":30.0626,"longitude":31.2497}}(window,'GeoPostal','US');

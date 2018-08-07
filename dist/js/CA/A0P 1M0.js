@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0P 1M0"]={"code":"A0P 1M0","region":"Newfoundland and Labrador","city":"Sheshatshit","latitude":53.51868,"longitude":-60.14594}}(window,'GeoPostal','CA');

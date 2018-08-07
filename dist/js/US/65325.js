@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65325"]={"code":"65325","region":"MO","city":"Cole Camp","latitude":38.4531,"longitude":-93.1915}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56028"]={"code":"56028","region":"MN","city":"Elysian","latitude":44.2231,"longitude":-93.6965}}(window,'GeoPostal','US');

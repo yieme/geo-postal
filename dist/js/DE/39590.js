@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39590"]={"code":"39590","region":"Sachsen-Anhalt","city":"Tangermunde","latitude":52.54463,"longitude":11.97647}}(window,'GeoPostal','DE');

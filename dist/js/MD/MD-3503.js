@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3503"]={"code":"MD-3503","region":"Orhei","city":"Orhei","latitude":47.38306,"longitude":28.82306}}(window,'GeoPostal','MD');

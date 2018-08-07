@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6698"]={"code":"6698","region":"Luxembourg","city":"Vielsalm","latitude":50.28472,"longitude":5.91861}}(window,'GeoPostal','BE');

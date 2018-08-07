@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87413"]={"code":"87413","region":"NM","city":"Bloomfield","latitude":36.6955,"longitude":-107.9784}}(window,'GeoPostal','US');

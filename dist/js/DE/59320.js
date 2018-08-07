@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59320"]={"code":"59320","region":"Nordrhein-Westfalen","city":"Ostenfelde","latitude":51.8663,"longitude":8.07942}}(window,'GeoPostal','DE');

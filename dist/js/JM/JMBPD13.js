@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMBPD13"]={"code":"JMBPD13","region":"Portland","city":"Moore Town","latitude":18.07767,"longitude":-76.42577}}(window,'GeoPostal','JM');

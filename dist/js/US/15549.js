@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15549"]={"code":"15549","region":"PA","city":"Listie","latitude":40.0208,"longitude":-79.0123}}(window,'GeoPostal','US');

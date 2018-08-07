@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE1 3FB"]={"code":"SE1 3FB","region":"England","city":"Southwark","latitude":51.5,"longitude":-0.08333}}(window,'GeoPostal','GB');

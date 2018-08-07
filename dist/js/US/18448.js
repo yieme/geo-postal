@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18448"]={"code":"18448","region":"PA","city":"Olyphant","latitude":41.4649,"longitude":-75.5962}}(window,'GeoPostal','US');

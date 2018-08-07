@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85400-000"]={"code":"85400-000","region":"Parana","city":"Guaraniacu","latitude":-25.10083,"longitude":-52.87806}}(window,'GeoPostal','BR');

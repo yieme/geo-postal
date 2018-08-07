@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84311"]={"code":"84311","region":"UT","city":"Fielding","latitude":41.8118,"longitude":-112.119}}(window,'GeoPostal','US');

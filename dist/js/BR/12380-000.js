@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12380-000"]={"code":"12380-000","region":"Sao Paulo","city":"Santa Branca","latitude":-23.39667,"longitude":-45.88389}}(window,'GeoPostal','BR');

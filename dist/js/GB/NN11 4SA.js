@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 4SA"]={"code":"NN11 4SA","region":"England","city":"Daventry","latitude":52.25688,"longitude":-1.16066}}(window,'GeoPostal','GB');

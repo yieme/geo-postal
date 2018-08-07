@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3106"]={"code":"3106","region":"Victoria","city":"Templestowe","latitude":-37.75,"longitude":145.11667}}(window,'GeoPostal','AU');

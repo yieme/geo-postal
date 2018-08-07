@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97639"]={"code":"97639","region":"OR","city":"Sprague River","latitude":42.4514,"longitude":-121.4365}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13690-000"]={"code":"13690-000","region":"Sao Paulo","city":"Descalvado","latitude":-21.90389,"longitude":-47.61944}}(window,'GeoPostal','BR');

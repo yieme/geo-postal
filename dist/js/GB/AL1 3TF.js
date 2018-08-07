@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AL1 3TF"]={"code":"AL1 3TF","region":"England","city":"Saint Albans","latitude":51.75,"longitude":-0.33333}}(window,'GeoPostal','GB');

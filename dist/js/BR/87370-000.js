@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87370-000"]={"code":"87370-000","region":"Parana","city":"Moreira Sales","latitude":-24.06222,"longitude":-53.00694}}(window,'GeoPostal','BR');

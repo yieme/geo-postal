@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23160"]={"code":"23160","region":"Centre-Val de Loire","city":"Chantome","latitude":46.41067,"longitude":1.5559}}(window,'GeoPostal','FR');

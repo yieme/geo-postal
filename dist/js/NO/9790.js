@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9790"]={"code":"9790","region":"Finnmark","city":"Kjollefjord","latitude":70.94574,"longitude":27.3465}}(window,'GeoPostal','NO');

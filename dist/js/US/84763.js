@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84763"]={"code":"84763","region":"UT","city":"Rockville","latitude":37.1601,"longitude":-113.0425}}(window,'GeoPostal','US');

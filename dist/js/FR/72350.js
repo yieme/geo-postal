@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72350"]={"code":"72350","region":"Pays-de-la-Loire","city":"Brulon","latitude":47.96667,"longitude":-0.23333}}(window,'GeoPostal','FR');

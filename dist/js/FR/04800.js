@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04800"]={"code":"04800","region":"Provence-Alpes-Cote d'Azur","city":"Esparron-de-Verdon","latitude":43.7397,"longitude":5.9722}}(window,'GeoPostal','FR');

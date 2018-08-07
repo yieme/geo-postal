@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93648"]={"code":"93648","region":"California","city":"Parlier","latitude":36.615405,"longitude":-119.532403}}(window,'GeoPostal','US');

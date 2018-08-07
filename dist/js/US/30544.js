@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30544"]={"code":"30544","region":"GA","city":"Habersham","latitude":34.56,"longitude":-83.54}}(window,'GeoPostal','US');

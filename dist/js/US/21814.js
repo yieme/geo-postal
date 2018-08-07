@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21814"]={"code":"21814","region":"MD","city":"Bivalve","latitude":38.2953,"longitude":-75.8914}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11670"]={"code":"11670","region":"Andalucia","city":"El Bosque","latitude":36.75828,"longitude":-5.50535}}(window,'GeoPostal','ES');

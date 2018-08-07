@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23927"]={"code":"23927","region":"Virginia","city":"Clarksville","latitude":36.606925,"longitude":-78.535918}}(window,'GeoPostal','US');

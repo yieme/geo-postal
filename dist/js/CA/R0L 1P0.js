@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1P0"]={"code":"R0L 1P0","region":"Manitoba","city":"Bield","latitude":51.22109,"longitude":-101.15479}}(window,'GeoPostal','CA');

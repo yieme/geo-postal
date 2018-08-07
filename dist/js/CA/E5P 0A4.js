@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5P 0A4"]={"code":"E5P 0A4","region":"New Brunswick","city":"Northrups Corner","latitude":45.76685,"longitude":-65.76554}}(window,'GeoPostal','CA');

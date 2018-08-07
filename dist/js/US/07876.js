@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07876"]={"code":"07876","region":"New Jersey","city":"Succasunna","latitude":40.86843,"longitude":-74.64044}}(window,'GeoPostal','US');

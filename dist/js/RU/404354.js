@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404354"]={"code":"404354","region":"Volgogradskaya oblast'","city":"Kotel'nikovo","latitude":47.63009,"longitude":43.14068}}(window,'GeoPostal','RU');

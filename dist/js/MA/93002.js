@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93002"]={"code":"93002","region":"Tanger-Tetouan","city":"Saddina","latitude":35.6141,"longitude":-5.45191}}(window,'GeoPostal','MA');

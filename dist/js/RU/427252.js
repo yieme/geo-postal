@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427252"]={"code":"427252","region":"Udmurtskaya Respublika","city":"Uva","latitude":56.99081,"longitude":52.18517}}(window,'GeoPostal','RU');

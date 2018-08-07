@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 2E0"]={"code":"T0M 2E0","region":"Alberta","city":"Water Valley","latitude":51.5001,"longitude":-114.60202}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93669"]={"code":"93669","region":"California","city":"Wishon","latitude":37.32,"longitude":-119.556667}}(window,'GeoPostal','US');

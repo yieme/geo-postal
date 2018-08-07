@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU6 8QQ"]={"code":"GU6 8QQ","region":"England","city":"Cranleigh","latitude":51.14209,"longitude":-0.48374}}(window,'GeoPostal','GB');

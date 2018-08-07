@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN10 6HF"]={"code":"DN10 6HF","region":"England","city":"Misson","latitude":53.44763,"longitude":-0.96639}}(window,'GeoPostal','GB');

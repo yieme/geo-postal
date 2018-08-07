@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36432"]={"code":"36432","region":"Alabama","city":"Castleberry","latitude":31.304729,"longitude":-87.025657}}(window,'GeoPostal','US');

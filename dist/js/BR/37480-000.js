@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37480-000"]={"code":"37480-000","region":"Minas Gerais","city":"Lambari","latitude":-21.97556,"longitude":-45.35028}}(window,'GeoPostal','BR');

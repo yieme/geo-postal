@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12721"]={"code":"12721","region":"NY","city":"Bloomingburg","latitude":41.5644,"longitude":-74.4304}}(window,'GeoPostal','US');

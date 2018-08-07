@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24523"]={"code":"24523","region":"Virginia","city":"Bedford","latitude":37.33431,"longitude":-79.52309}}(window,'GeoPostal','US');

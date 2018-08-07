@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42442"]={"code":"42442","region":"KY","city":"Nortonville","latitude":37.1834,"longitude":-87.4605}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7Z 1N6"]={"code":"T7Z 1N6","region":"Alberta","city":"Stony Plain","latitude":53.526348,"longitude":-114.000405}}(window,'GeoPostal','CA');

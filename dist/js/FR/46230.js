@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46230"]={"code":"46230","region":"Occitanie","city":"Lalbenque","latitude":44.33929,"longitude":1.54501}}(window,'GeoPostal','FR');

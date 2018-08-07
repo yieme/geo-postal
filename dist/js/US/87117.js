@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87117"]={"code":"87117","region":"New Mexico","city":"Kirtland","latitude":35.04965,"longitude":-106.54684}}(window,'GeoPostal','US');

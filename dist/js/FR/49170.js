@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49170"]={"code":"49170","region":"Pays-de-la-Loire","city":"La Possonniere","latitude":47.37485,"longitude":-0.68538}}(window,'GeoPostal','FR');

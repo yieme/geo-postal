@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76610"]={"code":"76610","region":"Normandie","city":"Le Havre","latitude":49.4938,"longitude":0.10767}}(window,'GeoPostal','FR');

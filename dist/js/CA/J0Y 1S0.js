@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 1S0"]={"code":"J0Y 1S0","region":"Quebec","city":"La Morandiere","latitude":48.61689,"longitude":-77.63279}}(window,'GeoPostal','CA');

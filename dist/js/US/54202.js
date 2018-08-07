@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54202"]={"code":"54202","region":"Wisconsin","city":"Baileys Harbor","latitude":45.064515,"longitude":-87.142515}}(window,'GeoPostal','US');

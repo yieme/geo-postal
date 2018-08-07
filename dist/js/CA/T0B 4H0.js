@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 4H0"]={"code":"T0B 4H0","region":"Alberta","city":"Bonlea","latitude":52.93344,"longitude":-111.96848}}(window,'GeoPostal','CA');

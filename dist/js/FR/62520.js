@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62520"]={"code":"62520","region":"Hauts-de-France","city":"Le Touquet-Paris-Plage","latitude":50.52432,"longitude":1.58571}}(window,'GeoPostal','FR');

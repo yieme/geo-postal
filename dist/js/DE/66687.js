@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66687"]={"code":"66687","region":"Saarland","city":"Wadern","latitude":49.54122,"longitude":6.88774}}(window,'GeoPostal','DE');

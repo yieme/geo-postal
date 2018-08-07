@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30501"]={"code":"30501","region":"Cartago","city":"Turrialba","latitude":9.90467,"longitude":-83.68352}}(window,'GeoPostal','CR');

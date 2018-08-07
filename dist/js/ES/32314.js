@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32314"]={"code":"32314","region":"Galicia","city":"O Barco de Valdeorras","latitude":42.41642,"longitude":-6.99005}}(window,'GeoPostal','ES');

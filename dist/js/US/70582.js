@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70582"]={"code":"70582","region":"Louisiana","city":"Saint Martinville","latitude":30.1252,"longitude":-91.83345}}(window,'GeoPostal','US');

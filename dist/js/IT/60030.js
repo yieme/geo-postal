@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60030"]={"code":"60030","region":"Marche","city":"Monsano","latitude":43.56256,"longitude":13.25007}}(window,'GeoPostal','IT');

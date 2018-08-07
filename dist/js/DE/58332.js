@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58332"]={"code":"58332","region":"Nordrhein-Westfalen","city":"Schwelm","latitude":51.28635,"longitude":7.29388}}(window,'GeoPostal','DE');

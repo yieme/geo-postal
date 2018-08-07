@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 13"]={"code":"742 13","region":"Moravskoslezsky kraj","city":"Studenka","latitude":49.72342,"longitude":18.07853}}(window,'GeoPostal','CZ');

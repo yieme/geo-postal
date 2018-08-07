@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5360"]={"code":"5360","region":"Oberosterreich","city":"Sankt Wolfgang im Salzkammergut","latitude":47.73932,"longitude":13.44666}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["970101"]={"code":"970101","region":"Benue","city":"Makurdi","latitude":7.7411,"longitude":8.5121}}(window,'GeoPostal','NG');

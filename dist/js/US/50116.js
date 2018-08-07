@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50116"]={"code":"50116","region":"IA","city":"Hamilton","latitude":41.19,"longitude":-92.959}}(window,'GeoPostal','US');

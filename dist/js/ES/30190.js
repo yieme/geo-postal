@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30190"]={"code":"30190","region":"Murcia, Region de","city":"Albudeite","latitude":38.02895,"longitude":-1.38664}}(window,'GeoPostal','ES');

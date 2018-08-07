@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54230"]={"code":"54230","region":"Grand-Est","city":"Neuves-Maisons","latitude":48.62029,"longitude":6.10698}}(window,'GeoPostal','FR');

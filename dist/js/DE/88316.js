@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88316"]={"code":"88316","region":"Baden-Wurttemberg","city":"Achen","latitude":47.70681,"longitude":10.0551}}(window,'GeoPostal','DE');

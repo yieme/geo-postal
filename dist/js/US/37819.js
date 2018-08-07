@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37819"]={"code":"37819","region":"TN","city":"Newcomb","latitude":36.5428,"longitude":-84.1798}}(window,'GeoPostal','US');

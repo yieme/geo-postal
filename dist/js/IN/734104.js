@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["734104"]={"code":"734104","region":"West Bengal","city":"Darjiling","latitude":27.03333,"longitude":88.26667}}(window,'GeoPostal','IN');

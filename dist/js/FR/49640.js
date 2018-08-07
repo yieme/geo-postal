@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49640"]={"code":"49640","region":"Pays-de-la-Loire","city":"Morannes","latitude":47.74364,"longitude":-0.41604}}(window,'GeoPostal','FR');

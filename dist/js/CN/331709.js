@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331709"]={"code":"331709","region":"Jiangxi","city":"Sanli","latitude":28.6809,"longitude":116.37848}}(window,'GeoPostal','CN');

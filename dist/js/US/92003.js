@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92003"]={"code":"92003","region":"CA","city":"Bonsall","latitude":33.294,"longitude":-117.1897}}(window,'GeoPostal','US');

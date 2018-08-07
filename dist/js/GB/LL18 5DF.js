@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL18 5DF"]={"code":"LL18 5DF","region":"Wales","city":"Kinmel Bay","latitude":53.31226,"longitude":-3.51717}}(window,'GeoPostal','GB');

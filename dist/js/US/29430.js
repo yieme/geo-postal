@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29430"]={"code":"29430","region":"SC","city":"Bethera","latitude":33.2,"longitude":-79.78}}(window,'GeoPostal','US');

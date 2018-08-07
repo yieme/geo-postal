@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6239"]={"code":"6239","region":"Bacs-Kiskun","city":"Csaszartoltes","latitude":46.42194,"longitude":19.18361}}(window,'GeoPostal','HU');

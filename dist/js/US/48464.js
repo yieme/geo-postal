@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48464"]={"code":"48464","region":"MI","city":"Otter Lake","latitude":43.2183,"longitude":-83.4242}}(window,'GeoPostal','US');

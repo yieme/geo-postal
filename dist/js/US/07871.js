@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07871"]={"code":"07871","region":"New Jersey","city":"Sparta","latitude":41.0414,"longitude":-74.6243}}(window,'GeoPostal','US');

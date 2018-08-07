@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58540"]={"code":"58540","region":"Nordrhein-Westfalen","city":"Meinerzhagen","latitude":51.1074,"longitude":7.64838}}(window,'GeoPostal','DE');

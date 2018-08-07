@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["931 01"]={"code":"931 01","region":"Trnavsky kraj","city":"Samorin","latitude":48.03015,"longitude":17.30972}}(window,'GeoPostal','SK');

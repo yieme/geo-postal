@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73529"]={"code":"73529","region":"Baden-Wurttemberg","city":"Schlatthof","latitude":48.7761,"longitude":9.82165}}(window,'GeoPostal','DE');

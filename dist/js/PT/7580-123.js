@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7580-123"]={"code":"7580-123","region":"Setubal","city":"Alcacer do Sal","latitude":38.37326,"longitude":-8.51444}}(window,'GeoPostal','PT');

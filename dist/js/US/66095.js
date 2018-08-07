@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66095"]={"code":"66095","region":"Kansas","city":"Williamsburg","latitude":38.48052,"longitude":-95.466032}}(window,'GeoPostal','US');

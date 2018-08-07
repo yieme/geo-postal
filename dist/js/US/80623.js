@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80623"]={"code":"80623","region":"Colorado","city":"Gilcrest","latitude":40.285055,"longitude":-104.776381}}(window,'GeoPostal','US');

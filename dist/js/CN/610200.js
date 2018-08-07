@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["610200"]={"code":"610200","region":"Shaanxi","city":"Tongchuan","latitude":34.8988,"longitude":108.95056}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN4 4RB"]={"code":"LN4 4RB","region":"England","city":"Coningsby","latitude":53.10598,"longitude":-0.17595}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["433240"]={"code":"433240","region":"Ul'yanovskaya oblast'","city":"Surskoye","latitude":54.4821,"longitude":46.7214}}(window,'GeoPostal','RU');

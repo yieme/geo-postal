@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3752"]={"code":"3752","region":"Borsod-Abauj-Zemplen","city":"Szendro","latitude":48.4,"longitude":20.73333}}(window,'GeoPostal','HU');

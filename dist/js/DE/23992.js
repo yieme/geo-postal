@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23992"]={"code":"23992","region":"Mecklenburg-Vorpommern","city":"Sellin","latitude":53.88495,"longitude":11.6079}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18917"]={"code":"18917","region":"PA","city":"Dublin","latitude":40.375,"longitude":-75.2045}}(window,'GeoPostal','US');

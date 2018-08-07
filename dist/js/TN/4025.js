@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4025"]={"code":"4025","region":"Sousse","city":"Sidi el Hani","latitude":35.67139,"longitude":10.31583}}(window,'GeoPostal','TN');

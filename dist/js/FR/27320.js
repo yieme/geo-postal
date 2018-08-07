@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27320"]={"code":"27320","region":"Normandie","city":"Nonancourt","latitude":48.77086,"longitude":1.19799}}(window,'GeoPostal','FR');

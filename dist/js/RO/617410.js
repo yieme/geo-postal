@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617410"]={"code":"617410","region":"Neamt","city":"Savinesti","latitude":46.85,"longitude":26.46667}}(window,'GeoPostal','RO');

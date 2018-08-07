@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75100"]={"code":"75100","region":"Soriano","city":"Dolores","latitude":-33.54417,"longitude":-58.19722}}(window,'GeoPostal','UY');

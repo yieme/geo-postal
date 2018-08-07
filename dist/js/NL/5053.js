@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5053"]={"code":"5053","region":"Noord-Brabant","city":"Goirle","latitude":51.52083,"longitude":5.06667}}(window,'GeoPostal','NL');

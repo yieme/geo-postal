@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95168"]={"code":"95168","region":"Bayern","city":"Marktleuthen","latitude":50.13007,"longitude":12.00226}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24317"]={"code":"24317","region":"Virginia","city":"Cana","latitude":36.58958,"longitude":-80.67173}}(window,'GeoPostal','US');

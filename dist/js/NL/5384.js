@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5384"]={"code":"5384","region":"Noord-Brabant","city":"Heesch","latitude":51.73362,"longitude":5.52672}}(window,'GeoPostal','NL');

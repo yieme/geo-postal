@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39502"]={"code":"39502","region":"Bourgogne-Franche-Comte","city":"Tavaux","latitude":47.03376,"longitude":5.405}}(window,'GeoPostal','FR');

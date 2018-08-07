@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24862"]={"code":"24862","region":"WV","city":"Mohawk","latitude":37.5048,"longitude":-81.9151}}(window,'GeoPostal','US');

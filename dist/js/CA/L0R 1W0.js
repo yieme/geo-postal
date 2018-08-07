@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0R 1W0"]={"code":"L0R 1W0","region":"Ontario","city":"Caledonia","latitude":43.127184,"longitude":-79.897866}}(window,'GeoPostal','CA');

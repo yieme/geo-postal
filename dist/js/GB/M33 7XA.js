@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M33 7XA"]={"code":"M33 7XA","region":"England","city":"Sale","latitude":53.42519,"longitude":-2.32443}}(window,'GeoPostal','GB');

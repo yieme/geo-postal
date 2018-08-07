@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 4JG"]={"code":"PE13 4JG","region":"England","city":"Parson Drove","latitude":52.6565,"longitude":0.02378}}(window,'GeoPostal','GB');

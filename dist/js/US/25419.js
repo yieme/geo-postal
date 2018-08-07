@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25419"]={"code":"25419","region":"West Virginia","city":"Falling Waters","latitude":39.55917,"longitude":-77.89083}}(window,'GeoPostal','US');

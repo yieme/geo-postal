@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03229"]={"code":"03229","region":"New Hampshire","city":"Contoocook","latitude":43.22202,"longitude":-71.71397}}(window,'GeoPostal','US');

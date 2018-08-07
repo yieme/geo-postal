@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40997"]={"code":"40997","region":"KY","city":"Walker","latitude":36.8911,"longitude":-83.6616}}(window,'GeoPostal','US');

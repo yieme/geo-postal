@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46120"]={"code":"46120","region":"Kalasin","city":"Yang Talat","latitude":16.39982,"longitude":103.36785}}(window,'GeoPostal','TH');

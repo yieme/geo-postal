@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33860"]={"code":"33860","region":"Florida","city":"Mulberry","latitude":27.90021,"longitude":-81.997243}}(window,'GeoPostal','US');

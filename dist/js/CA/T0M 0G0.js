@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0M 0G0"]={"code":"T0M 0G0","region":"Alberta","city":"Beiseker","latitude":51.38342,"longitude":-113.53525}}(window,'GeoPostal','CA');

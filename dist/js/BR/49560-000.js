@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49560-000"]={"code":"49560-000","region":"Sergipe","city":"Moita Bonita","latitude":-10.5775,"longitude":-37.34278}}(window,'GeoPostal','BR');

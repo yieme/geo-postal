@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EH48 4PH"]={"code":"EH48 4PH","region":"Scotland","city":"Bathgate","latitude":55.90204,"longitude":-3.64398}}(window,'GeoPostal','GB');

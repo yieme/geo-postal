@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517463"]={"code":"517463","region":"Guangdong","city":"Yirong","latitude":23.5211,"longitude":114.8283}}(window,'GeoPostal','CN');

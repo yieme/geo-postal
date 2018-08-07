@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33014"]={"code":"33014","region":"Nordrhein-Westfalen","city":"Bad Driburg","latitude":51.73297,"longitude":9.01969}}(window,'GeoPostal','DE');

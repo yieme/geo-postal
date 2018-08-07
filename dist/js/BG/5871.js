@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5871"]={"code":"5871","region":"Pleven","city":"Iskur","latitude":43.45,"longitude":24.26667}}(window,'GeoPostal','BG');

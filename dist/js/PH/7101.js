@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7101"]={"code":"7101","region":"Zamboanga del Norte","city":"Dapitan","latitude":8.64639,"longitude":123.42083}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53958"]={"code":"53958","region":"Wisconsin","city":"Reedsburg","latitude":43.53248,"longitude":-90.00263}}(window,'GeoPostal','US');

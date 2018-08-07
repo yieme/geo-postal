@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13733"]={"code":"13733","region":"New York","city":"Bainbridge","latitude":42.30444,"longitude":-75.48018}}(window,'GeoPostal','US');

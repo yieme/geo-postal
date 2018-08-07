@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62490"]={"code":"62490","region":"Kharkivska oblast","city":"Bezliudivka","latitude":49.87185,"longitude":36.29516}}(window,'GeoPostal','UA');

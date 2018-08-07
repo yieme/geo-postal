@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16232"]={"code":"16232","region":"Pennsylvania","city":"Knox","latitude":41.23615,"longitude":-79.541437}}(window,'GeoPostal','US');

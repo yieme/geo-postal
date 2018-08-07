@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02664"]={"code":"02664","region":"Massachusetts","city":"Yarmouth","latitude":41.70567,"longitude":-70.22863}}(window,'GeoPostal','US');

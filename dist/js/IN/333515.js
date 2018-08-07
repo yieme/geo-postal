@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["333515"]={"code":"333515","region":"Haryana","city":"Narnaul","latitude":28.04444,"longitude":76.10833}}(window,'GeoPostal','IN');

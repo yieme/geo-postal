@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21157"]={"code":"21157","region":"Maryland","city":"Westminster","latitude":39.57538,"longitude":-76.99581}}(window,'GeoPostal','US');

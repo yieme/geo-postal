@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74883"]={"code":"74883","region":"Oklahoma","city":"Wetumka","latitude":35.237898,"longitude":-96.240421}}(window,'GeoPostal','US');

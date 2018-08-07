@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["123501"]={"code":"123501","region":"Haryana","city":"Bawal","latitude":28.08333,"longitude":76.58333}}(window,'GeoPostal','IN');

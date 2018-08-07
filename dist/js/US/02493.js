@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02493"]={"code":"02493","region":"Massachusetts","city":"Weston","latitude":42.36639,"longitude":-71.30283}}(window,'GeoPostal','US');

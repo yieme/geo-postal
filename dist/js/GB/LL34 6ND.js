@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL34 6ND"]={"code":"LL34 6ND","region":"Wales","city":"Penmaenmawr","latitude":53.26667,"longitude":-3.93333}}(window,'GeoPostal','GB');

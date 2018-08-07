@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-203"]={"code":"44-203","region":"Slaskie","city":"Rybnik","latitude":50.09713,"longitude":18.54179}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96197"]={"code":"96197","region":"Bayern","city":"Sanspareil","latitude":49.98342,"longitude":11.3138}}(window,'GeoPostal','DE');

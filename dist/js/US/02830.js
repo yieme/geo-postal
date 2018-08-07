@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02830"]={"code":"02830","region":"RI","city":"Harrisville","latitude":41.9764,"longitude":-71.6534}}(window,'GeoPostal','US');

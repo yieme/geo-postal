@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175405"]={"code":"175405","region":"Novgorodskaya oblast'","city":"Valday","latitude":57.97472,"longitude":33.2525}}(window,'GeoPostal','RU');

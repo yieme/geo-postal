@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13482"]={"code":"13482","region":"NY","city":"West Burlington","latitude":42.7043,"longitude":-75.1849}}(window,'GeoPostal','US');

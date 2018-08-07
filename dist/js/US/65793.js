@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65793"]={"code":"65793","region":"Missouri","city":"Willow Springs","latitude":36.99228,"longitude":-91.96987}}(window,'GeoPostal','US');

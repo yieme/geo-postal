@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46612"]={"code":"46612","region":"Valenciana, Comunidad","city":"Corbera","latitude":39.15,"longitude":-0.35}}(window,'GeoPostal','ES');

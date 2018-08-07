@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-200"]={"code":"89-200","region":"Kujawsko-pomorskie","city":"Szubin","latitude":53.00967,"longitude":17.74}}(window,'GeoPostal','PL');

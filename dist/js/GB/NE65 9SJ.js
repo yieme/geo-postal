@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 9SJ"]={"code":"NE65 9SJ","region":"England","city":"Broomhill","latitude":55.29324,"longitude":-1.60169}}(window,'GeoPostal','GB');

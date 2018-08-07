@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51510"]={"code":"51510","region":"Grand-Est","city":"Thibie","latitude":48.9303,"longitude":4.2164}}(window,'GeoPostal','FR');

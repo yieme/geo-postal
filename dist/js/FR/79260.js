@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79260"]={"code":"79260","region":"Nouvelle-Aquitaine","city":"La Creche","latitude":46.36667,"longitude":-0.3}}(window,'GeoPostal','FR');

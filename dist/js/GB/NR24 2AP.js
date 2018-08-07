@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR24 2AP"]={"code":"NR24 2AP","region":"England","city":"Melton Constable","latitude":52.85644,"longitude":1.03743}}(window,'GeoPostal','GB');

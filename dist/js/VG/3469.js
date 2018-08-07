@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3469"]={"code":"3469","region":"British Virgin Islands","city":"Road Town","latitude":18.41667,"longitude":-64.61667}}(window,'GeoPostal','VG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5555"]={"code":"5555","region":"Noord-Brabant","city":"Valkenswaard","latitude":51.35083,"longitude":5.45972}}(window,'GeoPostal','NL');

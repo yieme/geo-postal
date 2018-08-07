@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18251"]={"code":"18251","region":"PA","city":"Sybertsville","latitude":41.0015,"longitude":-76.0763}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144529"]={"code":"144529","region":"Punjab","city":"Nawashahr","latitude":31.11667,"longitude":76.13333}}(window,'GeoPostal','IN');

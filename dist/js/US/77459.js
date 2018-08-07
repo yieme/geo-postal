@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77459"]={"code":"77459","region":"Texas","city":"Missouri City","latitude":29.61857,"longitude":-95.53772}}(window,'GeoPostal','US');

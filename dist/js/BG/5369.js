@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5369"]={"code":"5369","region":"Gabrovo","city":"Tryavna","latitude":42.86667,"longitude":25.5}}(window,'GeoPostal','BG');

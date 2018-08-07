@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117090"]={"code":"117090","region":"Arges","city":"Birla","latitude":44.43333,"longitude":24.76667}}(window,'GeoPostal','RO');

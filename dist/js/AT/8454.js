@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8454"]={"code":"8454","region":"Steiermark","city":"Arnfels","latitude":46.67639,"longitude":15.40306}}(window,'GeoPostal','AT');

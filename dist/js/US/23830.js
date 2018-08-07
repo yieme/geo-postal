@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23830"]={"code":"23830","region":"Virginia","city":"Carson","latitude":37.0189,"longitude":-77.3936}}(window,'GeoPostal','US');

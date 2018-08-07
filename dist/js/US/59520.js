@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59520"]={"code":"59520","region":"Montana","city":"Big Sandy","latitude":48.057538,"longitude":-110.023488}}(window,'GeoPostal','US');

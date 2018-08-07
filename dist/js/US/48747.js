@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48747"]={"code":"48747","region":"MI","city":"Munger","latitude":43.5286,"longitude":-83.7672}}(window,'GeoPostal','US');

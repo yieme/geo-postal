@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02871"]={"code":"02871","region":"Rhode Island","city":"Portsmouth","latitude":41.5771,"longitude":-71.2652}}(window,'GeoPostal','US');

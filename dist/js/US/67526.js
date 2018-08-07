@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67526"]={"code":"67526","region":"Kansas","city":"Ellinwood","latitude":38.35557,"longitude":-98.58091}}(window,'GeoPostal','US');

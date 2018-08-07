@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42820"]={"code":"42820","region":"Hidalgo","city":"San Marcos","latitude":20.06667,"longitude":-99.33333}}(window,'GeoPostal','MX');

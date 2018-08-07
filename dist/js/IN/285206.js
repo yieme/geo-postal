@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["285206"]={"code":"285206","region":"Uttar Pradesh","city":"Orai","latitude":25.98333,"longitude":79.46667}}(window,'GeoPostal','IN');

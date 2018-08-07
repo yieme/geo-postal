@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["250221"]={"code":"250221","region":"Uttar Pradesh","city":"Meerut","latitude":28.98333,"longitude":77.7}}(window,'GeoPostal','IN');

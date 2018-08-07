@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1Y0"]={"code":"R0L 1Y0","region":"Manitoba","city":"Skownan","latitude":51.98973,"longitude":-99.58861}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["539 44"]={"code":"539 44","region":"Pardubicky kraj","city":"Prosec","latitude":49.8059,"longitude":16.11621}}(window,'GeoPostal','CZ');

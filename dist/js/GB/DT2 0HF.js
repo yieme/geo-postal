@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 0HF"]={"code":"DT2 0HF","region":"England","city":"Frome Saint Quinton","latitude":50.81667,"longitude":-2.56667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1Y0"]={"code":"V0E 1Y0","region":"British Columbia","city":"Grindrod","latitude":50.6331,"longitude":-119.11905}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6114"]={"code":"6114","region":"Negros Occidental","city":"Asia","latitude":9.5506,"longitude":122.5164}}(window,'GeoPostal','PH');

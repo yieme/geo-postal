@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14532"]={"code":"14532","region":"Brandenburg","city":"Dreilinden","latitude":52.40453,"longitude":13.174}}(window,'GeoPostal','DE');

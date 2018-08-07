@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12827"]={"code":"12827","region":"New York","city":"Fort Ann","latitude":43.464444,"longitude":-73.538611}}(window,'GeoPostal','US');

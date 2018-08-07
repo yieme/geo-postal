@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR32 5PB"]={"code":"NR32 5PB","region":"England","city":"Flixton","latitude":52.5,"longitude":1.7}}(window,'GeoPostal','GB');

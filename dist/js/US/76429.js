@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76429"]={"code":"76429","region":"Texas","city":"Caddo","latitude":32.685188,"longitude":-98.64289}}(window,'GeoPostal','US');

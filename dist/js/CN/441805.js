@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441805"]={"code":"441805","region":"Hubei","city":"Laohekou","latitude":32.38583,"longitude":111.66778}}(window,'GeoPostal','CN');

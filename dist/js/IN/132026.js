@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132026"]={"code":"132026","region":"Haryana","city":"Pundri","latitude":29.75,"longitude":76.55}}(window,'GeoPostal','IN');

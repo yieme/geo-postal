@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13247"]={"code":"13247","region":"Castilla-La Mancha","city":"San Carlos del Valle","latitude":38.84399,"longitude":-3.24148}}(window,'GeoPostal','ES');

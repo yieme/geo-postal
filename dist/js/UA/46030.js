@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46030"]={"code":"46030","region":"Ternopilska oblast","city":"Ternopil'","latitude":49.55589,"longitude":25.60556}}(window,'GeoPostal','UA');

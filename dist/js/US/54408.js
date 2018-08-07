@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54408"]={"code":"54408","region":"WI","city":"Aniwa","latitude":45.0088,"longitude":-89.3578}}(window,'GeoPostal','US');

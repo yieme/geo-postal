@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89-410"]={"code":"89-410","region":"Kujawsko-pomorskie","city":"Sypniewo","latitude":53.36981,"longitude":17.3269}}(window,'GeoPostal','PL');

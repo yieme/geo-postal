@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09401"]={"code":"09401","region":"Occitanie","city":"Tarascon-sur-Ariege","latitude":42.84545,"longitude":1.60332}}(window,'GeoPostal','FR');

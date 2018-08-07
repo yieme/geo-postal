@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537330"]={"code":"537330","region":"Harghita","city":"Tulghes","latitude":46.95,"longitude":25.76667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77910"]={"code":"77910","region":"Ile-de-France","city":"Varreddes","latitude":49.00305,"longitude":2.92788}}(window,'GeoPostal','FR');

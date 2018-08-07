@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57528"]={"code":"57528","region":"South Dakota","city":"Colome","latitude":43.262334,"longitude":-99.717416}}(window,'GeoPostal','US');

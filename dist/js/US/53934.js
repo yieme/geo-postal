@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53934"]={"code":"53934","region":"WI","city":"Friendship","latitude":43.9896,"longitude":-89.8149}}(window,'GeoPostal','US');

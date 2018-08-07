@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["677008"]={"code":"677008","region":"Saha, Respublika","city":"Yakutsk","latitude":62.03389,"longitude":129.73306}}(window,'GeoPostal','RU');

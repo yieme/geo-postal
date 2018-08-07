@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF42 6LY"]={"code":"CF42 6LY","region":"Wales","city":"Cwmparc","latitude":51.65438,"longitude":-3.51686}}(window,'GeoPostal','GB');

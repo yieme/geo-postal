@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3930"]={"code":"3930","region":"Vidin","city":"Ruzhintsi","latitude":43.62333,"longitude":22.83083}}(window,'GeoPostal','BG');

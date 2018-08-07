@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04210"]={"code":"04210","region":"Provence-Alpes-Cote d'Azur","city":"Valensole","latitude":43.83799,"longitude":5.98323}}(window,'GeoPostal','FR');

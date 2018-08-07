@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51233"]={"code":"51233","region":"Dnipropetrovska oblast","city":"Pidhorodne","latitude":48.57528,"longitude":35.1068}}(window,'GeoPostal','UA');

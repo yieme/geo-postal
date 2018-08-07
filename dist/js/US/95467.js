@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95467"]={"code":"95467","region":"CA","city":"Hidden Valley Lake","latitude":38.8036,"longitude":-122.5407}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98637"]={"code":"98637","region":"WA","city":"Nahcotta","latitude":46.4984,"longitude":-124.0335}}(window,'GeoPostal','US');

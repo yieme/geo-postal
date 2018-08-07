@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83670"]={"code":"83670","region":"Provence-Alpes-Cote d'Azur","city":"Barjols","latitude":43.55782,"longitude":6.00783}}(window,'GeoPostal','FR');

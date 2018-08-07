@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37010"]={"code":"37010","region":"TN","city":"Adams","latitude":36.5582,"longitude":-87.1226}}(window,'GeoPostal','US');

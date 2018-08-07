@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86800-000"]={"code":"86800-000","region":"Parana","city":"Apucarana","latitude":-23.55083,"longitude":-51.46083}}(window,'GeoPostal','BR');

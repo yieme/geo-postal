@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 54"]={"code":"561 54","region":"Pardubicky kraj","city":"Bystrec","latitude":50.01168,"longitude":16.619}}(window,'GeoPostal','CZ');

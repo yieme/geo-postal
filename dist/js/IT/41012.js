@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41012"]={"code":"41012","region":"Emilia-Romagna","city":"San Prospero","latitude":44.78967,"longitude":11.0221}}(window,'GeoPostal','IT');

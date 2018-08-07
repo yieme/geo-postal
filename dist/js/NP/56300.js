@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56300"]={"code":"56300","region":"Kosi","city":"Beltar-Basaha","latitude":26.798621,"longitude":86.912321}}(window,'GeoPostal','NP');

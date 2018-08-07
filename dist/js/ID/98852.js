@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98852"]={"code":"98852","region":"Papua","city":"Nabire","latitude":-3.36667,"longitude":135.48333}}(window,'GeoPostal','ID');

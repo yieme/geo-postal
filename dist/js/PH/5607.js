@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5607"]={"code":"5607","region":"Aklan","city":"Nabas","latitude":11.831,"longitude":122.087}}(window,'GeoPostal','PH');

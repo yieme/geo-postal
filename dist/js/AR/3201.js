@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3201"]={"code":"3201","region":"Entre Rios","city":"Puerto Yerua","latitude":-31.53713,"longitude":-58.01527}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12144"]={"code":"12144","region":"New York","city":"Rensselaer","latitude":42.6246,"longitude":-73.71012}}(window,'GeoPostal','US');

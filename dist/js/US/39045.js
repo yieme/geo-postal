@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39045"]={"code":"39045","region":"MS","city":"Camden","latitude":32.7853,"longitude":-89.8698}}(window,'GeoPostal','US');

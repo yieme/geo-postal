@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98083"]={"code":"98083","region":"Washington","city":"Kirkland","latitude":47.6846,"longitude":-122.193939}}(window,'GeoPostal','US');

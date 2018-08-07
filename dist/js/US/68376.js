@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68376"]={"code":"68376","region":"Nebraska","city":"Humboldt","latitude":40.165,"longitude":-95.94583}}(window,'GeoPostal','US');

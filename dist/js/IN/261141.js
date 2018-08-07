@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["261141"]={"code":"261141","region":"Uttar Pradesh","city":"Misrikh","latitude":27.45,"longitude":80.51667}}(window,'GeoPostal','IN');

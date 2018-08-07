@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48351"]={"code":"48351","region":"Nordrhein-Westfalen","city":"Everswinkel","latitude":51.93333,"longitude":7.85}}(window,'GeoPostal','DE');

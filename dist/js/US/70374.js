@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70374"]={"code":"70374","region":"Louisiana","city":"Lockport","latitude":29.61744,"longitude":-90.46314}}(window,'GeoPostal','US');

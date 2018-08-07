@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24808"]={"code":"24808","region":"West Virginia","city":"Anawalt","latitude":37.333475,"longitude":-81.441509}}(window,'GeoPostal','US');

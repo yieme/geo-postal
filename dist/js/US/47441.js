@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47441"]={"code":"47441","region":"Indiana","city":"Linton","latitude":39.03477,"longitude":-87.16585}}(window,'GeoPostal','US');

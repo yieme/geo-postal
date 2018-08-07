@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301723"]={"code":"301723","region":"Tul'skaya oblast'","city":"Kimovsk","latitude":53.97164,"longitude":38.53186}}(window,'GeoPostal','RU');

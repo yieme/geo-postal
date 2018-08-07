@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78250-000"]={"code":"78250-000","region":"Mato Grosso","city":"Pontes e Lacerda","latitude":-15.22611,"longitude":-59.33528}}(window,'GeoPostal','BR');

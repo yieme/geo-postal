@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65041"]={"code":"65041","region":"Missouri","city":"Hermann","latitude":38.70421,"longitude":-91.43738}}(window,'GeoPostal','US');

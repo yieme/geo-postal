@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49604"]={"code":"49604","region":"Punjab","city":"Jhelum","latitude":32.93313,"longitude":73.72637}}(window,'GeoPostal','PK');

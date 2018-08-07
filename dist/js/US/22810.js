@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22810"]={"code":"22810","region":"VA","city":"Basye","latitude":38.8089,"longitude":-78.7776}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W2 2DY"]={"code":"W2 2DY","region":"England","city":"Matlock Bank","latitude":53.13333,"longitude":-1.55}}(window,'GeoPostal','GB');

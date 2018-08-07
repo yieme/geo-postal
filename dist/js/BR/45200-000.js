@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45200-000"]={"code":"45200-000","region":"Bahia","city":"Jequie","latitude":-13.8575,"longitude":-40.08361}}(window,'GeoPostal','BR');

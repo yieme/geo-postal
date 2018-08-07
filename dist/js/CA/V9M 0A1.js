@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9M 0A1"]={"code":"V9M 0A1","region":"British Columbia","city":"Comox","latitude":49.68294,"longitude":-124.93613}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90604"]={"code":"90604","region":"Zakarpatska oblast","city":"Rakhiv","latitude":48.0526,"longitude":24.20089}}(window,'GeoPostal','UA');

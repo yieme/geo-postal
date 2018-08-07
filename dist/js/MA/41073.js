@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41073"]={"code":"41073","region":"Marrakech-Tensift-Al Haouz","city":"Bouabout","latitude":31.26554,"longitude":-9.17865}}(window,'GeoPostal','MA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB56 4LP"]={"code":"AB56 4LP","region":"Scotland","city":"Portknockie","latitude":57.70248,"longitude":-2.85989}}(window,'GeoPostal','GB');

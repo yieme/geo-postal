@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59082"]={"code":"59082","region":"MT","city":"Springdale","latitude":45.7383,"longitude":-110.2271}}(window,'GeoPostal','US');

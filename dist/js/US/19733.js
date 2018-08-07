@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19733"]={"code":"19733","region":"Delaware","city":"Saint Georges","latitude":39.555096,"longitude":-75.650791}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60514"]={"code":"60514","region":"Illinois","city":"Clarendon Hills","latitude":41.77248,"longitude":-87.95718}}(window,'GeoPostal','US');

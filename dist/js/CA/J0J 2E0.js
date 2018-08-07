@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 2E0"]={"code":"J0J 2E0","region":"Quebec","city":"Saint-Paul-de-l'Ile-aux-Noix","latitude":45.13338,"longitude":-73.28245}}(window,'GeoPostal','CA');

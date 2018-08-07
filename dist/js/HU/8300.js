@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8300"]={"code":"8300","region":"Veszprem","city":"Tapolca","latitude":46.88152,"longitude":17.44117}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["010400"]={"code":"010400","region":"Nei Mongol","city":"Shagedu","latitude":39.6475,"longitude":110.85944}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64013"]={"code":"64013","region":"Missouri","city":"Blue Springs","latitude":39.01695,"longitude":-94.28161}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327175"]={"code":"327175","region":"Caras-Severin","city":"Doclin","latitude":45.29694,"longitude":21.65389}}(window,'GeoPostal','RO');

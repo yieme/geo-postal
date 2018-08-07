@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA22 8HR"]={"code":"BA22 8HR","region":"England","city":"Yeovil","latitude":50.94159,"longitude":-2.63211}}(window,'GeoPostal','GB');

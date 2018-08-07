@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL54 7RA"]={"code":"LL54 7RA","region":"Wales","city":"Moel-tryfan","latitude":53.08333,"longitude":-4.23333}}(window,'GeoPostal','GB');

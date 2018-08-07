@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60482"]={"code":"60482","region":"IL","city":"Worth","latitude":41.6895,"longitude":-87.7863}}(window,'GeoPostal','US');

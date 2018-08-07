@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["442501"]={"code":"442501","region":"Penzenskaya oblast'","city":"Poselki","latitude":53.13236,"longitude":46.50307}}(window,'GeoPostal','RU');

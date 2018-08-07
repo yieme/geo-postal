@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15563"]={"code":"15563","region":"PA","city":"Stoystown","latitude":40.0948,"longitude":-78.9658}}(window,'GeoPostal','US');

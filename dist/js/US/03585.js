@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03585"]={"code":"03585","region":"NH","city":"Lisbon","latitude":44.2148,"longitude":-71.8966}}(window,'GeoPostal','US');

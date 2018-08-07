@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-366"]={"code":"28-366","region":"Swietokrzyskie","city":"Malogoszcz","latitude":50.81214,"longitude":20.26407}}(window,'GeoPostal','PL');

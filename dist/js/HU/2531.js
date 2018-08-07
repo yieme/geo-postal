@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2531"]={"code":"2531","region":"Komarom-Esztergom","city":"Tokod","latitude":47.72277,"longitude":18.65889}}(window,'GeoPostal','HU');

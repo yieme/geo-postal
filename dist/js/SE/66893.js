@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66893"]={"code":"66893","region":"Vastra Gotalands lan","city":"Ed","latitude":58.9125,"longitude":11.92534}}(window,'GeoPostal','SE');

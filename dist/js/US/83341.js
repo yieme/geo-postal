@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83341"]={"code":"83341","region":"Idaho","city":"Kimberly","latitude":42.542007,"longitude":-114.362173}}(window,'GeoPostal','US');

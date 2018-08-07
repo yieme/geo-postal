@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-9999"]={"code":"L-9999","region":"Diekirch","city":"Troisvierges","latitude":50.12111,"longitude":6.00028}}(window,'GeoPostal','LU');

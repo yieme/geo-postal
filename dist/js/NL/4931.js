@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4931"]={"code":"4931","region":"Noord-Brabant","city":"Geertruidenberg","latitude":51.70167,"longitude":4.85694}}(window,'GeoPostal','NL');

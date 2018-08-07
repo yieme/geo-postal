@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15866"]={"code":"15866","region":"PA","city":"Troutville","latitude":41.0256,"longitude":-78.7853}}(window,'GeoPostal','US');

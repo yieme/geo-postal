@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34350"]={"code":"34350","region":"Occitanie","city":"Valras-Plage","latitude":43.24808,"longitude":3.29032}}(window,'GeoPostal','FR');

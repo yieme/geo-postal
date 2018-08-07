@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17870"]={"code":"17870","region":"Pennsylvania","city":"Selinsgrove","latitude":40.83168,"longitude":-76.90362}}(window,'GeoPostal','US');

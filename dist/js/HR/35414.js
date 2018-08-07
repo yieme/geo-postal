@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35414"]={"code":"35414","region":"Brodsko-posavska zupanija","city":"Vrbova","latitude":45.21861,"longitude":17.57778}}(window,'GeoPostal','HR');

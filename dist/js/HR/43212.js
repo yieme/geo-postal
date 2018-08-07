@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43212"]={"code":"43212","region":"Bjelovarsko-bilogorska zupanija","city":"Rovisce","latitude":45.94472,"longitude":16.735}}(window,'GeoPostal','HR');

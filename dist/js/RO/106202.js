@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["106202"]={"code":"106202","region":"Prahova","city":"Varbilau","latitude":45.18333,"longitude":25.95}}(window,'GeoPostal','RO');

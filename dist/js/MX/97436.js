@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97436"]={"code":"97436","region":"Yucatan","city":"Motul de Felipe Carrillo Puerto","latitude":21.1,"longitude":-89.28333}}(window,'GeoPostal','MX');

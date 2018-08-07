@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28457"]={"code":"28457","region":"NC","city":"Rocky Point","latitude":34.4344,"longitude":-77.9234}}(window,'GeoPostal','US');

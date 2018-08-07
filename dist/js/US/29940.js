@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29940"]={"code":"29940","region":"SC","city":"Seabrook","latitude":32.5693,"longitude":-80.7192}}(window,'GeoPostal','US');

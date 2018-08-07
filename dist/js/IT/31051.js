@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31051"]={"code":"31051","region":"Veneto","city":"Follina","latitude":45.9525,"longitude":12.11389}}(window,'GeoPostal','IT');

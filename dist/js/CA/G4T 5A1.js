@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4T 5A1"]={"code":"G4T 5A1","region":"Quebec","city":"Havre-aux-Maisons","latitude":47.47057,"longitude":-61.73776}}(window,'GeoPostal','CA');

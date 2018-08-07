@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49649"]={"code":"49649","region":"Michigan","city":"Kingsley","latitude":44.58473,"longitude":-85.5359}}(window,'GeoPostal','US');

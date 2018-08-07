@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["020150"]={"code":"020150","region":"Bolivar","city":"Guaranda","latitude":-1.6,"longitude":-79}}(window,'GeoPostal','EC');

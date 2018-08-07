@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52388"]={"code":"52388","region":"Nordrhein-Westfalen","city":"Luxheim","latitude":50.77221,"longitude":6.63127}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30725"]={"code":"30725","region":"GA","city":"Flintstone","latitude":34.9252,"longitude":-85.3524}}(window,'GeoPostal','US');

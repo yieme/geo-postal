@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72089"]={"code":"72089","region":"AR","city":"Bryant","latitude":34.5959,"longitude":-92.489}}(window,'GeoPostal','US');

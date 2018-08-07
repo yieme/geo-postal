@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19371"]={"code":"19371","region":"PA","city":"Suplee","latitude":40.0995,"longitude":-75.8791}}(window,'GeoPostal','US');

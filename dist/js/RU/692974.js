@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692974"]={"code":"692974","region":"Primorskiy kray","city":"Yekaterinovka","latitude":42.925,"longitude":133.04722}}(window,'GeoPostal','RU');

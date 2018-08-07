@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32428"]={"code":"32428","region":"Florida","city":"Chipley","latitude":30.670656,"longitude":-85.571145}}(window,'GeoPostal','US');

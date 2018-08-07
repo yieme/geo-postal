@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21262"]={"code":"21262","region":"Splitsko-dalmatinska zupanija","city":"Grubine","latitude":43.42278,"longitude":17.14972}}(window,'GeoPostal','HR');

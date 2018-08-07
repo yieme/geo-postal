@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385560"]={"code":"385560","region":"Gujarat","city":"Un","latitude":23.88333,"longitude":71.76667}}(window,'GeoPostal','IN');

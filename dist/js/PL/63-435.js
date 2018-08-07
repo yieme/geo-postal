@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-435"]={"code":"63-435","region":"Wielkopolskie","city":"Sosnie","latitude":51.47315,"longitude":17.63383}}(window,'GeoPostal','PL');

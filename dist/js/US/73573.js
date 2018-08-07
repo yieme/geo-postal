@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73573"]={"code":"73573","region":"OK","city":"Waurika","latitude":34.1745,"longitude":-97.9973}}(window,'GeoPostal','US');

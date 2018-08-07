@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16133"]={"code":"16133","region":"PA","city":"Jackson Center","latitude":41.2801,"longitude":-80.1037}}(window,'GeoPostal','US');

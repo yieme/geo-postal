@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35488"]={"code":"35488","region":"Canarias","city":"Galdar","latitude":28.14701,"longitude":-15.6502}}(window,'GeoPostal','ES');

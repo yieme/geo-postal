@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61275"]={"code":"61275","region":"Illinois","city":"Port Byron","latitude":41.597557,"longitude":-90.316472}}(window,'GeoPostal','US');

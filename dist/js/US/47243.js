@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47243"]={"code":"47243","region":"Indiana","city":"Hanover","latitude":38.71423,"longitude":-85.47357}}(window,'GeoPostal','US');

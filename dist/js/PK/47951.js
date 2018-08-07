@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47951"]={"code":"47951","region":"Azad Jammu and Kashmir","city":"New Mirpur","latitude":33.14176,"longitude":73.76736}}(window,'GeoPostal','PK');

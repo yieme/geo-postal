@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["135500"]={"code":"135500","region":"Dambovita","city":"Titu","latitude":44.65,"longitude":25.53333}}(window,'GeoPostal','RO');

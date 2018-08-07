@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98650"]={"code":"98650","region":"Washington","city":"Trout Lake","latitude":45.99556,"longitude":-121.52056}}(window,'GeoPostal','US');

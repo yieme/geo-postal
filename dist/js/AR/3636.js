@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3636"]={"code":"3636","region":"Formosa","city":"Ingeniero Guillermo N. Juarez","latitude":-23.9,"longitude":-61.85}}(window,'GeoPostal','AR');

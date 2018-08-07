@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75603"]={"code":"75603","region":"Texas","city":"Longview","latitude":32.436368,"longitude":-94.725003}}(window,'GeoPostal','US');

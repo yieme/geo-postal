@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["619184"]={"code":"619184","region":"Permskiy kray","city":"Maykor","latitude":59.00586,"longitude":55.87998}}(window,'GeoPostal','RU');

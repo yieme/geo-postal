@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18981"]={"code":"18981","region":"PA","city":"Zionhill","latitude":40.4843,"longitude":-75.3938}}(window,'GeoPostal','US');

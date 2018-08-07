@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72510"]={"code":"72510","region":"Zaporizka oblast","city":"Kuybysheve","latitude":47.358,"longitude":36.64908}}(window,'GeoPostal','UA');

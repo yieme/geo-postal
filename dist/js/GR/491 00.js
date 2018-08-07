@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491 00"]={"code":"491 00","region":"Ionia Nisia","city":"Alepou","latitude":39.61028,"longitude":19.88889}}(window,'GeoPostal','GR');

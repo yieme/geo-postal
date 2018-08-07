@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416100"]={"code":"416100","region":"Hunan","city":"Baisha","latitude":28.20556,"longitude":110.2}}(window,'GeoPostal','CN');

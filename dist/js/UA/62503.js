@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62503"]={"code":"62503","region":"Luhanska oblast","city":"Lenina","latitude":48.42944,"longitude":39.14556}}(window,'GeoPostal','UA');

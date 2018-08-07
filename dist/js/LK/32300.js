@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32300"]={"code":"32300","region":"Eastern Province","city":"Kalmunai","latitude":7.41667,"longitude":81.81667}}(window,'GeoPostal','LK');

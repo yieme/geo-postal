@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84316"]={"code":"84316","region":"Utah","city":"Howell","latitude":41.781149,"longitude":-112.430311}}(window,'GeoPostal','US');

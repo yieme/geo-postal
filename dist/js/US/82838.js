@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82838"]={"code":"82838","region":"WY","city":"Parkman","latitude":44.965,"longitude":-107.3254}}(window,'GeoPostal','US');

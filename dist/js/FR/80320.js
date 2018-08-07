@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80320"]={"code":"80320","region":"Hauts-de-France","city":"Chaulnes","latitude":49.81699,"longitude":2.80064}}(window,'GeoPostal','FR');

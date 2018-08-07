@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82512"]={"code":"82512","region":"WY","city":"Crowheart","latitude":43.3716,"longitude":-109.296}}(window,'GeoPostal','US');

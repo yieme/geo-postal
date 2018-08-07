@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38518"]={"code":"38518","region":"Niedersachsen","city":"Gifhorn","latitude":52.47774,"longitude":10.5511}}(window,'GeoPostal','DE');

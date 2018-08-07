@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR13 9HZ"]={"code":"TR13 9HZ","region":"England","city":"Porthleven","latitude":50.08618,"longitude":-5.31501}}(window,'GeoPostal','GB');

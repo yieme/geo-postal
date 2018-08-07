@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-672"]={"code":"42-672","region":"Slaskie","city":"Wieszowa","latitude":50.38444,"longitude":18.75924}}(window,'GeoPostal','PL');

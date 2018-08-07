@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08094"]={"code":"08094","region":"New Jersey","city":"Williamstown","latitude":39.64284,"longitude":-74.95554}}(window,'GeoPostal','US');

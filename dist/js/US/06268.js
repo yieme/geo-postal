@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06268"]={"code":"06268","region":"Connecticut","city":"Storrs Mansfield","latitude":41.7936,"longitude":-72.2514}}(window,'GeoPostal','US');

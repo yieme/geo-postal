@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91963"]={"code":"91963","region":"CA","city":"Potrero","latitude":32.6205,"longitude":-116.6037}}(window,'GeoPostal','US');

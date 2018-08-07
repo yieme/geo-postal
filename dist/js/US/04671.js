@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04671"]={"code":"04671","region":"ME","city":"Robbinston","latitude":45.067,"longitude":-67.1433}}(window,'GeoPostal','US');

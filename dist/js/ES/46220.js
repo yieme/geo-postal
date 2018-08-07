@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46220"]={"code":"46220","region":"Valenciana, Comunidad","city":"Picassent","latitude":39.36667,"longitude":-0.45}}(window,'GeoPostal','ES');

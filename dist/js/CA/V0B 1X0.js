@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1X0"]={"code":"V0B 1X0","region":"British Columbia","city":"Walkers","latitude":49.69991,"longitude":-116.86888}}(window,'GeoPostal','CA');

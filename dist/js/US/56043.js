@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56043"]={"code":"56043","region":"MN","city":"Hayward","latitude":43.6386,"longitude":-93.2377}}(window,'GeoPostal','US');

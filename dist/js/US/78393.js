@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78393"]={"code":"78393","region":"TX","city":"Woodsboro","latitude":28.2232,"longitude":-97.3192}}(window,'GeoPostal','US');

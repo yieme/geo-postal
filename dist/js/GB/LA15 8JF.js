@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA15 8JF"]={"code":"LA15 8JF","region":"England","city":"Dalton in Furness","latitude":54.15,"longitude":-3.16667}}(window,'GeoPostal','GB');

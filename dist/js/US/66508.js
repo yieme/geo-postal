@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66508"]={"code":"66508","region":"Kansas","city":"Marysville","latitude":39.84111,"longitude":-96.64724}}(window,'GeoPostal','US');

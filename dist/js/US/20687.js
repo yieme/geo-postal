@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20687"]={"code":"20687","region":"Maryland","city":"Scotland","latitude":38.07614,"longitude":-76.349281}}(window,'GeoPostal','US');

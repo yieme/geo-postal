@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8676"]={"code":"8676","region":"Somogy","city":"Karad","latitude":46.69076,"longitude":17.84136}}(window,'GeoPostal','HU');

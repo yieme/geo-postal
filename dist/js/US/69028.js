@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69028"]={"code":"69028","region":"Nebraska","city":"Eustis","latitude":40.66417,"longitude":-100.03111}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93930"]={"code":"93930","region":"California","city":"King City","latitude":36.19953,"longitude":-121.135627}}(window,'GeoPostal','US');

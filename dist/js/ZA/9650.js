@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9650"]={"code":"9650","region":"Free State","city":"Heilbron","latitude":-27.28115,"longitude":27.9709}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE30 4ET"]={"code":"PE30 4ET","region":"England","city":"Gayton","latitude":52.16667,"longitude":-0.96667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32000"]={"code":"32000","region":"Perak","city":"Sitiawan","latitude":4.216667,"longitude":100.7}}(window,'GeoPostal','MY');

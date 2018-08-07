@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["166004"]={"code":"166004","region":"Nenetskiy avtonomnyy okrug","city":"Nar'yan-Mar","latitude":67.67126,"longitude":53.08697}}(window,'GeoPostal','RU');

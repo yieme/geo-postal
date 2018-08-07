@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61729"]={"code":"61729","region":"IL","city":"Congerville","latitude":40.6208,"longitude":-89.1994}}(window,'GeoPostal','US');

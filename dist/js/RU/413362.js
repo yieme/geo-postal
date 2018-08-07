@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413362"]={"code":"413362","region":"Saratovskaya oblast'","city":"Novouzensk","latitude":50.45917,"longitude":48.14306}}(window,'GeoPostal','RU');

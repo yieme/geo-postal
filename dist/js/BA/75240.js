@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75240"]={"code":"75240","region":"Republika Srpska","city":"Lopare","latitude":44.63778,"longitude":18.84278}}(window,'GeoPostal','BA');

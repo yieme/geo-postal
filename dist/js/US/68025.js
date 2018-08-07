@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68025"]={"code":"68025","region":"Nebraska","city":"Fremont","latitude":41.43333,"longitude":-96.49808}}(window,'GeoPostal','US');

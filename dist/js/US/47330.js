@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47330"]={"code":"47330","region":"IN","city":"Centerville","latitude":39.8081,"longitude":-85.0032}}(window,'GeoPostal','US');

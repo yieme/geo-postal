@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74673"]={"code":"74673","region":"Baden-Wurttemberg","city":"Mulfingen","latitude":48.84938,"longitude":9.88995}}(window,'GeoPostal','DE');

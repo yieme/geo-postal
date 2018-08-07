@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28783"]={"code":"28783","region":"North Carolina","city":"Tuckasegee","latitude":35.250293,"longitude":-83.121164}}(window,'GeoPostal','US');

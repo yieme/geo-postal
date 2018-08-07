@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07710"]={"code":"07710","region":"NJ","city":"Adelphia","latitude":40.2182,"longitude":-74.2563}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517040"]={"code":"517040","region":"Alba","city":"Arieseni","latitude":46.48333,"longitude":22.76667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08328"]={"code":"08328","region":"New Jersey","city":"Malaga","latitude":39.57,"longitude":-75.05}}(window,'GeoPostal','US');

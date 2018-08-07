@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 6ER"]={"code":"AB54 6ER","region":"Scotland","city":"Drumblade","latitude":57.45058,"longitude":-2.689}}(window,'GeoPostal','GB');

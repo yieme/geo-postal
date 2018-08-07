@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12864"]={"code":"12864","region":"NY","city":"Sabael","latitude":43.7284,"longitude":-74.3057}}(window,'GeoPostal','US');

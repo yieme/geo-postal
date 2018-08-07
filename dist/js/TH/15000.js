@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15000"]={"code":"15000","region":"Lop Buri","city":"Lop Buri","latitude":14.79808,"longitude":100.65397}}(window,'GeoPostal','TH');

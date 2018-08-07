@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75056"]={"code":"75056","region":"Baden-Wurttemberg","city":"Sulzfeld","latitude":49.10472,"longitude":8.85583}}(window,'GeoPostal','DE');

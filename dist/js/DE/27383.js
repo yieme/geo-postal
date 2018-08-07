@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27383"]={"code":"27383","region":"Niedersachsen","city":"Jeersdorf","latitude":53.16982,"longitude":9.46752}}(window,'GeoPostal','DE');

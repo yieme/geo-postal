@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35900"]={"code":"35900","region":"Perak","city":"Tanjung Malim","latitude":3.683333,"longitude":101.516667}}(window,'GeoPostal','MY');

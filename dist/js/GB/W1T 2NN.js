@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W1T 2NN"]={"code":"W1T 2NN","region":"Scotland","city":"Westhill","latitude":57.15263,"longitude":-2.27966}}(window,'GeoPostal','GB');

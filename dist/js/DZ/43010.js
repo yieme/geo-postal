@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43010"]={"code":"43010","region":"Mila","city":"Sidi Merouane","latitude":36.52056,"longitude":6.26111}}(window,'GeoPostal','DZ');

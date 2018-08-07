@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49458"]={"code":"49458","region":"Michigan","city":"Walhalla","latitude":43.943324,"longitude":-86.097661}}(window,'GeoPostal','US');

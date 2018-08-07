@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10701"]={"code":"10701","region":"San Cristobal","city":"Villa Altagracia","latitude":18.67297,"longitude":-70.17095}}(window,'GeoPostal','DO');

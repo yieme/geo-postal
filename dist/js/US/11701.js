@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11701"]={"code":"11701","region":"New York","city":"Amityville","latitude":40.6872,"longitude":-73.41228}}(window,'GeoPostal','US');

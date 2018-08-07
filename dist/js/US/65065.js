@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65065"]={"code":"65065","region":"Missouri","city":"Osage Beach","latitude":38.12956,"longitude":-92.65277}}(window,'GeoPostal','US');

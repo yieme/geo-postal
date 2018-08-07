@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38036"]={"code":"38036","region":"TN","city":"Gallaway","latitude":35.3274,"longitude":-89.6198}}(window,'GeoPostal','US');

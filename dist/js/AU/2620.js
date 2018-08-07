@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2620"]={"code":"2620","region":"New South Wales","city":"Queanbeyan","latitude":-35.35493,"longitude":149.232}}(window,'GeoPostal','AU');

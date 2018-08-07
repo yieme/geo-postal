@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48225"]={"code":"48225","region":"Michigan","city":"Harper Woods","latitude":42.437669,"longitude":-82.940907}}(window,'GeoPostal','US');

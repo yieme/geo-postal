@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49434"]={"code":"49434","region":"Niedersachsen","city":"Narberhausen","latitude":52.51178,"longitude":8.07824}}(window,'GeoPostal','DE');

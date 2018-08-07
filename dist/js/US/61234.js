@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61234"]={"code":"61234","region":"Illinois","city":"Annawan","latitude":41.39722,"longitude":-89.90889}}(window,'GeoPostal','US');

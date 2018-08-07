@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87250"]={"code":"87250","region":"Nouvelle-Aquitaine","city":"Bessines-sur-Gartempe","latitude":46.10799,"longitude":1.36865}}(window,'GeoPostal','FR');

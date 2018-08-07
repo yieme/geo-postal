@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17550"]={"code":"17550","region":"PA","city":"Maytown","latitude":40.0754,"longitude":-76.5822}}(window,'GeoPostal','US');

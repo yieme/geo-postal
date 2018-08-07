@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["449-800"]={"code":"449-800","region":"Gyeonggi-do","city":"Yongin","latitude":37.233333,"longitude":127.2}}(window,'GeoPostal','KR');

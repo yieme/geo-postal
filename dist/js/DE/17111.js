@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17111"]={"code":"17111","region":"Mecklenburg-Vorpommern","city":"Lindenhof","latitude":53.85116,"longitude":13.00195}}(window,'GeoPostal','DE');

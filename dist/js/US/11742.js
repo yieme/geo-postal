@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11742"]={"code":"11742","region":"New York","city":"Holtsville","latitude":40.812866,"longitude":-73.043416}}(window,'GeoPostal','US');

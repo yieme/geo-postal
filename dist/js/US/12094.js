@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12094"]={"code":"12094","region":"NY","city":"Johnsonville","latitude":42.8769,"longitude":-73.4989}}(window,'GeoPostal','US');

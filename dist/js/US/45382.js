@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45382"]={"code":"45382","region":"OH","city":"West Manchester","latitude":39.9026,"longitude":-84.6194}}(window,'GeoPostal','US');

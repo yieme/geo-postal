@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59762"]={"code":"59762","region":"MT","city":"Wise River","latitude":45.7424,"longitude":-112.9963}}(window,'GeoPostal','US');

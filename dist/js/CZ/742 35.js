@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["742 35"]={"code":"742 35","region":"Moravskoslezsky kraj","city":"Odry","latitude":49.66255,"longitude":17.83084}}(window,'GeoPostal','CZ');

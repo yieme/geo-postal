@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39573"]={"code":"39573","region":"MS","city":"Perkinston","latitude":30.7669,"longitude":-89.14}}(window,'GeoPostal','US');

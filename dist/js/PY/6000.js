@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6000"]={"code":"6000","region":"Itapua","city":"Encarnacion","latitude":-27.33333,"longitude":-55.9}}(window,'GeoPostal','PY');

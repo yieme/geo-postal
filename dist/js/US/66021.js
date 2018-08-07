@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66021"]={"code":"66021","region":"Kansas","city":"Edgerton","latitude":38.771773,"longitude":-95.003983}}(window,'GeoPostal','US');

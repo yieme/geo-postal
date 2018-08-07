@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38256"]={"code":"38256","region":"Tennessee","city":"Springville","latitude":36.37842,"longitude":-88.104942}}(window,'GeoPostal','US');

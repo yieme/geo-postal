@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64423"]={"code":"64423","region":"MO","city":"Barnard","latitude":40.1862,"longitude":-94.8056}}(window,'GeoPostal','US');

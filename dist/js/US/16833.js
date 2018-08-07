@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16833"]={"code":"16833","region":"Pennsylvania","city":"Curwensville","latitude":40.97561,"longitude":-78.52502}}(window,'GeoPostal','US');

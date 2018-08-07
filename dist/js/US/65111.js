@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65111"]={"code":"65111","region":"MO","city":"Jefferson City","latitude":38.5309,"longitude":-92.2493}}(window,'GeoPostal','US');

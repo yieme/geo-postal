@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07554"]={"code":"07554","region":"Thuringen","city":"Bethenhausen","latitude":50.93333,"longitude":12.2}}(window,'GeoPostal','DE');

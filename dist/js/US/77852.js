@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77852"]={"code":"77852","region":"TX","city":"Deanville","latitude":30.4322,"longitude":-96.7561}}(window,'GeoPostal','US');

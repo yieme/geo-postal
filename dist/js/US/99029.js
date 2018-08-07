@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99029"]={"code":"99029","region":"WA","city":"Reardan","latitude":47.7054,"longitude":-117.8663}}(window,'GeoPostal','US');

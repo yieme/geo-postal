@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07025"]={"code":"07025","region":"Sardegna","city":"Luras","latitude":40.93527,"longitude":9.17532}}(window,'GeoPostal','IT');

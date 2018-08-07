@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117424"]={"code":"117424","region":"Arges","city":"Leordeni","latitude":44.78333,"longitude":25.11667}}(window,'GeoPostal','RO');

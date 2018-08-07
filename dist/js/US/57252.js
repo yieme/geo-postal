@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57252"]={"code":"57252","region":"South Dakota","city":"Milbank","latitude":45.21913,"longitude":-96.63562}}(window,'GeoPostal','US');

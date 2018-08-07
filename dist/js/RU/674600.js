@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674600"]={"code":"674600","region":"Zabaykal'skiy kray","city":"Borzya","latitude":50.38333,"longitude":116.51667}}(window,'GeoPostal','RU');

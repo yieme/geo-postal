@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71600"]={"code":"71600","region":"Negeri Sembilan","city":"Kuala Klawang","latitude":2.933333,"longitude":102.083333}}(window,'GeoPostal','MY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94533"]={"code":"94533","region":"Bayern","city":"Buchhofen","latitude":48.7,"longitude":12.91667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28351"]={"code":"28351","region":"North Carolina","city":"Laurel Hill","latitude":34.80905,"longitude":-79.54783}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18509"]={"code":"18509","region":"Pennsylvania","city":"Dunmore","latitude":41.4198,"longitude":-75.63241}}(window,'GeoPostal','US');

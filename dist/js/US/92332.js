@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92332"]={"code":"92332","region":"California","city":"Essex","latitude":34.8208,"longitude":-115.0731}}(window,'GeoPostal','US');

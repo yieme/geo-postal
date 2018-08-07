@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68664"]={"code":"68664","region":"Odeska oblast","city":"Izmayil","latitude":45.34929,"longitude":28.84079}}(window,'GeoPostal','UA');

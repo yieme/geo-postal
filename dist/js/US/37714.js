@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37714"]={"code":"37714","region":"TN","city":"Caryville","latitude":36.3028,"longitude":-84.203}}(window,'GeoPostal','US');

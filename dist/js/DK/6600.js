@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6600"]={"code":"6600","region":"Syddanmark","city":"Vejen","latitude":55.48333,"longitude":9.15}}(window,'GeoPostal','DK');

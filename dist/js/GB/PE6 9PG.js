@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE6 9PG"]={"code":"PE6 9PG","region":"England","city":"Baston","latitude":52.71311,"longitude":-0.35173}}(window,'GeoPostal','GB');

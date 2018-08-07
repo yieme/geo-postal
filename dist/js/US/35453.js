@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35453"]={"code":"35453","region":"Alabama","city":"Cottondale","latitude":33.199204,"longitude":-87.401616}}(window,'GeoPostal','US');

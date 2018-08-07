@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624975"]={"code":"624975","region":"Sverdlovskaya oblast'","city":"Vostochnyy","latitude":58.79991,"longitude":61.81391}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA16 0UB"]={"code":"SA16 0UB","region":"Wales","city":"Pembrey","latitude":51.68747,"longitude":-4.27625}}(window,'GeoPostal','GB');

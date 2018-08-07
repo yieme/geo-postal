@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77-310"]={"code":"77-310","region":"Pomorskie","city":"Debrzno","latitude":53.53817,"longitude":17.23643}}(window,'GeoPostal','PL');

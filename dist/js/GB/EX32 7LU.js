@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX32 7LU"]={"code":"EX32 7LU","region":"England","city":"Goodleigh","latitude":51.08923,"longitude":-4.00212}}(window,'GeoPostal','GB');

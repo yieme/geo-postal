@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16748"]={"code":"16748","region":"Pennsylvania","city":"Shinglehouse","latitude":41.96368,"longitude":-78.19084}}(window,'GeoPostal','US');

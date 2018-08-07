@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45778"]={"code":"45778","region":"OH","city":"Stewart","latitude":39.3213,"longitude":-81.8929}}(window,'GeoPostal','US');

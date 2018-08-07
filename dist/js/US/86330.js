@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86330"]={"code":"86330","region":"AZ","city":"Iron Springs","latitude":34.67,"longitude":-112.52}}(window,'GeoPostal','US');

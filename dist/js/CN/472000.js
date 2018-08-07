@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["472000"]={"code":"472000","region":"Henan","city":"Sanmenxia","latitude":34.766667,"longitude":111.2}}(window,'GeoPostal','CN');

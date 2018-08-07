@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62660"]={"code":"62660","region":"IL","city":"Literberry","latitude":39.8589,"longitude":-90.2007}}(window,'GeoPostal','US');

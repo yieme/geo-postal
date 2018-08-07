@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79836"]={"code":"79836","region":"TX","city":"Clint","latitude":31.5494,"longitude":-106.2038}}(window,'GeoPostal','US');

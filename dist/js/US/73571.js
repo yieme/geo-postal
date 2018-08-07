@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73571"]={"code":"73571","region":"OK","city":"Vinson","latitude":34.9006,"longitude":-99.8598}}(window,'GeoPostal','US');

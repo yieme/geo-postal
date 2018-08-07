@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84309"]={"code":"84309","region":"UT","city":"Deweyville","latitude":41.6972,"longitude":-112.0947}}(window,'GeoPostal','US');

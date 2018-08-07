@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93444"]={"code":"93444","region":"California","city":"Nipomo","latitude":35.032588,"longitude":-120.493879}}(window,'GeoPostal','US');

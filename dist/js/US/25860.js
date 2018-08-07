@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25860"]={"code":"25860","region":"WV","city":"Lanark","latitude":37.8276,"longitude":-81.1462}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3912"]={"code":"3912","region":"Victoria","city":"Pearcedale","latitude":-38.203,"longitude":145.23488}}(window,'GeoPostal','AU');

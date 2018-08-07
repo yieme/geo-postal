@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45619"]={"code":"45619","region":"Ohio","city":"Chesapeake","latitude":38.42806,"longitude":-82.45472}}(window,'GeoPostal','US');

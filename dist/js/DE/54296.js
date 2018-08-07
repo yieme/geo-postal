@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54296"]={"code":"54296","region":"Rheinland-Pfalz","city":"Heiligkreuz","latitude":49.74162,"longitude":6.64518}}(window,'GeoPostal','DE');

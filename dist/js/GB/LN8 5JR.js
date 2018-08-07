@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN8 5JR"]={"code":"LN8 5JR","region":"England","city":"Kingthorpe","latitude":53.25,"longitude":-0.3}}(window,'GeoPostal','GB');

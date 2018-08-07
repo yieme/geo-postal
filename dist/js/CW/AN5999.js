@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AN5999"]={"code":"AN5999","region":"Curacao","city":"Willemstad","latitude":12.1084,"longitude":-68.93354}}(window,'GeoPostal','CW');

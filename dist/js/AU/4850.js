@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4850"]={"code":"4850","region":"Queensland","city":"Mount Fox","latitude":-18.81667,"longitude":145.83333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3083"]={"code":"3083","region":"Victoria","city":"Bundoora","latitude":-37.69825,"longitude":145.05967}}(window,'GeoPostal','AU');

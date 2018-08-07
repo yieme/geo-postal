@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17850"]={"code":"17850","region":"PA","city":"Montandon","latitude":40.9661,"longitude":-76.8575}}(window,'GeoPostal','US');

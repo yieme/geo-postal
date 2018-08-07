@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA63 4UT"]={"code":"SA63 4UT","region":"Wales","city":"Clarbeston Road","latitude":51.85139,"longitude":-4.88056}}(window,'GeoPostal','GB');

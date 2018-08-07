@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21006"]={"code":"21006","region":"Alajuela","city":"Pital","latitude":10.45056,"longitude":-84.27406}}(window,'GeoPostal','CR');

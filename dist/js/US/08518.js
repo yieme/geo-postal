@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08518"]={"code":"08518","region":"NJ","city":"Florence","latitude":40.118,"longitude":-74.8055}}(window,'GeoPostal','US');

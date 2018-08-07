@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71291"]={"code":"71291","region":"Louisiana","city":"West Monroe","latitude":32.501233,"longitude":-92.190818}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2016"]={"code":"2016","region":"New South Wales","city":"Redfern","latitude":-33.89279,"longitude":151.20415}}(window,'GeoPostal','AU');

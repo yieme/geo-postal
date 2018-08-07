@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91947"]={"code":"91947","region":"CA","city":"Lincoln Acres","latitude":32.66,"longitude":-117.07}}(window,'GeoPostal','US');

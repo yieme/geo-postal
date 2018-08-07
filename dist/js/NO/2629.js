@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2629"]={"code":"2629","region":"Oppland","city":"Lillehammer","latitude":61.11514,"longitude":10.46628}}(window,'GeoPostal','NO');

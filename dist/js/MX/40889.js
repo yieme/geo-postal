@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40889"]={"code":"40889","region":"Guerrero","city":"Zihuatanejo","latitude":17.63333,"longitude":-101.55}}(window,'GeoPostal','MX');

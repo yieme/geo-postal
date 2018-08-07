@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34974"]={"code":"34974","region":"Florida","city":"Buckhead Ridge","latitude":27.13033,"longitude":-80.89367}}(window,'GeoPostal','US');

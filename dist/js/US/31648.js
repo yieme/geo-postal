@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31648"]={"code":"31648","region":"GA","city":"Statenville","latitude":30.7065,"longitude":-83.019}}(window,'GeoPostal','US');

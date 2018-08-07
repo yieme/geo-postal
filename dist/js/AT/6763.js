@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6763"]={"code":"6763","region":"Vorarlberg","city":"Lech","latitude":47.20797,"longitude":10.14184}}(window,'GeoPostal','AT');

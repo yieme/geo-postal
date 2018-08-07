@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD10 9SJ"]={"code":"DD10 9SJ","region":"Scotland","city":"Montrose","latitude":56.7,"longitude":-2.45}}(window,'GeoPostal','GB');

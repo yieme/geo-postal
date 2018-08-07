@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87032"]={"code":"87032","region":"Calabria","city":"Amantea","latitude":39.13319,"longitude":16.07459}}(window,'GeoPostal','IT');

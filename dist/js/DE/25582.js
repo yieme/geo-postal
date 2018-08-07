@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25582"]={"code":"25582","region":"Schleswig-Holstein","city":"Hohenaspe","latitude":53.98898,"longitude":9.52774}}(window,'GeoPostal','DE');

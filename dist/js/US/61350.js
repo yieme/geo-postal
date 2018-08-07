@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61350"]={"code":"61350","region":"Illinois","city":"Ottawa","latitude":41.34559,"longitude":-88.84258}}(window,'GeoPostal','US');

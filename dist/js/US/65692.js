@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65692"]={"code":"65692","region":"Missouri","city":"Koshkonong","latitude":36.614505,"longitude":-91.619417}}(window,'GeoPostal','US');

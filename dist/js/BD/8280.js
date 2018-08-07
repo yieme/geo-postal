@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8280"]={"code":"8280","region":"Chittagong","city":"Raipur","latitude":23.05,"longitude":90.76667}}(window,'GeoPostal','BD');

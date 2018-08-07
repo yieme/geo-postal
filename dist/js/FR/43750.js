@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43750"]={"code":"43750","region":"Auvergne-Rhone-Alpes","city":"Vals-pres-le-Puy","latitude":45.03155,"longitude":3.87787}}(window,'GeoPostal','FR');

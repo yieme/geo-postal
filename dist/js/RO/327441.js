@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327441"]={"code":"327441","region":"Caras-Severin","city":"Zavoi","latitude":45.51667,"longitude":22.41667}}(window,'GeoPostal','RO');

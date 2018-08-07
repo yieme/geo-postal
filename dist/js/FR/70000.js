@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70000"]={"code":"70000","region":"Bourgogne-Franche-Comte","city":"Noidans-les-Vesoul","latitude":47.61299,"longitude":6.12571}}(window,'GeoPostal','FR');

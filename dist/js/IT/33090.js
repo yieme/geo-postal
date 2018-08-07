@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33090"]={"code":"33090","region":"Friuli-Venezia Giulia","city":"Sequals","latitude":46.16472,"longitude":12.82972}}(window,'GeoPostal','IT');

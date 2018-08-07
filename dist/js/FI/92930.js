@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92930"]={"code":"92930","region":"Kainuu","city":"Pyhanta","latitude":64.45662,"longitude":28.33557}}(window,'GeoPostal','FI');

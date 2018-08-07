@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62560"]={"code":"62560","region":"Illinois","city":"Raymond","latitude":39.31949,"longitude":-89.57204}}(window,'GeoPostal','US');

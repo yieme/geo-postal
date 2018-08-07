@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61156"]={"code":"61156","region":"Michoacan de Ocampo","city":"Comachuen","latitude":19.61667,"longitude":-101.9}}(window,'GeoPostal','MX');

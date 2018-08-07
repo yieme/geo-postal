@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28862"]={"code":"28862","region":"Piemonte","city":"Crodo","latitude":46.21078,"longitude":8.32061}}(window,'GeoPostal','IT');

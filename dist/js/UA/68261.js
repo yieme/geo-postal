@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68261"]={"code":"68261","region":"Odeska oblast","city":"Kulevcha","latitude":46.03034,"longitude":29.93614}}(window,'GeoPostal','UA');

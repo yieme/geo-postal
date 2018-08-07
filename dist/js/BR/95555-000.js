@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95555-000"]={"code":"95555-000","region":"Rio Grande do Sul","city":"Capao da Canoa","latitude":-29.74556,"longitude":-50.00972}}(window,'GeoPostal','BR');

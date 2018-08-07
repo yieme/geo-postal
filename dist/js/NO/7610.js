@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7610"]={"code":"7610","region":"Nord-Trondelag","city":"Levanger","latitude":63.74644,"longitude":11.29963}}(window,'GeoPostal','NO');

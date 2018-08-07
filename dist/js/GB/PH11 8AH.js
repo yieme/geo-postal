@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH11 8AH"]={"code":"PH11 8AH","region":"Scotland","city":"Alyth","latitude":56.62209,"longitude":-3.23005}}(window,'GeoPostal','GB');

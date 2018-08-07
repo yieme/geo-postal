@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 1LF"]={"code":"OX17 1LF","region":"England","city":"Chipping Warden","latitude":52.13536,"longitude":-1.2729}}(window,'GeoPostal','GB');

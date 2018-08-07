@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12489"]={"code":"12489","region":"NY","city":"Wawarsing","latitude":41.7606,"longitude":-74.3535}}(window,'GeoPostal','US');

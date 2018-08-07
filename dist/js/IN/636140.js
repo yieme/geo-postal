@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636140"]={"code":"636140","region":"Tamil Nadu","city":"Attur","latitude":11.6,"longitude":78.61667}}(window,'GeoPostal','IN');

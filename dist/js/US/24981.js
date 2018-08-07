@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24981"]={"code":"24981","region":"West Virginia","city":"Talcott","latitude":37.647835,"longitude":-80.742063}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["277 51"]={"code":"277 51","region":"Stredocesky kraj","city":"Nelahozeves","latitude":50.26148,"longitude":14.29881}}(window,'GeoPostal','CZ');

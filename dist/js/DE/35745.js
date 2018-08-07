@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35745"]={"code":"35745","region":"Hessen","city":"Sinn","latitude":50.65,"longitude":8.33333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21765"]={"code":"21765","region":"Niedersachsen","city":"Mittelteil","latitude":53.77337,"longitude":8.80796}}(window,'GeoPostal','DE');

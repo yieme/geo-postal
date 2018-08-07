@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49026"]={"code":"49026","region":"Michigan","city":"Bloomingdale","latitude":42.372744,"longitude":-85.967898}}(window,'GeoPostal','US');

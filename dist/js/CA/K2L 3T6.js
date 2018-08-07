@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K2L 3T6"]={"code":"K2L 3T6","region":"Ontario","city":"Kanata","latitude":45.306148,"longitude":-75.880795}}(window,'GeoPostal','CA');

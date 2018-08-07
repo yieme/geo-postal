@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2735-307"]={"code":"2735-307","region":"Lisboa","city":"Cacem","latitude":38.76698,"longitude":-9.29793}}(window,'GeoPostal','PT');

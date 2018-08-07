@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81215"]={"code":"81215","region":"Colorado","city":"Lincoln Park","latitude":38.42916,"longitude":-105.21999}}(window,'GeoPostal','US');

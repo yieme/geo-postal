@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181-0011"]={"code":"181-0011","region":"Tokyo","city":"Mitaka","latitude":35.683,"longitude":139.567}}(window,'GeoPostal','JP');

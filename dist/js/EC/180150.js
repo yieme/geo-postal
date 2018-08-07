@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180150"]={"code":"180150","region":"Tungurahua","city":"Ambato","latitude":-1.24908,"longitude":-78.61675}}(window,'GeoPostal','EC');

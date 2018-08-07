@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38-115"]={"code":"38-115","region":"Podkarpackie","city":"Polomia","latitude":49.90475,"longitude":21.89198}}(window,'GeoPostal','PL');

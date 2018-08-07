@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30545"]={"code":"30545","region":"GA","city":"Helen","latitude":34.6866,"longitude":-83.7399}}(window,'GeoPostal','US');

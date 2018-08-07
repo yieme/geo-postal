@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP31 1ET"]={"code":"IP31 1ET","region":"England","city":"Troston","latitude":52.31478,"longitude":0.78398}}(window,'GeoPostal','GB');

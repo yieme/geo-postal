@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78634"]={"code":"78634","region":"TX","city":"Hutto","latitude":30.5257,"longitude":-97.5672}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20302"]={"code":"20302","region":"Lavalleja","city":"Solis de Mataojo","latitude":-34.6,"longitude":-55.48333}}(window,'GeoPostal','UY');

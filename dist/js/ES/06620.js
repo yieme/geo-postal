@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06620"]={"code":"06620","region":"Extremadura","city":"Esparragosa de Lares","latitude":38.97517,"longitude":-5.26968}}(window,'GeoPostal','ES');

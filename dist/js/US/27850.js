@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27850"]={"code":"27850","region":"North Carolina","city":"Littleton","latitude":36.43417,"longitude":-77.91167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46841"]={"code":"46841","region":"Valenciana, Comunidad","city":"Castello de Rugat","latitude":38.88333,"longitude":-0.36667}}(window,'GeoPostal','ES');

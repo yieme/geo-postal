@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-412"]={"code":"64-412","region":"Wielkopolskie","city":"Chrzypsko Wielkie","latitude":52.62817,"longitude":16.22852}}(window,'GeoPostal','PL');

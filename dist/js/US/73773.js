@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73773"]={"code":"73773","region":"OK","city":"Waukomis","latitude":36.2781,"longitude":-97.8996}}(window,'GeoPostal','US');

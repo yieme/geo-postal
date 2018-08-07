@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46540"]={"code":"46540","region":"Indiana","city":"Middlebury","latitude":41.675158,"longitude":-85.704222}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73526"]={"code":"73526","region":"OK","city":"Blair","latitude":34.7788,"longitude":-99.3334}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57079"]={"code":"57079","region":"SD","city":"Gurneys Seed & Nursery Co","latitude":42.87,"longitude":-97.39}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65779"]={"code":"65779","region":"Hessen","city":"Kelkheim (Taunus)","latitude":50.13703,"longitude":8.4502}}(window,'GeoPostal','DE');

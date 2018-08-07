@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3082"]={"code":"3082","region":"Kwazulu-Natal","city":"Newcastle","latitude":-27.75796,"longitude":29.9318}}(window,'GeoPostal','ZA');

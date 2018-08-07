@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT8 3QD"]={"code":"DT8 3QD","region":"England","city":"Broadwindsor","latitude":50.82014,"longitude":-2.80009}}(window,'GeoPostal','GB');

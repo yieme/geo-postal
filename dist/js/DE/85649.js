@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85649"]={"code":"85649","region":"Bayern","city":"Brunnthal","latitude":48.00652,"longitude":11.68405}}(window,'GeoPostal','DE');

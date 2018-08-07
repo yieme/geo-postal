@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6275"]={"code":"6275","region":"Cordoba","city":"Villa Huidobro","latitude":-34.83826,"longitude":-64.58686}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13669"]={"code":"13669","region":"New York","city":"Ogdensburg","latitude":44.69423,"longitude":-75.48634}}(window,'GeoPostal','US');

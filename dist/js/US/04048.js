@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04048"]={"code":"04048","region":"ME","city":"Limerick","latitude":43.6963,"longitude":-70.7866}}(window,'GeoPostal','US');

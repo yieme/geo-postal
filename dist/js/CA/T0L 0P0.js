@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0L 0P0"]={"code":"T0L 0P0","region":"Alberta","city":"Connemara","latitude":50.40008,"longitude":-113.81866}}(window,'GeoPostal','CA');

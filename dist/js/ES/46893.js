@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46893"]={"code":"46893","region":"Valenciana, Comunidad","city":"Alfarrasi","latitude":38.9,"longitude":-0.5}}(window,'GeoPostal','ES');

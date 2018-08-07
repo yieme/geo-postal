@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332029"]={"code":"332029","region":"Rajasthan","city":"Losal","latitude":27.4,"longitude":74.91667}}(window,'GeoPostal','IN');

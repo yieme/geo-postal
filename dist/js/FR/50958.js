@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50958"]={"code":"50958","region":"Normandie","city":"Saint-Lo","latitude":49.11624,"longitude":-1.09031}}(window,'GeoPostal','FR');

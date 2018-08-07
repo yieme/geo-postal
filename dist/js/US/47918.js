@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47918"]={"code":"47918","region":"IN","city":"Attica","latitude":40.2811,"longitude":-87.2241}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94442"]={"code":"94442","region":"Veracruz de Ignacio de la Llave","city":"Atzacan","latitude":18.9,"longitude":-97.08333}}(window,'GeoPostal','MX');

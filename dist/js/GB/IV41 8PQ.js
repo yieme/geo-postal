@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV41 8PQ"]={"code":"IV41 8PQ","region":"Scotland","city":"Kyleakin","latitude":57.27069,"longitude":-5.74087}}(window,'GeoPostal','GB');

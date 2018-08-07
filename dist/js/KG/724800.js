@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724800"]={"code":"724800","region":"Chuy","city":"Sokuluk","latitude":42.85401,"longitude":74.30257}}(window,'GeoPostal','KG');

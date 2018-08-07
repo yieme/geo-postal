@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94371"]={"code":"94371","region":"Bayern","city":"Untergschwandt","latitude":49.103,"longitude":12.72987}}(window,'GeoPostal','DE');

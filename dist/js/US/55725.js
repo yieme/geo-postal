@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55725"]={"code":"55725","region":"Minnesota","city":"Crane Lake","latitude":48.265156,"longitude":-92.490198}}(window,'GeoPostal','US');

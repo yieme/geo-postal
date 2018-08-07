@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49606"]={"code":"49606","region":"Jalisco","city":"Jamay","latitude":20.3,"longitude":-102.71667}}(window,'GeoPostal','MX');

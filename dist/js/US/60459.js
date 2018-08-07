@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60459"]={"code":"60459","region":"Illinois","city":"Burbank","latitude":41.73392,"longitude":-87.7795}}(window,'GeoPostal','US');

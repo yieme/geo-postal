@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3850"]={"code":"3850","region":"Telemark","city":"Kviteseid","latitude":59.40223,"longitude":8.49267}}(window,'GeoPostal','NO');

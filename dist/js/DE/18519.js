@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18519"]={"code":"18519","region":"Mecklenburg-Vorpommern","city":"Wilmshagen","latitude":54.16846,"longitude":13.17183}}(window,'GeoPostal','DE');

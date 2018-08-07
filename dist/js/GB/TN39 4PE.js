@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN39 4PE"]={"code":"TN39 4PE","region":"England","city":"Little Common","latitude":50.84654,"longitude":0.43387}}(window,'GeoPostal','GB');

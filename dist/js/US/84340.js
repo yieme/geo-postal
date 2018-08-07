@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84340"]={"code":"84340","region":"UT","city":"Willard","latitude":41.3989,"longitude":-112.0317}}(window,'GeoPostal','US');

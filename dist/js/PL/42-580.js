@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-580"]={"code":"42-580","region":"Slaskie","city":"Wojkowice","latitude":50.36509,"longitude":19.03652}}(window,'GeoPostal','PL');

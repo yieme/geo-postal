@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58769"]={"code":"58769","region":"North Dakota","city":"Palermo","latitude":48.328186,"longitude":-102.245189}}(window,'GeoPostal','US');

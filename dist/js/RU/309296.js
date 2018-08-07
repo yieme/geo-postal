@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309296"]={"code":"309296","region":"Belgorodskaya oblast'","city":"Shebekino","latitude":50.40967,"longitude":36.9136}}(window,'GeoPostal','RU');

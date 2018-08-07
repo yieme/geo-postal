@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79241"]={"code":"79241","region":"TX","city":"Lockney","latitude":34.1458,"longitude":-101.4259}}(window,'GeoPostal','US');

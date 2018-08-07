@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-460"]={"code":"39-460","region":"Podkarpackie","city":"Nowa Deba","latitude":50.42974,"longitude":21.75078}}(window,'GeoPostal','PL');

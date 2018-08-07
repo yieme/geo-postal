@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93761"]={"code":"93761","region":"Ile-de-France","city":"Pantin","latitude":48.89437,"longitude":2.40935}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09804"]={"code":"09804","region":"Kyivska oblast","city":"Tetiyiv","latitude":49.3767,"longitude":29.66474}}(window,'GeoPostal','UA');

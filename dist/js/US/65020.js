@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65020"]={"code":"65020","region":"Missouri","city":"Camdenton","latitude":38.00809,"longitude":-92.74463}}(window,'GeoPostal','US');

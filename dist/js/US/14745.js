@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14745"]={"code":"14745","region":"NY","city":"Hume","latitude":42.4777,"longitude":-78.1403}}(window,'GeoPostal','US');

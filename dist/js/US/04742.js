@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04742"]={"code":"04742","region":"Maine","city":"Fort Fairfield","latitude":46.77227,"longitude":-67.83391}}(window,'GeoPostal','US');

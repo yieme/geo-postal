@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14061"]={"code":"14061","region":"NY","city":"Farnham","latitude":42.5946,"longitude":-79.084}}(window,'GeoPostal','US');

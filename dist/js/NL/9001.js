@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9001"]={"code":"9001","region":"Fryslan","city":"Grou","latitude":53.1,"longitude":5.83333}}(window,'GeoPostal','NL');

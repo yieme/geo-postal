@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["549 57"]={"code":"549 57","region":"Kralovehradecky kraj","city":"Teplice nad Metuji","latitude":50.59332,"longitude":16.17026}}(window,'GeoPostal','CZ');

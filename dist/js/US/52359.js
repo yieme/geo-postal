@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52359"]={"code":"52359","region":"IA","city":"West Chester","latitude":41.3585,"longitude":-91.8075}}(window,'GeoPostal','US');

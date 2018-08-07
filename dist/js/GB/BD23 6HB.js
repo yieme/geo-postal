@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD23 6HB"]={"code":"BD23 6HB","region":"England","city":"Bolton Bridge","latitude":53.9732,"longitude":-1.89394}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311122"]={"code":"311122","region":"Zhejiang","city":"Xianlin","latitude":30.22583,"longitude":119.98139}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM1 7WS"]={"code":"CM1 7WS","region":"England","city":"Broomfield","latitude":51.0825,"longitude":-3.11028}}(window,'GeoPostal','GB');

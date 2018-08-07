@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54531"]={"code":"54531","region":"Wisconsin","city":"Hazelhurst","latitude":45.76828,"longitude":-89.758075}}(window,'GeoPostal','US');

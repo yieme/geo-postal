@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22957"]={"code":"22957","region":"VA","city":"Montpelier Station","latitude":38.227,"longitude":-78.1768}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44266"]={"code":"44266","region":"Ohio","city":"Ravenna","latitude":41.159403,"longitude":-81.23331}}(window,'GeoPostal','US');

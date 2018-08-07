@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413118"]={"code":"413118","region":"Maharashtra","city":"Kalas","latitude":18.16667,"longitude":74.8}}(window,'GeoPostal','IN');

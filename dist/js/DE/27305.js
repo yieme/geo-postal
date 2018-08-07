@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27305"]={"code":"27305","region":"Niedersachsen","city":"Bruchhausen-Vilsen","latitude":52.82931,"longitude":8.99066}}(window,'GeoPostal','DE');

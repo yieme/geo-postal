@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2649"]={"code":"2649","region":"Oppland","city":"Segalstad bru","latitude":61.22819,"longitude":10.22255}}(window,'GeoPostal','NO');

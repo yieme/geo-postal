@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41397"]={"code":"41397","region":"KY","city":"Zoe","latitude":37.6867,"longitude":-83.6702}}(window,'GeoPostal','US');

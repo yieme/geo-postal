@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353225"]={"code":"353225","region":"Krasnodarskiy kray","city":"Vasyurinskaya","latitude":45.11809,"longitude":39.42398}}(window,'GeoPostal','RU');

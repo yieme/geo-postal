@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GL2 9QN"]={"code":"GL2 9QN","region":"England","city":"Gloucester","latitude":51.86568,"longitude":-2.2431}}(window,'GeoPostal','GB');

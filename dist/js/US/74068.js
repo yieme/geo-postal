@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74068"]={"code":"74068","region":"OK","city":"Shamrock","latitude":35.9124,"longitude":-96.578}}(window,'GeoPostal','US');

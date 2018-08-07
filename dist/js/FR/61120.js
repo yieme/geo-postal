@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61120"]={"code":"61120","region":"Normandie","city":"Vimoutiers","latitude":48.92772,"longitude":0.19835}}(window,'GeoPostal','FR');

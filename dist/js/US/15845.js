@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15845"]={"code":"15845","region":"Pennsylvania","city":"Johnsonburg","latitude":40.88618,"longitude":-78.87781}}(window,'GeoPostal','US');

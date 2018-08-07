@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46028"]={"code":"46028","region":"Lombardia","city":"Sermide","latitude":45.00448,"longitude":11.294}}(window,'GeoPostal','IT');

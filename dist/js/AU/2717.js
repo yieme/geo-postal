@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2717"]={"code":"2717","region":"New South Wales","city":"Dareton","latitude":-34.09468,"longitude":142.03966}}(window,'GeoPostal','AU');

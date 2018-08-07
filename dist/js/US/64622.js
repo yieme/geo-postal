@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64622"]={"code":"64622","region":"Missouri","city":"Bogard","latitude":39.45694,"longitude":-93.52444}}(window,'GeoPostal','US');

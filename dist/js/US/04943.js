@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04943"]={"code":"04943","region":"Maine","city":"Hartland","latitude":44.88194,"longitude":-69.45056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13154"]={"code":"13154","region":"NY","city":"South Butler","latitude":43.1344,"longitude":-76.7656}}(window,'GeoPostal','US');

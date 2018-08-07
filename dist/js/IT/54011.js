@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54011"]={"code":"54011","region":"Toscana","city":"Aulla","latitude":44.21455,"longitude":9.96779}}(window,'GeoPostal','IT');

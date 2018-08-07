@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["816101"]={"code":"816101","region":"West Bengal","city":"Farakka","latitude":24.81667,"longitude":87.9}}(window,'GeoPostal','IN');

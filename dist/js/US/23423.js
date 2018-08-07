@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23423"]={"code":"23423","region":"VA","city":"Quinby","latitude":37.5423,"longitude":-75.7412}}(window,'GeoPostal','US');

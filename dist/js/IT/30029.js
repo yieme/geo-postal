@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30029"]={"code":"30029","region":"Veneto","city":"Santo Stino di Livenza","latitude":45.735,"longitude":12.68083}}(window,'GeoPostal','IT');

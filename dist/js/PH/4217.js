@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4217"]={"code":"4217","region":"Batangas","city":"Lipa","latitude":13.93944,"longitude":121.17389}}(window,'GeoPostal','PH');

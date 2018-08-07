@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368420"]={"code":"368420","region":"Dagestan, Respublika","city":"Tlyarata","latitude":42.10408,"longitude":46.3559}}(window,'GeoPostal','RU');

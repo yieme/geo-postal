@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86742"]={"code":"86742","region":"Bayern","city":"Uttenstetten","latitude":48.99028,"longitude":10.43834}}(window,'GeoPostal','DE');

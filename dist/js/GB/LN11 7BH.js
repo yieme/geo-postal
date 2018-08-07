@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 7BH"]={"code":"LN11 7BH","region":"England","city":"South Somercotes","latitude":53.42253,"longitude":0.12987}}(window,'GeoPostal','GB');

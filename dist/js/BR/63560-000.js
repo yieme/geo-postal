@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63560-000"]={"code":"63560-000","region":"Ceara","city":"Acopiara","latitude":-6.09528,"longitude":-39.4525}}(window,'GeoPostal','BR');

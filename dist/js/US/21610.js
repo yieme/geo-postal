@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21610"]={"code":"21610","region":"MD","city":"Betterton","latitude":39.3655,"longitude":-76.0639}}(window,'GeoPostal','US');

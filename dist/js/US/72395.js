@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72395"]={"code":"72395","region":"AR","city":"Wilson","latitude":35.566,"longitude":-90.0427}}(window,'GeoPostal','US');

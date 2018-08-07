@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-065"]={"code":"26-065","region":"Swietokrzyskie","city":"Piekoszow","latitude":50.88035,"longitude":20.46418}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H3P 2W9"]={"code":"H3P 2W9","region":"Quebec","city":"Mont-Royal","latitude":45.521422,"longitude":-73.630237}}(window,'GeoPostal','CA');

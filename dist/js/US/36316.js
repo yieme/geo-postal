@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36316"]={"code":"36316","region":"AL","city":"Chancellor","latitude":31.1767,"longitude":-85.8135}}(window,'GeoPostal','US');

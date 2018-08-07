@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75201"]={"code":"75201","region":"Soriano","city":"Santa Catalina","latitude":-33.75,"longitude":-57.48333}}(window,'GeoPostal','UY');

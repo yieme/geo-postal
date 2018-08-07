@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73647"]={"code":"73647","region":"OK","city":"Foss","latitude":35.4545,"longitude":-99.1698}}(window,'GeoPostal','US');

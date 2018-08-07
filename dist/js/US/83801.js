@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83801"]={"code":"83801","region":"ID","city":"Athol","latitude":47.9267,"longitude":-116.7318}}(window,'GeoPostal','US');

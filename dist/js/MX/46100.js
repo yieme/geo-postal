@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46100"]={"code":"46100","region":"Jalisco","city":"Villa Guerrero","latitude":21.98333,"longitude":-103.6}}(window,'GeoPostal','MX');

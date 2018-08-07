@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD5 8QG"]={"code":"TD5 8QG","region":"Scotland","city":"Morebattle","latitude":55.51749,"longitude":-2.3639}}(window,'GeoPostal','GB');

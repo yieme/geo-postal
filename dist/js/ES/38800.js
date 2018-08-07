@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38800"]={"code":"38800","region":"Canarias","city":"San Sebastian de la Gomera","latitude":28.09163,"longitude":-17.11331}}(window,'GeoPostal','ES');

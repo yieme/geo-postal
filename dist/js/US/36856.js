@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36856"]={"code":"36856","region":"Alabama","city":"Fort Mitchell","latitude":32.341389,"longitude":-85.021667}}(window,'GeoPostal','US');

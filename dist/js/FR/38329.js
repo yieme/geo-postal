@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38329"]={"code":"38329","region":"Auvergne-Rhone-Alpes","city":"Eybens","latitude":45.14867,"longitude":5.74926}}(window,'GeoPostal','FR');

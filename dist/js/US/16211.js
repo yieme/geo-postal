@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16211"]={"code":"16211","region":"PA","city":"Beyer","latitude":40.7865,"longitude":-79.2011}}(window,'GeoPostal','US');

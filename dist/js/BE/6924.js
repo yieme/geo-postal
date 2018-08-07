@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6924"]={"code":"6924","region":"Luxembourg","city":"Wellin","latitude":50.08133,"longitude":5.11413}}(window,'GeoPostal','BE');

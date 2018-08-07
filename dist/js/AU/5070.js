@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5070"]={"code":"5070","region":"South Australia","city":"Joslin","latitude":-34.89967,"longitude":138.62655}}(window,'GeoPostal','AU');

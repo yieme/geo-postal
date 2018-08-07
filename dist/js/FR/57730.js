@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57730"]={"code":"57730","region":"Grand-Est","city":"Folschviller","latitude":49.07062,"longitude":6.68948}}(window,'GeoPostal','FR');

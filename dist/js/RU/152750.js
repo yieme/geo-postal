@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152750"]={"code":"152750","region":"Yaroslavskaya oblast'","city":"Volga","latitude":57.95157,"longitude":38.38785}}(window,'GeoPostal','RU');

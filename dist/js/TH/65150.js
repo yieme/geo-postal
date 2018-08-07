@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65150"]={"code":"65150","region":"Phitsanulok","city":"Phrom Phiram","latitude":17.03306,"longitude":100.20194}}(window,'GeoPostal','TH');

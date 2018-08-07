@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362442"]={"code":"362442","region":"Fujian","city":"Longmen","latitude":24.95972,"longitude":118.08889}}(window,'GeoPostal','CN');

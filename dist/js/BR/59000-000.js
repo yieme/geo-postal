@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59000-000"]={"code":"59000-000","region":"Rio Grande do Norte","city":"Natal","latitude":-5.795,"longitude":-35.20944}}(window,'GeoPostal','BR');

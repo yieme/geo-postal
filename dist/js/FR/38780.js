@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38780"]={"code":"38780","region":"Auvergne-Rhone-Alpes","city":"Septeme","latitude":45.55315,"longitude":5.00345}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08277"]={"code":"08277","region":"Cusco","city":"Checca","latitude":-14.47278,"longitude":-71.39389}}(window,'GeoPostal','PE');

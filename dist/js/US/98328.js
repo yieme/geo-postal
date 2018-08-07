@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98328"]={"code":"98328","region":"Washington","city":"Eatonville","latitude":46.86714,"longitude":-122.289}}(window,'GeoPostal','US');

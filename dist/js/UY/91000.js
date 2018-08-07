@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91000"]={"code":"91000","region":"Canelones","city":"Pando","latitude":-34.71667,"longitude":-55.95}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06480"]={"code":"06480","region":"CT","city":"Portland","latitude":41.5852,"longitude":-72.6128}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88012"]={"code":"88012","region":"NM","city":"Las Cruces","latitude":32.5835,"longitude":-106.7714}}(window,'GeoPostal','US');

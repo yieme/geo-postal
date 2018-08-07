@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12789"]={"code":"12789","region":"NY","city":"Woodridge","latitude":41.717,"longitude":-74.5815}}(window,'GeoPostal','US');

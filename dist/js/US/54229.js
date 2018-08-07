@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54229"]={"code":"54229","region":"Wisconsin","city":"New Franken","latitude":44.559357,"longitude":-87.833287}}(window,'GeoPostal','US');

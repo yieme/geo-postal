@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39088"]={"code":"39088","region":"MS","city":"Holly Bluff","latitude":32.8415,"longitude":-90.7231}}(window,'GeoPostal','US');

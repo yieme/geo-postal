@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL23 1NF"]={"code":"PL23 1NF","region":"England","city":"Lanteglos","latitude":50.34747,"longitude":-4.61567}}(window,'GeoPostal','GB');

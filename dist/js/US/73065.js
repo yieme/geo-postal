@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73065"]={"code":"73065","region":"OK","city":"Newcastle","latitude":35.2453,"longitude":-97.6216}}(window,'GeoPostal','US');

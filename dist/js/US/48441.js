@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48441"]={"code":"48441","region":"Michigan","city":"Harbor Beach","latitude":43.84474,"longitude":-82.65132}}(window,'GeoPostal','US');

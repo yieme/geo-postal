@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59600-000"]={"code":"59600-000","region":"Rio Grande do Norte","city":"Mossoro","latitude":-5.1875,"longitude":-37.34417}}(window,'GeoPostal','BR');

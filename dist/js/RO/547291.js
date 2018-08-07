@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547291"]={"code":"547291","region":"Mures","city":"Grebenisu de Cimpie","latitude":46.6,"longitude":24.3}}(window,'GeoPostal','RO');

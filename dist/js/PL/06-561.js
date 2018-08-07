@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-561"]={"code":"06-561","region":"Mazowieckie","city":"Stupsk","latitude":53.02258,"longitude":20.4368}}(window,'GeoPostal','PL');

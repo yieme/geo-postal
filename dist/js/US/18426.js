@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18426"]={"code":"18426","region":"PA","city":"Greentown","latitude":41.3321,"longitude":-75.2819}}(window,'GeoPostal','US');

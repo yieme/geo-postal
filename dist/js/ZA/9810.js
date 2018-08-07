@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9810"]={"code":"9810","region":"Free State","city":"Reitz","latitude":-27.80138,"longitude":28.42726}}(window,'GeoPostal','ZA');

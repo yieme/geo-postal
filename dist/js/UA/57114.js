@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57114"]={"code":"57114","region":"Mykolaivska oblast","city":"Ol'shanskoye","latitude":47.18411,"longitude":31.79375}}(window,'GeoPostal','UA');

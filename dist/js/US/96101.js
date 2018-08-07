@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96101"]={"code":"96101","region":"California","city":"Alturas","latitude":41.48711,"longitude":-120.54246}}(window,'GeoPostal','US');

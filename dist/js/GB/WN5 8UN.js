@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WN5 8UN"]={"code":"WN5 8UN","region":"England","city":"Upholland","latitude":53.53333,"longitude":-2.71667}}(window,'GeoPostal','GB');

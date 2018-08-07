@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807105"]={"code":"807105","region":"Galati","city":"Cudalbi","latitude":45.78333,"longitude":27.7}}(window,'GeoPostal','RO');

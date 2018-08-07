@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01937"]={"code":"01937","region":"MA","city":"Hathorne","latitude":42.5862,"longitude":-70.9745}}(window,'GeoPostal','US');

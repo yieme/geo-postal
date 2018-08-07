@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 6LJ"]={"code":"OX15 6LJ","region":"England","city":"Epwell","latitude":52.06078,"longitude":-1.48401}}(window,'GeoPostal','GB');

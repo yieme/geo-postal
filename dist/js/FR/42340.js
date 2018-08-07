@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42340"]={"code":"42340","region":"Auvergne-Rhone-Alpes","city":"Veauche","latitude":45.56294,"longitude":4.29031}}(window,'GeoPostal','FR');

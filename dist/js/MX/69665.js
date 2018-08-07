@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69665"]={"code":"69665","region":"Oaxaca","city":"Asuncion Nochixtlan","latitude":17.46667,"longitude":-97.23333}}(window,'GeoPostal','MX');

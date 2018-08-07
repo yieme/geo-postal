@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02747"]={"code":"02747","region":"Massachusetts","city":"Smith Mills","latitude":41.63899,"longitude":-70.99115}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3558"]={"code":"3558","region":"Victoria","city":"Hunter","latitude":-36.45,"longitude":144.51667}}(window,'GeoPostal','AU');

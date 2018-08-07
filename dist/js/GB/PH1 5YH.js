@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH1 5YH"]={"code":"PH1 5YH","region":"Scotland","city":"Perth","latitude":56.39522,"longitude":-3.43139}}(window,'GeoPostal','GB');

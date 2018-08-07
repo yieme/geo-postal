@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11740-000"]={"code":"11740-000","region":"Sao Paulo","city":"Itanhaem","latitude":-24.18306,"longitude":-46.78889}}(window,'GeoPostal','BR');

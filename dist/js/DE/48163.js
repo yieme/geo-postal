@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48163"]={"code":"48163","region":"Nordrhein-Westfalen","city":"Muenster","latitude":51.96236,"longitude":7.62571}}(window,'GeoPostal','DE');

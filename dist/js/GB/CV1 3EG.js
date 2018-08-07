@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV1 3EG"]={"code":"CV1 3EG","region":"England","city":"Coventry","latitude":52.40656,"longitude":-1.51217}}(window,'GeoPostal','GB');

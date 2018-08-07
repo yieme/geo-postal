@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53100"]={"code":"53100","region":"Toscana","city":"Siena","latitude":43.32004,"longitude":11.33283}}(window,'GeoPostal','IT');

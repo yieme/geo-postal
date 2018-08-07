@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92247"]={"code":"92247","region":"Ile-de-France","city":"Malakoff","latitude":48.81999,"longitude":2.29998}}(window,'GeoPostal','FR');

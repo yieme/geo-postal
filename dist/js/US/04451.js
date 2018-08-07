@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04451"]={"code":"04451","region":"ME","city":"Kingman","latitude":45.5984,"longitude":-68.2366}}(window,'GeoPostal','US');

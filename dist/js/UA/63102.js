@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63102"]={"code":"63102","region":"Kharkivska oblast","city":"Kolomak","latitude":49.83986,"longitude":35.30442}}(window,'GeoPostal','UA');

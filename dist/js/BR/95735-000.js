@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95735-000"]={"code":"95735-000","region":"Rio Grande do Sul","city":"Encantado","latitude":-29.23611,"longitude":-51.86972}}(window,'GeoPostal','BR');

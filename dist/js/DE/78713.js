@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78713"]={"code":"78713","region":"Baden-Wurttemberg","city":"Schramberg","latitude":48.22399,"longitude":8.38583}}(window,'GeoPostal','DE');

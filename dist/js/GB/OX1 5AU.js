@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX1 5AU"]={"code":"OX1 5AU","region":"England","city":"Woodside","latitude":52.5,"longitude":-2.11667}}(window,'GeoPostal','GB');

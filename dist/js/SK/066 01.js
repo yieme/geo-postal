@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["066 01"]={"code":"066 01","region":"Presovsky kraj","city":"Humenne","latitude":48.93707,"longitude":21.91625}}(window,'GeoPostal','SK');

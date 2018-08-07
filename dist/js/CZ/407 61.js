@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407 61"]={"code":"407 61","region":"Ustecky kraj","city":"Stare Krecany","latitude":50.95044,"longitude":14.49617}}(window,'GeoPostal','CZ');

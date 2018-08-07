@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50248"]={"code":"50248","region":"Iowa","city":"Story City","latitude":42.183219,"longitude":-93.590554}}(window,'GeoPostal','US');

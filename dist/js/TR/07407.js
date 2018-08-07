@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07407"]={"code":"07407","region":"Kars","city":"Kars","latitude":40.60199,"longitude":43.09495}}(window,'GeoPostal','TR');

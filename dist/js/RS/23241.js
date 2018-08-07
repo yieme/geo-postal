@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23241"]={"code":"23241","region":"Srednjebanatski okrug","city":"Lazarevo","latitude":45.38833,"longitude":20.53889}}(window,'GeoPostal','RS');

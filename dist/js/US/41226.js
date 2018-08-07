@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41226"]={"code":"41226","region":"KY","city":"Keaton","latitude":37.9856,"longitude":-82.9602}}(window,'GeoPostal','US');

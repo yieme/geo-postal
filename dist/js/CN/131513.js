@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131513"]={"code":"131513","region":"Nei Mongol","city":"Baokang","latitude":44.11972,"longitude":123.30472}}(window,'GeoPostal','CN');

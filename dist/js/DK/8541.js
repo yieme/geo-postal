@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8541"]={"code":"8541","region":"Midtjylland","city":"Logten","latitude":56.27459,"longitude":10.31181}}(window,'GeoPostal','DK');

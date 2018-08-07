@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95736"]={"code":"95736","region":"CA","city":"Weimar","latitude":39.0375,"longitude":-120.9713}}(window,'GeoPostal','US');

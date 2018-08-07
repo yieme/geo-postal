@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36556"]={"code":"36556","region":"AL","city":"Malcolm","latitude":31.1913,"longitude":-88.0075}}(window,'GeoPostal','US');

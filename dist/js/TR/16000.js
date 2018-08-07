@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16000"]={"code":"16000","region":"Bursa","city":"Bursa","latitude":40.19167,"longitude":29.06111}}(window,'GeoPostal','TR');

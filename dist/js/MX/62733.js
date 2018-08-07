@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62733"]={"code":"62733","region":"Morelos","city":"La Joya","latitude":18.66667,"longitude":-99.46667}}(window,'GeoPostal','MX');

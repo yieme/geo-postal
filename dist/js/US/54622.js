@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54622"]={"code":"54622","region":"Wisconsin","city":"Buffalo City","latitude":44.23052,"longitude":-91.86432}}(window,'GeoPostal','US');

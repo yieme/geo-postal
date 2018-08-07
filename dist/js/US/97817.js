@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97817"]={"code":"97817","region":"OR","city":"Bates","latitude":44.7138,"longitude":-118.6469}}(window,'GeoPostal','US');

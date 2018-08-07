@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE29 2AJ"]={"code":"PE29 2AJ","region":"England","city":"Godmanchester","latitude":52.31939,"longitude":-0.17509}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63699"]={"code":"63699","region":"Hessen","city":"Wenings","latitude":50.38497,"longitude":9.19641}}(window,'GeoPostal','DE');

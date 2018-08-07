@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799201"]={"code":"799201","region":"Tripura","city":"Khowai","latitude":24.1,"longitude":91.63333}}(window,'GeoPostal','IN');

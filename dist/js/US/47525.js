@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47525"]={"code":"47525","region":"Indiana","city":"Derby","latitude":38.027417,"longitude":-86.568662}}(window,'GeoPostal','US');

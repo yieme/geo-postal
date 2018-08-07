@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63477"]={"code":"63477","region":"Hessen","city":"Maintal","latitude":50.15,"longitude":8.83333}}(window,'GeoPostal','DE');

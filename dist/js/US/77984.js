@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77984"]={"code":"77984","region":"Texas","city":"Shiner","latitude":29.42913,"longitude":-97.17054}}(window,'GeoPostal','US');

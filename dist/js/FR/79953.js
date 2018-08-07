@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79953"]={"code":"79953","region":"Nouvelle-Aquitaine","city":"Niort","latitude":46.32313,"longitude":-0.45877}}(window,'GeoPostal','FR');

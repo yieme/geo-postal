@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49743"]={"code":"49743","region":"MI","city":"Hawks","latitude":45.2975,"longitude":-83.8542}}(window,'GeoPostal','US');

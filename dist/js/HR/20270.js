@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20270"]={"code":"20270","region":"Dubrovacko-neretvanska zupanija","city":"Vela Luka","latitude":42.96333,"longitude":16.7225}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59596"]={"code":"59596","region":"Ostergotlands lan","city":"Mjolby","latitude":58.32595,"longitude":15.12365}}(window,'GeoPostal','SE');

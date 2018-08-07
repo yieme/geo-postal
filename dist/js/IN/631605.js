@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["631605"]={"code":"631605","region":"Tamil Nadu","city":"Wallajahbad","latitude":12.76667,"longitude":79.78333}}(window,'GeoPostal','IN');

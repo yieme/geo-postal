@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52078"]={"code":"52078","region":"Iowa","city":"Worthington","latitude":42.392338,"longitude":-91.102699}}(window,'GeoPostal','US');

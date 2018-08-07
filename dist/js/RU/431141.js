@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431141"]={"code":"431141","region":"Mordoviya, Respublika","city":"Shiringushi","latitude":53.8485,"longitude":42.76759}}(window,'GeoPostal','RU');

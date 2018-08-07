@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50475"]={"code":"50475","region":"Iowa","city":"Sheffield","latitude":42.893417,"longitude":-93.217029}}(window,'GeoPostal','US');

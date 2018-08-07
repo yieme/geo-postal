@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO11 2RX"]={"code":"CO11 2RX","region":"England","city":"Wix","latitude":51.9123,"longitude":1.14296}}(window,'GeoPostal','GB');

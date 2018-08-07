@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67214"]={"code":"67214","region":"Jawa Timur","city":"Probolinggo","latitude":-7.7543,"longitude":113.2159}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30216"]={"code":"30216","region":"GA","city":"Flovilla","latitude":33.25,"longitude":-83.9079}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29560"]={"code":"29560","region":"SC","city":"Lake City","latitude":33.8655,"longitude":-79.7418}}(window,'GeoPostal','US');

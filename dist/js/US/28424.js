@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28424"]={"code":"28424","region":"North Carolina","city":"Brunswick","latitude":34.28684,"longitude":-78.70113}}(window,'GeoPostal','US');

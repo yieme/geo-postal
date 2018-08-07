@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV26 2YG"]={"code":"IV26 2YG","region":"Scotland","city":"Achiltibuie","latitude":58.0216,"longitude":-5.3457}}(window,'GeoPostal','GB');

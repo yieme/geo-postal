@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["429400"]={"code":"429400","region":"Chuvashskaya Respublika","city":"Urmary","latitude":55.67894,"longitude":47.94396}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40488"]={"code":"40488","region":"KY","city":"Waneta","latitude":37.4748,"longitude":-84.0427}}(window,'GeoPostal','US');

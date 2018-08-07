@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17250"]={"code":"17250","region":"Nouvelle-Aquitaine","city":"Les Essards","latitude":45.7928,"longitude":-0.7575}}(window,'GeoPostal','FR');

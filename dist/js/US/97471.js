@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97471"]={"code":"97471","region":"Oregon","city":"Roseburg","latitude":43.2247,"longitude":-123.4274}}(window,'GeoPostal','US');

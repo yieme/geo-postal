@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368206"]={"code":"368206","region":"Dagestan, Respublika","city":"Verkhneye Kazanishche","latitude":42.73547,"longitude":47.1378}}(window,'GeoPostal','RU');

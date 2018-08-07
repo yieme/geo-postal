@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8215"]={"code":"8215","region":"Schaffhausen","city":"Hallau","latitude":47.69648,"longitude":8.45827}}(window,'GeoPostal','CH');

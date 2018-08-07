@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31714"]={"code":"31714","region":"Georgia","city":"Ashburn","latitude":31.70601,"longitude":-83.65322}}(window,'GeoPostal','US');

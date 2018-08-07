@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DY11 5DF"]={"code":"DY11 5DF","region":"England","city":"Kidderminster","latitude":52.38819,"longitude":-2.25}}(window,'GeoPostal','GB');

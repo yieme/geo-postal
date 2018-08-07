@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49722"]={"code":"49722","region":"Michigan","city":"Conway","latitude":45.433333,"longitude":-84.91972}}(window,'GeoPostal','US');

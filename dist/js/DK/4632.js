@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4632"]={"code":"4632","region":"Sjelland","city":"Bjaeverskov","latitude":55.45756,"longitude":12.03651}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55787"]={"code":"55787","region":"MN","city":"Tamarack","latitude":46.6444,"longitude":-93.1272}}(window,'GeoPostal','US');

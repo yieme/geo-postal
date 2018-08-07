@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8714"]={"code":"8714","region":"Somogy","city":"Kethely","latitude":46.64605,"longitude":17.39362}}(window,'GeoPostal','HU');

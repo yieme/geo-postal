@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 2J0"]={"code":"A0N 2J0","region":"Newfoundland and Labrador","city":"Ramea","latitude":47.51668,"longitude":-57.38175}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66222"]={"code":"66222","region":"KS","city":"Mission","latitude":39.0278,"longitude":-94.6558}}(window,'GeoPostal','US');

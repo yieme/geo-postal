@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3205"]={"code":"3205","region":"Yaracuy","city":"Nirgua","latitude":10.15526,"longitude":-68.5663}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA19 1TG"]={"code":"CA19 1TG","region":"England","city":"Boot","latitude":54.4,"longitude":-3.26667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17500"]={"code":"17500","region":"Catalunya","city":"Ripoll","latitude":42.20064,"longitude":2.19033}}(window,'GeoPostal','ES');

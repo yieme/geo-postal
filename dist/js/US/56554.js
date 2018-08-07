@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56554"]={"code":"56554","region":"Minnesota","city":"Lake Park","latitude":46.825566,"longitude":-96.079757}}(window,'GeoPostal','US');

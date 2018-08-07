@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12966"]={"code":"12966","region":"New York","city":"North Bangor","latitude":44.81898,"longitude":-74.415}}(window,'GeoPostal','US');

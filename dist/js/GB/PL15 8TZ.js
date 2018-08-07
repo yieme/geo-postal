@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 8TZ"]={"code":"PL15 8TZ","region":"England","city":"Warbstow","latitude":50.68744,"longitude":-4.53982}}(window,'GeoPostal','GB');

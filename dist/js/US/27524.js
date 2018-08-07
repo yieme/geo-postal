@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27524"]={"code":"27524","region":"North Carolina","city":"Four Oaks","latitude":35.44488,"longitude":-78.42695}}(window,'GeoPostal','US');

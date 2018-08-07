@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32345"]={"code":"32345","region":"FL","city":"Monticello","latitude":30.5451,"longitude":-83.8713}}(window,'GeoPostal','US');

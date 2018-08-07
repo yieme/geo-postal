@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25620"]={"code":"25620","region":"Catalunya","city":"Tremp","latitude":42.16703,"longitude":0.89487}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01950"]={"code":"01950","region":"Massachusetts","city":"Newburyport","latitude":42.8148,"longitude":-70.8744}}(window,'GeoPostal','US');

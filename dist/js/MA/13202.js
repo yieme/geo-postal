@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13202"]={"code":"13202","region":"Chaouia-Ouardigha","city":"Mellila","latitude":33.38,"longitude":-7.14}}(window,'GeoPostal','MA');

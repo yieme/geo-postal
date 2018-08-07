@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9830"]={"code":"9830","region":"Oost-Vlaanderen","city":"Sint-Martens-Latem","latitude":51.01459,"longitude":3.63779}}(window,'GeoPostal','BE');

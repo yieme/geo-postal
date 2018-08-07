@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51000"]={"code":"51000","region":"Lamphun","city":"Lamphun","latitude":18.58054,"longitude":99.00745}}(window,'GeoPostal','TH');

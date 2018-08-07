@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73651"]={"code":"73651","region":"Oklahoma","city":"Hobart","latitude":35.0295,"longitude":-99.09313}}(window,'GeoPostal','US');

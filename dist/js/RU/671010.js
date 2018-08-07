@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671010"]={"code":"671010","region":"Buryatiya, Respublika","city":"Kyren","latitude":51.6828,"longitude":102.1408}}(window,'GeoPostal','RU');

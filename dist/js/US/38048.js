@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38048"]={"code":"38048","region":"TN","city":"Macon","latitude":35.1507,"longitude":-89.4814}}(window,'GeoPostal','US');

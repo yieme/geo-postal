@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246495"]={"code":"246495","region":"Uttarakhand","city":"Kotdwara","latitude":29.75,"longitude":78.53333}}(window,'GeoPostal','IN');

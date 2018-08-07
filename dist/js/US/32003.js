@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32003"]={"code":"32003","region":"Florida","city":"Fleming Island","latitude":30.10752,"longitude":-81.7135}}(window,'GeoPostal','US');

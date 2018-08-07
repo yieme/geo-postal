@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70427"]={"code":"70427","region":"Louisiana","city":"Bogalusa","latitude":30.79102,"longitude":-89.84869}}(window,'GeoPostal','US');

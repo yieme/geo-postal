@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15910"]={"code":"15910","region":"Brandenburg","city":"Krausnick","latitude":52.03246,"longitude":13.8285}}(window,'GeoPostal','DE');

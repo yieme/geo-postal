@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["181203"]={"code":"181203","region":"Jammu and Kashmir","city":"Khaur","latitude":32.6,"longitude":74.8}}(window,'GeoPostal','IN');

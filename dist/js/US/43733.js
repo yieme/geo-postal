@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43733"]={"code":"43733","region":"Ohio","city":"Derwent","latitude":39.930258,"longitude":-81.502336}}(window,'GeoPostal','US');

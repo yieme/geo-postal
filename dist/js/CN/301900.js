@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301900"]={"code":"301900","region":"Tianjin","city":"Jizhou","latitude":40.036389,"longitude":117.396944}}(window,'GeoPostal','CN');

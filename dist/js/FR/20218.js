@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20218"]={"code":"20218","region":"Corse","city":"Morosaglia","latitude":42.436,"longitude":9.30694}}(window,'GeoPostal','FR');

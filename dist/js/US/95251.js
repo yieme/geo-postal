@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95251"]={"code":"95251","region":"CA","city":"Vallecito","latitude":38.1013,"longitude":-120.4676}}(window,'GeoPostal','US');

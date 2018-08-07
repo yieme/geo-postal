@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88280"]={"code":"88280","region":"Republika Srpska","city":"Nevesinje","latitude":43.25861,"longitude":18.11333}}(window,'GeoPostal','BA');

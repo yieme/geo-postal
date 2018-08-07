@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40789"]={"code":"40789","region":"Nordrhein-Westfalen","city":"Monheim","latitude":51.09162,"longitude":6.89218}}(window,'GeoPostal','DE');

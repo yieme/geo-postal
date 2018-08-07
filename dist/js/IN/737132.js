@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737132"]={"code":"737132","region":"Sikkim","city":"Rangpo","latitude":27.18333,"longitude":88.53333}}(window,'GeoPostal','IN');

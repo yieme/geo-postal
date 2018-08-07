@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52751"]={"code":"52751","region":"Iowa","city":"Grand Mound","latitude":41.84287,"longitude":-90.6777}}(window,'GeoPostal','US');

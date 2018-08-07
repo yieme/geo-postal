@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 4PB"]={"code":"NR13 4PB","region":"England","city":"Lingwood","latitude":52.62104,"longitude":1.48616}}(window,'GeoPostal','GB');

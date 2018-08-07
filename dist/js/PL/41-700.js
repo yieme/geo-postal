@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-700"]={"code":"41-700","region":"Slaskie","city":"Ruda Slaska","latitude":50.2584,"longitude":18.85632}}(window,'GeoPostal','PL');

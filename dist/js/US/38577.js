@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38577"]={"code":"38577","region":"TN","city":"Pall Mall","latitude":36.5781,"longitude":-85.0384}}(window,'GeoPostal','US');

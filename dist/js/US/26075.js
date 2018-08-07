@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26075"]={"code":"26075","region":"WV","city":"Windsor Heights","latitude":40.1927,"longitude":-80.6659}}(window,'GeoPostal','US');

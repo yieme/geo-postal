@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17060"]={"code":"17060","region":"PA","city":"Mill Creek","latitude":40.4679,"longitude":-77.8967}}(window,'GeoPostal','US');

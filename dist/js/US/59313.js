@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59313"]={"code":"59313","region":"Montana","city":"Baker","latitude":46.36695,"longitude":-104.28466}}(window,'GeoPostal','US');

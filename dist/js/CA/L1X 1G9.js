@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1X 1G9"]={"code":"L1X 1G9","region":"Ontario","city":"Pickering","latitude":43.847071,"longitude":-79.092394}}(window,'GeoPostal','CA');

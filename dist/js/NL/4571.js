@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4571"]={"code":"4571","region":"Zeeland","city":"Axel","latitude":51.26667,"longitude":3.90833}}(window,'GeoPostal','NL');

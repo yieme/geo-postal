@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15957"]={"code":"15957","region":"PA","city":"Strongstown","latitude":40.5727,"longitude":-78.9}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3000"]={"code":"3000","region":"Bong","city":"Gbarnga","latitude":6.99556,"longitude":-9.47222}}(window,'GeoPostal','LR');

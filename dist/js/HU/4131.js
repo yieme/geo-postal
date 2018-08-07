@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4131"]={"code":"4131","region":"Hajdu-Bihar","city":"Derecske","latitude":47.35,"longitude":21.56667}}(window,'GeoPostal','HU');

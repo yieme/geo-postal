@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3793"]={"code":"3793","region":"Victoria","city":"Monbulk","latitude":-37.88333,"longitude":145.4}}(window,'GeoPostal','AU');

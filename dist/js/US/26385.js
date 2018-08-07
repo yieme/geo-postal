@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26385"]={"code":"26385","region":"West Virginia","city":"Lost Creek","latitude":39.17016,"longitude":-80.38728}}(window,'GeoPostal','US');

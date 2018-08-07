@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85201"]={"code":"85201","region":"Arizona","city":"Mesa","latitude":33.42227,"longitude":-111.82264}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2786"]={"code":"2786","region":"New South Wales","city":"Mount Wilson","latitude":-33.5,"longitude":150.38333}}(window,'GeoPostal','AU');

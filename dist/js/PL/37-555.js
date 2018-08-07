@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37-555"]={"code":"37-555","region":"Podkarpackie","city":"Sosnica","latitude":49.90083,"longitude":22.87469}}(window,'GeoPostal','PL');

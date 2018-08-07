@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 69"]={"code":"251 69","region":"Stredocesky kraj","city":"Velke Popovice","latitude":49.92252,"longitude":14.63934}}(window,'GeoPostal','CZ');

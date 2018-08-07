@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98836"]={"code":"98836","region":"WA","city":"Monitor","latitude":47.4852,"longitude":-120.4158}}(window,'GeoPostal','US');

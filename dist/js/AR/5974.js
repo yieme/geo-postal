@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5974"]={"code":"5974","region":"Cordoba","city":"Laguna Larga","latitude":-31.77652,"longitude":-63.80104}}(window,'GeoPostal','AR');

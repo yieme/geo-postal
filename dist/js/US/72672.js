@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72672"]={"code":"72672","region":"AR","city":"Pyatt","latitude":36.2486,"longitude":-92.8416}}(window,'GeoPostal','US');

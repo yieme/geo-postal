@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73931"]={"code":"73931","region":"Oklahoma","city":"Balko","latitude":36.585967,"longitude":-100.679399}}(window,'GeoPostal','US');

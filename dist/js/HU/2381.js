@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2381"]={"code":"2381","region":"Pest","city":"Taborfalva","latitude":47.09942,"longitude":19.47837}}(window,'GeoPostal','HU');

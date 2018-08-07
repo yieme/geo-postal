@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63670"]={"code":"63670","region":"Missouri","city":"Sainte Genevieve","latitude":37.98144,"longitude":-90.04178}}(window,'GeoPostal','US');

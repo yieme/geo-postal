@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE70 7PN"]={"code":"NE70 7PN","region":"England","city":"Fenham","latitude":55.65,"longitude":-1.85}}(window,'GeoPostal','GB');

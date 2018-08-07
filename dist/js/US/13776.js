@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13776"]={"code":"13776","region":"New York","city":"Gilbertsville","latitude":42.4344,"longitude":-75.36258}}(window,'GeoPostal','US');

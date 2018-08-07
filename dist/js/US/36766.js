@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36766"]={"code":"36766","region":"AL","city":"Oak Hill","latitude":31.947,"longitude":-87.0745}}(window,'GeoPostal','US');

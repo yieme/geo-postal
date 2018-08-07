@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["860501"]={"code":"860501","region":"Xizang","city":"Tungdor","latitude":29.2,"longitude":94.08333}}(window,'GeoPostal','CN');

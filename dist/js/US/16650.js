@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16650"]={"code":"16650","region":"PA","city":"Hopewell","latitude":40.1192,"longitude":-78.3129}}(window,'GeoPostal','US');

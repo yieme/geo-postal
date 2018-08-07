@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54210"]={"code":"54210","region":"Wisconsin","city":"Ellison Bay","latitude":45.25472,"longitude":-87.07139}}(window,'GeoPostal','US');

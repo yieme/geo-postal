@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34323"]={"code":"34323","region":"Hessen","city":"Beiseforth","latitude":51.08028,"longitude":9.54793}}(window,'GeoPostal','DE');

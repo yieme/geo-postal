@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["622025"]={"code":"622025","region":"Sverdlovskaya oblast'","city":"Nizhniy Tagil","latitude":57.91944,"longitude":59.965}}(window,'GeoPostal','RU');

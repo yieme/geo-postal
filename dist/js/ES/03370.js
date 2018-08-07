@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03370"]={"code":"03370","region":"Canarias","city":"Moya","latitude":28.10136,"longitude":-15.58917}}(window,'GeoPostal','ES');

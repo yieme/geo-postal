@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41002"]={"code":"41002","region":"Kentucky","city":"Augusta","latitude":38.77169,"longitude":-84.00706}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70511"]={"code":"70511","region":"LA","city":"Abbeville","latitude":29.9747,"longitude":-92.1343}}(window,'GeoPostal','US');

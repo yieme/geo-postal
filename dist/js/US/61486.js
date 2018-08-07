@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61486"]={"code":"61486","region":"IL","city":"Viola","latitude":41.2024,"longitude":-90.5936}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34246"]={"code":"34246","region":"Hessen","city":"Vellmar","latitude":51.35806,"longitude":9.47974}}(window,'GeoPostal','DE');

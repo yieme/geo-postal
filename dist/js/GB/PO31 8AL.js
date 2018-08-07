@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO31 8AL"]={"code":"PO31 8AL","region":"England","city":"Northwood","latitude":50.74102,"longitude":-1.31192}}(window,'GeoPostal','GB');

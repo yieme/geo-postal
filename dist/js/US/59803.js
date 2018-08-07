@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59803"]={"code":"59803","region":"MT","city":"Missoula","latitude":46.8224,"longitude":-114.0265}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97793"]={"code":"97793","region":"Maluku Utara","city":"Dofa","latitude":-1.7952,"longitude":125.36122}}(window,'GeoPostal','ID');

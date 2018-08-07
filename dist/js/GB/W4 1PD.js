@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W4 1PD"]={"code":"W4 1PD","region":"England","city":"Chiswick","latitude":51.49271,"longitude":-0.25801}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14131"]={"code":"14131","region":"NY","city":"Ransomville","latitude":43.2286,"longitude":-78.8982}}(window,'GeoPostal','US');

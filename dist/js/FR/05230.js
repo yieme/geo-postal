@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05230"]={"code":"05230","region":"Provence-Alpes-Cote d'Azur","city":"Chorges","latitude":44.5471,"longitude":6.27752}}(window,'GeoPostal','FR');

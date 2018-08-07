@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25601"]={"code":"25601","region":"West Virginia","city":"Logan","latitude":37.84871,"longitude":-81.99346}}(window,'GeoPostal','US');

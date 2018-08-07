@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N3H 3M9"]={"code":"N3H 3M9","region":"Ontario","city":"Preston","latitude":43.397526,"longitude":-80.361817}}(window,'GeoPostal','CA');

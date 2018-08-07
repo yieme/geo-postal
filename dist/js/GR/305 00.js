@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305 00"]={"code":"305 00","region":"Dytiki Ellada","city":"Katouna","latitude":38.78333,"longitude":21.11667}}(window,'GeoPostal','GR');

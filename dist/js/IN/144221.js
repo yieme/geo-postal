@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144221"]={"code":"144221","region":"Punjab","city":"Mukerian","latitude":31.95056,"longitude":75.61583}}(window,'GeoPostal','IN');

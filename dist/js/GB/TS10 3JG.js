@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS10 3JG"]={"code":"TS10 3JG","region":"England","city":"Redcar","latitude":54.61657,"longitude":-1.05999}}(window,'GeoPostal','GB');

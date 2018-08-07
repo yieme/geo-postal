@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59933"]={"code":"59933","region":"MT","city":"Stryker","latitude":48.6741,"longitude":-114.7702}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23023"]={"code":"23023","region":"VA","city":"Bruington","latitude":37.7801,"longitude":-76.9402}}(window,'GeoPostal','US');

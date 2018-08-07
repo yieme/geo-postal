@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17009"]={"code":"17009","region":"PA","city":"Burnham","latitude":40.6361,"longitude":-77.5625}}(window,'GeoPostal','US');

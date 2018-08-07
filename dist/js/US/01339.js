@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01339"]={"code":"01339","region":"Massachusetts","city":"Charlemont","latitude":42.62786,"longitude":-72.86982}}(window,'GeoPostal','US');

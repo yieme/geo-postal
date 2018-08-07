@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV37 8UD"]={"code":"CV37 8UD","region":"England","city":"Newbold on Stour","latitude":52.11478,"longitude":-1.64113}}(window,'GeoPostal','GB');

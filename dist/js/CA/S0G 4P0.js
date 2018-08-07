@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0G 4P0"]={"code":"S0G 4P0","region":"Saskatchewan","city":"Southey","latitude":50.93338,"longitude":-104.5011}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17055"]={"code":"17055","region":"Pennsylvania","city":"Mechanicsburg","latitude":40.220305,"longitude":-76.999799}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX28 4LQ"]={"code":"OX28 4LQ","region":"England","city":"Witney","latitude":51.7836,"longitude":-1.4854}}(window,'GeoPostal','GB');

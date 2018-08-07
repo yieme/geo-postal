@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53015"]={"code":"53015","region":"Toscana","city":"Monticiano","latitude":43.13953,"longitude":11.17613}}(window,'GeoPostal','IT');

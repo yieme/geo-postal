@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56145"]={"code":"56145","region":"Minnesota","city":"Jeffers","latitude":44.057947,"longitude":-95.194679}}(window,'GeoPostal','US');

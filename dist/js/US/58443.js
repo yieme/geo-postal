@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58443"]={"code":"58443","region":"North Dakota","city":"Glenfield","latitude":47.44818,"longitude":-98.68068}}(window,'GeoPostal','US');

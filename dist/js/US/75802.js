@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75802"]={"code":"75802","region":"Texas","city":"Palestine","latitude":31.761502,"longitude":-95.631785}}(window,'GeoPostal','US');

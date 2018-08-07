@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26548"]={"code":"26548","region":"Niedersachsen","city":"Norderney","latitude":53.70828,"longitude":7.15819}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95324"]={"code":"95324","region":"California","city":"Hilmar","latitude":37.398723,"longitude":-120.87174}}(window,'GeoPostal','US');

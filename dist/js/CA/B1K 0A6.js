@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1K 0A6"]={"code":"B1K 0A6","region":"Nova Scotia","city":"Big Ridge South","latitude":45.93344,"longitude":-60.23175}}(window,'GeoPostal','CA');

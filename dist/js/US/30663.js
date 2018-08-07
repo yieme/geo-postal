@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30663"]={"code":"30663","region":"GA","city":"Rutledge","latitude":33.6163,"longitude":-83.6023}}(window,'GeoPostal','US');

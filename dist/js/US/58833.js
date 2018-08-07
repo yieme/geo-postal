@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58833"]={"code":"58833","region":"North Dakota","city":"Ambrose","latitude":48.789056,"longitude":-103.723486}}(window,'GeoPostal','US');

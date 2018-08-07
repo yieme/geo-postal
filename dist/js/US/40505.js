@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40505"]={"code":"40505","region":"Kentucky","city":"Lexington","latitude":38.06039,"longitude":-84.45308}}(window,'GeoPostal','US');

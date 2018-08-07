@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0E 2J0"]={"code":"J0E 2J0","region":"Quebec","city":"Stukely-Sud","latitude":45.31678,"longitude":-72.41581}}(window,'GeoPostal','CA');

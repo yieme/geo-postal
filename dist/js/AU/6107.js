@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6107"]={"code":"6107","region":"Western Australia","city":"Wilson","latitude":-32.02058,"longitude":115.91181}}(window,'GeoPostal','AU');

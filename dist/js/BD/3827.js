@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3827"]={"code":"3827","region":"Chittagong","city":"Hajiganj","latitude":23.25111,"longitude":90.85917}}(window,'GeoPostal','BD');

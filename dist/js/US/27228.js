@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27228"]={"code":"27228","region":"North Carolina","city":"Pittsboro","latitude":35.72015,"longitude":-79.17724}}(window,'GeoPostal','US');

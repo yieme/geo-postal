@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55340"]={"code":"55340","region":"Minnesota","city":"Hamel","latitude":45.07848,"longitude":-93.57858}}(window,'GeoPostal','US');

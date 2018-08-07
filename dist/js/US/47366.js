@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47366"]={"code":"47366","region":"IN","city":"New Lisbon","latitude":39.8634,"longitude":-85.263}}(window,'GeoPostal','US');

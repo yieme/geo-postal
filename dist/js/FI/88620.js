@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88620"]={"code":"88620","region":"Kainuu","city":"Kajaani","latitude":64.22728,"longitude":27.72846}}(window,'GeoPostal','FI');

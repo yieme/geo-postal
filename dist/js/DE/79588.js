@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79588"]={"code":"79588","region":"Rheinland-Pfalz","city":"Kirchen","latitude":50.80849,"longitude":7.88634}}(window,'GeoPostal','DE');

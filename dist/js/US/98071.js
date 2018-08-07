@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98071"]={"code":"98071","region":"WA","city":"Auburn","latitude":47.3073,"longitude":-122.2285}}(window,'GeoPostal','US');

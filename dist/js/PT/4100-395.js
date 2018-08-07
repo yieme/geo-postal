@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4100-395"]={"code":"4100-395","region":"Porto","city":"Porto","latitude":41.14961,"longitude":-8.61099}}(window,'GeoPostal','PT');

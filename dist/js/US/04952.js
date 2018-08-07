@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04952"]={"code":"04952","region":"Maine","city":"Morrill","latitude":44.42833,"longitude":-69.17167}}(window,'GeoPostal','US');

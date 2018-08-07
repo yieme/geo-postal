@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75562"]={"code":"75562","region":"TX","city":"Kildare","latitude":32.9468,"longitude":-94.2539}}(window,'GeoPostal','US');

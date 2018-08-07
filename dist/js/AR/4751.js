@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4751"]={"code":"4751","region":"Catamarca","city":"Puerta de Corral Quemado","latitude":-27.23,"longitude":-66.93635}}(window,'GeoPostal','AR');

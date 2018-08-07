@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636803"]={"code":"636803","region":"Tamil Nadu","city":"Pallippatti","latitude":11.93333,"longitude":78.41667}}(window,'GeoPostal','IN');

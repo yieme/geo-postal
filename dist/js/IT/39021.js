@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39021"]={"code":"39021","region":"Trentino-Alto Adige","city":"Laces","latitude":46.61692,"longitude":10.85636}}(window,'GeoPostal','IT');

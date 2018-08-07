@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382840"]={"code":"382840","region":"Gujarat","city":"Vijapur","latitude":23.56667,"longitude":72.75}}(window,'GeoPostal','IN');

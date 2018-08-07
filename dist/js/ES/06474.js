@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06474"]={"code":"06474","region":"Extremadura","city":"Valdetorres","latitude":38.91542,"longitude":-6.06765}}(window,'GeoPostal','ES');

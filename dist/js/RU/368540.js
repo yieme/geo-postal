@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368540"]={"code":"368540","region":"Dagestan, Respublika","city":"Manaskent","latitude":42.7402,"longitude":47.6914}}(window,'GeoPostal','RU');

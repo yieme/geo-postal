@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96705"]={"code":"96705","region":"Hawaii","city":"Eleele","latitude":21.90738,"longitude":-159.58322}}(window,'GeoPostal','US');

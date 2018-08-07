@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA6 7JJ"]={"code":"KA6 7JJ","region":"Scotland","city":"Waterside","latitude":55.33333,"longitude":-4.48333}}(window,'GeoPostal','GB');

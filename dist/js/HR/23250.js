@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23250"]={"code":"23250","region":"Zadarska zupanija","city":"Pag","latitude":44.445,"longitude":15.0575}}(window,'GeoPostal','HR');

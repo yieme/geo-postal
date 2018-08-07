@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-622"]={"code":"42-622","region":"Slaskie","city":"Swierklaniec","latitude":50.44237,"longitude":18.93734}}(window,'GeoPostal','PL');

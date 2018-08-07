@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K9V 6B8"]={"code":"K9V 6B8","region":"Ontario","city":"Lindsay","latitude":44.367637,"longitude":-78.747238}}(window,'GeoPostal','CA');

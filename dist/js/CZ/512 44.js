@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["512 44"]={"code":"512 44","region":"Kralovehradecky kraj","city":"Rokytnice nad Jizerou","latitude":50.72561,"longitude":15.43357}}(window,'GeoPostal','CZ');

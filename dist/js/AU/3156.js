@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3156"]={"code":"3156","region":"Victoria","city":"Ferntree Gully","latitude":-37.88461,"longitude":145.29539}}(window,'GeoPostal','AU');

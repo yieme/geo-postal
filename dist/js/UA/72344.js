@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72344"]={"code":"72344","region":"Zaporizka oblast","city":"Rozivka","latitude":46.93846,"longitude":35.77239}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52316"]={"code":"52316","region":"Iowa","city":"North English","latitude":41.5139,"longitude":-92.07629}}(window,'GeoPostal','US');

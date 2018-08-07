@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49410"]={"code":"49410","region":"Michigan","city":"Fountain","latitude":44.018435,"longitude":-86.135776}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6400"]={"code":"6400","region":"Syddanmark","city":"Sonderborg","latitude":54.90926,"longitude":9.80737}}(window,'GeoPostal','DK');

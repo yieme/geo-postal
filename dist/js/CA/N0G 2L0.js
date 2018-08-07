@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2L0"]={"code":"N0G 2L0","region":"Ontario","city":"Mount Forest","latitude":43.97948,"longitude":-80.72205}}(window,'GeoPostal','CA');

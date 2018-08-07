@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25634"]={"code":"25634","region":"Catalunya","city":"La Pobla de Claramunt","latitude":41.55423,"longitude":1.67712}}(window,'GeoPostal','ES');

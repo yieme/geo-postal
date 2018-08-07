@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89540-000"]={"code":"89540-000","region":"Santa Catarina","city":"Santa Cecilia","latitude":-26.96083,"longitude":-50.42694}}(window,'GeoPostal','BR');

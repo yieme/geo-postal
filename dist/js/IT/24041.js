@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24041"]={"code":"24041","region":"Lombardia","city":"Brembate","latitude":45.60478,"longitude":9.55655}}(window,'GeoPostal','IT');

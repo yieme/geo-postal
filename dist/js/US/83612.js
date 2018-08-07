@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83612"]={"code":"83612","region":"Idaho","city":"Council","latitude":44.72989,"longitude":-116.4382}}(window,'GeoPostal','US');

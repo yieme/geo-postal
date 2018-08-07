@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17550"]={"code":"17550","region":"Nouvelle-Aquitaine","city":"Dolus-d'Oleron","latitude":45.91667,"longitude":-1.26667}}(window,'GeoPostal','FR');

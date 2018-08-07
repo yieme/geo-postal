@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78659"]={"code":"78659","region":"Texas","city":"Paige","latitude":30.2075,"longitude":-97.115}}(window,'GeoPostal','US');

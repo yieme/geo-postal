@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30851"]={"code":"30851","region":"Mecklenburg-Vorpommern","city":"Langenhagen","latitude":53.57819,"longitude":12.02909}}(window,'GeoPostal','DE');

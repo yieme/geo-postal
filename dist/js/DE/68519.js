@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68519"]={"code":"68519","region":"Hessen","city":"Viernheim","latitude":49.54033,"longitude":8.5782}}(window,'GeoPostal','DE');

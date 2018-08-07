@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5007"]={"code":"5007","region":"South Australia","city":"Hindmarsh","latitude":-34.90139,"longitude":138.575}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516227"]={"code":"516227","region":"Andhra Pradesh","city":"Badvel","latitude":14.75,"longitude":79.05}}(window,'GeoPostal','IN');

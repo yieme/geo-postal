@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18470"]={"code":"18470","region":"PA","city":"Union Dale","latitude":41.7079,"longitude":-75.5465}}(window,'GeoPostal','US');

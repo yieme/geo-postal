@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41804"]={"code":"41804","region":"KY","city":"Blackey","latitude":37.1551,"longitude":-82.9956}}(window,'GeoPostal','US');

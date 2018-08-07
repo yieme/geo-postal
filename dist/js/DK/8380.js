@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8380"]={"code":"8380","region":"Midtjylland","city":"Trige","latitude":56.25291,"longitude":10.1484}}(window,'GeoPostal','DK');

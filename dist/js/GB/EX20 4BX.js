@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 4BX"]={"code":"EX20 4BX","region":"England","city":"Stowford","latitude":50.65,"longitude":-4.21667}}(window,'GeoPostal','GB');

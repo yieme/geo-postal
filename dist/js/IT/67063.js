@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67063"]={"code":"67063","region":"Abruzzo","city":"Civita d'Antino","latitude":41.88572,"longitude":13.4715}}(window,'GeoPostal','IT');

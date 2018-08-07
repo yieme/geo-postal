@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG9 0HZ"]={"code":"SG9 0HZ","region":"England","city":"Stocking Pelham","latitude":51.94149,"longitude":0.11171}}(window,'GeoPostal','GB');

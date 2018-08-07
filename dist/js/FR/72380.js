@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72380"]={"code":"72380","region":"Pays-de-la-Loire","city":"Sainte-Jamme-sur-Sarthe","latitude":48.14264,"longitude":0.16743}}(window,'GeoPostal','FR');

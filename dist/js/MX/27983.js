@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27983"]={"code":"27983","region":"Chiapas","city":"Chicomuselo","latitude":15.76667,"longitude":-92.26667}}(window,'GeoPostal','MX');

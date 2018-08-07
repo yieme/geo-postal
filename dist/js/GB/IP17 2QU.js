@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP17 2QU"]={"code":"IP17 2QU","region":"England","city":"Kelsale","latitude":52.23218,"longitude":1.49129}}(window,'GeoPostal','GB');

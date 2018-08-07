@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4876"]={"code":"4876","region":"Lemesos","city":"Kyperounda","latitude":34.9375,"longitude":32.975}}(window,'GeoPostal','CY');

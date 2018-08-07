@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73109"]={"code":"73109","region":"Auvergne-Rhone-Alpes","city":"Aix-les-Bains","latitude":45.68338,"longitude":5.92241}}(window,'GeoPostal','FR');

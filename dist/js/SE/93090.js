@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93090"]={"code":"93090","region":"Norrbottens lan","city":"Arjeplog","latitude":66.05173,"longitude":17.88606}}(window,'GeoPostal','SE');

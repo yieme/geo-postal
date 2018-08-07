@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 5PE"]={"code":"DN21 5PE","region":"England","city":"Knaith","latitude":53.35323,"longitude":-0.75555}}(window,'GeoPostal','GB');

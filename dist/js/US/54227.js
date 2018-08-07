@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54227"]={"code":"54227","region":"WI","city":"Maribel","latitude":44.2852,"longitude":-87.8055}}(window,'GeoPostal','US');

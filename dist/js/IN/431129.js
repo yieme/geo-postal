@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431129"]={"code":"431129","region":"Maharashtra","city":"Dharur","latitude":18.81667,"longitude":76.11667}}(window,'GeoPostal','IN');

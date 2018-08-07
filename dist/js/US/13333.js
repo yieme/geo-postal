@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13333"]={"code":"13333","region":"New York","city":"East Springfield","latitude":42.833005,"longitude":-74.759664}}(window,'GeoPostal','US');

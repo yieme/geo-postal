@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2001"]={"code":"2001","region":"Pampanga","city":"Bacolor","latitude":15.0003,"longitude":120.652}}(window,'GeoPostal','PH');

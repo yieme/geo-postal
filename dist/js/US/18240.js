@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18240"]={"code":"18240","region":"Pennsylvania","city":"Nesquehoning","latitude":40.86453,"longitude":-75.81103}}(window,'GeoPostal','US');

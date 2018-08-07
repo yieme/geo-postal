@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70343"]={"code":"70343","region":"Louisiana","city":"Bourg","latitude":29.55355,"longitude":-90.60231}}(window,'GeoPostal','US');

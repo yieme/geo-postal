@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3961"]={"code":"3961","region":"Helmand","city":"Hukumat-e Nad 'Ali","latitude":31.64286,"longitude":64.23982}}(window,'GeoPostal','AF');

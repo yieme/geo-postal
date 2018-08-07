@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453634"]={"code":"453634","region":"Bashkortostan, Respublika","city":"Baymak","latitude":52.59333,"longitude":58.3225}}(window,'GeoPostal','RU');

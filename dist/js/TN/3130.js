@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3130"]={"code":"3130","region":"Kairouan","city":"Haffouz","latitude":35.63235,"longitude":9.67624}}(window,'GeoPostal','TN');

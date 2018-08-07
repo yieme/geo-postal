@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12874"]={"code":"12874","region":"New York","city":"Silver Bay","latitude":43.6675,"longitude":-73.514444}}(window,'GeoPostal','US');

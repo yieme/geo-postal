@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12041"]={"code":"12041","region":"NY","city":"Clarksville","latitude":42.5759,"longitude":-73.964}}(window,'GeoPostal','US');

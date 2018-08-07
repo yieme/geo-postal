@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69740"]={"code":"69740","region":"Auvergne-Rhone-Alpes","city":"Limonest","latitude":45.83744,"longitude":4.7718}}(window,'GeoPostal','FR');

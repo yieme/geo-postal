@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25680"]={"code":"25680","region":"Bourgogne-Franche-Comte","city":"Rougemont","latitude":47.48211,"longitude":6.35574}}(window,'GeoPostal','FR');

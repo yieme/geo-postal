@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49316"]={"code":"49316","region":"Michigan","city":"Caledonia","latitude":42.78702,"longitude":-85.54632}}(window,'GeoPostal','US');

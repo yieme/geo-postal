@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11160"]={"code":"11160","region":"Andalucia","city":"Vejer de la Frontera","latitude":36.24456,"longitude":-5.96953}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4034"]={"code":"4034","region":"Queensland","city":"Aspley","latitude":-27.36667,"longitude":153.01667}}(window,'GeoPostal','AU');

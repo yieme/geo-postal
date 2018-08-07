@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2R 4G3"]={"code":"V2R 4G3","region":"British Columbia","city":"Sardis","latitude":49.13141,"longitude":-121.96009}}(window,'GeoPostal','CA');

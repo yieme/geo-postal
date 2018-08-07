@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4873"]={"code":"4873","region":"Queensland","city":"Mossman","latitude":-16.46005,"longitude":145.37421}}(window,'GeoPostal','AU');

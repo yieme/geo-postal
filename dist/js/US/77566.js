@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77566"]={"code":"77566","region":"Texas","city":"Lake Jackson","latitude":29.03386,"longitude":-95.43439}}(window,'GeoPostal','US');

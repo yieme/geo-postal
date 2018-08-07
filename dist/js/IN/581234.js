@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["581234"]={"code":"581234","region":"Karnataka","city":"Shiggaon","latitude":15,"longitude":75.23333}}(window,'GeoPostal','IN');

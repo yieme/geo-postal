@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29490"]={"code":"29490","region":"Andalucia","city":"Gaucin","latitude":36.51784,"longitude":-5.31581}}(window,'GeoPostal','ES');

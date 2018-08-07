@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425479"]={"code":"425479","region":"Mariy El, Respublika","city":"Sernur","latitude":56.93333,"longitude":49.15361}}(window,'GeoPostal','RU');

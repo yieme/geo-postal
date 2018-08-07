@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7003"]={"code":"7003","region":"Fejer","city":"Sarbogard","latitude":46.88692,"longitude":18.62041}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08832"]={"code":"08832","region":"New Jersey","city":"Keasbey","latitude":40.513098,"longitude":-74.304519}}(window,'GeoPostal','US');

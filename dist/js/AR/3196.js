@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3196"]={"code":"3196","region":"Corrientes","city":"Esquina","latitude":-30.01444,"longitude":-59.52719}}(window,'GeoPostal','AR');

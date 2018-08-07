@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48732"]={"code":"48732","region":"MI","city":"Essexville","latitude":43.6069,"longitude":-83.8217}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31124"]={"code":"31124","region":"HaMerkaz","city":"Ra'anana","latitude":32.183333,"longitude":34.866667}}(window,'GeoPostal','IL');

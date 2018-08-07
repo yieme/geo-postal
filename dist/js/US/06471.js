@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06471"]={"code":"06471","region":"Connecticut","city":"Branford","latitude":41.342054,"longitude":-72.776542}}(window,'GeoPostal','US');

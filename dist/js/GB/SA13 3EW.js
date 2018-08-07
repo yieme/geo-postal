@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA13 3EW"]={"code":"SA13 3EW","region":"Wales","city":"Cymmer","latitude":51.64861,"longitude":-3.65361}}(window,'GeoPostal','GB');

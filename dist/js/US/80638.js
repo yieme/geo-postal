@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80638"]={"code":"80638","region":"CO","city":"Greeley","latitude":40.4233,"longitude":-104.7091}}(window,'GeoPostal','US');

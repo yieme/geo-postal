@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 53"]={"code":"270 53","region":"Dytiki Ellada","city":"Varda","latitude":38.03333,"longitude":21.36667}}(window,'GeoPostal','GR');

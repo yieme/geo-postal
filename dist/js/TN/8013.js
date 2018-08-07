@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8013"]={"code":"8013","region":"Nabeul","city":"El Maamoura","latitude":36.46499,"longitude":10.80612}}(window,'GeoPostal','TN');

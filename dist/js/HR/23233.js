@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23233"]={"code":"23233","region":"Zadarska zupanija","city":"Privlaka","latitude":44.26333,"longitude":15.11972}}(window,'GeoPostal','HR');

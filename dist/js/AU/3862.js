@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3862"]={"code":"3862","region":"Victoria","city":"Dargo","latitude":-37.48333,"longitude":147.26667}}(window,'GeoPostal','AU');

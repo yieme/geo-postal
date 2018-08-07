@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99500-000"]={"code":"99500-000","region":"Rio Grande do Sul","city":"Carazinho","latitude":-28.28389,"longitude":-52.78639}}(window,'GeoPostal','BR');

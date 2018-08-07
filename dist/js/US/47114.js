@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47114"]={"code":"47114","region":"IN","city":"Crandall","latitude":38.2876,"longitude":-86.0664}}(window,'GeoPostal','US');

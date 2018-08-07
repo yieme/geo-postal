@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02325"]={"code":"02325","region":"Massachusetts","city":"Bridgewater","latitude":41.988633,"longitude":-70.971326}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52470"]={"code":"52470","region":"Istarska zupanija","city":"Umag","latitude":45.43139,"longitude":13.52389}}(window,'GeoPostal','HR');

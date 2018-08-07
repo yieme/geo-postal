@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72031"]={"code":"72031","region":"Arkansas","city":"Clinton","latitude":35.59147,"longitude":-92.46044}}(window,'GeoPostal','US');

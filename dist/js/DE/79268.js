@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79268"]={"code":"79268","region":"Baden-Wurttemberg","city":"Oberschaffhausen","latitude":48.07153,"longitude":7.7176}}(window,'GeoPostal','DE');

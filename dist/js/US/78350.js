@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78350"]={"code":"78350","region":"Texas","city":"Dinero","latitude":28.22639,"longitude":-97.96167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407340"]={"code":"407340","region":"Cluj","city":"Izvoru Crisului","latitude":46.83333,"longitude":23.1}}(window,'GeoPostal','RO');

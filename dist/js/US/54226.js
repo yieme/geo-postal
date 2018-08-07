@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54226"]={"code":"54226","region":"Wisconsin","city":"Maplewood","latitude":44.724853,"longitude":-87.483878}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29531"]={"code":"29531","region":"Federally Administered Tribal Areas","city":"Wana","latitude":32.29889,"longitude":69.5725}}(window,'GeoPostal','PK');

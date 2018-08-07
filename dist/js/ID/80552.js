@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80552"]={"code":"80552","region":"Bali","city":"Banjar Pesalakan","latitude":-8.4812,"longitude":115.3025}}(window,'GeoPostal','ID');

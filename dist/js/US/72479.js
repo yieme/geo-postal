@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72479"]={"code":"72479","region":"AR","city":"Weiner","latitude":35.6291,"longitude":-90.9289}}(window,'GeoPostal','US');

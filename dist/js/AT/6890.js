@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6890"]={"code":"6890","region":"Vorarlberg","city":"Lustenau","latitude":47.42642,"longitude":9.65851}}(window,'GeoPostal','AT');

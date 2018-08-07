@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95472"]={"code":"95472","region":"California","city":"Sebastopol","latitude":38.40186,"longitude":-122.85168}}(window,'GeoPostal','US');

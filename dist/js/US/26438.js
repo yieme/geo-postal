@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26438"]={"code":"26438","region":"WV","city":"Spelter","latitude":39.3465,"longitude":-80.3206}}(window,'GeoPostal','US');

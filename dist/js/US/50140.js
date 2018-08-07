@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50140"]={"code":"50140","region":"Iowa","city":"Lamoni","latitude":40.62278,"longitude":-93.93412}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB8 0SE"]={"code":"CB8 0SE","region":"England","city":"Brinkley","latitude":52.1668,"longitude":0.3819}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 0N0"]={"code":"S0K 0N0","region":"Saskatchewan","city":"Borden","latitude":52.4001,"longitude":-107.23455}}(window,'GeoPostal','CA');

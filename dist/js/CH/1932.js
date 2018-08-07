@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1932"]={"code":"1932","region":"Valais","city":"Martigny-Combe","latitude":46.07817,"longitude":7.05099}}(window,'GeoPostal','CH');

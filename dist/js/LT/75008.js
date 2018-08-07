@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75008"]={"code":"75008","region":"Taurages apskritis","city":"Silale","latitude":55.49056,"longitude":22.18139}}(window,'GeoPostal','LT');

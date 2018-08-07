@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73-115"]={"code":"73-115","region":"Zachodniopomorskie","city":"Dolice","latitude":53.19081,"longitude":15.20267}}(window,'GeoPostal','PL');

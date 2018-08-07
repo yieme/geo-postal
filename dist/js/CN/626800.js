@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626800"]={"code":"626800","region":"Sichuan","city":"Rulong","latitude":30.94178,"longitude":100.30958}}(window,'GeoPostal','CN');

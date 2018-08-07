@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99000-000"]={"code":"99000-000","region":"Rio Grande do Sul","city":"Passo Fundo","latitude":-28.26278,"longitude":-52.40667}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02176"]={"code":"02176","region":"Massachusetts","city":"Melrose","latitude":42.45843,"longitude":-71.06616}}(window,'GeoPostal','US');

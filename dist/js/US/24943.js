@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24943"]={"code":"24943","region":"West Virginia","city":"Grassy Meadows","latitude":37.844782,"longitude":-80.74164}}(window,'GeoPostal','US');

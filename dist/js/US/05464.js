@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05464"]={"code":"05464","region":"VT","city":"Jeffersonville","latitude":44.6388,"longitude":-72.822}}(window,'GeoPostal','US');

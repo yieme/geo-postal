@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38110"]={"code":"38110","region":"TN","city":"Mem","latitude":35.05,"longitude":-89.94}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423960"]={"code":"423960","region":"Tatarstan, Respublika","city":"Urussu","latitude":54.59812,"longitude":53.46313}}(window,'GeoPostal','RU');

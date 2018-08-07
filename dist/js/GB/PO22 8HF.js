@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO22 8HF"]={"code":"PO22 8HF","region":"England","city":"Felpham","latitude":50.79422,"longitude":-0.64579}}(window,'GeoPostal','GB');

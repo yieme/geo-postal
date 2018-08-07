@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54922"]={"code":"54922","region":"WI","city":"Bear Creek","latitude":44.5348,"longitude":-88.7404}}(window,'GeoPostal','US');

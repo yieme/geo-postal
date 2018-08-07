@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06278"]={"code":"06278","region":"Connecticut","city":"Ashford","latitude":41.89662,"longitude":-72.14124}}(window,'GeoPostal','US');

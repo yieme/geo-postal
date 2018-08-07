@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51281"]={"code":"51281","region":"Primorsko-goranska zupanija","city":"Lopar","latitude":44.8325,"longitude":14.73028}}(window,'GeoPostal','HR');

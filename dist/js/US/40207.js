@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40207"]={"code":"40207","region":"Kentucky","city":"Saint Matthews","latitude":38.25285,"longitude":-85.65579}}(window,'GeoPostal','US');

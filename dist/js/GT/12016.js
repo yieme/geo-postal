@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12016"]={"code":"12016","region":"San Marcos","city":"Catarina","latitude":14.85,"longitude":-92.08333}}(window,'GeoPostal','GT');

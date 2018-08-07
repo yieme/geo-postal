@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73054"]={"code":"73054","region":"Oklahoma","city":"Luther","latitude":35.654344,"longitude":-97.192479}}(window,'GeoPostal','US');

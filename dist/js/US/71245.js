@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71245"]={"code":"71245","region":"LA","city":"Grambling","latitude":32.5244,"longitude":-92.7158}}(window,'GeoPostal','US');

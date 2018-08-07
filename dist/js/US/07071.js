@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07071"]={"code":"07071","region":"New Jersey","city":"Lyndhurst","latitude":40.81204,"longitude":-74.12431}}(window,'GeoPostal','US');

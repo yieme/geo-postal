@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61533"]={"code":"61533","region":"Illinois","city":"Glasford","latitude":40.5897,"longitude":-89.816866}}(window,'GeoPostal','US');

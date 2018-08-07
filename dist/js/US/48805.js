@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48805"]={"code":"48805","region":"MI","city":"Okemos","latitude":42.5992,"longitude":-84.372}}(window,'GeoPostal','US');

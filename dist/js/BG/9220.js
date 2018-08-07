@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9220"]={"code":"9220","region":"Varna","city":"Vetrino","latitude":43.31667,"longitude":27.43333}}(window,'GeoPostal','BG');

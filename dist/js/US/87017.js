@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87017"]={"code":"87017","region":"NM","city":"Gallina","latitude":36.3202,"longitude":-106.7687}}(window,'GeoPostal','US');

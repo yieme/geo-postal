@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38849"]={"code":"38849","region":"MS","city":"Guntown","latitude":34.4563,"longitude":-88.6975}}(window,'GeoPostal','US');

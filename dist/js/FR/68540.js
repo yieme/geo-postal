@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68540"]={"code":"68540","region":"Grand-Est","city":"Bollwiller","latitude":47.85832,"longitude":7.26179}}(window,'GeoPostal','FR');

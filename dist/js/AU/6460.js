@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6460"]={"code":"6460","region":"Western Australia","city":"Konnongorring","latitude":-31.08333,"longitude":116.78333}}(window,'GeoPostal','AU');

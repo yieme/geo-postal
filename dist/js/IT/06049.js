@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06049"]={"code":"06049","region":"Umbria","city":"Spoleto","latitude":42.74484,"longitude":12.73737}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR20 5AP"]={"code":"NR20 5AP","region":"England","city":"Whissonsett","latitude":52.77205,"longitude":0.84167}}(window,'GeoPostal','GB');

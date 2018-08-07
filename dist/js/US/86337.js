@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86337"]={"code":"86337","region":"Arizona","city":"Seligman","latitude":35.32833,"longitude":-112.87417}}(window,'GeoPostal','US');

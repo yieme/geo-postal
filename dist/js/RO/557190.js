@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["557190"]={"code":"557190","region":"Sibiu","city":"Porumbacu de Jos","latitude":45.75,"longitude":24.45}}(window,'GeoPostal','RO');

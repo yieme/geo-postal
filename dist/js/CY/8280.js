@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8280"]={"code":"8280","region":"Pafos","city":"Mesoyi","latitude":34.81667,"longitude":32.45833}}(window,'GeoPostal','CY');

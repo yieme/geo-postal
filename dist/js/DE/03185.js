@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03185"]={"code":"03185","region":"Brandenburg","city":"Barenbruck","latitude":51.81188,"longitude":14.47479}}(window,'GeoPostal','DE');

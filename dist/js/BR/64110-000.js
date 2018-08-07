@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64110-000"]={"code":"64110-000","region":"Piaui","city":"Jose de Freitas","latitude":-4.75639,"longitude":-42.57556}}(window,'GeoPostal','BR');

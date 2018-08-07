@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17363"]={"code":"17363","region":"Pennsylvania","city":"Stewartstown","latitude":39.75371,"longitude":-76.59136}}(window,'GeoPostal','US');

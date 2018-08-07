@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17255"]={"code":"17255","region":"Catalunya","city":"Begur","latitude":41.95,"longitude":3.21667}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06024"]={"code":"06024","region":"CT","city":"East Canaan","latitude":42.0158,"longitude":-73.2913}}(window,'GeoPostal','US');

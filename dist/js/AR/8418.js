@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8418"]={"code":"8418","region":"Rio Negro","city":"Ingeniero Jacobacci","latitude":-41.34269,"longitude":-69.54479}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38713"]={"code":"38713","region":"Canarias","city":"Brena Alta","latitude":28.65,"longitude":-17.78333}}(window,'GeoPostal','ES');

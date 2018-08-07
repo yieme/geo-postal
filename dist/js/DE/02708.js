@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02708"]={"code":"02708","region":"Sachsen","city":"Kleinschweidnitz","latitude":51.07418,"longitude":14.6591}}(window,'GeoPostal','DE');

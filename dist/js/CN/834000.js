@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["834000"]={"code":"834000","region":"Xinjiang","city":"Karamay","latitude":45.6,"longitude":84.883333}}(window,'GeoPostal','CN');

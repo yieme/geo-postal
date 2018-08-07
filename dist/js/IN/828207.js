@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["828207"]={"code":"828207","region":"Jharkhand","city":"Dhanbad","latitude":23.8,"longitude":86.45}}(window,'GeoPostal','IN');

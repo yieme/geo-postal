@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63967"]={"code":"63967","region":"Auvergne-Rhone-Alpes","city":"Clermont-Ferrand","latitude":45.77966,"longitude":3.08628}}(window,'GeoPostal','FR');

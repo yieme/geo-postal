@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4472"]={"code":"4472","region":"Queensland","city":"Blackall","latitude":-24.42327,"longitude":145.46303}}(window,'GeoPostal','AU');

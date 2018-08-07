@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22534"]={"code":"22534","region":"Aragon","city":"Albalate de Cinca","latitude":41.72521,"longitude":0.15244}}(window,'GeoPostal','ES');

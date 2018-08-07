@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12563"]={"code":"12563","region":"NY","city":"Patterson","latitude":41.4888,"longitude":-73.5815}}(window,'GeoPostal','US');

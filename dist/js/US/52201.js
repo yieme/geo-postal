@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52201"]={"code":"52201","region":"IA","city":"Ainsworth","latitude":41.3202,"longitude":-91.5472}}(window,'GeoPostal','US');

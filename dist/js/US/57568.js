@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57568"]={"code":"57568","region":"South Dakota","city":"Presho","latitude":43.906635,"longitude":-100.056494}}(window,'GeoPostal','US');

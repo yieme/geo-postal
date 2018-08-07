@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64861"]={"code":"64861","region":"MO","city":"Rocky Comfort","latitude":36.7175,"longitude":-94.1091}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11713"]={"code":"11713","region":"New York","city":"Bellport","latitude":40.7694,"longitude":-72.94194}}(window,'GeoPostal','US');

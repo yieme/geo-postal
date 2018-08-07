@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 3LR"]={"code":"SA62 3LR","region":"Wales","city":"Lambston","latitude":51.81161,"longitude":-5.03813}}(window,'GeoPostal','GB');

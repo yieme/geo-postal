@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 2024"]={"code":"AZ 2024","region":"Ganca","city":"Ganja","latitude":40.68278,"longitude":46.36056}}(window,'GeoPostal','AZ');

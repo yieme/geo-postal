@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51792"]={"code":"51792","region":"Vastra Gotalands lan","city":"Bollebygd","latitude":57.66866,"longitude":12.57272}}(window,'GeoPostal','SE');

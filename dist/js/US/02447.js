@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02447"]={"code":"02447","region":"MA","city":"Brookline Village","latitude":42.3329,"longitude":-71.1162}}(window,'GeoPostal','US');

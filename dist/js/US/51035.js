@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51035"]={"code":"51035","region":"Iowa","city":"Marcus","latitude":42.82582,"longitude":-95.80751}}(window,'GeoPostal','US');

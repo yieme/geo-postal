@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41110"]={"code":"41110","region":"Andalucia","city":"Bollullos de la Mitacion","latitude":37.34014,"longitude":-6.13719}}(window,'GeoPostal','ES');

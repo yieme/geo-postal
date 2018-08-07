@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270 54"]={"code":"270 54","region":"Stredocesky kraj","city":"Revnicov","latitude":50.18489,"longitude":13.80823}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46104"]={"code":"46104","region":"IN","city":"Arlington","latitude":39.6488,"longitude":-85.5828}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86047"]={"code":"86047","region":"Arizona","city":"Winslow","latitude":35.02419,"longitude":-110.69736}}(window,'GeoPostal','US');

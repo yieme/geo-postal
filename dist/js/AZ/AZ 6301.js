@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 6301"]={"code":"AZ 6301","region":"Zardab","city":"Zardob","latitude":40.21833,"longitude":47.70833}}(window,'GeoPostal','AZ');

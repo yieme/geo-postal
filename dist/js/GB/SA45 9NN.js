@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA45 9NN"]={"code":"SA45 9NN","region":"Wales","city":"New Quay","latitude":52.21515,"longitude":-4.35887}}(window,'GeoPostal','GB');

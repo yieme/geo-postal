@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20243"]={"code":"20243","region":"Corse","city":"Prunelli-di-Fiumorbo","latitude":42.01047,"longitude":9.32473}}(window,'GeoPostal','FR');

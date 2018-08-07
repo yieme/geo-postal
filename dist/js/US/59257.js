@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59257"]={"code":"59257","region":"Montana","city":"Redstone","latitude":48.83277,"longitude":-104.921631}}(window,'GeoPostal','US');

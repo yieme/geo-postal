@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16927"]={"code":"16927","region":"Pennsylvania","city":"Westfield","latitude":41.91924,"longitude":-77.53887}}(window,'GeoPostal','US');

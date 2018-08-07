@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59001"]={"code":"59001","region":"Montana","city":"Absarokee","latitude":45.5205,"longitude":-109.44294}}(window,'GeoPostal','US');

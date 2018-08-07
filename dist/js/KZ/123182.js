@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["123182"]={"code":"123182","region":"Pavlodar oblysy","city":"Kurchatov","latitude":50.75667,"longitude":78.54}}(window,'GeoPostal','KZ');

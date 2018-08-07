@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26411"]={"code":"26411","region":"WV","city":"New Milton","latitude":39.1899,"longitude":-80.7076}}(window,'GeoPostal','US');

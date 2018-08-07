@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74564"]={"code":"74564","region":"Baden-Wurttemberg","city":"Rossfeld","latitude":49.13871,"longitude":10.02357}}(window,'GeoPostal','DE');

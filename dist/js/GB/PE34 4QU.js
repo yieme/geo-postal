@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE34 4QU"]={"code":"PE34 4QU","region":"England","city":"Tilney Saint Lawrence","latitude":52.69979,"longitude":0.28822}}(window,'GeoPostal','GB');

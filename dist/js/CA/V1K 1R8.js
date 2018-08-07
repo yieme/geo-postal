@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1K 1R8"]={"code":"V1K 1R8","region":"British Columbia","city":"Merritt","latitude":49.918671,"longitude":-121.038411}}(window,'GeoPostal','CA');

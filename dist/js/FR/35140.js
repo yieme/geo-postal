@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35140"]={"code":"35140","region":"Bretagne","city":"Saint-Aubin-du-Cormier","latitude":48.25843,"longitude":-1.40252}}(window,'GeoPostal','FR');

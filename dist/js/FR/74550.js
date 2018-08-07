@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74550"]={"code":"74550","region":"Auvergne-Rhone-Alpes","city":"Perrignier","latitude":46.3064,"longitude":6.44465}}(window,'GeoPostal','FR');

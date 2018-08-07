@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE21 7FS"]={"code":"DE21 7FS","region":"England","city":"Spondon","latitude":52.91843,"longitude":-1.40385}}(window,'GeoPostal','GB');

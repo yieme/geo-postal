@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["309255"]={"code":"309255","region":"Belgorodskaya oblast'","city":"Novaya Tavolzhanka","latitude":50.35123,"longitude":36.8298}}(window,'GeoPostal','RU');

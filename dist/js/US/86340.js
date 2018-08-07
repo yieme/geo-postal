@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86340"]={"code":"86340","region":"AZ","city":"Sedona","latitude":34.7067,"longitude":-112.3977}}(window,'GeoPostal','US');

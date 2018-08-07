@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15542"]={"code":"15542","region":"Pennsylvania","city":"Garrett","latitude":39.86552,"longitude":-79.062758}}(window,'GeoPostal','US');

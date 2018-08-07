@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38953"]={"code":"38953","region":"MS","city":"Scobey","latitude":33.9253,"longitude":-89.891}}(window,'GeoPostal','US');

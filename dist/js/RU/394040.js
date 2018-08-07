@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394040"]={"code":"394040","region":"Voronezhskaya oblast'","city":"Semiluki","latitude":51.68526,"longitude":39.02787}}(window,'GeoPostal','RU');

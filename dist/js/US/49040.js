@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49040"]={"code":"49040","region":"MI","city":"Colon","latitude":41.9576,"longitude":-85.3306}}(window,'GeoPostal','US');

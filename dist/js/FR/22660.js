@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22660"]={"code":"22660","region":"Bretagne","city":"Trelevern","latitude":48.81071,"longitude":-3.37141}}(window,'GeoPostal','FR');

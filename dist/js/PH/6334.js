@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6334"]={"code":"6334","region":"Bohol","city":"Jandayan","latitude":10.16667,"longitude":124.18333}}(window,'GeoPostal','PH');

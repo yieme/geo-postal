@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58426"]={"code":"58426","region":"ND","city":"Courtenay","latitude":47.2272,"longitude":-98.5489}}(window,'GeoPostal','US');

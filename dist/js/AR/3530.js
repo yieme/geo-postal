@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3530"]={"code":"3530","region":"Chaco","city":"Quitilipi","latitude":-26.86913,"longitude":-60.21683}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20110"]={"code":"20110","region":"Chon Buri","city":"Ko Si Chang","latitude":13.16388,"longitude":100.80547}}(window,'GeoPostal','TH');

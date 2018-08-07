@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607345"]={"code":"607345","region":"Bacau","city":"Negri","latitude":46.7,"longitude":26.96667}}(window,'GeoPostal','RO');

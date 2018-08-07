@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 3SX"]={"code":"YO21 3SX","region":"England","city":"Sandsend","latitude":54.5,"longitude":-0.66667}}(window,'GeoPostal','GB');

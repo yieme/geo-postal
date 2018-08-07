@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45120"]={"code":"45120","region":"Centre-Val de Loire","city":"Cepoy","latitude":48.04795,"longitude":2.73782}}(window,'GeoPostal','FR');

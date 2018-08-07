@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41560"]={"code":"41560","region":"Andalucia","city":"Estepa","latitude":37.29263,"longitude":-4.87896}}(window,'GeoPostal','ES');

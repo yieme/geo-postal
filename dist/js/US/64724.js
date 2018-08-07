@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64724"]={"code":"64724","region":"Missouri","city":"Appleton City","latitude":38.19058,"longitude":-94.02939}}(window,'GeoPostal','US');

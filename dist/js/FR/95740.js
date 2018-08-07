@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95740"]={"code":"95740","region":"Ile-de-France","city":"Frepillon","latitude":49.05216,"longitude":2.20528}}(window,'GeoPostal','FR');

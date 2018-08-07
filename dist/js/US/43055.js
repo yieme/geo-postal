@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43055"]={"code":"43055","region":"Ohio","city":"Newark","latitude":40.05812,"longitude":-82.40126}}(window,'GeoPostal','US');

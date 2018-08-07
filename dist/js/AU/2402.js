@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2402"]={"code":"2402","region":"New South Wales","city":"Warialda","latitude":-29.54354,"longitude":150.57542}}(window,'GeoPostal','AU');

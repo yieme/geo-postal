@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72020"]={"code":"72020","region":"AR","city":"Bradford","latitude":35.4277,"longitude":-91.519}}(window,'GeoPostal','US');

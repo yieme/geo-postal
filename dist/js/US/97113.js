@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97113"]={"code":"97113","region":"OR","city":"Cornelius","latitude":45.529,"longitude":-123.0415}}(window,'GeoPostal','US');

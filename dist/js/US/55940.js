@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55940"]={"code":"55940","region":"MN","city":"Hayfield","latitude":43.8923,"longitude":-92.8175}}(window,'GeoPostal','US');

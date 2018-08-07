@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44471"]={"code":"44471","region":"OH","city":"Struthers","latitude":41.0508,"longitude":-80.5985}}(window,'GeoPostal','US');

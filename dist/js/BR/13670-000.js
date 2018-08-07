@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13670-000"]={"code":"13670-000","region":"Sao Paulo","city":"Santa Rita do Passa Quatro","latitude":-21.71028,"longitude":-47.47806}}(window,'GeoPostal','BR');

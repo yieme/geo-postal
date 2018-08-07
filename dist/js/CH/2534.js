@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2534"]={"code":"2534","region":"Bern","city":"Orvin","latitude":47.16068,"longitude":7.21368}}(window,'GeoPostal','CH');

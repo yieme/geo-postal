@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6285"]={"code":"6285","region":"Western Australia","city":"Margaret River","latitude":-33.9536,"longitude":115.07391}}(window,'GeoPostal','AU');

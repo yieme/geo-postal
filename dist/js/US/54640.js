@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54640"]={"code":"54640","region":"WI","city":"Lynxville","latitude":43.2464,"longitude":-91.0562}}(window,'GeoPostal','US');

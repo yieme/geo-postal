@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94503"]={"code":"94503","region":"California","city":"Vallejo","latitude":38.10409,"longitude":-122.25664}}(window,'GeoPostal','US');

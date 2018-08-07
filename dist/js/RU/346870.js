@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346870"]={"code":"346870","region":"Rostovskaya oblast'","city":"Primorka","latitude":47.28395,"longitude":39.06408}}(window,'GeoPostal','RU');

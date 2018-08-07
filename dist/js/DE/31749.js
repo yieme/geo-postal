@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31749"]={"code":"31749","region":"Niedersachsen","city":"Buckeburg","latitude":52.26065,"longitude":9.04939}}(window,'GeoPostal','DE');

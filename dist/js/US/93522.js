@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93522"]={"code":"93522","region":"CA","city":"Darwin","latitude":36.2948,"longitude":-117.5957}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26104"]={"code":"26104","region":"Kirovohradska oblast","city":"Novoarkhanhel's'k","latitude":48.65803,"longitude":30.81821}}(window,'GeoPostal','UA');

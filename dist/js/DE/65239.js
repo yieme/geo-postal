@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65239"]={"code":"65239","region":"Bayern","city":"Hochheim","latitude":50.36667,"longitude":10.45}}(window,'GeoPostal','DE');

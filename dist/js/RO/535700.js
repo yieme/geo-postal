@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535700"]={"code":"535700","region":"Harghita","city":"Toplita","latitude":46.92603,"longitude":25.353404}}(window,'GeoPostal','RO');

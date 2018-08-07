@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5354"]={"code":"5354","region":"Namur","city":"Ohey","latitude":50.4357,"longitude":5.12375}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 9EG"]={"code":"LE7 9EG","region":"England","city":"Illston on the Hill","latitude":52.58803,"longitude":-0.95547}}(window,'GeoPostal','GB');

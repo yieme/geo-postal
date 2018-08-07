@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10013"]={"code":"10013","region":"Piemonte","city":"Borgofranco d'Ivrea","latitude":45.51286,"longitude":7.85802}}(window,'GeoPostal','IT');

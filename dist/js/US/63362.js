@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63362"]={"code":"63362","region":"MO","city":"Moscow Mills","latitude":38.9482,"longitude":-90.9138}}(window,'GeoPostal','US');

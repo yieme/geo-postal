@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91713"]={"code":"91713","region":"Ile-de-France","city":"Sainte-Genevieve-des-Bois","latitude":48.64682,"longitude":2.31965}}(window,'GeoPostal','FR');

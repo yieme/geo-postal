@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS15 0AA"]={"code":"TS15 0AA","region":"England","city":"Picton","latitude":54.45,"longitude":-1.35}}(window,'GeoPostal','GB');

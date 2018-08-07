@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["256 01"]={"code":"256 01","region":"Stredocesky kraj","city":"Benesov","latitude":49.78162,"longitude":14.68697}}(window,'GeoPostal','CZ');

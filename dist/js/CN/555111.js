@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["555111"]={"code":"555111","region":"Guizhou","city":"Shiqian","latitude":27.5225,"longitude":108.22806}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4186"]={"code":"4186","region":"Kwazulu-Natal","city":"Scottburgh","latitude":-30.28666,"longitude":30.75316}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81700"]={"code":"81700","region":"Sakarya","city":"Karapurcek","latitude":40.64194,"longitude":30.53944}}(window,'GeoPostal','TR');

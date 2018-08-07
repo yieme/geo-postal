@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62780"]={"code":"62780","region":"Hauts-de-France","city":"Cucq","latitude":50.47733,"longitude":1.62018}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3939"]={"code":"3939","region":"Victoria","city":"Boneo","latitude":-38.41667,"longitude":144.88333}}(window,'GeoPostal','AU');

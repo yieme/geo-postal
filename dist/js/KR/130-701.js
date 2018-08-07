@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130-701"]={"code":"130-701","region":"Seoul-teukbyeolsi","city":"Seoul","latitude":37.56826,"longitude":126.97783}}(window,'GeoPostal','KR');

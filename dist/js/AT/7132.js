@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7132"]={"code":"7132","region":"Burgenland","city":"Frauenkirchen","latitude":47.83678,"longitude":16.92581}}(window,'GeoPostal','AT');

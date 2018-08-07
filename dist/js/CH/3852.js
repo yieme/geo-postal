@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3852"]={"code":"3852","region":"Bern","city":"Ringgenberg","latitude":46.70114,"longitude":7.89445}}(window,'GeoPostal','CH');

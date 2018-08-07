@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10310"]={"code":"10310","region":"Extremadura","city":"Talayuela","latitude":39.98701,"longitude":-5.60982}}(window,'GeoPostal','ES');

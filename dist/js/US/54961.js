@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54961"]={"code":"54961","region":"Wisconsin","city":"New London","latitude":44.39276,"longitude":-88.73983}}(window,'GeoPostal','US');

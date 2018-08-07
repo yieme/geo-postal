@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35136"]={"code":"35136","region":"AL","city":"Rockford","latitude":32.878,"longitude":-86.24}}(window,'GeoPostal','US');

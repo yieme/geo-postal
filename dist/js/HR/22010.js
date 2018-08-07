@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22010"]={"code":"22010","region":"Sibensko-kninska zupanija","city":"Brodarica","latitude":43.68,"longitude":15.91972}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75949"]={"code":"75949","region":"TX","city":"Huntington","latitude":31.2837,"longitude":-94.5662}}(window,'GeoPostal','US');

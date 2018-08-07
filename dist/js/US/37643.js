@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37643"]={"code":"37643","region":"Tennessee","city":"Elizabethton","latitude":36.34872,"longitude":-82.21069}}(window,'GeoPostal','US');

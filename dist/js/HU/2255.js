@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2255"]={"code":"2255","region":"Pest","city":"Szentlorinckata","latitude":47.51947,"longitude":19.75286}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13-300"]={"code":"13-300","region":"Warminsko-mazurskie","city":"Nowe Miasto Lubawskie","latitude":53.42079,"longitude":19.59515}}(window,'GeoPostal','PL');

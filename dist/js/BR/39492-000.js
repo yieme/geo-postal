@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39492-000"]={"code":"39492-000","region":"Minas Gerais","city":"Januaria","latitude":-15.48333,"longitude":-44.36667}}(window,'GeoPostal','BR');

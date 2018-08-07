@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37046"]={"code":"37046","region":"Tennessee","city":"College Grove","latitude":35.7751,"longitude":-86.7142}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 8AS"]={"code":"PE12 8AS","region":"England","city":"Holbeach Clough","latitude":52.82476,"longitude":-0.01133}}(window,'GeoPostal','GB');

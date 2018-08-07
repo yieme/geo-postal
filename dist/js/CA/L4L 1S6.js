@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L4L 1S6"]={"code":"L4L 1S6","region":"Ontario","city":"Woodbridge","latitude":43.784,"longitude":-79.57345}}(window,'GeoPostal','CA');

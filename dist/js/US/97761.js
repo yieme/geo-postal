@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97761"]={"code":"97761","region":"Oregon","city":"Warm Springs","latitude":44.762492,"longitude":-121.302435}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14843"]={"code":"14843","region":"New York","city":"Hornell","latitude":42.32785,"longitude":-77.6611}}(window,'GeoPostal','US');

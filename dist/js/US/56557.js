@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56557"]={"code":"56557","region":"Minnesota","city":"Mahnomen","latitude":47.31524,"longitude":-95.96865}}(window,'GeoPostal','US');

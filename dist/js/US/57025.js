@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57025"]={"code":"57025","region":"SD","city":"Elk Point","latitude":42.7382,"longitude":-96.687}}(window,'GeoPostal','US');

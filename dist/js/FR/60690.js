@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60690"]={"code":"60690","region":"Hauts-de-France","city":"Marseille-en-Beauvaisis","latitude":49.5764,"longitude":1.9564}}(window,'GeoPostal','FR');

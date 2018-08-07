@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84336"]={"code":"84336","region":"Sonora","city":"Esqueda","latitude":30.71667,"longitude":-109.58333}}(window,'GeoPostal','MX');

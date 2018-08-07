@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516545"]={"code":"516545","region":"Guangdong","city":"Jieshi","latitude":22.81338,"longitude":115.82574}}(window,'GeoPostal','CN');

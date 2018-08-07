@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91002"]={"code":"91002","region":"Tanger-Tetouan","city":"Bab Taza","latitude":35.06166,"longitude":-5.19828}}(window,'GeoPostal','MA');

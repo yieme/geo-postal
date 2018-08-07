@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["900000"]={"code":"900000","region":"Can Tho","city":"Can Tho","latitude":10.03333,"longitude":105.78333}}(window,'GeoPostal','VN');

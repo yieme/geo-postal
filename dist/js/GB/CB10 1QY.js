@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB10 1QY"]={"code":"CB10 1QY","region":"England","city":"Hinxton","latitude":52.08529,"longitude":0.18198}}(window,'GeoPostal','GB');

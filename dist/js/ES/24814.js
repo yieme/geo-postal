@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24814"]={"code":"24814","region":"Castilla y Leon","city":"Cistierna","latitude":42.80344,"longitude":-5.12664}}(window,'GeoPostal','ES');

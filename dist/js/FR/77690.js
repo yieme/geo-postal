@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77690"]={"code":"77690","region":"Ile-de-France","city":"Montigny-sur-Loing","latitude":48.33575,"longitude":2.74423}}(window,'GeoPostal','FR');

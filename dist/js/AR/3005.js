@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3005"]={"code":"3005","region":"Santa Fe","city":"San Javier","latitude":-30.57781,"longitude":-59.9317}}(window,'GeoPostal','AR');

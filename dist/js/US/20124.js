@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20124"]={"code":"20124","region":"Virginia","city":"Clifton","latitude":38.779888,"longitude":-77.387682}}(window,'GeoPostal','US');

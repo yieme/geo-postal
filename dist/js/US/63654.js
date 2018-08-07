@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63654"]={"code":"63654","region":"Missouri","city":"Lesterville","latitude":37.47822,"longitude":-90.83292}}(window,'GeoPostal','US');

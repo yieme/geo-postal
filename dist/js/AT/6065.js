@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6065"]={"code":"6065","region":"Tirol","city":"Thaur","latitude":47.3,"longitude":11.46667}}(window,'GeoPostal','AT');

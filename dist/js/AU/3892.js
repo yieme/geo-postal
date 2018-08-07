@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3892"]={"code":"3892","region":"Victoria","city":"Mallacoota","latitude":-37.55896,"longitude":149.75407}}(window,'GeoPostal','AU');

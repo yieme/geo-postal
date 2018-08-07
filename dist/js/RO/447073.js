@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447073"]={"code":"447073","region":"Satu Mare","city":"Calinesti-Oas","latitude":47.9,"longitude":23.3}}(window,'GeoPostal','RO');

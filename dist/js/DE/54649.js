@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54649"]={"code":"54649","region":"Rheinland-Pfalz","city":"Lambertsberg","latitude":50.08333,"longitude":6.38333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47125"]={"code":"47125","region":"Indiana","city":"Hardinsburg","latitude":38.464428,"longitude":-86.322547}}(window,'GeoPostal','US');

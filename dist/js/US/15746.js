@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15746"]={"code":"15746","region":"PA","city":"Hillsdale","latitude":40.7517,"longitude":-78.885}}(window,'GeoPostal','US');

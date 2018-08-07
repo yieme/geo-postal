@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37500-000"]={"code":"37500-000","region":"Minas Gerais","city":"Itajuba","latitude":-22.42556,"longitude":-45.45278}}(window,'GeoPostal','BR');

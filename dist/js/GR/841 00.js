@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["841 00"]={"code":"841 00","region":"Notio Aigaio","city":"Ano Siros","latitude":37.45,"longitude":24.93333}}(window,'GeoPostal','GR');

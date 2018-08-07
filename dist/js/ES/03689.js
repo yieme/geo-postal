@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03689"]={"code":"03689","region":"Valenciana, Comunidad","city":"Aspe","latitude":38.34511,"longitude":-0.76722}}(window,'GeoPostal','ES');

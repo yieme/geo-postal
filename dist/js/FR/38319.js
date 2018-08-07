@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38319"]={"code":"38319","region":"Auvergne-Rhone-Alpes","city":"Bourgoin-Jallieu","latitude":45.58611,"longitude":5.27361}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24888"]={"code":"24888","region":"WV","city":"Thorpe","latitude":37.3687,"longitude":-81.5165}}(window,'GeoPostal','US');

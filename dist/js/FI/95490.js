@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95490"]={"code":"95490","region":"Lappi","city":"Simo","latitude":65.66667,"longitude":25.05}}(window,'GeoPostal','FI');

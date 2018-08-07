@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11716"]={"code":"11716","region":"New York","city":"Bohemia","latitude":40.769702,"longitude":-73.111545}}(window,'GeoPostal','US');

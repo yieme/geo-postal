@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50476"]={"code":"50476","region":"IA","city":"Stacyville","latitude":43.4457,"longitude":-92.761}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74748"]={"code":"74748","region":"OK","city":"Kenefic","latitude":34.1481,"longitude":-96.3622}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1S0"]={"code":"J0K 1S0","region":"Quebec","city":"Rawdon","latitude":46.05007,"longitude":-73.71587}}(window,'GeoPostal','CA');

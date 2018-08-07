@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SN8 2LX"]={"code":"SN8 2LX","region":"England","city":"Mildenhall","latitude":51.4256,"longitude":-1.69988}}(window,'GeoPostal','GB');

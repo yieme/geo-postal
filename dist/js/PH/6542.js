@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6542"]={"code":"6542","region":"Leyte","city":"Balogo","latitude":10.8868,"longitude":124.7105}}(window,'GeoPostal','PH');

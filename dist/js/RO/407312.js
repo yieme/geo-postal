@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407312"]={"code":"407312","region":"Cluj","city":"Gilau","latitude":46.73245,"longitude":23.36174}}(window,'GeoPostal','RO');

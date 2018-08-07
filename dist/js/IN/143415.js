@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143415"]={"code":"143415","region":"Punjab","city":"Tarn Taran","latitude":31.45,"longitude":74.92528}}(window,'GeoPostal','IN');

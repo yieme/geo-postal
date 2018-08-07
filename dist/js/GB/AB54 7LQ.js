@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 7LQ"]={"code":"AB54 7LQ","region":"Scotland","city":"Glen Barry","latitude":57.56667,"longitude":-2.73333}}(window,'GeoPostal','GB');

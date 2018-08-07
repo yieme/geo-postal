@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["712-908"]={"code":"712-908","region":"Gyeongsangbuk-do","city":"Hayang","latitude":35.91333,"longitude":128.82}}(window,'GeoPostal','KR');

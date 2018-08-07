@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU27 2JY"]={"code":"GU27 2JY","region":"England","city":"Haslemere","latitude":51.09015,"longitude":-0.70785}}(window,'GeoPostal','GB');

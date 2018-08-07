@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78530"]={"code":"78530","region":"Ile-de-France","city":"Buc","latitude":48.77627,"longitude":2.12577}}(window,'GeoPostal','FR');

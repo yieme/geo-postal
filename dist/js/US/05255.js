@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05255"]={"code":"05255","region":"Vermont","city":"Manchester Center","latitude":43.19426,"longitude":-73.066861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8608"]={"code":"8608","region":"Zurich","city":"Bubikon","latitude":47.26698,"longitude":8.8179}}(window,'GeoPostal','CH');

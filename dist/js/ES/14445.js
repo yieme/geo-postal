@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14445"]={"code":"14445","region":"Andalucia","city":"Cardena","latitude":38.27022,"longitude":-4.32358}}(window,'GeoPostal','ES');

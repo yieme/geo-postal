@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51360"]={"code":"51360","region":"Iowa","city":"Spirit Lake","latitude":43.42218,"longitude":-95.10222}}(window,'GeoPostal','US');

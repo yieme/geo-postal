@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80430"]={"code":"80430","region":"Hauts-de-France","city":"Beaucamps-le-Jeune","latitude":49.8169,"longitude":1.7728}}(window,'GeoPostal','FR');

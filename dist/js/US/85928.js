@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85928"]={"code":"85928","region":"Arizona","city":"Heber","latitude":34.42947,"longitude":-110.542186}}(window,'GeoPostal','US');

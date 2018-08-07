@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30201"]={"code":"30201","region":"Lavalleja","city":"Jose Batlle y Ordonez","latitude":-33.46667,"longitude":-55.11667}}(window,'GeoPostal','UY');

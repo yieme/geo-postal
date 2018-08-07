@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 24"]={"code":"338 24","region":"Plzensky kraj","city":"Brasy","latitude":49.837,"longitude":13.57833}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60954"]={"code":"60954","region":"Illinois","city":"Momence","latitude":41.163137,"longitude":-87.663088}}(window,'GeoPostal','US');

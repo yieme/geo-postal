@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48624"]={"code":"48624","region":"Michigan","city":"Gladwin","latitude":44.038903,"longitude":-84.45715}}(window,'GeoPostal','US');

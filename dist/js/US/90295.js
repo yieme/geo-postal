@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90295"]={"code":"90295","region":"California","city":"Marina del Rey","latitude":33.9786,"longitude":-118.43808}}(window,'GeoPostal','US');

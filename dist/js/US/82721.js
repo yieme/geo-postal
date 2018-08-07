@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82721"]={"code":"82721","region":"Wyoming","city":"Moorcroft","latitude":44.26331,"longitude":-104.95025}}(window,'GeoPostal','US');

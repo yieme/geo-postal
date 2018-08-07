@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353407"]={"code":"353407","region":"Krasnodarskiy kray","city":"Sukko","latitude":44.79945,"longitude":37.42145}}(window,'GeoPostal','RU');

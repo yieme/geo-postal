@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2711"]={"code":"2711","region":"New South Wales","city":"Booligal","latitude":-33.86667,"longitude":144.88333}}(window,'GeoPostal','AU');

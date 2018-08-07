@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49058"]={"code":"49058","region":"Michigan","city":"Hastings","latitude":42.640666,"longitude":-85.296891}}(window,'GeoPostal','US');

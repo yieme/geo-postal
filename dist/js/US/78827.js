@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78827"]={"code":"78827","region":"Texas","city":"Asherton","latitude":28.4436,"longitude":-99.75894}}(window,'GeoPostal','US');

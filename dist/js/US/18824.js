@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18824"]={"code":"18824","region":"Pennsylvania","city":"Hop Bottom","latitude":41.694869,"longitude":-75.804496}}(window,'GeoPostal','US');

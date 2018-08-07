@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH26 3LP"]={"code":"PH26 3LP","region":"Scotland","city":"Advie","latitude":57.39306,"longitude":-3.45244}}(window,'GeoPostal','GB');

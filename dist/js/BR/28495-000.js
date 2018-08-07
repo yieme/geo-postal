@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28495-000"]={"code":"28495-000","region":"Rio de Janeiro","city":"Itaocara","latitude":-21.66917,"longitude":-42.07611}}(window,'GeoPostal','BR');

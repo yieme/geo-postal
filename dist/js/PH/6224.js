@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6224"]={"code":"6224","region":"Bohol","city":"Buenavista","latitude":9.84056,"longitude":124.2225}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242225"]={"code":"242225","region":"Uttar Pradesh","city":"Shahjahanpur","latitude":27.88333,"longitude":79.91667}}(window,'GeoPostal','IN');

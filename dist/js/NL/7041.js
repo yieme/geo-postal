@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7041"]={"code":"7041","region":"Gelderland","city":"'s-Heerenberg","latitude":51.8767,"longitude":6.25877}}(window,'GeoPostal','NL');

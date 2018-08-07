@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06021"]={"code":"06021","region":"CT","city":"Colebrook","latitude":41.9895,"longitude":-73.0957}}(window,'GeoPostal','US');

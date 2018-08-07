@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13092"]={"code":"13092","region":"NY","city":"Locke","latitude":42.6558,"longitude":-76.4154}}(window,'GeoPostal','US');

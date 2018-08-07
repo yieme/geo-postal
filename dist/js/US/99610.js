@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99610"]={"code":"99610","region":"AK","city":"Kasilof","latitude":60.3164,"longitude":-151.2896}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94230"]={"code":"94230","region":"Auvergne-Rhone-Alpes","city":"Chantelle","latitude":46.23592,"longitude":3.15208}}(window,'GeoPostal','FR');

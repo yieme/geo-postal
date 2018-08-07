@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 1EQ"]={"code":"NE48 1EQ","region":"England","city":"Kielder","latitude":55.23448,"longitude":-2.58538}}(window,'GeoPostal','GB');

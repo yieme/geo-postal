@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54141"]={"code":"54141","region":"WI","city":"Little Suamico","latitude":44.7175,"longitude":-88.0093}}(window,'GeoPostal','US');

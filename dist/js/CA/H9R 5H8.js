@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["H9R 5H8"]={"code":"H9R 5H8","region":"Quebec","city":"Pointe-Claire","latitude":45.473758,"longitude":-73.806047}}(window,'GeoPostal','CA');

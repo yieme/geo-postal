@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88068"]={"code":"88068","region":"Calabria","city":"Soverato Marina","latitude":38.68498,"longitude":16.54991}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52039"]={"code":"52039","region":"IA","city":"Durango","latitude":42.5526,"longitude":-90.8608}}(window,'GeoPostal','US');

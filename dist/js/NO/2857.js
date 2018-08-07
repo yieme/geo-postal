@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2857"]={"code":"2857","region":"Oppland","city":"Skreia","latitude":60.65,"longitude":10.93333}}(window,'GeoPostal','NO');

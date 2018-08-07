@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10953"]={"code":"10953","region":"NY","city":"Mountainville","latitude":41.4009,"longitude":-74.0785}}(window,'GeoPostal','US');

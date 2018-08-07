@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68429"]={"code":"68429","region":"NE","city":"Reynolds","latitude":40.0598,"longitude":-97.3806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2189"]={"code":"2189","region":"Cordoba","city":"Cruz Alta","latitude":-33.00887,"longitude":-61.80746}}(window,'GeoPostal','AR');

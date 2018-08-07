@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96048"]={"code":"96048","region":"CA","city":"Junction City","latitude":40.7411,"longitude":-123.0718}}(window,'GeoPostal','US');

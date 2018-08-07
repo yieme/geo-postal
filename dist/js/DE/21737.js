@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21737"]={"code":"21737","region":"Niedersachsen","city":"Wolfsbruch","latitude":53.74569,"longitude":9.33146}}(window,'GeoPostal','DE');

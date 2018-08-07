@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["CG"]={'':{r:'Pointe-Noire',c:'Pointe-Noire'}};

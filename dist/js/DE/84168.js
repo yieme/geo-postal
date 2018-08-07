@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84168"]={"code":"84168","region":"Bayern","city":"Prosmering","latitude":48.50665,"longitude":12.49971}}(window,'GeoPostal','DE');

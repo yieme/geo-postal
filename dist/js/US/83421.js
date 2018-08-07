@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83421"]={"code":"83421","region":"ID","city":"Chester","latitude":44.0011,"longitude":-111.5351}}(window,'GeoPostal','US');

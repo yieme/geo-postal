@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 6TA"]={"code":"IP13 6TA","region":"England","city":"Grundisburgh","latitude":52.11222,"longitude":1.24618}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT8 8RN"]={"code":"CT8 8RN","region":"England","city":"Westgate on Sea","latitude":51.38239,"longitude":1.33673}}(window,'GeoPostal','GB');

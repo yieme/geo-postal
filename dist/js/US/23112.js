@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23112"]={"code":"23112","region":"Virginia","city":"Midlothian","latitude":37.431472,"longitude":-77.648361}}(window,'GeoPostal','US');

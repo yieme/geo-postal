@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90209"]={"code":"90209","region":"Zakarpatska oblast","city":"Berehove","latitude":48.20555,"longitude":22.64418}}(window,'GeoPostal','UA');

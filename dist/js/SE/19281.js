@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19281"]={"code":"19281","region":"Stockholms lan","city":"Sollentuna","latitude":59.42804,"longitude":17.95093}}(window,'GeoPostal','SE');

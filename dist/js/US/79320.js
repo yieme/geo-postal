@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79320"]={"code":"79320","region":"TX","city":"Bula","latitude":33.86,"longitude":-102.67}}(window,'GeoPostal','US');

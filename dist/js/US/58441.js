@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58441"]={"code":"58441","region":"ND","city":"Fullerton","latitude":46.1951,"longitude":-98.3882}}(window,'GeoPostal','US');

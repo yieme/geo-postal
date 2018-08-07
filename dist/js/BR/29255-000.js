@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29255-000"]={"code":"29255-000","region":"Espirito Santo","city":"Domingos Martins","latitude":-20.36333,"longitude":-40.65917}}(window,'GeoPostal','BR');

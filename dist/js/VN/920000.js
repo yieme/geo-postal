@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["920000"]={"code":"920000","region":"Kien Giang","city":"Rach Gia","latitude":10.01667,"longitude":105.08333}}(window,'GeoPostal','VN');

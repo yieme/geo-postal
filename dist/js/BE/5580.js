@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5580"]={"code":"5580","region":"Namur","city":"Rochefort","latitude":50.1631,"longitude":5.2216}}(window,'GeoPostal','BE');

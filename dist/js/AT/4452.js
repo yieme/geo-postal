@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4452"]={"code":"4452","region":"Oberosterreich","city":"Ternberg","latitude":47.93333,"longitude":14.35}}(window,'GeoPostal','AT');

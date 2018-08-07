@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1X0"]={"code":"K0L 1X0","region":"Ontario","city":"Moffat Pond","latitude":45.21618,"longitude":-78.11884}}(window,'GeoPostal','CA');

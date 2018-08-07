@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-420"]={"code":"83-420","region":"Pomorskie","city":"Liniewo","latitude":54.07661,"longitude":18.22675}}(window,'GeoPostal','PL');

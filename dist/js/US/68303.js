@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68303"]={"code":"68303","region":"NE","city":"Alexandria","latitude":40.2614,"longitude":-97.4039}}(window,'GeoPostal','US');

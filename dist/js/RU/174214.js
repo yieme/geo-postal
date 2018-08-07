@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174214"]={"code":"174214","region":"Novgorodskaya oblast'","city":"Krasnofarfornyy","latitude":59.1364,"longitude":31.85023}}(window,'GeoPostal','RU');

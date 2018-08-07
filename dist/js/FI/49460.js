@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49460"]={"code":"49460","region":"Kymenlaakso","city":"Hamina","latitude":60.56974,"longitude":27.19794}}(window,'GeoPostal','FI');

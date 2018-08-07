@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["602263"]={"code":"602263","region":"Nizhegorodskaya oblast'","city":"Navashino","latitude":55.52917,"longitude":42.20028}}(window,'GeoPostal','RU');

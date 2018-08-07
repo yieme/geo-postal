@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96134"]={"code":"96134","region":"California","city":"Tulelake","latitude":41.95599,"longitude":-121.47749}}(window,'GeoPostal','US');

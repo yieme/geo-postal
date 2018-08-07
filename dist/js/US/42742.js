@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42742"]={"code":"42742","region":"Kentucky","city":"Gradyville","latitude":37.04775,"longitude":-85.436245}}(window,'GeoPostal','US');

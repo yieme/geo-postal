@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68196"]={"code":"68196","region":"Varmlands lan","city":"Kristinehamn","latitude":59.30978,"longitude":14.10808}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52151"]={"code":"52151","region":"Iowa","city":"Lansing","latitude":43.36139,"longitude":-91.22333}}(window,'GeoPostal','US');

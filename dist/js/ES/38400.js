@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38400"]={"code":"38400","region":"Canarias","city":"Puerto de la Cruz","latitude":28.41397,"longitude":-16.54867}}(window,'GeoPostal','ES');

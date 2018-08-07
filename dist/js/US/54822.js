@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54822"]={"code":"54822","region":"Wisconsin","city":"Cameron","latitude":45.40857,"longitude":-91.74406}}(window,'GeoPostal','US');

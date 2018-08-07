@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48636"]={"code":"48636","region":"Michigan","city":"Luzerne","latitude":44.635592,"longitude":-84.252277}}(window,'GeoPostal','US');

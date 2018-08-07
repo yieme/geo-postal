@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14005"]={"code":"14005","region":"New York","city":"Alexander","latitude":42.918196,"longitude":-78.254335}}(window,'GeoPostal','US');

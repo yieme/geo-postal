@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12036"]={"code":"12036","region":"New York","city":"Charlotteville","latitude":42.545278,"longitude":-74.665}}(window,'GeoPostal','US');

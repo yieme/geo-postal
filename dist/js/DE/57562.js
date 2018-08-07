@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57562"]={"code":"57562","region":"Rheinland-Pfalz","city":"Seelenberg","latitude":50.78333,"longitude":7.96667}}(window,'GeoPostal','DE');

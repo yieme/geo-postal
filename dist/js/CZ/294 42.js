@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 42"]={"code":"294 42","region":"Stredocesky kraj","city":"Lustenice","latitude":50.32296,"longitude":14.93667}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04926"]={"code":"04926","region":"ME","city":"China Village","latitude":44.8526,"longitude":-69.502}}(window,'GeoPostal','US');

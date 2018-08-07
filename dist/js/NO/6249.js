@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6249"]={"code":"6249","region":"More og Romsdal","city":"Sjoholt","latitude":62.48371,"longitude":6.81062}}(window,'GeoPostal','NO');

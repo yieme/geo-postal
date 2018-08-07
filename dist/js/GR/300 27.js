@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 27"]={"code":"300 27","region":"Dytiki Ellada","city":"Megali Khora","latitude":38.63333,"longitude":21.36667}}(window,'GeoPostal','GR');

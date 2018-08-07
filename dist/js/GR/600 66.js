@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600 66"]={"code":"600 66","region":"Kentriki Makedonia","city":"Makrygialos","latitude":40.41639,"longitude":22.60278}}(window,'GeoPostal','GR');

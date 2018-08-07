@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01010"]={"code":"01010","region":"Guatemala","city":"Guatemala City","latitude":14.64072,"longitude":-90.51327}}(window,'GeoPostal','GT');

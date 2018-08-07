@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98693"]={"code":"98693","region":"Thuringen","city":"Ilmenau","latitude":50.68322,"longitude":10.91858}}(window,'GeoPostal','DE');

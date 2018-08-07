@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 3SB"]={"code":"DT6 3SB","region":"England","city":"Loders","latitude":50.74531,"longitude":-2.71681}}(window,'GeoPostal','GB');

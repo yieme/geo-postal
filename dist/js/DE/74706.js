@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74706"]={"code":"74706","region":"Baden-Wurttemberg","city":"Osterburken","latitude":49.42998,"longitude":9.42252}}(window,'GeoPostal','DE');

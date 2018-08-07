@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44262"]={"code":"44262","region":"OH","city":"Munroe Falls","latitude":41.142,"longitude":-81.4376}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE10 0RD"]={"code":"PE10 0RD","region":"England","city":"Hanthorpe","latitude":52.80229,"longitude":-0.39139}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471001"]={"code":"471001","region":"Madhya Pradesh","city":"Chhatarpur","latitude":24.9,"longitude":79.6}}(window,'GeoPostal','IN');

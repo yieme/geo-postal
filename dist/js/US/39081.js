@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39081"]={"code":"39081","region":"MS","city":"Harriston","latitude":31.74,"longitude":-91.0509}}(window,'GeoPostal','US');

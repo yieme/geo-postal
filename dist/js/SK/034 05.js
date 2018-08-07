@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["034 05"]={"code":"034 05","region":"Zilinsky kraj","city":"Ruzomberok","latitude":49.0748,"longitude":19.30751}}(window,'GeoPostal','SK');

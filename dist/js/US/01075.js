@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01075"]={"code":"01075","region":"Massachusetts","city":"South Hadley","latitude":42.25332,"longitude":-72.5799}}(window,'GeoPostal','US');

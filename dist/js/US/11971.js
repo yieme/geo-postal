@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11971"]={"code":"11971","region":"New York","city":"Southold","latitude":41.06482,"longitude":-72.4262}}(window,'GeoPostal','US');

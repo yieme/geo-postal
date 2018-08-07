@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30107"]={"code":"30107","region":"Georgia","city":"Ball Ground","latitude":34.3346,"longitude":-84.3465}}(window,'GeoPostal','US');

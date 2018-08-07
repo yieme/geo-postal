@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666904"]={"code":"666904","region":"Irkutskaya oblast'","city":"Bodaybo","latitude":57.85056,"longitude":114.19333}}(window,'GeoPostal','RU');

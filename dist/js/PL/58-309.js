@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-309"]={"code":"58-309","region":"Dolnoslaskie","city":"Walbrzych","latitude":50.77141,"longitude":16.28432}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692150"]={"code":"692150","region":"Primorskiy kray","city":"Terney","latitude":45.05028,"longitude":136.60917}}(window,'GeoPostal','RU');

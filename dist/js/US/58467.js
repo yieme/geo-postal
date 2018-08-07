@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58467"]={"code":"58467","region":"North Dakota","city":"Medina","latitude":46.89384,"longitude":-99.29754}}(window,'GeoPostal','US');

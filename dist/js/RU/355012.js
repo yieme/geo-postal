@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["355012"]={"code":"355012","region":"Stavropol'skiy kray","city":"Stavropol'","latitude":45.0428,"longitude":41.9734}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19478"]={"code":"19478","region":"Pennsylvania","city":"Spring Mount","latitude":40.27566,"longitude":-75.45657}}(window,'GeoPostal','US');

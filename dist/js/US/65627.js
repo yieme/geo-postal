@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65627"]={"code":"65627","region":"MO","city":"Cedarcreek","latitude":36.571,"longitude":-93.0172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39701"]={"code":"39701","region":"Mississippi","city":"Columbus","latitude":33.53766,"longitude":-88.46238}}(window,'GeoPostal','US');

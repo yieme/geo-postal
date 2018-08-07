@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453509"]={"code":"453509","region":"Bashkortostan, Respublika","city":"Beloretsk","latitude":53.96306,"longitude":58.39806}}(window,'GeoPostal','RU');

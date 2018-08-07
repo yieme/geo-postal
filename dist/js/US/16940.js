@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16940"]={"code":"16940","region":"PA","city":"Nelson","latitude":41.9787,"longitude":-77.2419}}(window,'GeoPostal','US');

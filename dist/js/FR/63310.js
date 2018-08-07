@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63310"]={"code":"63310","region":"Auvergne-Rhone-Alpes","city":"Randan","latitude":46.01595,"longitude":3.35522}}(window,'GeoPostal','FR');

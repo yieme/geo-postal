@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55381"]={"code":"55381","region":"Minnesota","city":"Silver Lake","latitude":44.903987,"longitude":-94.197583}}(window,'GeoPostal','US');

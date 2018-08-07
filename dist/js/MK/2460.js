@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2460"]={"code":"2460","region":"Valandovo","city":"Valandovo","latitude":41.31694,"longitude":22.56111}}(window,'GeoPostal','MK');

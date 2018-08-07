@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59747"]={"code":"59747","region":"MT","city":"Pony","latitude":45.6585,"longitude":-111.8944}}(window,'GeoPostal','US');

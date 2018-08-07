@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95369"]={"code":"95369","region":"CA","city":"Snelling","latitude":37.5354,"longitude":-120.378}}(window,'GeoPostal','US');

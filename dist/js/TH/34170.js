@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34170"]={"code":"34170","region":"Ubon Ratchathani","city":"Khemarat","latitude":16.04252,"longitude":105.21836}}(window,'GeoPostal','TH');

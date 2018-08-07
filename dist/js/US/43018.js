@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43018"]={"code":"43018","region":"OH","city":"Etna","latitude":39.9572,"longitude":-82.6837}}(window,'GeoPostal','US');

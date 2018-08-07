@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL28 4AW"]={"code":"LL28 4AW","region":"Wales","city":"Llandrillo-yn-Rhos","latitude":53.3,"longitude":-3.75}}(window,'GeoPostal','GB');

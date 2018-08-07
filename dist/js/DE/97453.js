@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97453"]={"code":"97453","region":"Bayern","city":"Marktsteinach","latitude":50.06956,"longitude":10.34671}}(window,'GeoPostal','DE');

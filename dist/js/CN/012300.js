@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["012300"]={"code":"012300","region":"Nei Mongol","city":"Zhuozishan","latitude":40.89917,"longitude":112.56028}}(window,'GeoPostal','CN');

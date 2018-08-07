@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE20 2NH"]={"code":"PE20 2NH","region":"England","city":"Wigtoft","latitude":52.90818,"longitude":-0.12291}}(window,'GeoPostal','GB');

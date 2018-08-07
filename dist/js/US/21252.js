@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21252"]={"code":"21252","region":"Maryland","city":"Towson","latitude":39.39331,"longitude":-76.61117}}(window,'GeoPostal','US');

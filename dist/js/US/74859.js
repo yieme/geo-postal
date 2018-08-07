@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74859"]={"code":"74859","region":"Oklahoma","city":"Okemah","latitude":35.43259,"longitude":-96.30501}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77070"]={"code":"77070","region":"Dalarnas lan","city":"Langshyttan","latitude":60.45,"longitude":16.01667}}(window,'GeoPostal','SE');

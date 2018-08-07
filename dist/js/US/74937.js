@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74937"]={"code":"74937","region":"Oklahoma","city":"Heavener","latitude":34.88927,"longitude":-94.60078}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16430"]={"code":"16430","region":"Nouvelle-Aquitaine","city":"Balzac","latitude":45.7,"longitude":0.11667}}(window,'GeoPostal','FR');

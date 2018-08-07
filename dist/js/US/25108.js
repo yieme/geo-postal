@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25108"]={"code":"25108","region":"WV","city":"Hewett","latitude":37.9581,"longitude":-81.8509}}(window,'GeoPostal','US');

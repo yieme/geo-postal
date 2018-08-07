@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30130"]={"code":"30130","region":"Murcia, Region de","city":"Beniel","latitude":38.04636,"longitude":-1.00233}}(window,'GeoPostal','ES');

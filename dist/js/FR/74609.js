@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74609"]={"code":"74609","region":"Auvergne-Rhone-Alpes","city":"Seynod","latitude":45.88549,"longitude":6.08831}}(window,'GeoPostal','FR');

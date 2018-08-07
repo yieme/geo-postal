@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74463"]={"code":"74463","region":"OK","city":"Taft","latitude":35.7581,"longitude":-95.5494}}(window,'GeoPostal','US');

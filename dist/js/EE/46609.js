@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46609"]={"code":"46609","region":"Laane-Virumaa","city":"Vinni","latitude":59.29583,"longitude":26.43222}}(window,'GeoPostal','EE');

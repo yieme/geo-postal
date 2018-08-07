@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 4JU"]={"code":"SY4 4JU","region":"England","city":"Shawbury","latitude":52.78333,"longitude":-2.65}}(window,'GeoPostal','GB');

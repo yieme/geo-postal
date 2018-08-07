@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-930"]={"code":"59-930","region":"Dolnoslaskie","city":"Piensk","latitude":51.249,"longitude":15.04685}}(window,'GeoPostal','PL');

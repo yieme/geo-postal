@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5504"]={"code":"5504","region":"Namur","city":"Dinant","latitude":50.25807,"longitude":4.91166}}(window,'GeoPostal','BE');

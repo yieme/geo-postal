@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27846"]={"code":"27846","region":"North Carolina","city":"Jamesville","latitude":35.81056,"longitude":-76.89778}}(window,'GeoPostal','US');

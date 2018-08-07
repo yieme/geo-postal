@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76257"]={"code":"76257","region":"Federacija Bosne i Hercegovine","city":"Donja Medida","latitude":44.8025,"longitude":18.40333}}(window,'GeoPostal','BA');

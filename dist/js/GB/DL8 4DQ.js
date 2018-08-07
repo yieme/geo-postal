@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 4DQ"]={"code":"DL8 4DQ","region":"England","city":"Carperby","latitude":54.30336,"longitude":-1.9909}}(window,'GeoPostal','GB');

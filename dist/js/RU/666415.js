@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666415"]={"code":"666415","region":"Irkutskaya oblast'","city":"Zhigalovo","latitude":54.80972,"longitude":105.15778}}(window,'GeoPostal','RU');

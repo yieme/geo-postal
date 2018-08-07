@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25031"]={"code":"25031","region":"Bourgogne-Franche-Comte","city":"Besancon","latitude":47.24878,"longitude":6.01815}}(window,'GeoPostal','FR');

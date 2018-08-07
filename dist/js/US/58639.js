@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58639"]={"code":"58639","region":"North Dakota","city":"Hettinger","latitude":46.00139,"longitude":-102.63682}}(window,'GeoPostal','US');

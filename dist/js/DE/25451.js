@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25451"]={"code":"25451","region":"Schleswig-Holstein","city":"Quickborn","latitude":53.72831,"longitude":9.90934}}(window,'GeoPostal','DE');

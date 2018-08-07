@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227200"]={"code":"227200","region":"Prahova","city":"Floresti","latitude":44.76306,"longitude":22.94778}}(window,'GeoPostal','RO');

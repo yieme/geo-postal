@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35832"]={"code":"35832","region":"Bretagne","city":"Betton","latitude":48.18048,"longitude":-1.63829}}(window,'GeoPostal','FR');

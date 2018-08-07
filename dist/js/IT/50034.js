@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50034"]={"code":"50034","region":"Toscana","city":"Marradi","latitude":44.07456,"longitude":11.61212}}(window,'GeoPostal','IT');

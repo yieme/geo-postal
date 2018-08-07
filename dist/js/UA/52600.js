@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52600"]={"code":"52600","region":"Dnipropetrovska oblast","city":"Petrykivka","latitude":48.72978,"longitude":34.63513}}(window,'GeoPostal','UA');

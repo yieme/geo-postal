@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36596"]={"code":"36596","region":"Galicia","city":"Lalin","latitude":42.66085,"longitude":-8.11285}}(window,'GeoPostal','ES');

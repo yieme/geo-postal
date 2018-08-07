@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26416"]={"code":"26416","region":"WV","city":"Philippi","latitude":39.1613,"longitude":-80.0492}}(window,'GeoPostal','US');

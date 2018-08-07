@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671610"]={"code":"671610","region":"Buryatiya, Respublika","city":"Barguzin","latitude":53.61667,"longitude":109.61667}}(window,'GeoPostal','RU');

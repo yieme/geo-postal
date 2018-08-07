@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81034"]={"code":"81034","region":"CO","city":"Crowley","latitude":38.1931,"longitude":-103.8561}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73491"]={"code":"73491","region":"OK","city":"Velma","latitude":34.4565,"longitude":-97.6689}}(window,'GeoPostal','US');

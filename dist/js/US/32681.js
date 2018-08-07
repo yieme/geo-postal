@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32681"]={"code":"32681","region":"FL","city":"Orange Lake","latitude":29.4236,"longitude":-82.2168}}(window,'GeoPostal','US');

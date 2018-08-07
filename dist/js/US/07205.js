@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07205"]={"code":"07205","region":"New Jersey","city":"Hillside","latitude":40.69565,"longitude":-74.229946}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141270"]={"code":"141270","region":"Moskovskaya oblast'","city":"Sofrino","latitude":56.15,"longitude":37.96667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4715"]={"code":"4715","region":"Noord-Brabant","city":"Rucphen","latitude":51.53167,"longitude":4.55833}}(window,'GeoPostal','NL');

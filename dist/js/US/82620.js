@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82620"]={"code":"82620","region":"Wyoming","city":"Alcova","latitude":42.527352,"longitude":-106.776598}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4492"]={"code":"4492","region":"Queensland","city":"Thargomindah","latitude":-27.99498,"longitude":143.82391}}(window,'GeoPostal','AU');

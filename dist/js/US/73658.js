@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73658"]={"code":"73658","region":"OK","city":"Oakwood","latitude":35.9328,"longitude":-98.7065}}(window,'GeoPostal','US');

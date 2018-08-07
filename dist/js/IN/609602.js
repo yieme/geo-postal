@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["609602"]={"code":"609602","region":"Puducherry","city":"Karaikal","latitude":10.91667,"longitude":79.83333}}(window,'GeoPostal','IN');

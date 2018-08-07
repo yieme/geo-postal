@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61873"]={"code":"61873","region":"IL","city":"Saint Joseph","latitude":40.1207,"longitude":-88.0472}}(window,'GeoPostal','US');

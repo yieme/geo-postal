@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["246425"]={"code":"246425","region":"Uttarakhand","city":"Rudraprayag","latitude":30.28333,"longitude":78.98333}}(window,'GeoPostal','IN');

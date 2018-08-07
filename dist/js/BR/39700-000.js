@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39700-000"]={"code":"39700-000","region":"Minas Gerais","city":"Pecanha","latitude":-18.54861,"longitude":-42.55694}}(window,'GeoPostal','BR');

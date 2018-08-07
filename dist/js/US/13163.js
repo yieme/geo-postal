@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13163"]={"code":"13163","region":"NY","city":"Wampsville","latitude":43.0753,"longitude":-75.7069}}(window,'GeoPostal','US');

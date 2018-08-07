@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4123"]={"code":"4123","region":"Basel-Landschaft","city":"Allschwil","latitude":47.55074,"longitude":7.53599}}(window,'GeoPostal','CH');

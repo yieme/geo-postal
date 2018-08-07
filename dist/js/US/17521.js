@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17521"]={"code":"17521","region":"PA","city":"Elm","latitude":40.2044,"longitude":-76.3464}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["747 74"]={"code":"747 74","region":"Jihocesky kraj","city":"Holasovice","latitude":49.99843,"longitude":17.80847}}(window,'GeoPostal','CZ');

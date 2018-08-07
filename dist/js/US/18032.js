@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18032"]={"code":"18032","region":"Pennsylvania","city":"Catasauqua","latitude":40.65482,"longitude":-75.47463}}(window,'GeoPostal','US');

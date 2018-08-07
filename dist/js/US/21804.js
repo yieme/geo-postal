@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21804"]={"code":"21804","region":"Maryland","city":"Salisbury","latitude":38.358027,"longitude":-75.537231}}(window,'GeoPostal','US');

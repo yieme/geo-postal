@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43260"]={"code":"43260","region":"Punjab","city":"Pindi Gheb","latitude":33.24024,"longitude":72.26609}}(window,'GeoPostal','PK');

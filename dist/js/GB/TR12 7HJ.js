@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR12 7HJ"]={"code":"TR12 7HJ","region":"England","city":"Mullion","latitude":50.02706,"longitude":-5.24248}}(window,'GeoPostal','GB');

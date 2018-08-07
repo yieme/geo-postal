@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 0T0"]={"code":"R0J 0T0","region":"Manitoba","city":"Gladstone","latitude":50.22583,"longitude":-98.95078}}(window,'GeoPostal','CA');

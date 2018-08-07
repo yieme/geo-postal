@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72512"]={"code":"72512","region":"Arkansas","city":"Horseshoe Bend","latitude":36.22446,"longitude":-91.74882}}(window,'GeoPostal','US');

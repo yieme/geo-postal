@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82420"]={"code":"82420","region":"WY","city":"Cowley","latitude":44.8841,"longitude":-108.4638}}(window,'GeoPostal','US');

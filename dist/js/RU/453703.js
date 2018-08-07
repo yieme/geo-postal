@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453703"]={"code":"453703","region":"Bashkortostan, Respublika","city":"Uchaly","latitude":54.2996,"longitude":59.4521}}(window,'GeoPostal','RU');

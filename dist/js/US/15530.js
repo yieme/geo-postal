@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15530"]={"code":"15530","region":"Pennsylvania","city":"Berlin","latitude":39.920945,"longitude":-78.954554}}(window,'GeoPostal','US');

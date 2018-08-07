@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74862"]={"code":"74862","region":"Baden-Wurttemberg","city":"Binau","latitude":49.36833,"longitude":9.05806}}(window,'GeoPostal','DE');

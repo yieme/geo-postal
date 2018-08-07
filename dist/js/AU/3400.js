@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3400"]={"code":"3400","region":"Victoria","city":"Horsham","latitude":-36.71131,"longitude":142.19981}}(window,'GeoPostal','AU');

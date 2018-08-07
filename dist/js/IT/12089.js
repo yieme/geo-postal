@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12089"]={"code":"12089","region":"Piemonte","city":"Villanova Mondovi","latitude":44.34693,"longitude":7.76634}}(window,'GeoPostal','IT');

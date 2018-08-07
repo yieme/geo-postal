@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 5QA"]={"code":"DT6 5QA","region":"England","city":"Marshwood","latitude":50.79311,"longitude":-2.87761}}(window,'GeoPostal','GB');

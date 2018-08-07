@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7217"]={"code":"7217","region":"Gelderland","city":"Harfsen","latitude":52.2075,"longitude":6.29722}}(window,'GeoPostal','NL');

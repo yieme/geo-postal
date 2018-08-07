@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR5 3RN"]={"code":"HR5 3RN","region":"England","city":"Titley","latitude":52.23446,"longitude":-2.98104}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD20 8PY"]={"code":"BD20 8PY","region":"England","city":"Glusburn","latitude":53.9,"longitude":-2}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 3N0"]={"code":"G0X 3N0","region":"Quebec","city":"Lac-Edouard","latitude":47.65008,"longitude":-72.26581}}(window,'GeoPostal','CA');

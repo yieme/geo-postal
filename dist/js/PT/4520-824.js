@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520-824"]={"code":"4520-824","region":"Aveiro","city":"Souto","latitude":40.98675,"longitude":-8.6223}}(window,'GeoPostal','PT');

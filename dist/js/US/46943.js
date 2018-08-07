@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46943"]={"code":"46943","region":"IN","city":"Laketon","latitude":40.9743,"longitude":-85.8375}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP24 1PY"]={"code":"IP24 1PY","region":"England","city":"Thompson","latitude":52.53384,"longitude":0.83038}}(window,'GeoPostal','GB');

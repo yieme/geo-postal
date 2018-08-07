@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76567"]={"code":"76567","region":"Texas","city":"Rockdale","latitude":30.654643,"longitude":-97.010372}}(window,'GeoPostal','US');

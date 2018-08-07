@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47264"]={"code":"47264","region":"IN","city":"Norman","latitude":38.9526,"longitude":-86.275}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["397706"]={"code":"397706","region":"Voronezhskaya oblast'","city":"Bobrov","latitude":51.09611,"longitude":40.03333}}(window,'GeoPostal','RU');

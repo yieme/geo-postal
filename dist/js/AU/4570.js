@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4570"]={"code":"4570","region":"Queensland","city":"Gympie","latitude":-26.18979,"longitude":152.66499}}(window,'GeoPostal','AU');

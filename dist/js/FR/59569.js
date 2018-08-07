@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59569"]={"code":"59569","region":"Hauts-de-France","city":"La Madeleine","latitude":50.64603,"longitude":3.07585}}(window,'GeoPostal','FR');

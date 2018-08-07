@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16729"]={"code":"16729","region":"Pennsylvania","city":"Duke Center","latitude":41.950915,"longitude":-78.505196}}(window,'GeoPostal','US');

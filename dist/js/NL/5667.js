@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5667"]={"code":"5667","region":"Noord-Brabant","city":"Geldrop","latitude":51.42167,"longitude":5.55972}}(window,'GeoPostal','NL');

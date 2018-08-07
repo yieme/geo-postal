@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37180"]={"code":"37180","region":"TN","city":"Unionville","latitude":35.6224,"longitude":-86.5639}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76865"]={"code":"76865","region":"TX","city":"Norton","latitude":31.8795,"longitude":-100.1315}}(window,'GeoPostal','US');

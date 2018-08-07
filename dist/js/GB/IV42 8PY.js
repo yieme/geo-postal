@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV42 8PY"]={"code":"IV42 8PY","region":"Scotland","city":"Breakish","latitude":57.23903,"longitude":-5.85434}}(window,'GeoPostal','GB');

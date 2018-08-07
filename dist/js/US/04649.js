@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04649"]={"code":"04649","region":"Maine","city":"Jonesport","latitude":44.53286,"longitude":-67.59833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06038"]={"code":"06038","region":"Umbria","city":"Spello","latitude":42.99424,"longitude":12.66546}}(window,'GeoPostal','IT');

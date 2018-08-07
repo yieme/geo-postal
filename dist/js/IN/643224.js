@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["643224"]={"code":"643224","region":"Tamil Nadu","city":"Naduvattam","latitude":11.48333,"longitude":76.56667}}(window,'GeoPostal','IN');

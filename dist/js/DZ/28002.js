@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28002"]={"code":"28002","region":"M'sila","city":"Sidi Aissa","latitude":35.88548,"longitude":3.77236}}(window,'GeoPostal','DZ');

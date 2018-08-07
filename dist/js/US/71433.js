@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71433"]={"code":"71433","region":"LA","city":"Glenmora","latitude":31.0262,"longitude":-92.616}}(window,'GeoPostal','US');

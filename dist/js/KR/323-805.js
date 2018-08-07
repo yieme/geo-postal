@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323-805"]={"code":"323-805","region":"Chungcheongnam-do","city":"Fuyo","latitude":36.28194,"longitude":126.9125}}(window,'GeoPostal','KR');

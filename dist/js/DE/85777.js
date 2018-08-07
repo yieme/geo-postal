@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85777"]={"code":"85777","region":"Bayern","city":"Gunzenhausen","latitude":48.32333,"longitude":11.60122}}(window,'GeoPostal','DE');

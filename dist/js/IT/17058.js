@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17058"]={"code":"17058","region":"Liguria","city":"Dego","latitude":44.44304,"longitude":8.30595}}(window,'GeoPostal','IT');

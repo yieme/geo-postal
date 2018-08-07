@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0R 2W0"]={"code":"G0R 2W0","region":"Quebec","city":"Mont-Fournier","latitude":47.07056,"longitude":-70.15444}}(window,'GeoPostal','CA');

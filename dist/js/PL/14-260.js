@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14-260"]={"code":"14-260","region":"Warminsko-mazurskie","city":"Lubawa","latitude":53.50428,"longitude":19.74966}}(window,'GeoPostal','PL');

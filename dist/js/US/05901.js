@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05901"]={"code":"05901","region":"Vermont","city":"Canaan","latitude":44.98833,"longitude":-71.55694}}(window,'GeoPostal','US');

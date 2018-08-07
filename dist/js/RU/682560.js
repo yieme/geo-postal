@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682560"]={"code":"682560","region":"Khabarovskiy kray","city":"Chumikan","latitude":54.71833,"longitude":135.315}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51650"]={"code":"51650","region":"IA","city":"Riverton","latitude":40.6629,"longitude":-95.5773}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30560"]={"code":"30560","region":"Occitanie","city":"Saint-Hilaire-de-Brethmas","latitude":44.08003,"longitude":4.12478}}(window,'GeoPostal','FR');

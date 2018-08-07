@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55600"]={"code":"55600","region":"Giresun","city":"Dereli","latitude":40.7378,"longitude":38.44934}}(window,'GeoPostal','TR');

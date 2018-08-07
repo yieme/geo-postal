@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273165"]={"code":"273165","region":"Shandong","city":"Qufu","latitude":35.59667,"longitude":116.99111}}(window,'GeoPostal','CN');

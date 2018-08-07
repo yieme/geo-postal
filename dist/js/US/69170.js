@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69170"]={"code":"69170","region":"NE","city":"Wellfleet","latitude":40.7988,"longitude":-100.7119}}(window,'GeoPostal','US');

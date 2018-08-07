@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57744"]={"code":"57744","region":"SD","city":"Hermosa","latitude":43.8188,"longitude":-103.206}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66772"]={"code":"66772","region":"KS","city":"Savonburg","latitude":37.7517,"longitude":-95.1545}}(window,'GeoPostal','US');

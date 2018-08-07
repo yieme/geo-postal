@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67130"]={"code":"67130","region":"Sindh","city":"Moro","latitude":26.66459,"longitude":68.00156}}(window,'GeoPostal','PK');

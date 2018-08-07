@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27045"]={"code":"27045","region":"Lombardia","city":"Casteggio","latitude":45.01006,"longitude":9.12235}}(window,'GeoPostal','IT');

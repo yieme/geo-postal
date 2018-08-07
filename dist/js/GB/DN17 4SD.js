@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN17 4SD"]={"code":"DN17 4SD","region":"England","city":"Fockerby","latitude":53.66221,"longitude":-0.71714}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74470"]={"code":"74470","region":"Oklahoma","city":"Webbers Falls","latitude":35.512346,"longitude":-95.129096}}(window,'GeoPostal','US');

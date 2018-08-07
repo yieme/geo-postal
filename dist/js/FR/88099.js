@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88099"]={"code":"88099","region":"Grand-Est","city":"Epinal","latitude":48.18333,"longitude":6.45}}(window,'GeoPostal','FR');

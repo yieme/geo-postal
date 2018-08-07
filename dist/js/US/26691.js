@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26691"]={"code":"26691","region":"WV","city":"Tioga","latitude":38.4045,"longitude":-80.6667}}(window,'GeoPostal','US');

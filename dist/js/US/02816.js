@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02816"]={"code":"02816","region":"Rhode Island","city":"Coventry","latitude":41.7001,"longitude":-71.68284}}(window,'GeoPostal','US');

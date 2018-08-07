@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99423"]={"code":"99423","region":"Thuringen","city":"Weimar","latitude":50.9803,"longitude":11.32903}}(window,'GeoPostal','DE');

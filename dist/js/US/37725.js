@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37725"]={"code":"37725","region":"Tennessee","city":"Dandridge","latitude":36.01537,"longitude":-83.41489}}(window,'GeoPostal','US');

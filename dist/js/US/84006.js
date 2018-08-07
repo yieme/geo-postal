@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84006"]={"code":"84006","region":"UT","city":"Bingham Canyon","latitude":40.5646,"longitude":-112.0977}}(window,'GeoPostal','US');

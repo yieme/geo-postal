@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 3K0"]={"code":"S0H 3K0","region":"Saskatchewan","city":"Parkbeg","latitude":50.45007,"longitude":-106.26791}}(window,'GeoPostal','CA');

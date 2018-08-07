@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0Y 1C0"]={"code":"G0Y 1C0","region":"Quebec","city":"Lac-Drolet","latitude":45.71678,"longitude":-70.84904}}(window,'GeoPostal','CA');

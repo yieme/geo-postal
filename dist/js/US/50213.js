@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50213"]={"code":"50213","region":"Iowa","city":"Osceola","latitude":41.03389,"longitude":-93.7655}}(window,'GeoPostal','US');

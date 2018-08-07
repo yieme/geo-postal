@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93251"]={"code":"93251","region":"CA","city":"Mc Kittrick","latitude":35.3031,"longitude":-119.6366}}(window,'GeoPostal','US');

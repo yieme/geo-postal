@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52747"]={"code":"52747","region":"IA","city":"Durant","latitude":41.6145,"longitude":-90.91}}(window,'GeoPostal','US');

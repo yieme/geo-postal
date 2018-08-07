@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25650"]={"code":"25650","region":"Bourgogne-Franche-Comte","city":"Gilley","latitude":47.0474,"longitude":6.48257}}(window,'GeoPostal','FR');

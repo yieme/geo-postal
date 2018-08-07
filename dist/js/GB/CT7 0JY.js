@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT7 0JY"]={"code":"CT7 0JY","region":"England","city":"Sarre","latitude":51.33927,"longitude":1.23907}}(window,'GeoPostal','GB');

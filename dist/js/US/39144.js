@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39144"]={"code":"39144","region":"Mississippi","city":"Pattison","latitude":31.851425,"longitude":-90.806292}}(window,'GeoPostal','US');

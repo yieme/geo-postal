@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74735"]={"code":"74735","region":"Puebla","city":"Tlancualpican","latitude":18.43333,"longitude":-98.7}}(window,'GeoPostal','MX');

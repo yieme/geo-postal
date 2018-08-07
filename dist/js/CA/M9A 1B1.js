@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M9A 1B1"]={"code":"M9A 1B1","region":"Ontario","city":"Islington","latitude":43.650778,"longitude":-79.527066}}(window,'GeoPostal','CA');

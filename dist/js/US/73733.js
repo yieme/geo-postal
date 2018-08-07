@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73733"]={"code":"73733","region":"OK","city":"Douglas","latitude":36.2481,"longitude":-97.6896}}(window,'GeoPostal','US');

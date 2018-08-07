@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08515"]={"code":"08515","region":"NJ","city":"Chesterfield","latitude":40.1151,"longitude":-74.6393}}(window,'GeoPostal','US');

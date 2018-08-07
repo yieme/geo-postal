@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617479"]={"code":"617479","region":"Permskiy kray","city":"Kungur","latitude":57.43358,"longitude":56.95165}}(window,'GeoPostal','RU');

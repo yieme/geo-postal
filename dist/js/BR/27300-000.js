@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27300-000"]={"code":"27300-000","region":"Rio de Janeiro","city":"Barra Mansa","latitude":-22.54417,"longitude":-44.17139}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3825"]={"code":"3825","region":"Victoria","city":"Moe","latitude":-38.17828,"longitude":146.26099}}(window,'GeoPostal','AU');

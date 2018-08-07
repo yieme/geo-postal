@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5232"]={"code":"5232","region":"Aargau","city":"Villigen","latitude":47.52682,"longitude":8.21486}}(window,'GeoPostal','CH');

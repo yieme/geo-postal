@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33326"]={"code":"33326","region":"Florida","city":"Sunrise","latitude":26.112382,"longitude":-80.371269}}(window,'GeoPostal','US');

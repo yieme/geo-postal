@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76205"]={"code":"76205","region":"Texas","city":"Denton","latitude":33.16518,"longitude":-97.10538}}(window,'GeoPostal','US');

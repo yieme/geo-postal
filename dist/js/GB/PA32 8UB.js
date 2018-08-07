@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA32 8UB"]={"code":"PA32 8UB","region":"Scotland","city":"Inveraray","latitude":56.23052,"longitude":-5.07474}}(window,'GeoPostal','GB');

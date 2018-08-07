@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62551"]={"code":"62551","region":"IL","city":"Niantic","latitude":39.8582,"longitude":-89.1701}}(window,'GeoPostal','US');

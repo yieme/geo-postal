@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78333"]={"code":"78333","region":"Baden-Wurttemberg","city":"Sonnenberg","latitude":47.87571,"longitude":9.05353}}(window,'GeoPostal','DE');

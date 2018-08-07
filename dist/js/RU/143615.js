@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143615"]={"code":"143615","region":"Moskovskaya oblast'","city":"Teryayevo","latitude":56.16974,"longitude":36.12545}}(window,'GeoPostal','RU');

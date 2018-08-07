@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61279"]={"code":"61279","region":"Hessen","city":"Gravenwiesbach","latitude":50.39024,"longitude":8.4569}}(window,'GeoPostal','DE');

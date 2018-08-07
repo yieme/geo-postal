@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97900"]={"code":"97900","region":"Baden-Wurttemberg","city":"Hundheim","latitude":49.69049,"longitude":9.46823}}(window,'GeoPostal','DE');

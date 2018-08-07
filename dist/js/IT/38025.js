@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38025"]={"code":"38025","region":"Trentino-Alto Adige","city":"Dimaro","latitude":46.32621,"longitude":10.87077}}(window,'GeoPostal','IT');

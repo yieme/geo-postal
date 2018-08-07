@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02881"]={"code":"02881","region":"Rhode Island","city":"Kingston","latitude":41.48208,"longitude":-71.52444}}(window,'GeoPostal','US');

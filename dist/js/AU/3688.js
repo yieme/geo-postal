@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3688"]={"code":"3688","region":"Victoria","city":"Browns Plains","latitude":-36.05,"longitude":146.66667}}(window,'GeoPostal','AU');

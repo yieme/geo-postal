@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08060"]={"code":"08060","region":"New Jersey","city":"Mount Holly","latitude":39.99289,"longitude":-74.78766}}(window,'GeoPostal','US');

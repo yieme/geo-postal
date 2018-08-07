@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62098"]={"code":"62098","region":"IL","city":"Wrights","latitude":39.3762,"longitude":-90.2933}}(window,'GeoPostal','US');

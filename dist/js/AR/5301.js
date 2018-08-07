@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5301"]={"code":"5301","region":"La Rioja","city":"Villa Bustos","latitude":-29.28356,"longitude":-67.02249}}(window,'GeoPostal','AR');

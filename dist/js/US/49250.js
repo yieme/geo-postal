@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49250"]={"code":"49250","region":"Michigan","city":"Jonesville","latitude":41.98421,"longitude":-84.6619}}(window,'GeoPostal','US');

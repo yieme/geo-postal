@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61475"]={"code":"61475","region":"IL","city":"Sciota","latitude":40.5832,"longitude":-90.7316}}(window,'GeoPostal','US');

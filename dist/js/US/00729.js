@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00729"]={"code":"00729","region":"PR","city":"Canovanas","latitude":18.37,"longitude":-65.9}}(window,'GeoPostal','US');

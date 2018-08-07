@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE71 6NW"]={"code":"NE71 6NW","region":"England","city":"Wooler","latitude":55.54755,"longitude":-2.01186}}(window,'GeoPostal','GB');

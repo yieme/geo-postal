@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70744"]={"code":"70744","region":"LA","city":"Holden","latitude":30.5556,"longitude":-90.6652}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39044"]={"code":"39044","region":"Mississippi","city":"Braxton","latitude":32.02389,"longitude":-89.97056}}(window,'GeoPostal','US');

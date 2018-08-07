@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10594"]={"code":"10594","region":"New York","city":"Thornwood","latitude":41.1141,"longitude":-73.7752}}(window,'GeoPostal','US');

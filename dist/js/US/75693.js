@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75693"]={"code":"75693","region":"TX","city":"White Oak","latitude":32.5383,"longitude":-94.8622}}(window,'GeoPostal','US');

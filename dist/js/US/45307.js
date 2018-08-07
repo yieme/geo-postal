@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45307"]={"code":"45307","region":"OH","city":"Bowersville","latitude":39.5806,"longitude":-83.7249}}(window,'GeoPostal','US');

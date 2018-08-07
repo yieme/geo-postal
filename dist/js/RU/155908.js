@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155908"]={"code":"155908","region":"Ivanovskaya oblast'","city":"Shuya","latitude":56.84865,"longitude":41.38833}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55756"]={"code":"55756","region":"Minnesota","city":"Kerrick","latitude":46.297787,"longitude":-92.721053}}(window,'GeoPostal','US');

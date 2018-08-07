@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76234"]={"code":"76234","region":"Texas","city":"Decatur","latitude":33.230252,"longitude":-97.590031}}(window,'GeoPostal','US');

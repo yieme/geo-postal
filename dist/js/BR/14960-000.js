@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14960-000"]={"code":"14960-000","region":"Sao Paulo","city":"Novo Horizonte","latitude":-21.46806,"longitude":-49.22083}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["205300"]={"code":"205300","region":"Dolj","city":"Filiasi","latitude":44.55,"longitude":23.51667}}(window,'GeoPostal','RO');

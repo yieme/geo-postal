@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0N 1A0"]={"code":"P0N 1A0","region":"Ontario","city":"McIntosh Springs","latitude":48.63347,"longitude":-80.86648}}(window,'GeoPostal','CA');

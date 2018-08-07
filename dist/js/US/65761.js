@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65761"]={"code":"65761","region":"Missouri","city":"Theodosia","latitude":36.57798,"longitude":-92.70678}}(window,'GeoPostal','US');

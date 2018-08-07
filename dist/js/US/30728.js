@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30728"]={"code":"30728","region":"GA","city":"La Fayette","latitude":34.692,"longitude":-85.2602}}(window,'GeoPostal','US');

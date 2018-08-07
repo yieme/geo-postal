@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38221"]={"code":"38221","region":"Thessalia","city":"Volos","latitude":39.36667,"longitude":22.94583}}(window,'GeoPostal','GR');

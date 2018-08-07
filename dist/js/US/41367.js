@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41367"]={"code":"41367","region":"Kentucky","city":"Rowdy","latitude":37.41383,"longitude":-83.203992}}(window,'GeoPostal','US');

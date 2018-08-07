@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56746"]={"code":"56746","region":"Rheinland-Pfalz","city":"Kempenich","latitude":50.41667,"longitude":7.13333}}(window,'GeoPostal','DE');

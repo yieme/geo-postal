@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96709"]={"code":"96709","region":"Hawaii","city":"'Ewa Beach","latitude":21.31556,"longitude":-158.00722}}(window,'GeoPostal','US');

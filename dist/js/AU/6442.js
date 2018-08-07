@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6442"]={"code":"6442","region":"Western Australia","city":"Kambalda","latitude":-31.20165,"longitude":121.67083}}(window,'GeoPostal','AU');

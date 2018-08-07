@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03278"]={"code":"03278","region":"NH","city":"Warner","latitude":43.3035,"longitude":-71.8353}}(window,'GeoPostal','US');

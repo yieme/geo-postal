@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431722"]={"code":"431722","region":"Voronezhskaya oblast'","city":"Ternovka","latitude":51.67803,"longitude":41.6375}}(window,'GeoPostal','RU');

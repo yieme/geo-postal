@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83425"]={"code":"83425","region":"ID","city":"Hamer","latitude":43.9308,"longitude":-112.1872}}(window,'GeoPostal','US');

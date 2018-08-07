@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84081"]={"code":"84081","region":"Campania","city":"Baronissi","latitude":40.74771,"longitude":14.77084}}(window,'GeoPostal','IT');

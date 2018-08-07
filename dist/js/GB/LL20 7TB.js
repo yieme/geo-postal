@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL20 7TB"]={"code":"LL20 7TB","region":"Wales","city":"Trevor","latitude":52.9743,"longitude":-3.09555}}(window,'GeoPostal','GB');

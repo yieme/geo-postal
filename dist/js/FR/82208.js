@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82208"]={"code":"82208","region":"Occitanie","city":"Moissac","latitude":44.10236,"longitude":1.0945}}(window,'GeoPostal','FR');

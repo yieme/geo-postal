@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7304"]={"code":"7304","region":"Graubunden","city":"Maienfeld","latitude":47.00472,"longitude":9.53115}}(window,'GeoPostal','CH');

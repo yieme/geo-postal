@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70615"]={"code":"70615","region":"Zaporizka oblast","city":"Polohy","latitude":47.48444,"longitude":36.25361}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61919"]={"code":"61919","region":"IL","city":"Camargo","latitude":39.8,"longitude":-88.1468}}(window,'GeoPostal','US');

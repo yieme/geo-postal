@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46205-000"]={"code":"46205-000","region":"Bahia","city":"Cacule","latitude":-14.50333,"longitude":-42.22222}}(window,'GeoPostal','BR');

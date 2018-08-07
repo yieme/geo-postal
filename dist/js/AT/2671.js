@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2671"]={"code":"2671","region":"Niederosterreich","city":"Gloggnitz","latitude":47.67487,"longitude":15.93893}}(window,'GeoPostal','AT');

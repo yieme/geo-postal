@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62803"]={"code":"62803","region":"Illinois","city":"Hoyleton","latitude":38.44417,"longitude":-89.27167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96215"]={"code":"96215","region":"Bayern","city":"Lichtenfels","latitude":50.14567,"longitude":11.05928}}(window,'GeoPostal','DE');

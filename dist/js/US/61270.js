@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61270"]={"code":"61270","region":"Illinois","city":"Morrison","latitude":41.80975,"longitude":-89.96512}}(window,'GeoPostal','US');

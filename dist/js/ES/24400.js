@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24400"]={"code":"24400","region":"Castilla y Leon","city":"Ponferrada","latitude":42.54664,"longitude":-6.59619}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR34 9NH"]={"code":"NR34 9NH","region":"England","city":"Beccles","latitude":52.4535,"longitude":1.56401}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02066"]={"code":"02066","region":"MA","city":"Scituate","latitude":42.2032,"longitude":-70.7525}}(window,'GeoPostal','US');

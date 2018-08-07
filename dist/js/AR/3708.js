@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3708"]={"code":"3708","region":"Chaco","city":"Pampa del Infierno","latitude":-26.50517,"longitude":-61.17436}}(window,'GeoPostal','AR');

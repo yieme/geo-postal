@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56244"]={"code":"56244","region":"Minnesota","city":"Hancock","latitude":45.49667,"longitude":-95.79417}}(window,'GeoPostal','US');

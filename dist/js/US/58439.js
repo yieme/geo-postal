@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58439"]={"code":"58439","region":"ND","city":"Forbes","latitude":46.0109,"longitude":-98.8124}}(window,'GeoPostal','US');

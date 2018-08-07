@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14522"]={"code":"14522","region":"New York","city":"Palmyra","latitude":43.068193,"longitude":-77.225372}}(window,'GeoPostal','US');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["PM"]={'97500':{r:'Saint Pierre and Miquelon',c:'Saint-Pierre'}};

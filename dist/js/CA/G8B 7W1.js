@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8B 7W1"]={"code":"G8B 7W1","region":"Quebec","city":"Saint-Nazaire","latitude":48.58339,"longitude":-71.53239}}(window,'GeoPostal','CA');

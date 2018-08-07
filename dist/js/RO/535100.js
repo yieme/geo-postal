@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535100"]={"code":"535100","region":"Harghita","city":"Baile Tusnad","latitude":46.15,"longitude":25.85}}(window,'GeoPostal','RO');

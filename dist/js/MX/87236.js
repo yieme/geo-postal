@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87236"]={"code":"87236","region":"Tamaulipas","city":"Ciudad Victoria","latitude":23.73333,"longitude":-99.13333}}(window,'GeoPostal','MX');

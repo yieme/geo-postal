@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW10 6TE"]={"code":"KW10 6TE","region":"Scotland","city":"Golspie","latitude":57.97266,"longitude":-3.97798}}(window,'GeoPostal','GB');

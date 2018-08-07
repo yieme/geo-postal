@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C0A 1M0"]={"code":"C0A 1M0","region":"Prince Edward Island","city":"Toronto","latitude":46.45012,"longitude":-63.382}}(window,'GeoPostal','CA');

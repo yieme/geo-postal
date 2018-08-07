@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0L 1V0"]={"code":"V0L 1V0","region":"British Columbia","city":"Tatla Lake","latitude":51.89974,"longitude":-124.60321}}(window,'GeoPostal','CA');

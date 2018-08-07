@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95580"]={"code":"95580","region":"Veracruz de Ignacio de la Llave","city":"Tlacojalpan","latitude":18.23333,"longitude":-95.95}}(window,'GeoPostal','MX');

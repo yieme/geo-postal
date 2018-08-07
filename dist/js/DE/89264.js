@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89264"]={"code":"89264","region":"Bayern","city":"Unterreichenbach","latitude":48.3122,"longitude":10.20252}}(window,'GeoPostal','DE');

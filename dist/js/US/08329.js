@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08329"]={"code":"08329","region":"NJ","city":"Mauricetown","latitude":39.2853,"longitude":-74.9983}}(window,'GeoPostal','US');

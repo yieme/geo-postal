@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD1 3DS"]={"code":"TD1 3DS","region":"Scotland","city":"Galashiels","latitude":55.61458,"longitude":-2.80695}}(window,'GeoPostal','GB');

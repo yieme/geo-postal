@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55391"]={"code":"55391","region":"Minnesota","city":"Wayzata","latitude":44.96604,"longitude":-93.5418}}(window,'GeoPostal','US');

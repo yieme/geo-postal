@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17309"]={"code":"17309","region":"PA","city":"Brogue","latitude":39.8608,"longitude":-76.4673}}(window,'GeoPostal','US');

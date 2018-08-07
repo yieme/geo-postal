@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624936"]={"code":"624936","region":"Sverdlovskaya oblast'","city":"Karpinsk","latitude":59.7654,"longitude":60.0085}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13342"]={"code":"13342","region":"NY","city":"Garrattsville","latitude":42.6315,"longitude":-75.1866}}(window,'GeoPostal','US');

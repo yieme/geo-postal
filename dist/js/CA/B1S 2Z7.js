@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B1S 2Z7"]={"code":"B1S 2Z7","region":"Nova Scotia","city":"Sydney","latitude":46.131364,"longitude":-60.193038}}(window,'GeoPostal','CA');

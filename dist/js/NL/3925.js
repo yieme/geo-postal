@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3925"]={"code":"3925","region":"Gelderland","city":"Scherpenzeel","latitude":52.078929,"longitude":5.488064}}(window,'GeoPostal','NL');

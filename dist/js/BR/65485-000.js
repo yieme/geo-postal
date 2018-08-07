@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65485-000"]={"code":"65485-000","region":"Maranhao","city":"Itapecuru Mirim","latitude":-3.3925,"longitude":-44.35861}}(window,'GeoPostal','BR');

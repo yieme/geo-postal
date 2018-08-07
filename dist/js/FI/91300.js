@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91300"]={"code":"91300","region":"Pohjois-Pohjanmaa","city":"Ylikiiminki","latitude":65.08333,"longitude":26.25}}(window,'GeoPostal','FI');

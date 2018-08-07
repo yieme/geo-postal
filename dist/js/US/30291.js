@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30291"]={"code":"30291","region":"Georgia","city":"Union City","latitude":33.58706,"longitude":-84.54243}}(window,'GeoPostal','US');

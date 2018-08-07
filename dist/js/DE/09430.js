@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09430"]={"code":"09430","region":"Sachsen","city":"Venusberg","latitude":50.69918,"longitude":13.01854}}(window,'GeoPostal','DE');

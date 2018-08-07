@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301160"]={"code":"301160","region":"Tul'skaya oblast'","city":"Dubna","latitude":54.15416,"longitude":36.96173}}(window,'GeoPostal','RU');

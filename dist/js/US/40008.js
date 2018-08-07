@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40008"]={"code":"40008","region":"KY","city":"Bloomfield","latitude":37.908,"longitude":-85.2862}}(window,'GeoPostal','US');

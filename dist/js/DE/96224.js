@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96224"]={"code":"96224","region":"Bayern","city":"Burgkunstadt","latitude":50.14093,"longitude":11.25205}}(window,'GeoPostal','DE');

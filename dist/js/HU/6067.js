@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6067"]={"code":"6067","region":"Bacs-Kiskun","city":"Tiszaalpar","latitude":46.81279,"longitude":19.99841}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16422"]={"code":"16422","region":"Pennsylvania","city":"Harmonsburg","latitude":41.66082,"longitude":-80.31798}}(window,'GeoPostal','US');

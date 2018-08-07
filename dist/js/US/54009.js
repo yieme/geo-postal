@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54009"]={"code":"54009","region":"Wisconsin","city":"Dresser","latitude":45.361884,"longitude":-92.62146}}(window,'GeoPostal','US');

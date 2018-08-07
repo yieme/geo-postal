@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65449"]={"code":"65449","region":"MO","city":"Cook Sta","latitude":37.8242,"longitude":-91.5623}}(window,'GeoPostal','US');

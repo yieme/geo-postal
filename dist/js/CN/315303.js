@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315303"]={"code":"315303","region":"Zhejiang","city":"Kandun","latitude":30.22538,"longitude":121.25951}}(window,'GeoPostal','CN');

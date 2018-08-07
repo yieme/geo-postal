@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16372"]={"code":"16372","region":"PA","city":"Clintonville","latitude":41.2002,"longitude":-79.8734}}(window,'GeoPostal','US');

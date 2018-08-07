@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31820"]={"code":"31820","region":"Occitanie","city":"Pibrac","latitude":43.62042,"longitude":1.2854}}(window,'GeoPostal','FR');

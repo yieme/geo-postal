@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74426"]={"code":"74426","region":"Oklahoma","city":"Checotah","latitude":35.4177,"longitude":-95.55378}}(window,'GeoPostal','US');

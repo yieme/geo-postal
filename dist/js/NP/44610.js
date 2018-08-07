@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44610"]={"code":"44610","region":"Bagmati","city":"Kirtipur","latitude":27.67988,"longitude":85.27544}}(window,'GeoPostal','NP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71140"]={"code":"71140","region":"Bourgogne-Franche-Comte","city":"Bourbon-Lancy","latitude":46.62214,"longitude":3.76953}}(window,'GeoPostal','FR');

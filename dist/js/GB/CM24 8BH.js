@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM24 8BH"]={"code":"CM24 8BH","region":"England","city":"Stansted Mountfitchet","latitude":51.9012,"longitude":0.19896}}(window,'GeoPostal','GB');

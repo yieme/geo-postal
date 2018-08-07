@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29826"]={"code":"29826","region":"SC","city":"Elko","latitude":33.3804,"longitude":-81.3796}}(window,'GeoPostal','US');

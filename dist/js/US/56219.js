@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56219"]={"code":"56219","region":"Minnesota","city":"Browns Valley","latitude":45.647584,"longitude":-96.72411}}(window,'GeoPostal','US');

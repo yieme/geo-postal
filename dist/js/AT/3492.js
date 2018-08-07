@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3492"]={"code":"3492","region":"Niederosterreich","city":"Grafenegg","latitude":48.41667,"longitude":15.73333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03936"]={"code":"03936","region":"Attiki","city":"Athens","latitude":37.97945,"longitude":23.71622}}(window,'GeoPostal','GR');

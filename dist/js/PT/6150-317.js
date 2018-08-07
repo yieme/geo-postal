@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6150-317"]={"code":"6150-317","region":"Castelo Branco","city":"Proenca-a-Nova","latitude":39.7522,"longitude":-7.9239}}(window,'GeoPostal','PT');

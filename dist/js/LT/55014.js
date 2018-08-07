@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55014"]={"code":"55014","region":"Kauno apskritis","city":"Jonava","latitude":55.08333,"longitude":24.28333}}(window,'GeoPostal','LT');

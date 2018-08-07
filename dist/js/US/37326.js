@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37326"]={"code":"37326","region":"Tennessee","city":"Ducktown","latitude":35.035597,"longitude":-84.38306}}(window,'GeoPostal','US');

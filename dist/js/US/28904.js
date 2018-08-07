@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28904"]={"code":"28904","region":"North Carolina","city":"Hayesville","latitude":35.0462,"longitude":-83.81795}}(window,'GeoPostal','US');

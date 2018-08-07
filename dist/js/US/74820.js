@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74820"]={"code":"74820","region":"Oklahoma","city":"Ada","latitude":34.77453,"longitude":-96.67834}}(window,'GeoPostal','US');

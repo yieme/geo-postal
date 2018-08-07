@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63111"]={"code":"63111","region":"Auvergne-Rhone-Alpes","city":"Dallet","latitude":45.77039,"longitude":3.23906}}(window,'GeoPostal','FR');

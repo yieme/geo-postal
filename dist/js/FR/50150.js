@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50150"]={"code":"50150","region":"Normandie","city":"Sourdeval","latitude":48.72312,"longitude":-0.92223}}(window,'GeoPostal','FR');

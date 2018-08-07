@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24035"]={"code":"24035","region":"Lombardia","city":"Curno","latitude":45.68898,"longitude":9.60705}}(window,'GeoPostal','IT');

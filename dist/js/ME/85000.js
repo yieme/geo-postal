@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85000"]={"code":"85000","region":"Bar","city":"Bar","latitude":42.09306,"longitude":19.10028}}(window,'GeoPostal','ME');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53170"]={"code":"53170","region":"Pays-de-la-Loire","city":"Meslay-du-Maine","latitude":47.95116,"longitude":-0.55428}}(window,'GeoPostal','FR');

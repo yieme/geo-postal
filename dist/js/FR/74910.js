@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74910"]={"code":"74910","region":"Auvergne-Rhone-Alpes","city":"Seyssel","latitude":45.9597,"longitude":5.8372}}(window,'GeoPostal','FR');

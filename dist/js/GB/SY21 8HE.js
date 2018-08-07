@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY21 8HE"]={"code":"SY21 8HE","region":"Wales","city":"Buttington","latitude":52.66895,"longitude":-3.11141}}(window,'GeoPostal','GB');

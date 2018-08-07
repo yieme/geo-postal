@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1G0"]={"code":"R0L 1G0","region":"Manitoba","city":"Minitonas","latitude":52.0861,"longitude":-101.04008}}(window,'GeoPostal','CA');

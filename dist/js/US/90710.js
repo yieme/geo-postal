@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90710"]={"code":"90710","region":"California","city":"Harbor City","latitude":33.7986,"longitude":-118.299149}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663853"]={"code":"663853","region":"Krasnoyarskiy kray","city":"Nizhniy Ingash","latitude":56.2,"longitude":96.53}}(window,'GeoPostal','RU');

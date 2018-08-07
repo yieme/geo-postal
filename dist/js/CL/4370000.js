@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4370000"]={"code":"4370000","region":"Biobio","city":"Curanilahue","latitude":-37.46667,"longitude":-73.35}}(window,'GeoPostal','CL');

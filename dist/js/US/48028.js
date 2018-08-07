@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48028"]={"code":"48028","region":"MI","city":"Harsens Island","latitude":42.585,"longitude":-82.586}}(window,'GeoPostal','US');

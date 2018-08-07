@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY14 7HH"]={"code":"SY14 7HH","region":"England","city":"Tilston","latitude":53.05701,"longitude":-2.80878}}(window,'GeoPostal','GB');

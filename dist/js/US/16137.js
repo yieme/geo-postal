@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16137"]={"code":"16137","region":"Pennsylvania","city":"Mercer","latitude":41.24425,"longitude":-80.228623}}(window,'GeoPostal','US');

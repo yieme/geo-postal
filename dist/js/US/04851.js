@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04851"]={"code":"04851","region":"ME","city":"Matinicus","latitude":43.8651,"longitude":-68.887}}(window,'GeoPostal','US');

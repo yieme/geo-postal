@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79843"]={"code":"79843","region":"Baden-Wurttemberg","city":"Unterbrand","latitude":47.93453,"longitude":8.35744}}(window,'GeoPostal','DE');

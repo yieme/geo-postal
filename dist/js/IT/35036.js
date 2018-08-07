@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35036"]={"code":"35036","region":"Veneto","city":"Montegrotto Terme","latitude":45.33149,"longitude":11.79121}}(window,'GeoPostal','IT');

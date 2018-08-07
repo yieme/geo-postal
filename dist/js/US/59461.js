@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59461"]={"code":"59461","region":"MT","city":"Lothair","latitude":48.4717,"longitude":-111.2322}}(window,'GeoPostal','US');

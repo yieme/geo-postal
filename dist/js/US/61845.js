@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61845"]={"code":"61845","region":"IL","city":"Foosland","latitude":40.3554,"longitude":-88.4202}}(window,'GeoPostal','US');

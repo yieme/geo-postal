@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["304506"]={"code":"304506","region":"Rajasthan","city":"Tonk","latitude":26.16667,"longitude":75.78333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8000"]={"code":"8000","region":"Buenos Aires","city":"Bahia Blanca","latitude":-38.7196,"longitude":-62.27243}}(window,'GeoPostal','AR');

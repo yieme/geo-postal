@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["850000"]={"code":"850000","region":"Long An","city":"Tan An","latitude":10.53333,"longitude":106.41667}}(window,'GeoPostal','VN');

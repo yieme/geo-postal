@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28043"]={"code":"28043","region":"North Carolina","city":"Forest City","latitude":35.33401,"longitude":-81.8651}}(window,'GeoPostal','US');

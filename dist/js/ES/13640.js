@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13640"]={"code":"13640","region":"Castilla-La Mancha","city":"Herencia","latitude":39.36616,"longitude":-3.35735}}(window,'GeoPostal','ES');

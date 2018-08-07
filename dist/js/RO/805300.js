@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["805300"]={"code":"805300","region":"Galati","city":"Tecuci","latitude":45.84973,"longitude":27.43441}}(window,'GeoPostal','RO');

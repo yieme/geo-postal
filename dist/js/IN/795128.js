@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["795128"]={"code":"795128","region":"Manipur","city":"Churachandpur","latitude":24.33333,"longitude":93.66667}}(window,'GeoPostal','IN');

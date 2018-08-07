@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36145"]={"code":"36145","region":"Hessen","city":"Hofbieber","latitude":50.58629,"longitude":9.83534}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29929"]={"code":"29929","region":"SC","city":"Islandton","latitude":32.9503,"longitude":-80.8916}}(window,'GeoPostal','US');

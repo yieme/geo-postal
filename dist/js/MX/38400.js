@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38400"]={"code":"38400","region":"Guanajuato","city":"Valle de Santiago","latitude":20.38333,"longitude":-101.2}}(window,'GeoPostal','MX');

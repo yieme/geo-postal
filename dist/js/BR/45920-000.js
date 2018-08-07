@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45920-000"]={"code":"45920-000","region":"Bahia","city":"Nova Vicosa","latitude":-17.89194,"longitude":-39.37194}}(window,'GeoPostal','BR');

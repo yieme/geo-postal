@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24797"]={"code":"24797","region":"Schleswig-Holstein","city":"Breiholz","latitude":54.2,"longitude":9.53333}}(window,'GeoPostal','DE');

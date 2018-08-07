@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64744"]={"code":"64744","region":"Missouri","city":"El Dorado Springs","latitude":37.87698,"longitude":-94.02133}}(window,'GeoPostal','US');

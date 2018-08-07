@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3805"]={"code":"3805","region":"Queensland","city":"Warren","latitude":-23.5,"longitude":150.28333}}(window,'GeoPostal','AU');

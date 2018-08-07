@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17740"]={"code":"17740","region":"Catalunya","city":"Vilafant","latitude":42.24668,"longitude":2.9382}}(window,'GeoPostal','ES');

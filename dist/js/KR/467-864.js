@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["467-864"]={"code":"467-864","region":"Gyeonggi-do","city":"Pubal","latitude":37.29167,"longitude":127.50778}}(window,'GeoPostal','KR');

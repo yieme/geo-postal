@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391300"]={"code":"391300","region":"Ryazanskaya oblast'","city":"Kasimov","latitude":54.94111,"longitude":41.39528}}(window,'GeoPostal','RU');

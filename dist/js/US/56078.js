@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56078"]={"code":"56078","region":"MN","city":"Pemberton","latitude":44.0077,"longitude":-93.7833}}(window,'GeoPostal','US');

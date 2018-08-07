@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0713"]={"code":"0713","region":"Ararat","city":"Dalar","latitude":39.97653,"longitude":44.52649}}(window,'GeoPostal','AM');

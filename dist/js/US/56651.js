@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56651"]={"code":"56651","region":"MN","city":"Lengby","latitude":47.5158,"longitude":-95.6359}}(window,'GeoPostal','US');

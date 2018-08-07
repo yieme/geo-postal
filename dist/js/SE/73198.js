@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73198"]={"code":"73198","region":"Vastmanlands lan","city":"Koping","latitude":59.51404,"longitude":15.99255}}(window,'GeoPostal','SE');

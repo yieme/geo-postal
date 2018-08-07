@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59222"]={"code":"59222","region":"Hauts-de-France","city":"Bousies","latitude":50.15097,"longitude":3.61752}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44231"]={"code":"44231","region":"OH","city":"Garrettsville","latitude":41.2988,"longitude":-81.0704}}(window,'GeoPostal','US');

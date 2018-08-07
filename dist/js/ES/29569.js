@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29569"]={"code":"29569","region":"Andalucia","city":"Pizarra","latitude":36.76543,"longitude":-4.70833}}(window,'GeoPostal','ES');

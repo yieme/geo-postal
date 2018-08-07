@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3624"]={"code":"3624","region":"Victoria","city":"Cooma","latitude":-36.41667,"longitude":145.06667}}(window,'GeoPostal','AU');

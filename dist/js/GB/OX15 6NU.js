@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 6NU"]={"code":"OX15 6NU","region":"England","city":"Shenington","latitude":52.08225,"longitude":-1.45981}}(window,'GeoPostal','GB');

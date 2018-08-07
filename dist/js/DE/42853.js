@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42853"]={"code":"42853","region":"Nordrhein-Westfalen","city":"Remscheid","latitude":51.17983,"longitude":7.1925}}(window,'GeoPostal','DE');

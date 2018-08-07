@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3033"]={"code":"3033","region":"Niederosterreich","city":"Altlengbach","latitude":48.15355,"longitude":15.92606}}(window,'GeoPostal','AT');

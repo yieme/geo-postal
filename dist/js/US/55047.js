@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55047"]={"code":"55047","region":"MN","city":"Marine On Saint Croix","latitude":45.1988,"longitude":-92.8258}}(window,'GeoPostal','US');

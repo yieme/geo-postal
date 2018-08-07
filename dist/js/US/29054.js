@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29054"]={"code":"29054","region":"South Carolina","city":"Gilbert","latitude":33.950441,"longitude":-81.383865}}(window,'GeoPostal','US');

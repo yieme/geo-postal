@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30475"]={"code":"30475","region":"GA","city":"Vidalia","latitude":32.1775,"longitude":-82.3739}}(window,'GeoPostal','US');

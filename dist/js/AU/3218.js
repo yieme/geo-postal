@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3218"]={"code":"3218","region":"Victoria","city":"Geelong","latitude":-38.14711,"longitude":144.36069}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55717"]={"code":"55717","region":"Minnesota","city":"Canyon","latitude":47.07865,"longitude":-92.472071}}(window,'GeoPostal','US');

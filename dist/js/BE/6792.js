@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6792"]={"code":"6792","region":"Luxembourg","city":"Aubange","latitude":49.56652,"longitude":5.80492}}(window,'GeoPostal','BE');

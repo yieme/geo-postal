@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186855"]={"code":"186855","region":"Kareliya, Respublika","city":"Porosozero","latitude":62.71912,"longitude":32.72703}}(window,'GeoPostal','RU');

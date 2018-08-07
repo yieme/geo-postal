@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11351"]={"code":"11351","region":"New York","city":"Flushing","latitude":40.76583,"longitude":-73.833084}}(window,'GeoPostal','US');

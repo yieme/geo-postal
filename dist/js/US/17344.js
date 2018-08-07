@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17344"]={"code":"17344","region":"Pennsylvania","city":"McSherrystown","latitude":39.804854,"longitude":-77.019575}}(window,'GeoPostal','US');

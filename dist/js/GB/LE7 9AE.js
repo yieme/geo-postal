@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE7 9AE"]={"code":"LE7 9AE","region":"England","city":"Billesdon","latitude":52.61644,"longitude":-0.93725}}(window,'GeoPostal','GB');

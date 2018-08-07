@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47670"]={"code":"47670","region":"Indiana","city":"Princeton","latitude":38.352997,"longitude":-87.56833}}(window,'GeoPostal','US');

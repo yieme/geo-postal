@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13746"]={"code":"13746","region":"NY","city":"Chenango Forks","latitude":42.2778,"longitude":-75.8462}}(window,'GeoPostal','US');

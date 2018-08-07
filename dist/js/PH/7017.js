@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7017"]={"code":"7017","region":"Zamboanga del Sur","city":"Tawagan","latitude":7.845,"longitude":123.47528}}(window,'GeoPostal','PH');

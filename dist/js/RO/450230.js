@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["450230"]={"code":"450230","region":"Salaj","city":"Zalau","latitude":47.2,"longitude":23.05}}(window,'GeoPostal','RO');

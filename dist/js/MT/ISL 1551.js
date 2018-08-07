@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ISL 1551"]={"code":"ISL 1551","region":"Birgu","city":"Vittoriosa","latitude":35.89222,"longitude":14.51833}}(window,'GeoPostal','MT');

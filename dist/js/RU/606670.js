@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606670"]={"code":"606670","region":"Nizhegorodskaya oblast'","city":"Sokol'skoye","latitude":57.14122,"longitude":43.15894}}(window,'GeoPostal','RU');

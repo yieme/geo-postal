@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9064"]={"code":"9064","region":"Appenzell Innerrhoden","city":"Gonten","latitude":47.32725,"longitude":9.34705}}(window,'GeoPostal','CH');

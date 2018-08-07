@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422610"]={"code":"422610","region":"Tatarstan, Respublika","city":"Laishevo","latitude":55.40464,"longitude":49.55037}}(window,'GeoPostal','RU');

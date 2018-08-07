@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["206241"]={"code":"206241","region":"Uttar Pradesh","city":"Phaphund","latitude":26.6,"longitude":79.46667}}(window,'GeoPostal','IN');

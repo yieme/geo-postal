@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19529"]={"code":"19529","region":"PA","city":"Kempton","latitude":40.6328,"longitude":-75.8513}}(window,'GeoPostal','US');

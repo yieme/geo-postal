@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427070"]={"code":"427070","region":"Udmurtskaya Respublika","city":"Sharkan","latitude":57.29885,"longitude":53.87122}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42120"]={"code":"42120","region":"Loei","city":"Dan Sai","latitude":17.28011,"longitude":101.14686}}(window,'GeoPostal','TH');

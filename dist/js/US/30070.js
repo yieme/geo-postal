@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30070"]={"code":"30070","region":"GA","city":"Porterdale","latitude":33.5712,"longitude":-83.8951}}(window,'GeoPostal','US');

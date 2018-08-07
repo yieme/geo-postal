@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88231"]={"code":"88231","region":"NM","city":"Eunice","latitude":32.4392,"longitude":-103.1594}}(window,'GeoPostal','US');

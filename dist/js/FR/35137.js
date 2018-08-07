@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35137"]={"code":"35137","region":"Bretagne","city":"Bedee","latitude":48.17953,"longitude":-1.94476}}(window,'GeoPostal','FR');

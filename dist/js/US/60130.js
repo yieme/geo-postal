@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60130"]={"code":"60130","region":"Illinois","city":"Forest Park","latitude":41.872593,"longitude":-87.812384}}(window,'GeoPostal','US');

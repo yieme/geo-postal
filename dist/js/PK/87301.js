@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87301"]={"code":"87301","region":"Balochistan","city":"Quetta","latitude":30.199,"longitude":67.00971}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA20 1PJ"]={"code":"TA20 1PJ","region":"England","city":"Chard","latitude":50.8727,"longitude":-2.96597}}(window,'GeoPostal','GB');

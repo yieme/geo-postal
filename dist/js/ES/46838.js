@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46838"]={"code":"46838","region":"Valenciana, Comunidad","city":"Llutxent","latitude":38.93333,"longitude":-0.35}}(window,'GeoPostal','ES');

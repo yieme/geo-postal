@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5204"]={"code":"5204","region":"South Australia","city":"Normanville","latitude":-35.44781,"longitude":138.31495}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92220"]={"code":"92220","region":"California","city":"Banning","latitude":33.92557,"longitude":-116.87641}}(window,'GeoPostal','US');

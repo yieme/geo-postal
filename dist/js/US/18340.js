@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18340"]={"code":"18340","region":"PA","city":"Millrift","latitude":41.4093,"longitude":-74.7432}}(window,'GeoPostal','US');

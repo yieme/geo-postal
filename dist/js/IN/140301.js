@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140301"]={"code":"140301","region":"Punjab","city":"Kharar","latitude":30.74444,"longitude":76.64778}}(window,'GeoPostal','IN');

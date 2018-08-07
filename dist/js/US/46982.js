@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46982"]={"code":"46982","region":"IN","city":"Silver Lake","latitude":41.0743,"longitude":-85.8792}}(window,'GeoPostal','US');

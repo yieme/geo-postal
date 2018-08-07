@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4260"]={"code":"4260","region":"Kebili","city":"El Golaa","latitude":33.48485,"longitude":9.00678}}(window,'GeoPostal','TN');

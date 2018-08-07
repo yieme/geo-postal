@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64759"]={"code":"64759","region":"Missouri","city":"Lamar","latitude":37.494209,"longitude":-94.270839}}(window,'GeoPostal','US');

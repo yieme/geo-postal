@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84744"]={"code":"84744","region":"UT","city":"Koosharem","latitude":38.5103,"longitude":-111.8813}}(window,'GeoPostal','US');

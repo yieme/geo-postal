@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HP7 0HS"]={"code":"HP7 0HS","region":"England","city":"Amersham","latitude":51.66667,"longitude":-0.61667}}(window,'GeoPostal','GB');

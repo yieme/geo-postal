@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15320"]={"code":"15320","region":"Brandenburg","city":"Thoringswerder","latitude":52.71384,"longitude":14.20944}}(window,'GeoPostal','DE');

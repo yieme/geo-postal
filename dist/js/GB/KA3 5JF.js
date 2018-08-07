@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA3 5JF"]={"code":"KA3 5JF","region":"Scotland","city":"Stewarton","latitude":55.66667,"longitude":-4.5}}(window,'GeoPostal','GB');

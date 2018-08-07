@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31821"]={"code":"31821","region":"GA","city":"Omaha","latitude":32.1176,"longitude":-84.9711}}(window,'GeoPostal','US');

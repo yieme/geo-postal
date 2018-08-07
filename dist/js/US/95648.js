@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95648"]={"code":"95648","region":"California","city":"Lincoln","latitude":38.89156,"longitude":-121.29301}}(window,'GeoPostal','US');

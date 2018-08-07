@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22801"]={"code":"22801","region":"Vinnytska oblast","city":"Nemyriv","latitude":48.97076,"longitude":28.83779}}(window,'GeoPostal','UA');

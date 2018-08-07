@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38392"]={"code":"38392","region":"TN","city":"Mercer","latitude":35.4816,"longitude":-89.0271}}(window,'GeoPostal','US');

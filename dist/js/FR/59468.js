@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59468"]={"code":"59468","region":"Hauts-de-France","city":"Lomme","latitude":50.64358,"longitude":2.98715}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-111"]={"code":"33-111","region":"Malopolskie","city":"Koszyce Wielkie","latitude":49.98076,"longitude":20.94552}}(window,'GeoPostal','PL');

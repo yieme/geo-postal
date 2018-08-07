@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15297"]={"code":"15297","region":"Stockholms lan","city":"Soedertaelje","latitude":59.19554,"longitude":17.62525}}(window,'GeoPostal','SE');

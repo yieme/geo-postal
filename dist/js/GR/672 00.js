@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["672 00"]={"code":"672 00","region":"Anatoliki Makedonia kai Thraki","city":"Avaton","latitude":40.96667,"longitude":24.8}}(window,'GeoPostal','GR');

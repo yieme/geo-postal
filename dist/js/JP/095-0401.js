@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["095-0401"]={"code":"095-0401","region":"Hokkaido","city":"Shibetsu","latitude":43.55,"longitude":141.917}}(window,'GeoPostal','JP');

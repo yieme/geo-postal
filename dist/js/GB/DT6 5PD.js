@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT6 5PD"]={"code":"DT6 5PD","region":"England","city":"Netherbury","latitude":50.79072,"longitude":-2.75344}}(window,'GeoPostal','GB');

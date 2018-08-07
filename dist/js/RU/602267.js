@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["602267"]={"code":"602267","region":"Vladimirskaya oblast'","city":"Murom","latitude":55.56556,"longitude":42.04167}}(window,'GeoPostal','RU');

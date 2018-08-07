@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["077190"]={"code":"077190","region":"Ilfov","city":"Voluntari","latitude":44.46667,"longitude":26.13333}}(window,'GeoPostal','RO');

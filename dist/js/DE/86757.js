@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86757"]={"code":"86757","region":"Bayern","city":"Wallerstein","latitude":48.88742,"longitude":10.47591}}(window,'GeoPostal','DE');

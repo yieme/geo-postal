@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31498"]={"code":"31498","region":"Hallands lan","city":"Torup","latitude":56.96667,"longitude":13.08333}}(window,'GeoPostal','SE');

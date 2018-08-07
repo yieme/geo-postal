@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04209"]={"code":"04209","region":"Provence-Alpes-Cote d'Azur","city":"Sisteron","latitude":44.18758,"longitude":5.94623}}(window,'GeoPostal','FR');

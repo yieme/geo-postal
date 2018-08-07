@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00765"]={"code":"00765","region":"Vieques","city":"Vieques","latitude":18.14746,"longitude":-65.44488}}(window,'GeoPostal','PR');

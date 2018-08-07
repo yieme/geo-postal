@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19391"]={"code":"19391","region":"Stockholms lan","city":"Sigtuna","latitude":59.61731,"longitude":17.72361}}(window,'GeoPostal','SE');

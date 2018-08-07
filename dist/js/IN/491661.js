@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491661"]={"code":"491661","region":"Chhattisgarh","city":"Dongargaon","latitude":20.96667,"longitude":80.85}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["746 01"]={"code":"746 01","region":"Moravskoslezsky kraj","city":"Opava","latitude":49.93866,"longitude":17.90257}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13748"]={"code":"13748","region":"New York","city":"Conklin","latitude":42.070654,"longitude":-75.818399}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19001"]={"code":"19001","region":"Setif","city":"El Eulma","latitude":36.15281,"longitude":5.69016}}(window,'GeoPostal','DZ');

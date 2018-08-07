@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78700"]={"code":"78700","region":"Hatay","city":"Samandagi","latitude":36.08419,"longitude":35.97714}}(window,'GeoPostal','TR');

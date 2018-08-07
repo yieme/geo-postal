@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73625"]={"code":"73625","region":"OK","city":"Butler","latitude":35.6336,"longitude":-99.2427}}(window,'GeoPostal','US');

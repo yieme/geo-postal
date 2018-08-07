@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11140"]={"code":"11140","region":"Nakhon Pathom","city":"Salaya","latitude":13.802,"longitude":100.32111}}(window,'GeoPostal','TH');

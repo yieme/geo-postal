@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80055"]={"code":"80055","region":"Campania","city":"Portici","latitude":40.81563,"longitude":14.33716}}(window,'GeoPostal','IT');

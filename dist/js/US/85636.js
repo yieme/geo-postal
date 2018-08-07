@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85636"]={"code":"85636","region":"AZ","city":"Sierra Vista","latitude":31.6687,"longitude":-110.2801}}(window,'GeoPostal','US');

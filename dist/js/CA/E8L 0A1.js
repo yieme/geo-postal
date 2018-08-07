@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E8L 0A1"]={"code":"E8L 0A1","region":"New Brunswick","city":"Allardville","latitude":47.47498,"longitude":-65.495}}(window,'GeoPostal','CA');

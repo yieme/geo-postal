@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00637"]={"code":"00637","region":"PR","city":"Sabana Grande","latitude":18.08,"longitude":-66.96}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431709"]={"code":"431709","region":"Saratovskaya oblast'","city":"Alekseyevka","latitude":52.30583,"longitude":48.02611}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15760"]={"code":"15760","region":"PA","city":"Marsteller","latitude":40.6522,"longitude":-78.8054}}(window,'GeoPostal','US');

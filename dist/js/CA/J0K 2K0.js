@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2K0"]={"code":"J0K 2K0","region":"Quebec","city":"Sainte-Emelie-de-l'Energie","latitude":46.31677,"longitude":-73.64917}}(window,'GeoPostal','CA');

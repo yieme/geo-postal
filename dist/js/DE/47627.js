@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47627"]={"code":"47627","region":"Nordrhein-Westfalen","city":"Berberheide","latitude":51.61386,"longitude":6.28409}}(window,'GeoPostal','DE');

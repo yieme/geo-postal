@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2102"]={"code":"2102","region":"Sofala","city":"Beira","latitude":-19.84361,"longitude":34.83889}}(window,'GeoPostal','MZ');

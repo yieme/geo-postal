@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74650"]={"code":"74650","region":"OK","city":"Ralston","latitude":36.4992,"longitude":-96.7755}}(window,'GeoPostal','US');

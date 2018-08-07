@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL12 0HD"]={"code":"LL12 0HD","region":"Wales","city":"Rossett","latitude":53.10921,"longitude":-2.94478}}(window,'GeoPostal','GB');

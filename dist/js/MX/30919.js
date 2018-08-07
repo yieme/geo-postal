@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30919"]={"code":"30919","region":"Coahuila de Zaragoza","city":"Zaragoza","latitude":28.48333,"longitude":-100.91667}}(window,'GeoPostal','MX');

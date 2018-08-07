@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3553"]={"code":"3553","region":"Karnten","city":"Klagenfurt am Woerthersee","latitude":46.62472,"longitude":14.30528}}(window,'GeoPostal','AT');

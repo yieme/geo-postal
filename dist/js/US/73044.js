@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73044"]={"code":"73044","region":"Oklahoma","city":"Guthrie","latitude":35.865509,"longitude":-97.423607}}(window,'GeoPostal','US');

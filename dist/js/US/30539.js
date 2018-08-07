@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30539"]={"code":"30539","region":"GA","city":"East Ellijay","latitude":34.684,"longitude":-84.4727}}(window,'GeoPostal','US');

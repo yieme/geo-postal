@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD14 5NG"]={"code":"TD14 5NG","region":"Scotland","city":"Coldingham","latitude":55.88623,"longitude":-2.15744}}(window,'GeoPostal','GB');

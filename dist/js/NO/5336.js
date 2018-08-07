@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5336"]={"code":"5336","region":"Hordaland","city":"Tjeldsto","latitude":60.59861,"longitude":4.84421}}(window,'GeoPostal','NO');

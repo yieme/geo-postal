@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19424"]={"code":"19424","region":"Pennsylvania","city":"Blue Bell","latitude":40.145731,"longitude":-75.267656}}(window,'GeoPostal','US');

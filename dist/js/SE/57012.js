@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57012"]={"code":"57012","region":"Jonkopings lan","city":"Landsbro","latitude":57.36667,"longitude":14.9}}(window,'GeoPostal','SE');

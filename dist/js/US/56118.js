@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56118"]={"code":"56118","region":"Minnesota","city":"Bingham Lake","latitude":43.905926,"longitude":-95.044744}}(window,'GeoPostal','US');

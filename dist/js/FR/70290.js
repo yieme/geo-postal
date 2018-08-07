@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70290"]={"code":"70290","region":"Bourgogne-Franche-Comte","city":"Champagney","latitude":47.70504,"longitude":6.68173}}(window,'GeoPostal','FR');

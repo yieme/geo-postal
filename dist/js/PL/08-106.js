@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-106"]={"code":"08-106","region":"Mazowieckie","city":"Zbuczyn","latitude":52.08974,"longitude":22.43829}}(window,'GeoPostal','PL');

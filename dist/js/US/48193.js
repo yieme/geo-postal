@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48193"]={"code":"48193","region":"Michigan","city":"Riverview","latitude":42.1769,"longitude":-83.1932}}(window,'GeoPostal','US');

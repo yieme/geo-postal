@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 3S0"]={"code":"T0H 3S0","region":"Alberta","city":"Wembley","latitude":55.14995,"longitude":-119.13602}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76641"]={"code":"76641","region":"TX","city":"Frost","latitude":32.0275,"longitude":-96.7684}}(window,'GeoPostal','US');

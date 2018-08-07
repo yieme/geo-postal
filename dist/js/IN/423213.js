@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["423213"]={"code":"423213","region":"Maharashtra","city":"Malegaon","latitude":20.55,"longitude":74.53333}}(window,'GeoPostal','IN');

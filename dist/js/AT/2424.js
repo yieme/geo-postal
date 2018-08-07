@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2424"]={"code":"2424","region":"Burgenland","city":"Zurndorf","latitude":47.98314,"longitude":17.00315}}(window,'GeoPostal','AT');

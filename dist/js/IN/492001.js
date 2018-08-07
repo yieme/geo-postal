@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["492001"]={"code":"492001","region":"Chhattisgarh","city":"Raipur","latitude":21.23333,"longitude":81.63333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07068"]={"code":"07068","region":"New Jersey","city":"Roseland","latitude":40.820122,"longitude":-74.302397}}(window,'GeoPostal','US');

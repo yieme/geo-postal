@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90740"]={"code":"90740","region":"California","city":"Seal Beach","latitude":33.74141,"longitude":-118.10479}}(window,'GeoPostal','US');

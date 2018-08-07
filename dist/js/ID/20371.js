@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20371"]={"code":"20371","region":"Sumatera Utara","city":"Medan","latitude":3.58333,"longitude":98.66667}}(window,'GeoPostal','ID');

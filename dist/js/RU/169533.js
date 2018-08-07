@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169533"]={"code":"169533","region":"Komi, Respublika","city":"Voyvozh","latitude":62.89198,"longitude":54.96346}}(window,'GeoPostal','RU');

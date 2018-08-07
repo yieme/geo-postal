@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 1N0"]={"code":"R0C 1N0","region":"Manitoba","city":"Hodgson","latitude":51.21501,"longitude":-97.57239}}(window,'GeoPostal','CA');

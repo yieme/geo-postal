@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61458"]={"code":"61458","region":"IL","city":"Maquon","latitude":40.7849,"longitude":-90.2008}}(window,'GeoPostal','US');

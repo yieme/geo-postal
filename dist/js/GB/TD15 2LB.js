@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2LB"]={"code":"TD15 2LB","region":"England","city":"Norham","latitude":55.71884,"longitude":-2.16266}}(window,'GeoPostal','GB');

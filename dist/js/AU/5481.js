@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5481"]={"code":"5481","region":"South Australia","city":"Appila","latitude":-33.05,"longitude":138.41667}}(window,'GeoPostal','AU');

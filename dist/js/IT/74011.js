@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74011"]={"code":"74011","region":"Puglia","city":"Castellaneta","latitude":40.62722,"longitude":16.93689}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71448"]={"code":"71448","region":"LA","city":"Longleaf","latitude":31.0066,"longitude":-92.5526}}(window,'GeoPostal','US');

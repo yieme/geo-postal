@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K4P 1N1"]={"code":"K4P 1N1","region":"Ontario","city":"Enniskerry","latitude":45.238734,"longitude":-75.604923}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53035"]={"code":"53035","region":"WI","city":"Iron Ridge","latitude":43.3934,"longitude":-88.5441}}(window,'GeoPostal','US');

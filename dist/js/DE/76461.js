@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76461"]={"code":"76461","region":"Baden-Wurttemberg","city":"Muggensturm","latitude":48.86667,"longitude":8.28333}}(window,'GeoPostal','DE');

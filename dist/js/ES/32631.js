@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32631"]={"code":"32631","region":"Galicia","city":"Sarreaus","latitude":42.08784,"longitude":-7.60348}}(window,'GeoPostal','ES');

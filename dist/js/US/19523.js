@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19523"]={"code":"19523","region":"PA","city":"Geigertown","latitude":40.2026,"longitude":-75.8363}}(window,'GeoPostal','US');

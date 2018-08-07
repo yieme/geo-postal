@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 42"]={"code":"252 42","region":"Stredocesky kraj","city":"Vestec","latitude":49.9805,"longitude":14.50487}}(window,'GeoPostal','CZ');

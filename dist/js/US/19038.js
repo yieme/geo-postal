@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19038"]={"code":"19038","region":"Pennsylvania","city":"Glenside","latitude":40.1079,"longitude":-75.15708}}(window,'GeoPostal','US');

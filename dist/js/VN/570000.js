@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["570000"]={"code":"570000","region":"Quang Ngai","city":"Quang Ngai","latitude":15.11667,"longitude":108.8}}(window,'GeoPostal','VN');

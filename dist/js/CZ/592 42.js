@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["592 42"]={"code":"592 42","region":"Kraj Vysocina","city":"Jimramov","latitude":49.63719,"longitude":16.22632}}(window,'GeoPostal','CZ');

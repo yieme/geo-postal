@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676000"]={"code":"676000","region":"Amurskaya oblast'","city":"Yerofey Pavlovich","latitude":53.96667,"longitude":121.96667}}(window,'GeoPostal','RU');

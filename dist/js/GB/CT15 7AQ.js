@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 7AQ"]={"code":"CT15 7AQ","region":"England","city":"Hougham","latitude":51.11301,"longitude":1.24729}}(window,'GeoPostal','GB');

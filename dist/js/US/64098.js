@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64098"]={"code":"64098","region":"MO","city":"Weston","latitude":39.4453,"longitude":-94.9145}}(window,'GeoPostal','US');

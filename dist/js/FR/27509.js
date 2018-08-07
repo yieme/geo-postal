@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27509"]={"code":"27509","region":"Normandie","city":"Pont-Audemer","latitude":49.35,"longitude":0.51667}}(window,'GeoPostal','FR');

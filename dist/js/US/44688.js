@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44688"]={"code":"44688","region":"Ohio","city":"Waynesburg","latitude":40.685988,"longitude":-81.268432}}(window,'GeoPostal','US');

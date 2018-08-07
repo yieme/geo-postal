@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24136"]={"code":"24136","region":"Virginia","city":"Pembroke","latitude":37.38171,"longitude":-80.565352}}(window,'GeoPostal','US');

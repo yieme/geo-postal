@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5349"]={"code":"5349","region":"Jasz-Nagykun-Szolnok","city":"Kunhegyes","latitude":47.36667,"longitude":20.63333}}(window,'GeoPostal','HU');

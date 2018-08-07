@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3102"]={"code":"3102","region":"Nueva Ecija","city":"San Leonardo","latitude":15.363,"longitude":120.9639}}(window,'GeoPostal','PH');

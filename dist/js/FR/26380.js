@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26380"]={"code":"26380","region":"Auvergne-Rhone-Alpes","city":"Peyrins","latitude":45.09241,"longitude":5.04767}}(window,'GeoPostal','FR');

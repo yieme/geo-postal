@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44272"]={"code":"44272","region":"Sisacko-moslavacka zupanija","city":"Lekenik","latitude":45.58556,"longitude":16.21139}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30502"]={"code":"30502","region":"GA","city":"Chestnut Mountain","latitude":34.213,"longitude":-83.7949}}(window,'GeoPostal','US');

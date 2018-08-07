@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["254 01"]={"code":"254 01","region":"Stredocesky kraj","city":"Jilove u Prahy","latitude":49.89545,"longitude":14.49333}}(window,'GeoPostal','CZ');

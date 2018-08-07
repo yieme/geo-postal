@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0E 1M0"]={"code":"V0E 1M0","region":"British Columbia","city":"Chase","latitude":50.8165,"longitude":-119.68571}}(window,'GeoPostal','CA');

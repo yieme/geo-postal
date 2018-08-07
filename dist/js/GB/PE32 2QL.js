@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE32 2QL"]={"code":"PE32 2QL","region":"England","city":"East Lexham","latitude":52.71982,"longitude":0.7487}}(window,'GeoPostal','GB');

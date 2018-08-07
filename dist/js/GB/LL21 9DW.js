@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL21 9DW"]={"code":"LL21 9DW","region":"Wales","city":"Gwyddelwern","latitude":53.00855,"longitude":-3.37991}}(window,'GeoPostal','GB');

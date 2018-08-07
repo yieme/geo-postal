@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07829"]={"code":"07829","region":"NJ","city":"Buttzville","latitude":40.8434,"longitude":-74.9859}}(window,'GeoPostal','US');

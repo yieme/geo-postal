@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR11 5SX"]={"code":"TR11 5SX","region":"England","city":"Mylor Bridge","latitude":50.18637,"longitude":-5.07599}}(window,'GeoPostal','GB');

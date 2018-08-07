@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4EH"]={"code":"LE14 4EH","region":"England","city":"Eastwell","latitude":52.84996,"longitude":-0.84972}}(window,'GeoPostal','GB');

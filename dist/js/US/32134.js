@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32134"]={"code":"32134","region":"FL","city":"Fort Mc Coy","latitude":29.391,"longitude":-81.8551}}(window,'GeoPostal','US');

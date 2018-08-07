@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA10 9BZ"]={"code":"TA10 9BZ","region":"England","city":"High Ham","latitude":51.07583,"longitude":-2.82083}}(window,'GeoPostal','GB');

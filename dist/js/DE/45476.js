@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45476"]={"code":"45476","region":"Nordrhein-Westfalen","city":"Styrum","latitude":51.45126,"longitude":6.86418}}(window,'GeoPostal','DE');

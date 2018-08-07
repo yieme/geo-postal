@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90432"]={"code":"90432","region":"Zakarpatska oblast","city":"Drahovo","latitude":48.23573,"longitude":23.54914}}(window,'GeoPostal','UA');

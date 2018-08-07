@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59224"]={"code":"59224","region":"Hauts-de-France","city":"Thiant","latitude":50.3048,"longitude":3.44796}}(window,'GeoPostal','FR');

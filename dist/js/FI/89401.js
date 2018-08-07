@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89401"]={"code":"89401","region":"Kainuu","city":"Hyrynsalmi","latitude":64.66667,"longitude":28.53333}}(window,'GeoPostal','FI');

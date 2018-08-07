@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3V 0A1"]={"code":"J3V 0A1","region":"Quebec","city":"Saint-Bruno","latitude":48.46679,"longitude":-71.6491}}(window,'GeoPostal','CA');

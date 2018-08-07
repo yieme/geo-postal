@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79087"]={"code":"79087","region":"TX","city":"Texline","latitude":36.374,"longitude":-102.9845}}(window,'GeoPostal','US');

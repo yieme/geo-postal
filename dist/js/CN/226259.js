@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226259"]={"code":"226259","region":"Jiangsu","city":"Yinyang","latitude":31.71483,"longitude":121.86187}}(window,'GeoPostal','CN');

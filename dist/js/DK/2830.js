@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2830"]={"code":"2830","region":"Hovedstaden","city":"Virum","latitude":55.8,"longitude":12.466667}}(window,'GeoPostal','DK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44220"]={"code":"44220","region":"Pays-de-la-Loire","city":"Coueron","latitude":47.21508,"longitude":-1.72171}}(window,'GeoPostal','FR');

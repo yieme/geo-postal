@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446178"]={"code":"446178","region":"Samarskaya oblast'","city":"Mayskoye","latitude":52.27244,"longitude":50.03382}}(window,'GeoPostal','RU');

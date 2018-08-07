@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84539"]={"code":"84539","region":"Bayern","city":"Weilkirchen","latitude":48.27774,"longitude":12.43843}}(window,'GeoPostal','DE');

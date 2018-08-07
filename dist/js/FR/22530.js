@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22530"]={"code":"22530","region":"Bretagne","city":"Mur-de-Bretagne","latitude":48.2,"longitude":-2.98333}}(window,'GeoPostal','FR');

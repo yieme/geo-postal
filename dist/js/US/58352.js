@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58352"]={"code":"58352","region":"North Dakota","city":"Munich","latitude":48.669444,"longitude":-98.835556}}(window,'GeoPostal','US');

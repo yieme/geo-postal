@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32676"]={"code":"32676","region":"Nordrhein-Westfalen","city":"Lugde","latitude":51.95828,"longitude":9.24706}}(window,'GeoPostal','DE');

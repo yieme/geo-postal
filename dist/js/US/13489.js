@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13489"]={"code":"13489","region":"NY","city":"West Leyden","latitude":43.4597,"longitude":-75.5127}}(window,'GeoPostal','US');

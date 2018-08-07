@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05161"]={"code":"05161","region":"VT","city":"Weston","latitude":43.2941,"longitude":-72.7935}}(window,'GeoPostal','US');

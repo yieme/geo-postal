@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58171"]={"code":"58171","region":"Sindh","city":"Kashmor","latitude":28.43333,"longitude":69.58333}}(window,'GeoPostal','PK');

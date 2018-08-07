@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12800"]={"code":"12800","region":"Occitanie","city":"Naucelle","latitude":44.1981,"longitude":2.3431}}(window,'GeoPostal','FR');

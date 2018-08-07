@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["098-4581"]={"code":"098-4581","region":"Hokkaido","city":"Wakkanai","latitude":45.415667,"longitude":141.67306}}(window,'GeoPostal','JP');

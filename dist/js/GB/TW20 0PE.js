@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW20 0PE"]={"code":"TW20 0PE","region":"England","city":"Englefield Green","latitude":51.42845,"longitude":-0.57551}}(window,'GeoPostal','GB');

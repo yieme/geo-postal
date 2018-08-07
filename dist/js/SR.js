@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["SR"]={id:'SR',country:'Suriname', postal:{'':{code:'',region:'Paramaribo',city:'Paramaribo',latitude:5.86638,longitude:-55.16682}}};

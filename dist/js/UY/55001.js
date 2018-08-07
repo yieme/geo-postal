@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55001"]={"code":"55001","region":"Artigas","city":"Baltasar Brum","latitude":-30.71294,"longitude":-57.32728}}(window,'GeoPostal','UY');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34593"]={"code":"34593","region":"Hessen","city":"Nenterode","latitude":50.99233,"longitude":9.53312}}(window,'GeoPostal','DE');

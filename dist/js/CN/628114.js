@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628114"]={"code":"628114","region":"Sichuan","city":"Qifo","latitude":32.30398,"longitude":105.28481}}(window,'GeoPostal','CN');

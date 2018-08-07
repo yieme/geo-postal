@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["281121"]={"code":"281121","region":"Uttar Pradesh","city":"Mathura","latitude":27.5,"longitude":77.68333}}(window,'GeoPostal','IN');

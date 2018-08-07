@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80449"]={"code":"80449","region":"Colorado","city":"Hartsel","latitude":39.02139,"longitude":-105.79583}}(window,'GeoPostal','US');

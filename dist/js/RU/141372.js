@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141372"]={"code":"141372","region":"Moskovskaya oblast'","city":"Khot'kovo","latitude":56.25699,"longitude":37.99544}}(window,'GeoPostal','RU');

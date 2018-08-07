@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70519"]={"code":"70519","region":"LA","city":"Cade","latitude":30.0797,"longitude":-91.9114}}(window,'GeoPostal','US');

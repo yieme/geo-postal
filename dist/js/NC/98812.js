@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98812"]={"code":"98812","region":"Province Sud","city":"Bouloupari","latitude":-21.86667,"longitude":166.05}}(window,'GeoPostal','NC');

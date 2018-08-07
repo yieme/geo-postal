@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49952"]={"code":"49952","region":"MI","city":"Nisula","latitude":46.7748,"longitude":-88.8799}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76247"]={"code":"76247","region":"Texas","city":"Justin","latitude":33.070981,"longitude":-97.303407}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17764"]={"code":"17764","region":"Pennsylvania","city":"Renovo","latitude":41.32646,"longitude":-77.75082}}(window,'GeoPostal','US');

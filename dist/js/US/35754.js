@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35754"]={"code":"35754","region":"AL","city":"Laceys Spring","latitude":34.4996,"longitude":-86.6129}}(window,'GeoPostal','US');

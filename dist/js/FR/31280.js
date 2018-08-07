@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31280"]={"code":"31280","region":"Occitanie","city":"Mons","latitude":43.6124,"longitude":1.57207}}(window,'GeoPostal','FR');

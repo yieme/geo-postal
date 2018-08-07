@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4753"]={"code":"4753","region":"Catamarca","city":"Londres","latitude":-27.71439,"longitude":-67.13349}}(window,'GeoPostal','AR');

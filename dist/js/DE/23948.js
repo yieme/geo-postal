@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23948"]={"code":"23948","region":"Mecklenburg-Vorpommern","city":"Niederklutz","latitude":53.97104,"longitude":11.16764}}(window,'GeoPostal','DE');

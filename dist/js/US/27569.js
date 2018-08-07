@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27569"]={"code":"27569","region":"NC","city":"Princeton","latitude":35.4558,"longitude":-78.1674}}(window,'GeoPostal','US');

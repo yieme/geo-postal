@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74209"]={"code":"74209","region":"Auvergne-Rhone-Alpes","city":"Thonon-les-Bains","latitude":46.36667,"longitude":6.48333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["356-876"]={"code":"356-876","region":"Chungcheongnam-do","city":"Taesal-li","latitude":36.9714,"longitude":126.4542}}(window,'GeoPostal','KR');

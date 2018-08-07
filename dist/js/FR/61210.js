@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61210"]={"code":"61210","region":"Normandie","city":"Courteilles","latitude":48.77496,"longitude":-0.19942}}(window,'GeoPostal','FR');

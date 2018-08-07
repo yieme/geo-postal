@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39558"]={"code":"39558","region":"MS","city":"Lakeshore","latitude":30.2391,"longitude":-89.4595}}(window,'GeoPostal','US');

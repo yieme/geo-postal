@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-314"]={"code":"72-314","region":"Zachodniopomorskie","city":"Radowo Male","latitude":53.66575,"longitude":15.44789}}(window,'GeoPostal','PL');

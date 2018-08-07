@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29593"]={"code":"29593","region":"SC","city":"Society Hill","latitude":34.4512,"longitude":-79.8865}}(window,'GeoPostal','US');

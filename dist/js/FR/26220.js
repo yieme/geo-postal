@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26220"]={"code":"26220","region":"Auvergne-Rhone-Alpes","city":"Dieulefit","latitude":44.52341,"longitude":5.06425}}(window,'GeoPostal','FR');

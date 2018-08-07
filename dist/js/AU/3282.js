@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3282"]={"code":"3282","region":"Victoria","city":"Koroit","latitude":-38.2918,"longitude":142.36729}}(window,'GeoPostal','AU');

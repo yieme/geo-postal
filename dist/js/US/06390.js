@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06390"]={"code":"06390","region":"New York","city":"Fishers Island","latitude":41.26194,"longitude":-72.00722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24558"]={"code":"24558","region":"Virginia","city":"Halifax","latitude":36.76597,"longitude":-78.92834}}(window,'GeoPostal','US');

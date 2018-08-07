@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6100000"]={"code":"6100000","region":"Aisen del General Carlos Ibanez del Campo","city":"Cochrane","latitude":-47.2557,"longitude":-72.5695}}(window,'GeoPostal','CL');

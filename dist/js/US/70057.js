@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70057"]={"code":"70057","region":"LA","city":"Hahnville","latitude":29.9668,"longitude":-90.4082}}(window,'GeoPostal','US');

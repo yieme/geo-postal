@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["237510"]={"code":"237510","region":"Olt","city":"Vadastra","latitude":43.86667,"longitude":24.36667}}(window,'GeoPostal','RO');

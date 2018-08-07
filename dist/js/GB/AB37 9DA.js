@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB37 9DA"]={"code":"AB37 9DA","region":"Scotland","city":"Drumin","latitude":57.35,"longitude":-3.35}}(window,'GeoPostal','GB');

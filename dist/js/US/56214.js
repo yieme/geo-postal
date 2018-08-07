@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56214"]={"code":"56214","region":"Minnesota","city":"Belview","latitude":44.81151,"longitude":-95.542}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13710-000"]={"code":"13710-000","region":"Sao Paulo","city":"Tambau","latitude":-21.705,"longitude":-47.27444}}(window,'GeoPostal','BR');

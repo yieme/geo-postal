@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["514459"]={"code":"514459","region":"Guangdong","city":"Changbu","latitude":23.79793,"longitude":115.43894}}(window,'GeoPostal','CN');

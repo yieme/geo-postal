@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78330"]={"code":"78330","region":"TX","city":"Agua Dulce","latitude":27.7817,"longitude":-97.9086}}(window,'GeoPostal','US');

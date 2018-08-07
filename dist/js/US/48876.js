@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48876"]={"code":"48876","region":"MI","city":"Potterville","latitude":42.6398,"longitude":-84.7346}}(window,'GeoPostal','US');

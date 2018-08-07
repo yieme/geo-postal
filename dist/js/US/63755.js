@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63755"]={"code":"63755","region":"Missouri","city":"Jackson","latitude":37.381954,"longitude":-89.661189}}(window,'GeoPostal','US');

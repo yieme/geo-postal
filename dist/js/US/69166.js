@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69166"]={"code":"69166","region":"NE","city":"Thedford","latitude":41.9794,"longitude":-100.5574}}(window,'GeoPostal','US');

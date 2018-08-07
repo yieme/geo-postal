@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29730"]={"code":"29730","region":"Bretagne","city":"Guilvinec","latitude":47.79861,"longitude":-4.28111}}(window,'GeoPostal','FR');

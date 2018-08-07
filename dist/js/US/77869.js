@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77869"]={"code":"77869","region":"TX","city":"Texas Dept Of Correction","latitude":30.35,"longitude":-96.06}}(window,'GeoPostal','US');

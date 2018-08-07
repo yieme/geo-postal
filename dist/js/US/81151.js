@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81151"]={"code":"81151","region":"Colorado","city":"Sanford","latitude":37.268452,"longitude":-105.847889}}(window,'GeoPostal','US');

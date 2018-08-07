@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82438"]={"code":"82438","region":"Bayern","city":"Eschenlohe","latitude":47.6,"longitude":11.18333}}(window,'GeoPostal','DE');

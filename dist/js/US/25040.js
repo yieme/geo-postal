@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25040"]={"code":"25040","region":"WV","city":"Charlton Heights","latitude":38.1237,"longitude":-81.234}}(window,'GeoPostal','US');

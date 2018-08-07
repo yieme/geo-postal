@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08090"]={"code":"08090","region":"Grand-Est","city":"Aiglemont","latitude":49.78031,"longitude":4.76483}}(window,'GeoPostal','FR');

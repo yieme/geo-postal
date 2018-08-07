@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12063"]={"code":"12063","region":"NY","city":"East Schodack","latitude":42.5637,"longitude":-73.6274}}(window,'GeoPostal','US');

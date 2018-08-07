@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27842"]={"code":"27842","region":"NC","city":"Henrico","latitude":36.5274,"longitude":-77.8546}}(window,'GeoPostal','US');

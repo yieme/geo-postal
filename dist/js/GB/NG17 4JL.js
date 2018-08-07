@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG17 4JL"]={"code":"NG17 4JL","region":"Northern Ireland","city":"Ashfield","latitude":54.4,"longitude":-6.2}}(window,'GeoPostal','GB');

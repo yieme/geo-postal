@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23330"]={"code":"23330","region":"Severnobanatski okrug","city":"Novi Knezevac","latitude":46.05,"longitude":20.1}}(window,'GeoPostal','RS');

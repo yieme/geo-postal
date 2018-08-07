@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["529141"]={"code":"529141","region":"Guangdong","city":"Xinhui","latitude":22.456,"longitude":113.0482}}(window,'GeoPostal','CN');

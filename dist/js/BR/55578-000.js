@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55578-000"]={"code":"55578-000","region":"Pernambuco","city":"Tamandare","latitude":-8.75972,"longitude":-35.10472}}(window,'GeoPostal','BR');

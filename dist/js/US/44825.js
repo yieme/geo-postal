@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44825"]={"code":"44825","region":"OH","city":"Chatfield","latitude":40.9542,"longitude":-82.9432}}(window,'GeoPostal','US');

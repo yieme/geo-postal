@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19950"]={"code":"19950","region":"Keski-Suomi","city":"Luhanka","latitude":61.79682,"longitude":25.70457}}(window,'GeoPostal','FI');

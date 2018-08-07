@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12833"]={"code":"12833","region":"NY","city":"Greenfield Center","latitude":43.1401,"longitude":-73.8398}}(window,'GeoPostal','US');

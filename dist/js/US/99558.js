@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99558"]={"code":"99558","region":"AK","city":"Anvik","latitude":62.6561,"longitude":-160.2067}}(window,'GeoPostal','US');

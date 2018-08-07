@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13325"]={"code":"13325","region":"NY","city":"Constableville","latitude":43.563,"longitude":-75.4584}}(window,'GeoPostal','US');

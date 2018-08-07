@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35060"]={"code":"35060","region":"AL","city":"Docena","latitude":33.5589,"longitude":-86.9294}}(window,'GeoPostal','US');

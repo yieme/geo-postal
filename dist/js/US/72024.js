@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72024"]={"code":"72024","region":"AR","city":"Carlisle","latitude":34.7933,"longitude":-91.7459}}(window,'GeoPostal','US');

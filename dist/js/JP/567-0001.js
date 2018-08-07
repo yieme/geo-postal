@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["567-0001"]={"code":"567-0001","region":"Osaka","city":"Ibaraki","latitude":34.81639,"longitude":135.56861}}(window,'GeoPostal','JP');

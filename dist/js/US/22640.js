@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22640"]={"code":"22640","region":"VA","city":"Huntly","latitude":38.8129,"longitude":-78.1165}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7G 5G2"]={"code":"L7G 5G2","region":"Ontario","city":"Halton Hills","latitude":43.6403,"longitude":-79.93146}}(window,'GeoPostal','CA');

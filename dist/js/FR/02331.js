@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02331"]={"code":"02331","region":"Hauts-de-France","city":"Soissons","latitude":49.38167,"longitude":3.32361}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55777"]={"code":"55777","region":"Rheinland-Pfalz","city":"Mettweiler","latitude":49.58333,"longitude":7.31667}}(window,'GeoPostal','DE');

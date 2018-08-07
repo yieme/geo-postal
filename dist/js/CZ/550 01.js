@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["550 01"]={"code":"550 01","region":"Kralovehradecky kraj","city":"Broumov","latitude":50.58566,"longitude":16.33181}}(window,'GeoPostal','CZ');

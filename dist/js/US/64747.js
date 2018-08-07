@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64747"]={"code":"64747","region":"MO","city":"Garden City","latitude":38.5681,"longitude":-94.1825}}(window,'GeoPostal','US');

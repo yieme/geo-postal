@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31069"]={"code":"31069","region":"Georgia","city":"Perry","latitude":32.458503,"longitude":-83.731734}}(window,'GeoPostal','US');

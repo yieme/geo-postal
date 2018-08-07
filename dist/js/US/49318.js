@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49318"]={"code":"49318","region":"MI","city":"Casnovia","latitude":43.2381,"longitude":-85.8254}}(window,'GeoPostal','US');

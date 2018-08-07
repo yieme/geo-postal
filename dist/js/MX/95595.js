@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95595"]={"code":"95595","region":"Veracruz de Ignacio de la Llave","city":"Villa Azueta","latitude":18.13333,"longitude":-95.66667}}(window,'GeoPostal','MX');

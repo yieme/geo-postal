@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["927 05"]={"code":"927 05","region":"Nitriansky kraj","city":"Sellye","latitude":48.15127,"longitude":17.88062}}(window,'GeoPostal','SK');

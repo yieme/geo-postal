@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7402"]={"code":"7402","region":"Korce","city":"Leskovik","latitude":40.15139,"longitude":20.59722}}(window,'GeoPostal','AL');

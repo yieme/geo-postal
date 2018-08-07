@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1A 0A1"]={"code":"V1A 0A1","region":"British Columbia","city":"Kimberley","latitude":49.68325,"longitude":-115.9855}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82325"]={"code":"82325","region":"Wyoming","city":"Encampment","latitude":41.20833,"longitude":-106.79111}}(window,'GeoPostal','US');

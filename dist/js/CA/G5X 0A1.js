@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5X 0A1"]={"code":"G5X 0A1","region":"Quebec","city":"Beauceville","latitude":46.21785,"longitude":-70.77873}}(window,'GeoPostal','CA');

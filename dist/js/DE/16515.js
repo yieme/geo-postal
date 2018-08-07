@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16515"]={"code":"16515","region":"Brandenburg","city":"Schmachtenhagen Ost","latitude":52.75331,"longitude":13.3476}}(window,'GeoPostal','DE');

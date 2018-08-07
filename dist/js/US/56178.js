@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56178"]={"code":"56178","region":"Minnesota","city":"Tyler","latitude":44.2783,"longitude":-96.13476}}(window,'GeoPostal','US');

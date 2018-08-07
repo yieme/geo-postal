@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32694"]={"code":"32694","region":"FL","city":"Waldo","latitude":29.7871,"longitude":-82.1608}}(window,'GeoPostal','US');

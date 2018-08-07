@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50430"]={"code":"50430","region":"IA","city":"Corwith","latitude":42.9927,"longitude":-93.9575}}(window,'GeoPostal','US');

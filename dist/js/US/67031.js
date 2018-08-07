@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67031"]={"code":"67031","region":"KS","city":"Conway Springs","latitude":37.3903,"longitude":-97.6284}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83920"]={"code":"83920","region":"Provence-Alpes-Cote d'Azur","city":"La Motte","latitude":43.49142,"longitude":6.53689}}(window,'GeoPostal','FR');

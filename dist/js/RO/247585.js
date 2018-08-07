@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247585"]={"code":"247585","region":"Valcea","city":"Salatrucel","latitude":45.25,"longitude":24.38333}}(window,'GeoPostal','RO');

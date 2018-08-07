@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68647"]={"code":"68647","region":"NE","city":"Monroe","latitude":41.4783,"longitude":-97.6061}}(window,'GeoPostal','US');

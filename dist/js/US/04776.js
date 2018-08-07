@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04776"]={"code":"04776","region":"ME","city":"Sherman","latitude":45.8731,"longitude":-68.3847}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32544"]={"code":"32544","region":"FL","city":"Hurlburt Field","latitude":30.4229,"longitude":-86.6985}}(window,'GeoPostal','US');

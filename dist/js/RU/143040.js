@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143040"]={"code":"143040","region":"Moskva","city":"Moscow","latitude":55.75222,"longitude":37.61556}}(window,'GeoPostal','RU');

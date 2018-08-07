@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08868"]={"code":"08868","region":"NJ","city":"Quakertown","latitude":40.5655,"longitude":-74.9389}}(window,'GeoPostal','US');

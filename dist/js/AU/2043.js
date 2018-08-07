@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2043"]={"code":"2043","region":"New South Wales","city":"Erskineville","latitude":-33.90254,"longitude":151.18579}}(window,'GeoPostal','AU');

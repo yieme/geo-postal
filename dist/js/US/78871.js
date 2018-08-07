@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78871"]={"code":"78871","region":"TX","city":"Langtry","latitude":29.8085,"longitude":-101.5587}}(window,'GeoPostal','US');

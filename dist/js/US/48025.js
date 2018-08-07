@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48025"]={"code":"48025","region":"Michigan","city":"Bingham Farms","latitude":42.521522,"longitude":-83.263464}}(window,'GeoPostal','US');

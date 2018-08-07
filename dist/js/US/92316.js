@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92316"]={"code":"92316","region":"California","city":"Bloomington","latitude":34.066606,"longitude":-117.396069}}(window,'GeoPostal','US');

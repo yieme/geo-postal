@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47820"]={"code":"47820","region":"Castilla y Leon","city":"Villabragima","latitude":41.82178,"longitude":-5.11546}}(window,'GeoPostal','ES');

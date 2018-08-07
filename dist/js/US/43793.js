@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43793"]={"code":"43793","region":"Ohio","city":"Woodsfield","latitude":39.76257,"longitude":-81.11538}}(window,'GeoPostal','US');

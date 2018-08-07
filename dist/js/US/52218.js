@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52218"]={"code":"52218","region":"IA","city":"Coggon","latitude":42.2792,"longitude":-91.5413}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK1 4QD"]={"code":"FK1 4QD","region":"Scotland","city":"Camelon","latitude":56.00302,"longitude":-3.82072}}(window,'GeoPostal','GB');

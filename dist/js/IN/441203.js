@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["441203"]={"code":"441203","region":"Maharashtra","city":"Bhandara","latitude":21.16667,"longitude":79.65}}(window,'GeoPostal','IN');

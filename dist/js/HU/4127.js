@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4127"]={"code":"4127","region":"Hajdu-Bihar","city":"Biharkeresztes","latitude":47.13333,"longitude":21.71667}}(window,'GeoPostal','HU');

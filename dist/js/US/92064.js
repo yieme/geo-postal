@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92064"]={"code":"92064","region":"California","city":"Poway","latitude":32.96282,"longitude":-117.03586}}(window,'GeoPostal','US');

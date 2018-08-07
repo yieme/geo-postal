@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94253"]={"code":"94253","region":"Veracruz de Ignacio de la Llave","city":"Paso de Ovejas","latitude":19.28333,"longitude":-96.43333}}(window,'GeoPostal','MX');

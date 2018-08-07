@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69180"]={"code":"69180","region":"Orebro lan","city":"Karlskoga","latitude":59.32667,"longitude":14.52386}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77345"]={"code":"77345","region":"TX","city":"Kingwood","latitude":30.0336,"longitude":-95.261}}(window,'GeoPostal','US');

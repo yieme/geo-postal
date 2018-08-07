@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76380-000"]={"code":"76380-000","region":"Goias","city":"Goianesia","latitude":-15.3175,"longitude":-49.1175}}(window,'GeoPostal','BR');

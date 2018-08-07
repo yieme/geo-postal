@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA11 0DJ"]={"code":"CA11 0DJ","region":"England","city":"Skirsgill","latitude":54.65082,"longitude":-2.76278}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03043"]={"code":"03043","region":"Lazio","city":"Cassino","latitude":41.48762,"longitude":13.83151}}(window,'GeoPostal','IT');

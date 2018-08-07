@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-431"]={"code":"57-431","region":"Dolnoslaskie","city":"Jugow","latitude":50.62758,"longitude":16.51812}}(window,'GeoPostal','PL');

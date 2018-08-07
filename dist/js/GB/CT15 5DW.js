@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT15 5DW"]={"code":"CT15 5DW","region":"England","city":"Swingate","latitude":51.14514,"longitude":1.33986}}(window,'GeoPostal','GB');

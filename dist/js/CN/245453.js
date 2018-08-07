@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["245453"]={"code":"245453","region":"Anhui","city":"Yanjiao","latitude":29.82,"longitude":118.04111}}(window,'GeoPostal','CN');

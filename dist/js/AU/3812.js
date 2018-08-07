@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3812"]={"code":"3812","region":"Victoria","city":"Maryknoll","latitude":-38.03423,"longitude":145.60421}}(window,'GeoPostal','AU');

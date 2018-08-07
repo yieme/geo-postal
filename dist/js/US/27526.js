@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27526"]={"code":"27526","region":"North Carolina","city":"Fuquay-Varina","latitude":35.58432,"longitude":-78.80001}}(window,'GeoPostal','US');

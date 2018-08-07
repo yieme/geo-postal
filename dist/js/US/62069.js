@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62069"]={"code":"62069","region":"IL","city":"Mount Olive","latitude":39.0705,"longitude":-89.7448}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692390"]={"code":"692390","region":"Primorskiy kray","city":"Monastyrishche","latitude":44.19306,"longitude":132.49722}}(window,'GeoPostal','RU');

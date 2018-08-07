@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3012"]={"code":"3012","region":"Sirak","city":"Lerrnakert","latitude":40.56118,"longitude":43.93851}}(window,'GeoPostal','AM');

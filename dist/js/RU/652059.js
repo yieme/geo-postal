@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652059"]={"code":"652059","region":"Kemerovskaya oblast'","city":"Yurga","latitude":55.72306,"longitude":84.88611}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02500"]={"code":"02500","region":"Hauts-de-France","city":"Hirson","latitude":49.92262,"longitude":4.08259}}(window,'GeoPostal','FR');

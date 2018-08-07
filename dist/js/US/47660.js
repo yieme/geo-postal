@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47660"]={"code":"47660","region":"Indiana","city":"Oakland City","latitude":38.336393,"longitude":-87.352358}}(window,'GeoPostal','US');

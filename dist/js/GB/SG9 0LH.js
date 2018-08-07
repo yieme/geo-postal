@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG9 0LH"]={"code":"SG9 0LH","region":"England","city":"Furneux Pelham","latitude":51.93141,"longitude":0.08051}}(window,'GeoPostal','GB');

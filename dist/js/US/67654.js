@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67654"]={"code":"67654","region":"Kansas","city":"Norton","latitude":39.83389,"longitude":-99.89151}}(window,'GeoPostal','US');

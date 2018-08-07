@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26220"]={"code":"26220","region":"Juznobanatski okrug","city":"Kovin","latitude":44.7475,"longitude":20.97611}}(window,'GeoPostal','RS');

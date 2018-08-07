@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20271"]={"code":"20271","region":"Pais Vasco","city":"Irura","latitude":43.16651,"longitude":-2.06746}}(window,'GeoPostal','ES');

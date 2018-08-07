@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["757028"]={"code":"757028","region":"Odisha","city":"Remuna","latitude":21.52611,"longitude":86.87222}}(window,'GeoPostal','IN');

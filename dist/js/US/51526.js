@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51526"]={"code":"51526","region":"IA","city":"Crescent","latitude":41.3644,"longitude":-95.8276}}(window,'GeoPostal','US');

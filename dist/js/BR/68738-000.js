@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68738-000"]={"code":"68738-000","region":"Para","city":"Santa Maria do Para","latitude":-1.35028,"longitude":-47.57556}}(window,'GeoPostal','BR');

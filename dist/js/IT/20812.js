@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20812"]={"code":"20812","region":"Lombardia","city":"Limbiate","latitude":45.59677,"longitude":9.12904}}(window,'GeoPostal','IT');

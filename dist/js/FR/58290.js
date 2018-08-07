@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58290"]={"code":"58290","region":"Bourgogne-Franche-Comte","city":"Moulins-Engilbert","latitude":46.98821,"longitude":3.81084}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2L0"]={"code":"T0H 2L0","region":"Alberta","city":"McLennan","latitude":55.70009,"longitude":-116.90259}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["123003"]={"code":"123003","region":"Liaoning","city":"Fuxin","latitude":42.01556,"longitude":121.65889}}(window,'GeoPostal','CN');

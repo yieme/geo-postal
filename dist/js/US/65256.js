@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65256"]={"code":"65256","region":"MO","city":"Harrisburg","latitude":39.1203,"longitude":-92.441}}(window,'GeoPostal','US');

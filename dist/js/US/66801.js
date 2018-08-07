@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66801"]={"code":"66801","region":"Kansas","city":"Emporia","latitude":38.4039,"longitude":-96.18166}}(window,'GeoPostal','US');

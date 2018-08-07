@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53270"]={"code":"53270","region":"Pays-de-la-Loire","city":"Sainte-Suzanne","latitude":48.09818,"longitude":-0.35439}}(window,'GeoPostal','FR');

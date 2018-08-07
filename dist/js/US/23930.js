@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23930"]={"code":"23930","region":"Virginia","city":"Crewe","latitude":37.17321,"longitude":-78.12333}}(window,'GeoPostal','US');

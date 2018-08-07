@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84038"]={"code":"84038","region":"Utah","city":"Laketown","latitude":41.847135,"longitude":-111.347481}}(window,'GeoPostal','US');

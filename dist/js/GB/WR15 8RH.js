@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR15 8RH"]={"code":"WR15 8RH","region":"England","city":"Tenbury Wells","latitude":52.3,"longitude":-2.58333}}(window,'GeoPostal','GB');

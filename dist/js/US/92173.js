@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92173"]={"code":"92173","region":"California","city":"San Ysidro","latitude":32.56013,"longitude":-116.97436}}(window,'GeoPostal','US');

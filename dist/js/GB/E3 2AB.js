@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E3 2AB"]={"code":"E3 2AB","region":"England","city":"Malmesbury","latitude":51.58175,"longitude":-2.09708}}(window,'GeoPostal','GB');

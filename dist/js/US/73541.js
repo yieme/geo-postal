@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73541"]={"code":"73541","region":"OK","city":"Fletcher","latitude":34.7847,"longitude":-98.2002}}(window,'GeoPostal','US');

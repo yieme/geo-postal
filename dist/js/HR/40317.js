@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40317"]={"code":"40317","region":"Medimurska zupanija","city":"Podturen","latitude":46.46472,"longitude":16.54306}}(window,'GeoPostal','HR');

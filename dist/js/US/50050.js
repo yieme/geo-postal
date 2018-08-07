@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50050"]={"code":"50050","region":"Iowa","city":"Churdan","latitude":42.155,"longitude":-94.47667}}(window,'GeoPostal','US');

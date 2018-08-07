@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2410"]={"code":"2410","region":"New South Wales","city":"Yetman","latitude":-28.9,"longitude":150.78333}}(window,'GeoPostal','AU');

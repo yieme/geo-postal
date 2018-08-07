@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31081"]={"code":"31081","region":"GA","city":"Rupert","latitude":32.4325,"longitude":-84.2738}}(window,'GeoPostal','US');

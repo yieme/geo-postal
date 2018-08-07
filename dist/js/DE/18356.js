@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18356"]={"code":"18356","region":"Mecklenburg-Vorpommern","city":"Barth","latitude":54.36346,"longitude":12.72491}}(window,'GeoPostal','DE');

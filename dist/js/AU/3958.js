@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3958"]={"code":"3958","region":"Victoria","city":"Fish Creek","latitude":-38.68333,"longitude":146.08333}}(window,'GeoPostal','AU');

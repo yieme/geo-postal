@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243-0035"]={"code":"243-0035","region":"Kanagawa","city":"Atsugi","latitude":35.43333,"longitude":139.36667}}(window,'GeoPostal','JP');

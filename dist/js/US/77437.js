@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77437"]={"code":"77437","region":"Texas","city":"El Campo","latitude":29.19702,"longitude":-96.28032}}(window,'GeoPostal','US');

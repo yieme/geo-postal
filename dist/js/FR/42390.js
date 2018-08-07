@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42390"]={"code":"42390","region":"Auvergne-Rhone-Alpes","city":"Villars","latitude":45.47118,"longitude":4.35447}}(window,'GeoPostal','FR');

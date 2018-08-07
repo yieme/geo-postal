@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61025"]={"code":"61025","region":"Michoacan de Ocampo","city":"Contepec","latitude":20.01667,"longitude":-100.11667}}(window,'GeoPostal','MX');

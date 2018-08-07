@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3875"]={"code":"3875","region":"Victoria","city":"Glenaladale","latitude":-37.78333,"longitude":147.35}}(window,'GeoPostal','AU');

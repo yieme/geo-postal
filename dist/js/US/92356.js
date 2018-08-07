@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92356"]={"code":"92356","region":"CA","city":"Lucerne Valley","latitude":34.447,"longitude":-116.9189}}(window,'GeoPostal','US');

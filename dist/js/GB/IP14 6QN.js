@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 6QN"]={"code":"IP14 6QN","region":"England","city":"Debenham","latitude":52.22422,"longitude":1.18172}}(window,'GeoPostal','GB');

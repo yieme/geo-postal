@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["674125"]={"code":"674125","region":"Zabaykal'skiy kray","city":"Vershino-Darasunskiy","latitude":52.35,"longitude":115.51667}}(window,'GeoPostal','RU');

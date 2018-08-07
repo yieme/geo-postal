@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29123"]={"code":"29123","region":"South Carolina","city":"Pelion","latitude":33.76556,"longitude":-81.24639}}(window,'GeoPostal','US');

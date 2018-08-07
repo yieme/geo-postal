@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1900"]={"code":"1900","region":"Buenos Aires","city":"La Plata","latitude":-34.92145,"longitude":-57.95453}}(window,'GeoPostal','AR');

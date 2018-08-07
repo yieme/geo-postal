@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5403"]={"code":"5403","region":"Rangpur","city":"Rangpur","latitude":25.75,"longitude":89.25}}(window,'GeoPostal','BD');

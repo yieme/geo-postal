@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14469"]={"code":"14469","region":"New York","city":"Bloomfield","latitude":42.87516,"longitude":-77.46228}}(window,'GeoPostal','US');

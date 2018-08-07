@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24293"]={"code":"24293","region":"Virginia","city":"Wise","latitude":36.97593,"longitude":-82.57571}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83370-000"]={"code":"83370-000","region":"Parana","city":"Antonina","latitude":-25.42861,"longitude":-48.71194}}(window,'GeoPostal','BR');

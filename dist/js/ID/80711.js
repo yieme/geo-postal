@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80711"]={"code":"80711","region":"Bali","city":"Klungkung","latitude":-8.53333,"longitude":115.4}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59647"]={"code":"59647","region":"Montana","city":"Winston","latitude":46.360727,"longitude":-111.640726}}(window,'GeoPostal','US');

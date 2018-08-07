@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24657"]={"code":"24657","region":"VA","city":"Whitewood","latitude":37.2251,"longitude":-81.8605}}(window,'GeoPostal','US');

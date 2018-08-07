@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08711"]={"code":"08711","region":"Catalunya","city":"Odena","latitude":41.6,"longitude":1.65}}(window,'GeoPostal','ES');

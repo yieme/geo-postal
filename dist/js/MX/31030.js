@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31030"]={"code":"31030","region":"Colima","city":"Madrid","latitude":19.08333,"longitude":-103.86667}}(window,'GeoPostal','MX');

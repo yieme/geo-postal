@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4055"]={"code":"4055","region":"Queensland","city":"Kedron","latitude":-27.40286,"longitude":153.02969}}(window,'GeoPostal','AU');

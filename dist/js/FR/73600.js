@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73600"]={"code":"73600","region":"Auvergne-Rhone-Alpes","city":"Salins-les-Thermes","latitude":45.47169,"longitude":6.53051}}(window,'GeoPostal','FR');

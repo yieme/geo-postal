@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6692"]={"code":"6692","region":"Kardzhali","city":"Gabrovo","latitude":41.8,"longitude":25.26667}}(window,'GeoPostal','BG');

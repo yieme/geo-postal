@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69770"]={"code":"69770","region":"Auvergne-Rhone-Alpes","city":"Montrottier","latitude":45.79142,"longitude":4.46627}}(window,'GeoPostal','FR');

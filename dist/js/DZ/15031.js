@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15031"]={"code":"15031","region":"Tizi Ouzou","city":"Boudjima","latitude":36.80218,"longitude":4.15187}}(window,'GeoPostal','DZ');

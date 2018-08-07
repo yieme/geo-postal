@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169635"]={"code":"169635","region":"Komi, Respublika","city":"Puteyets","latitude":65.17157,"longitude":57.09101}}(window,'GeoPostal','RU');

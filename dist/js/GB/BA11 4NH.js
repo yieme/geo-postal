@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA11 4NH"]={"code":"BA11 4NH","region":"England","city":"Nunney","latitude":51.20944,"longitude":-2.37888}}(window,'GeoPostal','GB');

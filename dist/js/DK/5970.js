@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5970"]={"code":"5970","region":"Syddanmark","city":"AEroskobing","latitude":54.88803,"longitude":10.41117}}(window,'GeoPostal','DK');

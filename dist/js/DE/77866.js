@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77866"]={"code":"77866","region":"Baden-Wurttemberg","city":"Rheinbischofsheim","latitude":48.65298,"longitude":7.92638}}(window,'GeoPostal','DE');

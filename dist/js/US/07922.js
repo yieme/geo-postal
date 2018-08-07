@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07922"]={"code":"07922","region":"New Jersey","city":"Berkeley Heights","latitude":40.676603,"longitude":-74.432146}}(window,'GeoPostal','US');

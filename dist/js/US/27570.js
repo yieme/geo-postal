@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27570"]={"code":"27570","region":"North Carolina","city":"Ridgeway","latitude":36.435556,"longitude":-78.236944}}(window,'GeoPostal','US');

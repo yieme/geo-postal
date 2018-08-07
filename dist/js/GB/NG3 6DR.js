@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG3 6DR"]={"code":"NG3 6DR","region":"England","city":"Carlton","latitude":52.18801,"longitude":-0.60704}}(window,'GeoPostal','GB');

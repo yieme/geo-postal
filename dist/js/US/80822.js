@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80822"]={"code":"80822","region":"Colorado","city":"Joes","latitude":39.745767,"longitude":-102.624378}}(window,'GeoPostal','US');

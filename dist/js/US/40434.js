@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40434"]={"code":"40434","region":"KY","city":"Gray Hawk","latitude":37.3951,"longitude":-83.9402}}(window,'GeoPostal','US');

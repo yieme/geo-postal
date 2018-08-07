@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30621"]={"code":"30621","region":"GA","city":"Bishop","latitude":33.8081,"longitude":-83.4777}}(window,'GeoPostal','US');

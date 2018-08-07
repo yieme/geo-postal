@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 0A0"]={"code":"T0G 0A0","region":"Alberta","city":"Alcomdale","latitude":53.90015,"longitude":-113.83535}}(window,'GeoPostal','CA');

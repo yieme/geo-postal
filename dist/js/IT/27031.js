@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27031"]={"code":"27031","region":"Lombardia","city":"Candia Lomellina","latitude":45.17876,"longitude":8.59484}}(window,'GeoPostal','IT');

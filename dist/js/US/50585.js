@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50585"]={"code":"50585","region":"Iowa","city":"Sioux Rapids","latitude":42.89278,"longitude":-95.14722}}(window,'GeoPostal','US');

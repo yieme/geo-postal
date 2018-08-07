@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91763"]={"code":"91763","region":"California","city":"Montclair","latitude":34.074452,"longitude":-117.697748}}(window,'GeoPostal','US');

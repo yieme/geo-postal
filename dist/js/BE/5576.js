@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5576"]={"code":"5576","region":"Namur","city":"Beauraing","latitude":50.11042,"longitude":4.95554}}(window,'GeoPostal','BE');

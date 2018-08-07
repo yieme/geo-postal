@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29591"]={"code":"29591","region":"Skane lan","city":"Bromoella","latitude":56.07551,"longitude":14.46958}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN22 4HA"]={"code":"TN22 4HA","region":"England","city":"Barnes","latitude":51.47352,"longitude":-0.24839}}(window,'GeoPostal','GB');

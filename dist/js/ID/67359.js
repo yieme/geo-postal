@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67359"]={"code":"67359","region":"Jawa Timur","city":"Krajan Kidul Rojopolo","latitude":-8.1356,"longitude":113.3257}}(window,'GeoPostal','ID');

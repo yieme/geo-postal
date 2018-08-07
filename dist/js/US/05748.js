@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05748"]={"code":"05748","region":"VT","city":"Hancock","latitude":43.9125,"longitude":-72.9133}}(window,'GeoPostal','US');

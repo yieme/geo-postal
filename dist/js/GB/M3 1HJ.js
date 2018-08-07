@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M3 1HJ"]={"code":"M3 1HJ","region":"England","city":"Staveley","latitude":53.26667,"longitude":-1.35}}(window,'GeoPostal','GB');

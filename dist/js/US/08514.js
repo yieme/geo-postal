@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08514"]={"code":"08514","region":"NJ","city":"Cream Ridge","latitude":40.1399,"longitude":-74.465}}(window,'GeoPostal','US');

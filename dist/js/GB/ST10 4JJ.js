@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST10 4JJ"]={"code":"ST10 4JJ","region":"England","city":"Totmonslow","latitude":52.95545,"longitude":-2.01026}}(window,'GeoPostal','GB');

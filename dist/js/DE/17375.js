@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17375"]={"code":"17375","region":"Mecklenburg-Vorpommern","city":"Liepgarten","latitude":53.71667,"longitude":14.01667}}(window,'GeoPostal','DE');

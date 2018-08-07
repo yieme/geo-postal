@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44455"]={"code":"44455","region":"OH","city":"Rogers","latitude":40.7789,"longitude":-80.6202}}(window,'GeoPostal','US');

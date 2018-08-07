@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1P0"]={"code":"N0N 1P0","region":"Ontario","city":"Oil Springs","latitude":42.78338,"longitude":-82.11651}}(window,'GeoPostal','CA');

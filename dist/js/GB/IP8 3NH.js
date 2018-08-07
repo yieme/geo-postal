@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP8 3NH"]={"code":"IP8 3NH","region":"England","city":"Hintlesham","latitude":52.04961,"longitude":1.04465}}(window,'GeoPostal','GB');

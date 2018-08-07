@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58228-000"]={"code":"58228-000","region":"Paraiba","city":"Dona Ines","latitude":-6.61667,"longitude":-35.63333}}(window,'GeoPostal','BR');

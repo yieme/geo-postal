@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1403"]={"code":"1403","region":"Gegark'unik'","city":"Astghadzor","latitude":40.12248,"longitude":45.35698}}(window,'GeoPostal','AM');

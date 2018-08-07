@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346536"]={"code":"346536","region":"Rostovskaya oblast'","city":"Talovyy","latitude":47.80765,"longitude":40.10943}}(window,'GeoPostal','RU');

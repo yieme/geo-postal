@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70601"]={"code":"70601","region":"Limon","city":"Guacimo","latitude":10.21044,"longitude":-83.68067}}(window,'GeoPostal','CR');

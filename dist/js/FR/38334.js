@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38334"]={"code":"38334","region":"Auvergne-Rhone-Alpes","city":"Saint-Ismier","latitude":45.24708,"longitude":5.82863}}(window,'GeoPostal','FR');

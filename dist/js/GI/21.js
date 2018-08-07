@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21"]={"code":"21","region":"Gibraltar","city":"Gibraltar","latitude":36.14474,"longitude":-5.35257}}(window,'GeoPostal','GI');

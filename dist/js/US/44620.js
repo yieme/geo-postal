@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44620"]={"code":"44620","region":"OH","city":"Dellroy","latitude":40.5861,"longitude":-81.1986}}(window,'GeoPostal','US');

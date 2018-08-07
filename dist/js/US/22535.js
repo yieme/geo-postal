@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22535"]={"code":"22535","region":"VA","city":"Port Royal","latitude":38.1621,"longitude":-77.1837}}(window,'GeoPostal','US');

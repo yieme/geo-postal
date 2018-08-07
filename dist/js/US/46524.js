@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46524"]={"code":"46524","region":"IN","city":"Etna Green","latitude":41.2918,"longitude":-86.035}}(window,'GeoPostal','US');

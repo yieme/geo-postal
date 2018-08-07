@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 0NW"]={"code":"HU12 0NW","region":"England","city":"Winestead","latitude":53.70202,"longitude":-0.03268}}(window,'GeoPostal','GB');

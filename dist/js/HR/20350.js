@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20350"]={"code":"20350","region":"Dubrovacko-neretvanska zupanija","city":"Metkovic","latitude":43.05417,"longitude":17.64833}}(window,'GeoPostal','HR');

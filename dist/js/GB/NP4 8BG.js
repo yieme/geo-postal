@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP4 8BG"]={"code":"NP4 8BG","region":"Wales","city":"Pontypool","latitude":51.70111,"longitude":-3.04444}}(window,'GeoPostal','GB');

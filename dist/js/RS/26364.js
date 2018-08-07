@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26364"]={"code":"26364","region":"Juznobanatski okrug","city":"Margita","latitude":45.21806,"longitude":21.17556}}(window,'GeoPostal','RS');

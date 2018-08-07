@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2320"]={"code":"2320","region":"Antwerpen","city":"Hoogstraten","latitude":51.40029,"longitude":4.76034}}(window,'GeoPostal','BE');

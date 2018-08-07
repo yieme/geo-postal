@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45630"]={"code":"45630","region":"Erzincan","city":"Kemaliye","latitude":39.26288,"longitude":38.49674}}(window,'GeoPostal','TR');

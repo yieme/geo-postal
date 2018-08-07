@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95035"]={"code":"95035","region":"California","city":"Milpitas","latitude":37.437389,"longitude":-121.890166}}(window,'GeoPostal','US');

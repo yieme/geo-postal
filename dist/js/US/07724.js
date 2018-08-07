@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07724"]={"code":"07724","region":"New Jersey","city":"Eatontown","latitude":40.29622,"longitude":-74.05097}}(window,'GeoPostal','US');

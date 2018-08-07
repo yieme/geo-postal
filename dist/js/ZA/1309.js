@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1309"]={"code":"1309","region":"Mpumalanga","city":"Barberton","latitude":-25.78842,"longitude":31.05319}}(window,'GeoPostal','ZA');

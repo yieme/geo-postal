@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14752"]={"code":"14752","region":"NY","city":"Lily Dale","latitude":42.3524,"longitude":-79.3235}}(window,'GeoPostal','US');

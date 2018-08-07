@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07927"]={"code":"07927","region":"New Jersey","city":"Cedar Knolls","latitude":40.821944,"longitude":-74.448889}}(window,'GeoPostal','US');

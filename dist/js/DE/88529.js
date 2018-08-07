@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88529"]={"code":"88529","region":"Baden-Wurttemberg","city":"Gossenzugen","latitude":48.24311,"longitude":9.45232}}(window,'GeoPostal','DE');

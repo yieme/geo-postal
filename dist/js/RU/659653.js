@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659653"]={"code":"659653","region":"Altayskiy kray","city":"Altayskoye","latitude":51.95333,"longitude":85.3325}}(window,'GeoPostal','RU');

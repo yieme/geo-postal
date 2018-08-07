@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR2 0RG"]={"code":"HR2 0RG","region":"England","city":"Peterchurch","latitude":52.04188,"longitude":-2.95566}}(window,'GeoPostal','GB');

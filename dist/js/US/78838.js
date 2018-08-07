@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78838"]={"code":"78838","region":"Texas","city":"Concan","latitude":29.49528,"longitude":-99.7125}}(window,'GeoPostal','US');

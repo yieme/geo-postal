@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06348"]={"code":"06348","region":"Sachsen-Anhalt","city":"Burggorner","latitude":51.61667,"longitude":11.51667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE8 0RN"]={"code":"LE8 0RN","region":"England","city":"Saddington","latitude":52.52122,"longitude":-1.03175}}(window,'GeoPostal','GB');

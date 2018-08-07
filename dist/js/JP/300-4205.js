@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300-4205"]={"code":"300-4205","region":"Ibaraki","city":"Tsukuba","latitude":36.033,"longitude":140.067}}(window,'GeoPostal','JP');

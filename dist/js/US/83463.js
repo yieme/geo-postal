@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83463"]={"code":"83463","region":"ID","city":"Gibbonsville","latitude":45.5704,"longitude":-113.9913}}(window,'GeoPostal','US');

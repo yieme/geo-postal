@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["715502"]={"code":"715502","region":"Shaanxi","city":"Yongfeng","latitude":34.99917,"longitude":109.85926}}(window,'GeoPostal','CN');

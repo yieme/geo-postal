@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43211"]={"code":"43211","region":"Bjelovarsko-bilogorska zupanija","city":"Predavac","latitude":45.93583,"longitude":16.78333}}(window,'GeoPostal','HR');

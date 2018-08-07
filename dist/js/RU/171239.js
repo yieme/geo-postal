@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["171239"]={"code":"171239","region":"Tverskaya oblast'","city":"Likhoslavl'","latitude":57.12747,"longitude":35.46404}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38142"]={"code":"38142","region":"Auvergne-Rhone-Alpes","city":"Les Deux Alpes","latitude":45.0116,"longitude":6.12548}}(window,'GeoPostal','FR');

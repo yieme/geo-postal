@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN11 0PP"]={"code":"LN11 0PP","region":"England","city":"Yarburgh","latitude":53.41718,"longitude":0.02954}}(window,'GeoPostal','GB');

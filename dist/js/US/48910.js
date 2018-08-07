@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48910"]={"code":"48910","region":"Michigan","city":"Lansing","latitude":42.703016,"longitude":-84.546269}}(window,'GeoPostal','US');

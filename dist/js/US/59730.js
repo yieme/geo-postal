@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59730"]={"code":"59730","region":"Montana","city":"Gallatin Gateway","latitude":45.67778,"longitude":-111.04722}}(window,'GeoPostal','US');

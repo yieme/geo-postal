@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29484"]={"code":"29484","region":"Niedersachsen","city":"Langendorf","latitude":53.1,"longitude":11.25}}(window,'GeoPostal','DE');

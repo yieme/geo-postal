@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14979"]={"code":"14979","region":"Andalucia","city":"Iznajar","latitude":37.25766,"longitude":-4.30836}}(window,'GeoPostal','ES');

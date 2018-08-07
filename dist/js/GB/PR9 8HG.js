@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR9 8HG"]={"code":"PR9 8HG","region":"England","city":"Banks","latitude":53.68333,"longitude":-2.91667}}(window,'GeoPostal','GB');

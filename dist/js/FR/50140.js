@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50140"]={"code":"50140","region":"Normandie","city":"Romagny","latitude":48.63931,"longitude":-0.96605}}(window,'GeoPostal','FR');

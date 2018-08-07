@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-230"]={"code":"42-230","region":"Slaskie","city":"Koniecpol","latitude":50.77468,"longitude":19.68896}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4B 0A1"]={"code":"N4B 0A1","region":"Ontario","city":"Delhi","latitude":42.8501,"longitude":-80.49968}}(window,'GeoPostal','CA');

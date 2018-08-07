@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01944"]={"code":"01944","region":"Massachusetts","city":"Manchester","latitude":42.57778,"longitude":-70.76944}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182108"]={"code":"182108","region":"Pskovskaya oblast'","city":"Velikiye Luki","latitude":56.34,"longitude":30.54517}}(window,'GeoPostal','RU');

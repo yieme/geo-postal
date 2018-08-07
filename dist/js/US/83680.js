@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83680"]={"code":"83680","region":"ID","city":"Meridian","latitude":43.6121,"longitude":-116.3915}}(window,'GeoPostal','US');

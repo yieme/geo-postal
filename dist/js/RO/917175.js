@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917175"]={"code":"917175","region":"Calarasi","city":"Mitreni","latitude":44.16667,"longitude":26.6}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99804"]={"code":"99804","region":"Sevastopol'","city":"Kacha","latitude":44.77635,"longitude":33.54387}}(window,'GeoPostal','UA');

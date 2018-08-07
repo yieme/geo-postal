@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 8SH"]={"code":"BS40 8SH","region":"England","city":"Chew Magna","latitude":51.36611,"longitude":-2.61028}}(window,'GeoPostal','GB');

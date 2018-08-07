@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG4 3AY"]={"code":"HG4 3AY","region":"England","city":"Studley Roger","latitude":54.12654,"longitude":-1.55705}}(window,'GeoPostal','GB');

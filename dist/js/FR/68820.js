@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68820"]={"code":"68820","region":"Grand-Est","city":"Kruth","latitude":47.93079,"longitude":6.96475}}(window,'GeoPostal','FR');

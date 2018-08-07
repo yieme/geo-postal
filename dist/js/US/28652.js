@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28652"]={"code":"28652","region":"North Carolina","city":"Minneapolis","latitude":36.099167,"longitude":-81.987222}}(window,'GeoPostal','US');

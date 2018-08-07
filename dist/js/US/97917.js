@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97917"]={"code":"97917","region":"Oregon","city":"Riverside","latitude":43.509087,"longitude":-118.099042}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29490"]={"code":"29490","region":"Bretagne","city":"Guipavas","latitude":48.43522,"longitude":-4.39722}}(window,'GeoPostal','FR');

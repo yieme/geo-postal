@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05077"]={"code":"05077","region":"Vermont","city":"Tunbridge","latitude":43.92198,"longitude":-72.47148}}(window,'GeoPostal','US');

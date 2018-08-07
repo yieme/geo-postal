@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68113"]={"code":"68113","region":"Nebraska","city":"Offutt Air Force Base","latitude":41.12024,"longitude":-95.92095}}(window,'GeoPostal','US');

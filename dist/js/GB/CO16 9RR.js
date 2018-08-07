@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO16 9RR"]={"code":"CO16 9RR","region":"England","city":"Little Clacton","latitude":51.82557,"longitude":1.14215}}(window,'GeoPostal','GB');

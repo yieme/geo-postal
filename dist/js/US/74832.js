@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74832"]={"code":"74832","region":"OK","city":"Carney","latitude":35.8054,"longitude":-97.0159}}(window,'GeoPostal','US');

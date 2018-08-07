@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47457"]={"code":"47457","region":"IN","city":"Scotland","latitude":38.9128,"longitude":-86.9039}}(window,'GeoPostal','US');

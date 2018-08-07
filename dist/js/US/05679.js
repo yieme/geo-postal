@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05679"]={"code":"05679","region":"Vermont","city":"Williamstown","latitude":44.12173,"longitude":-72.54149}}(window,'GeoPostal','US');

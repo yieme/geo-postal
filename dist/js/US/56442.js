@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56442"]={"code":"56442","region":"Minnesota","city":"Cross Lake","latitude":46.65941,"longitude":-94.11387}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15170"]={"code":"15170","region":"Etela-Pohjanmaa","city":"Lahti","latitude":63.21667,"longitude":22.85}}(window,'GeoPostal','FI');

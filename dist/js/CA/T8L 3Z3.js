@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T8L 3Z3"]={"code":"T8L 3Z3","region":"Alberta","city":"Sandy Beach","latitude":53.68345,"longitude":-112.83525}}(window,'GeoPostal','CA');

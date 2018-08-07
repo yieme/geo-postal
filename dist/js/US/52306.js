@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52306"]={"code":"52306","region":"Iowa","city":"Mechanicsville","latitude":41.905496,"longitude":-91.253149}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12435"]={"code":"12435","region":"NY","city":"Greenfield Park","latitude":41.7281,"longitude":-74.5201}}(window,'GeoPostal','US');

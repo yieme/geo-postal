@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80645"]={"code":"80645","region":"Colorado","city":"La Salle","latitude":40.332867,"longitude":-104.685607}}(window,'GeoPostal','US');

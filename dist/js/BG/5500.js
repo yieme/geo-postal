@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5500"]={"code":"5500","region":"Lovech","city":"Lovech","latitude":43.13333,"longitude":24.71667}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72520"]={"code":"72520","region":"Arkansas","city":"Camp","latitude":36.392187,"longitude":-91.727647}}(window,'GeoPostal','US');

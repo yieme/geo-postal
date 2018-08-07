@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83001"]={"code":"83001","region":"Balochistan","city":"Kohlu","latitude":29.89615,"longitude":69.25199}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71472"]={"code":"71472","region":"LA","city":"Sieper","latitude":31.1976,"longitude":-92.7858}}(window,'GeoPostal','US');

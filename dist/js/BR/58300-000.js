@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58300-000"]={"code":"58300-000","region":"Paraiba","city":"Santa Rita","latitude":-7.11389,"longitude":-34.97806}}(window,'GeoPostal','BR');

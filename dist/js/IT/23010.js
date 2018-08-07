@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23010"]={"code":"23010","region":"Lombardia","city":"Buglio in Monte","latitude":46.18269,"longitude":9.67484}}(window,'GeoPostal','IT');

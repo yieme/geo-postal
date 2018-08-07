@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH8 9JW"]={"code":"DH8 9JW","region":"England","city":"Whittonstall","latitude":54.90919,"longitude":-1.88845}}(window,'GeoPostal','GB');

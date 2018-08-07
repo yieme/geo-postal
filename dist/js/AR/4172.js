@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4172"]={"code":"4172","region":"Tucuman","city":"Simoca","latitude":-27.26272,"longitude":-65.35647}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65550"]={"code":"65550","region":"MO","city":"Newburg","latitude":37.9008,"longitude":-91.8807}}(window,'GeoPostal','US');

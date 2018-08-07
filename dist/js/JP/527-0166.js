@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["527-0166"]={"code":"527-0166","region":"Shiga","city":"Higashiomi","latitude":35.117,"longitude":136.2}}(window,'GeoPostal','JP');

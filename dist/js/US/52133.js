@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52133"]={"code":"52133","region":"Iowa","city":"Castalia","latitude":43.168562,"longitude":-91.664265}}(window,'GeoPostal','US');

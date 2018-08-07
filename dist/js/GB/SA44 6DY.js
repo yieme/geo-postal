@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 6DY"]={"code":"SA44 6DY","region":"Wales","city":"Brynhoffnant","latitude":52.13665,"longitude":-4.43428}}(window,'GeoPostal','GB');

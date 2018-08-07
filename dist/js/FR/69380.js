@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69380"]={"code":"69380","region":"Auvergne-Rhone-Alpes","city":"Charnay","latitude":45.89112,"longitude":4.66801}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU3 6NS"]={"code":"HU3 6NS","region":"England","city":"Hull","latitude":53.7446,"longitude":-0.33525}}(window,'GeoPostal','GB');

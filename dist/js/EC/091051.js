@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["091051"]={"code":"091051","region":"Guayas","city":"Yaguachi","latitude":-2.11667,"longitude":-79.68333}}(window,'GeoPostal','EC');

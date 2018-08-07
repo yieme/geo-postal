@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["362271"]={"code":"362271","region":"Gujarat","city":"Mangrol","latitude":21.11667,"longitude":70.11667}}(window,'GeoPostal','IN');

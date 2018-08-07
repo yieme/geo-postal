@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60037"]={"code":"60037","region":"Marche","city":"Monte San Vito","latitude":43.60056,"longitude":13.26817}}(window,'GeoPostal','IT');

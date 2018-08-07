@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188423"]={"code":"188423","region":"Leningradskaya oblast'","city":"Begunitsy","latitude":59.58552,"longitude":29.31757}}(window,'GeoPostal','RU');

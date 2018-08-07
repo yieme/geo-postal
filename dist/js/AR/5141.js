@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5141"]={"code":"5141","region":"Cordoba","city":"Balnearia","latitude":-31.0088,"longitude":-62.66733}}(window,'GeoPostal','AR');

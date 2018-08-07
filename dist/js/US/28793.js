@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28793"]={"code":"28793","region":"NC","city":"Hendersonville","latitude":35.2927,"longitude":-82.5036}}(window,'GeoPostal','US');

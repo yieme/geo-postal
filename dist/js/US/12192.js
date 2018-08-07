@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12192"]={"code":"12192","region":"New York","city":"West Coxsackie","latitude":42.38328,"longitude":-73.8243}}(window,'GeoPostal','US');

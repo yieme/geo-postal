@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80023"]={"code":"80023","region":"Colorado","city":"Thornton","latitude":39.86804,"longitude":-104.97192}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38637"]={"code":"38637","region":"Mississippi","city":"Horn Lake","latitude":34.949932,"longitude":-90.03955}}(window,'GeoPostal','US');

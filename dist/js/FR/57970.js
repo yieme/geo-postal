@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57970"]={"code":"57970","region":"Grand-Est","city":"Koenigsmacker","latitude":49.4,"longitude":6.28333}}(window,'GeoPostal','FR');

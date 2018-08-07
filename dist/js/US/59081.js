@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59081"]={"code":"59081","region":"MT","city":"Silver Gate","latitude":45.0046,"longitude":-109.9854}}(window,'GeoPostal','US');

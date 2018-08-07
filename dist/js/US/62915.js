@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62915"]={"code":"62915","region":"IL","city":"Cambria","latitude":37.7814,"longitude":-89.1192}}(window,'GeoPostal','US');

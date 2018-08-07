@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["638812"]={"code":"638812","region":"Tamil Nadu","city":"Erode","latitude":11.35,"longitude":77.73333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20184"]={"code":"20184","region":"VA","city":"Upperville","latitude":38.9627,"longitude":-77.8847}}(window,'GeoPostal','US');

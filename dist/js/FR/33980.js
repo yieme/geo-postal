@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33980"]={"code":"33980","region":"Nouvelle-Aquitaine","city":"Audenge","latitude":44.68686,"longitude":-1.01345}}(window,'GeoPostal','FR');

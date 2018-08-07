@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61710"]={"code":"61710","region":"Michoacan de Ocampo","city":"Taretan","latitude":19.33333,"longitude":-101.91667}}(window,'GeoPostal','MX');

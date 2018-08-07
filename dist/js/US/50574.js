@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50574"]={"code":"50574","region":"Iowa","city":"Pocahontas","latitude":42.73553,"longitude":-94.66915}}(window,'GeoPostal','US');

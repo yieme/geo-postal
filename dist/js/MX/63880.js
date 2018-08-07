@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63880"]={"code":"63880","region":"Nayarit","city":"Jala","latitude":21.08333,"longitude":-104.43333}}(window,'GeoPostal','MX');

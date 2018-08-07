@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12549"]={"code":"12549","region":"NY","city":"Montgomery","latitude":41.5333,"longitude":-74.2534}}(window,'GeoPostal','US');

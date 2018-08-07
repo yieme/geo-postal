@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307233"]={"code":"307233","region":"Ilfov","city":"Magurele","latitude":44.35,"longitude":26.03333}}(window,'GeoPostal','RO');

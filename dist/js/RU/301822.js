@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301822"]={"code":"301822","region":"Tul'skaya oblast'","city":"Tovarkovskiy","latitude":53.68217,"longitude":38.2092}}(window,'GeoPostal','RU');

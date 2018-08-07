@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74083"]={"code":"74083","region":"OK","city":"Wann","latitude":36.9402,"longitude":-95.7768}}(window,'GeoPostal','US');

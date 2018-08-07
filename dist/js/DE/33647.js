@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33647"]={"code":"33647","region":"Nordrhein-Westfalen","city":"Quelle","latitude":52.00194,"longitude":8.49209}}(window,'GeoPostal','DE');

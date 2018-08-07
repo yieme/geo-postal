@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA39 9HU"]={"code":"SA39 9HU","region":"Wales","city":"Llanfihangel-ar-Arth","latitude":52.03105,"longitude":-4.2543}}(window,'GeoPostal','GB');

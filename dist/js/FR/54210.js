@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54210"]={"code":"54210","region":"Grand-Est","city":"Ville-en-Vermois","latitude":48.615,"longitude":6.2547}}(window,'GeoPostal','FR');

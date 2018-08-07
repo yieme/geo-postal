@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23604"]={"code":"23604","region":"VA","city":"Fort Eustis","latitude":37.1574,"longitude":-76.5845}}(window,'GeoPostal','US');

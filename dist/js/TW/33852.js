@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33852"]={"code":"33852","region":"Taoyuan","city":"Taoyuan","latitude":24.99368,"longitude":121.29696}}(window,'GeoPostal','TW');

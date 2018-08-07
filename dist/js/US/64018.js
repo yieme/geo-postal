@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64018"]={"code":"64018","region":"MO","city":"Camden Point","latitude":39.4515,"longitude":-94.7444}}(window,'GeoPostal','US');

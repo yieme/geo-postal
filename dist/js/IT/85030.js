@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85030"]={"code":"85030","region":"Basilicata","city":"Terranova di Pollino","latitude":39.97811,"longitude":16.29629}}(window,'GeoPostal','IT');

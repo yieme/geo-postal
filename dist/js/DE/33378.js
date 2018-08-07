@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33378"]={"code":"33378","region":"Nordrhein-Westfalen","city":"Rheda-Wiedenbruck","latitude":51.84967,"longitude":8.30017}}(window,'GeoPostal','DE');

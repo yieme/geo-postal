@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142641"]={"code":"142641","region":"Moskovskaya oblast'","city":"Davydovo","latitude":55.60859,"longitude":38.86109}}(window,'GeoPostal','RU');

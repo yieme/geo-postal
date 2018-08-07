@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40470"]={"code":"40470","region":"Castilla y Leon","city":"Navas de Oro","latitude":41.19627,"longitude":-4.43754}}(window,'GeoPostal','ES');

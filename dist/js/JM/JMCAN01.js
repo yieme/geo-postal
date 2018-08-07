@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCAN01"]={"code":"JMCAN01","region":"Saint Ann","city":"Alexandria","latitude":18.30768,"longitude":-77.35335}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 6LG"]={"code":"DL11 6LG","region":"England","city":"Gunnerside","latitude":54.37866,"longitude":-2.07916}}(window,'GeoPostal','GB');

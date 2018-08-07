@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62983"]={"code":"62983","region":"IL","city":"Royalton","latitude":37.879,"longitude":-89.1141}}(window,'GeoPostal','US');

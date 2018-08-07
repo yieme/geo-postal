@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4881"]={"code":"4881","region":"Queensland","city":"Koah","latitude":-16.83333,"longitude":145.51667}}(window,'GeoPostal','AU');

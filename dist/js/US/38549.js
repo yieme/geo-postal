@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38549"]={"code":"38549","region":"Tennessee","city":"Byrdstown","latitude":36.57451,"longitude":-85.12884}}(window,'GeoPostal','US');

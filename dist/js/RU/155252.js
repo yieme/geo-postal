@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["155252"]={"code":"155252","region":"Ivanovskaya oblast'","city":"Rodniki","latitude":57.10513,"longitude":41.73048}}(window,'GeoPostal','RU');

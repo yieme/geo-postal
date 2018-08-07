@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44129"]={"code":"44129","region":"Pays-de-la-Loire","city":"Vertou","latitude":47.16869,"longitude":-1.46929}}(window,'GeoPostal','FR');

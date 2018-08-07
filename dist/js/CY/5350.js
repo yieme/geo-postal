@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5350"]={"code":"5350","region":"Ammochostos","city":"Phrenaros","latitude":35.04167,"longitude":33.925}}(window,'GeoPostal','CY');

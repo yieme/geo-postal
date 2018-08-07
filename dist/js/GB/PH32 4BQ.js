@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH32 4BQ"]={"code":"PH32 4BQ","region":"Scotland","city":"Fort Augustus","latitude":57.14313,"longitude":-4.68224}}(window,'GeoPostal','GB');

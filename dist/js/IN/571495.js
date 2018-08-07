@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["571495"]={"code":"571495","region":"Karnataka","city":"Tirumakudal Narsipur","latitude":12.21,"longitude":76.90639}}(window,'GeoPostal','IN');

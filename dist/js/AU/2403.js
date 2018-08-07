@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2403"]={"code":"2403","region":"New South Wales","city":"Delungra","latitude":-29.65404,"longitude":150.83005}}(window,'GeoPostal','AU');

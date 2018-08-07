@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14540"]={"code":"14540","region":"Andalucia","city":"La Rambla","latitude":37.6076,"longitude":-4.73962}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO25 8BW"]={"code":"YO25 8BW","region":"England","city":"Foston on the Wolds","latitude":53.98218,"longitude":-0.32803}}(window,'GeoPostal','GB');

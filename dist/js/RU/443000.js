@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["443000"]={"code":"443000","region":"Samarskaya oblast'","city":"Samara","latitude":53.2,"longitude":50.15}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9131"]={"code":"9131","region":"Karnten","city":"Grafenstein","latitude":46.6,"longitude":14.46667}}(window,'GeoPostal','AT');

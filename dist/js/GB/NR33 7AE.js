@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR33 7AE"]={"code":"NR33 7AE","region":"England","city":"Pakefield","latitude":52.45415,"longitude":1.73099}}(window,'GeoPostal','GB');

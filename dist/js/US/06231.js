@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06231"]={"code":"06231","region":"CT","city":"Amston","latitude":41.629,"longitude":-72.3646}}(window,'GeoPostal','US');

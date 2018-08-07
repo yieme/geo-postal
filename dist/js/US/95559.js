@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95559"]={"code":"95559","region":"CA","city":"Phillipsville","latitude":40.2008,"longitude":-123.7735}}(window,'GeoPostal','US');

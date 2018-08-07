@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 21"]={"code":"763 21","region":"Zlinsky kraj","city":"Slavicin","latitude":49.08799,"longitude":17.87349}}(window,'GeoPostal','CZ');

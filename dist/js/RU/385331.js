@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["385331"]={"code":"385331","region":"Adygeya, Respublika","city":"Beloye","latitude":45.04832,"longitude":39.65143}}(window,'GeoPostal','RU');

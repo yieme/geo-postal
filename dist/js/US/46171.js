@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46171"]={"code":"46171","region":"Indiana","city":"Reelsville","latitude":39.5575,"longitude":-86.96694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-9170"]={"code":"L-9170","region":"Diekirch","city":"Mertzig","latitude":49.83389,"longitude":6.0075}}(window,'GeoPostal','LU');

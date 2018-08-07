@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91207"]={"code":"91207","region":"Bayern","city":"Lauf","latitude":49.18642,"longitude":11.9127}}(window,'GeoPostal','DE');

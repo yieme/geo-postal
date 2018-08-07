@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06008"]={"code":"06008","region":"Bejaia","city":"Amizour","latitude":36.64022,"longitude":4.90131}}(window,'GeoPostal','DZ');

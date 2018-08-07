@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49119"]={"code":"49119","region":"MI","city":"New Troy","latitude":41.8744,"longitude":-86.549}}(window,'GeoPostal','US');

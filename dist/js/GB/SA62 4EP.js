@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 4EP"]={"code":"SA62 4EP","region":"Wales","city":"Crundale","latitude":51.82417,"longitude":-4.94806}}(window,'GeoPostal','GB');

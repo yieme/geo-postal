@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22923"]={"code":"22923","region":"VA","city":"Barboursville","latitude":38.2095,"longitude":-78.3098}}(window,'GeoPostal','US');

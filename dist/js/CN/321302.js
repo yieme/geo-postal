@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["321302"]={"code":"321302","region":"Zhejiang","city":"Huajie","latitude":28.92334,"longitude":119.9676}}(window,'GeoPostal','CN');

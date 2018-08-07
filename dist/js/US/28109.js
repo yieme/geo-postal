@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28109"]={"code":"28109","region":"NC","city":"Misenheimer","latitude":35.4849,"longitude":-80.2884}}(window,'GeoPostal','US');

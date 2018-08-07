@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59405"]={"code":"59405","region":"Chernivetska oblast","city":"Zastavna","latitude":48.52307,"longitude":25.84369}}(window,'GeoPostal','UA');

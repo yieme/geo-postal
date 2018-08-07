@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM6 2BU"]={"code":"CM6 2BU","region":"England","city":"Broxted","latitude":51.92,"longitude":0.29165}}(window,'GeoPostal','GB');

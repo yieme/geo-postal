@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["514-0017"]={"code":"514-0017","region":"Mie","city":"Tsu","latitude":34.717,"longitude":136.5}}(window,'GeoPostal','JP');

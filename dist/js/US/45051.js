@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45051"]={"code":"45051","region":"OH","city":"Mount Saint Joseph","latitude":39.0965,"longitude":-84.6431}}(window,'GeoPostal','US');

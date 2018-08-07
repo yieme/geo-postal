@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81753"]={"code":"81753","region":"Lvivska oblast","city":"Khodorov","latitude":49.40663,"longitude":24.3136}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70120"]={"code":"70120","region":"Balochistan","city":"Hala","latitude":25.81308,"longitude":68.42273}}(window,'GeoPostal','PK');

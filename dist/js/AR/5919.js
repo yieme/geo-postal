@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5919"]={"code":"5919","region":"Cordoba","city":"Dalmacio Velez Sarsfield","latitude":-32.61072,"longitude":-63.58038}}(window,'GeoPostal','AR');

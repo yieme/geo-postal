@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48100"]={"code":"48100","region":"Pais Vasco","city":"Mungia","latitude":43.35,"longitude":-2.83333}}(window,'GeoPostal','ES');

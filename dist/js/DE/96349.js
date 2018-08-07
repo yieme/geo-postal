@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96349"]={"code":"96349","region":"Bayern","city":"Steinwiesen","latitude":50.29444,"longitude":11.46295}}(window,'GeoPostal','DE');

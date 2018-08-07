@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["366301"]={"code":"366301","region":"Fujian","city":"Hetian","latitude":25.667,"longitude":116.41543}}(window,'GeoPostal','CN');

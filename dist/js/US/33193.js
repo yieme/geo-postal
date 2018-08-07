@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33193"]={"code":"33193","region":"Florida","city":"The Hammocks","latitude":25.67149,"longitude":-80.4445}}(window,'GeoPostal','US');

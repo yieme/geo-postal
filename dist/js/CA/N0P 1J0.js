@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0P 1J0"]={"code":"N0P 1J0","region":"Ontario","city":"Comber","latitude":42.23338,"longitude":-82.54982}}(window,'GeoPostal','CA');

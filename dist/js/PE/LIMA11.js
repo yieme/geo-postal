@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LIMA11"]={"code":"LIMA11","region":"Lima","city":"Lima","latitude":-12.043333,"longitude":-77.028333}}(window,'GeoPostal','PE');

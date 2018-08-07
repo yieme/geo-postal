@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0E 1Z0"]={"code":"N0E 1Z0","region":"Ontario","city":"Dundurn","latitude":42.9612,"longitude":-80.30186}}(window,'GeoPostal','CA');

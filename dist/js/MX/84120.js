@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84120"]={"code":"84120","region":"Sonora","city":"Imuris","latitude":30.78333,"longitude":-110.86667}}(window,'GeoPostal','MX');

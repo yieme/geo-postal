@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4802"]={"code":"4802","region":"Oberosterreich","city":"Ebensee","latitude":47.80716,"longitude":13.779}}(window,'GeoPostal','AT');

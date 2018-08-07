@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59632"]={"code":"59632","region":"MT","city":"Boulder","latitude":46.2306,"longitude":-112.1138}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00739"]={"code":"00739","region":"Cidra","city":"Parcelas Nuevas","latitude":18.14024,"longitude":-66.17239}}(window,'GeoPostal','PR');

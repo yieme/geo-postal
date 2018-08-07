@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 8UB"]={"code":"SA14 8UB","region":"Wales","city":"Llangennech","latitude":51.69617,"longitude":-4.08394}}(window,'GeoPostal','GB');

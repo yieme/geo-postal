@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70580"]={"code":"70580","region":"LA","city":"Reddell","latitude":30.675,"longitude":-92.4265}}(window,'GeoPostal','US');

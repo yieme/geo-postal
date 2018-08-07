@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90230"]={"code":"90230","region":"Tlaxcala","city":"Sanctorum","latitude":19.5,"longitude":-98.46667}}(window,'GeoPostal','MX');

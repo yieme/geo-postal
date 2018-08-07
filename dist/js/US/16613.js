@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16613"]={"code":"16613","region":"PA","city":"Ashville","latitude":40.5513,"longitude":-78.5346}}(window,'GeoPostal','US');

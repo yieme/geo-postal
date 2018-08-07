@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24131"]={"code":"24131","region":"VA","city":"Paint Bank","latitude":37.5745,"longitude":-80.2544}}(window,'GeoPostal','US');

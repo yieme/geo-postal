@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77597"]={"code":"77597","region":"TX","city":"Wallisville","latitude":29.8591,"longitude":-94.6759}}(window,'GeoPostal','US');

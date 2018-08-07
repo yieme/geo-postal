@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34121"]={"code":"34121","region":"Friuli-Venezia Giulia","city":"Trieste","latitude":45.64861,"longitude":13.78}}(window,'GeoPostal','IT');

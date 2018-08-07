@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36483"]={"code":"36483","region":"AL","city":"Wing","latitude":31.0223,"longitude":-86.6293}}(window,'GeoPostal','US');

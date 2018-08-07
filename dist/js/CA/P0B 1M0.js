@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0B 1M0"]={"code":"P0B 1M0","region":"Ontario","city":"Utterson","latitude":45.21681,"longitude":-79.33293}}(window,'GeoPostal','CA');

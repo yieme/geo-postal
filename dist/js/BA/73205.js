@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73205"]={"code":"73205","region":"Federacija Bosne i Hercegovine","city":"Gorazde","latitude":43.66694,"longitude":18.97639}}(window,'GeoPostal','BA');

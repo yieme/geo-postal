@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473885"]={"code":"473885","region":"Madhya Pradesh","city":"Badarwas","latitude":24.96667,"longitude":77.56667}}(window,'GeoPostal','IN');

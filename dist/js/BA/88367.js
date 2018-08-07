@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88367"]={"code":"88367","region":"Federacija Bosne i Hercegovine","city":"Crnici","latitude":43.12889,"longitude":17.86667}}(window,'GeoPostal','BA');

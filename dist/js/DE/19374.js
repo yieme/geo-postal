@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19374"]={"code":"19374","region":"Mecklenburg-Vorpommern","city":"Damm","latitude":53.43333,"longitude":11.75}}(window,'GeoPostal','DE');

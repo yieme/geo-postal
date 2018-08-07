@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03782"]={"code":"03782","region":"New Hampshire","city":"Sunapee","latitude":43.38757,"longitude":-72.08786}}(window,'GeoPostal','US');

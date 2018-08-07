@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88421"]={"code":"88421","region":"NM","city":"Garita","latitude":35.3502,"longitude":-104.4419}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69470"]={"code":"69470","region":"Auvergne-Rhone-Alpes","city":"Cours-la-Ville","latitude":46.1,"longitude":4.31667}}(window,'GeoPostal','FR');

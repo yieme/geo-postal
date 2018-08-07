@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98946"]={"code":"98946","region":"WA","city":"Thorp","latitude":47.0679,"longitude":-120.6712}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CF42 5AA"]={"code":"CF42 5AA","region":"Wales","city":"Treherbert","latitude":51.67139,"longitude":-3.52972}}(window,'GeoPostal','GB');

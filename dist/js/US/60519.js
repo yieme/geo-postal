@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60519"]={"code":"60519","region":"IL","city":"Eola","latitude":41.7775,"longitude":-88.2428}}(window,'GeoPostal','US');

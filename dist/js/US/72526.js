@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72526"]={"code":"72526","region":"AR","city":"Cushman","latitude":35.8729,"longitude":-91.754}}(window,'GeoPostal','US');

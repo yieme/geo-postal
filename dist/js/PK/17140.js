@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17140"]={"code":"17140","region":"Khyber Pakhtunkhwa","city":"Chitral","latitude":35.84623,"longitude":71.7858}}(window,'GeoPostal','PK');

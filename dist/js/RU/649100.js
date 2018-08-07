@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649100"]={"code":"649100","region":"Altay, Respublika","city":"Mayma","latitude":52.01972,"longitude":85.91139}}(window,'GeoPostal','RU');

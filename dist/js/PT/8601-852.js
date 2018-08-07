@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8601-852"]={"code":"8601-852","region":"Faro","city":"Lagos","latitude":37.10202,"longitude":-8.67422}}(window,'GeoPostal','PT');

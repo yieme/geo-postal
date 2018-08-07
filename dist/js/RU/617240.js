@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617240"]={"code":"617240","region":"Permskiy kray","city":"Siva","latitude":58.38204,"longitude":54.38037}}(window,'GeoPostal','RU');

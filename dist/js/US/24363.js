@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24363"]={"code":"24363","region":"Virginia","city":"Mouth Of Wilson","latitude":36.610193,"longitude":-81.387261}}(window,'GeoPostal','US');

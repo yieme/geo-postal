@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93631"]={"code":"93631","region":"California","city":"Kingsburg","latitude":36.51974,"longitude":-119.555256}}(window,'GeoPostal','US');

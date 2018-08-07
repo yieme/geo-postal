@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3002"]={"code":"3002","region":"Bulacan","city":"Hagunoy","latitude":14.8321,"longitude":120.7336}}(window,'GeoPostal','PH');

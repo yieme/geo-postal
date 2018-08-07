@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3088"]={"code":"3088","region":"Victoria","city":"Greensborough","latitude":-37.70462,"longitude":145.10302}}(window,'GeoPostal','AU');

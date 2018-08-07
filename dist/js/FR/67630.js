@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67630"]={"code":"67630","region":"Grand-Est","city":"Lauterbourg","latitude":48.9761,"longitude":8.1744}}(window,'GeoPostal','FR');

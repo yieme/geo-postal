@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21711"]={"code":"21711","region":"MD","city":"Big Pool","latitude":39.6457,"longitude":-78.0104}}(window,'GeoPostal','US');

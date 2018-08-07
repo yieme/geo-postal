@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39741"]={"code":"39741","region":"MS","city":"Cedarbluff","latitude":33.6162,"longitude":-88.8267}}(window,'GeoPostal','US');

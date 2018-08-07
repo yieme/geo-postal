@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52600"]={"code":"52600","region":"Grand-Est","city":"Chalindrey","latitude":47.80308,"longitude":5.42797}}(window,'GeoPostal','FR');

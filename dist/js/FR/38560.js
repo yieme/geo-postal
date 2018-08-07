@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38560"]={"code":"38560","region":"Auvergne-Rhone-Alpes","city":"Champ-sur-Drac","latitude":45.06912,"longitude":5.73225}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87517"]={"code":"87517","region":"NM","city":"Carson","latitude":36.3645,"longitude":-105.7653}}(window,'GeoPostal','US');

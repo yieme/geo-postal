@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15664"]={"code":"15664","region":"Pennsylvania","city":"Mammoth","latitude":40.323088,"longitude":-79.671408}}(window,'GeoPostal','US');

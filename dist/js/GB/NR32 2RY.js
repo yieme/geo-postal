@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR32 2RY"]={"code":"NR32 2RY","region":"England","city":"Oulton","latitude":52.48333,"longitude":1.73333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391710"]={"code":"391710","region":"Ryazanskaya oblast'","city":"Mikhaylov","latitude":54.2298,"longitude":39.0269}}(window,'GeoPostal','RU');

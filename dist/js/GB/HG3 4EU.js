@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 4EU"]={"code":"HG3 4EU","region":"England","city":"Dacre","latitude":54.05,"longitude":-1.71667}}(window,'GeoPostal','GB');

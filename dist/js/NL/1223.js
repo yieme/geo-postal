@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1223"]={"code":"1223","region":"Noord-Holland","city":"Hilversum","latitude":52.22333,"longitude":5.17639}}(window,'GeoPostal','NL');

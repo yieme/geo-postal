@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93448"]={"code":"93448","region":"CA","city":"Pismo Beach","latitude":35.1428,"longitude":-120.6413}}(window,'GeoPostal','US');

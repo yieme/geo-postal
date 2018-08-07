@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33120"]={"code":"33120","region":"Si Sa Ket","city":"Uthumphon Phisai","latitude":15.11161,"longitude":104.14011}}(window,'GeoPostal','TH');

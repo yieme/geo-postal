@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17494"]={"code":"17494","region":"Catalunya","city":"Vilajuiga","latitude":42.32533,"longitude":3.09302}}(window,'GeoPostal','ES');

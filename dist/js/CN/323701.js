@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323701"]={"code":"323701","region":"Zhejiang","city":"Anren","latitude":28.06147,"longitude":119.3365}}(window,'GeoPostal','CN');

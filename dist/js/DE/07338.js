@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07338"]={"code":"07338","region":"Thuringen","city":"Leutenberg","latitude":50.56354,"longitude":11.45619}}(window,'GeoPostal','DE');

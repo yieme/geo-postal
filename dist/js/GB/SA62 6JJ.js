@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6JJ"]={"code":"SA62 6JJ","region":"Wales","city":"Wolfsdale","latitude":51.85472,"longitude":-5.00333}}(window,'GeoPostal','GB');

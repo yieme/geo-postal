@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396590"]={"code":"396590","region":"Gujarat","city":"Kosamba","latitude":21.48333,"longitude":72.95}}(window,'GeoPostal','IN');

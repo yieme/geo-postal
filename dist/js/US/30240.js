@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30240"]={"code":"30240","region":"Georgia","city":"LaGrange","latitude":33.030738,"longitude":-85.037439}}(window,'GeoPostal','US');

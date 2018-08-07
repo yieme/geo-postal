@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99731"]={"code":"99731","region":"Alaska","city":"Fort Greely","latitude":64.007436,"longitude":-145.352807}}(window,'GeoPostal','US');

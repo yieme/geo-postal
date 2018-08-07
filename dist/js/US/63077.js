@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63077"]={"code":"63077","region":"Missouri","city":"Saint Clair","latitude":38.34533,"longitude":-90.98097}}(window,'GeoPostal','US');

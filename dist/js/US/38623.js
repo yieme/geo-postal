@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38623"]={"code":"38623","region":"MS","city":"Darling","latitude":34.359,"longitude":-90.2743}}(window,'GeoPostal','US');

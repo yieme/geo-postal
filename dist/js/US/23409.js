@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23409"]={"code":"23409","region":"VA","city":"Mears","latitude":37.8692,"longitude":-75.6354}}(window,'GeoPostal','US');

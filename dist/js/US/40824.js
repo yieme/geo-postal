@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40824"]={"code":"40824","region":"Kentucky","city":"Dayhoit","latitude":36.866323,"longitude":-83.389836}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE33 9BS"]={"code":"PE33 9BS","region":"England","city":"Gooderstone","latitude":52.58823,"longitude":0.59878}}(window,'GeoPostal','GB');

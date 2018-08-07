@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08400"]={"code":"08400","region":"Catalunya","city":"Granollers","latitude":41.60797,"longitude":2.28773}}(window,'GeoPostal','ES');

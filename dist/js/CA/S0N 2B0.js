@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 2B0"]={"code":"S0N 2B0","region":"Saskatchewan","city":"Prelate","latitude":50.85011,"longitude":-109.40152}}(window,'GeoPostal','CA');

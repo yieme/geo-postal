@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46164"]={"code":"46164","region":"IN","city":"Nineveh","latitude":39.3656,"longitude":-86.0976}}(window,'GeoPostal','US');

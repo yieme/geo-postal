@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42564"]={"code":"42564","region":"KY","city":"West Somerset","latitude":37.1114,"longitude":-84.5929}}(window,'GeoPostal','US');

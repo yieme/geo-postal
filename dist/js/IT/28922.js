@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28922"]={"code":"28922","region":"Piemonte","city":"Verbania","latitude":45.92136,"longitude":8.55183}}(window,'GeoPostal','IT');

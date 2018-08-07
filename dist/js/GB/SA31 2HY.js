@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA31 2HY"]={"code":"SA31 2HY","region":"Wales","city":"Llangunnor","latitude":51.85832,"longitude":-4.28153}}(window,'GeoPostal','GB');

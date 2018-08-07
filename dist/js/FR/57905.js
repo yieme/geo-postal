@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57905"]={"code":"57905","region":"Grand-Est","city":"Sarreinsming","latitude":49.08966,"longitude":7.10958}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32028"]={"code":"32028","region":"Veneto","city":"Limana","latitude":46.09194,"longitude":12.14333}}(window,'GeoPostal','IT');

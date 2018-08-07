@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55-080"]={"code":"55-080","region":"Dolnoslaskie","city":"Katy Wroclawskie","latitude":51.03098,"longitude":16.76767}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79379"]={"code":"79379","region":"Baden-Wurttemberg","city":"Mullheim","latitude":47.8082,"longitude":7.63035}}(window,'GeoPostal','DE');

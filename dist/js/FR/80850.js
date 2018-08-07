@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80850"]={"code":"80850","region":"Hauts-de-France","city":"Berteaucourt-les-Dames","latitude":50.04697,"longitude":2.1575}}(window,'GeoPostal','FR');

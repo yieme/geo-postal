@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48146"]={"code":"48146","region":"Michigan","city":"Lincoln Park","latitude":42.25059,"longitude":-83.17854}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05658"]={"code":"05658","region":"Vermont","city":"Marshfield","latitude":44.32842,"longitude":-72.37482}}(window,'GeoPostal','US');

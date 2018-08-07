@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM7 5SR"]={"code":"CM7 5SR","region":"England","city":"Bocking Churchstreet","latitude":51.9,"longitude":0.55}}(window,'GeoPostal','GB');

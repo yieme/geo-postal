@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8157"]={"code":"8157","region":"Zurich","city":"Dielsdorf","latitude":47.48146,"longitude":8.4585}}(window,'GeoPostal','CH');

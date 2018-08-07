@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26003"]={"code":"26003","region":"West Virginia","city":"Wheeling","latitude":40.06396,"longitude":-80.72091}}(window,'GeoPostal','US');

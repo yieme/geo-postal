@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5N 0A2"]={"code":"E5N 0A2","region":"New Brunswick","city":"Hampton","latitude":45.52876,"longitude":-65.85354}}(window,'GeoPostal','CA');

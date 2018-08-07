@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-612"]={"code":"27-612","region":"Swietokrzyskie","city":"Wilczyce","latitude":50.74694,"longitude":21.65783}}(window,'GeoPostal','PL');

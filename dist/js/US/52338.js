@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52338"]={"code":"52338","region":"Iowa","city":"Swisher","latitude":41.84513,"longitude":-91.695472}}(window,'GeoPostal','US');

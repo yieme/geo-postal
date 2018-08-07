@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98325"]={"code":"98325","region":"WA","city":"Chimacum","latitude":47.9861,"longitude":-122.7883}}(window,'GeoPostal','US');

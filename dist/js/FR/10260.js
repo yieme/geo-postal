@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10260"]={"code":"10260","region":"Grand-Est","city":"Saint-Parres-les-Vaudes","latitude":48.1719,"longitude":4.2164}}(window,'GeoPostal','FR');

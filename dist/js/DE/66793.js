@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66793"]={"code":"66793","region":"Saarland","city":"Schwarzenholz","latitude":49.33443,"longitude":6.86154}}(window,'GeoPostal','DE');

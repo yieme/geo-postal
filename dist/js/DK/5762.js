@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5762"]={"code":"5762","region":"Syddanmark","city":"Svendborg","latitude":55.05982,"longitude":10.60677}}(window,'GeoPostal','DK');

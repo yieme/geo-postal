@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["772 00"]={"code":"772 00","region":"Olomoucky kraj","city":"Olomouc","latitude":49.59552,"longitude":17.25175}}(window,'GeoPostal','CZ');

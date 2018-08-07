@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3481"]={"code":"3481","region":"Corrientes","city":"San Carlos","latitude":-27.74586,"longitude":-55.8973}}(window,'GeoPostal','AR');

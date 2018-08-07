@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606903"]={"code":"606903","region":"Nizhegorodskaya oblast'","city":"Syava","latitude":58.01457,"longitude":46.32216}}(window,'GeoPostal','RU');

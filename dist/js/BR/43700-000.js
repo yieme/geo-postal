@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43700-000"]={"code":"43700-000","region":"Bahia","city":"Camacari","latitude":-12.6975,"longitude":-38.32417}}(window,'GeoPostal','BR');

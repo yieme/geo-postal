@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4803"]={"code":"4803","region":"Queensland","city":"Hamilton Island","latitude":-20.34602,"longitude":148.95194}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0P 1H0"]={"code":"T0P 1H0","region":"Alberta","city":"Conklin","latitude":55.628737,"longitude":-111.098276}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59176"]={"code":"59176","region":"Hauts-de-France","city":"Masny","latitude":50.34797,"longitude":3.20165}}(window,'GeoPostal','FR');

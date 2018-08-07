@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62649"]={"code":"62649","region":"IL","city":"Hettick","latitude":39.3752,"longitude":-90.0672}}(window,'GeoPostal','US');

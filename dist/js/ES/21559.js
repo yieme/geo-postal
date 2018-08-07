@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21559"]={"code":"21559","region":"Andalucia","city":"Puebla de Guzman","latitude":37.61427,"longitude":-7.24878}}(window,'GeoPostal','ES');

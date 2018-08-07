@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA23 9NW"]={"code":"KA23 9NW","region":"Scotland","city":"West Kilbride","latitude":55.68333,"longitude":-4.85}}(window,'GeoPostal','GB');

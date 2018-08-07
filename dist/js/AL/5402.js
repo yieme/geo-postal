@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5402"]={"code":"5402","region":"Berat","city":"Corovode","latitude":40.50417,"longitude":20.22722}}(window,'GeoPostal','AL');

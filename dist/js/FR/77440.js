@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77440"]={"code":"77440","region":"Ile-de-France","city":"Lizy-sur-Ourcq","latitude":49.02454,"longitude":3.02178}}(window,'GeoPostal','FR');

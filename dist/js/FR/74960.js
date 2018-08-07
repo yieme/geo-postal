@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74960"]={"code":"74960","region":"Auvergne-Rhone-Alpes","city":"Meythet","latitude":45.91836,"longitude":6.09422}}(window,'GeoPostal','FR');

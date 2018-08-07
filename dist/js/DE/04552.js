@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04552"]={"code":"04552","region":"Sachsen","city":"Borna","latitude":50.85658,"longitude":12.87986}}(window,'GeoPostal','DE');

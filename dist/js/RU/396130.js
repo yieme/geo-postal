@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["396130"]={"code":"396130","region":"Voronezhskaya oblast'","city":"Uglyanets","latitude":51.81908,"longitude":39.59606}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91452"]={"code":"91452","region":"Sulawesi Barat","city":"Kalumpang","latitude":-2.4781,"longitude":119.4859}}(window,'GeoPostal','ID');

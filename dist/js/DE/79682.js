@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79682"]={"code":"79682","region":"Baden-Wurttemberg","city":"Weg","latitude":47.75463,"longitude":7.98972}}(window,'GeoPostal','DE');

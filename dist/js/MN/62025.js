@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62025"]={"code":"62025","region":"Ovorhangay","city":"Ongon","latitude":46.98259,"longitude":103.78389}}(window,'GeoPostal','MN');

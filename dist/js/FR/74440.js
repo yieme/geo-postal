@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74440"]={"code":"74440","region":"Auvergne-Rhone-Alpes","city":"Verchaix","latitude":46.0972,"longitude":6.6769}}(window,'GeoPostal','FR');

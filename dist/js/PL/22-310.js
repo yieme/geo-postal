@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-310"]={"code":"22-310","region":"Lubelskie","city":"Krasniczyn","latitude":50.93171,"longitude":23.34929}}(window,'GeoPostal','PL');

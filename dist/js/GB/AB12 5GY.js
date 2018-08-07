@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB12 5GY"]={"code":"AB12 5GY","region":"Scotland","city":"Maryculter","latitude":57.08286,"longitude":-2.23738}}(window,'GeoPostal','GB');

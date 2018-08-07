@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43240"]={"code":"43240","region":"Auvergne-Rhone-Alpes","city":"Saint-Just-Malmont","latitude":45.33973,"longitude":4.31335}}(window,'GeoPostal','FR');

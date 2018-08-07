@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65068"]={"code":"65068","region":"MO","city":"Prairie Home","latitude":38.8253,"longitude":-92.5974}}(window,'GeoPostal','US');

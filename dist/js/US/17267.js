@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17267"]={"code":"17267","region":"Pennsylvania","city":"Warfordsburg","latitude":39.75167,"longitude":-78.1875}}(window,'GeoPostal','US');

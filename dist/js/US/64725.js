@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64725"]={"code":"64725","region":"MO","city":"Archie","latitude":38.4986,"longitude":-94.363}}(window,'GeoPostal','US');

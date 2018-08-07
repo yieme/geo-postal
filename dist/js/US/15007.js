@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15007"]={"code":"15007","region":"PA","city":"Bakerstown","latitude":40.6478,"longitude":-79.931}}(window,'GeoPostal','US');

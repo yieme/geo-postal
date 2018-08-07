@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE46 4LU"]={"code":"NE46 4LU","region":"England","city":"Sandhoe","latitude":54.99101,"longitude":-2.04779}}(window,'GeoPostal','GB');

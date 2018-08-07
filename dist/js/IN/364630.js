@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364630"]={"code":"364630","region":"Gujarat","city":"Chalala","latitude":21.41667,"longitude":71.16667}}(window,'GeoPostal','IN');

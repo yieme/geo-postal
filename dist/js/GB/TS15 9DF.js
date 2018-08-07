@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS15 9DF"]={"code":"TS15 9DF","region":"England","city":"Yarm","latitude":54.50364,"longitude":-1.35793}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35757"]={"code":"35757","region":"AL","city":"Madison","latitude":34.7782,"longitude":-86.7442}}(window,'GeoPostal','US');

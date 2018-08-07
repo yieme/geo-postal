@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH15 9NF"]={"code":"RH15 9NF","region":"England","city":"Burgess Hill","latitude":50.95843,"longitude":-0.13287}}(window,'GeoPostal','GB');

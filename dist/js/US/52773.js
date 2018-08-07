@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52773"]={"code":"52773","region":"Iowa","city":"Walcott","latitude":41.63646,"longitude":-90.75894}}(window,'GeoPostal','US');

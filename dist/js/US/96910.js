@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96910"]={"code":"96910","region":"GU","city":"Hagatna","latitude":13.47,"longitude":144.74}}(window,'GeoPostal','US');

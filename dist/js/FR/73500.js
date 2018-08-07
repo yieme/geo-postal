@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73500"]={"code":"73500","region":"Auvergne-Rhone-Alpes","city":"Modane","latitude":45.2,"longitude":6.66667}}(window,'GeoPostal','FR');

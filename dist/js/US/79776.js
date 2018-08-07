@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79776"]={"code":"79776","region":"TX","city":"Penwell","latitude":31.7334,"longitude":-102.5879}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431735"]={"code":"431735","region":"Maharashtra","city":"Nanded","latitude":19.15,"longitude":77.3}}(window,'GeoPostal','IN');

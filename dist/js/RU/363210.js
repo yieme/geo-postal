@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363210"]={"code":"363210","region":"Severnaya Osetiya, Respublika","city":"Alagir","latitude":43.04222,"longitude":44.22222}}(window,'GeoPostal','RU');

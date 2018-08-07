@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37237"]={"code":"37237","region":"TN","city":"Amsouth Bank","latitude":36.16,"longitude":-86.78}}(window,'GeoPostal','US');

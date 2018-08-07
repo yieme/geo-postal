@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98271"]={"code":"98271","region":"Washington","city":"Tulalip","latitude":48.0961,"longitude":-122.2382}}(window,'GeoPostal','US');

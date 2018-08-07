@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 2R0"]={"code":"P0T 2R0","region":"Ontario","city":"Rossport","latitude":48.837257,"longitude":-87.520067}}(window,'GeoPostal','CA');

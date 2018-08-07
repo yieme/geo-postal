@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53080"]={"code":"53080","region":"Wisconsin","city":"Saukville","latitude":43.387417,"longitude":-87.965676}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3202"]={"code":"3202","region":"Yaracuy","city":"Chivacoa","latitude":10.16028,"longitude":-68.895}}(window,'GeoPostal','VE');

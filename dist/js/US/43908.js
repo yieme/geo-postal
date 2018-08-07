@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43908"]={"code":"43908","region":"OH","city":"Bergholz","latitude":40.5195,"longitude":-80.884}}(window,'GeoPostal','US');

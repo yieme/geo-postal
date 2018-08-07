@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["177033"]={"code":"177033","region":"Himachal Pradesh","city":"Nadaun","latitude":31.78333,"longitude":76.35}}(window,'GeoPostal','IN');

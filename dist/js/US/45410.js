@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45410"]={"code":"45410","region":"Ohio","city":"Beavercreek","latitude":39.70923,"longitude":-84.06327}}(window,'GeoPostal','US');

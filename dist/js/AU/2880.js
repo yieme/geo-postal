@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2880"]={"code":"2880","region":"New South Wales","city":"Broken Hill","latitude":-31.96173,"longitude":141.45998}}(window,'GeoPostal','AU');

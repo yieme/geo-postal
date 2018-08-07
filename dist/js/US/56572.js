@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56572"]={"code":"56572","region":"Minnesota","city":"Pelican Rapids","latitude":46.57079,"longitude":-96.08311}}(window,'GeoPostal','US');

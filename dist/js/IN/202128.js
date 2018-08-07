@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["202128"]={"code":"202128","region":"Uttar Pradesh","city":"Beswan","latitude":27.65,"longitude":77.88333}}(window,'GeoPostal','IN');

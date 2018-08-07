@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26034"]={"code":"26034","region":"West Virginia","city":"Chester","latitude":40.612966,"longitude":-80.561383}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WF17 9LU"]={"code":"WF17 9LU","region":"England","city":"Birstall","latitude":52.66667,"longitude":-1.11667}}(window,'GeoPostal','GB');

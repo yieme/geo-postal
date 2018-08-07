@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14507"]={"code":"14507","region":"New York","city":"Middlesex","latitude":42.71861,"longitude":-77.27722}}(window,'GeoPostal','US');

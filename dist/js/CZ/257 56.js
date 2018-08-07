@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 56"]={"code":"257 56","region":"Stredocesky kraj","city":"Neveklov","latitude":49.75373,"longitude":14.53291}}(window,'GeoPostal','CZ');

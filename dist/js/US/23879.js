@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23879"]={"code":"23879","region":"Virginia","city":"Skippers","latitude":36.59142,"longitude":-77.54178}}(window,'GeoPostal','US');

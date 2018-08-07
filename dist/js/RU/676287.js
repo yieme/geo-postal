@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676287"]={"code":"676287","region":"Amurskaya oblast'","city":"Tynda","latitude":55.16667,"longitude":124.71667}}(window,'GeoPostal','RU');

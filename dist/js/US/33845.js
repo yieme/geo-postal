@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33845"]={"code":"33845","region":"FL","city":"Haines City","latitude":28.0026,"longitude":-81.6186}}(window,'GeoPostal','US');

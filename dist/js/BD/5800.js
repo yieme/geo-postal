@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5800"]={"code":"5800","region":"Rajshahi","city":"Bogra","latitude":24.85,"longitude":89.36667}}(window,'GeoPostal','BD');

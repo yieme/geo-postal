@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G3Z 0A1"]={"code":"G3Z 0A1","region":"Quebec","city":"Baie-Saint-Paul","latitude":47.44109,"longitude":-70.49858}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["323615"]={"code":"323615","region":"Rajasthan","city":"Mangrol","latitude":25.33333,"longitude":76.51667}}(window,'GeoPostal','IN');

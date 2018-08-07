@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 1RS"]={"code":"CM8 1RS","region":"England","city":"White Notley","latitude":51.83549,"longitude":0.59034}}(window,'GeoPostal','GB');

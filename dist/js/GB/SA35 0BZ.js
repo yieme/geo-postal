@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA35 0BZ"]={"code":"SA35 0BZ","region":"Wales","city":"Llanfyrnach","latitude":51.95084,"longitude":-4.58916}}(window,'GeoPostal','GB');

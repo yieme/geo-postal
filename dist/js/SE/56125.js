@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56125"]={"code":"56125","region":"Jonkopings lan","city":"Huskvarna","latitude":57.78596,"longitude":14.30214}}(window,'GeoPostal','SE');

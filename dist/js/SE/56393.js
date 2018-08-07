@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56393"]={"code":"56393","region":"Jonkopings lan","city":"Graenna","latitude":58.01667,"longitude":14.46667}}(window,'GeoPostal','SE');

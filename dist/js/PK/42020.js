@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42020"]={"code":"42020","region":"Punjab","city":"Harnoli","latitude":32.27917,"longitude":71.55389}}(window,'GeoPostal','PK');

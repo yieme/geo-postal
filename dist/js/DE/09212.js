@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09212"]={"code":"09212","region":"Sachsen","city":"Limbach-Oberfrohna","latitude":50.85882,"longitude":12.76165}}(window,'GeoPostal','DE');

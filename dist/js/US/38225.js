@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38225"]={"code":"38225","region":"Tennessee","city":"Dresden","latitude":36.288955,"longitude":-88.70665}}(window,'GeoPostal','US');

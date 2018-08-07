@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75856"]={"code":"75856","region":"Texas","city":"Pennington","latitude":31.158,"longitude":-95.162594}}(window,'GeoPostal','US');

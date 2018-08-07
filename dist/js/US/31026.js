@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31026"]={"code":"31026","region":"GA","city":"Eatonton","latitude":33.3304,"longitude":-83.377}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4245"]={"code":"4245","region":"Radovljica","city":"Radovljica","latitude":46.34444,"longitude":14.17444}}(window,'GeoPostal','SI');

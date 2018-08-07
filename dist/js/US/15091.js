@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15091"]={"code":"15091","region":"PA","city":"Wildwood","latitude":40.5942,"longitude":-79.9701}}(window,'GeoPostal','US');

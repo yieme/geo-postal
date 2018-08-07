@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38550"]={"code":"38550","region":"Auvergne-Rhone-Alpes","city":"Le Peage-de-Roussillon","latitude":45.3718,"longitude":4.79791}}(window,'GeoPostal','FR');

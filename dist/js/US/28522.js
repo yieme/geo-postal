@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28522"]={"code":"28522","region":"NC","city":"Comfort","latitude":35.0051,"longitude":-77.5231}}(window,'GeoPostal','US');

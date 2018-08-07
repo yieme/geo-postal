@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86608"]={"code":"86608","region":"Tabasco","city":"Rio de Teapa","latitude":17.7875,"longitude":-92.89583}}(window,'GeoPostal','MX');

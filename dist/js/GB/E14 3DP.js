@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E14 3DP"]={"code":"E14 3DP","region":"England","city":"Cubitt Town","latitude":51.49029,"longitude":-0.00647}}(window,'GeoPostal','GB');

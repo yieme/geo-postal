@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35011"]={"code":"35011","region":"AL","city":"Alexander City","latitude":32.9902,"longitude":-85.958}}(window,'GeoPostal','US');

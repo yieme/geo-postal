@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72055"]={"code":"72055","region":"AR","city":"Gillett","latitude":34.1218,"longitude":-91.38}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656-0502"]={"code":"656-0502","region":"Hyogo","city":"Fukura","latitude":34.25,"longitude":134.71667}}(window,'GeoPostal','JP');

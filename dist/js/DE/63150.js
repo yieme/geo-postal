@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63150"]={"code":"63150","region":"Hessen","city":"Heusenstamm","latitude":50.05553,"longitude":8.80076}}(window,'GeoPostal','DE');

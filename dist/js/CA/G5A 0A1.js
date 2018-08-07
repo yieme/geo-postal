@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G5A 0A1"]={"code":"G5A 0A1","region":"Quebec","city":"La Malbaie","latitude":47.65753,"longitude":-70.15594}}(window,'GeoPostal','CA');

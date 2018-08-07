@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17200"]={"code":"17200","region":"Catalunya","city":"Palafrugell","latitude":41.91738,"longitude":3.1631}}(window,'GeoPostal','ES');

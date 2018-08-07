@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1B0"]={"code":"J0V 1B0","region":"Quebec","city":"Grenville-sur-la-Rouge","latitude":45.65009,"longitude":-74.63258}}(window,'GeoPostal','CA');

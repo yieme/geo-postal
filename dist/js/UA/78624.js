@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78624"]={"code":"78624","region":"Ivano-Frankivska oblast","city":"Sheshory","latitude":48.33197,"longitude":24.98329}}(window,'GeoPostal','UA');

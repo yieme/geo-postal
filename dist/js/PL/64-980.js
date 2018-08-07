@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-980"]={"code":"64-980","region":"Wielkopolskie","city":"Trzcianka","latitude":53.04063,"longitude":16.45628}}(window,'GeoPostal','PL');

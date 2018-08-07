@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 0XU"]={"code":"DG2 0XU","region":"Scotland","city":"Dalswinton","latitude":55.15113,"longitude":-3.66945}}(window,'GeoPostal','GB');

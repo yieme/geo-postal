@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR16 4DR"]={"code":"TR16 4DR","region":"England","city":"Illogan","latitude":50.24393,"longitude":-5.26564}}(window,'GeoPostal','GB');

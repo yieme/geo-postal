@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1210"]={"code":"1210","region":"Kasserine","city":"Thala","latitude":35.57244,"longitude":8.67031}}(window,'GeoPostal','TN');

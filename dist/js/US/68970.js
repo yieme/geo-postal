@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68970"]={"code":"68970","region":"Nebraska","city":"Red Cloud","latitude":40.0889,"longitude":-98.5195}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31333"]={"code":"31333","region":"GA","city":"Walthourville","latitude":31.7705,"longitude":-81.6208}}(window,'GeoPostal','US');

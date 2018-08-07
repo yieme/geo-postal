@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2946"]={"code":"2946","region":"Fribourg","city":"Marsens","latitude":46.65649,"longitude":7.06167}}(window,'GeoPostal','CH');

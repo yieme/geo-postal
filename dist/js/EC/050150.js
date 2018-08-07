@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["050150"]={"code":"050150","region":"Cotopaxi","city":"Latacunga","latitude":-0.93333,"longitude":-78.61667}}(window,'GeoPostal','EC');

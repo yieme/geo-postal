@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU17 7PJ"]={"code":"HU17 7PJ","region":"England","city":"South Dalton","latitude":53.8955,"longitude":-0.5301}}(window,'GeoPostal','GB');

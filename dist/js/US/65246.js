@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65246"]={"code":"65246","region":"MO","city":"Dalton","latitude":39.4035,"longitude":-92.9944}}(window,'GeoPostal','US');

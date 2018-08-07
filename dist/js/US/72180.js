@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72180"]={"code":"72180","region":"AR","city":"Woodson","latitude":34.5338,"longitude":-92.2089}}(window,'GeoPostal','US');

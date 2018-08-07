@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99683"]={"code":"99683","region":"Alaska","city":"Willow","latitude":61.74722,"longitude":-150.0375}}(window,'GeoPostal','US');

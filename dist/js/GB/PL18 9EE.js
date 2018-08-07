@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL18 9EE"]={"code":"PL18 9EE","region":"England","city":"Drakewalls","latitude":50.51571,"longitude":-4.22141}}(window,'GeoPostal','GB');

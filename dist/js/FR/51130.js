@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51130"]={"code":"51130","region":"Grand-Est","city":"Vertus","latitude":48.90609,"longitude":4.00216}}(window,'GeoPostal','FR');

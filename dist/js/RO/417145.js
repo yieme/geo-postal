@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417145"]={"code":"417145","region":"Bihor","city":"Cefa","latitude":46.91667,"longitude":21.73333}}(window,'GeoPostal','RO');

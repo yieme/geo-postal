@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64040"]={"code":"64040","region":"Missouri","city":"Holden","latitude":38.716309,"longitude":-93.988397}}(window,'GeoPostal','US');

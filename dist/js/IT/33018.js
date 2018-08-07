@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33018"]={"code":"33018","region":"Friuli-Venezia Giulia","city":"Tarvisio","latitude":46.51083,"longitude":13.59417}}(window,'GeoPostal','IT');

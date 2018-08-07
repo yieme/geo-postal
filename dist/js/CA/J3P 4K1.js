@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J3P 4K1"]={"code":"J3P 4K1","region":"Quebec","city":"Sorel","latitude":46.04178,"longitude":-73.11358}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23500"]={"code":"23500","region":"Nouvelle-Aquitaine","city":"Felletin","latitude":45.88333,"longitude":2.17431}}(window,'GeoPostal','FR');

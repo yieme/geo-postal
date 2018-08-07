@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249850"]={"code":"249850","region":"Kaluzhskaya oblast'","city":"Kurovskoye","latitude":54.54299,"longitude":36.00262}}(window,'GeoPostal','RU');

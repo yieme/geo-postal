@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20197"]={"code":"20197","region":"Virginia","city":"Waterford","latitude":39.19317,"longitude":-77.63408}}(window,'GeoPostal','US');

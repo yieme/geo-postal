@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0J 1V0"]={"code":"G0J 1V0","region":"Quebec","city":"Restigouche","latitude":47.92671,"longitude":-66.967823}}(window,'GeoPostal','CA');

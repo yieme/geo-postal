@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["402260"]={"code":"402260","region":"Chongqing","city":"Jiangjin","latitude":29.29056,"longitude":106.25417}}(window,'GeoPostal','CN');

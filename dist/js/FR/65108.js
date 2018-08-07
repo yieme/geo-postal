@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65108"]={"code":"65108","region":"Occitanie","city":"Lourdes","latitude":43.1,"longitude":-0.05}}(window,'GeoPostal','FR');

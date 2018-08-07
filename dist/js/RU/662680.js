@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662680"]={"code":"662680","region":"Krasnoyarskiy kray","city":"Idrinskoye","latitude":54.37083,"longitude":92.13583}}(window,'GeoPostal','RU');

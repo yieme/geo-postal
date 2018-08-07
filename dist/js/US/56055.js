@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56055"]={"code":"56055","region":"Minnesota","city":"Lake Crystal","latitude":44.113395,"longitude":-94.213789}}(window,'GeoPostal','US');

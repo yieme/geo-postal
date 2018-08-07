@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47261"]={"code":"47261","region":"Punjab","city":"Shahpur","latitude":32.2676,"longitude":72.47204}}(window,'GeoPostal','PK');

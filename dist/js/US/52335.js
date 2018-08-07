@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52335"]={"code":"52335","region":"Iowa","city":"South English","latitude":41.469646,"longitude":-92.118905}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77200"]={"code":"77200","region":"Ile-de-France","city":"Torcy","latitude":48.85,"longitude":2.65}}(window,'GeoPostal','FR');

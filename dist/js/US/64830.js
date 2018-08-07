@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64830"]={"code":"64830","region":"MO","city":"Alba","latitude":37.2367,"longitude":-94.418}}(window,'GeoPostal','US');

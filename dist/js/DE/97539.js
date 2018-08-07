@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97539"]={"code":"97539","region":"Bayern","city":"Wulflingen","latitude":50.0308,"longitude":10.47561}}(window,'GeoPostal','DE');

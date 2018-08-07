@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73764"]={"code":"73764","region":"OK","city":"Omega","latitude":35.8507,"longitude":-98.1863}}(window,'GeoPostal','US');

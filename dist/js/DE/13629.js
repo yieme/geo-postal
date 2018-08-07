@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13629"]={"code":"13629","region":"Niedersachsen","city":"Ohne","latitude":52.26667,"longitude":7.28333}}(window,'GeoPostal','DE');

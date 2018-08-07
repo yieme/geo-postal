@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 6YE"]={"code":"SA62 6YE","region":"Wales","city":"Llanhowell","latitude":51.90222,"longitude":-5.16861}}(window,'GeoPostal','GB');

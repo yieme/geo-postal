@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65375"]={"code":"65375","region":"Rheinland-Pfalz","city":"Oestrich-Winkel","latitude":49.99987,"longitude":8.00604}}(window,'GeoPostal','DE');

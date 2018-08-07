@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91962"]={"code":"91962","region":"California","city":"Pine Valley","latitude":32.818495,"longitude":-116.455065}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57001"]={"code":"57001","region":"South Dakota","city":"Alcester","latitude":43.024979,"longitude":-96.621861}}(window,'GeoPostal','US');

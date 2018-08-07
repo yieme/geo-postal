@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12446"]={"code":"12446","region":"NY","city":"Kerhonkson","latitude":41.7939,"longitude":-74.3035}}(window,'GeoPostal','US');

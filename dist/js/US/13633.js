@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13633"]={"code":"13633","region":"NY","city":"De Peyster","latitude":44.4989,"longitude":-75.4772}}(window,'GeoPostal','US');

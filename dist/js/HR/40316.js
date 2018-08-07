@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40316"]={"code":"40316","region":"Medimurska zupanija","city":"Vratisinec","latitude":46.47806,"longitude":16.45778}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50573"]={"code":"50573","region":"IA","city":"Plover","latitude":42.8783,"longitude":-94.6205}}(window,'GeoPostal','US');

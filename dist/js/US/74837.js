@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74837"]={"code":"74837","region":"Oklahoma","city":"Cromwell","latitude":35.35028,"longitude":-96.45972}}(window,'GeoPostal','US');

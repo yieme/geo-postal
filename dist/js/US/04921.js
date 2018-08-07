@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04921"]={"code":"04921","region":"ME","city":"Brooks","latitude":44.5678,"longitude":-69.1404}}(window,'GeoPostal','US');

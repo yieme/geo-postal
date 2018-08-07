@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1101"]={"code":"1101","region":"Parwan","city":"Charikar","latitude":35.01361,"longitude":69.17139}}(window,'GeoPostal','AF');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5292"]={"code":"5292","region":"Bohinj","city":"Rence","latitude":45.89,"longitude":13.66861}}(window,'GeoPostal','SI');

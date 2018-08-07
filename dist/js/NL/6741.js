@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6741"]={"code":"6741","region":"Gelderland","city":"Lunteren","latitude":52.085,"longitude":5.62222}}(window,'GeoPostal','NL');

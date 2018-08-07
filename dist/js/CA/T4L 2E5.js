@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T4L 2E5"]={"code":"T4L 2E5","region":"Alberta","city":"Lacombe","latitude":52.48919,"longitude":-113.733274}}(window,'GeoPostal','CA');

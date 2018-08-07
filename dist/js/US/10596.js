@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10596"]={"code":"10596","region":"NY","city":"Verplanck","latitude":41.2548,"longitude":-73.9587}}(window,'GeoPostal','US');

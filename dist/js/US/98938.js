@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98938"]={"code":"98938","region":"WA","city":"Outlook","latitude":46.3525,"longitude":-120.097}}(window,'GeoPostal','US');

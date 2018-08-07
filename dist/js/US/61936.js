@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61936"]={"code":"61936","region":"Illinois","city":"La Place","latitude":39.80028,"longitude":-88.71372}}(window,'GeoPostal','US');

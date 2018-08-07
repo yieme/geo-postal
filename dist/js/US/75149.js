@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75149"]={"code":"75149","region":"Texas","city":"Mesquite","latitude":32.7668,"longitude":-96.59916}}(window,'GeoPostal','US');

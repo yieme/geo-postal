@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36270"]={"code":"36270","region":"Guanajuato","city":"Silao","latitude":20.93333,"longitude":-101.43333}}(window,'GeoPostal','MX');

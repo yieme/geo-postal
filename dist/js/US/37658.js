@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37658"]={"code":"37658","region":"TN","city":"Hampton","latitude":36.2577,"longitude":-82.1891}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727485"]={"code":"727485","region":"Suceava","city":"Siminicea","latitude":47.7,"longitude":26.4}}(window,'GeoPostal','RO');

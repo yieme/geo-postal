@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["602209"]={"code":"602209","region":"Voronezhskaya oblast'","city":"Sloboda","latitude":51.1421,"longitude":40.3021}}(window,'GeoPostal','RU');

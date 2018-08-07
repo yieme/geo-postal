@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41033"]={"code":"41033","region":"KY","city":"De Mossville","latitude":38.7623,"longitude":-84.4859}}(window,'GeoPostal','US');

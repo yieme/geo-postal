@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34301"]={"code":"34301","region":"Pohjois-Pohjanmaa","city":"Kuru","latitude":64.12776,"longitude":23.79592}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628206"]={"code":"628206","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Mortka","latitude":59.33222,"longitude":66.02139}}(window,'GeoPostal','RU');

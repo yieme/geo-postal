@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80300"]={"code":"80300","region":"Sinaloa","city":"Culiacancito","latitude":24.82472,"longitude":-107.53306}}(window,'GeoPostal','MX');

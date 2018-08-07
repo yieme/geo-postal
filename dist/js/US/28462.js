@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28462"]={"code":"28462","region":"North Carolina","city":"Supply","latitude":33.97272,"longitude":-78.28986}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62863"]={"code":"62863","region":"Illinois","city":"Mount Carmel","latitude":38.41088,"longitude":-87.76142}}(window,'GeoPostal','US');

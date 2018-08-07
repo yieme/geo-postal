@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29355"]={"code":"29355","region":"SC","city":"Kinards","latitude":34.3804,"longitude":-81.7773}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342 01"]={"code":"342 01","region":"Plzensky kraj","city":"Susice","latitude":49.23106,"longitude":13.52018}}(window,'GeoPostal','CZ');

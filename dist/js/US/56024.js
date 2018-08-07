@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56024"]={"code":"56024","region":"MN","city":"Eagle Lake","latitude":44.1546,"longitude":-93.8719}}(window,'GeoPostal','US');

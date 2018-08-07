@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05649"]={"code":"05649","region":"Vermont","city":"East Barre","latitude":44.15889,"longitude":-72.46806}}(window,'GeoPostal','US');

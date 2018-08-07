@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24622"]={"code":"24622","region":"Virginia","city":"Jewell Ridge","latitude":37.2271,"longitude":-81.812226}}(window,'GeoPostal','US');

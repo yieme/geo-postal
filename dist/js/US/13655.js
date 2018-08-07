@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13655"]={"code":"13655","region":"New York","city":"Hogansburg","latitude":44.97389,"longitude":-74.66333}}(window,'GeoPostal','US');

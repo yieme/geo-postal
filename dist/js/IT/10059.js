@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10059"]={"code":"10059","region":"Piemonte","city":"Susa","latitude":45.13754,"longitude":7.05461}}(window,'GeoPostal','IT');

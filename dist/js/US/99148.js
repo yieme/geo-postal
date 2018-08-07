@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99148"]={"code":"99148","region":"WA","city":"Loon Lake","latitude":48.0784,"longitude":-117.6325}}(window,'GeoPostal','US');

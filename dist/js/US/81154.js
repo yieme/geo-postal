@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81154"]={"code":"81154","region":"Colorado","city":"South Fork","latitude":37.672625,"longitude":-106.632608}}(window,'GeoPostal','US');

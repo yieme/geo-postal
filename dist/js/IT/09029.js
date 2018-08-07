@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09029"]={"code":"09029","region":"Sardegna","city":"Tuili","latitude":39.71472,"longitude":8.96194}}(window,'GeoPostal','IT');

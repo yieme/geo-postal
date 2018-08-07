@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93493"]={"code":"93493","region":"Vasterbottens lan","city":"Backa","latitude":64.98333,"longitude":21.06667}}(window,'GeoPostal','SE');

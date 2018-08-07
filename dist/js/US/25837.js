@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25837"]={"code":"25837","region":"WV","city":"Edmond","latitude":38.0544,"longitude":-81.0326}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65027"]={"code":"65027","region":"Abruzzo","city":"Scafa","latitude":42.26714,"longitude":13.99981}}(window,'GeoPostal','IT');

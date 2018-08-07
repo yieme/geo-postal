@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69207"]={"code":"69207","region":"Niedersachsen","city":"Sandhausen","latitude":52.5,"longitude":6.88333}}(window,'GeoPostal','DE');

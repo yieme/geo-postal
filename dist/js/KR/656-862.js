@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["656-862"]={"code":"656-862","region":"Gyeongsangnam-do","city":"Kyosai","latitude":34.85028,"longitude":128.58861}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29853"]={"code":"29853","region":"South Carolina","city":"Williston","latitude":33.40265,"longitude":-81.42011}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77360"]={"code":"77360","region":"TX","city":"Onalaska","latitude":30.8225,"longitude":-95.1056}}(window,'GeoPostal','US');

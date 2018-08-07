@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2777"]={"code":"2777","region":"New South Wales","city":"Springwood","latitude":-33.7,"longitude":150.55}}(window,'GeoPostal','AU');

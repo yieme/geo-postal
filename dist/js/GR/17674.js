@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17674"]={"code":"17674","region":"Attiki","city":"Kallithea","latitude":40.27639,"longitude":22.57833}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["432500"]={"code":"432500","region":"Hubei","city":"Yunmeng","latitude":31.06251,"longitude":113.76545}}(window,'GeoPostal','CN');

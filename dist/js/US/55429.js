@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55429"]={"code":"55429","region":"Minnesota","city":"Brooklyn Center","latitude":45.06438,"longitude":-93.34374}}(window,'GeoPostal','US');

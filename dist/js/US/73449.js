@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73449"]={"code":"73449","region":"OK","city":"Mead","latitude":33.9944,"longitude":-96.5299}}(window,'GeoPostal','US');

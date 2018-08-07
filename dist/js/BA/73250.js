@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73250"]={"code":"73250","region":"Federacija Bosne i Hercegovine","city":"Ustikolina","latitude":43.58361,"longitude":18.79}}(window,'GeoPostal','BA');

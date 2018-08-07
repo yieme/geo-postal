@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA19 6HD"]={"code":"SA19 6HD","region":"Wales","city":"Llandeilo","latitude":51.88459,"longitude":-3.99154}}(window,'GeoPostal','GB');

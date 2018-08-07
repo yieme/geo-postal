@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14900-000"]={"code":"14900-000","region":"Sao Paulo","city":"Itapolis","latitude":-21.59556,"longitude":-48.81278}}(window,'GeoPostal','BR');

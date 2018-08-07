@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2170"]={"code":"2170","region":"New South Wales","city":"Prestons","latitude":-33.94185,"longitude":150.8717}}(window,'GeoPostal','AU');

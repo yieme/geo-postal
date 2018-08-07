@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99655"]={"code":"99655","region":"AK","city":"Quinhagak","latitude":59.7381,"longitude":-161.8749}}(window,'GeoPostal','US');

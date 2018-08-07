@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27981"]={"code":"27981","region":"North Carolina","city":"Wanchese","latitude":35.84267,"longitude":-75.63851}}(window,'GeoPostal','US');

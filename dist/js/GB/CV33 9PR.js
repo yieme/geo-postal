@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CV33 9PR"]={"code":"CV33 9PR","region":"England","city":"Ufton","latitude":52.25607,"longitude":-1.44693}}(window,'GeoPostal','GB');

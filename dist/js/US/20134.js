@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20134"]={"code":"20134","region":"Virginia","city":"Purcellville","latitude":39.14116,"longitude":-77.71075}}(window,'GeoPostal','US');

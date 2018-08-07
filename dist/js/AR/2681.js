@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2681"]={"code":"2681","region":"Cordoba","city":"Etruria","latitude":-32.94008,"longitude":-63.2466}}(window,'GeoPostal','AR');

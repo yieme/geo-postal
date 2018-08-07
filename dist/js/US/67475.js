@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67475"]={"code":"67475","region":"Kansas","city":"Ramona","latitude":38.565493,"longitude":-97.095572}}(window,'GeoPostal','US');

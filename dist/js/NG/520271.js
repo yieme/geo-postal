@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["520271"]={"code":"520271","region":"Akwa Ibom","city":"Uyo","latitude":5.03333,"longitude":7.92657}}(window,'GeoPostal','NG');

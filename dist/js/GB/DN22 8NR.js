@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8NR"]={"code":"DN22 8NR","region":"England","city":"Torworth","latitude":53.37565,"longitude":-1.01441}}(window,'GeoPostal','GB');

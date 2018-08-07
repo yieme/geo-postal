@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62974"]={"code":"62974","region":"IL","city":"Pittsburg","latitude":37.8047,"longitude":-88.8081}}(window,'GeoPostal','US');

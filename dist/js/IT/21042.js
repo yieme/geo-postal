@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21042"]={"code":"21042","region":"Lombardia","city":"Caronno Pertusella","latitude":45.59777,"longitude":9.04634}}(window,'GeoPostal','IT');

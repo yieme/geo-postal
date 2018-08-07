@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN21 4QT"]={"code":"DN21 4QT","region":"England","city":"Redbourne","latitude":53.48728,"longitude":-0.53567}}(window,'GeoPostal','GB');

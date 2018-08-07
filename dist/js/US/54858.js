@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54858"]={"code":"54858","region":"Wisconsin","city":"Milltown","latitude":45.49306,"longitude":-92.46333}}(window,'GeoPostal','US');

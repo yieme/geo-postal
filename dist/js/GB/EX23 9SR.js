@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX23 9SR"]={"code":"EX23 9SR","region":"England","city":"Morwenstow","latitude":50.90737,"longitude":-4.55024}}(window,'GeoPostal','GB');

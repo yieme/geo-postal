@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97670"]={"code":"97670","region":"Ouangani","city":"Ouangani","latitude":-12.84639,"longitude":45.13611}}(window,'GeoPostal','YT');

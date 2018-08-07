@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72076"]={"code":"72076","region":"Arkansas","city":"Jacksonville","latitude":34.8662,"longitude":-92.11015}}(window,'GeoPostal','US');

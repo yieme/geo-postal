@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 0K0"]={"code":"S0C 0K0","region":"Saskatchewan","city":"Bengough","latitude":49.40006,"longitude":-105.13439}}(window,'GeoPostal','CA');

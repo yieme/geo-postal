@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2054"]={"code":"2054","region":"Falcon","city":"Chichiriviche","latitude":10.9333,"longitude":-68.27716}}(window,'GeoPostal','VE');

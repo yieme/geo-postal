@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11509"]={"code":"11509","region":"Monte Cristi","city":"Villa Vasquez","latitude":19.7411,"longitude":-71.4464}}(window,'GeoPostal','DO');

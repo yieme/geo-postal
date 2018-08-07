@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["150417"]={"code":"150417","region":"Heilongjiang","city":"Binzhou","latitude":45.75281,"longitude":127.47986}}(window,'GeoPostal','CN');

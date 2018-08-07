@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE9 3ED"]={"code":"PE9 3ED","region":"England","city":"Barnack","latitude":52.63181,"longitude":-0.40821}}(window,'GeoPostal','GB');

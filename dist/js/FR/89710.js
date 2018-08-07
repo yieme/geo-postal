@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89710"]={"code":"89710","region":"Bourgogne-Franche-Comte","city":"Champvallon","latitude":47.9353,"longitude":3.3461}}(window,'GeoPostal','FR');

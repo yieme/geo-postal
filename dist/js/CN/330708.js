@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330708"]={"code":"330708","region":"Jiangxi","city":"Shangfu","latitude":28.67556,"longitude":115.00413}}(window,'GeoPostal','CN');

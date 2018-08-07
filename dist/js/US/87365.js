@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87365"]={"code":"87365","region":"NM","city":"Smith Lake","latitude":35.4809,"longitude":-108.1767}}(window,'GeoPostal','US');

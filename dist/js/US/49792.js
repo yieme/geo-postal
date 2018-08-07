@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49792"]={"code":"49792","region":"MI","city":"Tower","latitude":45.3588,"longitude":-84.2953}}(window,'GeoPostal','US');

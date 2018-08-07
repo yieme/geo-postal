@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K4M 1B2"]={"code":"K4M 1B2","region":"Ontario","city":"Bowesville","latitude":45.24532,"longitude":-75.64896}}(window,'GeoPostal','CA');

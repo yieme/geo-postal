@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21542"]={"code":"21542","region":"MD","city":"Midland","latitude":39.5901,"longitude":-78.9497}}(window,'GeoPostal','US');

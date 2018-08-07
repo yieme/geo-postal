@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70150"]={"code":"70150","region":"Bourgogne-Franche-Comte","city":"Marnay","latitude":47.29088,"longitude":5.77277}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28741"]={"code":"28741","region":"North Carolina","city":"Highlands","latitude":35.053561,"longitude":-83.207709}}(window,'GeoPostal','US');

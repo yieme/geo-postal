@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J9V 0A2"]={"code":"J9V 0A2","region":"Quebec","city":"Ville-Marie","latitude":47.33345,"longitude":-79.43297}}(window,'GeoPostal','CA');

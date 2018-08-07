@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05678"]={"code":"05678","region":"VT","city":"Websterville","latitude":44.1558,"longitude":-72.4658}}(window,'GeoPostal','US');

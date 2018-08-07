@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21669"]={"code":"21669","region":"Maryland","city":"Taylors Island","latitude":38.47315,"longitude":-76.273184}}(window,'GeoPostal','US');

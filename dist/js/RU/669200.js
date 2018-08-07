@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["669200"]={"code":"669200","region":"Irkutskaya oblast'","city":"Osa","latitude":53.38722,"longitude":103.87694}}(window,'GeoPostal','RU');

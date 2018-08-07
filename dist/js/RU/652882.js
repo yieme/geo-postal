@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652882"]={"code":"652882","region":"Kemerovskaya oblast'","city":"Mezhdurechensk","latitude":53.69417,"longitude":88.06028}}(window,'GeoPostal','RU');

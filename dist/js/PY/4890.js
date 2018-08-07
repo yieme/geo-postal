@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4890"]={"code":"4890","region":"Misiones","city":"Santa Maria","latitude":-26.78333,"longitude":-56.93333}}(window,'GeoPostal','PY');

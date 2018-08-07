@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82332"]={"code":"82332","region":"Wyoming","city":"Savery","latitude":41.083302,"longitude":-107.348117}}(window,'GeoPostal','US');

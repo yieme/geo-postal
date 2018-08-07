@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48612"]={"code":"48612","region":"Michigan","city":"Beaverton","latitude":43.88225,"longitude":-84.48473}}(window,'GeoPostal','US');

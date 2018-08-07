@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24430"]={"code":"24430","region":"Nouvelle-Aquitaine","city":"Razac-sur-l'Isle","latitude":45.1647,"longitude":0.6006}}(window,'GeoPostal','FR');

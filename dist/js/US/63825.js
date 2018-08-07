@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63825"]={"code":"63825","region":"MO","city":"Bloomfield","latitude":36.8989,"longitude":-89.9456}}(window,'GeoPostal','US');

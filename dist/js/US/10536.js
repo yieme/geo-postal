@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10536"]={"code":"10536","region":"New York","city":"Bedford Hills","latitude":41.23676,"longitude":-73.69458}}(window,'GeoPostal','US');

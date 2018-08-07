@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR29 5QE"]={"code":"NR29 5QE","region":"England","city":"Ludham","latitude":52.70988,"longitude":1.53508}}(window,'GeoPostal','GB');

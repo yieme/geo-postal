@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6123"]={"code":"6123","region":"Tirol","city":"Terfens","latitude":47.31667,"longitude":11.65}}(window,'GeoPostal','AT');

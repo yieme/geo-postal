@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692715"]={"code":"692715","region":"Primorskiy kray","city":"Kraskino","latitude":42.71139,"longitude":130.77944}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99059"]={"code":"99059","region":"Sevastopol'","city":"Sevastopol'","latitude":44.58883,"longitude":33.5224}}(window,'GeoPostal','UA');

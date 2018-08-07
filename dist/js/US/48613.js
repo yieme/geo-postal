@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48613"]={"code":"48613","region":"MI","city":"Bentley","latitude":43.9267,"longitude":-84.1053}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38491"]={"code":"38491","region":"Kalmar lan","city":"Blomstermala","latitude":56.98333,"longitude":16.33333}}(window,'GeoPostal','SE');

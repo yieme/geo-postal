@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30620"]={"code":"30620","region":"Occitanie","city":"Uchaud","latitude":43.75857,"longitude":4.26843}}(window,'GeoPostal','FR');

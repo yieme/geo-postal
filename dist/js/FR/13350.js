@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13350"]={"code":"13350","region":"Provence-Alpes-Cote d'Azur","city":"Charleval","latitude":43.71864,"longitude":5.24546}}(window,'GeoPostal','FR');

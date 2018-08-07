@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413406"]={"code":"413406","region":"Maharashtra","city":"Osmanabad","latitude":18.16667,"longitude":76.05}}(window,'GeoPostal','IN');

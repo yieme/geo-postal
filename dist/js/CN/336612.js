@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336612"]={"code":"336612","region":"Jiangxi","city":"Caochang","latitude":28.07101,"longitude":114.67265}}(window,'GeoPostal','CN');

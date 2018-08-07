@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3061"]={"code":"3061","region":"Vestfold","city":"Svelvik","latitude":59.6137,"longitude":10.40872}}(window,'GeoPostal','NO');

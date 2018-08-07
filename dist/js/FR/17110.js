@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17110"]={"code":"17110","region":"Nouvelle-Aquitaine","city":"Saint-Georges-de-Didonne","latitude":45.60342,"longitude":-1.00487}}(window,'GeoPostal','FR');

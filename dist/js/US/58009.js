@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58009"]={"code":"58009","region":"ND","city":"Blanchard","latitude":47.3277,"longitude":-97.2466}}(window,'GeoPostal','US');

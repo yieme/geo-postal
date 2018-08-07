@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG9 0NH"]={"code":"SG9 0NH","region":"England","city":"Hormead","latitude":51.94755,"longitude":0.03588}}(window,'GeoPostal','GB');

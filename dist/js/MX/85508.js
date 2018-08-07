@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85508"]={"code":"85508","region":"Sonora","city":"Guaymas","latitude":27.93333,"longitude":-110.9}}(window,'GeoPostal','MX');

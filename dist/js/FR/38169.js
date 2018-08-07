@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38169"]={"code":"38169","region":"Auvergne-Rhone-Alpes","city":"Saint-Marcellin","latitude":45.15192,"longitude":5.32388}}(window,'GeoPostal','FR');

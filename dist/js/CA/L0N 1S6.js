@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L0N 1S6"]={"code":"L0N 1S6","region":"Ontario","city":"Melancthon","latitude":44.10756,"longitude":-80.26431}}(window,'GeoPostal','CA');

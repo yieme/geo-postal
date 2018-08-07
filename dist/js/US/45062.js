@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45062"]={"code":"45062","region":"OH","city":"Seven Mile","latitude":39.479,"longitude":-84.5512}}(window,'GeoPostal','US');

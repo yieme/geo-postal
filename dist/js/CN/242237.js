@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242237"]={"code":"242237","region":"Anhui","city":"Dongting","latitude":30.87222,"longitude":119.51966}}(window,'GeoPostal','CN');

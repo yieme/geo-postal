@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01004"]={"code":"01004","region":"Adrar","city":"Reggane","latitude":26.71576,"longitude":0.1714}}(window,'GeoPostal','DZ');

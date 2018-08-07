@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L6A 1G5"]={"code":"L6A 1G5","region":"Ontario","city":"Maple","latitude":43.852314,"longitude":-79.518913}}(window,'GeoPostal','CA');

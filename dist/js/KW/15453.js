@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15453"]={"code":"15453","region":"Al 'Asimah","city":"Kuwait","latitude":29.36972,"longitude":47.97833}}(window,'GeoPostal','KW');

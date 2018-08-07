@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0H 3G0"]={"code":"S0H 3G0","region":"Saskatchewan","city":"Mossbank","latitude":49.93336,"longitude":-105.96786}}(window,'GeoPostal','CA');

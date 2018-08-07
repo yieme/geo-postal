@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447080"]={"code":"447080","region":"Satu Mare","city":"Capleni","latitude":47.71667,"longitude":22.5}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27593"]={"code":"27593","region":"North Carolina","city":"Wilsons Mills","latitude":35.58405,"longitude":-78.35583}}(window,'GeoPostal','US');

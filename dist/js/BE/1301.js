@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1301"]={"code":"1301","region":"Brabant wallon","city":"Wavre","latitude":50.71717,"longitude":4.60138}}(window,'GeoPostal','BE');

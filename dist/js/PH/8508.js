@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8508"]={"code":"8508","region":"Agusan del Sur","city":"Lapinigan","latitude":8.42056,"longitude":125.9825}}(window,'GeoPostal','PH');

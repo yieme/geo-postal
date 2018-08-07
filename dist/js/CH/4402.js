@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4402"]={"code":"4402","region":"Basel-Landschaft","city":"Frenkendorf","latitude":47.50686,"longitude":7.71648}}(window,'GeoPostal','CH');

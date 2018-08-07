@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34140"]={"code":"34140","region":"FL","city":"Goodland","latitude":25.9248,"longitude":-81.6456}}(window,'GeoPostal','US');

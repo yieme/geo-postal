@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300-271"]={"code":"5300-271","region":"Braganca","city":"Braganca","latitude":41.80582,"longitude":-6.75719}}(window,'GeoPostal','PT');

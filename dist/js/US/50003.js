@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50003"]={"code":"50003","region":"IA","city":"Adel","latitude":41.6221,"longitude":-94.038}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2050"]={"code":"2050","region":"Sofia","city":"Ikhtiman","latitude":42.43333,"longitude":23.81667}}(window,'GeoPostal','BG');

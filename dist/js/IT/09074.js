@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09074"]={"code":"09074","region":"Sardegna","city":"Ghilarza","latitude":40.11965,"longitude":8.83493}}(window,'GeoPostal','IT');

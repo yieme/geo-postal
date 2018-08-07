@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05353"]={"code":"05353","region":"Vermont","city":"Townshend","latitude":43.04722,"longitude":-72.68389}}(window,'GeoPostal','US');

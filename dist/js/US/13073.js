@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13073"]={"code":"13073","region":"NY","city":"Groton","latitude":42.5855,"longitude":-76.3633}}(window,'GeoPostal','US');

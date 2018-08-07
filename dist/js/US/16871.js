@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16871"]={"code":"16871","region":"PA","city":"Pottersdale","latitude":41.1868,"longitude":-78.0341}}(window,'GeoPostal','US');

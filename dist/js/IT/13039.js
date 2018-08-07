@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13039"]={"code":"13039","region":"Piemonte","city":"Trino","latitude":45.19206,"longitude":8.29613}}(window,'GeoPostal','IT');

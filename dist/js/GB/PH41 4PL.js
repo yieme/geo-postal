@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PH41 4PL"]={"code":"PH41 4PL","region":"Scotland","city":"Airor","latitude":57.06667,"longitude":-5.76667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["394092"]={"code":"394092","region":"Voronezhskaya oblast'","city":"Podkletnoye","latitude":51.58993,"longitude":39.4623}}(window,'GeoPostal','RU');

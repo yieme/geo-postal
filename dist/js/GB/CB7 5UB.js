@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB7 5UB"]={"code":"CB7 5UB","region":"England","city":"Barway","latitude":52.3582,"longitude":0.26801}}(window,'GeoPostal','GB');

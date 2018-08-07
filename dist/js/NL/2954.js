@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2954"]={"code":"2954","region":"Zuid-Holland","city":"Alblasserdam","latitude":51.86583,"longitude":4.66111}}(window,'GeoPostal','NL');

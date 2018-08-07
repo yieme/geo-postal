@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74906"]={"code":"74906","region":"Baden-Wurttemberg","city":"Bad Rappenau","latitude":49.23848,"longitude":9.1018}}(window,'GeoPostal','DE');

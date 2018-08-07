@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81300"]={"code":"81300","region":"Johor","city":"Sekudai","latitude":1.53333,"longitude":103.66667}}(window,'GeoPostal','MY');

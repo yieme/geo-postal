@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47162"]={"code":"47162","region":"Castilla y Leon","city":"Aldeamayor de San Martin","latitude":41.51256,"longitude":-4.63955}}(window,'GeoPostal','ES');

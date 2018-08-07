@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 1L0"]={"code":"N0G 1L0","region":"Ontario","city":"Chesley","latitude":44.29658,"longitude":-81.09524}}(window,'GeoPostal','CA');

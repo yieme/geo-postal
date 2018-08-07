@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61419"]={"code":"61419","region":"IL","city":"Bishop Hill","latitude":41.1977,"longitude":-90.1183}}(window,'GeoPostal','US');

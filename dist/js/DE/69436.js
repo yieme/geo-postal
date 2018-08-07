@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69436"]={"code":"69436","region":"Baden-Wurttemberg","city":"Unterschonbrunn","latitude":49.41667,"longitude":8.93333}}(window,'GeoPostal','DE');

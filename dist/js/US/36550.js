@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36550"]={"code":"36550","region":"AL","city":"Little River","latitude":31.2246,"longitude":-87.7548}}(window,'GeoPostal','US');

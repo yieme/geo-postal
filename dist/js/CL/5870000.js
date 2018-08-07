@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5870000"]={"code":"5870000","region":"Los Lagos","city":"Futaleufu","latitude":-43.1675,"longitude":-71.84833}}(window,'GeoPostal','CL');

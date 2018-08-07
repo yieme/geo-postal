@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67150"]={"code":"67150","region":"Phetchabun","city":"Chon Daen","latitude":16.18953,"longitude":100.85958}}(window,'GeoPostal','TH');

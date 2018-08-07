@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA14 3AX"]={"code":"KA14 3AX","region":"Scotland","city":"Glengarnock","latitude":55.73927,"longitude":-4.67756}}(window,'GeoPostal','GB');

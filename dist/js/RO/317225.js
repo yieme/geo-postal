@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317225"]={"code":"317225","region":"Arad","city":"Olari","latitude":46.38333,"longitude":21.55}}(window,'GeoPostal','RO');

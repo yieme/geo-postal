@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX31 4QB"]={"code":"EX31 4QB","region":"England","city":"Trentishoe","latitude":51.22006,"longitude":-3.93937}}(window,'GeoPostal','GB');

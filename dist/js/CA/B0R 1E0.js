@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0R 1E0"]={"code":"B0R 1E0","region":"Nova Scotia","city":"New Germany","latitude":44.55015,"longitude":-64.71547}}(window,'GeoPostal','CA');

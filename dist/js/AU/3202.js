@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3202"]={"code":"3202","region":"Victoria","city":"Heatherton","latitude":-37.95607,"longitude":145.09319}}(window,'GeoPostal','AU');

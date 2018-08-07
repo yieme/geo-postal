@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["304 00"]={"code":"304 00","region":"Dytiki Ellada","city":"Aitolikon","latitude":38.43333,"longitude":21.35}}(window,'GeoPostal','GR');

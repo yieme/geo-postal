@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49504"]={"code":"49504","region":"Michigan","city":"Walker","latitude":42.98605,"longitude":-85.722816}}(window,'GeoPostal','US');

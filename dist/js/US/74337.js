@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74337"]={"code":"74337","region":"Oklahoma","city":"Chouteau","latitude":36.189452,"longitude":-95.335395}}(window,'GeoPostal','US');

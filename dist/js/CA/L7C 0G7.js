@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L7C 0G7"]={"code":"L7C 0G7","region":"Ontario","city":"Inglewood","latitude":43.78341,"longitude":-79.93295}}(window,'GeoPostal','CA');

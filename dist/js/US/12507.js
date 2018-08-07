@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12507"]={"code":"12507","region":"NY","city":"Barrytown","latitude":42.0005,"longitude":-73.9199}}(window,'GeoPostal','US');

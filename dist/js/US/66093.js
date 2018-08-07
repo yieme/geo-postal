@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66093"]={"code":"66093","region":"Kansas","city":"Westphalia","latitude":38.155489,"longitude":-95.456299}}(window,'GeoPostal','US');

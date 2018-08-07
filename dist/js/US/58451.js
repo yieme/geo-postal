@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58451"]={"code":"58451","region":"ND","city":"Hurdsfield","latitude":47.4387,"longitude":-99.9416}}(window,'GeoPostal','US');

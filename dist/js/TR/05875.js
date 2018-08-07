@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05875"]={"code":"05875","region":"Amasya","city":"Tasova","latitude":40.75972,"longitude":36.3225}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98827"]={"code":"98827","region":"WA","city":"Loomis","latitude":48.8696,"longitude":-119.6427}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["484776"]={"code":"484776","region":"Madhya Pradesh","city":"Shahdol","latitude":23.28333,"longitude":81.35}}(window,'GeoPostal','IN');

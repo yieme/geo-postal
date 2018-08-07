@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89420"]={"code":"89420","region":"Bourgogne-Franche-Comte","city":"Cussy-les-Forges","latitude":47.4708,"longitude":4.0272}}(window,'GeoPostal','FR');

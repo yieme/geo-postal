@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["353567"]={"code":"353567","region":"Krasnodarskiy kray","city":"Slavyansk-na-Kubani","latitude":45.2558,"longitude":38.1256}}(window,'GeoPostal','RU');

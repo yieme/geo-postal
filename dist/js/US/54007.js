@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54007"]={"code":"54007","region":"Wisconsin","city":"Deer Park","latitude":45.18861,"longitude":-92.38889}}(window,'GeoPostal','US');

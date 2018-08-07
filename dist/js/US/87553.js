@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87553"]={"code":"87553","region":"New Mexico","city":"Penasco","latitude":36.1725,"longitude":-105.7452}}(window,'GeoPostal','US');

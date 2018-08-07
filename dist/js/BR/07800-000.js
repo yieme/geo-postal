@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07800-000"]={"code":"07800-000","region":"Sao Paulo","city":"Franco da Rocha","latitude":-23.32167,"longitude":-46.72694}}(window,'GeoPostal','BR');

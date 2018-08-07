@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13826"]={"code":"13826","region":"NY","city":"Ouaquaga","latitude":42.1262,"longitude":-75.6471}}(window,'GeoPostal','US');

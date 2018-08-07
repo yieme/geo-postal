@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05871"]={"code":"05871","region":"Vermont","city":"West Burke","latitude":44.6425,"longitude":-71.98028}}(window,'GeoPostal','US');

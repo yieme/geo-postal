@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49110"]={"code":"49110","region":"Pays-de-la-Loire","city":"Le Pin-en-Mauges","latitude":47.25357,"longitude":-0.89917}}(window,'GeoPostal','FR');

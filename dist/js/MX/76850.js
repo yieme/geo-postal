@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76850"]={"code":"76850","region":"Queretaro","city":"Amealco","latitude":20.18333,"longitude":-100.15}}(window,'GeoPostal','MX');

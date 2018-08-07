@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97892"]={"code":"97892","region":"Baden-Wurttemberg","city":"Eichel","latitude":49.76323,"longitude":9.53738}}(window,'GeoPostal','DE');

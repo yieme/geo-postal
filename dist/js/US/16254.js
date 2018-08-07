@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16254"]={"code":"16254","region":"Pennsylvania","city":"Shippenville","latitude":41.246127,"longitude":-79.431191}}(window,'GeoPostal','US');

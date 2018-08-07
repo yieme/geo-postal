@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J7T 0A1"]={"code":"J7T 0A1","region":"Quebec","city":"Saint-Lazare","latitude":45.40008,"longitude":-74.13256}}(window,'GeoPostal','CA');

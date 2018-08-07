@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370 11"]={"code":"370 11","region":"Thessalia","city":"Makrinitsa","latitude":39.4,"longitude":22.98333}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1631"]={"code":"1631","region":"Fribourg","city":"Bulle","latitude":46.6195,"longitude":7.05674}}(window,'GeoPostal','CH');

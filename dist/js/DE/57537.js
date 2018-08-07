@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57537"]={"code":"57537","region":"Rheinland-Pfalz","city":"Wissen","latitude":50.77915,"longitude":7.73466}}(window,'GeoPostal','DE');

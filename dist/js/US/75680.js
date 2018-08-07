@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75680"]={"code":"75680","region":"TX","city":"Minden","latitude":32.0028,"longitude":-94.7129}}(window,'GeoPostal','US');

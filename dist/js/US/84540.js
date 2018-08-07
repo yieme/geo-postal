@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84540"]={"code":"84540","region":"Utah","city":"Thompson","latitude":39.035788,"longitude":-109.69698}}(window,'GeoPostal','US');

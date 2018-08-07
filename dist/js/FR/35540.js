@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35540"]={"code":"35540","region":"Bretagne","city":"Miniac-Morvan","latitude":48.51477,"longitude":-1.89955}}(window,'GeoPostal','FR');

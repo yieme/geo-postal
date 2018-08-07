@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["192233"]={"code":"192233","region":"Jammu and Kashmir","city":"Kulgam","latitude":33.65,"longitude":75.01667}}(window,'GeoPostal','IN');

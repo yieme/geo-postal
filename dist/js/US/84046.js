@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84046"]={"code":"84046","region":"Utah","city":"Manila","latitude":40.98801,"longitude":-109.72265}}(window,'GeoPostal','US');

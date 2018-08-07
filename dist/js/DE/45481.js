@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45481"]={"code":"45481","region":"Nordrhein-Westfalen","city":"Saarn","latitude":51.40343,"longitude":6.87459}}(window,'GeoPostal','DE');

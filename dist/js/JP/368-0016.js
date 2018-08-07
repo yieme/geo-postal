@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368-0016"]={"code":"368-0016","region":"Saitama","city":"Chichibu","latitude":36,"longitude":139.083}}(window,'GeoPostal','JP');

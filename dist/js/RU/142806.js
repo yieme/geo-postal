@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142806"]={"code":"142806","region":"Moskovskaya oblast'","city":"Stupino","latitude":54.90083,"longitude":38.07083}}(window,'GeoPostal','RU');

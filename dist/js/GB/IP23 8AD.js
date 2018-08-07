@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP23 8AD"]={"code":"IP23 8AD","region":"England","city":"Brome Street","latitude":52.34522,"longitude":1.16116}}(window,'GeoPostal','GB');

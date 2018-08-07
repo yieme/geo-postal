@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE23 4PQ"]={"code":"PE23 4PQ","region":"England","city":"Partney","latitude":53.1938,"longitude":0.10986}}(window,'GeoPostal','GB');

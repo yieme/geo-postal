@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 27"]={"code":"330 27","region":"Plzensky kraj","city":"Vejprnice","latitude":49.72988,"longitude":13.27628}}(window,'GeoPostal','CZ');

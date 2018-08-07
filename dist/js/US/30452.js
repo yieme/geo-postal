@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30452"]={"code":"30452","region":"GA","city":"Register","latitude":32.3382,"longitude":-81.8728}}(window,'GeoPostal','US');

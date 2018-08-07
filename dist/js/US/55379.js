@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55379"]={"code":"55379","region":"Minnesota","city":"Shakopee","latitude":44.7913,"longitude":-93.5136}}(window,'GeoPostal','US');

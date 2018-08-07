@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38871"]={"code":"38871","region":"Sachsen-Anhalt","city":"Hasserode","latitude":51.82286,"longitude":10.75577}}(window,'GeoPostal','DE');

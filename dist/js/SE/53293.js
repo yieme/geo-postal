@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53293"]={"code":"53293","region":"Vastra Gotalands lan","city":"Axvall","latitude":58.38333,"longitude":13.56667}}(window,'GeoPostal','SE');

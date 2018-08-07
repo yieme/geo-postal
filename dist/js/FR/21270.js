@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21270"]={"code":"21270","region":"Bourgogne-Franche-Comte","city":"Vielverge","latitude":47.2694,"longitude":5.4519}}(window,'GeoPostal','FR');

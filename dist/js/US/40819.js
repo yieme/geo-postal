@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40819"]={"code":"40819","region":"Kentucky","city":"Coldiron","latitude":36.87462,"longitude":-83.44032}}(window,'GeoPostal','US');

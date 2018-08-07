@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12016"]={"code":"12016","region":"NY","city":"Auriesville","latitude":42.9295,"longitude":-74.3165}}(window,'GeoPostal','US');

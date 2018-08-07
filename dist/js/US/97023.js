@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97023"]={"code":"97023","region":"OR","city":"Estacada","latitude":45.2872,"longitude":-122.3259}}(window,'GeoPostal','US');

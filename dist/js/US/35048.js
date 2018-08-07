@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35048"]={"code":"35048","region":"AL","city":"Clay","latitude":33.7026,"longitude":-86.5997}}(window,'GeoPostal','US');

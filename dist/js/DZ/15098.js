@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15098"]={"code":"15098","region":"Boumerdes","city":"Makouda","latitude":36.78567,"longitude":4.06273}}(window,'GeoPostal','DZ');

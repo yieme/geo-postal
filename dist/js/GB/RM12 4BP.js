@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RM12 4BP"]={"code":"RM12 4BP","region":"England","city":"Wykeham","latitude":54.23333,"longitude":-0.51667}}(window,'GeoPostal','GB');

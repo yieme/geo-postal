@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31811"]={"code":"31811","region":"GA","city":"Hamilton","latitude":32.7418,"longitude":-84.8848}}(window,'GeoPostal','US');

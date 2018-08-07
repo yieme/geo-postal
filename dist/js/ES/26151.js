@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26151"]={"code":"26151","region":"La Rioja","city":"Arrubal","latitude":42.43486,"longitude":-2.25143}}(window,'GeoPostal','ES');

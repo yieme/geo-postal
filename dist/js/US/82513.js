@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82513"]={"code":"82513","region":"Wyoming","city":"Dubois","latitude":43.53583,"longitude":-109.63583}}(window,'GeoPostal','US');

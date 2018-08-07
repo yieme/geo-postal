@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14580"]={"code":"14580","region":"New York","city":"Webster","latitude":43.21229,"longitude":-77.42999}}(window,'GeoPostal','US');

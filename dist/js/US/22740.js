@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22740"]={"code":"22740","region":"Virginia","city":"Sperryville","latitude":38.65694,"longitude":-78.22611}}(window,'GeoPostal','US');

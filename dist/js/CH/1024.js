@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1024"]={"code":"1024","region":"Vaud","city":"Ecublens","latitude":46.52899,"longitude":6.56261}}(window,'GeoPostal','CH');

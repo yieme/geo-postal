@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38079"]={"code":"38079","region":"TN","city":"Tiptonville","latitude":36.3846,"longitude":-89.4649}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21120"]={"code":"21120","region":"MD","city":"Parkton","latitude":39.6422,"longitude":-76.6737}}(window,'GeoPostal','US');

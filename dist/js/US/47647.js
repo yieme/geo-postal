@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47647"]={"code":"47647","region":"IN","city":"Buckskin","latitude":38.2284,"longitude":-87.412}}(window,'GeoPostal','US');

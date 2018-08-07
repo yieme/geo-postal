@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142011"]={"code":"142011","region":"Punjab","city":"Sultanpur","latitude":31.21528,"longitude":75.19972}}(window,'GeoPostal','IN');

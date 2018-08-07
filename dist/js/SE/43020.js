@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43020"]={"code":"43020","region":"Hallands lan","city":"Veddige","latitude":57.26667,"longitude":12.31667}}(window,'GeoPostal','SE');

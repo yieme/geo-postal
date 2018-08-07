@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08440"]={"code":"08440","region":"Catalunya","city":"Cardedeu","latitude":41.63976,"longitude":2.35739}}(window,'GeoPostal','ES');

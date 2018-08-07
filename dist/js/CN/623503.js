@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623503"]={"code":"623503","region":"Sichuan","city":"Se'ergu","latitude":31.93825,"longitude":103.41942}}(window,'GeoPostal','CN');

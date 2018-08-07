@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33428"]={"code":"33428","region":"Asturias, Principado de","city":"Llanera","latitude":43.46189,"longitude":-5.9311}}(window,'GeoPostal','ES');

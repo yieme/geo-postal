@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2740"]={"code":"2740","region":"Oppland","city":"Roa","latitude":60.29093,"longitude":10.61585}}(window,'GeoPostal','NO');

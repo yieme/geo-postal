@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53534"]={"code":"53534","region":"WI","city":"Edgerton","latitude":42.8386,"longitude":-89.0642}}(window,'GeoPostal','US');

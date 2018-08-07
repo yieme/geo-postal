@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68957"]={"code":"68957","region":"NE","city":"Lawrence","latitude":40.2767,"longitude":-98.2402}}(window,'GeoPostal','US');

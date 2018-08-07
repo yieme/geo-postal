@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369103"]={"code":"369103","region":"Karachayevo-Cherkesskaya Respublika","city":"Druzhba","latitude":44.1953,"longitude":42.017}}(window,'GeoPostal','RU');

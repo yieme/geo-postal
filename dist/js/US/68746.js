@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68746"]={"code":"68746","region":"Nebraska","city":"Lynch","latitude":42.859413,"longitude":-98.440826}}(window,'GeoPostal','US');

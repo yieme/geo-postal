@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47228"]={"code":"47228","region":"Indiana","city":"Cortland","latitude":38.98812,"longitude":-86.0034}}(window,'GeoPostal','US');

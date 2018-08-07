@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM21 9BS"]={"code":"CM21 9BS","region":"England","city":"Sawbridgeworth","latitude":51.81667,"longitude":0.15}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5244"]={"code":"5244","region":"South Australia","city":"Harrogate","latitude":-34.95,"longitude":139.01667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 16"]={"code":"330 16","region":"Plzensky kraj","city":"Vseruby","latitude":49.84167,"longitude":13.22943}}(window,'GeoPostal','CZ');

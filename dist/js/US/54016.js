@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54016"]={"code":"54016","region":"Wisconsin","city":"Hudson","latitude":44.98188,"longitude":-92.69082}}(window,'GeoPostal','US');

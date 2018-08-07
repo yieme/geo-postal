@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43843"]={"code":"43843","region":"OH","city":"Walhonding","latitude":40.3407,"longitude":-82.1559}}(window,'GeoPostal','US');

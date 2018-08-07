@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91224"]={"code":"91224","region":"Bayern","city":"Stallbaum","latitude":49.48853,"longitude":11.53333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50109"]={"code":"50109","region":"IA","city":"Granger","latitude":41.7611,"longitude":-93.8244}}(window,'GeoPostal','US');

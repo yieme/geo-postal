@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47008"]={"code":"47008","region":"Nouvelle-Aquitaine","city":"Agen","latitude":44.2,"longitude":0.63333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72180"]={"code":"72180","region":"Suphan Buri","city":"Dan Chang","latitude":14.84183,"longitude":99.69756}}(window,'GeoPostal','TH');

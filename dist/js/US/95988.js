@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95988"]={"code":"95988","region":"California","city":"Willows","latitude":39.522781,"longitude":-122.197749}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12575"]={"code":"12575","region":"NY","city":"Rock Tavern","latitude":41.4575,"longitude":-74.1659}}(window,'GeoPostal','US');

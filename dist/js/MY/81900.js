@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81900"]={"code":"81900","region":"Johor","city":"Kota Tinggi","latitude":1.7381,"longitude":103.8999}}(window,'GeoPostal','MY');

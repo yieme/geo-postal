@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6308"]={"code":"6308","region":"Western Australia","city":"Karping","latitude":-32.6,"longitude":117.08333}}(window,'GeoPostal','AU');

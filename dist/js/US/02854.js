@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02854"]={"code":"02854","region":"Rhode Island","city":"North Kingstown","latitude":41.536089,"longitude":-71.44286}}(window,'GeoPostal','US');

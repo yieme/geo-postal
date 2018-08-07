@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25562"]={"code":"25562","region":"WV","city":"Shoals","latitude":38.3432,"longitude":-82.4905}}(window,'GeoPostal','US');

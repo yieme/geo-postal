@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45500"]={"code":"45500","region":"Castilla-La Mancha","city":"Torrijos","latitude":39.98194,"longitude":-4.28349}}(window,'GeoPostal','ES');

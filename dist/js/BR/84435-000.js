@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84435-000"]={"code":"84435-000","region":"Parana","city":"Prudentopolis","latitude":-25.21306,"longitude":-50.97778}}(window,'GeoPostal','BR');

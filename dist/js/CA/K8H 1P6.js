@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K8H 1P6"]={"code":"K8H 1P6","region":"Ontario","city":"Petawawa","latitude":45.895313,"longitude":-77.281286}}(window,'GeoPostal','CA');

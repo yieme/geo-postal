@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 6AG"]={"code":"NR11 6AG","region":"England","city":"Tuttington","latitude":52.79695,"longitude":1.30059}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB45 1ET"]={"code":"AB45 1ET","region":"Scotland","city":"Banff","latitude":57.66477,"longitude":-2.52964}}(window,'GeoPostal','GB');

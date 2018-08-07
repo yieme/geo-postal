@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["543 71"]={"code":"543 71","region":"Kralovehradecky kraj","city":"Hostinne","latitude":50.54066,"longitude":15.72334}}(window,'GeoPostal','CZ');

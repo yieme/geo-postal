@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25640"]={"code":"25640","region":"Bourgogne-Franche-Comte","city":"Roulans","latitude":47.31553,"longitude":6.22901}}(window,'GeoPostal','FR');

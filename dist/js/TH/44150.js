@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44150"]={"code":"44150","region":"Maha Sarakham","city":"Maha Sarakham","latitude":16.18483,"longitude":103.30067}}(window,'GeoPostal','TH');

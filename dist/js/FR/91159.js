@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91159"]={"code":"91159","region":"Ile-de-France","city":"Etampes","latitude":48.43333,"longitude":2.15}}(window,'GeoPostal','FR');

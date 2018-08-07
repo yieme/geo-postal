@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37014"]={"code":"37014","region":"TN","city":"Arrington","latitude":35.8566,"longitude":-86.6633}}(window,'GeoPostal','US');

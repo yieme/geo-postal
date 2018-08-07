@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46573"]={"code":"46573","region":"Indiana","city":"Wakarusa","latitude":41.538367,"longitude":-86.083616}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03883"]={"code":"03883","region":"NH","city":"South Tamworth","latitude":43.8077,"longitude":-71.308}}(window,'GeoPostal','US');

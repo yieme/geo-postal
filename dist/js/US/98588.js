@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98588"]={"code":"98588","region":"WA","city":"Tahuya","latitude":47.4446,"longitude":-123.0232}}(window,'GeoPostal','US');

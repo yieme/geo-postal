@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78620"]={"code":"78620","region":"Texas","city":"Dripping Springs","latitude":30.19021,"longitude":-98.08668}}(window,'GeoPostal','US');

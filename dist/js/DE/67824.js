@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67824"]={"code":"67824","region":"Rheinland-Pfalz","city":"Feilbingert","latitude":49.76667,"longitude":7.8}}(window,'GeoPostal','DE');

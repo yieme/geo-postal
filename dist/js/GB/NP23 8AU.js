@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NP23 8AU"]={"code":"NP23 8AU","region":"Wales","city":"Victoria","latitude":51.75,"longitude":-3.2}}(window,'GeoPostal','GB');

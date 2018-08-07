@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05667"]={"code":"05667","region":"Vermont","city":"Plainfield","latitude":44.243845,"longitude":-72.408191}}(window,'GeoPostal','US');

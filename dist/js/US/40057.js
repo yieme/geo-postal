@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40057"]={"code":"40057","region":"KY","city":"Pleasureville","latitude":38.3598,"longitude":-85.1072}}(window,'GeoPostal','US');

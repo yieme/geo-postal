@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57270-000"]={"code":"57270-000","region":"Alagoas","city":"Junqueiro","latitude":-9.92528,"longitude":-36.47583}}(window,'GeoPostal','BR');

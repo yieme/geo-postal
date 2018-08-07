@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N7A 1C9"]={"code":"N7A 1C9","region":"Ontario","city":"Goderich","latitude":43.735551,"longitude":-81.707658}}(window,'GeoPostal','CA');

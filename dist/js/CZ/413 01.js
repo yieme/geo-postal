@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413 01"]={"code":"413 01","region":"Ustecky kraj","city":"Roudnice nad Labem","latitude":50.42528,"longitude":14.26175}}(window,'GeoPostal','CZ');

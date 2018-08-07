@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["522511"]={"code":"522511","region":"Andhra Pradesh","city":"Vijayawada","latitude":16.51667,"longitude":80.61667}}(window,'GeoPostal','IN');

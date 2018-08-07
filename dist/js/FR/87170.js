@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87170"]={"code":"87170","region":"Nouvelle-Aquitaine","city":"Isle","latitude":45.80272,"longitude":1.21213}}(window,'GeoPostal','FR');

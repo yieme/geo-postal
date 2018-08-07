@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41500"]={"code":"41500","region":"Centre-Val de Loire","city":"Mer","latitude":47.70555,"longitude":1.50621}}(window,'GeoPostal','FR');

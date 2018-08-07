@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98504"]={"code":"98504","region":"Zacatecas","city":"Calera Victor Rosales","latitude":22.95,"longitude":-102.7}}(window,'GeoPostal','MX');

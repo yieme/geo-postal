@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46131"]={"code":"46131","region":"Indiana","city":"Franklin","latitude":39.48061,"longitude":-86.05499}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3312"]={"code":"3312","region":"Prebold","city":"Prebold","latitude":46.23694,"longitude":15.0925}}(window,'GeoPostal','SI');

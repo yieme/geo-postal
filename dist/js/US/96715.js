@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96715"]={"code":"96715","region":"Hawaii","city":"Hanama'ulu","latitude":21.99319,"longitude":-159.35416}}(window,'GeoPostal','US');

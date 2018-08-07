@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02025"]={"code":"02025","region":"Lazio","city":"Petrella Salto","latitude":42.29543,"longitude":13.06828}}(window,'GeoPostal','IT');

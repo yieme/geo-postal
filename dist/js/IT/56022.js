@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56022"]={"code":"56022","region":"Toscana","city":"Castelfranco di Sotto","latitude":43.70154,"longitude":10.74551}}(window,'GeoPostal','IT');

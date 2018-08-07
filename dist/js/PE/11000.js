@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11000"]={"code":"11000","region":"Ica","city":"Los Aquijes","latitude":-14.09667,"longitude":-75.69083}}(window,'GeoPostal','PE');

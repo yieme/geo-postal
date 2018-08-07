@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13194"]={"code":"13194","region":"Castilla-La Mancha","city":"Retuerta de Bullaque","latitude":39.46363,"longitude":-4.41363}}(window,'GeoPostal','ES');

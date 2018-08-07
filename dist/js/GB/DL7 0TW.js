@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL7 0TW"]={"code":"DL7 0TW","region":"England","city":"Kirkby Fleetham","latitude":54.34625,"longitude":-1.5657}}(window,'GeoPostal','GB');

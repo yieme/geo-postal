@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73036"]={"code":"73036","region":"Puglia","city":"Muro Leccese","latitude":40.10232,"longitude":18.33813}}(window,'GeoPostal','IT');

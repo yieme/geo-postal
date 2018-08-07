@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71660"]={"code":"71660","region":"AR","city":"New Edinburg","latitude":33.7588,"longitude":-92.1939}}(window,'GeoPostal','US');

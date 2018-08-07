@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52152"]={"code":"52152","region":"Dnipropetrovska oblast","city":"Vyshneve","latitude":48.43661,"longitude":33.91618}}(window,'GeoPostal','UA');

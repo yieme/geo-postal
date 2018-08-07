@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03593"]={"code":"03593","region":"New Hampshire","city":"Randolph","latitude":44.3882,"longitude":-71.2187}}(window,'GeoPostal','US');

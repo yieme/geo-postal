@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84002"]={"code":"84002","region":"UT","city":"Altonah","latitude":40.4013,"longitude":-110.2938}}(window,'GeoPostal','US');

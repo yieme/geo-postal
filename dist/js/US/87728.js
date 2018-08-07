@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87728"]={"code":"87728","region":"New Mexico","city":"Maxwell","latitude":36.540989,"longitude":-104.539984}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23007"]={"code":"23007","region":"Vinnytska oblast","city":"Bar","latitude":49.07717,"longitude":27.68256}}(window,'GeoPostal','UA');

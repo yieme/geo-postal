@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57199"]={"code":"57199","region":"Grand-Est","city":"Florange","latitude":49.32373,"longitude":6.1212}}(window,'GeoPostal','FR');

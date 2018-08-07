@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30820"]={"code":"30820","region":"Murcia, Region de","city":"Alcantarilla","latitude":37.96939,"longitude":-1.21714}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53961"]={"code":"53961","region":"Wisconsin","city":"Rock Springs","latitude":43.478781,"longitude":-89.91209}}(window,'GeoPostal','US');

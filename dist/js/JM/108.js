@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["108"]={"code":"108","region":"Saint James","city":"Montego Bay","latitude":18.47116,"longitude":-77.91883}}(window,'GeoPostal','JM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1383"]={"code":"1383","region":"Noord-Holland","city":"Weesp","latitude":52.3075,"longitude":5.04167}}(window,'GeoPostal','NL');

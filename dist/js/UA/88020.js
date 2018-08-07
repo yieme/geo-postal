@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88020"]={"code":"88020","region":"Zakarpatska oblast","city":"Uzhhorod","latitude":48.61667,"longitude":22.3}}(window,'GeoPostal','UA');

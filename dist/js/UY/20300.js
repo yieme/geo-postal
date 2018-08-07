@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20300"]={"code":"20300","region":"Maldonado","city":"Pan de Azucar","latitude":-34.8,"longitude":-55.23333}}(window,'GeoPostal','UY');

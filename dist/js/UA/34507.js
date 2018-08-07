@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34507"]={"code":"34507","region":"Rivnenska oblast","city":"Sarny","latitude":51.33795,"longitude":26.60191}}(window,'GeoPostal','UA');

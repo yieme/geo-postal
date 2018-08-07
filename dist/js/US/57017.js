@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57017"]={"code":"57017","region":"SD","city":"Colman","latitude":43.9558,"longitude":-96.8189}}(window,'GeoPostal','US');

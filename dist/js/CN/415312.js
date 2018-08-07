@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415312"]={"code":"415312","region":"Hunan","city":"Yanliupu","latitude":29.56919,"longitude":111.12814}}(window,'GeoPostal','CN');

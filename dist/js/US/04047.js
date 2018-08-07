@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04047"]={"code":"04047","region":"Maine","city":"Parsonsfield","latitude":43.72702,"longitude":-70.92868}}(window,'GeoPostal','US');

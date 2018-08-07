@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02643"]={"code":"02643","region":"MA","city":"East Orleans","latitude":41.7843,"longitude":-69.962}}(window,'GeoPostal','US');

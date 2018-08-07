@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20119"]={"code":"20119","region":"VA","city":"Catlett","latitude":38.637,"longitude":-77.6383}}(window,'GeoPostal','US');

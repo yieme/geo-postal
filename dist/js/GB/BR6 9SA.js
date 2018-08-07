@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BR6 9SA"]={"code":"BR6 9SA","region":"England","city":"Newstead","latitude":53.06667,"longitude":-1.21667}}(window,'GeoPostal','GB');

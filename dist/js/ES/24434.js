@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24434"]={"code":"24434","region":"Castilla y Leon","city":"Vega de Espinareda","latitude":42.72537,"longitude":-6.65439}}(window,'GeoPostal','ES');

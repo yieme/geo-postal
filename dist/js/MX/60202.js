@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60202"]={"code":"60202","region":"Michoacan de Ocampo","city":"Angahuan","latitude":19.55,"longitude":-102.18333}}(window,'GeoPostal','MX');

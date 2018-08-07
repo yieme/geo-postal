@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68349"]={"code":"68349","region":"NE","city":"Elmwood","latitude":40.8378,"longitude":-96.2944}}(window,'GeoPostal','US');

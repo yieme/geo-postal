@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35647"]={"code":"35647","region":"AL","city":"Lester","latitude":34.9596,"longitude":-87.1006}}(window,'GeoPostal','US');

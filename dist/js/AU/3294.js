@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3294"]={"code":"3294","region":"Victoria","city":"Dunkeld","latitude":-37.64987,"longitude":142.34393}}(window,'GeoPostal','AU');

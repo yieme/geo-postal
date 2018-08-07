@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["239533"]={"code":"239533","region":"Anhui","city":"Chengjia","latitude":31.91148,"longitude":118.08262}}(window,'GeoPostal','CN');

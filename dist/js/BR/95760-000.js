@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95760-000"]={"code":"95760-000","region":"Rio Grande do Sul","city":"Sao Sebastiao do Cai","latitude":-29.58667,"longitude":-51.37556}}(window,'GeoPostal','BR');

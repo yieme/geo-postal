@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41849"]={"code":"41849","region":"Nordrhein-Westfalen","city":"Gendorf","latitude":51.07081,"longitude":6.18143}}(window,'GeoPostal','DE');

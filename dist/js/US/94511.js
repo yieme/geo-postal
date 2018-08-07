@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94511"]={"code":"94511","region":"CA","city":"Bethel Island","latitude":38.0266,"longitude":-121.6425}}(window,'GeoPostal','US');

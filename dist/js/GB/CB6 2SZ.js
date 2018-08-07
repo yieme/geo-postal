@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB6 2SZ"]={"code":"CB6 2SZ","region":"England","city":"Downham","latitude":52.43179,"longitude":0.23861}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG6 4SH"]={"code":"DG6 4SH","region":"Scotland","city":"Borgue","latitude":54.8122,"longitude":-4.13414}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45740"]={"code":"45740","region":"Castilla-La Mancha","city":"Villasequilla de Yepes","latitude":39.87582,"longitude":-3.7311}}(window,'GeoPostal','ES');

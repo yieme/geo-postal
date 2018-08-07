@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17380"]={"code":"17380","region":"Nouvelle-Aquitaine","city":"Tonnay-Boutonne","latitude":45.96815,"longitude":-0.70847}}(window,'GeoPostal','FR');

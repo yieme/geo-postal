@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93176"]={"code":"93176","region":"Bayern","city":"Hemau","latitude":49.05399,"longitude":11.78195}}(window,'GeoPostal','DE');

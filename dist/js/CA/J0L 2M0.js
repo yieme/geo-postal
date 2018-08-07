@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 2M0"]={"code":"J0L 2M0","region":"Quebec","city":"Saint-Roch-de-Richelieu","latitude":45.88337,"longitude":-73.16585}}(window,'GeoPostal','CA');

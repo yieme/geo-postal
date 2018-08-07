@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27926"]={"code":"27926","region":"NC","city":"Corapeake","latitude":36.5179,"longitude":-76.5979}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V3M 6Z1"]={"code":"V3M 6Z1","region":"British Columbia","city":"Ashcroft","latitude":49.212549,"longitude":-122.921223}}(window,'GeoPostal','CA');

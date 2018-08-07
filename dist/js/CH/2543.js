@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2543"]={"code":"2543","region":"Bern","city":"Lengnau","latitude":47.18382,"longitude":7.37371}}(window,'GeoPostal','CH');

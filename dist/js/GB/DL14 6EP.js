@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL14 6EP"]={"code":"DL14 6EP","region":"England","city":"Bishop Auckland","latitude":54.65554,"longitude":-1.67706}}(window,'GeoPostal','GB');

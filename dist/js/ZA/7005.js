@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7005"]={"code":"7005","region":"Eastern Cape","city":"Middelburg","latitude":-31.49285,"longitude":25.00633}}(window,'GeoPostal','ZA');

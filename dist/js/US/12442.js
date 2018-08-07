@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12442"]={"code":"12442","region":"NY","city":"Hunter","latitude":42.2333,"longitude":-74.2416}}(window,'GeoPostal','US');

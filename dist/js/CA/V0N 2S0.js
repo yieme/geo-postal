@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 2S0"]={"code":"V0N 2S0","region":"British Columbia","city":"Port Mellon","latitude":49.51636,"longitude":-123.48599}}(window,'GeoPostal','CA');

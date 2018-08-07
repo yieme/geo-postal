@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29075"]={"code":"29075","region":"SC","city":"Little Mountain","latitude":34.1676,"longitude":-81.4184}}(window,'GeoPostal','US');

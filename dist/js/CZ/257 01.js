@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["257 01"]={"code":"257 01","region":"Stredocesky kraj","city":"Postupice","latitude":49.72798,"longitude":14.77722}}(window,'GeoPostal','CZ');

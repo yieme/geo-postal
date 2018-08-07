@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35987"]={"code":"35987","region":"AL","city":"Steele","latitude":33.9417,"longitude":-86.2289}}(window,'GeoPostal','US');

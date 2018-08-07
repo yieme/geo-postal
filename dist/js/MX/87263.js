@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87263"]={"code":"87263","region":"Tamaulipas","city":"Graciano Sanchez","latitude":23.91667,"longitude":-99.28333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65810-000"]={"code":"65810-000","region":"Maranhao","city":"Morros","latitude":-9.44667,"longitude":-46.30028}}(window,'GeoPostal','BR');

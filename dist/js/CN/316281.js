@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["316281"]={"code":"316281","region":"Zhejiang","city":"Qushan","latitude":30.45005,"longitude":122.28427}}(window,'GeoPostal','CN');

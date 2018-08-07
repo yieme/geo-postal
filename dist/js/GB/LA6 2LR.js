@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA6 2LR"]={"code":"LA6 2LR","region":"England","city":"Barbon","latitude":54.23734,"longitude":-2.57183}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28650"]={"code":"28650","region":"North Carolina","city":"Maiden","latitude":35.57569,"longitude":-81.21175}}(window,'GeoPostal','US');

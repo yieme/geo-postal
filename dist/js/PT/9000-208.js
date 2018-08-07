@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9000-208"]={"code":"9000-208","region":"Regiao Autonoma da Madeira","city":"Santana","latitude":32.8,"longitude":-16.88333}}(window,'GeoPostal','PT');

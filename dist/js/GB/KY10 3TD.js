@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KY10 3TD"]={"code":"KY10 3TD","region":"Scotland","city":"Crail","latitude":56.26042,"longitude":-2.62676}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 2W0"]={"code":"J0K 2W0","region":"Quebec","city":"Saint-Leon","latitude":48.66679,"longitude":-71.53239}}(window,'GeoPostal','CA');

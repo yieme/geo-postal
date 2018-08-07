@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G69 0PG"]={"code":"G69 0PG","region":"Scotland","city":"Moodiesburn","latitude":55.91501,"longitude":-4.08331}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73532"]={"code":"73532","region":"Oklahoma","city":"Duke","latitude":34.663725,"longitude":-99.570102}}(window,'GeoPostal','US');

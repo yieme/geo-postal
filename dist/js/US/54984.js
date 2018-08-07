@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54984"]={"code":"54984","region":"Wisconsin","city":"Wild Rose","latitude":44.17694,"longitude":-89.24611}}(window,'GeoPostal','US');

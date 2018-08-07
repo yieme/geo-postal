@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9240"]={"code":"9240","region":"Oost-Vlaanderen","city":"Zele","latitude":51.06566,"longitude":4.0403}}(window,'GeoPostal','BE');

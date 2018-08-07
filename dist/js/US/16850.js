@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16850"]={"code":"16850","region":"PA","city":"Lecontes Mills","latitude":41.0831,"longitude":-78.2833}}(window,'GeoPostal','US');

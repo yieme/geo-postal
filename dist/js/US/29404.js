@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29404"]={"code":"29404","region":"SC","city":"Charleston Afb","latitude":32.8982,"longitude":-80.0686}}(window,'GeoPostal','US');

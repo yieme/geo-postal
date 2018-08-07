@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06035"]={"code":"06035","region":"Umbria","city":"Gualdo Cattaneo","latitude":42.91184,"longitude":12.55576}}(window,'GeoPostal','IT');

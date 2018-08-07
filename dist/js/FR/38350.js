@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38350"]={"code":"38350","region":"Auvergne-Rhone-Alpes","city":"La Mure","latitude":44.90256,"longitude":5.78659}}(window,'GeoPostal','FR');

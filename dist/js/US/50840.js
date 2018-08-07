@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50840"]={"code":"50840","region":"IA","city":"Clearfield","latitude":40.7935,"longitude":-94.4944}}(window,'GeoPostal','US');

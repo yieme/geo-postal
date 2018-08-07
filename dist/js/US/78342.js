@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78342"]={"code":"78342","region":"TX","city":"Ben Bolt","latitude":27.6475,"longitude":-98.0814}}(window,'GeoPostal','US');

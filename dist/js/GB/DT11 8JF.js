@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 8JF"]={"code":"DT11 8JF","region":"England","city":"Blandford Forum","latitude":50.86073,"longitude":-2.16174}}(window,'GeoPostal','GB');

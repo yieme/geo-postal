@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3158"]={"code":"3158","region":"Entre Rios","city":"Lucas Gonzalez","latitude":-32.3843,"longitude":-59.53013}}(window,'GeoPostal','AR');

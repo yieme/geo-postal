@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0X 2C0"]={"code":"J0X 2C0","region":"Quebec","city":"Low","latitude":45.81681,"longitude":-75.94936}}(window,'GeoPostal','CA');

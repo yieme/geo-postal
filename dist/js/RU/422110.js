@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422110"]={"code":"422110","region":"Tatarstan, Respublika","city":"Kukmor","latitude":56.1855,"longitude":50.8944}}(window,'GeoPostal','RU');

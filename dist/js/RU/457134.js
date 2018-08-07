@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457134"]={"code":"457134","region":"Chelyabinskaya oblast'","city":"Bobrovka","latitude":54.047,"longitude":61.7455}}(window,'GeoPostal','RU');

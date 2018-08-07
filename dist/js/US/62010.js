@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62010"]={"code":"62010","region":"IL","city":"Bethalto","latitude":38.9074,"longitude":-90.0344}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73540"]={"code":"73540","region":"Auvergne-Rhone-Alpes","city":"La Bathie","latitude":45.62813,"longitude":6.45106}}(window,'GeoPostal','FR');

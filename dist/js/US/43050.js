@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43050"]={"code":"43050","region":"Ohio","city":"Mount Vernon","latitude":40.3934,"longitude":-82.48572}}(window,'GeoPostal','US');

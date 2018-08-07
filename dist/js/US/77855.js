@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77855"]={"code":"77855","region":"Texas","city":"Flynn","latitude":31.1508,"longitude":-96.12408}}(window,'GeoPostal','US');

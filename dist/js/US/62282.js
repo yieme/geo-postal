@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62282"]={"code":"62282","region":"IL","city":"Saint Libory","latitude":38.3632,"longitude":-89.7139}}(window,'GeoPostal','US');

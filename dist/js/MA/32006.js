@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32006"]={"code":"32006","region":"Taza-Al Hoceima-Taounate","city":"Rouadi","latitude":35.14119,"longitude":-4.13631}}(window,'GeoPostal','MA');

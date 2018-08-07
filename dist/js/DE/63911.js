@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63911"]={"code":"63911","region":"Bayern","city":"Rollfeld","latitude":49.76727,"longitude":9.18918}}(window,'GeoPostal','DE');

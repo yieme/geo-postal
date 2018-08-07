@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33720"]={"code":"33720","region":"Nouvelle-Aquitaine","city":"Illats","latitude":44.59714,"longitude":-0.37238}}(window,'GeoPostal','FR');

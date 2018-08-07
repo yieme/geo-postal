@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98260"]={"code":"98260","region":"Washington","city":"Langley","latitude":48.033803,"longitude":-122.448572}}(window,'GeoPostal','US');

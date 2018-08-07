@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69144"]={"code":"69144","region":"Nebraska","city":"Keystone","latitude":41.304146,"longitude":-101.607547}}(window,'GeoPostal','US');

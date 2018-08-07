@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-630"]={"code":"78-630","region":"Zachodniopomorskie","city":"Czlopa","latitude":53.08856,"longitude":16.12098}}(window,'GeoPostal','PL');

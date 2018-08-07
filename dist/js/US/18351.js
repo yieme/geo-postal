@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18351"]={"code":"18351","region":"PA","city":"Portland","latitude":40.9214,"longitude":-75.097}}(window,'GeoPostal','US');

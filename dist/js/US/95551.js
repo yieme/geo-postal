@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95551"]={"code":"95551","region":"CA","city":"Loleta","latitude":40.6589,"longitude":-124.2251}}(window,'GeoPostal','US');

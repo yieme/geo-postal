@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71900"]={"code":"71900","region":"Oaxaca","city":"Asuncion Ocotlan","latitude":16.76667,"longitude":-96.71667}}(window,'GeoPostal','MX');

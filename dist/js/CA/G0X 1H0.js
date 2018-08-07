@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 1H0"]={"code":"G0X 1H0","region":"Quebec","city":"Grandes-Piles","latitude":46.68336,"longitude":-72.73242}}(window,'GeoPostal','CA');

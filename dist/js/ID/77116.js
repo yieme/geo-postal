@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77116"]={"code":"77116","region":"Kalimantan Timur","city":"Tarakan","latitude":3.3,"longitude":117.63333}}(window,'GeoPostal','ID');

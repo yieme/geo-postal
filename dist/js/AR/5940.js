@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5940"]={"code":"5940","region":"Cordoba","city":"Las Varillas","latitude":-31.87208,"longitude":-62.71946}}(window,'GeoPostal','AR');

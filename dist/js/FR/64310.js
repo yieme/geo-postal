@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64310"]={"code":"64310","region":"Nouvelle-Aquitaine","city":"Sare","latitude":43.3126,"longitude":-1.58012}}(window,'GeoPostal','FR');

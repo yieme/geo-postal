@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15150"]={"code":"15150","region":"Auvergne-Rhone-Alpes","city":"Laroquebrou","latitude":44.96728,"longitude":2.19393}}(window,'GeoPostal','FR');

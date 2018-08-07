@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62908"]={"code":"62908","region":"Morelos","city":"Jojutla de Juarez","latitude":18.61667,"longitude":-99.18333}}(window,'GeoPostal','MX');

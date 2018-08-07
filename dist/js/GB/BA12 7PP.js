@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 7PP"]={"code":"BA12 7PP","region":"England","city":"Corsley Heath","latitude":51.20694,"longitude":-2.25778}}(window,'GeoPostal','GB');

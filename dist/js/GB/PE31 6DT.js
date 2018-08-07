@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 6DT"]={"code":"PE31 6DT","region":"England","city":"Flitcham","latitude":52.80987,"longitude":0.56215}}(window,'GeoPostal','GB');

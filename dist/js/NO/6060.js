@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6060"]={"code":"6060","region":"More og Romsdal","city":"Hareid","latitude":62.37136,"longitude":6.02634}}(window,'GeoPostal','NO');

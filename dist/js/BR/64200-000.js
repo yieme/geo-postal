@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64200-000"]={"code":"64200-000","region":"Piaui","city":"Parnaiba","latitude":-2.90472,"longitude":-41.77667}}(window,'GeoPostal','BR');

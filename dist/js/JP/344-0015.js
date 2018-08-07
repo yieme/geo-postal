@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344-0015"]={"code":"344-0015","region":"Saitama","city":"Kasukabe","latitude":35.983,"longitude":139.75}}(window,'GeoPostal','JP');

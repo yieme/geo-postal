@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210 51"]={"code":"210 51","region":"Peloponnisos","city":"Ermioni","latitude":37.3869,"longitude":23.24423}}(window,'GeoPostal','GR');

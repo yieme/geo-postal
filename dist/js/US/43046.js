@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43046"]={"code":"43046","region":"Ohio","city":"Millersport","latitude":39.897689,"longitude":-82.526897}}(window,'GeoPostal','US');

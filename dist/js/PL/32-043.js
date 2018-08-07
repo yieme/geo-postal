@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-043"]={"code":"32-043","region":"Malopolskie","city":"Skala","latitude":50.23052,"longitude":19.85363}}(window,'GeoPostal','PL');

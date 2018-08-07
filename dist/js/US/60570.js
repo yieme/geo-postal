@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60570"]={"code":"60570","region":"IL","city":"Lions International","latitude":41.84,"longitude":-87.9}}(window,'GeoPostal','US');

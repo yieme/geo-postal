@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49668"]={"code":"49668","region":"Michigan","city":"Mesick","latitude":44.40528,"longitude":-85.71972}}(window,'GeoPostal','US');

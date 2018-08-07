@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36000"]={"code":"36000","region":"HaTsafon","city":"Tiberias","latitude":32.79556,"longitude":35.52861}}(window,'GeoPostal','IL');

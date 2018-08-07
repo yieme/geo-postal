@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75560"]={"code":"75560","region":"Puebla","city":"Esperanza","latitude":18.86667,"longitude":-97.4}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46506"]={"code":"46506","region":"Indiana","city":"Bremen","latitude":41.43485,"longitude":-86.173421}}(window,'GeoPostal','US');

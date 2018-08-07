@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83701"]={"code":"83701","region":"Pohjois-Karjala","city":"Polvijarvi","latitude":62.85,"longitude":29.36667}}(window,'GeoPostal','FI');

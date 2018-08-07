@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799105"]={"code":"799105","region":"Tripura","city":"Sonamura","latitude":23.47194,"longitude":91.26639}}(window,'GeoPostal','IN');

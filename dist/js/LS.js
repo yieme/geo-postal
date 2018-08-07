@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["LS"]={id:'LS',country:'Lesotho', postal:{'':{code:'',region:'Maseru',city:'Maseru',latitude:-29.31667,longitude:27.48333}}};

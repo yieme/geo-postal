@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX4 2XN"]={"code":"EX4 2XN","region":"England","city":"Exeter","latitude":50.7236,"longitude":-3.52751}}(window,'GeoPostal','GB');

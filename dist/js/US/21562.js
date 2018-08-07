@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21562"]={"code":"21562","region":"MD","city":"Westernport","latitude":39.4905,"longitude":-79.014}}(window,'GeoPostal','US');

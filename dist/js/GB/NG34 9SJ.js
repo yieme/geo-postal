@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG34 9SJ"]={"code":"NG34 9SJ","region":"England","city":"Anwick","latitude":53.03987,"longitude":-0.33972}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["644007"]={"code":"644007","region":"Sichuan","city":"Yibin","latitude":28.76667,"longitude":104.62383}}(window,'GeoPostal','CN');

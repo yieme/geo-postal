@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99734"]={"code":"99734","region":"Thuringen","city":"Nordhausen","latitude":51.5018,"longitude":10.7957}}(window,'GeoPostal','DE');

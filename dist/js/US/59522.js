@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59522"]={"code":"59522","region":"Montana","city":"Chester","latitude":48.51054,"longitude":-110.96747}}(window,'GeoPostal','US');

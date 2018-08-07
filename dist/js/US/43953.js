@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43953"]={"code":"43953","region":"OH","city":"Steubenville","latitude":40.3524,"longitude":-80.6781}}(window,'GeoPostal','US');

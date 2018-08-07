@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49459"]={"code":"49459","region":"Michigan","city":"Walkerville","latitude":43.71556,"longitude":-86.12278}}(window,'GeoPostal','US');

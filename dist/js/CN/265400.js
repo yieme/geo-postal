@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["265400"]={"code":"265400","region":"Shandong","city":"Zhaoyuan","latitude":37.35917,"longitude":120.39639}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["607340"]={"code":"607340","region":"Nizhegorodskaya oblast'","city":"Voznesenskoye","latitude":54.89,"longitude":42.75694}}(window,'GeoPostal','RU');

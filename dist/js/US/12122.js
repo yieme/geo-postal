@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12122"]={"code":"12122","region":"New York","city":"Middleburgh","latitude":42.54036,"longitude":-74.27082}}(window,'GeoPostal','US');

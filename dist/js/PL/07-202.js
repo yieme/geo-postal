@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07-202"]={"code":"07-202","region":"Mazowieckie","city":"Wyszkow","latitude":52.59278,"longitude":21.4584}}(window,'GeoPostal','PL');

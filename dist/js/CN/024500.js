@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["024500"]={"code":"024500","region":"Nei Mongol","city":"Wudan","latitude":42.93444,"longitude":119.02389}}(window,'GeoPostal','CN');

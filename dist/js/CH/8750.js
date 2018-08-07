@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8750"]={"code":"8750","region":"Glarus","city":"Glarus","latitude":47.04057,"longitude":9.06804}}(window,'GeoPostal','CH');

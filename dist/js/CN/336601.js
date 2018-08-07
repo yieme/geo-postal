@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336601"]={"code":"336601","region":"Jiangxi","city":"Huze","latitude":27.86564,"longitude":114.75074}}(window,'GeoPostal','CN');

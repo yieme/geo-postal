@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["342414"]={"code":"342414","region":"Jiangxi","city":"Butou","latitude":26.29083,"longitude":115.3375}}(window,'GeoPostal','CN');

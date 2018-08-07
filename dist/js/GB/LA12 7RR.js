@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LA12 7RR"]={"code":"LA12 7RR","region":"England","city":"Spark Bridge","latitude":54.25525,"longitude":-3.06673}}(window,'GeoPostal','GB');

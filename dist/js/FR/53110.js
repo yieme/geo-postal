@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53110"]={"code":"53110","region":"Pays-de-la-Loire","city":"Lassay-les-Chateaux","latitude":48.43835,"longitude":-0.49758}}(window,'GeoPostal','FR');

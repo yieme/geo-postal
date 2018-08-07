@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["403618"]={"code":"403618","region":"Volgogradskaya oblast'","city":"Krasnyy Yar","latitude":50.69652,"longitude":44.72792}}(window,'GeoPostal','RU');

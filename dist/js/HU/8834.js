@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8834"]={"code":"8834","region":"Zala","city":"Murakeresztur","latitude":46.36422,"longitude":16.88177}}(window,'GeoPostal','HU');

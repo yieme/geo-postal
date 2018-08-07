@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88047"]={"code":"88047","region":"Calabria","city":"Nocera Terinese","latitude":39.03439,"longitude":16.16859}}(window,'GeoPostal','IT');

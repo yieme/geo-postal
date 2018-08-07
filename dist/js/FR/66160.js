@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66160"]={"code":"66160","region":"Occitanie","city":"Le Boulou","latitude":42.5247,"longitude":2.8308}}(window,'GeoPostal','FR');

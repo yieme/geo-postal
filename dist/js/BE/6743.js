@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6743"]={"code":"6743","region":"Luxembourg","city":"Etalle","latitude":49.6764,"longitude":5.60201}}(window,'GeoPostal','BE');

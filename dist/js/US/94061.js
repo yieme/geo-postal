@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94061"]={"code":"94061","region":"California","city":"Redwood City","latitude":37.48522,"longitude":-122.23635}}(window,'GeoPostal','US');

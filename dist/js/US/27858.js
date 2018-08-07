@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27858"]={"code":"27858","region":"North Carolina","city":"Greenville","latitude":35.587545,"longitude":-77.348599}}(window,'GeoPostal','US');

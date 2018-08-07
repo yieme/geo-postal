@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76650"]={"code":"76650","region":"Normandie","city":"Petit-Couronne","latitude":49.38333,"longitude":1.01667}}(window,'GeoPostal','FR');

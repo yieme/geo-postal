@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65740"]={"code":"65740","region":"MO","city":"Rockaway Beach","latitude":36.7137,"longitude":-93.1715}}(window,'GeoPostal','US');

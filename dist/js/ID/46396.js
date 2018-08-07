@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46396"]={"code":"46396","region":"Jawa Barat","city":"Parapat","latitude":-7.6892,"longitude":108.6572}}(window,'GeoPostal','ID');

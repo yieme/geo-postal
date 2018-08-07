@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18977"]={"code":"18977","region":"Pennsylvania","city":"Washington Crossing","latitude":40.29249,"longitude":-74.883614}}(window,'GeoPostal','US');

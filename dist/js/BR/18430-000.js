@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18430-000"]={"code":"18430-000","region":"Sao Paulo","city":"Ribeirao Branco","latitude":-24.22083,"longitude":-48.76556}}(window,'GeoPostal','BR');

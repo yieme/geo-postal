@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5180"]={"code":"5180","region":"Mahdia","city":"Ksour Essaf","latitude":35.41808,"longitude":10.99475}}(window,'GeoPostal','TN');

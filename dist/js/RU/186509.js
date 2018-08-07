@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["186509"]={"code":"186509","region":"Kareliya, Respublika","city":"Belomorsk","latitude":64.52322,"longitude":34.7668}}(window,'GeoPostal','RU');

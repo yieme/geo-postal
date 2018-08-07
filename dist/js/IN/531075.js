@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["531075"]={"code":"531075","region":"Andhra Pradesh","city":"Narsipatnam","latitude":17.66667,"longitude":82.61667}}(window,'GeoPostal','IN');

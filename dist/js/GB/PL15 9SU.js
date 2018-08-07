@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL15 9SU"]={"code":"PL15 9SU","region":"England","city":"Saint Giles on the Heath","latitude":50.68333,"longitude":-4.33333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44440"]={"code":"44440","region":"Sisacko-moslavacka zupanija","city":"Dvor","latitude":45.07306,"longitude":16.37083}}(window,'GeoPostal','HR');

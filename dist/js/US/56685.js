@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56685"]={"code":"56685","region":"Minnesota","city":"Waskish","latitude":48.19556,"longitude":-94.483082}}(window,'GeoPostal','US');

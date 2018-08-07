@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68800"]={"code":"68800","region":"Pohjanmaa","city":"Kronoby","latitude":63.72859,"longitude":23.03387}}(window,'GeoPostal','FI');

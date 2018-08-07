@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32567"]={"code":"32567","region":"FL","city":"Laurel Hill","latitude":30.9524,"longitude":-86.4003}}(window,'GeoPostal','US');

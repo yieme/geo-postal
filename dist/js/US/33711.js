@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33711"]={"code":"33711","region":"Florida","city":"Saint Petersburg","latitude":27.74941,"longitude":-82.687769}}(window,'GeoPostal','US');

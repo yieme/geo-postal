@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71835"]={"code":"71835","region":"Arkansas","city":"Emmet","latitude":33.670471,"longitude":-93.40053}}(window,'GeoPostal','US');

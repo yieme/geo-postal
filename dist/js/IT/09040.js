@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09040"]={"code":"09040","region":"Sardegna","city":"San Vito","latitude":39.44472,"longitude":9.53667}}(window,'GeoPostal','IT');

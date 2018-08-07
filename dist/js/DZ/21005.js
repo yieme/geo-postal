@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21005"]={"code":"21005","region":"Skikda","city":"Tamalous","latitude":36.83763,"longitude":6.64018}}(window,'GeoPostal','DZ');

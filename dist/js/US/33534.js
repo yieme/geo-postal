@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33534"]={"code":"33534","region":"FL","city":"Gibsonton","latitude":27.8411,"longitude":-82.3698}}(window,'GeoPostal','US');

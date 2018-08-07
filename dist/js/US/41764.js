@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41764"]={"code":"41764","region":"Kentucky","city":"Smilax","latitude":37.166848,"longitude":-83.259843}}(window,'GeoPostal','US');

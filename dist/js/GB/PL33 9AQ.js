@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL33 9AQ"]={"code":"PL33 9AQ","region":"England","city":"Delabole","latitude":50.62347,"longitude":-4.7319}}(window,'GeoPostal','GB');

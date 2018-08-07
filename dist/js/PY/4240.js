@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4240"]={"code":"4240","region":"Paraguari","city":"Quiindy","latitude":-25.96667,"longitude":-57.26667}}(window,'GeoPostal','PY');

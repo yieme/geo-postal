@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62359"]={"code":"62359","region":"Gotlands lan","city":"Hemse","latitude":57.23788,"longitude":18.37443}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-046"]={"code":"46-046","region":"Opolskie","city":"Bierdzany","latitude":50.81852,"longitude":18.15808}}(window,'GeoPostal','PL');

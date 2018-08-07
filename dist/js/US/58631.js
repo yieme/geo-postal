@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58631"]={"code":"58631","region":"North Dakota","city":"Glen Ullin","latitude":46.81444,"longitude":-101.83083}}(window,'GeoPostal','US');

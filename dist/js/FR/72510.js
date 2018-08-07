@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72510"]={"code":"72510","region":"Pays-de-la-Loire","city":"Pontvallain","latitude":47.75168,"longitude":0.19145}}(window,'GeoPostal','FR');

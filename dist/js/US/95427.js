@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95427"]={"code":"95427","region":"CA","city":"Comptche","latitude":39.2767,"longitude":-123.5873}}(window,'GeoPostal','US');

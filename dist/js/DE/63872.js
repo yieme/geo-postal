@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63872"]={"code":"63872","region":"Bayern","city":"Heimbuchenthal","latitude":49.88917,"longitude":9.29556}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14112"]={"code":"14112","region":"NY","city":"North Evans","latitude":42.697,"longitude":-78.9414}}(window,'GeoPostal','US');

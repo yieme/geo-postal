@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15536"]={"code":"15536","region":"PA","city":"Crystal Spring","latitude":39.92,"longitude":-78.2258}}(window,'GeoPostal','US');

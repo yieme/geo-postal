@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58710"]={"code":"58710","region":"North Dakota","city":"Anamoose","latitude":47.848103,"longitude":-100.262284}}(window,'GeoPostal','US');

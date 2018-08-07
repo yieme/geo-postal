@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-120"]={"code":"78-120","region":"Zachodniopomorskie","city":"Goscino","latitude":54.05123,"longitude":15.65256}}(window,'GeoPostal','PL');

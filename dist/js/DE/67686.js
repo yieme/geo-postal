@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67686"]={"code":"67686","region":"Rheinland-Pfalz","city":"Mackenbach","latitude":49.46667,"longitude":7.58333}}(window,'GeoPostal','DE');

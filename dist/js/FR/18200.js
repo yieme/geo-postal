@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18200"]={"code":"18200","region":"Centre-Val de Loire","city":"Orval","latitude":46.72581,"longitude":2.47144}}(window,'GeoPostal','FR');

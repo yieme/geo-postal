@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301295"]={"code":"301295","region":"Tul'skaya oblast'","city":"Priupskiy","latitude":53.9096,"longitude":37.736}}(window,'GeoPostal','RU');

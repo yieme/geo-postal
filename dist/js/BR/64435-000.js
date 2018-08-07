@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64435-000"]={"code":"64435-000","region":"Piaui","city":"Sao Pedro do Piaui","latitude":-5.92944,"longitude":-42.71861}}(window,'GeoPostal','BR');

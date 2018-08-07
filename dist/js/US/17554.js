@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17554"]={"code":"17554","region":"Pennsylvania","city":"Mountville","latitude":40.041294,"longitude":-76.426821}}(window,'GeoPostal','US');

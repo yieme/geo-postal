@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26393"]={"code":"26393","region":"Skane lan","city":"Hoganas","latitude":56.19971,"longitude":12.55795}}(window,'GeoPostal','SE');

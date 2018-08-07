@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["484886"]={"code":"484886","region":"Chhattisgarh","city":"Ratanpur","latitude":22.3,"longitude":82.16667}}(window,'GeoPostal','IN');

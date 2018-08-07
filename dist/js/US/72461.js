@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72461"]={"code":"72461","region":"AR","city":"Rector","latitude":36.2672,"longitude":-90.2702}}(window,'GeoPostal','US');

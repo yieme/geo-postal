@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68732"]={"code":"68732","region":"NE","city":"Dixon","latitude":42.4185,"longitude":-96.9774}}(window,'GeoPostal','US');

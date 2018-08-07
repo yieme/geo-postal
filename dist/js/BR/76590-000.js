@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76590-000"]={"code":"76590-000","region":"Goias","city":"Sao Miguel do Araguaia","latitude":-13.275,"longitude":-50.16278}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60409"]={"code":"60409","region":"Illinois","city":"Calumet City","latitude":41.61559,"longitude":-87.52949}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06175"]={"code":"06175","region":"Extremadura","city":"Salvatierra de los Barros","latitude":38.49091,"longitude":-6.68423}}(window,'GeoPostal','ES');

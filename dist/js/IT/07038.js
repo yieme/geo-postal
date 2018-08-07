@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07038"]={"code":"07038","region":"Sardegna","city":"Trinita d'Agultu","latitude":40.98377,"longitude":8.91562}}(window,'GeoPostal','IT');

@@ -1,1 +1,0 @@
-window.Postal=window.Postal||{};Postal["LC"]={id:'LC',country:'Saint Lucia', postal:{'':{code:'',region:'Castries',city:'Castries',latitude:13.9957,longitude:-61.00614}}};

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38339"]={"code":"38339","region":"Tennessee","city":"Guys","latitude":35.014845,"longitude":-88.527427}}(window,'GeoPostal','US');

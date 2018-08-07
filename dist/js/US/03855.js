@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03855"]={"code":"03855","region":"NH","city":"New Durham","latitude":43.443,"longitude":-71.1408}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422840"]={"code":"422840","region":"Tatarstan, Respublika","city":"Bolgar","latitude":54.95,"longitude":49.06667}}(window,'GeoPostal','RU');

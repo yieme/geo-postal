@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28768"]={"code":"28768","region":"NC","city":"Pisgah Forest","latitude":35.2599,"longitude":-82.6695}}(window,'GeoPostal','US');

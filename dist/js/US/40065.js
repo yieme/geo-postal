@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40065"]={"code":"40065","region":"Kentucky","city":"Shelbyville","latitude":38.20743,"longitude":-85.230431}}(window,'GeoPostal','US');

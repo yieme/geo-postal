@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32022"]={"code":"32022","region":"Occitanie","city":"Auch","latitude":43.65,"longitude":0.58333}}(window,'GeoPostal','FR');

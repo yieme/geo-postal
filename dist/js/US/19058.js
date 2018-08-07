@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19058"]={"code":"19058","region":"Pennsylvania","city":"Flinton","latitude":40.1535,"longitude":-74.853135}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72052"]={"code":"72052","region":"AR","city":"Garner","latitude":35.1443,"longitude":-91.7772}}(window,'GeoPostal','US');

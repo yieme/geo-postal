@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15606"]={"code":"15606","region":"PA","city":"Greensburg","latitude":40.3015,"longitude":-79.5389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62677"]={"code":"62677","region":"IL","city":"Pleasant Plains","latitude":39.8331,"longitude":-89.8686}}(window,'GeoPostal','US');

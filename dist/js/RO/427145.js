@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427145"]={"code":"427145","region":"Bistrita-Nasaud","city":"Magura Ilvei","latitude":47.38333,"longitude":24.8}}(window,'GeoPostal','RO');

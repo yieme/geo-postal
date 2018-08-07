@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["264 42"]={"code":"264 42","region":"Dytiki Ellada","city":"Rion","latitude":38.3,"longitude":21.78333}}(window,'GeoPostal','GR');

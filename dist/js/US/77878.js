@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77878"]={"code":"77878","region":"TX","city":"Snook","latitude":30.4702,"longitude":-96.4804}}(window,'GeoPostal','US');

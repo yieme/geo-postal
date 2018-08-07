@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41250"]={"code":"41250","region":"KY","city":"Pilgrim","latitude":37.7379,"longitude":-82.4523}}(window,'GeoPostal','US');

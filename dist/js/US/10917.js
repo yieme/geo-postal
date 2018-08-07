@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10917"]={"code":"10917","region":"NY","city":"Central Valley","latitude":41.3268,"longitude":-74.122}}(window,'GeoPostal','US');

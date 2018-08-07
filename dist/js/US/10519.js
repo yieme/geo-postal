@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10519"]={"code":"10519","region":"NY","city":"Croton Falls","latitude":41.3477,"longitude":-73.661}}(window,'GeoPostal','US');

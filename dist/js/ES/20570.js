@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20570"]={"code":"20570","region":"Pais Vasco","city":"Bergara","latitude":43.1151,"longitude":-2.4175}}(window,'GeoPostal','ES');

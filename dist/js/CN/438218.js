@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["438218"]={"code":"438218","region":"Hubei","city":"Bailian","latitude":30.5951,"longitude":115.44194}}(window,'GeoPostal','CN');

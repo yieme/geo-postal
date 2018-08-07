@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81401"]={"code":"81401","region":"Colorado","city":"Montrose","latitude":38.412,"longitude":-107.8629}}(window,'GeoPostal','US');

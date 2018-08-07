@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53797"]={"code":"53797","region":"Nordrhein-Westfalen","city":"Lohmar","latitude":50.83868,"longitude":7.21399}}(window,'GeoPostal','DE');

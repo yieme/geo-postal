@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["226200"]={"code":"226200","region":"Jiangsu","city":"Huilong","latitude":31.81111,"longitude":121.655}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T1W 2C4"]={"code":"T1W 2C4","region":"Alberta","city":"Canmore","latitude":51.088172,"longitude":-115.362086}}(window,'GeoPostal','CA');

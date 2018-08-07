@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65689"]={"code":"65689","region":"Missouri","city":"Cabool","latitude":37.12394,"longitude":-92.10127}}(window,'GeoPostal','US');

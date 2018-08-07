@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67002"]={"code":"67002","region":"Kansas","city":"Andover","latitude":37.700081,"longitude":-97.138604}}(window,'GeoPostal','US');

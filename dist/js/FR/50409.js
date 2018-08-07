@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50409"]={"code":"50409","region":"Normandie","city":"Granville","latitude":48.83792,"longitude":-1.59714}}(window,'GeoPostal','FR');

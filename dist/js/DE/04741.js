@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04741"]={"code":"04741","region":"Sachsen","city":"Rosswein","latitude":51.06589,"longitude":13.18308}}(window,'GeoPostal','DE');

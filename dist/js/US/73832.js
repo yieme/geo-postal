@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73832"]={"code":"73832","region":"Oklahoma","city":"Arnett","latitude":36.13504,"longitude":-99.77484}}(window,'GeoPostal','US');

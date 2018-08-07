@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD2 3PJ"]={"code":"LD2 3PJ","region":"Wales","city":"Crickadarn","latitude":52.07084,"longitude":-3.32905}}(window,'GeoPostal','GB');

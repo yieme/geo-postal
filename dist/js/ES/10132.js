@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10132"]={"code":"10132","region":"Extremadura","city":"Almoharin","latitude":39.17685,"longitude":-6.04283}}(window,'GeoPostal','ES');

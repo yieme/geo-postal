@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62999"]={"code":"62999","region":"IL","city":"Zeigler","latitude":37.8991,"longitude":-89.0523}}(window,'GeoPostal','US');

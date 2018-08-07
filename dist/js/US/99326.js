@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99326"]={"code":"99326","region":"Washington","city":"Connell","latitude":46.66347,"longitude":-118.86111}}(window,'GeoPostal','US');

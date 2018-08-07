@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59021"]={"code":"59021","region":"Chernivetska oblast","city":"Davydivka","latitude":48.12099,"longitude":25.56461}}(window,'GeoPostal','UA');

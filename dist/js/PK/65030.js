@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65030"]={"code":"65030","region":"Sindh","city":"Ubauro","latitude":28.16524,"longitude":69.7289}}(window,'GeoPostal','PK');

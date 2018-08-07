@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66531"]={"code":"66531","region":"KS","city":"Riley","latitude":39.3005,"longitude":-96.8222}}(window,'GeoPostal','US');

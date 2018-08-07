@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02381"]={"code":"02381","region":"MA","city":"White Horse Beach","latitude":41.9316,"longitude":-70.5611}}(window,'GeoPostal','US');

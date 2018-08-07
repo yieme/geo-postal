@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06383"]={"code":"06383","region":"CT","city":"Versailles","latitude":41.6016,"longitude":-72.0404}}(window,'GeoPostal','US');

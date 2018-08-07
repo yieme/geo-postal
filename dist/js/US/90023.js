@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90023"]={"code":"90023","region":"California","city":"Commerce","latitude":34.023042,"longitude":-118.202487}}(window,'GeoPostal','US');

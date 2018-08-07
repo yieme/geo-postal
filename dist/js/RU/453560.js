@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453560"]={"code":"453560","region":"Bashkortostan, Respublika","city":"Inzer","latitude":54.2167,"longitude":57.5556}}(window,'GeoPostal','RU');

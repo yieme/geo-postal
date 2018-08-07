@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72533"]={"code":"72533","region":"Arkansas","city":"Mountain View","latitude":35.86841,"longitude":-92.11765}}(window,'GeoPostal','US');

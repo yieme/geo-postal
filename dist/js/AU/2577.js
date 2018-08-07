@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2577"]={"code":"2577","region":"New South Wales","city":"Berrima","latitude":-34.48765,"longitude":150.33904}}(window,'GeoPostal','AU');

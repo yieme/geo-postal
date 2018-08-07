@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142970"]={"code":"142970","region":"Moskovskaya oblast'","city":"Serebryanyye Prudy","latitude":54.46923,"longitude":38.72095}}(window,'GeoPostal','RU');

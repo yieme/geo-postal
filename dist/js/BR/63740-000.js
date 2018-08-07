@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63740-000"]={"code":"63740-000","region":"Ceara","city":"Novo Oriente","latitude":-5.53444,"longitude":-40.77417}}(window,'GeoPostal','BR');

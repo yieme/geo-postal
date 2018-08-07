@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48150"]={"code":"48150","region":"Nakhon Phanom","city":"Si Songkhram","latitude":17.62745,"longitude":104.2507}}(window,'GeoPostal','TH');

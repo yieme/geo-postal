@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06301"]={"code":"06301","region":"Shan","city":"Lashio","latitude":22.93333,"longitude":97.75}}(window,'GeoPostal','MM');

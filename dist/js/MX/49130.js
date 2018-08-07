@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49130"]={"code":"49130","region":"Jalisco","city":"San Andres Ixtlan","latitude":19.81667,"longitude":-103.46667}}(window,'GeoPostal','MX');

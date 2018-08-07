@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88119"]={"code":"88119","region":"New Mexico","city":"Fort Sumner","latitude":34.47173,"longitude":-104.24553}}(window,'GeoPostal','US');

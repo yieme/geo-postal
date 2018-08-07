@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BL18PB"]={"code":"BL18PB","region":"England","city":"Bolton","latitude":53.58333,"longitude":-2.43333}}(window,'GeoPostal','GB');

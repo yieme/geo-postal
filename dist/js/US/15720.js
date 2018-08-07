@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15720"]={"code":"15720","region":"PA","city":"Brush Valley","latitude":40.5292,"longitude":-79.0846}}(window,'GeoPostal','US');

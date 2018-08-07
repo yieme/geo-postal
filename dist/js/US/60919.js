@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60919"]={"code":"60919","region":"IL","city":"Cabery","latitude":40.9819,"longitude":-88.1921}}(window,'GeoPostal','US');

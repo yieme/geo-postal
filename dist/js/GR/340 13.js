@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["340 13"]={"code":"340 13","region":"Sterea Ellada","city":"Marmarion","latitude":38.04839,"longitude":24.32039}}(window,'GeoPostal','GR');

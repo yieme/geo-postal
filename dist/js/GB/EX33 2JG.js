@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX33 2JG"]={"code":"EX33 2JG","region":"England","city":"Braunton","latitude":51.10847,"longitude":-4.16131}}(window,'GeoPostal','GB');

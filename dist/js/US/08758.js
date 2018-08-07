@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08758"]={"code":"08758","region":"New Jersey","city":"Waretown","latitude":39.792233,"longitude":-74.191527}}(window,'GeoPostal','US');

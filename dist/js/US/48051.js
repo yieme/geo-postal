@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48051"]={"code":"48051","region":"Michigan","city":"Chesterfield","latitude":42.69131,"longitude":-82.812}}(window,'GeoPostal','US');

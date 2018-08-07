@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64673"]={"code":"64673","region":"Missouri","city":"Princeton","latitude":40.398845,"longitude":-93.585733}}(window,'GeoPostal','US');

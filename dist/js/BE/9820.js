@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9820"]={"code":"9820","region":"Oost-Vlaanderen","city":"Merelbeke","latitude":50.99447,"longitude":3.74621}}(window,'GeoPostal','BE');

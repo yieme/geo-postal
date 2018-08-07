@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY14 7AP"]={"code":"SY14 7AP","region":"Wales","city":"Threapwood","latitude":53,"longitude":-2.83333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7274"]={"code":"7274","region":"Marlborough","city":"Blenheim","latitude":-41.51603,"longitude":173.9528}}(window,'GeoPostal','NZ');

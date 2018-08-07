@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790-0045"]={"code":"790-0045","region":"Ehime","city":"Matsuyama","latitude":33.833,"longitude":132.767}}(window,'GeoPostal','JP');

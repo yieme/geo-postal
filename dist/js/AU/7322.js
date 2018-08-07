@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7322"]={"code":"7322","region":"Tasmania","city":"Wynyard","latitude":-40.9897,"longitude":145.72617}}(window,'GeoPostal','AU');

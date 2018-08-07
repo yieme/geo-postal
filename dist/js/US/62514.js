@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62514"]={"code":"62514","region":"IL","city":"Boody","latitude":39.7624,"longitude":-89.0507}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-402"]={"code":"58-402","region":"Dolnoslaskie","city":"Kamienna Gora","latitude":50.78314,"longitude":16.03037}}(window,'GeoPostal','PL');

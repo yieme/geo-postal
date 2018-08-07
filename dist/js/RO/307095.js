@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307095"]={"code":"307095","region":"Timis","city":"Cenad","latitude":46.13333,"longitude":20.58333}}(window,'GeoPostal','RO');

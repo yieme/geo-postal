@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24900-000"]={"code":"24900-000","region":"Rio de Janeiro","city":"Marica","latitude":-22.91944,"longitude":-42.81861}}(window,'GeoPostal','BR');

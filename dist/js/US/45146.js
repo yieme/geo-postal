@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45146"]={"code":"45146","region":"OH","city":"Martinsville","latitude":39.3127,"longitude":-83.8005}}(window,'GeoPostal','US');

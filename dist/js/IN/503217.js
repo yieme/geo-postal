@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503217"]={"code":"503217","region":"Telangana","city":"Nirmal","latitude":19.1,"longitude":78.35}}(window,'GeoPostal','IN');

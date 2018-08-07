@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25608"]={"code":"25608","region":"West Virginia","city":"Baisden","latitude":37.587576,"longitude":-81.948236}}(window,'GeoPostal','US');

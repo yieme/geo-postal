@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67-407"]={"code":"67-407","region":"Lubuskie","city":"Szlichtyngowa","latitude":51.71222,"longitude":16.24427}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 2H0"]={"code":"R0E 2H0","region":"Manitoba","city":"Big Island Landing","latitude":49.7847,"longitude":-95.18079}}(window,'GeoPostal','CA');

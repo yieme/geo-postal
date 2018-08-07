@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671914"]={"code":"671914","region":"Buryatiya, Respublika","city":"Petropavlovka","latitude":50.6114,"longitude":105.3196}}(window,'GeoPostal','RU');

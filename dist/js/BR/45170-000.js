@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45170-000"]={"code":"45170-000","region":"Bahia","city":"Sao Felipe","latitude":-14.81667,"longitude":-41.38333}}(window,'GeoPostal','BR');

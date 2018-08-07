@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262402"]={"code":"262402","region":"Uttarakhand","city":"Haldwani","latitude":29.21667,"longitude":79.51667}}(window,'GeoPostal','IN');

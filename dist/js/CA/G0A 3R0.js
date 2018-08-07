@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0A 3R0"]={"code":"G0A 3R0","region":"Quebec","city":"Saint-Ferreol-les-Neiges","latitude":47.11547,"longitude":-70.86731}}(window,'GeoPostal','CA');

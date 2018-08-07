@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36727"]={"code":"36727","region":"AL","city":"Campbell","latitude":31.9213,"longitude":-88.008}}(window,'GeoPostal','US');

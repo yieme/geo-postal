@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37659"]={"code":"37659","region":"Tennessee","city":"Jonesborough","latitude":36.29427,"longitude":-82.47348}}(window,'GeoPostal','US');

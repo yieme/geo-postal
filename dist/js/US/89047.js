@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89047"]={"code":"89047","region":"NV","city":"Silverpeak","latitude":37.7225,"longitude":-117.7965}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32442"]={"code":"32442","region":"Florida","city":"Grand Ridge","latitude":30.71194,"longitude":-85.01806}}(window,'GeoPostal','US');

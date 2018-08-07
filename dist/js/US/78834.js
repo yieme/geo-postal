@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78834"]={"code":"78834","region":"Texas","city":"Carrizo Springs","latitude":28.5207,"longitude":-99.88848}}(window,'GeoPostal','US');

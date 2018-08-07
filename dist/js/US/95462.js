@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95462"]={"code":"95462","region":"CA","city":"Monte Rio","latitude":38.4706,"longitude":-123.0172}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49791"]={"code":"49791","region":"Michigan","city":"Topinabee","latitude":45.48441,"longitude":-84.595479}}(window,'GeoPostal','US');

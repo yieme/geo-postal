@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19453"]={"code":"19453","region":"Pennsylvania","city":"Phoenixville","latitude":40.13038,"longitude":-75.51491}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72132"]={"code":"72132","region":"AR","city":"Redfield","latitude":34.4526,"longitude":-92.1758}}(window,'GeoPostal','US');

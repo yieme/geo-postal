@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02550"]={"code":"02550","region":"Hauts-de-France","city":"Origny-en-Thierache","latitude":49.89327,"longitude":4.01644}}(window,'GeoPostal','FR');

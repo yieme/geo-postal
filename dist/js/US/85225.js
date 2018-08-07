@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85225"]={"code":"85225","region":"Arizona","city":"Chandler","latitude":33.3181,"longitude":-111.8332}}(window,'GeoPostal','US');

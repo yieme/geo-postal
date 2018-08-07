@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42602"]={"code":"42602","region":"Kentucky","city":"Albany","latitude":36.6909,"longitude":-85.13468}}(window,'GeoPostal','US');

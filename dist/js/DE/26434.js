@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26434"]={"code":"26434","region":"Niedersachsen","city":"Wangerland","latitude":53.65446,"longitude":7.99024}}(window,'GeoPostal','DE');

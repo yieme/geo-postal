@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25250"]={"code":"25250","region":"Chiapas","city":"Altamirano","latitude":16.88333,"longitude":-92.15}}(window,'GeoPostal','MX');

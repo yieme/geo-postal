@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46056"]={"code":"46056","region":"IN","city":"Markleville","latitude":39.9944,"longitude":-85.6227}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34209"]={"code":"34209","region":"Florida","city":"Bradenton","latitude":27.50676,"longitude":-82.64403}}(window,'GeoPostal','US');

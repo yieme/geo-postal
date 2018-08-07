@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84059"]={"code":"84059","region":"Utah","city":"Orem","latitude":40.31563,"longitude":-111.72365}}(window,'GeoPostal','US');

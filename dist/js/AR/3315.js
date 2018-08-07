@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3315"]={"code":"3315","region":"Misiones","city":"Picada Gobernador Lopez","latitude":-27.67069,"longitude":-55.24585}}(window,'GeoPostal','AR');

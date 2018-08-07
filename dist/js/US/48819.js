@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48819"]={"code":"48819","region":"MI","city":"Dansville","latitude":42.5505,"longitude":-84.2939}}(window,'GeoPostal','US');

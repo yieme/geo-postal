@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700 03"]={"code":"700 03","region":"Attiki","city":"Ayia Varvara","latitude":35.13333,"longitude":25}}(window,'GeoPostal','GR');

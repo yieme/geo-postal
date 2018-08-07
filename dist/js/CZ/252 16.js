@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 16"]={"code":"252 16","region":"Stredocesky kraj","city":"Rudna","latitude":50.03502,"longitude":14.23435}}(window,'GeoPostal','CZ');

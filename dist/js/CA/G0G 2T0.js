@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 2T0"]={"code":"G0G 2T0","region":"Quebec","city":"Schefferville","latitude":54.80022,"longitude":-66.83183}}(window,'GeoPostal','CA');

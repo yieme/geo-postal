@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52761"]={"code":"52761","region":"Iowa","city":"Muscatine","latitude":41.42447,"longitude":-91.04321}}(window,'GeoPostal','US');

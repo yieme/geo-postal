@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["974-8212"]={"code":"974-8212","region":"Fukushima","city":"Iwaki","latitude":37.033,"longitude":140.883}}(window,'GeoPostal','JP');

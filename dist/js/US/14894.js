@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14894"]={"code":"14894","region":"NY","city":"Wellsburg","latitude":42.0273,"longitude":-76.7723}}(window,'GeoPostal','US');

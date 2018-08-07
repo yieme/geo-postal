@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 4AL"]={"code":"NE66 4AL","region":"England","city":"Glanton","latitude":55.42463,"longitude":-1.89175}}(window,'GeoPostal','GB');

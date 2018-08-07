@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84549"]={"code":"84549","region":"Bayern","city":"Eiting","latitude":48.12153,"longitude":12.53665}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47338"]={"code":"47338","region":"IN","city":"Eaton","latitude":40.3377,"longitude":-85.3544}}(window,'GeoPostal','US');

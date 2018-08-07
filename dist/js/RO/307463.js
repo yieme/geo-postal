@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307463"]={"code":"307463","region":"Botosani","city":"Mihalaseni","latitude":47.88333,"longitude":27.06667}}(window,'GeoPostal','RO');

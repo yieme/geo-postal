@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T7P 2J3"]={"code":"T7P 2J3","region":"Alberta","city":"Westlock","latitude":54.154537,"longitude":-113.860894}}(window,'GeoPostal','CA');

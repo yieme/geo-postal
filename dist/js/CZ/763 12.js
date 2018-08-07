@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["763 12"]={"code":"763 12","region":"Zlinsky kraj","city":"Vizovice","latitude":49.22287,"longitude":17.85455}}(window,'GeoPostal','CZ');

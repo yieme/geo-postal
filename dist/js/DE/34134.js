@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34134"]={"code":"34134","region":"Schleswig-Holstein","city":"Jordan","latitude":54.71667,"longitude":9.76667}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5140"]={"code":"5140","region":"Namur","city":"Sombreffe","latitude":50.52865,"longitude":4.60087}}(window,'GeoPostal','BE');

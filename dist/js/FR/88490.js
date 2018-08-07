@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88490"]={"code":"88490","region":"Grand-Est","city":"Provencheres-sur-Fave","latitude":48.3078,"longitude":7.0794}}(window,'GeoPostal','FR');

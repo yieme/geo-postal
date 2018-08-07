@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53257"]={"code":"53257","region":"Jawa Tengah","city":"Majenang","latitude":-7.2975,"longitude":108.7642}}(window,'GeoPostal','ID');

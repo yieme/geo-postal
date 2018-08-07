@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81049"]={"code":"81049","region":"Campania","city":"San Pietro Infine","latitude":41.44592,"longitude":13.96152}}(window,'GeoPostal','IT');

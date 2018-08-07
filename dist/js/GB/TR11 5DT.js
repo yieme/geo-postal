@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR11 5DT"]={"code":"TR11 5DT","region":"England","city":"Budock Water","latitude":50.14533,"longitude":-5.10351}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00028"]={"code":"00028","region":"Lazio","city":"Subiaco","latitude":41.92542,"longitude":13.09409}}(window,'GeoPostal','IT');

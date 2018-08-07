@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DE21 4AA"]={"code":"DE21 4AA","region":"England","city":"Derby","latitude":52.92277,"longitude":-1.47663}}(window,'GeoPostal','GB');

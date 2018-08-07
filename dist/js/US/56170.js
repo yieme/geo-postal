@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56170"]={"code":"56170","region":"Minnesota","city":"Ruthton","latitude":44.17611,"longitude":-96.10333}}(window,'GeoPostal','US');

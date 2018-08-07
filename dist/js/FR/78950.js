@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78950"]={"code":"78950","region":"Ile-de-France","city":"Gambais","latitude":48.77351,"longitude":1.67196}}(window,'GeoPostal','FR');

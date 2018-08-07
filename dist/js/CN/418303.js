@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["418303"]={"code":"418303","region":"Hunan","city":"Puzi","latitude":26.98639,"longitude":109.77639}}(window,'GeoPostal','CN');

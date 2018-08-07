@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08812"]={"code":"08812","region":"NJ","city":"Dunellen","latitude":40.5897,"longitude":-74.4639}}(window,'GeoPostal','US');

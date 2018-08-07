@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39067"]={"code":"39067","region":"Mississippi","city":"Ethel","latitude":33.081541,"longitude":-89.541274}}(window,'GeoPostal','US');

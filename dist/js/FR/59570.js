@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59570"]={"code":"59570","region":"Hauts-de-France","city":"Bavay","latitude":50.29828,"longitude":3.79372}}(window,'GeoPostal','FR');

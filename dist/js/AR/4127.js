@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4127"]={"code":"4127","region":"Tucuman","city":"Tafi del Valle","latitude":-26.85275,"longitude":-65.70983}}(window,'GeoPostal','AR');

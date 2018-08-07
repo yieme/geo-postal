@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28150"]={"code":"28150","region":"Centre-Val de Loire","city":"Voves","latitude":48.27138,"longitude":1.62583}}(window,'GeoPostal','FR');

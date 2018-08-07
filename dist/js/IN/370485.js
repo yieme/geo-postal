@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370485"]={"code":"370485","region":"Gujarat","city":"Bhuj","latitude":23.26667,"longitude":69.66667}}(window,'GeoPostal','IN');

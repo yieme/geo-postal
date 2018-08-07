@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23736"]={"code":"23736","region":"Baja California Sur","city":"Ciudad Constitucion","latitude":25.03694,"longitude":-111.66444}}(window,'GeoPostal','MX');

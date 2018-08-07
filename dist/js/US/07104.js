@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07104"]={"code":"07104","region":"New Jersey","city":"Belleville","latitude":40.766425,"longitude":-74.16774}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66870"]={"code":"66870","region":"KS","city":"Virgil","latitude":37.8976,"longitude":-96.0329}}(window,'GeoPostal','US');

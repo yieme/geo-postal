@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["037043"]={"code":"037043","region":"Shanxi","city":"Dangliuzhuang","latitude":39.98897,"longitude":113.4222}}(window,'GeoPostal','CN');

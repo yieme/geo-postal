@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8900"]={"code":"8900","region":"Nordland","city":"Bronnoysund","latitude":65.4625,"longitude":12.19973}}(window,'GeoPostal','NO');

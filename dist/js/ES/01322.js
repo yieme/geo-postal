@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01322"]={"code":"01322","region":"Pais Vasco","city":"Moreda de Alava","latitude":42.52571,"longitude":-2.40828}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY15 6AT"]={"code":"SY15 6AT","region":"Wales","city":"Hyssington","latitude":52.54085,"longitude":-3.01498}}(window,'GeoPostal','GB');

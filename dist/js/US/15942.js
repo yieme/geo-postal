@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15942"]={"code":"15942","region":"PA","city":"Mineral Point","latitude":40.3793,"longitude":-78.8352}}(window,'GeoPostal','US');

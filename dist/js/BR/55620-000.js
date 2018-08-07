@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55620-000"]={"code":"55620-000","region":"Pernambuco","city":"Gloria do Goita","latitude":-8.00167,"longitude":-35.29278}}(window,'GeoPostal','BR');

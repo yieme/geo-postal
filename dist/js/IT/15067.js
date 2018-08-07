@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15067"]={"code":"15067","region":"Piemonte","city":"Novi Ligure","latitude":44.76085,"longitude":8.78955}}(window,'GeoPostal','IT');

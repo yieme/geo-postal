@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2S 6A4"]={"code":"V2S 6A4","region":"British Columbia","city":"Abbotsford","latitude":49.052845,"longitude":-122.310216}}(window,'GeoPostal','CA');

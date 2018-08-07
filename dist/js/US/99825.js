@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99825"]={"code":"99825","region":"AK","city":"Elfin Cove","latitude":58.1944,"longitude":-136.3433}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62541"]={"code":"62541","region":"IL","city":"Lake Fork","latitude":39.9706,"longitude":-89.3505}}(window,'GeoPostal','US');

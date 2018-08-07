@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4690"]={"code":"4690","region":"Sjelland","city":"Haslev","latitude":55.32346,"longitude":11.96389}}(window,'GeoPostal','DK');

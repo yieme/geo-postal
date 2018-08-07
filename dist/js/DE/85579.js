@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85579"]={"code":"85579","region":"Bayern","city":"Neubiberg","latitude":48.0771,"longitude":11.65812}}(window,'GeoPostal','DE');

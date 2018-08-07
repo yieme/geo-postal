@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48366"]={"code":"48366","region":"Nordrhein-Westfalen","city":"Laer","latitude":51.34841,"longitude":8.25679}}(window,'GeoPostal','DE');

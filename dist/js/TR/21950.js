@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21950"]={"code":"21950","region":"Diyarbakir","city":"Cermik","latitude":38.13613,"longitude":39.44929}}(window,'GeoPostal','TR');

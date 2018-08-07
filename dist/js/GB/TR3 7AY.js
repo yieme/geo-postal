@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR3 7AY"]={"code":"TR3 7AY","region":"England","city":"Stithians","latitude":50.1887,"longitude":-5.17807}}(window,'GeoPostal','GB');

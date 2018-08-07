@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY17 5LH"]={"code":"SY17 5LH","region":"Wales","city":"Carno","latitude":52.5599,"longitude":-3.53545}}(window,'GeoPostal','GB');

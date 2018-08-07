@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52311"]={"code":"52311","region":"Jawa Tengah","city":"Pemalang","latitude":-6.9,"longitude":109.36667}}(window,'GeoPostal','ID');

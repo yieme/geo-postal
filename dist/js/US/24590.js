@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24590"]={"code":"24590","region":"VA","city":"Scottsville","latitude":37.8049,"longitude":-78.474}}(window,'GeoPostal','US');

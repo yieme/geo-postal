@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO4 9HN"]={"code":"PO4 9HN","region":"England","city":"Southsea","latitude":50.79205,"longitude":-1.08593}}(window,'GeoPostal','GB');

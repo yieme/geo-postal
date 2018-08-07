@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30012"]={"code":"30012","region":"Murcia, Region de","city":"Archena","latitude":38.11631,"longitude":-1.30043}}(window,'GeoPostal','ES');

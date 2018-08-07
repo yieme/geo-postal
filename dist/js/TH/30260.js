@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30260"]={"code":"30260","region":"Nakhon Ratchasima","city":"Khong","latitude":15.44392,"longitude":102.32862}}(window,'GeoPostal','TH');

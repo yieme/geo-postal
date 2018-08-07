@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82251"]={"code":"82251","region":"Bali","city":"Negara","latitude":-8.31507,"longitude":114.60255}}(window,'GeoPostal','ID');

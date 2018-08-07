@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33550"]={"code":"33550","region":"FL","city":"Mango","latitude":27.9797,"longitude":-82.3065}}(window,'GeoPostal','US');

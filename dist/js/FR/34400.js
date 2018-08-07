@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34400"]={"code":"34400","region":"Occitanie","city":"Saint-Just","latitude":43.65806,"longitude":4.11472}}(window,'GeoPostal','FR');

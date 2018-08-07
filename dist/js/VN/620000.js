@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620000"]={"code":"620000","region":"Phu Yen","city":"Tuy Hoa","latitude":13.08333,"longitude":109.3}}(window,'GeoPostal','VN');

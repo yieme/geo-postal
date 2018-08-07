@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4563"]={"code":"4563","region":"Queensland","city":"Cooroy","latitude":-26.41778,"longitude":152.91149}}(window,'GeoPostal','AU');

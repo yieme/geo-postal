@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0J 1Y0"]={"code":"K0J 1Y0","region":"Ontario","city":"Haley Station","latitude":45.56681,"longitude":-76.78272}}(window,'GeoPostal','CA');

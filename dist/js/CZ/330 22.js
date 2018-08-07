@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["330 22"]={"code":"330 22","region":"Plzensky kraj","city":"Zbuch","latitude":49.6784,"longitude":13.22564}}(window,'GeoPostal','CZ');

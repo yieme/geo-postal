@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["678080"]={"code":"678080","region":"Saha, Respublika","city":"Nizhniy Bestyakh","latitude":61.95944,"longitude":129.90861}}(window,'GeoPostal','RU');

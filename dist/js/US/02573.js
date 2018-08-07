@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02573"]={"code":"02573","region":"MA","city":"West Chop","latitude":41.45,"longitude":-70.6}}(window,'GeoPostal','US');

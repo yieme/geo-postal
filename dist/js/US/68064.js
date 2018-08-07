@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68064"]={"code":"68064","region":"Nebraska","city":"Valley","latitude":41.312873,"longitude":-96.349665}}(window,'GeoPostal','US');

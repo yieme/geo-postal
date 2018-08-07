@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 2QY"]={"code":"HG3 2QY","region":"England","city":"Padside","latitude":54.02979,"longitude":-1.75158}}(window,'GeoPostal','GB');

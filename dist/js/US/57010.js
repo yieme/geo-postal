@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57010"]={"code":"57010","region":"SD","city":"Burbank","latitude":42.7638,"longitude":-96.8466}}(window,'GeoPostal','US');

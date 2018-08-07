@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12484"]={"code":"12484","region":"New York","city":"Stone Ridge","latitude":41.87634,"longitude":-74.17554}}(window,'GeoPostal','US');

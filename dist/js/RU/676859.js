@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676859"]={"code":"676859","region":"Amurskaya oblast'","city":"Belogorsk","latitude":50.91583,"longitude":128.46111}}(window,'GeoPostal','RU');

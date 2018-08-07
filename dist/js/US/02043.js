@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02043"]={"code":"02043","region":"Massachusetts","city":"Hingham","latitude":42.22569,"longitude":-70.88878}}(window,'GeoPostal','US');

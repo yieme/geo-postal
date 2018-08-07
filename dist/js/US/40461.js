@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40461"]={"code":"40461","region":"KY","city":"Paint Lick","latitude":37.6092,"longitude":-84.4269}}(window,'GeoPostal','US');

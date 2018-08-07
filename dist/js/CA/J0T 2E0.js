@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2E0"]={"code":"J0T 2E0","region":"Quebec","city":"Entrelacs","latitude":46.11678,"longitude":-73.9992}}(window,'GeoPostal','CA');

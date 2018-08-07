@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70660"]={"code":"70660","region":"LA","city":"Singer","latitude":30.5329,"longitude":-93.465}}(window,'GeoPostal','US');

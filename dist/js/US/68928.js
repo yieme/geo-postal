@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68928"]={"code":"68928","region":"NE","city":"Bladen","latitude":40.299,"longitude":-98.6046}}(window,'GeoPostal','US');

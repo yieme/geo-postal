@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78349"]={"code":"78349","region":"TX","city":"Concepcion","latitude":27.3849,"longitude":-98.309}}(window,'GeoPostal','US');

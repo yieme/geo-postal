@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67106"]={"code":"67106","region":"Kansas","city":"Milton","latitude":37.430495,"longitude":-97.751698}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3127"]={"code":"3127","region":"Entre Rios","city":"Santa Elena","latitude":-30.94768,"longitude":-59.78696}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["737635"]={"code":"737635","region":"Vaslui","city":"Zorleni","latitude":46.26667,"longitude":27.71667}}(window,'GeoPostal','RO');

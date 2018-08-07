@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5710"]={"code":"5710","region":"Salzburg","city":"Kaprun","latitude":47.27239,"longitude":12.75985}}(window,'GeoPostal','AT');

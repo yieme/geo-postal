@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9611"]={"code":"9611","region":"Sultan Kudarat","city":"Mariano Marcos","latitude":6.79722,"longitude":124.63361}}(window,'GeoPostal','PH');

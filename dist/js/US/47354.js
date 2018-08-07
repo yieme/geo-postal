@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47354"]={"code":"47354","region":"IN","city":"Losantville","latitude":40.0475,"longitude":-85.2108}}(window,'GeoPostal','US');

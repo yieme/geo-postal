@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["453180"]={"code":"453180","region":"Bashkortostan, Respublika","city":"Sterlibashevo","latitude":53.43755,"longitude":55.2578}}(window,'GeoPostal','RU');

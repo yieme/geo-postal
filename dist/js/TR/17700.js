@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17700"]={"code":"17700","region":"Canakkale","city":"Bayramic","latitude":39.80862,"longitude":26.60983}}(window,'GeoPostal','TR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70549"]={"code":"70549","region":"Louisiana","city":"Lake Arthur","latitude":30.08076,"longitude":-92.67153}}(window,'GeoPostal','US');

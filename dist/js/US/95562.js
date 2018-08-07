@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95562"]={"code":"95562","region":"CA","city":"Rio Dell","latitude":40.4987,"longitude":-124.1102}}(window,'GeoPostal','US');

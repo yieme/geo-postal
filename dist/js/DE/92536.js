@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92536"]={"code":"92536","region":"Bayern","city":"Pfreimd","latitude":49.49114,"longitude":12.18069}}(window,'GeoPostal','DE');

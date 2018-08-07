@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO20 1QH"]={"code":"PO20 1QH","region":"England","city":"Chichester","latitude":50.83673,"longitude":-0.78003}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["273415"]={"code":"273415","region":"Uttar Pradesh","city":"Nichlaul","latitude":27.31667,"longitude":83.73333}}(window,'GeoPostal','IN');

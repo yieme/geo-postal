@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30634"]={"code":"30634","region":"Georgia","city":"Dewy Rose","latitude":34.18295,"longitude":-82.945119}}(window,'GeoPostal','US');

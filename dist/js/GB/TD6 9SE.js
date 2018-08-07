@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD6 9SE"]={"code":"TD6 9SE","region":"Scotland","city":"Melrose","latitude":55.59969,"longitude":-2.7277}}(window,'GeoPostal','GB');

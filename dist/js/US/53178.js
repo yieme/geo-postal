@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53178"]={"code":"53178","region":"WI","city":"Sullivan","latitude":42.9982,"longitude":-88.6026}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80140"]={"code":"80140","region":"Hauts-de-France","city":"Oisemont","latitude":49.95587,"longitude":1.76703}}(window,'GeoPostal','FR');

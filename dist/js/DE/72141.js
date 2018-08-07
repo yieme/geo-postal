@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72141"]={"code":"72141","region":"Saarland","city":"Altheim","latitude":49.17189,"longitude":7.31259}}(window,'GeoPostal','DE');

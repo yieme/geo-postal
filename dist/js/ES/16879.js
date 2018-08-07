@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16879"]={"code":"16879","region":"Castilla-La Mancha","city":"Valsalobre","latitude":40.61742,"longitude":-2.09297}}(window,'GeoPostal','ES');

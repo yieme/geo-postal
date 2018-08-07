@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V2Z 2Z1"]={"code":"V2Z 2Z1","region":"British Columbia","city":"Langley","latitude":49.015882,"longitude":-122.55492}}(window,'GeoPostal','CA');

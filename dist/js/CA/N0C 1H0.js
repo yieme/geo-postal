@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0C 1H0"]={"code":"N0C 1H0","region":"Ontario","city":"Markdale","latitude":44.318185,"longitude":-80.648483}}(window,'GeoPostal','CA');

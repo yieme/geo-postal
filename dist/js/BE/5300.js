@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5300"]={"code":"5300","region":"Namur","city":"Andenne","latitude":50.48941,"longitude":5.09513}}(window,'GeoPostal','BE');

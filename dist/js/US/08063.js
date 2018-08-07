@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08063"]={"code":"08063","region":"NJ","city":"National Park","latitude":39.8664,"longitude":-75.1794}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561 61"]={"code":"561 61","region":"Pardubicky kraj","city":"Cervena Voda","latitude":50.04029,"longitude":16.74268}}(window,'GeoPostal','CZ');

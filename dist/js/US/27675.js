@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27675"]={"code":"27675","region":"North Carolina","city":"Raleigh","latitude":35.90406,"longitude":-78.74263}}(window,'GeoPostal','US');

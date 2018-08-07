@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB41 8LP"]={"code":"AB41 8LP","region":"Scotland","city":"Kirkton of Logie Buchan","latitude":57.35,"longitude":-2.01667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX5 1GB"]={"code":"OX5 1GB","region":"England","city":"Kidlington","latitude":51.82166,"longitude":-1.2886}}(window,'GeoPostal','GB');

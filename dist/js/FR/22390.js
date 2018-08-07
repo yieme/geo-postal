@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22390"]={"code":"22390","region":"Bretagne","city":"Bourbriac","latitude":48.47384,"longitude":-3.18758}}(window,'GeoPostal','FR');

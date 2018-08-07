@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41262"]={"code":"41262","region":"KY","city":"Tomahawk","latitude":37.8687,"longitude":-82.5971}}(window,'GeoPostal','US');

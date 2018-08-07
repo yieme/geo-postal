@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83619"]={"code":"83619","region":"Idaho","city":"Fruitland","latitude":43.996174,"longitude":-116.912368}}(window,'GeoPostal','US');

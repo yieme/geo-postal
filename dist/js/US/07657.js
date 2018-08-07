@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07657"]={"code":"07657","region":"New Jersey","city":"Ridgefield","latitude":40.832012,"longitude":-74.001491}}(window,'GeoPostal','US');

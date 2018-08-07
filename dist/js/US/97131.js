@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97131"]={"code":"97131","region":"Oregon","city":"Nehalem","latitude":45.71583,"longitude":-123.89556}}(window,'GeoPostal','US');

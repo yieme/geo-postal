@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51051"]={"code":"51051","region":"IA","city":"Rodney","latitude":42.198,"longitude":-95.9769}}(window,'GeoPostal','US');

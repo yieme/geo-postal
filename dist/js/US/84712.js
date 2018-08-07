@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84712"]={"code":"84712","region":"UT","city":"Antimony","latitude":38.1015,"longitude":-111.993}}(window,'GeoPostal','US');

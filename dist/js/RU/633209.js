@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["633209"]={"code":"633209","region":"Novosibirskaya oblast'","city":"Iskitim","latitude":54.6366,"longitude":83.3045}}(window,'GeoPostal','RU');

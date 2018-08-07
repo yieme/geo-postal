@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08088"]={"code":"08088","region":"New Jersey","city":"Vincentown","latitude":39.820757,"longitude":-74.694484}}(window,'GeoPostal','US');

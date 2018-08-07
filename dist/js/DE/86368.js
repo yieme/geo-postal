@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86368"]={"code":"86368","region":"Bayern","city":"Gersthofen","latitude":48.42432,"longitude":10.87273}}(window,'GeoPostal','DE');

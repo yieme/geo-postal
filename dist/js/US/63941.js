@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63941"]={"code":"63941","region":"MO","city":"Fremont","latitude":36.9172,"longitude":-91.144}}(window,'GeoPostal','US');

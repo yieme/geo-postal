@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83119"]={"code":"83119","region":"Wyoming","city":"Fairview","latitude":42.680935,"longitude":-111.000325}}(window,'GeoPostal','US');

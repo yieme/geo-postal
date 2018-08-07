@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431206"]={"code":"431206","region":"Maharashtra","city":"Parli Vaijnath","latitude":18.85,"longitude":76.53333}}(window,'GeoPostal','IN');

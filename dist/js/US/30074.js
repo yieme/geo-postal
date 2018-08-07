@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30074"]={"code":"30074","region":"GA","city":"Redan","latitude":33.7454,"longitude":-84.1316}}(window,'GeoPostal','US');

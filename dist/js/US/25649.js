@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25649"]={"code":"25649","region":"WV","city":"Verdunville","latitude":37.8445,"longitude":-82.0551}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44425"]={"code":"44425","region":"Ohio","city":"Hubbard","latitude":41.162233,"longitude":-80.580232}}(window,'GeoPostal','US');

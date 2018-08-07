@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73735"]={"code":"73735","region":"OK","city":"Drummond","latitude":36.2841,"longitude":-98.0358}}(window,'GeoPostal','US');

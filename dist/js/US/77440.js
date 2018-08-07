@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77440"]={"code":"77440","region":"TX","city":"Elmaton","latitude":28.8864,"longitude":-96.14}}(window,'GeoPostal','US');

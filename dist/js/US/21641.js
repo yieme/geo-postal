@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21641"]={"code":"21641","region":"Maryland","city":"Hillsboro","latitude":38.916171,"longitude":-75.941694}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59875"]={"code":"59875","region":"Montana","city":"Victor","latitude":46.401179,"longitude":-114.168542}}(window,'GeoPostal','US');

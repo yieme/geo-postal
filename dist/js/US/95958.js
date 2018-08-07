@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95958"]={"code":"95958","region":"CA","city":"Nelson","latitude":39.5522,"longitude":-121.7644}}(window,'GeoPostal','US');

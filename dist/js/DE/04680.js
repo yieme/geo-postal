@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04680"]={"code":"04680","region":"Sachsen","city":"Colditz","latitude":51.12821,"longitude":12.80295}}(window,'GeoPostal','DE');

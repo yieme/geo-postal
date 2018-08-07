@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63441"]={"code":"63441","region":"MO","city":"Frankford","latitude":39.4892,"longitude":-91.3031}}(window,'GeoPostal','US');

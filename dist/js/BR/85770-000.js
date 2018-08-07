@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85770-000"]={"code":"85770-000","region":"Parana","city":"Realeza","latitude":-25.76889,"longitude":-53.5325}}(window,'GeoPostal','BR');

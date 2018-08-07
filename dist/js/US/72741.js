@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72741"]={"code":"72741","region":"AR","city":"Johnson","latitude":36.1329,"longitude":-94.1655}}(window,'GeoPostal','US');

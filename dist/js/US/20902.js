@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20902"]={"code":"20902","region":"Maryland","city":"Wheaton","latitude":39.04032,"longitude":-77.04606}}(window,'GeoPostal','US');

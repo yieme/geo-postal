@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7056"]={"code":"7056","region":"Tolna","city":"Szedres","latitude":46.47551,"longitude":18.68305}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3716"]={"code":"3716","region":"Chaco","city":"Campo Largo","latitude":-26.80077,"longitude":-60.84215}}(window,'GeoPostal','AR');

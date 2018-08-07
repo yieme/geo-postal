@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["658750"]={"code":"658750","region":"Altayskiy kray","city":"Krutikha","latitude":53.9599,"longitude":81.2093}}(window,'GeoPostal','RU');

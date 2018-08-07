@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60222"]={"code":"60222","region":"Chernivetska oblast","city":"Vashkivtsi","latitude":48.38492,"longitude":25.51023}}(window,'GeoPostal','UA');

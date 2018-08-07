@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14081"]={"code":"14081","region":"NY","city":"Irving","latitude":42.5739,"longitude":-79.0596}}(window,'GeoPostal','US');

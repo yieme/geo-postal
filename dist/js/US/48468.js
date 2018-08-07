@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48468"]={"code":"48468","region":"Michigan","city":"Port Hope","latitude":43.944309,"longitude":-82.779278}}(window,'GeoPostal','US');

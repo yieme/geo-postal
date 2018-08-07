@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47851"]={"code":"47851","region":"Ternopilska oblast","city":"Skalat","latitude":49.42732,"longitude":25.97869}}(window,'GeoPostal','UA');

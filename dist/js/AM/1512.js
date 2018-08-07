@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1512"]={"code":"1512","region":"Gegark'unik'","city":"Tsovagyugh","latitude":40.63029,"longitude":44.95738}}(window,'GeoPostal','AM');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39540-000"]={"code":"39540-000","region":"Minas Gerais","city":"Sao Joao do Paraiso","latitude":-15.31361,"longitude":-42.01444}}(window,'GeoPostal','BR');

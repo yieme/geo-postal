@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA13 4DP"]={"code":"BA13 4DP","region":"England","city":"Dilton Marsh","latitude":51.24776,"longitude":-2.21834}}(window,'GeoPostal','GB');

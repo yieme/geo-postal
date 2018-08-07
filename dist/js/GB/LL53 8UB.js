@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 8UB"]={"code":"LL53 8UB","region":"Wales","city":"Llandudwen","latitude":52.90137,"longitude":-4.56839}}(window,'GeoPostal','GB');

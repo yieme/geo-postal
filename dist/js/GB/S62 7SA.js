@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S62 7SA"]={"code":"S62 7SA","region":"England","city":"Rotherham","latitude":53.43012,"longitude":-1.35678}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30140"]={"code":"30140","region":"Occitanie","city":"Bagard","latitude":44.07126,"longitude":4.05225}}(window,'GeoPostal','FR');

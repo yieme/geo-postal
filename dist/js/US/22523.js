@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22523"]={"code":"22523","region":"VA","city":"Morattico","latitude":37.7928,"longitude":-76.6093}}(window,'GeoPostal','US');

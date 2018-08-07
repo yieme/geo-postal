@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29137"]={"code":"29137","region":"SC","city":"Salley","latitude":33.5972,"longitude":-81.3184}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 8LB"]={"code":"DG2 8LB","region":"Scotland","city":"Kirkgunzeon","latitude":54.98285,"longitude":-3.77357}}(window,'GeoPostal','GB');

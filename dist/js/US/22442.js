@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22442"]={"code":"22442","region":"Virginia","city":"Coles Point","latitude":38.14362,"longitude":-76.63578}}(window,'GeoPostal','US');

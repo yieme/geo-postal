@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96021"]={"code":"96021","region":"California","city":"Corning","latitude":39.926058,"longitude":-122.188962}}(window,'GeoPostal','US');

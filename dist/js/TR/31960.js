@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31960"]={"code":"31960","region":"Samsun","city":"Asarcik","latitude":41.03556,"longitude":36.23556}}(window,'GeoPostal','TR');

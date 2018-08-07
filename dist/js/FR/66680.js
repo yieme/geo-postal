@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66680"]={"code":"66680","region":"Occitanie","city":"Canohes","latitude":42.65461,"longitude":2.83633}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17244"]={"code":"17244","region":"Illes Balears","city":"Selva","latitude":39.75504,"longitude":2.90069}}(window,'GeoPostal','ES');

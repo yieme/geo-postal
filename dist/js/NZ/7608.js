@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7608"]={"code":"7608","region":"Canterbury","city":"Lincoln","latitude":-43.65,"longitude":172.48333}}(window,'GeoPostal','NZ');

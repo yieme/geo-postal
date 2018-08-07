@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4600"]={"code":"4600","region":"Jujuy","city":"San Salvador de Jujuy","latitude":-24.19456,"longitude":-65.29712}}(window,'GeoPostal','AR');

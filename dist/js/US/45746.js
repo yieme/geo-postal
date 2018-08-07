@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45746"]={"code":"45746","region":"Ohio","city":"Macksburg","latitude":39.607831,"longitude":-81.438723}}(window,'GeoPostal','US');

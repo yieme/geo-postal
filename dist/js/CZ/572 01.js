@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["572 01"]={"code":"572 01","region":"Pardubicky kraj","city":"Policka","latitude":49.71465,"longitude":16.26543}}(window,'GeoPostal','CZ');

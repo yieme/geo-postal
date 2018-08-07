@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99139"]={"code":"99139","region":"Washington","city":"Ione","latitude":48.74056,"longitude":-117.42028}}(window,'GeoPostal','US');

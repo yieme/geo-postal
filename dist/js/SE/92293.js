@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92293"]={"code":"92293","region":"Vasterbottens lan","city":"Vindeln","latitude":64.20175,"longitude":19.71945}}(window,'GeoPostal','SE');

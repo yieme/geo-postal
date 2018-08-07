@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96923"]={"code":"96923","region":"GU","city":"Mangilao","latitude":13.43,"longitude":144.79}}(window,'GeoPostal','US');

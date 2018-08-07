@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2865"]={"code":"2865","region":"New South Wales","city":"Manildra","latitude":-33.18248,"longitude":148.68909}}(window,'GeoPostal','AU');

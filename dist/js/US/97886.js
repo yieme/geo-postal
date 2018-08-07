@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97886"]={"code":"97886","region":"Oregon","city":"Weston","latitude":45.81305,"longitude":-118.422595}}(window,'GeoPostal','US');

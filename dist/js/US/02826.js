@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02826"]={"code":"02826","region":"RI","city":"Glendale","latitude":41.9762,"longitude":-71.6326}}(window,'GeoPostal','US');

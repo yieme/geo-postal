@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58920"]={"code":"58920","region":"Michoacan de Ocampo","city":"Alvaro Obregon","latitude":19.83333,"longitude":-101.08333}}(window,'GeoPostal','MX');

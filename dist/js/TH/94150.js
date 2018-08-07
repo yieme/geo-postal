@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94150"]={"code":"94150","region":"Pattani","city":"Yaring","latitude":6.86617,"longitude":101.36894}}(window,'GeoPostal','TH');

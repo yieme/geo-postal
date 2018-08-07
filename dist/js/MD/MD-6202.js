@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-6202"]={"code":"MD-6202","region":"Singerei","city":"Biruinta","latitude":47.81611,"longitude":28.06861}}(window,'GeoPostal','MD');

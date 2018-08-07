@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03862"]={"code":"03862","region":"NH","city":"North Hampton","latitude":42.9776,"longitude":-70.8267}}(window,'GeoPostal','US');

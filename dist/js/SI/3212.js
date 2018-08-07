@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3212"]={"code":"3212","region":"Vojnik","city":"Vojnik","latitude":46.29333,"longitude":15.30333}}(window,'GeoPostal','SI');

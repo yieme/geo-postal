@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57-410"]={"code":"57-410","region":"Dolnoslaskie","city":"Bozkow","latitude":50.51315,"longitude":16.57528}}(window,'GeoPostal','PL');

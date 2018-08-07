@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87012"]={"code":"87012","region":"Calabria","city":"Castrovillari","latitude":39.8203,"longitude":16.21229}}(window,'GeoPostal','IT');

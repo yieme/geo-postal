@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70091"]={"code":"70091","region":"Louisiana","city":"Venice","latitude":29.207093,"longitude":-89.233093}}(window,'GeoPostal','US');

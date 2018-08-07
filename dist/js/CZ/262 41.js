@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262 41"]={"code":"262 41","region":"Stredocesky kraj","city":"Bohutin","latitude":49.65551,"longitude":13.94389}}(window,'GeoPostal','CZ');

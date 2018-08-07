@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5210000"]={"code":"5210000","region":"La Araucania","city":"Panguipulli","latitude":-39.63333,"longitude":-72.33333}}(window,'GeoPostal','CL');

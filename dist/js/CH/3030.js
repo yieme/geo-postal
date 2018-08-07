@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3030"]={"code":"3030","region":"Bern","city":"Zollikofen","latitude":46.99905,"longitude":7.45809}}(window,'GeoPostal','CH');

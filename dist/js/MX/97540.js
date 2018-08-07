@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97540"]={"code":"97540","region":"Yucatan","city":"Izamal","latitude":20.93333,"longitude":-89.01667}}(window,'GeoPostal','MX');

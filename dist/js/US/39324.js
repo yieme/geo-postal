@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39324"]={"code":"39324","region":"Mississippi","city":"Clara","latitude":31.580278,"longitude":-88.696389}}(window,'GeoPostal','US');

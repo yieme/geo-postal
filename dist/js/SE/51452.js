@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51452"]={"code":"51452","region":"Vastra Gotalands lan","city":"Langhem","latitude":57.6,"longitude":13.23333}}(window,'GeoPostal','SE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71647"]={"code":"71647","region":"Arkansas","city":"Hermitage","latitude":33.39942,"longitude":-92.1237}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34945"]={"code":"34945","region":"Florida","city":"Fort Pierce","latitude":27.44671,"longitude":-80.32561}}(window,'GeoPostal','US');

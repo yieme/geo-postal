@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46351"]={"code":"46351","region":"Valenciana, Comunidad","city":"Requena","latitude":39.48834,"longitude":-1.10044}}(window,'GeoPostal','ES');

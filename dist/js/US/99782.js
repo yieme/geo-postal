@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99782"]={"code":"99782","region":"AK","city":"Wainwright","latitude":70.6369,"longitude":-160.0383}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20140"]={"code":"20140","region":"VA","city":"Rectortown","latitude":38.9163,"longitude":-77.8648}}(window,'GeoPostal','US');

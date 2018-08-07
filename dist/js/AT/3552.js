@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3552"]={"code":"3552","region":"Niederosterreich","city":"Stratzing","latitude":48.45,"longitude":15.6}}(window,'GeoPostal','AT');

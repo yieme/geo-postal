@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50100"]={"code":"50100","region":"Aragon","city":"La Almunia de Dona Godina","latitude":41.4767,"longitude":-1.37451}}(window,'GeoPostal','ES');

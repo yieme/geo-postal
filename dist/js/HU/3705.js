@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3705"]={"code":"3705","region":"Borsod-Abauj-Zemplen","city":"Kazincbarcika","latitude":48.25,"longitude":20.63333}}(window,'GeoPostal','HU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04981"]={"code":"04981","region":"ME","city":"Stockton Springs","latitude":44.5141,"longitude":-68.856}}(window,'GeoPostal','US');

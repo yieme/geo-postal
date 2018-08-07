@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84046"]={"code":"84046","region":"Campania","city":"Ascea","latitude":40.1416,"longitude":15.18576}}(window,'GeoPostal','IT');

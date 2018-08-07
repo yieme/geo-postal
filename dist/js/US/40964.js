@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40964"]={"code":"40964","region":"KY","city":"Mary Alice","latitude":36.7843,"longitude":-83.3299}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1G 4Y3"]={"code":"L1G 4Y3","region":"Ontario","city":"Oshawa","latitude":43.943564,"longitude":-78.889939}}(window,'GeoPostal','CA');

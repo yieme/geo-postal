@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["141631"]={"code":"141631","region":"Moskovskaya oblast'","city":"Reshetnikovo","latitude":56.45,"longitude":36.56667}}(window,'GeoPostal','RU');

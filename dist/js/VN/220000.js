@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["220000"]={"code":"220000","region":"Bac Ninh","city":"Bac Ninh","latitude":21.18333,"longitude":106.05}}(window,'GeoPostal','VN');

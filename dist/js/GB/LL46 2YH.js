@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL46 2YH"]={"code":"LL46 2YH","region":"Wales","city":"Harlech","latitude":52.85941,"longitude":-4.10831}}(window,'GeoPostal','GB');

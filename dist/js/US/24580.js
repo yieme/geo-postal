@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24580"]={"code":"24580","region":"VA","city":"Nelson","latitude":36.5586,"longitude":-78.671}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["646550"]={"code":"646550","region":"Omskaya oblast'","city":"Znamenskoye","latitude":57.12806,"longitude":73.82821}}(window,'GeoPostal','RU');

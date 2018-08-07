@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0T 2P0"]={"code":"J0T 2P0","region":"Quebec","city":"Val-des-Lacs","latitude":46.18339,"longitude":-74.34922}}(window,'GeoPostal','CA');

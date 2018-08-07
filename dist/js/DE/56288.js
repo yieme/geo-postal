@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56288"]={"code":"56288","region":"Rheinland-Pfalz","city":"Kastellaun","latitude":50.06922,"longitude":7.44154}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1Z0"]={"code":"V0G 1Z0","region":"British Columbia","city":"Salmo","latitude":49.19986,"longitude":-117.2689}}(window,'GeoPostal','CA');

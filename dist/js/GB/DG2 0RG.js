@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG2 0RG"]={"code":"DG2 0RG","region":"Scotland","city":"Holywood","latitude":55.10146,"longitude":-3.64715}}(window,'GeoPostal','GB');

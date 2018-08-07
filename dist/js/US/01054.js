@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01054"]={"code":"01054","region":"Massachusetts","city":"Leverett","latitude":42.47262,"longitude":-72.48978}}(window,'GeoPostal','US');

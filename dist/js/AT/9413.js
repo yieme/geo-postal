@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9413"]={"code":"9413","region":"Karnten","city":"Preitenegg","latitude":46.94,"longitude":14.92583}}(window,'GeoPostal','AT');

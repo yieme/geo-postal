@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15848"]={"code":"15848","region":"PA","city":"Luthersburg","latitude":41.0532,"longitude":-78.7428}}(window,'GeoPostal','US');

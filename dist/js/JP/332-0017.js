@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332-0017"]={"code":"332-0017","region":"Saitama","city":"Saitama","latitude":35.867,"longitude":139.65}}(window,'GeoPostal','JP');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48800"]={"code":"48800","region":"Kutahya","city":"Gediz","latitude":39.04167,"longitude":29.41}}(window,'GeoPostal','TR');

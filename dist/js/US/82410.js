@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82410"]={"code":"82410","region":"Wyoming","city":"Basin","latitude":44.381114,"longitude":-108.037264}}(window,'GeoPostal','US');

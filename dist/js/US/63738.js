@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63738"]={"code":"63738","region":"MO","city":"Brownwood","latitude":37.0828,"longitude":-89.9523}}(window,'GeoPostal','US');

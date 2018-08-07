@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL33 0PA"]={"code":"LL33 0PA","region":"Wales","city":"Llanfairfechan","latitude":53.25779,"longitude":-3.97423}}(window,'GeoPostal','GB');

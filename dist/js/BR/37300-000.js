@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37300-000"]={"code":"37300-000","region":"Minas Gerais","city":"Andrelandia","latitude":-21.73972,"longitude":-44.30917}}(window,'GeoPostal','BR');

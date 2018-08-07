@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["427954"]={"code":"427954","region":"Udmurtskaya Respublika","city":"Kambarka","latitude":56.26944,"longitude":54.20617}}(window,'GeoPostal','RU');

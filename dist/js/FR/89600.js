@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89600"]={"code":"89600","region":"Bourgogne-Franche-Comte","city":"Saint-Florentin","latitude":48.00057,"longitude":3.72489}}(window,'GeoPostal','FR');

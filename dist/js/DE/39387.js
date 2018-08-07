@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39387"]={"code":"39387","region":"Sachsen-Anhalt","city":"Hornhausen","latitude":52.0451,"longitude":11.17104}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188680"]={"code":"188680","region":"Leningradskaya oblast'","city":"Yanino Vtoroye","latitude":59.9355,"longitude":30.61534}}(window,'GeoPostal','RU');

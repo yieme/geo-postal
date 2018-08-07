@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446436"]={"code":"446436","region":"Samarskaya oblast'","city":"Kinel'","latitude":53.23333,"longitude":50.65}}(window,'GeoPostal','RU');

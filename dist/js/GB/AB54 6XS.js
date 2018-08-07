@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 6XS"]={"code":"AB54 6XS","region":"Scotland","city":"Cobairdy","latitude":57.46667,"longitude":-2.71667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14449"]={"code":"14449","region":"NY","city":"East Williamson","latitude":43.2354,"longitude":-77.1376}}(window,'GeoPostal','US');

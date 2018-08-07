@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43902"]={"code":"43902","region":"Ohio","city":"Alledonia","latitude":39.88049,"longitude":-80.991934}}(window,'GeoPostal','US');

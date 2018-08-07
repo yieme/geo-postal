@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97114"]={"code":"97114","region":"OR","city":"Dayton","latitude":45.1977,"longitude":-123.0753}}(window,'GeoPostal','US');

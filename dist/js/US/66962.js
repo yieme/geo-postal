@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66962"]={"code":"66962","region":"Kansas","city":"Palmer","latitude":39.610148,"longitude":-97.087406}}(window,'GeoPostal','US');

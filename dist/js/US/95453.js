@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95453"]={"code":"95453","region":"California","city":"Lakeport","latitude":39.051032,"longitude":-122.913136}}(window,'GeoPostal','US');

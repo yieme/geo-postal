@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62022"]={"code":"62022","region":"Marche","city":"Castelraimondo","latitude":43.20815,"longitude":13.05367}}(window,'GeoPostal','IT');

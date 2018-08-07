@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01355"]={"code":"01355","region":"Massachusetts","city":"Orange","latitude":42.59036,"longitude":-72.30981}}(window,'GeoPostal','US');

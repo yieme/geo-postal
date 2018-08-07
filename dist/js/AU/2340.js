@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2340"]={"code":"2340","region":"New South Wales","city":"Warral","latitude":-31.15,"longitude":150.86667}}(window,'GeoPostal','AU');

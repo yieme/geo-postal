@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15650"]={"code":"15650","region":"Pennsylvania","city":"Latrobe","latitude":40.308235,"longitude":-79.386897}}(window,'GeoPostal','US');

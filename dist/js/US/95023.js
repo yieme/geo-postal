@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95023"]={"code":"95023","region":"California","city":"Hollister","latitude":36.849633,"longitude":-121.387311}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9230"]={"code":"9230","region":"Sankt Gallen","city":"Flawil","latitude":47.41461,"longitude":9.18284}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38229"]={"code":"38229","region":"Tennessee","city":"Gleason","latitude":36.21367,"longitude":-88.61255}}(window,'GeoPostal','US');

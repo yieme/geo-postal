@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24437"]={"code":"24437","region":"VA","city":"Fort Defiance","latitude":38.2109,"longitude":-78.9326}}(window,'GeoPostal','US');

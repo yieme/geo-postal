@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55982"]={"code":"55982","region":"MN","city":"Waltham","latitude":43.807,"longitude":-92.8734}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2650"]={"code":"2650","region":"Cordoba","city":"Canals","latitude":-33.56542,"longitude":-62.88927}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51005"]={"code":"51005","region":"Iowa","city":"Aurelia","latitude":42.71276,"longitude":-95.43667}}(window,'GeoPostal','US');

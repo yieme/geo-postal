@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01302"]={"code":"01302","region":"Massachusetts","city":"Greenfield","latitude":42.65319,"longitude":-72.60807}}(window,'GeoPostal','US');

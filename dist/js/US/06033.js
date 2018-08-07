@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06033"]={"code":"06033","region":"Connecticut","city":"Glastonbury","latitude":41.706582,"longitude":-72.56464}}(window,'GeoPostal','US');

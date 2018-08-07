@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02322"]={"code":"02322","region":"Massachusetts","city":"Avon","latitude":42.12416,"longitude":-71.046063}}(window,'GeoPostal','US');

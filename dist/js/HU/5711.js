@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5711"]={"code":"5711","region":"Bekes","city":"Gyula","latitude":46.65,"longitude":21.28333}}(window,'GeoPostal','HU');

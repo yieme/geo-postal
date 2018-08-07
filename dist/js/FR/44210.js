@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44210"]={"code":"44210","region":"Pays-de-la-Loire","city":"Pornic","latitude":47.11205,"longitude":-2.08888}}(window,'GeoPostal','FR');

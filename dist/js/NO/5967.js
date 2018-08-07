@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5967"]={"code":"5967","region":"Sogn og Fjordane","city":"Eivinvik","latitude":60.98138,"longitude":5.07362}}(window,'GeoPostal','NO');

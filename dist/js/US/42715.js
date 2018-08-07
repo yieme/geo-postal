@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42715"]={"code":"42715","region":"Kentucky","city":"Breeding","latitude":36.956574,"longitude":-85.39188}}(window,'GeoPostal','US');

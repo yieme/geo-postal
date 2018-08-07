@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2590"]={"code":"2590","region":"Zuid-Holland","city":"Den Haag","latitude":52.07667,"longitude":4.29861}}(window,'GeoPostal','NL');

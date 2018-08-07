@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42323"]={"code":"42323","region":"Kentucky","city":"Beechmont","latitude":37.177437,"longitude":-87.050655}}(window,'GeoPostal','US');

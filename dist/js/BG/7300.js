@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7300"]={"code":"7300","region":"Razgrad","city":"Kubrat","latitude":43.8,"longitude":26.5}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45816"]={"code":"45816","region":"OH","city":"Benton Ridge","latitude":41.0031,"longitude":-83.7931}}(window,'GeoPostal','US');

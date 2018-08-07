@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3172"]={"code":"3172","region":"Western Australia","city":"Brunswick","latitude":-33.2324,"longitude":115.86282}}(window,'GeoPostal','AU');

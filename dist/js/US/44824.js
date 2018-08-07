@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44824"]={"code":"44824","region":"OH","city":"Castalia","latitude":41.3872,"longitude":-82.7994}}(window,'GeoPostal','US');

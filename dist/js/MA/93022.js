@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93022"]={"code":"93022","region":"Tadla-Azilal","city":"Azilal","latitude":31.96156,"longitude":-6.57109}}(window,'GeoPostal','MA');

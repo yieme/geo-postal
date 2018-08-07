@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97732"]={"code":"97732","region":"OR","city":"Crane","latitude":43.4262,"longitude":-118.4642}}(window,'GeoPostal','US');

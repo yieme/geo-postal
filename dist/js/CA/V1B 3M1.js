@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1B 3M1"]={"code":"V1B 3M1","region":"British Columbia","city":"Silver Star Mountain","latitude":50.35554,"longitude":-119.06004}}(window,'GeoPostal','CA');

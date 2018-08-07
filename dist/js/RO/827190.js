@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827190"]={"code":"827190","region":"Tulcea","city":"Sarichioi","latitude":44.95,"longitude":28.85}}(window,'GeoPostal','RO');

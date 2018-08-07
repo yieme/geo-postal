@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3000"]={"code":"3000","region":"Santa Fe","city":"Santa Fe de la Vera Cruz","latitude":-31.63333,"longitude":-60.7}}(window,'GeoPostal','AR');

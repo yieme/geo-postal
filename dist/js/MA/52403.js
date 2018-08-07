@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52403"]={"code":"52403","region":"Meknes-Tafilalet","city":"Imilchil","latitude":32.15309,"longitude":-5.62453}}(window,'GeoPostal','MA');

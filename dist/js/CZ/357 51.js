@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357 51"]={"code":"357 51","region":"Karlovarsky kraj","city":"Kynsperk nad Ohri","latitude":50.11893,"longitude":12.53027}}(window,'GeoPostal','CZ');

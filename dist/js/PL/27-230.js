@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27-230"]={"code":"27-230","region":"Swietokrzyskie","city":"Brody","latitude":51.02466,"longitude":21.22147}}(window,'GeoPostal','PL');

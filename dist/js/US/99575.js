@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99575"]={"code":"99575","region":"AK","city":"Crooked Creek","latitude":61.8181,"longitude":-158.0025}}(window,'GeoPostal','US');

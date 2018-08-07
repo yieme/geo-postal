@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61844"]={"code":"61844","region":"IL","city":"Fithian","latitude":40.1192,"longitude":-87.8797}}(window,'GeoPostal','US');

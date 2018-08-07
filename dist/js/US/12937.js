@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12937"]={"code":"12937","region":"New York","city":"Fort Covington","latitude":44.955193,"longitude":-74.487646}}(window,'GeoPostal','US');

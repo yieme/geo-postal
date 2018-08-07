@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37847"]={"code":"37847","region":"Tennessee","city":"Pioneer","latitude":36.46098,"longitude":-84.298951}}(window,'GeoPostal','US');

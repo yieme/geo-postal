@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137000"]={"code":"137000","region":"Jilin","city":"Baicheng","latitude":45.61667,"longitude":122.81667}}(window,'GeoPostal','CN');

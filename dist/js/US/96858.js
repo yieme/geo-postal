@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96858"]={"code":"96858","region":"HI","city":"Fort Shafter","latitude":21.3416,"longitude":-157.8918}}(window,'GeoPostal','US');

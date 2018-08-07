@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45768"]={"code":"45768","region":"Ohio","city":"Newport","latitude":39.39091,"longitude":-81.22678}}(window,'GeoPostal','US');

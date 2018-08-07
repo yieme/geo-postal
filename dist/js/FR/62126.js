@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62126"]={"code":"62126","region":"Hauts-de-France","city":"Wimille","latitude":50.76418,"longitude":1.63137}}(window,'GeoPostal','FR');

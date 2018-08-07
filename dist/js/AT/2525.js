@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2525"]={"code":"2525","region":"Niederosterreich","city":"Gunselsdorf","latitude":47.94395,"longitude":16.26062}}(window,'GeoPostal','AT');

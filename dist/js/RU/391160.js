@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391160"]={"code":"391160","region":"Ryazanskaya oblast'","city":"Novomichurinsk","latitude":54.0384,"longitude":39.7479}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79785"]={"code":"79785","region":"TX","city":"Toyah","latitude":31.282,"longitude":-103.8057}}(window,'GeoPostal','US');

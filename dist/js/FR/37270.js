@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37270"]={"code":"37270","region":"Centre-Val de Loire","city":"Montlouis-sur-Loire","latitude":47.38845,"longitude":0.83208}}(window,'GeoPostal','FR');

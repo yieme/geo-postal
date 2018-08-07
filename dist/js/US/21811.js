@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21811"]={"code":"21811","region":"Maryland","city":"Berlin","latitude":38.32262,"longitude":-75.21769}}(window,'GeoPostal','US');

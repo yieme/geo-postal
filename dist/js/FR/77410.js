@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77410"]={"code":"77410","region":"Ile-de-France","city":"Villeroy","latitude":48.9822,"longitude":2.7822}}(window,'GeoPostal','FR');

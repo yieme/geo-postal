@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98563"]={"code":"98563","region":"Washington","city":"Montesano","latitude":46.98121,"longitude":-123.60266}}(window,'GeoPostal','US');

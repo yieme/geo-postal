@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57544"]={"code":"57544","region":"SD","city":"Kennebec","latitude":43.8921,"longitude":-99.8502}}(window,'GeoPostal','US');

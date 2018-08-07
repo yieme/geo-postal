@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71368"]={"code":"71368","region":"Louisiana","city":"Sicily Island","latitude":31.84667,"longitude":-91.65889}}(window,'GeoPostal','US');

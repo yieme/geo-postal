@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 0HW"]={"code":"DT11 0HW","region":"England","city":"Whitechurch","latitude":50.8,"longitude":-2.23333}}(window,'GeoPostal','GB');

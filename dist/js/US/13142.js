@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13142"]={"code":"13142","region":"NY","city":"Pulaski","latitude":43.5562,"longitude":-76.1252}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51041"]={"code":"51041","region":"Iowa","city":"Orange City","latitude":43.00721,"longitude":-96.05835}}(window,'GeoPostal','US');

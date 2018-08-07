@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66077"]={"code":"66077","region":"KS","city":"Potter","latitude":39.42,"longitude":-95.12}}(window,'GeoPostal','US');

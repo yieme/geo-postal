@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391338"]={"code":"391338","region":"Ryazanskaya oblast'","city":"Syntul","latitude":55.00327,"longitude":41.2971}}(window,'GeoPostal','RU');

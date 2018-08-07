@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21-470"]={"code":"21-470","region":"Lubelskie","city":"Lukow","latitude":51.929,"longitude":22.37956}}(window,'GeoPostal','PL');

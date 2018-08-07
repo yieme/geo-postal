@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92506"]={"code":"92506","region":"California","city":"Rio Vista","latitude":33.941205,"longitude":-117.362698}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72126"]={"code":"72126","region":"AR","city":"Perryville","latitude":34.9701,"longitude":-92.8472}}(window,'GeoPostal','US');

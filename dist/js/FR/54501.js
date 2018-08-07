@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54501"]={"code":"54501","region":"Grand-Est","city":"Vandoeuvre-les-Nancy","latitude":48.65,"longitude":6.18333}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79034"]={"code":"79034","region":"Texas","city":"Follett","latitude":36.43222,"longitude":-100.14111}}(window,'GeoPostal','US');

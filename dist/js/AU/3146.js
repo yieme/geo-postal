@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3146"]={"code":"3146","region":"Victoria","city":"Glen Iris","latitude":-37.85995,"longitude":145.05489}}(window,'GeoPostal','AU');

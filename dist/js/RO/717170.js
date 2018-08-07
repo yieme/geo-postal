@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["717170"]={"code":"717170","region":"Botosani","city":"George Enescu","latitude":48.03333,"longitude":26.48333}}(window,'GeoPostal','RO');

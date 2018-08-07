@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66728"]={"code":"66728","region":"KS","city":"Crestline","latitude":37.1694,"longitude":-94.7041}}(window,'GeoPostal','US');

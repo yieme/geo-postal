@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19455"]={"code":"19455","region":"PA","city":"North Wales","latitude":40.2109,"longitude":-75.2782}}(window,'GeoPostal','US');

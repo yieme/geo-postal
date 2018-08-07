@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA44 6DA"]={"code":"SA44 6DA","region":"Wales","city":"Llwyn-Dafydd","latitude":52.16667,"longitude":-4.4}}(window,'GeoPostal','GB');

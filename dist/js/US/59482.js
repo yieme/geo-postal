@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59482"]={"code":"59482","region":"Montana","city":"Sunburst","latitude":48.880774,"longitude":-111.911126}}(window,'GeoPostal','US');

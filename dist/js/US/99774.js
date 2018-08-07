@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99774"]={"code":"99774","region":"AK","city":"Stevens Village","latitude":66.0064,"longitude":-149.0908}}(window,'GeoPostal','US');

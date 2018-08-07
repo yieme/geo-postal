@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL58 8UL"]={"code":"LL58 8UL","region":"Wales","city":"Llanfihangel-ty'n-Sylwy","latitude":53.3,"longitude":-4.13333}}(window,'GeoPostal','GB');

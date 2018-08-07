@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59301"]={"code":"59301","region":"Montana","city":"Miles City","latitude":46.40834,"longitude":-105.84056}}(window,'GeoPostal','US');

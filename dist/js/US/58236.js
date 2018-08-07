@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58236"]={"code":"58236","region":"ND","city":"Glasston","latitude":48.7201,"longitude":-97.4696}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85926"]={"code":"85926","region":"Arizona","city":"Fort Apache","latitude":33.790556,"longitude":-109.988056}}(window,'GeoPostal','US');

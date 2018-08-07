@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55644"]={"code":"55644","region":"Mykolaivska oblast","city":"Shevchenkove","latitude":46.86289,"longitude":32.20387}}(window,'GeoPostal','UA');

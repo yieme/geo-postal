@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2664"]={"code":"2664","region":"Oppland","city":"Dovre","latitude":61.98439,"longitude":9.25399}}(window,'GeoPostal','NO');

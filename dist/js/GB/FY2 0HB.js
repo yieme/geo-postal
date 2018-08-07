@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FY2 0HB"]={"code":"FY2 0HB","region":"England","city":"Fylde","latitude":53.83333,"longitude":-2.91667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97990"]={"code":"97990","region":"Baden-Wurttemberg","city":"Weikersheim","latitude":49.47866,"longitude":9.89977}}(window,'GeoPostal','DE');

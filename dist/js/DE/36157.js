@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36157"]={"code":"36157","region":"Hessen","city":"Haukeller","latitude":50.45597,"longitude":9.79131}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95524"]={"code":"95524","region":"CA","city":"Bayside","latitude":40.8266,"longitude":-124.0552}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR19 2JG"]={"code":"NR19 2JG","region":"England","city":"Great Fransham","latitude":52.6852,"longitude":0.80508}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55962"]={"code":"55962","region":"MN","city":"Peterson","latitude":43.7769,"longitude":-91.8443}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76930"]={"code":"76930","region":"Normandie","city":"Octeville-sur-Mer","latitude":49.55496,"longitude":0.1166}}(window,'GeoPostal','FR');

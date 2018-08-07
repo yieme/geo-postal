@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11001"]={"code":"11001","region":"Retalhuleu","city":"Retalhuleu","latitude":14.53333,"longitude":-91.68333}}(window,'GeoPostal','GT');

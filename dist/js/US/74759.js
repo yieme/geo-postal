@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74759"]={"code":"74759","region":"OK","city":"Soper","latitude":34.0366,"longitude":-95.6916}}(window,'GeoPostal','US');

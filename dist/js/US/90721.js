@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90721"]={"code":"90721","region":"CA","city":"Los Alamitos","latitude":33.8023,"longitude":-118.069}}(window,'GeoPostal','US');

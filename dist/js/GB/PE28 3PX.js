@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE28 3PX"]={"code":"PE28 3PX","region":"England","city":"Earith","latitude":52.35422,"longitude":0.03056}}(window,'GeoPostal','GB');

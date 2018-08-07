@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74166"]={"code":"74166","region":"Auvergne-Rhone-Alpes","city":"Archamps","latitude":46.13651,"longitude":6.13287}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3494"]={"code":"3494","region":"Victoria","city":"Colignan","latitude":-34.55,"longitude":142.38333}}(window,'GeoPostal','AU');

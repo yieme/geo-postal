@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12552"]={"code":"12552","region":"NY","city":"Newburgh","latitude":41.5034,"longitude":-74.0104}}(window,'GeoPostal','US');

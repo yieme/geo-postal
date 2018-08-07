@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72000"]={"code":"72000","region":"Federacija Bosne i Hercegovine","city":"Zenica","latitude":44.20139,"longitude":17.90639}}(window,'GeoPostal','BA');

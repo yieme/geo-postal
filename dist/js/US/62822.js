@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62822"]={"code":"62822","region":"IL","city":"Christopher","latitude":37.9849,"longitude":-89.0574}}(window,'GeoPostal','US');

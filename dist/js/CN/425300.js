@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425300"]={"code":"425300","region":"Hunan","city":"Dongmen","latitude":25.52389,"longitude":111.60889}}(window,'GeoPostal','CN');

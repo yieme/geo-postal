@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20067"]={"code":"20067","region":"Lombardia","city":"Tribiano","latitude":45.41337,"longitude":9.37895}}(window,'GeoPostal','IT');

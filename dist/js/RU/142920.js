@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["142920"]={"code":"142920","region":"Moskovskaya oblast'","city":"Ozherel'ye","latitude":54.79197,"longitude":38.2656}}(window,'GeoPostal','RU');

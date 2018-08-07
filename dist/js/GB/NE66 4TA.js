@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE66 4TA"]={"code":"NE66 4TA","region":"England","city":"Callaly","latitude":55.37936,"longitude":-1.9187}}(window,'GeoPostal','GB');

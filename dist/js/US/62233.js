@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62233"]={"code":"62233","region":"Illinois","city":"Chester","latitude":37.91366,"longitude":-89.82205}}(window,'GeoPostal','US');

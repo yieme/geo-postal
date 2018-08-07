@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0N 1C0"]={"code":"B0N 1C0","region":"Nova Scotia","city":"Brookfield","latitude":45.25015,"longitude":-63.28198}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87941"]={"code":"87941","region":"NM","city":"Salem","latitude":32.7093,"longitude":-107.2157}}(window,'GeoPostal','US');

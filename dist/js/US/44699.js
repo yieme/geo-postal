@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44699"]={"code":"44699","region":"OH","city":"Tippecanoe","latitude":40.2797,"longitude":-81.2919}}(window,'GeoPostal','US');

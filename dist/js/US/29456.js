@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29456"]={"code":"29456","region":"South Carolina","city":"Ladson","latitude":33.015577,"longitude":-80.103768}}(window,'GeoPostal','US');

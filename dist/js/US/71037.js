@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71037"]={"code":"71037","region":"Louisiana","city":"Haughton","latitude":32.5368,"longitude":-93.5349}}(window,'GeoPostal','US');

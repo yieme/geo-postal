@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55963"]={"code":"55963","region":"MN","city":"Pine Island","latitude":44.211,"longitude":-92.6613}}(window,'GeoPostal','US');

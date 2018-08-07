@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68792"]={"code":"68792","region":"Nebraska","city":"Wynot","latitude":42.738711,"longitude":-97.138777}}(window,'GeoPostal','US');

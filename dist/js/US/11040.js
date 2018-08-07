@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11040"]={"code":"11040","region":"New York","city":"New Hyde Park","latitude":40.744166,"longitude":-73.678516}}(window,'GeoPostal','US');

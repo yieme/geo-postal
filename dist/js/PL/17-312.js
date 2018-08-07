@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-312"]={"code":"17-312","region":"Podlaskie","city":"Drohiczyn","latitude":52.40011,"longitude":22.65853}}(window,'GeoPostal','PL');

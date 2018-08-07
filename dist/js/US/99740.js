@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99740"]={"code":"99740","region":"Alaska","city":"Fort Yukon","latitude":66.435589,"longitude":-145.828739}}(window,'GeoPostal','US');

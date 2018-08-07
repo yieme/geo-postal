@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16245"]={"code":"16245","region":"PA","city":"Oak Ridge","latitude":41.0076,"longitude":-79.2959}}(window,'GeoPostal','US');

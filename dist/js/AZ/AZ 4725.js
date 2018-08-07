@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 4725"]={"code":"AZ 4725","region":"Neftcala","city":"Neftcala","latitude":39.37417,"longitude":49.24722}}(window,'GeoPostal','AZ');

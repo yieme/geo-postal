@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49232"]={"code":"49232","region":"Michigan","city":"Camden","latitude":41.755,"longitude":-84.75694}}(window,'GeoPostal','US');

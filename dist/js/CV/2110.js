@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2110"]={"code":"2110","region":"Sao Vicente","city":"Mindelo","latitude":16.89014,"longitude":-24.98042}}(window,'GeoPostal','CV');

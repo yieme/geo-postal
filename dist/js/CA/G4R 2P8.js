@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4R 2P8"]={"code":"G4R 2P8","region":"Quebec","city":"Sept-Iles","latitude":50.205456,"longitude":-66.380438}}(window,'GeoPostal','CA');

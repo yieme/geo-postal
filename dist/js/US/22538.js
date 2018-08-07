@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22538"]={"code":"22538","region":"VA","city":"Rappahannock Academy","latitude":38.2079,"longitude":-77.2502}}(window,'GeoPostal','US');

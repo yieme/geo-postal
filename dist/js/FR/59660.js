@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59660"]={"code":"59660","region":"Hauts-de-France","city":"Haverskerque","latitude":50.64089,"longitude":2.54162}}(window,'GeoPostal','FR');

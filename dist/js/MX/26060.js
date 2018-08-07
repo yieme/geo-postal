@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26060"]={"code":"26060","region":"Chiapas","city":"Comitan de Dominguez","latitude":16.25,"longitude":-92.13333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67868"]={"code":"67868","region":"KS","city":"Pierceville","latitude":37.906,"longitude":-100.7523}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["193202"]={"code":"193202","region":"Jammu and Kashmir","city":"Sopur","latitude":34.3,"longitude":74.46667}}(window,'GeoPostal','IN');

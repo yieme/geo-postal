@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38292"]={"code":"38292","region":"Auvergne-Rhone-Alpes","city":"La Verpilliere","latitude":45.63647,"longitude":5.14151}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06758"]={"code":"06758","region":"CT","city":"Lakeside","latitude":41.6754,"longitude":-73.242}}(window,'GeoPostal','US');

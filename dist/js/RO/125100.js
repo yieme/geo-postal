@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["125100"]={"code":"125100","region":"Buzau","city":"Nehoiu","latitude":45.41667,"longitude":26.3}}(window,'GeoPostal','RO');

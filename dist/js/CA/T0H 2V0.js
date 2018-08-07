@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 2V0"]={"code":"T0H 2V0","region":"Alberta","city":"Notikewin","latitude":56.98343,"longitude":-117.63605}}(window,'GeoPostal','CA');

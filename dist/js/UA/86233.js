@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86233"]={"code":"86233","region":"Donetska oblast","city":"Stozhkovskoye","latitude":48.11333,"longitude":38.4925}}(window,'GeoPostal','UA');

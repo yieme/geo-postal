@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51593"]={"code":"51593","region":"IA","city":"Harlan","latitude":41.498,"longitude":-95.3636}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452941"]={"code":"452941","region":"Bashkortostan, Respublika","city":"Agidel'","latitude":55.9077,"longitude":53.9355}}(window,'GeoPostal','RU');

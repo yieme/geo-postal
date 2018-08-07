@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 01"]={"code":"739 01","region":"Moravskoslezsky kraj","city":"Baska","latitude":49.64584,"longitude":18.37233}}(window,'GeoPostal','CZ');

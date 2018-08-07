@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2630"]={"code":"2630","region":"North-West","city":"Wolmaransstad","latitude":-27.1974,"longitude":25.98311}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26002"]={"code":"26002","region":"Andalucia","city":"Rioja","latitude":36.94508,"longitude":-2.46302}}(window,'GeoPostal','ES');

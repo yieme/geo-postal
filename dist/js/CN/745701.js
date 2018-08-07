@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["745701"]={"code":"745701","region":"Gansu","city":"Quzi","latitude":36.29323,"longitude":107.51204}}(window,'GeoPostal','CN');

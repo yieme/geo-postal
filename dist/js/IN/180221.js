@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["180221"]={"code":"180221","region":"Jammu and Kashmir","city":"Riasi","latitude":33.08333,"longitude":74.83333}}(window,'GeoPostal','IN');

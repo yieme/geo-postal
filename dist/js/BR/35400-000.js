@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35400-000"]={"code":"35400-000","region":"Minas Gerais","city":"Ouro Preto","latitude":-20.39484,"longitude":-43.50517}}(window,'GeoPostal','BR');

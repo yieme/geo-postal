@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG19 6HN"]={"code":"RG19 6HN","region":"England","city":"Thatcham","latitude":51.40366,"longitude":-1.26049}}(window,'GeoPostal','GB');

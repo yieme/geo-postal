@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5A 1A1"]={"code":"E5A 1A1","region":"New Brunswick","city":"Lawrence Station","latitude":45.43343,"longitude":-67.1822}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["452607"]={"code":"452607","region":"Bashkortostan, Respublika","city":"Oktyabr'skiy","latitude":54.48147,"longitude":53.47103}}(window,'GeoPostal','RU');

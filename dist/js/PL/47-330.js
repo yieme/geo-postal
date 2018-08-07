@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47-330"]={"code":"47-330","region":"Opolskie","city":"Januszkowice","latitude":50.39189,"longitude":18.1368}}(window,'GeoPostal','PL');

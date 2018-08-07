@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67050"]={"code":"67050","region":"Sindh","city":"Kandiaro","latitude":27.06011,"longitude":68.20909}}(window,'GeoPostal','PK');

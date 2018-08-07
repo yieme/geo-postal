@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["313301"]={"code":"313301","region":"Rajasthan","city":"Nathdwara","latitude":24.93333,"longitude":73.81667}}(window,'GeoPostal','IN');

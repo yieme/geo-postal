@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28760"]={"code":"28760","region":"Madrid, Comunidad de","city":"Tres Cantos","latitude":40.60092,"longitude":-3.70806}}(window,'GeoPostal','ES');

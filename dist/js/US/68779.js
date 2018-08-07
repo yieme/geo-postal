@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68779"]={"code":"68779","region":"NE","city":"Stanton","latitude":41.9076,"longitude":-97.214}}(window,'GeoPostal','US');

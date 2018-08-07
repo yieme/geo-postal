@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6509"]={"code":"6509","region":"Western Australia","city":"Yericoin","latitude":-30.93333,"longitude":116.38333}}(window,'GeoPostal','AU');

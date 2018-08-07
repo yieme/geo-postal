@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P9N 1T8"]={"code":"P9N 1T8","region":"Ontario","city":"Kenora","latitude":49.76663,"longitude":-94.489126}}(window,'GeoPostal','CA');

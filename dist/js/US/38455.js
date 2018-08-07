@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38455"]={"code":"38455","region":"TN","city":"Elkton","latitude":35.0523,"longitude":-86.8886}}(window,'GeoPostal','US');

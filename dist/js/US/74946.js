@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74946"]={"code":"74946","region":"Oklahoma","city":"Moffett","latitude":35.3902,"longitude":-94.4473}}(window,'GeoPostal','US');

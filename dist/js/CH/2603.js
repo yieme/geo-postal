@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2603"]={"code":"2603","region":"Bern","city":"Pery","latitude":47.19398,"longitude":7.24913}}(window,'GeoPostal','CH');

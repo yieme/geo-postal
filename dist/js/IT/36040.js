@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36040"]={"code":"36040","region":"Veneto","city":"Torri di Quartesolo","latitude":45.52499,"longitude":11.6123}}(window,'GeoPostal','IT');

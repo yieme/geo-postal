@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07644"]={"code":"07644","region":"New Jersey","city":"Lodi","latitude":40.878358,"longitude":-74.079614}}(window,'GeoPostal','US');

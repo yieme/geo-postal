@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["535800"]={"code":"535800","region":"Harghita","city":"Vlahita","latitude":46.35,"longitude":25.51667}}(window,'GeoPostal','RO');

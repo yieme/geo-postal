@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58835"]={"code":"58835","region":"North Dakota","city":"Arnegard","latitude":47.807722,"longitude":-103.439258}}(window,'GeoPostal','US');

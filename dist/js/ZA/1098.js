@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1098"]={"code":"1098","region":"Mpumalanga","city":"Hendrina","latitude":-26.15881,"longitude":29.71528}}(window,'GeoPostal','ZA');

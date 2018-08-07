@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-315"]={"code":"72-315","region":"Zachodniopomorskie","city":"Resko","latitude":53.77307,"longitude":15.40607}}(window,'GeoPostal','PL');

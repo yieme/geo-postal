@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26366"]={"code":"26366","region":"Juznobanatski okrug","city":"Velika Greda","latitude":45.24333,"longitude":21.02917}}(window,'GeoPostal','RS');

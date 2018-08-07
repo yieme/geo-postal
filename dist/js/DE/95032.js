@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95032"]={"code":"95032","region":"Bayern","city":"Alsenberg","latitude":50.30182,"longitude":11.92856}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38019"]={"code":"38019","region":"Trentino-Alto Adige","city":"Tuenno","latitude":46.32844,"longitude":11.02306}}(window,'GeoPostal','IT');

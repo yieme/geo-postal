@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56751"]={"code":"56751","region":"Minnesota","city":"Roseau","latitude":48.84609,"longitude":-95.76277}}(window,'GeoPostal','US');

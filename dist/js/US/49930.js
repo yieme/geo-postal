@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49930"]={"code":"49930","region":"Michigan","city":"Hancock","latitude":47.12687,"longitude":-88.58096}}(window,'GeoPostal','US');

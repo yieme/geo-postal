@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2341"]={"code":"2341","region":"New South Wales","city":"Werris Creek","latitude":-31.34908,"longitude":150.6487}}(window,'GeoPostal','AU');

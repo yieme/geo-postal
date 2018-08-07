@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34160"]={"code":"34160","region":"Kronobergs lan","city":"Ljungby","latitude":56.83324,"longitude":13.94082}}(window,'GeoPostal','SE');

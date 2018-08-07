@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94140"]={"code":"94140","region":"Veracruz de Ignacio de la Llave","city":"Xocotla","latitude":19.03333,"longitude":-97.1}}(window,'GeoPostal','MX');

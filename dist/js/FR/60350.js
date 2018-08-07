@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60350"]={"code":"60350","region":"Hauts-de-France","city":"Trosly-Breuil","latitude":49.4,"longitude":2.96667}}(window,'GeoPostal','FR');

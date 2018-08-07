@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0E 1K0"]={"code":"K0E 1K0","region":"Ontario","city":"Iroquois","latitude":44.8501,"longitude":-75.31602}}(window,'GeoPostal','CA');

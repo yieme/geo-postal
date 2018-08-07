@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22955"]={"code":"22955","region":"Schleswig-Holstein","city":"Hoisdorf","latitude":53.65,"longitude":10.31667}}(window,'GeoPostal','DE');

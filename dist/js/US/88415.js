@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88415"]={"code":"88415","region":"New Mexico","city":"Clayton","latitude":36.45169,"longitude":-103.1841}}(window,'GeoPostal','US');

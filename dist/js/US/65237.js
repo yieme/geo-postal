@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65237"]={"code":"65237","region":"MO","city":"Bunceton","latitude":38.7881,"longitude":-92.7994}}(window,'GeoPostal','US');

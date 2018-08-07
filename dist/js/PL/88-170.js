@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88-170"]={"code":"88-170","region":"Kujawsko-pomorskie","city":"Pakosc","latitude":52.80178,"longitude":18.0853}}(window,'GeoPostal','PL');

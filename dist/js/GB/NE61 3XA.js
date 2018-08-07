@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE61 3XA"]={"code":"NE61 3XA","region":"England","city":"Whalton","latitude":55.12699,"longitude":-1.79752}}(window,'GeoPostal','GB');

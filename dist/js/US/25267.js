@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25267"]={"code":"25267","region":"West Virginia","city":"Normantown","latitude":38.891468,"longitude":-80.956957}}(window,'GeoPostal','US');

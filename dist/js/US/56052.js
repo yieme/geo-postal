@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56052"]={"code":"56052","region":"MN","city":"Kilkenny","latitude":44.3133,"longitude":-93.5741}}(window,'GeoPostal','US');

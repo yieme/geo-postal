@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29037"]={"code":"29037","region":"Skane lan","city":"Tollarp","latitude":56.16667,"longitude":14.28333}}(window,'GeoPostal','SE');

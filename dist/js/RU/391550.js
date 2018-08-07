@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391550"]={"code":"391550","region":"Ryazanskaya oblast'","city":"Shatsk","latitude":54.02576,"longitude":41.71191}}(window,'GeoPostal','RU');

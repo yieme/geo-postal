@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83317"]={"code":"83317","region":"Bayern","city":"Teisendorf","latitude":47.84921,"longitude":12.81919}}(window,'GeoPostal','DE');

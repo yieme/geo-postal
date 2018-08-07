@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35575"]={"code":"35575","region":"Alabama","city":"Lynn","latitude":34.052326,"longitude":-87.530627}}(window,'GeoPostal','US');

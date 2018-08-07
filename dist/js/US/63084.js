@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63084"]={"code":"63084","region":"Missouri","city":"Union","latitude":38.4301,"longitude":-91.0012}}(window,'GeoPostal','US');

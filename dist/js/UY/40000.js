@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40000"]={"code":"40000","region":"Rivera","city":"Rivera","latitude":-30.90534,"longitude":-55.55076}}(window,'GeoPostal','UY');

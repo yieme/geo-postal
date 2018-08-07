@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44557"]={"code":"44557","region":"Vastra Gotalands lan","city":"Surte","latitude":57.81667,"longitude":12.01667}}(window,'GeoPostal','SE');

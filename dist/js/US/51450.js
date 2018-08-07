@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51450"]={"code":"51450","region":"Iowa","city":"Lake View","latitude":42.31165,"longitude":-95.05332}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17561"]={"code":"17561","region":"Pcinjski okrug","city":"Radovnica","latitude":42.41556,"longitude":22.22694}}(window,'GeoPostal','RS');

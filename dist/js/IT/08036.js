@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08036"]={"code":"08036","region":"Sardegna","city":"Ortueri","latitude":40.03545,"longitude":8.98713}}(window,'GeoPostal','IT');

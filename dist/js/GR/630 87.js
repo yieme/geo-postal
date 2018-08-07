@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630 87"]={"code":"630 87","region":"Kentriki Makedonia","city":"Portaria","latitude":40.28333,"longitude":23.3}}(window,'GeoPostal','GR');

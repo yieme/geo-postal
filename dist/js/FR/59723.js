@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59723"]={"code":"59723","region":"Hauts-de-France","city":"Denain","latitude":50.3293,"longitude":3.3943}}(window,'GeoPostal','FR');

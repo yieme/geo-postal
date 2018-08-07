@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81642"]={"code":"81642","region":"CO","city":"Meredith","latitude":39.3199,"longitude":-106.6596}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7090"]={"code":"7090","region":"Kwazulu-Natal","city":"Richmond","latitude":-29.87196,"longitude":30.27235}}(window,'GeoPostal','ZA');

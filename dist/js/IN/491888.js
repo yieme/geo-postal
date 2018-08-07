@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["491888"]={"code":"491888","region":"Chhattisgarh","city":"Chhuikhadan","latitude":21.53333,"longitude":80.98333}}(window,'GeoPostal','IN');

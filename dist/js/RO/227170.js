@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["227170"]={"code":"227170","region":"Mehedinti","city":"Dubova","latitude":44.61667,"longitude":22.26667}}(window,'GeoPostal','RO');

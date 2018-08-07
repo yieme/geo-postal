@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4103"]={"code":"4103","region":"Tavus","city":"Archis","latitude":41.16351,"longitude":44.87632}}(window,'GeoPostal','AM');

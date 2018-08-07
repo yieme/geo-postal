@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP24 2TD"]={"code":"IP24 2TD","region":"England","city":"Thetford","latitude":52.41667,"longitude":0.75}}(window,'GeoPostal','GB');

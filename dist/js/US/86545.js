@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86545"]={"code":"86545","region":"AZ","city":"Rock Point","latitude":36.7181,"longitude":-109.6259}}(window,'GeoPostal','US');

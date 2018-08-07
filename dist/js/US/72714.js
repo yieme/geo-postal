@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72714"]={"code":"72714","region":"Arkansas","city":"Bella Vista","latitude":36.48146,"longitude":-94.27326}}(window,'GeoPostal','US');

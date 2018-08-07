@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-340"]={"code":"58-340","region":"Dolnoslaskie","city":"Gluszyca","latitude":50.68743,"longitude":16.37173}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68018"]={"code":"68018","region":"NE","city":"Colon","latitude":41.2883,"longitude":-96.6141}}(window,'GeoPostal','US');

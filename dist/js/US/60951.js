@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60951"]={"code":"60951","region":"IL","city":"Martinton","latitude":40.9052,"longitude":-87.7443}}(window,'GeoPostal','US');

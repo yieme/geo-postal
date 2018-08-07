@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40820"]={"code":"40820","region":"KY","city":"Cranks","latitude":36.7558,"longitude":-83.1838}}(window,'GeoPostal','US');

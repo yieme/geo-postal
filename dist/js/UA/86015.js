@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86015"]={"code":"86015","region":"Donetska oblast","city":"Yasinovataya","latitude":48.1298,"longitude":37.8594}}(window,'GeoPostal','UA');

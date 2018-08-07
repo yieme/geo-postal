@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89515"]={"code":"89515","region":"Zakarpatska oblast","city":"Chop","latitude":48.43198,"longitude":22.20555}}(window,'GeoPostal','UA');

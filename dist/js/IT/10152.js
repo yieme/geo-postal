@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10152"]={"code":"10152","region":"Piemonte","city":"Torino","latitude":45.07049,"longitude":7.68682}}(window,'GeoPostal','IT');

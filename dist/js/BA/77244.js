@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77244"]={"code":"77244","region":"Federacija Bosne i Hercegovine","city":"Otoka","latitude":44.96,"longitude":16.17917}}(window,'GeoPostal','BA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0G 2W0"]={"code":"N0G 2W0","region":"Ontario","city":"Wingham","latitude":43.88793,"longitude":-81.31145}}(window,'GeoPostal','CA');

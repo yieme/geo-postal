@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32700"]={"code":"32700","region":"Occitanie","city":"Lectoure","latitude":43.93464,"longitude":0.62107}}(window,'GeoPostal','FR');

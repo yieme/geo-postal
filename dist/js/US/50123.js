@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50123"]={"code":"50123","region":"Iowa","city":"Humeston","latitude":40.84692,"longitude":-93.50352}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB54 6HS"]={"code":"AB54 6HS","region":"Scotland","city":"Largue","latitude":57.46287,"longitude":-2.60356}}(window,'GeoPostal','GB');

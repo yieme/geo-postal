@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21107"]={"code":"21107","region":"Maryland","city":"Millers","latitude":39.6856,"longitude":-76.8155}}(window,'GeoPostal','US');

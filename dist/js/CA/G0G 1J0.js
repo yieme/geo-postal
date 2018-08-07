@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1J0"]={"code":"G0G 1J0","region":"Quebec","city":"Fermont","latitude":52.799556,"longitude":-67.090686}}(window,'GeoPostal','CA');

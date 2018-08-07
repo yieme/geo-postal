@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86470"]={"code":"86470","region":"Tabasco","city":"Santa Rosalia","latitude":18.06667,"longitude":-93.38333}}(window,'GeoPostal','MX');

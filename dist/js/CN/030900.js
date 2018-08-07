@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["030900"]={"code":"030900","region":"Shanxi","city":"Qixian","latitude":37.3542,"longitude":112.312}}(window,'GeoPostal','CN');

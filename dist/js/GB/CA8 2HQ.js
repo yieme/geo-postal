@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA8 2HQ"]={"code":"CA8 2HQ","region":"England","city":"Lanercost","latitude":54.96673,"longitude":-2.69691}}(window,'GeoPostal','GB');

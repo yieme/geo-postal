@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08242"]={"code":"08242","region":"New Jersey","city":"Rio Grande","latitude":39.01456,"longitude":-74.88156}}(window,'GeoPostal','US');

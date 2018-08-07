@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79041"]={"code":"79041","region":"TX","city":"Hale Center","latitude":34.0669,"longitude":-101.8736}}(window,'GeoPostal','US');

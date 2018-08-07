@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36166"]={"code":"36166","region":"Hessen","city":"Rhina","latitude":50.7634,"longitude":9.68212}}(window,'GeoPostal','DE');

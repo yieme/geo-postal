@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58361"]={"code":"58361","region":"ND","city":"Pekin","latitude":47.7696,"longitude":-98.326}}(window,'GeoPostal','US');

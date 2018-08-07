@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61270"]={"code":"61270","region":"Normandie","city":"Rai","latitude":48.75,"longitude":0.58333}}(window,'GeoPostal','FR');

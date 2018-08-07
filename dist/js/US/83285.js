@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83285"]={"code":"83285","region":"Idaho","city":"Wayan","latitude":42.954638,"longitude":-111.174747}}(window,'GeoPostal','US');

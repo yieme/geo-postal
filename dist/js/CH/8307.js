@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8307"]={"code":"8307","region":"Zurich","city":"Effretikon","latitude":47.42575,"longitude":8.69094}}(window,'GeoPostal','CH');

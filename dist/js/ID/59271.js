@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59271"]={"code":"59271","region":"Jawa Tengah","city":"Ngandangan","latitude":-6.695,"longitude":111.464}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60095"]={"code":"60095","region":"Illinois","city":"Rolling Meadows","latitude":42.0967,"longitude":-88.0111}}(window,'GeoPostal','US');

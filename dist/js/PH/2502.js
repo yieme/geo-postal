@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2502"]={"code":"2502","region":"La Union","city":"Caba","latitude":16.4316,"longitude":120.3446}}(window,'GeoPostal','PH');

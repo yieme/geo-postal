@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77571"]={"code":"77571","region":"Texas","city":"La Porte","latitude":29.656982,"longitude":-95.04607}}(window,'GeoPostal','US');

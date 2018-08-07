@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169040"]={"code":"169040","region":"Komi, Respublika","city":"Aykino","latitude":62.22481,"longitude":49.99222}}(window,'GeoPostal','RU');

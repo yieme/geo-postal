@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16000"]={"code":"16000","region":"Jablanicki okrug","city":"Leskovac","latitude":42.99806,"longitude":21.94611}}(window,'GeoPostal','RS');

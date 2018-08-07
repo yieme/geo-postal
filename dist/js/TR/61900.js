@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61900"]={"code":"61900","region":"Diyarbakir","city":"Silvan","latitude":38.14194,"longitude":41.00806}}(window,'GeoPostal','TR');

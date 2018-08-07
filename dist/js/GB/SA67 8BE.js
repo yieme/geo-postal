@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA67 8BE"]={"code":"SA67 8BE","region":"Wales","city":"Landshipping","latitude":51.76791,"longitude":-4.88123}}(window,'GeoPostal','GB');

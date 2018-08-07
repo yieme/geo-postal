@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67040"]={"code":"67040","region":"Varmlands lan","city":"Amotfors","latitude":59.76667,"longitude":12.36667}}(window,'GeoPostal','SE');

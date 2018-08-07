@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86042"]={"code":"86042","region":"AZ","city":"Polacca","latitude":35.8617,"longitude":-110.3875}}(window,'GeoPostal','US');

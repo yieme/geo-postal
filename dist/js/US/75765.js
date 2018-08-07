@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75765"]={"code":"75765","region":"TX","city":"Hawkins","latitude":32.6439,"longitude":-95.222}}(window,'GeoPostal','US');

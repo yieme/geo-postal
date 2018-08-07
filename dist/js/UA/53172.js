@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53172"]={"code":"53172","region":"Dnipropetrovska oblast","city":"Auly","latitude":48.52708,"longitude":34.49493}}(window,'GeoPostal','UA');

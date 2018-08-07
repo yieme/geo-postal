@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41219"]={"code":"41219","region":"Kentucky","city":"Flatgap","latitude":37.93417,"longitude":-82.8875}}(window,'GeoPostal','US');

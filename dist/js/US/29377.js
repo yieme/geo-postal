@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29377"]={"code":"29377","region":"SC","city":"Startex","latitude":34.9285,"longitude":-82.099}}(window,'GeoPostal','US');

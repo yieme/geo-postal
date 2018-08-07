@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62410"]={"code":"62410","region":"Hauts-de-France","city":"Hulluch","latitude":50.48961,"longitude":2.81232}}(window,'GeoPostal','FR');

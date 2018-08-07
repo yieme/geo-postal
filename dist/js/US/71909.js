@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71909"]={"code":"71909","region":"AR","city":"Hot Springs Village","latitude":34.6484,"longitude":-92.983}}(window,'GeoPostal','US');

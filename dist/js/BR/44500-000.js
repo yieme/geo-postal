@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44500-000"]={"code":"44500-000","region":"Bahia","city":"Castro Alves","latitude":-12.76556,"longitude":-39.42833}}(window,'GeoPostal','BR');

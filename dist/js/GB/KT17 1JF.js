@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KT17 1JF"]={"code":"KT17 1JF","region":"England","city":"Epsom","latitude":51.3305,"longitude":-0.27011}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305500"]={"code":"305500","region":"Timis","city":"Lugoj","latitude":45.68861,"longitude":21.90306}}(window,'GeoPostal','RO');

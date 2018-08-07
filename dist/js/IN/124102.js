@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124102"]={"code":"124102","region":"Haryana","city":"Beri Khas","latitude":28.7,"longitude":76.58333}}(window,'GeoPostal','IN');

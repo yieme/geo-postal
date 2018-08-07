@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59254"]={"code":"59254","region":"Hauts-de-France","city":"Ghyvelde","latitude":51.05275,"longitude":2.52642}}(window,'GeoPostal','FR');

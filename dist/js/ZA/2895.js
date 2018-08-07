@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2895"]={"code":"2895","region":"North-West","city":"Zeerust","latitude":-25.53695,"longitude":26.07512}}(window,'GeoPostal','ZA');

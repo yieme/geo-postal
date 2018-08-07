@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L1N 4A9"]={"code":"L1N 4A9","region":"Ontario","city":"Whitby","latitude":43.881454,"longitude":-78.939764}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23-230"]={"code":"23-230","region":"Lubelskie","city":"Trzydnik Duzy","latitude":50.84887,"longitude":22.13359}}(window,'GeoPostal','PL');

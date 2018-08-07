@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45113"]={"code":"45113","region":"OH","city":"Clarksville","latitude":39.4042,"longitude":-83.9594}}(window,'GeoPostal','US');

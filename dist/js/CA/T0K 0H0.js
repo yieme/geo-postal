@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0K 0H0"]={"code":"T0K 0H0","region":"Alberta","city":"Chokio","latitude":49.59999,"longitude":-113.65189}}(window,'GeoPostal','CA');

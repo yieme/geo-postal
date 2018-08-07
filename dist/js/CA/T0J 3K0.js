@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0J 3K0"]={"code":"T0J 3K0","region":"Alberta","city":"Tilley","latitude":50.45011,"longitude":-111.65177}}(window,'GeoPostal','CA');

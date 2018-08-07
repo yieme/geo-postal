@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44643"]={"code":"44643","region":"OH","city":"Magnolia","latitude":40.6514,"longitude":-81.3076}}(window,'GeoPostal','US');

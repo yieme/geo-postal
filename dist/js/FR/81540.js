@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81540"]={"code":"81540","region":"Occitanie","city":"Soreze","latitude":43.45241,"longitude":2.06799}}(window,'GeoPostal','FR');

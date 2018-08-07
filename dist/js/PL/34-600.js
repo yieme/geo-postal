@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-600"]={"code":"34-600","region":"Malopolskie","city":"Limanowa","latitude":49.70594,"longitude":20.42204}}(window,'GeoPostal','PL');

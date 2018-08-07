@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60561"]={"code":"60561","region":"Illinois","city":"Darien","latitude":41.75198,"longitude":-87.97395}}(window,'GeoPostal','US');

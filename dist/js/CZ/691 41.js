@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691 41"]={"code":"691 41","region":"Jihomoravsky kraj","city":"Breclav","latitude":48.75897,"longitude":16.88203}}(window,'GeoPostal','CZ');

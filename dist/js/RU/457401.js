@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["457401"]={"code":"457401","region":"Chelyabinskaya oblast'","city":"Agapovka","latitude":53.2973,"longitude":59.1348}}(window,'GeoPostal','RU');

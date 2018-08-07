@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235300"]={"code":"235300","region":"Olt","city":"Corabia","latitude":43.78333,"longitude":24.5}}(window,'GeoPostal','RO');

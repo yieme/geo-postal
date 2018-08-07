@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83025"]={"code":"83025","region":"Campania","city":"Montoro Inferiore","latitude":40.82321,"longitude":14.76064}}(window,'GeoPostal','IT');

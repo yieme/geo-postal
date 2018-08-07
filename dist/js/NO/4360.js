@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4360"]={"code":"4360","region":"Rogaland","city":"Varhaug","latitude":58.61471,"longitude":5.64571}}(window,'GeoPostal','NO');

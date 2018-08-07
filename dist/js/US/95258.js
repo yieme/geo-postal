@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95258"]={"code":"95258","region":"CA","city":"Woodbridge","latitude":38.1551,"longitude":-121.3086}}(window,'GeoPostal','US');

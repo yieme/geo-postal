@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49274"]={"code":"49274","region":"Michigan","city":"Reading","latitude":41.83949,"longitude":-84.74801}}(window,'GeoPostal','US');

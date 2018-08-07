@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41-106"]={"code":"41-106","region":"Slaskie","city":"Siemianowice Slaskie","latitude":50.32738,"longitude":19.02901}}(window,'GeoPostal','PL');

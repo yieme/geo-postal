@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0P 1R0"]={"code":"V0P 1R0","region":"British Columbia","city":"Sayward","latitude":50.38293,"longitude":-125.96969}}(window,'GeoPostal','CA');

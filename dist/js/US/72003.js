@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72003"]={"code":"72003","region":"AR","city":"Almyra","latitude":34.4146,"longitude":-91.431}}(window,'GeoPostal','US');

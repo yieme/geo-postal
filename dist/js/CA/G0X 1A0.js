@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0X 1A0"]={"code":"G0X 1A0","region":"Quebec","city":"Batiscan","latitude":46.4947,"longitude":-72.2515}}(window,'GeoPostal','CA');

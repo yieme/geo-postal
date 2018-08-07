@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65238-000"]={"code":"65238-000","region":"Maranhao","city":"Pinheiro","latitude":-2.52139,"longitude":-45.0825}}(window,'GeoPostal','BR');

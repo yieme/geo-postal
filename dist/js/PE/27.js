@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27"]={"code":"27","region":"Lima","city":"San Isidro","latitude":-12.11667,"longitude":-77.05}}(window,'GeoPostal','PE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61565"]={"code":"61565","region":"IL","city":"Sparland","latitude":41.0134,"longitude":-89.4571}}(window,'GeoPostal','US');

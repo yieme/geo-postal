@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38630"]={"code":"38630","region":"Auvergne-Rhone-Alpes","city":"Corbelin","latitude":45.60868,"longitude":5.54448}}(window,'GeoPostal','FR');

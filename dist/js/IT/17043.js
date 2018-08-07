@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17043"]={"code":"17043","region":"Liguria","city":"Carcare","latitude":44.35414,"longitude":8.29205}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17941"]={"code":"17941","region":"PA","city":"Klingerstown","latitude":40.6676,"longitude":-76.6507}}(window,'GeoPostal','US');

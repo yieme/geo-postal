@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91785"]={"code":"91785","region":"CA","city":"Upland","latitude":34.1144,"longitude":-117.6583}}(window,'GeoPostal','US');

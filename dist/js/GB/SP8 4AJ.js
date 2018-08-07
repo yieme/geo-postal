@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP8 4AJ"]={"code":"SP8 4AJ","region":"England","city":"Gillingham","latitude":51.03833,"longitude":-2.27611}}(window,'GeoPostal','GB');

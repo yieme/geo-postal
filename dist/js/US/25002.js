@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25002"]={"code":"25002","region":"WV","city":"Alloy","latitude":38.1376,"longitude":-81.2743}}(window,'GeoPostal','US');

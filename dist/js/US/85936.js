@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85936"]={"code":"85936","region":"Arizona","city":"Saint Johns","latitude":34.50657,"longitude":-109.375778}}(window,'GeoPostal','US');

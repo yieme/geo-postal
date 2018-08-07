@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93720"]={"code":"93720","region":"Veracruz de Ignacio de la Llave","city":"Altotonga","latitude":19.76667,"longitude":-97.23333}}(window,'GeoPostal','MX');

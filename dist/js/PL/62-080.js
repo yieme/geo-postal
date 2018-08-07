@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-080"]={"code":"62-080","region":"Wielkopolskie","city":"Tarnowo Podgorne","latitude":52.46642,"longitude":16.66326}}(window,'GeoPostal','PL');

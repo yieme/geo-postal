@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36960"]={"code":"36960","region":"Guanajuato","city":"Cueramaro","latitude":20.61667,"longitude":-101.71667}}(window,'GeoPostal','MX');

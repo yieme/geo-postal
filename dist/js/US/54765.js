@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54765"]={"code":"54765","region":"WI","city":"Sand Creek","latitude":45.1669,"longitude":-91.6863}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56682"]={"code":"56682","region":"MN","city":"Swift","latitude":48.8533,"longitude":-95.2213}}(window,'GeoPostal','US');

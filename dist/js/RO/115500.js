@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["115500"]={"code":"115500","region":"Arges","city":"Topoloveni","latitude":44.81667,"longitude":25.08333}}(window,'GeoPostal','RO');

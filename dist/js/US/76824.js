@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76824"]={"code":"76824","region":"TX","city":"Bend","latitude":31.1123,"longitude":-98.4821}}(window,'GeoPostal','US');

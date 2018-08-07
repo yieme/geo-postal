@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE12 0QE"]={"code":"PE12 0QE","region":"England","city":"Moulton Chapel","latitude":52.74668,"longitude":-0.08274}}(window,'GeoPostal','GB');

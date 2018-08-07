@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49418"]={"code":"49418","region":"Michigan","city":"Wyoming","latitude":42.91336,"longitude":-85.70531}}(window,'GeoPostal','US');

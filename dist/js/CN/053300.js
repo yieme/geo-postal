@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["053300"]={"code":"053300","region":"Hebei","city":"Fucheng","latitude":37.866667,"longitude":116.15}}(window,'GeoPostal','CN');

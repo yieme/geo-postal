@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["174561"]={"code":"174561","region":"Smolenskaya oblast'","city":"Sychevka","latitude":55.82515,"longitude":34.27362}}(window,'GeoPostal','RU');

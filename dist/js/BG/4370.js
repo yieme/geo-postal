@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4370"]={"code":"4370","region":"Plovdiv","city":"Kalofer","latitude":42.61667,"longitude":24.98333}}(window,'GeoPostal','BG');

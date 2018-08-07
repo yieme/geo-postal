@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86157"]={"code":"86157","region":"Bayern","city":"Augsburg","latitude":48.36667,"longitude":10.88333}}(window,'GeoPostal','DE');

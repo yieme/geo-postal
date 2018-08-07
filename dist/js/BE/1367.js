@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1367"]={"code":"1367","region":"Brabant wallon","city":"Ramillies","latitude":50.63395,"longitude":4.90119}}(window,'GeoPostal','BE');

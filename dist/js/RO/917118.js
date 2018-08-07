@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["917118"]={"code":"917118","region":"Dambovita","city":"Ciocanesti","latitude":44.2,"longitude":27.06667}}(window,'GeoPostal','RO');

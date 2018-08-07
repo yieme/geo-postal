@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36567"]={"code":"36567","region":"AL","city":"Robertsdale","latitude":30.5616,"longitude":-87.6373}}(window,'GeoPostal','US');

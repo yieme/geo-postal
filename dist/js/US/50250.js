@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50250"]={"code":"50250","region":"Iowa","city":"Stuart","latitude":41.50332,"longitude":-94.31857}}(window,'GeoPostal','US');

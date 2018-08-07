@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30131"]={"code":"30131","region":"Khyber Pakhtunkhwa","city":"Dera Ismail Khan","latitude":31.83269,"longitude":70.9024}}(window,'GeoPostal','PK');

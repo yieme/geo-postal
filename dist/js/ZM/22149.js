@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22149"]={"code":"22149","region":"Copperbelt","city":"Kitwe","latitude":-12.79614,"longitude":28.24767}}(window,'GeoPostal','ZM');

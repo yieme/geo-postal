@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37250-000"]={"code":"37250-000","region":"Minas Gerais","city":"Nepomuceno","latitude":-21.23583,"longitude":-45.23583}}(window,'GeoPostal','BR');

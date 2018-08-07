@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32035"]={"code":"32035","region":"Veneto","city":"Santa Giustina","latitude":46.0875,"longitude":12.04278}}(window,'GeoPostal','IT');

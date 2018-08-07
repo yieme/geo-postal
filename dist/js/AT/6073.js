@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6073"]={"code":"6073","region":"Tirol","city":"Lans","latitude":47.23333,"longitude":11.45}}(window,'GeoPostal','AT');

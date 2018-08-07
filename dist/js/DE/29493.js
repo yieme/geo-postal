@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29493"]={"code":"29493","region":"Niedersachsen","city":"Schnackenburg","latitude":53.03729,"longitude":11.56448}}(window,'GeoPostal','DE');

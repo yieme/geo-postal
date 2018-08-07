@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64832"]={"code":"64832","region":"MO","city":"Asbury","latitude":37.2942,"longitude":-94.5655}}(window,'GeoPostal','US');

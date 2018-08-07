@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41580"]={"code":"41580","region":"Andalucia","city":"Casariche","latitude":37.29389,"longitude":-4.75972}}(window,'GeoPostal','ES');

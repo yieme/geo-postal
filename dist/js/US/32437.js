@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32437"]={"code":"32437","region":"FL","city":"Ebro","latitude":30.4352,"longitude":-85.8881}}(window,'GeoPostal','US');

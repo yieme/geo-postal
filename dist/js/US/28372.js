@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28372"]={"code":"28372","region":"North Carolina","city":"Pembroke","latitude":34.681279,"longitude":-79.194664}}(window,'GeoPostal','US');

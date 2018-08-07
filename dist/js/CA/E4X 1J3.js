@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4X 1J3"]={"code":"E4X 1J3","region":"New Brunswick","city":"Loggiecroft","latitude":46.83342,"longitude":-64.93203}}(window,'GeoPostal','CA');

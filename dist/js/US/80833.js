@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80833"]={"code":"80833","region":"CO","city":"Rush","latitude":38.7642,"longitude":-104.0241}}(window,'GeoPostal','US');

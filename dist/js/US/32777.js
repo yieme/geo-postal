@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32777"]={"code":"32777","region":"FL","city":"Tangerine","latitude":28.765,"longitude":-81.6306}}(window,'GeoPostal','US');

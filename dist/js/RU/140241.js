@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140241"]={"code":"140241","region":"Moskovskaya oblast'","city":"Konobeyevo","latitude":55.40776,"longitude":38.66261}}(window,'GeoPostal','RU');

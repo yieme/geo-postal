@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58496"]={"code":"58496","region":"North Dakota","city":"Woodworth","latitude":47.14372,"longitude":-99.302457}}(window,'GeoPostal','US');

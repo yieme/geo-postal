@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91106"]={"code":"91106","region":"California","city":"Paradise","latitude":34.140761,"longitude":-118.12728}}(window,'GeoPostal','US');

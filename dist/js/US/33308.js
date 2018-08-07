@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33308"]={"code":"33308","region":"Florida","city":"Fort Lauderdale","latitude":26.189241,"longitude":-80.109733}}(window,'GeoPostal','US');

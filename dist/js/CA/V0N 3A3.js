@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 3A3"]={"code":"V0N 3A3","region":"British Columbia","city":"Sechelt","latitude":49.486002,"longitude":-123.751162}}(window,'GeoPostal','CA');

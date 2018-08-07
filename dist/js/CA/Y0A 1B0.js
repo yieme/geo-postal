@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y0A 1B0"]={"code":"Y0A 1B0","region":"Yukon","city":"Teslin","latitude":60.16617,"longitude":-132.72433}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56292"]={"code":"56292","region":"Minnesota","city":"Vesta","latitude":44.499446,"longitude":-95.41102}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83520"]={"code":"83520","region":"Pohjois-Karjala","city":"Outokumpu","latitude":62.72685,"longitude":29.01592}}(window,'GeoPostal','FI');

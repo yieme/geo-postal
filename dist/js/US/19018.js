@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19018"]={"code":"19018","region":"PA","city":"Clifton Heights","latitude":39.9218,"longitude":-75.2876}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71452"]={"code":"71452","region":"LA","city":"Melrose","latitude":31.6104,"longitude":-92.9745}}(window,'GeoPostal','US');

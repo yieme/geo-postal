@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10025"]={"code":"10025","region":"Zhytomyrska oblast","city":"Zhytomyr","latitude":50.26487,"longitude":28.67669}}(window,'GeoPostal','UA');

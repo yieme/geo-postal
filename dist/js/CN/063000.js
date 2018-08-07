@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["063000"]={"code":"063000","region":"Hebei","city":"Tangshan","latitude":39.63333,"longitude":118.18333}}(window,'GeoPostal','CN');

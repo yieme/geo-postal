@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["210427"]={"code":"210427","region":"Uttar Pradesh","city":"Kabrai","latitude":25.41667,"longitude":80.01667}}(window,'GeoPostal','IN');

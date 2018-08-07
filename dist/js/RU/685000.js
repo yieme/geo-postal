@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["685000"]={"code":"685000","region":"Magadanskaya oblast'","city":"Magadan","latitude":59.56667,"longitude":150.8}}(window,'GeoPostal','RU');

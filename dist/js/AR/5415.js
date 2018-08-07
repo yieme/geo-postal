@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5415"]={"code":"5415","region":"San Juan","city":"San Martin","latitude":-31.51599,"longitude":-68.35273}}(window,'GeoPostal','AR');

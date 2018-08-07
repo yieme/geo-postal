@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97104"]={"code":"97104","region":"Avtonomna Respublika Krym","city":"Nyzhn'ohirs'kyy","latitude":45.44789,"longitude":34.73839}}(window,'GeoPostal','UA');

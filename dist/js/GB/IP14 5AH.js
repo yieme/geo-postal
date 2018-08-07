@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP14 5AH"]={"code":"IP14 5AH","region":"England","city":"Stowmarket","latitude":52.18893,"longitude":0.99774}}(window,'GeoPostal','GB');

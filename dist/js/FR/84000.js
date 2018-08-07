@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84000"]={"code":"84000","region":"Provence-Alpes-Cote d'Azur","city":"Avignon","latitude":43.94834,"longitude":4.80892}}(window,'GeoPostal','FR');

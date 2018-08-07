@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84054"]={"code":"84054","region":"Utah","city":"North Salt Lake","latitude":40.8382,"longitude":-111.9184}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CT13 0HE"]={"code":"CT13 0HE","region":"England","city":"Eastry","latitude":51.24639,"longitude":1.30776}}(window,'GeoPostal','GB');

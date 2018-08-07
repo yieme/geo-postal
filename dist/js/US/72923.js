@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72923"]={"code":"72923","region":"AR","city":"Barling","latitude":35.333,"longitude":-94.3082}}(window,'GeoPostal','US');

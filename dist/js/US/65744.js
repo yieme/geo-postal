@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65744"]={"code":"65744","region":"MO","city":"Rueter","latitude":36.6314,"longitude":-92.9188}}(window,'GeoPostal','US');

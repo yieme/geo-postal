@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15030"]={"code":"15030","region":"PA","city":"Creighton","latitude":40.5821,"longitude":-79.7818}}(window,'GeoPostal','US');

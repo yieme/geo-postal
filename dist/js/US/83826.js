@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83826"]={"code":"83826","region":"ID","city":"Eastport","latitude":48.9994,"longitude":-116.1813}}(window,'GeoPostal','US');

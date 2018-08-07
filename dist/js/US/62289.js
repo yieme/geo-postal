@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62289"]={"code":"62289","region":"IL","city":"Summerfield","latitude":38.5967,"longitude":-89.7512}}(window,'GeoPostal','US');

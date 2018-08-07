@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["120501"]={"code":"120501","region":"Los Rios","city":"Quevedo","latitude":-1.03333,"longitude":-79.45}}(window,'GeoPostal','EC');

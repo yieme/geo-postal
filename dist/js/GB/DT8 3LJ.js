@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT8 3LJ"]={"code":"DT8 3LJ","region":"England","city":"Burstock","latitude":50.82301,"longitude":-2.8228}}(window,'GeoPostal','GB');

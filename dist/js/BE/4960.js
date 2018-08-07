@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4960"]={"code":"4960","region":"Liege","city":"Malmedy","latitude":50.42686,"longitude":6.02794}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["411 45"]={"code":"411 45","region":"Ustecky kraj","city":"Libesice","latitude":50.56886,"longitude":14.28906}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35096"]={"code":"35096","region":"AL","city":"Lincoln","latitude":33.6059,"longitude":-86.1112}}(window,'GeoPostal','US');

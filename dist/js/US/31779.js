@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31779"]={"code":"31779","region":"GA","city":"Pelham","latitude":31.1272,"longitude":-84.1564}}(window,'GeoPostal','US');

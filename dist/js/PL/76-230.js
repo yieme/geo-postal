@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76-230"]={"code":"76-230","region":"Pomorskie","city":"Potegowo","latitude":54.48285,"longitude":17.4862}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62454"]={"code":"62454","region":"Illinois","city":"Robinson","latitude":39.00576,"longitude":-87.77514}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152240"]={"code":"152240","region":"Yaroslavskaya oblast'","city":"Gavrilov-Yam","latitude":57.30185,"longitude":39.85331}}(window,'GeoPostal','RU');

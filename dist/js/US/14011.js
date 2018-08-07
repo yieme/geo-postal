@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14011"]={"code":"14011","region":"New York","city":"Attica","latitude":42.86423,"longitude":-78.28029}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 3LN"]={"code":"DL8 3LN","region":"England","city":"Appersett","latitude":54.31151,"longitude":-2.21976}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28238"]={"code":"28238","region":"Chihuahua","city":"Anahuac","latitude":28.5,"longitude":-106.75}}(window,'GeoPostal','MX');

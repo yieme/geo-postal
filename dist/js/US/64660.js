@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64660"]={"code":"64660","region":"MO","city":"Mendon","latitude":39.5828,"longitude":-93.0892}}(window,'GeoPostal','US');

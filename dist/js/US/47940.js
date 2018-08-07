@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47940"]={"code":"47940","region":"IN","city":"Darlington","latitude":40.1118,"longitude":-86.7645}}(window,'GeoPostal','US');

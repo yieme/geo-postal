@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53078"]={"code":"53078","region":"WI","city":"Rubicon","latitude":43.3121,"longitude":-88.4528}}(window,'GeoPostal','US');

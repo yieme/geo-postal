@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75686"]={"code":"75686","region":"Texas","city":"Pittsburg","latitude":32.9954,"longitude":-94.96577}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0T 2A0"]={"code":"G0T 2A0","region":"Quebec","city":"Tadoussac","latitude":48.15,"longitude":-69.71667}}(window,'GeoPostal','CA');

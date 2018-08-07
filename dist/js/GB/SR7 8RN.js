@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SR7 8RN"]={"code":"SR7 8RN","region":"England","city":"Cold Hesledon","latitude":54.81294,"longitude":-1.36123}}(window,'GeoPostal','GB');

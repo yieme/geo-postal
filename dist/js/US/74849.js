@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74849"]={"code":"74849","region":"OK","city":"Konawa","latitude":34.9708,"longitude":-96.7343}}(window,'GeoPostal','US');

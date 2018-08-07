@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99322"]={"code":"99322","region":"Washington","city":"Bickleton","latitude":45.963413,"longitude":-120.321435}}(window,'GeoPostal','US');

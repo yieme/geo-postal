@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY16 3LF"]={"code":"SY16 3LF","region":"Wales","city":"Highgate","latitude":52.55,"longitude":-3.31667}}(window,'GeoPostal','GB');

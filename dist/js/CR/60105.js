@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60105"]={"code":"60105","region":"Puntarenas","city":"Paquera","latitude":9.82005,"longitude":-84.93513}}(window,'GeoPostal','CR');

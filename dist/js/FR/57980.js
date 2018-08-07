@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57980"]={"code":"57980","region":"Grand-Est","city":"Diebling","latitude":49.10918,"longitude":6.94034}}(window,'GeoPostal','FR');

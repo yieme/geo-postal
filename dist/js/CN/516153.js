@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516153"]={"code":"516153","region":"Guangdong","city":"Shiba","latitude":23.53011,"longitude":114.57226}}(window,'GeoPostal','CN');

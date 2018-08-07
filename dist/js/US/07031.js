@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07031"]={"code":"07031","region":"New Jersey","city":"North Arlington","latitude":40.78843,"longitude":-74.1332}}(window,'GeoPostal','US');

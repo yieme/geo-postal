@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57271"]={"code":"57271","region":"Nordrhein-Westfalen","city":"Hilchenbach","latitude":50.99687,"longitude":8.11062}}(window,'GeoPostal','DE');

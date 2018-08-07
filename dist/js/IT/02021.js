@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02021"]={"code":"02021","region":"Lazio","city":"Borgorose","latitude":42.18903,"longitude":13.23399}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45617"]={"code":"45617","region":"OH","city":"Bourneville","latitude":39.2804,"longitude":-83.159}}(window,'GeoPostal','US');

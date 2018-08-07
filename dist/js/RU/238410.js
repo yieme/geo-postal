@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["238410"]={"code":"238410","region":"Kaliningradskaya oblast'","city":"Zheleznodorozhnyy","latitude":54.36326,"longitude":21.3057}}(window,'GeoPostal','RU');

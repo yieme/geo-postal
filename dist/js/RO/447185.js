@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["447185"]={"code":"447185","region":"Satu Mare","city":"Mediesu Aurit","latitude":47.78333,"longitude":23.15}}(window,'GeoPostal','RO');

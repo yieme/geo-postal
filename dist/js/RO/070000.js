@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["070000"]={"code":"070000","region":"Ilfov","city":"Buftea","latitude":44.56139,"longitude":25.94889}}(window,'GeoPostal','RO');

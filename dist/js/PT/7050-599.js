@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7050-599"]={"code":"7050-599","region":"Evora","city":"Evora","latitude":38.56667,"longitude":-7.9}}(window,'GeoPostal','PT');

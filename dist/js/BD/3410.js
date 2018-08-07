@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3410"]={"code":"3410","region":"Chittagong","city":"Nabinagar","latitude":23.89167,"longitude":90.97333}}(window,'GeoPostal','BD');

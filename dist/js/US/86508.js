@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86508"]={"code":"86508","region":"AZ","city":"Lupton","latitude":35.3539,"longitude":-109.0537}}(window,'GeoPostal','US');

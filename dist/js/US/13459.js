@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13459"]={"code":"13459","region":"New York","city":"Sharon Springs","latitude":42.79472,"longitude":-74.61583}}(window,'GeoPostal','US');

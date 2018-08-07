@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55282"]={"code":"55282","region":"Yogyakarta","city":"Depok","latitude":-7.7625,"longitude":110.43167}}(window,'GeoPostal','ID');

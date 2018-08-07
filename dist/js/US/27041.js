@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27041"]={"code":"27041","region":"North Carolina","city":"Pilot Mountain","latitude":36.451622,"longitude":-80.491319}}(window,'GeoPostal','US');

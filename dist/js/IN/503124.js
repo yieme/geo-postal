@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["503124"]={"code":"503124","region":"Telangana","city":"Kamareddi","latitude":18.31667,"longitude":78.35}}(window,'GeoPostal','IN');

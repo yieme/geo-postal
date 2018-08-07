@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25054"]={"code":"25054","region":"Lombardia","city":"Marone","latitude":45.73609,"longitude":10.09376}}(window,'GeoPostal','IT');

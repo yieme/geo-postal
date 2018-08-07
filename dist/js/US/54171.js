@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54171"]={"code":"54171","region":"WI","city":"Sobieski","latitude":44.7105,"longitude":-88.1076}}(window,'GeoPostal','US');

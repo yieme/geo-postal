@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4100"]={"code":"4100","region":"Rogaland","city":"Jorpeland","latitude":59.02251,"longitude":6.04078}}(window,'GeoPostal','NO');

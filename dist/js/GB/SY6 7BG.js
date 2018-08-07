@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY6 7BG"]={"code":"SY6 7BG","region":"England","city":"Church Stretton","latitude":52.53778,"longitude":-2.80149}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131456"]={"code":"131456","region":"Manabi","city":"Pedernales","latitude":0.08333,"longitude":-80.05}}(window,'GeoPostal','EC');

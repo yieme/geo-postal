@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907291"]={"code":"907291","region":"Bacau","city":"Nicolae Balcescu","latitude":44.38333,"longitude":28.38333}}(window,'GeoPostal','RO');

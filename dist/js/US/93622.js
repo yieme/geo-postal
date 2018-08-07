@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93622"]={"code":"93622","region":"California","city":"Firebaugh","latitude":36.827836,"longitude":-120.538482}}(window,'GeoPostal','US');

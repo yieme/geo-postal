@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04510"]={"code":"04510","region":"Provence-Alpes-Cote d'Azur","city":"Mallemoisson","latitude":44.04813,"longitude":6.12459}}(window,'GeoPostal','FR');

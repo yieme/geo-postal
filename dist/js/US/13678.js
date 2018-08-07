@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13678"]={"code":"13678","region":"NY","city":"Raymondville","latitude":44.8287,"longitude":-74.9798}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9017"]={"code":"9017","region":"Santa Cruz","city":"Las Heras","latitude":-46.54186,"longitude":-68.93593}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9222"]={"code":"9222","region":"Misamis Oriental","city":"San Martin","latitude":8.56111,"longitude":124.77139}}(window,'GeoPostal','PH');

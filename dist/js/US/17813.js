@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17813"]={"code":"17813","region":"Pennsylvania","city":"Beavertown","latitude":40.75369,"longitude":-77.171613}}(window,'GeoPostal','US');

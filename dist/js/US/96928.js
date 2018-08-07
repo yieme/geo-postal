@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96928"]={"code":"96928","region":"GU","city":"Agat","latitude":13.38,"longitude":144.65}}(window,'GeoPostal','US');

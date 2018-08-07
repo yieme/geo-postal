@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341529"]={"code":"341529","region":"Rajasthan","city":"Kuchaman","latitude":27.15,"longitude":74.85}}(window,'GeoPostal','IN');

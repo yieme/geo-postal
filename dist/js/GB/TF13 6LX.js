@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TF13 6LX"]={"code":"TF13 6LX","region":"England","city":"Much Wenlock","latitude":52.59582,"longitude":-2.55749}}(window,'GeoPostal','GB');

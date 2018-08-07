@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8942"]={"code":"8942","region":"Chatham Islands Territory","city":"Waitangi","latitude":-43.95353,"longitude":-176.55973}}(window,'GeoPostal','NZ');

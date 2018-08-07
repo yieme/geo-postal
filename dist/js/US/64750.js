@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64750"]={"code":"64750","region":"MO","city":"Harwood","latitude":37.953,"longitude":-94.1402}}(window,'GeoPostal','US');

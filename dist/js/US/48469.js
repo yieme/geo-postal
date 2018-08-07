@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48469"]={"code":"48469","region":"MI","city":"Port Sanilac","latitude":43.4329,"longitude":-82.5468}}(window,'GeoPostal','US');

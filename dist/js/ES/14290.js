@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14290"]={"code":"14290","region":"Andalucia","city":"Fuente Obejuna","latitude":38.26667,"longitude":-5.41667}}(window,'GeoPostal','ES');

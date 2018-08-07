@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX37 9ZN"]={"code":"EX37 9ZN","region":"England","city":"Umberleigh","latitude":50.99453,"longitude":-3.9834}}(window,'GeoPostal','GB');

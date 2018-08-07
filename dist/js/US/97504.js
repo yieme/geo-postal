@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97504"]={"code":"97504","region":"Oregon","city":"Medford","latitude":42.336514,"longitude":-122.834124}}(window,'GeoPostal','US');

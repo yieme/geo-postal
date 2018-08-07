@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2134"]={"code":"2134","region":"Santa Fe","city":"Roldan","latitude":-32.89846,"longitude":-60.90681}}(window,'GeoPostal','AR');

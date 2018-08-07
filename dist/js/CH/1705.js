@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1705"]={"code":"1705","region":"Fribourg","city":"Fribourg","latitude":46.80237,"longitude":7.15128}}(window,'GeoPostal','CH');

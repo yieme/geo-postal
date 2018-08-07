@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06417"]={"code":"06417","region":"CT","city":"Deep River","latitude":41.3765,"longitude":-72.4486}}(window,'GeoPostal','US');

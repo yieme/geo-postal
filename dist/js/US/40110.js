@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40110"]={"code":"40110","region":"KY","city":"Clermont","latitude":37.9346,"longitude":-85.6555}}(window,'GeoPostal','US');

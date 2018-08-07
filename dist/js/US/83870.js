@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83870"]={"code":"83870","region":"Idaho","city":"Tensed","latitude":47.18742,"longitude":-116.87622}}(window,'GeoPostal','US');

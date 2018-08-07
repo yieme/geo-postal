@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78461"]={"code":"78461","region":"TX","city":"Crp Christi","latitude":27.79,"longitude":-97.42}}(window,'GeoPostal','US');

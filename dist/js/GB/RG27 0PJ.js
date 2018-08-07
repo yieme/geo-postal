@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG27 0PJ"]={"code":"RG27 0PJ","region":"England","city":"Eversley","latitude":51.35387,"longitude":-0.88888}}(window,'GeoPostal','GB');

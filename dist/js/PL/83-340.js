@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83-340"]={"code":"83-340","region":"Pomorskie","city":"Sierakowice","latitude":54.3461,"longitude":17.89252}}(window,'GeoPostal','PL');

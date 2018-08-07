@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7263"]={"code":"7263","region":"Tasmania","city":"Ringarooma","latitude":-41.24176,"longitude":147.73756}}(window,'GeoPostal','AU');

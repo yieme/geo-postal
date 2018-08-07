@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03170"]={"code":"03170","region":"Valenciana, Comunidad","city":"Rojales","latitude":38.08799,"longitude":-0.72544}}(window,'GeoPostal','ES');

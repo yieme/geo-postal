@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07420"]={"code":"07420","region":"NJ","city":"Haskell","latitude":41.0301,"longitude":-74.2965}}(window,'GeoPostal','US');

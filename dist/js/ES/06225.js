@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06225"]={"code":"06225","region":"Extremadura","city":"Ribera del Fresno","latitude":38.55177,"longitude":-6.23768}}(window,'GeoPostal','ES');

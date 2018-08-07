@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42649"]={"code":"42649","region":"KY","city":"Strunk","latitude":36.6191,"longitude":-84.4308}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["346812"]={"code":"346812","region":"Rostovskaya oblast'","city":"Krym","latitude":47.30267,"longitude":39.51655}}(window,'GeoPostal','RU');

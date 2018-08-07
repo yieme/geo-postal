@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["357859"]={"code":"357859","region":"Chechenskaya Respublika","city":"Nogamirzin-Yurt","latitude":43.65361,"longitude":44.88889}}(window,'GeoPostal','RU');

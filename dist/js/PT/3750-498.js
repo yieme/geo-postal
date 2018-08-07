@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3750-498"]={"code":"3750-498","region":"Aveiro","city":"Agueda","latitude":40.5772,"longitude":-8.44442}}(window,'GeoPostal','PT');

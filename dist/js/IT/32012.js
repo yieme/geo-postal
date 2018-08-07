@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32012"]={"code":"32012","region":"Veneto","city":"Forno di Zoldo","latitude":46.34556,"longitude":12.18639}}(window,'GeoPostal','IT');

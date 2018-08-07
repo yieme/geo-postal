@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58845"]={"code":"58845","region":"North Dakota","city":"Grenora","latitude":48.6024,"longitude":-103.91718}}(window,'GeoPostal','US');

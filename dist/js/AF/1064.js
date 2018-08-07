@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1064"]={"code":"1064","region":"Kabul","city":"Paghman","latitude":34.5875,"longitude":68.95333}}(window,'GeoPostal','AF');

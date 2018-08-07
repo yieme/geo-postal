@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-110"]={"code":"74-110","region":"Zachodniopomorskie","city":"Banie","latitude":53.10031,"longitude":14.66228}}(window,'GeoPostal','PL');

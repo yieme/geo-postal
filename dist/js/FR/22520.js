@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22520"]={"code":"22520","region":"Bretagne","city":"Binic","latitude":48.60416,"longitude":-2.82692}}(window,'GeoPostal','FR');

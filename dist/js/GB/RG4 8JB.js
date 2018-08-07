@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG4 8JB"]={"code":"RG4 8JB","region":"England","city":"Caversham","latitude":51.4682,"longitude":-0.97205}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49450"]={"code":"49450","region":"Pays-de-la-Loire","city":"Villedieu-la-Blouere","latitude":47.14738,"longitude":-1.06286}}(window,'GeoPostal','FR');

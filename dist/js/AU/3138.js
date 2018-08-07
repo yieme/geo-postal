@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3138"]={"code":"3138","region":"Victoria","city":"Croydon","latitude":-37.8,"longitude":145.28333}}(window,'GeoPostal','AU');

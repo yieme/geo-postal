@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27894"]={"code":"27894","region":"North Carolina","city":"Wilson","latitude":35.731769,"longitude":-77.924457}}(window,'GeoPostal','US');

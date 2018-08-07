@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77661"]={"code":"77661","region":"TX","city":"Stowell","latitude":29.7809,"longitude":-94.39}}(window,'GeoPostal','US');

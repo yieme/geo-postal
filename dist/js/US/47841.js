@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47841"]={"code":"47841","region":"Indiana","city":"Clay City","latitude":39.27694,"longitude":-87.11194}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0K 2B0"]={"code":"S0K 2B0","region":"Saskatchewan","city":"Jansen","latitude":51.78335,"longitude":-104.7178}}(window,'GeoPostal','CA');

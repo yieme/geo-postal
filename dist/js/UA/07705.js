@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07705"]={"code":"07705","region":"Kyivska oblast","city":"Yahotyn","latitude":50.27975,"longitude":31.76246}}(window,'GeoPostal','UA');

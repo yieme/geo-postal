@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57799"]={"code":"57799","region":"South Dakota","city":"Spearfish","latitude":44.488404,"longitude":-103.857704}}(window,'GeoPostal','US');

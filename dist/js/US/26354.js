@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26354"]={"code":"26354","region":"WV","city":"Grafton","latitude":39.3414,"longitude":-80.0285}}(window,'GeoPostal','US');

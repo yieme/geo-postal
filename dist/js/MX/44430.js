@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44430"]={"code":"44430","region":"Jalisco","city":"Yahualica","latitude":21.13333,"longitude":-102.85}}(window,'GeoPostal','MX');

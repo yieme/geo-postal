@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94342"]={"code":"94342","region":"Bayern","city":"Grafling","latitude":48.78855,"longitude":12.72311}}(window,'GeoPostal','DE');

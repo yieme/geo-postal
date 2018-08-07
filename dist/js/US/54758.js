@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54758"]={"code":"54758","region":"Wisconsin","city":"Osseo","latitude":44.574392,"longitude":-91.219982}}(window,'GeoPostal','US');

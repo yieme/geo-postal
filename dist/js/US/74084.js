@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74084"]={"code":"74084","region":"OK","city":"Wynona","latitude":36.5462,"longitude":-96.3272}}(window,'GeoPostal','US');

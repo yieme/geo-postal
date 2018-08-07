@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP12 3NZ"]={"code":"IP12 3NZ","region":"England","city":"Butley","latitude":52.10668,"longitude":1.45717}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21509"]={"code":"21509","region":"Sachsen-Anhalt","city":"Glinde","latitude":52.00918,"longitude":11.85081}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57633"]={"code":"57633","region":"South Dakota","city":"Isabel","latitude":45.39389,"longitude":-101.43056}}(window,'GeoPostal','US');

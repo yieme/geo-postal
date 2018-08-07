@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25085"]={"code":"25085","region":"WV","city":"Gauley Bridge","latitude":38.1689,"longitude":-81.196}}(window,'GeoPostal','US');

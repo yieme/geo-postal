@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659560"]={"code":"659560","region":"Altayskiy kray","city":"Bystryy Istok","latitude":52.371,"longitude":84.3873}}(window,'GeoPostal','RU');

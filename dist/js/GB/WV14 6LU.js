@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV14 6LU"]={"code":"WV14 6LU","region":"England","city":"Moseley","latitude":52.44686,"longitude":-1.88819}}(window,'GeoPostal','GB');

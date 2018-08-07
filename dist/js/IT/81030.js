@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81030"]={"code":"81030","region":"Campania","city":"Carinola","latitude":41.18721,"longitude":13.98152}}(window,'GeoPostal','IT');

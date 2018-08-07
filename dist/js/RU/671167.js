@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["671167"]={"code":"671167","region":"Buryatiya, Respublika","city":"Gusinoozersk","latitude":51.28333,"longitude":106.5}}(window,'GeoPostal','RU');

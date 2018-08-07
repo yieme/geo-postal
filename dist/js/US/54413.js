@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54413"]={"code":"54413","region":"WI","city":"Babcock","latitude":44.3031,"longitude":-90.0986}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24085"]={"code":"24085","region":"Campeche","city":"Campeche","latitude":19.85,"longitude":-90.53333}}(window,'GeoPostal','MX');

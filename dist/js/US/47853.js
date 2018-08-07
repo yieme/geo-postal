@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47853"]={"code":"47853","region":"IN","city":"Harmony","latitude":39.5372,"longitude":-87.0729}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18234"]={"code":"18234","region":"PA","city":"Lattimer Mines","latitude":40.9925,"longitude":-75.9626}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["464-742"]={"code":"464-742","region":"Gyeonggi-do","city":"Kwangju","latitude":37.41,"longitude":127.25722}}(window,'GeoPostal','KR');

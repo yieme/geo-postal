@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W14 9DP"]={"code":"W14 9DP","region":"Northern Ireland","city":"Drummond","latitude":54.45,"longitude":-6.73333}}(window,'GeoPostal','GB');

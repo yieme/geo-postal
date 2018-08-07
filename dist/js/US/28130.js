@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28130"]={"code":"28130","region":"NC","city":"Paw Creek","latitude":35.26,"longitude":-80.8042}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241126"]={"code":"241126","region":"Uttar Pradesh","city":"Beniganj","latitude":27.28333,"longitude":80.45}}(window,'GeoPostal','IN');

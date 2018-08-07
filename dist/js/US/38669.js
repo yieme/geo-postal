@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38669"]={"code":"38669","region":"MS","city":"Sherard","latitude":34.1953,"longitude":-90.7335}}(window,'GeoPostal','US');

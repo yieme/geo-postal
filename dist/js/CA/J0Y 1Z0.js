@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 1Z0"]={"code":"J0Y 1Z0","region":"Quebec","city":"Malartic","latitude":48.13348,"longitude":-78.13283}}(window,'GeoPostal','CA');

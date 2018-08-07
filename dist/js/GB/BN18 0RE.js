@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN18 0RE"]={"code":"BN18 0RE","region":"England","city":"Slindon","latitude":50.86627,"longitude":-0.63292}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47647"]={"code":"47647","region":"Nordrhein-Westfalen","city":"Niedereyll","latitude":51.44202,"longitude":6.39027}}(window,'GeoPostal','DE');

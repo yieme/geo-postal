@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11757"]={"code":"11757","region":"New York","city":"Lindenhurst","latitude":40.68677,"longitude":-73.37345}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97475"]={"code":"97475","region":"Bayern","city":"Ziegelanger","latitude":49.99978,"longitude":10.61638}}(window,'GeoPostal','DE');

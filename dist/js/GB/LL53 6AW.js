@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL53 6AW"]={"code":"LL53 6AW","region":"Wales","city":"Morfa Nefyn","latitude":52.93289,"longitude":-4.54943}}(window,'GeoPostal','GB');

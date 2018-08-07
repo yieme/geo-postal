@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2231"]={"code":"2231","region":"Zuid-Holland","city":"Rijnsburg","latitude":52.19,"longitude":4.44167}}(window,'GeoPostal','NL');

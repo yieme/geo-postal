@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN38 6DR"]={"code":"DN38 6DR","region":"England","city":"Melton Ross","latitude":53.58181,"longitude":-0.38556}}(window,'GeoPostal','GB');

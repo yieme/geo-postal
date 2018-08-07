@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23872"]={"code":"23872","region":"Virginia","city":"McKenney","latitude":37.007749,"longitude":-77.725736}}(window,'GeoPostal','US');

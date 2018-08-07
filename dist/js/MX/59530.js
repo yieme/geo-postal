@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59530"]={"code":"59530","region":"Michoacan de Ocampo","city":"Jiquilpan de Juarez","latitude":19.98333,"longitude":-102.71667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2160"]={"code":"2160","region":"Antwerpen","city":"Wommelgem","latitude":51.20452,"longitude":4.5225}}(window,'GeoPostal','BE');

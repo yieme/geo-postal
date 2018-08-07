@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19966"]={"code":"19966","region":"Delaware","city":"Millsboro","latitude":38.60496,"longitude":-75.22326}}(window,'GeoPostal','US');

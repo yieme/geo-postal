@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80860"]={"code":"80860","region":"CO","city":"Victor","latitude":38.71,"longitude":-105.14}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11808"]={"code":"11808","region":"San Pedro de Macoris","city":"San Pedro de Macoris","latitude":18.46156,"longitude":-69.29718}}(window,'GeoPostal','DO');

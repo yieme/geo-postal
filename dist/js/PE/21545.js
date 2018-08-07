@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21545"]={"code":"21545","region":"Puno","city":"Yunguyo","latitude":-16.25,"longitude":-69.08333}}(window,'GeoPostal','PE');

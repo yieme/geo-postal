@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76780"]={"code":"76780","region":"Normandie","city":"Nolleval","latitude":49.4947,"longitude":1.4822}}(window,'GeoPostal','FR');

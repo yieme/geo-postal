@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56174"]={"code":"56174","region":"Minnesota","city":"Storden","latitude":44.038872,"longitude":-95.319201}}(window,'GeoPostal','US');

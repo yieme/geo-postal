@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72006"]={"code":"72006","region":"AR","city":"Augusta","latitude":35.2788,"longitude":-91.3527}}(window,'GeoPostal','US');

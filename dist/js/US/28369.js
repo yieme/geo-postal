@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28369"]={"code":"28369","region":"NC","city":"Orrum","latitude":34.4473,"longitude":-79.031}}(window,'GeoPostal','US');

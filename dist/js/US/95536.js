@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95536"]={"code":"95536","region":"CA","city":"Ferndale","latitude":40.5259,"longitude":-124.2514}}(window,'GeoPostal','US');

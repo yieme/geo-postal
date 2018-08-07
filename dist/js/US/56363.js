@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56363"]={"code":"56363","region":"MN","city":"Pease","latitude":45.6974,"longitude":-93.6465}}(window,'GeoPostal','US');

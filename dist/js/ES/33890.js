@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33890"]={"code":"33890","region":"Asturias, Principado de","city":"Pola de Allande","latitude":43.27307,"longitude":-6.62152}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4A 0A1"]={"code":"G4A 0A1","region":"Quebec","city":"Clermont","latitude":48.91689,"longitude":-79.16634}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61418"]={"code":"61418","region":"IL","city":"Biggsville","latitude":40.8531,"longitude":-90.8561}}(window,'GeoPostal','US');

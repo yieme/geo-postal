@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21672"]={"code":"21672","region":"MD","city":"Toddville","latitude":38.2726,"longitude":-76.0596}}(window,'GeoPostal','US');

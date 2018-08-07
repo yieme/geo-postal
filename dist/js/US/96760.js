@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96760"]={"code":"96760","region":"Hawaii","city":"Kurtistown","latitude":19.60361,"longitude":-155.05722}}(window,'GeoPostal','US');

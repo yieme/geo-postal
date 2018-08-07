@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51012"]={"code":"51012","region":"Iowa","city":"Cherokee","latitude":42.74943,"longitude":-95.55167}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86021"]={"code":"86021","region":"Arizona","city":"Colorado City","latitude":36.988598,"longitude":-112.978493}}(window,'GeoPostal','US');

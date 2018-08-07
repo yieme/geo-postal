@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7406"]={"code":"7406","region":"Khulna","city":"Narail","latitude":23.16667,"longitude":89.5}}(window,'GeoPostal','BD');

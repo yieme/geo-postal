@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303858"]={"code":"303858","region":"Orlovskaya oblast'","city":"Livny","latitude":52.42534,"longitude":37.60689}}(window,'GeoPostal','RU');

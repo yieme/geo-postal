@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69720"]={"code":"69720","region":"Auvergne-Rhone-Alpes","city":"Saint-Laurent-de-Mure","latitude":45.6887,"longitude":5.04656}}(window,'GeoPostal','FR');

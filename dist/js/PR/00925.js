@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00925"]={"code":"00925","region":"Trujillo Alto","city":"Trujillo Alto","latitude":18.35467,"longitude":-66.00739}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38511"]={"code":"38511","region":"Guanajuato","city":"Apaseo el Alto","latitude":20.45,"longitude":-100.61667}}(window,'GeoPostal','MX');

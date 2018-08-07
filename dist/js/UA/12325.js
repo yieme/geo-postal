@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12325"]={"code":"12325","region":"Zhytomyrska oblast","city":"Holovyne","latitude":50.47118,"longitude":28.8253}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27327"]={"code":"27327","region":"Niedersachsen","city":"In der Heide","latitude":52.90661,"longitude":9.04995}}(window,'GeoPostal','DE');

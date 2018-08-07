@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39035"]={"code":"39035","region":"Trentino-Alto Adige","city":"Monguelfo","latitude":46.75861,"longitude":12.11083}}(window,'GeoPostal','IT');

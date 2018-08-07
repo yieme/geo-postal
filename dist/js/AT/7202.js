@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7202"]={"code":"7202","region":"Niederosterreich","city":"Lichtenworth","latitude":47.83333,"longitude":16.28333}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5155-999"]={"code":"5155-999","region":"Guarda","city":"Custoias","latitude":41.1053,"longitude":-7.32097}}(window,'GeoPostal','PT');

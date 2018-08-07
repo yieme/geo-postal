@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84652"]={"code":"84652","region":"Utah","city":"Redmond","latitude":39.003183,"longitude":-111.869914}}(window,'GeoPostal','US');

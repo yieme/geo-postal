@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22560"]={"code":"22560","region":"Bretagne","city":"Pleumeur-Bodou","latitude":48.76667,"longitude":-3.51667}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3806"]={"code":"3806","region":"Victoria","city":"Berwick","latitude":-38.03333,"longitude":145.35}}(window,'GeoPostal','AU');

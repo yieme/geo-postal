@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN16 2SE"]={"code":"DN16 2SE","region":"England","city":"Brumby","latitude":53.56667,"longitude":-0.65}}(window,'GeoPostal','GB');

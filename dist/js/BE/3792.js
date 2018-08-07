@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3792"]={"code":"3792","region":"Limburg","city":"Sint-Pieters-Voeren","latitude":50.73863,"longitude":5.82224}}(window,'GeoPostal','BE');

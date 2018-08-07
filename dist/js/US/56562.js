@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56562"]={"code":"56562","region":"Minnesota","city":"Moorhead","latitude":46.86194,"longitude":-96.76616}}(window,'GeoPostal','US');

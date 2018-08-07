@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3461"]={"code":"3461","region":"Victoria","city":"Yandoit","latitude":-37.2,"longitude":144.1}}(window,'GeoPostal','AU');

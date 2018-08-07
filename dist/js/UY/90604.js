@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90604"]={"code":"90604","region":"Canelones","city":"San Bautista","latitude":-34.43333,"longitude":-55.98333}}(window,'GeoPostal','UY');

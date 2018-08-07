@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13749"]={"code":"13749","region":"NY","city":"Corbettsville","latitude":42.0156,"longitude":-75.7905}}(window,'GeoPostal','US');

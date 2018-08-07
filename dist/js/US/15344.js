@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15344"]={"code":"15344","region":"Pennsylvania","city":"Jefferson","latitude":39.918545,"longitude":-80.056822}}(window,'GeoPostal','US');

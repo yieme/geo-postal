@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LD3 8PD"]={"code":"LD3 8PD","region":"Wales","city":"Llanspyddid","latitude":51.94304,"longitude":-3.43904}}(window,'GeoPostal','GB');

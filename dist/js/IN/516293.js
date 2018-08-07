@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["516293"]={"code":"516293","region":"Andhra Pradesh","city":"Cuddapah","latitude":14.46667,"longitude":78.81667}}(window,'GeoPostal','IN');

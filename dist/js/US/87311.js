@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87311"]={"code":"87311","region":"NM","city":"Church Rock","latitude":35.5339,"longitude":-108.5998}}(window,'GeoPostal','US');

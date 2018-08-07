@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2344"]={"code":"2344","region":"Niederosterreich","city":"Maria Enzersdorf","latitude":48.1,"longitude":16.28333}}(window,'GeoPostal','AT');

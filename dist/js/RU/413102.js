@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413102"]={"code":"413102","region":"Saratovskaya oblast'","city":"Engel's","latitude":51.5,"longitude":46.11667}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44319"]={"code":"44319","region":"Nordrhein-Westfalen","city":"Dortmund","latitude":51.51494,"longitude":7.466}}(window,'GeoPostal','DE');

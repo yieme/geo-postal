@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56231"]={"code":"56231","region":"Minnesota","city":"Danvers","latitude":45.284526,"longitude":-95.751633}}(window,'GeoPostal','US');

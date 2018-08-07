@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28740"]={"code":"28740","region":"North Carolina","city":"Green Mountain","latitude":35.99361,"longitude":-82.25889}}(window,'GeoPostal','US');

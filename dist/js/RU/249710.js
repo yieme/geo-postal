@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["249710"]={"code":"249710","region":"Kaluzhskaya oblast'","city":"Sosenskiy","latitude":54.05899,"longitude":35.96228}}(window,'GeoPostal','RU');

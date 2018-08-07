@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63320"]={"code":"63320","region":"L'Oriental","city":"Berkane","latitude":34.92,"longitude":-2.32}}(window,'GeoPostal','MA');

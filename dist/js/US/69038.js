@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69038"]={"code":"69038","region":"Nebraska","city":"Maywood","latitude":40.52523,"longitude":-100.667065}}(window,'GeoPostal','US');

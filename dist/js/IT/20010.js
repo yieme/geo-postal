@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20010"]={"code":"20010","region":"Lombardia","city":"Cornaredo","latitude":45.49697,"longitude":9.02614}}(window,'GeoPostal','IT');

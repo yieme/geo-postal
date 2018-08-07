@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL59 5UN"]={"code":"LL59 5UN","region":"Wales","city":"Llandegfan","latitude":53.24396,"longitude":-4.15}}(window,'GeoPostal','GB');

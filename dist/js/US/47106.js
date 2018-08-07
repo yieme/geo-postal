@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47106"]={"code":"47106","region":"IN","city":"Borden","latitude":38.4362,"longitude":-85.9215}}(window,'GeoPostal','US');

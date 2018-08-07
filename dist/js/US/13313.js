@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13313"]={"code":"13313","region":"New York","city":"Bridgewater","latitude":42.877663,"longitude":-75.250227}}(window,'GeoPostal','US');

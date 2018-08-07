@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX39 6BP"]={"code":"EX39 6BP","region":"England","city":"Hartland","latitude":50.9938,"longitude":-4.48062}}(window,'GeoPostal','GB');

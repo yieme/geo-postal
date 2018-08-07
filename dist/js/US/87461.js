@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87461"]={"code":"87461","region":"New Mexico","city":"Sanostee","latitude":36.434753,"longitude":-108.872714}}(window,'GeoPostal','US');

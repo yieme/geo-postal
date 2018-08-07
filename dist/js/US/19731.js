@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19731"]={"code":"19731","region":"DE","city":"Port Penn","latitude":39.5129,"longitude":-75.5852}}(window,'GeoPostal','US');

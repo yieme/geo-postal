@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28364"]={"code":"28364","region":"North Carolina","city":"Maxton","latitude":34.738987,"longitude":-79.34054}}(window,'GeoPostal','US');

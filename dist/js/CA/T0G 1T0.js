@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 1T0"]={"code":"T0G 1T0","region":"Alberta","city":"Perryvale","latitude":54.46686,"longitude":-113.38536}}(window,'GeoPostal','CA');

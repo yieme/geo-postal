@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["730 06"]={"code":"730 06","region":"Kriti","city":"Kolimvarion","latitude":35.55,"longitude":23.78333}}(window,'GeoPostal','GR');

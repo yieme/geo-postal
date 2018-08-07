@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37990"]={"code":"37990","region":"TN","city":"The Mail Box","latitude":35.86,"longitude":-84.12}}(window,'GeoPostal','US');

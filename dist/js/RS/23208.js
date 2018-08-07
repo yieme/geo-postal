@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23208"]={"code":"23208","region":"Srednjebanatski okrug","city":"Elemir","latitude":45.44278,"longitude":20.29806}}(window,'GeoPostal','RS');

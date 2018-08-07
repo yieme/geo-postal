@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36548"]={"code":"36548","region":"Alabama","city":"Leroy","latitude":31.515033,"longitude":-87.896178}}(window,'GeoPostal','US');

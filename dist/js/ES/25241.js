@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25241"]={"code":"25241","region":"Catalunya","city":"Golmes","latitude":41.63354,"longitude":0.93125}}(window,'GeoPostal','ES');

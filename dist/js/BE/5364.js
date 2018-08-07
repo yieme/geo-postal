@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5364"]={"code":"5364","region":"Namur","city":"Hamois","latitude":50.3402,"longitude":5.15619}}(window,'GeoPostal','BE');

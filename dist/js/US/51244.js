@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51244"]={"code":"51244","region":"IA","city":"Matlock","latitude":43.2439,"longitude":-95.9353}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28552"]={"code":"28552","region":"NC","city":"Lowland","latitude":35.306,"longitude":-76.5777}}(window,'GeoPostal','US');

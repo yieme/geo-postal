@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42240"]={"code":"42240","region":"Auvergne-Rhone-Alpes","city":"Saint-Paul-en-Cornillon","latitude":45.39647,"longitude":4.22694}}(window,'GeoPostal','FR');

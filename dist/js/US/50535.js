@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50535"]={"code":"50535","region":"Iowa","city":"Early","latitude":42.46194,"longitude":-95.15139}}(window,'GeoPostal','US');

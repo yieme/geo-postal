@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57329"]={"code":"57329","region":"South Dakota","city":"Dante","latitude":43.039411,"longitude":-98.184406}}(window,'GeoPostal','US');

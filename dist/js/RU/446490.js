@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["446490"]={"code":"446490","region":"Samarskaya oblast'","city":"Pokhvistnevo","latitude":53.65237,"longitude":52.12738}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34995"]={"code":"34995","region":"FL","city":"Stuart","latitude":27.1754,"longitude":-80.2415}}(window,'GeoPostal','US');

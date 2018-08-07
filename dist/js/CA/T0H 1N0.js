@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1N0"]={"code":"T0H 1N0","region":"Alberta","city":"Fort Vermilion","latitude":58.39182,"longitude":-116.00704}}(window,'GeoPostal','CA');

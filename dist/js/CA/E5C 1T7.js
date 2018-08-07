@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E5C 1T7"]={"code":"E5C 1T7","region":"New Brunswick","city":"Didgeguash","latitude":45.18252,"longitude":-66.9615}}(window,'GeoPostal','CA');

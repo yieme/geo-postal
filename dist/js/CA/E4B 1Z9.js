@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4B 1Z9"]={"code":"E4B 1Z9","region":"New Brunswick","city":"Princess Park","latitude":45.95014,"longitude":-66.06557}}(window,'GeoPostal','CA');

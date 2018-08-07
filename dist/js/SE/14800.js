@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14800"]={"code":"14800","region":"Stockholms lan","city":"Osmo","latitude":58.98333,"longitude":17.9}}(window,'GeoPostal','SE');

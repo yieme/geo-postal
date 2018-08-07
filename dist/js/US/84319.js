@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84319"]={"code":"84319","region":"Utah","city":"Hyrum","latitude":41.631562,"longitude":-111.837987}}(window,'GeoPostal','US');

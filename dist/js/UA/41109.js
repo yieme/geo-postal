@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41109"]={"code":"41109","region":"Sumska oblast","city":"Shostka","latitude":51.86296,"longitude":33.4698}}(window,'GeoPostal','UA');

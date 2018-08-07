@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["657100"]={"code":"657100","region":"Yunnan","city":"Wenping","latitude":27.19306,"longitude":103.5273}}(window,'GeoPostal','CN');

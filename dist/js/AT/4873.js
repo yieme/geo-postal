@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4873"]={"code":"4873","region":"Oberosterreich","city":"Frankenburg","latitude":48.06844,"longitude":13.49065}}(window,'GeoPostal','AT');

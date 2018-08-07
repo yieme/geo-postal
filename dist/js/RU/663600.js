@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663600"]={"code":"663600","region":"Krasnoyarskiy kray","city":"Kansk","latitude":56.20167,"longitude":95.7175}}(window,'GeoPostal','RU');

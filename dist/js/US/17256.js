@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17256"]={"code":"17256","region":"PA","city":"Shady Grove","latitude":39.7834,"longitude":-77.6749}}(window,'GeoPostal','US');

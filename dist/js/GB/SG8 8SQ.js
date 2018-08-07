@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SG8 8SQ"]={"code":"SG8 8SQ","region":"England","city":"Great Chishall","latitude":52.02974,"longitude":0.07193}}(window,'GeoPostal','GB');

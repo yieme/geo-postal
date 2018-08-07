@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35803"]={"code":"35803","region":"Bretagne","city":"Dinard","latitude":48.63143,"longitude":-2.06144}}(window,'GeoPostal','FR');

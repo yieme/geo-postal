@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13841"]={"code":"13841","region":"NY","city":"Smithville Flats","latitude":42.3989,"longitude":-75.8237}}(window,'GeoPostal','US');

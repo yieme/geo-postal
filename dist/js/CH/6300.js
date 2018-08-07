@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6300"]={"code":"6300","region":"Zug","city":"Zug","latitude":47.17242,"longitude":8.51744}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["827035"]={"code":"827035","region":"Tulcea","city":"Ceamurlia de Jos","latitude":44.73333,"longitude":28.71667}}(window,'GeoPostal','RO');

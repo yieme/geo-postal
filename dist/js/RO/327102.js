@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["327102"]={"code":"327102","region":"Botosani","city":"Paltinis","latitude":45.43333,"longitude":22.15}}(window,'GeoPostal','RO');

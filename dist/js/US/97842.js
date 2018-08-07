@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97842"]={"code":"97842","region":"OR","city":"Imnaha","latitude":45.5137,"longitude":-116.8257}}(window,'GeoPostal','US');

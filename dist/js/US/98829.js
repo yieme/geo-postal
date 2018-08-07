@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98829"]={"code":"98829","region":"Washington","city":"Malott","latitude":48.284033,"longitude":-119.797904}}(window,'GeoPostal','US');

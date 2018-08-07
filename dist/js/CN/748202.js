@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["748202"]={"code":"748202","region":"Gansu","city":"Tianjiahe","latitude":35.06191,"longitude":103.94137}}(window,'GeoPostal','CN');

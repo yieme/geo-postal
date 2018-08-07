@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["757079"]={"code":"757079","region":"Odisha","city":"Patamundai","latitude":20.56667,"longitude":86.56667}}(window,'GeoPostal','IN');

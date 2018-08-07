@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00602"]={"code":"00602","region":"PR","city":"Aguada","latitude":18.38,"longitude":-67.18}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9112"]={"code":"9112","region":"Oost-Vlaanderen","city":"Sint-Niklaas","latitude":51.16509,"longitude":4.1437}}(window,'GeoPostal','BE');

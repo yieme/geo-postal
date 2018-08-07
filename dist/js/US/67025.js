@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67025"]={"code":"67025","region":"KS","city":"Cheney","latitude":37.6353,"longitude":-97.7686}}(window,'GeoPostal','US');

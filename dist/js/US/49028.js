@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49028"]={"code":"49028","region":"Michigan","city":"Bronson","latitude":41.87227,"longitude":-85.1947}}(window,'GeoPostal','US');

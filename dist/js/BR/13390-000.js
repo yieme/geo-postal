@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13390-000"]={"code":"13390-000","region":"Sao Paulo","city":"Rio das Pedras","latitude":-22.84333,"longitude":-47.60611}}(window,'GeoPostal','BR');

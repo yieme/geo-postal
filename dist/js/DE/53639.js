@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53639"]={"code":"53639","region":"Nordrhein-Westfalen","city":"Bellinghausen","latitude":50.70445,"longitude":7.25501}}(window,'GeoPostal','DE');

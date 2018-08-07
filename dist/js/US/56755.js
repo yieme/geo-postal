@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56755"]={"code":"56755","region":"MN","city":"Saint Vincent","latitude":48.9458,"longitude":-97.1703}}(window,'GeoPostal','US');

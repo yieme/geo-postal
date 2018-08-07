@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9748"]={"code":"9748","region":"Free State","city":"Ladybrand","latitude":-29.19448,"longitude":27.45739}}(window,'GeoPostal','ZA');

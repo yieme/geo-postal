@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88041"]={"code":"88041","region":"NM","city":"Hanover","latitude":32.8045,"longitude":-107.9545}}(window,'GeoPostal','US');

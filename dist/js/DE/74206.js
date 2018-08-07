@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74206"]={"code":"74206","region":"Baden-Wurttemberg","city":"Wimpfen am Berg","latitude":49.23333,"longitude":9.15}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42275"]={"code":"42275","region":"KY","city":"Roundhill","latitude":37.256,"longitude":-86.407}}(window,'GeoPostal','US');

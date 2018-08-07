@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["676581"]={"code":"676581","region":"Amurskaya oblast'","city":"Tokur","latitude":53.13333,"longitude":132.9}}(window,'GeoPostal','RU');

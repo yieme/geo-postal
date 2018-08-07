@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["153013"]={"code":"153013","region":"Ivanovskaya oblast'","city":"Ivanovo","latitude":56.99719,"longitude":40.97139}}(window,'GeoPostal','RU');

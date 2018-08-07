@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37059"]={"code":"37059","region":"Veneto","city":"Zevio","latitude":45.37209,"longitude":11.12929}}(window,'GeoPostal','IT');

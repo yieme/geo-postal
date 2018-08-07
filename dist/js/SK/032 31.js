@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["032 31"]={"code":"032 31","region":"Zilinsky kraj","city":"Hybe","latitude":49.04439,"longitude":19.82895}}(window,'GeoPostal','SK');

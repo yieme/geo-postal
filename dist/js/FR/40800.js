@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40800"]={"code":"40800","region":"Nouvelle-Aquitaine","city":"Aire-sur-l'Adour","latitude":43.7,"longitude":-0.26}}(window,'GeoPostal','FR');

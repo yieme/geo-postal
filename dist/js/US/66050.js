@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66050"]={"code":"66050","region":"Kansas","city":"Lecompton","latitude":39.039721,"longitude":-95.399298}}(window,'GeoPostal','US');

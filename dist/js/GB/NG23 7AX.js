@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG23 7AX"]={"code":"NG23 7AX","region":"England","city":"North Clifton","latitude":53.23986,"longitude":-0.76661}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TR2 5SE"]={"code":"TR2 5SE","region":"England","city":"Truro","latitude":50.26526,"longitude":-5.05436}}(window,'GeoPostal','GB');

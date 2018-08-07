@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34477"]={"code":"34477","region":"Occitanie","city":"Perols","latitude":43.56313,"longitude":3.95203}}(window,'GeoPostal','FR');

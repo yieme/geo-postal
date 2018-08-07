@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77457"]={"code":"77457","region":"TX","city":"Matagorda","latitude":28.6908,"longitude":-95.9675}}(window,'GeoPostal','US');

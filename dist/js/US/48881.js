@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48881"]={"code":"48881","region":"MI","city":"Saranac","latitude":42.9357,"longitude":-85.203}}(window,'GeoPostal','US');

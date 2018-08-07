@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71932"]={"code":"71932","region":"Arkansas","city":"Board Camp","latitude":34.55184,"longitude":-94.205491}}(window,'GeoPostal','US');

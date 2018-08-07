@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["727615"]={"code":"727615","region":"Suceava","city":"Volovat","latitude":47.81667,"longitude":25.9}}(window,'GeoPostal','RO');

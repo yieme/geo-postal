@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44221"]={"code":"44221","region":"Ohio","city":"Cuyahoga Falls","latitude":41.13394,"longitude":-81.48456}}(window,'GeoPostal','US');

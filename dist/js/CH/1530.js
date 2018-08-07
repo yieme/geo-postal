@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1530"]={"code":"1530","region":"Vaud","city":"Payerne","latitude":46.82201,"longitude":6.93608}}(window,'GeoPostal','CH');

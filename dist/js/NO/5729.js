@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5729"]={"code":"5729","region":"Hordaland","city":"Mo","latitude":60.81625,"longitude":5.80575}}(window,'GeoPostal','NO');

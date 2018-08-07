@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69750-000"]={"code":"69750-000","region":"Amazonas","city":"Sao Gabriel da Cachoeira","latitude":-0.13028,"longitude":-67.08917}}(window,'GeoPostal','BR');

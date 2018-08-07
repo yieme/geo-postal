@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["242227"]={"code":"242227","region":"Anhui","city":"Menkoutang","latitude":31.01408,"longitude":119.43949}}(window,'GeoPostal','CN');

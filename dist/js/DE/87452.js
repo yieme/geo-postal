@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87452"]={"code":"87452","region":"Bayern","city":"Oberhofen","latitude":47.79259,"longitude":10.16385}}(window,'GeoPostal','DE');

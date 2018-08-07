@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["829119"]={"code":"829119","region":"Jharkhand","city":"Ranchi","latitude":23.35,"longitude":85.33333}}(window,'GeoPostal','IN');

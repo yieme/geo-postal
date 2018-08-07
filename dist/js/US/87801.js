@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87801"]={"code":"87801","region":"New Mexico","city":"Socorro","latitude":34.0584,"longitude":-106.89142}}(window,'GeoPostal','US');

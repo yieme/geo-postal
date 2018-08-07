@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97367"]={"code":"97367","region":"Oregon","city":"Lincoln City","latitude":44.95816,"longitude":-124.01789}}(window,'GeoPostal','US');

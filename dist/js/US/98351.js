@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98351"]={"code":"98351","region":"WA","city":"Longbranch","latitude":47.2007,"longitude":-122.7561}}(window,'GeoPostal','US');

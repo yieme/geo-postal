@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6129"]={"code":"6129","region":"Negros Occidental","city":"Santa Cruz","latitude":10.63376,"longitude":123.0821}}(window,'GeoPostal','PH');

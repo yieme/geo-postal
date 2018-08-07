@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29932"]={"code":"29932","region":"SC","city":"Luray","latitude":32.8138,"longitude":-81.2398}}(window,'GeoPostal','US');

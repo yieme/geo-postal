@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422414"]={"code":"422414","region":"Hunan","city":"Dengyuantai","latitude":26.68806,"longitude":110.54222}}(window,'GeoPostal','CN');

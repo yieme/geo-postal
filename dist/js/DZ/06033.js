@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06033"]={"code":"06033","region":"Bejaia","city":"Feraoun","latitude":36.5604,"longitude":4.85454}}(window,'GeoPostal','DZ');

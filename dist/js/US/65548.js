@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65548"]={"code":"65548","region":"Missouri","city":"Mountain View","latitude":36.99533,"longitude":-91.70376}}(window,'GeoPostal','US');

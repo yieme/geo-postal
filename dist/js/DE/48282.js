@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48282"]={"code":"48282","region":"Nordrhein-Westfalen","city":"Emsdetten","latitude":52.1734,"longitude":7.52781}}(window,'GeoPostal','DE');

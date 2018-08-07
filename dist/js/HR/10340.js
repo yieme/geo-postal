@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10340"]={"code":"10340","region":"Zagrebacka zupanija","city":"Vrbovec","latitude":45.88333,"longitude":16.42167}}(window,'GeoPostal','HR');

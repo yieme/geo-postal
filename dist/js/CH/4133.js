@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4133"]={"code":"4133","region":"Basel-Landschaft","city":"Pratteln","latitude":47.52071,"longitude":7.69356}}(window,'GeoPostal','CH');

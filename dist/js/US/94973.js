@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94973"]={"code":"94973","region":"CA","city":"Woodacre","latitude":38.0069,"longitude":-122.6382}}(window,'GeoPostal','US');

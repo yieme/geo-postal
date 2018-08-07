@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7462"]={"code":"7462","region":"Khulna","city":"Jessore","latitude":23.16869,"longitude":89.21315}}(window,'GeoPostal','BD');

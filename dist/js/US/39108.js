@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39108"]={"code":"39108","region":"Mississippi","city":"McCool","latitude":33.166316,"longitude":-89.330377}}(window,'GeoPostal','US');

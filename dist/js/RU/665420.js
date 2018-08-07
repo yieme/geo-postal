@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665420"]={"code":"665420","region":"Irkutskaya oblast'","city":"Svirsk","latitude":53.08583,"longitude":103.3325}}(window,'GeoPostal','RU');

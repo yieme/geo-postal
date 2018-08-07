@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65735"]={"code":"65735","region":"MO","city":"Quincy","latitude":38.0084,"longitude":-93.4724}}(window,'GeoPostal','US');

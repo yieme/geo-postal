@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56744"]={"code":"56744","region":"Minnesota","city":"Oslo","latitude":48.19583,"longitude":-97.13139}}(window,'GeoPostal','US');

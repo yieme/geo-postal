@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 8PJ"]={"code":"SY10 8PJ","region":"England","city":"Melverley","latitude":52.74405,"longitude":-2.9895}}(window,'GeoPostal','GB');

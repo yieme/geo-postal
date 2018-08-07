@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49-130"]={"code":"49-130","region":"Opolskie","city":"Tulowice","latitude":50.59577,"longitude":17.65323}}(window,'GeoPostal','PL');

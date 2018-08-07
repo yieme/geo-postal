@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68443"]={"code":"68443","region":"NE","city":"Sterling","latitude":40.4637,"longitude":-96.3867}}(window,'GeoPostal','US');

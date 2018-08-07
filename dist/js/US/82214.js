@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82214"]={"code":"82214","region":"Wyoming","city":"Guernsey","latitude":42.26969,"longitude":-104.74163}}(window,'GeoPostal','US');

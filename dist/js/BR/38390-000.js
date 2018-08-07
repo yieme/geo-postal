@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38390-000"]={"code":"38390-000","region":"Minas Gerais","city":"Centralina","latitude":-18.58389,"longitude":-49.19944}}(window,'GeoPostal','BR');

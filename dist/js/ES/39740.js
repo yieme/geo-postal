@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39740"]={"code":"39740","region":"Cantabria","city":"Santona","latitude":43.44386,"longitude":-3.45757}}(window,'GeoPostal','ES');

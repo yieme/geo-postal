@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["613200"]={"code":"613200","region":"Kirovskaya oblast'","city":"Belaya Kholunitsa","latitude":58.84,"longitude":50.85278}}(window,'GeoPostal','RU');

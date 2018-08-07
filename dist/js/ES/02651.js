@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02651"]={"code":"02651","region":"Castilla-La Mancha","city":"Fuente-Alamo","latitude":38.69288,"longitude":-1.43158}}(window,'GeoPostal','ES');

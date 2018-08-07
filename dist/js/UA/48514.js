@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48514"]={"code":"48514","region":"Ternopilska oblast","city":"Belaya","latitude":49.029,"longitude":25.77059}}(window,'GeoPostal','UA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["533701"]={"code":"533701","region":"Guangxi","city":"Debao","latitude":23.38471,"longitude":106.57352}}(window,'GeoPostal','CN');

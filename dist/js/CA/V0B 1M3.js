@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0B 1M3"]={"code":"V0B 1M3","region":"British Columbia","city":"Cokato","latitude":49.46666,"longitude":-115.06872}}(window,'GeoPostal','CA');

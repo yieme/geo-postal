@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57271"]={"code":"57271","region":"SD","city":"Vienna","latitude":44.7362,"longitude":-97.5307}}(window,'GeoPostal','US');

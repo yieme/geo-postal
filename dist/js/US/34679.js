@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34679"]={"code":"34679","region":"FL","city":"Aripeka","latitude":28.4302,"longitude":-82.6616}}(window,'GeoPostal','US');

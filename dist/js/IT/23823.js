@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23823"]={"code":"23823","region":"Lombardia","city":"Colico","latitude":46.13239,"longitude":9.36984}}(window,'GeoPostal','IT');

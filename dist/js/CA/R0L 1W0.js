@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0L 1W0"]={"code":"R0L 1W0","region":"Manitoba","city":"Petlura","latitude":51.06669,"longitude":-101.02338}}(window,'GeoPostal','CA');

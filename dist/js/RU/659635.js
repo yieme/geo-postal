@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659635"]={"code":"659635","region":"Altayskiy kray","city":"Aya","latitude":51.94532,"longitude":85.80168}}(window,'GeoPostal','RU');

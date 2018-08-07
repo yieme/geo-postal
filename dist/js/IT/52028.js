@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52028"]={"code":"52028","region":"Toscana","city":"Terranuova Bracciolini","latitude":43.55215,"longitude":11.58843}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42436"]={"code":"42436","region":"KY","city":"Manitou","latitude":37.4067,"longitude":-87.5639}}(window,'GeoPostal','US');

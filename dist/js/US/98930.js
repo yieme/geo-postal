@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98930"]={"code":"98930","region":"Washington","city":"Grandview","latitude":46.25097,"longitude":-119.9017}}(window,'GeoPostal','US');

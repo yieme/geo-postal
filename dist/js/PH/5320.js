@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5320"]={"code":"5320","region":"Palawan","city":"Agutaya","latitude":11.148,"longitude":120.9417}}(window,'GeoPostal','PH');

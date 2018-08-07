@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11548"]={"code":"11548","region":"New York","city":"Greenvale","latitude":40.81066,"longitude":-73.62846}}(window,'GeoPostal','US');

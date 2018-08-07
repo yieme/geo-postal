@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2650"]={"code":"2650","region":"New South Wales","city":"Wagga Wagga","latitude":-35.12577,"longitude":147.35374}}(window,'GeoPostal','AU');

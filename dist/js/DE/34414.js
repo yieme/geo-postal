@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34414"]={"code":"34414","region":"Nordrhein-Westfalen","city":"Warburg","latitude":51.49011,"longitude":9.14641}}(window,'GeoPostal','DE');

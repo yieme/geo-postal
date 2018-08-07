@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43100"]={"code":"43100","region":"Etela-Pohjanmaa","city":"Saarijarvi","latitude":63.34712,"longitude":23.16526}}(window,'GeoPostal','FI');

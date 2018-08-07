@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0J 1X0"]={"code":"J0J 1X0","region":"Quebec","city":"Sainte-Brigide-d'Iberville","latitude":45.31678,"longitude":-73.06585}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04474"]={"code":"04474","region":"ME","city":"Orrington","latitude":44.7263,"longitude":-68.7876}}(window,'GeoPostal','US');

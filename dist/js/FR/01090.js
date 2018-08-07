@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01090"]={"code":"01090","region":"Auvergne-Rhone-Alpes","city":"Guereins","latitude":46.10628,"longitude":4.77902}}(window,'GeoPostal','FR');

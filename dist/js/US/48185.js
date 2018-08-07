@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48185"]={"code":"48185","region":"Michigan","city":"Westland","latitude":42.3384,"longitude":-83.3966}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137045"]={"code":"137045","region":"Dambovita","city":"Bilciuresti","latitude":44.73333,"longitude":25.8}}(window,'GeoPostal','RO');

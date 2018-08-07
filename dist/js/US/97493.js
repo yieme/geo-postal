@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97493"]={"code":"97493","region":"OR","city":"Westlake","latitude":43.914,"longitude":-124.0334}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3418"]={"code":"3418","region":"Victoria","city":"Dimboola","latitude":-36.45616,"longitude":142.03287}}(window,'GeoPostal','AU');

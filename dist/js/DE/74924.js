@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74924"]={"code":"74924","region":"Baden-Wurttemberg","city":"Neckarbischofsheim","latitude":49.29625,"longitude":8.9638}}(window,'GeoPostal','DE');

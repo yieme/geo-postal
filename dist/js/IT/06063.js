@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06063"]={"code":"06063","region":"Umbria","city":"Magione","latitude":43.14394,"longitude":12.20685}}(window,'GeoPostal','IT');

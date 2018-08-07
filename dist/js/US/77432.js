@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77432"]={"code":"77432","region":"TX","city":"Danevang","latitude":29.0575,"longitude":-96.2075}}(window,'GeoPostal','US');

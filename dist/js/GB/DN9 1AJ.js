@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN9 1AJ"]={"code":"DN9 1AJ","region":"England","city":"Owston Ferry","latitude":53.49407,"longitude":-0.78045}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 45"]={"code":"252 45","region":"Stredocesky kraj","city":"Zvole","latitude":49.93466,"longitude":14.41769}}(window,'GeoPostal','CZ');

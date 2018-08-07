@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63359"]={"code":"63359","region":"Missouri","city":"Middletown","latitude":39.094803,"longitude":-91.36483}}(window,'GeoPostal','US');

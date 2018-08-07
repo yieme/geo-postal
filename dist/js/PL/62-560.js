@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62-560"]={"code":"62-560","region":"Wielkopolskie","city":"Skulsk","latitude":52.482,"longitude":18.33112}}(window,'GeoPostal','PL');

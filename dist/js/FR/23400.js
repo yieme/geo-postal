@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23400"]={"code":"23400","region":"Nouvelle-Aquitaine","city":"Bourganeuf","latitude":45.95268,"longitude":1.7552}}(window,'GeoPostal','FR');

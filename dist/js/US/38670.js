@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38670"]={"code":"38670","region":"MS","city":"Sledge","latitude":34.3823,"longitude":-90.209}}(window,'GeoPostal','US');

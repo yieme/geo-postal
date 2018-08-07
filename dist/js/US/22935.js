@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22935"]={"code":"22935","region":"VA","city":"Dyke","latitude":38.2705,"longitude":-78.5578}}(window,'GeoPostal','US');

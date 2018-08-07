@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74866"]={"code":"74866","region":"OK","city":"Saint Louis","latitude":35.0588,"longitude":-96.8444}}(window,'GeoPostal','US');

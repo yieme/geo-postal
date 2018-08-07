@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67731"]={"code":"67731","region":"Kansas","city":"Bird City","latitude":39.75007,"longitude":-101.532978}}(window,'GeoPostal','US');

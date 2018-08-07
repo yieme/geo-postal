@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01264"]={"code":"01264","region":"MA","city":"Tyringham","latitude":42.22,"longitude":-73.1979}}(window,'GeoPostal','US');

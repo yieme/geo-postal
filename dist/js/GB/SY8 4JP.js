@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 4JP"]={"code":"SY8 4JP","region":"England","city":"Orleton","latitude":52.3,"longitude":-2.75}}(window,'GeoPostal','GB');

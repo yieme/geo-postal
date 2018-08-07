@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0S 1P0"]={"code":"B0S 1P0","region":"Nova Scotia","city":"Middleton","latitude":44.95015,"longitude":-65.0655}}(window,'GeoPostal','CA');

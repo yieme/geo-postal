@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69345"]={"code":"69345","region":"Nebraska","city":"Harrisburg","latitude":41.55636,"longitude":-103.73856}}(window,'GeoPostal','US');

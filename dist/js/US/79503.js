@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79503"]={"code":"79503","region":"TX","city":"Avoca","latitude":32.8832,"longitude":-99.6964}}(window,'GeoPostal','US');

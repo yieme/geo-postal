@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05839"]={"code":"05839","region":"VT","city":"Glover","latitude":44.6747,"longitude":-72.2131}}(window,'GeoPostal','US');

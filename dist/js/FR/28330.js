@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28330"]={"code":"28330","region":"Centre-Val de Loire","city":"La Bazoche-Gouet","latitude":48.13986,"longitude":0.98163}}(window,'GeoPostal','FR');

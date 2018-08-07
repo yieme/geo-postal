@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31570"]={"code":"31570","region":"Occitanie","city":"Lanta","latitude":43.56667,"longitude":1.66667}}(window,'GeoPostal','FR');

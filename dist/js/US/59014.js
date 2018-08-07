@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59014"]={"code":"59014","region":"Montana","city":"Bridger","latitude":45.295211,"longitude":-108.913753}}(window,'GeoPostal','US');

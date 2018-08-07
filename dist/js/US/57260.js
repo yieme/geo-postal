@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57260"]={"code":"57260","region":"South Dakota","city":"Rosholt","latitude":45.878171,"longitude":-96.712755}}(window,'GeoPostal','US');

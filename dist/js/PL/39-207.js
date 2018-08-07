@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39-207"]={"code":"39-207","region":"Podkarpackie","city":"Brzeznica","latitude":50.10065,"longitude":21.48025}}(window,'GeoPostal','PL');

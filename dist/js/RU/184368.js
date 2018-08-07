@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184368"]={"code":"184368","region":"Murmanskaya oblast'","city":"Shonguy","latitude":68.75261,"longitude":33.14595}}(window,'GeoPostal','RU');

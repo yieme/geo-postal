@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11596"]={"code":"11596","region":"NY","city":"Williston Park","latitude":40.7592,"longitude":-73.6449}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42431"]={"code":"42431","region":"Kentucky","city":"Madisonville","latitude":37.333113,"longitude":-87.497319}}(window,'GeoPostal','US');

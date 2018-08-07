@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88414"]={"code":"88414","region":"NM","city":"Capulin","latitude":36.7785,"longitude":-103.9986}}(window,'GeoPostal','US');

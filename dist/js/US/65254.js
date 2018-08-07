@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65254"]={"code":"65254","region":"Missouri","city":"Glasgow","latitude":39.227734,"longitude":-92.841207}}(window,'GeoPostal','US');

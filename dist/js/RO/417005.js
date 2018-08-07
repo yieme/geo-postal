@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417005"]={"code":"417005","region":"Bihor","city":"Abram","latitude":47.31667,"longitude":22.38333}}(window,'GeoPostal','RO');

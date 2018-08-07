@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07650"]={"code":"07650","region":"Ankara","city":"Gudul","latitude":40.21051,"longitude":32.24552}}(window,'GeoPostal','TR');

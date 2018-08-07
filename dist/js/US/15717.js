@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15717"]={"code":"15717","region":"Pennsylvania","city":"Blairsville","latitude":40.439163,"longitude":-79.25008}}(window,'GeoPostal','US');

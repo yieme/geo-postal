@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78021"]={"code":"78021","region":"TX","city":"Fowlerton","latitude":28.4887,"longitude":-98.8518}}(window,'GeoPostal','US');

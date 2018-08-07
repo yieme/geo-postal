@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2624"]={"code":"2624","region":"Cordoba","city":"Arias","latitude":-33.64411,"longitude":-62.40272}}(window,'GeoPostal','AR');

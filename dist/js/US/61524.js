@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61524"]={"code":"61524","region":"IL","city":"Dunfermline","latitude":40.4912,"longitude":-90.0318}}(window,'GeoPostal','US');

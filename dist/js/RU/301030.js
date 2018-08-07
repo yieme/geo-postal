@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["301030"]={"code":"301030","region":"Tul'skaya oblast'","city":"Yasnogorsk","latitude":54.48028,"longitude":37.6975}}(window,'GeoPostal','RU');

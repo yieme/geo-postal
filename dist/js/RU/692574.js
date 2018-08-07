@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692574"]={"code":"692574","region":"Primorskiy kray","city":"Pokrovka","latitude":43.95,"longitude":131.65}}(window,'GeoPostal','RU');

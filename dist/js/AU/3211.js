@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3211"]={"code":"3211","region":"Victoria","city":"Little River","latitude":-37.96667,"longitude":144.5}}(window,'GeoPostal','AU');

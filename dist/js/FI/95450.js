@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95450"]={"code":"95450","region":"Lappi","city":"Tornio","latitude":65.84811,"longitude":24.14662}}(window,'GeoPostal','FI');

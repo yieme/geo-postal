@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR3 5NW"]={"code":"HR3 5NW","region":"Wales","city":"Glasbury","latitude":52.04534,"longitude":-3.20042}}(window,'GeoPostal','GB');

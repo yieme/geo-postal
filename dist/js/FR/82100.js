@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82100"]={"code":"82100","region":"Occitanie","city":"Lafitte","latitude":43.9722,"longitude":1.1203}}(window,'GeoPostal','FR');

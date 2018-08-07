@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9055"]={"code":"9055","region":"Appenzell Ausserrhoden","city":"Buhler","latitude":47.37348,"longitude":9.42507}}(window,'GeoPostal','CH');

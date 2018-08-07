@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56452"]={"code":"56452","region":"Minnesota","city":"Hackensack","latitude":46.92889,"longitude":-94.52167}}(window,'GeoPostal','US');

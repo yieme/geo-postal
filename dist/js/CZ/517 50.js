@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517 50"]={"code":"517 50","region":"Kralovehradecky kraj","city":"Castolovice","latitude":50.1291,"longitude":16.18128}}(window,'GeoPostal','CZ');

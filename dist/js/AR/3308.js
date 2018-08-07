@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3308"]={"code":"3308","region":"Misiones","city":"Candelaria","latitude":-27.4595,"longitude":-55.74536}}(window,'GeoPostal','AR');

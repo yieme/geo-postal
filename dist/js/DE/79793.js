@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79793"]={"code":"79793","region":"Baden-Wurttemberg","city":"Schwerzen","latitude":47.64402,"longitude":8.35773}}(window,'GeoPostal','DE');

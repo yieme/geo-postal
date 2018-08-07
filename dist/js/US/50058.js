@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50058"]={"code":"50058","region":"Iowa","city":"Coon Rapids","latitude":41.87082,"longitude":-94.67748}}(window,'GeoPostal','US');

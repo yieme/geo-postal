@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["547613"]={"code":"547613","region":"Guangxi","city":"Fengcheng","latitude":24.57117,"longitude":107.04243}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05344"]={"code":"05344","region":"Vermont","city":"Marlboro","latitude":42.859444,"longitude":-72.726389}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12910"]={"code":"12910","region":"NY","city":"Altona","latitude":44.8816,"longitude":-73.6408}}(window,'GeoPostal','US');

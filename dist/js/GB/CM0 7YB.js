@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM0 7YB"]={"code":"CM0 7YB","region":"England","city":"Southminster","latitude":51.66228,"longitude":0.82968}}(window,'GeoPostal','GB');

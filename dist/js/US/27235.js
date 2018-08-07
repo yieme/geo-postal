@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27235"]={"code":"27235","region":"North Carolina","city":"Colfax","latitude":36.097373,"longitude":-80.006822}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13839"]={"code":"13839","region":"NY","city":"Sidney Center","latitude":42.2441,"longitude":-75.2871}}(window,'GeoPostal','US');

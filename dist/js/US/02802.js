@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02802"]={"code":"02802","region":"RI","city":"Albion","latitude":41.9512,"longitude":-71.4545}}(window,'GeoPostal','US');

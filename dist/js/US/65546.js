@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65546"]={"code":"65546","region":"MO","city":"Montier","latitude":36.987,"longitude":-91.5754}}(window,'GeoPostal','US');

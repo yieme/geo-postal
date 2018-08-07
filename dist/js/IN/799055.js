@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["799055"]={"code":"799055","region":"Tripura","city":"Ranir Bazar","latitude":23.83333,"longitude":91.36667}}(window,'GeoPostal','IN');

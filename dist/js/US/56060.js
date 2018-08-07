@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56060"]={"code":"56060","region":"Minnesota","city":"Lewisville","latitude":43.923597,"longitude":-94.435403}}(window,'GeoPostal','US');

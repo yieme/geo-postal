@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9951"]={"code":"9951","region":"Tirol","city":"Ainet","latitude":46.86611,"longitude":12.70139}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["543 52"]={"code":"543 52","region":"Kentriki Makedonia","city":"Asvestochori","latitude":40.64125,"longitude":23.02528}}(window,'GeoPostal','GR');

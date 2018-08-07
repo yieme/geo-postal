@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27382"]={"code":"27382","region":"Sumatera Barat","city":"Sirukam","latitude":-0.88711,"longitude":100.7595}}(window,'GeoPostal','ID');

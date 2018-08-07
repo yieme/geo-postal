@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["224300"]={"code":"224300","region":"Jiangsu","city":"Yancheng","latitude":33.38556,"longitude":120.12528}}(window,'GeoPostal','CN');

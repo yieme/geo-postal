@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81426"]={"code":"81426","region":"Colorado","city":"Ophir","latitude":37.861153,"longitude":-107.875153}}(window,'GeoPostal','US');

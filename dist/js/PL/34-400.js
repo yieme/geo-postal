@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34-400"]={"code":"34-400","region":"Malopolskie","city":"Nowy Targ","latitude":49.47783,"longitude":20.03228}}(window,'GeoPostal','PL');

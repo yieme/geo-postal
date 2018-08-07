@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["GU28 9BN"]={"code":"GU28 9BN","region":"England","city":"Lodsworth","latitude":51.00101,"longitude":-0.68081}}(window,'GeoPostal','GB');

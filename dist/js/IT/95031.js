@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95031"]={"code":"95031","region":"Sicilia","city":"Adrano","latitude":37.66175,"longitude":14.83478}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88055"]={"code":"88055","region":"Calabria","city":"Taverna","latitude":39.02179,"longitude":16.5818}}(window,'GeoPostal','IT');

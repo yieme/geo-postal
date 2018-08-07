@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95520-000"]={"code":"95520-000","region":"Rio Grande do Sul","city":"Osorio","latitude":-29.88667,"longitude":-50.26972}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32003"]={"code":"32003","region":"Khmelnytska oblast","city":"Horodok","latitude":49.16374,"longitude":26.58394}}(window,'GeoPostal','UA');

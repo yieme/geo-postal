@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93426"]={"code":"93426","region":"Bayern","city":"Roding","latitude":49.19312,"longitude":12.06791}}(window,'GeoPostal','DE');

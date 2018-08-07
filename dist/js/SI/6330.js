@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6330"]={"code":"6330","region":"Piran","city":"Piran","latitude":45.52778,"longitude":13.57056}}(window,'GeoPostal','SI');

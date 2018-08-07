@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CM8 3PQ"]={"code":"CM8 3PQ","region":"England","city":"Rivenhall","latitude":51.82634,"longitude":0.65244}}(window,'GeoPostal','GB');

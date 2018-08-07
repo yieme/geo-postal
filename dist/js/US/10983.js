@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10983"]={"code":"10983","region":"New York","city":"Tappan","latitude":41.02204,"longitude":-73.94736}}(window,'GeoPostal','US');

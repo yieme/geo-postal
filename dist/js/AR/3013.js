@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3013"]={"code":"3013","region":"Santa Fe","city":"San Carlos Centro","latitude":-31.72864,"longitude":-61.09192}}(window,'GeoPostal','AR');

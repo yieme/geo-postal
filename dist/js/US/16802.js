@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16802"]={"code":"16802","region":"Pennsylvania","city":"University Park","latitude":40.869968,"longitude":-77.833994}}(window,'GeoPostal','US');

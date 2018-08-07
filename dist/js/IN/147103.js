@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["147103"]={"code":"147103","region":"Punjab","city":"Sanaur","latitude":30.3025,"longitude":76.45528}}(window,'GeoPostal','IN');

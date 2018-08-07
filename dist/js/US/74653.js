@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74653"]={"code":"74653","region":"Oklahoma","city":"Tonkawa","latitude":36.681585,"longitude":-97.303322}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59457"]={"code":"59457","region":"Montana","city":"Lewistown","latitude":47.04978,"longitude":-109.4253}}(window,'GeoPostal','US');

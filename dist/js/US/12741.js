@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12741"]={"code":"12741","region":"New York","city":"Hankins","latitude":41.825076,"longitude":-75.097924}}(window,'GeoPostal','US');

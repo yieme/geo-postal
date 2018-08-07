@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29432"]={"code":"29432","region":"South Carolina","city":"Branchville","latitude":33.25127,"longitude":-80.81565}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88812"]={"code":"88812","region":"Tamaulipas","city":"Ciudad Miguel Aleman","latitude":26.35,"longitude":-99.1}}(window,'GeoPostal','MX');

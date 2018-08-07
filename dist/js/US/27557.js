@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27557"]={"code":"27557","region":"North Carolina","city":"Middlesex","latitude":35.78972,"longitude":-78.20333}}(window,'GeoPostal','US');

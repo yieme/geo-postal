@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["221010"]={"code":"221010","region":"Uttar Pradesh","city":"Benares","latitude":25.33333,"longitude":83}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45216"]={"code":"45216","region":"Castilla-La Mancha","city":"Carranque","latitude":40.16976,"longitude":-3.90092}}(window,'GeoPostal','ES');

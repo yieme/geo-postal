@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA2 5RP"]={"code":"BA2 5RP","region":"England","city":"Bath","latitude":51.37795,"longitude":-2.35907}}(window,'GeoPostal','GB');

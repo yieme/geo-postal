@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L-6572"]={"code":"L-6572","region":"Grevenmacher","city":"Echternach","latitude":49.80556,"longitude":6.42222}}(window,'GeoPostal','LU');

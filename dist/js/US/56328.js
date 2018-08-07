@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56328"]={"code":"56328","region":"Minnesota","city":"Flensburg","latitude":45.9507,"longitude":-94.53108}}(window,'GeoPostal','US');

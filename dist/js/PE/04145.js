@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04145"]={"code":"04145","region":"Arequipa","city":"Chivay","latitude":-15.63833,"longitude":-71.60111}}(window,'GeoPostal','PE');

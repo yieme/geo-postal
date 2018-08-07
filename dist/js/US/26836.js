@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26836"]={"code":"26836","region":"West Virginia","city":"Moorefield","latitude":39.06233,"longitude":-78.96947}}(window,'GeoPostal','US');

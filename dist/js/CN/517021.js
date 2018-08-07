@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["517021"]={"code":"517021","region":"Guangdong","city":"Heyuan","latitude":23.73333,"longitude":114.68333}}(window,'GeoPostal','CN');

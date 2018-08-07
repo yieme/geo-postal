@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56216"]={"code":"56216","region":"MN","city":"Blomkest","latitude":44.9501,"longitude":-95.0588}}(window,'GeoPostal','US');

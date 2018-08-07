@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16415"]={"code":"16415","region":"Pennsylvania","city":"Fairview","latitude":42.03145,"longitude":-80.25534}}(window,'GeoPostal','US');

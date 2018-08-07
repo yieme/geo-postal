@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12198"]={"code":"12198","region":"New York","city":"Wynantskill","latitude":42.69675,"longitude":-73.64428}}(window,'GeoPostal','US');

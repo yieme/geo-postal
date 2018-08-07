@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3370"]={"code":"3370","region":"Victoria","city":"Clunes","latitude":-37.29473,"longitude":143.78636}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25213"]={"code":"25213","region":"WV","city":"Winfield","latitude":38.5072,"longitude":-81.89}}(window,'GeoPostal','US');

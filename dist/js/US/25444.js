@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25444"]={"code":"25444","region":"West Virginia","city":"Slanesville","latitude":39.399696,"longitude":-78.507717}}(window,'GeoPostal','US');

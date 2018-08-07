@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 3H0"]={"code":"J0B 3H0","region":"Quebec","city":"Waterville","latitude":45.29955,"longitude":-71.869187}}(window,'GeoPostal','CA');

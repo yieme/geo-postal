@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35751"]={"code":"35751","region":"AL","city":"Hollytree","latitude":34.7955,"longitude":-86.2743}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6210"]={"code":"6210","region":"Sezana","city":"Sezana","latitude":45.70924,"longitude":13.87333}}(window,'GeoPostal','SI');

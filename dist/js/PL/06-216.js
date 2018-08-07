@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-216"]={"code":"06-216","region":"Mazowieckie","city":"Sypniewo","latitude":53.0058,"longitude":21.3073}}(window,'GeoPostal','PL');

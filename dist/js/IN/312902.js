@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312902"]={"code":"312902","region":"Rajasthan","city":"Chittaurgarh","latitude":24.88333,"longitude":74.63333}}(window,'GeoPostal','IN');

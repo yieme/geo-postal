@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86850"]={"code":"86850","region":"Bayern","city":"Aretsried","latitude":48.30983,"longitude":10.65352}}(window,'GeoPostal','DE');

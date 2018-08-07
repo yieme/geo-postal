@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5084"]={"code":"5084","region":"Aargau","city":"Sulz","latitude":47.53602,"longitude":8.09628}}(window,'GeoPostal','CH');

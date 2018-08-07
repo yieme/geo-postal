@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10607"]={"code":"10607","region":"New York","city":"Greenburgh","latitude":41.03288,"longitude":-73.84291}}(window,'GeoPostal','US');

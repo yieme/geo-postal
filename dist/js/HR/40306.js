@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40306"]={"code":"40306","region":"Medimurska zupanija","city":"Trnovec","latitude":46.38583,"longitude":16.31194}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50945"]={"code":"50945","region":"Michoacan de Ocampo","city":"Cacalomacan","latitude":19.25417,"longitude":-99.70722}}(window,'GeoPostal','MX');

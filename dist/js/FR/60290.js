@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60290"]={"code":"60290","region":"Hauts-de-France","city":"Cauffry","latitude":49.31978,"longitude":2.44581}}(window,'GeoPostal','FR');

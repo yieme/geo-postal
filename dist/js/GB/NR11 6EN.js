@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 6EN"]={"code":"NR11 6EN","region":"England","city":"Aylsham","latitude":52.79512,"longitude":1.25178}}(window,'GeoPostal','GB');

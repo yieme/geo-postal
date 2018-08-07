@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62604"]={"code":"62604","region":"Wilayah Persekutuan Putrajaya","city":"Putrajaya","latitude":2.93527,"longitude":101.69112}}(window,'GeoPostal','MY');

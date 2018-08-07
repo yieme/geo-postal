@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3194"]={"code":"3194","region":"Victoria","city":"Mentone","latitude":-37.98333,"longitude":145.06667}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61341"]={"code":"61341","region":"Illinois","city":"Marseilles","latitude":41.329528,"longitude":-88.708491}}(window,'GeoPostal','US');

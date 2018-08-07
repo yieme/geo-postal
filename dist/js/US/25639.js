@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25639"]={"code":"25639","region":"WV","city":"Peach Creek","latitude":37.8752,"longitude":-81.9826}}(window,'GeoPostal','US');

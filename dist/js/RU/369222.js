@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369222"]={"code":"369222","region":"Karachayevo-Cherkesskaya Respublika","city":"Kumysh","latitude":43.88334,"longitude":41.89324}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59413"]={"code":"59413","region":"Hauts-de-France","city":"Coudekerque-Branche","latitude":51.02288,"longitude":2.39359}}(window,'GeoPostal','FR');

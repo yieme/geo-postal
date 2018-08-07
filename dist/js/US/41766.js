@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41766"]={"code":"41766","region":"Kentucky","city":"Thousandsticks","latitude":37.185,"longitude":-83.428889}}(window,'GeoPostal','US');

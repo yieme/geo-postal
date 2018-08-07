@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62533"]={"code":"62533","region":"IL","city":"Farmersville","latitude":39.4401,"longitude":-89.617}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55701"]={"code":"55701","region":"Minnesota","city":"Duluth","latitude":46.78327,"longitude":-92.10658}}(window,'GeoPostal','US');

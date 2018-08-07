@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9031"]={"code":"9031","region":"Oost-Vlaanderen","city":"Gent","latitude":51.05,"longitude":3.71667}}(window,'GeoPostal','BE');

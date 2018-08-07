@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 3NF"]={"code":"HG3 3NF","region":"England","city":"South Stainley","latitude":54.06466,"longitude":-1.53579}}(window,'GeoPostal','GB');

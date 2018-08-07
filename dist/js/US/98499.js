@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98499"]={"code":"98499","region":"Washington","city":"Tacoma","latitude":47.16262,"longitude":-122.510641}}(window,'GeoPostal','US');

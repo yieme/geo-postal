@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59554"]={"code":"59554","region":"Hauts-de-France","city":"Neuville-Saint-Remy","latitude":50.18618,"longitude":3.22404}}(window,'GeoPostal','FR');

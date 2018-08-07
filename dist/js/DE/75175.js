@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75175"]={"code":"75175","region":"Baden-Wurttemberg","city":"Pforzheim","latitude":48.88436,"longitude":8.69892}}(window,'GeoPostal','DE');

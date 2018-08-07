@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08064"]={"code":"08064","region":"NJ","city":"New Lisbon","latitude":39.9582,"longitude":-74.6279}}(window,'GeoPostal','US');

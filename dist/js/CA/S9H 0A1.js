@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S9H 0A1"]={"code":"S9H 0A1","region":"Saskatchewan","city":"Swift Current","latitude":50.28337,"longitude":-107.80135}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79540"]={"code":"79540","region":"Baden-Wurttemberg","city":"Lorrach","latitude":47.61497,"longitude":7.66457}}(window,'GeoPostal','DE');

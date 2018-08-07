@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77444"]={"code":"77444","region":"TX","city":"Guy","latitude":29.3327,"longitude":-95.7702}}(window,'GeoPostal','US');

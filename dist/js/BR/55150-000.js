@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55150-000"]={"code":"55150-000","region":"Pernambuco","city":"Belo Jardim","latitude":-8.33556,"longitude":-36.42417}}(window,'GeoPostal','BR');

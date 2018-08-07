@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92431"]={"code":"92431","region":"Bayern","city":"Neunburg vorm Wald","latitude":49.34782,"longitude":12.38621}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4207"]={"code":"4207","region":"Cerklje na Gorenjskem","city":"Cerklje na Gorenjskem","latitude":46.2542,"longitude":14.4886}}(window,'GeoPostal','SI');

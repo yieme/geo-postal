@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45036"]={"code":"45036","region":"Ohio","city":"Lebanon","latitude":39.447781,"longitude":-84.209957}}(window,'GeoPostal','US');

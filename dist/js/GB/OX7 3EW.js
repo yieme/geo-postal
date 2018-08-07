@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX7 3EW"]={"code":"OX7 3EW","region":"England","city":"Charlbury","latitude":51.8727,"longitude":-1.48247}}(window,'GeoPostal','GB');

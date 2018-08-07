@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA26 9AE"]={"code":"KA26 9AE","region":"Scotland","city":"Girvan","latitude":55.24255,"longitude":-4.85551}}(window,'GeoPostal','GB');

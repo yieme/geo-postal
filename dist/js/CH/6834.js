@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6834"]={"code":"6834","region":"Ticino","city":"Balerna","latitude":45.84882,"longitude":9.01416}}(window,'GeoPostal','CH');

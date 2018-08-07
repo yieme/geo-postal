@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20688"]={"code":"20688","region":"Maryland","city":"Solomons","latitude":38.31846,"longitude":-76.45412}}(window,'GeoPostal','US');

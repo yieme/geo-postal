@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55035"]={"code":"55035","region":"Toscana","city":"Piazza al Serchio","latitude":44.18455,"longitude":10.29689}}(window,'GeoPostal','IT');

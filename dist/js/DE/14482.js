@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14482"]={"code":"14482","region":"Brandenburg","city":"Babelsberg","latitude":52.39322,"longitude":13.0955}}(window,'GeoPostal','DE');

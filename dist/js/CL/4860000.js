@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4860000"]={"code":"4860000","region":"La Araucania","city":"Lautaro","latitude":-38.51667,"longitude":-72.45}}(window,'GeoPostal','CL');

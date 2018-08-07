@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["701 00"]={"code":"701 00","region":"Kriti","city":"Ano Arhanes","latitude":35.23333,"longitude":25.16667}}(window,'GeoPostal','GR');

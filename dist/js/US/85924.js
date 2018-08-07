@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85924"]={"code":"85924","region":"Arizona","city":"Concho","latitude":34.47528,"longitude":-109.60583}}(window,'GeoPostal','US');

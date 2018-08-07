@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-302"]={"code":"66-302","region":"Lubuskie","city":"Miedzyrzecz","latitude":52.44461,"longitude":15.57801}}(window,'GeoPostal','PL');

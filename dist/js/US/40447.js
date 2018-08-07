@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40447"]={"code":"40447","region":"Kentucky","city":"McKee","latitude":37.447116,"longitude":-84.013261}}(window,'GeoPostal','US');

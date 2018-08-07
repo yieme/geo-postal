@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E4K 0A1"]={"code":"E4K 0A1","region":"New Brunswick","city":"Memramcook","latitude":45.97095,"longitude":-64.59206}}(window,'GeoPostal','CA');

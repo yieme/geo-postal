@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39063"]={"code":"39063","region":"Mississippi","city":"Durant","latitude":33.07513,"longitude":-89.85453}}(window,'GeoPostal','US');

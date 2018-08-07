@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16622"]={"code":"16622","region":"PA","city":"Calvin","latitude":40.3367,"longitude":-78.0272}}(window,'GeoPostal','US');

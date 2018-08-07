@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28529"]={"code":"28529","region":"North Carolina","city":"Grantsboro","latitude":35.140005,"longitude":-76.820275}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2170000"]={"code":"2170000","region":"Valparaiso","city":"San Felipe","latitude":-32.75,"longitude":-70.73333}}(window,'GeoPostal','CL');

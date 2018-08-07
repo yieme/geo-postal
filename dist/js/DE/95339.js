@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95339"]={"code":"95339","region":"Bayern","city":"Neuenmarkt","latitude":50.1,"longitude":11.6}}(window,'GeoPostal','DE');

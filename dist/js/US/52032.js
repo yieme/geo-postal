@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52032"]={"code":"52032","region":"Iowa","city":"Bernard","latitude":42.335144,"longitude":-90.836581}}(window,'GeoPostal','US');

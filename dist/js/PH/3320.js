@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3320"]={"code":"3320","region":"Nueva Vizcaya","city":"Belance","latitude":16.18333,"longitude":121.25}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54424"]={"code":"54424","region":"WI","city":"Deerbrook","latitude":45.2368,"longitude":-89.1873}}(window,'GeoPostal','US');

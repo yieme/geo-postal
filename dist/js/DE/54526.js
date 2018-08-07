@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54526"]={"code":"54526","region":"Rheinland-Pfalz","city":"Landscheid","latitude":49.98333,"longitude":6.76667}}(window,'GeoPostal','DE');

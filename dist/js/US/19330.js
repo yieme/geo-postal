@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19330"]={"code":"19330","region":"PA","city":"Cochranville","latitude":39.8757,"longitude":-75.9214}}(window,'GeoPostal','US');

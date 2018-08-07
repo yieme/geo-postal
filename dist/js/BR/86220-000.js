@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86220-000"]={"code":"86220-000","region":"Parana","city":"Assai","latitude":-23.37333,"longitude":-50.84139}}(window,'GeoPostal','BR');

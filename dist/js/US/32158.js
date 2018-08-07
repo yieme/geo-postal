@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32158"]={"code":"32158","region":"FL","city":"Lady Lake","latitude":28.9175,"longitude":-81.9229}}(window,'GeoPostal','US');

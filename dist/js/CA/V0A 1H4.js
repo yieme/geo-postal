@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0A 1H4"]={"code":"V0A 1H4","region":"British Columbia","city":"Campbell Road","latitude":51.195,"longitude":-116.862}}(window,'GeoPostal','CA');

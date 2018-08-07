@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606443"]={"code":"606443","region":"Nizhegorodskaya oblast'","city":"Bor","latitude":56.35808,"longitude":44.07477}}(window,'GeoPostal','RU');

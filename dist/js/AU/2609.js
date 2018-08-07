@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2609"]={"code":"2609","region":"Australian Capital Territory","city":"Fyshwick","latitude":-35.33333,"longitude":149.16667}}(window,'GeoPostal','AU');

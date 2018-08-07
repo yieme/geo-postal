@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65456"]={"code":"65456","region":"MO","city":"Davisville","latitude":37.787,"longitude":-91.2116}}(window,'GeoPostal','US');

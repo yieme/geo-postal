@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63067"]={"code":"63067","region":"Marche","city":"Cossignano","latitude":42.98425,"longitude":13.68999}}(window,'GeoPostal','IT');

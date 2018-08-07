@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["124306"]={"code":"124306","region":"Haryana","city":"Gohana","latitude":29.13333,"longitude":76.7}}(window,'GeoPostal','IN');

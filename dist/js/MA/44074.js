@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44074"]={"code":"44074","region":"Souss-Massa-Draa","city":"Taznakht","latitude":30.57836,"longitude":-7.20341}}(window,'GeoPostal','MA');

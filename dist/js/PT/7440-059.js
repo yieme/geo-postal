@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7440-059"]={"code":"7440-059","region":"Portalegre","city":"Alter do Chao","latitude":39.19741,"longitude":-7.65893}}(window,'GeoPostal','PT');

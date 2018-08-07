@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45220"]={"code":"45220","region":"Centre-Val de Loire","city":"Saint-Germain-des-Pres","latitude":47.95384,"longitude":2.84846}}(window,'GeoPostal','FR');

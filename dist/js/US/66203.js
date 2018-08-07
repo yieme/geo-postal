@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66203"]={"code":"66203","region":"Kansas","city":"Shawnee","latitude":39.04167,"longitude":-94.72024}}(window,'GeoPostal','US');

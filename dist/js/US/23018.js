@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23018"]={"code":"23018","region":"VA","city":"Bena","latitude":37.271,"longitude":-76.4555}}(window,'GeoPostal','US');

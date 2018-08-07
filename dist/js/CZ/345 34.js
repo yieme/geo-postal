@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["345 34"]={"code":"345 34","region":"Plzensky kraj","city":"Klenci pod Cerchovem","latitude":49.43484,"longitude":12.81473}}(window,'GeoPostal','CZ');

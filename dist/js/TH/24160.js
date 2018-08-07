@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24160"]={"code":"24160","region":"Chachoengsao","city":"Sanam Chai Khet","latitude":13.65864,"longitude":101.43906}}(window,'GeoPostal','TH');

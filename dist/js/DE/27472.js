@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27472"]={"code":"27472","region":"Niedersachsen","city":"Cuxhaven","latitude":53.87176,"longitude":8.69087}}(window,'GeoPostal','DE');

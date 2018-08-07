@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53190"]={"code":"53190","region":"Wisconsin","city":"Whitewater","latitude":42.81902,"longitude":-88.728059}}(window,'GeoPostal','US');

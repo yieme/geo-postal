@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17150"]={"code":"17150","region":"Nouvelle-Aquitaine","city":"Mirambeau","latitude":45.3731,"longitude":-0.57067}}(window,'GeoPostal','FR');

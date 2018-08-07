@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73437"]={"code":"73437","region":"OK","city":"Graham","latitude":34.3762,"longitude":-97.4255}}(window,'GeoPostal','US');

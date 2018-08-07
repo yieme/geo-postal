@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84032"]={"code":"84032","region":"Utah","city":"Heber","latitude":40.5069,"longitude":-111.41324}}(window,'GeoPostal','US');

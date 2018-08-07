@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR6 9UP"]={"code":"HR6 9UP","region":"England","city":"Wigmore","latitude":52.31667,"longitude":-2.85}}(window,'GeoPostal','GB');

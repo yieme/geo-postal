@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6516"]={"code":"6516","region":"Western Australia","city":"Jurien Bay","latitude":-30.30591,"longitude":115.03825}}(window,'GeoPostal','AU');

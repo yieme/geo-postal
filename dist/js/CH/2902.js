@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2902"]={"code":"2902","region":"Jura","city":"Fontenais","latitude":47.40478,"longitude":7.08191}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62539"]={"code":"62539","region":"IL","city":"Illiopolis","latitude":39.8499,"longitude":-89.2513}}(window,'GeoPostal','US');

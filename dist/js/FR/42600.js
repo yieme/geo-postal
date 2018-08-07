@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42600"]={"code":"42600","region":"Auvergne-Rhone-Alpes","city":"Savigneux","latitude":45.6167,"longitude":4.0833}}(window,'GeoPostal','FR');

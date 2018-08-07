@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33-389"]={"code":"33-389","region":"Malopolskie","city":"Olszana","latitude":49.56748,"longitude":20.52126}}(window,'GeoPostal','PL');

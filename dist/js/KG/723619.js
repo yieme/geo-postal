@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["723619"]={"code":"723619","region":"Osh","city":"Uzkend","latitude":40.77091,"longitude":73.30183}}(window,'GeoPostal','KG');

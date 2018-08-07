@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP13 9DX"]={"code":"IP13 9DX","region":"England","city":"Framlingham","latitude":52.22117,"longitude":1.34205}}(window,'GeoPostal','GB');

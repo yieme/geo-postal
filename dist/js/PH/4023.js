@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4023"]={"code":"4023","region":"Laguna","city":"San Pedro","latitude":14.3595,"longitude":121.0473}}(window,'GeoPostal','PH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["416216"]={"code":"416216","region":"Maharashtra","city":"Kolhapur","latitude":16.7,"longitude":74.21667}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18570-000"]={"code":"18570-000","region":"Sao Paulo","city":"Conchas","latitude":-23.01528,"longitude":-48.01056}}(window,'GeoPostal','BR');

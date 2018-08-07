@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57467"]={"code":"57467","region":"Jawa Tengah","city":"Trucuk","latitude":-7.71833,"longitude":110.65889}}(window,'GeoPostal','ID');

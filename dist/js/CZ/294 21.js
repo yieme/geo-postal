@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["294 21"]={"code":"294 21","region":"Stredocesky kraj","city":"Bela pod Bezdezem","latitude":50.50121,"longitude":14.80418}}(window,'GeoPostal','CZ');

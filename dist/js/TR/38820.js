@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38820"]={"code":"38820","region":"Mardin","city":"Mazidagi","latitude":37.4775,"longitude":40.48806}}(window,'GeoPostal','TR');

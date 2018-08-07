@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75019"]={"code":"75019","region":"Texas","city":"Coppell","latitude":32.9659,"longitude":-96.9864}}(window,'GeoPostal','US');

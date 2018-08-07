@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6065"]={"code":"6065","region":"More og Romsdal","city":"Ulsteinvik","latitude":62.34317,"longitude":5.84869}}(window,'GeoPostal','NO');

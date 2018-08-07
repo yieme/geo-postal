@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26142"]={"code":"26142","region":"WV","city":"Davisville","latitude":39.2126,"longitude":-81.4799}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["662066"]={"code":"662066","region":"Krasnoyarskiy kray","city":"Bogotol","latitude":56.20778,"longitude":89.53417}}(window,'GeoPostal','RU');

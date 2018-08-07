@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA34 4XD"]={"code":"PA34 4XD","region":"Scotland","city":"Kilmelfort","latitude":56.26667,"longitude":-5.48333}}(window,'GeoPostal','GB');

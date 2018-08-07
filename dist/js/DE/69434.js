@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69434"]={"code":"69434","region":"Hessen","city":"Hirschhorn","latitude":49.44566,"longitude":8.89594}}(window,'GeoPostal','DE');

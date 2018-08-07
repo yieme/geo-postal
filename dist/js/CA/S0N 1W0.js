@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0N 1W0"]={"code":"S0N 1W0","region":"Saskatchewan","city":"Pambrun","latitude":49.93336,"longitude":-107.45132}}(window,'GeoPostal','CA');

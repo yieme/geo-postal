@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28581"]={"code":"28581","region":"NC","city":"Stacy","latitude":34.8412,"longitude":-76.4289}}(window,'GeoPostal','US');

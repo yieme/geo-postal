@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88220"]={"code":"88220","region":"Federacija Bosne i Hercegovine","city":"Siroki Brijeg","latitude":43.38333,"longitude":17.59278}}(window,'GeoPostal','BA');

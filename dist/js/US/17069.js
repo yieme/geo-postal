@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17069"]={"code":"17069","region":"PA","city":"New Buffalo","latitude":40.4543,"longitude":-76.9697}}(window,'GeoPostal','US');

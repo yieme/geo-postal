@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48807"]={"code":"48807","region":"MI","city":"Bannister","latitude":43.1615,"longitude":-84.3597}}(window,'GeoPostal','US');

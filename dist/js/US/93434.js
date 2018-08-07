@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93434"]={"code":"93434","region":"CA","city":"Guadalupe","latitude":34.96,"longitude":-120.5703}}(window,'GeoPostal','US');

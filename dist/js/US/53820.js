@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53820"]={"code":"53820","region":"Wisconsin","city":"Potosi","latitude":42.697559,"longitude":-90.707549}}(window,'GeoPostal','US');

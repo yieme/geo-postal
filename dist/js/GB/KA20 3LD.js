@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA20 3LD"]={"code":"KA20 3LD","region":"Scotland","city":"Ardeer Square","latitude":55.63333,"longitude":-4.75}}(window,'GeoPostal','GB');

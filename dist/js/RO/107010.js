@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107010"]={"code":"107010","region":"Prahova","city":"Albesti-Paleologu","latitude":44.95,"longitude":26.21667}}(window,'GeoPostal','RO');

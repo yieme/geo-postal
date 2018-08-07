@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["L9Y 0R7"]={"code":"L9Y 0R7","region":"Ontario","city":"McMurchy Settlement","latitude":44.4779,"longitude":-80.28078}}(window,'GeoPostal','CA');

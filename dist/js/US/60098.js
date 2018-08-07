@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60098"]={"code":"60098","region":"Illinois","city":"Woodstock","latitude":42.320447,"longitude":-88.447191}}(window,'GeoPostal','US');

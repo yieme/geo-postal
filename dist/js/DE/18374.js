@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18374"]={"code":"18374","region":"Mecklenburg-Vorpommern","city":"Zingst","latitude":54.43333,"longitude":12.68333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73556"]={"code":"73556","region":"OK","city":"Martha","latitude":34.7253,"longitude":-99.387}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72021"]={"code":"72021","region":"Puglia","city":"Francavilla Fontana","latitude":40.53063,"longitude":17.58521}}(window,'GeoPostal','IT');

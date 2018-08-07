@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65035"]={"code":"65035","region":"Missouri","city":"Freeburg","latitude":38.33652,"longitude":-91.92822}}(window,'GeoPostal','US');

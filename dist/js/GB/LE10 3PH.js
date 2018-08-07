@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE10 3PH"]={"code":"LE10 3PH","region":"England","city":"Sharnford","latitude":52.52122,"longitude":-1.29474}}(window,'GeoPostal','GB');

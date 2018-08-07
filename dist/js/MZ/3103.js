@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3103"]={"code":"3103","region":"Nampula","city":"Mutuali","latitude":-14.87056,"longitude":37.00444}}(window,'GeoPostal','MZ');

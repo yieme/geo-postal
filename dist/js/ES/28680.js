@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28680"]={"code":"28680","region":"Madrid, Comunidad de","city":"San Martin de Valdeiglesias","latitude":40.36185,"longitude":-4.39831}}(window,'GeoPostal','ES');

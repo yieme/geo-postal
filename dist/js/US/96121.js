@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96121"]={"code":"96121","region":"CA","city":"Milford","latitude":40.1828,"longitude":-120.3895}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39025"]={"code":"39025","region":"Trentino-Alto Adige","city":"Naturno","latitude":46.64872,"longitude":11.00507}}(window,'GeoPostal','IT');

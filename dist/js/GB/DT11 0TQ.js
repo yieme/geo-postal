@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 0TQ"]={"code":"DT11 0TQ","region":"England","city":"Shillingstone","latitude":50.89567,"longitude":-2.24495}}(window,'GeoPostal','GB');

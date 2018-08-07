@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26950-000"]={"code":"26950-000","region":"Rio de Janeiro","city":"Paty do Alferes","latitude":-22.42861,"longitude":-43.41861}}(window,'GeoPostal','BR');

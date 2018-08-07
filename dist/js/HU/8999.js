@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8999"]={"code":"8999","region":"Zala","city":"Zalalovo","latitude":46.84802,"longitude":16.5875}}(window,'GeoPostal','HU');

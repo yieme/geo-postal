@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26104"]={"code":"26104","region":"WV","city":"Parkersburg","latitude":39.2804,"longitude":-81.4936}}(window,'GeoPostal','US');

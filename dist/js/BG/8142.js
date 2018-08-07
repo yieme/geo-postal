@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8142"]={"code":"8142","region":"Burgas","city":"Chernomorets","latitude":42.44589,"longitude":27.63834}}(window,'GeoPostal','BG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6203"]={"code":"6203","region":"La Pampa","city":"Embajador Martini","latitude":-35.38633,"longitude":-64.28092}}(window,'GeoPostal','AR');

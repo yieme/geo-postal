@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["739 94"]={"code":"739 94","region":"Moravskoslezsky kraj","city":"Vendryne","latitude":49.66662,"longitude":18.71307}}(window,'GeoPostal','CZ');

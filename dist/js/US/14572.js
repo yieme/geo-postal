@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14572"]={"code":"14572","region":"New York","city":"Wayland","latitude":42.56784,"longitude":-77.58971}}(window,'GeoPostal','US');

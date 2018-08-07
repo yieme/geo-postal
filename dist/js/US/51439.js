@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51439"]={"code":"51439","region":"Iowa","city":"Charter Oak","latitude":42.06778,"longitude":-95.58944}}(window,'GeoPostal','US');

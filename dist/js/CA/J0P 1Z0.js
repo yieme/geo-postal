@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0P 1Z0"]={"code":"J0P 1Z0","region":"Quebec","city":"Saint-Zotique","latitude":45.25009,"longitude":-74.24924}}(window,'GeoPostal','CA');

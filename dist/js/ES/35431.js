@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35431"]={"code":"35431","region":"Canarias","city":"Firgas","latitude":28.10711,"longitude":-15.56299}}(window,'GeoPostal','ES');

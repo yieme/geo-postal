@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64659"]={"code":"64659","region":"Missouri","city":"Meadville","latitude":39.78667,"longitude":-93.30278}}(window,'GeoPostal','US');

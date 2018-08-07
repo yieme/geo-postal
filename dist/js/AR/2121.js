@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2121"]={"code":"2121","region":"Santa Fe","city":"Perez","latitude":-32.99835,"longitude":-60.76791}}(window,'GeoPostal','AR');

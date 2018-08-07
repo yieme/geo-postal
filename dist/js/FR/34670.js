@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34670"]={"code":"34670","region":"Occitanie","city":"Baillargues","latitude":43.66267,"longitude":4.01681}}(window,'GeoPostal','FR');

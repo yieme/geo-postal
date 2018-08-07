@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 1EB"]={"code":"SA43 1EB","region":"Wales","city":"Cardigan","latitude":52.08473,"longitude":-4.65906}}(window,'GeoPostal','GB');

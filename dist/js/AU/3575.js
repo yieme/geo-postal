@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3575"]={"code":"3575","region":"Victoria","city":"Mincha","latitude":-36.01667,"longitude":144.08333}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22430"]={"code":"22430","region":"Bretagne","city":"Erquy","latitude":48.63186,"longitude":-2.4628}}(window,'GeoPostal','FR');

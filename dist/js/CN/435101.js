@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["435101"]={"code":"435101","region":"Hubei","city":"Daye","latitude":30.08333,"longitude":114.95}}(window,'GeoPostal','CN');

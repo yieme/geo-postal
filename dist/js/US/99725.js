@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99725"]={"code":"99725","region":"AK","city":"Ester","latitude":64.871,"longitude":-148.0949}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54410"]={"code":"54410","region":"Etela-Karjala","city":"Ylamaa","latitude":60.8,"longitude":28}}(window,'GeoPostal','FI');

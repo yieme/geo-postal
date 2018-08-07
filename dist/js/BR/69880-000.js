@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69880-000"]={"code":"69880-000","region":"Amazonas","city":"Envira","latitude":-7.3,"longitude":-70.21667}}(window,'GeoPostal','BR');

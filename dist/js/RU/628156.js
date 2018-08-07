@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["628156"]={"code":"628156","region":"Khanty-Mansiyskiy avtonomnyy okrug","city":"Khulimsunt","latitude":62.86333,"longitude":61.64361}}(window,'GeoPostal','RU');

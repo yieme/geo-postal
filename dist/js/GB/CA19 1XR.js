@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA19 1XR"]={"code":"CA19 1XR","region":"England","city":"Drigg","latitude":54.37761,"longitude":-3.44282}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96827"]={"code":"96827","region":"HI","city":"Hon","latitude":21.31,"longitude":-157.86}}(window,'GeoPostal','US');

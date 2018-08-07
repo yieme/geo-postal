@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1200"]={"code":"1200","region":"Kasserine","city":"Kasserine","latitude":35.16758,"longitude":8.83651}}(window,'GeoPostal','TN');

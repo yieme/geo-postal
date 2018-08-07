@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84300-000"]={"code":"84300-000","region":"Parana","city":"Tibagi","latitude":-24.50944,"longitude":-50.41361}}(window,'GeoPostal','BR');

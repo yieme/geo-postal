@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8407"]={"code":"8407","region":"Neuquen","city":"Villa La Angostura","latitude":-40.76173,"longitude":-71.64631}}(window,'GeoPostal','AR');

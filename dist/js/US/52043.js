@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52043"]={"code":"52043","region":"Iowa","city":"Elkader","latitude":42.85387,"longitude":-91.40542}}(window,'GeoPostal','US');

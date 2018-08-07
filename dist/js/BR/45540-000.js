@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45540-000"]={"code":"45540-000","region":"Bahia","city":"Ubata","latitude":-14.21389,"longitude":-39.52278}}(window,'GeoPostal','BR');

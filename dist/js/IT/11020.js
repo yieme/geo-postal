@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11020"]={"code":"11020","region":"Valle d'Aosta","city":"Ayas","latitude":45.81506,"longitude":7.68911}}(window,'GeoPostal','IT');

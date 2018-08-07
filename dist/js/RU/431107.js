@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431107"]={"code":"431107","region":"Ryazanskaya oblast'","city":"Lesnoy","latitude":54.2125,"longitude":40.4713}}(window,'GeoPostal','RU');

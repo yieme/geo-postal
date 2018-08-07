@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1X0"]={"code":"J0K 1X0","region":"Quebec","city":"Saint-Barthelemy","latitude":46.18336,"longitude":-73.13244}}(window,'GeoPostal','CA');

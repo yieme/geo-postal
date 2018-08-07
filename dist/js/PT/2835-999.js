@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2835-999"]={"code":"2835-999","region":"Setubal","city":"Barreiro","latitude":38.66314,"longitude":-9.0724}}(window,'GeoPostal','PT');

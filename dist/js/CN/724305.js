@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724305"]={"code":"724305","region":"Shaanxi","city":"Xiantaiba","latitude":33.3934,"longitude":106.3685}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28643"]={"code":"28643","region":"North Carolina","city":"Lansing","latitude":36.49,"longitude":-81.51}}(window,'GeoPostal','US');

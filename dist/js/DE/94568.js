@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94568"]={"code":"94568","region":"Bayern","city":"Sankt Oswald","latitude":48.8926,"longitude":13.42598}}(window,'GeoPostal','DE');

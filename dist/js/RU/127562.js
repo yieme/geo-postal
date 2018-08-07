@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["127562"]={"code":"127562","region":"Moskovskaya oblast'","city":"Podol'sk","latitude":55.42418,"longitude":37.55472}}(window,'GeoPostal','RU');

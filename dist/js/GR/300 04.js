@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["300 04"]={"code":"300 04","region":"Ionia Nisia","city":"Lefkada","latitude":38.8275,"longitude":20.70194}}(window,'GeoPostal','GR');

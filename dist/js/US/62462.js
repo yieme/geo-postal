@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62462"]={"code":"62462","region":"IL","city":"Sigel","latitude":39.2176,"longitude":-88.4803}}(window,'GeoPostal','US');

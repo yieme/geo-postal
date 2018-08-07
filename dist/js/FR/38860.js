@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38860"]={"code":"38860","region":"Auvergne-Rhone-Alpes","city":"Mont-de-Lans","latitude":45.03626,"longitude":6.13141}}(window,'GeoPostal','FR');

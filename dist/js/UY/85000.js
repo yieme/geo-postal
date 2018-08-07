@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85000"]={"code":"85000","region":"Flores","city":"Trinidad","latitude":-33.53889,"longitude":-56.88861}}(window,'GeoPostal','UY');

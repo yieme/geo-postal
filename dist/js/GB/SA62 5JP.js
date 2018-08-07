@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA62 5JP"]={"code":"SA62 5JP","region":"Wales","city":"Croes-goch","latitude":51.92889,"longitude":-5.15833}}(window,'GeoPostal','GB');

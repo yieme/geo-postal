@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3940"]={"code":"3940","region":"Waikato","city":"Otorohanga","latitude":-38.18333,"longitude":175.2}}(window,'GeoPostal','NZ');

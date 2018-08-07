@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["332418"]={"code":"332418","region":"Jiangxi","city":"Zhajin","latitude":29.00961,"longitude":114.23597}}(window,'GeoPostal','CN');

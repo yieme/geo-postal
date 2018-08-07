@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15562"]={"code":"15562","region":"Brandenburg","city":"Rudersdorf","latitude":52.46927,"longitude":13.78631}}(window,'GeoPostal','DE');

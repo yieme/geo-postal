@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["483504"]={"code":"483504","region":"Madhya Pradesh","city":"Patan","latitude":23.3,"longitude":79.7}}(window,'GeoPostal','IN');

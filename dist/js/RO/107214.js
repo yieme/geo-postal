@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107214"]={"code":"107214","region":"Galati","city":"Draganesti","latitude":44.81667,"longitude":26.3}}(window,'GeoPostal','RO');

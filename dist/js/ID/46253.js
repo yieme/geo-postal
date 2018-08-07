@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46253"]={"code":"46253","region":"Jawa Barat","city":"Winduraja","latitude":-7.1773,"longitude":108.3638}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636620"]={"code":"636620","region":"Tomskaya oblast'","city":"Kedrovyy","latitude":57.51972,"longitude":79.51556}}(window,'GeoPostal','RU');

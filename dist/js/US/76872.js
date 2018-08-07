@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76872"]={"code":"76872","region":"TX","city":"Rochelle","latitude":31.3,"longitude":-99.1572}}(window,'GeoPostal','US');

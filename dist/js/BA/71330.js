@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71330"]={"code":"71330","region":"Federacija Bosne i Hercegovine","city":"Vares","latitude":44.16444,"longitude":18.32833}}(window,'GeoPostal','BA');

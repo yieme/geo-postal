@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA43 2EN"]={"code":"SA43 2EN","region":"Wales","city":"Aberporth","latitude":52.13248,"longitude":-4.54173}}(window,'GeoPostal','GB');

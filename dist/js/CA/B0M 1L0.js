@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1L0"]={"code":"B0M 1L0","region":"Nova Scotia","city":"Great Village","latitude":45.41685,"longitude":-63.5987}}(window,'GeoPostal','CA');

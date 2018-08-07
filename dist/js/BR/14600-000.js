@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14600-000"]={"code":"14600-000","region":"Sao Paulo","city":"Sao Joaquim da Barra","latitude":-20.58139,"longitude":-47.85472}}(window,'GeoPostal','BR');

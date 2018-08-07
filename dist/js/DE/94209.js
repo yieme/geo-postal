@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94209"]={"code":"94209","region":"Bayern","city":"Regen","latitude":48.9719,"longitude":13.12824}}(window,'GeoPostal','DE');

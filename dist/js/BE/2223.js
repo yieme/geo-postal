@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2223"]={"code":"2223","region":"Antwerpen","city":"Herenthout","latitude":51.1401,"longitude":4.75572}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44021"]={"code":"44021","region":"Volynska oblast","city":"Svityaz'","latitude":51.48211,"longitude":23.85904}}(window,'GeoPostal','UA');

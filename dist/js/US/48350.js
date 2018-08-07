@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48350"]={"code":"48350","region":"MI","city":"Davisburg","latitude":42.7496,"longitude":-83.5358}}(window,'GeoPostal','US');

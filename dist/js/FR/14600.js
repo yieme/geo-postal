@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14600"]={"code":"14600","region":"Normandie","city":"La Riviere-Saint-Sauveur","latitude":49.40821,"longitude":0.2703}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31764"]={"code":"31764","region":"Georgia","city":"Leslie","latitude":31.953924,"longitude":-84.083423}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19544"]={"code":"19544","region":"PA","city":"Mount Aetna","latitude":40.4187,"longitude":-76.2944}}(window,'GeoPostal','US');

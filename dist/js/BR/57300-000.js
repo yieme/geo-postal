@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57300-000"]={"code":"57300-000","region":"Alagoas","city":"Arapiraca","latitude":-9.7525,"longitude":-36.66111}}(window,'GeoPostal','BR');

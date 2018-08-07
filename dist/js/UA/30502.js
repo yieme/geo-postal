@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30502"]={"code":"30502","region":"Khmelnytska oblast","city":"Polonne","latitude":50.12424,"longitude":27.51087}}(window,'GeoPostal','UA');

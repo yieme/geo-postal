@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71329"]={"code":"71329","region":"LA","city":"Dupont","latitude":30.9294,"longitude":-91.9479}}(window,'GeoPostal','US');

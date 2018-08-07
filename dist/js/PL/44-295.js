@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44-295"]={"code":"44-295","region":"Slaskie","city":"Lyski","latitude":50.11992,"longitude":18.39146}}(window,'GeoPostal','PL');

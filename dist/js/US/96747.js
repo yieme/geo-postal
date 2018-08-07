@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96747"]={"code":"96747","region":"HI","city":"Kaumakani","latitude":21.9213,"longitude":-159.6241}}(window,'GeoPostal','US');

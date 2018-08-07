@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AD500"]={"code":"AD500","region":"Andorra la Vella","city":"Andorra la Vella","latitude":42.50779,"longitude":1.52109}}(window,'GeoPostal','AD');

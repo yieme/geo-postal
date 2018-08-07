@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81038"]={"code":"81038","region":"Colorado","city":"Fort Lyon","latitude":37.90965,"longitude":-103.09858}}(window,'GeoPostal','US');

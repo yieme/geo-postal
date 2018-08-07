@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE70 7NB"]={"code":"NE70 7NB","region":"England","city":"Belford","latitude":55.6,"longitude":-1.83333}}(window,'GeoPostal','GB');

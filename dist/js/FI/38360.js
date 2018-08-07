@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38360"]={"code":"38360","region":"Pirkanmaa","city":"Kiikoinen","latitude":61.45385,"longitude":22.57699}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["152000"]={"code":"152000","region":"Yaroslavskaya oblast'","city":"Berendeyevo","latitude":56.60078,"longitude":39.02173}}(window,'GeoPostal','RU');

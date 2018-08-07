@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1901"]={"code":"1901","region":"Jowzjan","city":"Shibirghan","latitude":36.66757,"longitude":65.7529}}(window,'GeoPostal','AF');

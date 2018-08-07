@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0G 1X0"]={"code":"G0G 1X0","region":"Quebec","city":"Riviere-Saint-Jean","latitude":50.30014,"longitude":-64.33197}}(window,'GeoPostal','CA');

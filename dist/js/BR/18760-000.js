@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18760-000"]={"code":"18760-000","region":"Sao Paulo","city":"Cerqueira Cesar","latitude":-23.03556,"longitude":-49.16611}}(window,'GeoPostal','BR');

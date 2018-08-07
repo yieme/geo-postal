@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12053"]={"code":"12053","region":"New York","city":"Delanson","latitude":42.72258,"longitude":-74.17158}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17367"]={"code":"17367","region":"Mecklenburg-Vorpommern","city":"Eggesin","latitude":53.67973,"longitude":14.07992}}(window,'GeoPostal','DE');

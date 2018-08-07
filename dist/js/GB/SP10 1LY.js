@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP10 1LY"]={"code":"SP10 1LY","region":"England","city":"Andover","latitude":51.20828,"longitude":-1.48246}}(window,'GeoPostal','GB');

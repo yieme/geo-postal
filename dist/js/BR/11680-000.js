@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11680-000"]={"code":"11680-000","region":"Sao Paulo","city":"Ubatuba","latitude":-23.43389,"longitude":-45.07111}}(window,'GeoPostal','BR');

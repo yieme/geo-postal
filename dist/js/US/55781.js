@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55781"]={"code":"55781","region":"Minnesota","city":"Side Lake","latitude":47.66528,"longitude":-93.01583}}(window,'GeoPostal','US');

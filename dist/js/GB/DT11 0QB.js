@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 0QB"]={"code":"DT11 0QB","region":"England","city":"Durweston","latitude":50.87744,"longitude":-2.20164}}(window,'GeoPostal','GB');

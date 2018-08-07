@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7030"]={"code":"7030","region":"Bizerte","city":"Mateur","latitude":37.04045,"longitude":9.66557}}(window,'GeoPostal','TN');

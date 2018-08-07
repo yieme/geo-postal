@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63785"]={"code":"63785","region":"MO","city":"Whitewater","latitude":37.2781,"longitude":-89.8061}}(window,'GeoPostal','US');

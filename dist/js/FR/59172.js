@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59172"]={"code":"59172","region":"Hauts-de-France","city":"Roeulx","latitude":50.3,"longitude":3.33333}}(window,'GeoPostal','FR');

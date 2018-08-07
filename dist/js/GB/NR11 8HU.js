@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR11 8HU"]={"code":"NR11 8HU","region":"England","city":"Trimingham","latitude":52.89846,"longitude":1.38107}}(window,'GeoPostal','GB');

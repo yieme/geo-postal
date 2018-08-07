@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14804"]={"code":"14804","region":"NY","city":"Almond","latitude":42.316,"longitude":-77.778}}(window,'GeoPostal','US');

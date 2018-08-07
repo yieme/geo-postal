@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74643"]={"code":"74643","region":"OK","city":"Lamont","latitude":36.6939,"longitude":-97.5601}}(window,'GeoPostal','US');

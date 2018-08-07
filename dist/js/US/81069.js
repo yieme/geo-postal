@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81069"]={"code":"81069","region":"Colorado","city":"Rye","latitude":37.92194,"longitude":-104.93}}(window,'GeoPostal','US');

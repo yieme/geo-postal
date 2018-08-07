@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20391"]={"code":"20391","region":"DC","city":"Washington Navy Yard","latitude":38.8951,"longitude":-77.0364}}(window,'GeoPostal','US');

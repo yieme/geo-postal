@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50064"]={"code":"50064","region":"IA","city":"Dana","latitude":42.1075,"longitude":-94.2408}}(window,'GeoPostal','US');

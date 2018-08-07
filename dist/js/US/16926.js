@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16926"]={"code":"16926","region":"Pennsylvania","city":"Granville Summit","latitude":41.667939,"longitude":-76.718797}}(window,'GeoPostal','US');

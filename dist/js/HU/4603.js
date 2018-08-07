@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4603"]={"code":"4603","region":"Szabolcs-Szatmar-Bereg","city":"Kisvarda","latitude":48.21667,"longitude":22.08333}}(window,'GeoPostal','HU');

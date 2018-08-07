@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12024"]={"code":"12024","region":"Piemonte","city":"Costigliole Saluzzo","latitude":44.56453,"longitude":7.48543}}(window,'GeoPostal','IT');

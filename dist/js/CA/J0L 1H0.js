@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 1H0"]={"code":"J0L 1H0","region":"Quebec","city":"Hemmingford","latitude":45.05008,"longitude":-73.58248}}(window,'GeoPostal','CA');

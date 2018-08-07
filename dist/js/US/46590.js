@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46590"]={"code":"46590","region":"Indiana","city":"Winona Lake","latitude":41.220467,"longitude":-85.817628}}(window,'GeoPostal','US');

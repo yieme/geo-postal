@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93282"]={"code":"93282","region":"CA","city":"Waukena","latitude":36.1296,"longitude":-119.5161}}(window,'GeoPostal','US');

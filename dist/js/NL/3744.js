@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3744"]={"code":"3744","region":"Utrecht","city":"Baarn","latitude":52.21167,"longitude":5.2875}}(window,'GeoPostal','NL');

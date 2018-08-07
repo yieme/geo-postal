@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HS6 5AH"]={"code":"HS6 5AH","region":"Scotland","city":"Lochmaddy","latitude":57.6,"longitude":-7.18333}}(window,'GeoPostal','GB');

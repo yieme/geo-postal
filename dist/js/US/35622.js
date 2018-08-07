@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35622"]={"code":"35622","region":"AL","city":"Falkville","latitude":34.3477,"longitude":-86.9131}}(window,'GeoPostal','US');

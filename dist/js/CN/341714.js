@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["341714"]={"code":"341714","region":"Jiangxi","city":"Taojiang","latitude":24.91684,"longitude":114.77973}}(window,'GeoPostal','CN');

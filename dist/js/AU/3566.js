@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3566"]={"code":"3566","region":"Victoria","city":"Gunbower","latitude":-35.95606,"longitude":144.36925}}(window,'GeoPostal','AU');

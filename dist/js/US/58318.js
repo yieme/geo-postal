@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58318"]={"code":"58318","region":"North Dakota","city":"Bottineau","latitude":48.82723,"longitude":-100.4457}}(window,'GeoPostal','US');

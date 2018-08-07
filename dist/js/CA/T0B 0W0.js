@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 0W0"]={"code":"T0B 0W0","region":"Alberta","city":"Chipman","latitude":53.70015,"longitude":-112.63523}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43031"]={"code":"43031","region":"OH","city":"Johnstown","latitude":40.1445,"longitude":-82.6973}}(window,'GeoPostal','US');

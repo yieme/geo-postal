@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02830"]={"code":"02830","region":"Hauts-de-France","city":"Saint-Michel","latitude":49.91952,"longitude":4.13278}}(window,'GeoPostal','FR');

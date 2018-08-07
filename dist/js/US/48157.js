@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48157"]={"code":"48157","region":"MI","city":"Luna Pier","latitude":41.8146,"longitude":-83.4382}}(window,'GeoPostal','US');

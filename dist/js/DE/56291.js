@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56291"]={"code":"56291","region":"Rheinland-Pfalz","city":"Bickenbach","latitude":50.11667,"longitude":7.53333}}(window,'GeoPostal','DE');

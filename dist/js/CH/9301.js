@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9301"]={"code":"9301","region":"Sankt Gallen","city":"Wittenbach","latitude":47.46308,"longitude":9.37761}}(window,'GeoPostal','CH');

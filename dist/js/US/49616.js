@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49616"]={"code":"49616","region":"Michigan","city":"Benzonia","latitude":44.591841,"longitude":-86.097341}}(window,'GeoPostal','US');

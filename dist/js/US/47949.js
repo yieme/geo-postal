@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47949"]={"code":"47949","region":"IN","city":"Hillsboro","latitude":40.0835,"longitude":-87.1545}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0M 1M0"]={"code":"B0M 1M0","region":"Nova Scotia","city":"Londonderry","latitude":45.48345,"longitude":-63.5987}}(window,'GeoPostal','CA');

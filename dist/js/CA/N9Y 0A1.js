@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N9Y 0A1"]={"code":"N9Y 0A1","region":"Ontario","city":"Kingsville","latitude":42.03759,"longitude":-82.73872}}(window,'GeoPostal','CA');

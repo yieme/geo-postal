@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34870"]={"code":"34870","region":"Ankara","city":"Akyurt","latitude":40.13512,"longitude":33.08614}}(window,'GeoPostal','TR');

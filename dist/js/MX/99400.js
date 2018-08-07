@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99400"]={"code":"99400","region":"Zacatecas","city":"Monte Escobedo","latitude":22.3,"longitude":-103.58333}}(window,'GeoPostal','MX');

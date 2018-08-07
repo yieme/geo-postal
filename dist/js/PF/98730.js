@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98730"]={"code":"98730","region":"Iles Sous-le-Vent","city":"Vaitape","latitude":-16.51667,"longitude":-151.75}}(window,'GeoPostal','PF');

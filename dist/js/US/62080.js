@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62080"]={"code":"62080","region":"Illinois","city":"Ramsey","latitude":39.14449,"longitude":-89.10868}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4567"]={"code":"4567","region":"Queensland","city":"Castaways Beach","latitude":-26.42989,"longitude":153.09785}}(window,'GeoPostal','AU');

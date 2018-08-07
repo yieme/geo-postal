@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48620"]={"code":"48620","region":"MI","city":"Edenville","latitude":43.7774,"longitude":-84.3813}}(window,'GeoPostal','US');

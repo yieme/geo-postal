@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59940"]={"code":"59940","region":"Michoacan de Ocampo","city":"Cotija de la Paz","latitude":19.81667,"longitude":-102.68333}}(window,'GeoPostal','MX');

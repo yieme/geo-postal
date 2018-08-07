@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["182146"]={"code":"182146","region":"Jammu and Kashmir","city":"Banihal","latitude":33.41667,"longitude":75.2}}(window,'GeoPostal','IN');

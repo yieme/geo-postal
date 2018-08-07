@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29280-000"]={"code":"29280-000","region":"Espirito Santo","city":"Iconha","latitude":-20.79306,"longitude":-40.81111}}(window,'GeoPostal','BR');

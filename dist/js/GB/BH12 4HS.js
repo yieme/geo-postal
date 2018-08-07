@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BH12 4HS"]={"code":"BH12 4HS","region":"England","city":"Poole","latitude":50.71667,"longitude":-2}}(window,'GeoPostal','GB');

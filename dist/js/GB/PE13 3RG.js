@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE13 3RG"]={"code":"PE13 3RG","region":"England","city":"Walsoken","latitude":52.67197,"longitude":0.18831}}(window,'GeoPostal','GB');

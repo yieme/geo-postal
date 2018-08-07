@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03010"]={"code":"03010","region":"Lazio","city":"Piglio","latitude":41.82842,"longitude":13.12239}}(window,'GeoPostal','IT');

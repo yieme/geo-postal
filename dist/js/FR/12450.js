@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12450"]={"code":"12450","region":"Occitanie","city":"Flavin","latitude":44.2889,"longitude":2.60513}}(window,'GeoPostal','FR');

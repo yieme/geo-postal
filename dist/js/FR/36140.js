@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36140"]={"code":"36140","region":"Centre-Val de Loire","city":"Aigurande","latitude":46.43398,"longitude":1.83026}}(window,'GeoPostal','FR');

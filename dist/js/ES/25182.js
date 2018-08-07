@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25182"]={"code":"25182","region":"Catalunya","city":"Aitona","latitude":41.48333,"longitude":0.46667}}(window,'GeoPostal','ES');

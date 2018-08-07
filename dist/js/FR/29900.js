@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29900"]={"code":"29900","region":"Bretagne","city":"Concarneau","latitude":47.87502,"longitude":-3.92245}}(window,'GeoPostal','FR');

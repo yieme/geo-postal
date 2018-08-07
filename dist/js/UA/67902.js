@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67902"]={"code":"67902","region":"Odeska oblast","city":"Krasni Okny","latitude":47.54044,"longitude":29.46001}}(window,'GeoPostal','UA');

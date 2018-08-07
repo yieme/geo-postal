@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["132400"]={"code":"132400","region":"Jilin","city":"Huadian","latitude":42.96333,"longitude":126.74778}}(window,'GeoPostal','CN');

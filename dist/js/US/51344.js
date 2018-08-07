@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51344"]={"code":"51344","region":"IA","city":"Gruver","latitude":43.39,"longitude":-94.7}}(window,'GeoPostal','US');

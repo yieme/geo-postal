@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87828"]={"code":"87828","region":"NM","city":"Polvadera","latitude":34.2059,"longitude":-106.9167}}(window,'GeoPostal','US');

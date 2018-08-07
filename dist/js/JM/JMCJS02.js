@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCJS02"]={"code":"JMCJS02","region":"Saint James","city":"Anchovy","latitude":18.4103,"longitude":-77.93166}}(window,'GeoPostal','JM');

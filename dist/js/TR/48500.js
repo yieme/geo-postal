@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48500"]={"code":"48500","region":"Bilecik","city":"Bozuyuk","latitude":39.90778,"longitude":30.03667}}(window,'GeoPostal','TR');

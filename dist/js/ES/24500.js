@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24500"]={"code":"24500","region":"Castilla y Leon","city":"Villafranca del Bierzo","latitude":42.60601,"longitude":-6.81069}}(window,'GeoPostal','ES');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63-130"]={"code":"63-130","region":"Wielkopolskie","city":"Ksiaz Wielkopolski","latitude":52.06167,"longitude":17.23952}}(window,'GeoPostal','PL');

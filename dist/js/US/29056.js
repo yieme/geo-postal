@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29056"]={"code":"29056","region":"South Carolina","city":"Greeleyville","latitude":33.58139,"longitude":-79.98944}}(window,'GeoPostal','US');

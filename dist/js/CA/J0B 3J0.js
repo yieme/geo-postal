@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0B 3J0"]={"code":"J0B 3J0","region":"Quebec","city":"Weedon","latitude":45.70007,"longitude":-71.44908}}(window,'GeoPostal','CA');

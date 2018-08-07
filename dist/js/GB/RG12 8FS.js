@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG12 8FS"]={"code":"RG12 8FS","region":"England","city":"Easthampstead","latitude":51.4007,"longitude":-0.76355}}(window,'GeoPostal','GB');

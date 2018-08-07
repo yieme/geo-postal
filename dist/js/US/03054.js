@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03054"]={"code":"03054","region":"New Hampshire","city":"Merrimack","latitude":42.863136,"longitude":-71.51509}}(window,'GeoPostal','US');

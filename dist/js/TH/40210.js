@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40210"]={"code":"40210","region":"Khon Kaen","city":"Nong Ruea","latitude":16.49333,"longitude":102.43339}}(window,'GeoPostal','TH');

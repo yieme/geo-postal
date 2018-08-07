@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2EE"]={"code":"KW17 2EE","region":"Scotland","city":"Finstown","latitude":59.00719,"longitude":-3.11628}}(window,'GeoPostal','GB');

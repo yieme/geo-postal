@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38780"]={"code":"38780","region":"MS","city":"Wayside","latitude":33.269,"longitude":-91.0337}}(window,'GeoPostal','US');

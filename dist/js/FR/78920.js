@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78920"]={"code":"78920","region":"Ile-de-France","city":"Ecquevilly","latitude":48.95192,"longitude":1.92338}}(window,'GeoPostal','FR');

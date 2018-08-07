@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA38 9OB"]={"code":"SA38 9OB","region":"Wales","city":"Newcastle Emlyn","latitude":52.04056,"longitude":-4.4667}}(window,'GeoPostal','GB');

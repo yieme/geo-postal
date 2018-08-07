@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BN99 6DA"]={"code":"BN99 6DA","region":"England","city":"Lancing","latitude":50.82882,"longitude":-0.32247}}(window,'GeoPostal','GB');

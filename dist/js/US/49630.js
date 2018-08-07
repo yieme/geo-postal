@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49630"]={"code":"49630","region":"MI","city":"Empire","latitude":44.8144,"longitude":-85.9999}}(window,'GeoPostal','US');

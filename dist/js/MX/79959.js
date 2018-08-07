@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79959"]={"code":"79959","region":"San Luis Potosi","city":"Alfredo M. Terrazas","latitude":21.46667,"longitude":-98.85}}(window,'GeoPostal','MX');

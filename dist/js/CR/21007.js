@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21007"]={"code":"21007","region":"Alajuela","city":"Fortuna","latitude":10.47089,"longitude":-84.64535}}(window,'GeoPostal','CR');

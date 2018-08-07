@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6615"]={"code":"6615","region":"Southern Leyte","city":"Sogod","latitude":10.3847,"longitude":124.9814}}(window,'GeoPostal','PH');

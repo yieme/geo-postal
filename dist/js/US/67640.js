@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67640"]={"code":"67640","region":"Kansas","city":"Gorham","latitude":38.881083,"longitude":-99.02203}}(window,'GeoPostal','US');

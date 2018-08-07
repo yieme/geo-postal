@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3370"]={"code":"3370","region":"Hovedstaden","city":"Liseleje","latitude":56.00531,"longitude":11.94827}}(window,'GeoPostal','DK');

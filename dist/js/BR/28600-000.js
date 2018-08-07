@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28600-000"]={"code":"28600-000","region":"Rio de Janeiro","city":"Nova Friburgo","latitude":-22.28194,"longitude":-42.53111}}(window,'GeoPostal','BR');

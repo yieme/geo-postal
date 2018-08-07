@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54023"]={"code":"54023","region":"Wisconsin","city":"Roberts","latitude":44.98386,"longitude":-92.55603}}(window,'GeoPostal','US');

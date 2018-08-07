@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86462"]={"code":"86462","region":"Bayern","city":"Langweid","latitude":47.76857,"longitude":12.11523}}(window,'GeoPostal','DE');

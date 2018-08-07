@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67752"]={"code":"67752","region":"Kansas","city":"Quinter","latitude":38.91498,"longitude":-100.24546}}(window,'GeoPostal','US');

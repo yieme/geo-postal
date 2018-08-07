@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14548"]={"code":"14548","region":"Niedersachsen","city":"Grashorn","latitude":53.03627,"longitude":8.39833}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95632"]={"code":"95632","region":"California","city":"Galt","latitude":38.25464,"longitude":-121.29995}}(window,'GeoPostal','US');

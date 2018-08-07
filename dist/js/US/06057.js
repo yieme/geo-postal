@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06057"]={"code":"06057","region":"Connecticut","city":"New Hartford","latitude":41.84436,"longitude":-73.0128}}(window,'GeoPostal','US');

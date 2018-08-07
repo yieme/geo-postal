@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85342"]={"code":"85342","region":"Arizona","city":"Morristown","latitude":33.85032,"longitude":-112.60932}}(window,'GeoPostal','US');

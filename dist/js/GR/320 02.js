@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["320 02"]={"code":"320 02","region":"Sterea Ellada","city":"Thespiai","latitude":38.3,"longitude":23.15}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75766"]={"code":"75766","region":"Texas","city":"Jacksonville","latitude":31.96378,"longitude":-95.2705}}(window,'GeoPostal','US');

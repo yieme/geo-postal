@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96854"]={"code":"96854","region":"HI","city":"Wheeler Army Airfield","latitude":21.4877,"longitude":-158.0351}}(window,'GeoPostal','US');

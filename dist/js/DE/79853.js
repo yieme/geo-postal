@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79853"]={"code":"79853","region":"Baden-Wurttemberg","city":"Lenzkirch","latitude":47.86832,"longitude":8.20211}}(window,'GeoPostal','DE');

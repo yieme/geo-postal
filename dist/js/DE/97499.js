@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97499"]={"code":"97499","region":"Bayern","city":"Oberschwappach","latitude":49.96975,"longitude":10.47605}}(window,'GeoPostal','DE');

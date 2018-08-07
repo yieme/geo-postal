@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29574"]={"code":"29574","region":"South Carolina","city":"Mullins","latitude":34.20572,"longitude":-79.25449}}(window,'GeoPostal','US');

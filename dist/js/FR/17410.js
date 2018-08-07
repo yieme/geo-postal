@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17410"]={"code":"17410","region":"Nouvelle-Aquitaine","city":"Saint-Martin-de-Re","latitude":46.20311,"longitude":-1.36726}}(window,'GeoPostal','FR');

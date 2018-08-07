@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97541"]={"code":"97541","region":"Avtonomna Respublika Krym","city":"Shkil'ne","latitude":45.05758,"longitude":33.89737}}(window,'GeoPostal','UA');

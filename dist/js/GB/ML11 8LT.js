@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML11 8LT"]={"code":"ML11 8LT","region":"Scotland","city":"Libberton","latitude":55.66888,"longitude":-3.60747}}(window,'GeoPostal','GB');

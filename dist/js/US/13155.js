@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13155"]={"code":"13155","region":"NY","city":"South Otselic","latitude":42.6626,"longitude":-75.7669}}(window,'GeoPostal','US');

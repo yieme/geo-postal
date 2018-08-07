@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-070"]={"code":"26-070","region":"Swietokrzyskie","city":"Lopuszno","latitude":50.94864,"longitude":20.25081}}(window,'GeoPostal','PL');

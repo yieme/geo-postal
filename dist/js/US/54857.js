@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54857"]={"code":"54857","region":"Wisconsin","city":"Mikana","latitude":45.592702,"longitude":-91.598926}}(window,'GeoPostal','US');

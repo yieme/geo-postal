@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80075"]={"code":"80075","region":"Campania","city":"Forio","latitude":40.7342,"longitude":13.86462}}(window,'GeoPostal','IT');

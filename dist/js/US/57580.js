@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57580"]={"code":"57580","region":"South Dakota","city":"Winner","latitude":43.37667,"longitude":-99.85901}}(window,'GeoPostal','US');

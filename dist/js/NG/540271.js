@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["540271"]={"code":"540271","region":"Cross River","city":"Calabar","latitude":4.9517,"longitude":8.322}}(window,'GeoPostal','NG');

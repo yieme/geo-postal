@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2581"]={"code":"2581","region":"Hedmark","city":"Folldal","latitude":62.13246,"longitude":9.9968}}(window,'GeoPostal','NO');

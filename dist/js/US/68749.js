@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68749"]={"code":"68749","region":"NE","city":"Magnet","latitude":42.455,"longitude":-97.4701}}(window,'GeoPostal','US');

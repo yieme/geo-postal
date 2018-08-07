@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["184421"]={"code":"184421","region":"Murmanskaya oblast'","city":"Nikel'","latitude":69.41285,"longitude":30.22198}}(window,'GeoPostal','RU');

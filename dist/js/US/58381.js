@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58381"]={"code":"58381","region":"North Dakota","city":"Warwick","latitude":47.906095,"longitude":-98.672231}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84035"]={"code":"84035","region":"Utah","city":"Jensen","latitude":40.379912,"longitude":-109.316047}}(window,'GeoPostal','US');

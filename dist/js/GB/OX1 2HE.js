@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX1 2HE"]={"code":"OX1 2HE","region":"Scotland","city":"Walton","latitude":57.19269,"longitude":-2.2131}}(window,'GeoPostal','GB');

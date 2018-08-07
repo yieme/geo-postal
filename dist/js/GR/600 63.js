@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["600 63"]={"code":"600 63","region":"Kentriki Makedonia","city":"Leptokarya","latitude":40.05833,"longitude":22.56139}}(window,'GeoPostal','GR');

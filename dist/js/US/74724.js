@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74724"]={"code":"74724","region":"Oklahoma","city":"Bethel","latitude":34.354831,"longitude":-94.844533}}(window,'GeoPostal','US');

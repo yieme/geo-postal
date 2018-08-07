@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1N0"]={"code":"V0G 1N0","region":"British Columbia","city":"Marblehead","latitude":50.233333,"longitude":-116.983333}}(window,'GeoPostal','CA');

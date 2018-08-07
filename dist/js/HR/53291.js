@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53291"]={"code":"53291","region":"Licko-senjska zupanija","city":"Novalja","latitude":44.55778,"longitude":14.88667}}(window,'GeoPostal','HR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55679"]={"code":"55679","region":"Mexico","city":"Santa Maria Ajoloapan","latitude":19.97861,"longitude":-99.04722}}(window,'GeoPostal','MX');

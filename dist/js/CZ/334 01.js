@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["334 01"]={"code":"334 01","region":"Plzensky kraj","city":"Prestice","latitude":49.57298,"longitude":13.3335}}(window,'GeoPostal','CZ');

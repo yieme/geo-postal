@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["790 64"]={"code":"790 64","region":"Olomoucky kraj","city":"Vapenna","latitude":50.28338,"longitude":17.09762}}(window,'GeoPostal','CZ');

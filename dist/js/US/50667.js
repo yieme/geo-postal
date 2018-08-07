@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50667"]={"code":"50667","region":"IA","city":"Raymond","latitude":42.4672,"longitude":-92.2162}}(window,'GeoPostal','US');

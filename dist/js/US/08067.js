@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08067"]={"code":"08067","region":"New Jersey","city":"Pedricktown","latitude":39.737,"longitude":-75.4054}}(window,'GeoPostal','US');

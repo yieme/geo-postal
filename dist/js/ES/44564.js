@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44564"]={"code":"44564","region":"Aragon","city":"Mas de las Matas","latitude":40.83408,"longitude":-0.24292}}(window,'GeoPostal','ES');

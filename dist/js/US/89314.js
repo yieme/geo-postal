@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89314"]={"code":"89314","region":"NV","city":"Duckwater","latitude":38.9324,"longitude":-115.7145}}(window,'GeoPostal','US');

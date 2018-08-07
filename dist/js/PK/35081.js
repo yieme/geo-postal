@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35081"]={"code":"35081","region":"Punjab","city":"Garh Maharaja","latitude":30.83388,"longitude":71.90529}}(window,'GeoPostal','PK');

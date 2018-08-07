@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54766"]={"code":"54766","region":"Wisconsin","city":"Sheldon","latitude":45.310697,"longitude":-90.9017}}(window,'GeoPostal','US');

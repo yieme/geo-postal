@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07446"]={"code":"07446","region":"New Jersey","city":"Ramsey","latitude":41.05732,"longitude":-74.14098}}(window,'GeoPostal','US');

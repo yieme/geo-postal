@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86750"]={"code":"86750","region":"Bayern","city":"Megesheim","latitude":48.93333,"longitude":10.65}}(window,'GeoPostal','DE');

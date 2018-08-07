@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR35 1TD"]={"code":"NR35 1TD","region":"England","city":"Mettingham","latitude":52.45688,"longitude":1.47456}}(window,'GeoPostal','GB');

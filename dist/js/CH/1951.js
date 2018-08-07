@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1951"]={"code":"1951","region":"Valais","city":"Sion","latitude":46.22908,"longitude":7.35942}}(window,'GeoPostal','CH');

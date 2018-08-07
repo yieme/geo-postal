@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23865"]={"code":"23865","region":"Lombardia","city":"Oliveto Lario","latitude":45.93098,"longitude":9.28384}}(window,'GeoPostal','IT');

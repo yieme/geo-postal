@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407300"]={"code":"407300","region":"Cluj","city":"Geaca","latitude":46.86667,"longitude":24.1}}(window,'GeoPostal','RO');

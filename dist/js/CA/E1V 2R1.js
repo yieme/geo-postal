@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E1V 2R1"]={"code":"E1V 2R1","region":"New Brunswick","city":"Newcastle","latitude":47.00011,"longitude":-65.56544}}(window,'GeoPostal','CA');

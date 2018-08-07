@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18625"]={"code":"18625","region":"PA","city":"Lake Winola","latitude":41.5096,"longitude":-75.8508}}(window,'GeoPostal','US');

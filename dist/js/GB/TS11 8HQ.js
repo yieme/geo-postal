@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS11 8HQ"]={"code":"TS11 8HQ","region":"England","city":"Yearby","latitude":54.58042,"longitude":-1.07254}}(window,'GeoPostal','GB');

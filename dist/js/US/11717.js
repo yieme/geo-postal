@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11717"]={"code":"11717","region":"New York","city":"Brentwood","latitude":40.78092,"longitude":-73.25454}}(window,'GeoPostal','US');

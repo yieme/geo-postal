@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3090000"]={"code":"3090000","region":"Libertador General Bernardo O'Higgins","city":"Chimbarongo","latitude":-34.7,"longitude":-71.05}}(window,'GeoPostal','CL');

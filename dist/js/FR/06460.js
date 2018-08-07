@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06460"]={"code":"06460","region":"Provence-Alpes-Cote d'Azur","city":"Saint-Vallier-de-Thiey","latitude":43.69539,"longitude":6.8443}}(window,'GeoPostal','FR');

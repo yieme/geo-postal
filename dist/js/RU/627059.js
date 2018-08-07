@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["627059"]={"code":"627059","region":"Tyumenskaya oblast'","city":"Yalutorovsk","latitude":56.65358,"longitude":66.30058}}(window,'GeoPostal','RU');

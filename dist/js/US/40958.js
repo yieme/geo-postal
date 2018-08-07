@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40958"]={"code":"40958","region":"KY","city":"Kettle Island","latitude":36.8093,"longitude":-83.5892}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2415"]={"code":"2415","region":"Cordoba","city":"Portena","latitude":-31.01391,"longitude":-62.0665}}(window,'GeoPostal','AR');

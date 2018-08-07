@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6010000"]={"code":"6010000","region":"Aisen del General Carlos Ibanez del Campo","city":"Puerto Cisnes","latitude":-44.75,"longitude":-72.7}}(window,'GeoPostal','CL');

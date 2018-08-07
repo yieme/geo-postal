@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40140"]={"code":"40140","region":"Khon Kaen","city":"Nam Phong","latitude":16.70228,"longitude":102.8557}}(window,'GeoPostal','TH');

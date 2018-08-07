@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25515"]={"code":"25515","region":"WV","city":"Gallipolis Ferry","latitude":38.765,"longitude":-82.1535}}(window,'GeoPostal','US');

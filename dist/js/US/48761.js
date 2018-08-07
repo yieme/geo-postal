@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48761"]={"code":"48761","region":"MI","city":"South Branch","latitude":44.5014,"longitude":-83.8686}}(window,'GeoPostal','US');

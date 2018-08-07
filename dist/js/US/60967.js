@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60967"]={"code":"60967","region":"IL","city":"Stockland","latitude":40.6145,"longitude":-87.5928}}(window,'GeoPostal','US');

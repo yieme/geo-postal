@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TD15 2TH"]={"code":"TD15 2TH","region":"England","city":"Allerdean","latitude":55.71219,"longitude":-2.05647}}(window,'GeoPostal','GB');

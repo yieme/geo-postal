@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56073"]={"code":"56073","region":"Minnesota","city":"New Ulm","latitude":44.31246,"longitude":-94.46053}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85343"]={"code":"85343","region":"Herceg-Novi","city":"Bijela","latitude":42.45333,"longitude":18.65556}}(window,'GeoPostal','ME');

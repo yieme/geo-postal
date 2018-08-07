@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42700"]={"code":"42700","region":"Isparta","city":"Yenisarbademli","latitude":37.70778,"longitude":31.38639}}(window,'GeoPostal','TR');

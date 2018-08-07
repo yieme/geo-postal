@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12583"]={"code":"12583","region":"New York","city":"Tivoli","latitude":42.0573,"longitude":-73.88676}}(window,'GeoPostal','US');

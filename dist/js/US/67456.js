@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67456"]={"code":"67456","region":"Kansas","city":"Lindsborg","latitude":38.576179,"longitude":-97.675473}}(window,'GeoPostal','US');

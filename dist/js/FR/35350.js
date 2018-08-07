@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35350"]={"code":"35350","region":"Bretagne","city":"La Gouesniere","latitude":48.60467,"longitude":-1.894}}(window,'GeoPostal','FR');

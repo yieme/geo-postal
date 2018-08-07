@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["338 01"]={"code":"338 01","region":"Plzensky kraj","city":"Holoubkov","latitude":49.77598,"longitude":13.69246}}(window,'GeoPostal','CZ');

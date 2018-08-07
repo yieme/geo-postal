@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02639"]={"code":"02639","region":"MA","city":"Dennis Port","latitude":41.6649,"longitude":-70.1327}}(window,'GeoPostal','US');

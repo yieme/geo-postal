@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54033"]={"code":"54033","region":"Toscana","city":"Carrara","latitude":44.06294,"longitude":10.06069}}(window,'GeoPostal','IT');

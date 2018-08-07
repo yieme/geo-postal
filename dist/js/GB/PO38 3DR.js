@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO38 3DR"]={"code":"PO38 3DR","region":"England","city":"Godshill","latitude":50.63308,"longitude":-1.25476}}(window,'GeoPostal','GB');

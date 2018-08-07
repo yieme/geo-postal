@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2294"]={"code":"2294","region":"Niederosterreich","city":"Marchegg","latitude":48.27885,"longitude":16.90933}}(window,'GeoPostal','AT');

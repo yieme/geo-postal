@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54150"]={"code":"54150","region":"Wisconsin","city":"Neopit","latitude":44.98278,"longitude":-88.82833}}(window,'GeoPostal','US');

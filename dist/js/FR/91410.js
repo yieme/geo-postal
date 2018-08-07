@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91410"]={"code":"91410","region":"Ile-de-France","city":"Corbreuse","latitude":48.50065,"longitude":1.95913}}(window,'GeoPostal','FR');

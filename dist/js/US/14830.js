@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14830"]={"code":"14830","region":"New York","city":"Corning","latitude":42.14285,"longitude":-77.05469}}(window,'GeoPostal','US');

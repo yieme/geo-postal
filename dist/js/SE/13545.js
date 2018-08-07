@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13545"]={"code":"13545","region":"Stockholms lan","city":"Tyreso","latitude":59.233333,"longitude":18.216667}}(window,'GeoPostal','SE');

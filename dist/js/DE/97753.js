@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97753"]={"code":"97753","region":"Bayern","city":"Karlstadt","latitude":49.96034,"longitude":9.77239}}(window,'GeoPostal','DE');

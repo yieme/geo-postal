@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR13 3SP"]={"code":"NR13 3SP","region":"England","city":"Cantley","latitude":52.57896,"longitude":1.51354}}(window,'GeoPostal','GB');

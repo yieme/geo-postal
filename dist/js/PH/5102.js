@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5102"]={"code":"5102","region":"Mindoro Occidental","city":"San Jose","latitude":12.35275,"longitude":121.06761}}(window,'GeoPostal','PH');

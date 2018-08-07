@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-335"]={"code":"19-335","region":"Warminsko-mazurskie","city":"Prostki","latitude":53.69901,"longitude":22.43183}}(window,'GeoPostal','PL');

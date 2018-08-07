@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61110"]={"code":"61110","region":"Uthai Thani","city":"Nong Chang","latitude":15.39147,"longitude":99.84147}}(window,'GeoPostal','TH');

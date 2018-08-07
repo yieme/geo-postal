@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY5 9AZ"]={"code":"SY5 9AZ","region":"Wales","city":"Criggion","latitude":52.72973,"longitude":-3.04557}}(window,'GeoPostal','GB');

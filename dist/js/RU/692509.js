@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692509"]={"code":"692509","region":"Primorskiy kray","city":"Ussuriysk","latitude":43.8025,"longitude":132.00944}}(window,'GeoPostal','RU');

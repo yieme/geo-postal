@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52576"]={"code":"52576","region":"IA","city":"Ollie","latitude":41.2001,"longitude":-92.1354}}(window,'GeoPostal','US');

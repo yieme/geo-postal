@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["617700"]={"code":"617700","region":"Permskiy kray","city":"Kuyeda","latitude":56.4311,"longitude":55.58861}}(window,'GeoPostal','RU');

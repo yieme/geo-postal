@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58454"]={"code":"58454","region":"North Dakota","city":"Jud","latitude":46.488053,"longitude":-98.813531}}(window,'GeoPostal','US');

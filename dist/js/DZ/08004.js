@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08004"]={"code":"08004","region":"Bechar","city":"Bechar","latitude":31.61667,"longitude":-2.21667}}(window,'GeoPostal','DZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3824"]={"code":"3824","region":"Victoria","city":"Trafalgar","latitude":-38.20906,"longitude":146.15347}}(window,'GeoPostal','AU');

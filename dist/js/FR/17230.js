@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17230"]={"code":"17230","region":"Nouvelle-Aquitaine","city":"Marans","latitude":46.30811,"longitude":-0.9945}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43567"]={"code":"43567","region":"Ohio","city":"Wauseon","latitude":41.54922,"longitude":-84.14161}}(window,'GeoPostal','US');

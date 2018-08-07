@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2010"]={"code":"2010","region":"New South Wales","city":"Surry Hills","latitude":-33.88374,"longitude":151.21282}}(window,'GeoPostal','AU');

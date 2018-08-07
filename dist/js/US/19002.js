@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19002"]={"code":"19002","region":"Pennsylvania","city":"Ambler","latitude":40.19076,"longitude":-75.20658}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["134403"]={"code":"134403","region":"Jilin","city":"Shisandaogou","latitude":41.42917,"longitude":127.77861}}(window,'GeoPostal','CN');

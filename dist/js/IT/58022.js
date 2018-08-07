@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58022"]={"code":"58022","region":"Toscana","city":"Follonica","latitude":42.92633,"longitude":10.76162}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WC2N 6NQ"]={"code":"WC2N 6NQ","region":"England","city":"Charing Cross","latitude":51.50848,"longitude":-0.12493}}(window,'GeoPostal','GB');

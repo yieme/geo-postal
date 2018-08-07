@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4520-704"]={"code":"4520-704","region":"Aveiro","city":"Ovar","latitude":40.85862,"longitude":-8.62513}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["422549"]={"code":"422549","region":"Tatarstan, Respublika","city":"Zelenodol'sk","latitude":55.84376,"longitude":48.51784}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53578"]={"code":"53578","region":"Wisconsin","city":"Prairie du Sac","latitude":43.28693,"longitude":-89.72401}}(window,'GeoPostal','US');

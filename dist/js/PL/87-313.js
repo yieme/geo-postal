@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-313"]={"code":"87-313","region":"Kujawsko-pomorskie","city":"Brzozie","latitude":53.32554,"longitude":19.60485}}(window,'GeoPostal','PL');

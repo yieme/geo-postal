@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03010"]={"code":"03010","region":"Laghouat","city":"Laghouat","latitude":33.8,"longitude":2.86514}}(window,'GeoPostal','DZ');

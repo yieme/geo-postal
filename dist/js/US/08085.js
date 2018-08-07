@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08085"]={"code":"08085","region":"New Jersey","city":"Swedesboro","latitude":39.74761,"longitude":-75.31047}}(window,'GeoPostal','US');

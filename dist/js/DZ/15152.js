@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15152"]={"code":"15152","region":"Tizi Ouzou","city":"Timizart","latitude":36.8,"longitude":4.26667}}(window,'GeoPostal','DZ');

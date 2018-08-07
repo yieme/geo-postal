@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["665830"]={"code":"665830","region":"Irkutskaya oblast'","city":"Angarsk","latitude":52.53667,"longitude":103.88639}}(window,'GeoPostal','RU');

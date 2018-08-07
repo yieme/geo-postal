@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31554"]={"code":"31554","region":"Georgia","city":"Nicholls","latitude":31.51742,"longitude":-82.63486}}(window,'GeoPostal','US');

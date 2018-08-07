@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56220-000"]={"code":"56220-000","region":"Pernambuco","city":"Ouricuri","latitude":-7.8825,"longitude":-40.08167}}(window,'GeoPostal','BR');

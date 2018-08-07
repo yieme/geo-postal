@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43770"]={"code":"43770","region":"Auvergne-Rhone-Alpes","city":"Chadrac","latitude":45.06181,"longitude":3.90261}}(window,'GeoPostal','FR');

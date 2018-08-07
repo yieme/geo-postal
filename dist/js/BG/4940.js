@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4940"]={"code":"4940","region":"Smolyan","city":"Banite","latitude":41.61667,"longitude":25.01667}}(window,'GeoPostal','BG');

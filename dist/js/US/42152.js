@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42152"]={"code":"42152","region":"Kentucky","city":"Hiseville","latitude":37.100078,"longitude":-85.815135}}(window,'GeoPostal','US');

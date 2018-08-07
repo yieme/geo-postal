@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO20 6DG"]={"code":"SO20 6DG","region":"England","city":"Stockbridge","latitude":51.11398,"longitude":-1.48839}}(window,'GeoPostal','GB');

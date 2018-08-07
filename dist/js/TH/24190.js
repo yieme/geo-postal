@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24190"]={"code":"24190","region":"Chachoengsao","city":"Plaeng Yao","latitude":13.58467,"longitude":101.28403}}(window,'GeoPostal','TH');

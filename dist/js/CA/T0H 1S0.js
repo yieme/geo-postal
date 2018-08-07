@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0H 1S0"]={"code":"T0H 1S0","region":"Alberta","city":"Girouxville","latitude":55.75008,"longitude":-117.33593}}(window,'GeoPostal','CA');

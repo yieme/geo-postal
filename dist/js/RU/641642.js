@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["641642"]={"code":"641642","region":"Kurganskaya oblast'","city":"Petukhovo","latitude":55.06917,"longitude":67.90194}}(window,'GeoPostal','RU');

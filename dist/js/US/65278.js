@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65278"]={"code":"65278","region":"MO","city":"Renick","latitude":39.3414,"longitude":-92.411}}(window,'GeoPostal','US');

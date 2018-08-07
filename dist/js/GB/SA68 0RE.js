@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA68 0RE"]={"code":"SA68 0RE","region":"Wales","city":"Jeffreyston","latitude":51.725,"longitude":-4.7675}}(window,'GeoPostal','GB');

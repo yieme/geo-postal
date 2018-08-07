@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95798"]={"code":"95798","region":"CA","city":"West Sacramento","latitude":38.5805,"longitude":-121.5291}}(window,'GeoPostal','US');

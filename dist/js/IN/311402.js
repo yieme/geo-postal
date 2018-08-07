@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["311402"]={"code":"311402","region":"Rajasthan","city":"Gangapur","latitude":25.21667,"longitude":74.26667}}(window,'GeoPostal','IN');

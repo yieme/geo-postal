@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65580"]={"code":"65580","region":"MO","city":"Vichy","latitude":38.098,"longitude":-91.7788}}(window,'GeoPostal','US');

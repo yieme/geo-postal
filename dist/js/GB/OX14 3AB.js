@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX14 3AB"]={"code":"OX14 3AB","region":"England","city":"Winchester","latitude":51.06513,"longitude":-1.3187}}(window,'GeoPostal','GB');

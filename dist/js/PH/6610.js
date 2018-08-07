@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6610"]={"code":"6610","region":"Leyte","city":"Anahawan","latitude":10.3429,"longitude":124.8782}}(window,'GeoPostal','PH');

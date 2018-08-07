@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60041"]={"code":"60041","region":"Marche","city":"Sassoferrato","latitude":43.43266,"longitude":12.85726}}(window,'GeoPostal','IT');

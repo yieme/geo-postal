@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB32 7AW"]={"code":"AB32 7AW","region":"Scotland","city":"Dunecht","latitude":57.1718,"longitude":-2.40945}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52044"]={"code":"52044","region":"IA","city":"Elkport","latitude":42.7624,"longitude":-91.3203}}(window,'GeoPostal','US');

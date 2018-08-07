@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2607"]={"code":"2607","region":"Santa Fe","city":"Villa Canas","latitude":-34.00565,"longitude":-61.60757}}(window,'GeoPostal','AR');

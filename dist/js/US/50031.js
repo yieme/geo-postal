@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50031"]={"code":"50031","region":"IA","city":"Beaver","latitude":42.0387,"longitude":-94.1436}}(window,'GeoPostal','US');

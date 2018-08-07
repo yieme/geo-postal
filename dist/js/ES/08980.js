@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08980"]={"code":"08980","region":"Catalunya","city":"Sant Feliu de Llobregat","latitude":41.38333,"longitude":2.05}}(window,'GeoPostal','ES');

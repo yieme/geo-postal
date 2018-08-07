@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72275"]={"code":"72275","region":"Baden-Wurttemberg","city":"Alpirsbach","latitude":48.34507,"longitude":8.40197}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65215-000"]={"code":"65215-000","region":"Maranhao","city":"Viana","latitude":-3.22028,"longitude":-45.00361}}(window,'GeoPostal','BR');

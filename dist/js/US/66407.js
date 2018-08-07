@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66407"]={"code":"66407","region":"KS","city":"Belvue","latitude":39.2273,"longitude":-96.1866}}(window,'GeoPostal','US');

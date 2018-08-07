@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44053"]={"code":"44053","region":"Dornogovi","city":"Nuden","latitude":43.58333,"longitude":110.46667}}(window,'GeoPostal','MN');

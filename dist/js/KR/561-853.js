@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["561-853"]={"code":"561-853","region":"Jeollabuk-do","city":"Wanju","latitude":35.84509,"longitude":127.14752}}(window,'GeoPostal','KR');

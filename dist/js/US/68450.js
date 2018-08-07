@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68450"]={"code":"68450","region":"Nebraska","city":"Tecumseh","latitude":40.36667,"longitude":-96.19612}}(window,'GeoPostal','US');

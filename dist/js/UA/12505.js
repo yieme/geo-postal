@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12505"]={"code":"12505","region":"Zhytomyrska oblast","city":"Korostyshiv","latitude":50.31723,"longitude":29.0563}}(window,'GeoPostal','UA');

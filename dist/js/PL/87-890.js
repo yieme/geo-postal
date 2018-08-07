@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-890"]={"code":"87-890","region":"Kujawsko-pomorskie","city":"Lubraniec","latitude":52.54178,"longitude":18.83254}}(window,'GeoPostal','PL');

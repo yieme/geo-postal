@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46985"]={"code":"46985","region":"Indiana","city":"Star City","latitude":40.953724,"longitude":-86.525919}}(window,'GeoPostal','US');

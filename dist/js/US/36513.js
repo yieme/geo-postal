@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36513"]={"code":"36513","region":"AL","city":"Calvert","latitude":31.1552,"longitude":-88.01}}(window,'GeoPostal','US');

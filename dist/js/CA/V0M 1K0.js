@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0M 1K0"]={"code":"V0M 1K0","region":"British Columbia","city":"Harrison Hot Springs","latitude":49.29969,"longitude":-121.78586}}(window,'GeoPostal','CA');

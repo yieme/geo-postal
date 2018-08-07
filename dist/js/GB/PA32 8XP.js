@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA32 8XP"]={"code":"PA32 8XP","region":"Scotland","city":"Furnace","latitude":56.15332,"longitude":-5.18392}}(window,'GeoPostal','GB');

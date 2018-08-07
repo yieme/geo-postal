@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42035"]={"code":"42035","region":"KY","city":"Cunningham","latitude":36.8963,"longitude":-88.8728}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415323"]={"code":"415323","region":"Hunan","city":"Nishi","latitude":29.93552,"longitude":110.77823}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["800"]={"code":"800","region":"Sudurland","city":"Selfoss","latitude":63.93311,"longitude":-20.99712}}(window,'GeoPostal','IS');

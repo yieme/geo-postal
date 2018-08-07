@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2631"]={"code":"2631","region":"New South Wales","city":"Glenbog","latitude":-36.58333,"longitude":149.35}}(window,'GeoPostal','AU');

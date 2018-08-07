@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL2 1AR"]={"code":"DL2 1AR","region":"England","city":"Middleton One Row","latitude":54.50453,"longitude":-1.45731}}(window,'GeoPostal','GB');

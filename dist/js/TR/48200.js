@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48200"]={"code":"48200","region":"Mugla","city":"Bodrum","latitude":37.03833,"longitude":27.42917}}(window,'GeoPostal','TR');

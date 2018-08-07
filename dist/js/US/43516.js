@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43516"]={"code":"43516","region":"Ohio","city":"Deshler","latitude":41.20755,"longitude":-83.89911}}(window,'GeoPostal','US');

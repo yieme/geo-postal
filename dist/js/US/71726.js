@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71726"]={"code":"71726","region":"AR","city":"Chidester","latitude":33.6652,"longitude":-92.9969}}(window,'GeoPostal','US');

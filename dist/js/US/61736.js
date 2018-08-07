@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61736"]={"code":"61736","region":"IL","city":"Downs","latitude":40.3989,"longitude":-88.8686}}(window,'GeoPostal','US');

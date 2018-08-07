@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44370"]={"code":"44370","region":"Pays-de-la-Loire","city":"Varades","latitude":47.38458,"longitude":-1.02842}}(window,'GeoPostal','FR');

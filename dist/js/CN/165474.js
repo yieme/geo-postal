@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165474"]={"code":"165474","region":"Nei Mongol","city":"Hailar","latitude":49.2,"longitude":119.7}}(window,'GeoPostal','CN');

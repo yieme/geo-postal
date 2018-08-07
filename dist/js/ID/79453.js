@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79453"]={"code":"79453","region":"Kalimantan Barat","city":"Pemangkat","latitude":1.16667,"longitude":108.96667}}(window,'GeoPostal','ID');

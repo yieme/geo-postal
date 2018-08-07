@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["262308"]={"code":"262308","region":"Uttarakhand","city":"Khatima","latitude":28.91667,"longitude":79.96667}}(window,'GeoPostal','IN');

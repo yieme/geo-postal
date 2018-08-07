@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89835"]={"code":"89835","region":"Nevada","city":"Wells","latitude":41.11159,"longitude":-114.96449}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60416"]={"code":"60416","region":"Illinois","city":"Coal City","latitude":41.28924,"longitude":-88.29096}}(window,'GeoPostal','US');

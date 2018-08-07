@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA31 8PB"]={"code":"PA31 8PB","region":"Scotland","city":"Ellary","latitude":55.91667,"longitude":-5.61667}}(window,'GeoPostal','GB');

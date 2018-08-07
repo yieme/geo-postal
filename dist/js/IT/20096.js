@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20096"]={"code":"20096","region":"Lombardia","city":"Pioltello","latitude":45.50502,"longitude":9.33151}}(window,'GeoPostal','IT');

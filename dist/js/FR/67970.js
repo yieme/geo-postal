@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67970"]={"code":"67970","region":"Grand-Est","city":"Oermingen","latitude":48.99899,"longitude":7.12744}}(window,'GeoPostal','FR');

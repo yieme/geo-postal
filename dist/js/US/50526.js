@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50526"]={"code":"50526","region":"IA","city":"Clarion","latitude":42.733,"longitude":-93.7352}}(window,'GeoPostal','US');

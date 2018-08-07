@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34152"]={"code":"34152","region":"Lampung","city":"Punggur","latitude":-5.04146,"longitude":105.27734}}(window,'GeoPostal','ID');

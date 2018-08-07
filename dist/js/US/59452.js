@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59452"]={"code":"59452","region":"MT","city":"Hobson","latitude":46.9968,"longitude":-109.8756}}(window,'GeoPostal','US');

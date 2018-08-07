@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60025"]={"code":"60025","region":"Marche","city":"Loreto","latitude":43.43536,"longitude":13.60978}}(window,'GeoPostal','IT');

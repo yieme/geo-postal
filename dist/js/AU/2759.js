@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2759"]={"code":"2759","region":"New South Wales","city":"Erskine Park","latitude":-33.81301,"longitude":150.79773}}(window,'GeoPostal','AU');

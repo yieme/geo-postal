@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["694202"]={"code":"694202","region":"Sakhalinskaya oblast'","city":"Vakhrushev","latitude":48.98333,"longitude":142.96667}}(window,'GeoPostal','RU');

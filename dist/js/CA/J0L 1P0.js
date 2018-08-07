@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0L 1P0"]={"code":"J0L 1P0","region":"Quebec","city":"Sainte-Angele-de-Monnoir","latitude":45.38338,"longitude":-73.09915}}(window,'GeoPostal','CA');

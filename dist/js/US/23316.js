@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23316"]={"code":"23316","region":"VA","city":"Cheriton","latitude":37.2896,"longitude":-75.9713}}(window,'GeoPostal','US');

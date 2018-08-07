@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67547"]={"code":"67547","region":"Rheinland-Pfalz","city":"Worms","latitude":49.63278,"longitude":8.35916}}(window,'GeoPostal','DE');

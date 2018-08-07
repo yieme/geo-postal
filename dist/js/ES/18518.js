@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18518"]={"code":"18518","region":"Andalucia","city":"Jeres del Marquesado","latitude":37.18382,"longitude":-3.15961}}(window,'GeoPostal','ES');

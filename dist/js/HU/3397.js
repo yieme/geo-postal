@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3397"]={"code":"3397","region":"Heves","city":"Maklar","latitude":47.8,"longitude":20.41667}}(window,'GeoPostal','HU');

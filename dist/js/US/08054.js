@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08054"]={"code":"08054","region":"New Jersey","city":"Mount Laurel","latitude":39.94782,"longitude":-74.91168}}(window,'GeoPostal','US');

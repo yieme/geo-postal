@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10800"]={"code":"10800","region":"Sanliurfa","city":"Ceylanpinar","latitude":36.84722,"longitude":40.05}}(window,'GeoPostal','TR');

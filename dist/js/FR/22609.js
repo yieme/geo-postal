@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22609"]={"code":"22609","region":"Bretagne","city":"Loudeac","latitude":48.17826,"longitude":-2.75433}}(window,'GeoPostal','FR');

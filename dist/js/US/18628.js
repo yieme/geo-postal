@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18628"]={"code":"18628","region":"Pennsylvania","city":"Lopez","latitude":41.45762,"longitude":-76.295306}}(window,'GeoPostal','US');

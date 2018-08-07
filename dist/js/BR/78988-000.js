@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78988-000"]={"code":"78988-000","region":"Rondonia","city":"Pimenta Bueno","latitude":-11.6725,"longitude":-61.19361}}(window,'GeoPostal','BR');

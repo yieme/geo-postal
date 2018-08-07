@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["421001"]={"code":"421001","region":"Maharashtra","city":"Vasind","latitude":19.41667,"longitude":73.26667}}(window,'GeoPostal','IN');

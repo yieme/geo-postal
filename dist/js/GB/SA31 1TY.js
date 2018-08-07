@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA31 1TY"]={"code":"SA31 1TY","region":"Wales","city":"Ffynnon-ddrain","latitude":51.87028,"longitude":-4.3225}}(window,'GeoPostal','GB');

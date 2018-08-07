@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78635"]={"code":"78635","region":"Ivano-Frankivska oblast","city":"Rozhniv","latitude":48.36597,"longitude":25.2258}}(window,'GeoPostal','UA');

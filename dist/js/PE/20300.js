@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20300"]={"code":"20300","region":"Piura","city":"Chulucanas","latitude":-5.0925,"longitude":-80.1625}}(window,'GeoPostal','PE');

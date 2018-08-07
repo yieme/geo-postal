@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247040"]={"code":"247040","region":"Valcea","city":"Berislavesti","latitude":45.25,"longitude":24.41667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["JMCHR12"]={"code":"JMCHR12","region":"Saint Catherine","city":"Spanish Town","latitude":17.99107,"longitude":-76.95742}}(window,'GeoPostal','JM');

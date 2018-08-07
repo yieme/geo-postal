@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93245"]={"code":"93245","region":"Ile-de-France","city":"Stains","latitude":48.95,"longitude":2.38333}}(window,'GeoPostal','FR');

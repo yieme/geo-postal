@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59292"]={"code":"59292","region":"Hauts-de-France","city":"Saint-Hilaire-lez-Cambrai","latitude":50.18419,"longitude":3.41327}}(window,'GeoPostal','FR');

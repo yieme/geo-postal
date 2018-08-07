@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38160"]={"code":"38160","region":"Auvergne-Rhone-Alpes","city":"Chatte","latitude":45.1431,"longitude":5.28441}}(window,'GeoPostal','FR');

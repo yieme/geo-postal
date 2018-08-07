@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WV10 9SA"]={"code":"WV10 9SA","region":"England","city":"Fallings Park","latitude":52.60267,"longitude":-2.11561}}(window,'GeoPostal','GB');

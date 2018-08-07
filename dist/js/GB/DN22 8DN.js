@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 8DN"]={"code":"DN22 8DN","region":"England","city":"Bothamsall","latitude":53.25313,"longitude":-0.98949}}(window,'GeoPostal','GB');

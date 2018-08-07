@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58730"]={"code":"58730","region":"Nordrhein-Westfalen","city":"Westick","latitude":51.4732,"longitude":7.78777}}(window,'GeoPostal','DE');

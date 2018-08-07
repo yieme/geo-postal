@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9601"]={"code":"9601","region":"Karnten","city":"Arnoldstein","latitude":46.54611,"longitude":13.71}}(window,'GeoPostal','AT');

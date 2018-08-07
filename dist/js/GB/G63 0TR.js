@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G63 0TR"]={"code":"G63 0TR","region":"Scotland","city":"Balfron","latitude":56.06809,"longitude":-4.33559}}(window,'GeoPostal','GB');

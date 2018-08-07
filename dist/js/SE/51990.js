@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51990"]={"code":"51990","region":"Vastra Gotalands lan","city":"Horred","latitude":57.35,"longitude":12.46667}}(window,'GeoPostal','SE');

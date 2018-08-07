@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56505"]={"code":"56505","region":"Sagarmatha","city":"Lahan","latitude":26.72958,"longitude":86.49515}}(window,'GeoPostal','NP');

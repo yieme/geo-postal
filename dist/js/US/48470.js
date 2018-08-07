@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48470"]={"code":"48470","region":"Michigan","city":"Ruth","latitude":43.731137,"longitude":-82.751529}}(window,'GeoPostal','US');

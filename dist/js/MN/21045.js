@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21045"]={"code":"21045","region":"Dornod","city":"Choybalsan","latitude":48.06667,"longitude":114.5}}(window,'GeoPostal','MN');

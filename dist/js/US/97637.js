@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97637"]={"code":"97637","region":"Oregon","city":"Plush","latitude":42.607649,"longitude":-119.970655}}(window,'GeoPostal','US');

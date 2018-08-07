@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16233"]={"code":"16233","region":"Pennsylvania","city":"Leeper","latitude":41.360704,"longitude":-79.295602}}(window,'GeoPostal','US');

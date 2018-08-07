@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55760"]={"code":"55760","region":"Minnesota","city":"McGregor","latitude":46.70778,"longitude":-93.29688}}(window,'GeoPostal','US');

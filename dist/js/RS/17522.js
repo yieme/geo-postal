@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17522"]={"code":"17522","region":"Pcinjski okrug","city":"Sumulice","latitude":42.38682,"longitude":21.734}}(window,'GeoPostal','RS');

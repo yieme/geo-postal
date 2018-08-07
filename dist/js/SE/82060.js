@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82060"]={"code":"82060","region":"Gavleborgs lan","city":"Delsbo","latitude":61.80104,"longitude":16.55571}}(window,'GeoPostal','SE');

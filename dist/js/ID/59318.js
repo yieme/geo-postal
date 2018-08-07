@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59318"]={"code":"59318","region":"Jawa Tengah","city":"Kudus","latitude":-6.8048,"longitude":110.8405}}(window,'GeoPostal','ID');

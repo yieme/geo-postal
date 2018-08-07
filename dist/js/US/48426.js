@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48426"]={"code":"48426","region":"MI","city":"Decker","latitude":43.4775,"longitude":-83.0638}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54859"]={"code":"54859","region":"Wisconsin","city":"Minong","latitude":46.11639,"longitude":-91.91806}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["659660"]={"code":"659660","region":"Altayskiy kray","city":"Petropavlovskoye","latitude":52.0712,"longitude":84.107}}(window,'GeoPostal','RU');

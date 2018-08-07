@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37726"]={"code":"37726","region":"Tennessee","city":"Deer Lodge","latitude":36.219953,"longitude":-84.838812}}(window,'GeoPostal','US');

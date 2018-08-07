@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39190"]={"code":"39190","region":"Bourgogne-Franche-Comte","city":"Cousance","latitude":46.53324,"longitude":5.39214}}(window,'GeoPostal','FR');

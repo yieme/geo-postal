@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38545"]={"code":"38545","region":"TN","city":"Bloomington Springs","latitude":36.2321,"longitude":-85.6628}}(window,'GeoPostal','US');

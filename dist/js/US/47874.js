@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47874"]={"code":"47874","region":"IN","city":"Rosedale","latitude":39.6239,"longitude":-87.3086}}(window,'GeoPostal','US');

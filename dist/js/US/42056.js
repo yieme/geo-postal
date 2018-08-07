@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42056"]={"code":"42056","region":"Kentucky","city":"La Center","latitude":37.101656,"longitude":-88.97177}}(window,'GeoPostal','US');

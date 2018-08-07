@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["606321"]={"code":"606321","region":"Nizhegorodskaya oblast'","city":"Surovatikha","latitude":55.76516,"longitude":43.89845}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51018"]={"code":"51018","region":"Iowa","city":"Cushing","latitude":42.464673,"longitude":-95.676276}}(window,'GeoPostal','US');

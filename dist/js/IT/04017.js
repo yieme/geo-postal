@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04017"]={"code":"04017","region":"Lazio","city":"San Felice Circeo","latitude":41.23716,"longitude":13.09416}}(window,'GeoPostal','IT');

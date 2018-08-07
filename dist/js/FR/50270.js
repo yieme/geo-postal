@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50270"]={"code":"50270","region":"Normandie","city":"Surtainville","latitude":49.45977,"longitude":-1.81298}}(window,'GeoPostal','FR');

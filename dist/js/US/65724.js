@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65724"]={"code":"65724","region":"Missouri","city":"Pittsburg","latitude":37.842216,"longitude":-93.330327}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["663840"]={"code":"663840","region":"Krasnoyarskiy kray","city":"Nizhnyaya Poyma","latitude":56.16222,"longitude":97.19333}}(window,'GeoPostal','RU');

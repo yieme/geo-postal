@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98610"]={"code":"98610","region":"Washington","city":"Carson","latitude":45.72539,"longitude":-121.81924}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60550"]={"code":"60550","region":"Illinois","city":"Shabbona","latitude":41.768209,"longitude":-88.869291}}(window,'GeoPostal','US');

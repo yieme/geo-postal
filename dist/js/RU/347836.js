@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347836"]={"code":"347836","region":"Rostovskaya oblast'","city":"Masalovka","latitude":48.40372,"longitude":40.26064}}(window,'GeoPostal','RU');

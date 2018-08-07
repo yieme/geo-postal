@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06813"]={"code":"06813","region":"Connecticut","city":"Danbury","latitude":41.3961,"longitude":-73.4544}}(window,'GeoPostal','US');

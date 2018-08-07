@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46850"]={"code":"46850","region":"Valenciana, Comunidad","city":"L'Olleria","latitude":38.91667,"longitude":-0.55}}(window,'GeoPostal','ES');

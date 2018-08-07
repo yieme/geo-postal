@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83852"]={"code":"83852","region":"Idaho","city":"Ponderay","latitude":48.30548,"longitude":-116.5338}}(window,'GeoPostal','US');

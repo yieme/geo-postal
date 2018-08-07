@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["248002"]={"code":"248002","region":"Uttarakhand","city":"Doiwala","latitude":30.18333,"longitude":78.11667}}(window,'GeoPostal','IN');

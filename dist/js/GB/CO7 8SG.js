@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO7 8SG"]={"code":"CO7 8SG","region":"England","city":"Little Bentley","latitude":51.89008,"longitude":1.0755}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38172"]={"code":"38172","region":"Guanajuato","city":"Empalme Escobedo","latitude":20.68333,"longitude":-100.73333}}(window,'GeoPostal','MX');

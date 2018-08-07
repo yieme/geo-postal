@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0X 1W0"]={"code":"V0X 1W0","region":"British Columbia","city":"Jellicoe","latitude":49.68304,"longitude":-120.28575}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9104"]={"code":"9104","region":"Northern Samar","city":"Catarman","latitude":12.4989,"longitude":124.6377}}(window,'GeoPostal','PH');

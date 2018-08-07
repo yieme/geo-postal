@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41065"]={"code":"41065","region":"Nordrhein-Westfalen","city":"Monchengladbach","latitude":51.18539,"longitude":6.44172}}(window,'GeoPostal','DE');

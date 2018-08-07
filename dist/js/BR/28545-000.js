@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28545-000"]={"code":"28545-000","region":"Rio de Janeiro","city":"Cantagalo","latitude":-21.98111,"longitude":-42.36806}}(window,'GeoPostal','BR');

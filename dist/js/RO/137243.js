@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137243"]={"code":"137243","region":"Bacau","city":"Szekelyhid","latitude":47.35,"longitude":22.1}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53582"]={"code":"53582","region":"WI","city":"Ridgeway","latitude":43.0077,"longitude":-89.9889}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15419"]={"code":"15419","region":"Pennsylvania","city":"California","latitude":40.06563,"longitude":-79.89171}}(window,'GeoPostal','US');

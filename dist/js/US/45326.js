@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45326"]={"code":"45326","region":"Ohio","city":"Fletcher","latitude":40.139874,"longitude":-84.102169}}(window,'GeoPostal','US');

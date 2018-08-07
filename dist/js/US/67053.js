@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67053"]={"code":"67053","region":"KS","city":"Goessel","latitude":38.2468,"longitude":-97.3463}}(window,'GeoPostal','US');

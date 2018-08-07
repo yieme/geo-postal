@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20167"]={"code":"20167","region":"Corse","city":"Peri","latitude":42.00394,"longitude":8.92096}}(window,'GeoPostal','FR');

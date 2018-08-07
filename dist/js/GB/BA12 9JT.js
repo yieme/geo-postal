@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BA12 9JT"]={"code":"BA12 9JT","region":"England","city":"Boreham","latitude":51.19944,"longitude":-2.16556}}(window,'GeoPostal','GB');

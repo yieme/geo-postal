@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2566"]={"code":"2566","region":"New South Wales","city":"Minto","latitude":-34.03333,"longitude":150.85}}(window,'GeoPostal','AU');

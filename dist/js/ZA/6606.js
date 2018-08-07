@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6606"]={"code":"6606","region":"Western Cape","city":"Plettenberg Bay","latitude":-34.05274,"longitude":23.3716}}(window,'GeoPostal','ZA');

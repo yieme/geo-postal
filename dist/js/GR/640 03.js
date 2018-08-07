@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["640 03"]={"code":"640 03","region":"Anatoliki Makedonia kai Thraki","city":"Zigos","latitude":41.01667,"longitude":24.38333}}(window,'GeoPostal','GR');

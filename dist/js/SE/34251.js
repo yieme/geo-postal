@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34251"]={"code":"34251","region":"Kronobergs lan","city":"Vislanda","latitude":56.78333,"longitude":14.45}}(window,'GeoPostal','SE');

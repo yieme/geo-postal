@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["232001"]={"code":"232001","region":"Anhui","city":"Huainan","latitude":32.62639,"longitude":116.99694}}(window,'GeoPostal','CN');

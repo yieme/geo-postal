@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52757"]={"code":"52757","region":"Iowa","city":"De Witt","latitude":41.836814,"longitude":-90.477739}}(window,'GeoPostal','US');

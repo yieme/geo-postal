@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12458"]={"code":"12458","region":"NY","city":"Napanoch","latitude":41.759,"longitude":-74.3804}}(window,'GeoPostal','US');

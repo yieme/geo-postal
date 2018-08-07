@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17940"]={"code":"17940","region":"Nouvelle-Aquitaine","city":"Rivedoux-Plage","latitude":46.15854,"longitude":-1.27093}}(window,'GeoPostal','FR');

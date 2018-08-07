@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16142"]={"code":"16142","region":"PA","city":"New Wilmington","latitude":41.1382,"longitude":-80.3245}}(window,'GeoPostal','US');

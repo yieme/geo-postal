@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["895-2811"]={"code":"895-2811","region":"Kagoshima","city":"Isa","latitude":32.05722,"longitude":130.61306}}(window,'GeoPostal','JP');

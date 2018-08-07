@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2749"]={"code":"2749","region":"New South Wales","city":"Castlereagh","latitude":-33.68981,"longitude":150.67887}}(window,'GeoPostal','AU');

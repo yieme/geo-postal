@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0K 1R0"]={"code":"J0K 1R0","region":"Quebec","city":"Sainte-Angele-de-Premont","latitude":46.36676,"longitude":-73.04914}}(window,'GeoPostal','CA');

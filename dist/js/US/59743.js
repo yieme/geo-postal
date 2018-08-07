@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59743"]={"code":"59743","region":"MT","city":"Melrose","latitude":45.6319,"longitude":-112.6845}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01237"]={"code":"01237","region":"MA","city":"Lanesboro","latitude":42.5173,"longitude":-73.2282}}(window,'GeoPostal','US');

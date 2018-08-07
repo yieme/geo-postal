@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49877"]={"code":"49877","region":"MI","city":"Ralph","latitude":46.1297,"longitude":-87.7367}}(window,'GeoPostal','US');

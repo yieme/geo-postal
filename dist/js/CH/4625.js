@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4625"]={"code":"4625","region":"Solothurn","city":"Oberbuchsiten","latitude":47.30508,"longitude":7.75746}}(window,'GeoPostal','CH');

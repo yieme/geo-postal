@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87931"]={"code":"87931","region":"New Mexico","city":"Caballo","latitude":33.016364,"longitude":-107.415229}}(window,'GeoPostal','US');

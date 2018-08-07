@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 9TS"]={"code":"DL12 9TS","region":"England","city":"Wycliffe","latitude":54.52278,"longitude":-1.81824}}(window,'GeoPostal','GB');

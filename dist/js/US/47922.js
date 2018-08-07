@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47922"]={"code":"47922","region":"Indiana","city":"Brook","latitude":40.866883,"longitude":-87.364877}}(window,'GeoPostal','US');

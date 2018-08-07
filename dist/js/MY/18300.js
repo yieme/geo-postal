@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18300"]={"code":"18300","region":"Kelantan","city":"Gua Musang","latitude":4.8823,"longitude":101.9644}}(window,'GeoPostal','MY');

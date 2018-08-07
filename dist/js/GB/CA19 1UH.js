@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA19 1UH"]={"code":"CA19 1UH","region":"England","city":"Holmrook","latitude":54.38641,"longitude":-3.41931}}(window,'GeoPostal','GB');

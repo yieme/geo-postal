@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25704"]={"code":"25704","region":"Schleswig-Holstein","city":"Elpersbuttelerdonn","latitude":54.06386,"longitude":9.06962}}(window,'GeoPostal','DE');

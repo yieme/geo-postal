@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4201"]={"code":"4201","region":"Rogaland","city":"Sauda","latitude":59.65059,"longitude":6.35415}}(window,'GeoPostal','NO');

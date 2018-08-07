@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43933"]={"code":"43933","region":"Ohio","city":"Jacobsburg","latitude":39.942956,"longitude":-80.898801}}(window,'GeoPostal','US');

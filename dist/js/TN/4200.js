@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4200"]={"code":"4200","region":"Kebili","city":"Kebili","latitude":33.70439,"longitude":8.96903}}(window,'GeoPostal','TN');

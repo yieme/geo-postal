@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37830"]={"code":"37830","region":"Tennessee","city":"Oak Ridge","latitude":36.01036,"longitude":-84.26964}}(window,'GeoPostal','US');

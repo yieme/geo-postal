@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["191131"]={"code":"191131","region":"Jammu and Kashmir","city":"Shupiyan","latitude":33.71667,"longitude":74.83333}}(window,'GeoPostal','IN');

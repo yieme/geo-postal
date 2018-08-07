@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16220"]={"code":"16220","region":"Castilla-La Mancha","city":"Quintanar del Rey","latitude":39.33333,"longitude":-1.93333}}(window,'GeoPostal','ES');

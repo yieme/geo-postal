@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25919"]={"code":"25919","region":"WV","city":"Skelton","latitude":37.8005,"longitude":-81.1806}}(window,'GeoPostal','US');

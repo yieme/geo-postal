@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12861"]={"code":"12861","region":"NY","city":"Putnam Station","latitude":43.756,"longitude":-73.4123}}(window,'GeoPostal','US');

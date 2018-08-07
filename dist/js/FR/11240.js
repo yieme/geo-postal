@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11240"]={"code":"11240","region":"Occitanie","city":"Belveze-du-Razes","latitude":43.1258,"longitude":2.0958}}(window,'GeoPostal','FR');

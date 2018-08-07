@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60115"]={"code":"60115","region":"Illinois","city":"DeKalb","latitude":41.92947,"longitude":-88.75036}}(window,'GeoPostal','US');

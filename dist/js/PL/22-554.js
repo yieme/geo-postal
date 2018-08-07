@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22-554"]={"code":"22-554","region":"Lubelskie","city":"Werbkowice","latitude":50.75373,"longitude":23.76411}}(window,'GeoPostal','PL');

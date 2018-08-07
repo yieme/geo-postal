@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58500-000"]={"code":"58500-000","region":"Paraiba","city":"Monteiro","latitude":-7.88944,"longitude":-37.12}}(window,'GeoPostal','BR');

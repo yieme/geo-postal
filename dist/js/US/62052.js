@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62052"]={"code":"62052","region":"Illinois","city":"Jerseyville","latitude":39.13578,"longitude":-90.333}}(window,'GeoPostal','US');

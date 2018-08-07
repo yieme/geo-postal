@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59444"]={"code":"59444","region":"MT","city":"Galata","latitude":48.8111,"longitude":-111.4704}}(window,'GeoPostal','US');

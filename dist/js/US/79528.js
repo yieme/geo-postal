@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79528"]={"code":"79528","region":"Texas","city":"Jayton","latitude":33.24815,"longitude":-100.57373}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06444"]={"code":"06444","region":"CT","city":"Marion","latitude":41.5637,"longitude":-72.9257}}(window,'GeoPostal','US');

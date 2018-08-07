@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77294"]={"code":"77294","region":"Dalarnas lan","city":"Grangesberg","latitude":60.08333,"longitude":14.98333}}(window,'GeoPostal','SE');

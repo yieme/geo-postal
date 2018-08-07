@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98200-000"]={"code":"98200-000","region":"Rio Grande do Sul","city":"Ibiruba","latitude":-28.6275,"longitude":-53.08972}}(window,'GeoPostal','BR');

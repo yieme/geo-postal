@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28174"]={"code":"28174","region":"NC","city":"Wingate","latitude":34.9847,"longitude":-80.4476}}(window,'GeoPostal','US');

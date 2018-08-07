@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["261506"]={"code":"261506","region":"Uttar Pradesh","city":"Sitapur","latitude":27.56667,"longitude":80.68333}}(window,'GeoPostal','IN');

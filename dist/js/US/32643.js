@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32643"]={"code":"32643","region":"FL","city":"High Springs","latitude":29.841,"longitude":-82.6156}}(window,'GeoPostal','US');

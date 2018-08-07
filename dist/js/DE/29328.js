@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29328"]={"code":"29328","region":"Niedersachsen","city":"Fassberg","latitude":52.9,"longitude":10.16667}}(window,'GeoPostal','DE');

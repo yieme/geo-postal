@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76820"]={"code":"76820","region":"TX","city":"Art","latitude":30.767,"longitude":-99.0486}}(window,'GeoPostal','US');

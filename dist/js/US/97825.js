@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97825"]={"code":"97825","region":"OR","city":"Dayville","latitude":44.4663,"longitude":-119.5312}}(window,'GeoPostal','US');

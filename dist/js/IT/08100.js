@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08100"]={"code":"08100","region":"Sardegna","city":"Nuoro","latitude":40.32106,"longitude":9.32973}}(window,'GeoPostal','IT');

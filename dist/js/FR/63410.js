@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63410"]={"code":"63410","region":"Auvergne-Rhone-Alpes","city":"Manzat","latitude":45.96105,"longitude":2.94205}}(window,'GeoPostal','FR');

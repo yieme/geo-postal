@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63061"]={"code":"63061","region":"MO","city":"Luebbering","latitude":38.2615,"longitude":-90.8027}}(window,'GeoPostal','US');

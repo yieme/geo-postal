@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50144"]={"code":"50144","region":"Iowa","city":"Leon","latitude":40.73972,"longitude":-93.74772}}(window,'GeoPostal','US');

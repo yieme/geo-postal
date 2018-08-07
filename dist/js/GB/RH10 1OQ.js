@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RH10 1OQ"]={"code":"RH10 1OQ","region":"England","city":"Crawley","latitude":51.1112,"longitude":-1.39432}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR12 0XN"]={"code":"NR12 0XN","region":"England","city":"Hickling","latitude":52.75546,"longitude":1.56984}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27544"]={"code":"27544","region":"NC","city":"Kittrell","latitude":36.2042,"longitude":-78.4241}}(window,'GeoPostal','US');

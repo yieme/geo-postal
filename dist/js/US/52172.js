@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52172"]={"code":"52172","region":"Iowa","city":"Waukon","latitude":43.26942,"longitude":-91.4757}}(window,'GeoPostal','US');

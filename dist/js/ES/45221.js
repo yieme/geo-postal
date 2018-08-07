@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45221"]={"code":"45221","region":"Castilla-La Mancha","city":"Esquivias","latitude":40.1044,"longitude":-3.76677}}(window,'GeoPostal','ES');

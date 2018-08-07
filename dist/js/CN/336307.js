@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["336307"]={"code":"336307","region":"Jiangxi","city":"Shishi","latitude":28.25914,"longitude":114.77134}}(window,'GeoPostal','CN');

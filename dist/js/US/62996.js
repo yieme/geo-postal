@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62996"]={"code":"62996","region":"Illinois","city":"Villa Ridge","latitude":37.15861,"longitude":-89.19472}}(window,'GeoPostal','US');

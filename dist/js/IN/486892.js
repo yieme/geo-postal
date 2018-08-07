@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["486892"]={"code":"486892","region":"Madhya Pradesh","city":"Satna","latitude":24.58333,"longitude":80.83333}}(window,'GeoPostal','IN');

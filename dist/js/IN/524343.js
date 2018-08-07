@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["524343"]={"code":"524343","region":"Andhra Pradesh","city":"Amudalavalasa","latitude":18.41667,"longitude":83.9}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45149"]={"code":"45149","region":"Centre-Val de Loire","city":"Saint-Jean-de-la-Ruelle","latitude":47.91127,"longitude":1.86483}}(window,'GeoPostal','FR');

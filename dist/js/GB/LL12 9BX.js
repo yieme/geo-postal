@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL12 9BX"]={"code":"LL12 9BX","region":"Wales","city":"Caergwrle","latitude":53.10953,"longitude":-3.03808}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110"]={"code":"110","region":"Streymoy","city":"Torshavn","latitude":62.00973,"longitude":-6.77164}}(window,'GeoPostal','FO');

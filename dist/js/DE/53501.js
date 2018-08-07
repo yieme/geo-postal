@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53501"]={"code":"53501","region":"Rheinland-Pfalz","city":"Gelsdorf","latitude":50.58593,"longitude":7.03689}}(window,'GeoPostal','DE');

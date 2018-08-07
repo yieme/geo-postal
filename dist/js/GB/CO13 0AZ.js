@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO13 0AZ"]={"code":"CO13 0AZ","region":"England","city":"Tendring","latitude":51.88333,"longitude":-1.1}}(window,'GeoPostal','GB');

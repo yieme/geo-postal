@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85360"]={"code":"85360","region":"Arizona","city":"Wikieup","latitude":34.65504,"longitude":-113.75797}}(window,'GeoPostal','US');

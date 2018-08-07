@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65713"]={"code":"65713","region":"Missouri","city":"Niangua","latitude":37.401868,"longitude":-92.74276}}(window,'GeoPostal','US');

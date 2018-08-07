@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46928"]={"code":"46928","region":"Indiana","city":"Fairmount","latitude":40.41532,"longitude":-85.65053}}(window,'GeoPostal','US');

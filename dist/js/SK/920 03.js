@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["920 03"]={"code":"920 03","region":"Trnavsky kraj","city":"Hlohovec","latitude":48.43174,"longitude":17.8031}}(window,'GeoPostal','SK');

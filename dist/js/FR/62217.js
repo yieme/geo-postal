@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62217"]={"code":"62217","region":"Hauts-de-France","city":"Agny","latitude":50.25914,"longitude":2.76002}}(window,'GeoPostal','FR');

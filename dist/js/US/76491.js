@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76491"]={"code":"76491","region":"Texas","city":"Woodson","latitude":33.01523,"longitude":-99.05598}}(window,'GeoPostal','US');

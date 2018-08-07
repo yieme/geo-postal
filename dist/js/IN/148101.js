@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["148101"]={"code":"148101","region":"Punjab","city":"Barnala","latitude":30.38333,"longitude":75.55}}(window,'GeoPostal','IN');

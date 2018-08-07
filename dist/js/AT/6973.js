@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6973"]={"code":"6973","region":"Vorarlberg","city":"Hochst","latitude":47.45934,"longitude":9.6405}}(window,'GeoPostal','AT');

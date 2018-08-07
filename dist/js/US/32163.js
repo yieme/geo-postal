@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32163"]={"code":"32163","region":"FL","city":"The Villages","latitude":28.9338,"longitude":-81.9914}}(window,'GeoPostal','US');

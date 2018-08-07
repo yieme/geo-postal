@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76628"]={"code":"76628","region":"TX","city":"Brandon","latitude":32.0457,"longitude":-96.9606}}(window,'GeoPostal','US');

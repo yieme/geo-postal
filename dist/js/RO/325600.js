@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["325600"]={"code":"325600","region":"Caras-Severin","city":"Oravita","latitude":45.0325,"longitude":21.68944}}(window,'GeoPostal','RO');

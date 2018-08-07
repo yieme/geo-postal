@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N8M 2C7"]={"code":"N8M 2C7","region":"Ontario","city":"Essex","latitude":42.177419,"longitude":-82.825401}}(window,'GeoPostal','CA');

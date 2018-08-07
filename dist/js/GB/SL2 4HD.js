@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SL2 4HD"]={"code":"SL2 4HD","region":"England","city":"Stoke Poges","latitude":51.54441,"longitude":-0.5888}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HR3 6EW"]={"code":"HR3 6EW","region":"England","city":"Whitney","latitude":52.11667,"longitude":-3.08333}}(window,'GeoPostal','GB');

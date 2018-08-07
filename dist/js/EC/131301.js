@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["131301"]={"code":"131301","region":"Manabi","city":"Sucre","latitude":-1.26667,"longitude":-80.43333}}(window,'GeoPostal','EC');

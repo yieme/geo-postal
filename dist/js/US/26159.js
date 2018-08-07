@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26159"]={"code":"26159","region":"WV","city":"Paden City","latitude":39.6044,"longitude":-80.9265}}(window,'GeoPostal','US');

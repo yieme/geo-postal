@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54943"]={"code":"54943","region":"WI","city":"Hancock","latitude":44.1297,"longitude":-89.5344}}(window,'GeoPostal','US');

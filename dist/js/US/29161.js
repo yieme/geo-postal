@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29161"]={"code":"29161","region":"SC","city":"Timmonsville","latitude":34.1012,"longitude":-79.9378}}(window,'GeoPostal','US');

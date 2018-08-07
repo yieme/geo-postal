@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59700-000"]={"code":"59700-000","region":"Rio Grande do Norte","city":"Apodi","latitude":-5.66417,"longitude":-37.79889}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90592"]={"code":"90592","region":"Bayern","city":"Ochenbruck","latitude":49.35996,"longitude":11.25558}}(window,'GeoPostal','DE');

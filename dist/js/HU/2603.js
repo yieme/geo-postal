@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2603"]={"code":"2603","region":"Pest","city":"Vac","latitude":47.77591,"longitude":19.13612}}(window,'GeoPostal','HU');

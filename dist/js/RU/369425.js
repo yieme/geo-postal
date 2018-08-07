@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369425"]={"code":"369425","region":"Karachayevo-Cherkesskaya Respublika","city":"Ali-Berdukovskiy","latitude":43.98952,"longitude":41.74212}}(window,'GeoPostal','RU');

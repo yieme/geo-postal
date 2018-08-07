@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04421"]={"code":"04421","region":"ME","city":"Castine","latitude":44.4156,"longitude":-68.7929}}(window,'GeoPostal','US');

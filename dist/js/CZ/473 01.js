@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["473 01"]={"code":"473 01","region":"Liberecky kraj","city":"Novy Bor","latitude":50.75761,"longitude":14.55555}}(window,'GeoPostal','CZ');

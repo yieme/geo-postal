@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91282"]={"code":"91282","region":"Bayern","city":"Betzenstein","latitude":49.68174,"longitude":11.41765}}(window,'GeoPostal','DE');

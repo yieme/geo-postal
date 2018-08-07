@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81526"]={"code":"81526","region":"CO","city":"Palisade","latitude":39.1032,"longitude":-108.368}}(window,'GeoPostal','US');

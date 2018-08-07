@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-4101"]={"code":"MD-4101","region":"Cimislia","city":"Cimislia","latitude":46.52,"longitude":28.78417}}(window,'GeoPostal','MD');

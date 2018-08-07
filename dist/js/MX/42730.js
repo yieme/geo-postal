@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42730"]={"code":"42730","region":"Hidalgo","city":"Progreso de Obregon","latitude":20.25,"longitude":-99.2}}(window,'GeoPostal','MX');

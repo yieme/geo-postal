@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0P 1J0"]={"code":"B0P 1J0","region":"Nova Scotia","city":"Halls Harbour","latitude":45.20015,"longitude":-64.61547}}(window,'GeoPostal','CA');

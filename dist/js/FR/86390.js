@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86390"]={"code":"86390","region":"Nouvelle-Aquitaine","city":"Lathus-Saint-Remy","latitude":46.33333,"longitude":0.96667}}(window,'GeoPostal','FR');

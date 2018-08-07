@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45727"]={"code":"45727","region":"Ohio","city":"Dexter City","latitude":39.637138,"longitude":-81.506486}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8883"]={"code":"8883","region":"Sankt Gallen","city":"Quarten","latitude":47.10016,"longitude":9.23401}}(window,'GeoPostal','CH');

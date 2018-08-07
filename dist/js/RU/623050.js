@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["623050"]={"code":"623050","region":"Sverdlovskaya oblast'","city":"Bisert'","latitude":56.86174,"longitude":59.05231}}(window,'GeoPostal','RU');

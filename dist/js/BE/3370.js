@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3370"]={"code":"3370","region":"Vlaams-Brabant","city":"Boutersem","latitude":50.83511,"longitude":4.8345}}(window,'GeoPostal','BE');

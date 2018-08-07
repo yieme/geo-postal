@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5162"]={"code":"5162","region":"South Australia","city":"Morphett Vale","latitude":-35.13333,"longitude":138.51667}}(window,'GeoPostal','AU');

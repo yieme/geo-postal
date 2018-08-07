@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44202"]={"code":"44202","region":"Ohio","city":"Aurora","latitude":41.315689,"longitude":-81.347324}}(window,'GeoPostal','US');

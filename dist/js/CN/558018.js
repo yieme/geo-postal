@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["558018"]={"code":"558018","region":"Guizhou","city":"Duyun","latitude":26.26667,"longitude":107.51667}}(window,'GeoPostal','CN');

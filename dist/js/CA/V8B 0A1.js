@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V8B 0A1"]={"code":"V8B 0A1","region":"British Columbia","city":"Squamish","latitude":49.70017,"longitude":-123.15597}}(window,'GeoPostal','CA');

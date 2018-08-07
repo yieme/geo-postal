@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00729"]={"code":"00729","region":"Canovanas","city":"Campo Rico","latitude":18.33717,"longitude":-65.89794}}(window,'GeoPostal','PR');

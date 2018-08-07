@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["647000"]={"code":"647000","region":"Krasnoyarskiy kray","city":"Dudinka","latitude":69.40583,"longitude":86.17778}}(window,'GeoPostal','RU');

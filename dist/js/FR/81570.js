@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81570"]={"code":"81570","region":"Occitanie","city":"Vielmur-sur-Agout","latitude":43.61667,"longitude":2.1}}(window,'GeoPostal','FR');

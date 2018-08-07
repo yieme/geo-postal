@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99603"]={"code":"99603","region":"Alaska","city":"Homer","latitude":59.6425,"longitude":-151.54833}}(window,'GeoPostal','US');

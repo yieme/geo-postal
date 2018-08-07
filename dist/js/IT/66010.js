@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66010"]={"code":"66010","region":"Abruzzo","city":"Fara Filiorum Petri","latitude":42.24894,"longitude":14.18601}}(window,'GeoPostal','IT');

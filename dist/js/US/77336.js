@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77336"]={"code":"77336","region":"TX","city":"Huffman","latitude":30.0565,"longitude":-95.1051}}(window,'GeoPostal','US');

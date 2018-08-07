@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3169"]={"code":"3169","region":"New South Wales","city":"Rosebank","latitude":-28.66667,"longitude":153.4}}(window,'GeoPostal','AU');

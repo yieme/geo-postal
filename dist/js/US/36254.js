@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36254"]={"code":"36254","region":"AL","city":"Choccolocco","latitude":33.6573,"longitude":-85.6991}}(window,'GeoPostal','US');

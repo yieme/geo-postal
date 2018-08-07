@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807076"]={"code":"807076","region":"Dambovita","city":"Baleni","latitude":45.81667,"longitude":27.83333}}(window,'GeoPostal','RO');

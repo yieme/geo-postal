@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["024411"]={"code":"024411","region":"Nei Mongol","city":"Mujiayingzi","latitude":42.11667,"longitude":118.78333}}(window,'GeoPostal','CN');

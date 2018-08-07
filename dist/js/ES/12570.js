@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12570"]={"code":"12570","region":"Valenciana, Comunidad","city":"Alcala de Xivert","latitude":40.3,"longitude":0.23333}}(window,'GeoPostal','ES');

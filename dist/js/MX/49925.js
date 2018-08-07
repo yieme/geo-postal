@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49925"]={"code":"49925","region":"Jalisco","city":"Union de San Antonio","latitude":21.1,"longitude":-101.96667}}(window,'GeoPostal','MX');

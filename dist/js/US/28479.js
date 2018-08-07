@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28479"]={"code":"28479","region":"NC","city":"Winnabow","latitude":34.1553,"longitude":-78.0558}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24323"]={"code":"24323","region":"Virginia","city":"Crockett","latitude":36.87471,"longitude":-81.210597}}(window,'GeoPostal','US');

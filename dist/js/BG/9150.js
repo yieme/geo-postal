@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9150"]={"code":"9150","region":"Varna","city":"Beloslav","latitude":43.18333,"longitude":27.7}}(window,'GeoPostal','BG');

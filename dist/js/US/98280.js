@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98280"]={"code":"98280","region":"WA","city":"Orcas","latitude":48.5979,"longitude":-122.9446}}(window,'GeoPostal','US');

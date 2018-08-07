@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08107"]={"code":"08107","region":"New Jersey","city":"Collingswood","latitude":39.9071,"longitude":-75.083762}}(window,'GeoPostal','US');

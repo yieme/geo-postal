@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8620"]={"code":"8620","region":"Zurich","city":"Wetzikon","latitude":47.3264,"longitude":8.79779}}(window,'GeoPostal','CH');

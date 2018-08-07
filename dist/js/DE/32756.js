@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32756"]={"code":"32756","region":"Nordrhein-Westfalen","city":"Detmold","latitude":51.93855,"longitude":8.87318}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99604"]={"code":"99604","region":"AK","city":"Hooper Bay","latitude":61.527,"longitude":-166.1151}}(window,'GeoPostal','US');

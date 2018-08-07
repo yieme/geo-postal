@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04912"]={"code":"04912","region":"ME","city":"Athens","latitude":44.9388,"longitude":-69.6695}}(window,'GeoPostal','US');

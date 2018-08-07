@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["028418"]={"code":"028418","region":"Nei Mongol","city":"Kailu","latitude":43.58333,"longitude":121.2}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92364"]={"code":"92364","region":"California","city":"Nipton","latitude":35.46667,"longitude":-115.27222}}(window,'GeoPostal','US');

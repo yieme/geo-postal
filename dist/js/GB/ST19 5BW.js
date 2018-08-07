@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ST19 5BW"]={"code":"ST19 5BW","region":"England","city":"Penkridge","latitude":52.72556,"longitude":-2.1156}}(window,'GeoPostal','GB');

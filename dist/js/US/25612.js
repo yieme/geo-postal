@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25612"]={"code":"25612","region":"WV","city":"Chauncey","latitude":37.7662,"longitude":-81.9876}}(window,'GeoPostal','US');

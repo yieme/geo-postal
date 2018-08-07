@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60946"]={"code":"60946","region":"IL","city":"Kempton","latitude":40.9126,"longitude":-88.209}}(window,'GeoPostal','US');

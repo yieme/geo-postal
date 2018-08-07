@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["793 23"]={"code":"793 23","region":"Liberecky kraj","city":"Karlovice","latitude":50.10564,"longitude":17.44563}}(window,'GeoPostal','CZ');

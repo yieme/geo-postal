@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41421"]={"code":"41421","region":"Kentucky","city":"Elkfork","latitude":37.96481,"longitude":-83.13295}}(window,'GeoPostal','US');

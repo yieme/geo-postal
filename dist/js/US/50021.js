@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50021"]={"code":"50021","region":"Iowa","city":"Ankeny","latitude":41.72971,"longitude":-93.60577}}(window,'GeoPostal','US');

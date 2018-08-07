@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["165270"]={"code":"165270","region":"Arkhangel'skaya oblast'","city":"Ileza","latitude":61.05328,"longitude":43.90021}}(window,'GeoPostal','RU');

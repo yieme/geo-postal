@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48449"]={"code":"48449","region":"MI","city":"Lennon","latitude":42.9693,"longitude":-83.9279}}(window,'GeoPostal','US');

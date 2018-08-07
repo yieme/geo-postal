@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16901"]={"code":"16901","region":"Etela-Pohjanmaa","city":"Lammi","latitude":63.28364,"longitude":23.61469}}(window,'GeoPostal','FI');

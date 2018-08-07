@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87073"]={"code":"87073","region":"Calabria","city":"Oriolo","latitude":40.05381,"longitude":16.44609}}(window,'GeoPostal','IT');

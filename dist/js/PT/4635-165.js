@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4635-165"]={"code":"4635-165","region":"Porto","city":"Santo Tirso","latitude":41.34257,"longitude":-8.47746}}(window,'GeoPostal','PT');

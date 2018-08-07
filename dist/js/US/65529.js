@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65529"]={"code":"65529","region":"MO","city":"Jerome","latitude":37.9262,"longitude":-91.9777}}(window,'GeoPostal','US');

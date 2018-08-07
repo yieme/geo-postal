@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28-232"]={"code":"28-232","region":"Swietokrzyskie","city":"Lubnice","latitude":50.41164,"longitude":21.15014}}(window,'GeoPostal','PL');

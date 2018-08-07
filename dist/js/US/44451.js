@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44451"]={"code":"44451","region":"Ohio","city":"North Jackson","latitude":41.081376,"longitude":-80.86535}}(window,'GeoPostal','US');

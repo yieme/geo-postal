@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["731247"]={"code":"731247","region":"West Bengal","city":"Bangaon","latitude":23.06667,"longitude":88.81667}}(window,'GeoPostal','IN');

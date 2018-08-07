@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24318"]={"code":"24318","region":"Virginia","city":"Ceres","latitude":37.010052,"longitude":-81.36514}}(window,'GeoPostal','US');

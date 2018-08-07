@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43870"]={"code":"43870","region":"Catalunya","city":"Amposta","latitude":40.71308,"longitude":0.58103}}(window,'GeoPostal','ES');

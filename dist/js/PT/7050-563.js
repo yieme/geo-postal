@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7050-563"]={"code":"7050-563","region":"Evora","city":"Montemor-o-Novo","latitude":38.64812,"longitude":-8.21455}}(window,'GeoPostal','PT');

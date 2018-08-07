@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83866"]={"code":"83866","region":"Idaho","city":"Santa","latitude":47.24103,"longitude":-116.545948}}(window,'GeoPostal','US');

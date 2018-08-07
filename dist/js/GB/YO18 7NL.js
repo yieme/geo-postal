@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO18 7NL"]={"code":"YO18 7NL","region":"England","city":"Levisham","latitude":54.30375,"longitude":-0.72072}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77861"]={"code":"77861","region":"TX","city":"Iola","latitude":30.7326,"longitude":-96.0911}}(window,'GeoPostal','US');

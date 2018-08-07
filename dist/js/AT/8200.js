@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8200"]={"code":"8200","region":"Steiermark","city":"Gleisdorf","latitude":47.10559,"longitude":15.71011}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86020"]={"code":"86020","region":"AZ","city":"Cameron","latitude":35.9922,"longitude":-111.5038}}(window,'GeoPostal','US');

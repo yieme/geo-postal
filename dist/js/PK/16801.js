@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16801"]={"code":"16801","region":"Gilgit-Baltistan","city":"Khapalu","latitude":35.15268,"longitude":76.34404}}(window,'GeoPostal','PK');

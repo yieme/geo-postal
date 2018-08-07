@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63990"]={"code":"63990","region":"Auvergne-Rhone-Alpes","city":"Job","latitude":45.61776,"longitude":3.74602}}(window,'GeoPostal','FR');

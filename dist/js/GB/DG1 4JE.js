@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG1 4JE"]={"code":"DG1 4JE","region":"Scotland","city":"Collin","latitude":55.06892,"longitude":-3.52366}}(window,'GeoPostal','GB');

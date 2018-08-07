@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11520"]={"code":"11520","region":"Andalucia","city":"Chipiona","latitude":36.73663,"longitude":-6.43703}}(window,'GeoPostal','ES');

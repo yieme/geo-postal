@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49228"]={"code":"49228","region":"Michigan","city":"Blissfield","latitude":41.820729,"longitude":-83.873902}}(window,'GeoPostal','US');

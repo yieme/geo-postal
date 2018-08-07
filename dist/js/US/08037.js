@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08037"]={"code":"08037","region":"New Jersey","city":"Hammonton","latitude":39.63651,"longitude":-74.80239}}(window,'GeoPostal','US');

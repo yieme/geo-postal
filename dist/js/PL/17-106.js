@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17-106"]={"code":"17-106","region":"Podlaskie","city":"Orla","latitude":52.70546,"longitude":23.33213}}(window,'GeoPostal','PL');

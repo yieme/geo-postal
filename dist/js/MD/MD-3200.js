@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["MD-3200"]={"code":"MD-3200","region":"Bender","city":"Bender","latitude":46.83056,"longitude":29.47111}}(window,'GeoPostal','MD');

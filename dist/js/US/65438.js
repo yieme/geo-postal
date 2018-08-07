@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65438"]={"code":"65438","region":"Missouri","city":"Birch Tree","latitude":36.99306,"longitude":-91.49361}}(window,'GeoPostal','US');

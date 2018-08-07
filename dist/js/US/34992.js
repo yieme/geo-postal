@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34992"]={"code":"34992","region":"FL","city":"Port Salerno","latitude":27.1442,"longitude":-80.2006}}(window,'GeoPostal','US');

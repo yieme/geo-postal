@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE49 0DD"]={"code":"NE49 0DD","region":"England","city":"Haltwhistle","latitude":54.97101,"longitude":-2.45682}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49076"]={"code":"49076","region":"Michigan","city":"Olivet","latitude":42.453997,"longitude":-84.908972}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58752"]={"code":"58752","region":"North Dakota","city":"Lignite","latitude":48.807246,"longitude":-102.545658}}(window,'GeoPostal','US');

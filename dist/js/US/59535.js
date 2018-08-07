@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59535"]={"code":"59535","region":"MT","city":"Lloyd","latitude":47.9647,"longitude":-109.2671}}(window,'GeoPostal','US');

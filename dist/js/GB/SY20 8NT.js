@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY20 8NT"]={"code":"SY20 8NT","region":"Wales","city":"Darowen","latitude":52.60125,"longitude":-3.7288}}(window,'GeoPostal','GB');

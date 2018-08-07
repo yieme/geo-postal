@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2389"]={"code":"2389","region":"Mpumalanga","city":"Piet Retief","latitude":-27.00706,"longitude":30.81323}}(window,'GeoPostal','ZA');

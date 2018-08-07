@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87-640"]={"code":"87-640","region":"Kujawsko-pomorskie","city":"Czernikowo","latitude":52.94688,"longitude":18.93803}}(window,'GeoPostal','PL');

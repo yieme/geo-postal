@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19003"]={"code":"19003","region":"Pennsylvania","city":"Ardmore","latitude":39.994637,"longitude":-75.302908}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10981"]={"code":"10981","region":"NY","city":"Sugar Loaf","latitude":41.3232,"longitude":-74.2886}}(window,'GeoPostal','US');

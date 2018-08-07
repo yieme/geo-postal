@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03120"]={"code":"03120","region":"Auvergne-Rhone-Alpes","city":"Lapalisse","latitude":46.24835,"longitude":3.63605}}(window,'GeoPostal','FR');

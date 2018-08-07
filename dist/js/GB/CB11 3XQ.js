@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CB11 3XQ"]={"code":"CB11 3XQ","region":"England","city":"Quendon","latitude":51.95,"longitude":0.2}}(window,'GeoPostal','GB');

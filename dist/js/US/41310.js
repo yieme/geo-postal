@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41310"]={"code":"41310","region":"Kentucky","city":"Bays","latitude":37.623831,"longitude":-83.210784}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66-015"]={"code":"66-015","region":"Lubuskie","city":"Czerwiensk","latitude":52.01289,"longitude":15.42317}}(window,'GeoPostal','PL');

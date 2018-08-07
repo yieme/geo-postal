@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB34 4TW"]={"code":"AB34 4TW","region":"Scotland","city":"Tarland","latitude":57.12793,"longitude":-2.8604}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5870"]={"code":"5870","region":"Cordoba","city":"Villa Dolores","latitude":-31.94585,"longitude":-65.18958}}(window,'GeoPostal','AR');

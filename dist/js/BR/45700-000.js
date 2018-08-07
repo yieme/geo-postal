@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45700-000"]={"code":"45700-000","region":"Bahia","city":"Itapetinga","latitude":-15.24889,"longitude":-40.24778}}(window,'GeoPostal','BR');

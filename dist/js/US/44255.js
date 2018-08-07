@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44255"]={"code":"44255","region":"Ohio","city":"Mantua","latitude":41.28394,"longitude":-81.22399}}(window,'GeoPostal','US');

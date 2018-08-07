@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34330"]={"code":"34330","region":"Pozesko-slavonska zupanija","city":"Velika","latitude":45.45444,"longitude":17.66139}}(window,'GeoPostal','HR');

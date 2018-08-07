@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68731"]={"code":"68731","region":"Nebraska","city":"Dakota City","latitude":42.41555,"longitude":-96.41836}}(window,'GeoPostal','US');

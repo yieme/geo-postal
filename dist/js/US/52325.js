@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52325"]={"code":"52325","region":"IA","city":"Parnell","latitude":41.5702,"longitude":-92.0052}}(window,'GeoPostal','US');

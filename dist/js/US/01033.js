@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01033"]={"code":"01033","region":"MA","city":"Granby","latitude":42.2557,"longitude":-72.52}}(window,'GeoPostal','US');

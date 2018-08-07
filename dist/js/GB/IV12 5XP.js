@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV12 5XP"]={"code":"IV12 5XP","region":"Scotland","city":"Cawdor","latitude":57.52557,"longitude":-3.93174}}(window,'GeoPostal','GB');

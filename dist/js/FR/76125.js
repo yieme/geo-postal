@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76125"]={"code":"76125","region":"Normandie","city":"Le Grand-Quevilly","latitude":49.40076,"longitude":1.04582}}(window,'GeoPostal','FR');

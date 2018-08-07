@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43116"]={"code":"43116","region":"OH","city":"Commercial Point","latitude":39.7699,"longitude":-83.0602}}(window,'GeoPostal','US');

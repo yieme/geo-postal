@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67646"]={"code":"67646","region":"KS","city":"Logan","latitude":39.6611,"longitude":-99.5687}}(window,'GeoPostal','US');

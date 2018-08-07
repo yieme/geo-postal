@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8201"]={"code":"8201","region":"La Pampa","city":"Veinticinco de Mayo","latitude":-37.7741,"longitude":-67.71638}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40705"]={"code":"40705","region":"Nouvelle-Aquitaine","city":"Hagetmau","latitude":43.65893,"longitude":-0.59172}}(window,'GeoPostal','FR');

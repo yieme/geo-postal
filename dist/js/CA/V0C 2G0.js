@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0C 2G0"]={"code":"V0C 2G0","region":"British Columbia","city":"Valley View","latitude":55.98321,"longitude":-120.25287}}(window,'GeoPostal','CA');

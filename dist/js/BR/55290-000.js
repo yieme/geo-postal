@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55290-000"]={"code":"55290-000","region":"Pernambuco","city":"Garanhuns","latitude":-8.89028,"longitude":-36.49278}}(window,'GeoPostal','BR');

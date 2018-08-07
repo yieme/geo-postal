@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 1YJ"]={"code":"PO30 1YJ","region":"England","city":"Shide","latitude":50.69184,"longitude":-1.29171}}(window,'GeoPostal','GB');

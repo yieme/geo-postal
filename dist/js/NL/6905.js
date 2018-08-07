@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6905"]={"code":"6905","region":"Gelderland","city":"Zevenaar","latitude":51.93,"longitude":6.07083}}(window,'GeoPostal','NL');

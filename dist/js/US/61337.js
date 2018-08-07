@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61337"]={"code":"61337","region":"IL","city":"Malden","latitude":41.4245,"longitude":-89.3693}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56500"]={"code":"56500","region":"Sagarmatha","city":"Sukhipur","latitude":26.708613,"longitude":86.342745}}(window,'GeoPostal','NP');

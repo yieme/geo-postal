@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31805"]={"code":"31805","region":"GA","city":"Cusseta","latitude":32.299,"longitude":-84.7645}}(window,'GeoPostal','US');

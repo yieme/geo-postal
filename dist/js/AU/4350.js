@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4350"]={"code":"4350","region":"Queensland","city":"Toowoomba","latitude":-27.56056,"longitude":151.95386}}(window,'GeoPostal','AU');

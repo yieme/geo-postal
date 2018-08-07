@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58382"]={"code":"58382","region":"Jawa Tengah","city":"Kadengan","latitude":-7.184,"longitude":111.3876}}(window,'GeoPostal','ID');

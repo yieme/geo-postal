@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18700"]={"code":"18700","region":"Centre-Val de Loire","city":"Aubigny-sur-Nere","latitude":47.48819,"longitude":2.43895}}(window,'GeoPostal','FR');

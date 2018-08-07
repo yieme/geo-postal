@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04917"]={"code":"04917","region":"Maine","city":"Belgrade","latitude":44.44729,"longitude":-69.83255}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["950"]={"code":"950","region":"Taitung","city":"Taitung","latitude":22.7583,"longitude":121.1444}}(window,'GeoPostal','TW');

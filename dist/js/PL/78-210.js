@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-210"]={"code":"78-210","region":"Zachodniopomorskie","city":"Bialogard","latitude":54.00696,"longitude":15.98751}}(window,'GeoPostal','PL');

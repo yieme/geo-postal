@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117784"]={"code":"117784","region":"Mures","city":"Ungheni","latitude":44.5,"longitude":24.96667}}(window,'GeoPostal','RO');

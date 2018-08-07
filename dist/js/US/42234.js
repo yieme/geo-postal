@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42234"]={"code":"42234","region":"KY","city":"Guthrie","latitude":36.7149,"longitude":-87.1502}}(window,'GeoPostal','US');

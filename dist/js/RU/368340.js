@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368340"]={"code":"368340","region":"Dagestan, Respublika","city":"Gunib","latitude":42.38758,"longitude":46.96509}}(window,'GeoPostal','RU');

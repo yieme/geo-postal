@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69356"]={"code":"69356","region":"Nebraska","city":"Minatare","latitude":41.850064,"longitude":-103.614406}}(window,'GeoPostal','US');

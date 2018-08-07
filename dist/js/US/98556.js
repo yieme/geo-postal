@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98556"]={"code":"98556","region":"WA","city":"Littlerock","latitude":46.9024,"longitude":-123.017}}(window,'GeoPostal','US');

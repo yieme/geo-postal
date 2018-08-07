@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24826"]={"code":"24826","region":"WV","city":"Cucumber","latitude":37.2779,"longitude":-81.6268}}(window,'GeoPostal','US');

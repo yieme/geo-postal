@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63847"]={"code":"63847","region":"MO","city":"Gibson","latitude":36.4412,"longitude":-90.0309}}(window,'GeoPostal','US');

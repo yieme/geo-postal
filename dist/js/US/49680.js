@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49680"]={"code":"49680","region":"Michigan","city":"South Boardman","latitude":44.633107,"longitude":-85.243769}}(window,'GeoPostal','US');

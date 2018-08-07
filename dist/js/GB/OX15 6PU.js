@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX15 6PU"]={"code":"OX15 6PU","region":"England","city":"Wroxton","latitude":52.07282,"longitude":-1.39709}}(window,'GeoPostal','GB');

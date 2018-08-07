@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54537"]={"code":"54537","region":"WI","city":"Kennan","latitude":45.535,"longitude":-90.591}}(window,'GeoPostal','US');

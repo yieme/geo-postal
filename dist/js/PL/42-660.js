@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42-660"]={"code":"42-660","region":"Slaskie","city":"Kalety","latitude":50.5627,"longitude":18.8926}}(window,'GeoPostal','PL');

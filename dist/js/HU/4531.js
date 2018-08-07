@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4531"]={"code":"4531","region":"Szabolcs-Szatmar-Bereg","city":"Nyirpazony","latitude":47.98333,"longitude":21.8}}(window,'GeoPostal','HU');

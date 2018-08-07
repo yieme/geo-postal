@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LE14 4HP"]={"code":"LE14 4HP","region":"England","city":"Stathern","latitude":52.87203,"longitude":-0.85522}}(window,'GeoPostal','GB');

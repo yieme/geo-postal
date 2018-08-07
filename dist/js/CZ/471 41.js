@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 41"]={"code":"471 41","region":"Liberecky kraj","city":"Duba","latitude":50.54034,"longitude":14.54023}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18850"]={"code":"18850","region":"Pennsylvania","city":"Ulster","latitude":41.842038,"longitude":-76.474279}}(window,'GeoPostal','US');

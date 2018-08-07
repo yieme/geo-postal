@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6979"]={"code":"6979","region":"Western Australia","city":"Como","latitude":-31.99119,"longitude":115.86336}}(window,'GeoPostal','AU');

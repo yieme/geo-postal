@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS14 6FD"]={"code":"TS14 6FD","region":"England","city":"Guisborough","latitude":54.53478,"longitude":-1.05606}}(window,'GeoPostal','GB');

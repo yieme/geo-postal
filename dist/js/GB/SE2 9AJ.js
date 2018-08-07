@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SE2 9AJ"]={"code":"SE2 9AJ","region":"England","city":"Abbey Wood","latitude":51.48688,"longitude":0.10746}}(window,'GeoPostal','GB');

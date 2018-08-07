@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6751"]={"code":"6751","region":"Western Australia","city":"Tom Price","latitude":-22.6939,"longitude":117.7931}}(window,'GeoPostal','AU');

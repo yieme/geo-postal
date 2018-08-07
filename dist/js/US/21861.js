@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21861"]={"code":"21861","region":"MD","city":"Sharptown","latitude":38.5389,"longitude":-75.7192}}(window,'GeoPostal','US');

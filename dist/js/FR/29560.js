@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29560"]={"code":"29560","region":"Bretagne","city":"Telgruc-sur-Mer","latitude":48.23333,"longitude":-4.35}}(window,'GeoPostal','FR');

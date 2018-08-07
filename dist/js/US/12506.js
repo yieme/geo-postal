@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12506"]={"code":"12506","region":"NY","city":"Bangall","latitude":41.8756,"longitude":-73.6912}}(window,'GeoPostal','US');

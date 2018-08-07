@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62423"]={"code":"62423","region":"IL","city":"Dennison","latitude":39.449,"longitude":-87.5867}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49076"]={"code":"49076","region":"Niedersachsen","city":"Atter","latitude":52.29316,"longitude":7.95157}}(window,'GeoPostal','DE');

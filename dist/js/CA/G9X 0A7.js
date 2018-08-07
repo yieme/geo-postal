@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G9X 0A7"]={"code":"G9X 0A7","region":"Quebec","city":"La Bostonnais","latitude":47.51677,"longitude":-72.69909}}(window,'GeoPostal','CA');

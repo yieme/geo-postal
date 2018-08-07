@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67826"]={"code":"67826","region":"Nuevo Leon","city":"Hualahuises","latitude":24.88472,"longitude":-99.67333}}(window,'GeoPostal','MX');

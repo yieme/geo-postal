@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19017"]={"code":"19017","region":"PA","city":"Chester Heights","latitude":39.8901,"longitude":-75.4755}}(window,'GeoPostal','US');

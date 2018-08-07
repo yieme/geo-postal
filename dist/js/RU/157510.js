@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["157510"]={"code":"157510","region":"Kostromskaya oblast'","city":"Vetluzhskiy","latitude":58.39016,"longitude":45.46542}}(window,'GeoPostal','RU');

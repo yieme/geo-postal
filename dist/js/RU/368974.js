@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368974"]={"code":"368974","region":"Dagestan, Respublika","city":"Botlikh","latitude":42.64442,"longitude":46.22967}}(window,'GeoPostal','RU');

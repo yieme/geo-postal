@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64170"]={"code":"64170","region":"Sukhothai","city":"Kong Krailat","latitude":16.95197,"longitude":99.9777}}(window,'GeoPostal','TH');

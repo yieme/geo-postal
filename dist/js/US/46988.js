@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46988"]={"code":"46988","region":"IN","city":"Twelve Mile","latitude":40.8547,"longitude":-86.2126}}(window,'GeoPostal','US');

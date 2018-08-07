@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11356"]={"code":"11356","region":"New York","city":"College Point","latitude":40.78524,"longitude":-73.8444}}(window,'GeoPostal','US');

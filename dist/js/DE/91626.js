@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91626"]={"code":"91626","region":"Bayern","city":"Steinweiler","latitude":49.1,"longitude":10.25}}(window,'GeoPostal','DE');

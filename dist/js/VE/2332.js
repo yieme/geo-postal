@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2332"]={"code":"2332","region":"Guarico","city":"Zaraza","latitude":9.35029,"longitude":-65.32452}}(window,'GeoPostal','VE');

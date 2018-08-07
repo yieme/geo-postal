@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29108"]={"code":"29108","region":"Andalucia","city":"Coin","latitude":36.65947,"longitude":-4.75639}}(window,'GeoPostal','ES');

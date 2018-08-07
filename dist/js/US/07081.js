@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07081"]={"code":"07081","region":"New Jersey","city":"Springfield","latitude":40.699923,"longitude":-74.323289}}(window,'GeoPostal','US');

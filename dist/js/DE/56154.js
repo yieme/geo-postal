@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56154"]={"code":"56154","region":"Rheinland-Pfalz","city":"Boppard","latitude":50.08754,"longitude":7.7009}}(window,'GeoPostal','DE');

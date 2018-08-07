@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55051"]={"code":"55051","region":"Punjab","city":"Kasur","latitude":31.11556,"longitude":74.44667}}(window,'GeoPostal','PK');

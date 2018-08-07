@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52204"]={"code":"52204","region":"IA","city":"Amana","latitude":41.8,"longitude":-91.8707}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05-820"]={"code":"05-820","region":"Mazowieckie","city":"Piastow","latitude":52.18435,"longitude":20.83952}}(window,'GeoPostal','PL');

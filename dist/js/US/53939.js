@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53939"]={"code":"53939","region":"WI","city":"Kingston","latitude":43.6911,"longitude":-89.1302}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2603"]={"code":"2603","region":"Sirak","city":"Azatan","latitude":40.71959,"longitude":43.82727}}(window,'GeoPostal','AM');

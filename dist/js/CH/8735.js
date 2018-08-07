@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8735"]={"code":"8735","region":"Sankt Gallen","city":"Goldingen","latitude":47.26277,"longitude":8.96627}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["537020"]={"code":"537020","region":"Harghita","city":"Bilbor","latitude":47.05,"longitude":25.51667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03727"]={"code":"03727","region":"Valenciana, Comunidad","city":"Jalon","latitude":38.74063,"longitude":-0.01129}}(window,'GeoPostal','ES');

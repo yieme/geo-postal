@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4013"]={"code":"4013","region":"Laguna","city":"Cavinti","latitude":14.24482,"longitude":121.50797}}(window,'GeoPostal','PH');

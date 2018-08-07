@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17326"]={"code":"17326","region":"PA","city":"Federal Communications Com","latitude":39.83,"longitude":-77.23}}(window,'GeoPostal','US');

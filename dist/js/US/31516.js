@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31516"]={"code":"31516","region":"Georgia","city":"Blackshear","latitude":31.30605,"longitude":-82.24207}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79460"]={"code":"79460","region":"Nouvelle-Aquitaine","city":"Magne","latitude":46.31548,"longitude":-0.54575}}(window,'GeoPostal','FR');

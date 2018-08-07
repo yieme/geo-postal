@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82034"]={"code":"82034","region":"Campania","city":"Guardia Sanframondi","latitude":41.25792,"longitude":14.59763}}(window,'GeoPostal','IT');

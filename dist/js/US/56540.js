@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56540"]={"code":"56540","region":"Minnesota","city":"Fertile","latitude":47.5248,"longitude":-96.24066}}(window,'GeoPostal','US');

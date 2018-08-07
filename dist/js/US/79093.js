@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79093"]={"code":"79093","region":"TX","city":"Waka","latitude":36.2716,"longitude":-101.0443}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44644"]={"code":"44644","region":"OH","city":"Malvern","latitude":40.6845,"longitude":-81.1838}}(window,'GeoPostal','US');

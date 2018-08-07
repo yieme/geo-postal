@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28514"]={"code":"28514","region":"Madrid, Comunidad de","city":"Nuevo Baztan","latitude":40.36731,"longitude":-3.24125}}(window,'GeoPostal','ES');

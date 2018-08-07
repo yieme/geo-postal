@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8500"]={"code":"8500","region":"Midtjylland","city":"Grenaa","latitude":56.41578,"longitude":10.87825}}(window,'GeoPostal','DK');

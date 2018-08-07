@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97548"]={"code":"97548","region":"Avtonomna Respublika Krym","city":"Frunze","latitude":45.02688,"longitude":33.62956}}(window,'GeoPostal','UA');

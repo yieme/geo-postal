@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85336"]={"code":"85336","region":"AZ","city":"Gadsden","latitude":32.5545,"longitude":-114.785}}(window,'GeoPostal','US');

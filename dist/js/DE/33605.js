@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33605"]={"code":"33605","region":"Nordrhein-Westfalen","city":"Bielefeld","latitude":52.03333,"longitude":8.53333}}(window,'GeoPostal','DE');

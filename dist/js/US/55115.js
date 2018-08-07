@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55115"]={"code":"55115","region":"Minnesota","city":"Mahtomedi","latitude":45.0702,"longitude":-92.9529}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE65 7AE"]={"code":"NE65 7AE","region":"England","city":"Sharperton","latitude":55.32896,"longitude":-2.06932}}(window,'GeoPostal','GB');

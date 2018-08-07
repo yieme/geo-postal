@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG12 3DX"]={"code":"NG12 3DX","region":"England","city":"Cropwell Bishop","latitude":52.9148,"longitude":-0.98482}}(window,'GeoPostal','GB');

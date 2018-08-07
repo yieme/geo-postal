@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB16 5BL"]={"code":"AB16 5BL","region":"Scotland","city":"Cornhill","latitude":57.6,"longitude":-2.7}}(window,'GeoPostal','GB');

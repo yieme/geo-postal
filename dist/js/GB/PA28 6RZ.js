@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA28 6RZ"]={"code":"PA28 6RZ","region":"Scotland","city":"Carradale","latitude":55.58926,"longitude":-5.47197}}(window,'GeoPostal','GB');

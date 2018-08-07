@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00961"]={"code":"00961","region":"Bayamon","city":"Bayamon","latitude":18.39856,"longitude":-66.15572}}(window,'GeoPostal','PR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5044"]={"code":"5044","region":"Monastir","city":"Sidi Bin Nur","latitude":35.53333,"longitude":10.91667}}(window,'GeoPostal','TN');

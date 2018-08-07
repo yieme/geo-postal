@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38300"]={"code":"38300","region":"Canarias","city":"La Orotava","latitude":28.39076,"longitude":-16.52309}}(window,'GeoPostal','ES');

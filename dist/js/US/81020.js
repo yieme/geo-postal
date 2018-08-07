@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81020"]={"code":"81020","region":"Colorado","city":"Aguilar","latitude":37.400434,"longitude":-104.644715}}(window,'GeoPostal','US');

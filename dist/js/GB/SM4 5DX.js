@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SM4 5DX"]={"code":"SM4 5DX","region":"England","city":"Morden","latitude":50.76667,"longitude":-2.11667}}(window,'GeoPostal','GB');

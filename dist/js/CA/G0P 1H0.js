@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G0P 1H0"]={"code":"G0P 1H0","region":"Quebec","city":"Chester-Est","latitude":46.03337,"longitude":-71.69909}}(window,'GeoPostal','CA');

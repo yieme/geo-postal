@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08043"]={"code":"08043","region":"New Jersey","city":"Voorhees","latitude":39.84354,"longitude":-74.96418}}(window,'GeoPostal','US');

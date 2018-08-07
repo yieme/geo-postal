@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CW3 0AR"]={"code":"CW3 0AR","region":"England","city":"Audlem","latitude":52.98956,"longitude":-2.50706}}(window,'GeoPostal','GB');

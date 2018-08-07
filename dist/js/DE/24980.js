@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24980"]={"code":"24980","region":"Schleswig-Holstein","city":"Horup","latitude":54.73333,"longitude":9.1}}(window,'GeoPostal','DE');

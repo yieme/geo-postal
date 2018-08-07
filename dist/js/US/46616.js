@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46616"]={"code":"46616","region":"Indiana","city":"South Bend","latitude":41.691255,"longitude":-86.264907}}(window,'GeoPostal','US');

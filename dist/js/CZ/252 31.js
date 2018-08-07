@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 31"]={"code":"252 31","region":"Stredocesky kraj","city":"Vsenory","latitude":49.92883,"longitude":14.30392}}(window,'GeoPostal','CZ');

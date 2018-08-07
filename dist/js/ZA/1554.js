@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1554"]={"code":"1554","region":"Gauteng","city":"Brakpan","latitude":-26.23656,"longitude":28.36938}}(window,'GeoPostal','ZA');

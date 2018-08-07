@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32053"]={"code":"32053","region":"Florida","city":"Jennings","latitude":30.564624,"longitude":-83.246512}}(window,'GeoPostal','US');

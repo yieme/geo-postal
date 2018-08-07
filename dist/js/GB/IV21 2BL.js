@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV21 2BL"]={"code":"IV21 2BL","region":"Scotland","city":"Gairloch","latitude":57.72029,"longitude":-5.67924}}(window,'GeoPostal','GB');

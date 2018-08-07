@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54020"]={"code":"54020","region":"Wisconsin","city":"Osceola","latitude":45.32052,"longitude":-92.70493}}(window,'GeoPostal','US');

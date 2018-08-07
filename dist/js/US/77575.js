@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77575"]={"code":"77575","region":"Texas","city":"Liberty","latitude":30.067839,"longitude":-94.789652}}(window,'GeoPostal','US');

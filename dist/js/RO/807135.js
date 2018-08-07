@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["807135"]={"code":"807135","region":"Galati","city":"Frumusita","latitude":45.66667,"longitude":28.06667}}(window,'GeoPostal','RO');

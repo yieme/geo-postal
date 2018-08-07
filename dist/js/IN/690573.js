@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["690573"]={"code":"690573","region":"Kerala","city":"Alleppey","latitude":9.49004,"longitude":76.3264}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20106"]={"code":"20106","region":"Virginia","city":"Amissville","latitude":38.671389,"longitude":-77.995833}}(window,'GeoPostal','US');

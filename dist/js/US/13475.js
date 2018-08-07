@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13475"]={"code":"13475","region":"NY","city":"Van Hornesville","latitude":42.8951,"longitude":-74.8276}}(window,'GeoPostal','US');

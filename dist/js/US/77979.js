@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77979"]={"code":"77979","region":"Texas","city":"Port Lavaca","latitude":28.615,"longitude":-96.62609}}(window,'GeoPostal','US');

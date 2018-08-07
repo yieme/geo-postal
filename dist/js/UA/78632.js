@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78632"]={"code":"78632","region":"Ivano-Frankivska oblast","city":"Khymchyn","latitude":48.38639,"longitude":25.14803}}(window,'GeoPostal','UA');

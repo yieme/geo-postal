@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67655"]={"code":"67655","region":"Rheinland-Pfalz","city":"Kaiserslautern","latitude":49.443,"longitude":7.77161}}(window,'GeoPostal','DE');

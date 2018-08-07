@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57250"]={"code":"57250","region":"Grand-Est","city":"Moyeuvre-Grande","latitude":49.25165,"longitude":6.04754}}(window,'GeoPostal','FR');

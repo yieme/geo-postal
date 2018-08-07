@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["483 00"]={"code":"483 00","region":"Ipeiros","city":"Louros","latitude":39.16278,"longitude":20.75194}}(window,'GeoPostal','GR');

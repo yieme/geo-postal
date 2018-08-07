@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["404210"]={"code":"404210","region":"Volgogradskaya oblast'","city":"Staraya Poltavka","latitude":50.47715,"longitude":46.48144}}(window,'GeoPostal','RU');

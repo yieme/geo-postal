@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26320"]={"code":"26320","region":"Auvergne-Rhone-Alpes","city":"Saint-Marcel-les-Valence","latitude":44.97246,"longitude":4.96011}}(window,'GeoPostal','FR');

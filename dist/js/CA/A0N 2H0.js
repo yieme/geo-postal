@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0N 2H0"]={"code":"A0N 2H0","region":"Newfoundland and Labrador","city":"Burgeo","latitude":47.61668,"longitude":-57.61516}}(window,'GeoPostal','CA');

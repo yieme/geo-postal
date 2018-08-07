@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19450-000"]={"code":"19450-000","region":"Sao Paulo","city":"Presidente Epitacio","latitude":-21.76333,"longitude":-52.11556}}(window,'GeoPostal','BR');

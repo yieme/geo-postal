@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU11 5BN"]={"code":"HU11 5BN","region":"England","city":"Rise","latitude":53.86302,"longitude":-0.24631}}(window,'GeoPostal','GB');

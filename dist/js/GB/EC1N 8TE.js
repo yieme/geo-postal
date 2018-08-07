@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EC1N 8TE"]={"code":"EC1N 8TE","region":"England","city":"Kirby","latitude":54.43333,"longitude":-1.16667}}(window,'GeoPostal','GB');

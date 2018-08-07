@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9820"]={"code":"9820","region":"Shumen","city":"Smyadovo","latitude":43.06667,"longitude":27.01667}}(window,'GeoPostal','BG');

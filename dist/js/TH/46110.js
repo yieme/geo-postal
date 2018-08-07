@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46110"]={"code":"46110","region":"Roi Et","city":"Moeiwadi","latitude":16.38944,"longitude":104.1572}}(window,'GeoPostal','TH');

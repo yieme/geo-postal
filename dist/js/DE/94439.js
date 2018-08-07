@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94439"]={"code":"94439","region":"Bayern","city":"Rengwartling","latitude":48.61755,"longitude":12.94106}}(window,'GeoPostal','DE');

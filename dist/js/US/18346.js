@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18346"]={"code":"18346","region":"PA","city":"Pocono Summit","latitude":41.1353,"longitude":-75.4079}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07743"]={"code":"07743","region":"Thuringen","city":"Jena","latitude":50.92878,"longitude":11.5899}}(window,'GeoPostal','DE');

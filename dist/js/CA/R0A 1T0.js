@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1T0"]={"code":"R0A 1T0","region":"Manitoba","city":"La Rochelle","latitude":49.35558,"longitude":-96.98064}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26354"]={"code":"26354","region":"Juznobanatski okrug","city":"Dobrica","latitude":45.215,"longitude":20.84944}}(window,'GeoPostal','RS');

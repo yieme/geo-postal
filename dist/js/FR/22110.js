@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22110"]={"code":"22110","region":"Bretagne","city":"Rostrenen","latitude":48.23696,"longitude":-3.31442}}(window,'GeoPostal','FR');

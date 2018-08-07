@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35161"]={"code":"35161","region":"AL","city":"Talladega","latitude":33.4202,"longitude":-86.1028}}(window,'GeoPostal','US');

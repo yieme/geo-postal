@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27317"]={"code":"27317","region":"NC","city":"Randleman","latitude":35.8488,"longitude":-79.8018}}(window,'GeoPostal','US');

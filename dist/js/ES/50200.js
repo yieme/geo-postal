@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50200"]={"code":"50200","region":"Aragon","city":"Ateca","latitude":41.33092,"longitude":-1.79353}}(window,'GeoPostal','ES');

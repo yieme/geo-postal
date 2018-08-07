@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12915"]={"code":"12915","region":"New York","city":"Brainardsville","latitude":44.857778,"longitude":-74.033889}}(window,'GeoPostal','US');

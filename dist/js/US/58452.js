@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58452"]={"code":"58452","region":"North Dakota","city":"Jessie","latitude":47.5422,"longitude":-98.2377}}(window,'GeoPostal','US');

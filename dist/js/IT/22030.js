@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22030"]={"code":"22030","region":"Lombardia","city":"Orsenigo","latitude":45.77738,"longitude":9.18174}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["RG23 7ED"]={"code":"RG23 7ED","region":"England","city":"Oakley","latitude":51.25004,"longitude":-1.18841}}(window,'GeoPostal','GB');

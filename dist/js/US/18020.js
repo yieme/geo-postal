@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18020"]={"code":"18020","region":"Pennsylvania","city":"Bethlehem","latitude":40.625833,"longitude":-75.370833}}(window,'GeoPostal','US');

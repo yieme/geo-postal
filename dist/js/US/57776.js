@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57776"]={"code":"57776","region":"SD","city":"Redig","latitude":45.2711,"longitude":-103.5482}}(window,'GeoPostal','US');

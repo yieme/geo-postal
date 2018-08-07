@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354384"]={"code":"354384","region":"Krasnodarskiy kray","city":"Khosta","latitude":43.51484,"longitude":39.86825}}(window,'GeoPostal','RU');

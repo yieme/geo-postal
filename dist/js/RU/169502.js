@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["169502"]={"code":"169502","region":"Komi, Respublika","city":"Sosnogorsk","latitude":63.60229,"longitude":53.88175}}(window,'GeoPostal','RU');

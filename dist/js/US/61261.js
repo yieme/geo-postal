@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61261"]={"code":"61261","region":"Illinois","city":"Lyndon","latitude":41.726132,"longitude":-89.915764}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26520"]={"code":"26520","region":"La Rioja","city":"Cervera del Rio Alhama","latitude":42.00517,"longitude":-1.95531}}(window,'GeoPostal','ES');

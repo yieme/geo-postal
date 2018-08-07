@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62411"]={"code":"62411","region":"Illinois","city":"Altamont","latitude":39.06199,"longitude":-88.74811}}(window,'GeoPostal','US');

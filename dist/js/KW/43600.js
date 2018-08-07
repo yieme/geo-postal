@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43600"]={"code":"43600","region":"Hawalli","city":"Bayan","latitude":29.3032,"longitude":48.04881}}(window,'GeoPostal','KW');

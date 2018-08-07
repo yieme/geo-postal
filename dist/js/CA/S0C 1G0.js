@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0C 1G0"]={"code":"S0C 1G0","region":"Saskatchewan","city":"Griffin","latitude":49.66675,"longitude":-103.43434}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["655700"]={"code":"655700","region":"Yunnan","city":"Danfeng","latitude":24.83054,"longitude":104.0082}}(window,'GeoPostal','CN');

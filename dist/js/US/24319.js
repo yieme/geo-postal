@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24319"]={"code":"24319","region":"Virginia","city":"Chilhowie","latitude":36.79845,"longitude":-81.68234}}(window,'GeoPostal','US');

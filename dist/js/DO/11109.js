@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11109"]={"code":"11109","region":"Monte Plata","city":"Bayaguana","latitude":18.75639,"longitude":-69.63616}}(window,'GeoPostal','DO');

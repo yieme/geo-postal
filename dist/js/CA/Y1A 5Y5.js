@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["Y1A 5Y5"]={"code":"Y1A 5Y5","region":"Yukon","city":"Takhini Hotspring","latitude":60.87721,"longitude":-135.36349}}(window,'GeoPostal','CA');

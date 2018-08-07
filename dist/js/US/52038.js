@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52038"]={"code":"52038","region":"IA","city":"Dundee","latitude":42.594,"longitude":-91.5477}}(window,'GeoPostal','US');

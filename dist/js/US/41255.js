@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41255"]={"code":"41255","region":"KY","city":"Sitka","latitude":37.8922,"longitude":-82.8446}}(window,'GeoPostal','US');

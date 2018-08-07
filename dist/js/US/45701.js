@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45701"]={"code":"45701","region":"Ohio","city":"Athens","latitude":39.32924,"longitude":-82.10126}}(window,'GeoPostal','US');

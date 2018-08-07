@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73642"]={"code":"73642","region":"Baden-Wurttemberg","city":"Welzheim","latitude":48.87675,"longitude":9.63434}}(window,'GeoPostal','DE');

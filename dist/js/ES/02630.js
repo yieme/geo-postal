@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02630"]={"code":"02630","region":"Castilla-La Mancha","city":"La Roda","latitude":39.21667,"longitude":-2.15}}(window,'GeoPostal','ES');

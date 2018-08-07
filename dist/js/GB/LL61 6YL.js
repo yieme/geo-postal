@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL61 6YL"]={"code":"LL61 6YL","region":"Wales","city":"Dwyran","latitude":53.16723,"longitude":-4.32188}}(window,'GeoPostal','GB');

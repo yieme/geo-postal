@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42202"]={"code":"42202","region":"Kentucky","city":"Adairville","latitude":36.685646,"longitude":-86.851405}}(window,'GeoPostal','US');

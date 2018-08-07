@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G4W 1L1"]={"code":"G4W 1L1","region":"Quebec","city":"Matane","latitude":48.838772,"longitude":-67.497852}}(window,'GeoPostal','CA');

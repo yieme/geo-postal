@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42362"]={"code":"42362","region":"Banten","city":"Talagasari","latitude":-6.4954,"longitude":106.2003}}(window,'GeoPostal','ID');

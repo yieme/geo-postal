@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76093"]={"code":"76093","region":"TX","city":"Rio Vista","latitude":32.2532,"longitude":-97.3678}}(window,'GeoPostal','US');

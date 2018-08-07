@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89257"]={"code":"89257","region":"Bayern","city":"Illertissen","latitude":48.22336,"longitude":10.10347}}(window,'GeoPostal','DE');

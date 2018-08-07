@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12588"]={"code":"12588","region":"NY","city":"Walker Valley","latitude":41.6337,"longitude":-74.3779}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14049"]={"code":"14049","region":"Piemonte","city":"Nizza Monferrato","latitude":44.77385,"longitude":8.35394}}(window,'GeoPostal','IT');

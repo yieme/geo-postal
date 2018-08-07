@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53120"]={"code":"53120","region":"WI","city":"East Troy","latitude":42.8035,"longitude":-88.4092}}(window,'GeoPostal','US');

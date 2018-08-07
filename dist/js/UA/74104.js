@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74104"]={"code":"74104","region":"Khersonska oblast","city":"Velyka Oleksandrivka","latitude":47.31969,"longitude":33.30373}}(window,'GeoPostal','UA');

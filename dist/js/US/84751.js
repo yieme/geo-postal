@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84751"]={"code":"84751","region":"Utah","city":"Milford","latitude":38.39691,"longitude":-113.01079}}(window,'GeoPostal','US');

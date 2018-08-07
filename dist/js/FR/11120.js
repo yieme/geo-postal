@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11120"]={"code":"11120","region":"Occitanie","city":"Ginestas","latitude":43.26645,"longitude":2.87038}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624449"]={"code":"624449","region":"Sverdlovskaya oblast'","city":"Krasnotur'insk","latitude":59.7666,"longitude":60.2086}}(window,'GeoPostal','RU');

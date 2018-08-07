@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78028"]={"code":"78028","region":"Texas","city":"Kerrville","latitude":30.04743,"longitude":-99.14032}}(window,'GeoPostal','US');

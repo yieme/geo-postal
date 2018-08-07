@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87567"]={"code":"87567","region":"NM","city":"Santa Cruz","latitude":35.986,"longitude":-106.0318}}(window,'GeoPostal','US');

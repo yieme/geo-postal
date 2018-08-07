@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19951"]={"code":"19951","region":"Delaware","city":"Harbeson","latitude":38.658325,"longitude":-75.176867}}(window,'GeoPostal','US');

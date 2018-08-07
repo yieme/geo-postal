@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30576"]={"code":"30576","region":"Georgia","city":"Tiger","latitude":34.799539,"longitude":-83.44774}}(window,'GeoPostal','US');

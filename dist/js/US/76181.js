@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76181"]={"code":"76181","region":"Texas","city":"Richland Hills","latitude":32.81022,"longitude":-97.22751}}(window,'GeoPostal','US');

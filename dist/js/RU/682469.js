@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682469"]={"code":"682469","region":"Khabarovskiy kray","city":"Nikolayevsk-na-Amure","latitude":53.14056,"longitude":140.73}}(window,'GeoPostal','RU');

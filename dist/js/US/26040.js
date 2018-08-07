@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26040"]={"code":"26040","region":"WV","city":"Mcmechen","latitude":39.9881,"longitude":-80.7315}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37370"]={"code":"37370","region":"TN","city":"Riceville","latitude":35.3731,"longitude":-84.6951}}(window,'GeoPostal','US');

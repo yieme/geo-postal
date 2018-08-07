@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54930"]={"code":"54930","region":"WI","city":"Coloma","latitude":44.0275,"longitude":-89.4943}}(window,'GeoPostal','US');

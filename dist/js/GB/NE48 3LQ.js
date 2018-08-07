@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE48 3LQ"]={"code":"NE48 3LQ","region":"England","city":"Wark","latitude":55.08623,"longitude":-2.22267}}(window,'GeoPostal','GB');

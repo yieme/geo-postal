@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33404"]={"code":"33404","region":"Viroviticko-podravska zupanija","city":"Spisic-Bukovica","latitude":45.85722,"longitude":17.29944}}(window,'GeoPostal','HR');

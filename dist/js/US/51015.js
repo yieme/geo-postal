@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51015"]={"code":"51015","region":"IA","city":"Climbing Hill","latitude":42.345,"longitude":-96.0875}}(window,'GeoPostal','US');

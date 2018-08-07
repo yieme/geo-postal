@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82262"]={"code":"82262","region":"Bali","city":"Pekutatan","latitude":-8.4207,"longitude":114.8228}}(window,'GeoPostal','ID');

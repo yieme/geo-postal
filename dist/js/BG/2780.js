@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2780"]={"code":"2780","region":"Blagoevgrad","city":"Belitsa","latitude":41.95694,"longitude":23.5725}}(window,'GeoPostal','BG');

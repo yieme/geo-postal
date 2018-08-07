@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51331"]={"code":"51331","region":"Iowa","city":"Arnolds Park","latitude":43.37274,"longitude":-95.12388}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 7DP"]={"code":"CO10 7DP","region":"England","city":"Belchamp Saint Paul","latitude":52.05035,"longitude":0.61197}}(window,'GeoPostal','GB');

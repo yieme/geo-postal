@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52645"]={"code":"52645","region":"IA","city":"New London","latitude":40.9161,"longitude":-91.3986}}(window,'GeoPostal','US');

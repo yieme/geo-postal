@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56088"]={"code":"56088","region":"Minnesota","city":"Truman","latitude":43.82773,"longitude":-94.43719}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50533"]={"code":"50533","region":"IA","city":"Eagle Grove","latitude":42.6609,"longitude":-93.9049}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7001"]={"code":"7001","region":"Korce","city":"Korce","latitude":40.61861,"longitude":20.78083}}(window,'GeoPostal','AL');

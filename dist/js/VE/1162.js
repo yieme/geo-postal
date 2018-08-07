@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1162"]={"code":"1162","region":"Vargas","city":"Catia La Mar","latitude":10.60383,"longitude":-67.03034}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11200"]={"code":"11200","region":"Ica","city":"Chincha Alta","latitude":-13.40985,"longitude":-76.13235}}(window,'GeoPostal','PE');

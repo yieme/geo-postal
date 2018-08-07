@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["506 01"]={"code":"506 01","region":"Kralovehradecky kraj","city":"Jicin","latitude":50.43723,"longitude":15.35162}}(window,'GeoPostal','CZ');

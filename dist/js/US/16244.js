@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16244"]={"code":"16244","region":"Pennsylvania","city":"Nu Mine","latitude":40.7997,"longitude":-79.27188}}(window,'GeoPostal','US');

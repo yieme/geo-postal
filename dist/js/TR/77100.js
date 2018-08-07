@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77100"]={"code":"77100","region":"Yalova","city":"Yalova","latitude":40.65502,"longitude":29.27693}}(window,'GeoPostal','TR');

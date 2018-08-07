@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18635"]={"code":"18635","region":"Pennsylvania","city":"Nescopeck","latitude":41.052352,"longitude":-76.21572}}(window,'GeoPostal','US');

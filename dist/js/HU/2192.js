@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2192"]={"code":"2192","region":"Pest","city":"Hevizgyoerk","latitude":47.63333,"longitude":19.51667}}(window,'GeoPostal','HU');

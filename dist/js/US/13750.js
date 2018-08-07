@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13750"]={"code":"13750","region":"NY","city":"Davenport","latitude":42.4711,"longitude":-74.8357}}(window,'GeoPostal','US');

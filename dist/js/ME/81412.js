@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81412"]={"code":"81412","region":"Danilovgrad","city":"Spuz","latitude":42.5075,"longitude":19.19417}}(window,'GeoPostal','ME');

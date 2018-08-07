@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32959"]={"code":"32959","region":"Florida","city":"Sharpes","latitude":28.43223,"longitude":-80.76005}}(window,'GeoPostal','US');

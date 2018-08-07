@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["509129"]={"code":"509129","region":"Andhra Pradesh","city":"Jammalamadugu","latitude":14.83333,"longitude":78.4}}(window,'GeoPostal','IN');

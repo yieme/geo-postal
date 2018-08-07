@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["188565"]={"code":"188565","region":"Leningradskaya oblast'","city":"Slantsy","latitude":59.11817,"longitude":28.09137}}(window,'GeoPostal','RU');

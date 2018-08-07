@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28209"]={"code":"28209","region":"Madrid, Comunidad de","city":"San Lorenzo de El Escorial","latitude":40.59144,"longitude":-4.14738}}(window,'GeoPostal','ES');

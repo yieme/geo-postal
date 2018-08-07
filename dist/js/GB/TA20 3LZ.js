@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA20 3LZ"]={"code":"TA20 3LZ","region":"England","city":"Combe Saint Nicholas","latitude":50.9,"longitude":-3}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71462"]={"code":"71462","region":"Louisiana","city":"Noble","latitude":31.69284,"longitude":-93.69936}}(window,'GeoPostal','US');

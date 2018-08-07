@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54474"]={"code":"54474","region":"WI","city":"Rothschild","latitude":44.8843,"longitude":-89.6193}}(window,'GeoPostal','US');

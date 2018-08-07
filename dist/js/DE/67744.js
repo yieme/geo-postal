@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67744"]={"code":"67744","region":"Rheinland-Pfalz","city":"Homberg","latitude":49.65,"longitude":7.51667}}(window,'GeoPostal','DE');

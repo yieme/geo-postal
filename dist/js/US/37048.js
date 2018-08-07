@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37048"]={"code":"37048","region":"TN","city":"Cottontown","latitude":36.4912,"longitude":-86.6033}}(window,'GeoPostal','US');

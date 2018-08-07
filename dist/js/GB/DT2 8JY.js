@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT2 8JY"]={"code":"DT2 8JY","region":"England","city":"East Knighton","latitude":50.66709,"longitude":-2.26138}}(window,'GeoPostal','GB');

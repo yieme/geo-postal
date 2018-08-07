@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347320"]={"code":"347320","region":"Rostovskaya oblast'","city":"Tsimlyansk","latitude":47.64611,"longitude":42.10194}}(window,'GeoPostal','RU');

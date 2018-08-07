@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5630"]={"code":"5630","region":"South Australia","city":"Cummins","latitude":-34.26008,"longitude":135.72731}}(window,'GeoPostal','AU');

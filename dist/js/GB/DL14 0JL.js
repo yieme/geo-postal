@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL14 0JL"]={"code":"DL14 0JL","region":"England","city":"Low Etherley","latitude":54.65349,"longitude":-1.74315}}(window,'GeoPostal','GB');

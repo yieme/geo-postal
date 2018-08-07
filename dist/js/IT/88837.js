@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88837"]={"code":"88837","region":"Calabria","city":"Petilia Policastro","latitude":39.11389,"longitude":16.78551}}(window,'GeoPostal','IT');

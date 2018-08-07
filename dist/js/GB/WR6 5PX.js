@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR6 5PX"]={"code":"WR6 5PX","region":"England","city":"Doddenham","latitude":52.20395,"longitude":-2.38187}}(window,'GeoPostal','GB');

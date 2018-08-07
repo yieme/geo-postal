@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37100"]={"code":"37100","region":"Cerro Largo","city":"Rio Branco","latitude":-32.56667,"longitude":-53.41667}}(window,'GeoPostal','UY');

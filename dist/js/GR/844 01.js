@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["844 01"]={"code":"844 01","region":"Notio Aigaio","city":"Young Inn","latitude":37.12282,"longitude":25.23903}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39750"]={"code":"39750","region":"Cantabria","city":"Colindres","latitude":43.39667,"longitude":-3.45361}}(window,'GeoPostal','ES');

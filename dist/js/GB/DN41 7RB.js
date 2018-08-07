@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN41 7RB"]={"code":"DN41 7RB","region":"England","city":"Healing","latitude":53.58101,"longitude":-0.16202}}(window,'GeoPostal','GB');

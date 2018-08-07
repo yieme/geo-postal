@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29890"]={"code":"29890","region":"Bretagne","city":"Kerlouan","latitude":48.645,"longitude":-4.36556}}(window,'GeoPostal','FR');

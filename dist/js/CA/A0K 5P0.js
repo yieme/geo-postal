@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["A0K 5P0"]={"code":"A0K 5P0","region":"Newfoundland and Labrador","city":"Trout River","latitude":49.48333,"longitude":-58.13165}}(window,'GeoPostal','CA');

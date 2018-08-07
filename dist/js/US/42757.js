@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42757"]={"code":"42757","region":"KY","city":"Magnolia","latitude":37.4165,"longitude":-85.7308}}(window,'GeoPostal','US');

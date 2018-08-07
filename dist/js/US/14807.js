@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14807"]={"code":"14807","region":"New York","city":"Arkport","latitude":42.39333,"longitude":-77.69611}}(window,'GeoPostal','US');

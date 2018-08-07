@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08-412"]={"code":"08-412","region":"Mazowieckie","city":"Borowie","latitude":51.94908,"longitude":21.7658}}(window,'GeoPostal','PL');

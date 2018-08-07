@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57890"]={"code":"57890","region":"Grand-Est","city":"Porcelette","latitude":49.15538,"longitude":6.6581}}(window,'GeoPostal','FR');

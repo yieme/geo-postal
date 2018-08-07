@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06043"]={"code":"06043","region":"Connecticut","city":"Bolton","latitude":41.76417,"longitude":-72.4375}}(window,'GeoPostal','US');

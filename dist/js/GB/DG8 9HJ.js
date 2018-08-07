@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG8 9HJ"]={"code":"DG8 9HJ","region":"Scotland","city":"Wigtown","latitude":54.86783,"longitude":-4.44489}}(window,'GeoPostal','GB');

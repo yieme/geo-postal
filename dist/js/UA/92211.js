@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92211"]={"code":"92211","region":"Luhanska oblast","city":"Lozno-Oleksandrivka","latitude":49.83741,"longitude":38.73808}}(window,'GeoPostal','UA');

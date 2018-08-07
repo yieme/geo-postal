@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07402"]={"code":"07402","region":"Kyivska oblast","city":"Brovary","latitude":50.51809,"longitude":30.80671}}(window,'GeoPostal','UA');

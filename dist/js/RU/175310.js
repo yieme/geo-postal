@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["175310"]={"code":"175310","region":"Novgorodskaya oblast'","city":"Demyansk","latitude":57.64301,"longitude":32.466}}(window,'GeoPostal','RU');

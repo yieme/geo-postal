@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63823"]={"code":"63823","region":"MO","city":"Bertrand","latitude":36.8927,"longitude":-89.4483}}(window,'GeoPostal','US');

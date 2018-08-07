@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04231"]={"code":"04231","region":"ME","city":"Stoneham","latitude":44.2641,"longitude":-70.8875}}(window,'GeoPostal','US');

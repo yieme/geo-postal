@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB1 4YD"]={"code":"AB1 4YD","region":"Scotland","city":"Portlethen","latitude":57.05474,"longitude":-2.13066}}(window,'GeoPostal','GB');

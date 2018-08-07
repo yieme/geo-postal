@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["370-0811"]={"code":"370-0811","region":"Gunma","city":"Takasaki","latitude":36.33333,"longitude":139.01667}}(window,'GeoPostal','JP');

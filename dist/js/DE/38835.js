@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38835"]={"code":"38835","region":"Sachsen-Anhalt","city":"Hessen","latitude":52.01667,"longitude":10.78333}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55350-000"]={"code":"55350-000","region":"Pernambuco","city":"Saloa","latitude":-8.966667,"longitude":-36.65}}(window,'GeoPostal','BR');

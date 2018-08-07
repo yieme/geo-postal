@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B2C 1K7"]={"code":"B2C 1K7","region":"Nova Scotia","city":"MacNeils Vale","latitude":46.01684,"longitude":-60.81519}}(window,'GeoPostal','CA');

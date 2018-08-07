@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96126"]={"code":"96126","region":"Bayern","city":"Geroldswind","latitude":50.18452,"longitude":10.68733}}(window,'GeoPostal','DE');

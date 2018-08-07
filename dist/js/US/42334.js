@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42334"]={"code":"42334","region":"KY","city":"Curdsville","latitude":37.735,"longitude":-87.3317}}(window,'GeoPostal','US');

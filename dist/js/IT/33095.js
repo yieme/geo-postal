@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33095"]={"code":"33095","region":"Friuli-Venezia Giulia","city":"San Giorgio della Richinvelda","latitude":46.04833,"longitude":12.87139}}(window,'GeoPostal','IT');

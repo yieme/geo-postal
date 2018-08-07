@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89852"]={"code":"89852","region":"Calabria","city":"Mileto","latitude":38.60958,"longitude":16.0696}}(window,'GeoPostal','IT');

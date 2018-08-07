@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22400"]={"code":"22400","region":"Pinar del Rio","city":"Vinales","latitude":22.61639,"longitude":-83.70778}}(window,'GeoPostal','CU');

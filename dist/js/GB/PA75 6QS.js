@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA75 6QS"]={"code":"PA75 6QS","region":"Scotland","city":"Croig","latitude":56.6,"longitude":-6.23333}}(window,'GeoPostal','GB');

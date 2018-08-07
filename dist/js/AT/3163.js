@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3163"]={"code":"3163","region":"Niederosterreich","city":"Rohrbach an der Goelsen","latitude":48.04699,"longitude":15.74169}}(window,'GeoPostal','AT');

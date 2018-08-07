@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19410-000"]={"code":"19410-000","region":"Sao Paulo","city":"Presidente Venceslau","latitude":-21.87611,"longitude":-51.84389}}(window,'GeoPostal','BR');

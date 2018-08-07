@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72539"]={"code":"72539","region":"AR","city":"Glencoe","latitude":36.2942,"longitude":-91.7474}}(window,'GeoPostal','US');

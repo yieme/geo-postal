@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9041"]={"code":"9041","region":"Santa Cruz","city":"Los Antiguos","latitude":-46.54972,"longitude":-71.63086}}(window,'GeoPostal','AR');

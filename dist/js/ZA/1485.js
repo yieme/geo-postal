@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1485"]={"code":"1485","region":"Gauteng","city":"Boksburg","latitude":-26.21197,"longitude":28.25958}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187307"]={"code":"187307","region":"Leningradskaya oblast'","city":"Mga","latitude":59.75,"longitude":31.06667}}(window,'GeoPostal','RU');

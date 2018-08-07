@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42784"]={"code":"42784","region":"KY","city":"Upton","latitude":37.4568,"longitude":-85.9086}}(window,'GeoPostal','US');

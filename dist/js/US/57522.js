@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57522"]={"code":"57522","region":"SD","city":"Blunt","latitude":44.5026,"longitude":-99.9463}}(window,'GeoPostal','US');

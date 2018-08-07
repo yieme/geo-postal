@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32722"]={"code":"32722","region":"FL","city":"Glenwood","latitude":29.0861,"longitude":-81.3542}}(window,'GeoPostal','US');

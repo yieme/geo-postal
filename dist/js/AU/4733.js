@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4733"]={"code":"4733","region":"Queensland","city":"Winton","latitude":-22.38185,"longitude":143.0424}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63230"]={"code":"63230","region":"Auvergne-Rhone-Alpes","city":"Chapdes-Beaufort","latitude":45.89225,"longitude":2.8638}}(window,'GeoPostal','FR');

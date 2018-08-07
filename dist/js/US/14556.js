@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14556"]={"code":"14556","region":"New York","city":"Sonyea","latitude":42.67878,"longitude":-77.8275}}(window,'GeoPostal','US');

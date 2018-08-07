@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56152"]={"code":"56152","region":"Minnesota","city":"Lamberton","latitude":44.22917,"longitude":-95.26722}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2252"]={"code":"2252","region":"Santa Fe","city":"Galvez","latitude":-32.02927,"longitude":-61.22103}}(window,'GeoPostal','AR');

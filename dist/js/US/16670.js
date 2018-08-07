@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16670"]={"code":"16670","region":"Pennsylvania","city":"Queen","latitude":40.259167,"longitude":-78.507778}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["235200"]={"code":"235200","region":"Anhui","city":"Longcheng","latitude":34.18448,"longitude":116.95077}}(window,'GeoPostal','CN');

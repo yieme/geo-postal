@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19964"]={"code":"19964","region":"DE","city":"Marydel","latitude":39.0998,"longitude":-75.7287}}(window,'GeoPostal','US');

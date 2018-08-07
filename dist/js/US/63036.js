@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63036"]={"code":"63036","region":"Missouri","city":"French Village","latitude":37.761392,"longitude":-90.431075}}(window,'GeoPostal','US');

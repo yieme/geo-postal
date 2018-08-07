@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44627"]={"code":"44627","region":"OH","city":"Fredericksburg","latitude":40.686,"longitude":-81.8518}}(window,'GeoPostal','US');

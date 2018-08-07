@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22460"]={"code":"22460","region":"Virginia","city":"Farnham","latitude":37.867703,"longitude":-76.597373}}(window,'GeoPostal','US');

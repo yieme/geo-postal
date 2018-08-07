@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46988"]={"code":"46988","region":"Valenciana, Comunidad","city":"Paterna","latitude":39.5,"longitude":-0.43333}}(window,'GeoPostal','ES');

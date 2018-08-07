@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20692"]={"code":"20692","region":"Maryland","city":"Valley Lee","latitude":38.19583,"longitude":-76.51278}}(window,'GeoPostal','US');

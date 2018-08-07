@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8640"]={"code":"8640","region":"Sankt Gallen","city":"Rapperswil","latitude":47.22557,"longitude":8.82228}}(window,'GeoPostal','CH');

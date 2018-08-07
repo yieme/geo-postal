@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92225"]={"code":"92225","region":"California","city":"Blythe","latitude":33.610764,"longitude":-114.616444}}(window,'GeoPostal','US');

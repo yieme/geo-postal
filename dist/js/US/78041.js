@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78041"]={"code":"78041","region":"Texas","city":"Laredo","latitude":27.548878,"longitude":-99.491162}}(window,'GeoPostal','US');

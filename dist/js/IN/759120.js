@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["759120"]={"code":"759120","region":"Odisha","city":"Talcher","latitude":20.95,"longitude":85.21667}}(window,'GeoPostal','IN');

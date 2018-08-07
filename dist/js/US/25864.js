@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25864"]={"code":"25864","region":"WV","city":"Layland","latitude":37.8893,"longitude":-80.9712}}(window,'GeoPostal','US');

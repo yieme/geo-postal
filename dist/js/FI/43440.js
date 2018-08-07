@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43440"]={"code":"43440","region":"Keski-Suomi","city":"Pylkonmaki","latitude":62.66667,"longitude":24.8}}(window,'GeoPostal','FI');

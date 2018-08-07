@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54627"]={"code":"54627","region":"WI","city":"Ettrick","latitude":44.1724,"longitude":-91.2635}}(window,'GeoPostal','US');

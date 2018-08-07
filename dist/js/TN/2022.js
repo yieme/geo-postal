@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2022"]={"code":"2022","region":"L'Ariana","city":"Qal'at al Andalus","latitude":37.0629,"longitude":10.11829}}(window,'GeoPostal','TN');

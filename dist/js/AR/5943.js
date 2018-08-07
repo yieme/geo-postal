@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5943"]={"code":"5943","region":"Cordoba","city":"Saturnino M. Laspiur","latitude":-31.70287,"longitude":-62.48202}}(window,'GeoPostal','AR');

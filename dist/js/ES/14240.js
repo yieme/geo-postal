@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14240"]={"code":"14240","region":"Andalucia","city":"Belmez","latitude":38.26667,"longitude":-5.2}}(window,'GeoPostal','ES');

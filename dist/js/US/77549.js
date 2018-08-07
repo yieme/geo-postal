@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77549"]={"code":"77549","region":"TX","city":"Friendswood","latitude":29.5294,"longitude":-95.201}}(window,'GeoPostal','US');

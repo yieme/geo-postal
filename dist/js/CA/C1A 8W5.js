@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["C1A 8W5"]={"code":"C1A 8W5","region":"Prince Edward Island","city":"Tracadie","latitude":46.35011,"longitude":-62.96537}}(window,'GeoPostal','CA');

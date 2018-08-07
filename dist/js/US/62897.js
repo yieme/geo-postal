@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62897"]={"code":"62897","region":"IL","city":"Whittington","latitude":38.0872,"longitude":-88.9014}}(window,'GeoPostal','US');

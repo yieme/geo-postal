@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79789"]={"code":"79789","region":"Texas","city":"Wink","latitude":31.75417,"longitude":-103.15556}}(window,'GeoPostal','US');

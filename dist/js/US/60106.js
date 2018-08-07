@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60106"]={"code":"60106","region":"Illinois","city":"Bensenville","latitude":41.952625,"longitude":-87.948598}}(window,'GeoPostal','US');

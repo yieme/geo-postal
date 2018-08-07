@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431260"]={"code":"431260","region":"Mordoviya, Respublika","city":"Krasnoslobodsk","latitude":54.4253,"longitude":43.78963}}(window,'GeoPostal','RU');

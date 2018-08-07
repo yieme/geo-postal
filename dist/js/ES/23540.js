@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23540"]={"code":"23540","region":"Andalucia","city":"Torres","latitude":37.78537,"longitude":-3.50902}}(window,'GeoPostal','ES');

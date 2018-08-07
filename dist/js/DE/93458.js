@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93458"]={"code":"93458","region":"Bayern","city":"Stachesried","latitude":49.29255,"longitude":12.94327}}(window,'GeoPostal','DE');

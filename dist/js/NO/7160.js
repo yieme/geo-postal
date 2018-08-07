@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7160"]={"code":"7160","region":"Sor-Trondelag","city":"Botngard","latitude":63.76532,"longitude":9.81113}}(window,'GeoPostal','NO');

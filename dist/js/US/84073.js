@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84073"]={"code":"84073","region":"Utah","city":"Talmage","latitude":40.176273,"longitude":-110.39206}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28585"]={"code":"28585","region":"North Carolina","city":"Trenton","latitude":35.067728,"longitude":-77.411188}}(window,'GeoPostal','US');

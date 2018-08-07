@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62851"]={"code":"62851","region":"Illinois","city":"Keenes","latitude":38.3643,"longitude":-88.65612}}(window,'GeoPostal','US');

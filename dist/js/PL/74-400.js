@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74-400"]={"code":"74-400","region":"Zachodniopomorskie","city":"Debno","latitude":52.73901,"longitude":14.698}}(window,'GeoPostal','PL');

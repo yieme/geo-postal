@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BS40 7TH"]={"code":"BS40 7TH","region":"England","city":"Blagdon","latitude":51.32688,"longitude":-2.71731}}(window,'GeoPostal','GB');

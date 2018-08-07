@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3772"]={"code":"3772","region":"Bern","city":"Sankt Stephan","latitude":46.51168,"longitude":7.39386}}(window,'GeoPostal','CH');

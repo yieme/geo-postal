@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68780"]={"code":"68780","region":"Grand-Est","city":"Sentheim","latitude":47.7556,"longitude":7.05305}}(window,'GeoPostal','FR');

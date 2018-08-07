@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY6 6HG"]={"code":"SY6 6HG","region":"England","city":"All Stretton","latitude":52.55393,"longitude":-2.79788}}(window,'GeoPostal','GB');

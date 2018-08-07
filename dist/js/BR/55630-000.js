@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55630-000"]={"code":"55630-000","region":"Pernambuco","city":"Pombos","latitude":-8.14139,"longitude":-35.39583}}(window,'GeoPostal','BR');

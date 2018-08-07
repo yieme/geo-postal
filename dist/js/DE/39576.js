@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39576"]={"code":"39576","region":"Sachsen-Anhalt","city":"Stendal","latitude":52.6069,"longitude":11.85867}}(window,'GeoPostal','DE');

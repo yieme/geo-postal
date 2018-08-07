@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26426"]={"code":"26426","region":"WV","city":"Salem","latitude":39.2829,"longitude":-80.559}}(window,'GeoPostal','US');

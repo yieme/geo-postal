@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57432"]={"code":"57432","region":"South Dakota","city":"Claremont","latitude":45.66498,"longitude":-98.05488}}(window,'GeoPostal','US');

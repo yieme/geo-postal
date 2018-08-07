@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8283"]={"code":"8283","region":"Nordland","city":"Leinesfjorden","latitude":67.77548,"longitude":15.01545}}(window,'GeoPostal','NO');

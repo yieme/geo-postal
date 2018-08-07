@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71001"]={"code":"71001","region":"Viljandimaa","city":"Viljandi","latitude":58.36389,"longitude":25.59}}(window,'GeoPostal','EE');

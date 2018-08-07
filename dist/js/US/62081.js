@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62081"]={"code":"62081","region":"IL","city":"Rockbridge","latitude":39.2831,"longitude":-90.2558}}(window,'GeoPostal','US');

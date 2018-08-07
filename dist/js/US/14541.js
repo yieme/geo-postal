@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14541"]={"code":"14541","region":"New York","city":"Romulus","latitude":42.752222,"longitude":-76.833611}}(window,'GeoPostal','US');

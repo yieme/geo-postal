@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96859"]={"code":"96859","region":"HI","city":"Tripler Army Medical Center","latitude":21.4061,"longitude":-157.9609}}(window,'GeoPostal','US');

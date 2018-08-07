@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63835"]={"code":"63835","region":"Marche","city":"Montappone","latitude":43.13645,"longitude":13.46848}}(window,'GeoPostal','IT');

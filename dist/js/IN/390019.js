@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["390019"]={"code":"390019","region":"Gujarat","city":"Sinor","latitude":21.91667,"longitude":73.33333}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35221"]={"code":"35221","region":"Bretagne","city":"Chateaubourg","latitude":48.11119,"longitude":-1.40019}}(window,'GeoPostal','FR');

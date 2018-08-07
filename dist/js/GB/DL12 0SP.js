@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL12 0SP"]={"code":"DL12 0SP","region":"England","city":"Middleton in Teesdale","latitude":54.62507,"longitude":-2.08234}}(window,'GeoPostal','GB');

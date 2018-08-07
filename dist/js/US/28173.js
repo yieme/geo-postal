@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28173"]={"code":"28173","region":"North Carolina","city":"Waxhaw","latitude":34.92459,"longitude":-80.7434}}(window,'GeoPostal','US');

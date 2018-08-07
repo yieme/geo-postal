@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20101"]={"code":"20101","region":"Virginia","city":"Dulles","latitude":38.951667,"longitude":-77.448056}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08226"]={"code":"08226","region":"New Jersey","city":"Ocean City","latitude":39.27762,"longitude":-74.5746}}(window,'GeoPostal','US');

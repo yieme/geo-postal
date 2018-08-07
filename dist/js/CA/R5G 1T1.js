@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R5G 1T1"]={"code":"R5G 1T1","region":"Manitoba","city":"Clear Springs","latitude":49.56029,"longitude":-96.6842}}(window,'GeoPostal','CA');

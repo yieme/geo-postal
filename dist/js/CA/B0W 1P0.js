@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 1P0"]={"code":"B0W 1P0","region":"Nova Scotia","city":"Clark's Harbour","latitude":43.45016,"longitude":-65.63213}}(window,'GeoPostal','CA');

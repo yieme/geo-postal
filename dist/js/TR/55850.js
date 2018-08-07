@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55850"]={"code":"55850","region":"Corum","city":"Alaca","latitude":40.16833,"longitude":34.8425}}(window,'GeoPostal','TR');

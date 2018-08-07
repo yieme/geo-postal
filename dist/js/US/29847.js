@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29847"]={"code":"29847","region":"SC","city":"Trenton","latitude":33.6938,"longitude":-81.8534}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY14 8NA"]={"code":"SY14 8NA","region":"England","city":"Malpas","latitude":53.01667,"longitude":-2.76667}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98331"]={"code":"98331","region":"Washington","city":"Forks","latitude":47.95036,"longitude":-124.38549}}(window,'GeoPostal','US');

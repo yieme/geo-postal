@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4880"]={"code":"4880","region":"Oberosterreich","city":"Seewalchen","latitude":47.95246,"longitude":13.58382}}(window,'GeoPostal','AT');

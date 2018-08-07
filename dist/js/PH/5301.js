@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5301"]={"code":"5301","region":"Palawan","city":"Irahuan","latitude":9.80278,"longitude":118.69861}}(window,'GeoPostal','PH');

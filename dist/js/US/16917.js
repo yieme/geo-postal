@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16917"]={"code":"16917","region":"Pennsylvania","city":"Covington","latitude":41.758236,"longitude":-77.066766}}(window,'GeoPostal','US');

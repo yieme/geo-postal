@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95364"]={"code":"95364","region":"CA","city":"Pinecrest","latitude":38.1889,"longitude":-119.9924}}(window,'GeoPostal','US');

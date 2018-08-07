@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["413-904"]={"code":"413-904","region":"Gyeonggi-do","city":"Munsan","latitude":37.85944,"longitude":126.785}}(window,'GeoPostal','KR');

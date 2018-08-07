@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79023"]={"code":"79023","region":"Dalarnas lan","city":"Svardsjo","latitude":60.75,"longitude":15.91667}}(window,'GeoPostal','SE');

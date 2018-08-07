@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["117631"]={"code":"117631","region":"Arges","city":"Rucar","latitude":45.4,"longitude":25.16667}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8185"]={"code":"8185","region":"Zurich","city":"Bachenbulach","latitude":47.50317,"longitude":8.54556}}(window,'GeoPostal','CH');

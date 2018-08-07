@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78006"]={"code":"78006","region":"Texas","city":"Scenic Oaks","latitude":29.71078,"longitude":-98.67586}}(window,'GeoPostal','US');

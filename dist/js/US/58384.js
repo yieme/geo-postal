@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58384"]={"code":"58384","region":"North Dakota","city":"Willow City","latitude":48.617544,"longitude":-100.297642}}(window,'GeoPostal','US');

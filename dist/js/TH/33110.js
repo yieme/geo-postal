@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33110"]={"code":"33110","region":"Si Sa Ket","city":"Kantharalak","latitude":14.64056,"longitude":104.64992}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["700 14"]={"code":"700 14","region":"Kriti","city":"Gournai","latitude":35.31667,"longitude":25.28333}}(window,'GeoPostal','GR');

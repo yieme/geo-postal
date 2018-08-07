@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["306401"]={"code":"306401","region":"Rajasthan","city":"Pali","latitude":25.76667,"longitude":73.33333}}(window,'GeoPostal','IN');

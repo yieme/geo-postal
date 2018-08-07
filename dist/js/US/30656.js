@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30656"]={"code":"30656","region":"GA","city":"Monroe","latitude":33.8386,"longitude":-83.7104}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12758"]={"code":"12758","region":"New York","city":"Livingston Manor","latitude":41.90037,"longitude":-74.82822}}(window,'GeoPostal','US');

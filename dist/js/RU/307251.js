@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["307251"]={"code":"307251","region":"Kurskaya oblast'","city":"Kurchatov","latitude":51.6601,"longitude":35.6521}}(window,'GeoPostal','RU');

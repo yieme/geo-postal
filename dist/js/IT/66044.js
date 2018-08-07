@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66044"]={"code":"66044","region":"Abruzzo","city":"Archi","latitude":42.08994,"longitude":14.38122}}(window,'GeoPostal','IT');

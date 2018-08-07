@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78663"]={"code":"78663","region":"TX","city":"Round Mountain","latitude":30.4429,"longitude":-98.4365}}(window,'GeoPostal','US');

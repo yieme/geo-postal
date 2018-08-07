@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["761025"]={"code":"761025","region":"Odisha","city":"Chatrapur","latitude":19.35,"longitude":84.98333}}(window,'GeoPostal','IN');

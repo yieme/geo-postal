@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP7 0LG"]={"code":"SP7 0LG","region":"England","city":"East Orchard","latitude":50.95839,"longitude":-2.23801}}(window,'GeoPostal','GB');

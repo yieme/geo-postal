@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6887"]={"code":"6887","region":"Luxembourg","city":"Herbeumont","latitude":49.78086,"longitude":5.2358}}(window,'GeoPostal','BE');

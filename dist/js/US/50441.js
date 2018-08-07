@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50441"]={"code":"50441","region":"Iowa","city":"Hampton","latitude":42.743882,"longitude":-93.205747}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01010"]={"code":"01010","region":"MA","city":"Brimfield","latitude":42.1165,"longitude":-72.1885}}(window,'GeoPostal','US');

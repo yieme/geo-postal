@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14739"]={"code":"14739","region":"New York","city":"Friendship","latitude":42.20646,"longitude":-78.13751}}(window,'GeoPostal','US');

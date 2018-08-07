@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38630"]={"code":"38630","region":"MS","city":"Farrell","latitude":34.2643,"longitude":-90.6723}}(window,'GeoPostal','US');

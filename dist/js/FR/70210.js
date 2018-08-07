@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70210"]={"code":"70210","region":"Bourgogne-Franche-Comte","city":"Vauvillers","latitude":47.9233,"longitude":6.0983}}(window,'GeoPostal','FR');

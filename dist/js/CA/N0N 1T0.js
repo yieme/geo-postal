@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N0N 1T0"]={"code":"N0N 1T0","region":"Ontario","city":"Wyoming","latitude":42.95008,"longitude":-82.11651}}(window,'GeoPostal','CA');

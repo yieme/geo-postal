@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44131"]={"code":"44131","region":"Ohio","city":"Independence","latitude":41.385465,"longitude":-81.657979}}(window,'GeoPostal','US');

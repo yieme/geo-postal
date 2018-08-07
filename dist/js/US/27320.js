@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27320"]={"code":"27320","region":"North Carolina","city":"Reidsville","latitude":36.3528,"longitude":-79.6182}}(window,'GeoPostal','US');

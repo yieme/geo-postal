@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65764"]={"code":"65764","region":"Missouri","city":"Tunas","latitude":37.836966,"longitude":-92.958882}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84172"]={"code":"84172","region":"Bayern","city":"Obererlbach","latitude":48.45079,"longitude":12.0272}}(window,'GeoPostal','DE');

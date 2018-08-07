@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["565 01"]={"code":"565 01","region":"Pardubicky kraj","city":"Chocen","latitude":50.00161,"longitude":16.22303}}(window,'GeoPostal','CZ');

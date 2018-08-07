@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49755"]={"code":"49755","region":"Michigan","city":"Levering","latitude":45.646528,"longitude":-84.841765}}(window,'GeoPostal','US');

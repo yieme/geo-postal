@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8154"]={"code":"8154","region":"Fejer","city":"Polgardi","latitude":47.06099,"longitude":18.302}}(window,'GeoPostal','HU');

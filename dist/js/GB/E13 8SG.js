@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["E13 8SG"]={"code":"E13 8SG","region":"England","city":"Newham","latitude":55.53333,"longitude":-1.71667}}(window,'GeoPostal','GB');

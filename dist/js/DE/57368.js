@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57368"]={"code":"57368","region":"Nordrhein-Westfalen","city":"Lennestadt","latitude":51.11721,"longitude":8.06707}}(window,'GeoPostal','DE');

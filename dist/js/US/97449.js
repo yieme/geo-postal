@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97449"]={"code":"97449","region":"Oregon","city":"Lakeside","latitude":43.57567,"longitude":-124.17511}}(window,'GeoPostal','US');

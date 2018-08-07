@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431640"]={"code":"431640","region":"Mordoviya, Respublika","city":"Kemlya","latitude":54.6963,"longitude":45.2424}}(window,'GeoPostal','RU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58278-000"]={"code":"58278-000","region":"Paraiba","city":"Jacarau","latitude":-6.61222,"longitude":-35.29278}}(window,'GeoPostal','BR');

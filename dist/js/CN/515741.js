@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515741"]={"code":"515741","region":"Guangdong","city":"Dongshan","latitude":23.90776,"longitude":116.93164}}(window,'GeoPostal','CN');

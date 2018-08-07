@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89843"]={"code":"89843","region":"Calabria","city":"Maierato","latitude":38.70778,"longitude":16.1865}}(window,'GeoPostal','IT');

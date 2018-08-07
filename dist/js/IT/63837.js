@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63837"]={"code":"63837","region":"Marche","city":"Falerone","latitude":43.10705,"longitude":13.47168}}(window,'GeoPostal','IT');

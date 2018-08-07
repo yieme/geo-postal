@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45795"]={"code":"45795","region":"Vastra Gotalands lan","city":"Grebbestad","latitude":58.70248,"longitude":11.25738}}(window,'GeoPostal','SE');

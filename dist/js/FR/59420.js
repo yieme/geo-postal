@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59420"]={"code":"59420","region":"Hauts-de-France","city":"Mouvaux","latitude":50.69944,"longitude":3.13429}}(window,'GeoPostal','FR');

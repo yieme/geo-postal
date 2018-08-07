@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97413"]={"code":"97413","region":"Oregon","city":"Blue River","latitude":44.179665,"longitude":-122.120204}}(window,'GeoPostal','US');

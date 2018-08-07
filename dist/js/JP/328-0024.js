@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["328-0024"]={"code":"328-0024","region":"Tochigi","city":"Tochigi","latitude":36.38111,"longitude":139.73028}}(window,'GeoPostal','JP');

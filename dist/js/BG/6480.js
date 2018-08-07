@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6480"]={"code":"6480","region":"Haskovo","city":"Madzharovo","latitude":41.63333,"longitude":25.86667}}(window,'GeoPostal','BG');

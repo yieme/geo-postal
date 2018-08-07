@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83355"]={"code":"83355","region":"Bayern","city":"Hirschau","latitude":47.85668,"longitude":12.53675}}(window,'GeoPostal','DE');

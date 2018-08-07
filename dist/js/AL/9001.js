@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9001"]={"code":"9001","region":"Fier","city":"Lushnje","latitude":40.94194,"longitude":19.705}}(window,'GeoPostal','AL');

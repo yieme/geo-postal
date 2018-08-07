@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79855"]={"code":"79855","region":"Texas","city":"Van Horn","latitude":31.03986,"longitude":-104.83077}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74850"]={"code":"74850","region":"OK","city":"Lamar","latitude":35.0836,"longitude":-96.1142}}(window,'GeoPostal','US');

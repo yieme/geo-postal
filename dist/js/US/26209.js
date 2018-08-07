@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26209"]={"code":"26209","region":"West Virginia","city":"Snowshoe","latitude":38.40972,"longitude":-80.01417}}(window,'GeoPostal','US');

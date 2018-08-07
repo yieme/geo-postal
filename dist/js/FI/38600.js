@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38600"]={"code":"38600","region":"Satakunta","city":"Lavia","latitude":61.6,"longitude":22.6}}(window,'GeoPostal','FI');

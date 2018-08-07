@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["417315"]={"code":"417315","region":"Bihor","city":"Lugasu de Jos","latitude":47.06667,"longitude":22.35}}(window,'GeoPostal','RO');

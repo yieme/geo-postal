@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86-150"]={"code":"86-150","region":"Kujawsko-pomorskie","city":"Osie","latitude":53.59918,"longitude":18.34373}}(window,'GeoPostal','PL');

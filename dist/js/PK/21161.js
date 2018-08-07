@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21161"]={"code":"21161","region":"Punjab","city":"Nazir Town","latitude":33.30614,"longitude":73.4833}}(window,'GeoPostal','PK');

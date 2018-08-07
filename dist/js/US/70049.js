@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70049"]={"code":"70049","region":"LA","city":"Edgard","latitude":30.0319,"longitude":-90.5817}}(window,'GeoPostal','US');

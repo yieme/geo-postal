@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97362"]={"code":"97362","region":"OR","city":"Mount Angel","latitude":45.0737,"longitude":-122.7856}}(window,'GeoPostal','US');

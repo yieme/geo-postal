@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["531 00"]={"code":"531 00","region":"Dytiki Makedonia","city":"Florina","latitude":40.78197,"longitude":21.40981}}(window,'GeoPostal','GR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60181"]={"code":"60181","region":"Illinois","city":"Villa Park","latitude":41.87868,"longitude":-87.9798}}(window,'GeoPostal','US');

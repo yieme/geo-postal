@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68881"]={"code":"68881","region":"Nebraska","city":"Westerville","latitude":41.413998,"longitude":-99.392145}}(window,'GeoPostal','US');

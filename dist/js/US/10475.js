@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10475"]={"code":"10475","region":"New York","city":"Bronx","latitude":40.877143,"longitude":-73.828029}}(window,'GeoPostal','US');

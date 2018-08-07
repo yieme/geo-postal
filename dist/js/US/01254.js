@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01254"]={"code":"01254","region":"MA","city":"Richmond","latitude":42.3784,"longitude":-73.3645}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G1E 3L1"]={"code":"G1E 3L1","region":"Quebec","city":"Beauport","latitude":46.850422,"longitude":-71.20396}}(window,'GeoPostal','CA');

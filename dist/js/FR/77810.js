@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77810"]={"code":"77810","region":"Ile-de-France","city":"Thomery","latitude":48.40723,"longitude":2.78852}}(window,'GeoPostal','FR');

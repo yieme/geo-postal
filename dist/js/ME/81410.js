@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81410"]={"code":"81410","region":"Danilovgrad","city":"Danilovgrad","latitude":42.55384,"longitude":19.14608}}(window,'GeoPostal','ME');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39960-000"]={"code":"39960-000","region":"Minas Gerais","city":"Jequitinhonha","latitude":-16.43389,"longitude":-41.00333}}(window,'GeoPostal','BR');

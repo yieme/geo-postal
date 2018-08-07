@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36251"]={"code":"36251","region":"Hessen","city":"Bad Hersfeld","latitude":50.87197,"longitude":9.70891}}(window,'GeoPostal','DE');

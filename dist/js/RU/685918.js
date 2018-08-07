@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["685918"]={"code":"685918","region":"Magadanskaya oblast'","city":"Sokol","latitude":59.88333,"longitude":150.91667}}(window,'GeoPostal','RU');

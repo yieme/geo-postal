@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0C 0Z0"]={"code":"R0C 0Z0","region":"Manitoba","city":"Fisher Branch","latitude":51.08311,"longitude":-97.62068}}(window,'GeoPostal','CA');

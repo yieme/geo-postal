@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1222"]={"code":"1222","region":"Baki","city":"Baku","latitude":40.37767,"longitude":49.89201}}(window,'GeoPostal','AZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30752"]={"code":"30752","region":"Georgia","city":"Trenton","latitude":34.870809,"longitude":-85.509862}}(window,'GeoPostal','US');

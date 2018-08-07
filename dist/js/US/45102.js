@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45102"]={"code":"45102","region":"Ohio","city":"Amelia","latitude":39.0284,"longitude":-84.21771}}(window,'GeoPostal','US');

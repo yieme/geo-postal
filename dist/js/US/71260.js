@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71260"]={"code":"71260","region":"LA","city":"Marion","latitude":32.8716,"longitude":-92.2862}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86800"]={"code":"86800","region":"Nouvelle-Aquitaine","city":"Terce","latitude":46.51667,"longitude":0.56386}}(window,'GeoPostal','FR');

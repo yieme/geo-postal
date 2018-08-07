@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7571"]={"code":"7571","region":"Somogy","city":"Barcs","latitude":45.96,"longitude":17.45861}}(window,'GeoPostal','HU');

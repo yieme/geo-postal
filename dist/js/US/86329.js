@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86329"]={"code":"86329","region":"AZ","city":"Humboldt","latitude":34.5009,"longitude":-112.2374}}(window,'GeoPostal','US');

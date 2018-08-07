@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04171"]={"code":"04171","region":"Magway","city":"Chauk","latitude":20.88333,"longitude":94.81667}}(window,'GeoPostal','MM');

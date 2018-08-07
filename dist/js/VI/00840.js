@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00840"]={"code":"00840","region":"Virgin Islands","city":"Frederiksted","latitude":17.711667,"longitude":-64.881944}}(window,'GeoPostal','VI');

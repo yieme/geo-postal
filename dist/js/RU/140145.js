@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["140145"]={"code":"140145","region":"Moskovskaya oblast'","city":"Rechitsy","latitude":55.59754,"longitude":38.47134}}(window,'GeoPostal','RU');

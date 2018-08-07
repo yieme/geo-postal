@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08805"]={"code":"08805","region":"Catalunya","city":"Sabadell","latitude":41.54329,"longitude":2.10942}}(window,'GeoPostal','ES');

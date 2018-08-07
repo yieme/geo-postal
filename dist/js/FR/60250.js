@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60250"]={"code":"60250","region":"Hauts-de-France","city":"Angy","latitude":49.32975,"longitude":2.32854}}(window,'GeoPostal','FR');

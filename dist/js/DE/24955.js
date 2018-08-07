@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24955"]={"code":"24955","region":"Schleswig-Holstein","city":"Harrislee","latitude":54.8,"longitude":9.38333}}(window,'GeoPostal','DE');

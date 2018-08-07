@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34596"]={"code":"34596","region":"Hessen","city":"Oberurff","latitude":51.03333,"longitude":9.16667}}(window,'GeoPostal','DE');

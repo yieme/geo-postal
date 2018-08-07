@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95493"]={"code":"95493","region":"Bayern","city":"Frobershammer","latitude":50.05324,"longitude":11.81334}}(window,'GeoPostal','DE');

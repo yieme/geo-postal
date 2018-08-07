@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72578"]={"code":"72578","region":"AR","city":"Sturkie","latitude":36.4747,"longitude":-91.8891}}(window,'GeoPostal','US');

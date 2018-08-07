@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP27 0PZ"]={"code":"IP27 0PZ","region":"England","city":"Weeting","latitude":52.4644,"longitude":0.61485}}(window,'GeoPostal','GB');

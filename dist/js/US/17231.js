@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17231"]={"code":"17231","region":"PA","city":"Lemasters","latitude":39.8594,"longitude":-77.8579}}(window,'GeoPostal','US');

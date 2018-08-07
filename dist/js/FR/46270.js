@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46270"]={"code":"46270","region":"Occitanie","city":"Felzins","latitude":44.605,"longitude":2.1358}}(window,'GeoPostal','FR');

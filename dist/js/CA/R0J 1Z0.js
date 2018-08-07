@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0J 1Z0"]={"code":"R0J 1Z0","region":"Manitoba","city":"Shoal Lake","latitude":50.43781,"longitude":-100.59196}}(window,'GeoPostal','CA');

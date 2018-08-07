@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95608"]={"code":"95608","region":"California","city":"Carmichael","latitude":38.628256,"longitude":-121.32827}}(window,'GeoPostal','US');

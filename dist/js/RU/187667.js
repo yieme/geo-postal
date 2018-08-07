@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187667"]={"code":"187667","region":"Moskovskaya oblast'","city":"Lesnoy","latitude":56.06667,"longitude":37.91667}}(window,'GeoPostal','RU');

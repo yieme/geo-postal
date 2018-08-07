@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46995"]={"code":"46995","region":"IN","city":"West Middleton","latitude":40.4421,"longitude":-86.2155}}(window,'GeoPostal','US');

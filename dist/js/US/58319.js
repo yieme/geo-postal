@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58319"]={"code":"58319","region":"ND","city":"Bremen","latitude":47.72,"longitude":-99.36}}(window,'GeoPostal','US');

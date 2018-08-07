@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75757"]={"code":"75757","region":"TX","city":"Bullard","latitude":32.1095,"longitude":-95.3342}}(window,'GeoPostal','US');

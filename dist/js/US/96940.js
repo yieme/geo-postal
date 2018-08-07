@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96940"]={"code":"96940","region":"PW","city":"Palau","latitude":7.5,"longitude":134.5}}(window,'GeoPostal','US');

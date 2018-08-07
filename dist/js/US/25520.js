@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25520"]={"code":"25520","region":"WV","city":"Glenwood","latitude":38.5909,"longitude":-82.1773}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72130"]={"code":"72130","region":"Suphan Buri","city":"Ban Sam Chuk","latitude":14.73333,"longitude":100.1}}(window,'GeoPostal','TH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23851"]={"code":"23851","region":"Virginia","city":"Franklin","latitude":36.674897,"longitude":-76.940388}}(window,'GeoPostal','US');

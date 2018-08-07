@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX29 9EF"]={"code":"OX29 9EF","region":"England","city":"Witney","latitude":51.7836,"longitude":-1.4854}}(window,'GeoPostal','GB');

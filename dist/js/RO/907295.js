@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["907295"]={"code":"907295","region":"Constanta","city":"Eforie Sud","latitude":44.02294,"longitude":28.64943}}(window,'GeoPostal','RO');

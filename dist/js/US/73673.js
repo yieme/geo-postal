@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73673"]={"code":"73673","region":"Oklahoma","city":"Willow","latitude":35.047052,"longitude":-99.641997}}(window,'GeoPostal','US');

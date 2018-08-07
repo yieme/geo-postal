@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29770-000"]={"code":"29770-000","region":"Espirito Santo","city":"Mantenopolis","latitude":-18.8625,"longitude":-41.12278}}(window,'GeoPostal','BR');

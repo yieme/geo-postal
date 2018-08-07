@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53016"]={"code":"53016","region":"WI","city":"Clyman","latitude":43.3107,"longitude":-88.7144}}(window,'GeoPostal','US');

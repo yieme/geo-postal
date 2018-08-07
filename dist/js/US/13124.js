@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13124"]={"code":"13124","region":"NY","city":"North Pitcher","latitude":42.6372,"longitude":-75.8164}}(window,'GeoPostal','US');

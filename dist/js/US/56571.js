@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56571"]={"code":"56571","region":"Minnesota","city":"Ottertail","latitude":46.42194,"longitude":-95.56611}}(window,'GeoPostal','US');

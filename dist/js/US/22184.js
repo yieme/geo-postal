@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22184"]={"code":"22184","region":"VA","city":"National Wildlife Assoc","latitude":38.9,"longitude":-77.26}}(window,'GeoPostal','US');

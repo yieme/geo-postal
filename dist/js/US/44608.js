@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44608"]={"code":"44608","region":"OH","city":"Beach City","latitude":40.6562,"longitude":-81.5851}}(window,'GeoPostal','US');

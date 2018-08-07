@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40076"]={"code":"40076","region":"KY","city":"Waddy","latitude":38.1054,"longitude":-85.1288}}(window,'GeoPostal','US');

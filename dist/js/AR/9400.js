@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9400"]={"code":"9400","region":"Santa Cruz","city":"Rio Gallegos","latitude":-51.62261,"longitude":-69.21813}}(window,'GeoPostal','AR');

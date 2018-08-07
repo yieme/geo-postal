@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81434"]={"code":"81434","region":"Colorado","city":"Somerset","latitude":38.96262,"longitude":-107.29655}}(window,'GeoPostal','US');

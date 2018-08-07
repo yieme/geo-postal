@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17228"]={"code":"17228","region":"PA","city":"Harrisonville","latitude":39.9761,"longitude":-78.0841}}(window,'GeoPostal','US');

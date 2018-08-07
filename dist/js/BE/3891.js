@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3891"]={"code":"3891","region":"Limburg","city":"Gingelom","latitude":50.74792,"longitude":5.13422}}(window,'GeoPostal','BE');

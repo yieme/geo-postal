@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["130117"]={"code":"130117","region":"Jilin","city":"Changchun","latitude":43.88,"longitude":125.32278}}(window,'GeoPostal','CN');

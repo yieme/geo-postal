@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 1E0"]={"code":"B0W 1E0","region":"Nova Scotia","city":"Barrington","latitude":43.56686,"longitude":-65.56553}}(window,'GeoPostal','CA');

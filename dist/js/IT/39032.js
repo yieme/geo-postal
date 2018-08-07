@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39032"]={"code":"39032","region":"Trentino-Alto Adige","city":"Campo Tures","latitude":46.92033,"longitude":11.95448}}(window,'GeoPostal','IT');

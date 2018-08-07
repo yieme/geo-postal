@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19651"]={"code":"19651","region":"Keski-Suomi","city":"Joutsa","latitude":61.73333,"longitude":26.11667}}(window,'GeoPostal','FI');

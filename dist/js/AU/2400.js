@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2400"]={"code":"2400","region":"New South Wales","city":"Moree","latitude":-29.46278,"longitude":149.84157}}(window,'GeoPostal','AU');

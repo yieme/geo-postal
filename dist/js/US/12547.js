@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12547"]={"code":"12547","region":"New York","city":"Crown Heights","latitude":41.63732,"longitude":-73.93792}}(window,'GeoPostal','US');

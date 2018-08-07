@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38045"]={"code":"38045","region":"TN","city":"Laconia","latitude":35.2904,"longitude":-89.2322}}(window,'GeoPostal','US');

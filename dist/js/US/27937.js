@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27937"]={"code":"27937","region":"North Carolina","city":"Gates","latitude":36.502101,"longitude":-76.78649}}(window,'GeoPostal','US');

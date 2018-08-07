@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95430"]={"code":"95430","region":"CA","city":"Duncans Mills","latitude":38.4538,"longitude":-123.055}}(window,'GeoPostal','US');

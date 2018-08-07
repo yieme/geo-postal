@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN22 0HT"]={"code":"DN22 0HT","region":"England","city":"Rampton","latitude":53.3,"longitude":-0.8}}(window,'GeoPostal','GB');

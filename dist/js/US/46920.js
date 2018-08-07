@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46920"]={"code":"46920","region":"IN","city":"Cutler","latitude":40.4785,"longitude":-86.4462}}(window,'GeoPostal','US');

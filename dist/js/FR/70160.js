@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70160"]={"code":"70160","region":"Bourgogne-Franche-Comte","city":"Faverney","latitude":47.76713,"longitude":6.10428}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL8 3QW"]={"code":"DL8 3QW","region":"England","city":"Hawes","latitude":54.30387,"longitude":-2.19605}}(window,'GeoPostal','GB');

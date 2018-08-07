@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99507"]={"code":"99507","region":"AK","city":"Anchorage","latitude":61.1535,"longitude":-149.8289}}(window,'GeoPostal','US');

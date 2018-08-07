@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2677"]={"code":"2677","region":"Auckland","city":"Pukekohe East","latitude":-37.2,"longitude":174.95}}(window,'GeoPostal','NZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84053"]={"code":"84053","region":"Utah","city":"Neola","latitude":40.51,"longitude":-110.096271}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9981"]={"code":"9981","region":"Vas","city":"Szentgotthard","latitude":46.95261,"longitude":16.27358}}(window,'GeoPostal','HU');

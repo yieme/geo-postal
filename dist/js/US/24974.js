@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24974"]={"code":"24974","region":"WV","city":"Secondcreek","latitude":37.6654,"longitude":-80.454}}(window,'GeoPostal','US');

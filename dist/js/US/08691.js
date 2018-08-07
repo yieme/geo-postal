@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08691"]={"code":"08691","region":"New Jersey","city":"Robbinsville","latitude":40.22335,"longitude":-74.620719}}(window,'GeoPostal','US');

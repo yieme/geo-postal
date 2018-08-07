@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54435"]={"code":"54435","region":"WI","city":"Gleason","latitude":45.3384,"longitude":-89.4753}}(window,'GeoPostal','US');

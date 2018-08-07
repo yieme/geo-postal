@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80511"]={"code":"80511","region":"Colorado","city":"Estes Park","latitude":40.33791,"longitude":-105.56464}}(window,'GeoPostal','US');

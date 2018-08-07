@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64453"]={"code":"64453","region":"MO","city":"Gentry","latitude":40.3411,"longitude":-94.4142}}(window,'GeoPostal','US');

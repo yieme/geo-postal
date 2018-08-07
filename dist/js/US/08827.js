@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08827"]={"code":"08827","region":"NJ","city":"Hampton","latitude":40.6774,"longitude":-74.9622}}(window,'GeoPostal','US');

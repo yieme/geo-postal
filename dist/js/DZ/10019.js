@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10019"]={"code":"10019","region":"Bouira","city":"Chorfa","latitude":36.36505,"longitude":4.32636}}(window,'GeoPostal','DZ');

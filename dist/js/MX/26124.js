@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26124"]={"code":"26124","region":"Chiapas","city":"Frontera Hidalgo","latitude":14.78333,"longitude":-92.16667}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80538"]={"code":"80538","region":"Bayern","city":"Lehel","latitude":48.13963,"longitude":11.58766}}(window,'GeoPostal','DE');

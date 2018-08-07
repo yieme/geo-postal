@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["407390"]={"code":"407390","region":"Cluj","city":"Marisel","latitude":46.65,"longitude":23.13333}}(window,'GeoPostal','RO');

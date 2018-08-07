@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46-100"]={"code":"46-100","region":"Opolskie","city":"Namyslow","latitude":51.07592,"longitude":17.72284}}(window,'GeoPostal','PL');

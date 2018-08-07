@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE47 5AP"]={"code":"NE47 5AP","region":"England","city":"Newbrough","latitude":55.00524,"longitude":-2.19696}}(window,'GeoPostal','GB');

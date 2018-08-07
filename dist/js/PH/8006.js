@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8006"]={"code":"8006","region":"Davao del Sur","city":"Astorga","latitude":6.90722,"longitude":125.45583}}(window,'GeoPostal','PH');

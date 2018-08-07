@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97122"]={"code":"97122","region":"Guadeloupe","city":"Baie-Mahault","latitude":16.26738,"longitude":-61.58543}}(window,'GeoPostal','GP');

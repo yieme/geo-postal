@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57041"]={"code":"57041","region":"SD","city":"Lyons","latitude":43.7285,"longitude":-96.8709}}(window,'GeoPostal','US');

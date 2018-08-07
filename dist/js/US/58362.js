@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58362"]={"code":"58362","region":"ND","city":"Penn","latitude":48.2271,"longitude":-99.0655}}(window,'GeoPostal','US');

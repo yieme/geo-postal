@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29316"]={"code":"29316","region":"South Carolina","city":"Boiling Springs","latitude":35.04651,"longitude":-81.98177}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68601"]={"code":"68601","region":"Pohjanmaa","city":"Jakobstad","latitude":63.67486,"longitude":22.70256}}(window,'GeoPostal','FI');

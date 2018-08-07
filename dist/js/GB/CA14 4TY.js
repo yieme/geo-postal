@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA14 4TY"]={"code":"CA14 4TY","region":"England","city":"Lamplugh","latitude":54.57544,"longitude":-3.41005}}(window,'GeoPostal','GB');

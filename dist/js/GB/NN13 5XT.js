@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN13 5XT"]={"code":"NN13 5XT","region":"England","city":"Farthinghoe","latitude":52.05345,"longitude":-1.22048}}(window,'GeoPostal','GB');

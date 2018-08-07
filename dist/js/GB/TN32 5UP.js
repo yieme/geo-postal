@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN32 5UP"]={"code":"TN32 5UP","region":"England","city":"Bodiam","latitude":51.00625,"longitude":0.53806}}(window,'GeoPostal','GB');

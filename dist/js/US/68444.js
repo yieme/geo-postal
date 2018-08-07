@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68444"]={"code":"68444","region":"NE","city":"Strang","latitude":40.4156,"longitude":-97.587}}(window,'GeoPostal','US');

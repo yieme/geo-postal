@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3541"]={"code":"3541","region":"Buskerud","city":"Nesbyen","latitude":60.56809,"longitude":9.10274}}(window,'GeoPostal','NO');

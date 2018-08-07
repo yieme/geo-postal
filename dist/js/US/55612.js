@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55612"]={"code":"55612","region":"Minnesota","city":"Lutsen","latitude":47.698963,"longitude":-90.623654}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22520"]={"code":"22520","region":"Aragon","city":"Fraga","latitude":41.52294,"longitude":0.34894}}(window,'GeoPostal','ES');

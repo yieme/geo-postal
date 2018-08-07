@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0A 1M0"]={"code":"R0A 1M0","region":"Manitoba","city":"Ridgeville","latitude":49.06577,"longitude":-97.01256}}(window,'GeoPostal','CA');

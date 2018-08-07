@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12581"]={"code":"12581","region":"NY","city":"Stanfordville","latitude":41.8877,"longitude":-73.6945}}(window,'GeoPostal','US');

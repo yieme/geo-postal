@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV51 9PR"]={"code":"IV51 9PR","region":"Scotland","city":"Eyre","latitude":57.46667,"longitude":-6.4}}(window,'GeoPostal','GB');

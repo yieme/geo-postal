@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["317030"]={"code":"317030","region":"Arad","city":"Barzava","latitude":46.11667,"longitude":21.98333}}(window,'GeoPostal','RO');

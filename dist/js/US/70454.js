@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70454"]={"code":"70454","region":"Louisiana","city":"Ponchatoula","latitude":30.443233,"longitude":-90.400392}}(window,'GeoPostal','US');

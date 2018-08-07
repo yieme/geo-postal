@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85300"]={"code":"85300","region":"Budva","city":"Petrovac na Moru","latitude":42.20556,"longitude":18.9425}}(window,'GeoPostal','ME');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47140"]={"code":"47140","region":"Nouvelle-Aquitaine","city":"Penne-d'Agenais","latitude":44.3897,"longitude":0.8197}}(window,'GeoPostal','FR');

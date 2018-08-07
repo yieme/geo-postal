@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66334"]={"code":"66334","region":"Varmlands lan","city":"Skoghall","latitude":59.32324,"longitude":13.46552}}(window,'GeoPostal','SE');

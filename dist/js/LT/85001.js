@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85001"]={"code":"85001","region":"Siauliu apskritis","city":"Naujoji Akmene","latitude":56.31667,"longitude":22.9}}(window,'GeoPostal','LT');

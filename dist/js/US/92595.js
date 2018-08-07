@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92595"]={"code":"92595","region":"California","city":"Wildomar","latitude":33.595501,"longitude":-117.25716}}(window,'GeoPostal','US');

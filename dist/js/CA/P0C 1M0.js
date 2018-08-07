@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0C 1M0"]={"code":"P0C 1M0","region":"Ontario","city":"Torrance","latitude":45.0001,"longitude":-79.56634}}(window,'GeoPostal','CA');

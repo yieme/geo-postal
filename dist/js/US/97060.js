@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97060"]={"code":"97060","region":"Oregon","city":"Troutdale","latitude":45.53929,"longitude":-122.38731}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38739"]={"code":"38739","region":"MS","city":"Dublin","latitude":34.0604,"longitude":-90.5011}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83734"]={"code":"83734","region":"Bayern","city":"Hausham","latitude":47.7466,"longitude":11.84069}}(window,'GeoPostal','DE');

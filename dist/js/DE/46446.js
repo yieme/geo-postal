@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46446"]={"code":"46446","region":"Nordrhein-Westfalen","city":"Dornick","latitude":51.81208,"longitude":6.30535}}(window,'GeoPostal','DE');

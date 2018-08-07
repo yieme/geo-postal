@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45743"]={"code":"45743","region":"OH","city":"Long Bottom","latitude":39.0802,"longitude":-81.8887}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91320"]={"code":"91320","region":"California","city":"Thousand Oaks","latitude":34.18536,"longitude":-118.92648}}(window,'GeoPostal','US');

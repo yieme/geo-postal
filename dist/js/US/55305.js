@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55305"]={"code":"55305","region":"Minnesota","city":"Hopkins","latitude":44.92496,"longitude":-93.46273}}(window,'GeoPostal','US');

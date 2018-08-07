@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5704"]={"code":"5704","region":"Aargau","city":"Egliswil","latitude":47.34954,"longitude":8.18802}}(window,'GeoPostal','CH');

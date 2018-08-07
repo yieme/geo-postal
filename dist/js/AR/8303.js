@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8303"]={"code":"8303","region":"Rio Negro","city":"Cinco Saltos","latitude":-38.82224,"longitude":-68.06293}}(window,'GeoPostal','AR');

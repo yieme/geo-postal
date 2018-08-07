@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74854"]={"code":"74854","region":"Oklahoma","city":"Maud","latitude":35.131883,"longitude":-96.778897}}(window,'GeoPostal','US');

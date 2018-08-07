@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39191"]={"code":"39191","region":"Mississippi","city":"Wesson","latitude":31.70128,"longitude":-90.39759}}(window,'GeoPostal','US');

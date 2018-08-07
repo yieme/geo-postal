@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-765"]={"code":"32-765","region":"Malopolskie","city":"Rzezawa","latitude":49.98997,"longitude":20.51508}}(window,'GeoPostal','PL');

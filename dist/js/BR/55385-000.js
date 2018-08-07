@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55385-000"]={"code":"55385-000","region":"Pernambuco","city":"Lajedo","latitude":-8.66361,"longitude":-36.32}}(window,'GeoPostal','BR');

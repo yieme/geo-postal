@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28537"]={"code":"28537","region":"NC","city":"Hobucken","latitude":35.2518,"longitude":-76.5696}}(window,'GeoPostal','US');

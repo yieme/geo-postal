@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44530"]={"code":"44530","region":"Pays-de-la-Loire","city":"Dreffeac","latitude":47.47464,"longitude":-2.05774}}(window,'GeoPostal','FR');

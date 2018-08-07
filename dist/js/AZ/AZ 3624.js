@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AZ 3624"]={"code":"AZ 3624","region":"Qabala","city":"Qutqashen","latitude":40.98139,"longitude":47.84583}}(window,'GeoPostal','AZ');

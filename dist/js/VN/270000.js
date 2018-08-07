@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["270000"]={"code":"270000","region":"Cao Bang","city":"Cao Bang","latitude":22.66667,"longitude":106.25}}(window,'GeoPostal','VN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63118"]={"code":"63118","region":"Auvergne-Rhone-Alpes","city":"Cebazat","latitude":45.83405,"longitude":3.10048}}(window,'GeoPostal','FR');

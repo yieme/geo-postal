@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["G8L 0A1"]={"code":"G8L 0A1","region":"Quebec","city":"Dolbeau-Mistassini","latitude":48.87634,"longitude":-72.21202}}(window,'GeoPostal','CA');

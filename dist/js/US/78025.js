@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78025"]={"code":"78025","region":"Texas","city":"Ingram","latitude":30.086341,"longitude":-99.243466}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13035"]={"code":"13035","region":"NY","city":"Cazenovia","latitude":42.938,"longitude":-75.8392}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 0X0"]={"code":"S0A 0X0","region":"Saskatchewan","city":"Esterhazy","latitude":50.65001,"longitude":-102.08426}}(window,'GeoPostal','CA');

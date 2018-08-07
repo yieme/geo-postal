@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04288"]={"code":"04288","region":"ME","city":"West Minot","latitude":44.1712,"longitude":-70.3659}}(window,'GeoPostal','US');

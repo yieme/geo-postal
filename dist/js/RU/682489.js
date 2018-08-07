@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["682489"]={"code":"682489","region":"Khabarovskiy kray","city":"Okhotsk","latitude":59.38333,"longitude":143.3}}(window,'GeoPostal','RU');

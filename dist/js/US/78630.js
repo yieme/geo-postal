@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78630"]={"code":"78630","region":"Texas","city":"Cedar Park","latitude":30.50502,"longitude":-97.81998}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50045"]={"code":"50045","region":"Souss-Massa-Draa","city":"Adar","latitude":30.14111,"longitude":-8.37221}}(window,'GeoPostal','MA');

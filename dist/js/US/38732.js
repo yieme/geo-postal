@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38732"]={"code":"38732","region":"Mississippi","city":"Cleveland","latitude":33.739593,"longitude":-90.724668}}(window,'GeoPostal','US');

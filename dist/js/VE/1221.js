@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1221"]={"code":"1221","region":"Miranda","city":"Guatire","latitude":10.4762,"longitude":-66.54266}}(window,'GeoPostal','VE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["090250"]={"code":"090250","region":"Guayas","city":"Alfredo Baquerizo Moreno","latitude":-1.91667,"longitude":-79.51667}}(window,'GeoPostal','EC');

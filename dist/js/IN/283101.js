@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["283101"]={"code":"283101","region":"Uttar Pradesh","city":"Kiraoli","latitude":27.15,"longitude":77.78333}}(window,'GeoPostal','IN');

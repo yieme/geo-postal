@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39336"]={"code":"39336","region":"Mississippi","city":"Lawrence","latitude":32.29178,"longitude":-89.26997}}(window,'GeoPostal','US');

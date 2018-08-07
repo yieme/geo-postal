@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96120"]={"code":"96120","region":"Veracruz de Ignacio de la Llave","city":"San Juan Evangelista","latitude":17.9,"longitude":-95.13333}}(window,'GeoPostal','MX');

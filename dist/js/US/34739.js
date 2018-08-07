@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34739"]={"code":"34739","region":"FL","city":"Kenansville","latitude":27.8767,"longitude":-81.05}}(window,'GeoPostal','US');

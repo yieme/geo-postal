@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64293"]={"code":"64293","region":"Hessen","city":"Riedbahn","latitude":49.88834,"longitude":8.6225}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29585"]={"code":"29585","region":"South Carolina","city":"Pawleys Island","latitude":33.42583,"longitude":-79.125}}(window,'GeoPostal','US');

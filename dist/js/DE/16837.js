@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16837"]={"code":"16837","region":"Brandenburg","city":"Zempow","latitude":53.20953,"longitude":12.73436}}(window,'GeoPostal','DE');

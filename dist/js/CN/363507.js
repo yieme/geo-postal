@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363507"]={"code":"363507","region":"Fujian","city":"Dongpu","latitude":23.88588,"longitude":117.11645}}(window,'GeoPostal','CN');

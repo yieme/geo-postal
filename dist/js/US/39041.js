@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39041"]={"code":"39041","region":"MS","city":"Bolton","latitude":32.3778,"longitude":-90.4474}}(window,'GeoPostal','US');

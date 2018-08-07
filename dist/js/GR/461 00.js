@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["461 00"]={"code":"461 00","region":"Ipeiros","city":"Plataria","latitude":39.4525,"longitude":20.27611}}(window,'GeoPostal','GR');

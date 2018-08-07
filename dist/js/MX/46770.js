@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46770"]={"code":"46770","region":"Jalisco","city":"San Martin Hidalgo","latitude":20.43538,"longitude":-103.92878}}(window,'GeoPostal','MX');

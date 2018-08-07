@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2370"]={"code":"2370","region":"Mpumalanga","city":"Ermelo","latitude":-26.53333,"longitude":29.98333}}(window,'GeoPostal','ZA');

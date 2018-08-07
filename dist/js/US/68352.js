@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68352"]={"code":"68352","region":"Nebraska","city":"Fairbury","latitude":40.13722,"longitude":-97.18059}}(window,'GeoPostal','US');

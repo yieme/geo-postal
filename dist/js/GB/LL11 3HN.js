@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL11 3HN"]={"code":"LL11 3HN","region":"Wales","city":"Coedpoeth","latitude":53.05391,"longitude":-3.06234}}(window,'GeoPostal','GB');

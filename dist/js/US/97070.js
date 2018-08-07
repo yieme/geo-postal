@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97070"]={"code":"97070","region":"Oregon","city":"Wilsonville","latitude":45.29984,"longitude":-122.77371}}(window,'GeoPostal','US');

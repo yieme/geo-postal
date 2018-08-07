@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92049"]={"code":"92049","region":"California","city":"Oceanside","latitude":33.19587,"longitude":-117.37948}}(window,'GeoPostal','US');

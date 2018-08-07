@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52329"]={"code":"52329","region":"IA","city":"Rowley","latitude":42.37,"longitude":-91.8441}}(window,'GeoPostal','US');

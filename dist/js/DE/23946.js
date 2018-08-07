@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23946"]={"code":"23946","region":"Mecklenburg-Vorpommern","city":"Ostseebad Boltenhagen","latitude":53.98779,"longitude":11.20193}}(window,'GeoPostal','DE');

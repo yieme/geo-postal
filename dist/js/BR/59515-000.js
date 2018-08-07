@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59515-000"]={"code":"59515-000","region":"Rio Grande do Norte","city":"Angicos","latitude":-5.66556,"longitude":-36.60111}}(window,'GeoPostal','BR');

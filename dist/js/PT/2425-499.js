@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2425-499"]={"code":"2425-499","region":"Leiria","city":"Pataias","latitude":39.66978,"longitude":-8.9958}}(window,'GeoPostal','PT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38564"]={"code":"38564","region":"TN","city":"Granville","latitude":36.2768,"longitude":-85.7475}}(window,'GeoPostal','US');

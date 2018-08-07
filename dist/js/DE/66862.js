@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66862"]={"code":"66862","region":"Rheinland-Pfalz","city":"Kindsbach","latitude":49.41667,"longitude":7.61667}}(window,'GeoPostal','DE');

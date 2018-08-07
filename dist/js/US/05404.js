@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05404"]={"code":"05404","region":"Vermont","city":"Winooski","latitude":44.49618,"longitude":-73.18476}}(window,'GeoPostal','US');

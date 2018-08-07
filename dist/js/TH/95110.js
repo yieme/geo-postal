@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95110"]={"code":"95110","region":"Yala","city":"Betong","latitude":5.77434,"longitude":101.07231}}(window,'GeoPostal','TH');

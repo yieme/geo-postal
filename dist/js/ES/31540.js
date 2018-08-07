@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31540"]={"code":"31540","region":"Navarra, Comunidad Foral de","city":"Bunuel","latitude":41.98009,"longitude":-1.44503}}(window,'GeoPostal','ES');

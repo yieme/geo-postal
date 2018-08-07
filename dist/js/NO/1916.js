@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1916"]={"code":"1916","region":"Akershus","city":"Flateby","latitude":59.83333,"longitude":11.16667}}(window,'GeoPostal','NO');

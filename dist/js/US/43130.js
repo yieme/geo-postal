@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43130"]={"code":"43130","region":"Ohio","city":"Lancaster","latitude":39.70728,"longitude":-82.60788}}(window,'GeoPostal','US');

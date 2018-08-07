@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V1P 1A1"]={"code":"V1P 1A1","region":"British Columbia","city":"Kelowna","latitude":49.88307,"longitude":-119.48568}}(window,'GeoPostal','CA');

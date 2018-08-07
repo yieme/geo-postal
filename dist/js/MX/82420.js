@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82420"]={"code":"82420","region":"Sinaloa","city":"Ahome","latitude":25.91667,"longitude":-109.18333}}(window,'GeoPostal','MX');

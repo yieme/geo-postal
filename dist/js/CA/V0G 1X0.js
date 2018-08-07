@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0G 1X0"]={"code":"V0G 1X0","region":"British Columbia","city":"Robson West","latitude":49.33314,"longitude":-117.70224}}(window,'GeoPostal','CA');

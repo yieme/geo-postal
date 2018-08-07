@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17801"]={"code":"17801","region":"PA","city":"Sunbury","latitude":40.8551,"longitude":-76.7776}}(window,'GeoPostal','US');

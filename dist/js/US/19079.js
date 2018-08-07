@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19079"]={"code":"19079","region":"PA","city":"Sharon Hill","latitude":39.9035,"longitude":-75.2695}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15444"]={"code":"15444","region":"PA","city":"Hiller","latitude":40.012,"longitude":-79.9088}}(window,'GeoPostal','US');

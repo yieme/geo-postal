@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15069"]={"code":"15069","region":"Piemonte","city":"Serravalle Scrivia","latitude":44.72277,"longitude":8.85635}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5340-092"]={"code":"5340-092","region":"Braganca","city":"Macedo de Cavaleiros","latitude":41.53816,"longitude":-6.9611}}(window,'GeoPostal','PT');

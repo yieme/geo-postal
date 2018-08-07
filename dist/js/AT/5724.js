@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5724"]={"code":"5724","region":"Salzburg","city":"Stuhlfelden","latitude":47.28333,"longitude":12.51667}}(window,'GeoPostal','AT');

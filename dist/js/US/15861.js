@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15861"]={"code":"15861","region":"PA","city":"Sinnamahoning","latitude":41.3762,"longitude":-78.0661}}(window,'GeoPostal','US');

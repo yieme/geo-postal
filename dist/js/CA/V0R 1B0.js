@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0R 1B0"]={"code":"V0R 1B0","region":"British Columbia","city":"Bamfield","latitude":48.833366,"longitude":-125.142608}}(window,'GeoPostal','CA');

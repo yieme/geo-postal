@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67864"]={"code":"67864","region":"Kansas","city":"Meade","latitude":37.28558,"longitude":-100.34015}}(window,'GeoPostal','US');

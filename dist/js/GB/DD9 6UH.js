@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD9 6UH"]={"code":"DD9 6UH","region":"Scotland","city":"Farnell","latitude":56.68973,"longitude":-2.61219}}(window,'GeoPostal','GB');

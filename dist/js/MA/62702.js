@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62702"]={"code":"62702","region":"L'Oriental","city":"Selouane","latitude":35.07313,"longitude":-2.9423}}(window,'GeoPostal','MA');

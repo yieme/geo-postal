@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V0N 1Y0"]={"code":"V0N 1Y0","region":"British Columbia","city":"Halfmoon Bay","latitude":49.51635,"longitude":-123.91944}}(window,'GeoPostal','CA');

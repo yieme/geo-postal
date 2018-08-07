@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13737"]={"code":"13737","region":"NY","city":"Bible School Park","latitude":42.0805,"longitude":-76.0973}}(window,'GeoPostal','US');

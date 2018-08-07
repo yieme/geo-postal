@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["137235"]={"code":"137235","region":"Dambovita","city":"Gura Foii","latitude":44.75,"longitude":25.28333}}(window,'GeoPostal','RO');

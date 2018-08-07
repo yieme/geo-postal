@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73717"]={"code":"73717","region":"Oklahoma","city":"Alva","latitude":36.80503,"longitude":-98.66647}}(window,'GeoPostal','US');

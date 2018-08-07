@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86255"]={"code":"86255","region":"Tabasco","city":"Aquiles Serdan","latitude":17.78333,"longitude":-92.28333}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["721001"]={"code":"721001","region":"Shaanxi","city":"Zhongshan Donglu","latitude":34.37964,"longitude":107.14638}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68728"]={"code":"68728","region":"Nebraska","city":"Concord","latitude":42.375018,"longitude":-96.962048}}(window,'GeoPostal','US');

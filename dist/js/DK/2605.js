@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2605"]={"code":"2605","region":"Hovedstaden","city":"Brondbyvester","latitude":55.65029,"longitude":12.40996}}(window,'GeoPostal','DK');

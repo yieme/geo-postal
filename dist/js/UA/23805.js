@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23805"]={"code":"23805","region":"Vinnytska oblast","city":"Teplyk","latitude":48.66566,"longitude":29.74504}}(window,'GeoPostal','UA');

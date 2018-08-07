@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99821"]={"code":"99821","region":"AK","city":"Auke Bay","latitude":58.4494,"longitude":-134.7003}}(window,'GeoPostal','US');

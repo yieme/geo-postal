@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["666100"]={"code":"666100","region":"Yunnan","city":"Xishuangbanna","latitude":22,"longitude":100.8}}(window,'GeoPostal','CN');

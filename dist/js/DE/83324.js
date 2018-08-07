@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83324"]={"code":"83324","region":"Bayern","city":"Ruhpolding","latitude":47.76667,"longitude":12.65}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28725"]={"code":"28725","region":"North Carolina","city":"Dillsboro","latitude":35.368983,"longitude":-83.25209}}(window,'GeoPostal','US');

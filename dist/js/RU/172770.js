@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["172770"]={"code":"172770","region":"Tverskaya oblast'","city":"Peno","latitude":56.92624,"longitude":32.74262}}(window,'GeoPostal','RU');

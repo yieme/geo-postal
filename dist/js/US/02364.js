@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02364"]={"code":"02364","region":"MA","city":"Kingston","latitude":41.995,"longitude":-70.741}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["354348"]={"code":"354348","region":"Krasnodarskiy kray","city":"Adler","latitude":43.42896,"longitude":39.92391}}(window,'GeoPostal','RU');

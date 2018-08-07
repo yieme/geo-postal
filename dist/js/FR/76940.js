@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76940"]={"code":"76940","region":"Normandie","city":"La Mailleraye-sur-Seine","latitude":49.48308,"longitude":0.7703}}(window,'GeoPostal','FR');

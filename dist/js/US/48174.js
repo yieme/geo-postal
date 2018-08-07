@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48174"]={"code":"48174","region":"Michigan","city":"Romulus","latitude":42.215215,"longitude":-83.344726}}(window,'GeoPostal','US');

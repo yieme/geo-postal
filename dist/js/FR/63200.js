@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63200"]={"code":"63200","region":"Auvergne-Rhone-Alpes","city":"Saint-Bonnet-pres-Riom","latitude":45.92895,"longitude":3.11162}}(window,'GeoPostal','FR');

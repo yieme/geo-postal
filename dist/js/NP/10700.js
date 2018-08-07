@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10700"]={"code":"10700","region":"Seti","city":"Achham","latitude":29.05,"longitude":81.3}}(window,'GeoPostal','NP');

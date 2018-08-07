@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18247"]={"code":"18247","region":"Andalucia","city":"Moclin","latitude":37.33959,"longitude":-3.78651}}(window,'GeoPostal','ES');

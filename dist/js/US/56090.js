@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56090"]={"code":"56090","region":"MN","city":"Vernon Center","latitude":43.9706,"longitude":-94.2142}}(window,'GeoPostal','US');

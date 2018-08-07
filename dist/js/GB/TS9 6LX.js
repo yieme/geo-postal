@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TS9 6LX"]={"code":"TS9 6LX","region":"England","city":"Ingleby Greenhow","latitude":54.44983,"longitude":-1.10687}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["425301"]={"code":"425301","region":"Maharashtra","city":"Bhusawal","latitude":21.05,"longitude":75.76667}}(window,'GeoPostal','IN');

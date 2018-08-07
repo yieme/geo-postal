@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["054001"]={"code":"054001","region":"Hebei","city":"Xingtai","latitude":37.06306,"longitude":114.49417}}(window,'GeoPostal','CN');

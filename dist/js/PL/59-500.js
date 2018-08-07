@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59-500"]={"code":"59-500","region":"Dolnoslaskie","city":"Zlotoryja","latitude":51.12637,"longitude":15.91979}}(window,'GeoPostal','PL');

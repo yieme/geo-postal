@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68326"]={"code":"68326","region":"Nebraska","city":"Carleton","latitude":40.296305,"longitude":-97.66659}}(window,'GeoPostal','US');

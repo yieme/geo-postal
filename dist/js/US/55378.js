@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55378"]={"code":"55378","region":"Minnesota","city":"Savage","latitude":44.77913,"longitude":-93.33634}}(window,'GeoPostal','US');

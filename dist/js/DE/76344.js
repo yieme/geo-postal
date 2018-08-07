@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76344"]={"code":"76344","region":"Baden-Wurttemberg","city":"Leopoldshafen","latitude":49.09624,"longitude":8.39999}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY10 8JA"]={"code":"SY10 8JA","region":"England","city":"Maesbury","latitude":52.81667,"longitude":-3.01667}}(window,'GeoPostal','GB');

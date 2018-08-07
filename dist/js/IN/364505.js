@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["364505"]={"code":"364505","region":"Gujarat","city":"Gariadhar","latitude":21.53333,"longitude":71.58333}}(window,'GeoPostal','IN');

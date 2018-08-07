@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["241123"]={"code":"241123","region":"Uttar Pradesh","city":"Pali","latitude":24.48333,"longitude":78.41667}}(window,'GeoPostal','IN');

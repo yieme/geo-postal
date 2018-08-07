@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2261"]={"code":"2261","region":"Hedmark","city":"Kirkenaer","latitude":60.45643,"longitude":12.05821}}(window,'GeoPostal','NO');

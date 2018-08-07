@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66509"]={"code":"66509","region":"Occitanie","city":"Prades","latitude":42.61667,"longitude":2.43333}}(window,'GeoPostal','FR');

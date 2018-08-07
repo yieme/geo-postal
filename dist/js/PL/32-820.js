@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32-820"]={"code":"32-820","region":"Malopolskie","city":"Szczurowa","latitude":50.11915,"longitude":20.6361}}(window,'GeoPostal','PL');

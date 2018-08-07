@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54734"]={"code":"54734","region":"WI","city":"Downing","latitude":45.103,"longitude":-92.1134}}(window,'GeoPostal','US');

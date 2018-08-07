@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83418"]={"code":"83418","region":"Provence-Alpes-Cote d'Azur","city":"Hyeres","latitude":43.11954,"longitude":6.13897}}(window,'GeoPostal','FR');

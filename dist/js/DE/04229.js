@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04229"]={"code":"04229","region":"Sachsen","city":"Plagwitz","latitude":51.31938,"longitude":12.32702}}(window,'GeoPostal','DE');

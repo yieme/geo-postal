@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36154"]={"code":"36154","region":"Hessen","city":"Hosenfeld","latitude":50.50502,"longitude":9.47966}}(window,'GeoPostal','DE');

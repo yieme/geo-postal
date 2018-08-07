@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12574"]={"code":"12574","region":"NY","city":"Rhinecliff","latitude":41.9151,"longitude":-73.9517}}(window,'GeoPostal','US');

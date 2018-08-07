@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DN20 9HR"]={"code":"DN20 9HR","region":"England","city":"Cadney","latitude":53.51801,"longitude":-0.46809}}(window,'GeoPostal','GB');

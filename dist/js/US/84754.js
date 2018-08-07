@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84754"]={"code":"84754","region":"Utah","city":"Monroe","latitude":38.62997,"longitude":-112.12076}}(window,'GeoPostal','US');

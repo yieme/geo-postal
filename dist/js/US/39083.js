@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39083"]={"code":"39083","region":"Mississippi","city":"Hazlehurst","latitude":31.864524,"longitude":-90.388119}}(window,'GeoPostal','US');

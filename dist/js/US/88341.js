@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88341"]={"code":"88341","region":"New Mexico","city":"Nogal","latitude":33.500883,"longitude":-105.740192}}(window,'GeoPostal','US');

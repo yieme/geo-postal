@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32192"]={"code":"32192","region":"FL","city":"Sparr","latitude":29.3268,"longitude":-82.1046}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79849"]={"code":"79849","region":"TX","city":"San Elizario","latitude":31.5508,"longitude":-106.2507}}(window,'GeoPostal','US');

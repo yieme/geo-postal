@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68870"]={"code":"68870","region":"NE","city":"Riverdale","latitude":40.8524,"longitude":-99.1611}}(window,'GeoPostal','US');

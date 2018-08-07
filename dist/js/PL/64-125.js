@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64-125"]={"code":"64-125","region":"Wielkopolskie","city":"Poniec","latitude":51.76343,"longitude":16.80867}}(window,'GeoPostal','PL');

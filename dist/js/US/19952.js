@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19952"]={"code":"19952","region":"Delaware","city":"Harrington","latitude":38.92372,"longitude":-75.5777}}(window,'GeoPostal','US');

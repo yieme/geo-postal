@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TW17 9AJ"]={"code":"TW17 9AJ","region":"England","city":"Shepperton","latitude":51.39546,"longitude":-0.44889}}(window,'GeoPostal','GB');

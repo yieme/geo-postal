@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO31 8LD"]={"code":"PO31 8LD","region":"England","city":"Gurnard","latitude":50.76057,"longitude":-1.32411}}(window,'GeoPostal','GB');

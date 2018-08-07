@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG3 5BA"]={"code":"DG3 5BA","region":"Scotland","city":"Carronbridge","latitude":55.26667,"longitude":-3.78333}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82032"]={"code":"82032","region":"Campania","city":"Cerreto Sannita","latitude":41.28202,"longitude":14.55513}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18931"]={"code":"18931","region":"PA","city":"Lahaska","latitude":40.3286,"longitude":-75.1028}}(window,'GeoPostal','US');

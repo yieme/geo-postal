@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57043"]={"code":"57043","region":"South Dakota","city":"Marion","latitude":43.422917,"longitude":-97.258619}}(window,'GeoPostal','US');

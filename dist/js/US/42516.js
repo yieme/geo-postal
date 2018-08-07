@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42516"]={"code":"42516","region":"Kentucky","city":"Bethelridge","latitude":37.148024,"longitude":-84.718336}}(window,'GeoPostal','US');

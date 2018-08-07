@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98396"]={"code":"98396","region":"WA","city":"Wilkeson","latitude":47.1095,"longitude":-122.037}}(window,'GeoPostal','US');

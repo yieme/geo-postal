@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37591"]={"code":"37591","region":"Blekinge lan","city":"Morrum","latitude":56.18333,"longitude":14.75}}(window,'GeoPostal','SE');

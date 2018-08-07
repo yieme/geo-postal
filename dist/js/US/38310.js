@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38310"]={"code":"38310","region":"Tennessee","city":"Adamsville","latitude":35.23591,"longitude":-88.3906}}(window,'GeoPostal','US');

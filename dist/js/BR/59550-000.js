@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59550-000"]={"code":"59550-000","region":"Rio Grande do Norte","city":"Joao Camara","latitude":-5.5375,"longitude":-35.81972}}(window,'GeoPostal','BR');

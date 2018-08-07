@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11752"]={"code":"11752","region":"New York","city":"Oceanside","latitude":40.753582,"longitude":-73.183543}}(window,'GeoPostal','US');

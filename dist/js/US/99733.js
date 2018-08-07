@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99733"]={"code":"99733","region":"AK","city":"Circle","latitude":65.8245,"longitude":-144.0826}}(window,'GeoPostal','US');

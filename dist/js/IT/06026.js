@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06026"]={"code":"06026","region":"Umbria","city":"Pietralunga","latitude":43.43675,"longitude":12.43115}}(window,'GeoPostal','IT');

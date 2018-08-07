@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20664"]={"code":"20664","region":"Maryland","city":"Newburg","latitude":38.356261,"longitude":-76.943974}}(window,'GeoPostal','US');

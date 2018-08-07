@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56525"]={"code":"56525","region":"MN","city":"Comstock","latitude":46.6667,"longitude":-96.7398}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["431030"]={"code":"431030","region":"Mordoviya, Respublika","city":"Torbeyevo","latitude":54.07972,"longitude":43.24732}}(window,'GeoPostal','RU');

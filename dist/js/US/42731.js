@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42731"]={"code":"42731","region":"Kentucky","city":"Dubre","latitude":36.839874,"longitude":-85.545785}}(window,'GeoPostal','US');

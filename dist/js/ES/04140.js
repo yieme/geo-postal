@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04140"]={"code":"04140","region":"Andalucia","city":"Carboneras","latitude":36.99666,"longitude":-1.89651}}(window,'GeoPostal','ES');

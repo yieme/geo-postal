@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15055"]={"code":"15055","region":"PA","city":"Lawrence","latitude":40.3058,"longitude":-80.1219}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61880"]={"code":"61880","region":"IL","city":"Tolono","latitude":39.985,"longitude":-88.2596}}(window,'GeoPostal','US');

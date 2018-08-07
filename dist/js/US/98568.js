@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98568"]={"code":"98568","region":"Washington","city":"Oakville","latitude":46.844888,"longitude":-123.244963}}(window,'GeoPostal','US');

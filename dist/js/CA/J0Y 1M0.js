@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0Y 1M0"]={"code":"J0Y 1M0","region":"Quebec","city":"Saint-Mathieu-d'Harricana","latitude":48.46688,"longitude":-78.13284}}(window,'GeoPostal','CA');

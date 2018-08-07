@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62345"]={"code":"62345","region":"IL","city":"Kinderhook","latitude":39.6953,"longitude":-91.1637}}(window,'GeoPostal','US');

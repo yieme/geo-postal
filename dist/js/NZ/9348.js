@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9348"]={"code":"9348","region":"Otago","city":"Queenstown","latitude":-45.03023,"longitude":168.66271}}(window,'GeoPostal','NZ');

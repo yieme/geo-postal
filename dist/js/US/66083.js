@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66083"]={"code":"66083","region":"KS","city":"Spring Hill","latitude":38.7631,"longitude":-94.8246}}(window,'GeoPostal','US');

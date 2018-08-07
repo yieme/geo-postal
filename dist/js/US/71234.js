@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71234"]={"code":"71234","region":"LA","city":"Downsville","latitude":32.6525,"longitude":-92.3745}}(window,'GeoPostal','US');

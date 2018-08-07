@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09004"]={"code":"09004","region":"Castilla y Leon","city":"Burgos","latitude":42.35,"longitude":-3.7}}(window,'GeoPostal','ES');

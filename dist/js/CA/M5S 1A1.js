@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["M5S 1A1"]={"code":"M5S 1A1","region":"Ontario","city":"Kingston","latitude":43.660981,"longitude":-79.395772}}(window,'GeoPostal','CA');

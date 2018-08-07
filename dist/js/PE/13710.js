@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13710"]={"code":"13710","region":"La Libertad","city":"Ascope","latitude":-7.71444,"longitude":-79.10778}}(window,'GeoPostal','PE');

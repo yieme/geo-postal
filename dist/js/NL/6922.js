@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6922"]={"code":"6922","region":"Gelderland","city":"Duiven","latitude":51.94667,"longitude":6.01389}}(window,'GeoPostal','NL');

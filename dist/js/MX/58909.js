@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58909"]={"code":"58909","region":"Michoacan de Ocampo","city":"Santa Ana Maya","latitude":20,"longitude":-101.01667}}(window,'GeoPostal','MX');

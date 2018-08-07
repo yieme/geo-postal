@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2720"]={"code":"2720","region":"New South Wales","city":"Tumut","latitude":-35.30016,"longitude":148.22505}}(window,'GeoPostal','AU');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3152"]={"code":"3152","region":"Victoria","city":"Wantirna","latitude":-37.85,"longitude":145.21667}}(window,'GeoPostal','AU');

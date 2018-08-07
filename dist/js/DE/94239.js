@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94239"]={"code":"94239","region":"Bayern","city":"Hochstrasse","latitude":48.96738,"longitude":12.98766}}(window,'GeoPostal','DE');

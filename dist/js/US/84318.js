@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84318"]={"code":"84318","region":"Utah","city":"Hyde Park","latitude":41.799954,"longitude":-111.814426}}(window,'GeoPostal','US');

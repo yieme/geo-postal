@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67061"]={"code":"67061","region":"KS","city":"Hazelton","latitude":37.0984,"longitude":-98.4003}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35550-000"]={"code":"35550-000","region":"Minas Gerais","city":"Itapecerica","latitude":-20.4725,"longitude":-45.12556}}(window,'GeoPostal','BR');

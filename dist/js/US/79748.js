@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79748"]={"code":"79748","region":"TX","city":"Knott","latitude":32.4125,"longitude":-101.6517}}(window,'GeoPostal','US');

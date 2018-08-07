@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69221"]={"code":"69221","region":"Baden-Wurttemberg","city":"Dossenheim","latitude":49.45028,"longitude":8.67472}}(window,'GeoPostal','DE');

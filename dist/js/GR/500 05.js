@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500 05"]={"code":"500 05","region":"Dytiki Makedonia","city":"Anarrakhi","latitude":40.48333,"longitude":21.56667}}(window,'GeoPostal','GR');

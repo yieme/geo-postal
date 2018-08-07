@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5060"]={"code":"5060","region":"Namur","city":"La Bruyere","latitude":50.39478,"longitude":4.61444}}(window,'GeoPostal','BE');

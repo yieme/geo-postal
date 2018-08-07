@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95694"]={"code":"95694","region":"Bayern","city":"Huttstadl","latitude":49.9786,"longitude":11.83777}}(window,'GeoPostal','DE');

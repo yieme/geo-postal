@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["34300"]={"code":"34300","region":"Perak","city":"Bagan Serai","latitude":5.0108,"longitude":100.54101}}(window,'GeoPostal','MY');

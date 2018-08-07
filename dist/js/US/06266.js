@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06266"]={"code":"06266","region":"CT","city":"South Windham","latitude":41.6677,"longitude":-72.1681}}(window,'GeoPostal','US');

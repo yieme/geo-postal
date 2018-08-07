@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54800-000"]={"code":"54800-000","region":"Pernambuco","city":"Moreno","latitude":-8.11861,"longitude":-35.09222}}(window,'GeoPostal','BR');

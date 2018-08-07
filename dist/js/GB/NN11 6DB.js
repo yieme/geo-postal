@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN11 6DB"]={"code":"NN11 6DB","region":"England","city":"Upper Boddington","latitude":52.17651,"longitude":-1.29595}}(window,'GeoPostal','GB');

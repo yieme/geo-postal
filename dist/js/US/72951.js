@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72951"]={"code":"72951","region":"Arkansas","city":"Ratcliff","latitude":35.25891,"longitude":-93.833386}}(window,'GeoPostal','US');

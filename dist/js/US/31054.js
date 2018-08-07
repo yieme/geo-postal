@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31054"]={"code":"31054","region":"GA","city":"Mc Intyre","latitude":32.8468,"longitude":-83.204}}(window,'GeoPostal','US');

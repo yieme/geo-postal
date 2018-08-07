@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88300"]={"code":"88300","region":"Kainuu","city":"Paltamo","latitude":64.41667,"longitude":27.83333}}(window,'GeoPostal','FI');

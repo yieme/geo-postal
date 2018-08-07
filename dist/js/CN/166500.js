@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["166500"]={"code":"166500","region":"Heilongjiang","city":"Zhaoyuan","latitude":45.5,"longitude":125.13333}}(window,'GeoPostal','CN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0K 1X0"]={"code":"K0K 1X0","region":"Ontario","city":"Deseronto","latitude":44.20012,"longitude":-77.04944}}(window,'GeoPostal','CA');

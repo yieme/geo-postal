@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2820000"]={"code":"2820000","region":"Libertador General Bernardo O'Higgins","city":"Rancagua","latitude":-34.17083,"longitude":-70.74444}}(window,'GeoPostal','CL');

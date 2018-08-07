@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29117"]={"code":"29117","region":"South Carolina","city":"Brookdale","latitude":33.50682,"longitude":-80.82342}}(window,'GeoPostal','US');

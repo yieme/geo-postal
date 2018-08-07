@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62630"]={"code":"62630","region":"IL","city":"Chesterfield","latitude":39.2608,"longitude":-90.0784}}(window,'GeoPostal','US');

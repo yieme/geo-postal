@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38368"]={"code":"38368","region":"Niedersachsen","city":"Grasleben","latitude":52.30638,"longitude":11.01465}}(window,'GeoPostal','DE');

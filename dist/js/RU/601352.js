@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["601352"]={"code":"601352","region":"Vladimirskaya oblast'","city":"Sudogda","latitude":55.95394,"longitude":40.86291}}(window,'GeoPostal','RU');

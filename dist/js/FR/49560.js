@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49560"]={"code":"49560","region":"Pays-de-la-Loire","city":"Nueil-sur-Layon","latitude":47.11811,"longitude":-0.36573}}(window,'GeoPostal','FR');

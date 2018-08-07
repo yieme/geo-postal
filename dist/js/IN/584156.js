@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["584156"]={"code":"584156","region":"Karnataka","city":"Shorapur","latitude":16.51667,"longitude":76.75}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59217"]={"code":"59217","region":"Jawa Tengah","city":"Rembang","latitude":-6.707,"longitude":111.3498}}(window,'GeoPostal','ID');

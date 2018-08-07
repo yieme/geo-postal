@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7510"]={"code":"7510","region":"Alto Parana","city":"Colonia Yguazu","latitude":-25.45,"longitude":-55}}(window,'GeoPostal','PY');

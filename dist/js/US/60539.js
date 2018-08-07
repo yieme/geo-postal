@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60539"]={"code":"60539","region":"IL","city":"Mooseheart","latitude":41.8241,"longitude":-88.3315}}(window,'GeoPostal','US');

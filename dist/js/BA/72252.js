@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72252"]={"code":"72252","region":"Federacija Bosne i Hercegovine","city":"Lokvine","latitude":44.20472,"longitude":17.85639}}(window,'GeoPostal','BA');

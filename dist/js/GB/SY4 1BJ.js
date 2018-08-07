@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY4 1BJ"]={"code":"SY4 1BJ","region":"England","city":"Wilcott","latitude":52.76105,"longitude":-2.92486}}(window,'GeoPostal','GB');

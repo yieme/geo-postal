@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85405"]={"code":"85405","region":"Bayern","city":"Nandlstadt","latitude":48.53644,"longitude":11.8073}}(window,'GeoPostal','DE');

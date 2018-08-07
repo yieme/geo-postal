@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75976"]={"code":"75976","region":"TX","city":"Wells","latitude":31.4885,"longitude":-94.9399}}(window,'GeoPostal','US');

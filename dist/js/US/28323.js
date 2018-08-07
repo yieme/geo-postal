@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28323"]={"code":"28323","region":"NC","city":"Bunnlevel","latitude":35.3119,"longitude":-78.8405}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95497"]={"code":"95497","region":"California","city":"The Sea Ranch","latitude":38.74112,"longitude":-123.48253}}(window,'GeoPostal','US');

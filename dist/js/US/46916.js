@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46916"]={"code":"46916","region":"IN","city":"Burrows","latitude":40.6767,"longitude":-86.5075}}(window,'GeoPostal','US');

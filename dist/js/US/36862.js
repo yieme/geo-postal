@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36862"]={"code":"36862","region":"Alabama","city":"Lafayette","latitude":32.895599,"longitude":-85.435113}}(window,'GeoPostal','US');

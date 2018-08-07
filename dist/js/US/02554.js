@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02554"]={"code":"02554","region":"Massachusetts","city":"Nantucket","latitude":41.28346,"longitude":-70.09946}}(window,'GeoPostal','US');

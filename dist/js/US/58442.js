@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58442"]={"code":"58442","region":"North Dakota","city":"Gackle","latitude":46.625824,"longitude":-99.142047}}(window,'GeoPostal','US');

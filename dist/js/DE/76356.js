@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76356"]={"code":"76356","region":"Thuringen","city":"Weingarten","latitude":50.98333,"longitude":10.53333}}(window,'GeoPostal','DE');

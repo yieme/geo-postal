@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42530"]={"code":"42530","region":"Auvergne-Rhone-Alpes","city":"Saint-Genest-Lerpt","latitude":45.44529,"longitude":4.33622}}(window,'GeoPostal','FR');

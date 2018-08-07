@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6326"]={"code":"6326","region":"La Pampa","city":"Anguil","latitude":-36.52567,"longitude":-64.01025}}(window,'GeoPostal','AR');

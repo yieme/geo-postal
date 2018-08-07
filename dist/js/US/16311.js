@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16311"]={"code":"16311","region":"Pennsylvania","city":"Carlton","latitude":41.478693,"longitude":-80.030945}}(window,'GeoPostal','US');

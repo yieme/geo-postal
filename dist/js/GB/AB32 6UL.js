@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB32 6UL"]={"code":"AB32 6UL","region":"Scotland","city":"Echt","latitude":57.14136,"longitude":-2.4334}}(window,'GeoPostal','GB');

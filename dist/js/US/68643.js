@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68643"]={"code":"68643","region":"NE","city":"Leigh","latitude":41.7053,"longitude":-97.2381}}(window,'GeoPostal','US');

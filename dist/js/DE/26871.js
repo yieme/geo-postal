@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26871"]={"code":"26871","region":"Niedersachsen","city":"Papenburg","latitude":53.07738,"longitude":7.40444}}(window,'GeoPostal','DE');

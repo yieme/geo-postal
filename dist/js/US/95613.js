@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95613"]={"code":"95613","region":"CA","city":"Coloma","latitude":38.8,"longitude":-120.8891}}(window,'GeoPostal','US');

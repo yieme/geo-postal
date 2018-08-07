@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65101"]={"code":"65101","region":"Missouri","city":"Jefferson City","latitude":38.5767,"longitude":-92.17352}}(window,'GeoPostal','US');

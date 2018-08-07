@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["620250"]={"code":"620250","region":"Vrancea","city":"Focsani","latitude":45.7,"longitude":27.18333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6190"]={"code":"6190","region":"Stara Zagora","city":"Nikolaevo","latitude":42.63333,"longitude":25.8}}(window,'GeoPostal','BG');

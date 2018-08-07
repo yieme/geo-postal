@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76160"]={"code":"76160","region":"Phetchaburi","city":"Kaeng Krachan","latitude":12.90742,"longitude":99.64795}}(window,'GeoPostal','TH');

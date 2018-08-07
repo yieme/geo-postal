@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["360"]={"code":"360","region":"Miaoli","city":"Miaoli","latitude":24.56427,"longitude":120.82367}}(window,'GeoPostal','TW');

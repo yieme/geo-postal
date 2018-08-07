@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82467"]={"code":"82467","region":"Bayern","city":"Partenkirchen","latitude":47.49482,"longitude":11.10778}}(window,'GeoPostal','DE');

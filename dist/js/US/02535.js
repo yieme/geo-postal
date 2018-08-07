@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02535"]={"code":"02535","region":"Massachusetts","city":"Chilmark","latitude":41.34,"longitude":-70.74}}(window,'GeoPostal','US');

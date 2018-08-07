@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26343"]={"code":"26343","region":"WV","city":"Crawford","latitude":38.872,"longitude":-80.4368}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04838"]={"code":"04838","region":"Sachsen","city":"Gallen","latitude":51.4323,"longitude":12.5488}}(window,'GeoPostal','DE');

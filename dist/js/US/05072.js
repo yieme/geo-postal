@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05072"]={"code":"05072","region":"VT","city":"Strafford","latitude":43.8723,"longitude":-72.3636}}(window,'GeoPostal','US');

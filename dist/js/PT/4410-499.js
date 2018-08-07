@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4410-499"]={"code":"4410-499","region":"Porto","city":"Arcozelo","latitude":41.05328,"longitude":-8.64326}}(window,'GeoPostal','PT');

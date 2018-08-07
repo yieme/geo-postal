@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO21 1UX"]={"code":"YO21 1UX","region":"England","city":"Egton","latitude":54.43766,"longitude":-0.76192}}(window,'GeoPostal','GB');

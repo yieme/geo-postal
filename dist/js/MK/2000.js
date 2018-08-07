@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2000"]={"code":"2000","region":"Stip","city":"Shtip","latitude":41.74583,"longitude":22.19583}}(window,'GeoPostal','MK');

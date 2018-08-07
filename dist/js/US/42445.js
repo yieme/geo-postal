@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42445"]={"code":"42445","region":"Kentucky","city":"Princeton","latitude":37.110137,"longitude":-87.882635}}(window,'GeoPostal','US');

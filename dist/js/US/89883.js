@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89883"]={"code":"89883","region":"Nevada","city":"West Wendover","latitude":40.7391,"longitude":-114.07334}}(window,'GeoPostal','US');

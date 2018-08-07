@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6912"]={"code":"6912","region":"Vorarlberg","city":"Moggers","latitude":47.56667,"longitude":9.81667}}(window,'GeoPostal','AT');

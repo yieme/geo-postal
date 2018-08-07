@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["305412"]={"code":"305412","region":"Rajasthan","city":"Sarwar","latitude":26.06667,"longitude":75}}(window,'GeoPostal','IN');

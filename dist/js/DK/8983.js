@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8983"]={"code":"8983","region":"Midtjylland","city":"Spentrup","latitude":56.53703,"longitude":10.03792}}(window,'GeoPostal','DK');

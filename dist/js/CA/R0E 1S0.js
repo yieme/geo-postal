@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0E 1S0"]={"code":"R0E 1S0","region":"Manitoba","city":"Richer","latitude":49.65749,"longitude":-96.45748}}(window,'GeoPostal','CA');

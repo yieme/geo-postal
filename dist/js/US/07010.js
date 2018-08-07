@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07010"]={"code":"07010","region":"New Jersey","city":"Cliffside Park","latitude":40.82149,"longitude":-73.98764}}(window,'GeoPostal','US');

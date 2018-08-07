@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN39 4HT"]={"code":"TN39 4HT","region":"England","city":"Bexhill-on-Sea","latitude":50.85023,"longitude":0.47095}}(window,'GeoPostal','GB');

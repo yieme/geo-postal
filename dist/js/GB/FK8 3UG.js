@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK8 3UG"]={"code":"FK8 3UG","region":"Scotland","city":"Aberfoyle","latitude":56.17861,"longitude":-4.38419}}(window,'GeoPostal','GB');

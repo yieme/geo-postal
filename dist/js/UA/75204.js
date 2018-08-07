@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75204"]={"code":"75204","region":"Khersonska oblast","city":"Chaplynka","latitude":46.36507,"longitude":33.54027}}(window,'GeoPostal','UA');

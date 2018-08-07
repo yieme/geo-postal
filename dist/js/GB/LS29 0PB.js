@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS29 0PB"]={"code":"LS29 0PB","region":"England","city":"Addingham","latitude":53.94452,"longitude":-1.88424}}(window,'GeoPostal','GB');

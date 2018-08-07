@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6070"]={"code":"6070","region":"Syddanmark","city":"Christiansfeld","latitude":55.35817,"longitude":9.48701}}(window,'GeoPostal','DK');

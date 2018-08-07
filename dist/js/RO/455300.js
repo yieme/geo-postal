@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["455300"]={"code":"455300","region":"Salaj","city":"Simleu Silvaniei","latitude":47.23333,"longitude":22.8}}(window,'GeoPostal','RO');

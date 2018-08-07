@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53025"]={"code":"53025","region":"Toscana","city":"Piancastagnaio","latitude":42.85067,"longitude":11.69014}}(window,'GeoPostal','IT');

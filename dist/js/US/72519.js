@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72519"]={"code":"72519","region":"Arkansas","city":"Calico Rock","latitude":36.11951,"longitude":-92.13599}}(window,'GeoPostal','US');

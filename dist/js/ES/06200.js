@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06200"]={"code":"06200","region":"Extremadura","city":"Almendralejo","latitude":38.68316,"longitude":-6.40747}}(window,'GeoPostal','ES');

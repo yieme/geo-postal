@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16878"]={"code":"16878","region":"PA","city":"West Decatur","latitude":40.9493,"longitude":-78.3129}}(window,'GeoPostal','US');

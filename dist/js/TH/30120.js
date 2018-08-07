@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30120"]={"code":"30120","region":"Nakhon Ratchasima","city":"Bua Yai","latitude":15.58552,"longitude":102.42587}}(window,'GeoPostal','TH');

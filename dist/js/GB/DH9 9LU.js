@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DH9 9LU"]={"code":"DH9 9LU","region":"England","city":"Tanfield","latitude":54.89288,"longitude":-1.71316}}(window,'GeoPostal','GB');

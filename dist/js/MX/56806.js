@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56806"]={"code":"56806","region":"Mexico","city":"Atlautla","latitude":19.01667,"longitude":-98.78333}}(window,'GeoPostal','MX');

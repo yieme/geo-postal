@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61840"]={"code":"61840","region":"IL","city":"Dewey","latitude":40.3131,"longitude":-88.277}}(window,'GeoPostal','US');

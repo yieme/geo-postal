@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63065"]={"code":"63065","region":"Hessen","city":"Lohfelden","latitude":51.26667,"longitude":9.53333}}(window,'GeoPostal','DE');

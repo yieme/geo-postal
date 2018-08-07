@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04756"]={"code":"04756","region":"Maine","city":"Madawaska","latitude":47.307186,"longitude":-68.241581}}(window,'GeoPostal','US');

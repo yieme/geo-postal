@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07752"]={"code":"07752","region":"NJ","city":"Navesink","latitude":40.4023,"longitude":-74.0273}}(window,'GeoPostal','US');

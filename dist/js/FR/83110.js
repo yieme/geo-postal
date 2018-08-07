@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83110"]={"code":"83110","region":"Provence-Alpes-Cote d'Azur","city":"Sanary-sur-Mer","latitude":43.11784,"longitude":5.80006}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74641"]={"code":"74641","region":"OK","city":"Kaw City","latitude":36.8382,"longitude":-96.8833}}(window,'GeoPostal','US');

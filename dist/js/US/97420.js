@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97420"]={"code":"97420","region":"Oregon","city":"Coos Bay","latitude":43.3665,"longitude":-124.21789}}(window,'GeoPostal','US');

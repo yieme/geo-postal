@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93062"]={"code":"93062","region":"California","city":"Simi Valley","latitude":34.26945,"longitude":-118.78148}}(window,'GeoPostal','US');

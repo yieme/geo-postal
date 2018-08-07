@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07855"]={"code":"07855","region":"NJ","city":"Middleville","latitude":41.0559,"longitude":-74.8629}}(window,'GeoPostal','US');

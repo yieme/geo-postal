@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28530"]={"code":"28530","region":"NC","city":"Grifton","latitude":35.3757,"longitude":-77.4193}}(window,'GeoPostal','US');

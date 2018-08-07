@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 8QG"]={"code":"PE31 8QG","region":"England","city":"Stanhoe","latitude":52.90089,"longitude":0.68398}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95236"]={"code":"95236","region":"CA","city":"Linden","latitude":38.032,"longitude":-121.0493}}(window,'GeoPostal','US');

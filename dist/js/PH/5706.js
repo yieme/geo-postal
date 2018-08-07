@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5706"]={"code":"5706","region":"Antique","city":"Barbaza","latitude":11.19572,"longitude":122.03861}}(window,'GeoPostal','PH');

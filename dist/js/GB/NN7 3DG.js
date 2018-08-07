@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NN7 3DG"]={"code":"NN7 3DG","region":"England","city":"Blisworth","latitude":52.17498,"longitude":-0.94131}}(window,'GeoPostal','GB');

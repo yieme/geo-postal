@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32422"]={"code":"32422","region":"Florida","city":"Argyle","latitude":30.7461,"longitude":-86.07178}}(window,'GeoPostal','US');

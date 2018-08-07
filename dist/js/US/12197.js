@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["12197"]={"code":"12197","region":"New York","city":"Worcester","latitude":42.59146,"longitude":-74.75043}}(window,'GeoPostal','US');

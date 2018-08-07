@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33947"]={"code":"33947","region":"Florida","city":"Rotonda West","latitude":26.88778,"longitude":-82.27139}}(window,'GeoPostal','US');

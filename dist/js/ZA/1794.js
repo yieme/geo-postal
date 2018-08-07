@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1794"]={"code":"1794","region":"Gauteng","city":"Roodepoort","latitude":-26.1625,"longitude":27.8725}}(window,'GeoPostal','ZA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["735730"]={"code":"735730","region":"Sughd","city":"Chkalovsk","latitude":40.23417,"longitude":69.69481}}(window,'GeoPostal','TJ');

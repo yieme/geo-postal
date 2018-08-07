@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2910"]={"code":"2910","region":"Antwerpen","city":"Essen","latitude":51.46272,"longitude":4.45393}}(window,'GeoPostal','BE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08760"]={"code":"08760","region":"Cusco","city":"Pangoa","latitude":-12.11667,"longitude":-73}}(window,'GeoPostal','PE');

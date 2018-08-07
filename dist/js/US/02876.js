@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02876"]={"code":"02876","region":"RI","city":"Slatersville","latitude":41.9984,"longitude":-71.5763}}(window,'GeoPostal','US');

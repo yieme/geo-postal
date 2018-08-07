@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80-209"]={"code":"80-209","region":"Pomorskie","city":"Wielki Kack","latitude":54.46754,"longitude":18.4881}}(window,'GeoPostal','PL');

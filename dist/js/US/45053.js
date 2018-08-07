@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45053"]={"code":"45053","region":"OH","city":"Okeana","latitude":39.3537,"longitude":-84.7761}}(window,'GeoPostal','US');

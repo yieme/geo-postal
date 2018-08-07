@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31642"]={"code":"31642","region":"Georgia","city":"Pearson","latitude":31.2977,"longitude":-82.85237}}(window,'GeoPostal','US');

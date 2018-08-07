@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68455"]={"code":"68455","region":"NE","city":"Union","latitude":40.8245,"longitude":-95.9037}}(window,'GeoPostal','US');

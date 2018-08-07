@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR17 1BN"]={"code":"NR17 1BN","region":"England","city":"Rockland Saint Peter","latitude":52.53333,"longitude":0.91667}}(window,'GeoPostal','GB');

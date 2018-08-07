@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["724005"]={"code":"724005","region":"Talas","city":"Talas","latitude":42.35473,"longitude":72.65678}}(window,'GeoPostal','KG');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NE31 2EQ"]={"code":"NE31 2EQ","region":"England","city":"Hebburn","latitude":54.97302,"longitude":-1.51546}}(window,'GeoPostal','GB');

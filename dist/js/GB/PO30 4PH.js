@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PO30 4PH"]={"code":"PO30 4PH","region":"England","city":"Shalfleet","latitude":50.7014,"longitude":-1.415}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3409"]={"code":"3409","region":"Corrientes","city":"Paso de la Patria","latitude":-27.31676,"longitude":-58.57197}}(window,'GeoPostal','AR');

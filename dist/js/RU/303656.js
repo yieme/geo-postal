@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["303656"]={"code":"303656","region":"Orlovskaya oblast'","city":"Krasnaya Zarya","latitude":52.7825,"longitude":37.68056}}(window,'GeoPostal','RU');

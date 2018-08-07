@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39022"]={"code":"39022","region":"Trentino-Alto Adige","city":"Lagundo","latitude":46.68113,"longitude":11.12572}}(window,'GeoPostal','IT');

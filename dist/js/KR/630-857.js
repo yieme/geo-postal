@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["630-857"]={"code":"630-857","region":"Gyeongsangnam-do","city":"Naeso","latitude":35.24972,"longitude":128.52}}(window,'GeoPostal','KR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["BD24 9ED"]={"code":"BD24 9ED","region":"England","city":"Settle","latitude":54.06865,"longitude":-2.2772}}(window,'GeoPostal','GB');

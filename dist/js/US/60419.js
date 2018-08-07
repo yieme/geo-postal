@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60419"]={"code":"60419","region":"Illinois","city":"Dolton","latitude":41.626048,"longitude":-87.59756}}(window,'GeoPostal','US');

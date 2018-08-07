@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61847"]={"code":"61847","region":"IL","city":"Gifford","latitude":40.3028,"longitude":-88.0317}}(window,'GeoPostal','US');

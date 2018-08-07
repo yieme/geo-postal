@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30800"]={"code":"30800","region":"Occitanie","city":"Saint-Gilles","latitude":43.67656,"longitude":4.43024}}(window,'GeoPostal','FR');

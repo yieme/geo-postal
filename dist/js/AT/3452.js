@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3452"]={"code":"3452","region":"Niederosterreich","city":"Wurmla","latitude":48.25497,"longitude":15.86031}}(window,'GeoPostal','AT');

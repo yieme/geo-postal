@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21017"]={"code":"21017","region":"Maryland","city":"Belcamp","latitude":39.47382,"longitude":-76.23594}}(window,'GeoPostal','US');

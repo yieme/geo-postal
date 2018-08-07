@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59547"]={"code":"59547","region":"Montana","city":"Zurich","latitude":48.654371,"longitude":-109.213264}}(window,'GeoPostal','US');

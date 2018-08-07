@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA9 1FJ"]={"code":"SA9 1FJ","region":"Wales","city":"Pen-y-cae","latitude":51.8,"longitude":-3.68333}}(window,'GeoPostal','GB');

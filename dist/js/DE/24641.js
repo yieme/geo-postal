@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24641"]={"code":"24641","region":"Schleswig-Holstein","city":"Sievershutten","latitude":53.85,"longitude":10.1}}(window,'GeoPostal','DE');

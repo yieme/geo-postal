@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NG33 5ES"]={"code":"NG33 5ES","region":"England","city":"Skillington","latitude":52.82248,"longitude":-0.67085}}(window,'GeoPostal','GB');

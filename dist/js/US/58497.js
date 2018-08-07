@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58497"]={"code":"58497","region":"North Dakota","city":"Ypsilanti","latitude":46.761687,"longitude":-98.439044}}(window,'GeoPostal','US');

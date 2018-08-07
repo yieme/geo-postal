@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6617"]={"code":"6617","region":"Gelderland","city":"Bergharen","latitude":51.85083,"longitude":5.66944}}(window,'GeoPostal','NL');

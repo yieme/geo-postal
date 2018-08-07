@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA14 7TW"]={"code":"SA14 7TW","region":"Wales","city":"Carmel","latitude":51.82861,"longitude":-4.05111}}(window,'GeoPostal','GB');

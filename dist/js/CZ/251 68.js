@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["251 68"]={"code":"251 68","region":"Stredocesky kraj","city":"Sestajovice","latitude":50.10845,"longitude":14.68013}}(window,'GeoPostal','CZ');

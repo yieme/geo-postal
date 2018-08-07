@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40160"]={"code":"40160","region":"Kentucky","city":"Radcliff","latitude":37.825522,"longitude":-85.941118}}(window,'GeoPostal','US');

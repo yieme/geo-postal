@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SY8 4NE"]={"code":"SY8 4NE","region":"England","city":"Brimfield","latitude":52.30671,"longitude":-2.69618}}(window,'GeoPostal','GB');

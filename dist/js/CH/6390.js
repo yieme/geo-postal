@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6390"]={"code":"6390","region":"Obwalden","city":"Engelberg","latitude":46.82107,"longitude":8.40133}}(window,'GeoPostal','CH');

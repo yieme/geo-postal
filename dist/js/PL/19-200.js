@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19-200"]={"code":"19-200","region":"Podlaskie","city":"Grajewo","latitude":53.64728,"longitude":22.45537}}(window,'GeoPostal','PL');

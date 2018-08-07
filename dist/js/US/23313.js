@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23313"]={"code":"23313","region":"VA","city":"Capeville","latitude":37.2019,"longitude":-75.9524}}(window,'GeoPostal','US');

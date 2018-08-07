@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515"]={"code":"515","region":"Toamasina","city":"Ambodifotatra","latitude":-16.98333,"longitude":49.85}}(window,'GeoPostal','MG');

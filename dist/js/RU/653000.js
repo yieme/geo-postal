@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["653000"]={"code":"653000","region":"Kemerovskaya oblast'","city":"Prokop'yevsk","latitude":53.9059,"longitude":86.719}}(window,'GeoPostal','RU');

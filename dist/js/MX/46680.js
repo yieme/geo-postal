@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46680"]={"code":"46680","region":"Jalisco","city":"Etzatlan","latitude":20.76667,"longitude":-104.08333}}(window,'GeoPostal','MX');

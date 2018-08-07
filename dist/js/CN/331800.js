@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["331800"]={"code":"331800","region":"Jiangxi","city":"Dengjiaxiang","latitude":28.25204,"longitude":116.56125}}(window,'GeoPostal','CN');

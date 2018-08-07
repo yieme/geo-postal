@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["J0V 1P0"]={"code":"J0V 1P0","region":"Quebec","city":"Notre-Dame-de-la-Paix","latitude":45.8168,"longitude":-74.96598}}(window,'GeoPostal','CA');

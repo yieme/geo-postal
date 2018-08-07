@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0T 1J0"]={"code":"P0T 1J0","region":"Ontario","city":"Caramat","latitude":49.61684,"longitude":-86.14993}}(window,'GeoPostal','CA');

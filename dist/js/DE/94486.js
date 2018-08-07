@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94486"]={"code":"94486","region":"Bayern","city":"Ruckasing","latitude":48.7126,"longitude":13.03373}}(window,'GeoPostal','DE');

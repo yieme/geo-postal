@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["979-1525"]={"code":"979-1525","region":"Fukushima","city":"Namie","latitude":37.483,"longitude":141}}(window,'GeoPostal','JP');

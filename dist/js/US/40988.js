@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["40988"]={"code":"40988","region":"KY","city":"Stoney Fork","latitude":36.8323,"longitude":-83.5346}}(window,'GeoPostal','US');

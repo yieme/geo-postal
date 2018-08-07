@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["215400"]={"code":"215400","region":"Gorj","city":"Rovinari","latitude":44.91667,"longitude":23.18333}}(window,'GeoPostal','RO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 22"]={"code":"289 22","region":"Stredocesky kraj","city":"Lysa nad Labem","latitude":50.20143,"longitude":14.83281}}(window,'GeoPostal','CZ');

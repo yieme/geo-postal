@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8630"]={"code":"8630","region":"Steiermark","city":"Mariazell","latitude":47.77306,"longitude":15.31639}}(window,'GeoPostal','AT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89404"]={"code":"89404","region":"NV","city":"Denio","latitude":41.9899,"longitude":-118.6343}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15502"]={"code":"15502","region":"PA","city":"Hidden Valley","latitude":40.046,"longitude":-79.2585}}(window,'GeoPostal','US');

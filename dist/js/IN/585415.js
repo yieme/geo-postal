@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["585415"]={"code":"585415","region":"Karnataka","city":"Bhalki","latitude":18.03333,"longitude":77.21667}}(window,'GeoPostal','IN');

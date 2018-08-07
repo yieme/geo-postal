@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30530"]={"code":"30530","region":"GA","city":"Commerce","latitude":34.1683,"longitude":-83.4022}}(window,'GeoPostal','US');

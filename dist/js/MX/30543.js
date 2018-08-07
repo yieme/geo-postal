@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30543"]={"code":"30543","region":"Coahuila de Zaragoza","city":"Ramos Arizpe","latitude":25.55,"longitude":-100.96667}}(window,'GeoPostal','MX');

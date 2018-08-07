@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25691"]={"code":"25691","region":"WV","city":"Rawl","latitude":37.6498,"longitude":-82.2196}}(window,'GeoPostal','US');

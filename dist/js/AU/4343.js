@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4343"]={"code":"4343","region":"Queensland","city":"Gatton","latitude":-27.55873,"longitude":152.27618}}(window,'GeoPostal','AU');

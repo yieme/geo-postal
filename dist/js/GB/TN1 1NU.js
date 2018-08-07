@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN1 1NU"]={"code":"TN1 1NU","region":"England","city":"Fairfield","latitude":53.27009,"longitude":-1.89643}}(window,'GeoPostal','GB');

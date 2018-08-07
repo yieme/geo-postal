@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66512"]={"code":"66512","region":"Kansas","city":"Meriden","latitude":39.188643,"longitude":-95.567565}}(window,'GeoPostal','US');

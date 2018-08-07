@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54215"]={"code":"54215","region":"WI","city":"Kellnersville","latitude":44.2226,"longitude":-87.8017}}(window,'GeoPostal','US');

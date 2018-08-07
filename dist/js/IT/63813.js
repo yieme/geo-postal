@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63813"]={"code":"63813","region":"Marche","city":"Monte Urano","latitude":43.20266,"longitude":13.67288}}(window,'GeoPostal','IT');

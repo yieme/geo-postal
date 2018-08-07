@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73033"]={"code":"73033","region":"Baden-Wurttemberg","city":"Goppingen","latitude":48.7028,"longitude":9.65488}}(window,'GeoPostal','DE');

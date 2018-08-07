@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77663"]={"code":"77663","region":"Texas","city":"Village Mills","latitude":30.49389,"longitude":-94.3975}}(window,'GeoPostal','US');

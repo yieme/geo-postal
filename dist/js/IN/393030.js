@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["393030"]={"code":"393030","region":"Gujarat","city":"Hansot","latitude":21.58333,"longitude":72.8}}(window,'GeoPostal','IN');

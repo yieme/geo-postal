@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04572"]={"code":"04572","region":"Maine","city":"Waldoboro","latitude":44.09536,"longitude":-69.3756}}(window,'GeoPostal','US');

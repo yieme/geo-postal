@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0L 1W0"]={"code":"P0L 1W0","region":"Ontario","city":"Moosonee","latitude":51.265924,"longitude":-80.595101}}(window,'GeoPostal','CA');

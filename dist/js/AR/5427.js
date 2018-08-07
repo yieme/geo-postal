@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5427"]={"code":"5427","region":"San Juan","city":"Pocito","latitude":-31.68333,"longitude":-68.58333}}(window,'GeoPostal','AR');

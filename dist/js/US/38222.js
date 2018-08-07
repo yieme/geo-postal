@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38222"]={"code":"38222","region":"Tennessee","city":"Buchanan","latitude":36.43694,"longitude":-88.20833}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58057"]={"code":"58057","region":"ND","city":"Mcleod","latitude":46.4103,"longitude":-97.3139}}(window,'GeoPostal','US');

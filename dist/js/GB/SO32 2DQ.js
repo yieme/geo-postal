@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SO32 2DQ"]={"code":"SO32 2DQ","region":"England","city":"Curdridge","latitude":50.92366,"longitude":-1.24615}}(window,'GeoPostal','GB');

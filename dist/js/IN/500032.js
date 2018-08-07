@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["500032"]={"code":"500032","region":"Telangana","city":"Hyderabad","latitude":17.37528,"longitude":78.47444}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73753"]={"code":"73753","region":"OK","city":"Kremlin","latitude":36.5207,"longitude":-97.8542}}(window,'GeoPostal','US');

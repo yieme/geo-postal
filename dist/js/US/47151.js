@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47151"]={"code":"47151","region":"IN","city":"New Albany","latitude":38.2856,"longitude":-85.8241}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["530106"]={"code":"530106","region":"Guangxi","city":"Wuming","latitude":23.18937,"longitude":108.25478}}(window,'GeoPostal','CN');

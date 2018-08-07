@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35435"]={"code":"35435","region":"Baden-Wurttemberg","city":"Wettenberg","latitude":48.03916,"longitude":9.8273}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74823"]={"code":"74823","region":"Khersonska oblast","city":"Malokakhovka","latitude":46.78142,"longitude":33.4479}}(window,'GeoPostal','UA');

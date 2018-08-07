@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87023"]={"code":"87023","region":"NM","city":"Jarales","latitude":34.592,"longitude":-106.7611}}(window,'GeoPostal','US');

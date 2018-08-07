@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["102300"]={"code":"102300","region":"Beijing","city":"Mentougou","latitude":39.93917,"longitude":116.09167}}(window,'GeoPostal','CN');

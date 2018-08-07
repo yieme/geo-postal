@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26323"]={"code":"26323","region":"WV","city":"Anmoore","latitude":39.2587,"longitude":-80.2875}}(window,'GeoPostal','US');

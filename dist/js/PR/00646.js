@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["00646"]={"code":"00646","region":"Dorado","city":"Dorado","latitude":18.45883,"longitude":-66.26767}}(window,'GeoPostal','PR');

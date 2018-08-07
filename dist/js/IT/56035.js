@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56035"]={"code":"56035","region":"Toscana","city":"Lari","latitude":43.56794,"longitude":10.59261}}(window,'GeoPostal','IT');

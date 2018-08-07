@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["W6 0JZ"]={"code":"W6 0JZ","region":"England","city":"Hammersmith","latitude":51.49384,"longitude":-0.22882}}(window,'GeoPostal','GB');

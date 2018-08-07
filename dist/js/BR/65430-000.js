@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65430-000"]={"code":"65430-000","region":"Maranhao","city":"Vargem Grande","latitude":-3.54306,"longitude":-43.91583}}(window,'GeoPostal','BR');

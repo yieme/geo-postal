@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44770"]={"code":"44770","region":"Aragon","city":"Escucha","latitude":40.79467,"longitude":-0.81012}}(window,'GeoPostal','ES');

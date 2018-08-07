@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72729"]={"code":"72729","region":"AR","city":"Evansville","latitude":35.7823,"longitude":-94.4638}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PR4 3AL"]={"code":"PR4 3AL","region":"England","city":"Kirkham","latitude":53.78244,"longitude":-2.87189}}(window,'GeoPostal','GB');

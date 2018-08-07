@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38221"]={"code":"38221","region":"Tennessee","city":"Big Sandy","latitude":36.2405,"longitude":-88.0588}}(window,'GeoPostal','US');

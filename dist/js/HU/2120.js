@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2120"]={"code":"2120","region":"Pest","city":"Dunakeszi","latitude":47.6364,"longitude":19.13864}}(window,'GeoPostal','HU');

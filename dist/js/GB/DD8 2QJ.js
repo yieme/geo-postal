@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DD8 2QJ"]={"code":"DD8 2QJ","region":"Scotland","city":"Letham","latitude":56.61667,"longitude":-2.76667}}(window,'GeoPostal','GB');

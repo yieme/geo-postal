@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96770"]={"code":"96770","region":"Hawaii","city":"Maunaloa","latitude":21.1362,"longitude":-157.21302}}(window,'GeoPostal','US');

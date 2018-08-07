@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5250"]={"code":"5250","region":"Veliko Tarnovo","city":"Svishtov","latitude":43.62306,"longitude":25.35389}}(window,'GeoPostal','BG');

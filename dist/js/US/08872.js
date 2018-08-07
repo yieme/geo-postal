@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08872"]={"code":"08872","region":"New Jersey","city":"Sayreville","latitude":40.464189,"longitude":-74.345933}}(window,'GeoPostal','US');

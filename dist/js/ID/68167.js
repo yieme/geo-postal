@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68167"]={"code":"68167","region":"Jawa Timur","city":"Kencong","latitude":-8.28333,"longitude":113.36667}}(window,'GeoPostal','ID');

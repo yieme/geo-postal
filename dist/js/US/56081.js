@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56081"]={"code":"56081","region":"Minnesota","city":"Saint James","latitude":43.98246,"longitude":-94.62692}}(window,'GeoPostal','US');

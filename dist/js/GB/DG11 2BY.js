@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DG11 2BY"]={"code":"DG11 2BY","region":"Scotland","city":"Lockerbie","latitude":55.12302,"longitude":-3.35635}}(window,'GeoPostal','GB');

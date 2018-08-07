@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0G 1K0"]={"code":"R0G 1K0","region":"Manitoba","city":"Morris","latitude":49.35499,"longitude":-97.36567}}(window,'GeoPostal','CA');

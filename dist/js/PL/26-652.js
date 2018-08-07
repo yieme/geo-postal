@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26-652"]={"code":"26-652","region":"Mazowieckie","city":"Zakrzew","latitude":51.44095,"longitude":21.00105}}(window,'GeoPostal','PL');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96960"]={"code":"96960","region":"MH","city":"Majuro","latitude":7.1128,"longitude":171.237}}(window,'GeoPostal','US');

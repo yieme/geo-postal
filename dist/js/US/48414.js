@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48414"]={"code":"48414","region":"MI","city":"Bancroft","latitude":42.882,"longitude":-84.1207}}(window,'GeoPostal','US');

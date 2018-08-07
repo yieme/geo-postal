@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95415"]={"code":"95415","region":"California","city":"Boonville","latitude":39.004442,"longitude":-123.357921}}(window,'GeoPostal','US');

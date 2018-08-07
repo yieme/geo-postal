@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN6 0XH"]={"code":"LN6 0XH","region":"England","city":"Skellingthorpe","latitude":53.23531,"longitude":-0.61905}}(window,'GeoPostal','GB');

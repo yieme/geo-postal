@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["815353"]={"code":"815353","region":"Jharkhand","city":"Madhupur","latitude":24.25,"longitude":86.65}}(window,'GeoPostal','IN');

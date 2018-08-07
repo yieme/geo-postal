@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59422"]={"code":"59422","region":"Montana","city":"Choteau","latitude":47.81245,"longitude":-112.18363}}(window,'GeoPostal','US');

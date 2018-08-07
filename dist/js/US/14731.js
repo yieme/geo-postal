@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14731"]={"code":"14731","region":"New York","city":"Ellicottville","latitude":42.291278,"longitude":-78.661034}}(window,'GeoPostal','US');

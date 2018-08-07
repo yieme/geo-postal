@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0L 1C0"]={"code":"S0L 1C0","region":"Saskatchewan","city":"Fiske","latitude":51.4834,"longitude":-108.40141}}(window,'GeoPostal','CA');

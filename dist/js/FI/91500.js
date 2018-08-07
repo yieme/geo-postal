@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["91500"]={"code":"91500","region":"Pohjois-Pohjanmaa","city":"Muhos","latitude":64.80798,"longitude":25.99314}}(window,'GeoPostal','FI');

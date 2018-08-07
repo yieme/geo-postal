@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57354"]={"code":"57354","region":"SD","city":"Kaylor","latitude":43.3341,"longitude":-97.7569}}(window,'GeoPostal','US');

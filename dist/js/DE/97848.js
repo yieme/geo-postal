@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97848"]={"code":"97848","region":"Bayern","city":"Rechtenbach","latitude":49.98306,"longitude":9.50833}}(window,'GeoPostal','DE');

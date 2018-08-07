@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["ML12 6QS"]={"code":"ML12 6QS","region":"Scotland","city":"Glenbreck","latitude":55.46667,"longitude":-3.48333}}(window,'GeoPostal','GB');

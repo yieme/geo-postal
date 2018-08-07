@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["624053"]={"code":"624053","region":"Sverdlovskaya oblast'","city":"Verkhneye Dubrovo","latitude":56.7528,"longitude":61.0468}}(window,'GeoPostal','RU');

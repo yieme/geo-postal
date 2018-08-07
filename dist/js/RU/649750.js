@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["649750"]={"code":"649750","region":"Altay, Respublika","city":"Ust'-Ulagan","latitude":50.63333,"longitude":87.96667}}(window,'GeoPostal','RU');

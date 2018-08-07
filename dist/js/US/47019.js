@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47019"]={"code":"47019","region":"Indiana","city":"East Enterprise","latitude":38.87268,"longitude":-84.98802}}(window,'GeoPostal','US');

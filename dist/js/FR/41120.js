@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41120"]={"code":"41120","region":"Centre-Val de Loire","city":"Chailles","latitude":47.5416,"longitude":1.3122}}(window,'GeoPostal','FR');

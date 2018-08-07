@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32501"]={"code":"32501","region":"Varsinais-Suomi","city":"Oripaa","latitude":60.85,"longitude":22.68333}}(window,'GeoPostal','FI');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99260"]={"code":"99260","region":"Zacatecas","city":"Chalchihuites","latitude":23.48333,"longitude":-103.88333}}(window,'GeoPostal','MX');

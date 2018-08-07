@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44041"]={"code":"44041","region":"Ohio","city":"Geneva","latitude":41.80505,"longitude":-80.94815}}(window,'GeoPostal','US');

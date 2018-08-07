@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70022"]={"code":"70022","region":"Puglia","city":"Altamura","latitude":40.82923,"longitude":16.55368}}(window,'GeoPostal','IT');

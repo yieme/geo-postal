@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["769 01"]={"code":"769 01","region":"Zlinsky kraj","city":"Holesov","latitude":49.33331,"longitude":17.57832}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36782"]={"code":"36782","region":"Alabama","city":"Sweet Water","latitude":32.09778,"longitude":-87.86528}}(window,'GeoPostal','US');

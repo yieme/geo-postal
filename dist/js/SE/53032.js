@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53032"]={"code":"53032","region":"Vastra Gotalands lan","city":"Graestorp","latitude":58.33219,"longitude":12.68122}}(window,'GeoPostal','SE');

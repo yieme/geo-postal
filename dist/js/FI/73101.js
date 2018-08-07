@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73101"]={"code":"73101","region":"Etela-Savo","city":"Lapinlahti","latitude":67.05566,"longitude":23.7523}}(window,'GeoPostal','FI');

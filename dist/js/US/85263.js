@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85263"]={"code":"85263","region":"AZ","city":"Rio Verde","latitude":33.7225,"longitude":-111.6757}}(window,'GeoPostal','US');

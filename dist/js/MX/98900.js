@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98900"]={"code":"98900","region":"Zacatecas","city":"Villa Garcia","latitude":22.16667,"longitude":-101.95}}(window,'GeoPostal','MX');

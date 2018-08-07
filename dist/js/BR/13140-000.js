@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13140-000"]={"code":"13140-000","region":"Sao Paulo","city":"Paulinia","latitude":-22.76111,"longitude":-47.15417}}(window,'GeoPostal','BR');

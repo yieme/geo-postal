@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10417"]={"code":"10417","region":"Zagrebacka zupanija","city":"Turopolje","latitude":45.64944,"longitude":16.14361}}(window,'GeoPostal','HR');

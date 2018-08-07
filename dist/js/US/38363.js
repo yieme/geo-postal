@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38363"]={"code":"38363","region":"Tennessee","city":"Parsons","latitude":35.64979,"longitude":-88.1267}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22651"]={"code":"22651","region":"Sumatera Utara","city":"Sibolga","latitude":1.7427,"longitude":98.7792}}(window,'GeoPostal','ID');

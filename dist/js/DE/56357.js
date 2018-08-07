@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56357"]={"code":"56357","region":"Rheinland-Pfalz","city":"Miehlen","latitude":50.21667,"longitude":7.83333}}(window,'GeoPostal','DE');

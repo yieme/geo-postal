@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86154"]={"code":"86154","region":"Schleswig-Holstein","city":"Augsburg","latitude":54.50382,"longitude":9.10256}}(window,'GeoPostal','DE');

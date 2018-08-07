@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["847451"]={"code":"847451","region":"West Bengal","city":"Balurghat","latitude":25.21667,"longitude":88.76667}}(window,'GeoPostal','IN');

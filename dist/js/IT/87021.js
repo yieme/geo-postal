@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87021"]={"code":"87021","region":"Calabria","city":"Belvedere Marittimo","latitude":39.6179,"longitude":15.86168}}(window,'GeoPostal','IT');

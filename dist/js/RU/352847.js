@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352847"]={"code":"352847","region":"Krasnodarskiy kray","city":"Lermontovo","latitude":44.3038,"longitude":38.7572}}(window,'GeoPostal','RU');

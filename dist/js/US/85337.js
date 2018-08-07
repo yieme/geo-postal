@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["85337"]={"code":"85337","region":"AZ","city":"Gila Bend","latitude":32.9306,"longitude":-112.7468}}(window,'GeoPostal','US');

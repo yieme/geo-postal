@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51401"]={"code":"51401","region":"Iowa","city":"Carroll","latitude":42.06582,"longitude":-94.86693}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["82194"]={"code":"82194","region":"Lvivska oblast","city":"Skhodnitsa","latitude":49.20128,"longitude":23.36169}}(window,'GeoPostal','UA');

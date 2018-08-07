@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["347618"]={"code":"347618","region":"Rostovskaya oblast'","city":"Gigant","latitude":46.50665,"longitude":41.34185}}(window,'GeoPostal','RU');

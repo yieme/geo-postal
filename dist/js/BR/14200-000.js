@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14200-000"]={"code":"14200-000","region":"Sao Paulo","city":"Sao Simao","latitude":-21.47917,"longitude":-47.55083}}(window,'GeoPostal','BR');

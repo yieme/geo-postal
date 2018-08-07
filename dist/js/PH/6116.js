@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6116"]={"code":"6116","region":"Negros Occidental","city":"Imbang","latitude":10.8,"longitude":123}}(window,'GeoPostal','PH');

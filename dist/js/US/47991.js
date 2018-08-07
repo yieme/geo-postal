@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["47991"]={"code":"47991","region":"Indiana","city":"West Lebanon","latitude":40.27056,"longitude":-87.38583}}(window,'GeoPostal','US');

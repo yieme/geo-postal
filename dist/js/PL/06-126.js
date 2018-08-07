@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06-126"]={"code":"06-126","region":"Mazowieckie","city":"Gzy","latitude":52.74045,"longitude":20.94372}}(window,'GeoPostal','PL');

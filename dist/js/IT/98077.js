@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98077"]={"code":"98077","region":"Sicilia","city":"Santo Stefano di Camastra","latitude":38.01456,"longitude":14.34857}}(window,'GeoPostal','IT');

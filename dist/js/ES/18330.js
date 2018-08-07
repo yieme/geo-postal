@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18330"]={"code":"18330","region":"Andalucia","city":"Chauchina","latitude":37.19977,"longitude":-3.77157}}(window,'GeoPostal','ES');

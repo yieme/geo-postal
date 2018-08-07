@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57992"]={"code":"57992","region":"Kalmar lan","city":"Hoegsby","latitude":57.16597,"longitude":16.02562}}(window,'GeoPostal','SE');

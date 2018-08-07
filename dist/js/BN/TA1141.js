@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA1141"]={"code":"TA1141","region":"Tutong","city":"Tutong","latitude":4.8,"longitude":114.65}}(window,'GeoPostal','BN');

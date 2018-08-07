@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11756"]={"code":"11756","region":"New York","city":"Levittown","latitude":40.74102,"longitude":-73.5366}}(window,'GeoPostal','US');

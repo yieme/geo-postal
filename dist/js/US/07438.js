@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07438"]={"code":"07438","region":"New Jersey","city":"Oak Ridge","latitude":41.03346,"longitude":-74.49984}}(window,'GeoPostal','US');

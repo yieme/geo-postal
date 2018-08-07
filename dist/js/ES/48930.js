@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48930"]={"code":"48930","region":"Pais Vasco","city":"Getxo","latitude":43.35689,"longitude":-3.01146}}(window,'GeoPostal','ES');

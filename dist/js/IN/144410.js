@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["144410"]={"code":"144410","region":"Punjab","city":"Phillaur","latitude":31.02917,"longitude":75.78417}}(window,'GeoPostal','IN');

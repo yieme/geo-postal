@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01350"]={"code":"01350","region":"MA","city":"Monroe Bridge","latitude":42.7215,"longitude":-72.9762}}(window,'GeoPostal','US');

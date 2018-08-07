@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30350"]={"code":"30350","region":"Eastern Province","city":"Eravur","latitude":7.7782,"longitude":81.6038}}(window,'GeoPostal','LK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL64 5XA"]={"code":"LL64 5XA","region":"Wales","city":"Rhosneigr","latitude":53.23186,"longitude":-4.5148}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30258"]={"code":"30258","region":"GA","city":"Molena","latitude":32.9978,"longitude":-84.4558}}(window,'GeoPostal','US');

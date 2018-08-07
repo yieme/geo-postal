@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83314"]={"code":"83314","region":"Idaho","city":"Bliss","latitude":42.92611,"longitude":-114.94861}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["97051"]={"code":"97051","region":"Oregon","city":"Saint Helens","latitude":45.864,"longitude":-122.80649}}(window,'GeoPostal','US');

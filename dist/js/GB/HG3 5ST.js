@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HG3 5ST"]={"code":"HG3 5ST","region":"England","city":"Middlesmoor","latitude":54.1637,"longitude":-1.86044}}(window,'GeoPostal','GB');

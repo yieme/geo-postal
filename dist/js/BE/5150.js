@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5150"]={"code":"5150","region":"Namur","city":"Fosses-la-Ville","latitude":50.39517,"longitude":4.69623}}(window,'GeoPostal','BE');

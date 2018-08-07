@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43449"]={"code":"43449","region":"OH","city":"Oak Harbor","latitude":41.5236,"longitude":-83.1278}}(window,'GeoPostal','US');

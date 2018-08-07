@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1381"]={"code":"1381","region":"Akershus","city":"Blakstad","latitude":59.8191,"longitude":10.4645}}(window,'GeoPostal','NO');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5532"]={"code":"5532","region":"Salzburg","city":"Filzmoos","latitude":47.43333,"longitude":13.51667}}(window,'GeoPostal','AT');

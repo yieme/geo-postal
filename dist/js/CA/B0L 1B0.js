@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0L 1B0"]={"code":"B0L 1B0","region":"Nova Scotia","city":"Maccan","latitude":45.71685,"longitude":-64.24874}}(window,'GeoPostal','CA');

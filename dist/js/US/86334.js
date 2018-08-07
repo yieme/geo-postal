@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86334"]={"code":"86334","region":"Arizona","city":"Paulden","latitude":34.885556,"longitude":-112.4675}}(window,'GeoPostal','US');

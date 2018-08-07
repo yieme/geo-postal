@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37254"]={"code":"37254","region":"Poltavska oblast","city":"Sencha","latitude":50.25482,"longitude":33.34602}}(window,'GeoPostal','UA');

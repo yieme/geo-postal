@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22025"]={"code":"22025","region":"Lombardia","city":"Lezzeno","latitude":45.94518,"longitude":9.18894}}(window,'GeoPostal','IT');

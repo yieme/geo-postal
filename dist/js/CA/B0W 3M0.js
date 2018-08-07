@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 3M0"]={"code":"B0W 3M0","region":"Nova Scotia","city":"Tusket","latitude":43.86685,"longitude":-65.96556}}(window,'GeoPostal','CA');

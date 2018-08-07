@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["45576"]={"code":"45576","region":"Jawa Barat","city":"Selagedang Dua","latitude":-7.1858,"longitude":107.1106}}(window,'GeoPostal','ID');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83300"]={"code":"83300","region":"Provence-Alpes-Cote d'Azur","city":"Draguignan","latitude":43.53333,"longitude":6.46667}}(window,'GeoPostal','FR');

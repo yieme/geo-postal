@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["670 64"]={"code":"670 64","region":"Anatoliki Makedonia kai Thraki","city":"Yenisea","latitude":41.06667,"longitude":24.96667}}(window,'GeoPostal','GR');

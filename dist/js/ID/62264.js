@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62264"]={"code":"62264","region":"Jawa Timur","city":"Paciran","latitude":-6.87666,"longitude":112.37606}}(window,'GeoPostal','ID');

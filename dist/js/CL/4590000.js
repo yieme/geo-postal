@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4590000"]={"code":"4590000","region":"Region Metropolitana de Santiago","city":"Puente Alto","latitude":-33.61667,"longitude":-70.58333}}(window,'GeoPostal','CL');

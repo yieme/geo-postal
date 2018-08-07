@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TN6 2PY"]={"code":"TN6 2PY","region":"England","city":"Crowborough","latitude":51.06044,"longitude":0.16171}}(window,'GeoPostal','GB');

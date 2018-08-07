@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["N4K 5N4"]={"code":"N4K 5N4","region":"Ontario","city":"Sarawak","latitude":44.63339,"longitude":-80.94972}}(window,'GeoPostal','CA');

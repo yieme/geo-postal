@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6370"]={"code":"6370","region":"Tirol","city":"Kitzbuhel","latitude":47.44637,"longitude":12.39215}}(window,'GeoPostal','AT');

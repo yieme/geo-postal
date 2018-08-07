@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19030"]={"code":"19030","region":"Pennsylvania","city":"Fairless Hills","latitude":40.175472,"longitude":-74.846391}}(window,'GeoPostal','US');

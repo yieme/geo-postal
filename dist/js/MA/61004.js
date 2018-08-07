@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61004"]={"code":"61004","region":"L'Oriental","city":"Figuig (Centre)","latitude":32.10891,"longitude":-1.22855}}(window,'GeoPostal','MA');

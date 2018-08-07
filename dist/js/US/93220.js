@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["93220"]={"code":"93220","region":"CA","city":"Edison","latitude":35.3475,"longitude":-118.8718}}(window,'GeoPostal','US');

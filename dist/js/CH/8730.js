@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8730"]={"code":"8730","region":"Sankt Gallen","city":"Uznach","latitude":47.22421,"longitude":8.98263}}(window,'GeoPostal','CH');

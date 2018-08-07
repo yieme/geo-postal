@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["88427"]={"code":"88427","region":"NM","city":"Mcalister","latitude":34.6923,"longitude":-103.7764}}(window,'GeoPostal','US');

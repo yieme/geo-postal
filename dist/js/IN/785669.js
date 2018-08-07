@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["785669"]={"code":"785669","region":"Assam","city":"Moranha","latitude":27.18333,"longitude":94.93333}}(window,'GeoPostal','IN');

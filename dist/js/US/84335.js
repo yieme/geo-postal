@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84335"]={"code":"84335","region":"Utah","city":"Smithfield","latitude":41.83584,"longitude":-111.87096}}(window,'GeoPostal','US');

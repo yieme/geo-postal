@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0J 1C0"]={"code":"P0J 1C0","region":"Ontario","city":"Cobalt","latitude":47.40016,"longitude":-79.68298}}(window,'GeoPostal','CA');

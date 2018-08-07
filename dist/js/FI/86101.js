@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86101"]={"code":"86101","region":"Pohjois-Pohjanmaa","city":"Pyhajoki","latitude":64.46667,"longitude":24.23333}}(window,'GeoPostal','FI');

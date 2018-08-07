@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["90260"]={"code":"90260","region":"California","city":"Lawndale","latitude":33.88724,"longitude":-118.35257}}(window,'GeoPostal','US');

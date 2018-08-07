@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3968"]={"code":"3968","region":"Valais","city":"Veyras","latitude":46.30212,"longitude":7.53619}}(window,'GeoPostal','CH');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61053"]={"code":"61053","region":"Illinois","city":"Mount Carroll","latitude":42.09502,"longitude":-89.97818}}(window,'GeoPostal','US');

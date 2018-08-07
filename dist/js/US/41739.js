@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41739"]={"code":"41739","region":"KY","city":"Dwarf","latitude":37.3394,"longitude":-83.1303}}(window,'GeoPostal','US');

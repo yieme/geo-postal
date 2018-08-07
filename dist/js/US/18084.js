@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18084"]={"code":"18084","region":"PA","city":"Sumneytown","latitude":40.3278,"longitude":-75.454}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95231"]={"code":"95231","region":"California","city":"French Camp","latitude":37.88409,"longitude":-121.27106}}(window,'GeoPostal','US');

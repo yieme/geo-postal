@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78740"]={"code":"78740","region":"Ile-de-France","city":"Vaux-sur-Seine","latitude":49.01271,"longitude":1.96942}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["675 57"]={"code":"675 57","region":"Kraj Vysocina","city":"Rouchovany","latitude":49.07036,"longitude":16.1076}}(window,'GeoPostal','CZ');

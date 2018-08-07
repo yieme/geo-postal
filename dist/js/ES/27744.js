@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27744"]={"code":"27744","region":"Galicia","city":"Riotorto","latitude":43.35,"longitude":-7.23333}}(window,'GeoPostal','ES');

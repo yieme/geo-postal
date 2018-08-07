@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["73240"]={"code":"73240","region":"Republika Srpska","city":"Visegrad","latitude":43.78472,"longitude":19.29917}}(window,'GeoPostal','BA');

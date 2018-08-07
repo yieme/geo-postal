@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187789"]={"code":"187789","region":"Leningradskaya oblast'","city":"Podporozh'ye","latitude":60.91124,"longitude":34.17064}}(window,'GeoPostal','RU');

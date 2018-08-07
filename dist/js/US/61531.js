@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["61531"]={"code":"61531","region":"IL","city":"Farmington","latitude":40.6832,"longitude":-90.035}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98221"]={"code":"98221","region":"Washington","city":"Anacortes","latitude":48.5126,"longitude":-122.61267}}(window,'GeoPostal','US');

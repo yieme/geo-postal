@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36052"]={"code":"36052","region":"AL","city":"Mathews","latitude":32.1283,"longitude":-86.0413}}(window,'GeoPostal','US');

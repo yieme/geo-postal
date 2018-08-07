@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84317"]={"code":"84317","region":"UT","city":"Huntsville","latitude":41.2721,"longitude":-111.7618}}(window,'GeoPostal','US');

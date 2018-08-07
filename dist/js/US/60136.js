@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60136"]={"code":"60136","region":"IL","city":"Gilberts","latitude":42.0984,"longitude":-88.3691}}(window,'GeoPostal','US');

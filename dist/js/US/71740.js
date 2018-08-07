@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71740"]={"code":"71740","region":"Arkansas","city":"Emerson","latitude":33.096387,"longitude":-93.189863}}(window,'GeoPostal','US');

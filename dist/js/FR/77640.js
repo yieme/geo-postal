@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77640"]={"code":"77640","region":"Ile-de-France","city":"Jouarre","latitude":48.92661,"longitude":3.13168}}(window,'GeoPostal','FR');

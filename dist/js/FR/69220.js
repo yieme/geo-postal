@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69220"]={"code":"69220","region":"Auvergne-Rhone-Alpes","city":"Saint-Lager","latitude":46.1125,"longitude":4.6736}}(window,'GeoPostal','FR');

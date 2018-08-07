@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6750"]={"code":"6750","region":"Luxembourg","city":"Musson","latitude":49.55681,"longitude":5.69952}}(window,'GeoPostal','BE');

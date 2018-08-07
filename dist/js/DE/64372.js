@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64372"]={"code":"64372","region":"Hessen","city":"Ober-Ramstadt","latitude":49.83078,"longitude":8.74887}}(window,'GeoPostal','DE');

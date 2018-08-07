@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["381 01"]={"code":"381 01","region":"Jihocesky kraj","city":"Cesky Krumlov","latitude":48.81091,"longitude":14.31521}}(window,'GeoPostal','CZ');

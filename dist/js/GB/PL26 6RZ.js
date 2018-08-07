@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PL26 6RZ"]={"code":"PL26 6RZ","region":"England","city":"Mevagissey","latitude":50.27324,"longitude":-4.79166}}(window,'GeoPostal','GB');

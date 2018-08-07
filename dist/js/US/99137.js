@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99137"]={"code":"99137","region":"Washington","city":"Hunters","latitude":48.154554,"longitude":-118.129276}}(window,'GeoPostal','US');

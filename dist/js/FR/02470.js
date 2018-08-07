@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02470"]={"code":"02470","region":"Hauts-de-France","city":"Neuilly-Saint-Front","latitude":49.17012,"longitude":3.26393}}(window,'GeoPostal','FR');

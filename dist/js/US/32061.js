@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32061"]={"code":"32061","region":"Florida","city":"Lulu","latitude":30.06771,"longitude":-82.55302}}(window,'GeoPostal','US');

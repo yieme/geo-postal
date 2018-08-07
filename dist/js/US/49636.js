@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49636"]={"code":"49636","region":"Michigan","city":"Glen Arbor","latitude":44.890265,"longitude":-85.965997}}(window,'GeoPostal','US');

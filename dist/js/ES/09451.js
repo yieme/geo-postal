@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["09451"]={"code":"09451","region":"Castilla y Leon","city":"Huerta del Rey","latitude":41.8391,"longitude":-3.34755}}(window,'GeoPostal','ES');

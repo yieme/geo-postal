@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["04808"]={"code":"04808","region":"Sachsen","city":"Voigtshain","latitude":51.40981,"longitude":12.8631}}(window,'GeoPostal','DE');

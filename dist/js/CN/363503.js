@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["363503"]={"code":"363503","region":"Fujian","city":"Lushikeng","latitude":23.76058,"longitude":117.25534}}(window,'GeoPostal','CN');

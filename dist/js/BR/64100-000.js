@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["64100-000"]={"code":"64100-000","region":"Piaui","city":"Barras","latitude":-4.24444,"longitude":-42.29444}}(window,'GeoPostal','BR');

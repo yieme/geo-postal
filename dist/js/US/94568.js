@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["94568"]={"code":"94568","region":"California","city":"Dublin","latitude":37.70215,"longitude":-121.93579}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO7 4PE"]={"code":"YO7 4PE","region":"England","city":"Baldersby","latitude":54.20192,"longitude":-1.45638}}(window,'GeoPostal','GB');

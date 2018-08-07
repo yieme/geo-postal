@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22437"]={"code":"22437","region":"VA","city":"Center Cross","latitude":37.7929,"longitude":-76.7548}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["S0A 4A0"]={"code":"S0A 4A0","region":"Saskatchewan","city":"Sturgis","latitude":51.93328,"longitude":-102.53425}}(window,'GeoPostal','CA');

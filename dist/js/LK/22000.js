@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["22000"]={"code":"22000","region":"Central Province","city":"Hatton","latitude":6.8916,"longitude":80.5955}}(window,'GeoPostal','LK');

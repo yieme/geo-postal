@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4000"]={"code":"4000","region":"Sjelland","city":"Roskilde","latitude":55.64152,"longitude":12.08035}}(window,'GeoPostal','DK');

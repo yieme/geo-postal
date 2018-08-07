@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0B 2C0"]={"code":"T0B 2C0","region":"Alberta","city":"Holden","latitude":53.23344,"longitude":-112.23514}}(window,'GeoPostal','CA');

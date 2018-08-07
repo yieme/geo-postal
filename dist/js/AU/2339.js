@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2339"]={"code":"2339","region":"New South Wales","city":"Willow Tree","latitude":-31.65,"longitude":150.71667}}(window,'GeoPostal','AU');

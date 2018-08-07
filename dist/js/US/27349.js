@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27349"]={"code":"27349","region":"NC","city":"Snow Camp","latitude":35.9066,"longitude":-79.4279}}(window,'GeoPostal','US');

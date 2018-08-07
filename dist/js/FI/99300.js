@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99300"]={"code":"99300","region":"Lappi","city":"Muonio","latitude":67.95,"longitude":23.7}}(window,'GeoPostal','FI');

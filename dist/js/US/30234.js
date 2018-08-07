@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30234"]={"code":"30234","region":"GA","city":"Jenkinsburg","latitude":33.3224,"longitude":-84.0287}}(window,'GeoPostal','US');

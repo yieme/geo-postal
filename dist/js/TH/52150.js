@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52150"]={"code":"52150","region":"Lampang","city":"Mae Tha","latitude":18.13411,"longitude":99.51389}}(window,'GeoPostal','TH');

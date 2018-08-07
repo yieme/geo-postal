@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE25 3QJ"]={"code":"PE25 3QJ","region":"England","city":"Skegness","latitude":53.14362,"longitude":0.3363}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3945"]={"code":"3945","region":"Niederosterreich","city":"Hoheneich","latitude":48.76667,"longitude":15.01667}}(window,'GeoPostal','AT');

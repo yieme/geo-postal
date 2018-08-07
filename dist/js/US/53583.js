@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53583"]={"code":"53583","region":"Wisconsin","city":"Sauk City","latitude":43.273219,"longitude":-89.734003}}(window,'GeoPostal','US');

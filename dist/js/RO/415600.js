@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["415600"]={"code":"415600","region":"Bihor","city":"Stei","latitude":46.534253,"longitude":22.463005}}(window,'GeoPostal','RO');

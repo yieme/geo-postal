@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31550"]={"code":"31550","region":"Georgia","city":"Manor","latitude":31.21389,"longitude":-82.355}}(window,'GeoPostal','US');

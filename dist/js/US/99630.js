@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99630"]={"code":"99630","region":"AK","city":"Mekoryuk","latitude":60.3657,"longitude":-166.2836}}(window,'GeoPostal','US');

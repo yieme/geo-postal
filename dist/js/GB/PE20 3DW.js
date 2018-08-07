@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE20 3DW"]={"code":"PE20 3DW","region":"England","city":"Bicker","latitude":52.92163,"longitude":-0.17956}}(window,'GeoPostal','GB');

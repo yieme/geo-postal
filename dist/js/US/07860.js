@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07860"]={"code":"07860","region":"New Jersey","city":"Newton","latitude":41.036057,"longitude":-74.76455}}(window,'GeoPostal','US');

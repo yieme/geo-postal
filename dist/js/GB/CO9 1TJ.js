@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 1TJ"]={"code":"CO9 1TJ","region":"England","city":"Gosfield","latitude":51.93657,"longitude":0.59197}}(window,'GeoPostal','GB');

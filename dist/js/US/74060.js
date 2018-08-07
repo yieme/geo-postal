@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74060"]={"code":"74060","region":"OK","city":"Prue","latitude":36.2501,"longitude":-96.2701}}(window,'GeoPostal','US');

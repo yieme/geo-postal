@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["86183"]={"code":"86183","region":"Donetska oblast","city":"Krinichnaya","latitude":48.12899,"longitude":38.02597}}(window,'GeoPostal','UA');

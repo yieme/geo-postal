@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16046"]={"code":"16046","region":"Pennsylvania","city":"Mars","latitude":40.6959,"longitude":-80.01173}}(window,'GeoPostal','US');

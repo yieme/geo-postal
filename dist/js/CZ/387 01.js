@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["387 01"]={"code":"387 01","region":"Jihocesky kraj","city":"Volyne","latitude":49.16578,"longitude":13.88624}}(window,'GeoPostal','CZ');

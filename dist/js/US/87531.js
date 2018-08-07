@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87531"]={"code":"87531","region":"NM","city":"Embudo","latitude":36.2153,"longitude":-105.8901}}(window,'GeoPostal','US');

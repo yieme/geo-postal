@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95362"]={"code":"95362","region":"Bayern","city":"Kupferberg","latitude":50.1396,"longitude":11.57762}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48723"]={"code":"48723","region":"Michigan","city":"Caro","latitude":43.49113,"longitude":-83.3969}}(window,'GeoPostal','US');

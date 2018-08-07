@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49229"]={"code":"49229","region":"MI","city":"Britton","latitude":41.9887,"longitude":-83.8377}}(window,'GeoPostal','US');

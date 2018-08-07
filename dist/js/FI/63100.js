@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63100"]={"code":"63100","region":"Etela-Pohjanmaa","city":"Kuortane","latitude":62.8,"longitude":23.5}}(window,'GeoPostal','FI');

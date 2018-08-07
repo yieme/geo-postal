@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KA7 2BZ"]={"code":"KA7 2BZ","region":"Scotland","city":"Alloway","latitude":55.43202,"longitude":-4.63301}}(window,'GeoPostal','GB');

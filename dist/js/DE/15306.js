@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15306"]={"code":"15306","region":"Brandenburg","city":"Neues Vorwerk","latitude":52.48333,"longitude":14.36667}}(window,'GeoPostal','DE');

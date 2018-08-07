@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35220"]={"code":"35220","region":"Brodsko-posavska zupanija","city":"Krusevica","latitude":45.0775,"longitude":18.48278}}(window,'GeoPostal','HR');

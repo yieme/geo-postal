@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LN10 6YS"]={"code":"LN10 6YS","region":"England","city":"Kirkby on Bain","latitude":53.14492,"longitude":-0.1454}}(window,'GeoPostal','GB');

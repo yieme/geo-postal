@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16027"]={"code":"16027","region":"PA","city":"Connoquenessing","latitude":40.8178,"longitude":-80.0142}}(window,'GeoPostal','US');

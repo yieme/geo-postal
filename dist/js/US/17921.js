@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17921"]={"code":"17921","region":"Pennsylvania","city":"Ashland","latitude":40.78175,"longitude":-76.34578}}(window,'GeoPostal','US');

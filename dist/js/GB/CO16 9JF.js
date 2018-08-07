@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO16 9JF"]={"code":"CO16 9JF","region":"England","city":"Weeley","latitude":51.85806,"longitude":1.1163}}(window,'GeoPostal','GB');

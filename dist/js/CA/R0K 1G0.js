@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["R0K 1G0"]={"code":"R0K 1G0","region":"Manitoba","city":"Killarney","latitude":49.18332,"longitude":-99.66364}}(window,'GeoPostal','CA');

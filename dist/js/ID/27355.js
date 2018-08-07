@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27355"]={"code":"27355","region":"Sumatera Barat","city":"Sulitair","latitude":-0.61258,"longitude":100.64788}}(window,'GeoPostal','ID');

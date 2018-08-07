@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78362"]={"code":"78362","region":"TX","city":"Ingleside","latitude":27.8682,"longitude":-97.2069}}(window,'GeoPostal','US');

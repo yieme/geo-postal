@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["EX20 4PN"]={"code":"EX20 4PN","region":"England","city":"Lewtrenchard","latitude":50.65396,"longitude":-4.1849}}(window,'GeoPostal','GB');

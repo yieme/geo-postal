@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13340"]={"code":"13340","region":"NY","city":"Frankfort","latitude":43.044,"longitude":-75.1072}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IV32 7LN"]={"code":"IV32 7LN","region":"Scotland","city":"Orbliston","latitude":57.6,"longitude":-3.15}}(window,'GeoPostal','GB');

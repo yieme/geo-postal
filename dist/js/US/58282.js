@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58282"]={"code":"58282","region":"North Dakota","city":"Walhalla","latitude":48.91614,"longitude":-97.89156}}(window,'GeoPostal','US');

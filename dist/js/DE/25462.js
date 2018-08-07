@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25462"]={"code":"25462","region":"Schleswig-Holstein","city":"Rellingen","latitude":53.65,"longitude":9.81667}}(window,'GeoPostal','DE');

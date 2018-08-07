@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99765"]={"code":"99765","region":"Thuringen","city":"Gorsbach","latitude":51.46224,"longitude":10.93706}}(window,'GeoPostal','DE');

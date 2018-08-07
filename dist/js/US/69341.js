@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69341"]={"code":"69341","region":"Nebraska","city":"Gering","latitude":41.80464,"longitude":-103.71696}}(window,'GeoPostal','US');

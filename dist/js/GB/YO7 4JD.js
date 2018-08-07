@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["YO7 4JD"]={"code":"YO7 4JD","region":"England","city":"Sinderby","latitude":54.23192,"longitude":-1.47209}}(window,'GeoPostal','GB');

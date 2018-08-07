@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67650"]={"code":"67650","region":"Grand-Est","city":"Dambach-la-Ville","latitude":48.32379,"longitude":7.42547}}(window,'GeoPostal','FR');

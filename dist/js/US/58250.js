@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58250"]={"code":"58250","region":"ND","city":"Lankin","latitude":48.2952,"longitude":-98.007}}(window,'GeoPostal','US');

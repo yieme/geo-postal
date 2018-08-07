@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36467"]={"code":"36467","region":"Alabama","city":"Opp","latitude":31.2855,"longitude":-86.26476}}(window,'GeoPostal','US');

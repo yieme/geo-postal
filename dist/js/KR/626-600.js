@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["626-600"]={"code":"626-600","region":"Gyeongsangnam-do","city":"Yangsan","latitude":35.33861,"longitude":129.03861}}(window,'GeoPostal','KR');

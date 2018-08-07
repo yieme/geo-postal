@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29010"]={"code":"29010","region":"Emilia-Romagna","city":"Rottofreno","latitude":45.05746,"longitude":9.54776}}(window,'GeoPostal','IT');

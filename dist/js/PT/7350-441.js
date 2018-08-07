@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["7350-441"]={"code":"7350-441","region":"Portalegre","city":"Elvas","latitude":38.8815,"longitude":-7.16282}}(window,'GeoPostal','PT');

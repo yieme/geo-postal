@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["83827"]={"code":"83827","region":"ID","city":"Elk River","latitude":46.7835,"longitude":-116.1799}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DL11 6AE"]={"code":"DL11 6AE","region":"England","city":"Downholme","latitude":54.37656,"longitude":-1.82648}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29649"]={"code":"29649","region":"Niedersachsen","city":"Wietzendorf","latitude":52.91667,"longitude":9.98333}}(window,'GeoPostal','DE');

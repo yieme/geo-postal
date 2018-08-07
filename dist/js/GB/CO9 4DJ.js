@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO9 4DJ"]={"code":"CO9 4DJ","region":"England","city":"Toppesfield","latitude":52.00811,"longitude":0.53129}}(window,'GeoPostal','GB');

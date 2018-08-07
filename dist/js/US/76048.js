@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76048"]={"code":"76048","region":"Texas","city":"Granbury","latitude":32.44208,"longitude":-97.7942}}(window,'GeoPostal','US');

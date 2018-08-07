@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["10615"]={"code":"10615","region":"Extremadura","city":"Piornal","latitude":40.11731,"longitude":-5.84787}}(window,'GeoPostal','ES');

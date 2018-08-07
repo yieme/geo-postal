@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["707251"]={"code":"707251","region":"Mures","city":"Cristesti","latitude":46.5,"longitude":24.48333}}(window,'GeoPostal','RO');

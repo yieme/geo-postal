@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["55568"]={"code":"55568","region":"Rheinland-Pfalz","city":"Lauschied","latitude":49.73333,"longitude":7.61667}}(window,'GeoPostal','DE');

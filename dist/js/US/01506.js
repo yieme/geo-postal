@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01506"]={"code":"01506","region":"MA","city":"Brookfield","latitude":42.1991,"longitude":-72.0989}}(window,'GeoPostal','US');

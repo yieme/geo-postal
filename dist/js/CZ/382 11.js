@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382 11"]={"code":"382 11","region":"Jihocesky kraj","city":"Vetrni","latitude":48.77425,"longitude":14.28616}}(window,'GeoPostal','CZ');

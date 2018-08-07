@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48551"]={"code":"48551","region":"MI","city":"Flint","latitude":42.979,"longitude":-83.7131}}(window,'GeoPostal','US');

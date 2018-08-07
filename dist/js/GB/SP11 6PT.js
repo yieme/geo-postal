@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SP11 6PT"]={"code":"SP11 6PT","region":"England","city":"Longparish","latitude":51.19728,"longitude":-1.3835}}(window,'GeoPostal','GB');

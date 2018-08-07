@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95987"]={"code":"95987","region":"California","city":"Williams","latitude":39.15461,"longitude":-122.14942}}(window,'GeoPostal','US');

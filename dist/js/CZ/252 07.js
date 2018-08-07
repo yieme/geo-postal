@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["252 07"]={"code":"252 07","region":"Stredocesky kraj","city":"Stechovice","latitude":49.85109,"longitude":14.40543}}(window,'GeoPostal','CZ');

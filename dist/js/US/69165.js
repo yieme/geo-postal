@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["69165"]={"code":"69165","region":"NE","city":"Sutherland","latitude":41.1557,"longitude":-101.136}}(window,'GeoPostal','US');

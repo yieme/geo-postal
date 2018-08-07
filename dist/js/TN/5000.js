@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5000"]={"code":"5000","region":"Monastir","city":"Monastir","latitude":35.78333,"longitude":10.83333}}(window,'GeoPostal','TN');

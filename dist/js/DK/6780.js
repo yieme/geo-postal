@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6780"]={"code":"6780","region":"Syddanmark","city":"Sherrebek","latitude":55.15735,"longitude":8.76901}}(window,'GeoPostal','DK');

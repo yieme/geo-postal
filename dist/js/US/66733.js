@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66733"]={"code":"66733","region":"Kansas","city":"Erie","latitude":37.56811,"longitude":-95.24331}}(window,'GeoPostal','US');

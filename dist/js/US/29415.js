@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["29415"]={"code":"29415","region":"SC","city":"North Charleston","latitude":32.8546,"longitude":-79.9748}}(window,'GeoPostal','US');

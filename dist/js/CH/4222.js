@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4222"]={"code":"4222","region":"Basel-Landschaft","city":"Zwingen","latitude":47.43825,"longitude":7.53027}}(window,'GeoPostal','CH');

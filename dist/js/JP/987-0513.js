@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["987-0513"]={"code":"987-0513","region":"Miyagi","city":"Tome","latitude":38.65,"longitude":141.283}}(window,'GeoPostal','JP');

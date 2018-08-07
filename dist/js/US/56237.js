@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56237"]={"code":"56237","region":"Minnesota","city":"Echo","latitude":44.61722,"longitude":-95.415}}(window,'GeoPostal','US');

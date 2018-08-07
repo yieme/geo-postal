@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PE31 8FB"]={"code":"PE31 8FB","region":"England","city":"Burnham Deepdale","latitude":52.96575,"longitude":0.68389}}(window,'GeoPostal','GB');

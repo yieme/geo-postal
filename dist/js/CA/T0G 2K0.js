@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["T0G 2K0"]={"code":"T0G 2K0","region":"Alberta","city":"Wabasca","latitude":55.98746,"longitude":-113.91913}}(window,'GeoPostal','CA');

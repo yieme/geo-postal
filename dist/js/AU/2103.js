@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2103"]={"code":"2103","region":"New South Wales","city":"Mona Vale","latitude":-33.67757,"longitude":151.30307}}(window,'GeoPostal','AU');

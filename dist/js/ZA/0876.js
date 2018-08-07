@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["0876"]={"code":"0876","region":"Limpopo","city":"Tzaneen","latitude":-23.83322,"longitude":30.16351}}(window,'GeoPostal','ZA');

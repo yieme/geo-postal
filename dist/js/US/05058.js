@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["05058"]={"code":"05058","region":"Vermont","city":"Post Mills","latitude":43.88556,"longitude":-72.26056}}(window,'GeoPostal','US');

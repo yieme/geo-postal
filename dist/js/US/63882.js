@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63882"]={"code":"63882","region":"MO","city":"Wyatt","latitude":36.9092,"longitude":-89.2226}}(window,'GeoPostal','US');

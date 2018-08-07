@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35078"]={"code":"35078","region":"AL","city":"Harpersville","latitude":33.3234,"longitude":-86.4424}}(window,'GeoPostal','US');

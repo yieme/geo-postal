@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48465"]={"code":"48465","region":"MI","city":"Palms","latitude":43.6257,"longitude":-82.7017}}(window,'GeoPostal','US');

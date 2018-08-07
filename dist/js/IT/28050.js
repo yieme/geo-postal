@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28050"]={"code":"28050","region":"Piemonte","city":"Pombia","latitude":45.65297,"longitude":8.63363}}(window,'GeoPostal','IT');

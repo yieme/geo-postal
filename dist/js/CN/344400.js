@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["344400"]={"code":"344400","region":"Jiangxi","city":"Fenggang","latitude":27.54566,"longitude":116.21456}}(window,'GeoPostal','CN');

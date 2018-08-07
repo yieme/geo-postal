@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["53520"]={"code":"53520","region":"WI","city":"Brodhead","latitude":42.6111,"longitude":-89.3714}}(window,'GeoPostal','US');

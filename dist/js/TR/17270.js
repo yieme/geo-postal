@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17270"]={"code":"17270","region":"Canakkale","city":"Biga","latitude":40.22806,"longitude":27.24222}}(window,'GeoPostal','TR');

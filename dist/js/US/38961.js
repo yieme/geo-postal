@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38961"]={"code":"38961","region":"Mississippi","city":"Tillatoba","latitude":33.98444,"longitude":-89.89694}}(window,'GeoPostal','US');

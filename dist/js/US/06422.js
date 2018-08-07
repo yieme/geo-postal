@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["06422"]={"code":"06422","region":"CT","city":"Durham","latitude":41.465,"longitude":-72.6875}}(window,'GeoPostal','US');

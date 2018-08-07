@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CA16 6NX"]={"code":"CA16 6NX","region":"England","city":"Warcop","latitude":54.53572,"longitude":-2.39107}}(window,'GeoPostal','GB');

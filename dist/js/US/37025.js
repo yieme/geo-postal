@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["37025"]={"code":"37025","region":"TN","city":"Bon Aqua","latitude":35.9471,"longitude":-87.2996}}(window,'GeoPostal','US');

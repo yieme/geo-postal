@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27020"]={"code":"27020","region":"NC","city":"Hamptonville","latitude":36.1242,"longitude":-80.8137}}(window,'GeoPostal','US');

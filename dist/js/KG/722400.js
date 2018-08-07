@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["722400"]={"code":"722400","region":"Ysyk-Kol","city":"Tyup","latitude":42.72681,"longitude":78.36582}}(window,'GeoPostal','KG');

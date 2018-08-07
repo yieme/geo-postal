@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72010"]={"code":"72010","region":"Sindh","city":"Matli","latitude":25.04312,"longitude":68.65568}}(window,'GeoPostal','PK');

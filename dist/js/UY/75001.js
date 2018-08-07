@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75001"]={"code":"75001","region":"Soriano","city":"Palmitas","latitude":-33.51667,"longitude":-57.83333}}(window,'GeoPostal','UY');

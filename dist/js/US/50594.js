@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50594"]={"code":"50594","region":"IA","city":"Vincent","latitude":42.5623,"longitude":-94.0335}}(window,'GeoPostal','US');

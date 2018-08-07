@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99723"]={"code":"99723","region":"Alaska","city":"Barrow","latitude":71.29058,"longitude":-156.78872}}(window,'GeoPostal','US');

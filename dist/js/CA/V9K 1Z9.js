@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["V9K 1Z9"]={"code":"V9K 1Z9","region":"British Columbia","city":"Dunsmuir","latitude":49.38293,"longitude":-124.60279}}(window,'GeoPostal','CA');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24248"]={"code":"24248","region":"Virginia","city":"Ewing","latitude":36.627614,"longitude":-83.513513}}(window,'GeoPostal','US');

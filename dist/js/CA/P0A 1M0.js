@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["P0A 1M0"]={"code":"P0A 1M0","region":"Ontario","city":"Kearney","latitude":45.5501,"longitude":-79.21634}}(window,'GeoPostal','CA');

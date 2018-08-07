@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-346"]={"code":"72-346","region":"Zachodniopomorskie","city":"Pobierowo","latitude":54.061,"longitude":14.93282}}(window,'GeoPostal','PL');

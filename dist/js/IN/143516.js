@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["143516"]={"code":"143516","region":"Punjab","city":"Qadian","latitude":31.81778,"longitude":75.39194}}(window,'GeoPostal','IN');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71264"]={"code":"71264","region":"LA","city":"Oak Ridge","latitude":32.6243,"longitude":-91.7618}}(window,'GeoPostal','US');

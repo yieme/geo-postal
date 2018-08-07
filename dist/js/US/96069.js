@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["96069"]={"code":"96069","region":"CA","city":"Oak Run","latitude":40.6863,"longitude":-122.0409}}(window,'GeoPostal','US');

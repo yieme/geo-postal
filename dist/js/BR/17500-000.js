@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17500-000"]={"code":"17500-000","region":"Sao Paulo","city":"Marilia","latitude":-22.21389,"longitude":-49.94583}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["391 55"]={"code":"391 55","region":"Jihocesky kraj","city":"Chynov","latitude":49.40677,"longitude":14.81122}}(window,'GeoPostal','CZ');

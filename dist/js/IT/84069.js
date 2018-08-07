@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["84069"]={"code":"84069","region":"Campania","city":"Roccadaspide","latitude":40.42541,"longitude":15.19206}}(window,'GeoPostal','IT');

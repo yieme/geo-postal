@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["187651"]={"code":"187651","region":"Leningradskaya oblast'","city":"Boksitogorsk","latitude":59.47405,"longitude":33.84853}}(window,'GeoPostal','RU');

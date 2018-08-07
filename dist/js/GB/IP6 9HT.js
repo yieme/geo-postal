@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP6 9HT"]={"code":"IP6 9HT","region":"England","city":"Witnesham","latitude":52.10507,"longitude":1.1855}}(window,'GeoPostal','GB');

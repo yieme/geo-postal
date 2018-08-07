@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6380"]={"code":"6380","region":"La Pampa","city":"Eduardo Castex","latitude":-35.91501,"longitude":-64.29448}}(window,'GeoPostal','AR');

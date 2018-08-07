@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["110802"]={"code":"110802","region":"Loja","city":"Macara","latitude":-4.38333,"longitude":-79.95}}(window,'GeoPostal','EC');

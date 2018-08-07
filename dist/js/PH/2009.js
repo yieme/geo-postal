@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2009"]={"code":"2009","region":"Pampanga","city":"Angeles City","latitude":15.15,"longitude":120.58333}}(window,'GeoPostal','PH');

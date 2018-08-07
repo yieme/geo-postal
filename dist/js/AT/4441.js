@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4441"]={"code":"4441","region":"Niederosterreich","city":"Behamberg","latitude":48.01667,"longitude":14.48333}}(window,'GeoPostal','AT');

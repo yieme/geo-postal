@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39330"]={"code":"39330","region":"Bourgogne-Franche-Comte","city":"Mouchard","latitude":46.97259,"longitude":5.79626}}(window,'GeoPostal','FR');

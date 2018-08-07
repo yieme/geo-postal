@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49752"]={"code":"49752","region":"MI","city":"Kinross","latitude":46.275,"longitude":-84.5148}}(window,'GeoPostal','US');

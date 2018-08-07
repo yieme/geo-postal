@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48383"]={"code":"48383","region":"Michigan","city":"White Lake","latitude":42.659594,"longitude":-83.541564}}(window,'GeoPostal','US');

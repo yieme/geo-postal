@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62015"]={"code":"62015","region":"Illinois","city":"Butler","latitude":39.221026,"longitude":-89.531337}}(window,'GeoPostal','US');

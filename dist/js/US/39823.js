@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39823"]={"code":"39823","region":"Georgia","city":"Blakely","latitude":31.37768,"longitude":-84.93409}}(window,'GeoPostal','US');

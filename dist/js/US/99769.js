@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99769"]={"code":"99769","region":"Alaska","city":"Savoonga","latitude":63.69667,"longitude":-170.46083}}(window,'GeoPostal','US');

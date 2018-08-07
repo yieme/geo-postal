@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["9751"]={"code":"9751","region":"Finnmark","city":"Honningsvag","latitude":70.98209,"longitude":25.97037}}(window,'GeoPostal','NO');

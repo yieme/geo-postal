@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["16053"]={"code":"16053","region":"Gharb-Chrarda-Beni Hssen","city":"Had Kourt","latitude":34.61588,"longitude":-5.7404}}(window,'GeoPostal','MA');

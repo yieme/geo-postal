@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["27244"]={"code":"27244","region":"North Carolina","city":"Elon","latitude":36.131463,"longitude":-79.508142}}(window,'GeoPostal','US');

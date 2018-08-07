@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["07110"]={"code":"07110","region":"Auvergne-Rhone-Alpes","city":"Largentiere","latitude":44.53333,"longitude":4.3}}(window,'GeoPostal','FR');

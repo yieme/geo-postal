@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70552"]={"code":"70552","region":"LA","city":"Loreauville","latitude":30.0683,"longitude":-91.6596}}(window,'GeoPostal','US');

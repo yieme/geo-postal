@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["768 21"]={"code":"768 21","region":"Zlinsky kraj","city":"Kvasice","latitude":49.24223,"longitude":17.46974}}(window,'GeoPostal','CZ');

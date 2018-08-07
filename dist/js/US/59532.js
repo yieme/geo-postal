@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59532"]={"code":"59532","region":"MT","city":"Kremlin","latitude":48.56,"longitude":-110.0513}}(window,'GeoPostal','US');

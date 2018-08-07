@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70719"]={"code":"70719","region":"LA","city":"Brusly","latitude":30.3877,"longitude":-91.2526}}(window,'GeoPostal','US');

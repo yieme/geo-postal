@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32459"]={"code":"32459","region":"Galicia","city":"Castrelo de Mino","latitude":42.29798,"longitude":-8.06697}}(window,'GeoPostal','ES');

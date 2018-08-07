@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98223"]={"code":"98223","region":"Washington","city":"Arlington","latitude":48.19871,"longitude":-122.12514}}(window,'GeoPostal','US');

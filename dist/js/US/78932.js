@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78932"]={"code":"78932","region":"Texas","city":"Carmine","latitude":30.14917,"longitude":-96.68833}}(window,'GeoPostal','US');

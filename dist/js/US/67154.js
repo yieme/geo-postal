@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67154"]={"code":"67154","region":"Kansas","city":"Whitewater","latitude":37.963649,"longitude":-97.145567}}(window,'GeoPostal','US');

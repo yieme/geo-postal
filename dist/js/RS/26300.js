@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["26300"]={"code":"26300","region":"Juznobanatski okrug","city":"Vrsac","latitude":45.11667,"longitude":21.30361}}(window,'GeoPostal','RS');

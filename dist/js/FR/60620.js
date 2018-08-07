@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60620"]={"code":"60620","region":"Hauts-de-France","city":"Betz","latitude":49.15558,"longitude":2.95584}}(window,'GeoPostal','FR');

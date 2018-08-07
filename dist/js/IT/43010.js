@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["43010"]={"code":"43010","region":"Emilia-Romagna","city":"Fontevivo","latitude":44.85876,"longitude":10.17518}}(window,'GeoPostal','IT');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58239"]={"code":"58239","region":"ND","city":"Hannah","latitude":48.9594,"longitude":-98.7237}}(window,'GeoPostal','US');

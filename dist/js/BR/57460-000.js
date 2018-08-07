@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["57460-000"]={"code":"57460-000","region":"Sergipe","city":"Caninde de Sao Francisco","latitude":-9.66,"longitude":-37.78944}}(window,'GeoPostal','BR');

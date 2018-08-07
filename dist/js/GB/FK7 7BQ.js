@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["FK7 7BQ"]={"code":"FK7 7BQ","region":"Scotland","city":"Cowie","latitude":56.06667,"longitude":-3.86667}}(window,'GeoPostal','GB');

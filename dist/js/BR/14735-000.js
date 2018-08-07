@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["14735-000"]={"code":"14735-000","region":"Sao Paulo","city":"Severinia","latitude":-20.80944,"longitude":-48.80278}}(window,'GeoPostal','BR');

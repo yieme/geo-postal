@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3860"]={"code":"3860","region":"Victoria","city":"Briagolong","latitude":-37.84356,"longitude":147.07268}}(window,'GeoPostal','AU');

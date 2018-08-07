@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["52355"]={"code":"52355","region":"Nordrhein-Westfalen","city":"Stepprath","latitude":50.76794,"longitude":6.52082}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8842"]={"code":"8842","region":"Schwyz","city":"Unteriberg","latitude":47.05,"longitude":8.78333}}(window,'GeoPostal','CH');

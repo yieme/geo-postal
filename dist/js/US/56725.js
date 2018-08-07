@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56725"]={"code":"56725","region":"Minnesota","city":"Goodridge","latitude":48.14389,"longitude":-95.80583}}(window,'GeoPostal','US');

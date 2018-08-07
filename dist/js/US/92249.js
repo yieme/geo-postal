@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["92249"]={"code":"92249","region":"California","city":"Heber","latitude":32.726069,"longitude":-115.496955}}(window,'GeoPostal','US');

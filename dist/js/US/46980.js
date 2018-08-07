@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46980"]={"code":"46980","region":"IN","city":"Servia","latitude":40.9567,"longitude":-85.7405}}(window,'GeoPostal','US');

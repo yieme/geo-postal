@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20207"]={"code":"20207","region":"Dubrovacko-neretvanska zupanija","city":"Cibaca","latitude":42.62889,"longitude":18.17111}}(window,'GeoPostal','HR');

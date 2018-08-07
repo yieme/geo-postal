@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75416"]={"code":"75416","region":"Texas","city":"Blossom","latitude":33.649993,"longitude":-95.41924}}(window,'GeoPostal','US');

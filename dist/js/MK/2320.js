@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2320"]={"code":"2320","region":"Delcevo","city":"Delchevo","latitude":41.96722,"longitude":22.76944}}(window,'GeoPostal','MK');

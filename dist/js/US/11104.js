@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11104"]={"code":"11104","region":"New York","city":"Queensbury","latitude":40.743,"longitude":-73.91922}}(window,'GeoPostal','US');

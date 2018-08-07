@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["1220"]={"code":"1220","region":"Bogovinje","city":"Bogovinje","latitude":41.92361,"longitude":20.91361}}(window,'GeoPostal','MK');

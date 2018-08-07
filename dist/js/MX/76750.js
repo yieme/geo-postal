@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76750"]={"code":"76750","region":"Queretaro","city":"Tequisquiapan","latitude":20.51667,"longitude":-99.86667}}(window,'GeoPostal','MX');

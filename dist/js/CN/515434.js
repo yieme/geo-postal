@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["515434"]={"code":"515434","region":"Guangdong","city":"Jinhe","latitude":23.43099,"longitude":116.04575}}(window,'GeoPostal','CN');

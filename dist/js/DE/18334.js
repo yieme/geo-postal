@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18334"]={"code":"18334","region":"Mecklenburg-Vorpommern","city":"Langsdorf","latitude":54.07928,"longitude":12.72208}}(window,'GeoPostal','DE');

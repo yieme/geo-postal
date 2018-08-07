@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71000"]={"code":"71000","region":"Prizrenski okrug","city":"Kacanik","latitude":42.23194,"longitude":21.25944}}(window,'GeoPostal','RS');

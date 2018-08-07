@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02254"]={"code":"02254","region":"Massachusetts","city":"Waltham","latitude":42.4464,"longitude":-71.4594}}(window,'GeoPostal','US');

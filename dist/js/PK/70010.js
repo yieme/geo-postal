@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["70010"]={"code":"70010","region":"Sindh","city":"Tando Allahyar","latitude":25.46263,"longitude":68.71923}}(window,'GeoPostal','PK');

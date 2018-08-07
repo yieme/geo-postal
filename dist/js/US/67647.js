@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67647"]={"code":"67647","region":"Kansas","city":"Long Island","latitude":39.960831,"longitude":-99.55435}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["62971"]={"code":"62971","region":"IL","city":"Oraville","latitude":37.8651,"longitude":-89.3834}}(window,'GeoPostal','US');

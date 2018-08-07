@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["20139"]={"code":"20139","region":"VA","city":"Casanova","latitude":38.6543,"longitude":-77.7025}}(window,'GeoPostal','US');

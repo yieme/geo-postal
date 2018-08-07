@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6260"]={"code":"6260","region":"Western Australia","city":"Pemberton","latitude":-34.44311,"longitude":116.03689}}(window,'GeoPostal','AU');

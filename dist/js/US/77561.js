@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77561"]={"code":"77561","region":"Texas","city":"Hardin","latitude":30.149958,"longitude":-94.736431}}(window,'GeoPostal','US');

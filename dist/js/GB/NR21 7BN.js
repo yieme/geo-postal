@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR21 7BN"]={"code":"NR21 7BN","region":"England","city":"Helhoughton","latitude":52.80359,"longitude":0.76989}}(window,'GeoPostal','GB');

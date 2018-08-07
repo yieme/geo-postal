@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5928"]={"code":"5928","region":"Limburg","city":"Venlo","latitude":51.37,"longitude":6.16806}}(window,'GeoPostal','NL');

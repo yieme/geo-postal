@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["691601"]={"code":"691601","region":"Kerala","city":"Punalur","latitude":9,"longitude":76.93333}}(window,'GeoPostal','IN');

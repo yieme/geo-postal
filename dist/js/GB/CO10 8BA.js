@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["CO10 8BA"]={"code":"CO10 8BA","region":"England","city":"Cavendish","latitude":52.08721,"longitude":0.63352}}(window,'GeoPostal','GB');

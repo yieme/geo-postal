@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13045"]={"code":"13045","region":"New York","city":"Cortland","latitude":42.60118,"longitude":-76.18048}}(window,'GeoPostal','US');

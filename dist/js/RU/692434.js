@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["692434"]={"code":"692434","region":"Primorskiy kray","city":"Rudnaya Pristan'","latitude":44.3614,"longitude":135.8116}}(window,'GeoPostal','RU');

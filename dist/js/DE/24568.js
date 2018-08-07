@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["24568"]={"code":"24568","region":"Schleswig-Holstein","city":"Kampen","latitude":53.85548,"longitude":9.93567}}(window,'GeoPostal','DE');

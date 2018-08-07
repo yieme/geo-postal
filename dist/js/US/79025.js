@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79025"]={"code":"79025","region":"Texas","city":"Dawn","latitude":34.90926,"longitude":-102.20204}}(window,'GeoPostal','US');

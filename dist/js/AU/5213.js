@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["5213"]={"code":"5213","region":"South Australia","city":"Middleton","latitude":-35.50879,"longitude":138.72076}}(window,'GeoPostal','AU');

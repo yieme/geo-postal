@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["46536"]={"code":"46536","region":"IN","city":"Lakeville","latitude":41.5253,"longitude":-86.2714}}(window,'GeoPostal','US');

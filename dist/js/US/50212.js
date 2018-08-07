@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["50212"]={"code":"50212","region":"Iowa","city":"Ogden","latitude":42.03928,"longitude":-94.029247}}(window,'GeoPostal','US');

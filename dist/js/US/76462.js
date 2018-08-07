@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76462"]={"code":"76462","region":"TX","city":"Lipan","latitude":32.5072,"longitude":-97.9536}}(window,'GeoPostal','US');

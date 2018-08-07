@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8741"]={"code":"8741","region":"Steiermark","city":"Weisskirchen in Steiermark","latitude":47.15,"longitude":14.73333}}(window,'GeoPostal','AT');

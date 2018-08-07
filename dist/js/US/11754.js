@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11754"]={"code":"11754","region":"New York","city":"Kings Park","latitude":40.884833,"longitude":-73.242876}}(window,'GeoPostal','US');

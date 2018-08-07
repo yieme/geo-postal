@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["87380"]={"code":"87380","region":"Nouvelle-Aquitaine","city":"Saint-Germain-les-Belles","latitude":45.61356,"longitude":1.4949}}(window,'GeoPostal','FR');

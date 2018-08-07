@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["352830"]={"code":"352830","region":"Krasnodarskiy kray","city":"Agoy","latitude":44.1466,"longitude":39.0373}}(window,'GeoPostal','RU');

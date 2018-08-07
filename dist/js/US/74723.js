@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["74723"]={"code":"74723","region":"Oklahoma","city":"Bennington","latitude":33.99828,"longitude":-96.01392}}(window,'GeoPostal','US');

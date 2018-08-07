@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35677"]={"code":"35677","region":"AL","city":"Waterloo","latitude":34.9357,"longitude":-87.9624}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["59538"]={"code":"59538","region":"Montana","city":"Malta","latitude":48.35972,"longitude":-107.87428}}(window,'GeoPostal','US');

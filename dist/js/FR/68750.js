@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68750"]={"code":"68750","region":"Grand-Est","city":"Bergheim","latitude":48.2054,"longitude":7.36299}}(window,'GeoPostal','FR');

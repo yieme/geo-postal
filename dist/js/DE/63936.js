@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63936"]={"code":"63936","region":"Baden-Wurttemberg","city":"Gerolzahn","latitude":49.6253,"longitude":9.31956}}(window,'GeoPostal','DE');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["TA7 9JU"]={"code":"TA7 9JU","region":"England","city":"Edington","latitude":51.15472,"longitude":-2.87722}}(window,'GeoPostal','GB');

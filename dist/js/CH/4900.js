@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4900"]={"code":"4900","region":"Bern","city":"Langenthal","latitude":47.21526,"longitude":7.79607}}(window,'GeoPostal','CH');

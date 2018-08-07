@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["315604"]={"code":"315604","region":"Zhejiang","city":"Yishi","latitude":29.19944,"longitude":121.47472}}(window,'GeoPostal','CN');

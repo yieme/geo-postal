@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["75969"]={"code":"75969","region":"TX","city":"Pollok","latitude":31.4291,"longitude":-94.8254}}(window,'GeoPostal','US');

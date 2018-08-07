@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["471 24"]={"code":"471 24","region":"Liberecky kraj","city":"Mimon","latitude":50.65869,"longitude":14.72474}}(window,'GeoPostal','CZ');

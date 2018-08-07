@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["312300"]={"code":"312300","region":"Zhejiang","city":"Shangyu","latitude":30.01556,"longitude":120.87111}}(window,'GeoPostal','CN');

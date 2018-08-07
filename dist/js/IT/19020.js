@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["19020"]={"code":"19020","region":"Liguria","city":"Borghetto di Vara","latitude":44.22368,"longitude":9.72118}}(window,'GeoPostal','IT');

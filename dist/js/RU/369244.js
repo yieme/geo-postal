@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["369244"]={"code":"369244","region":"Karachayevo-Cherkesskaya Respublika","city":"Pravokubanskiy","latitude":43.91721,"longitude":41.88413}}(window,'GeoPostal','RU');

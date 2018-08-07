@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["368500"]={"code":"368500","region":"Dagestan, Respublika","city":"Izberbash","latitude":42.56955,"longitude":47.86447}}(window,'GeoPostal','RU');

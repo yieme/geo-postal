@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["08078"]={"code":"08078","region":"NJ","city":"Runnemede","latitude":39.8508,"longitude":-75.0742}}(window,'GeoPostal','US');

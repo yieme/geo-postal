@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99747"]={"code":"99747","region":"Alaska","city":"Kaktovik","latitude":69.877491,"longitude":-143.680816}}(window,'GeoPostal','US');

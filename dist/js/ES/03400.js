@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03400"]={"code":"03400","region":"Valenciana, Comunidad","city":"Villena","latitude":38.6373,"longitude":-0.86568}}(window,'GeoPostal','ES');

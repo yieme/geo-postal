@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["99569"]={"code":"99569","region":"AK","city":"Clarks Point","latitude":58.8173,"longitude":-158.5299}}(window,'GeoPostal','US');

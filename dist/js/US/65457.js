@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["65457"]={"code":"65457","region":"MO","city":"Devils Elbow","latitude":37.8512,"longitude":-92.0569}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31313"]={"code":"31313","region":"Navarra, Comunidad Foral de","city":"Murillo El Fruto","latitude":42.393189,"longitude":-1.459178}}(window,'GeoPostal','ES');

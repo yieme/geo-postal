@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44630"]={"code":"44630","region":"Pays-de-la-Loire","city":"Plesse","latitude":47.5418,"longitude":-1.88609}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LL24 0UG"]={"code":"LL24 0UG","region":"Wales","city":"Penmachno","latitude":53.03875,"longitude":-3.80699}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 03"]={"code":"289 03","region":"Stredocesky kraj","city":"Mestec Kralove","latitude":50.20718,"longitude":15.29758}}(window,'GeoPostal','CZ');

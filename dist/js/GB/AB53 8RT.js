@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["AB53 8RT"]={"code":"AB53 8RT","region":"Scotland","city":"Tifty","latitude":57.45,"longitude":-2.36667}}(window,'GeoPostal','GB');

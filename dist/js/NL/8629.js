@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8629"]={"code":"8629","region":"Fryslan","city":"Scharnegoutum","latitude":53.06051,"longitude":5.67822}}(window,'GeoPostal','NL');

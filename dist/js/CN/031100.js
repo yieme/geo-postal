@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["031100"]={"code":"031100","region":"Shanxi","city":"Pingyao","latitude":37.2,"longitude":112.15}}(window,'GeoPostal','CN');

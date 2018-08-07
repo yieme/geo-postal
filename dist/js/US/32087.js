@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["32087"]={"code":"32087","region":"Florida","city":"Sanderson","latitude":30.20633,"longitude":-82.430491}}(window,'GeoPostal','US');

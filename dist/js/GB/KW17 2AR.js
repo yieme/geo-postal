@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["KW17 2AR"]={"code":"KW17 2AR","region":"Scotland","city":"Whitehall","latitude":59.15,"longitude":-2.61667}}(window,'GeoPostal','GB');

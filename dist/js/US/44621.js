@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["44621"]={"code":"44621","region":"OH","city":"Dennison","latitude":40.4089,"longitude":-81.3203}}(window,'GeoPostal','US');

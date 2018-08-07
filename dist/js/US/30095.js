@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30095"]={"code":"30095","region":"GA","city":"Duluth","latitude":34.0256,"longitude":-84.1304}}(window,'GeoPostal','US');

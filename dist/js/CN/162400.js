@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["162400"]={"code":"162400","region":"Heilongjiang","city":"Tailai","latitude":46.38333,"longitude":123.4}}(window,'GeoPostal','CN');

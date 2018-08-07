@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77660"]={"code":"77660","region":"Ile-de-France","city":"Saint-Jean-les-Deux-Jumeaux","latitude":48.9514,"longitude":3.01959}}(window,'GeoPostal','FR');

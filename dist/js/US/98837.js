@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98837"]={"code":"98837","region":"Washington","city":"Moses Lake","latitude":47.12839,"longitude":-119.294637}}(window,'GeoPostal','US');

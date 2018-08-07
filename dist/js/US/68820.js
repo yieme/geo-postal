@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68820"]={"code":"68820","region":"NE","city":"Boelus","latitude":41.1003,"longitude":-98.6976}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HD8 8EA"]={"code":"HD8 8EA","region":"England","city":"Huddersfield","latitude":53.64904,"longitude":-1.78416}}(window,'GeoPostal','GB');

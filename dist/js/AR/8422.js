@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8422"]={"code":"8422","region":"Rio Negro","city":"Maquinchao","latitude":-41.25,"longitude":-68.73333}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["382875"]={"code":"382875","region":"Gujarat","city":"Himatnagar","latitude":23.6,"longitude":72.95}}(window,'GeoPostal','IN');

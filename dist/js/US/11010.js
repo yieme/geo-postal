@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11010"]={"code":"11010","region":"New York","city":"Franklin Square","latitude":40.700558,"longitude":-73.675958}}(window,'GeoPostal','US');

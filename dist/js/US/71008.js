@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71008"]={"code":"71008","region":"LA","city":"Bienville","latitude":32.2523,"longitude":-92.9084}}(window,'GeoPostal','US');

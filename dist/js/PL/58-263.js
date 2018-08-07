@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58-263"]={"code":"58-263","region":"Dolnoslaskie","city":"Bielawa","latitude":50.69075,"longitude":16.623}}(window,'GeoPostal','PL');

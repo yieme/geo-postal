@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["NR16 2PB"]={"code":"NR16 2PB","region":"England","city":"Eccles","latitude":52.46667,"longitude":0.96667}}(window,'GeoPostal','GB');

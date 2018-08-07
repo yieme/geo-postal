@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WR10 3DR"]={"code":"WR10 3DR","region":"England","city":"Great Comberton","latitude":52.07805,"longitude":-2.06693}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54101"]={"code":"54101","region":"Etela-Karjala","city":"Joutseno","latitude":61.11796,"longitude":28.50763}}(window,'GeoPostal','FI');

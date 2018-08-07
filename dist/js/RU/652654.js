@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["652654"]={"code":"652654","region":"Kemerovskaya oblast'","city":"Krasnogorskiy","latitude":54.5471,"longitude":86.281}}(window,'GeoPostal','RU');

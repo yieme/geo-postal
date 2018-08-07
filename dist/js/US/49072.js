@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["49072"]={"code":"49072","region":"MI","city":"Mendon","latitude":42.0143,"longitude":-85.4727}}(window,'GeoPostal','US');

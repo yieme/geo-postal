@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["28250"]={"code":"28250","region":"Centre-Val de Loire","city":"Senonches","latitude":48.55999,"longitude":1.03069}}(window,'GeoPostal','FR');

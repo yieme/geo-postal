@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["81305"]={"code":"81305","region":"Occitanie","city":"Graulhet","latitude":43.76688,"longitude":1.98938}}(window,'GeoPostal','FR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["13812"]={"code":"13812","region":"NY","city":"Nichols","latitude":42.0301,"longitude":-76.354}}(window,'GeoPostal','US');

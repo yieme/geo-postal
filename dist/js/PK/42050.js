@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["42050"]={"code":"42050","region":"Punjab","city":"Kundian","latitude":32.45872,"longitude":71.47754}}(window,'GeoPostal','PK');

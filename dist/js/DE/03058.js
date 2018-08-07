@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03058"]={"code":"03058","region":"Brandenburg","city":"Gablenz","latitude":51.68646,"longitude":14.50944}}(window,'GeoPostal','DE');

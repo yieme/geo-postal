@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["8316"]={"code":"8316","region":"Neuquen","city":"Senillosa","latitude":-39,"longitude":-68.41667}}(window,'GeoPostal','AR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["243240"]={"code":"243240","region":"Bryanskaya oblast'","city":"Starodub","latitude":52.58444,"longitude":32.76333}}(window,'GeoPostal','RU');

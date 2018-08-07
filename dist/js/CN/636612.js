@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["636612"]={"code":"636612","region":"Sichuan","city":"Shahe","latitude":32.203,"longitude":106.72577}}(window,'GeoPostal','CN');

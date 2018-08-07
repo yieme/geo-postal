@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["39100"]={"code":"39100","region":"Punjab","city":"Nankana Sahib","latitude":31.4475,"longitude":73.69722}}(window,'GeoPostal','PK');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3053"]={"code":"3053","region":"Victoria","city":"Carlton","latitude":-37.80042,"longitude":144.96842}}(window,'GeoPostal','AU');

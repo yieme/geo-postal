@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["DT11 0BL"]={"code":"DT11 0BL","region":"England","city":"Milton Abbas","latitude":50.81596,"longitude":-2.27469}}(window,'GeoPostal','GB');

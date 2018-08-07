@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63655"]={"code":"63655","region":"MO","city":"Marquand","latitude":37.4274,"longitude":-90.1741}}(window,'GeoPostal','US');

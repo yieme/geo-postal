@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["15673"]={"code":"15673","region":"PA","city":"North Apollo","latitude":40.593,"longitude":-79.5581}}(window,'GeoPostal','US');

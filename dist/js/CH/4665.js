@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4665"]={"code":"4665","region":"Aargau","city":"Oftringen","latitude":47.31667,"longitude":7.91667}}(window,'GeoPostal','CH');

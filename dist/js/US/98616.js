@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98616"]={"code":"98616","region":"Washington","city":"Cougar","latitude":46.053361,"longitude":-122.296157}}(window,'GeoPostal','US');

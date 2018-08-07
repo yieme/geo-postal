@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["2627"]={"code":"2627","region":"North-West","city":"Orkney","latitude":-26.98023,"longitude":26.67272}}(window,'GeoPostal','ZA');

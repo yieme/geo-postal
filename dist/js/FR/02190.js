@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["02190"]={"code":"02190","region":"Hauts-de-France","city":"Guignicourt","latitude":49.43714,"longitude":3.96756}}(window,'GeoPostal','FR');

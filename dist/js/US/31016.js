@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["31016"]={"code":"31016","region":"Georgia","city":"Culloden","latitude":32.775357,"longitude":-84.185223}}(window,'GeoPostal','US');

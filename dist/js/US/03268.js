@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["03268"]={"code":"03268","region":"NH","city":"Salisbury","latitude":43.4067,"longitude":-71.7045}}(window,'GeoPostal','US');

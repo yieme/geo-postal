@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3882"]={"code":"3882","region":"Victoria","city":"Nicholson","latitude":-37.81667,"longitude":147.73333}}(window,'GeoPostal','AU');

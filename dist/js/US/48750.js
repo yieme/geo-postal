@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48750"]={"code":"48750","region":"Michigan","city":"Oscoda","latitude":44.42028,"longitude":-83.33083}}(window,'GeoPostal','US');

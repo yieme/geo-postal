@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3364"]={"code":"3364","region":"Misiones","city":"San Vicente","latitude":-26.61667,"longitude":-54.13333}}(window,'GeoPostal','AR');

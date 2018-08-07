@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["11975"]={"code":"11975","region":"NY","city":"Wainscott","latitude":40.9396,"longitude":-72.2425}}(window,'GeoPostal','US');

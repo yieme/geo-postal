@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["79113"]={"code":"79113","region":"Kalimantan Barat","city":"Singkawang","latitude":0.9,"longitude":109}}(window,'GeoPostal','ID');

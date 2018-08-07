@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA34 0JD"]={"code":"SA34 0JD","region":"Wales","city":"Blaenwaun","latitude":51.91444,"longitude":-4.56667}}(window,'GeoPostal','GB');

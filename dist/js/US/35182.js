@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["35182"]={"code":"35182","region":"AL","city":"Wattsville","latitude":33.7068,"longitude":-86.2567}}(window,'GeoPostal','US');

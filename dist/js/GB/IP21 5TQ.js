@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["IP21 5TQ"]={"code":"IP21 5TQ","region":"England","city":"Weybread","latitude":52.37439,"longitude":1.29587}}(window,'GeoPostal','GB');

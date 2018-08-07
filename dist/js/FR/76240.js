@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["76240"]={"code":"76240","region":"Normandie","city":"Le Mesnil-Esnard","latitude":49.41319,"longitude":1.14521}}(window,'GeoPostal','FR');

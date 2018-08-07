@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["197733"]={"code":"197733","region":"Sankt-Peterburg","city":"Komarovo","latitude":60.18408,"longitude":29.81752}}(window,'GeoPostal','RU');

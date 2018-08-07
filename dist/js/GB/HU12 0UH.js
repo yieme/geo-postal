@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["HU12 0UH"]={"code":"HU12 0UH","region":"England","city":"Kilnsea","latitude":53.62041,"longitude":0.13922}}(window,'GeoPostal','GB');

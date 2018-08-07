@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18710"]={"code":"18710","region":"Andalucia","city":"Polopos","latitude":36.79466,"longitude":-3.29816}}(window,'GeoPostal','ES');

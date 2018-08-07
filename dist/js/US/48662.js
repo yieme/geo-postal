@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48662"]={"code":"48662","region":"MI","city":"Wheeler","latitude":43.3962,"longitude":-84.4243}}(window,'GeoPostal','US');

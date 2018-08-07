@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["289 16"]={"code":"289 16","region":"Stredocesky kraj","city":"Prerov nad Labem","latitude":50.16027,"longitude":14.82502}}(window,'GeoPostal','CZ');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["01945"]={"code":"01945","region":"Massachusetts","city":"Marblehead","latitude":42.498177,"longitude":-70.864676}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["38002"]={"code":"38002","region":"Tennessee","city":"Arlington","latitude":35.29206,"longitude":-89.7417}}(window,'GeoPostal','US');

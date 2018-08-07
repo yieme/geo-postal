@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["80732"]={"code":"80732","region":"CO","city":"Hereford","latitude":40.9751,"longitude":-104.3053}}(window,'GeoPostal','US');

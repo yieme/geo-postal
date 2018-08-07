@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["30350"]={"code":"30350","region":"Occitanie","city":"Ledignan","latitude":43.9869,"longitude":4.10644}}(window,'GeoPostal','FR');

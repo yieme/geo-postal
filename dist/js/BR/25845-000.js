@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["25845-000"]={"code":"25845-000","region":"Rio de Janeiro","city":"Areal","latitude":-22.23056,"longitude":-43.10556}}(window,'GeoPostal','BR');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67335"]={"code":"67335","region":"Kansas","city":"Cherryvale","latitude":37.27034,"longitude":-95.55248}}(window,'GeoPostal','US');

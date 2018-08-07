@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23274"]={"code":"23274","region":"Srednjebanatski okrug","city":"Novo Milosevo","latitude":45.72167,"longitude":20.30306}}(window,'GeoPostal','RS');

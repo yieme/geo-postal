@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41404"]={"code":"41404","region":"Sumska oblast","city":"Hlukhiv","latitude":51.67822,"longitude":33.9162}}(window,'GeoPostal','UA');

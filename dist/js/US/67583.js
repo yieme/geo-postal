@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["67583"]={"code":"67583","region":"Kansas","city":"Turon","latitude":37.805187,"longitude":-98.426322}}(window,'GeoPostal','US');

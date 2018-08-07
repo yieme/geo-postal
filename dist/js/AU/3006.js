@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["3006"]={"code":"3006","region":"Victoria","city":"Southbank","latitude":-37.8228,"longitude":144.96434}}(window,'GeoPostal','AU');

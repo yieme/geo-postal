@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["68309"]={"code":"68309","region":"Grand-Est","city":"Saint-Louis","latitude":47.58836,"longitude":7.56247}}(window,'GeoPostal','FR');

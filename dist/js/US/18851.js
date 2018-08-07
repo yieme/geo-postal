@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["18851"]={"code":"18851","region":"Pennsylvania","city":"Warren Center","latitude":41.94737,"longitude":-76.197803}}(window,'GeoPostal','US');

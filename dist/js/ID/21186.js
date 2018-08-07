@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["21186"]={"code":"21186","region":"Sumatera Utara","city":"Bandar","latitude":2.05,"longitude":99.75}}(window,'GeoPostal','ID');

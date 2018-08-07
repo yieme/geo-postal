@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77148"]={"code":"77148","region":"Ile-de-France","city":"Salins","latitude":48.42156,"longitude":3.0213}}(window,'GeoPostal','FR');

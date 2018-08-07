@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["OX17 1SA"]={"code":"OX17 1SA","region":"England","city":"Wardington","latitude":52.11394,"longitude":-1.28512}}(window,'GeoPostal','GB');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["SA34 0TR"]={"code":"SA34 0TR","region":"Wales","city":"Cefn-y-pant","latitude":51.89667,"longitude":-4.6325}}(window,'GeoPostal','GB');

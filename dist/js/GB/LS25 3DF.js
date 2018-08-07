@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["LS25 3DF"]={"code":"LS25 3DF","region":"England","city":"Aberford","latitude":53.82604,"longitude":-1.34231}}(window,'GeoPostal','GB');

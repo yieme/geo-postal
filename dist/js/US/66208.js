@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["66208"]={"code":"66208","region":"Kansas","city":"Prairie Village","latitude":39.00288,"longitude":-94.6329}}(window,'GeoPostal','US');

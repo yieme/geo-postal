@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["60010"]={"code":"60010","region":"Marche","city":"Barbara","latitude":43.58036,"longitude":13.02736}}(window,'GeoPostal','IT');

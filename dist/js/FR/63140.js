@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63140"]={"code":"63140","region":"Auvergne-Rhone-Alpes","city":"Chatel-Guyon","latitude":45.91667,"longitude":3.06667}}(window,'GeoPostal','FR');

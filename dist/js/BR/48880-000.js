@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["48880-000"]={"code":"48880-000","region":"Bahia","city":"Santaluz","latitude":-11.25583,"longitude":-39.37472}}(window,'GeoPostal','BR');

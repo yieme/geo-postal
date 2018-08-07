@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["54757"]={"code":"54757","region":"Wisconsin","city":"New Auburn","latitude":45.24504,"longitude":-91.47024}}(window,'GeoPostal','US');

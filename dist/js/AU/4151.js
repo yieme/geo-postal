@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["4151"]={"code":"4151","region":"Queensland","city":"Coorparoo","latitude":-27.49325,"longitude":153.05826}}(window,'GeoPostal','AU');

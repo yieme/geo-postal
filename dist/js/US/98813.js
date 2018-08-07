@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["98813"]={"code":"98813","region":"Washington","city":"Bridgeport","latitude":48.0082,"longitude":-119.67116}}(window,'GeoPostal','US');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["77983"]={"code":"77983","region":"TX","city":"Seadrift","latitude":28.4101,"longitude":-96.7023}}(window,'GeoPostal','US');

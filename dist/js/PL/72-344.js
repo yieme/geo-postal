@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["72-344"]={"code":"72-344","region":"Zachodniopomorskie","city":"Rewal","latitude":54.0812,"longitude":15.01471}}(window,'GeoPostal','PL');

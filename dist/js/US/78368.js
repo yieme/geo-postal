@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78368"]={"code":"78368","region":"TX","city":"Mathis","latitude":28.0802,"longitude":-97.8097}}(window,'GeoPostal','US');

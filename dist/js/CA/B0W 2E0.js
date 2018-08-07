@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["B0W 2E0"]={"code":"B0W 2E0","region":"Nova Scotia","city":"Lower Woods Harbour","latitude":43.51686,"longitude":-65.73214}}(window,'GeoPostal','CA');

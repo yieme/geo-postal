@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["PA76 6SP"]={"code":"PA76 6SP","region":"Scotland","city":"Isle of Iona","latitude":56.33139,"longitude":-6.41533}}(window,'GeoPostal','GB');

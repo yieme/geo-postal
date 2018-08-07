@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["36752"]={"code":"36752","region":"Alabama","city":"Lowndesboro","latitude":32.31012,"longitude":-86.6523}}(window,'GeoPostal','US');

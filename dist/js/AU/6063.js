@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["6063"]={"code":"6063","region":"Western Australia","city":"Beechboro","latitude":-31.86515,"longitude":115.93661}}(window,'GeoPostal','AU');

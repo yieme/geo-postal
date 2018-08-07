@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["95437"]={"code":"95437","region":"California","city":"Fort Bragg","latitude":39.44572,"longitude":-123.80529}}(window,'GeoPostal','US');

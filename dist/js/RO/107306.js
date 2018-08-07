@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["107306"]={"code":"107306","region":"Arges","city":"Bughea de Jos","latitude":45.26667,"longitude":25}}(window,'GeoPostal','RO');

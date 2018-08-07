@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["71724"]={"code":"71724","region":"AR","city":"Calion","latitude":33.3261,"longitude":-92.5464}}(window,'GeoPostal','US');

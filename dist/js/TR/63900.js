@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["63900"]={"code":"63900","region":"Giresun","city":"Canakci","latitude":40.91179,"longitude":38.99898}}(window,'GeoPostal','TR');

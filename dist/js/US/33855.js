@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["33855"]={"code":"33855","region":"FL","city":"Indian Lake Estates","latitude":27.798,"longitude":-81.3572}}(window,'GeoPostal','US');

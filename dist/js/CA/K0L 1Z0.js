@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["K0L 1Z0"]={"code":"K0L 1Z0","region":"Ontario","city":"Havelock","latitude":44.43342,"longitude":-77.88281}}(window,'GeoPostal','CA');

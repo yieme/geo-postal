@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["89358"]={"code":"89358","region":"Bayern","city":"Goldbach","latitude":48.39046,"longitude":10.37624}}(window,'GeoPostal','DE');

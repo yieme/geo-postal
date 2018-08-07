@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["WA4 4RR"]={"code":"WA4 4RR","region":"England","city":"Warrington","latitude":52.18446,"longitude":-0.68759}}(window,'GeoPostal','GB');

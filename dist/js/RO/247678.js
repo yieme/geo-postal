@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["247678"]={"code":"247678","region":"Braila","city":"Sutesti","latitude":45.21667,"longitude":27.43333}}(window,'GeoPostal','RO');

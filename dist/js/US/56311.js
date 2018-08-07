@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["56311"]={"code":"56311","region":"MN","city":"Barrett","latitude":45.8996,"longitude":-95.8754}}(window,'GeoPostal','US');

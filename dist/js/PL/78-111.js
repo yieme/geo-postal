@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["78-111"]={"code":"78-111","region":"Zachodniopomorskie","city":"Ustronie Morskie","latitude":54.21517,"longitude":15.75568}}(window,'GeoPostal','PL');

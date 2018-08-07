@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["23962"]={"code":"23962","region":"VA","city":"Randolph","latitude":36.9515,"longitude":-78.7054}}(window,'GeoPostal','US');

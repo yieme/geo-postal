@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["41499"]={"code":"41499","region":"Guerrero","city":"Acapulco de Juarez","latitude":16.86336,"longitude":-99.8901}}(window,'GeoPostal','MX');

@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["17745"]={"code":"17745","region":"Pennsylvania","city":"Lock Haven","latitude":41.135085,"longitude":-77.448231}}(window,'GeoPostal','US');

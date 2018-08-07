@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["58429"]={"code":"58429","region":"North Dakota","city":"Dazey","latitude":47.202,"longitude":-98.13888}}(window,'GeoPostal','US');

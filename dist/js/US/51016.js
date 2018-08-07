@@ -1,0 +1,1 @@
+!function(w,g,c){w[g]=w[g]||{};w[g][c]=w[g][c]||{};w[g][c]["51016"]={"code":"51016","region":"Iowa","city":"Correctionville","latitude":42.47667,"longitude":-95.78472}}(window,'GeoPostal','US');
